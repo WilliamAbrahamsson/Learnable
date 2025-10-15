@@ -10,6 +10,7 @@ interface Message {
   sender: 'user' | 'assistant';
   timestamp: Date;
   isGenerating?: boolean;
+  showProposal?: boolean;
 }
 
 export const Chat = () => {
@@ -100,7 +101,7 @@ export const Chat = () => {
         if (handledDone) {
           setMessages((prev) =>
             prev.map((msg) =>
-              msg.id === assistantId ? { ...msg, isGenerating: false } : msg
+              msg.id === assistantId ? { ...msg, isGenerating: false, showProposal: true } : msg
             )
           );
         }
@@ -128,7 +129,7 @@ export const Chat = () => {
       setMessages((prev) =>
         prev.map((msg) =>
           msg.id === assistantId
-            ? { ...msg, isGenerating: false }
+            ? { ...msg, isGenerating: false, showProposal: true }
             : msg
         )
       );
@@ -170,6 +171,55 @@ export const Chat = () => {
 
       return <span key={index}>{segment}</span>;
     });
+  };
+
+  const defaultProposal = {
+    title: 'TCP/IP Protocol',
+    description:
+      'Core communication protocols including TCP, UDP, and IP. Covers addressing, routing, ports & sockets, congestion control, fragmentation/MTU, and practical usage patterns across layers.',
+  };
+
+  const handleAcceptProposal = async (messageId: string) => {
+    const msg = messages.find((m) => m.id === messageId);
+    if (!msg) return;
+    const { title, description } = defaultProposal;
+    const token = localStorage.getItem('learnableToken');
+    if (!token) {
+      toast({ variant: 'destructive', description: 'Please sign in to add notes.' });
+      return;
+    }
+    try {
+      const res = await fetch(`${apiBaseUrl}/api/graph/notes`, {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+          Authorization: `Bearer ${token}`,
+        },
+        body: JSON.stringify({ name: title, description }),
+      });
+      if (!res.ok) {
+        throw new Error(await res.text());
+      }
+      setMessages((prev) => prev.map((m) => (m.id === messageId ? { ...m, showProposal: false } : m)));
+      toast({ description: 'Added to graph.' });
+    } catch (err) {
+      toast({ variant: 'destructive', description: 'Failed to add note.' });
+    }
+  };
+
+  const handleDenyProposal = (messageId: string) => {
+    setMessages((prev) => prev.map((m) => (m.id === messageId ? { ...m, showProposal: false } : m)));
+  };
+
+  const handleTextareaKeyDown = (e: React.KeyboardEvent<HTMLTextAreaElement>) => {
+    if (e.key === 'Enter' && !e.shiftKey) {
+      e.preventDefault();
+      handleSend();
+      return;
+    }
+    if (e.key === ' ' || e.code === 'Space') {
+      e.stopPropagation();
+    }
   };
 
   const handleSend = () => {
@@ -350,6 +400,32 @@ export const Chat = () => {
                         </Button>
                       </div>
                     )}
+
+                    {message.sender === 'assistant' && !message.isGenerating && message.text && message.showProposal && (
+                      <div className="ml-[15px] mt-3">
+                        <div className="w-full rounded-lg border border-[#3F3F3D] bg-[#2F2F2C] p-4">
+                          <div className="mb-2">
+                            <div className="text-sm font-semibold text-[#E5E3DF]">{defaultProposal.title}</div>
+                            <div className="text-xs text-[#B5B2AC] mt-1">{defaultProposal.description}</div>
+                          </div>
+                          <div className="flex items-center gap-2 mt-2">
+                            <Button
+                              onClick={() => handleAcceptProposal(message.id)}
+                              className="h-8 px-3 text-white bg-emerald-600 hover:bg-emerald-600/90"
+                            >
+                              Add to graph
+                            </Button>
+                            <Button
+                              onClick={() => handleDenyProposal(message.id)}
+                              className="h-8 px-3 text-white bg-rose-600 hover:bg-rose-600/90"
+                              variant="ghost"
+                            >
+                              Dismiss
+                            </Button>
+                          </div>
+                        </div>
+                      </div>
+                    )}
                   </div>
                 </div>
               ))}
@@ -369,7 +445,7 @@ export const Chat = () => {
               ref={textareaRef}
               value={input}
               onChange={(e) => setInput(e.target.value)}
-              onKeyDown={handleKeyPress}
+              onKeyDown={handleTextareaKeyDown}
               placeholder="Ask Learnable ..."
               className="flex-1 bg-transparent border-0 text-[#C5C1BA] placeholder:text-gray-500 focus-visible:ring-0 focus-visible:ring-offset-0 resize-none min-h-[56px] max-h-[200px] py-4 px-5 text-[15px] leading-relaxed overflow-hidden"
               rows={1}

@@ -5,7 +5,10 @@ import { Topbar } from '@/components/Topbar';
 import { Columns2 } from 'lucide-react';
 
 const Index = () => {
-  const [splitPosition, setSplitPosition] = useState(50); // percentage
+  // splitPosition represents the canvas width percentage.
+  // We want chat to default to 30% width, so canvas starts at 70%.
+  const MIN_CHAT_PERCENT = 30;
+  const [splitPosition, setSplitPosition] = useState(100 - MIN_CHAT_PERCENT);
   const [isDragging, setIsDragging] = useState(false);
   const containerRef = useRef<HTMLDivElement>(null);
   const currentYear = new Date().getFullYear();
@@ -19,19 +22,18 @@ const Index = () => {
       if (!isDragging || !containerRef.current) return;
       
       const containerRect = containerRef.current.getBoundingClientRect();
-      let newPosition = ((e.clientX - containerRect.left) / containerRect.width) * 100;
-      
-      // Auto-snap chat if it goes below 40%
-      if (newPosition > 60) {
-        newPosition = 100;
+      const pointerPercent = ((e.clientX - containerRect.left) / containerRect.width) * 100;
+      // Convert to chat width percent
+      const chatPercent = 100 - pointerPercent;
+
+      // If user tries to shrink chat below MIN_CHAT_PERCENT, snap closed (0%).
+      if (chatPercent < MIN_CHAT_PERCENT) {
+        setSplitPosition(100); // canvas 100%, chat 0%
+      } else {
+        // Otherwise, let it be exactly where the pointer is (smooth), but within bounds.
+        const newPosition = Math.max(0, Math.min(100, pointerPercent));
+        setSplitPosition(newPosition);
       }
-      // Auto-snap canvas if it goes below 40%
-      if (newPosition < 40) {
-        newPosition = 0;
-      }
-      
-      // Clamp between 0 and 100
-      setSplitPosition(Math.max(0, Math.min(100, newPosition)));
     };
 
     const handleMouseUp = () => {
@@ -57,7 +59,7 @@ const Index = () => {
 
   const toggleChat = () => {
     if (isChatCollapsed) {
-      setSplitPosition(60); // Restore to 60% canvas / 40% chat
+      setSplitPosition(100 - MIN_CHAT_PERCENT); // Open to default chat 30%
     } else {
       setSplitPosition(100); // Collapse chat
     }
@@ -118,7 +120,9 @@ const Index = () => {
 
         {/* Chat Overlay (right side) */}
         <div
-          className="absolute inset-y-0 right-0 bg-[#1C1C1C] overflow-hidden z-40 transition-[width]"
+          className={`absolute inset-y-0 right-0 bg-[#1C1C1C] overflow-hidden z-40 ${
+            isDragging ? '' : 'transition-[width] duration-200 ease-out will-change-[width]'
+          }`}
           style={{ width: `${100 - splitPosition}%` }}
         >
           <div className={`${splitPosition >= 95 ? 'invisible' : 'visible'} h-full`}>
