@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1",
+    "title": "Computer Networks",
+    "description": "Study of interconnected computing devices that exchange data and share resources using communication protocols. Includes network architecture, protocols, security, and performance optimization.",
+    "color": "#FF6B6B",
+    "connections": ["2", "3"]
+  },
+  {
+    "id": "2",
+    "title": "TCP/IP Protocol Suite",
+    "description": "Core communication protocols of the internet. Includes Transport Layer (TCP/UDP) and Internet Layer (IP) protocols for reliable data transmission and routing.",
+    "color": "#4ECDC4",
+    "connections": ["1"]
+  },
+  {
+    "id": "3",
+    "title": "Network Security",
+    "description": "Protection of network infrastructure and data from unauthorized access, attacks, and threats. Includes firewalls, encryption, VPNs, intrusion detection systems, and security protocols.",
+    "color": "#45B7D1",
+    "connections": ["1"]
+  },
+  {
+    "id": "4",
+    "title": "Network Diagram",
+    "description": "",
+    "color": "#1C1C1C",
+    "type": "image",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Placeholder_view_vector.svg/640px-Placeholder_view_vector.svg.png",
+    "connections": []
+  }
+]
