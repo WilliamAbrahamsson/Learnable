@@ -1,7 +1,7 @@
 import { useState, useRef, useEffect } from 'react';
 import { Button } from '@/components/ui/button';
 import { Textarea } from '@/components/ui/textarea';
-import { Send, Copy, ThumbsUp, ThumbsDown, RefreshCw, Mic, Plus } from 'lucide-react';
+import { Send, Copy, ThumbsUp, ThumbsDown, RefreshCw, Mic, Plus, Check, X } from 'lucide-react';
 import { useToast } from '@/hooks/use-toast';
 
 interface Message {
@@ -11,6 +11,7 @@ interface Message {
   timestamp: Date;
   isGenerating?: boolean;
   showProposal?: boolean;
+  authPrompt?: boolean;
 }
 
 export const Chat = () => {
@@ -19,6 +20,7 @@ export const Chat = () => {
   const messagesEndRef = useRef<HTMLDivElement>(null);
   const textareaRef = useRef<HTMLTextAreaElement>(null);
   const { toast } = useToast();
+  const [isAuthed, setIsAuthed] = useState<boolean>(!!localStorage.getItem('learnableToken'));
 
   const scrollToBottom = () => {
     messagesEndRef.current?.scrollIntoView({ behavior: 'smooth' });
@@ -37,6 +39,54 @@ export const Chat = () => {
   }, [input]);
 
   const apiBaseUrl = import.meta.env.VITE_API_BASE_URL ?? 'http://localhost:5000';
+
+  // Track auth changes from Topbar and reset chat accordingly
+  useEffect(() => {
+    const onAuthChanged = () => {
+      const authed = !!localStorage.getItem('learnableToken');
+      setIsAuthed(authed);
+      if (authed) {
+        // Clear chat and show normal welcome message
+        const welcome: Message = {
+          id: `welcome-${Date.now()}`,
+          text: "Welcome to Learnable — your new AI-powered second brain.",
+          sender: 'assistant',
+          timestamp: new Date(),
+        };
+        setMessages([welcome]);
+      } else {
+        // Clear chat and show single message with auth card
+        const signedOut: Message = {
+          id: `welcome-${Date.now()}`,
+          text:
+            "Hey, I'm Learnable. I can help you explore ideas and turn them into notes. Sign in or explore a demo to start building your Learning Graph.",
+          sender: 'assistant',
+          timestamp: new Date(),
+          authPrompt: true,
+        };
+        setMessages([signedOut]);
+      }
+    };
+    window.addEventListener('learnable-auth-changed', onAuthChanged);
+    return () => window.removeEventListener('learnable-auth-changed', onAuthChanged);
+  }, []);
+
+  // Seed an initial assistant message depending on auth state on first load
+  useEffect(() => {
+    if (messages.length > 0) return;
+    const authedWelcome = "Welcome to Learnable — your new AI-powered second brain.";
+    const signedOutWelcome =
+      "Hey, I'm Learnable. I can help you explore ideas and turn them into notes. Sign in or explore a demo to start building your Learning Graph.";
+    const initial: Message = {
+      id: `welcome-${Date.now()}`,
+      text: isAuthed ? authedWelcome : signedOutWelcome,
+      sender: 'assistant',
+      timestamp: new Date(),
+      authPrompt: !isAuthed, // if signed out, include the auth box within the same message
+    };
+    setMessages([initial]);
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [isAuthed]);
 
   const fetchAssistantResponse = async (prompt: string, assistantId: string) => {
     try {
@@ -233,6 +283,27 @@ export const Chat = () => {
       timestamp: new Date(),
     };
 
+    // If user not signed in, show a single auth prompt (avoid duplicates)
+    const token = localStorage.getItem('learnableToken');
+    if (!token) {
+      setMessages((prev) => {
+        const alreadyHasAuth = prev.some((m) => m.authPrompt);
+        if (alreadyHasAuth) {
+          return [...prev, userMessage];
+        }
+        const authMsg: Message = {
+          id: `${Date.now().toString()}-auth`,
+          text: '',
+          sender: 'assistant',
+          timestamp: new Date(),
+          authPrompt: true,
+        };
+        return [...prev, userMessage, authMsg];
+      });
+      setInput('');
+      return;
+    }
+
     const assistantId = `${Date.now().toString()}-assistant`;
     const assistantPlaceholder: Message = {
       id: assistantId,
@@ -308,6 +379,7 @@ export const Chat = () => {
     void fetchAssistantResponse(userMessage.text, refreshedAssistantId);
   };
 
+  const firstAuthIndex = messages.findIndex((m) => m.authPrompt);
   return (
     <div className="flex h-full w-full flex-col bg-[#1C1C1C]">
       {/* Messages Area */}
@@ -327,7 +399,7 @@ export const Chat = () => {
             </div>
           ) : (
             <div className="space-y-6">
-              {messages.map((message) => (
+              {messages.map((message, idx) => (
                 <div
                   key={message.id}
                   className="flex flex-col"
@@ -364,6 +436,57 @@ export const Chat = () => {
                       )}
                     </div>
                     
+                    {message.sender === 'assistant' && message.authPrompt && idx === firstAuthIndex && (
+                      <div className="ml-[15px] mt-3">
+                        <div className="w-full rounded-lg border border-[#3F3F3D] bg-[#2F2F2C] p-4">
+                          <div className="text-sm font-semibold text-[#E5E3DF] mb-1">Sign in to continue</div>
+                          <div className="text-xs text-[#B5B2AC]">Create a quick demo or sign in to add notes to your Learning Graph.</div>
+                          <div className="flex items-center gap-2 mt-3">
+                            <Button
+                              variant="ghost"
+                              className="h-7 px-2 text-[#C5C1BA] hover:text-white hover:bg-[#272725] rounded-md"
+                              onClick={() => window.dispatchEvent(new Event('learnable-open-signup'))}
+                            >
+                              Explore Demo
+                            </Button>
+                            <Button
+                              className="h-7 px-3 bg-[#1E52F1] text-white hover:bg-[#1E52F1]/90 rounded-md"
+                              onClick={() => window.dispatchEvent(new Event('learnable-open-signin'))}
+                            >
+                              Sign In
+                            </Button>
+                          </div>
+                        </div>
+                      </div>
+                    )}
+
+                    {message.sender === 'assistant' && !message.isGenerating && message.text && message.showProposal && (
+                      <div className="ml-[15px] mt-3">
+                        <div className="w-full rounded-lg border border-[#3F3F3D] bg-[#2F2F2C] p-4">
+                          <div className="mb-2">
+                            <div className="text-sm font-semibold text-[#E5E3DF]">{defaultProposal.title}</div>
+                            <div className="text-xs text-[#B5B2AC] mt-1">{defaultProposal.description}</div>
+                          </div>
+                          <div className="flex items-center gap-2 mt-3">
+                            <Button
+                              onClick={() => handleAcceptProposal(message.id)}
+                              variant="ghost"
+                              className="h-7 px-2 text-emerald-400 hover:text-white hover:bg-[#272725] rounded-md"
+                            >
+                              <Check className="h-4 w-4 mr-1.5" /> Add to Learning Graph
+                            </Button>
+                            <Button
+                              onClick={() => handleDenyProposal(message.id)}
+                              variant="ghost"
+                              className="h-7 px-2 text-rose-400 hover:text-white hover:bg-[#272725] rounded-md"
+                            >
+                              <X className="h-4 w-4 mr-1.5" /> Dismiss
+                            </Button>
+                          </div>
+                        </div>
+                      </div>
+                    )}
+
                     {message.sender === 'assistant' && !message.isGenerating && message.text && (
                       <div className="flex items-center gap-1 mt-2 ml-[15px]">
                         <Button
@@ -401,31 +524,7 @@ export const Chat = () => {
                       </div>
                     )}
 
-                    {message.sender === 'assistant' && !message.isGenerating && message.text && message.showProposal && (
-                      <div className="ml-[15px] mt-3">
-                        <div className="w-full rounded-lg border border-[#3F3F3D] bg-[#2F2F2C] p-4">
-                          <div className="mb-2">
-                            <div className="text-sm font-semibold text-[#E5E3DF]">{defaultProposal.title}</div>
-                            <div className="text-xs text-[#B5B2AC] mt-1">{defaultProposal.description}</div>
-                          </div>
-                          <div className="flex items-center gap-2 mt-2">
-                            <Button
-                              onClick={() => handleAcceptProposal(message.id)}
-                              className="h-8 px-3 text-white bg-emerald-600 hover:bg-emerald-600/90"
-                            >
-                              Add to graph
-                            </Button>
-                            <Button
-                              onClick={() => handleDenyProposal(message.id)}
-                              className="h-8 px-3 text-white bg-rose-600 hover:bg-rose-600/90"
-                              variant="ghost"
-                            >
-                              Dismiss
-                            </Button>
-                          </div>
-                        </div>
-                      </div>
-                    )}
+
                   </div>
                 </div>
               ))}

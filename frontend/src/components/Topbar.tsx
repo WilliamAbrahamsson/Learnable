@@ -1,4 +1,5 @@
 import { useState, FormEvent, useEffect } from 'react';
+import { useNavigate } from 'react-router-dom';
 import { Button } from '@/components/ui/button';
 import { Input } from '@/components/ui/input';
 import { Label } from '@/components/ui/label';
@@ -31,6 +32,7 @@ const authInputClasses =
   'bg-[#1C1C1C] border-[#272725] text-[#C5C1BA] placeholder:text-[#76746F]';
 
 export const Topbar = () => {
+  const navigate = useNavigate();
   const [isSignInOpen, setSignInOpen] = useState(false);
   const [isSignUpOpen, setSignUpOpen] = useState(false);
   const [isSigningIn, setIsSigningIn] = useState(false);
@@ -65,6 +67,14 @@ export const Topbar = () => {
 
   useEffect(() => {
     refreshUserFromStorage();
+    const openSignup = () => setSignUpOpen(true);
+    const openSignin = () => setSignInOpen(true);
+    window.addEventListener('learnable-open-signup', openSignup as any);
+    window.addEventListener('learnable-open-signin', openSignin as any);
+    return () => {
+      window.removeEventListener('learnable-open-signup', openSignup as any);
+      window.removeEventListener('learnable-open-signin', openSignin as any);
+    };
   }, []);
 
   const handleSignOut = () => {
@@ -168,7 +178,16 @@ export const Topbar = () => {
     <>
       <header className="h-12 bg-[#1C1C1C] px-6 flex items-center justify-between border-b border-[#272725]">
         {/* Logo - L Badge + Learnable Text */}
-        <div className="flex items-center gap-2">
+        <div
+          className="flex items-center gap-2 cursor-pointer select-none"
+          role="button"
+          aria-label="Go to home"
+          tabIndex={0}
+          onClick={() => navigate('/')}
+          onKeyDown={(e) => {
+            if (e.key === 'Enter' || e.key === ' ') navigate('/');
+          }}
+        >
           <span
             className="inline-block bg-[#1E52F1] text-white font-medium px-3 py-1.5 rounded"
             style={{ borderRadius: '4px', fontSize: '13.5px' }}
@@ -201,7 +220,7 @@ export const Topbar = () => {
               >
                 <DropdownMenuItem
                   className="focus:bg-[#272725] focus:text-white"
-                  onSelect={() => toast({ description: 'Settings coming soon.' })}
+                  onSelect={() => navigate('/settings')}
                 >
                   Settings
                 </DropdownMenuItem>
@@ -222,7 +241,7 @@ export const Topbar = () => {
                 style={{ borderRadius: '4px', fontSize: '13.5px' }}
                 onClick={() => setSignUpOpen(true)}
               >
-                Try Demo
+                Explore Demo
               </Button>
               <Button
                 className="bg-[#1E52F1] text-white hover:bg-[#1E52F1]/90 transition-colors px-3 py-1.5 h-auto"

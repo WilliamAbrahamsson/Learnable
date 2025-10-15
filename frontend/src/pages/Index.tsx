@@ -57,6 +57,20 @@ const Index = () => {
   const isCanvasCollapsed = splitPosition === 0;
   const isFullscreen = isCanvasFullscreen || isChatFullscreen;
 
+  // Auth state: if not signed in, show only chat
+  const [isAuthed, setIsAuthed] = useState<boolean>(!!localStorage.getItem('learnableToken'));
+  useEffect(() => {
+    const onAuthChanged = () => {
+      const authed = !!localStorage.getItem('learnableToken');
+      setIsAuthed(authed);
+      if (authed) {
+        setSplitPosition(70); // canvas 70%, chat 30%
+      }
+    };
+    window.addEventListener('learnable-auth-changed', onAuthChanged);
+    return () => window.removeEventListener('learnable-auth-changed', onAuthChanged);
+  }, []);
+
   const toggleChat = () => {
     if (isChatCollapsed) {
       setSplitPosition(100 - MIN_CHAT_PERCENT); // Open to default chat 30%
@@ -80,13 +94,15 @@ const Index = () => {
       
       {/* Main Content Area */}
       <div ref={containerRef} className="relative flex-1 overflow-hidden">
-        {/* Canvas spans full area; chat overlays on top */}
-        <div className="absolute inset-0 bg-[#272725]">
-          <CardCanvas rightOffsetPercent={100 - splitPosition} />
-        </div>
+        {/* If not authed, only render chat full width */}
+        {isAuthed && (
+          <div className="absolute inset-0 bg-[#272725]">
+            <CardCanvas rightOffsetPercent={100 - splitPosition} />
+          </div>
+        )}
 
         {/* Divider (draggable) */}
-        {!isFullscreen && !isChatCollapsed && !isCanvasCollapsed && (
+        {isAuthed && !isFullscreen && !isChatCollapsed && !isCanvasCollapsed && (
           <div
             className="absolute top-0 bottom-0 w-0 cursor-col-resize z-50"
             style={{ left: `${splitPosition}%` }}
@@ -123,7 +139,7 @@ const Index = () => {
           className={`absolute inset-y-0 right-0 bg-[#1C1C1C] overflow-hidden z-40 ${
             isDragging ? '' : 'transition-[width] duration-200 ease-out will-change-[width]'
           }`}
-          style={{ width: `${100 - splitPosition}%` }}
+          style={{ width: isAuthed ? `${100 - splitPosition}%` : '100%' }}
         >
           <div className={`${splitPosition >= 95 ? 'invisible' : 'visible'} h-full`}>
             <Chat />
