@@ -283,17 +283,19 @@ export const Chat = () => {
       timestamp: new Date(),
     };
 
-    // If user not signed in, show a single auth prompt (avoid duplicates)
+    // If user not signed in, reply with an auth prompt (single instance) + message text
     const token = localStorage.getItem('learnableToken');
     if (!token) {
+      const replyText = 'You have to sign in to unlock Learnable';
       setMessages((prev) => {
-        const alreadyHasAuth = prev.some((m) => m.authPrompt);
-        if (alreadyHasAuth) {
-          return [...prev, userMessage];
+        const authIndex = prev.findIndex((m) => m.authPrompt);
+        if (authIndex >= 0) {
+          const updated = prev.map((m, i) => (i === authIndex ? { ...m, text: replyText } : m));
+          return [...updated, userMessage];
         }
         const authMsg: Message = {
           id: `${Date.now().toString()}-auth`,
-          text: '',
+          text: replyText,
           sender: 'assistant',
           timestamp: new Date(),
           authPrompt: true,
