@@ -46,6 +46,7 @@ export const useCardCanvas = () => {
   const [isLoaded, setIsLoaded] = useState(false);
   // Editor state for selected card
   const [editOpen, setEditOpen] = useState(false);
+  const [editMode, setEditMode] = useState<'edit' | 'create'>('edit');
   const [editId, setEditId] = useState<string | null>(null);
   const [editTitle, setEditTitle] = useState<string>('');
   const [editDescription, setEditDescription] = useState<string>('');
@@ -286,6 +287,7 @@ export const useCardCanvas = () => {
       setEditDescription(texts?.desc?.text ?? '');
       setEditWidth(curW);
       setEditHeight(curH);
+      setEditMode('edit');
       setEditOpen(true);
     };
     fabricCanvas.on('mouse:down', handleMouseDown);
@@ -428,15 +430,15 @@ export const useCardCanvas = () => {
 
   // ✅ Fixed Add Card with POST request
   const addCard = useCallback(
-    async (type: 'text' | 'image') => {
+    async (type: 'text' | 'image', openEditorOnCreate: boolean = false) => {
       if (!fabricCanvas) return;
 
       // Temporary ID (used until backend returns real one)
       const tempId = `card-${Date.now()}`;
       const newCard: CardData = {
         id: tempId,
-        title: DEFAULT_TEXT_TITLE,
-        description: DEFAULT_TEXT_DESCRIPTION,
+        title: openEditorOnCreate ? '' : DEFAULT_TEXT_TITLE,
+        description: openEditorOnCreate ? '' : DEFAULT_TEXT_DESCRIPTION,
         color: '#1C1C1C',
         type,
         imageUrl: type === 'image' ? DEFAULT_IMAGE_URL : undefined,
@@ -525,7 +527,32 @@ export const useCardCanvas = () => {
           cardHandlesRef.current.set(realId, handles);
         }
 
+        // Also migrate text refs from tempId -> realId so edits update immediately
+        const textRefs = cardTextRefs.current.get(tempId);
+        if (textRefs) {
+          cardTextRefs.current.delete(tempId);
+          cardTextRefs.current.set(realId, textRefs);
+        }
+
         console.info(`✅ Synced new card ${tempId} → ${realId}`);
+
+        if (openEditorOnCreate) {
+          try {
+            const texts = cardTextRefs.current.get(realId);
+            const cg = cardGroupsRef.current.get(realId);
+            const objs = (cg as any)?._objects as any[] | undefined;
+            const background = objs?.find?.((o) => (o as any).isBackground) || null;
+            const curW = Math.round(((background?.width as number) ?? (cg as any)?.cardWidth ?? 280));
+            const curH = Math.round(((background?.height as number) ?? (cg as any)?.cardHeight ?? 200));
+            setEditId(realId);
+            setEditTitle(texts?.title?.text ?? '');
+            setEditDescription(texts?.desc?.text ?? '');
+            setEditWidth(curW);
+            setEditHeight(curH);
+            setEditMode('create');
+            setEditOpen(true);
+          } catch {}
+        }
       } catch (err) {
         console.error('Create note error:', err);
       }
@@ -635,11 +662,11 @@ export const useCardCanvas = () => {
       toggleAddMenu: () => setIsAddMenuOpen((p) => !p),
       handleAddTextCard: () => {
         setIsAddMenuOpen(false);
-        void addCard('text');
+        void addCard('text', true);
       },
       handleAddImageCard: () => {
         setIsAddMenuOpen(false);
-        void addCard('image');
+        void addCard('image', true);
       },
       zoomIn: () => zoom('in'),
       zoomOut: () => zoom('out'),
@@ -658,7 +685,8 @@ export const useCardCanvas = () => {
       setEditOpen,
       saveEdits,
       deleteEditedCard,
+      editMode,
     }),
-    [isAddMenuOpen, zoom, addCard, isLoaded, isDraggingConnection, editOpen, editId, editTitle, editDescription, editWidth, editHeight, saveEdits, deleteEditedCard]
+    [isAddMenuOpen, zoom, addCard, isLoaded, isDraggingConnection, editOpen, editId, editTitle, editDescription, editWidth, editHeight, saveEdits, deleteEditedCard, editMode]
   );
 };

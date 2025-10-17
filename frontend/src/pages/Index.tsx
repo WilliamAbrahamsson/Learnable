@@ -41,13 +41,24 @@ const Index = () => {
     try { window.dispatchEvent(new Event('learnable-improve-changed')); } catch {}
   }, [improveLearnable]);
 
-  const handleMouseDown = () => {
+  const handleMouseDown = (e: React.MouseEvent) => {
+    // Prevent text selection when grabbing the divider
+    e.preventDefault();
     setIsDragging(true);
+    try {
+      document.body.style.userSelect = 'none';
+      // Safari
+      (document.body.style as any).webkitUserSelect = 'none';
+      document.body.style.cursor = 'col-resize';
+      window.getSelection()?.removeAllRanges();
+    } catch {}
   };
 
   useEffect(() => {
     const handleMouseMove = (e: MouseEvent) => {
       if (!isDragging || !containerRef.current) return;
+      // Clear accidental selections while dragging
+      try { window.getSelection()?.removeAllRanges(); } catch {}
       
       const containerRect = containerRef.current.getBoundingClientRect();
       const pointerPercent = ((e.clientX - containerRect.left) / containerRect.width) * 100;
@@ -66,6 +77,11 @@ const Index = () => {
 
     const handleMouseUp = () => {
       setIsDragging(false);
+      try {
+        document.body.style.userSelect = '';
+        (document.body.style as any).webkitUserSelect = '';
+        document.body.style.cursor = '';
+      } catch {}
     };
 
     if (isDragging) {

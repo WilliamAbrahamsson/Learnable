@@ -35,6 +35,7 @@ export const CardCanvas = ({ rightOffsetPercent = 0 }: Props) => {
     setEditOpen,
     saveEdits,
     deleteEditedCard,
+    editMode,
   } = useCardCanvas();
 
   return (
@@ -63,8 +64,8 @@ export const CardCanvas = ({ rightOffsetPercent = 0 }: Props) => {
       <Dialog open={editOpen} onOpenChange={setEditOpen}>
         <DialogContent className="max-w-md bg-[#1C1C1C] text-[#C5C1BA] border border-[#272725]">
           <DialogHeader>
-            <DialogTitle className="text-[#E5E3DF]">Edit Card</DialogTitle>
-            <DialogDescription className="text-[#76746F]">Update title, description, and size.</DialogDescription>
+            <DialogTitle className="text-[#E5E3DF]">{editMode === 'create' ? 'Create Card' : 'Edit Card'}</DialogTitle>
+            <DialogDescription className="text-[#76746F]">{editMode === 'create' ? 'Set title, description, and size.' : 'Update title, description, and size.'}</DialogDescription>
           </DialogHeader>
           <div className="space-y-3">
             <div>
@@ -99,7 +100,7 @@ export const CardCanvas = ({ rightOffsetPercent = 0 }: Props) => {
                 Cancel
               </Button>
               <Button className="h-8 px-3 bg-[#1E52F1] hover:bg-[#1E52F1]/90 text-white" onClick={() => saveEdits()}>
-                Save
+                {editMode === 'create' ? 'Create' : 'Save'}
               </Button>
             </div>
           </DialogFooter>
