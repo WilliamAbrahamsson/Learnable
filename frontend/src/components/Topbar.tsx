@@ -22,6 +22,8 @@ import {
 import { useToast } from '@/hooks/use-toast';
 import { waitForGoogleScript, initGoogleId, renderGoogleButton } from '@/lib/googleAuth';
 import { Tooltip, TooltipContent, TooltipTrigger } from '@/components/ui/tooltip';
+import { Drawer, DrawerContent, DrawerDescription, DrawerHeader, DrawerTitle, DrawerClose, DrawerTrigger } from '@/components/ui/drawer';
+import { Menu } from 'lucide-react';
 
 type StoredUser = {
   id: number;
@@ -340,7 +342,7 @@ export const Topbar = () => {
 
   return (
     <>
-      <header className="h-12 bg-[#1C1C1C] px-6 flex items-center justify-between border-b border-[#272725] relative">
+      <header className="h-12 bg-[#1C1C1C] px-3 sm:px-6 flex items-center justify-between border-b border-[#272725] relative">
         {/* Left: Logo + Nav */}
         <div className="flex items-center gap-4">
           {/* Logo - L Badge + Learnable Text */}
@@ -349,9 +351,19 @@ export const Topbar = () => {
             role="button"
             aria-label="Go to home"
             tabIndex={0}
-            onClick={() => navigate('/')}
+            onClick={() => {
+              try {
+                const token = localStorage.getItem('learnableToken');
+                navigate(token ? '/my-graphs' : '/');
+              } catch { navigate('/'); }
+            }}
             onKeyDown={(e) => {
-              if (e.key === 'Enter' || e.key === ' ') navigate('/');
+              if (e.key === 'Enter' || e.key === ' ') {
+                try {
+                  const token = localStorage.getItem('learnableToken');
+                  navigate(token ? '/my-graphs' : '/');
+                } catch { navigate('/'); }
+              }
             }}
           >
             <span
@@ -367,14 +379,14 @@ export const Topbar = () => {
           {/* My Learning Graphs only when signed in */}
           {currentUser && (
             <button
-              className="px-3 py-1.5 h-auto text-xs border border-[#272725] rounded-md text-[#C5C1BA] hover:bg-[#272725] hover:text-white transition-colors"
+              className="hidden xl:inline-flex px-3 py-1.5 h-auto text-xs border border-[#272725] rounded-md text-[#C5C1BA] hover:bg-[#272725] hover:text-white transition-colors"
               onClick={() => navigate('/my-graphs')}
             >
               My Learning Graphs
             </button>
           )}
           <button
-            className="px-3 py-1.5 h-auto text-xs border border-[#272725] rounded-md text-[#C5C1BA] hover:bg-[#272725] hover:text-white transition-colors"
+            className="hidden xl:inline-flex px-3 py-1.5 h-auto text-xs border border-[#272725] rounded-md text-[#C5C1BA] hover:bg-[#272725] hover:text-white transition-colors"
             onClick={() => navigate('/vision')}
           >
             Vision
@@ -383,7 +395,7 @@ export const Topbar = () => {
 
         {/* Center: Date • Time • Week */}
         <div
-          className="absolute left-1/2 -translate-x-1/2 text-[#C5C1BA] text-xs sm:text-sm select-none"
+          className="hidden xl:block absolute left-1/2 -translate-x-1/2 text-[#C5C1BA] text-xs sm:text-sm select-none"
           aria-live="polite"
           onMouseEnter={() => setClockHovered(true)}
           onMouseLeave={() => setClockHovered(false)}
@@ -400,8 +412,49 @@ export const Topbar = () => {
           </a>
         </div>
 
+        {/* Mobile menu (hamburger) */}
+        <div className="xl:hidden flex items-center gap-2">
+          <Drawer>
+            <DrawerTrigger asChild>
+              <button
+                className="inline-flex items-center justify-center rounded-md h-8 w-8 text-[#C5C1BA] hover:text-white hover:bg-[#272725]"
+                aria-label="Open menu"
+              >
+                <Menu className="h-5 w-5" />
+              </button>
+            </DrawerTrigger>
+            <DrawerContent className="bg-[#1C1C1C] text-[#C5C1BA] border-t border-[#272725]">
+              <DrawerHeader>
+                <DrawerTitle className="text-[#E5E3DF]">Menu</DrawerTitle>
+                <DrawerDescription className="text-[#76746F]">Quick actions</DrawerDescription>
+              </DrawerHeader>
+              <div className="px-4 pb-4 space-y-2">
+                <button className="w-full text-left px-3 py-2 rounded border border-[#272725] hover:bg-[#272725]" onClick={()=>navigate('/vision')}>Vision</button>
+                {currentUser && (
+                  <button className="w-full text-left px-3 py-2 rounded border border-[#272725] hover:bg-[#272725]" onClick={()=>navigate('/my-graphs')}>My Learning Graphs</button>
+                )}
+                {currentUser ? (
+                  <>
+                    <button className="w-full text-left px-3 py-2 rounded border border-[#272725] hover:bg-[#272725]" onClick={()=>navigate('/sub')}>Manage Subscription</button>
+                    <button className="w-full text-left px-3 py-2 rounded border border-[#272725] hover:bg-[#272725]" onClick={()=>navigate('/settings')}>Settings</button>
+                    <button className="w-full text-left px-3 py-2 rounded border border-[#272725] hover:bg-[#272725]" onClick={handleSignOut}>Sign Out</button>
+                  </>
+                ) : (
+                  <>
+                    <button className="w-full text-left px-3 py-2 rounded border border-[#272725] hover:bg-[#272725]" onClick={()=>setSignUpOpen(true)}>Explore Demo</button>
+                    <button className="w-full text-left px-3 py-2 rounded border border-[#272725] hover:bg-[#272725]" onClick={()=>setSignInOpen(true)}>Sign In</button>
+                  </>
+                )}
+              </div>
+              <DrawerClose asChild>
+                <button className="mx-4 mb-4 w-full h-9 rounded bg-[#1E52F1] text-white hover:bg-[#1E52F1]/90">Close</button>
+              </DrawerClose>
+            </DrawerContent>
+          </Drawer>
+        </div>
+
         {/* Auth Buttons */}
-        <div className="flex items-center gap-3">
+        <div className="hidden xl:flex items-center gap-3">
           {currentUser ? (
             <>
             {typeof tokensUsedToday === 'number' && (

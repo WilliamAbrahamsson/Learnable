@@ -21,9 +21,9 @@ import { CardData } from '@/types/canvas';
 
 type FabricCanvas = fabric.Canvas;
 
-export const useCardCanvas = () => {
+export const useCardCanvas = (graphId?: number | null) => {
   const apiBaseUrl = import.meta.env.VITE_API_BASE_URL ?? 'http://localhost:5000';
-  const { loadInitialData } = useCanvasInit(apiBaseUrl);
+  const { loadInitialData } = useCanvasInit(apiBaseUrl, graphId ?? undefined);
 
   const {
     cardGroupsRef,
@@ -225,11 +225,33 @@ export const useCardCanvas = () => {
   useEffect(() => {
     if (!canvasRef.current || !containerRef.current) return;
 
+    // Global Fabric selection styling: remove default blue boxes
+    try {
+      (fabric.Object.prototype as any).borderColor = '#3F3F3D';
+      (fabric.Object.prototype as any).cornerColor = '#3F3F3D';
+      (fabric.Object.prototype as any).cornerStrokeColor = '#3F3F3D';
+      (fabric.Object.prototype as any).transparentCorners = false;
+      if ((fabric as any).ActiveSelection) {
+        // Hide the single group box that wraps multiple selected objects,
+        // but keep individual object boxes visible.
+        (fabric.ActiveSelection.prototype as any).hasBorders = false;
+        (fabric.ActiveSelection.prototype as any).hasControls = false;
+        (fabric.ActiveSelection.prototype as any).transparentCorners = true;
+        // Ensure the selection is still draggable even without visible group box
+        (fabric.ActiveSelection.prototype as any).perPixelTargetFind = true;
+      }
+    } catch {}
+
     const canvas = new fabric.Canvas(canvasRef.current, {
       width: containerRef.current.clientWidth,
       height: containerRef.current.clientHeight,
       backgroundColor: 'rgba(0,0,0,0)',
       preserveObjectStacking: true,
+      // Make marquee (multi‑select) overlay gray instead of blue
+      selectionColor: 'rgba(63,63,61,0.20)', // #3F3F3D @ 20%
+      selectionBorderColor: '#3F3F3D',
+      selectionLineWidth: 1,
+      selectionDashArray: [4, 4],
     });
 
     setFabricCanvas(canvas);
@@ -402,7 +424,7 @@ export const useCardCanvas = () => {
     }
   }, [editId, deleteCard, apiBaseUrl]);
 
-  // 🔥 Sync handle positions when card moved (local only)
+  // 🔥 Sync handle positions when any object moved (works for single and multi‑select)
   useEffect(() => {
     if (!fabricCanvas) return;
 
@@ -410,11 +432,7 @@ export const useCardCanvas = () => {
       e: fabric.TEvent<fabric.TPointerEvent> | fabric.ModifiedEvent<fabric.TPointerEvent>
     ) => {
       if (!('target' in e) || !e.target) return;
-      const target = e.target as fabric.Group & { cardId?: string };
-      if (!target?.cardId) return;
-
-      const cardId = target.cardId;
-      // Recompute handle positions from card bounds to keep dots on edges
+      // Recompute handle positions from card bounds to keep dots on edges for all moved items
       updateConnectionLines(fabricCanvas, cardHandlesRef, cardGroupsRef, connectionLinesRef);
       fabricCanvas.requestRenderAll();
     };
@@ -496,6 +514,7 @@ export const useCardCanvas = () => {
             width: newCard.width,
             height: newCard.height,
             image_url: newCard.imageUrl,
+            graph_id: (window as any).learnableActiveGraphId || undefined,
           }),
         });
 

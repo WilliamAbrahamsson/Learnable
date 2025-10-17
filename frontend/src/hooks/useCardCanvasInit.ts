@@ -1,7 +1,7 @@
 import { useCallback } from 'react';
 import { CardData } from '@/types/canvas';
 
-export const useCanvasInit = (apiBaseUrl: string) => {
+export const useCanvasInit = (apiBaseUrl: string, graphId?: number | null) => {
     const loadInitialData = useCallback(
         async (
             cardsRef: React.MutableRefObject<CardData[]>,
@@ -17,8 +17,8 @@ export const useCanvasInit = (apiBaseUrl: string) => {
             try {
                 const headers = { Authorization: `Bearer ${token}` };
                 const [notesRes, connectionsRes] = await Promise.all([
-                    fetch(`${apiBaseUrl}/api/graph/notes`, { headers }),
-                    fetch(`${apiBaseUrl}/api/graph/connections`, { headers }),
+                    fetch(`${apiBaseUrl}/api/graph/notes${graphId ? `?graph_id=${graphId}` : ''}`, { headers }),
+                    fetch(`${apiBaseUrl}/api/graph/connections${graphId ? `?graph_id=${graphId}` : ''}`, { headers }),
                 ]);
 
                 if (!notesRes.ok || !connectionsRes.ok) throw new Error('Fetch failed');

@@ -1,5 +1,5 @@
 import { useState, useRef, useEffect } from 'react';
-import { useNavigate } from 'react-router-dom';
+import { useNavigate, useParams } from 'react-router-dom';
 import { Chat } from '@/components/Chat';
 import { CardCanvas } from '@/components/CardCanvas';
 import { Topbar } from '@/components/Topbar';
@@ -95,6 +95,24 @@ const Index = () => {
     };
   }, [isDragging]);
 
+  const params = useParams();
+  const activeGraphId = (() => {
+    const gid = params as any;
+    const v = (gid?.graphId as string) || '';
+    const n = Number(v);
+    return Number.isFinite(n) ? n : null;
+  })();
+  try { (window as any).learnableActiveGraphId = activeGraphId; } catch {}
+
+  // If visiting "/" while signed in, redirect to /my-graphs
+  useEffect(() => {
+    if (activeGraphId !== null) return; // allow graph view
+    try {
+      const token = localStorage.getItem('learnableToken');
+      if (token) navigate('/my-graphs', { replace: true });
+    } catch {}
+  }, [activeGraphId, navigate]);
+
   const isCanvasFullscreen = splitPosition <= 5;
   const isChatFullscreen = splitPosition >= 95;
   const isChatCollapsed = splitPosition === 100;
@@ -141,7 +159,7 @@ const Index = () => {
         {/* If not authed, only render chat full width */}
         {isAuthed && (
           <div className="absolute inset-0 bg-[#272725]">
-            <CardCanvas rightOffsetPercent={100 - splitPosition} />
+            <CardCanvas rightOffsetPercent={100 - splitPosition} graphId={activeGraphId} />
           </div>
         )}
 
@@ -186,49 +204,68 @@ const Index = () => {
           style={{ width: isAuthed ? `${100 - splitPosition}%` : '100%' }}
         >
           <div className={`${splitPosition >= 95 ? 'invisible' : 'visible'} h-full`}>
-            <Chat />
+            <Chat key={activeGraphId ?? 'default'} />
           </div>
         </div>
       </div>
       <footer className="relative border-t border-[#272725] py-3 text-center text-xs text-[#76746F]">
-        <div className="absolute left-4 top-1/2 -translate-y-1/2 flex items-center space-x-3">
-          <a href="/terms#terms" className="text-[#C5C1BA] hover:text-white underline-offset-4 hover:underline">Terms</a>
-          <a href="/terms#privacy" className="text-[#C5C1BA] hover:text-white underline-offset-4 hover:underline">Privacy</a>
-          <a href="/terms#cookies" className="text-[#C5C1BA] hover:text-white underline-offset-4 hover:underline">Cookies</a>
-          <TooltipProvider>
-            <Tooltip>
-              <TooltipTrigger asChild>
-                <div className="flex items-center gap-2 text-xs text-[#C5C1BA] cursor-default">
-                  <span className="opacity-80">Improve Learnable</span>
-                  <Switch
-                    checked={improveLearnable}
-                    onCheckedChange={(v) => {
-                      if (!v) {
-                        // Redirect to subscriptions when turning off, keep toggle ON
-                        try { navigate('/subs'); } catch {}
-                        setImproveLearnable(true);
-                      } else {
-                        setImproveLearnable(true);
-                      }
-                    }}
-                    className="data-[state=checked]:bg-[#1E52F1]"
-                  />
-                </div>
-              </TooltipTrigger>
-              <TooltipContent className="bg-[#1C1C1C] text-[#C5C1BA] border border-[#272725] max-w-xs">
-                When on, you share your graphs and chats with Learnable to help improve the product. Toggle off for private mode.
-              </TooltipContent>
-            </Tooltip>
-          </TooltipProvider>
-        </div>
-        {isAdmin && (
-          <div className="absolute right-4 top-1/2 -translate-y-1/2">
+        {/* Mobile / small screens: stacked layout */}
+        <div className="xl:hidden flex flex-col items-center gap-2">
+          <div>© {currentYear} Learnable. All rights reserved.</div>
+          <div className="flex items-center gap-3">
+            <a href="/terms#terms" className="text-[#C5C1BA] hover:text-white underline-offset-4 hover:underline">Terms</a>
+            <a href="/terms#privacy" className="text-[#C5C1BA] hover:text-white underline-offset-4 hover:underline">Privacy</a>
+            <a href="/terms#cookies" className="text-[#C5C1BA] hover:text-white underline-offset-4 hover:underline">Cookies</a>
+          </div>
+          {isAdmin && (
             <Button className="h-7 px-3 bg-[#1E52F1] hover:bg-[#1E52F1]/90 text-white" onClick={() => navigate('/admin')}>
               Admin Panel
             </Button>
+          )}
+        </div>
+
+        {/* Desktop: original layout */}
+        <div className="hidden xl:block">
+          <div className="absolute left-4 top-1/2 -translate-y-1/2 flex items-center space-x-3">
+            <a href="/terms#terms" className="text-[#C5C1BA] hover:text-white underline-offset-4 hover:underline">Terms</a>
+            <a href="/terms#privacy" className="text-[#C5C1BA] hover:text-white underline-offset-4 hover:underline">Privacy</a>
+            <a href="/terms#cookies" className="text-[#C5C1BA] hover:text-white underline-offset-4 hover:underline">Cookies</a>
+            {/* Improve Learnable switch hidden on small screens */}
+            <TooltipProvider>
+              <Tooltip>
+                <TooltipTrigger asChild>
+                  <div className="hidden sm:flex items-center gap-2 text-xs text-[#C5C1BA] cursor-default">
+                    <span className="opacity-80">Improve Learnable</span>
+                    <Switch
+                      checked={improveLearnable}
+                      onCheckedChange={(v) => {
+                        if (!v) {
+                          // Redirect to subscriptions when turning off, keep toggle ON
+                          try { navigate('/subs'); } catch {}
+                          setImproveLearnable(true);
+                        } else {
+                          setImproveLearnable(true);
+                        }
+                      }}
+                      className="data-[state=checked]:bg-[#1E52F1]"
+                    />
+                  </div>
+                </TooltipTrigger>
+                <TooltipContent className="bg-[#1C1C1C] text-[#C5C1BA] border border-[#272725] max-w-xs">
+                  When on, you share your graphs and chats with Learnable to help improve the product. Toggle off for private mode.
+                </TooltipContent>
+              </Tooltip>
+            </TooltipProvider>
           </div>
-        )}
-        © {currentYear} Learnable. All rights reserved.
+          {isAdmin && (
+            <div className="absolute right-4 top-1/2 -translate-y-1/2">
+              <Button className="h-7 px-3 bg-[#1E52F1] hover:bg-[#1E52F1]/90 text-white" onClick={() => navigate('/admin')}>
+                Admin Panel
+              </Button>
+            </div>
+          )}
+          © {currentYear} Learnable. All rights reserved.
+        </div>
       </footer>
     </div>
   );

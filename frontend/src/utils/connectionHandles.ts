@@ -45,7 +45,8 @@ export const createConnectionHandles = (
       originY: 'center',
       hasControls: false,
       hasBorders: false,
-      selectable: true,
+      // Prevent handles from being part of marquee multi‑select, but keep them interactive
+      selectable: false,
       evented: true,
       hoverCursor: 'crosshair',
       visible: false, // Hidden by default

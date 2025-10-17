@@ -21,6 +21,9 @@ export const Chat = () => {
   const [isAuthed, setIsAuthed] = useState<boolean>(!!localStorage.getItem('learnableToken'));
 
   const apiBaseUrl = import.meta.env.VITE_API_BASE_URL ?? 'http://localhost:5000';
+  const activeGraphId = (() => {
+    try { return (window as any).learnableActiveGraphId ?? null; } catch { return null; }
+  })();
 
   const scrollToBottom = () => messagesEndRef.current?.scrollIntoView({ behavior: 'smooth' });
   useEffect(() => { scrollToBottom(); }, [messages]);
@@ -31,7 +34,7 @@ export const Chat = () => {
       const authed = !!localStorage.getItem('learnableToken');
       setIsAuthed(authed);
       if (authed) {
-        const welcome: Message = { id: `welcome-${Date.now()}`, text: 'Welcome to Learnable — your new AI-powered second brain.', sender: 'assistant', timestamp: new Date() };
+        const welcome: Message = { id: `welcome-${Date.now()}`, text: 'Welcome to Learnable — Chat with me to build a graph of knowledge and learn any subject!', sender: 'assistant', timestamp: new Date() };
         setMessages([welcome]);
       } else {
         const signedOut: Message = { id: `welcome-${Date.now()}`, text: "Hey, I'm Learnable. I can help you explore ideas and turn them into notes. Sign in or explore a demo to start building your Learning Graph.", sender: 'assistant', timestamp: new Date(), authPrompt: true };
@@ -45,16 +48,41 @@ export const Chat = () => {
   // Initial message
   useEffect(() => {
     if (messages.length > 0) return;
-    const authedWelcome = 'Welcome to Learnable — your new AI-powered second brain.';
+    const authedWelcome = 'Welcome to Learnable — Chat with me to build a graph of knowledge and learn any subject!';
     const signedOutWelcome = "Hey, I'm Learnable. I can help you explore ideas and turn them into notes. Sign in or explore a demo to start building your Learning Graph.";
     const initial: Message = { id: `welcome-${Date.now()}`, text: isAuthed ? authedWelcome : signedOutWelcome, sender: 'assistant', timestamp: new Date(), authPrompt: !isAuthed };
     setMessages([initial]);
   }, [isAuthed]);
 
+  // Load chat history for active graph
+  useEffect(() => {
+    const load = async () => {
+      try {
+        const gid = activeGraphId;
+        const token = localStorage.getItem('learnableToken');
+        if (!gid || !token) return;
+        const res = await fetch(`${apiBaseUrl}/api/graph/chat?graph_id=${gid}`, { headers: { Authorization: `Bearer ${token}` } });
+        const data = await res.json();
+        if (!res.ok) return; // silently ignore
+        const items = Array.isArray(data?.messages) ? data.messages : [];
+        if (items.length === 0) return;
+        const mapped: Message[] = items.map((m: any) => ({
+          id: String(m.id),
+          text: m.text || '',
+          sender: m.is_response ? 'assistant' : 'user',
+          timestamp: new Date(((m.created_at ?? 0) * 1000) || Date.now()),
+        }));
+        setMessages(mapped);
+      } catch {}
+    };
+    void load();
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [activeGraphId, isAuthed, apiBaseUrl]);
+
   // Fetch assistant response (streaming)
   const fetchAssistantResponse = async (prompt: string, assistantId: string) => {
     try {
-      const response = await fetch(`${apiBaseUrl}/api/chat/stream`, { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify({ message: prompt }) });
+      const response = await fetch(`${apiBaseUrl}/api/chat/stream`, { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify({ message: prompt, graph_id: (window as any).learnableActiveGraphId || undefined }) });
       if (!response.ok || !response.body) throw new Error('Failed to fetch');
 
       const reader = response.body.getReader();
@@ -162,7 +190,7 @@ export const Chat = () => {
       const res = await fetch(`${apiBaseUrl}/api/graph/notes`, {
         method: 'POST',
         headers: { 'Content-Type': 'application/json', Authorization: `Bearer ${token}` },
-        body: JSON.stringify({ name, description }),
+        body: JSON.stringify({ name, description, graph_id: (window as any).learnableActiveGraphId || undefined }),
       });
       if (!res.ok) throw new Error(await res.text());
       const saved = await res.json();

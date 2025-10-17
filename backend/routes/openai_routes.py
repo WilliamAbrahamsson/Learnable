@@ -1,6 +1,10 @@
 import json
 import os
 from flask import Blueprint, request, jsonify, Response, stream_with_context
+from extensions import db
+from models.chat import Chat
+from models.chat_message import ChatMessage
+from models.graph import Graph
 from flask_cors import cross_origin
 from openai import OpenAI
 
@@ -31,63 +35,149 @@ MODEL = "gpt-4o-mini"
 
 
 # ---------------------------
-# Streaming chat endpoint only
+# Streaming chat endpoint
 # ---------------------------
 @openai_bp.route("/stream", methods=["POST"])
 @cross_origin()
 def chat_stream():
     data = request.get_json(silent=True) or {}
     user_message = (data.get("message") or "").strip()
+    graph_id = data.get("graph_id")
+
     if not user_message:
         return jsonify({"error": "Message cannot be empty"}), 400
+
+    chat_obj = None
+    assistant_msg_id = None
+    prior_messages = []
+
+    # ---------------------------
+    # Graph / Chat setup
+    # ---------------------------
+    if graph_id is not None:
+        try:
+            gid = int(graph_id)
+            graph = Graph.query.filter_by(id=gid).first()
+            if graph:
+                # Find or create chat for this graph
+                chat_obj = Chat.query.filter_by(graph_id=gid).first()
+                if not chat_obj:
+                    chat_obj = Chat(graph_id=gid)
+                    db.session.add(chat_obj)
+                    db.session.commit()
+
+                # Snapshot prior messages into plain dicts
+                prior_messages = [
+                    {"text": m.text or "", "is_response": bool(m.is_response)}
+                    for m in ChatMessage.query.filter_by(chat_id=chat_obj.id)
+                    .order_by(ChatMessage.created_at.asc())
+                    .all()
+                ]
+
+                # Save user message
+                um = ChatMessage(chat_id=chat_obj.id, text=user_message, is_response=False)
+                db.session.add(um)
+
+                # Pre-create empty assistant message row (to fill later)
+                am = ChatMessage(chat_id=chat_obj.id, text="", is_response=True)
+                db.session.add(am)
+                db.session.flush()
+                assistant_msg_id = am.id
+                db.session.commit()
+        except Exception as e:
+            print("Error initializing chat:", e)
+            db.session.rollback()
+            chat_obj = None
 
     base_prompt = LEARNABLE_PROMPT["base"]
     generate_card = LEARNABLE_PROMPT["generate_card"]
 
+    # ---------------------------
+    # Stream response generator
+    # ---------------------------
     def generate():
-        # Step 1: Main explanation stream
+        # Build system + conversation context
+        context_messages = [{"role": "system", "content": base_prompt}]
+        if prior_messages:
+            for m in prior_messages[-20:]:
+                txt = m["text"].strip()
+                if not txt:
+                    continue
+                context_messages.append({
+                    "role": "assistant" if m["is_response"] else "user",
+                    "content": txt,
+                })
+
+        # Add current user query
+        context_messages.append({"role": "user", "content": user_message})
+
+        # Stream OpenAI response
         stream = client.chat.completions.create(
             model=MODEL,
-            messages=[
-                {"role": "system", "content": base_prompt},
-                {"role": "user", "content": user_message},
-            ],
+            messages=context_messages,
             temperature=0.7,
             max_tokens=800,
             stream=True,
         )
 
         full_reply = ""
-        for chunk in stream:
-            content = getattr(chunk.choices[0].delta, "content", None)
-            if content:
-                full_reply += content
-                yield f"data: {json.dumps({'content': content})}\n\n"
 
-        # Step 2: Generate Learnable concept card (title + description)
+        try:
+            for chunk in stream:
+                content = getattr(chunk.choices[0].delta, "content", None)
+                if content:
+                    full_reply += content
+                    yield f"data: {json.dumps({'content': content})}\n\n"
+        except Exception as e:
+            yield f"data: {json.dumps({'error': str(e)})}\n\n"
+
+        # ---------------------------
+        # Optional: Generate Learnable concept card
+        # ---------------------------
         if generate_card:
             card_prompt = (
                 "From the conversation and your reply, generate a short Learnable concept card as JSON. "
                 "Return ONLY a JSON object with keys: title (3-6 words, concise) and description (1-3 sentences, clear). "
                 "Do not include markdown or extra text."
             )
-            card = client.chat.completions.create(
-                model=MODEL,
-                messages=[
-                    {"role": "system", "content": base_prompt},
-                    {"role": "user", "content": f"{user_message}\n\n{full_reply}\n\n{card_prompt}"},
-                ],
-                temperature=0.7,
-                max_tokens=200,
-            )
-            json_text = card.choices[0].message.content.strip()
-            # Send as a structured <card> block so the frontend can parse {title, description}
-            yield f"data: {json.dumps({'content': f'<card>{json_text}</card>'})}\n\n"
+            try:
+                card = client.chat.completions.create(
+                    model=MODEL,
+                    messages=[
+                        {"role": "system", "content": base_prompt},
+                        {"role": "user", "content": f"{user_message}\n\n{full_reply}\n\n{card_prompt}"},
+                    ],
+                    temperature=0.7,
+                    max_tokens=200,
+                )
+                json_text = card.choices[0].message.content.strip()
+                yield f"data: {json.dumps({'content': f'<card>{json_text}</card>'})}\n\n"
+            except Exception as e:
+                yield f"data: {json.dumps({'error': f'Card generation failed: {e}'})}\n\n"
+
+        # ---------------------------
+        # Save assistant reply
+        # ---------------------------
+        if assistant_msg_id is not None:
+            try:
+                am = ChatMessage.query.filter_by(id=assistant_msg_id).first()
+                if am:
+                    am.text = full_reply
+                    db.session.commit()
+            except Exception as e:
+                print("Error updating assistant message:", e)
+                db.session.rollback()
 
         yield "data: [DONE]\n\n"
 
+    # ---------------------------
+    # Stream response to client
+    # ---------------------------
     return Response(
         stream_with_context(generate()),
         mimetype="text/event-stream",
-        headers={"Cache-Control": "no-cache", "Connection": "keep-alive"},
+        headers={
+            "Cache-Control": "no-cache",
+            "Connection": "keep-alive",
+        },
     )

@@ -328,12 +328,22 @@ const Admin = () => {
       </main>
       {/* User graphs & chats dialog removed */}
       <footer className="relative border-t border-[#272725] py-3 text-center text-xs text-white/60">
-        <div className="absolute left-4 space-x-3">
-          <a href="/terms#terms" className="text-white/80 hover:text-white underline-offset-4 hover:underline">Terms</a>
-          <a href="/terms#privacy" className="text-white/80 hover:text-white underline-offset-4 hover:underline">Privacy</a>
-          <a href="/terms#cookies" className="text-white/80 hover:text-white underline-offset-4 hover:underline">Cookies</a>
+        <div className="xl:hidden flex flex-col items-center gap-2">
+          <div>© {currentYear} Learnable. All rights reserved.</div>
+          <div className="flex items-center gap-3">
+            <a href="/terms#terms" className="text-white/80 hover:text-white underline-offset-4 hover:underline">Terms</a>
+            <a href="/terms#privacy" className="text-white/80 hover:text-white underline-offset-4 hover:underline">Privacy</a>
+            <a href="/terms#cookies" className="text-white/80 hover:text-white underline-offset-4 hover:underline">Cookies</a>
+          </div>
         </div>
-        © {currentYear} Learnable. All rights reserved.
+        <div className="hidden xl:block">
+          <div className="absolute left-4 space-x-3">
+            <a href="/terms#terms" className="text-white/80 hover:text-white underline-offset-4 hover:underline">Terms</a>
+            <a href="/terms#privacy" className="text-white/80 hover:text-white underline-offset-4 hover:underline">Privacy</a>
+            <a href="/terms#cookies" className="text-white/80 hover:text-white underline-offset-4 hover:underline">Cookies</a>
+          </div>
+          © {currentYear} Learnable. All rights reserved.
+        </div>
       </footer>
     </div>
   );

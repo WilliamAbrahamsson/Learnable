@@ -71,6 +71,8 @@ export const CanvasToolbar = ({
     setInvitees([]);
     setQuery('');
   };
+  // When chat grows and canvas shrinks, compact the toolbar
+  const compact = rightOffsetPercent >= 55; // show only Add Card in compact mode
   return (
     <>
       {/* Top-left vertical zoom bar */}
@@ -113,6 +115,7 @@ export const CanvasToolbar = ({
               Add Card
             </span>
           </button>
+          {!compact && (
           <div className="absolute right-3 top-1/2 -translate-y-1/2">
             <Tooltip>
               <TooltipTrigger asChild>
@@ -132,23 +135,26 @@ export const CanvasToolbar = ({
               </TooltipContent>
             </Tooltip>
           </div>
+          )}
           <TooltipProvider>
-            <Tooltip>
-              <TooltipTrigger asChild>
-                <button
-                  type="button"
-                  className="rounded-lg bg-gradient-to-r from-[#F59E0B] to-[#F97316] hover:from-[#D97706] hover:to-[#EA580C] px-3 py-1.5 text-sm text-white shadow"
-                >
-                  <span className="inline-flex items-center gap-1.5">
-                    <Sparkles className="h-4 w-4" />
-                    Find Mergeable Cards
-                  </span>
-                </button>
-              </TooltipTrigger>
-              <TooltipContent className="bg-[#1C1C1C] text-[#C5C1BA] border border-[#272725] max-w-xs">
-                You will be presented with match percentage and then either accept or deny the changes
-              </TooltipContent>
-            </Tooltip>
+            {!compact && (
+              <Tooltip>
+                <TooltipTrigger asChild>
+                  <button
+                    type="button"
+                    className="rounded-lg bg-gradient-to-r from-[#F59E0B] to-[#F97316] hover:from-[#D97706] hover:to-[#EA580C] px-3 py-1.5 text-sm text-white shadow"
+                  >
+                    <span className="inline-flex items-center gap-1.5">
+                      <Sparkles className="h-4 w-4" />
+                      Find Mergeable Cards
+                    </span>
+                  </button>
+                </TooltipTrigger>
+                <TooltipContent className="bg-[#1C1C1C] text-[#C5C1BA] border border-[#272725] max-w-xs">
+                  You will be presented with match percentage and then either accept or deny the changes
+                </TooltipContent>
+              </Tooltip>
+            )}
           </TooltipProvider>
 
           {/* Add menu (positioned above the bar, anchored near the Add button) */}

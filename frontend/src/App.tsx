@@ -2,7 +2,7 @@ import { Toaster } from "@/components/ui/toaster";
 import { Toaster as Sonner } from "@/components/ui/sonner";
 import { TooltipProvider } from "@/components/ui/tooltip";
 import { QueryClient, QueryClientProvider } from "@tanstack/react-query";
-import { BrowserRouter, Routes, Route } from "react-router-dom";
+import { BrowserRouter, Routes, Route, Navigate } from "react-router-dom";
 import Index from "./pages/Index";
 import Settings from "./pages/Settings";
 import Terms from "./pages/Terms";
@@ -16,6 +16,15 @@ import Admin from "./pages/Admin";
 
 const queryClient = new QueryClient();
 
+// Route wrapper: if a user is signed in, redirect "/" to "/my-graphs".
+const HomeRoute = () => {
+  let authed = false;
+  try {
+    authed = !!localStorage.getItem("learnableToken");
+  } catch {}
+  return authed ? <Navigate to="/my-graphs" replace /> : <Index />;
+};
+
 const App = () => (
   <QueryClientProvider client={queryClient}>
     <TooltipProvider>
@@ -24,12 +33,13 @@ const App = () => (
       <BrowserRouter>
         <CookieConsent />
         <Routes>
-          <Route path="/" element={<Index />} />
+          <Route path="/" element={<HomeRoute />} />
           <Route path="/settings" element={<Settings />} />
           <Route path="/terms" element={<Terms />} />
           <Route path="/sub" element={<Sub />} />
           <Route path="/subs" element={<SubAlias />} />
           <Route path="/my-graphs" element={<MyGraphs />} />
+          <Route path="/my-graphs/:graphId" element={<Index />} />
           <Route path="/vision" element={<Vision />} />
           <Route path="/admin" element={<Admin />} />
           {/* ADD ALL CUSTOM ROUTES ABOVE THE CATCH-ALL "*" ROUTE */}

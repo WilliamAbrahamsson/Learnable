@@ -8,9 +8,10 @@ import { Button } from '@/components/ui/button';
 type Props = {
   // Percentage of the container width occupied by the right overlay (chat)
   rightOffsetPercent?: number;
+  graphId?: number | null;
 };
 
-export const CardCanvas = ({ rightOffsetPercent = 0 }: Props) => {
+export const CardCanvas = ({ rightOffsetPercent = 0, graphId = null }: Props) => {
   const {
     canvasRef,
     containerRef,
@@ -36,7 +37,7 @@ export const CardCanvas = ({ rightOffsetPercent = 0 }: Props) => {
     saveEdits,
     deleteEditedCard,
     editMode,
-  } = useCardCanvas();
+  } = useCardCanvas(graphId);
 
   return (
     <div

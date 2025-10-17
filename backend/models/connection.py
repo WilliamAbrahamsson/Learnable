@@ -7,10 +7,8 @@ class Connection(db.Model):
     id = db.Column(db.Integer, primary_key=True, autoincrement=True)
     note_id_1 = db.Column(db.Integer, db.ForeignKey("notes.id", ondelete="CASCADE"), nullable=False)
     note_id_2 = db.Column(db.Integer, db.ForeignKey("notes.id", ondelete="CASCADE"), nullable=False)
-    user_id = db.Column(db.Integer, db.ForeignKey("users.id", ondelete="CASCADE"), nullable=True)
-
-    slot_1 = db.Column(db.Integer, nullable=False, default=0)  # slot on first note
-    slot_2 = db.Column(db.Integer, nullable=False, default=0)  # slot on second note
+    slot_1 = db.Column(db.Integer, nullable=False, default=0)
+    slot_2 = db.Column(db.Integer, nullable=False, default=0)
     strength = db.Column(db.Float, default=1.0)
 
     created_at = db.Column(db.Integer, default=lambda: int(time()))
@@ -26,5 +24,4 @@ class Connection(db.Model):
             "strength": self.strength,
             "created_at": self.created_at,
             "updated_at": self.updated_at,
-            "user_id": self.user_id,
         }

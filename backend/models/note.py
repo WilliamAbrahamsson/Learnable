@@ -5,22 +5,21 @@ class Note(db.Model):
     __tablename__ = "notes"
 
     id = db.Column(db.Integer, primary_key=True, autoincrement=True)
-    user_id = db.Column(db.Integer, db.ForeignKey("users.id"), nullable=False)
-    name = db.Column(db.String, nullable=False, default="Untitled")
+    graph_id = db.Column(db.Integer, db.ForeignKey("graph.id", ondelete="CASCADE"), nullable=False)
+    name = db.Column(db.String(255), nullable=False, default="Untitled")
     description = db.Column(db.Text, default="")
     x_pos = db.Column(db.Float, nullable=False, default=0)
     y_pos = db.Column(db.Float, nullable=False, default=0)
     width = db.Column(db.Float, default=280)
     height = db.Column(db.Float, default=200)
-    image_url = db.Column(db.String, nullable=True)
-
-    created_at = db.Column(db.Integer, default=lambda: int(time()))
-    updated_at = db.Column(db.Integer, default=lambda: int(time()), onupdate=lambda: int(time()))
+    image_url = db.Column(db.String(255))
+    created_at = db.Column(db.Integer, nullable=False, default=lambda: int(time()))
+    updated_at = db.Column(db.Integer, nullable=False, default=lambda: int(time()), onupdate=lambda: int(time()))
 
     def to_dict(self):
         return {
             "id": self.id,
-            "user_id": self.user_id,
+            "graph_id": self.graph_id,
             "name": self.name,
             "description": self.description,
             "x_pos": self.x_pos,

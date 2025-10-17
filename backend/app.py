@@ -29,6 +29,8 @@ db.init_app(app)
 # Import models after db.init_app
 # -----------------------------
 with app.app_context():
+    from models.graph import Graph
+    from models.chat import Chat
     from models.chat_message import ChatMessage
     from models.user import User
     from models.note import Note
