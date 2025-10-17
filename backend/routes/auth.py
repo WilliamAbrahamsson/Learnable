@@ -34,10 +34,8 @@ GOOGLE_CLIENT_ID = os.getenv(
     "GOOGLE_CLIENT_ID",
     "643170114345-sc3nbsh1398mfifrub0v8jgouhod6njl.apps.googleusercontent.com"
 ).strip()
-GOOGLE_CLIENT_SECRET = os.getenv(
-    "GOOGLE_CLIENT_SECRET",
-    "GOC..."
-).strip()
+GOOGLE_CLIENT_SECRET = os.getenv("GOOGLE_CLIENT_SECRET", "GOC...").strip()
+
 
 # ---------------------------
 # Helper: Create JWT token
@@ -69,6 +67,7 @@ def signup():
 
     existing = User.query.filter_by(email=email).first()
     if existing:
+        # If password matches, log them in instead
         if check_password_hash(existing.password_hash, password):
             token = create_jwt_token(existing)
             return jsonify(
@@ -81,13 +80,21 @@ def signup():
             )
         return jsonify({"error": "Email already registered"}), 400
 
+    # Create new user with default token balance (handled by model default)
     hashed = generate_password_hash(password)
     user = User(email=email, username=username, password_hash=hashed)
     db.session.add(user)
     db.session.commit()
 
     token = create_jwt_token(user)
-    return jsonify({"success": True, "token": token, "user": user.to_public_dict()})
+    return jsonify(
+        {
+            "success": True,
+            "token": token,
+            "user": user.to_public_dict(),
+            "message": "Account created successfully. Welcome aboard!",
+        }
+    )
 
 
 # ---------------------------
@@ -148,7 +155,14 @@ def signin():
         return jsonify({"error": "Invalid credentials"}), 401
 
     token = create_jwt_token(user)
-    return jsonify({"success": True, "token": token, "user": user.to_public_dict()})
+    return jsonify(
+        {
+            "success": True,
+            "token": token,
+            "user": user.to_public_dict(),
+            "message": "Signed in successfully.",
+        }
+    )
 
 
 # ---------------------------
@@ -191,6 +205,7 @@ def google_signin():
 
     user = User.query.filter_by(email=email).first()
     if not user:
+        # Create new Google user with default token balance
         random_hash = generate_password_hash(os.urandom(16).hex())
         user = User(
             email=email,
@@ -219,6 +234,21 @@ def google_signin():
             "success": True,
             "token": token,
             "user": user.to_public_dict(),
-            "message": "Signed in with Google",
+            "message": "Signed in with Google successfully.",
+        }
+    )
+
+
+# ---------------------------
+# Get current user info
+# ---------------------------
+@auth_bp.route("/me", methods=["GET"])
+@authenticate_token
+def get_current_user():
+    """Return the currently authenticated user's public data, including token balance."""
+    return jsonify(
+        {
+            "success": True,
+            "user": g.current_user.to_public_dict(),
         }
     )

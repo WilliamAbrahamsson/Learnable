@@ -13,6 +13,7 @@ class User(db.Model):
     profile_picture = db.Column(db.Text, nullable=True)
     is_google_account = db.Column(db.Integer, default=0)
     is_admin = db.Column(db.Integer, default=0)
+    token_balance = db.Column(db.Integer, default=50000)  # 🆕 Add this line
 
     def to_public_dict(self):
         return {
@@ -23,4 +24,5 @@ class User(db.Model):
             "profile_picture": self.profile_picture,
             "is_google_account": bool(self.is_google_account or 0),
             "is_admin": bool(getattr(self, "is_admin", 0) or 0),
+            "token_balance": getattr(self, "token_balance", 0),  # optional: expose it
         }

@@ -73,7 +73,7 @@ export const Chat = () => {
           timestamp: new Date(((m.created_at ?? 0) * 1000) || Date.now()),
         }));
         setMessages(mapped);
-      } catch {}
+      } catch { }
     };
     void load();
     // eslint-disable-next-line react-hooks/exhaustive-deps
@@ -197,7 +197,7 @@ export const Chat = () => {
       // Notify other parts of the app (e.g., CardCanvas) to reflect the new note immediately
       try {
         window.dispatchEvent(new CustomEvent('learnable-note-added', { detail: saved }));
-      } catch {}
+      } catch { }
       setMessages((prev) => prev.map((m) => (m.id === messageId ? { ...m, showProposal: false } : m)));
       toast({ description: 'Added to Learning Graph.' });
     } catch {
@@ -227,9 +227,8 @@ export const Chat = () => {
 
   return (
     <div
-      className={`relative flex h-full w-full flex-col bg-[#1C1C1C] ${
-        isDraggingOver ? 'border-2 border-dashed border-[#1E52F1]' : ''
-      }`}
+      className={`relative flex h-full w-full flex-col bg-[#1C1C1C] ${isDraggingOver ? 'border-2 border-dashed border-[#1E52F1]' : ''
+        }`}
       onDragOver={(e) => {
         e.preventDefault();
         setIsDraggingOver(true);
@@ -318,8 +317,9 @@ export const Chat = () => {
             value={input}
             onChange={setInput}
             onSend={handleSend}
-            onFilesSelected={(files) => setPendingFiles((prev) => [...prev, ...Array.from(files)])}
+            onStudyMaterialUpload={(files) => setPendingFiles((prev) => [...prev, ...Array.from(files)])}
           />
+
         </div>
       </div>
     </div>

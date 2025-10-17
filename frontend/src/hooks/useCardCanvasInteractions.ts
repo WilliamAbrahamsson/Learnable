@@ -15,7 +15,7 @@ export const useCanvasInteractions = (
   const dragStartPos = useRef<{ left: number; top: number } | null>(null);
   const dragStartMap = useRef<Record<string, { left: number; top: number }>>({});
 
-  // Zoom helpers
+  // Zoom helpers for UI buttons
   const zoom = useCallback(
     (dir: 'in' | 'out') => {
       if (!canvas) return;
@@ -33,26 +33,19 @@ export const useCanvasInteractions = (
   useEffect(() => {
     if (!canvas) return;
 
-    // --- Selection visuals ----------------------------------------------------
-
-    // Show marquee while dragging to select
+    // --- Selection styling ---
     canvas.selection = true;
     canvas.selectionColor = 'rgba(128,128,128,0.15)';
     canvas.selectionBorderColor = '#808080';
     canvas.selectionLineWidth = 1;
 
-    // Default per-object selection look
     fabric.Object.prototype.borderColor = '#808080';
     fabric.Object.prototype.cornerColor = '#808080';
 
-    // Hide ONLY the group outline for multi-select
     (fabric.ActiveSelection as any).prototype._renderControls = () => {};
     (fabric.ActiveSelection as any).prototype._renderBorders = () => {};
 
-    // We will draw small boxes for each object in a multi-select on the top layer.
-    // Fabric clears the top layer before/after render, so we hook both events.
     const getTopCtx = (): CanvasRenderingContext2D | null => {
-      // v5/v6 compatibility
       return (
         (canvas as any).getSelectionContext?.() ||
         (canvas as any).contextTop ||
@@ -61,16 +54,12 @@ export const useCanvasInteractions = (
       );
     };
 
-    // Clear top context every frame so our custom boxes don’t stack
     const clearTop = () => {
       const ctx = getTopCtx();
       const el: HTMLCanvasElement | undefined = (canvas as any).upperCanvasEl;
-      if (ctx && el) {
-        ctx.clearRect(0, 0, el.width, el.height);
-      }
+      if (ctx && el) ctx.clearRect(0, 0, el.width, el.height);
     };
 
-    // Draw per-object selection boxes when multiple are selected
     const drawIndividualSelectionBoxes = () => {
       const active = canvas.getActiveObject() as any;
       if (!active || active.type !== 'activeSelection') return;
@@ -79,27 +68,19 @@ export const useCanvasInteractions = (
       const el: HTMLCanvasElement | undefined = (canvas as any).upperCanvasEl;
       if (!ctx || !el) return;
 
-      // Style
       ctx.save();
       ctx.lineWidth = 1;
       ctx.strokeStyle = '#808080';
       ctx.setLineDash([4, 4]);
-
       const objects: any[] = Array.isArray(active._objects) ? active._objects : [];
       for (const obj of objects) {
-        // get axis-aligned bounding rect in canvas coordinates
         const rect = obj.getBoundingRect(true, true);
         ctx.strokeRect(rect.left, rect.top, rect.width, rect.height);
       }
-
       ctx.restore();
     };
 
-    canvas.on('before:render', clearTop);
-    canvas.on('after:render', drawIndividualSelectionBoxes);
-
-    // --- Keyboard + pan/zoom --------------------------------------------------
-
+    // --- Keyboard handlers ---
     const isTypingTarget = (el: EventTarget | null): boolean => {
       const t = el as HTMLElement | null;
       if (!t) return false;
@@ -121,19 +102,33 @@ export const useCanvasInteractions = (
       }
     };
 
-    // Scroll-to-zoom
+    // --- ✅ Cursor-centered scroll zoom (Figma-like) ---
+    let lastWheelTime = 0;
     const handleWheel = (opt: TPointerEventInfo<WheelEvent>) => {
+      if (!canvas) return;
       const event = opt.e;
       event.preventDefault();
+      event.stopPropagation();
+
+      const now = Date.now();
+      if (now - lastWheelTime < 10) return; // throttle for smoothness
+      lastWheelTime = now;
+
       const delta = event.deltaY;
-      const z = canvas.getZoom();
-      const newZoom = z * (delta > 0 ? 0.9 : 1.1);
-      const clampedZoom = Math.min(Math.max(newZoom, 0.2), 4);
+      let zoom = canvas.getZoom();
+      zoom *= 0.999 ** delta;
+      const clamped = Math.min(Math.max(zoom, 0.2), 4);
+
+      // The actual point under cursor in canvas coords
       const pointer = canvas.getPointer(event as any);
-      canvas.zoomToPoint(new Point(pointer.x, pointer.y), clampedZoom);
+      const point = new fabric.Point(pointer.x, pointer.y);
+
+      // Zoom around cursor
+      canvas.zoomToPoint(point, clamped);
+      canvas.requestRenderAll();
     };
 
-    // Mouse down: start panning or record drag start
+    // --- Panning + dragging ---
     const handleMouseDown = (opt: TPointerEventInfo<TPointerEvent>) => {
       const event = opt.e as MouseEvent;
       const target = (opt as any).target as fabric.Object | undefined;
@@ -161,7 +156,6 @@ export const useCanvasInteractions = (
         dragStartPos.current = null;
       }
 
-      // Pan with middle/right mouse or space/shift + left
       const leftWithModifier = event.button === 0 && (event.shiftKey || spaceDown.current);
       const middleOrRight = event.button === 1 || event.button === 2 || event.buttons === 4;
 
@@ -169,13 +163,12 @@ export const useCanvasInteractions = (
         isPanning.current = true;
         lastPos.current = { x: event.clientX, y: event.clientY };
         canvas.setCursor('grab');
-        canvas.selection = false; // temporarily disable marquee during pan
+        canvas.selection = false;
         event.preventDefault();
         event.stopPropagation();
       }
     };
 
-    // Mouse move: panning
     const handleMouseMove = (opt: TPointerEventInfo<TPointerEvent>) => {
       if (!isPanning.current || !lastPos.current) return;
       const event = opt.e as MouseEvent;
@@ -188,16 +181,14 @@ export const useCanvasInteractions = (
       lastPos.current = { x: event.clientX, y: event.clientY };
     };
 
-    // Mouse up: stop panning and persist positions
     const handleMouseUp = () => {
       if (isPanning.current) {
         isPanning.current = false;
         lastPos.current = null;
         canvas.setCursor('default');
-        canvas.selection = true; // re-enable marquee
+        canvas.selection = true;
       }
 
-      const obj = canvas.getActiveObject() as any;
       const token = localStorage.getItem('learnableToken');
       if (!token) {
         dragStartMap.current = {};
@@ -211,7 +202,7 @@ export const useCanvasInteractions = (
         let curTop = group.top ?? 0;
         try {
           const rect = group.getBoundingRect?.(true, true);
-          if (rect && typeof rect.left === 'number' && typeof rect.top === 'number') {
+          if (rect) {
             curLeft = rect.left;
             curTop = rect.top;
           }
@@ -233,9 +224,6 @@ export const useCanvasInteractions = (
           const id = (o as any)?.cardId;
           if (id) ops.push(persistMove(id, o));
         });
-      } else if (obj) {
-        const id = (obj as any)?.cardId as string | undefined;
-        if (id) ops.push(persistMove(id, obj));
       }
 
       dragStartCardId.current = null;
@@ -244,7 +232,6 @@ export const useCanvasInteractions = (
       Promise.allSettled(ops).catch(() => void 0);
     };
 
-    // Persist after transforms
     const handleObjectModified = (opt: any) => {
       const target = opt?.target as any;
       const token = localStorage.getItem('learnableToken');
@@ -254,7 +241,7 @@ export const useCanvasInteractions = (
         let x = obj.left ?? 0, y = obj.top ?? 0;
         try {
           const rect = obj.getBoundingRect?.(true, true);
-          if (rect && typeof rect.left === 'number' && typeof rect.top === 'number') {
+          if (rect) {
             x = rect.left; y = rect.top;
           }
         } catch {}
@@ -274,7 +261,6 @@ export const useCanvasInteractions = (
       }
     };
 
-    // Delete key
     const handleDelete = (e: KeyboardEvent) => {
       if (e.key === 'Delete') {
         const obj = canvas.getActiveObject();
@@ -297,7 +283,7 @@ export const useCanvasInteractions = (
       }
     };
 
-    // Listeners
+    // Attach listeners
     canvas.on('mouse:wheel', handleWheel);
     canvas.on('mouse:down', handleMouseDown);
     canvas.on('mouse:move', handleMouseMove);
@@ -327,7 +313,7 @@ export const useCanvasInteractions = (
       window.removeEventListener('keydown', keydown);
       window.removeEventListener('keyup', keyup);
     };
-  }, [canvas, onDelete, onDeleteConnection]);
+  }, [canvas, apiBaseUrl, onDelete, onDeleteConnection]);
 
   return { zoom };
 };
