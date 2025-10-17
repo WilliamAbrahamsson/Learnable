@@ -3,3 +3,4 @@ flask-cors
 python-dotenv
 openai>=1.0.0
 flask-sqlalchemy
+google-auth

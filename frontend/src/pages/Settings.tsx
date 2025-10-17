@@ -3,6 +3,7 @@ import { Input } from '@/components/ui/input';
 import { Label } from '@/components/ui/label';
 import { Button } from '@/components/ui/button';
 import { Separator } from '@/components/ui/separator';
+import { Dialog, DialogContent, DialogDescription, DialogFooter, DialogHeader, DialogTitle } from '@/components/ui/dialog';
 import { Switch } from '@/components/ui/switch';
 import { useToast } from '@/hooks/use-toast';
 import { Topbar } from '@/components/Topbar';
@@ -63,6 +64,7 @@ const Settings = () => {
   const [username, setUsername] = useState<string>(currentUser?.username ?? '');
   const [chat, setChat] = useState<ChatPrefs>(loadPrefs().chat);
   const [graph, setGraph] = useState<GraphPrefs>(loadPrefs().graph);
+  const [exportOpen, setExportOpen] = useState(false);
 
   useEffect(() => {
     savePrefs({ chat, graph });
@@ -196,10 +198,60 @@ const Settings = () => {
               <Button disabled className="bg-[#1E52F1]/40">Update password</Button>
             </div>
           </section>
+
+          <Separator className="bg-[#2A2A28]" />
+
+          {/* Data & Export (demo) */}
+          <section>
+            <h2 className="text-lg font-semibold">Data & Export</h2>
+            <p className="text-xs text-[#B5B2AC] mb-4">Download your notes and graphs. Demo: no actual download.</p>
+            <Button className="bg-[#1E52F1] hover:bg-[#1E52F1]/90" onClick={() => setExportOpen(true)}>
+              Download your data (ZIP)
+            </Button>
+          </section>
         </div>
         </div>
       </div>
-      <footer className="border-t border-[#272725] py-3 text-center text-xs text-[#76746F]">
+
+      {/* Export dialog (demo) */}
+      <Dialog open={exportOpen} onOpenChange={setExportOpen}>
+        <DialogContent className="max-w-sm bg-[#1C1C1C] text-[#C5C1BA] border border-[#272725]">
+          <DialogHeader>
+            <DialogTitle className="text-[#E5E3DF]">Export Your Data</DialogTitle>
+            <DialogDescription className="text-[#76746F]">
+              This is a demo — we won’t download any files here. In production, this would prepare a ZIP containing your notes and learning graphs.
+            </DialogDescription>
+          </DialogHeader>
+          <DialogFooter>
+            <Button
+              variant="ghost"
+              className="text-[#C5C1BA] hover:text-white hover:bg-[#272725]"
+              onClick={() => setExportOpen(false)}
+            >
+              Close
+            </Button>
+            <Button
+              className="bg-[#1E52F1] hover:bg-[#1E52F1]/90"
+              onClick={() => { toast({ description: 'Export queued (demo). No download will occur.' }); setExportOpen(false); }}
+            >
+              Start export (Demo)
+            </Button>
+          </DialogFooter>
+        </DialogContent>
+      </Dialog>
+      <footer className="relative border-t border-[#272725] py-3 text-center text-xs text-[#76746F]">
+        <div className="absolute left-4 space-x-3">
+          <a href="/terms#terms" className="text-[#C5C1BA] hover:text-white underline-offset-4 hover:underline">Terms</a>
+          <a href="/terms#privacy" className="text-[#C5C1BA] hover:text-white underline-offset-4 hover:underline">Privacy</a>
+          <a href="/terms#cookies" className="text-[#C5C1BA] hover:text-white underline-offset-4 hover:underline">Cookies</a>
+        </div>
+        {(() => { try { const u = localStorage.getItem('learnableUser'); return u && JSON.parse(u).is_admin; } catch { return false; } })() && (
+          <div className="absolute right-4 top-1/2 -translate-y-1/2">
+            <Button className="h-7 px-3 bg-[#1E52F1] hover:bg-[#1E52F1]/90 text-white" onClick={() => (window.location.href = '/admin')}>
+              Admin Panel
+            </Button>
+          </div>
+        )}
         © {currentYear} Learnable. All rights reserved.
       </footer>
     </div>

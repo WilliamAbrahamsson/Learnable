@@ -31,8 +31,15 @@ export const useCanvasInteractions = (
     if (!canvas) return;
 
     // Track spacebar for panning with left mouse
+    const isTypingTarget = (el: EventTarget | null): boolean => {
+      const t = el as HTMLElement | null;
+      if (!t) return false;
+      const tag = (t.tagName || '').toLowerCase();
+      return tag === 'input' || tag === 'textarea' || (t as HTMLElement).isContentEditable === true;
+    };
     const keydown = (e: KeyboardEvent) => {
       if (e.code === 'Space') {
+        if (isTypingTarget(e.target)) return; // don't hijack spaces in inputs
         spaceDown.current = true;
         // prevent page scroll when space pressed over canvas
         e.preventDefault();
@@ -40,6 +47,7 @@ export const useCanvasInteractions = (
     };
     const keyup = (e: KeyboardEvent) => {
       if (e.code === 'Space') {
+        if (isTypingTarget(e.target)) return;
         spaceDown.current = false;
       }
     };
@@ -59,8 +67,17 @@ export const useCanvasInteractions = (
     // ✅ Mouse down for panning
     const handleMouseDown = (opt: TPointerEventInfo<TPointerEvent>) => {
       const event = opt.e as MouseEvent;
+      const target = (opt as any).target as fabric.Object | undefined;
+
+      // Allow panning when:
+      // - Middle or right mouse button is pressed, OR
+      // - Left click on empty canvas (no target), OR
+      // - Left click with Shift/Space (legacy behavior still supported)
+      const leftOnEmpty = event.button === 0 && !target;
       const leftWithModifier = event.button === 0 && (event.shiftKey || spaceDown.current);
-      if (event.button === 1 || event.button === 2 || event.buttons === 4 || leftWithModifier) {
+      const middleOrRight = event.button === 1 || event.button === 2 || event.buttons === 4;
+
+      if (middleOrRight || leftOnEmpty || leftWithModifier) {
         isPanning.current = true;
         lastPos.current = { x: event.clientX, y: event.clientY };
         canvas.setCursor('grab');

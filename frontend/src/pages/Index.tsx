@@ -1,8 +1,12 @@
 import { useState, useRef, useEffect } from 'react';
+import { useNavigate } from 'react-router-dom';
 import { Chat } from '@/components/Chat';
 import { CardCanvas } from '@/components/CardCanvas';
 import { Topbar } from '@/components/Topbar';
 import { Columns2 } from 'lucide-react';
+import { Switch } from '@/components/ui/switch';
+import { Button } from '@/components/ui/button';
+import { Tooltip, TooltipContent, TooltipProvider, TooltipTrigger } from '@/components/ui/tooltip';
 
 const Index = () => {
   // splitPosition represents the canvas width percentage.
@@ -12,6 +16,30 @@ const Index = () => {
   const [isDragging, setIsDragging] = useState(false);
   const containerRef = useRef<HTMLDivElement>(null);
   const currentYear = new Date().getFullYear();
+  const navigate = useNavigate();
+  const [isAdmin, setIsAdmin] = useState<boolean>(() => {
+    try { const u = localStorage.getItem('learnableUser'); return u ? !!JSON.parse(u).is_admin : false; } catch { return false; }
+  });
+  useEffect(() => {
+    const onAuth = () => {
+      try { const u = localStorage.getItem('learnableUser'); setIsAdmin(u ? !!JSON.parse(u).is_admin : false); } catch { setIsAdmin(false); }
+    };
+    window.addEventListener('learnable-auth-changed', onAuth);
+    return () => window.removeEventListener('learnable-auth-changed', onAuth);
+  }, []);
+  const [improveLearnable, setImproveLearnable] = useState<boolean>(() => {
+    try {
+      const raw = localStorage.getItem('learnable:improve');
+      return raw ? raw === '1' : true; // default ON
+    } catch {
+      return true; // default ON
+    }
+  });
+
+  useEffect(() => {
+    try { localStorage.setItem('learnable:improve', improveLearnable ? '1' : '0'); } catch {}
+    try { window.dispatchEvent(new Event('learnable-improve-changed')); } catch {}
+  }, [improveLearnable]);
 
   const handleMouseDown = () => {
     setIsDragging(true);
@@ -146,7 +174,44 @@ const Index = () => {
           </div>
         </div>
       </div>
-      <footer className="border-t border-[#272725] py-3 text-center text-xs text-[#76746F]">
+      <footer className="relative border-t border-[#272725] py-3 text-center text-xs text-[#76746F]">
+        <div className="absolute left-4 top-1/2 -translate-y-1/2 flex items-center space-x-3">
+          <a href="/terms#terms" className="text-[#C5C1BA] hover:text-white underline-offset-4 hover:underline">Terms</a>
+          <a href="/terms#privacy" className="text-[#C5C1BA] hover:text-white underline-offset-4 hover:underline">Privacy</a>
+          <a href="/terms#cookies" className="text-[#C5C1BA] hover:text-white underline-offset-4 hover:underline">Cookies</a>
+          <TooltipProvider>
+            <Tooltip>
+              <TooltipTrigger asChild>
+                <div className="flex items-center gap-2 text-xs text-[#C5C1BA] cursor-default">
+                  <span className="opacity-80">Improve Learnable</span>
+                  <Switch
+                    checked={improveLearnable}
+                    onCheckedChange={(v) => {
+                      if (!v) {
+                        // Redirect to subscriptions when turning off, keep toggle ON
+                        try { navigate('/subs'); } catch {}
+                        setImproveLearnable(true);
+                      } else {
+                        setImproveLearnable(true);
+                      }
+                    }}
+                    className="data-[state=checked]:bg-[#1E52F1]"
+                  />
+                </div>
+              </TooltipTrigger>
+              <TooltipContent className="bg-[#1C1C1C] text-[#C5C1BA] border border-[#272725] max-w-xs">
+                When on, you share your graphs and chats with Learnable to help improve the product. Toggle off for private mode.
+              </TooltipContent>
+            </Tooltip>
+          </TooltipProvider>
+        </div>
+        {isAdmin && (
+          <div className="absolute right-4 top-1/2 -translate-y-1/2">
+            <Button className="h-7 px-3 bg-[#1E52F1] hover:bg-[#1E52F1]/90 text-white" onClick={() => navigate('/admin')}>
+              Admin Panel
+            </Button>
+          </div>
+        )}
         © {currentYear} Learnable. All rights reserved.
       </footer>
     </div>

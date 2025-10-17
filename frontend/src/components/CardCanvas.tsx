@@ -20,7 +20,15 @@ export const CardCanvas = ({ rightOffsetPercent = 0 }: Props) => {
   } = useCardCanvas();
 
   return (
-    <div ref={containerRef} className="relative h-full w-full bg-[#272725]">
+    <div
+      ref={containerRef}
+      className="relative h-full w-full bg-[#272725]"
+      style={{
+        backgroundImage: 'radial-gradient(#3F3F3D 1px, transparent 1px)',
+        backgroundSize: '22px 22px',
+        backgroundPosition: '0 0',
+      }}
+    >
       <CanvasToolbar
         rightOffsetPercent={rightOffsetPercent}
         isMenuOpen={isAddMenuOpen}

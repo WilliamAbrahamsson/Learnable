@@ -78,7 +78,7 @@ export const useCardCanvas = () => {
   const initializeCanvasObjects = useCallback(
     async (canvas: FabricCanvas) => {
       canvas.getObjects().forEach((obj) => canvas.remove(obj));
-      canvas.backgroundColor = '#272725';
+      canvas.backgroundColor = 'rgba(0,0,0,0)';
       canvas.requestRenderAll();
 
       // clear refs
@@ -220,7 +220,7 @@ export const useCardCanvas = () => {
     const canvas = new fabric.Canvas(canvasRef.current, {
       width: containerRef.current.clientWidth,
       height: containerRef.current.clientHeight,
-      backgroundColor: '#272725',
+      backgroundColor: 'rgba(0,0,0,0)',
       preserveObjectStacking: true,
     });
 
