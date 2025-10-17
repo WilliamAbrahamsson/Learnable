@@ -85,14 +85,11 @@ export const createConnectionHandles = (
       
       console.log('Handle clicked, starting connection drag...');
       
-      // Show all handles except on the source card
-      cardHandlesRef.current.forEach((handles, id) => {
+      // Show ALL handles on ALL cards while dragging a connection (including source)
+      cardHandlesRef.current.forEach((handles) => {
         handles.forEach((h: Circle) => {
-          if (id === cardId) {
-            h.set({ visible: false }); // Hide handles on source card
-          } else {
-            h.set({ visible: true }); // Show handles on other cards
-          }
+          h.set({ visible: true });
+          fabricCanvas.bringObjectToFront(h);
         });
       });
       fabricCanvas.renderAll();
@@ -221,6 +218,13 @@ export const createConnectionHandles = (
   cardGroup.on('mouseout', (e) => {
     // Only hide if not currently dragging a connection and not hovering over a handle
     if (!tempLineRef.current && (cardGroup as any).cardId === cardId) {
+      // Keep handles visible while this card is selected
+      try {
+        const active = (fabricCanvas as any)?.getActiveObject?.();
+        if (active && (active as any).cardId === cardId) {
+          return;
+        }
+      } catch {}
       const pointer = e.e ? canvas.getPointer(e.e as MouseEvent) : null;
       if (pointer) {
         // Check if mouse is over any handle
@@ -240,6 +244,21 @@ export const createConnectionHandles = (
         }
       }
     }
+  });
+
+  // Keep handles visible while selected; hide on deselect
+  cardGroup.on('selected', () => {
+    handles.forEach((handle) => {
+      handle.set({ visible: true });
+      canvas.bringObjectToFront(handle);
+    });
+    canvas.requestRenderAll();
+  });
+  cardGroup.on('deselected', () => {
+    // If not dragging from this card, hide on deselect
+    if (tempLineRef.current && (tempLineRef.current as any).oppositeCardId === cardId) return;
+    handles.forEach((handle) => handle.set({ visible: false }));
+    canvas.requestRenderAll();
   });
 };
 

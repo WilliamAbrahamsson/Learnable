@@ -216,6 +216,18 @@ export const useConnectionDrag = (
       cardHandlesRef.current.forEach((handles) => {
         handles.forEach((handle) => handle.set({ visible: false }));
       });
+      // After drag completes, keep handles visible on the currently selected card (if any)
+      try {
+        const active: any = (fabricCanvas as any).getActiveObject?.();
+        const activeId = active?.cardId as string | undefined;
+        if (activeId && cardHandlesRef.current.has(activeId)) {
+          const activeHandles = cardHandlesRef.current.get(activeId)!;
+          activeHandles.forEach((h) => {
+            h.set({ visible: true });
+            fabricCanvas.bringObjectToFront(h);
+          });
+        }
+      } catch {}
       fabricCanvas.requestRenderAll();
     };
 

@@ -44,6 +44,13 @@ export const useCardCanvas = () => {
   const [isAddMenuOpen, setIsAddMenuOpen] = useState(false);
   const [isDraggingConnection, setIsDraggingConnection] = useState(false);
   const [isLoaded, setIsLoaded] = useState(false);
+  // Editor state for selected card
+  const [editOpen, setEditOpen] = useState(false);
+  const [editId, setEditId] = useState<string | null>(null);
+  const [editTitle, setEditTitle] = useState<string>('');
+  const [editDescription, setEditDescription] = useState<string>('');
+  const [editWidth, setEditWidth] = useState<number>(280);
+  const [editHeight, setEditHeight] = useState<number>(200);
 
   // 🔥 Remove card and artifacts
   const removeCardArtifacts = useCallback(
@@ -254,6 +261,145 @@ export const useCardCanvas = () => {
     };
   }, [initializeCanvasObjects, loadInitialData, cardsRef, nextCardIndexRef]);
 
+  // Open editor when the edit button on a card is clicked
+  useEffect(() => {
+    if (!fabricCanvas) return;
+    const handleMouseDown = (opt: any) => {
+      // Check subTargets first for the edit button
+      const sub = (opt as any).subTargets as any[] | undefined;
+      const clicked = (sub && sub.find?.((o: any) => o?.isEditButton)) || (opt as any).target;
+      if (!clicked || !(clicked as any).isEditButton) return;
+
+      // Parent group holds the cardId
+      const parent = (clicked as any).group as (fabric.Group & { cardId?: string }) | undefined;
+      const id = (parent as any)?.cardId as string | undefined;
+      if (!id) return;
+      const texts = cardTextRefs.current.get(id);
+      const cg = cardGroupsRef.current.get(id);
+      if (!cg) return;
+      const objs = (cg as any)._objects as any[];
+      const background = objs?.find?.((o) => (o as any).isBackground) || null;
+      const curW = Math.round(((background?.width as number) ?? (cg as any).cardWidth ?? 280));
+      const curH = Math.round(((background?.height as number) ?? (cg as any).cardHeight ?? 200));
+      setEditId(id);
+      setEditTitle(texts?.title?.text ?? 'Card');
+      setEditDescription(texts?.desc?.text ?? '');
+      setEditWidth(curW);
+      setEditHeight(curH);
+      setEditOpen(true);
+    };
+    fabricCanvas.on('mouse:down', handleMouseDown);
+    return () => {
+      fabricCanvas.off('mouse:down', handleMouseDown);
+    };
+  }, [fabricCanvas, cardTextRefs, cardGroupsRef]);
+
+  // Save edits to DB and canvas
+  const saveEdits = useCallback(async () => {
+    if (!editId || !fabricCanvas) return;
+    const id = editId;
+    const token = localStorage.getItem('learnableToken');
+    if (token) {
+      try {
+        const res = await fetch(`${apiBaseUrl}/api/graph/notes/${id}`, {
+          method: 'PATCH',
+          headers: { 'Content-Type': 'application/json', Authorization: `Bearer ${token}` },
+          body: JSON.stringify({ name: editTitle, description: editDescription, width: editWidth, height: editHeight }),
+        });
+        if (!res.ok) {
+          // eslint-disable-next-line no-console
+          console.error('Failed to save card edits:', await res.text());
+        }
+      } catch (e) {
+        // eslint-disable-next-line no-console
+        console.error('Save error', e);
+      }
+    }
+
+    // Update local canvas
+    const group = cardGroupsRef.current.get(id);
+    const texts = cardTextRefs.current.get(id);
+    if (group && texts) {
+      const objs = (group as any)._objects as any[];
+      const hover = objs?.find?.((o) => (o as any).isHoverArea) || null;
+      const background = objs?.find?.((o) => (o as any).isBackground) || null;
+      const editBtn = objs?.find?.((o) => (o as any).isEditButton) || null;
+      const editGlyph = objs?.find?.((o) => (o as any).isEditGlyph) || null;
+      const btnSize = 22, btnPad = 8;
+
+      // Determine if size changed BEFORE touching text (for stable widths)
+      const prevW = (background as any)?.width as number | undefined;
+      const prevH = (background as any)?.height as number | undefined;
+      const sizeChanged = prevW !== undefined && prevH !== undefined &&
+        (Math.round(prevW) !== Math.round(editWidth) || Math.round(prevH) !== Math.round(editHeight));
+
+      // Update text without moving it: preserve current left/top, only change width if size changed
+      const prevTitleLeft = texts.title.left ?? 20;
+      const prevTitleTop = texts.title.top ?? 15;
+      const prevDescLeft = texts.desc.left ?? 20;
+      const prevDescTop = texts.desc.top ?? 45;
+      const prevTitleWidth = Math.round((texts.title.width as number) ?? (editWidth - 40));
+      const prevDescWidth = Math.round((texts.desc.width as number) ?? (editWidth - 40));
+
+      // Apply text changes
+      texts.title.set({ text: editTitle, scaleX: 1, scaleY: 1 });
+      texts.desc.set({ text: editDescription, scaleX: 1, scaleY: 1 });
+
+      // Only adjust widths if the card width actually changed
+      if (sizeChanged) {
+        texts.title.set({ width: editWidth - 40 });
+        texts.desc.set({ width: editWidth - 40 });
+      } else {
+        // Keep previous widths (avoid any reflow-based nudges)
+        texts.title.set({ width: prevTitleWidth });
+        texts.desc.set({ width: prevDescWidth });
+      }
+
+      // Restore exact positions
+      texts.title.set({ left: prevTitleLeft, top: prevTitleTop });
+      texts.desc.set({ left: prevDescLeft, top: prevDescTop });
+      texts.title.setCoords();
+      texts.desc.setCoords();
+      // Update sizes (only if changed) to avoid tiny nudges
+      if (background && sizeChanged) background.set({ width: editWidth, height: editHeight });
+      if (hover && sizeChanged) hover.set({ width: editWidth + 2 * 25, height: editHeight + 2 * 25, left: -25, top: -25 });
+      if (editBtn && sizeChanged) (editBtn as any).set({ left: editWidth - btnSize - btnPad, top: btnPad });
+      if (editGlyph && sizeChanged) (editGlyph as any).set({ left: editWidth - btnSize - btnPad + 5, top: btnPad + 2 });
+      (group as any).cardWidth = editWidth;
+      (group as any).cardHeight = editHeight;
+      // Keep group origin stable — avoid recalculating bounds which can shift children
+      group.setCoords();
+      updateConnectionLines(fabricCanvas, cardHandlesRef, cardGroupsRef, connectionLinesRef);
+      bringHandlesToFront(fabricCanvas, cardHandlesRef);
+      fabricCanvas.requestRenderAll();
+    }
+    // Update cached cards data for re-init
+    cardsRef.current = cardsRef.current.map((c) => (c.id === id ? { ...c, title: editTitle, description: editDescription, width: editWidth, height: editHeight } : c));
+    setEditOpen(false);
+  }, [editId, editTitle, editDescription, editWidth, editHeight, apiBaseUrl, fabricCanvas, cardGroupsRef, cardTextRefs, cardHandlesRef, connectionLinesRef, cardsRef]);
+
+  // Delete currently edited card (local + backend)
+  const deleteEditedCard = useCallback(async () => {
+    if (!editId) return;
+    const id = editId;
+    // Remove locally
+    deleteCard(id);
+    setEditOpen(false);
+    setEditId(null);
+    // Backend delete
+    try {
+      const token = localStorage.getItem('learnableToken');
+      if (token) {
+        await fetch(`${apiBaseUrl}/api/graph/notes/${id}`, {
+          method: 'DELETE',
+          headers: { Authorization: `Bearer ${token}` },
+        });
+      }
+    } catch {
+      // ignore network errors for delete here
+    }
+  }, [editId, deleteCard, apiBaseUrl]);
+
   // 🔥 Sync handle positions when card moved (local only)
   useEffect(() => {
     if (!fabricCanvas) return;
@@ -266,17 +412,7 @@ export const useCardCanvas = () => {
       if (!target?.cardId) return;
 
       const cardId = target.cardId;
-      const handles = cardHandlesRef.current.get(cardId);
-      if (!handles) return;
-
-      handles.forEach((handle: any) => {
-        handle.set({
-          left: target.left + (handle.offsetX ?? 0),
-          top: target.top + (handle.offsetY ?? 0),
-        });
-        handle.setCoords();
-      });
-
+      // Recompute handle positions from card bounds to keep dots on edges
       updateConnectionLines(fabricCanvas, cardHandlesRef, cardGroupsRef, connectionLinesRef);
       fabricCanvas.requestRenderAll();
     };
@@ -409,6 +545,85 @@ export const useCardCanvas = () => {
     ]
   );
 
+  // ✅ Add an already-created note (e.g., from Chat) without re-posting to backend
+  const addExistingNoteToCanvas = useCallback(
+    async (note: any) => {
+      if (!fabricCanvas) return;
+      const id = String(note.id);
+      // Prevent duplicates if the note somehow already exists on canvas
+      if (cardsRef.current.some((c) => c.id === id)) return;
+
+      const newCard: CardData = {
+        id,
+        title: note.name || DEFAULT_TEXT_TITLE,
+        description: note.description || DEFAULT_TEXT_DESCRIPTION,
+        color: '#1C1C1C',
+        type: note.image_url ? 'image' : 'text',
+        imageUrl: note.image_url || undefined,
+        connections: [],
+        width: Number(note.width ?? 280),
+        height: Number(note.height ?? 200),
+        x: Number(note.x_pos ?? 100),
+        y: Number(note.y_pos ?? 100),
+      };
+
+      cardsRef.current.push(newCard);
+      nextCardIndexRef.current += 1;
+
+      await createCard(
+        fabricCanvas,
+        newCard,
+        cardsRef.current.length - 1,
+        cardGroupsRef,
+        cardTextRefs,
+        (cnv, group, cardId, width, height, padding) =>
+          createHandles(
+            cnv,
+            group,
+            cardId,
+            width,
+            height,
+            padding,
+            cardHandlesRef,
+            connectionLinesRef,
+            tempLineRef,
+            draggedRef,
+            setIsDraggingConnection
+          )
+      );
+
+      updateConnectionLines(fabricCanvas, cardHandlesRef, cardGroupsRef, connectionLinesRef);
+      bringHandlesToFront(fabricCanvas, cardHandlesRef);
+      fabricCanvas.requestRenderAll();
+    },
+    [
+      fabricCanvas,
+      cardsRef,
+      nextCardIndexRef,
+      cardGroupsRef,
+      cardTextRefs,
+      cardHandlesRef,
+      connectionLinesRef,
+      tempLineRef,
+      draggedRef,
+      setIsDraggingConnection,
+    ]
+  );
+
+  // Listen for notes added elsewhere (e.g., via Chat) and reflect immediately on canvas
+  useEffect(() => {
+    const handler = (e: Event) => {
+      try {
+        const custom = e as CustomEvent<any>;
+        const note = custom.detail;
+        if (!note) return;
+        void addExistingNoteToCanvas(note);
+      } catch {}
+    };
+    window.addEventListener('learnable-note-added', handler as EventListener);
+    return () => window.removeEventListener('learnable-note-added', handler as EventListener);
+  }, [addExistingNoteToCanvas]);
+
 
   return useMemo(
     () => ({
@@ -429,7 +644,21 @@ export const useCardCanvas = () => {
       zoomIn: () => zoom('in'),
       zoomOut: () => zoom('out'),
       isDraggingConnection,
+      // Editor API
+      editOpen,
+      editId,
+      editTitle,
+      editDescription,
+      editWidth,
+      editHeight,
+      setEditTitle,
+      setEditDescription,
+      setEditWidth,
+      setEditHeight,
+      setEditOpen,
+      saveEdits,
+      deleteEditedCard,
     }),
-    [isAddMenuOpen, zoom, addCard, isLoaded, isDraggingConnection]
+    [isAddMenuOpen, zoom, addCard, isLoaded, isDraggingConnection, editOpen, editId, editTitle, editDescription, editWidth, editHeight, saveEdits, deleteEditedCard]
   );
 };

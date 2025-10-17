@@ -124,7 +124,7 @@ def create_connection():
     if note_id_1 not in owned_note_ids or note_id_2 not in owned_note_ids:
         return jsonify({"error": "Cannot connect notes not owned by user"}), 403
 
-    # ✅ Check if connection already exists
+    # ✅ Check if connection already exists (regardless of order)
     existing = Connection.query.filter(
         or_(
             and_(Connection.note_id_1 == note_id_1, Connection.note_id_2 == note_id_2),
@@ -133,6 +133,15 @@ def create_connection():
     ).first()
 
     if existing:
+        # 🛠 Upsert behavior: if connection exists, update slots to the provided ones
+        if existing.note_id_1 == note_id_1 and existing.note_id_2 == note_id_2:
+            existing.slot_1 = slot_1
+            existing.slot_2 = slot_2
+        else:
+            # The existing row has reversed order, so swap the provided slots
+            existing.slot_1 = slot_2
+            existing.slot_2 = slot_1
+        db.session.commit()
         return jsonify(existing.to_dict()), 200
 
     conn = Connection(

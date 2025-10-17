@@ -36,8 +36,8 @@ const baseGroupOptions = (left: number, top: number) => ({
   borderColor: 'transparent',
   borderOpacityWhenMoving: 0,
   lockRotation: true,
-  lockScalingX: false,
-  lockScalingY: false,
+  lockScalingX: true,
+  lockScalingY: true,
   lockScalingFlip: true,
   subTargetCheck: true,
   hoverCursor: 'move',
@@ -51,14 +51,14 @@ const baseGroupOptions = (left: number, top: number) => ({
 
 const applyControlVisibility = (group: Group) => {
   group.setControlsVisibility({
-    mt: true,
-    mb: true,
-    ml: true,
-    mr: true,
-    tl: true,
-    tr: true,
-    bl: true,
-    br: true,
+    mt: false,
+    mb: false,
+    ml: false,
+    mr: false,
+    tl: false,
+    tr: false,
+    bl: false,
+    br: false,
     mtr: false,
   });
 };
@@ -79,16 +79,29 @@ export const createCard = (
   ) => void
 ): Promise<Group | null> => {
   return new Promise((resolve) => {
+    // 🔹 Prevent duplicate card creation
+    const existingGroup = cardGroupsRef.current.get(card.id);
+    if (existingGroup) {
+      resolve(existingGroup);
+      return;
+    }
+
+    // 🔹 Remove any lingering duplicate from canvas
+    const duplicate = canvas.getObjects().find(
+      (obj: any) => (obj as any).cardId === card.id
+    );
+    if (duplicate) canvas.remove(duplicate);
+
     const defaultX = typeof card.x === 'number' ? card.x : 100;
     const defaultY =
       typeof card.y === 'number' ? card.y : 100 + index * (CARD_HEIGHT + CARD_PADDING);
 
-    const finalizeCard = (
-      group: Group,
-      cardWidth: number,
-      cardHeight: number
-    ) => {
+    const finalizeCard = (group: Group, cardWidth: number, cardHeight: number) => {
       (group as any).cardId = card.id;
+      // Store dimensions and padding so connection handle math stays accurate on move
+      (group as any).cardWidth = cardWidth;
+      (group as any).cardHeight = cardHeight;
+      (group as any).hoverPadding = HOVER_PADDING;
       applyControlVisibility(group);
       canvas.add(group);
       cardGroupsRef.current.set(card.id, group);
@@ -100,11 +113,9 @@ export const createCard = (
     // ---------------- IMAGE CARD ----------------
     if (card.type === 'image' && card.imageUrl) {
       const createImageGroup = (img: any) => {
-        // fixed card size like text cards
         const cardWidth = card.width ?? CARD_WIDTH;
         const cardHeight = card.height ?? CARD_HEIGHT;
 
-        // scale image proportionally to fit inside the card
         const scale = Math.min(
           cardWidth / (img.width || cardWidth),
           cardHeight / (img.height || cardHeight)
@@ -121,7 +132,6 @@ export const createCard = (
           evented: false,
         });
 
-        // background frame with rounded corners and shadow
         const background = new Rect({
           width: cardWidth,
           height: cardHeight,
@@ -135,35 +145,46 @@ export const createCard = (
             offsetY: 3,
           }),
         });
+        (background as any).isBackground = true;
 
-        // add hover area behind everything
         const hoverArea = createHoverArea(cardWidth, cardHeight, HOVER_PADDING);
 
+        // Edit button (top-right)
+        const btnSize = 22;
+        const btnPad = 8;
+        const editBg = new Rect({
+          left: cardWidth - btnSize - btnPad,
+          top: btnPad,
+          width: btnSize,
+          height: btnSize,
+          rx: 6,
+          ry: 6,
+          fill: '#272725',
+          stroke: '#3F3F3D',
+          strokeWidth: 1,
+          selectable: false,
+          evented: true,
+          hoverCursor: 'pointer',
+        });
+        (editBg as any).isEditButton = true;
+        const editGlyph = new Textbox('✎', {
+          left: cardWidth - btnSize - btnPad + 5,
+          top: btnPad + 2,
+          width: btnSize - 10,
+          height: btnSize - 4,
+          fontSize: 14,
+          fill: '#C5C1BA',
+          selectable: false,
+          evented: false,
+        });
+        (editGlyph as any).isEditGlyph = true;
+
         const cardGroup = new Group(
-          [hoverArea, background, img],
+          [hoverArea, background, img, editBg, editGlyph],
           baseGroupOptions(defaultX, defaultY)
         );
 
-        // keep image fitting frame even after scaling
-        cardGroup.on('scaling', () => {
-          const scaleX = cardGroup.scaleX || 1;
-          const scaleY = cardGroup.scaleY || 1;
-          background.set({ scaleX: 1, scaleY: 1 });
-          img.set({
-            scaleX: scale * (1 / scaleX),
-            scaleY: scale * (1 / scaleY),
-          });
-          canvas.renderAll();
-        });
-
-        cardGroup.on('modified', () => {
-          background.set({ scaleX: 1, scaleY: 1 });
-          img.set({
-            scaleX: scale,
-            scaleY: scale,
-          });
-          canvas.renderAll();
-        });
+        // Resizing disabled — no scaling handlers
 
         finalizeCard(cardGroup, cardWidth, cardHeight);
       };
@@ -207,6 +228,7 @@ export const createCard = (
         offsetY: 4,
       }),
     });
+    (background as any).isBackground = true;
 
     const titleText = new Textbox(card.title, {
       fontSize: 16,
@@ -233,30 +255,42 @@ export const createCard = (
       splitByGrapheme: true,
     });
 
+    // Edit button (top-right)
+    const btnSize = 22;
+    const btnPad = 8;
+    const editBg = new Rect({
+      left: cardWidth - btnSize - btnPad,
+      top: btnPad,
+      width: btnSize,
+      height: btnSize,
+      rx: 6,
+      ry: 6,
+      fill: '#272725',
+      stroke: '#3F3F3D',
+      strokeWidth: 1,
+      selectable: false,
+      evented: true,
+      hoverCursor: 'pointer',
+    });
+    (editBg as any).isEditButton = true;
+    const editGlyph = new Textbox('✎', {
+      left: cardWidth - btnSize - btnPad + 5,
+      top: btnPad + 2,
+      width: btnSize - 10,
+      height: btnSize - 4,
+      fontSize: 14,
+      fill: '#C5C1BA',
+      selectable: false,
+      evented: false,
+    });
+    (editGlyph as any).isEditGlyph = true;
+
     const cardGroup = new Group(
-      [hoverArea, background, titleText, descText],
+      [hoverArea, background, titleText, descText, editBg, editGlyph],
       baseGroupOptions(defaultX, defaultY)
     );
 
-    const adjustTextScaling = () => {
-      const scaleX = cardGroup.scaleX || 1;
-      const scaleY = cardGroup.scaleY || 1;
-      titleText.set({
-        width: (cardWidth - 40) * scaleX,
-        scaleX: 1 / scaleX,
-        scaleY: 1 / scaleY,
-      });
-      descText.set({
-        width: (cardWidth - 40) * scaleX,
-        scaleX: 1 / scaleX,
-        scaleY: 1 / scaleY,
-      });
-      background.set({ scaleX: 1, scaleY: 1 });
-      canvas.renderAll();
-    };
-
-    cardGroup.on('scaling', adjustTextScaling);
-    cardGroup.on('modified', adjustTextScaling);
+    // Resizing disabled — no scaling handlers for text cards
 
     cardGroup.on('mousedblclick', (e) => {
       const clickedObject = e.subTargets?.[0];

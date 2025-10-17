@@ -11,6 +11,8 @@ export const useCanvasInteractions = (
   const isPanning = useRef(false);
   const lastPos = useRef<{ x: number; y: number } | null>(null);
   const spaceDown = useRef(false);
+  const dragStartCardId = useRef<string | null>(null);
+  const dragStartPos = useRef<{ left: number; top: number } | null>(null);
 
     // 🔍 Manual zoom (for zoomIn/zoomOut buttons)
   const zoom = useCallback(
@@ -69,6 +71,16 @@ export const useCanvasInteractions = (
       const event = opt.e as MouseEvent;
       const target = (opt as any).target as fabric.Object | undefined;
 
+      // Record potential drag start for cards
+      const maybeGroup = target as (fabric.Group & { cardId?: string }) | undefined;
+      if (maybeGroup && (maybeGroup as any).cardId) {
+        dragStartCardId.current = (maybeGroup as any).cardId ?? null;
+        dragStartPos.current = { left: maybeGroup.left ?? 0, top: maybeGroup.top ?? 0 };
+      } else {
+        dragStartCardId.current = null;
+        dragStartPos.current = null;
+      }
+
       // Allow panning when:
       // - Middle or right mouse button is pressed, OR
       // - Left click on empty canvas (no target), OR
@@ -113,32 +125,38 @@ export const useCanvasInteractions = (
             const obj = canvas.getActiveObject();
             const id = (obj as any)?.cardId;
             if (id) {
-                console.log("Mouse up");
-
-                // ✅ Update position in DB
+                // ✅ Update position and size in DB
                 const token = localStorage.getItem('learnableToken');
                 const group = canvas.getActiveObject() as fabric.Group & { cardId?: string };
-
                 if (group && token) {
+                    // Only persist if the card actually moved
+                    const startId = dragStartCardId.current;
+                    const start = dragStartPos.current;
+                    const curLeft = group.left ?? 0;
+                    const curTop = group.top ?? 0;
+                    const moved = !!start && startId === id && (Math.abs((start.left ?? 0) - curLeft) > 0.5 || Math.abs((start.top ?? 0) - curTop) > 0.5);
+
+                    // Reset trackers for next interaction
+                    dragStartCardId.current = null;
+                    dragStartPos.current = null;
+
+                    if (!moved) return;
+
+                    const payload: any = { x_pos: curLeft, y_pos: curTop };
                     fetch(`${apiBaseUrl}/api/graph/notes/${id}`, {
                         method: 'PATCH',
                         headers: {
                             'Content-Type': 'application/json',
                             Authorization: `Bearer ${token}`,
                         },
-                        body: JSON.stringify({
-                            x_pos: group.left,
-                            y_pos: group.top,
-                        }),
+                        body: JSON.stringify(payload),
                     })
                         .then(async (res) => {
                             if (!res.ok) {
-                                console.error('Position update failed:', await res.text());
-                            } else {
-                                console.log(`✅ Updated position for card ${id}`);
+                                console.error('Update failed:', await res.text());
                             }
                         })
-                        .catch((err) => console.error('Error updating card position:', err));
+                        .catch((err) => console.error('Error updating card:', err));
                 }
             }
     };
@@ -146,7 +164,7 @@ export const useCanvasInteractions = (
 
         // ✅ Keyboard delete — removes from canvas and backend
         const handleDelete = (e: KeyboardEvent) => {
-            if (e.key === 'Delete' || e.key === 'Backspace') {
+            if (e.key === 'Delete') {
         const obj = canvas.getActiveObject();
         if (!obj) return;
         const id = (obj as any)?.cardId;

@@ -6,7 +6,7 @@ import { Message } from './types';
 
 type Props = {
   messages: Message[];
-  onAcceptProposal: (messageId: string, content: string) => void;
+  onAcceptProposal: (messageId: string, payload: { title: string; description: string }) => void;
   onDenyProposal: (messageId: string) => void;
   onCopy: (text: string) => void;
   onThumbsUp: () => void;
@@ -84,7 +84,7 @@ export const ChatMessageList = ({
             {message.sender === 'assistant' && !message.isGenerating && message.showProposal && message.cardContent && (
               <ProposedCard
                 content={message.cardContent}
-                onAccept={(edited) => onAcceptProposal(message.id, edited)}
+                onAccept={(payload) => onAcceptProposal(message.id, payload)}
                 onDeny={() => onDenyProposal(message.id)}
               />
             )}

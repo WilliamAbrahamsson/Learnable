@@ -137,16 +137,39 @@ export const Chat = () => {
     void fetchAssistantResponse(trimmed, assistantId);
   };
 
-  const handleAcceptProposal = async (messageId: string, editedContent?: string) => {
+  const handleAcceptProposal = async (messageId: string, payload?: { title: string; description: string }) => {
     const msg = messages.find((m) => m.id === messageId);
-    if (!msg?.cardContent && !editedContent) return;
+    if (!msg?.cardContent && !payload) return;
     const token = localStorage.getItem('learnableToken');
     if (!token) { toast({ variant: 'destructive', description: 'Please sign in to add notes.' }); return; }
     try {
-      const description = (editedContent ?? msg.cardContent)!;
-      const name = description.split('—')[0]?.trim() || 'Learnable Card';
-      const res = await fetch(`${apiBaseUrl}/api/graph/notes`, { method: 'POST', headers: { 'Content-Type': 'application/json', Authorization: `Bearer ${token}` }, body: JSON.stringify({ name, description }) });
+      let name: string;
+      let description: string;
+      if (payload) {
+        name = payload.title?.trim() || 'Card';
+        description = payload.description?.trim() || '';
+      } else {
+        // Fallback for legacy string-only content or non-JSON
+        try {
+          const parsed = JSON.parse(msg.cardContent!);
+          name = String(parsed.title ?? 'Card');
+          description = String(parsed.description ?? '');
+        } catch {
+          name = 'Card';
+          description = msg.cardContent!;
+        }
+      }
+      const res = await fetch(`${apiBaseUrl}/api/graph/notes`, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json', Authorization: `Bearer ${token}` },
+        body: JSON.stringify({ name, description }),
+      });
       if (!res.ok) throw new Error(await res.text());
+      const saved = await res.json();
+      // Notify other parts of the app (e.g., CardCanvas) to reflect the new note immediately
+      try {
+        window.dispatchEvent(new CustomEvent('learnable-note-added', { detail: saved }));
+      } catch {}
       setMessages((prev) => prev.map((m) => (m.id === messageId ? { ...m, showProposal: false } : m)));
       toast({ description: 'Added to Learning Graph.' });
     } catch {

@@ -64,11 +64,12 @@ def chat_stream():
                 full_reply += content
                 yield f"data: {json.dumps({'content': content})}\n\n"
 
-        # Step 2: Generate Learnable concept card summary
+        # Step 2: Generate Learnable concept card (title + description)
         if generate_card:
             card_prompt = (
-                "Summarize the above response into a short Learnable concept card. "
-                "Write only the summary paragraph itself, no introductions or bullet points."
+                "From the conversation and your reply, generate a short Learnable concept card as JSON. "
+                "Return ONLY a JSON object with keys: title (3-6 words, concise) and description (1-3 sentences, clear). "
+                "Do not include markdown or extra text."
             )
             card = client.chat.completions.create(
                 model=MODEL,
@@ -79,8 +80,9 @@ def chat_stream():
                 temperature=0.7,
                 max_tokens=200,
             )
-            summary_text = card.choices[0].message.content.strip()
-            yield f"data: {json.dumps({'content': f'<card>{summary_text}</card>'})}\n\n"
+            json_text = card.choices[0].message.content.strip()
+            # Send as a structured <card> block so the frontend can parse {title, description}
+            yield f"data: {json.dumps({'content': f'<card>{json_text}</card>'})}\n\n"
 
         yield "data: [DONE]\n\n"
 
