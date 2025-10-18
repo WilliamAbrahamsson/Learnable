@@ -1,0 +1,2821 @@
+{
+  "university_id": "646",
+  "university_name": "Utah Valley University",
+  "courses": [
+    {
+      "name": "2D Design",
+      "code": "ART 1120",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/2d-design/2476226"
+    },
+    {
+      "name": "ABA Concepts and Principles",
+      "code": "EDUC 6010",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/aba-concepts-and-principles/2476232"
+    },
+    {
+      "name": "Abnormal Psychology",
+      "code": "PSY 3400",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/abnormal-psychology/2476233"
+    },
+    {
+      "name": "Academic Writing for English Majors",
+      "code": "ENGL 3090",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/academic-writing-for-english-majors/2476238"
+    },
+    {
+      "name": "Accounting Information Systems",
+      "code": "ACC 3510",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/accounting-information-systems/2476240"
+    },
+    {
+      "name": "Accounting Strategies for Achieving Profit Goals",
+      "code": "ACC 6350",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/accounting-strategies-for-achieving-profit-goals/2476242"
+    },
+    {
+      "name": "Acting for Musical Theatre I",
+      "code": "THEA 3151",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/acting-for-musical-theatre-i/2476247"
+    },
+    {
+      "name": "Acting III",
+      "code": "THEA 3033",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/acting-iii/2476251"
+    },
+    {
+      "name": "Adult Development and Aging",
+      "code": "FAMS 3850",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/adult-development-and-aging/2476260"
+    },
+    {
+      "name": "Advanced Accounting Information Systems",
+      "code": "ACC 6500",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/advanced-accounting-information-systems/2476261"
+    },
+    {
+      "name": "Advanced Automation Controls",
+      "code": "MECH 4500",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/advanced-automation-controls/2476268"
+    },
+    {
+      "name": "Advanced Calculus I",
+      "code": "MATH 4210",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/advanced-calculus-i/2476276"
+    },
+    {
+      "name": "Advanced Calculus II",
+      "code": "MATH 4220",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/advanced-calculus-ii/2476277"
+    },
+    {
+      "name": "Advanced Embedded Systems Engineering",
+      "code": "CS 6730",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/advanced-embedded-systems-engineering/2476292"
+    },
+    {
+      "name": "Advanced Japanese",
+      "code": "JPNS 3050",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/advanced-japanese/2476319"
+    },
+    {
+      "name": "Advanced Nursing Pathophysiology/Pharmacology",
+      "code": "NURS 6350",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/advanced-nursing-pathophysiologypharmacology/2476342"
+    },
+    {
+      "name": "Advanced Pediatrics",
+      "code": "NURS 4220",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/advanced-pediatrics/2476348"
+    },
+    {
+      "name": "Advanced Poetry Writing II",
+      "code": "ENGL 4445",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/advanced-poetry-writing-ii/2476355"
+    },
+    {
+      "name": "Advanced Spanish",
+      "code": "SPAN 3050\n                              \n                              LH",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/advanced-spanish/2476372"
+    },
+    {
+      "name": "Advanced System Administration--Linux/UNIX",
+      "code": "IT 3510",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/advanced-system-administration-linuxunix/2476378"
+    },
+    {
+      "name": "Advanced Topics in Finance",
+      "code": "FIN 457R",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/advanced-topics-in-finance/2476393"
+    },
+    {
+      "name": "Advanced Topics in Marketing",
+      "code": "MKTG 459R",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/advanced-topics-in-marketing/2476398"
+    },
+    {
+      "name": "Aerospace Defense General Purpose and Support Forces",
+      "code": "AERO 1110",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/aerospace-defense-general-purpose-and-support-forces/2476415"
+    },
+    {
+      "name": "Air Traffic Management",
+      "code": "AVSC 3030",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/air-traffic-management/2476423"
+    },
+    {
+      "name": "Airline and Dispatch Operations",
+      "code": "AVSC 3090",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/airline-and-dispatch-operations/2476431"
+    },
+    {
+      "name": "American Civilization",
+      "code": "HIST 1700\n                              \n                              AS",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/american-civilization/2476440"
+    },
+    {
+      "name": "American Foreign Policy",
+      "code": "POLS 3400",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/american-foreign-policy/2476441"
+    },
+    {
+      "name": "American Heritage",
+      "code": "POLS 1000\n                              \n                              AS",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/american-heritage/2476442"
+    },
+    {
+      "name": "American Literature after 1865",
+      "code": "ENGL 2520\n                              \n                              HH",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/american-literature-after-1865/2476446"
+    },
+    {
+      "name": "American National Government",
+      "code": "POLS 1100\n                              \n                              AS",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/american-national-government/2476448"
+    },
+    {
+      "name": "American Popular Music",
+      "code": "MUSC 1030\n                              \n                              FF",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/american-popular-music/2476450"
+    },
+    {
+      "name": "AMT General Knowledge A",
+      "code": "AVSC 1320",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/amt-general-knowledge-a/2476459"
+    },
+    {
+      "name": "Analysis of Algorithms",
+      "code": "CS 3310",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/analysis-of-algorithms/2476464"
+    },
+    {
+      "name": "Analytical Chemistry Laboratory",
+      "code": "CHEM 3005",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/analytical-chemistry-laboratory/2476468"
+    },
+    {
+      "name": "Ancient Legacies",
+      "code": "HONR 2000",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/ancient-legacies/2476472"
+    },
+    {
+      "name": "Andean Religion",
+      "code": "ANTH 3420",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/andean-religion/2476474"
+    },
+    {
+      "name": "Applied Parenting",
+      "code": "FAMS 3250",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/applied-parenting/2476494"
+    },
+    {
+      "name": "Applied Probability and Statistics for Engineers and Scientists",
+      "code": "ECE 3710",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/applied-probability-and-statistics-for-engineers-and-scientists/2476495"
+    },
+    {
+      "name": "Applying Interpreting Skills to Coursework--Community",
+      "code": "ASL 4383",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/applying-interpreting-skills-to-coursework-community/2476500"
+    },
+    {
+      "name": "Applying Interpreting Skills to Coursework--Education",
+      "code": "ASL 4382",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/applying-interpreting-skills-to-coursework-education/2476501"
+    },
+    {
+      "name": "Art History",
+      "code": "ARTH-2710",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/art-history/4399321"
+    },
+    {
+      "name": "ASL Linguistics",
+      "code": "ASL 4410",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/asl-linguistics/2476530"
+    },
+    {
+      "name": "ASL Literature",
+      "code": "ASL 3610",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/asl-literature/2476531"
+    },
+    {
+      "name": "Assessment in Physical Education",
+      "code": "PETE 4400",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/assessment-in-physical-education/2476537"
+    },
+    {
+      "name": "Auditing",
+      "code": "ACC 4110",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/auditing/2476544"
+    },
+    {
+      "name": "Automotive Service Practicum Fuel Management Systems and HVACR",
+      "code": "AUT 204L",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/automotive-service-practicum-fuel-management-systems-and-hvacr/2476572"
+    },
+    {
+      "name": "Avalanche Awareness",
+      "code": "REC 2010",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/avalanche-awareness/2476573"
+    },
+    {
+      "name": "Aviation Safety",
+      "code": "AVSC 2130",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/aviation-safety/2476585"
+    },
+    {
+      "name": "Ballet Technique I",
+      "code": "DANC 127R",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/ballet-technique-i/2476601"
+    },
+    {
+      "name": "Baroque Art and Architecture History",
+      "code": "ARTH 3050",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/baroque-art-and-architecture-history/2476611"
+    },
+    {
+      "name": "Basic English Language Immersion",
+      "code": "ESL 0100",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/basic-english-language-immersion/2476617"
+    },
+    {
+      "name": "Beginning American Sign Language I",
+      "code": "ASL 1010\n                              \n                              LH",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/beginning-american-sign-language-i/2476620"
+    },
+    {
+      "name": "Beginning Chinese I",
+      "code": "CHIN 1010\n                              \n                              LH",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/beginning-chinese-i/2476625"
+    },
+    {
+      "name": "Beginning French I",
+      "code": "FREN 1010\n                              \n                              LH",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/beginning-french-i/2476628"
+    },
+    {
+      "name": "Biochemistry Laboratory",
+      "code": "CHEM 3605\n                              \n                               (Cross-listed with: BIOL 360",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/biochemistry-laboratory/2476657"
+    },
+    {
+      "name": "Biological Anthropology",
+      "code": "ANTH 1020\n                              \n                               (Cross-listed with: BIOL 150",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/biological-anthropology/2476662"
+    },
+    {
+      "name": "Biological Chemistry",
+      "code": "CHEM 3600\n                              \n                               (Cross-listed with: BIOL 360",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/biological-chemistry/2476663"
+    },
+    {
+      "name": "Biological Chemistry",
+      "code": "BIOL 3600\n                              \n                               (Cross-listed with: CHEM 360",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/biological-chemistry/2476664"
+    },
+    {
+      "name": "Biology",
+      "code": "1010",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/biology/3247671"
+    },
+    {
+      "name": "Biology",
+      "code": "Biol 1620",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/biology/4356746"
+    },
+    {
+      "name": "Biology and Culture",
+      "code": "ANTH 3830",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/biology-and-culture/2476666"
+    },
+    {
+      "name": "Biology Colloquium",
+      "code": "BIOL 497R",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/biology-colloquium/2476667"
+    },
+    {
+      "name": "Body Image  Self-Esteem  and Weight Management",
+      "code": "HLTH 2000",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/body-image-self-esteem-and-weight-management/2476677"
+    },
+    {
+      "name": "British Literature after 1800",
+      "code": "ENGL 2620\n                              \n                              HH",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/british-literature-after-1800/2476690"
+    },
+    {
+      "name": "Building Envelopes and Mechanical Systems",
+      "code": "CMGT 3020",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/building-envelopes-and-mechanical-systems/2476694"
+    },
+    {
+      "name": "Business and Professional Presentations",
+      "code": "MKTG 3390",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/business-and-professional-presentations/2476697"
+    },
+    {
+      "name": "Business Calculus",
+      "code": "MGMT 2240",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/business-calculus/2476698"
+    },
+    {
+      "name": "Business Japanese",
+      "code": "JPNS 3200",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/business-japanese/2476707"
+    },
+    {
+      "name": "Business Law",
+      "code": "LEGL 3000",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/business-law/2476708"
+    },
+    {
+      "name": "Business Statistics I",
+      "code": "MGMT 2340",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/business-statistics-i/2476715"
+    },
+    {
+      "name": "Business Strategy Formulation and Implementation",
+      "code": "MGMT 4860",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/business-strategy-formulation-and-implementation/2476716"
+    },
+    {
+      "name": "Business Writing",
+      "code": "MGMT 2200",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/business-writing/4344074"
+    },
+    {
+      "name": "C plus plus Programming",
+      "code": "CS 2370",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/c-plus-plus-programming/2476717"
+    },
+    {
+      "name": "Cabinetry Math",
+      "code": "CAW 2310",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/cabinetry-math/2476720"
+    },
+    {
+      "name": "Calculus I",
+      "code": "MATH 1210\n                              \n                              QL",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/calculus-i/2476721"
+    },
+    {
+      "name": "Calculus III",
+      "code": "MATH 2210",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/calculus-iii/2476723"
+    },
+    {
+      "name": "Career and Graduate School Preparation for Behavioral Science Majors",
+      "code": "BESC 3100",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/career-and-graduate-school-preparation-for-behavioral-science-majors/2476732"
+    },
+    {
+      "name": "Career Preparation",
+      "code": "MKTG 3890",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/career-preparation/2476735"
+    },
+    {
+      "name": "Cell Biology",
+      "code": "BIOL 3400",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/cell-biology/2476743"
+    },
+    {
+      "name": "Child Abuse Neglect and Domestic Violence",
+      "code": "SW 3750",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/child-abuse-neglect-and-domestic-violence/2476769"
+    },
+    {
+      "name": "Child Development Birth to Eight Years",
+      "code": "EDEC 2500",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/child-development-birth-to-eight-years/1126749"
+    },
+    {
+      "name": "Childrens Literature",
+      "code": "EDEL 2330",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/childrens-literature/2476771"
+    },
+    {
+      "name": "Classroom Management I",
+      "code": "EDSC 4200",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/classroom-management-i/2476798"
+    },
+    {
+      "name": "Classroom Management II",
+      "code": "EDSC 4250",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/classroom-management-ii/2476800"
+    },
+    {
+      "name": "Clinical Skills for Professionals",
+      "code": "FAMS 3050",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/clinical-skills-for-professionals/7201529"
+    },
+    {
+      "name": "Cognitive Psychology",
+      "code": "PSY 3420",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/cognitive-psychology/2476819"
+    },
+    {
+      "name": "College Algebra",
+      "code": "MATH 1050\n                              \n                               (Cross-listed with: MATH 105",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/college-algebra/2476822"
+    },
+    {
+      "name": "College Biology I",
+      "code": "BIOL 1610\n                              \n                              BB",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/college-biology-i/2476825"
+    },
+    {
+      "name": "College Biology I Laboratory",
+      "code": "BIOL 1615",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/college-biology-i-laboratory/2476826"
+    },
+    {
+      "name": "College Biology II Laboratory",
+      "code": "BIOL 1625",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/college-biology-ii-laboratory/2476828"
+    },
+    {
+      "name": "College Physics I",
+      "code": "PHYS 2010\n                              \n                              PP",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/college-physics-i/2476829"
+    },
+    {
+      "name": "College Physics I Lab",
+      "code": "PHYS 2015",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/college-physics-i-lab/2476830"
+    },
+    {
+      "name": "Communicating Digital Design",
+      "code": "DGM 1240",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/communicating-digital-design/2476842"
+    },
+    {
+      "name": "Communication Capstone",
+      "code": "COMM 4930",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/communication-capstone/2476848"
+    },
+    {
+      "name": "Communication Research Methods",
+      "code": "COMM 3020",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/communication-research-methods/2476853"
+    },
+    {
+      "name": "Communications",
+      "code": "COMM 1050 X03",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/communications/4954084"
+    },
+    {
+      "name": "Community Health Ethics",
+      "code": "HLTH 4300",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/community-health-ethics/2476861"
+    },
+    {
+      "name": "Composition",
+      "code": "DANC 2340",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/composition/2476875"
+    },
+    {
+      "name": "Computer and Information Literacy",
+      "code": "COMP 1000",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/computer-and-information-literacy/2476879"
+    },
+    {
+      "name": "Computer Forensic Fundamentals",
+      "code": "IT 2800",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/computer-forensic-fundamentals/2476884"
+    },
+    {
+      "name": "Computer Technology in Education",
+      "code": "EDEL 2200",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/computer-technology-in-education/2476893"
+    },
+    {
+      "name": "Concepts of Stress Management",
+      "code": "HLTH 2400",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/concepts-of-stress-management/2476897"
+    },
+    {
+      "name": "Conservation Biology",
+      "code": "BIOL 3800",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/conservation-biology/2476902"
+    },
+    {
+      "name": "Constitutional Criminal Rights",
+      "code": "CJ 4160",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/constitutional-criminal-rights/2476903"
+    },
+    {
+      "name": "Construction Financial Management",
+      "code": "CMGT 3080",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/construction-financial-management/2476910"
+    },
+    {
+      "name": "Construction Job Site Management",
+      "code": "CMGT 3040",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/construction-job-site-management/2476911"
+    },
+    {
+      "name": "Construction Materials and Methods I",
+      "code": "CMGT 1020",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/construction-materials-and-methods-i/2476912"
+    },
+    {
+      "name": "Construction Materials and Methods II",
+      "code": "CMGT 2010",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/construction-materials-and-methods-ii/2476913"
+    },
+    {
+      "name": "Contemporary American Literature",
+      "code": "ENGL 3540",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/contemporary-american-literature/2476920"
+    },
+    {
+      "name": "Contemporary British Literature",
+      "code": "ENGL 3670",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/contemporary-british-literature/2476921"
+    },
+    {
+      "name": "Contemporary Critical Approaches to Literature",
+      "code": "ENGL 3890",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/contemporary-critical-approaches-to-literature/2476922"
+    },
+    {
+      "name": "Control systems",
+      "code": "ECE 3350",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/control-systems/5326599"
+    },
+    {
+      "name": "Cooking Skills Development",
+      "code": "CA 1120",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/cooking-skills-development/2476948"
+    },
+    {
+      "name": "Corporate and Documentary Production",
+      "code": "DGM 1520",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/corporate-and-documentary-production/2476951"
+    },
+    {
+      "name": "Cost Management",
+      "code": "ACC 3300",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/cost-management/2476957"
+    },
+    {
+      "name": "Creativity Innovation and Change Management",
+      "code": "TECH 3010",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/creativity-innovation-and-change-management/2476979"
+    },
+    {
+      "name": "Crime Scene Investigation Techniques I",
+      "code": "FSCI 3820",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/crime-scene-investigation-techniques-i/2476982"
+    },
+    {
+      "name": "Criminal Investigations",
+      "code": "CJ 1340",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/criminal-investigations/2476985"
+    },
+    {
+      "name": "Criminal Law",
+      "code": "CJ 1330",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/criminal-law/2476990"
+    },
+    {
+      "name": "Criminal Law and Procedure",
+      "code": "PRLG 3300",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/criminal-law-and-procedure/2476991"
+    },
+    {
+      "name": "Criminalistics",
+      "code": "FSCI 3400",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/criminalistics/2476993"
+    },
+    {
+      "name": "Critical Introduction to Cinema Studies",
+      "code": "CINE 2150\n                              \n                               (Cross-listed with: ENGL 215",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/critical-introduction-to-cinema-studies/2477002"
+    },
+    {
+      "name": "Critical Introduction to Literature",
+      "code": "ENGL 2600\n                              \n                              HH",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/critical-introduction-to-literature/2477003"
+    },
+    {
+      "name": "Cross Cultural Communication and Interpreting",
+      "code": "ASL 3330",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/cross-cultural-communication-and-interpreting/2477005"
+    },
+    {
+      "name": "Cross Cultural Communications for International Business",
+      "code": "MGMT 332G\n                              \n                               (Cross-listed with: COMM 332",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/cross-cultural-communications-for-international-business/2477006"
+    },
+    {
+      "name": "CS Seminar",
+      "code": "CS 296R",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/cs-seminar/2477008"
+    },
+    {
+      "name": "Cybersecurity Management",
+      "code": "IT 6770",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/cybersecurity-management/2477057"
+    },
+    {
+      "name": "Dance as Cultural Practice",
+      "code": "DANC 4920",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/dance-as-cultural-practice/2477062"
+    },
+    {
+      "name": "Data Communication Fundamentals",
+      "code": "IT 2600",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/data-communication-fundamentals/2477074"
+    },
+    {
+      "name": "Data Security Analytics",
+      "code": "INFO 4135",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/data-security-analytics/2477076"
+    },
+    {
+      "name": "Database Theory",
+      "code": "CS 3520",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/database-theory/2477084"
+    },
+    {
+      "name": "DC and AC Machines Lab for EART Technicians",
+      "code": "EART 1285",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/dc-and-ac-machines-lab-for-eart-technicians/2477086"
+    },
+    {
+      "name": "Deaf Culture 1817 to 1970",
+      "code": "ASL 3520",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/deaf-culture-1817-to-1970/2477088"
+    },
+    {
+      "name": "Deaf Culture Studies",
+      "code": "ASL 4800",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/deaf-culture-studies/2477090"
+    },
+    {
+      "name": "Deaf Culture to 1817",
+      "code": "ASL 3510",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/deaf-culture-to-1817/2477091"
+    },
+    {
+      "name": "Deaf Peoples of the World",
+      "code": "ASL 4530",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/deaf-peoples-of-the-world/2477094"
+    },
+    {
+      "name": "Deafness and the Law",
+      "code": "ASL 4560",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/deafness-and-the-law/2477098"
+    },
+    {
+      "name": "Derivative Securities",
+      "code": "FIN 4170",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/derivative-securities/2477112"
+    },
+    {
+      "name": "Design of Experiment",
+      "code": "STAT 4100",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/design-of-experiment/2477118"
+    },
+    {
+      "name": "Developing and Changing Behaviors",
+      "code": "EDUC 6030",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/developing-and-changing-behaviors/2477126"
+    },
+    {
+      "name": "Developmental Biology",
+      "code": "BIOL 3300",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/developmental-biology/2477130"
+    },
+    {
+      "name": "Differential Geometry",
+      "code": "MATH 4100",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/differential-geometry/6732283"
+    },
+    {
+      "name": "Digital Motion Picture Essentials",
+      "code": "DGM 2110",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/digital-motion-picture-essentials/2477168"
+    },
+    {
+      "name": "Digital Output for Mobile Media",
+      "code": "DGM 2341",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/digital-output-for-mobile-media/2477171"
+    },
+    {
+      "name": "Diversity Issues in Social Work Practice",
+      "code": "SW 371G",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/diversity-issues-in-social-work-practice/2477203"
+    },
+    {
+      "name": "DNA Manipulation and Analysis",
+      "code": "BTEC 2010",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/dna-manipulation-and-analysis/2477204"
+    },
+    {
+      "name": "Document Processing Applications",
+      "code": "IM 2100",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/document-processing-applications/2477205"
+    },
+    {
+      "name": "Drafting and Computer Applications for Cabinetmakers",
+      "code": "CAW 1250",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/drafting-and-computer-applications-for-cabinetmakers/2477208"
+    },
+    {
+      "name": "Drugs and Crime",
+      "code": "CJ 3400",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/drugs-and-crime/2477215"
+    },
+    {
+      "name": "Drugs Behavior and Society",
+      "code": "HLTH 2600\n                              \n                              SS",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/drugs-behavior-and-society/2477216"
+    },
+    {
+      "name": "Econometrics",
+      "code": "ECON 6330",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/econometrics/2477228"
+    },
+    {
+      "name": "Economic Geography",
+      "code": "GEOG 3010",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/economic-geography/2477231"
+    },
+    {
+      "name": "Economic Modeling and Quantitative Analysis",
+      "code": "ECON 3370",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/economic-modeling-and-quantitative-analysis/2477232"
+    },
+    {
+      "name": "Economics as a Social Science",
+      "code": "ECON 1010\n                              \n                              SS",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/economics-as-a-social-science/2477234"
+    },
+    {
+      "name": "Educational Psychology",
+      "code": "EDEL 3000",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/educational-psychology/2477238"
+    },
+    {
+      "name": "Educational Psychology",
+      "code": "EDSC 3000",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/educational-psychology/2477237"
+    },
+    {
+      "name": "Elementary Astronomy",
+      "code": "ASTR 1040\n                              \n                              PP",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/elementary-astronomy/2477255"
+    },
+    {
+      "name": "Elementary Chemistry for the Health Sciences",
+      "code": "CHEM 1110\n                              \n                              PP",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/elementary-chemistry-for-the-health-sciences/2477257"
+    },
+    {
+      "name": "Elementary Chemistry Laboratory",
+      "code": "CHEM 1115",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/elementary-chemistry-laboratory/2477258"
+    },
+    {
+      "name": "Elementary Creative Arts Methods",
+      "code": "EDEL 4540",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/elementary-creative-arts-methods/2477260"
+    },
+    {
+      "name": "Elementary Fluids and Thermal Physics",
+      "code": "PHYS 2500",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/elementary-fluids-and-thermal-physics/2477262"
+    },
+    {
+      "name": "Elementary Organic Bio-Chemistry",
+      "code": "CHEM 1120\n                              \n                              PP",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/elementary-organic-bio-chemistry/2477267"
+    },
+    {
+      "name": "Elementary Physics",
+      "code": "PHYS 1010\n                              \n                              PP",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/elementary-physics/2477271"
+    },
+    {
+      "name": "Elementary Social Studies Methods",
+      "code": "EDEL 4530",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/elementary-social-studies-methods/2477273"
+    },
+    {
+      "name": "Elite Precision Team",
+      "code": "PES 201R",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/elite-precision-team/2477274"
+    },
+    {
+      "name": "Emergency Medical Technician-Part I",
+      "code": "ESEC 114A",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/emergency-medical-technician-part-i/2477279"
+    },
+    {
+      "name": "Employment and Labor Law",
+      "code": "HR 3530\n                              \n                               (Cross-listed with: LEGL 3530)",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/employment-and-labor-law/2477289"
+    },
+    {
+      "name": "Engine Performance",
+      "code": "AUT 1230",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/engine-performance/2477302"
+    },
+    {
+      "name": "Engineering Dynamics",
+      "code": "ENGR 2030",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/engineering-dynamics/2477308"
+    },
+    {
+      "name": "Engineering Programming",
+      "code": "ENGR 1030",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/engineering-programming/2477309"
+    },
+    {
+      "name": "English 1010",
+      "code": "Eng1010",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/english-1010/4366277"
+    },
+    {
+      "name": "English 2010",
+      "code": "Eng2010",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/english-2010/4366282"
+    },
+    {
+      "name": "English Scholarly Forum",
+      "code": "ENGL 290R",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/english-scholarly-forum/2477315"
+    },
+    {
+      "name": "English Spanish Interpreting",
+      "code": "SPAN 4130",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/english-spanish-interpreting/2477316"
+    },
+    {
+      "name": "Entrepreneurship",
+      "code": "ENTR 3170",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/entrepreneurship/2477323"
+    },
+    {
+      "name": "Entrepreneurship Lecture Series",
+      "code": "ENTR 493R",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/entrepreneurship-lecture-series/2477325"
+    },
+    {
+      "name": "Environmental Careers",
+      "code": "ENVT 2710",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/environmental-careers/2477329"
+    },
+    {
+      "name": "Environmental Health",
+      "code": "ENVT 2560",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/environmental-health/2477335"
+    },
+    {
+      "name": "Environmental History of the United States",
+      "code": "HIST 3800\n                              \n                               (Cross-listed with: GEOG 380",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/environmental-history-of-the-united-states/2477336"
+    },
+    {
+      "name": "Environmental Worker Safety",
+      "code": "ENVT 1200",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/environmental-worker-safety/2477350"
+    },
+    {
+      "name": "Epidemiology",
+      "code": "HLTH 3800",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/epidemiology/2477351"
+    },
+    {
+      "name": "Epistemology",
+      "code": "PHIL 3300",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/epistemology/2477352"
+    },
+    {
+      "name": "Ethical Issues in Criminal Justice",
+      "code": "CJ 4200",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/ethical-issues-in-criminal-justice/2477358"
+    },
+    {
+      "name": "Ethics and Professional Competencies in Applied Behavioral Analysis",
+      "code": "EDUC 6020",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/ethics-and-professional-competencies-in-applied-behavioral-analysis/2477360"
+    },
+    {
+      "name": "Ethics and Values",
+      "code": "PHIL 2050\n                              \n                              IH",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/ethics-and-values/2477361"
+    },
+    {
+      "name": "Ethics and Values in Social Work Practice",
+      "code": "SW 3600",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/ethics-and-values-in-social-work-practice/2477362"
+    },
+    {
+      "name": "Ethics for Family Interventions",
+      "code": "FAMS 2705",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/ethics-for-family-interventions/2477363"
+    },
+    {
+      "name": "Ethics for Interpreters",
+      "code": "ASL 4370",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/ethics-for-interpreters/2477364"
+    },
+    {
+      "name": "Event Planning",
+      "code": "HM 4200",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/event-planning/2477369"
+    },
+    {
+      "name": "Exceptional Students",
+      "code": "EDSP 3400",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/exceptional-students/2477371"
+    },
+    {
+      "name": "Executive Lecture Series",
+      "code": "MGMT 495R",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/executive-lecture-series/2477372"
+    },
+    {
+      "name": "Family Dynamics and Systems",
+      "code": "FAMS 4670",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/family-dynamics-and-systems/2477391"
+    },
+    {
+      "name": "Family Life Education Methodology",
+      "code": "FAMS 4500",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/family-life-education-methodology/2477395"
+    },
+    {
+      "name": "Field Botany",
+      "code": "BOT 2050\n                              \n                              BB",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/field-botany/2477400"
+    },
+    {
+      "name": "Film Production Analysis",
+      "code": "DGM 1510",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/film-production-analysis/2477413"
+    },
+    {
+      "name": "Financial Accounting",
+      "code": "ACC 2010",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/financial-accounting/2477418"
+    },
+    {
+      "name": "Financial Analysis",
+      "code": "ACC 6250",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/financial-analysis/7350448"
+    },
+    {
+      "name": "Financial Counseling",
+      "code": "FIN 3200",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/financial-counseling/2477420"
+    },
+    {
+      "name": "Financial Literacy",
+      "code": "FIN 1060",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/financial-literacy/4419070"
+    },
+    {
+      "name": "Financial Management",
+      "code": "FIN 3150",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/financial-management/2477423"
+    },
+    {
+      "name": "Financial Managerial and Cost Accounting Concepts",
+      "code": "ACC 3000",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/financial-managerial-and-cost-accounting-concepts/2477425"
+    },
+    {
+      "name": "Fingerprint Examination I",
+      "code": "FSCI 3700",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/fingerprint-examination-i/2477430"
+    },
+    {
+      "name": "Finishing Lab",
+      "code": "CMGT 1220",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/finishing-lab/2477434"
+    },
+    {
+      "name": "Fitness for Life",
+      "code": "PES 1097\n                              \n                              FE",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/fitness-for-life/2477457"
+    },
+    {
+      "name": "Food and Beverage Controls",
+      "code": "HM 3640",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/food-and-beverage-controls/2477482"
+    },
+    {
+      "name": "Footwear Impression Evidence",
+      "code": "FSCI 3500",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/footwear-impression-evidence/2477485"
+    },
+    {
+      "name": "Forensic Anthropology",
+      "code": "FSCI 3600",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/forensic-anthropology/7124889"
+    },
+    {
+      "name": "Forensic Microscopy",
+      "code": "FSCI 3860",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/forensic-microscopy/2477492"
+    },
+    {
+      "name": "Forensic Trace Analysis I",
+      "code": "FSCI 3540",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/forensic-trace-analysis-i/2477495"
+    },
+    {
+      "name": "Forensics",
+      "code": "COMM 128R",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/forensics/2477497"
+    },
+    {
+      "name": "Foundations of American Education",
+      "code": "EDSC 3050",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/foundations-of-american-education/2477508"
+    },
+    {
+      "name": "Foundations of Computer Science",
+      "code": "CS 1030",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/foundations-of-computer-science/2477511"
+    },
+    {
+      "name": "Foundations of Exercise Science",
+      "code": "EXSC 270G",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/foundations-of-exercise-science/2477513"
+    },
+    {
+      "name": "Foundations of Human Nutrition",
+      "code": "NUTR 1020",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/foundations-of-human-nutrition/2477516"
+    },
+    {
+      "name": "Fundamentals of Biotechnology I Career Survey",
+      "code": "BTEC 1010\n                              \n                              BB",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/fundamentals-of-biotechnology-i-career-survey/2477540"
+    },
+    {
+      "name": "Fundamentals of Music",
+      "code": "MUSC 1100\n                              \n                              FF",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/fundamentals-of-music/2477549"
+    },
+    {
+      "name": "Fundamentals of Programming",
+      "code": "CS 1400",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/fundamentals-of-programming/2477551"
+    },
+    {
+      "name": "General Biology",
+      "code": "BIOL 1010\n                              \n                              BB",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/general-biology/2477563"
+    },
+    {
+      "name": "General Biology Laboratory",
+      "code": "BIOL 1015",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/general-biology-laboratory/2477564"
+    },
+    {
+      "name": "General Ecology",
+      "code": "BIOL 3700",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/general-ecology/2477565"
+    },
+    {
+      "name": "General Microbiology",
+      "code": "MICR 3450",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/general-microbiology/2477567"
+    },
+    {
+      "name": "General Psychology",
+      "code": "PSYCH 1010",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/general-psychology/4425654"
+    },
+    {
+      "name": "General Psychology",
+      "code": "PSY 1010\n                              \n                              SS",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/general-psychology/2477569"
+    },
+    {
+      "name": "Genetics",
+      "code": "BIOL 3500",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/genetics/2477571"
+    },
+    {
+      "name": "Geology",
+      "code": "Geo 1010",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/geology/4425649"
+    },
+    {
+      "name": "German Culture and Civilization",
+      "code": "GER 351G",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/german-culture-and-civilization/2477590"
+    },
+    {
+      "name": "Global Tourism",
+      "code": "HM 3200\n                              \n                               (Cross-listed with: MGMT 3200)",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/global-tourism/2477609"
+    },
+    {
+      "name": "Governmental and Not For Profit Accounting",
+      "code": "ACC 4030",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/governmental-and-not-for-profit-accounting/2477615"
+    },
+    {
+      "name": "Greek History",
+      "code": "HIST 3110",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/greek-history/2477624"
+    },
+    {
+      "name": "Ground Private Pilot",
+      "code": "AVSC 1100",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/ground-private-pilot/2477633"
+    },
+    {
+      "name": "Health Education Curriculum for Secondary Teachers",
+      "code": "HLTH 4100",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/health-education-curriculum-for-secondary-teachers/2477656"
+    },
+    {
+      "name": "Health for Educators",
+      "code": "HLTH 2900",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/health-for-educators/4887263"
+    },
+    {
+      "name": "Health Promotion for Older Adults",
+      "code": "HLTH 3300",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/health-promotion-for-older-adults/2477661"
+    },
+    {
+      "name": "Herpetology",
+      "code": "ZOOL 3300",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/herpetology/2477670"
+    },
+    {
+      "name": "High-Intermediate Reading Level V",
+      "code": "ESL 1320",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/high-intermediate-reading-level-v/2477681"
+    },
+    {
+      "name": "History and Systems of Psychology",
+      "code": "PSY 4500",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/history-and-systems-of-psychology/2477691"
+    },
+    {
+      "name": "History of American Art and Architecture",
+      "code": "ARTH 3100",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/history-of-american-art-and-architecture/2477692"
+    },
+    {
+      "name": "History of Art from the Renaissance",
+      "code": "ARTH 2720\n                              \n                              FF",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/history-of-art-from-the-renaissance/2477696"
+    },
+    {
+      "name": "History of Art to the Renaissance",
+      "code": "ARTH 2710\n                              \n                              FF",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/history-of-art-to-the-renaissance/2477697"
+    },
+    {
+      "name": "History of Design and Visual Arts",
+      "code": "ARTH 3010",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/history-of-design-and-visual-arts/2477700"
+    },
+    {
+      "name": "Honors Colloquium",
+      "code": "HONR 100R",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/honors-colloquium/2477716"
+    },
+    {
+      "name": "Hospitality Law",
+      "code": "HM 3100",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/hospitality-law/2477725"
+    },
+    {
+      "name": "Hospitality Managerial Accounting",
+      "code": "HM 3020",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/hospitality-managerial-accounting/2477727"
+    },
+    {
+      "name": "Hotel Operations I",
+      "code": "HM 1130",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/hotel-operations-i/2477730"
+    },
+    {
+      "name": "Human Anatomy",
+      "code": "ZOOL 2320\n                              \n                              BB",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/human-anatomy/2477732"
+    },
+    {
+      "name": "Human Anatomy Laboratory",
+      "code": "ZOOL 2325",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/human-anatomy-laboratory/2477734"
+    },
+    {
+      "name": "Human Behavior and the Social Environment I",
+      "code": "SW 2100",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/human-behavior-and-the-social-environment-i/2477735"
+    },
+    {
+      "name": "Human Development Life Span",
+      "code": "PSY 1100\n                              \n                              SS",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/human-development-life-span/2477737"
+    },
+    {
+      "name": "Human Diseases",
+      "code": "HLTH 3400\n                              \n                              BB",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/human-diseases/2477738"
+    },
+    {
+      "name": "Human Physiology",
+      "code": "ZOOL 2420",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/human-physiology/2477743"
+    },
+    {
+      "name": "Human Physiology Laboratory",
+      "code": "ZOOL 2425",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/human-physiology-laboratory/2477746"
+    },
+    {
+      "name": "Human Sexuality",
+      "code": "HLTH 2800\n                              \n                               (Cross-listed with: PSY 2800",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/human-sexuality/2477750"
+    },
+    {
+      "name": "Human Sexuality",
+      "code": "PSY 2800\n                              \n                               (Cross-listed with: HLTH 2800",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/human-sexuality/2477749"
+    },
+    {
+      "name": "Humanities Through the Arts",
+      "code": "HUM 1010\n                              \n                              HH",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/humanities-through-the-arts/2477755"
+    },
+    {
+      "name": "Hydraulics of Water",
+      "code": "ENVT 3320",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/hydraulics-of-water/2477756"
+    },
+    {
+      "name": "I200 Basic Incident Command System",
+      "code": "ESWF 2010",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/i200-basic-incident-command-system/2477759"
+    },
+    {
+      "name": "icem cfd",
+      "code": "2006",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/icem-cfd/5142510"
+    },
+    {
+      "name": "Including Young Diverse Learners",
+      "code": "EDEC 2300",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/including-young-diverse-learners/1178174"
+    },
+    {
+      "name": "Inclusive Leadership",
+      "code": "MGMT 2030",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/inclusive-leadership/6885370"
+    },
+    {
+      "name": "Individual Action and Corporate Social Responsibility",
+      "code": "MGMT 3020",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/individual-action-and-corporate-social-responsibility/2477788"
+    },
+    {
+      "name": "Individual Income Tax",
+      "code": "ACC 3400",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/individual-income-tax/2477789"
+    },
+    {
+      "name": "Instructional Media",
+      "code": "EDSC 3250",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/instructional-media/2477818"
+    },
+    {
+      "name": "Integrated Beginning and Intermediate Algebra",
+      "code": "MAT 1000",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/integrated-beginning-and-intermediate-algebra/2477826"
+    },
+    {
+      "name": "Integrated Studies Capstone I",
+      "code": "IS 4980",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/integrated-studies-capstone-i/2477831"
+    },
+    {
+      "name": "Intercultural Communication Encounters",
+      "code": "COMM 319G",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/intercultural-communication-encounters/2477842"
+    },
+    {
+      "name": "Intermediate Accounting I",
+      "code": "ACC 3010",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/intermediate-accounting-i/2477850"
+    },
+    {
+      "name": "Intermediate Accounting II",
+      "code": "ACC 3020",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/intermediate-accounting-ii/2477851"
+    },
+    {
+      "name": "Intermediate Algebra",
+      "code": "MAT 1010",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/intermediate-algebra/2477852"
+    },
+    {
+      "name": "Intermediate Astronomy",
+      "code": "ASTR 2040",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/intermediate-astronomy/2477857"
+    },
+    {
+      "name": "Intermediate Creative Nonfiction Writing",
+      "code": "ENGL 3450",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/intermediate-creative-nonfiction-writing/2477860"
+    },
+    {
+      "name": "Intermediate German II",
+      "code": "GER 202G\n                              \n                              HH",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/intermediate-german-ii/2477866"
+    },
+    {
+      "name": "Intermediate Writing",
+      "code": "ENGL 2010",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/intermediate-writing/3172451"
+    },
+    {
+      "name": "Intermediate Writing  Humanities Social Sciences",
+      "code": "ENGL 2010\n                              \n                              CC",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/intermediate-writing-humanities-social-sciences/2477885"
+    },
+    {
+      "name": "International Political Economy",
+      "code": "POLS 3680",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/international-political-economy/2477910"
+    },
+    {
+      "name": "Interpersonal Communication",
+      "code": "COMM 2110\n                              \n                               (Cross-listed with: MGMT 211",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/interpersonal-communication/2477928"
+    },
+    {
+      "name": "Interpreting I",
+      "code": "ASL 3310",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/interpreting-i/2477930"
+    },
+    {
+      "name": "Intro to Biology",
+      "code": "Biol 1010",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/intro-to-biology/5072507"
+    },
+    {
+      "name": "Intro to Digital Cinema",
+      "code": "DGM 1500",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/intro-to-digital-cinema/2477934"
+    },
+    {
+      "name": "Intro to Digital Storytelling",
+      "code": "DGM 2570",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/intro-to-digital-storytelling/2477935"
+    },
+    {
+      "name": "Introduction to Academic Writing",
+      "code": "ENGL 1010",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/introduction-to-academic-writing/4347848"
+    },
+    {
+      "name": "Introduction to African History",
+      "code": "HIST 3030",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/introduction-to-african-history/2477938"
+    },
+    {
+      "name": "Introduction to Algorithms and Data Structures",
+      "code": "CS 2420",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/introduction-to-algorithms-and-data-structures/2477939"
+    },
+    {
+      "name": "Introduction to Art History Research and Methodology",
+      "code": "ARTH 2800",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/introduction-to-art-history-research-and-methodology/2477947"
+    },
+    {
+      "name": "Introduction to Brain and Behavior",
+      "code": "PSY 2710",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/introduction-to-brain-and-behavior/2477950"
+    },
+    {
+      "name": "Introduction to Chemistry",
+      "code": "CHEM 1010\n                              \n                              PP",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/introduction-to-chemistry/2477953"
+    },
+    {
+      "name": "Introduction to Comparative Politics",
+      "code": "Pols 2200",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/introduction-to-comparative-politics/4454595"
+    },
+    {
+      "name": "Introduction to Corrections Process",
+      "code": "CJ 1300",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/introduction-to-corrections-process/2477965"
+    },
+    {
+      "name": "Introduction to Counseling and Psychotherapy",
+      "code": "PSY 4300",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/introduction-to-counseling-and-psychotherapy/2477966"
+    },
+    {
+      "name": "Introduction to Criminal Justice",
+      "code": "CJ 1010\n                              \n                              SS",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/introduction-to-criminal-justice/2477967"
+    },
+    {
+      "name": "Introduction to Early Childhood Education",
+      "code": "EDEC 2600",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/introduction-to-early-childhood-education/1191514"
+    },
+    {
+      "name": "Introduction to Education",
+      "code": "EDEL 1010",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/introduction-to-education/2477972"
+    },
+    {
+      "name": "Introduction to Engineering",
+      "code": "ENGR 1000",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/introduction-to-engineering/2477975"
+    },
+    {
+      "name": "Introduction to Film",
+      "code": "THEA 1023\n                              \n                              FF",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/introduction-to-film/2477980"
+    },
+    {
+      "name": "Introduction to Forensic Science",
+      "code": "CJ 1350",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/introduction-to-forensic-science/2477983"
+    },
+    {
+      "name": "Introduction to Geology",
+      "code": "GEO 1010\n                              \n                              PP",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/introduction-to-geology/2477990"
+    },
+    {
+      "name": "Introduction to Geology Laboratory",
+      "code": "GEO 1015",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/introduction-to-geology-laboratory/2477991"
+    },
+    {
+      "name": "Introduction to Hospitality Industry",
+      "code": "HM 1010",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/introduction-to-hospitality-industry/2477999"
+    },
+    {
+      "name": "Introduction to Human Anatomy and Physiology",
+      "code": "ZOOL 1090\n                              \n                              BB",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/introduction-to-human-anatomy-and-physiology/2478000"
+    },
+    {
+      "name": "Introduction to Human Geography",
+      "code": "GEOG 1400\n                              \n                              SS",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/introduction-to-human-geography/2478001"
+    },
+    {
+      "name": "Introduction to Human Resource Management",
+      "code": "HR 3430",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/introduction-to-human-resource-management/2478002"
+    },
+    {
+      "name": "Introduction to Interior Design",
+      "code": "ART 1810",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/introduction-to-interior-design/2478005"
+    },
+    {
+      "name": "Introduction to International Relations",
+      "code": "POLS 2100\n                              \n                              SS",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/introduction-to-international-relations/2478006"
+    },
+    {
+      "name": "Introduction to Logic and Critical Thinking",
+      "code": "PHIL 1250\n                              \n                              HH",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/introduction-to-logic-and-critical-thinking/2478018"
+    },
+    {
+      "name": "Introduction to Mass Communication",
+      "code": "COMM 1500\n                              \n                              HH",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/introduction-to-mass-communication/2478020"
+    },
+    {
+      "name": "Introduction to Meteorology",
+      "code": "METO 1010\n                              \n                              PP",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/introduction-to-meteorology/2478024"
+    },
+    {
+      "name": "Introduction to Music",
+      "code": "MUSC 1010\n                              \n                              FF",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/introduction-to-music/2478031"
+    },
+    {
+      "name": "Introduction to Non Western Ancient Art",
+      "code": "ARTH 309G",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/introduction-to-non-western-ancient-art/2478033"
+    },
+    {
+      "name": "Introduction to Oceanography",
+      "code": "GEO 1080\n                              \n                              PP",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/introduction-to-oceanography/2478037"
+    },
+    {
+      "name": "Introduction to Philosophy",
+      "code": "PHIL 1000\n                              \n                              HH",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/introduction-to-philosophy/2478042"
+    },
+    {
+      "name": "Introduction to Physical Education Pedagogy",
+      "code": "PETE 3100",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/introduction-to-physical-education-pedagogy/2478043"
+    },
+    {
+      "name": "Introduction to Political Science",
+      "code": "POLS 1010\n                              \n                              SS",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/introduction-to-political-science/2478048"
+    },
+    {
+      "name": "Introduction to psychology",
+      "code": "PSY 1010",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/introduction-to-psychology/4359311"
+    },
+    {
+      "name": "Introduction to Public Administration",
+      "code": "POLS 3300",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/introduction-to-public-administration/2478053"
+    },
+    {
+      "name": "Introduction to Social Work",
+      "code": "SW 1010",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/introduction-to-social-work/2478058"
+    },
+    {
+      "name": "Introduction to Sociology",
+      "code": "SOC 1010\n                              \n                              SS",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/introduction-to-sociology/2478059"
+    },
+    {
+      "name": "Introduction to Statistical Methods",
+      "code": "STAT 2050",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/introduction-to-statistical-methods/2478063"
+    },
+    {
+      "name": "Introduction to Statistics with Algebra",
+      "code": "STAT 1045\n                              \n                               (Cross-listed with: STAT 104",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/introduction-to-statistics-with-algebra/2478065"
+    },
+    {
+      "name": "Introduction to Technology Management",
+      "code": "TECH 3000",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/introduction-to-technology-management/2478070"
+    },
+    {
+      "name": "Introduction to Theatre",
+      "code": "THEA 1013\n                              \n                              FF",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/introduction-to-theatre/2478073"
+    },
+    {
+      "name": "Introduction to Translation and Interpreting English and Spanish",
+      "code": "SPAN 4110",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/introduction-to-translation-and-interpreting-english-and-spanish/2478074"
+    },
+    {
+      "name": "Introduction to Visual Arts",
+      "code": "ART 1010\n                              \n                              FF",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/introduction-to-visual-arts/2478075"
+    },
+    {
+      "name": "Introduction to Writing",
+      "code": "ENGL 1010\n                              \n                              CC",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/introduction-to-writing/2478080"
+    },
+    {
+      "name": "Introductory Topics in Integrated Studies",
+      "code": "IS 300R",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/introductory-topics-in-integrated-studies/2478083"
+    },
+    {
+      "name": "Introductory Understanding of Oppression",
+      "code": "ASL 385G",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/introductory-understanding-of-oppression/2478084"
+    },
+    {
+      "name": "Investment Management",
+      "code": "FIN 3400",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/investment-management/2478090"
+    },
+    {
+      "name": "Java Software Development",
+      "code": "CS 3250",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/java-software-development/2478105"
+    },
+    {
+      "name": "Jet Transport Systems",
+      "code": "AVSC 3300",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/jet-transport-systems/2478115"
+    },
+    {
+      "name": "Jewish History",
+      "code": "HIST 4100",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/jewish-history/2478116"
+    },
+    {
+      "name": "Juvenile Justice",
+      "code": "CJ 2330",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/juvenile-justice/2478121"
+    },
+    {
+      "name": "Kindergarten Classroom",
+      "code": "EDEL 3100",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/kindergarten-classroom/2478127"
+    },
+    {
+      "name": "Kinesiology",
+      "code": "EXSC 3500",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/kinesiology/2478128"
+    },
+    {
+      "name": "Laws of Evidence",
+      "code": "CJ 2350",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/laws-of-evidence/2478150"
+    },
+    {
+      "name": "Leadership in Gifted and Talented Education",
+      "code": "EDUC 5650",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/leadership-in-gifted-and-talented-education/2478153"
+    },
+    {
+      "name": "Lean Management Systems",
+      "code": "MGMT 3470",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/lean-management-systems/2478161"
+    },
+    {
+      "name": "Library Research",
+      "code": "SLSS 1050",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/library-research/2478172"
+    },
+    {
+      "name": "Life Span Development in the Family",
+      "code": "FAMS 1100",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/life-span-development-in-the-family/2478175"
+    },
+    {
+      "name": "Linear Algebra",
+      "code": "MATH 2270",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/linear-algebra/2478179"
+    },
+    {
+      "name": "Literature of the American Renaissance",
+      "code": "ENGL 3520",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/literature-of-the-american-renaissance/2478190"
+    },
+    {
+      "name": "Low-Intermediate Reading Level III",
+      "code": "ESL 1220",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/low-intermediate-reading-level-iii/2478202"
+    },
+    {
+      "name": "Macroeconomics",
+      "code": "ECON 2020\n                              \n                              SS",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/macroeconomics/2478208"
+    },
+    {
+      "name": "Management Control",
+      "code": "ACC 4350",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/management-control/2478220"
+    },
+    {
+      "name": "Managerial Accounting",
+      "code": "ACC 2020",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/managerial-accounting/2478224"
+    },
+    {
+      "name": "Managerial Economics",
+      "code": "ECON 3020",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/managerial-economics/2478225"
+    },
+    {
+      "name": "Managing Individuals and Groups",
+      "code": "MGMT 6500",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/managing-individuals-and-groups/2478229"
+    },
+    {
+      "name": "Marijuana Identification Certificate",
+      "code": "FSCI 3850",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/marijuana-identification-certificate/2478235"
+    },
+    {
+      "name": "Marketing of Hospitality Services",
+      "code": "HM 3710",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/marketing-of-hospitality-services/2478241"
+    },
+    {
+      "name": "Marketing Strategy",
+      "code": "MKTG 6600",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/marketing-strategy/2478243"
+    },
+    {
+      "name": "Marriage and Relationship Skills",
+      "code": "FAMS 1150\n                              \n                              SS",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/marriage-and-relationship-skills/2478246"
+    },
+    {
+      "name": "Masters Project",
+      "code": "EDUC 6200",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/masters-project/2478252"
+    },
+    {
+      "name": "Materials Management",
+      "code": "TECH 3700",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/materials-management/2478254"
+    },
+    {
+      "name": "Math Fundamentals",
+      "code": "MAT 0920",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/math-fundamentals/2478255"
+    },
+    {
+      "name": "Math Leap",
+      "code": "MATH 100R",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/math-leap/2478257"
+    },
+    {
+      "name": "Math Practicum",
+      "code": "EDSP 4131",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/math-practicum/2478258"
+    },
+    {
+      "name": "Mathematical Statistics I",
+      "code": "STAT 4710",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/mathematical-statistics-i/2478261"
+    },
+    {
+      "name": "Mathematical Statistics II",
+      "code": "STAT 4720",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/mathematical-statistics-ii/2478262"
+    },
+    {
+      "name": "Mathematics for Elementary Teachers I",
+      "code": "MATH 2010",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/mathematics-for-elementary-teachers-i/2478264"
+    },
+    {
+      "name": "Mechanics of Materials",
+      "code": "ENGR 2140",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/mechanics-of-materials/2478276"
+    },
+    {
+      "name": "Mechatronics Management",
+      "code": "MECH 3060",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/mechatronics-management/2478277"
+    },
+    {
+      "name": "Medical Terminology I",
+      "code": "HLTH 1300",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/medical-terminology-i/2478286"
+    },
+    {
+      "name": "Medieval Literature",
+      "code": "ENGL 3610",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/medieval-literature/2478289"
+    },
+    {
+      "name": "Mental Health Nursing",
+      "code": "NURS 2430",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/mental-health-nursing/2478295"
+    },
+    {
+      "name": "Mentoring in Nursing",
+      "code": "NURS 3420",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/mentoring-in-nursing/2478297"
+    },
+    {
+      "name": "Metaphysics",
+      "code": "PHIL 3200",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/metaphysics/2478301"
+    },
+    {
+      "name": "Methods in Teaching Literacy I",
+      "code": "ENGL 4210",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/methods-in-teaching-literacy-i/2478303"
+    },
+    {
+      "name": "Methods in Teaching Literacy II",
+      "code": "ENGL 4220",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/methods-in-teaching-literacy-ii/2478304"
+    },
+    {
+      "name": "Methods in Teaching Literacy III Teaching the Conventions of Writing",
+      "code": "ENGL 4230",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/methods-in-teaching-literacy-iii-teaching-the-conventions-of-writing/2478305"
+    },
+    {
+      "name": "Microbiology for Health Professions",
+      "code": "MICR 2060\n                              \n                              BB",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/microbiology-for-health-professions/2478314"
+    },
+    {
+      "name": "Microbiology for Health Professions Laboratory",
+      "code": "MICR 2065",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/microbiology-for-health-professions-laboratory/2478315"
+    },
+    {
+      "name": "Microeconomics",
+      "code": "ECON 2010\n                              \n                              SS",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/microeconomics/2478318"
+    },
+    {
+      "name": "Modern American Literature",
+      "code": "ENGL 3530",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/modern-american-literature/2478330"
+    },
+    {
+      "name": "Modern Art and Architecture History",
+      "code": "ARTH 3070",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/modern-art-and-architecture-history/2478332"
+    },
+    {
+      "name": "Modern Britain",
+      "code": "HIST 3320",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/modern-britain/2478334"
+    },
+    {
+      "name": "Modern English Grammars",
+      "code": "ENGL 3020",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/modern-english-grammars/2478346"
+    },
+    {
+      "name": "Modern Legacies",
+      "code": "HONR 2100",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/modern-legacies/2478348"
+    },
+    {
+      "name": "Modern Physics II",
+      "code": "PHYS 3120",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/modern-physics-ii/2478351"
+    },
+    {
+      "name": "Modern Social Problems",
+      "code": "SOC 1020",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/modern-social-problems/2478352"
+    },
+    {
+      "name": "Molecular Biology",
+      "code": "BIOL 3550",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/molecular-biology/2478355"
+    },
+    {
+      "name": "Money and Banking",
+      "code": "ECON 3060",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/money-and-banking/2478357"
+    },
+    {
+      "name": "Mormon Theology and the Christian Tradition",
+      "code": "PHIL 3620\n                              \n                               (Cross-listed with: RLST 362",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/mormon-theology-and-the-christian-tradition/2478365"
+    },
+    {
+      "name": "MSN Project or Thesis",
+      "code": "NURS 699R",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/msn-project-or-thesis/2478378"
+    },
+    {
+      "name": "Multicultural Instruction ESL",
+      "code": "EDSC 445G",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/multicultural-instruction-esl/2478382"
+    },
+    {
+      "name": "Multivariate Analysis",
+      "code": "STAT 4400",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/multivariate-analysis/2478388"
+    },
+    {
+      "name": "National Security Affairs B",
+      "code": "AERO 4110",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/national-security-affairs-b/2478411"
+    },
+    {
+      "name": "Navigating Health Systems",
+      "code": "NURS 4520",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/navigating-health-systems/2478422"
+    },
+    {
+      "name": "Neuroscience",
+      "code": "ZOOL 4780",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/neuroscience/2478425"
+    },
+    {
+      "name": "New Venture Financing",
+      "code": "ENTR 4400",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/new-venture-financing/2478428"
+    },
+    {
+      "name": "Nursing Care of Child Rearing Families Clinical",
+      "code": "NURS 3325",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/nursing-care-of-child-rearing-families-clinical/2478447"
+    },
+    {
+      "name": "Nursing Care of Persons with Complex Disorders",
+      "code": "NURS 3330",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/nursing-care-of-persons-with-complex-disorders/2478448"
+    },
+    {
+      "name": "Nursing Care of Women Children and Developing Families Clinical",
+      "code": "NURS 3345",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/nursing-care-of-women-children-and-developing-families-clinical/2478452"
+    },
+    {
+      "name": "Nursing Health Assessment",
+      "code": "NURS 2300",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/nursing-health-assessment/2478453"
+    },
+    {
+      "name": "Nursing Informatics",
+      "code": "NURS 6050",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/nursing-informatics/2478458"
+    },
+    {
+      "name": "Nursing Interventions",
+      "code": "NURS 2320",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/nursing-interventions/2478459"
+    },
+    {
+      "name": "Nursing Leadership",
+      "code": "NURS 4500",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/nursing-leadership/2478461"
+    },
+    {
+      "name": "Nursing Pharmacology",
+      "code": "NURS 2310",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/nursing-pharmacology/2478462"
+    },
+    {
+      "name": "Nutrition and Food Service",
+      "code": "CA 1150",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/nutrition-and-food-service/2478465"
+    },
+    {
+      "name": "Nutrition Through the Life Cycle",
+      "code": "NUTR 2020\n                              \n                              BB",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/nutrition-through-the-life-cycle/2478466"
+    },
+    {
+      "name": "Operating Systems Theory",
+      "code": "CS 3060",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/operating-systems-theory/2478474"
+    },
+    {
+      "name": "Organic Chemistry I",
+      "code": "CHEM 2310",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/organic-chemistry-i/2478484"
+    },
+    {
+      "name": "Organic Chemistry I Laboratory",
+      "code": "CHEM 2315",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/organic-chemistry-i-laboratory/2478485"
+    },
+    {
+      "name": "Organic Chemistry II",
+      "code": "CHEM 2320",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/organic-chemistry-ii/2478486"
+    },
+    {
+      "name": "Organic Chemistry II Laboratory",
+      "code": "CHEM 2325",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/organic-chemistry-ii-laboratory/2478487"
+    },
+    {
+      "name": "Organization Information Technologies",
+      "code": "TECH 4420",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/organization-information-technologies/2478489"
+    },
+    {
+      "name": "Organizational Behavior",
+      "code": "MGMT 3000",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/organizational-behavior/2478490"
+    },
+    {
+      "name": "Orientation to Dance FF",
+      "code": "DANC 2110",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/orientation-to-dance-ff/2478492"
+    },
+    {
+      "name": "Paramedic I",
+      "code": "ESEC 3110",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/paramedic-i/2478514"
+    },
+    {
+      "name": "Paramedic II",
+      "code": "ESEC 3130",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/paramedic-ii/2478516"
+    },
+    {
+      "name": "Partial Differential Equations",
+      "code": "MATH 3400",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/partial-differential-equations/2478520"
+    },
+    {
+      "name": "Pathophysiology",
+      "code": "ZOOL 4400",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/pathophysiology/2478526"
+    },
+    {
+      "name": "Personal Finance",
+      "code": "FIN 1060\n                              \n                              SS",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/personal-finance/2478543"
+    },
+    {
+      "name": "Personal Health and Wellness",
+      "code": "HLTH 1100\n                              \n                              TE",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/personal-health-and-wellness/2478549"
+    },
+    {
+      "name": "Personality Theory",
+      "code": "PSY 3460",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/personality-theory/2478550"
+    },
+    {
+      "name": "Pharmacology",
+      "code": "CHEM 4800",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/pharmacology/2478552"
+    },
+    {
+      "name": "Pharmacology for the Practicing Nurse",
+      "code": "NURS 3440",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/pharmacology-for-the-practicing-nurse/2478553"
+    },
+    {
+      "name": "Photography I",
+      "code": "ART 1050\n                              \n                              FF",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/photography-i/2478571"
+    },
+    {
+      "name": "Physical Chemistry I",
+      "code": "CHEM 3060",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/physical-chemistry-i/2478577"
+    },
+    {
+      "name": "Physical Chemistry III Statistical Mechanics and Chemical Kinetics",
+      "code": "CHEM 3080",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/physical-chemistry-iii-statistical-mechanics-and-chemical-kinetics/2478579"
+    },
+    {
+      "name": "Physics for Scientists and Engineers I",
+      "code": "PHYS 2210\n                              \n                              PP",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/physics-for-scientists-and-engineers-i/2478582"
+    },
+    {
+      "name": "Police Field Operations",
+      "code": "CJ 1390",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/police-field-operations/2478611"
+    },
+    {
+      "name": "Political Science",
+      "code": "POLS 1100",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/political-science/4419076"
+    },
+    {
+      "name": "Portuguese Conversation II",
+      "code": "PORT 215R",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/portuguese-conversation-ii/2478625"
+    },
+    {
+      "name": "Positive Psychology",
+      "code": "PSY 2400",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/positive-psychology/2478626"
+    },
+    {
+      "name": "Power Yoga",
+      "code": "PES 1057",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/power-yoga/2478635"
+    },
+    {
+      "name": "Precalculus",
+      "code": "MATH 1065\n                              \n                              QL",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/precalculus/2478639"
+    },
+    {
+      "name": "Primary Healthcare of the Family",
+      "code": "NUR75859",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/primary-healthcare-of-the-family/7673248"
+    },
+    {
+      "name": "Principles and Patterns of Software Design",
+      "code": "CS 3450",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/principles-and-patterns-of-software-design/2478647"
+    },
+    {
+      "name": "Principles of Accounting",
+      "code": "ACC 2030",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/principles-of-accounting/2478648"
+    },
+    {
+      "name": "Principles of Accounting",
+      "code": "ACC 2110",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/principles-of-accounting/7466513"
+    },
+    {
+      "name": "Principles of Chemistry I",
+      "code": "CHEM 1210\n                              \n                              PP",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/principles-of-chemistry-i/2478654"
+    },
+    {
+      "name": "Principles of Chemistry I Laboratory",
+      "code": "CHEM 1215",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/principles-of-chemistry-i-laboratory/2478655"
+    },
+    {
+      "name": "Principles of Chemistry II",
+      "code": "CHEM 1220\n                              \n                              PP",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/principles-of-chemistry-ii/2478656"
+    },
+    {
+      "name": "Principles of Chemistry II Laboratory",
+      "code": "CHEM 1225",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/principles-of-chemistry-ii-laboratory/2478657"
+    },
+    {
+      "name": "Principles of Construction Estimating",
+      "code": "CMGT 3030",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/principles-of-construction-estimating/2478659"
+    },
+    {
+      "name": "Principles of Evolution",
+      "code": "BIOL 4500",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/principles-of-evolution/2478665"
+    },
+    {
+      "name": "Principles of Finance",
+      "code": "FIN 3100",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/principles-of-finance/2478667"
+    },
+    {
+      "name": "Principles of Learning",
+      "code": "PSY 3480",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/principles-of-learning/2478670"
+    },
+    {
+      "name": "Principles of Marketing",
+      "code": "MKTG 3600",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/principles-of-marketing/2478671"
+    },
+    {
+      "name": "Prior Learning Assessment Theory and Practice",
+      "code": "UVST 1100",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/prior-learning-assessment-theory-and-practice/2478681"
+    },
+    {
+      "name": "Product Processing Management",
+      "code": "TECH 6430",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/product-processing-management/7396098"
+    },
+    {
+      "name": "Professional Business Presentations",
+      "code": "MKTG 2390",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/professional-business-presentations/2478694"
+    },
+    {
+      "name": "Professional Development for Community Health",
+      "code": "HLTH 3230",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/professional-development-for-community-health/2478696"
+    },
+    {
+      "name": "Professional Kitchen I  Cooking",
+      "code": "CA 1230",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/professional-kitchen-i-cooking/2478700"
+    },
+    {
+      "name": "Project Management",
+      "code": "TECH 3400",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/project-management/2478711"
+    },
+    {
+      "name": "Psychological Anthropology",
+      "code": "ANTH 3700",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/psychological-anthropology/2478718"
+    },
+    {
+      "name": "Psychology as a science and profession",
+      "code": "Psy 2020",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/psychology-as-a-science-and-profession/6063232"
+    },
+    {
+      "name": "Psychology of Interpersonal Relationships",
+      "code": "PSY 2250",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/psychology-of-interpersonal-relationships/2478726"
+    },
+    {
+      "name": "Psychopharmacology for the Substance Use Disorder Counseling Field",
+      "code": "SUDC 3430",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/psychopharmacology-for-the-substance-use-disorder-counseling-field/2478729"
+    },
+    {
+      "name": "Public Program Administration",
+      "code": "ESMG 3150",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/public-program-administration/2478737"
+    },
+    {
+      "name": "Public Relations",
+      "code": "COMM 2300",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/public-relations/2478738"
+    },
+    {
+      "name": "Public Speaking",
+      "code": "COMM 1020\n                              \n                              HH",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/public-speaking/2478744"
+    },
+    {
+      "name": "Python Software Development",
+      "code": "CS 3270",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/python-software-development/2478747"
+    },
+    {
+      "name": "Quality Assurance in Technology",
+      "code": "TECH 3850",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/quality-assurance-in-technology/2478750"
+    },
+    {
+      "name": "Quantitative Reasoning",
+      "code": "MAT 1030\n                              \n                               (Cross-listed with: MAT 1035)",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/quantitative-reasoning/2478752"
+    },
+    {
+      "name": "Quantitative Reasoning with Integrated Algebra",
+      "code": "MAT 1035\n                              \n                               (Cross-listed with: MAT 1030)",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/quantitative-reasoning-with-integrated-algebra/2478753"
+    },
+    {
+      "name": "Queuing Theory",
+      "code": "ECE 4740",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/queuing-theory/2478756"
+    },
+    {
+      "name": "Rapid Response Concepts Across the Lifespan",
+      "code": "NURS 4120",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/rapid-response-concepts-across-the-lifespan/2478768"
+    },
+    {
+      "name": "Readings in Latin",
+      "code": "LATN 3010",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/readings-in-latin/2478776"
+    },
+    {
+      "name": "Research Methodology",
+      "code": "EDUC 6100",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/research-methodology/2478800"
+    },
+    {
+      "name": "Research Methods for Psychology",
+      "code": "PSY 3030",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/research-methods-for-psychology/2478802"
+    },
+    {
+      "name": "Research Methods for the Behavioral Sciences",
+      "code": "BESC 3020",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/research-methods-for-the-behavioral-sciences/2478803"
+    },
+    {
+      "name": "Resiliency and Vulnerability in Crises",
+      "code": "ES 2220",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/resiliency-and-vulnerability-in-crises/2478812"
+    },
+    {
+      "name": "Risk Management and Insurance",
+      "code": "FIN 3220",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/risk-management-and-insurance/2478825"
+    },
+    {
+      "name": "Ropes Course and Teambuilding",
+      "code": "REC 1516",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/ropes-course-and-teambuilding/2478834"
+    },
+    {
+      "name": "Safety and Professional Seminars",
+      "code": "AVSC 4700",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/safety-and-professional-seminars/2478857"
+    },
+    {
+      "name": "Script and Text Analysis I",
+      "code": "THEA 1713",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/script-and-text-analysis-i/2478872"
+    },
+    {
+      "name": "Scriptwriting I",
+      "code": "THEA 2741",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/scriptwriting-i/2478878"
+    },
+    {
+      "name": "Secondary Curriculum Instruction and Assessment",
+      "code": "EDSC 4550",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/secondary-curriculum-instruction-and-assessment/2478889"
+    },
+    {
+      "name": "Secondary Teaching Methods",
+      "code": "EDSC 4500",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/secondary-teaching-methods/2478892"
+    },
+    {
+      "name": "Secure Coding",
+      "code": "IT 6780",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/secure-coding/2478893"
+    },
+    {
+      "name": "Seminar",
+      "code": "MGMT 292R",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/seminar/2478900"
+    },
+    {
+      "name": "Senior Geomatics Capstone",
+      "code": "SURV 4930",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/senior-geomatics-capstone/2478908"
+    },
+    {
+      "name": "Sensation and Perception",
+      "code": "PSY 3490",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/sensation-and-perception/2478931"
+    },
+    {
+      "name": "Sign to Voice Interpreting",
+      "code": "ASL 3370",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/sign-to-voice-interpreting/2478936"
+    },
+    {
+      "name": "Signals and Systems",
+      "code": "ECE 3770",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/signals-and-systems/2478937"
+    },
+    {
+      "name": "Small Business Development",
+      "code": "ENTR 3180",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/small-business-development/2478955"
+    },
+    {
+      "name": "Small Unit Leadership II",
+      "code": "MILS 3210",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/small-unit-leadership-ii/2478960"
+    },
+    {
+      "name": "Social and Political Philosophy",
+      "code": "PHIL 3700",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/social-and-political-philosophy/2478966"
+    },
+    {
+      "name": "Social Cultural Anthropology",
+      "code": "ANTH 101G\n                              \n                              SS",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/social-cultural-anthropology/2478968"
+    },
+    {
+      "name": "Social Marketing",
+      "code": "HLTH 3600",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/social-marketing/2478971"
+    },
+    {
+      "name": "Social Media Analytics",
+      "code": "COMM 3160",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/social-media-analytics/2478972"
+    },
+    {
+      "name": "Social Psychology",
+      "code": "PSY 350G",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/social-psychology/2478975"
+    },
+    {
+      "name": "Social Work Practice I--Individuals",
+      "code": "SW 6000",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/social-work-practice-i-individuals/2478984"
+    },
+    {
+      "name": "Society and Business in Japan",
+      "code": "JPNS 3520",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/society-and-business-in-japan/2478989"
+    },
+    {
+      "name": "Sociology of the Family",
+      "code": "SOC 1200\n                              \n                              SS",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/sociology-of-the-family/2478994"
+    },
+    {
+      "name": "Software Engineering",
+      "code": "CS 2450",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/software-engineering/2478998"
+    },
+    {
+      "name": "Software Engineering Leadership",
+      "code": "CS 6300",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/software-engineering-leadership/2479001"
+    },
+    {
+      "name": "Spanish for Mental Health Professionals",
+      "code": "SPAN 3320",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/spanish-for-mental-health-professionals/2479019"
+    },
+    {
+      "name": "Spanish Travel Study",
+      "code": "SPAN 1500\n                              \n                              LH",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/spanish-travel-study/2479025"
+    },
+    {
+      "name": "Special Education Student Teaching--7-12",
+      "code": "EDSP 4895",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/special-education-student-teaching-7-12/2479028"
+    },
+    {
+      "name": "Special Problems in Criminal Justice",
+      "code": "CJ 4060",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/special-problems-in-criminal-justice/2479032"
+    },
+    {
+      "name": "Sports Medicine",
+      "code": "EXSC 2500",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/sports-medicine/2479037"
+    },
+    {
+      "name": "Sports Medicine Lab",
+      "code": "EXSC 2510",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/sports-medicine-lab/2479038"
+    },
+    {
+      "name": "Stagecraft I",
+      "code": "THEA 1513",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/stagecraft-i/2479045"
+    },
+    {
+      "name": "State and Local Government",
+      "code": "POLS 3030",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/state-and-local-government/2479048"
+    },
+    {
+      "name": "Statics and Material Properties for Mechatronics Laboratory",
+      "code": "MECH 3405",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/statics-and-material-properties-for-mechatronics-laboratory/2479051"
+    },
+    {
+      "name": "Statistical Analysis in Exercise Science",
+      "code": "EXSC 3400",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/statistical-analysis-in-exercise-science/2479052"
+    },
+    {
+      "name": "Statistical Process Control",
+      "code": "STAT 4600",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/statistical-process-control/2479053"
+    },
+    {
+      "name": "Statistics for the Behavioral Sciences",
+      "code": "BESC 3010",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/statistics-for-the-behavioral-sciences/2479055"
+    },
+    {
+      "name": "STEM Practices with a Focus on Technology and Problem-Based Learning",
+      "code": "EDUC 5790",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/stem-practices-with-a-focus-on-technology-and-problem-based-learning/2479057"
+    },
+    {
+      "name": "Strategic Operational Planning",
+      "code": "MGMT 4470",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/strategic-operational-planning/2479062"
+    },
+    {
+      "name": "Stress Management--Hardiness",
+      "code": "SLSS 1100",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/stress-management-hardiness/2479064"
+    },
+    {
+      "name": "Student Leadership Development I",
+      "code": "SLSS 103R",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/student-leadership-development-i/2479075"
+    },
+    {
+      "name": "Student Research",
+      "code": "GEO 489R",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/student-research/2479078"
+    },
+    {
+      "name": "Student Teaching  Secondary",
+      "code": "EDSC 4850",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/student-teaching-secondary/2479084"
+    },
+    {
+      "name": "Student Teaching Seminar for Physical Education",
+      "code": "PETE 4900",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/student-teaching-seminar-for-physical-education/2479086"
+    },
+    {
+      "name": "Supply Chain and Logistics Management",
+      "code": "MGMT 3700",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/supply-chain-and-logistics-management/2479097"
+    },
+    {
+      "name": "Survey of Aviation Science",
+      "code": "AVSC 1010",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/survey-of-aviation-science/2479104"
+    },
+    {
+      "name": "Survey of International Business",
+      "code": "MGMT 330G",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/survey-of-international-business/2479112"
+    },
+    {
+      "name": "Survey of International Terrorism",
+      "code": "POLS 3100",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/survey-of-international-terrorism/2479113"
+    },
+    {
+      "name": "Survey of Law",
+      "code": "LEGL 1010",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/survey-of-law/2479114"
+    },
+    {
+      "name": "Survey of Physical Science",
+      "code": "PHSC 1000\n                              \n                              PP",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/survey-of-physical-science/2479116"
+    },
+    {
+      "name": "Survey of World Geography GI",
+      "code": "GEOG 130G\n                              \n                              SS",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/survey-of-world-geography-gi/2479118"
+    },
+    {
+      "name": "Symphony Orchestra",
+      "code": "MUSC 370R",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/symphony-orchestra/2479130"
+    },
+    {
+      "name": "Systems Theory",
+      "code": "MFT6000",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/systems-theory/5789905"
+    },
+    {
+      "name": "Taxation of Corporations Partnerships Estates and Trusts",
+      "code": "ACC 4400",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/taxation-of-corporations-partnerships-estates-and-trusts/2479141"
+    },
+    {
+      "name": "Teacher Education in the Latino Culture",
+      "code": "EDSC 2000",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/teacher-education-in-the-latino-culture/2479143"
+    },
+    {
+      "name": "Technical Direction for the Stage",
+      "code": "THEA 3565",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/technical-direction-for-the-stage/2479186"
+    },
+    {
+      "name": "Technical Math 2",
+      "code": "EGDT-1610",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/technical-math-2/5670854"
+    },
+    {
+      "name": "Technology and Human Life",
+      "code": "TECH 200G\n                              \n                              SS",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/technology-and-human-life/2479191"
+    },
+    {
+      "name": "Technology Marketing and Customer Relationship Management",
+      "code": "TECH 4200",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/technology-marketing-and-customer-relationship-management/2479196"
+    },
+    {
+      "name": "Testing Strategies for Educators",
+      "code": "SLSS 120R",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/testing-strategies-for-educators/2479202"
+    },
+    {
+      "name": "Tests and Measurements",
+      "code": "PSY 4150",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/tests-and-measurements/2479203"
+    },
+    {
+      "name": "The 7 Habits of Highly Effective People",
+      "code": "SLSS 1200",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/the-7-habits-of-highly-effective-people/2479205"
+    },
+    {
+      "name": "The Air Force Today",
+      "code": "AERO 1100",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/the-air-force-today/2479207"
+    },
+    {
+      "name": "The Historians Craft",
+      "code": "HIST 3010",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/the-historians-craft/2479217"
+    },
+    {
+      "name": "The History of Photography",
+      "code": "ARTH 3200",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/the-history-of-photography/2479220"
+    },
+    {
+      "name": "The Physics of Aviation",
+      "code": "PHYS 1850",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/the-physics-of-aviation/2479224"
+    },
+    {
+      "name": "Theory and Practice of Tutoring Writing",
+      "code": "UVST 3110",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/theory-and-practice-of-tutoring-writing/2479247"
+    },
+    {
+      "name": "Topics in Integrated Studies",
+      "code": "IS 350R",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/topics-in-integrated-studies/2479264"
+    },
+    {
+      "name": "Topics in Physics",
+      "code": "PHYS 492R",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/topics-in-physics/2479269"
+    },
+    {
+      "name": "Topics in Rhetoric",
+      "code": "ENGL 401R",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/topics-in-rhetoric/2479271"
+    },
+    {
+      "name": "Total Compensation I--Pay and Incentives",
+      "code": "HR 4000",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/total-compensation-i-pay-and-incentives/2479278"
+    },
+    {
+      "name": "Total Compensation II--Benefits",
+      "code": "HR 4010",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/total-compensation-ii-benefits/2479277"
+    },
+    {
+      "name": "Total Quality Management",
+      "code": "MGMT 3070",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/total-quality-management/2479279"
+    },
+    {
+      "name": "Transliteration",
+      "code": "ASL 3380",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/transliteration/2479287"
+    },
+    {
+      "name": "Trigonometry",
+      "code": "MATH 1060",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/trigonometry/2479288"
+    },
+    {
+      "name": "Tudor British Literature",
+      "code": "ENGL 3620",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/tudor-british-literature/2479289"
+    },
+    {
+      "name": "Undergraduate Research for Exercise Science",
+      "code": "EXSC 489R",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/undergraduate-research-for-exercise-science/2479299"
+    },
+    {
+      "name": "Undergraduate Research in Nursing",
+      "code": "NURS 489R",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/undergraduate-research-in-nursing/2479305"
+    },
+    {
+      "name": "Undergraduate Research in Recreation",
+      "code": "REC 489R",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/undergraduate-research-in-recreation/2479308"
+    },
+    {
+      "name": "Understanding Technology",
+      "code": "TECH 1010\n                              \n                              PP",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/understanding-technology/2479313"
+    },
+    {
+      "name": "Understanding the Autism Spectrum",
+      "code": "AUTS 2500",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/understanding-the-autism-spectrum/2479314"
+    },
+    {
+      "name": "Universal Design for Learning for Practitioners",
+      "code": "EDUC 5840",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/universal-design-for-learning-for-practitioners/2479319"
+    },
+    {
+      "name": "University Student Success",
+      "code": "SLSS 1000",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/university-student-success/2479322"
+    },
+    {
+      "name": "Unusual Attitude Safety Training",
+      "code": "AVSC 235R",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/unusual-attitude-safety-training/2479324"
+    },
+    {
+      "name": "Urban Geography",
+      "code": "GEOG 3110",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/urban-geography/2479325"
+    },
+    {
+      "name": "US Economic History",
+      "code": "HIST 1740\n                              \n                              AS",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/us-economic-history/2479329"
+    },
+    {
+      "name": "US History to 1877",
+      "code": "HIST 2700\n                              \n                              AS",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/us-history-to-1877/2479331"
+    },
+    {
+      "name": "Utah Regional Ballet Repertory",
+      "code": "DANC 429R",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/utah-regional-ballet-repertory/2479335"
+    },
+    {
+      "name": "UVU Concert Choir",
+      "code": "MUSC 124R",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/uvu-concert-choir/2479336"
+    },
+    {
+      "name": "Vertebrate Zoology",
+      "code": "ZOOL 3100",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/vertebrate-zoology/2479337"
+    },
+    {
+      "name": "Victorian British Literature",
+      "code": "ENGL 3655",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/victorian-british-literature/2479343"
+    },
+    {
+      "name": "Visual Rhetoric",
+      "code": "HUM 3060\n                              \n                               (Cross-listed with: ENGL 3060",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/visual-rhetoric/2479348"
+    },
+    {
+      "name": "Vocal Approach to the Classics",
+      "code": "THEA 4122",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/vocal-approach-to-the-classics/2479353"
+    },
+    {
+      "name": "Web Content Management Systems Site Development",
+      "code": "INFO 3426",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/web-content-management-systems-site-development/2479376"
+    },
+    {
+      "name": "Web Programming I",
+      "code": "CS 2550",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/web-programming-i/2479380"
+    },
+    {
+      "name": "Web Systems Development",
+      "code": "INFO 3420",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/web-systems-development/2479382"
+    },
+    {
+      "name": "Weight Training I",
+      "code": "PES 1085",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/weight-training-i/2479385"
+    },
+    {
+      "name": "Will Trusts and Probates",
+      "code": "LEGL 4150",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/will-trusts-and-probates/2479403"
+    },
+    {
+      "name": "Winter Exploration",
+      "code": "REC 1600",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/winter-exploration/2479406"
+    },
+    {
+      "name": "World History to 1500",
+      "code": "HIST 1500\n                              \n                              SS",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/world-history-to-1500/2479426"
+    },
+    {
+      "name": "World Prehistory",
+      "code": "ANTH 103G\n                              \n                              SS",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/world-prehistory/2479428"
+    },
+    {
+      "name": "Writing for the Mass Media",
+      "code": "COMM 1130",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/writing-for-the-mass-media/2479431"
+    },
+    {
+      "name": "Written Business Communication",
+      "code": "MKTG 2200",
+      "url": "https://www.studocu.com/en-us/course/utah-valley-university/written-business-communication/2479433"
+    }
+  ]
+}

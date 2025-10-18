@@ -1,0 +1,691 @@
+{
+  "university_id": "608",
+  "university_name": "Truman State University",
+  "courses": [
+    {
+      "name": "Adult Health Nursing I",
+      "code": "NU 350",
+      "url": "https://www.studocu.com/en-us/course/truman-state-university/adult-health-nursing-i/1061178"
+    },
+    {
+      "name": "Adult Health Nursing Ii",
+      "code": "NU 351",
+      "url": "https://www.studocu.com/en-us/course/truman-state-university/adult-health-nursing-ii/1061179"
+    },
+    {
+      "name": "African-American History",
+      "code": "HIST 310",
+      "url": "https://www.studocu.com/en-us/course/truman-state-university/african-american-history/1060447"
+    },
+    {
+      "name": "American Natl Government",
+      "code": "POL 161",
+      "url": "https://www.studocu.com/en-us/course/truman-state-university/american-natl-government/1061335"
+    },
+    {
+      "name": "Anatomy & Physiology I W Lab",
+      "code": "BIOL 214",
+      "url": "https://www.studocu.com/en-us/course/truman-state-university/anatomy-physiology-i-w-lab/1059467"
+    },
+    {
+      "name": "Anatomy & Physiology Ii W Lab",
+      "code": "BIOL 215",
+      "url": "https://www.studocu.com/en-us/course/truman-state-university/anatomy-physiology-ii-w-lab/1059478"
+    },
+    {
+      "name": "Animal Agriculture",
+      "code": "AGSC 215",
+      "url": "https://www.studocu.com/en-us/course/truman-state-university/animal-agriculture/1059292"
+    },
+    {
+      "name": "Basic Statistics",
+      "code": "STAT 190",
+      "url": "https://www.studocu.com/en-us/course/truman-state-university/basic-statistics/1061583"
+    },
+    {
+      "name": "Biochem I",
+      "code": "CHEM 335",
+      "url": "https://www.studocu.com/en-us/course/truman-state-university/biochem-i/1059659"
+    },
+    {
+      "name": "Biology With Lab",
+      "code": "BIOL 100",
+      "url": "https://www.studocu.com/en-us/course/truman-state-university/biology-with-lab/1059458"
+    },
+    {
+      "name": "Business & Professional Comm",
+      "code": "COMM 278",
+      "url": "https://www.studocu.com/en-us/course/truman-state-university/business-professional-comm/1059778"
+    },
+    {
+      "name": "Cell Biology With Lab",
+      "code": "BIOL 200",
+      "url": "https://www.studocu.com/en-us/course/truman-state-university/cell-biology-with-lab/1059464"
+    },
+    {
+      "name": "Chem For Contemp Living W/Lab",
+      "code": "CHEM 100",
+      "url": "https://www.studocu.com/en-us/course/truman-state-university/chem-for-contemp-living-wlab/1059637"
+    },
+    {
+      "name": "Chemical Principles I",
+      "code": "CHEM 130",
+      "url": "https://www.studocu.com/en-us/course/truman-state-university/chemical-principles-i/1059640"
+    },
+    {
+      "name": "Chemical Principles Ii",
+      "code": "CHEM 131",
+      "url": "https://www.studocu.com/en-us/course/truman-state-university/chemical-principles-ii/1059649"
+    },
+    {
+      "name": "Chemical Principles Ii W/ Lab",
+      "code": "CHEM 121",
+      "url": "https://www.studocu.com/en-us/course/truman-state-university/chemical-principles-ii-w-lab/1059650"
+    },
+    {
+      "name": "Child Development",
+      "code": "PSYC 332",
+      "url": "https://www.studocu.com/en-us/course/truman-state-university/child-development/1061395"
+    },
+    {
+      "name": "Child/Family Nursing With Lab",
+      "code": "NU 385",
+      "url": "https://www.studocu.com/en-us/course/truman-state-university/childfamily-nursing-with-lab/1061184"
+    },
+    {
+      "name": "Classroom Exp: Secondary",
+      "code": "ED 393",
+      "url": "https://www.studocu.com/en-us/course/truman-state-university/classroom-exp-secondary/1059978"
+    },
+    {
+      "name": "Cognitive Psychology",
+      "code": "PSYC 331",
+      "url": "https://www.studocu.com/en-us/course/truman-state-university/cognitive-psychology/1061394"
+    },
+    {
+      "name": "College Physics I With Lab",
+      "code": "PHYS 185",
+      "url": "https://www.studocu.com/en-us/course/truman-state-university/college-physics-i-with-lab/1061297"
+    },
+    {
+      "name": "College Physics Ii With Lab",
+      "code": "PHYS 186",
+      "url": "https://www.studocu.com/en-us/course/truman-state-university/college-physics-ii-with-lab/1061307"
+    },
+    {
+      "name": "Comm Mental Hlth Nursing W Lab",
+      "code": "NU 425",
+      "url": "https://www.studocu.com/en-us/course/truman-state-university/comm-mental-hlth-nursing-w-lab/1061189"
+    },
+    {
+      "name": "Computer Networks",
+      "code": "CS 470",
+      "url": "https://www.studocu.com/en-us/course/truman-state-university/computer-networks/1059878"
+    },
+    {
+      "name": "Constit Limits Law Enforcement",
+      "code": "JUST 400",
+      "url": "https://www.studocu.com/en-us/course/truman-state-university/constit-limits-law-enforcement/1060784"
+    },
+    {
+      "name": "Consumer Health",
+      "code": "HLTH 270",
+      "url": "https://www.studocu.com/en-us/course/truman-state-university/consumer-health/1060569"
+    },
+    {
+      "name": "Contemporary Issues in Women’S Health",
+      "code": "HLTH 315",
+      "url": "https://www.studocu.com/en-us/course/truman-state-university/contemporary-issues-in-womens-health/5941530"
+    },
+    {
+      "name": "Critical Care Nursing",
+      "code": "NU 475",
+      "url": "https://www.studocu.com/en-us/course/truman-state-university/critical-care-nursing/1061218"
+    },
+    {
+      "name": "Critical Perspect On Pr",
+      "code": "COMM 353",
+      "url": "https://www.studocu.com/en-us/course/truman-state-university/critical-perspect-on-pr/1059788"
+    },
+    {
+      "name": "Data collection & field methods",
+      "code": "stat 310",
+      "url": "https://www.studocu.com/en-us/course/truman-state-university/data-collection-field-methods/4543416"
+    },
+    {
+      "name": "Developmental Psychology",
+      "code": "PSYC 377",
+      "url": "https://www.studocu.com/en-us/course/truman-state-university/developmental-psychology/1061411"
+    },
+    {
+      "name": "Economics European Union",
+      "code": "ECON 308",
+      "url": "https://www.studocu.com/en-us/course/truman-state-university/economics-european-union/1059913"
+    },
+    {
+      "name": "Electronic Commerce",
+      "code": "BSAD 444",
+      "url": "https://www.studocu.com/en-us/course/truman-state-university/electronic-commerce/1059602"
+    },
+    {
+      "name": "Elementary Italian Ii",
+      "code": "ITAL 102",
+      "url": "https://www.studocu.com/en-us/course/truman-state-university/elementary-italian-ii/1060657"
+    },
+    {
+      "name": "Elementary Spanish I",
+      "code": "SPAN 101",
+      "url": "https://www.studocu.com/en-us/course/truman-state-university/elementary-spanish-i/1061537"
+    },
+    {
+      "name": "Elementary Spanish Ii",
+      "code": "SPAN 102",
+      "url": "https://www.studocu.com/en-us/course/truman-state-university/elementary-spanish-ii/1061542"
+    },
+    {
+      "name": "Ethics",
+      "code": "PHRE 188",
+      "url": "https://www.studocu.com/en-us/course/truman-state-university/ethics/1061227"
+    },
+    {
+      "name": "Eukaryotic Diversity",
+      "code": "BIOL323",
+      "url": "https://www.studocu.com/en-us/course/truman-state-university/eukaryotic-diversity/7534472"
+    },
+    {
+      "name": "Evolutionary Biology",
+      "code": "BIOL 503",
+      "url": "https://www.studocu.com/en-us/course/truman-state-university/evolutionary-biology/1059506"
+    },
+    {
+      "name": "Exercise Physiology",
+      "code": "ES 345",
+      "url": "https://www.studocu.com/en-us/course/truman-state-university/exercise-physiology/1060253"
+    },
+    {
+      "name": "Experimental Psychology",
+      "code": "PSYC 266",
+      "url": "https://www.studocu.com/en-us/course/truman-state-university/experimental-psychology/1061402"
+    },
+    {
+      "name": "Exploring Religions",
+      "code": "PHRE 185",
+      "url": "https://www.studocu.com/en-us/course/truman-state-university/exploring-religions/1061223"
+    },
+    {
+      "name": "Financial Accounting I",
+      "code": "ACCT 502G",
+      "url": "https://www.studocu.com/en-us/course/truman-state-university/financial-accounting-i/1059252"
+    },
+    {
+      "name": "Financial Accounting Iv",
+      "code": "ACCT 618G",
+      "url": "https://www.studocu.com/en-us/course/truman-state-university/financial-accounting-iv/1059274"
+    },
+    {
+      "name": "Fnd Of Computer Science I",
+      "code": "CS 180",
+      "url": "https://www.studocu.com/en-us/course/truman-state-university/fnd-of-computer-science-i/1059847"
+    },
+    {
+      "name": "French Cinema for Conversation",
+      "code": "FREN 325",
+      "url": "https://www.studocu.com/en-us/course/truman-state-university/french-cinema-for-conversation/5327652"
+    },
+    {
+      "name": "Fund Of Electric Circuits",
+      "code": "PHYS 383",
+      "url": "https://www.studocu.com/en-us/course/truman-state-university/fund-of-electric-circuits/1061309"
+    },
+    {
+      "name": "Game Theory",
+      "code": "MATH 335",
+      "url": "https://www.studocu.com/en-us/course/truman-state-university/game-theory/1060856"
+    },
+    {
+      "name": "General Psychology",
+      "code": "PSYC 166",
+      "url": "https://www.studocu.com/en-us/course/truman-state-university/general-psychology/1061392"
+    },
+    {
+      "name": "Genetics With Lab",
+      "code": "BIOL 300",
+      "url": "https://www.studocu.com/en-us/course/truman-state-university/genetics-with-lab/1059471"
+    },
+    {
+      "name": "Grad Sem",
+      "code": "ENG 655G",
+      "url": "https://www.studocu.com/en-us/course/truman-state-university/grad-sem/1060163"
+    },
+    {
+      "name": "Health Promotion Mgmt & Mktg",
+      "code": "HLTH 325",
+      "url": "https://www.studocu.com/en-us/course/truman-state-university/health-promotion-mgmt-mktg/1060575"
+    },
+    {
+      "name": "Hip Hop For Health",
+      "code": "HLTH 110",
+      "url": "https://www.studocu.com/en-us/course/truman-state-university/hip-hop-for-health/1060553"
+    },
+    {
+      "name": "History & Systems Psychology",
+      "code": "PSYC 429",
+      "url": "https://www.studocu.com/en-us/course/truman-state-university/history-systems-psychology/1061413"
+    },
+    {
+      "name": "History Of The English Lang",
+      "code": "LING 417",
+      "url": "https://www.studocu.com/en-us/course/truman-state-university/history-of-the-english-lang/1060825"
+    },
+    {
+      "name": "Human Anatomy Lab",
+      "code": "BIOL 365",
+      "url": "https://www.studocu.com/en-us/course/truman-state-university/human-anatomy-lab/1059499"
+    },
+    {
+      "name": "Human Nutrition",
+      "code": "NU 311",
+      "url": "https://www.studocu.com/en-us/course/truman-state-university/human-nutrition/1061175"
+    },
+    {
+      "name": "Human Physiology With Lab",
+      "code": "BIOL 325",
+      "url": "https://www.studocu.com/en-us/course/truman-state-university/human-physiology-with-lab/1059485"
+    },
+    {
+      "name": "Information Technology",
+      "code": "BSAD 157",
+      "url": "https://www.studocu.com/en-us/course/truman-state-university/information-technology/1059563"
+    },
+    {
+      "name": "Interest Group Politics",
+      "code": "POL 366",
+      "url": "https://www.studocu.com/en-us/course/truman-state-university/interest-group-politics/1061366"
+    },
+    {
+      "name": "Intermediate Spanish Ii",
+      "code": "SPAN 202",
+      "url": "https://www.studocu.com/en-us/course/truman-state-university/intermediate-spanish-ii/1061539"
+    },
+    {
+      "name": "Intern: Phil & Religion",
+      "code": "PHRE 471",
+      "url": "https://www.studocu.com/en-us/course/truman-state-university/intern-phil-religion/1061280"
+    },
+    {
+      "name": "International Business",
+      "code": "BSAD 551S",
+      "url": "https://www.studocu.com/en-us/course/truman-state-university/international-business/1059618"
+    },
+    {
+      "name": "Intro Literary Genres: Novel",
+      "code": "ENG 356",
+      "url": "https://www.studocu.com/en-us/course/truman-state-university/intro-literary-genres-novel/1134620"
+    },
+    {
+      "name": "Intro Microbiology W/Lab",
+      "code": "BIOL 204",
+      "url": "https://www.studocu.com/en-us/course/truman-state-university/intro-microbiology-wlab/1059466"
+    },
+    {
+      "name": "Intro To Comm Disorders",
+      "code": "CMDS 200",
+      "url": "https://www.studocu.com/en-us/course/truman-state-university/intro-to-comm-disorders/1059815"
+    },
+    {
+      "name": "Intro To Computer Science I",
+      "code": "CS 170",
+      "url": "https://www.studocu.com/en-us/course/truman-state-university/intro-to-computer-science-i/1059845"
+    },
+    {
+      "name": "Intro To Ecology With Lab",
+      "code": "BIOL 301",
+      "url": "https://www.studocu.com/en-us/course/truman-state-university/intro-to-ecology-with-lab/1059472"
+    },
+    {
+      "name": "Intro To Financial Accounting",
+      "code": "ACCT 220",
+      "url": "https://www.studocu.com/en-us/course/truman-state-university/intro-to-financial-accounting/1059241"
+    },
+    {
+      "name": "Intro To Forensic Science",
+      "code": "JUST 281",
+      "url": "https://www.studocu.com/en-us/course/truman-state-university/intro-to-forensic-science/1060778"
+    },
+    {
+      "name": "Intro To Internatl Relations",
+      "code": "POL 250",
+      "url": "https://www.studocu.com/en-us/course/truman-state-university/intro-to-internatl-relations/1061341"
+    },
+    {
+      "name": "Intro To Intl Relations",
+      "code": "POL 250",
+      "url": "https://www.studocu.com/en-us/course/truman-state-university/intro-to-intl-relations/1061343"
+    },
+    {
+      "name": "Intro To Justice Systems",
+      "code": "JUST 205",
+      "url": "https://www.studocu.com/en-us/course/truman-state-university/intro-to-justice-systems/1060765"
+    },
+    {
+      "name": "Introduction To Linguistics",
+      "code": "LING 238",
+      "url": "https://www.studocu.com/en-us/course/truman-state-university/introduction-to-linguistics/1060809"
+    },
+    {
+      "name": "Introduction to Neurobiology",
+      "code": "BIOL 333",
+      "url": "https://www.studocu.com/en-us/course/truman-state-university/introduction-to-neurobiology/5901144"
+    },
+    {
+      "name": "Introduction To Public History",
+      "code": "HIST 334",
+      "url": "https://www.studocu.com/en-us/course/truman-state-university/introduction-to-public-history/1060453"
+    },
+    {
+      "name": "Introductory Biology I W Lab",
+      "code": "BIOL 107",
+      "url": "https://www.studocu.com/en-us/course/truman-state-university/introductory-biology-i-w-lab/1059460"
+    },
+    {
+      "name": "Introductory Biology Ii W Lab",
+      "code": "BIOL 108",
+      "url": "https://www.studocu.com/en-us/course/truman-state-university/introductory-biology-ii-w-lab/1059462"
+    },
+    {
+      "name": "Introductory Microbiology",
+      "code": "BIOL 204",
+      "url": "https://www.studocu.com/en-us/course/truman-state-university/introductory-microbiology/1059465"
+    },
+    {
+      "name": "Italian Civilization",
+      "code": "ITAL 324",
+      "url": "https://www.studocu.com/en-us/course/truman-state-university/italian-civilization/1060659"
+    },
+    {
+      "name": "Juvenile Delinquency",
+      "code": "JUST 332",
+      "url": "https://www.studocu.com/en-us/course/truman-state-university/juvenile-delinquency/1060776"
+    },
+    {
+      "name": "Legal Environment Of Business",
+      "code": "BSAD 234",
+      "url": "https://www.studocu.com/en-us/course/truman-state-university/legal-environment-of-business/1059566"
+    },
+    {
+      "name": "Life Span Development",
+      "code": "NU 250",
+      "url": "https://www.studocu.com/en-us/course/truman-state-university/life-span-development/1061171"
+    },
+    {
+      "name": "Logic",
+      "code": "PHRE 187",
+      "url": "https://www.studocu.com/en-us/course/truman-state-university/logic/1061226"
+    },
+    {
+      "name": "Maternal/Neonatal Nursg W/Lab",
+      "code": "NU 375",
+      "url": "https://www.studocu.com/en-us/course/truman-state-university/maternalneonatal-nursg-wlab/1061182"
+    },
+    {
+      "name": "Medical Terminology",
+      "code": "HLTH 200",
+      "url": "https://www.studocu.com/en-us/course/truman-state-university/medical-terminology/1060563"
+    },
+    {
+      "name": "Mgt Of Instr: Social Science",
+      "code": "SSTE 608G",
+      "url": "https://www.studocu.com/en-us/course/truman-state-university/mgt-of-instr-social-science/1061621"
+    },
+    {
+      "name": "Music Psychology",
+      "code": "TRU 110",
+      "url": "https://www.studocu.com/en-us/course/truman-state-university/music-psychology/5908689"
+    },
+    {
+      "name": "Organic Chemistry I",
+      "code": "CHEM 329",
+      "url": "https://www.studocu.com/en-us/course/truman-state-university/organic-chemistry-i/1059688"
+    },
+    {
+      "name": "Organic Chemistry Ii",
+      "code": "CHEM 331",
+      "url": "https://www.studocu.com/en-us/course/truman-state-university/organic-chemistry-ii/1059656"
+    },
+    {
+      "name": "Organic Chemistry Ii Lab",
+      "code": "CHEM 332",
+      "url": "https://www.studocu.com/en-us/course/truman-state-university/organic-chemistry-ii-lab/1059657"
+    },
+    {
+      "name": "Organizational Behavior",
+      "code": "BSAD 349",
+      "url": "https://www.studocu.com/en-us/course/truman-state-university/organizational-behavior/1059571"
+    },
+    {
+      "name": "Pathophysiology",
+      "code": "BIOL 353",
+      "url": "https://www.studocu.com/en-us/course/truman-state-university/pathophysiology/1059487"
+    },
+    {
+      "name": "Pharmacotherapeutics",
+      "code": "NU 310",
+      "url": "https://www.studocu.com/en-us/course/truman-state-university/pharmacotherapeutics/1061174"
+    },
+    {
+      "name": "Physics Research I",
+      "code": "PHYS 441",
+      "url": "https://www.studocu.com/en-us/course/truman-state-university/physics-research-i/1061324"
+    },
+    {
+      "name": "Physiological Psychology",
+      "code": "PSYC 321",
+      "url": "https://www.studocu.com/en-us/course/truman-state-university/physiological-psychology/1061393"
+    },
+    {
+      "name": "Positive Psychology",
+      "code": "PSYC 445",
+      "url": "https://www.studocu.com/en-us/course/truman-state-university/positive-psychology/1061423"
+    },
+    {
+      "name": "Practicum In Nursing Research",
+      "code": "NU 420",
+      "url": "https://www.studocu.com/en-us/course/truman-state-university/practicum-in-nursing-research/1061187"
+    },
+    {
+      "name": "Princ Of Hlth Educ & Hlth Sci",
+      "code": "HLTH 290",
+      "url": "https://www.studocu.com/en-us/course/truman-state-university/princ-of-hlth-educ-hlth-sci/1060570"
+    },
+    {
+      "name": "Principles Of Marketing",
+      "code": "BSAD 325",
+      "url": "https://www.studocu.com/en-us/course/truman-state-university/principles-of-marketing/1059568"
+    },
+    {
+      "name": "Principles Of Microeconomics",
+      "code": "ECON 201",
+      "url": "https://www.studocu.com/en-us/course/truman-state-university/principles-of-microeconomics/1059919"
+    },
+    {
+      "name": "Probation, Parole & Comm Corr",
+      "code": "JUST 282",
+      "url": "https://www.studocu.com/en-us/course/truman-state-university/probation-parole-comm-corr/1060800"
+    },
+    {
+      "name": "Production/Operations Mgmt",
+      "code": "BSAD 352",
+      "url": "https://www.studocu.com/en-us/course/truman-state-university/productionoperations-mgmt/1059573"
+    },
+    {
+      "name": "Psych Of Abnormal Behavior",
+      "code": "PSYC 366",
+      "url": "https://www.studocu.com/en-us/course/truman-state-university/psych-of-abnormal-behavior/1061403"
+    },
+    {
+      "name": "Public Health Practicum Ii",
+      "code": "HLTH 350",
+      "url": "https://www.studocu.com/en-us/course/truman-state-university/public-health-practicum-ii/1060596"
+    },
+    {
+      "name": "Public Speaking",
+      "code": "COMM 170",
+      "url": "https://www.studocu.com/en-us/course/truman-state-university/public-speaking/1059760"
+    },
+    {
+      "name": "Research In Exercise Sci",
+      "code": "ES 470",
+      "url": "https://www.studocu.com/en-us/course/truman-state-university/research-in-exercise-sci/1060302"
+    },
+    {
+      "name": "Research Methods In Health Sci",
+      "code": "HLTH 349",
+      "url": "https://www.studocu.com/en-us/course/truman-state-university/research-methods-in-health-sci/1060584"
+    },
+    {
+      "name": "Rhetoric and Civic Life",
+      "code": "Comm 245",
+      "url": "https://www.studocu.com/en-us/course/truman-state-university/rhetoric-and-civic-life/5062340"
+    },
+    {
+      "name": "Self and Society Seminar: Political Ideologies \"Who are We?\"",
+      "code": "TRU 110-02",
+      "url": "https://www.studocu.com/en-us/course/truman-state-university/self-and-society-seminar-political-ideologies-who-are-we/5904370"
+    },
+    {
+      "name": "Self and society: Nursing",
+      "code": "TRU 113",
+      "url": "https://www.studocu.com/en-us/course/truman-state-university/self-and-society-nursing/5870954"
+    },
+    {
+      "name": "Social Psychology",
+      "code": "PSYC 367",
+      "url": "https://www.studocu.com/en-us/course/truman-state-university/social-psychology/1134592"
+    },
+    {
+      "name": "Spanish Conversation",
+      "code": "SPAN 340",
+      "url": "https://www.studocu.com/en-us/course/truman-state-university/spanish-conversation/1061546"
+    },
+    {
+      "name": "Speech Comm Activities",
+      "code": "COMM 272",
+      "url": "https://www.studocu.com/en-us/course/truman-state-university/speech-comm-activities/1059768"
+    },
+    {
+      "name": "Statistics",
+      "code": "STAT 290",
+      "url": "https://www.studocu.com/en-us/course/truman-state-university/statistics/1061584"
+    },
+    {
+      "name": "Studies In Foreign Language",
+      "code": "LLFL 529",
+      "url": "https://www.studocu.com/en-us/course/truman-state-university/studies-in-foreign-language/1134608"
+    },
+    {
+      "name": "Studies In Literary Genres",
+      "code": "ENG 516",
+      "url": "https://www.studocu.com/en-us/course/truman-state-university/studies-in-literary-genres/1134577"
+    },
+    {
+      "name": "Survey Of Spanish Amer Lit",
+      "code": "SPAN 461",
+      "url": "https://www.studocu.com/en-us/course/truman-state-university/survey-of-spanish-amer-lit/1061557"
+    },
+    {
+      "name": "The Death Penalty",
+      "code": "JUST 410.01",
+      "url": "https://www.studocu.com/en-us/course/truman-state-university/the-death-penalty/6153249"
+    },
+    {
+      "name": "The Enforcement System",
+      "code": "JUST 334",
+      "url": "https://www.studocu.com/en-us/course/truman-state-university/the-enforcement-system/1060777"
+    },
+    {
+      "name": "The Legal System",
+      "code": "JUST 307",
+      "url": "https://www.studocu.com/en-us/course/truman-state-university/the-legal-system/1060770"
+    },
+    {
+      "name": "Topic: Eec Peer Instruction",
+      "code": "ENVS 380",
+      "url": "https://www.studocu.com/en-us/course/truman-state-university/topic-eec-peer-instruction/1060170"
+    },
+    {
+      "name": "Topics In Statistical Methods",
+      "code": "STAT 380",
+      "url": "https://www.studocu.com/en-us/course/truman-state-university/topics-in-statistical-methods/1061590"
+    },
+    {
+      "name": "Truman Week",
+      "code": "INDV 101",
+      "url": "https://www.studocu.com/en-us/course/truman-state-university/truman-week/1060674"
+    },
+    {
+      "name": "Us History Ii: 1877-Present",
+      "code": "HIST 105",
+      "url": "https://www.studocu.com/en-us/course/truman-state-university/us-history-ii-1877-present/1060422"
+    },
+    {
+      "name": "Voice: Graduate",
+      "code": "MUSI 557G",
+      "url": "https://www.studocu.com/en-us/course/truman-state-university/voice-graduate/1061131"
+    },
+    {
+      "name": "We/Management Info Systems",
+      "code": "BSAD 443",
+      "url": "https://www.studocu.com/en-us/course/truman-state-university/wemanagement-info-systems/1059608"
+    },
+    {
+      "name": "We/New Majors Seminar",
+      "code": "ECON 210",
+      "url": "https://www.studocu.com/en-us/course/truman-state-university/wenew-majors-seminar/1059905"
+    },
+    {
+      "name": "We/Persp Leadership Ii W/Lab",
+      "code": "MS 201",
+      "url": "https://www.studocu.com/en-us/course/truman-state-university/wepersp-leadership-ii-wlab/1060908"
+    },
+    {
+      "name": "We/Political Sci Methodology",
+      "code": "POL 300",
+      "url": "https://www.studocu.com/en-us/course/truman-state-university/wepolitical-sci-methodology/1061353"
+    },
+    {
+      "name": "We/Rhetoric & Medicine",
+      "code": "COMM 375",
+      "url": "https://www.studocu.com/en-us/course/truman-state-university/werhetoric-medicine/1134582"
+    },
+    {
+      "name": "We/Rural Public Hlth Nsg W Lab",
+      "code": "NU 485",
+      "url": "https://www.studocu.com/en-us/course/truman-state-university/werural-public-hlth-nsg-w-lab/1061194"
+    },
+    {
+      "name": "We/World Civ Ad 500 To 1700",
+      "code": "HIST 132",
+      "url": "https://www.studocu.com/en-us/course/truman-state-university/weworld-civ-ad-500-to-1700/1060421"
+    },
+    {
+      "name": "Women In Chinese Religion",
+      "code": "PHRE 363",
+      "url": "https://www.studocu.com/en-us/course/truman-state-university/women-in-chinese-religion/1061263"
+    },
+    {
+      "name": "Writing About Biology",
+      "code": "BIOL 249",
+      "url": "https://www.studocu.com/en-us/course/truman-state-university/writing-about-biology/1059468"
+    },
+    {
+      "name": "Writing As Critical Thinking",
+      "code": "ENG 190",
+      "url": "https://www.studocu.com/en-us/course/truman-state-university/writing-as-critical-thinking/1060002"
+    },
+    {
+      "name": "Wrongful Convictions",
+      "code": "JUST 410.02",
+      "url": "https://www.studocu.com/en-us/course/truman-state-university/wrongful-convictions/5726783"
+    }
+  ]
+}

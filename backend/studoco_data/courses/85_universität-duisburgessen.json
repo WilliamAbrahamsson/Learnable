@@ -1,0 +1,4446 @@
+{
+  "university_id": "85",
+  "university_name": "Universität Duisburg-Essen",
+  "courses": [
+    {
+      "name": "20th-Century British Literature",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/20th-century-british-literature/1509336"
+    },
+    {
+      "name": "A History of American Literature",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/a-history-of-american-literature/1509337"
+    },
+    {
+      "name": "A History of British Literature and Culture",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/a-history-of-british-literature-and-culture/1509338"
+    },
+    {
+      "name": "Abfallwirtschaft 3 - Biologische Abfallbehandlung",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/abfallwirtschaft-3-biologische-abfallbehandlung/1509343"
+    },
+    {
+      "name": "Absatzmarketing",
+      "code": "51104200",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/absatzmarketing/1509346"
+    },
+    {
+      "name": "ABWL & Steuern",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/abwl-steuern/1509348"
+    },
+    {
+      "name": "Academic Writing and Reviewing",
+      "code": "51603507",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/academic-writing-and-reviewing/1509349"
+    },
+    {
+      "name": "Additive Fertigungstechnik",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/additive-fertigungstechnik/1509351"
+    },
+    {
+      "name": "Advanced Computer Architecture",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/advanced-computer-architecture/1509354"
+    },
+    {
+      "name": "Advanced Corporate Governance",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/advanced-corporate-governance/3514300"
+    },
+    {
+      "name": "Advanced Industrial Organization",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/advanced-industrial-organization/1509378"
+    },
+    {
+      "name": "Advanced Macroeconomics",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/advanced-macroeconomics/1509379"
+    },
+    {
+      "name": "Advanced Mobile Communications",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/advanced-mobile-communications/1509381"
+    },
+    {
+      "name": "Advanced System and Control Theory",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/advanced-system-and-control-theory/1509384"
+    },
+    {
+      "name": "Air Pollution Control",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/air-pollution-control/1509392"
+    },
+    {
+      "name": "Algebra 1",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/algebra-1/1509482"
+    },
+    {
+      "name": "Algebra und Diskrete Mathematik II",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/algebra-und-diskrete-mathematik-ii/1509484"
+    },
+    {
+      "name": "Allgemeinchirugie",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/allgemeinchirugie/2419510"
+    },
+    {
+      "name": "Allgemeine Betriebswirtschaftslehre und Steuern",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/allgemeine-betriebswirtschaftslehre-und-steuern/1509357"
+    },
+    {
+      "name": "Allgemeine Chemie",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/allgemeine-chemie/1509358"
+    },
+    {
+      "name": "Allgemeine Methoden",
+      "code": "91100810",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/allgemeine-methoden/1509359"
+    },
+    {
+      "name": "Allgemeine Psychologie I",
+      "code": "-",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/allgemeine-psychologie-i/3944644"
+    },
+    {
+      "name": "Allgemeine Psychologie: Emotion und Motivation",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/allgemeine-psychologie-emotion-und-motivation/1509360"
+    },
+    {
+      "name": "Allgemeine Psychologie: Perzeption, Kognition und Handeln",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/allgemeine-psychologie-perzeption-kognition-und-handeln/1509361"
+    },
+    {
+      "name": "Allgemeine Technologie: Datenumsetzende Systeme",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/allgemeine-technologie-datenumsetzende-systeme/1509363"
+    },
+    {
+      "name": "Allgemeine Technologie: Stoff- und Energieumsetzende Systeme",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/allgemeine-technologie-stoff-und-energieumsetzende-systeme/1509364"
+    },
+    {
+      "name": "Allgemeine und Anorganische Chemie II",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/allgemeine-und-anorganische-chemie-ii/1509365"
+    },
+    {
+      "name": "Allgemeine Zoologie",
+      "code": "91106301",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/allgemeine-zoologie/1509366"
+    },
+    {
+      "name": "Allgemeinmedizin",
+      "code": "141100522",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/allgemeinmedizin/1509367"
+    },
+    {
+      "name": "Alte Geschichte",
+      "code": "HAHA123",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/alte-geschichte/5146475"
+    },
+    {
+      "name": "Ambulante Notfälle und spezielle Unfallchirurgie",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/ambulante-notfalle-und-spezielle-unfallchirurgie/1509369"
+    },
+    {
+      "name": "American Civilization",
+      "code": "CIVI2018",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/american-civilization/4435375"
+    },
+    {
+      "name": "Analysis für Informatiker und Wirtschaftsinformatiker",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/analysis-fur-informatiker-und-wirtschaftsinformatiker/1509374"
+    },
+    {
+      "name": "Analysis I",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/analysis-i/1509375"
+    },
+    {
+      "name": "Analysis II",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/analysis-ii/1509416"
+    },
+    {
+      "name": "Analysis III",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/analysis-iii/1509417"
+    },
+    {
+      "name": "Anatomie und Ganganalyse",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/anatomie-und-ganganalyse/1509425"
+    },
+    {
+      "name": "Anatomie/ Physiologie I",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/anatomie-physiologie-i/1509426"
+    },
+    {
+      "name": "Anatomie/ Physiologie II",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/anatomie-physiologie-ii/1509427"
+    },
+    {
+      "name": "Angebotsmanagement",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/angebotsmanagement/1509428"
+    },
+    {
+      "name": "Angewandte Ethik: Einführung in die Angewandte Ethik",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/angewandte-ethik-einfuhrung-in-die-angewandte-ethik/1509430"
+    },
+    {
+      "name": "Angwandte Sportpsychologie",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/angwandte-sportpsychologie/1509434"
+    },
+    {
+      "name": "Anorganische Chemie I",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/anorganische-chemie-i/1509397"
+    },
+    {
+      "name": "Anorganische Chemie II",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/anorganische-chemie-ii/1509398"
+    },
+    {
+      "name": "Anorganische Chemie III",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/anorganische-chemie-iii/1509399"
+    },
+    {
+      "name": "Antidiskriminierungsarbeit in Schule und Unterricht",
+      "code": "BIWI2020",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/antidiskriminierungsarbeit-in-schule-und-unterricht/5399321"
+    },
+    {
+      "name": "Anwendung formaler Methoden des Software Engineering",
+      "code": "51703505",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/anwendung-formaler-methoden-des-software-engineering/1509405"
+    },
+    {
+      "name": "Anwendungsfälle zur Internationalen Rechnungslegung",
+      "code": "51110519",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/anwendungsfalle-zur-internationalen-rechnungslegung/1509408"
+    },
+    {
+      "name": "Anästhesiologie, Intensivmedizin, Notfallmedizin und spezielle Schmerztherapie",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/anasthesiologie-intensivmedizin-notfallmedizin-und-spezielle-schmerztherapie/1509423"
+    },
+    {
+      "name": "Anästhesiologie, Intensivmedizin, Schmerztherapie",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/anasthesiologie-intensivmedizin-schmerztherapie/1509424"
+    },
+    {
+      "name": "Applied Ethics: Animal Ethics",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/applied-ethics-animal-ethics/5399331"
+    },
+    {
+      "name": "Applied Microeconomics",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/applied-microeconomics/1509436"
+    },
+    {
+      "name": "Arbeitsförderung",
+      "code": "SGB20",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/arbeitsforderung/4553643"
+    },
+    {
+      "name": "Arbeitsrecht I",
+      "code": "51302500",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/arbeitsrecht-i/1509446"
+    },
+    {
+      "name": "Arbeitsrecht II",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/arbeitsrecht-ii/1509447"
+    },
+    {
+      "name": "Arbeitswissenschaft",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/arbeitswissenschaft/1509448"
+    },
+    {
+      "name": "Arithmetik",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/arithmetik/1509450"
+    },
+    {
+      "name": "Aspekte deutscher Filmgeschichte",
+      "code": "AdF 21/22",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/aspekte-deutscher-filmgeschichte/5364259"
+    },
+    {
+      "name": "Asset Management",
+      "code": "AM1234",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/asset-management/5358912"
+    },
+    {
+      "name": "Augenheilkunde",
+      "code": "143300504",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/augenheilkunde/1509719"
+    },
+    {
+      "name": "Ausdrucksstarkes Vorlesen I und II",
+      "code": "209",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/ausdrucksstarkes-vorlesen-i-und-ii/1509721"
+    },
+    {
+      "name": "Außerbetrieblicher Transport",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/ausserbetrieblicher-transport/1509730"
+    },
+    {
+      "name": "Automaten und Formale Sprachen",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/automaten-und-formale-sprachen/1509732"
+    },
+    {
+      "name": "Automatisierungstechnik",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/automatisierungstechnik/1509733"
+    },
+    {
+      "name": "Automobile Produktionstechnik",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/automobile-produktionstechnik/1509734"
+    },
+    {
+      "name": "Automobile Wertschöpfungskette",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/automobile-wertschopfungskette/1509735"
+    },
+    {
+      "name": "Bankmanagement I",
+      "code": "51103500",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/bankmanagement-i/1509923"
+    },
+    {
+      "name": "Bankmanagement III - Rentabilitätsanalyse und Kapitalallokation",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/bankmanagement-iii-rentabilitatsanalyse-und-kapitalallokation/1509925"
+    },
+    {
+      "name": "Barockdramen",
+      "code": "EXTA2",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/barockdramen/5471734"
+    },
+    {
+      "name": "Baubetrieb 2 - Baubetriebswirtschaft",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/baubetrieb-2-baubetriebswirtschaft/1509931"
+    },
+    {
+      "name": "Baubetrieb 3 - Bauvertragsrecht",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/baubetrieb-3-bauvertragsrecht/1509932"
+    },
+    {
+      "name": "Baubetrieb 4 - Projektmanagement",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/baubetrieb-4-projektmanagement/1509933"
+    },
+    {
+      "name": "Baubetrieb 5 - Unternehmensführung",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/baubetrieb-5-unternehmensfuhrung/1509934"
+    },
+    {
+      "name": "Baubetrieb 7 - Ausschreibung und Abrechnung",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/baubetrieb-7-ausschreibung-und-abrechnung/1509456"
+    },
+    {
+      "name": "Baugruppen",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/baugruppen/1509458"
+    },
+    {
+      "name": "Baukonstruktion 1",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/baukonstruktion-1/1509460"
+    },
+    {
+      "name": "Bauphysik 1",
+      "code": "101103001",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/bauphysik-1/1509462"
+    },
+    {
+      "name": "Baustatik 1",
+      "code": "101201504",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/baustatik-1/1509466"
+    },
+    {
+      "name": "Baustatik 2",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/baustatik-2/1509467"
+    },
+    {
+      "name": "Baustatik 5",
+      "code": "101201512",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/baustatik-5/1509470"
+    },
+    {
+      "name": "Bausteine des Lebens: Einführung in die Biochemie",
+      "code": "91101780",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/bausteine-des-lebens-einfuhrung-in-die-biochemie/1509471"
+    },
+    {
+      "name": "Bedingungen von Bildung und Erziehung in der Einwanderungsgesellschaft",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/bedingungen-von-bildung-und-erziehung-in-der-einwanderungsgesellschaft/1509474"
+    },
+    {
+      "name": "Begleitseminar zum Berufsfeldpraktikum",
+      "code": "51709230",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/begleitseminar-zum-berufsfeldpraktikum/1509475"
+    },
+    {
+      "name": "Begleitvorlesung zum Seminar Anatomie (Neuroanatomie, 3. FS)",
+      "code": "NA",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/begleitvorlesung-zum-seminar-anatomie-neuroanatomie-3-fs/3339260"
+    },
+    {
+      "name": "Begleitzum Kurs der Makroskopischen Anatomie Teil II",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/begleitzum-kurs-der-makroskopischen-anatomie-teil-ii/1509561"
+    },
+    {
+      "name": "Beratungsansätze",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/beratungsansatze/1509565"
+    },
+    {
+      "name": "Berechenbarkeit und Komplexität",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/berechenbarkeit-und-komplexitat/1509566"
+    },
+    {
+      "name": "Berufsorientierung: Text-, Sprach-, Schreibkompetenz",
+      "code": "HRSGe_I.2._BA_BIWI",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/berufsorientierung-text-sprach-schreibkompetenz/5178894"
+    },
+    {
+      "name": "Beschaffung und Produktion",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/beschaffung-und-produktion/1509569"
+    },
+    {
+      "name": "Bestrahlungsplanung mit Fallbeispielen. Neue Entwicklung in der konformalen Strahlentherapie",
+      "code": "132108513",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/bestrahlungsplanung-mit-fallbeispielen-neue-entwicklung-in-der-konformalen-strahlentherapie/1509571"
+    },
+    {
+      "name": "Betonbau 1 - Bemessung und Konstruktion",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/betonbau-1-bemessung-und-konstruktion/1509572"
+    },
+    {
+      "name": "Betonbau 2",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/betonbau-2/1509573"
+    },
+    {
+      "name": "Betonbau 4 - Massiv- und Verbundbrücken",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/betonbau-4-massiv-und-verbundbrucken/1509575"
+    },
+    {
+      "name": "Betriebliche Entscheidungstheorie",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/betriebliche-entscheidungstheorie/1509496"
+    },
+    {
+      "name": "Betriebliches Gesundheitsmanagement",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/betriebliches-gesundheitsmanagement/1509497"
+    },
+    {
+      "name": "Betriebliches Rechnungswesen und Besteuerung",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/betriebliches-rechnungswesen-und-besteuerung/1509498"
+    },
+    {
+      "name": "Betriebssysteme",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/betriebssysteme/1509500"
+    },
+    {
+      "name": "Betriebswirtschaft für Ingenieure",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/betriebswirtschaft-fur-ingenieure/1509501"
+    },
+    {
+      "name": "Betriebswirtschaftslehre 2",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/betriebswirtschaftslehre-2/1509502"
+    },
+    {
+      "name": "Bewegen im Wasser",
+      "code": "Schwi BA",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/bewegen-im-wasser/6720511"
+    },
+    {
+      "name": "Bilderkult und Ikonoklasmus: Grenzphänomene transkultureller Kunstwissenschaft",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/bilderkult-und-ikonoklasmus-grenzphanomene-transkultureller-kunstwissenschaft/1509504"
+    },
+    {
+      "name": "Bildgebende Verfahren, Strahlenbehandlung, Strahlenschutz - Teil 2",
+      "code": "74",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/bildgebende-verfahren-strahlenbehandlung-strahlenschutz-teil-2/1509506"
+    },
+    {
+      "name": "Bildungs- und Lernberatung",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/bildungs-und-lernberatung/1509510"
+    },
+    {
+      "name": "Bildungsforschung und soziale Ungleichheit im Bildungswesen",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/bildungsforschung-und-soziale-ungleichheit-im-bildungswesen/1509511"
+    },
+    {
+      "name": "Bildungswissenschaften",
+      "code": "BIWI1",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/bildungswissenschaften/5173944"
+    },
+    {
+      "name": "Biochemie",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/biochemie/1509513"
+    },
+    {
+      "name": "Biochemie/Molekularbiologie Teil II",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/biochemiemolekularbiologie-teil-ii/1509516"
+    },
+    {
+      "name": "Biologie für Grundschule I",
+      "code": "91110761",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/biologie-fur-grundschule-i/1509525"
+    },
+    {
+      "name": "Biologie für Mediziner",
+      "code": "140800505",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/biologie-fur-mediziner/1509526"
+    },
+    {
+      "name": "Biologiedidaktik",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/biologiedidaktik/3284931"
+    },
+    {
+      "name": "Biwi A Modul / Modul III",
+      "code": "M.3",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/biwi-a-modul-modul-iii/4369572"
+    },
+    {
+      "name": "Blended Didaktikum",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/blended-didaktikum/3358925"
+    },
+    {
+      "name": "Botanische Bestimmungsübungen",
+      "code": "091103252",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/botanische-bestimmungsubungen/3275128"
+    },
+    {
+      "name": "Brückenkurs Mathe",
+      "code": "0000",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/bruckenkurs-mathe/1662478"
+    },
+    {
+      "name": "Buchhaltung",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/buchhaltung/1509545"
+    },
+    {
+      "name": "Buchhaltung und Abschluss",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/buchhaltung-und-abschluss/1509546"
+    },
+    {
+      "name": "Business Cases in Banking and Finance",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/business-cases-in-banking-and-finance/1509549"
+    },
+    {
+      "name": "Business Engineering",
+      "code": "51601506",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/business-engineering/1509550"
+    },
+    {
+      "name": "Business English Intensive",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/business-english-intensive/1509551"
+    },
+    {
+      "name": "Business English Intensive Advanced",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/business-english-intensive-advanced/1509552"
+    },
+    {
+      "name": "Business English Intensive Upper-Intermediate",
+      "code": "510002204",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/business-english-intensive-upper-intermediate/1509554"
+    },
+    {
+      "name": "Business Eningeering",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/business-eningeering/1509555"
+    },
+    {
+      "name": "Business Intelligence: Strategie und Organisation",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/business-intelligence-strategie-und-organisation/1509796"
+    },
+    {
+      "name": "BWL",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/bwl/1509797"
+    },
+    {
+      "name": "Bürger im Staat 1",
+      "code": "BIS1",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/burger-im-staat-1/6077956"
+    },
+    {
+      "name": "C Programming",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/c-programming/1509799"
+    },
+    {
+      "name": "CAD",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/cad/1509800"
+    },
+    {
+      "name": "Chemie",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/chemie/1509805"
+    },
+    {
+      "name": "Chemie für Ingenieure",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/chemie-fur-ingenieure/3220980"
+    },
+    {
+      "name": "Chemie für Lehramtsstudierende der Biologie, Physik und Technik",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/chemie-fur-lehramtsstudierende-der-biologie-physik-und-technik/1509807"
+    },
+    {
+      "name": "Chemie für Mediziner und medizinische Biologen",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/chemie-fur-mediziner-und-medizinische-biologen/1509808"
+    },
+    {
+      "name": "Chinesisch I",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/chinesisch-i/2349826"
+    },
+    {
+      "name": "Chirurgie Vorlesung",
+      "code": "142500503",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/chirurgie-vorlesung/1509815"
+    },
+    {
+      "name": "Chirurgisch-nephrologische Konferenz",
+      "code": "142500549",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/chirurgisch-nephrologische-konferenz/1509597"
+    },
+    {
+      "name": "Chirurgische Nahttechniken",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/chirurgische-nahttechniken/1509596"
+    },
+    {
+      "name": "Christentumsgeschichte",
+      "code": "BA 2,2",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/christentumsgeschichte/4945401"
+    },
+    {
+      "name": "Classroom Management",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/classroom-management/1509598"
+    },
+    {
+      "name": "Climate Change and Adaptation Strategies within Urban Areas",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/climate-change-and-adaptation-strategies-within-urban-areas/1509599"
+    },
+    {
+      "name": "Cloud, Web & Mobile",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/cloud-web-mobile/1509600"
+    },
+    {
+      "name": "Combustion Science",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/combustion-science/1509603"
+    },
+    {
+      "name": "Comics! Medialität, Geschichte, Genre",
+      "code": "B5|036-M6",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/comics-medialitat-geschichte-genre/6750861"
+    },
+    {
+      "name": "Communication & Collaboration.",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/communication-collaboration/2505229"
+    },
+    {
+      "name": "Computer Based Engineering Mathematics",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/computer-based-engineering-mathematics/1509613"
+    },
+    {
+      "name": "Computergestützte Ingenieurmathematik",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/computergestutzte-ingenieurmathematik/1509578"
+    },
+    {
+      "name": "Concurrency",
+      "code": "51706219",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/concurrency/1509583"
+    },
+    {
+      "name": "Control Theory",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/control-theory/1509587"
+    },
+    {
+      "name": "Controlling",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/controlling/1509588"
+    },
+    {
+      "name": "Controlling: Kostenmanagement",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/controlling-kostenmanagement/1509590"
+    },
+    {
+      "name": "Corporate Finance",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/corporate-finance/1701758"
+    },
+    {
+      "name": "Cultural Studies",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/cultural-studies/1509593"
+    },
+    {
+      "name": "Daten und Zufall",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/daten-und-zufall/1509621"
+    },
+    {
+      "name": "Datenbanken",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/datenbanken/1509622"
+    },
+    {
+      "name": "Datenbankmanagementsysteme",
+      "code": "51701202",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/datenbankmanagementsysteme/1509623"
+    },
+    {
+      "name": "Datenbanksysteme",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/datenbanksysteme/1509624"
+    },
+    {
+      "name": "Datenstrukturen und Algorithmen",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/datenstrukturen-und-algorithmen/1509625"
+    },
+    {
+      "name": "DaZ/ DaF Deutsch als Zweit/-Fremdsprache",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/daz-daf-deutsch-als-zweit-fremdsprache/2505263"
+    },
+    {
+      "name": "Der Dreißigjährige Krieg und die niederländische Frage",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/der-dreissigjahrige-krieg-und-die-niederlandische-frage/1509627"
+    },
+    {
+      "name": "Dermatologie und Venerologie",
+      "code": "143100503",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/dermatologie-und-venerologie/1509630"
+    },
+    {
+      "name": "Design Theory 1",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/design-theory-1/1509633"
+    },
+    {
+      "name": "Design Theory 2",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/design-theory-2/1509634"
+    },
+    {
+      "name": "Design Theory 3",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/design-theory-3/1509635"
+    },
+    {
+      "name": "Design und Architektur von Softwaresystemen",
+      "code": "51703503",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/design-und-architektur-von-softwaresystemen/1509636"
+    },
+    {
+      "name": "Design-to-Cost und Qualitätsmanagement",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/design-to-cost-und-qualitatsmanagement/1509638"
+    },
+    {
+      "name": "Deskriptive Statistik",
+      "code": "51402202",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/deskriptive-statistik/1509639"
+    },
+    {
+      "name": "Deutsche Literatur des Mittelalters III",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/deutsche-literatur-des-mittelalters-iii/1509640"
+    },
+    {
+      "name": "Diagnose und Förderung",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/diagnose-und-forderung/1509641"
+    },
+    {
+      "name": "Diagnostik und Evaluation",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/diagnostik-und-evaluation/1509643"
+    },
+    {
+      "name": "Diagnostische Radiologie",
+      "code": "142000516",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/diagnostische-radiologie/1509645"
+    },
+    {
+      "name": "Didaktik beruflichen Lernens",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/didaktik-beruflichen-lernens/1509646"
+    },
+    {
+      "name": "Didaktik der Arithmetik",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/didaktik-der-arithmetik/1509648"
+    },
+    {
+      "name": "Didaktik der Biologie",
+      "code": "91105250",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/didaktik-der-biologie/1509782"
+    },
+    {
+      "name": "Didaktik der Geometrie",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/didaktik-der-geometrie/1509649"
+    },
+    {
+      "name": "Didaktik der Informatik II",
+      "code": "51709500",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/didaktik-der-informatik-ii/1509650"
+    },
+    {
+      "name": "Didaktik der linearen Algebra/Analytischen Geometrie",
+      "code": "DAU_SekII_Ba_M_GyGe",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/didaktik-der-linearen-algebraanalytischen-geometrie/3275112"
+    },
+    {
+      "name": "Didaktik der Stochastik",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/didaktik-der-stochastik/1509651"
+    },
+    {
+      "name": "Didaktik des Sachunterrichts",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/didaktik-des-sachunterrichts/1509654"
+    },
+    {
+      "name": "Didaktik des Sachunterrichts I",
+      "code": "SU-Ba-M5",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/didaktik-des-sachunterrichts-i/5720565"
+    },
+    {
+      "name": "Didaktik des Sachunterrichts II",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/didaktik-des-sachunterrichts-ii/1509655"
+    },
+    {
+      "name": "Didaktische Analyse Ausgewählter Unterrichtsthemen",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/didaktische-analyse-ausgewahlter-unterrichtsthemen/6116482"
+    },
+    {
+      "name": "Die Bundesrepublik in der 2. Ölkrise",
+      "code": "ZAD71037",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/die-bundesrepublik-in-der-2-olkrise/4450278"
+    },
+    {
+      "name": "Die Methode der finiten Elemente 1",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/die-methode-der-finiten-elemente-1/1509664"
+    },
+    {
+      "name": "Die Provinz Germania Inferior",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/die-provinz-germania-inferior/1509666"
+    },
+    {
+      "name": "Die Qualität von Beratung in Praxis und Reflexion",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/die-qualitat-von-beratung-in-praxis-und-reflexion/2658619"
+    },
+    {
+      "name": "Differentialdiagnose Innere Erkrankungen",
+      "code": "142200597",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/differentialdiagnose-innere-erkrankungen/1509671"
+    },
+    {
+      "name": "Differentielle Psychologie",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/differentielle-psychologie/2334409"
+    },
+    {
+      "name": "Digitale Filter/Digital Filters",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/digitale-filterdigital-filters/1509673"
+    },
+    {
+      "name": "Digitale Medien (Multimedia Engineering)",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/digitale-medien-multimedia-engineering/1509674"
+    },
+    {
+      "name": "Digitaltechnische Grundlagen und Mikrocomputer",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/digitaltechnische-grundlagen-und-mikrocomputer/1509697"
+    },
+    {
+      "name": "Discrete Mathematics",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/discrete-mathematics/1509699"
+    },
+    {
+      "name": "Diskrete Mathematik",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/diskrete-mathematik/1509701"
+    },
+    {
+      "name": "Diskrete Mathematik 1",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/diskrete-mathematik-1/1509702"
+    },
+    {
+      "name": "Diskrete Mathematik 2",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/diskrete-mathematik-2/1509703"
+    },
+    {
+      "name": "Distributed Objects & XML",
+      "code": "51703501",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/distributed-objects-xml/1509708"
+    },
+    {
+      "name": "Dynamische Makroökonomik",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/dynamische-makrookonomik/1509713"
+    },
+    {
+      "name": "E-Business-Grundlagen",
+      "code": "51605500",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/e-business-grundlagen/1509677"
+    },
+    {
+      "name": "E-Commerce 1: Zwischenbetriebliche Integration / Standardisierung",
+      "code": "51601502",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/e-commerce-1-zwischenbetriebliche-integration-standardisierung/1509683"
+    },
+    {
+      "name": "Econometrics for MA Students",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/econometrics-for-ma-students/1509684"
+    },
+    {
+      "name": "Eine Einführung in den Studienbereich D: Entstehung, Struktur und Steuerung des Schulsystems",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/eine-einfuhrung-in-den-studienbereich-d-entstehung-struktur-und-steuerung-des-schulsystems/1509736"
+    },
+    {
+      "name": "Einführung BWL",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/einfuhrung-bwl/1509737"
+    },
+    {
+      "name": "Einführung in das Medizinmanagement",
+      "code": "51105501",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/einfuhrung-in-das-medizinmanagement/1509738"
+    },
+    {
+      "name": "Einführung in das sportwissenschaftliche Studium",
+      "code": "2000SP",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/einfuhrung-in-das-sportwissenschaftliche-studium/5929874"
+    },
+    {
+      "name": "Einführung in das Studium der Geisteswissenschaften",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/einfuhrung-in-das-studium-der-geisteswissenschaften/1509742"
+    },
+    {
+      "name": "Einführung in das Studium und Arbeitstechniken der Politikwisschenschaft",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/einfuhrung-in-das-studium-und-arbeitstechniken-der-politikwisschenschaft/1509743"
+    },
+    {
+      "name": "Einführung in das Wirtschaftsrecht",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/einfuhrung-in-das-wirtschaftsrecht/1509745"
+    },
+    {
+      "name": "Einführung in das Zivilrecht",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/einfuhrung-in-das-zivilrecht/1509746"
+    },
+    {
+      "name": "Einführung in den Schriftspracherwerb",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/einfuhrung-in-den-schriftspracherwerb/1509749"
+    },
+    {
+      "name": "Einführung in die Allgemeine Didaktik",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/einfuhrung-in-die-allgemeine-didaktik/1509750"
+    },
+    {
+      "name": "Einführung in die Allgemeine Pädagogik",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/einfuhrung-in-die-allgemeine-padagogik/1509751"
+    },
+    {
+      "name": "Einführung in die Automatisierungstechnik",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/einfuhrung-in-die-automatisierungstechnik/1509753"
+    },
+    {
+      "name": "Einführung in die betriebswirtschaftliche Steuerlehre",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/einfuhrung-in-die-betriebswirtschaftliche-steuerlehre/1509754"
+    },
+    {
+      "name": "Einführung in die Betriebswirtschaftslehre",
+      "code": "51102200",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/einfuhrung-in-die-betriebswirtschaftslehre/1509755"
+    },
+    {
+      "name": "Einführung in die Botanik",
+      "code": "91103251",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/einfuhrung-in-die-botanik/1509779"
+    },
+    {
+      "name": "Einführung in die BWL für interdisziplinäre Studiengänge",
+      "code": "EBWL1819",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/einfuhrung-in-die-bwl-fur-interdisziplinare-studiengange/3359031"
+    },
+    {
+      "name": "Einführung in die Chemie",
+      "code": "BA-M3.2",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/einfuhrung-in-die-chemie/4467122"
+    },
+    {
+      "name": "Einführung in die Didaktik der Physik",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/einfuhrung-in-die-didaktik-der-physik/1509783"
+    },
+    {
+      "name": "Einführung in die Didaktik des Sachunterrichts",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/einfuhrung-in-die-didaktik-des-sachunterrichts/1509785"
+    },
+    {
+      "name": "Einführung in die Energiewirtschaft",
+      "code": "51102501",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/einfuhrung-in-die-energiewirtschaft/1509787"
+    },
+    {
+      "name": "Einführung in die Ethik",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/einfuhrung-in-die-ethik/1509789"
+    },
+    {
+      "name": "Einführung in die Europäische Integration",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/einfuhrung-in-die-europaische-integration/1509790"
+    },
+    {
+      "name": "Einführung in die Fachdidaktik Deutsch",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/einfuhrung-in-die-fachdidaktik-deutsch/1509793"
+    },
+    {
+      "name": "Einführung in die Festkörperphysik",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/einfuhrung-in-die-festkorperphysik/1509794"
+    },
+    {
+      "name": "Einführung in die französische Landeswissenschaft",
+      "code": "10300701",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/einfuhrung-in-die-franzosische-landeswissenschaft/1509795"
+    },
+    {
+      "name": "Einführung in die französische Sprachwissenschaft",
+      "code": "10302701",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/einfuhrung-in-die-franzosische-sprachwissenschaft/1509757"
+    },
+    {
+      "name": "Einführung in die Genetik",
+      "code": "91107253",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/einfuhrung-in-die-genetik/1509758"
+    },
+    {
+      "name": "Einführung in die Geschichtsdidaktik",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/einfuhrung-in-die-geschichtsdidaktik/1509760"
+    },
+    {
+      "name": "Einführung in die Grundlagen der Didaktik der Technik",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/einfuhrung-in-die-grundlagen-der-didaktik-der-technik/1509763"
+    },
+    {
+      "name": "Einführung in die Grundschulpädagogik",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/einfuhrung-in-die-grundschulpadagogik/1509766"
+    },
+    {
+      "name": "Einführung in die Kritische Theorie",
+      "code": "ZAB900",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/einfuhrung-in-die-kritische-theorie/5397588"
+    },
+    {
+      "name": "Einführung in die Linguistik",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/einfuhrung-in-die-linguistik/1509773"
+    },
+    {
+      "name": "Einführung in die Literaturwissenschaft",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/einfuhrung-in-die-literaturwissenschaft/1509774"
+    },
+    {
+      "name": "Einführung in die Logik",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/einfuhrung-in-die-logik/1509775"
+    },
+    {
+      "name": "Einführung in die Makroökonomie",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/einfuhrung-in-die-makrookonomie/1509817"
+    },
+    {
+      "name": "Einführung in die Mechatronik und Signalanalyse",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/einfuhrung-in-die-mechatronik-und-signalanalyse/1509818"
+    },
+    {
+      "name": "Einführung in die Methodenlehre / Statistik I",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/einfuhrung-in-die-methodenlehre-statistik-i/1509821"
+    },
+    {
+      "name": "Einführung in die Nanotechnologie",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/einfuhrung-in-die-nanotechnologie/1509823"
+    },
+    {
+      "name": "Einführung in die Philosophische Anthropologie",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/einfuhrung-in-die-philosophische-anthropologie/1509829"
+    },
+    {
+      "name": "Einführung in die Phylogenie und Biodiversität",
+      "code": "91103601",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/einfuhrung-in-die-phylogenie-und-biodiversitat/1509830"
+    },
+    {
+      "name": "Einführung in die Physik",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/einfuhrung-in-die-physik/1509831"
+    },
+    {
+      "name": "Einführung in die politische Systemlehre",
+      "code": "PoSys18/19",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/einfuhrung-in-die-politische-systemlehre/5826692"
+    },
+    {
+      "name": "Einführung in die Politische Theorie",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/einfuhrung-in-die-politische-theorie/1509835"
+    },
+    {
+      "name": "Einführung in die psychologischen Grundlagen",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/einfuhrung-in-die-psychologischen-grundlagen/1509838"
+    },
+    {
+      "name": "Einführung in die qualitativen Forschungsmethoden",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/einfuhrung-in-die-qualitativen-forschungsmethoden/1509840"
+    },
+    {
+      "name": "Einführung in die quantitativen Forschungsmethoden",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/einfuhrung-in-die-quantitativen-forschungsmethoden/1509841"
+    },
+    {
+      "name": "Einführung in die Religionsphilosophie",
+      "code": "m6a",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/einfuhrung-in-die-religionsphilosophie/4739803"
+    },
+    {
+      "name": "Einführung in die Sozial- und Ideengeschichte der Erziehung und Bildung: Ausgewählte Ansätze",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/einfuhrung-in-die-sozial-und-ideengeschichte-der-erziehung-und-bildung-ausgewahlte-ansatze/1509843"
+    },
+    {
+      "name": "Einführung in die Spieltheorie",
+      "code": "51504542",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/einfuhrung-in-die-spieltheorie/1509847"
+    },
+    {
+      "name": "Einführung in die sportwissenschafliche Praxis",
+      "code": "2001SP",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/einfuhrung-in-die-sportwissenschafliche-praxis/5929917"
+    },
+    {
+      "name": "Einführung in die Studiengrundlagen der Erziehungswissenschaft",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/einfuhrung-in-die-studiengrundlagen-der-erziehungswissenschaft/1509848"
+    },
+    {
+      "name": "Einführung in die systematische Theologie",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/einfuhrung-in-die-systematische-theologie/3614172"
+    },
+    {
+      "name": "Einführung in die Systematische Theologie - Dogmatik",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/einfuhrung-in-die-systematische-theologie-dogmatik/1509849"
+    },
+    {
+      "name": "Einführung in die Theoretische Philosophie",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/einfuhrung-in-die-theoretische-philosophie/1509850"
+    },
+    {
+      "name": "Einführung in die Versicherungsbetriebslehre",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/einfuhrung-in-die-versicherungsbetriebslehre/1509852"
+    },
+    {
+      "name": "Einführung in die Volkswirtschaftslehre",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/einfuhrung-in-die-volkswirtschaftslehre/1509853"
+    },
+    {
+      "name": "Einführung in die Volkswirtschaftslehre / Mikroökonomik I",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/einfuhrung-in-die-volkswirtschaftslehre-mikrookonomik-i/1509854"
+    },
+    {
+      "name": "Einführung in die VWL",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/einfuhrung-in-die-vwl/1509856"
+    },
+    {
+      "name": "Einführung in die VWL für interdisziplinäre Studiengänge",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/einfuhrung-in-die-vwl-fur-interdisziplinare-studiengange/1509857"
+    },
+    {
+      "name": "Einführung in die Werkstoffe",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/einfuhrung-in-die-werkstoffe/1509858"
+    },
+    {
+      "name": "Einführung in die Wirtschafts- und Sozialpolitik",
+      "code": "EWS1",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/einfuhrung-in-die-wirtschafts-und-sozialpolitik/6130513"
+    },
+    {
+      "name": "Einführung in die Wirtschaftsinformatik",
+      "code": "51602200",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/einfuhrung-in-die-wirtschaftsinformatik/1509860"
+    },
+    {
+      "name": "Einführung in die Wirtschaftspolitik",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/einfuhrung-in-die-wirtschaftspolitik/1509861"
+    },
+    {
+      "name": "Einführung in die Zellbiologie für BSc Biologie und BA LA",
+      "code": "91117340",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/einfuhrung-in-die-zellbiologie-fur-bsc-biologie-und-ba-la/1509863"
+    },
+    {
+      "name": "Einführung in die Zoologie und Humanbiologie",
+      "code": "91109250",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/einfuhrung-in-die-zoologie-und-humanbiologie/1509864"
+    },
+    {
+      "name": "Einführung in die Zoologie und Humanbiologie für medizinische Biologen",
+      "code": "91109251",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/einfuhrung-in-die-zoologie-und-humanbiologie-fur-medizinische-biologen/1509865"
+    },
+    {
+      "name": "Einführung in die Zoologischen Bestimmungsübungen",
+      "code": "91110320",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/einfuhrung-in-die-zoologischen-bestimmungsubungen/1509866"
+    },
+    {
+      "name": "Einführung in Optionen, Futures und derivate Finanzinstrumente",
+      "code": "51112201",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/einfuhrung-in-optionen-futures-und-derivate-finanzinstrumente/1509867"
+    },
+    {
+      "name": "Einführung in wissenschaftliches Arbeiten",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/einfuhrung-in-wissenschaftliches-arbeiten/1509868"
+    },
+    {
+      "name": "Einführung Literature",
+      "code": "LITBA1",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/einfuhrung-literature/4448451"
+    },
+    {
+      "name": "Einführung Politikwissenschaft für das Lehramt Grundschule",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/einfuhrung-politikwissenschaft-fur-das-lehramt-grundschule/1509870"
+    },
+    {
+      "name": "Einsatz von Moodle",
+      "code": "EVM 201",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/einsatz-von-moodle/5881697"
+    },
+    {
+      "name": "Eisen- und Stahlerzeugung 1",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/eisen-und-stahlerzeugung-1/1509871"
+    },
+    {
+      "name": "Eisen- und Stahlerzeugung 2",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/eisen-und-stahlerzeugung-2/1509872"
+    },
+    {
+      "name": "Eisenbahnwesen",
+      "code": "A01",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/eisenbahnwesen/5165428"
+    },
+    {
+      "name": "Eisengewinnung",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/eisengewinnung/1509873"
+    },
+    {
+      "name": "Electricity District Heating",
+      "code": "EDR1",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/electricity-district-heating/5358942"
+    },
+    {
+      "name": "Electronic Business",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/electronic-business/1509956"
+    },
+    {
+      "name": "Elektrische Maschinen",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/elektrische-maschinen/1509961"
+    },
+    {
+      "name": "Elektrische Maschinen und Antriebe",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/elektrische-maschinen-und-antriebe/1509962"
+    },
+    {
+      "name": "Elektrodynamik",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/elektrodynamik/1509967"
+    },
+    {
+      "name": "Elektromagnetische Vertraeglichkeit",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/elektromagnetische-vertraeglichkeit/1509969"
+    },
+    {
+      "name": "Elektronische Bauelemente",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/elektronische-bauelemente/1509972"
+    },
+    {
+      "name": "Elektrotechnik",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/elektrotechnik/1509936"
+    },
+    {
+      "name": "Elementare Funktionen",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/elementare-funktionen/1509937"
+    },
+    {
+      "name": "Elementare Geometrie",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/elementare-geometrie/1509938"
+    },
+    {
+      "name": "Elementare Kombinatorik",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/elementare-kombinatorik/1509939"
+    },
+    {
+      "name": "Elementare Zahlentheorie",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/elementare-zahlentheorie/1509941"
+    },
+    {
+      "name": "Embedded Systems",
+      "code": "51707203",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/embedded-systems/1509945"
+    },
+    {
+      "name": "Emerging Markets and Trade Policies",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/emerging-markets-and-trade-policies/1509948"
+    },
+    {
+      "name": "Empirische Forschungsmethoden I",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/empirische-forschungsmethoden-i/1509951"
+    },
+    {
+      "name": "Empirische Methoden",
+      "code": "51401202",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/empirische-methoden/1509953"
+    },
+    {
+      "name": "Empirische Wirtschaftsforschung",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/empirische-wirtschaftsforschung/1509955"
+    },
+    {
+      "name": "Energie- und Immobilienmanagement",
+      "code": "51102507",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/energie-und-immobilienmanagement/1509880"
+    },
+    {
+      "name": "Energie- und Ressourceneffizienz in der Produktion",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/energie-und-ressourceneffizienz-in-der-produktion/1509881"
+    },
+    {
+      "name": "Energie- und Verfahrenstechnik",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/energie-und-verfahrenstechnik/1509883"
+    },
+    {
+      "name": "Energiequellen I",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/energiequellen-i/1732974"
+    },
+    {
+      "name": "Energietechnik",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/energietechnik/1509886"
+    },
+    {
+      "name": "Energiewirtschaft",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/energiewirtschaft/1509889"
+    },
+    {
+      "name": "Enterprise Systems",
+      "code": "ES216",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/enterprise-systems/3394852"
+    },
+    {
+      "name": "Enterprise Transformation",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/enterprise-transformation/2415454"
+    },
+    {
+      "name": "Entscheidungstheorie",
+      "code": "51504502",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/entscheidungstheorie/1509891"
+    },
+    {
+      "name": "Entwicklungsbiologie",
+      "code": "91106720",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/entwicklungsbiologie/1510178"
+    },
+    {
+      "name": "Entwicklungspsychologie",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/entwicklungspsychologie/1510181"
+    },
+    {
+      "name": "Entwurf und Planung",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/entwurf-und-planung/1510183"
+    },
+    {
+      "name": "Erstarrungssimulation bei in Sandformen gegossenen Bauteilen",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/erstarrungssimulation-bei-in-sandformen-gegossenen-bauteilen/1510192"
+    },
+    {
+      "name": "Erziehung zur Demokratie",
+      "code": "BIWI21",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/erziehung-zur-demokratie/4844057"
+    },
+    {
+      "name": "Erziehung- Bildung- Unterricht",
+      "code": "CBPL0002172",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/erziehung-bildung-unterricht/3359200"
+    },
+    {
+      "name": "Ethik in der Coronakrise",
+      "code": "PHHA2021",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/ethik-in-der-coronakrise/5399329"
+    },
+    {
+      "name": "EU Politics",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/eu-politics/1510195"
+    },
+    {
+      "name": "Europarecht",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/europarecht/1509900"
+    },
+    {
+      "name": "European City in History",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/european-city-in-history/1509901"
+    },
+    {
+      "name": "Europäische Geld- und Währungspolitik",
+      "code": "51503201",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/europaische-geld-und-wahrungspolitik/1509899"
+    },
+    {
+      "name": "Evolution und Biodiversität",
+      "code": "91100504",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/evolution-und-biodiversitat/1509902"
+    },
+    {
+      "name": "Excel 2010 - Aufbaukurs",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/excel-2010-aufbaukurs/1509907"
+    },
+    {
+      "name": "Exemplarische Textanalyse",
+      "code": "Exe 211",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/exemplarische-textanalyse/5881699"
+    },
+    {
+      "name": "Experimentelle Methoden",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/experimentelle-methoden/1509911"
+    },
+    {
+      "name": "Externe Rechnungslegung",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/externe-rechnungslegung/1701884"
+    },
+    {
+      "name": "Externes Rechnungswesen",
+      "code": "51106202",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/externes-rechnungswesen/1510096"
+    },
+    {
+      "name": "Fabrikplanung",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/fabrikplanung/1510097"
+    },
+    {
+      "name": "Fachdidaktik 1",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/fachdidaktik-1/1510098"
+    },
+    {
+      "name": "Fachdidaktik Deutsch für die Grundschule",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/fachdidaktik-deutsch-fur-die-grundschule/1510099"
+    },
+    {
+      "name": "Fachdidaktik I",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/fachdidaktik-i/1510100"
+    },
+    {
+      "name": "Fachdidaktik II",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/fachdidaktik-ii/1510101"
+    },
+    {
+      "name": "Fachdidaktische Veranstaltung nach Wahl",
+      "code": "51201502",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/fachdidaktische-veranstaltung-nach-wahl/1510103"
+    },
+    {
+      "name": "Fertigungslehre",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/fertigungslehre/1510143"
+    },
+    {
+      "name": "Fertigungstechnik",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/fertigungstechnik/1510144"
+    },
+    {
+      "name": "Festkörperelektronik",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/festkorperelektronik/1510146"
+    },
+    {
+      "name": "Finanzmanagement",
+      "code": "51103201",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/finanzmanagement/1510151"
+    },
+    {
+      "name": "Finanzmärkte I",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/finanzmarkte-i/1510152"
+    },
+    {
+      "name": "Finanzmärkte II",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/finanzmarkte-ii/1510153"
+    },
+    {
+      "name": "Finite Elemente im Massivbau/Instandsetzung",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/finite-elemente-im-massivbauinstandsetzung/1510155"
+    },
+    {
+      "name": "Firmen im globalen Wettbewerb",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/firmen-im-globalen-wettbewerb/1509976"
+    },
+    {
+      "name": "Fluid Mechanics",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/fluid-mechanics/1509980"
+    },
+    {
+      "name": "Fluiddynamik",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/fluiddynamik/1509981"
+    },
+    {
+      "name": "Forschungsmethoden und -verfahren",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/forschungsmethoden-und-verfahren/1509989"
+    },
+    {
+      "name": "Forschungswerkstatt",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/forschungswerkstatt/3287628"
+    },
+    {
+      "name": "Fossile Energieträger",
+      "code": "51102509",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/fossile-energietrager/1509996"
+    },
+    {
+      "name": "Französische Landeswissenschaft",
+      "code": "10200301",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/franzosische-landeswissenschaft/1509997"
+    },
+    {
+      "name": "Französische Landeswissenschaft II: Geschichte und Identität Frankreichs",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/franzosische-landeswissenschaft-ii-geschichte-und-identitat-frankreichs/1509999"
+    },
+    {
+      "name": "Französische Landeswissenschaft III: Kunst und Kultur",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/franzosische-landeswissenschaft-iii-kunst-und-kultur/1510001"
+    },
+    {
+      "name": "Französische Literaturwissenschaft",
+      "code": "10200001",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/franzosische-literaturwissenschaft/1510002"
+    },
+    {
+      "name": "Französische Sprachwissenschaft",
+      "code": "10200601",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/franzosische-sprachwissenschaft/1510003"
+    },
+    {
+      "name": "Französische und spanische Fachdidaktik",
+      "code": "30200106",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/franzosische-und-spanische-fachdidaktik/1510004"
+    },
+    {
+      "name": "Französische und spanische Fachdidaktik: Einführung in die Fachdidaktik der romanischen Schulsprachen",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/franzosische-und-spanische-fachdidaktik-einfuhrung-in-die-fachdidaktik-der-romanischen-schulsprachen/1510005"
+    },
+    {
+      "name": "Frauenheilkunde und Geburtshilfe",
+      "code": "132900501",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/frauenheilkunde-und-geburtshilfe/1510006"
+    },
+    {
+      "name": "Fundamentals of Computer Engineering 1",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/fundamentals-of-computer-engineering-1/1510008"
+    },
+    {
+      "name": "Fundamentals of Electrical Engineering 1",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/fundamentals-of-electrical-engineering-1/1510010"
+    },
+    {
+      "name": "Fundamentals of Programming",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/fundamentals-of-programming/1510013"
+    },
+    {
+      "name": "Funktionelle Anatomie des Bewegungsapparates",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/funktionelle-anatomie-des-bewegungsapparates/1510016"
+    },
+    {
+      "name": "Funktionentheorie",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/funktionentheorie/1510017"
+    },
+    {
+      "name": "Gastroenterologisch-internistisch-chirurgisches Kolloquium",
+      "code": "142500515",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/gastroenterologisch-internistisch-chirurgisches-kolloquium/1510023"
+    },
+    {
+      "name": "Geld und Währung",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/geld-und-wahrung/1510029"
+    },
+    {
+      "name": "Geld- und Währungstheorie und -politik",
+      "code": "51503501",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/geld-und-wahrungstheorie-und-politik/1510030"
+    },
+    {
+      "name": "Geldpolitik",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/geldpolitik/1510031"
+    },
+    {
+      "name": "Geldtheorie",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/geldtheorie/1510032"
+    },
+    {
+      "name": "General Chemistry",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/general-chemistry/1510034"
+    },
+    {
+      "name": "Genetik Vorlesung",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/genetik-vorlesung/3284314"
+    },
+    {
+      "name": "Genetisches Seminar für Lehramt Biologie",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/genetisches-seminar-fur-lehramt-biologie/1510035"
+    },
+    {
+      "name": "Geographie: Eine Einführung in Ansätze und Konzepte",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/geographie-eine-einfuhrung-in-ansatze-und-konzepte/1510037"
+    },
+    {
+      "name": "Geographische Stadtanalyse",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/geographische-stadtanalyse/1510038"
+    },
+    {
+      "name": "Geotechnik 1",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/geotechnik-1/1510040"
+    },
+    {
+      "name": "Geotechnik 2",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/geotechnik-2/1510041"
+    },
+    {
+      "name": "Geschichte Israels",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/geschichte-israels/1510055"
+    },
+    {
+      "name": "Geschichte, Theorie, Ethik der Medizin, Vorlesung",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/geschichte-theorie-ethik-der-medizin-vorlesung/1510058"
+    },
+    {
+      "name": "Gesunde Ernährung",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/gesunde-ernahrung/1510065"
+    },
+    {
+      "name": "Gesundheitsökonomie, Gesundheitssystem. Öffentliches Gesundheitswesen für Mediziner",
+      "code": "144100503",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/gesundheitsokonomie-gesundheitssystem-offentliches-gesundheitswesen-fur-mediziner/1510066"
+    },
+    {
+      "name": "Gesundheitsökonomische Evaluation und Outcome Research",
+      "code": "ZEB90013",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/gesundheitsokonomische-evaluation-und-outcome-research/5029045"
+    },
+    {
+      "name": "Gewalt in Südosteuropa",
+      "code": "GESS21",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/gewalt-in-sudosteuropa/5399210"
+    },
+    {
+      "name": "Gewerblicher Rechtsschutz und Urheberrecht",
+      "code": "51302505",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/gewerblicher-rechtsschutz-und-urheberrecht/1510071"
+    },
+    {
+      "name": "Gewinnermittlung und Gewinnermittlungspolitik",
+      "code": "51101203",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/gewinnermittlung-und-gewinnermittlungspolitik/1510072"
+    },
+    {
+      "name": "Global Aspects of Environmental Protection",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/global-aspects-of-environmental-protection/1510076"
+    },
+    {
+      "name": "Grammaire II",
+      "code": "Fassih",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/grammaire-ii/3866017"
+    },
+    {
+      "name": "Grammatische Grundlagen",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/grammatische-grundlagen/3282909"
+    },
+    {
+      "name": "Grenzsituationen und Gewaltkonstellationen in pädagogischen Kontexten",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/grenzsituationen-und-gewaltkonstellationen-in-padagogischen-kontexten/1510081"
+    },
+    {
+      "name": "Grundbegriffe und Theorien der Psychologie",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/grundbegriffe-und-theorien-der-psychologie/1510087"
+    },
+    {
+      "name": "Grundkurs Linguistik",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/grundkurs-linguistik/1510089"
+    },
+    {
+      "name": "Grundkurs Mediävistik I: Einführung in die Literatur des Mittelalters",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/grundkurs-mediavistik-i-einfuhrung-in-die-literatur-des-mittelalters/1510090"
+    },
+    {
+      "name": "Grundlagen der Atom- und Molekülphysik",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/grundlagen-der-atom-und-molekulphysik/1510093"
+    },
+    {
+      "name": "Grundlagen der Bankbetriebslehre und Finanzierung",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/grundlagen-der-bankbetriebslehre-und-finanzierung/1510094"
+    },
+    {
+      "name": "Grundlagen der Berufs- und Wirtschaftspädagogik",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/grundlagen-der-berufs-und-wirtschaftspadagogik/1510095"
+    },
+    {
+      "name": "Grundlagen der Bewegungslehre",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/grundlagen-der-bewegungslehre/1510256"
+    },
+    {
+      "name": "Grundlagen der Biologie, Teil Botanik",
+      "code": "91103531",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/grundlagen-der-biologie-teil-botanik/1510259"
+    },
+    {
+      "name": "Grundlagen der Biologie: Teil Zoologie",
+      "code": "SU-Ba-M3",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/grundlagen-der-biologie-teil-zoologie/5034228"
+    },
+    {
+      "name": "Grundlagen der Biotechnologie I",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/grundlagen-der-biotechnologie-i/1510260"
+    },
+    {
+      "name": "Grundlagen der Chemie für die Grundschule",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/grundlagen-der-chemie-fur-die-grundschule/1510261"
+    },
+    {
+      "name": "Grundlagen der EDV für Lehramt",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/grundlagen-der-edv-fur-lehramt/1510266"
+    },
+    {
+      "name": "Grundlagen der elektrischen Energietechnik",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/grundlagen-der-elektrischen-energietechnik/1510267"
+    },
+    {
+      "name": "Grundlagen der Elektronik",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/grundlagen-der-elektronik/1510268"
+    },
+    {
+      "name": "Grundlagen der Elektrotechnik E1",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/grundlagen-der-elektrotechnik-e1/1510269"
+    },
+    {
+      "name": "Grundlagen der Elektrotechnik E2",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/grundlagen-der-elektrotechnik-e2/1510270"
+    },
+    {
+      "name": "Grundlagen der Elektrotechnik E3",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/grundlagen-der-elektrotechnik-e3/1510271"
+    },
+    {
+      "name": "Grundlagen der Fachdidaktik der Sozialwissenschaften",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/grundlagen-der-fachdidaktik-der-sozialwissenschaften/1510275"
+    },
+    {
+      "name": "Grundlagen der Immunologie",
+      "code": "91120311",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/grundlagen-der-immunologie/1510120"
+    },
+    {
+      "name": "Grundlagen der Kommunikationspsychologie",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/grundlagen-der-kommunikationspsychologie/1510121"
+    },
+    {
+      "name": "Grundlagen der Kunstdidaktik",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/grundlagen-der-kunstdidaktik/1510122"
+    },
+    {
+      "name": "Grundlagen der Kunstwissenschaft",
+      "code": "ANMO0011152",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/grundlagen-der-kunstwissenschaft/6519566"
+    },
+    {
+      "name": "Grundlagen der künstlichen Intelligenz",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/grundlagen-der-kunstlichen-intelligenz/1510123"
+    },
+    {
+      "name": "Grundlagen der Literaturwissenschaften",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/grundlagen-der-literaturwissenschaften/3282955"
+    },
+    {
+      "name": "Grundlagen der Medienpsychologie",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/grundlagen-der-medienpsychologie/1510124"
+    },
+    {
+      "name": "Grundlagen der Physik 1",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/grundlagen-der-physik-1/1510134"
+    },
+    {
+      "name": "Grundlagen der Physik 2",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/grundlagen-der-physik-2/1510135"
+    },
+    {
+      "name": "Grundlagen der Physik für Naturwissenschaften",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/grundlagen-der-physik-fur-naturwissenschaften/1510418"
+    },
+    {
+      "name": "Grundlagen der Politikwissenschaft",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/grundlagen-der-politikwissenschaft/1510422"
+    },
+    {
+      "name": "Grundlagen der Sozialpsychologie",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/grundlagen-der-sozialpsychologie/1510432"
+    },
+    {
+      "name": "Grundlagen der Soziologie",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/grundlagen-der-soziologie/1510433"
+    },
+    {
+      "name": "Grundlagen der Sportpädagogik",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/grundlagen-der-sportpadagogik/1510434"
+    },
+    {
+      "name": "Grundlagen der Sportsoziologie",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/grundlagen-der-sportsoziologie/1510435"
+    },
+    {
+      "name": "Grundlagen der Technischen Informatik",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/grundlagen-der-technischen-informatik/1510197"
+    },
+    {
+      "name": "Grundlagen der Unternehmensbesteuerung",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/grundlagen-der-unternehmensbesteuerung/1510200"
+    },
+    {
+      "name": "Grundlagen des Jahresabschlusses",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/grundlagen-des-jahresabschlusses/1510207"
+    },
+    {
+      "name": "Grundlagen des Krankenhausmanagements",
+      "code": "51105502",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/grundlagen-des-krankenhausmanagements/1510208"
+    },
+    {
+      "name": "Grundlagen des Krankenversicherungsmanagements",
+      "code": "51105510",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/grundlagen-des-krankenversicherungsmanagements/1510209"
+    },
+    {
+      "name": "Grundlagen des Marketing",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/grundlagen-des-marketing/1510211"
+    },
+    {
+      "name": "Grundlagen des Personalmanagements",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/grundlagen-des-personalmanagements/1510212"
+    },
+    {
+      "name": "Grundlagen des Personalmanagements für interdisziplinäre Studiengänge",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/grundlagen-des-personalmanagements-fur-interdisziplinare-studiengange/1510213"
+    },
+    {
+      "name": "Grundlagen des Politikmanagements",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/grundlagen-des-politikmanagements/1510214"
+    },
+    {
+      "name": "Grundlagen elektronischer Schaltungen",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/grundlagen-elektronischer-schaltungen/1510156"
+    },
+    {
+      "name": "Grundlagenmodul: Grundlagen der Stochastik",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/grundlagenmodul-grundlagen-der-stochastik/1510161"
+    },
+    {
+      "name": "Grundlagenwissen Zweitsprache Deutsch",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/grundlagenwissen-zweitsprache-deutsch/1510163"
+    },
+    {
+      "name": "Grundlegende Programmiertechniken",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/grundlegende-programmiertechniken/1510165"
+    },
+    {
+      "name": "Grundzüge der Literaturgeschichte II",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/grundzuge-der-literaturgeschichte-ii/1510168"
+    },
+    {
+      "name": "Grundzüge der Unternehmensbesteuerung",
+      "code": "51101201",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/grundzuge-der-unternehmensbesteuerung/1510170"
+    },
+    {
+      "name": "Grundzüge des Bürgerlichen Rechts für die Soziale Arbeit",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/grundzuge-des-burgerlichen-rechts-fur-die-soziale-arbeit/1510172"
+    },
+    {
+      "name": "Grundzüge des Handelsrechts",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/grundzuge-des-handelsrechts/1510175"
+    },
+    {
+      "name": "Grundzüge des öffentlichen Rechts für die Soziale Arbeit und Kinder- und Jugendhilfe",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/grundzuge-des-offentlichen-rechts-fur-die-soziale-arbeit-und-kinder-und-jugendhilfe/1510236"
+    },
+    {
+      "name": "Gründzüge der Literaturgeschichte",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/grundzuge-der-literaturgeschichte/1510167"
+    },
+    {
+      "name": "Hals-Nasen-Ohrenheilkunde",
+      "code": "143400503",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/hals-nasen-ohrenheilkunde/1510245"
+    },
+    {
+      "name": "Handelsmanagement und Handelscontrolling",
+      "code": "51104520",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/handelsmanagement-und-handelscontrolling/1510247"
+    },
+    {
+      "name": "Handelsrecht",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/handelsrecht/1510248"
+    },
+    {
+      "name": "Health Care Informatics and Technology Assessment B",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/health-care-informatics-and-technology-assessment-b/1510252"
+    },
+    {
+      "name": "Herz- und Thoraxchirurgie",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/herz-und-thoraxchirurgie/2419500"
+    },
+    {
+      "name": "Heterogenität, Differenzierung, Integration",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/heterogenitat-differenzierung-integration/1510217"
+    },
+    {
+      "name": "Heterogenität, Sozialisation, Inklusion",
+      "code": "GS_IV.1_BA_BIWI",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/heterogenitat-sozialisation-inklusion/5712384"
+    },
+    {
+      "name": "Histopathologie des Auges",
+      "code": "143300520",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/histopathologie-des-auges/1510219"
+    },
+    {
+      "name": "How to protect your innovations",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/how-to-protect-your-innovations/1510230"
+    },
+    {
+      "name": "Humanbiologie",
+      "code": "BIOLA1920",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/humanbiologie/4362592"
+    },
+    {
+      "name": "Humanbiologie und Anthropologie",
+      "code": "91109271",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/humanbiologie-und-anthropologie/1510231"
+    },
+    {
+      "name": "Humangenetik",
+      "code": "140800503",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/humangenetik/1510232"
+    },
+    {
+      "name": "Höhere Dynamik",
+      "code": "40371",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/hohere-dynamik/1510225"
+    },
+    {
+      "name": "Höhere Werkstofftechnik - Tribologie",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/hohere-werkstofftechnik-tribologie/1510228"
+    },
+    {
+      "name": "II.1 / A4: Einführung in die Berufspädagogik / Bildung, Arbeit und Beruf",
+      "code": "Sose21",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/ii1-a4-einfuhrung-in-die-berufspadagogik-bildung-arbeit-und-beruf/5876303"
+    },
+    {
+      "name": "III.3: Erziehung – Bildung – Unterricht:  Erziehungswissenschaftliche Vertiefung",
+      "code": "GS_III_BA_BIWI",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/iii3-erziehung-bildung-unterricht-erziehungswissenschaftliche-vertiefung/5446491"
+    },
+    {
+      "name": "Immunologie, Infektiologie, Transfusionsmedizin",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/immunologie-infektiologie-transfusionsmedizin/1510284"
+    },
+    {
+      "name": "Induktive Statistik",
+      "code": "51402999",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/induktive-statistik/1510291"
+    },
+    {
+      "name": "Industrial Engineering",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/industrial-engineering/1510292"
+    },
+    {
+      "name": "Inequality in Health",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/inequality-in-health/1510295"
+    },
+    {
+      "name": "Inferenzstatistik",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/inferenzstatistik/1510696"
+    },
+    {
+      "name": "Info-N",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/info-n/3269397"
+    },
+    {
+      "name": "Informatik",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/informatik/1510697"
+    },
+    {
+      "name": "Informatik 2 für Wirtschaftsingenieure",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/informatik-2-fur-wirtschaftsingenieure/1510698"
+    },
+    {
+      "name": "Informatik N Informatische Grundlagen neuer Medien und Kommunikationstechniken",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/informatik-n-informatische-grundlagen-neuer-medien-und-kommunikationstechniken/1510699"
+    },
+    {
+      "name": "Informationsmanagement",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/informationsmanagement/1510705"
+    },
+    {
+      "name": "Informationstheorie",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/informationstheorie/1510708"
+    },
+    {
+      "name": "Innerbetrieblicher Materialfluss",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/innerbetrieblicher-materialfluss/1510714"
+    },
+    {
+      "name": "Innere Medizin Vorlesung, Teil 1",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/innere-medizin-vorlesung-teil-1/1510715"
+    },
+    {
+      "name": "Innere Medizin Vorlesung, Teil 2",
+      "code": "142200502",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/innere-medizin-vorlesung-teil-2/1510296"
+    },
+    {
+      "name": "Innovation, Partizipation, Digitalisierung",
+      "code": "SU-Ba- BFP",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/innovation-partizipation-digitalisierung/5853108"
+    },
+    {
+      "name": "Innovationsmanagement",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/innovationsmanagement/1510297"
+    },
+    {
+      "name": "Insolvenzrecht",
+      "code": "51302522",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/insolvenzrecht/1510299"
+    },
+    {
+      "name": "Instrumente des Handelsmarketing",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/instrumente-des-handelsmarketing/1510300"
+    },
+    {
+      "name": "Integrierte Analogschaltungen",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/integrierte-analogschaltungen/1510307"
+    },
+    {
+      "name": "Integrierte Anwendungssysteme",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/integrierte-anwendungssysteme/1510308"
+    },
+    {
+      "name": "Interdisziplinäre Vorlesung zur Bildung in der digitalen Welt",
+      "code": "GS_IV_BA_BIWI",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/interdisziplinare-vorlesung-zur-bildung-in-der-digitalen-welt/5864845"
+    },
+    {
+      "name": "Interkulturelle Geschichte",
+      "code": "GEWI22",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/interkulturelle-geschichte/5399213"
+    },
+    {
+      "name": "Intermodale Transportketten",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/intermodale-transportketten/1510314"
+    },
+    {
+      "name": "International Financial Accounting",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/international-financial-accounting/1510317"
+    },
+    {
+      "name": "International Media Management",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/international-media-management/3465424"
+    },
+    {
+      "name": "Internationale Betriebswirtschaftliche Steuerlehre",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/internationale-betriebswirtschaftliche-steuerlehre/1510318"
+    },
+    {
+      "name": "Internationale Beziehungen und Global Governance",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/internationale-beziehungen-und-global-governance/1510319"
+    },
+    {
+      "name": "Internationale Finanzmärkte II",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/internationale-finanzmarkte-ii/3269390"
+    },
+    {
+      "name": "Internationale Rechnungslegung I: Einführung in die Rechnungslegung nach IFRS",
+      "code": "51106201",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/internationale-rechnungslegung-i-einfuhrung-in-die-rechnungslegung-nach-ifrs/1510321"
+    },
+    {
+      "name": "Internationale Rechnungslegung III: Merger Accounting",
+      "code": "51106503",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/internationale-rechnungslegung-iii-merger-accounting/1510323"
+    },
+    {
+      "name": "Internationale Rohstoffmärkte",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/internationale-rohstoffmarkte/1510325"
+    },
+    {
+      "name": "Internationales Marketing",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/internationales-marketing/1510328"
+    },
+    {
+      "name": "Interne Revision",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/interne-revision/1510330"
+    },
+    {
+      "name": "Internes Rechnungswesen",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/internes-rechnungswesen/1510331"
+    },
+    {
+      "name": "Internet of Things: Protocols and System Software",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/internet-of-things-protocols-and-system-software/1510332"
+    },
+    {
+      "name": "Internet-Technologie & Web-Engineering",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/internet-technologie-web-engineering/1510334"
+    },
+    {
+      "name": "Interpretative Soziologie und qualitative Methoden",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/interpretative-soziologie-und-qualitative-methoden/1510336"
+    },
+    {
+      "name": "Introduction to Biophysics",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/introduction-to-biophysics/1510338"
+    },
+    {
+      "name": "Introduction to EFL Methodology",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/introduction-to-efl-methodology/2505231"
+    },
+    {
+      "name": "Introduction to the Korean Economy and Society",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/introduction-to-the-korean-economy-and-society/1510347"
+    },
+    {
+      "name": "Introduction: Sustainable Urban Technologies",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/introduction-sustainable-urban-technologies/1510350"
+    },
+    {
+      "name": "Introductory English Course",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/introductory-english-course/3515489"
+    },
+    {
+      "name": "Investition und Finanzierung",
+      "code": "51103203",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/investition-und-finanzierung/1510353"
+    },
+    {
+      "name": "Investitions- und Finanzierungstheorie",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/investitions-und-finanzierungstheorie/1510354"
+    },
+    {
+      "name": "Investitions- und Kostenrechnung",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/investitions-und-kostenrechnung/1510355"
+    },
+    {
+      "name": "Investitionsmanagement",
+      "code": "51103517",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/investitionsmanagement/1510676"
+    },
+    {
+      "name": "IS Research Fundamentals",
+      "code": "51603506",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/is-research-fundamentals/1510679"
+    },
+    {
+      "name": "IT-Management",
+      "code": "51604201",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/it-management/1510682"
+    },
+    {
+      "name": "IT-Management II",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/it-management-ii/1510683"
+    },
+    {
+      "name": "IT-Projektmanagement",
+      "code": "51604204",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/it-projektmanagement/1510684"
+    },
+    {
+      "name": "Jugend zwischen schulischen und außerschulischen Bildungsräumen",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/jugend-zwischen-schulischen-und-ausserschulischen-bildungsraumen/1510688"
+    },
+    {
+      "name": "Kinderheilkunde Teil I",
+      "code": "143000502",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/kinderheilkunde-teil-i/1510359"
+    },
+    {
+      "name": "Kindheit u. Jugend im Spannungsfeld v. Schule, Kinder- und Jugendhilfe",
+      "code": "GS_VI.3_BA_BIWI",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/kindheit-u-jugend-im-spannungsfeld-v-schule-kinder-und-jugendhilfe/5735223"
+    },
+    {
+      "name": "Kinematics of Mechanisms and Robots",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/kinematics-of-mechanisms-and-robots/1510360"
+    },
+    {
+      "name": "Klassische und moderne politische Theorien",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/klassische-und-moderne-politische-theorien/1510362"
+    },
+    {
+      "name": "Klinische Pharmakologie, Pharmakotherapie I",
+      "code": "142200592",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/klinische-pharmakologie-pharmakotherapie-i/1510372"
+    },
+    {
+      "name": "Kommunikationsnetze",
+      "code": "51705500",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/kommunikationsnetze/1510462"
+    },
+    {
+      "name": "Kompetenzentwicklung",
+      "code": "2020",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/kompetenzentwicklung/4418966"
+    },
+    {
+      "name": "Konstruktionslehre I",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/konstruktionslehre-i/1702441"
+    },
+    {
+      "name": "Konstruktionslehre II",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/konstruktionslehre-ii/1702442"
+    },
+    {
+      "name": "Konsumentenpsychologie",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/konsumentenpsychologie/1510377"
+    },
+    {
+      "name": "Kosten- und Leistungsrechnung",
+      "code": "51110201",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/kosten-und-leistungsrechnung/1510390"
+    },
+    {
+      "name": "Kreuzritter, Kaufleute und Kolonisten - Die Expansion Europas im Hohen Mittelalter",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/kreuzritter-kaufleute-und-kolonisten-die-expansion-europas-im-hohen-mittelalter/1510397"
+    },
+    {
+      "name": "KulturRückkehr der Geopolitik? Themen der Politischen Geographie zwischen Globalisierung und Reterritorialisierung",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/kulturruckkehr-der-geopolitik-themen-der-politischen-geographie-zwischen-globalisierung-und-reterritorialisierung/1510403"
+    },
+    {
+      "name": "Kulturwirt",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/kulturwirt/1510405"
+    },
+    {
+      "name": "Kunststofftechnik",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/kunststofftechnik/1510409"
+    },
+    {
+      "name": "Kunststofftechnologie",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/kunststofftechnologie/1510410"
+    },
+    {
+      "name": "Kurs der allgemeinen klinischen Untersuchung im nichtoperativen und operativen Stoffgebiet",
+      "code": "143300506",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/kurs-der-allgemeinen-klinischen-untersuchung-im-nichtoperativen-und-operativen-stoffgebiet/1510413"
+    },
+    {
+      "name": "Kurs der allgemeinen klinischen Untersuchungen",
+      "code": "142200503",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/kurs-der-allgemeinen-klinischen-untersuchungen/1510414"
+    },
+    {
+      "name": "Käuferverhalten",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/kauferverhalten/1510694"
+    },
+    {
+      "name": "Käuferverhalten im Einzelhandel",
+      "code": "51104500",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/kauferverhalten-im-einzelhandel/1510695"
+    },
+    {
+      "name": "Lagerlogistik",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/lagerlogistik/1510445"
+    },
+    {
+      "name": "Language in Literature",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/language-in-literature/1510446"
+    },
+    {
+      "name": "Language Variation and Change",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/language-variation-and-change/1510447"
+    },
+    {
+      "name": "Laserphysik",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/laserphysik/1510450"
+    },
+    {
+      "name": "Laut und Schrift",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/laut-und-schrift/3282910"
+    },
+    {
+      "name": "Lecture: Introduction to Linguistics",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/lecture-introduction-to-linguistics/1510454"
+    },
+    {
+      "name": "Lehr-/Lernmethoden",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/lehr-lernmethoden/1510455"
+    },
+    {
+      "name": "Lehr-Lernpsychologie",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/lehr-lernpsychologie/1510558"
+    },
+    {
+      "name": "Leistungselektronik",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/leistungselektronik/1510562"
+    },
+    {
+      "name": "Lektürekurs Leseliste",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/lekturekurs-leseliste/1510563"
+    },
+    {
+      "name": "Lernzentrum Betonbau",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/lernzentrum-betonbau/1510568"
+    },
+    {
+      "name": "Lineare Algebra 1",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/lineare-algebra-1/1510571"
+    },
+    {
+      "name": "Lineare Algebra 2",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/lineare-algebra-2/1510572"
+    },
+    {
+      "name": "Lineare Algebra für Informatiker & Wirtschaftsinformatiker",
+      "code": "51700003",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/lineare-algebra-fur-informatiker-wirtschaftsinformatiker/1510573"
+    },
+    {
+      "name": "Lineare Optimierung",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/lineare-optimierung/1510575"
+    },
+    {
+      "name": "Linguistik 2",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/linguistik-2/3282958"
+    },
+    {
+      "name": "Linguistik 3",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/linguistik-3/3282962"
+    },
+    {
+      "name": "Literatur 3",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/literatur-3/3282959"
+    },
+    {
+      "name": "Literatur und kulturelles Leben von 1945 bis heute",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/literatur-und-kulturelles-leben-von-1945-bis-heute/1510477"
+    },
+    {
+      "name": "Literatur- und Kulturdidaktik",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/literatur-und-kulturdidaktik/1510476"
+    },
+    {
+      "name": "Literatur- und Mediendidaktik",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/literatur-und-mediendidaktik/1510479"
+    },
+    {
+      "name": "Literaturgeschichte",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/literaturgeschichte/3282961"
+    },
+    {
+      "name": "Logical Design of Digital Systems",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/logical-design-of-digital-systems/1510480"
+    },
+    {
+      "name": "Logik",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/logik/1510481"
+    },
+    {
+      "name": "Logistik und Materialfluss I",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/logistik-und-materialfluss-i/1703168"
+    },
+    {
+      "name": "Logistische Informationssysteme",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/logistische-informationssysteme/1510482"
+    },
+    {
+      "name": "Magnetische Eigenschaften der Materie",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/magnetische-eigenschaften-der-materie/1510483"
+    },
+    {
+      "name": "Makroökonomik",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/makrookonomik/1510488"
+    },
+    {
+      "name": "Makroökonomik für interdisziplinäre Studiengänge",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/makrookonomik-fur-interdisziplinare-studiengange/1510489"
+    },
+    {
+      "name": "Makroökonomik I",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/makrookonomik-i/1510490"
+    },
+    {
+      "name": "Makroökonomik II",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/makrookonomik-ii/1510491"
+    },
+    {
+      "name": "Management in Organisationen",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/management-in-organisationen/1510495"
+    },
+    {
+      "name": "Marketing",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/marketing/1510502"
+    },
+    {
+      "name": "Marketing & Management Science",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/marketing-management-science/1510503"
+    },
+    {
+      "name": "Marketingentscheidungen",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/marketingentscheidungen/1510504"
+    },
+    {
+      "name": "Markovketten und Mischungszeiten",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/markovketten-und-mischungszeiten/1510506"
+    },
+    {
+      "name": "Marktforschung",
+      "code": "51104512",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/marktforschung/1510509"
+    },
+    {
+      "name": "Maschinenelemente 1",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/maschinenelemente-1/1510511"
+    },
+    {
+      "name": "Maschinenelemente 2",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/maschinenelemente-2/1510512"
+    },
+    {
+      "name": "Material-Logistik und Bestandsmanagement",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/material-logistik-und-bestandsmanagement/1510514"
+    },
+    {
+      "name": "Mathematical Models in Biology",
+      "code": "91102620",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/mathematical-models-in-biology/1510536"
+    },
+    {
+      "name": "Mathematics I1",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/mathematics-i1/3402231"
+    },
+    {
+      "name": "Mathematik 1",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/mathematik-1/1510537"
+    },
+    {
+      "name": "Mathematik 2",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/mathematik-2/1510538"
+    },
+    {
+      "name": "Mathematik 3",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/mathematik-3/1510539"
+    },
+    {
+      "name": "Mathematik 4",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/mathematik-4/1510540"
+    },
+    {
+      "name": "Mathematik für Informatiker 1",
+      "code": "Mafin1",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/mathematik-fur-informatiker-1/5425529"
+    },
+    {
+      "name": "Mathematik für Informatiker 2",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/mathematik-fur-informatiker-2/1510541"
+    },
+    {
+      "name": "Mathematik für Ingenieure 1",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/mathematik-fur-ingenieure-1/3220976"
+    },
+    {
+      "name": "Mathematik für Ingenieure 2",
+      "code": "1109003",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/mathematik-fur-ingenieure-2/1510542"
+    },
+    {
+      "name": "Mathematik für Ingenieure 3",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/mathematik-fur-ingenieure-3/1703076"
+    },
+    {
+      "name": "Mathematik für Wirtschaftswissenschaftler",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/mathematik-fur-wirtschaftswissenschaftler/1510549"
+    },
+    {
+      "name": "Mathematik für Ökonomen I",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/mathematik-fur-okonomen-i/1510544"
+    },
+    {
+      "name": "Mathematik für Ökonomen II",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/mathematik-fur-okonomen-ii/1510545"
+    },
+    {
+      "name": "Mathematik in der Grundschule",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/mathematik-in-der-grundschule/1510550"
+    },
+    {
+      "name": "Mathematik in substantiellen Lernumgebungen",
+      "code": "MP-BA-EM-LU",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/mathematik-in-substantiellen-lernumgebungen/5399230"
+    },
+    {
+      "name": "Mathematik Lehren und Lernen",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/mathematik-lehren-und-lernen/1741993"
+    },
+    {
+      "name": "Mathematik M3",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/mathematik-m3/1510551"
+    },
+    {
+      "name": "Mathematik Vorkurs für Studierende der Soziologie",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/mathematik-vorkurs-fur-studierende-der-soziologie/1510552"
+    },
+    {
+      "name": "Mathematikgeschichte",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/mathematikgeschichte/1510553"
+    },
+    {
+      "name": "Mathematiklernen in substantiellen Lernumgebungen",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/mathematiklernen-in-substantiellen-lernumgebungen/1510554"
+    },
+    {
+      "name": "Mathematische Algorithmen der Informatik",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/mathematische-algorithmen-der-informatik/1510555"
+    },
+    {
+      "name": "Mathematische Modellierung",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/mathematische-modellierung/1510528"
+    },
+    {
+      "name": "Mathematische Strukturen",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/mathematische-strukturen/1510529"
+    },
+    {
+      "name": "MATLAB/SIMULINK-gestützter Entwurf regelungstechnischer Systeme",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/matlabsimulink-gestutzter-entwurf-regelungstechnischer-systeme/1510531"
+    },
+    {
+      "name": "Mc und Ma Klausur",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/mc-und-ma-klausur/3287634"
+    },
+    {
+      "name": "Measurement Technology",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/measurement-technology/1510532"
+    },
+    {
+      "name": "Mechanics 1",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/mechanics-1/1510534"
+    },
+    {
+      "name": "Mechanics 2",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/mechanics-2/1510535"
+    },
+    {
+      "name": "Mechanics 3",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/mechanics-3/1510576"
+    },
+    {
+      "name": "Mechanik 2",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/mechanik-2/1705187"
+    },
+    {
+      "name": "Med - Medizin des Alterns und des alten Menschen-Geriatrie",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/med-medizin-des-alterns-und-des-alten-menschen-geriatrie/1510579"
+    },
+    {
+      "name": "Medien und Politik",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/medien-und-politik/1510582"
+    },
+    {
+      "name": "Mediengeschichte der Frühen Neuzeit",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/mediengeschichte-der-fruhen-neuzeit/1510584"
+    },
+    {
+      "name": "Medizinische Entscheidungstheorie",
+      "code": "51506504",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/medizinische-entscheidungstheorie/1510586"
+    },
+    {
+      "name": "Medizinische Psychologie",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/medizinische-psychologie/1510588"
+    },
+    {
+      "name": "Medizinrecht",
+      "code": "ZMA90030",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/medizinrecht/5031343"
+    },
+    {
+      "name": "Medizintechnik",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/medizintechnik/1510592"
+    },
+    {
+      "name": "Membership categorisation analysis",
+      "code": "MCA24",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/membership-categorisation-analysis/7029421"
+    },
+    {
+      "name": "Mensch-Computer-Interaktion",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/mensch-computer-interaktion/1510620"
+    },
+    {
+      "name": "Messtechnik",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/messtechnik/1510623"
+    },
+    {
+      "name": "Methoden der empirischen Sozialforschung",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/methoden-der-empirischen-sozialforschung/1510627"
+    },
+    {
+      "name": "Methoden der Sozialwissenschaften",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/methoden-der-sozialwissenschaften/1510631"
+    },
+    {
+      "name": "Methoden der Ökonometrie",
+      "code": "51402503",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/methoden-der-okonometrie/1510629"
+    },
+    {
+      "name": "Methodengestützte Unternehmensanalyse",
+      "code": "51110507",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/methodengestutzte-unternehmensanalyse/1510596"
+    },
+    {
+      "name": "Microbial Physiology",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/microbial-physiology/1510600"
+    },
+    {
+      "name": "Microwave Theory and Techniques",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/microwave-theory-and-techniques/1510602"
+    },
+    {
+      "name": "Mikroökonometrie / Microeconometrics",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/mikrookonometrie-microeconometrics/1510607"
+    },
+    {
+      "name": "Mikroökonomik",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/mikrookonomik/1510608"
+    },
+    {
+      "name": "Mikroökonomik I",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/mikrookonomik-i/1510609"
+    },
+    {
+      "name": "Mikroökonomik II",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/mikrookonomik-ii/1510610"
+    },
+    {
+      "name": "Modellbildung und Simulation",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/modellbildung-und-simulation/1510615"
+    },
+    {
+      "name": "Modelle der Informatik A",
+      "code": "517082011",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/modelle-der-informatik-a/1510636"
+    },
+    {
+      "name": "Modellierung",
+      "code": "ZKD59506",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/modellierung/4408513"
+    },
+    {
+      "name": "Modellierung mit Softcomputing-Techniken",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/modellierung-mit-softcomputing-techniken/1510639"
+    },
+    {
+      "name": "Modellierungsmethoden der Informatik",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/modellierungsmethoden-der-informatik/1510643"
+    },
+    {
+      "name": "Moderne Energiesysteme",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/moderne-energiesysteme/1510648"
+    },
+    {
+      "name": "Moderne Produktionssysteme",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/moderne-produktionssysteme/1510655"
+    },
+    {
+      "name": "Molekularbiologie",
+      "code": "91114520",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/molekularbiologie/1510722"
+    },
+    {
+      "name": "Molekulare Zellbiologie",
+      "code": "91113710",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/molekulare-zellbiologie/1510727"
+    },
+    {
+      "name": "Multimedia Systeme",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/multimedia-systeme/1510733"
+    },
+    {
+      "name": "Multistage decisions",
+      "code": "tul-021",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/multistage-decisions/4735474"
+    },
+    {
+      "name": "Muster- und Komponentenbasierte Softwareentwicklung",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/muster-und-komponentenbasierte-softwareentwicklung/1510657"
+    },
+    {
+      "name": "Märkte und Unternehmen – eine Einführung",
+      "code": "51000500",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/markte-und-unternehmen-eine-einfuhrung/1510508"
+    },
+    {
+      "name": "Nanotechnologie 1",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/nanotechnologie-1/1510674"
+    },
+    {
+      "name": "Naturwissenschaftliche Grundlagen des Maschinenbaus: Physik",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/naturwissenschaftliche-grundlagen-des-maschinenbaus-physik/1510918"
+    },
+    {
+      "name": "Nervensystem und Psyche",
+      "code": "143600503",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/nervensystem-und-psyche/1510920"
+    },
+    {
+      "name": "Network Analysis",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/network-analysis/1510921"
+    },
+    {
+      "name": "Network and Information Security 1",
+      "code": "51705508",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/network-and-information-security-1/1510922"
+    },
+    {
+      "name": "Neuere Entwicklungen in der Makroökonomik",
+      "code": "51503502",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/neuere-entwicklungen-in-der-makrookonomik/1510928"
+    },
+    {
+      "name": "Neueste Geschichte",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/neueste-geschichte/1510930"
+    },
+    {
+      "name": "Neurochirurgie",
+      "code": "142700501",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/neurochirurgie/1510931"
+    },
+    {
+      "name": "Neurologie",
+      "code": "143800504",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/neurologie/1510934"
+    },
+    {
+      "name": "Nichtlineare Optik",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/nichtlineare-optik/1510829"
+    },
+    {
+      "name": "Nichtstationäre Vorgänge in elektrischen Netzen",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/nichtstationare-vorgange-in-elektrischen-netzen/1510832"
+    },
+    {
+      "name": "Numerik",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/numerik/3275277"
+    },
+    {
+      "name": "Numerische Methoden",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/numerische-methoden/1510752"
+    },
+    {
+      "name": "Numerisches Wissen",
+      "code": "GS_IV.2_BA_BIWI",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/numerisches-wissen/5795681"
+    },
+    {
+      "name": "Objektorientierte Programmierung",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/objektorientierte-programmierung/1510776"
+    },
+    {
+      "name": "Operations Research",
+      "code": "51108522",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/operations-research/1510790"
+    },
+    {
+      "name": "Operatives Controlling",
+      "code": "51110503",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/operatives-controlling/1510792"
+    },
+    {
+      "name": "Optimierung I",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/optimierung-i/1510976"
+    },
+    {
+      "name": "Optische Netze",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/optische-netze/1510978"
+    },
+    {
+      "name": "Optoelektronik",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/optoelektronik/1510981"
+    },
+    {
+      "name": "Organisation",
+      "code": "4010107200",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/organisation/3311363"
+    },
+    {
+      "name": "Organisation und Institutionen in der sozialen Arbeit",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/organisation-und-institutionen-in-der-sozialen-arbeit/1510983"
+    },
+    {
+      "name": "Organisation und Recht der beruflichen Bildung",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/organisation-und-recht-der-beruflichen-bildung/1510984"
+    },
+    {
+      "name": "Organisation, Arbeit und Beruf",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/organisation-arbeit-und-beruf/1510985"
+    },
+    {
+      "name": "Organisationen als soziale Systeme",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/organisationen-als-soziale-systeme/1510986"
+    },
+    {
+      "name": "Organisationspsychologie",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/organisationspsychologie/1510988"
+    },
+    {
+      "name": "Organische Chemie I",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/organische-chemie-i/1510989"
+    },
+    {
+      "name": "Organische Chemie II",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/organische-chemie-ii/1510990"
+    },
+    {
+      "name": "Organische Chemie III",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/organische-chemie-iii/1510991"
+    },
+    {
+      "name": "Ornament und Struktur. Ästhetische Muster als Kommunikations- und Erkenntnisformen",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/ornament-und-struktur-asthetische-muster-als-kommunikations-und-erkenntnisformen/1510995"
+    },
+    {
+      "name": "Orthopädie",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/orthopadie/1510756"
+    },
+    {
+      "name": "Öffentliche Verwaltung und deren Modernisierung",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/offentliche-verwaltung-und-deren-modernisierung/1510778"
+    },
+    {
+      "name": "Ökologie und Evolution",
+      "code": "91100502",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/okologie-und-evolution/1510780"
+    },
+    {
+      "name": "Ökologie und Ökophysiologie der Pflanzen",
+      "code": "91104540",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/okologie-und-okophysiologie-der-pflanzen/1510782"
+    },
+    {
+      "name": "Ökonomische Theorien des Managements",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/okonomische-theorien-des-managements/1510783"
+    },
+    {
+      "name": "Paradigmen und Konzepte der Softwareentwicklung",
+      "code": "51606508",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/paradigmen-und-konzepte-der-softwareentwicklung/1510766"
+    },
+    {
+      "name": "Pathologie II",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/pathologie-ii/1510773"
+    },
+    {
+      "name": "Personalcontrolling",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/personalcontrolling/1510857"
+    },
+    {
+      "name": "Personalmanagement",
+      "code": "51107203",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/personalmanagement/1510858"
+    },
+    {
+      "name": "Personenverkehrslogistik",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/personenverkehrslogistik/1510860"
+    },
+    {
+      "name": "PflichtIntroduction to Literary Studies",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/pflichtintroduction-to-literary-studies/1510862"
+    },
+    {
+      "name": "Pflichtvorlesung: Introduction to Literary Studies",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/pflichtvorlesung-introduction-to-literary-studies/1510863"
+    },
+    {
+      "name": "Pharmakologie, Toxikologie, Teil I",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/pharmakologie-toxikologie-teil-i/1510864"
+    },
+    {
+      "name": "Pharmakologie, Toxikologie, Teil II",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/pharmakologie-toxikologie-teil-ii/1510865"
+    },
+    {
+      "name": "Phonetics and Phonology",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/phonetics-and-phonology/1510866"
+    },
+    {
+      "name": "Photovoltaik 2",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/photovoltaik-2/1510870"
+    },
+    {
+      "name": "Physics",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/physics/1510871"
+    },
+    {
+      "name": "Physik 1",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/physik-1/1510872"
+    },
+    {
+      "name": "Physik 2",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/physik-2/1510873"
+    },
+    {
+      "name": "Physik für Bauingenieure",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/physik-fur-bauingenieure/1510796"
+    },
+    {
+      "name": "Physik für Biologen und Medizinische Biologen",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/physik-fur-biologen-und-medizinische-biologen/1510797"
+    },
+    {
+      "name": "Physik für Mediziner",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/physik-fur-mediziner/1510801"
+    },
+    {
+      "name": "Physik Praktikum",
+      "code": "PP1",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/physik-praktikum/4450785"
+    },
+    {
+      "name": "Physiologie für Med. Biologen",
+      "code": "140500272",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/physiologie-fur-med-biologen/1510812"
+    },
+    {
+      "name": "Physiologische Chemie",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/physiologische-chemie/1510813"
+    },
+    {
+      "name": "Phänomene in Natur und Alltag",
+      "code": "SU-Ma-M2.2-I",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/phanomene-in-natur-und-alltag/6616441"
+    },
+    {
+      "name": "Planung und Organisation",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/planung-und-organisation/1510837"
+    },
+    {
+      "name": "Politics in the EU",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/politics-in-the-eu/1510844"
+    },
+    {
+      "name": "Politische Institutionen in Deutschland",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/politische-institutionen-in-deutschland/1510847"
+    },
+    {
+      "name": "Politische Systeme im Vergleich",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/politische-systeme-im-vergleich/1510848"
+    },
+    {
+      "name": "Power System Operation and Control",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/power-system-operation-and-control/1510854"
+    },
+    {
+      "name": "Preistheorie",
+      "code": "51504203",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/preistheorie/1511425"
+    },
+    {
+      "name": "Problemorientiertes Lernen",
+      "code": "142200586",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/problemorientiertes-lernen/1511429"
+    },
+    {
+      "name": "Production and Operations Management 1",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/production-and-operations-management-1/1511432"
+    },
+    {
+      "name": "Produktentwicklung",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/produktentwicklung/1510878"
+    },
+    {
+      "name": "Produktentwurf",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/produktentwurf/1510879"
+    },
+    {
+      "name": "Produktionsmanagement",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/produktionsmanagement/1510880"
+    },
+    {
+      "name": "Produktionstechnik",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/produktionstechnik/1510882"
+    },
+    {
+      "name": "Programmieren",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/programmieren/2505254"
+    },
+    {
+      "name": "Programmierung",
+      "code": "12345622",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/programmierung/3465179"
+    },
+    {
+      "name": "Programmierung A",
+      "code": "517032011",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/programmierung-a/1510890"
+    },
+    {
+      "name": "Programmierung B",
+      "code": "517032012",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/programmierung-b/1510891"
+    },
+    {
+      "name": "Project Management",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/project-management/1510892"
+    },
+    {
+      "name": "Projekt- und problemorientiertes Lernen",
+      "code": "51108510",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/projekt-und-problemorientiertes-lernen/1510893"
+    },
+    {
+      "name": "Projektmanagement",
+      "code": "51108505",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/projektmanagement/1510894"
+    },
+    {
+      "name": "Propädeutikum R",
+      "code": "51401532",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/propadeutikum-r/1510897"
+    },
+    {
+      "name": "Proseminar Kreuzzüge",
+      "code": "PS K 19/20",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/proseminar-kreuzzuge/4348260"
+    },
+    {
+      "name": "Prozessmanagement in Dienstleistungs- und Handelsunternehmen",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/prozessmanagement-in-dienstleistungs-und-handelsunternehmen/1510899"
+    },
+    {
+      "name": "Prävention, Gesundheitsförderung",
+      "code": "141000526",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/pravention-gesundheitsforderung/1511419"
+    },
+    {
+      "name": "Psychologie für künftige Lehrerinnen und Lehrer",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/psychologie-fur-kunftige-lehrerinnen-und-lehrer/1510906"
+    },
+    {
+      "name": "Pädagogisch.psychologische Diagnostik und Inklusion",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/padagogischpsychologische-diagnostik-und-inklusion/3290483"
+    },
+    {
+      "name": "Pädagogische Diagnostik und Evaluation",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/padagogische-diagnostik-und-evaluation/1510758"
+    },
+    {
+      "name": "Pädagogische Professionalität in schulischen Handlungsfeldern",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/padagogische-professionalitat-in-schulischen-handlungsfeldern/1510759"
+    },
+    {
+      "name": "Pädagogische Psychologie",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/padagogische-psychologie/1510760"
+    },
+    {
+      "name": "Qualitätsentwicklung und Management an Schulen und Bildungseinrichtungen",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/qualitatsentwicklung-und-management-an-schulen-und-bildungseinrichtungen/1510911"
+    },
+    {
+      "name": "Qualitätsentwicklung/Management an Schulen & Bildungseinrichtungen",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/qualitatsentwicklungmanagement-an-schulen-bildungseinrichtungen/1510912"
+    },
+    {
+      "name": "Quantenmechanik",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/quantenmechanik/1510938"
+    },
+    {
+      "name": "Quantitative Asset Management",
+      "code": "51403500",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/quantitative-asset-management/1510941"
+    },
+    {
+      "name": "Querschnittsbereich Prävention/Gesundheitsförderung",
+      "code": "142200613",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/querschnittsbereich-praventiongesundheitsforderung/1510946"
+    },
+    {
+      "name": "Rechnerarchitektur",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/rechnerarchitektur/1510955"
+    },
+    {
+      "name": "Rechnergestützte Modellierung",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/rechnergestutzte-modellierung/1510956"
+    },
+    {
+      "name": "Rechnergestützte Netzanalysen",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/rechnergestutzte-netzanalysen/1510957"
+    },
+    {
+      "name": "Rechnernetze und Kommunikationssysteme",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/rechnernetze-und-kommunikationssysteme/1510959"
+    },
+    {
+      "name": "Rechnerstrukturen & Betriebssysteme",
+      "code": "51706213",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/rechnerstrukturen-betriebssysteme/1510960"
+    },
+    {
+      "name": "Recht und Theorien des Staates",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/recht-und-theorien-des-staates/1510962"
+    },
+    {
+      "name": "Rechtswissenschaft fuer Oekonomen II",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/rechtswissenschaft-fuer-oekonomen-ii/1510967"
+    },
+    {
+      "name": "Rechtswissenschaft für Ökonomen I",
+      "code": "51302201",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/rechtswissenschaft-fur-okonomen-i/1510968"
+    },
+    {
+      "name": "Regelungstechnik",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/regelungstechnik/1510971"
+    },
+    {
+      "name": "Regenerative Energietechnik 1",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/regenerative-energietechnik-1/1510973"
+    },
+    {
+      "name": "Regenerative Energietechnik 2",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/regenerative-energietechnik-2/1510974"
+    },
+    {
+      "name": "Rehabilitation, Physikalische Medizin, Naturheilkunde, Teil I",
+      "code": "142200508",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/rehabilitation-physikalische-medizin-naturheilkunde-teil-i/1511199"
+    },
+    {
+      "name": "Religionspädagogische Grundfragen und Konzeptionen",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/religionspadagogische-grundfragen-und-konzeptionen/1511203"
+    },
+    {
+      "name": "Religionspädagogische Schlüsselprobleme",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/religionspadagogische-schlusselprobleme/1511204"
+    },
+    {
+      "name": "Requirements Engineering und Management I",
+      "code": "51702503",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/requirements-engineering-und-management-i/1511209"
+    },
+    {
+      "name": "Ringvorlesung Mehrsprachigkeit",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/ringvorlesung-mehrsprachigkeit/1511000"
+    },
+    {
+      "name": "Rousseau Vom Geselschaftsvertrag",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/rousseau-vom-geselschaftsvertrag/3739064"
+    },
+    {
+      "name": "Sales Management in der Praxis",
+      "code": "51104510",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/sales-management-in-der-praxis/1511009"
+    },
+    {
+      "name": "Schule und Kinder-/Jugendhilfe",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/schule-und-kinder-jugendhilfe/1511023"
+    },
+    {
+      "name": "Schulpädagogik",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/schulpadagogik/1511025"
+    },
+    {
+      "name": "Schwedisch",
+      "code": "SwA1",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/schwedisch/4543628"
+    },
+    {
+      "name": "Schweißtechnische Fertigungsverfahren",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/schweisstechnische-fertigungsverfahren/1511027"
+    },
+    {
+      "name": "Schwingungsanalyse mit MATLAB",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/schwingungsanalyse-mit-matlab/1511030"
+    },
+    {
+      "name": "Scientific writing",
+      "code": "91100711",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/scientific-writing/1511032"
+    },
+    {
+      "name": "Semantik",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/semantik/1511056"
+    },
+    {
+      "name": "Sensorik und Aktuatorik",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/sensorik-und-aktuatorik/1511061"
+    },
+    {
+      "name": "Sexualmedizin",
+      "code": "142600535",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/sexualmedizin/1511064"
+    },
+    {
+      "name": "Sicherheit im Technikunterricht",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/sicherheit-im-technikunterricht/1511065"
+    },
+    {
+      "name": "Sicherheit in Kommunikationsnetzen",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/sicherheit-in-kommunikationsnetzen/1511066"
+    },
+    {
+      "name": "Sicherheitstechnik - Unfallverhütung",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/sicherheitstechnik-unfallverhutung/1511068"
+    },
+    {
+      "name": "Signalverarbeitung 1 / Analog Wireless Systems",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/signalverarbeitung-1-analog-wireless-systems/1511075"
+    },
+    {
+      "name": "Software Engineering",
+      "code": "51702509",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/software-engineering/1511039"
+    },
+    {
+      "name": "Softwaretechnik",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/softwaretechnik/1511044"
+    },
+    {
+      "name": "Soziale Arbeit - Grundlagen der Sozialpolitik",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/soziale-arbeit-grundlagen-der-sozialpolitik/2350529"
+    },
+    {
+      "name": "Soziale Arbeit - Soziologie",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/soziale-arbeit-soziologie/2350530"
+    },
+    {
+      "name": "Soziale Arbeit als Profession I: Handlungstheorien",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/soziale-arbeit-als-profession-i-handlungstheorien/1511045"
+    },
+    {
+      "name": "Soziale Ungleichheit und Teilhabe",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/soziale-ungleichheit-und-teilhabe/1511048"
+    },
+    {
+      "name": "Sozialer Wandel und Sozialisationstheorien",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/sozialer-wandel-und-sozialisationstheorien/1511049"
+    },
+    {
+      "name": "Sozialisationsforschung und -theorie",
+      "code": "ZCC50410",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/sozialisationsforschung-und-theorie/5069516"
+    },
+    {
+      "name": "Sozialpsychologie des Schulalltags",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/sozialpsychologie-des-schulalltags/1511051"
+    },
+    {
+      "name": "Sozialstruktur und Sozialordnung in Deutschland",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/sozialstruktur-und-sozialordnung-in-deutschland/1511052"
+    },
+    {
+      "name": "Sozialstrukturanalyse",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/sozialstrukturanalyse/1511053"
+    },
+    {
+      "name": "Sozialverwaltung",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/sozialverwaltung/1511054"
+    },
+    {
+      "name": "Soziologie I: Handeln in sozialen Bezügen",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/soziologie-i-handeln-in-sozialen-bezugen/1511076"
+    },
+    {
+      "name": "Soziologie II: Strukturen moderner Gesellschaften",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/soziologie-ii-strukturen-moderner-gesellschaften/1511077"
+    },
+    {
+      "name": "Soziologische Theorie I: Klassische Soziologische Theorie",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/soziologische-theorie-i-klassische-soziologische-theorie/1511079"
+    },
+    {
+      "name": "Spanische Landeswissenschaft",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/spanische-landeswissenschaft/1511083"
+    },
+    {
+      "name": "Spanische Landeswissenschaft II",
+      "code": "20202101",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/spanische-landeswissenschaft-ii/1511086"
+    },
+    {
+      "name": "Spanische Landeswissenschaft II: Politische und wirtschaftliche Entwicklung Lateinamerikas",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/spanische-landeswissenschaft-ii-politische-und-wirtschaftliche-entwicklung-lateinamerikas/1511087"
+    },
+    {
+      "name": "Spanische Literaturwissenschaft",
+      "code": "20200403",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/spanische-literaturwissenschaft/1511090"
+    },
+    {
+      "name": "Spanische Sprachwissenschaft",
+      "code": "20200201",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/spanische-sprachwissenschaft/1511091"
+    },
+    {
+      "name": "Spanische Sprachwissenschaft: Problemas de gramática española   - Spanisch",
+      "code": "20200203",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/spanische-sprachwissenschaft-problemas-de-gramatica-espanola-spanisch/1511092"
+    },
+    {
+      "name": "Spezielle Genetik",
+      "code": "91107710",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/spezielle-genetik/1511136"
+    },
+    {
+      "name": "Spieltheorie",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/spieltheorie/1511138"
+    },
+    {
+      "name": "Sprachdidaktik",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/sprachdidaktik/3287683"
+    },
+    {
+      "name": "Sprachdidaktik-Turkistik",
+      "code": "-",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/sprachdidaktik-turkistik/4395552"
+    },
+    {
+      "name": "Spracherwerb - Türkisch",
+      "code": "Spracherwerb",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/spracherwerb-turkisch/5405060"
+    },
+    {
+      "name": "Spracherwerbsprozesse in Erst- und Zweitsprache",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/spracherwerbsprozesse-in-erst-und-zweitsprache/1511139"
+    },
+    {
+      "name": "Stahlbau 1",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/stahlbau-1/1511146"
+    },
+    {
+      "name": "Stahlbau 2",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/stahlbau-2/1511147"
+    },
+    {
+      "name": "Stahlbau 5",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/stahlbau-5/1511150"
+    },
+    {
+      "name": "State and Parameter Estimation",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/state-and-parameter-estimation/1511154"
+    },
+    {
+      "name": "Statistik für Naturwissenschaftler",
+      "code": "91117330",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/statistik-fur-naturwissenschaftler/1511098"
+    },
+    {
+      "name": "Statistik für Politikwissenschaftler",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/statistik-fur-politikwissenschaftler/1511099"
+    },
+    {
+      "name": "Statistik für Soziologen",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/statistik-fur-soziologen/1511100"
+    },
+    {
+      "name": "Statistik für Wirtschaftsingenieure 1",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/statistik-fur-wirtschaftsingenieure-1/1511101"
+    },
+    {
+      "name": "Statistik für Wirtschaftsingenieure 2",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/statistik-fur-wirtschaftsingenieure-2/1511102"
+    },
+    {
+      "name": "Statistik I",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/statistik-i/1511103"
+    },
+    {
+      "name": "Statistik II",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/statistik-ii/1511104"
+    },
+    {
+      "name": "Statistik III",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/statistik-iii/1511105"
+    },
+    {
+      "name": "Steuerung der Mitarbeiterproduktivität",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/steuerung-der-mitarbeiterproduktivitat/2505221"
+    },
+    {
+      "name": "Steuerungs- und Governancetheorien",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/steuerungs-und-governancetheorien/1511112"
+    },
+    {
+      "name": "Stochastic partial differential equations",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/stochastic-partial-differential-equations/1511114"
+    },
+    {
+      "name": "Stochastik I",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/stochastik-i/1511115"
+    },
+    {
+      "name": "Stoffumsatz II: Systeme des Stoffumsatzes",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/stoffumsatz-ii-systeme-des-stoffumsatzes/1511122"
+    },
+    {
+      "name": "Stoffumsatz: Technisches Zeichnen und Fertigung",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/stoffumsatz-technisches-zeichnen-und-fertigung/1511125"
+    },
+    {
+      "name": "Strategische Unternehmensführung I",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/strategische-unternehmensfuhrung-i/1511129"
+    },
+    {
+      "name": "Strategische Unternehmensführung II",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/strategische-unternehmensfuhrung-ii/1511130"
+    },
+    {
+      "name": "Strategisches Automobilmanagement",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/strategisches-automobilmanagement/1511131"
+    },
+    {
+      "name": "Strategisches Marketing",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/strategisches-marketing/1511133"
+    },
+    {
+      "name": "Strategisches Technologie- und Innovationsmanagement",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/strategisches-technologie-und-innovationsmanagement/1511134"
+    },
+    {
+      "name": "Struktur und Funktion der Zelle Basisvorlesung und Klausur im Modul \"Struktur und Funktion\"",
+      "code": "91100501",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/struktur-und-funktion-der-zelle-basisvorlesung-und-klausur-im-modul-struktur-und-funktion/1511437"
+    },
+    {
+      "name": "Struktur von Mikrorechnern",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/struktur-von-mikrorechnern/1511438"
+    },
+    {
+      "name": "Struktur, Evaluation und Entwicklung des deutschen Schulsystems",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/struktur-evaluation-und-entwicklung-des-deutschen-schulsystems/1511439"
+    },
+    {
+      "name": "Strukturdynamik",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/strukturdynamik/1511441"
+    },
+    {
+      "name": "Strömungsmaschinen",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/stromungsmaschinen/1511135"
+    },
+    {
+      "name": "Strömungsmechanik",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/stromungsmechanik/1511434"
+    },
+    {
+      "name": "Städtebau 2",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/stadtebau-2/1511144"
+    },
+    {
+      "name": "Supply Chain Management",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/supply-chain-management/1511444"
+    },
+    {
+      "name": "Survey of British Culture",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/survey-of-british-culture/3245626"
+    },
+    {
+      "name": "Systemdynamik",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/systemdynamik/1511451"
+    },
+    {
+      "name": "Teaching English as Foreign Language (EFL)",
+      "code": "EFL 1 WS 2018",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/teaching-english-as-foreign-language-efl/3735407"
+    },
+    {
+      "name": "Teaching English in Theory and Practice (Vorbereitung Praxissemester)",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/teaching-english-in-theory-and-practice-vorbereitung-praxissemester/1511176"
+    },
+    {
+      "name": "Teaching Shakespeare - Interdisciplinary Lecture Series",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/teaching-shakespeare-interdisciplinary-lecture-series/1511177"
+    },
+    {
+      "name": "Technische Betriebsführung",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/technische-betriebsfuhrung/1511178"
+    },
+    {
+      "name": "Technische Chemie I (Chemische Reaktionstechnik)",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/technische-chemie-i-chemische-reaktionstechnik/1511179"
+    },
+    {
+      "name": "Technische Chemie II",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/technische-chemie-ii/1511180"
+    },
+    {
+      "name": "Technische Darstellung",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/technische-darstellung/1511183"
+    },
+    {
+      "name": "Technische Grundlagen zukünftiger Fahrzeugsysteme",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/technische-grundlagen-zukunftiger-fahrzeugsysteme/1511184"
+    },
+    {
+      "name": "Technische Mechanik 1",
+      "code": "101101040",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/technische-mechanik-1/1511185"
+    },
+    {
+      "name": "Technische Mechanik 2",
+      "code": "101101014",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/technische-mechanik-2/1511186"
+    },
+    {
+      "name": "Technische Mechanik 3",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/technische-mechanik-3/1511187"
+    },
+    {
+      "name": "Technische Mechanik 4 Ergänzungen zur Mechanik, Stabilität",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/technische-mechanik-4-erganzungen-zur-mechanik-stabilitat/1511188"
+    },
+    {
+      "name": "Technische Schadenskunde",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/technische-schadenskunde/1511190"
+    },
+    {
+      "name": "Testen und Entscheiden",
+      "code": "PSYCTE20",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/testen-und-entscheiden/5425799"
+    },
+    {
+      "name": "Testing of Metallic Materials",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/testing-of-metallic-materials/1511159"
+    },
+    {
+      "name": "The Cultural History of English",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/the-cultural-history-of-english/1511161"
+    },
+    {
+      "name": "The Spread of English",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/the-spread-of-english/1511164"
+    },
+    {
+      "name": "Themenfelder des Sachunterrichts",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/themenfelder-des-sachunterrichts/1511166"
+    },
+    {
+      "name": "Theologische Gotteslehre",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/theologische-gotteslehre/1511167"
+    },
+    {
+      "name": "Theoretische Chemie I",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/theoretische-chemie-i/1511168"
+    },
+    {
+      "name": "Theoretische Elektrotechnik 1",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/theoretische-elektrotechnik-1/1511170"
+    },
+    {
+      "name": "Theoretische Grundbegriffe der Soziologie",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/theoretische-grundbegriffe-der-soziologie/1511172"
+    },
+    {
+      "name": "Theorie linearer Systeme",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/theorie-linearer-systeme/1511175"
+    },
+    {
+      "name": "Theorie statistischer Signale",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/theorie-statistischer-signale/1511256"
+    },
+    {
+      "name": "Theory of Plasticity",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/theory-of-plasticity/1511262"
+    },
+    {
+      "name": "Thermische Verfahrenstechnik",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/thermische-verfahrenstechnik/1511268"
+    },
+    {
+      "name": "Thermodynamics 1",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/thermodynamics-1/1511269"
+    },
+    {
+      "name": "Thermodynamik 1",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/thermodynamik-1/1511273"
+    },
+    {
+      "name": "Thermodynamik 2",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/thermodynamik-2/1511274"
+    },
+    {
+      "name": "Thermodynamik I",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/thermodynamik-i/1511217"
+    },
+    {
+      "name": "Thermodynamik II",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/thermodynamik-ii/1511218"
+    },
+    {
+      "name": "Topologie",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/topologie/1511222"
+    },
+    {
+      "name": "Toxikologie für Chemiker",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/toxikologie-fur-chemiker/1511224"
+    },
+    {
+      "name": "Turbomachinery",
+      "code": "TB47048",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/turbomachinery/5179131"
+    },
+    {
+      "name": "Türkisch",
+      "code": "TRK22",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/turkisch/5167126"
+    },
+    {
+      "name": "Umwelt 1 - Recht",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/umwelt-1-recht/1511240"
+    },
+    {
+      "name": "Umweltverfahrenstechnik",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/umweltverfahrenstechnik/1511248"
+    },
+    {
+      "name": "Universität und Studium in der Literatur des 19 Jhd",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/universitat-und-studium-in-der-literatur-des-19-jhd/3732693"
+    },
+    {
+      "name": "Unternehmensbewertung",
+      "code": "51110508",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/unternehmensbewertung/1511250"
+    },
+    {
+      "name": "Unternehmensführung",
+      "code": "51107204",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/unternehmensfuhrung/1511251"
+    },
+    {
+      "name": "Unternehmensmodellierung 1",
+      "code": "51607200",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/unternehmensmodellierung-1/1511254"
+    },
+    {
+      "name": "Urban Gardening",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/urban-gardening/3287636"
+    },
+    {
+      "name": "Urbane Systeme - Geographische Annäherungen",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/urbane-systeme-geographische-annaherungen/1511300"
+    },
+    {
+      "name": "Überblicksvorlesung Mittelalter: Geschichte West- und Mitteleuropas im frühen und hohen Mittelalter",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/uberblicksvorlesung-mittelalter-geschichte-west-und-mitteleuropas-im-fruhen-und-hohen-mittelalter/3339598"
+    },
+    {
+      "name": "Überlebenstechniken für Ingenieure",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/uberlebenstechniken-fur-ingenieure/1511232"
+    },
+    {
+      "name": "Verbrennungslehre",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/verbrennungslehre/1511315"
+    },
+    {
+      "name": "Verbrennungsmotoren",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/verbrennungsmotoren/1511276"
+    },
+    {
+      "name": "Vergleichende Politikwissenschaft - Politische Systeme im Wandel",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/vergleichende-politikwissenschaft-politische-systeme-im-wandel/1511279"
+    },
+    {
+      "name": "Verhaltensbiologie II",
+      "code": "91109503",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/verhaltensbiologie-ii/1511280"
+    },
+    {
+      "name": "Verkehrswesen 4",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/verkehrswesen-4/1511287"
+    },
+    {
+      "name": "Vertiefung der betriebswirtschaftlichen Steuerlehre",
+      "code": "VBS",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/vertiefung-der-betriebswirtschaftlichen-steuerlehre/3330257"
+    },
+    {
+      "name": "Vertiefung Naturwissenschaften",
+      "code": "SPJ3",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/vertiefung-naturwissenschaften/7562073"
+    },
+    {
+      "name": "Vertiefung pädagogische Professionanlität",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/vertiefung-padagogische-professionanlitat/3945942"
+    },
+    {
+      "name": "Vertrieb und Wettbewerb",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/vertrieb-und-wettbewerb/1511316"
+    },
+    {
+      "name": "Vor- und Nachbereitung EOP",
+      "code": "I3 GS",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/vor-und-nachbereitung-eop/4415867"
+    },
+    {
+      "name": "Vorbereitung Praxissemster",
+      "code": "MP-MA-VD-PS",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/vorbereitung-praxissemster/5399261"
+    },
+    {
+      "name": "Wahrscheinlichkeitsrechnung und Statistik für Informatiker",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/wahrscheinlichkeitsrechnung-und-statistik-fur-informatiker/1511329"
+    },
+    {
+      "name": "Wahrscheinlichkeitsrechnung und Statistik für Mathematiker",
+      "code": "12345623",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/wahrscheinlichkeitsrechnung-und-statistik-fur-mathematiker/3465511"
+    },
+    {
+      "name": "Wahrscheinlichkeitstheorie I",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/wahrscheinlichkeitstheorie-i/1511330"
+    },
+    {
+      "name": "Wasserbau 4",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/wasserbau-4/1511362"
+    },
+    {
+      "name": "Wasserchemie",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/wasserchemie/1511366"
+    },
+    {
+      "name": "Wassertechnik",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/wassertechnik/1511368"
+    },
+    {
+      "name": "Waste Water Treatment",
+      "code": "91111680",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/waste-water-treatment/1511369"
+    },
+    {
+      "name": "Web Science",
+      "code": "WS",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/web-science/3329410"
+    },
+    {
+      "name": "Weltwirtschaftsgeographie",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/weltwirtschaftsgeographie/1511394"
+    },
+    {
+      "name": "Werkstoffauswahl",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/werkstoffauswahl/1511396"
+    },
+    {
+      "name": "Werkstoffauswahl verschleiß- und korrosionsbeständiger Werkstoffe",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/werkstoffauswahl-verschleiss-und-korrosionsbestandiger-werkstoffe/1511398"
+    },
+    {
+      "name": "Werkstoffe der Elektrotechnik (EWET)",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/werkstoffe-der-elektrotechnik-ewet/1511402"
+    },
+    {
+      "name": "Werkstoffkunde Stahl",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/werkstoffkunde-stahl/1511405"
+    },
+    {
+      "name": "Werkstoffprüfung",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/werkstoffprufung/1511406"
+    },
+    {
+      "name": "Werkstofftechnik 1",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/werkstofftechnik-1/1511407"
+    },
+    {
+      "name": "Werkstofftechnik 2",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/werkstofftechnik-2/1511408"
+    },
+    {
+      "name": "Werkzeugmaschinen",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/werkzeugmaschinen/1511410"
+    },
+    {
+      "name": "Wessen Wissen",
+      "code": "Biwi22",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/wessen-wissen/5423018"
+    },
+    {
+      "name": "Wettbewerbsrecht",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/wettbewerbsrecht/1511336"
+    },
+    {
+      "name": "Wettbewerbstheorie und -politik",
+      "code": "51505502",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/wettbewerbstheorie-und-politik/1511337"
+    },
+    {
+      "name": "Wind Energy",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/wind-energy/1511341"
+    },
+    {
+      "name": "Wirtschafts- und Sozialstatistik",
+      "code": "51401600",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/wirtschafts-und-sozialstatistik/1511342"
+    },
+    {
+      "name": "Wirtschaftsenglisch Grammar and Writing Practice",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/wirtschaftsenglisch-grammar-and-writing-practice/1511345"
+    },
+    {
+      "name": "Wirtschaftsenglisch Vocabulary and Reading Practice",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/wirtschaftsenglisch-vocabulary-and-reading-practice/1511346"
+    },
+    {
+      "name": "Wirtschaftsinformatik",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/wirtschaftsinformatik/1511347"
+    },
+    {
+      "name": "Wirtschaftspädagogik",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/wirtschaftspadagogik/1511349"
+    },
+    {
+      "name": "Wissenschaftliche Texte lesen, verstehen und wiedergeben",
+      "code": "204",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/wissenschaftliche-texte-lesen-verstehen-und-wiedergeben/1511376"
+    },
+    {
+      "name": "Wissenschaftliche Übung: Schulpraktische Studien / Praxissemester",
+      "code": "20902202",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/wissenschaftliche-ubung-schulpraktische-studien-praxissemester/1511377"
+    },
+    {
+      "name": "Wissenschaftliches Arbeiten",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/wissenschaftliches-arbeiten/1511378"
+    },
+    {
+      "name": "Wissenschaftstheorie",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/wissenschaftstheorie/1511381"
+    },
+    {
+      "name": "Wissensmanagement",
+      "code": "WM35",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/wissensmanagement/4439780"
+    },
+    {
+      "name": "Wärme- und Stoffübertragung",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/warme-und-stoffubertragung/1511332"
+    },
+    {
+      "name": "Wärme-, Kraft- und Arbeitsmaschinen",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/warme-kraft-und-arbeitsmaschinen/1511333"
+    },
+    {
+      "name": "Wärmebehandlung metallischer Werkstoffe",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/warmebehandlung-metallischer-werkstoffe/1511334"
+    },
+    {
+      "name": "Zeitreihenanalyse",
+      "code": "51402504",
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/zeitreihenanalyse/1511385"
+    },
+    {
+      "name": "Zivilrecht",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/zivilrecht/1511387"
+    },
+    {
+      "name": "Zivilrecht II",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-duisburg-essen/zivilrecht-ii/1511388"
+    }
+  ]
+}

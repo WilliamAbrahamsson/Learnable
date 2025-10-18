@@ -1,0 +1,4001 @@
+{
+  "university_id": "110",
+  "university_name": "Leibniz Universität Hannover",
+  "courses": [
+    {
+      "name": "3D Messtechnik",
+      "code": "12345",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/3d-messtechnik/5405132"
+    },
+    {
+      "name": "Adulte Stammzellen in der Regenerativen Medizin",
+      "code": "47408",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/adulte-stammzellen-in-der-regenerativen-medizin/1550457"
+    },
+    {
+      "name": "Advanced Econometrics",
+      "code": "379023",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/advanced-econometrics/5443538"
+    },
+    {
+      "name": "Aeroakustik und Aeroelastik der Strömungsmaschinen",
+      "code": "30022",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/aeroakustik-und-aeroelastik-der-stromungsmaschinen/1550458"
+    },
+    {
+      "name": "Aerodynamik und Aeroelastik von Windenergieanlagen",
+      "code": "338110",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/aerodynamik-und-aeroelastik-von-windenergieanlagen/6056820"
+    },
+    {
+      "name": "Aerothermodynamik der Strömungsmaschinen",
+      "code": "ATSM22",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/aerothermodynamik-der-stromungsmaschinen/5400121"
+    },
+    {
+      "name": "Airline- und Airport-Management",
+      "code": "171152/171252/170752",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/airline-und-airport-management/1550461"
+    },
+    {
+      "name": "Aktive Systeme im Kraftfahrzeug",
+      "code": "33601",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/aktive-systeme-im-kraftfahrzeug/1550462"
+    },
+    {
+      "name": "Algebra I",
+      "code": "10110",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/algebra-i/1550465"
+    },
+    {
+      "name": "Algebra II",
+      "code": "10301",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/algebra-ii/1550466"
+    },
+    {
+      "name": "Algebraische Geometrie",
+      "code": "10714",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/algebraische-geometrie/1550467"
+    },
+    {
+      "name": "Algebraische Kombinatorik I",
+      "code": "10969",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/algebraische-kombinatorik-i/1550469"
+    },
+    {
+      "name": "Algebraische Topologie",
+      "code": "10716",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/algebraische-topologie/1550471"
+    },
+    {
+      "name": "Algorithmen und Architekturen für digitale Hörhilfen",
+      "code": "36816",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/algorithmen-und-architekturen-fur-digitale-horhilfen/1550474"
+    },
+    {
+      "name": "Algorithmische kommutative Algebra",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/algorithmische-kommutative-algebra/3268185"
+    },
+    {
+      "name": "Algorithmische Mathematik",
+      "code": "10240",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/algorithmische-mathematik/4549834"
+    },
+    {
+      "name": "Algorithmisches Programmieren",
+      "code": "10144",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/algorithmisches-programmieren/1550475"
+    },
+    {
+      "name": "Allgemeine Anorganische und Organische",
+      "code": "15047",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/allgemeine-anorganische-und-organische/1550476"
+    },
+    {
+      "name": "Allgemeine Biochemie",
+      "code": "18520",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/allgemeine-biochemie/1550477"
+    },
+    {
+      "name": "Allgemeine Biologie",
+      "code": "48096",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/allgemeine-biologie/1550478"
+    },
+    {
+      "name": "Allgemeine Biologie: Genetik",
+      "code": "44037",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/allgemeine-biologie-genetik/1550480"
+    },
+    {
+      "name": "Allgemeine Biologie: Zellbiologie",
+      "code": "14138",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/allgemeine-biologie-zellbiologie/1550481"
+    },
+    {
+      "name": "Allgemeine Botanik",
+      "code": "44001",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/allgemeine-botanik/1550482"
+    },
+    {
+      "name": "Allgemeine Chemie",
+      "code": "14001a",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/allgemeine-chemie/1550483"
+    },
+    {
+      "name": "Allgemeine Psychologie",
+      "code": "HAN001",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/allgemeine-psychologie/1550484"
+    },
+    {
+      "name": "Allgemeine Psychologie A.1",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/allgemeine-psychologie-a1/6722694"
+    },
+    {
+      "name": "Allgemeine Verfahrensgrundsätze im Zivil-, Straf- sowie Öffentlichem Recht",
+      "code": "61802",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/allgemeine-verfahrensgrundsatze-im-zivil-straf-sowie-offentlichem-recht/1550487"
+    },
+    {
+      "name": "Allgemeine Zoologie",
+      "code": "48014-Ü",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/allgemeine-zoologie/1550488"
+    },
+    {
+      "name": "Allgemeine Zoologie und Verhaltensbiologie",
+      "code": "47018",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/allgemeine-zoologie-und-verhaltensbiologie/1550489"
+    },
+    {
+      "name": "Allgemeine- und Bioanorganische Chemie",
+      "code": "48099",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/allgemeine-und-bioanorganische-chemie/1552415"
+    },
+    {
+      "name": "Allgemeines Verwaltungsrecht",
+      "code": "60205",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/allgemeines-verwaltungsrecht/1550490"
+    },
+    {
+      "name": "Alte Geschichte",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/alte-geschichte/7413200"
+    },
+    {
+      "name": "AML Labor",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/aml-labor/3266014"
+    },
+    {
+      "name": "Analysis A",
+      "code": "10062",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/analysis-a/1550493"
+    },
+    {
+      "name": "Analysis B",
+      "code": "10654",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/analysis-b/1550495"
+    },
+    {
+      "name": "Analysis I",
+      "code": "10100",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/analysis-i/1550496"
+    },
+    {
+      "name": "Analysis II",
+      "code": "10670",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/analysis-ii/1550497"
+    },
+    {
+      "name": "Analysis III",
+      "code": "10102",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/analysis-iii/1550498"
+    },
+    {
+      "name": "Analytische Chemie I",
+      "code": "14004a",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/analytische-chemie-i/1550500"
+    },
+    {
+      "name": "Analytische Chemie II",
+      "code": "15002",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/analytische-chemie-ii/1550501"
+    },
+    {
+      "name": "Anatomie und Physiologie des Menschen",
+      "code": "18147",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/anatomie-und-physiologie-des-menschen/1550504"
+    },
+    {
+      "name": "angewandte Ethnologie und westlicher Ethnozentrismus",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/angewandte-ethnologie-und-westlicher-ethnozentrismus/7358974"
+    },
+    {
+      "name": "Angewandte Mathematik für Sozialpädagogik I",
+      "code": "18365",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/angewandte-mathematik-fur-sozialpadagogik-i/1550509"
+    },
+    {
+      "name": "Angewandte Methoden der Konstruktionslehre",
+      "code": "AMKL2021",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/angewandte-methoden-der-konstruktionslehre/5288878"
+    },
+    {
+      "name": "Angewandte Wirtschaftsgeographie C",
+      "code": "17338",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/angewandte-wirtschaftsgeographie-c/5932993"
+    },
+    {
+      "name": "Angewandte Ökonometrie",
+      "code": "173010",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/angewandte-okonometrie/1550510"
+    },
+    {
+      "name": "Anlagenmanagement",
+      "code": "32425",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/anlagenmanagement/1550513"
+    },
+    {
+      "name": "Anorganische Chemie I",
+      "code": "15000b",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/anorganische-chemie-i/1550514"
+    },
+    {
+      "name": "Anorganische Chemie II",
+      "code": "14009",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/anorganische-chemie-ii/1550515"
+    },
+    {
+      "name": "Anorganische Chemie III",
+      "code": "14010",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/anorganische-chemie-iii/1550516"
+    },
+    {
+      "name": "Anwendungen der FEM bevorzugt bei Implantaten",
+      "code": "31860",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/anwendungen-der-fem-bevorzugt-bei-implantaten/1550521"
+    },
+    {
+      "name": "Arbeitsgestaltung im Büro",
+      "code": "32564",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/arbeitsgestaltung-im-buro/1550526"
+    },
+    {
+      "name": "Arbeitsrecht",
+      "code": "60024",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/arbeitsrecht/1550529"
+    },
+    {
+      "name": "Arbeitswissenschaft",
+      "code": "32400",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/arbeitswissenschaft/1550530"
+    },
+    {
+      "name": "Arbeitsökonomik I",
+      "code": "171554",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/arbeitsokonomik-i/1550527"
+    },
+    {
+      "name": "Architekturen der digitalen Signalverarbeitung",
+      "code": "36804",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/architekturen-der-digitalen-signalverarbeitung/1550531"
+    },
+    {
+      "name": "Architekturgeschichte",
+      "code": "AG2024/25",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/architekturgeschichte/7424436"
+    },
+    {
+      "name": "Asset Management",
+      "code": "173310/173710/174000",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/asset-management/1550533"
+    },
+    {
+      "name": "Asset Pricing",
+      "code": "173300",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/asset-pricing/1550534"
+    },
+    {
+      "name": "Aufbau der Materie für Lehramt",
+      "code": "15083",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/aufbau-der-materie-fur-lehramt/1550539"
+    },
+    {
+      "name": "Aufbaumodul Fachdidaktik Spanisch",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/aufbaumodul-fachdidaktik-spanisch/7622566"
+    },
+    {
+      "name": "Ausgleichsvorgänge in Elektroenergiesystemen",
+      "code": "35616",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/ausgleichsvorgange-in-elektroenergiesystemen/1550545"
+    },
+    {
+      "name": "Automatisierung: Komponenten und Anlagen",
+      "code": "30335",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/automatisierung-komponenten-und-anlagen/1550548"
+    },
+    {
+      "name": "Automatisierung: Steuerungstechnik",
+      "code": "30250",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/automatisierung-steuerungstechnik/1550549"
+    },
+    {
+      "name": "Automobilelektronik I - Antriebsstrang",
+      "code": "35535",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/automobilelektronik-i-antriebsstrang/1550550"
+    },
+    {
+      "name": "Automotive Interiors",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/automotive-interiors/7419365"
+    },
+    {
+      "name": "B05-2 Computer Use and Information Technology for Scientists",
+      "code": "41900",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/b05-2-computer-use-and-information-technology-for-scientists/1550557"
+    },
+    {
+      "name": "B2B Marketing and Business Negotiation",
+      "code": "170805",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/b2b-marketing-and-business-negotiation/1550558"
+    },
+    {
+      "name": "Batteriespeichersysteme",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/batteriespeichersysteme/6335964"
+    },
+    {
+      "name": "Baumechanik 2",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/baumechanik-2/1680595"
+    },
+    {
+      "name": "Baumechanik A",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/baumechanik-a/6241766"
+    },
+    {
+      "name": "Baumechanik B",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/baumechanik-b/6245878"
+    },
+    {
+      "name": "Bauphysik",
+      "code": "338873",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/bauphysik/5132541"
+    },
+    {
+      "name": "Baurecht",
+      "code": "60215",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/baurecht/1550563"
+    },
+    {
+      "name": "Baustoffkunde A",
+      "code": "BSKA 2023",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/baustoffkunde-a/6011861"
+    },
+    {
+      "name": "Baustoffkunde B",
+      "code": "SoSe 2024",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/baustoffkunde-b/7040432"
+    },
+    {
+      "name": "Bautechnik in der Landschaftsarchitektur - Grundlagen",
+      "code": "444400",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/bautechnik-in-der-landschaftsarchitektur-grundlagen/1550564"
+    },
+    {
+      "name": "Behavioral Finance",
+      "code": "170550 / 171650",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/behavioral-finance/1550565"
+    },
+    {
+      "name": "Benutzbare IT Sicherheit",
+      "code": "11785",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/benutzbare-it-sicherheit/1550566"
+    },
+    {
+      "name": "Berufsfeldrecherche und Bewerbungstraining",
+      "code": "1234",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/berufsfeldrecherche-und-bewerbungstraining/7643805"
+    },
+    {
+      "name": "Beschreibende Statistik",
+      "code": "70148",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/beschreibende-statistik/1550572"
+    },
+    {
+      "name": "Betontechnik für Ingenieurbauwerke",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/betontechnik-fur-ingenieurbauwerke/2313252"
+    },
+    {
+      "name": "Betriebliches Rechnungswesen I",
+      "code": "76006",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/betriebliches-rechnungswesen-i/1550576"
+    },
+    {
+      "name": "Betriebliches Rechnungswesen II - Industrielle Kosten- und Leistungsrechnung",
+      "code": "76007",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/betriebliches-rechnungswesen-ii-industrielle-kosten-und-leistungsrechnung/1550577"
+    },
+    {
+      "name": "Betriebsführung",
+      "code": "32560",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/betriebsfuhrung/1550578"
+    },
+    {
+      "name": "Betriebssysteme",
+      "code": "11414",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/betriebssysteme/1550580"
+    },
+    {
+      "name": "Bibelkunde",
+      "code": "BM0b",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/bibelkunde/5161637"
+    },
+    {
+      "name": "Bildgebende Systeme für die Medizintechnik",
+      "code": "36812",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/bildgebende-systeme-fur-die-medizintechnik/1550583"
+    },
+    {
+      "name": "Bildung und soziale Ungleichheit",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/bildung-und-soziale-ungleichheit/6915759"
+    },
+    {
+      "name": "Bildungstheorie und Bildungsforschung EW2.1",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/bildungstheorie-und-bildungsforschung-ew21/6349684"
+    },
+    {
+      "name": "Bioanalytik",
+      "code": "15169",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/bioanalytik/1550588"
+    },
+    {
+      "name": "Biochemie der Naturstoffe",
+      "code": "48101",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/biochemie-der-naturstoffe/1552416"
+    },
+    {
+      "name": "Biochemie für Fortgeschrittene",
+      "code": "18523",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/biochemie-fur-fortgeschrittene/1550589"
+    },
+    {
+      "name": "Biodiversität und Naturschutz",
+      "code": "440900",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/biodiversitat-und-naturschutz/1550591"
+    },
+    {
+      "name": "Bioinformatik I",
+      "code": "14336",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/bioinformatik-i/1550593"
+    },
+    {
+      "name": "Biointerface Engineering",
+      "code": "31090",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/biointerface-engineering/1550594"
+    },
+    {
+      "name": "Biokompatible Polymere",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/biokompatible-polymere/7025360"
+    },
+    {
+      "name": "Biokompatible Werkstoffe",
+      "code": "31716",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/biokompatible-werkstoffe/1550595"
+    },
+    {
+      "name": "Biologische Grundlagen des Obstbaus",
+      "code": "40200",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/biologische-grundlagen-des-obstbaus/1550597"
+    },
+    {
+      "name": "Biomechanik der Knochen",
+      "code": "13010",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/biomechanik-der-knochen/5697302"
+    },
+    {
+      "name": "Biomedical Engineering",
+      "code": "WiSe 18/19",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/biomedical-engineering/5832593"
+    },
+    {
+      "name": "Biomedizinische Technik für Ingenieure I",
+      "code": "31027",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/biomedizinische-technik-fur-ingenieure-i/1550599"
+    },
+    {
+      "name": "Biomedizinische Technik für Ingenieure II",
+      "code": "31097",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/biomedizinische-technik-fur-ingenieure-ii/1550600"
+    },
+    {
+      "name": "Biometrie / Biostatistik",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/biometrie-biostatistik/6671116"
+    },
+    {
+      "name": "Biophotonik - Bildgebung und Manipulation von biologischen Zellen",
+      "code": "13144",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/biophotonik-bildgebung-und-manipulation-von-biologischen-zellen/1550601"
+    },
+    {
+      "name": "Biosystemtechnik",
+      "code": "41100",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/biosystemtechnik/4450246"
+    },
+    {
+      "name": "Bipolarbauelemente",
+      "code": "35206",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/bipolarbauelemente/1550605"
+    },
+    {
+      "name": "Bodenkundliche Aspekte der Agrarnutzung",
+      "code": "16056",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/bodenkundliche-aspekte-der-agrarnutzung/1550609"
+    },
+    {
+      "name": "Bodenmechanik und Gründung",
+      "code": "Bug, WiSe2223",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/bodenmechanik-und-grundung/6023426"
+    },
+    {
+      "name": "Bodenökologie",
+      "code": "16700",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/bodenokologie/1550610"
+    },
+    {
+      "name": "Brennstoffzellen und Wasserelektrolyse",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/brennstoffzellen-und-wasserelektrolyse/6564700"
+    },
+    {
+      "name": "Buchführung",
+      "code": "70100",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/buchfuhrung/1550616"
+    },
+    {
+      "name": "Business Administration",
+      "code": "77202",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/business-administration/1550617"
+    },
+    {
+      "name": "Business Intelligence und Big Data Analytics",
+      "code": "171404",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/business-intelligence-und-big-data-analytics/1550618"
+    },
+    {
+      "name": "Business, Technology & Development of Vehicle Tires",
+      "code": "32257",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/business-technology-development-of-vehicle-tires/1550619"
+    },
+    {
+      "name": "BWL im Gesundheitswesen",
+      "code": "173410",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/bwl-im-gesundheitswesen/1550620"
+    },
+    {
+      "name": "Böden - Prozesse und Eigenschaften",
+      "code": "16008",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/boden-prozesse-und-eigenschaften/1550606"
+    },
+    {
+      "name": "Carmague",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/carmague/7225562"
+    },
+    {
+      "name": "CAx-Anwendungen in der Produktion",
+      "code": "32005",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/cax-anwendungen-in-der-produktion/1550621"
+    },
+    {
+      "name": "Chemie: Biochemie",
+      "code": "44039 - 47406",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/chemie-biochemie/1550623"
+    },
+    {
+      "name": "Chemische Analyse 1",
+      "code": "CAK 1",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/chemische-analyse-1/7447036"
+    },
+    {
+      "name": "Chemische Biologie",
+      "code": "14230",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/chemische-biologie/1550625"
+    },
+    {
+      "name": "Christentum in religionswissenschaftlicher Perspektive",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/christentum-in-religionswissenschaftlicher-perspektive/7642809"
+    },
+    {
+      "name": "Computational Chemistry",
+      "code": "18514",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/computational-chemistry/1550630"
+    },
+    {
+      "name": "Computer- und Roboterassistierte Chirurgie",
+      "code": "33596",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/computer-und-roboterassistierte-chirurgie/1550632"
+    },
+    {
+      "name": "Computeralgebra",
+      "code": "10124",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/computeralgebra/1550633"
+    },
+    {
+      "name": "Computeranalyse von DNA- und Proteinsequenzen",
+      "code": "47414",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/computeranalyse-von-dna-und-proteinsequenzen/1550634"
+    },
+    {
+      "name": "Concurrent Engineering",
+      "code": "31510",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/concurrent-engineering/1550636"
+    },
+    {
+      "name": "Controlling I",
+      "code": "170718",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/controlling-i/1550638"
+    },
+    {
+      "name": "Curso Superior 1",
+      "code": "SP 1 1900",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/curso-superior-1/5145007"
+    },
+    {
+      "name": "Data Analytics",
+      "code": "379000",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/data-analytics/5439163"
+    },
+    {
+      "name": "Data Collection",
+      "code": "173800",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/data-collection/1550645"
+    },
+    {
+      "name": "Data- and AI-driven Methods in Engineering",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/data-and-ai-driven-methods-in-engineering/7008591"
+    },
+    {
+      "name": "Datenbanksysteme",
+      "code": "11155",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/datenbanksysteme/1550648"
+    },
+    {
+      "name": "Datenstrukturen und Algorithmen",
+      "code": "11051",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/datenstrukturen-und-algorithmen/1550651"
+    },
+    {
+      "name": "Derivate",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/derivate/1552326"
+    },
+    {
+      "name": "Design and Simulation of optomechatronic Systems",
+      "code": "31308",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/design-and-simulation-of-optomechatronic-systems/5444130"
+    },
+    {
+      "name": "Deutsche Finanzgeschichte des 20. Jahrhunderts",
+      "code": "171838",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/deutsche-finanzgeschichte-des-20-jahrhunderts/1550652"
+    },
+    {
+      "name": "Development and Environment",
+      "code": "70178",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/development-and-environment/1550653"
+    },
+    {
+      "name": "Didaktik beruflichen Lernens I",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/didaktik-beruflichen-lernens-i/7070475"
+    },
+    {
+      "name": "Didaktik der Analysis",
+      "code": "18103",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/didaktik-der-analysis/1550655"
+    },
+    {
+      "name": "Didaktik der beruflichen Fachrichtung Metalltechnik",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/didaktik-der-beruflichen-fachrichtung-metalltechnik/6481248"
+    },
+    {
+      "name": "Didaktik der Technik",
+      "code": "35353",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/didaktik-der-technik/1550657"
+    },
+    {
+      "name": "Die Bildung und Dynamik von Sedimentbecken",
+      "code": "16122",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/die-bildung-und-dynamik-von-sedimentbecken/1550659"
+    },
+    {
+      "name": "Die deutsche Gesellschaft im dritten Reich",
+      "code": "BMNZ",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/die-deutsche-gesellschaft-im-dritten-reich/6693455"
+    },
+    {
+      "name": "Dienstleistungsproduktion",
+      "code": "71113",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/dienstleistungsproduktion/1552368"
+    },
+    {
+      "name": "Digitale Bildverarbeitung",
+      "code": "36428",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/digitale-bildverarbeitung/1550660"
+    },
+    {
+      "name": "Digitale Nachrichtenübertragung",
+      "code": "36632",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/digitale-nachrichtenubertragung/1550661"
+    },
+    {
+      "name": "Digitale Signalverarbeitung",
+      "code": "36427",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/digitale-signalverarbeitung/1550662"
+    },
+    {
+      "name": "Digitalschaltungen der Elektronik",
+      "code": "36800",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/digitalschaltungen-der-elektronik/1550663"
+    },
+    {
+      "name": "Diskrete Mathematik",
+      "code": "10456",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/diskrete-mathematik/1550665"
+    },
+    {
+      "name": "Dynamische Messtechnik und Fehlerrechnung",
+      "code": "35527",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/dynamische-messtechnik-und-fehlerrechnung/1550671"
+    },
+    {
+      "name": "E-Commerce und Datenschutzrecht",
+      "code": "61704",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/e-commerce-und-datenschutzrecht/1550675"
+    },
+    {
+      "name": "E-Technik (Physikalische Grundlagen der Bauarbeit)",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/e-technik-physikalische-grundlagen-der-bauarbeit/6652230"
+    },
+    {
+      "name": "Econometrics",
+      "code": "77006",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/econometrics/1550676"
+    },
+    {
+      "name": "Economic Growth and Development",
+      "code": "172238",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/economic-growth-and-development/1550677"
+    },
+    {
+      "name": "Ein Text  - viel(e) Theorie(n)",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/ein-text-viele-theorien/7017651"
+    },
+    {
+      "name": "Einführung in bewegungs- und trainingswissenschaftliche Fragestellungen des Sports",
+      "code": "2820",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/einfuhrung-in-bewegungs-und-trainingswissenschaftliche-fragestellungen-des-sports/2271018"
+    },
+    {
+      "name": "Einführung in das deutsche Recht und die Rechtskultur I",
+      "code": "60904",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/einfuhrung-in-das-deutsche-recht-und-die-rechtskultur-i/1550680"
+    },
+    {
+      "name": "Einführung in das deutsche Recht und die Rechtskultur II",
+      "code": "60911",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/einfuhrung-in-das-deutsche-recht-und-die-rechtskultur-ii/1550681"
+    },
+    {
+      "name": "Einführung in das Informationstechnologierecht",
+      "code": "61701",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/einfuhrung-in-das-informationstechnologierecht/1550683"
+    },
+    {
+      "name": "Einführung in das IT-/IP-Recht",
+      "code": "61019",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/einfuhrung-in-das-it-ip-recht/1550684"
+    },
+    {
+      "name": "Einführung in das Recht für Ingenieure",
+      "code": "70004",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/einfuhrung-in-das-recht-fur-ingenieure/1550686"
+    },
+    {
+      "name": "Einführung in die Bankbetriebslehre",
+      "code": "170510",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/einfuhrung-in-die-bankbetriebslehre/1550692"
+    },
+    {
+      "name": "Einführung in die Betriebswirtschaftslehre für LMW",
+      "code": "18031",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/einfuhrung-in-die-betriebswirtschaftslehre-fur-lmw/1550693"
+    },
+    {
+      "name": "Einführung in die Bioethik/Introduction to bioethics",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/einfuhrung-in-die-bioethikintroduction-to-bioethics/6623077"
+    },
+    {
+      "name": "Einführung in die Biologiedidaktik",
+      "code": "48001",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/einfuhrung-in-die-biologiedidaktik/1550694"
+    },
+    {
+      "name": "Einführung in die Biomathematik",
+      "code": "44030",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/einfuhrung-in-die-biomathematik/1550695"
+    },
+    {
+      "name": "Einführung in die Biostatistik",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/einfuhrung-in-die-biostatistik/3945823"
+    },
+    {
+      "name": "Einführung in die BWL",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/einfuhrung-in-die-bwl/7351261"
+    },
+    {
+      "name": "Einführung in die Didaktik der Geographie",
+      "code": "17511",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/einfuhrung-in-die-didaktik-der-geographie/1550697"
+    },
+    {
+      "name": "Einführung in die Europäische Union",
+      "code": "BM 5",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/einfuhrung-in-die-europaische-union/4921683"
+    },
+    {
+      "name": "Einführung in die Fertigungstechnik",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/einfuhrung-in-die-fertigungstechnik/3408065"
+    },
+    {
+      "name": "Einführung in die Genetik und moderne Pflanzenzüchtung",
+      "code": "40600",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/einfuhrung-in-die-genetik-und-moderne-pflanzenzuchtung/1550703"
+    },
+    {
+      "name": "Einführung in die Geologie",
+      "code": "16224",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/einfuhrung-in-die-geologie/1550704"
+    },
+    {
+      "name": "Einführung in die Geschichte Lateinamerikas und der Karibik",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/einfuhrung-in-die-geschichte-lateinamerikas-und-der-karibik/3945686"
+    },
+    {
+      "name": "Einführung in die Geschichtsdidaktik",
+      "code": "GGD1",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/einfuhrung-in-die-geschichtsdidaktik/6686620"
+    },
+    {
+      "name": "Einführung in die Internationale Politik (C.Lemke)",
+      "code": "k.a.1",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/einfuhrung-in-die-internationale-politik-clemke/4818130"
+    },
+    {
+      "name": "Einführung in die Kulturanthropologie",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/einfuhrung-in-die-kulturanthropologie/3384747"
+    },
+    {
+      "name": "Einführung in die Lebensmittelchemie I",
+      "code": "14162",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/einfuhrung-in-die-lebensmittelchemie-i/1550708"
+    },
+    {
+      "name": "Einführung in die Literaturwissenschaft",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/einfuhrung-in-die-literaturwissenschaft/7654679"
+    },
+    {
+      "name": "Einführung in die Politikwissenschaft",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/einfuhrung-in-die-politikwissenschaft/7445550"
+    },
+    {
+      "name": "Einführung in die Quantentheorie - Theoretische Physik II",
+      "code": "13061",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/einfuhrung-in-die-quantentheorie-theoretische-physik-ii/1550716"
+    },
+    {
+      "name": "Einführung in die Rechtsphilosophie",
+      "code": "60303",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/einfuhrung-in-die-rechtsphilosophie/1550717"
+    },
+    {
+      "name": "Einführung in die Religionswissenschaft",
+      "code": "382",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/einfuhrung-in-die-religionswissenschaft/4540007"
+    },
+    {
+      "name": "Einführung in die Soziologie",
+      "code": "ESO2019",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/einfuhrung-in-die-soziologie/4345015"
+    },
+    {
+      "name": "Einführung in die Toxikologie",
+      "code": "18509",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/einfuhrung-in-die-toxikologie/1550719"
+    },
+    {
+      "name": "Einführung in die Volkswirtschaftslehre",
+      "code": "70180",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/einfuhrung-in-die-volkswirtschaftslehre/1550720"
+    },
+    {
+      "name": "Einführung in die Volkswirtschaftslehre (Nebenfach)",
+      "code": "76300",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/einfuhrung-in-die-volkswirtschaftslehre-nebenfach/1550721"
+    },
+    {
+      "name": "Einführung in die Zahlentheorie",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/einfuhrung-in-die-zahlentheorie/1552306"
+    },
+    {
+      "name": "Einführung in Matlab",
+      "code": "33603",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/einfuhrung-in-matlab/6716822"
+    },
+    {
+      "name": "Einführung ins wissenschaftliche Arbeiten",
+      "code": "172208",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/einfuhrung-ins-wissenschaftliche-arbeiten/1550725"
+    },
+    {
+      "name": "Eisenbahnwesen",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/eisenbahnwesen/7534208"
+    },
+    {
+      "name": "Electronic Design Automation",
+      "code": "11235",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/electronic-design-automation/1550728"
+    },
+    {
+      "name": "Elekrotechnik 1 für Maschinenbauer",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/elekrotechnik-1-fur-maschinenbauer/3266015"
+    },
+    {
+      "name": "Elektrische Antriebe",
+      "code": "36540",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/elektrische-antriebe/1550729"
+    },
+    {
+      "name": "Elektrische Antriebssysteme",
+      "code": "36327",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/elektrische-antriebssysteme/1550730"
+    },
+    {
+      "name": "Elektrische Bahnen",
+      "code": "36334",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/elektrische-bahnen/7386591"
+    },
+    {
+      "name": "Elektrische Energieversorgung I",
+      "code": "35950",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/elektrische-energieversorgung-i/1550732"
+    },
+    {
+      "name": "Elektrische Energieversorgung II",
+      "code": "35606",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/elektrische-energieversorgung-ii/1550733"
+    },
+    {
+      "name": "Elektrische Klein-, Servo- und Fahrzeugantriebe",
+      "code": "36309",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/elektrische-klein-servo-und-fahrzeugantriebe/1550734"
+    },
+    {
+      "name": "Elektrizität - Physik II",
+      "code": "13049",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/elektrizitat-physik-ii/1550735"
+    },
+    {
+      "name": "Elektroakustik I",
+      "code": "36684",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/elektroakustik-i/1550736"
+    },
+    {
+      "name": "Elektromagnetik in der Medizintechnik um EMV",
+      "code": "EMV 001",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/elektromagnetik-in-der-medizintechnik-um-emv/6029760"
+    },
+    {
+      "name": "Elektromagnetische Verträglichkeit",
+      "code": "35511",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/elektromagnetische-vertraglichkeit/1550738"
+    },
+    {
+      "name": "Elektronik",
+      "code": "12126",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/elektronik/1550739"
+    },
+    {
+      "name": "Elektrotechnik 2 Maschinenbau",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/elektrotechnik-2-maschinenbau/3266021"
+    },
+    {
+      "name": "Elektrotechnische Grundlagen der Informatik",
+      "code": "11231",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/elektrotechnische-grundlagen-der-informatik/1550741"
+    },
+    {
+      "name": "Elektrothermische Verfahren",
+      "code": "35653",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/elektrothermische-verfahren/1550742"
+    },
+    {
+      "name": "Empirische Wirtschaftsforschung",
+      "code": "70149",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/empirische-wirtschaftsforschung/1550747"
+    },
+    {
+      "name": "Energiespeicher I",
+      "code": "35316",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/energiespeicher-i/1550749"
+    },
+    {
+      "name": "Englisch für Biologen",
+      "code": "48102",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/englisch-fur-biologen/1552417"
+    },
+    {
+      "name": "English Literature",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/english-literature/1552260"
+    },
+    {
+      "name": "Entscheidungen unter Risiko",
+      "code": "271054",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/entscheidungen-unter-risiko/4391456"
+    },
+    {
+      "name": "Entwicklung und Entwicklungsbeeinträchtigungen",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/entwicklung-und-entwicklungsbeeintrachtigungen/7381401"
+    },
+    {
+      "name": "Entwicklungsmethodik",
+      "code": "31160",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/entwicklungsmethodik/1550758"
+    },
+    {
+      "name": "Entwicklungspsychologie",
+      "code": "11111",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/entwicklungspsychologie/3238538"
+    },
+    {
+      "name": "Entwurf diskreter Steuerungen",
+      "code": "11471",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/entwurf-diskreter-steuerungen/1550759"
+    },
+    {
+      "name": "Entwurf integrierter digitaler Schaltungen",
+      "code": "11205",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/entwurf-integrierter-digitaler-schaltungen/1550760"
+    },
+    {
+      "name": "EP Basketball",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/ep-basketball/7025659"
+    },
+    {
+      "name": "Erbrecht",
+      "code": "60009",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/erbrecht/1550764"
+    },
+    {
+      "name": "Erdöl und Erdgas-Genese, Migration und Lagerstättenbildung",
+      "code": "16123",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/erdol-und-erdgas-genese-migration-und-lagerstattenbildung/1550765"
+    },
+    {
+      "name": "Erneuerbare Energien für Maschinenbauer und Energietechniker",
+      "code": "00000000",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/erneuerbare-energien-fur-maschinenbauer-und-energietechniker/5209699"
+    },
+    {
+      "name": "Erneuerbare Energien und intelligente Energieversorgungskonzepte",
+      "code": "35614",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/erneuerbare-energien-und-intelligente-energieversorgungskonzepte/1550769"
+    },
+    {
+      "name": "Erziehungswissenschaften",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/erziehungswissenschaften/6688355"
+    },
+    {
+      "name": "Europarecht I",
+      "code": "60203",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/europarecht-i/1550779"
+    },
+    {
+      "name": "Europarecht II",
+      "code": "60217",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/europarecht-ii/1550780"
+    },
+    {
+      "name": "Europäische Rechtspraxis I",
+      "code": "60901",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/europaische-rechtspraxis-i/7561770"
+    },
+    {
+      "name": "Europäisches Energierecht I",
+      "code": "61302",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/europaisches-energierecht-i/1550774"
+    },
+    {
+      "name": "Evangelische Theologie",
+      "code": "1343",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/evangelische-theologie/5002766"
+    },
+    {
+      "name": "Evolution",
+      "code": "48009 / 48011",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/evolution/1550784"
+    },
+    {
+      "name": "Exp. Übung zur anorganischen Chemie",
+      "code": "15488",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/exp-ubung-zur-anorganischen-chemie/6669415"
+    },
+    {
+      "name": "Experimentalphysik für Biologie Gartenbauwissenschaften Pflanzenbiotechnologie Life Science",
+      "code": "13003",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/experimentalphysik-fur-biologie-gartenbauwissenschaften-pflanzenbiotechnologie-life-science/1550787"
+    },
+    {
+      "name": "Experimentalphysik I",
+      "code": "13001",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/experimentalphysik-i/1550788"
+    },
+    {
+      "name": "Experimentelle Geochemie",
+      "code": "16105",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/experimentelle-geochemie/1550789"
+    },
+    {
+      "name": "Externe Unternehmensrechnung",
+      "code": "270173",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/externe-unternehmensrechnung/4390581"
+    },
+    {
+      "name": "Fabrikplanung",
+      "code": "32420",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/fabrikplanung/1550790"
+    },
+    {
+      "name": "Fahrzeug-Fahrweg-Dynamik",
+      "code": "33625",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/fahrzeug-fahrweg-dynamik/1550795"
+    },
+    {
+      "name": "Fahrzeugantriebstechnik",
+      "code": "31245",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/fahrzeugantriebstechnik/1550794"
+    },
+    {
+      "name": "Familienrecht",
+      "code": "60023",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/familienrecht/1550798"
+    },
+    {
+      "name": "Fertigungsmanagement",
+      "code": "32010",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/fertigungsmanagement/1550800"
+    },
+    {
+      "name": "Fertigungstechnik I",
+      "code": "21031",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/fertigungstechnik-i/1550801"
+    },
+    {
+      "name": "Festkörpermechanik",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/festkorpermechanik/3021933"
+    },
+    {
+      "name": "Financial Econometrics",
+      "code": "172481 / 171681",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/financial-econometrics/1550805"
+    },
+    {
+      "name": "Finanzmathematik in diskreter Zeit",
+      "code": "10639",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/finanzmathematik-in-diskreter-zeit/1550806"
+    },
+    {
+      "name": "Finanzmathematik in stetiger Zeit",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/finanzmathematik-in-stetiger-zeit/3268191"
+    },
+    {
+      "name": "Finite Elemente Anwendungen in der Statik und Dynamik",
+      "code": "FEA 101",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/finite-elemente-anwendungen-in-der-statik-und-dynamik/6350101"
+    },
+    {
+      "name": "Finite Elemente I",
+      "code": "33360",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/finite-elemente-i/1550807"
+    },
+    {
+      "name": "Finite Elemente II",
+      "code": "33529",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/finite-elemente-ii/1550808"
+    },
+    {
+      "name": "Finite Elemente in der Umformtechnik",
+      "code": "31926",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/finite-elemente-in-der-umformtechnik/1550809"
+    },
+    {
+      "name": "Flugtriebwerke",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/flugtriebwerke/7642983"
+    },
+    {
+      "name": "Formale Methoden der Informationstechnik",
+      "code": "36834",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/formale-methoden-der-informationstechnik/1550814"
+    },
+    {
+      "name": "Forschendes Lernen an Schule und Hochschule",
+      "code": "17533",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/forschendes-lernen-an-schule-und-hochschule/7576567"
+    },
+    {
+      "name": "Forschungsprojekt",
+      "code": "171408",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/forschungsprojekt/1550815"
+    },
+    {
+      "name": "Foundations of Information Retrieval",
+      "code": "11701",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/foundations-of-information-retrieval/1550821"
+    },
+    {
+      "name": "FPGA-Entwurfstechnik",
+      "code": "11209",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/fpga-entwurfstechnik/1550822"
+    },
+    {
+      "name": "Französische Geschichte",
+      "code": "GE240",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/franzosische-geschichte/4445135"
+    },
+    {
+      "name": "Freie Wahrscheinlichkeitstheorie",
+      "code": "10155",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/freie-wahrscheinlichkeitstheorie/1550823"
+    },
+    {
+      "name": "Funktionalanalysis",
+      "code": "10345",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/funktionalanalysis/1550830"
+    },
+    {
+      "name": "Funktionelle Biochemie",
+      "code": "18016",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/funktionelle-biochemie/1550831"
+    },
+    {
+      "name": "Funktionentheorie",
+      "code": "10674",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/funktionentheorie/1550832"
+    },
+    {
+      "name": "Funktionentheorie II",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/funktionentheorie-ii/1552307"
+    },
+    {
+      "name": "Funktionsmorphologie der Tiere",
+      "code": "48013",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/funktionsmorphologie-der-tiere/1550834"
+    },
+    {
+      "name": "Funktionsprinzipien ausgewählter Festkörpermaterialien",
+      "code": "18510",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/funktionsprinzipien-ausgewahlter-festkorpermaterialien/1550835"
+    },
+    {
+      "name": "Game Theory",
+      "code": "172203",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/game-theory/1550837"
+    },
+    {
+      "name": "Geld und Währung",
+      "code": "70193",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/geld-und-wahrung/1550840"
+    },
+    {
+      "name": "Geldpolitik",
+      "code": "171611",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/geldpolitik/1550841"
+    },
+    {
+      "name": "Generative und vegetative Vermehrung von Gehölzen",
+      "code": "40266",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/generative-und-vegetative-vermehrung-von-geholzen/1550843"
+    },
+    {
+      "name": "Gentechnische Sicherheit",
+      "code": "47025",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/gentechnische-sicherheit/1550845"
+    },
+    {
+      "name": "Geografische Informationssysteme I",
+      "code": "27645",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/geografische-informationssysteme-i/1550849"
+    },
+    {
+      "name": "Geostatik und Numerik",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/geostatik-und-numerik/7579744"
+    },
+    {
+      "name": "German Studies",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/german-studies/5377616"
+    },
+    {
+      "name": "Geschichte der Gartenkultur",
+      "code": "420200",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/geschichte-der-gartenkultur/1550854"
+    },
+    {
+      "name": "Geschichte der Landschaftsarchitektur",
+      "code": "440500",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/geschichte-der-landschaftsarchitektur/1550855"
+    },
+    {
+      "name": "Geschichte der ökonomischen Theorie",
+      "code": "172235",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/geschichte-der-okonomischen-theorie/1550856"
+    },
+    {
+      "name": "Geschäftsprozessmanagement",
+      "code": "171426",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/geschaftsprozessmanagement/1550851"
+    },
+    {
+      "name": "Gesellschaftliche Funktion Sozialer Arbeit",
+      "code": "WiSe17/18",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/gesellschaftliche-funktion-sozialer-arbeit/5832588"
+    },
+    {
+      "name": "Gestaltung und Darstellung",
+      "code": "420310",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/gestaltung-und-darstellung/1550859"
+    },
+    {
+      "name": "Gestaltungstechnik I",
+      "code": "21102",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/gestaltungstechnik-i/1550860"
+    },
+    {
+      "name": "Gießereitechnik",
+      "code": "31573",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/giessereitechnik/1550863"
+    },
+    {
+      "name": "Globalisierung und Regionalisierung von Wissenschafts-, Technologie- und Innovationssystemen",
+      "code": "17651",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/globalisierung-und-regionalisierung-von-wissenschafts-technologie-und-innovationssystemen/1550873"
+    },
+    {
+      "name": "Großlebensräume der Erde",
+      "code": "47014",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/grosslebensraume-der-erde/1550877"
+    },
+    {
+      "name": "Grundbaukonstruktionen",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/grundbaukonstruktionen/3957812"
+    },
+    {
+      "name": "Grundkurs BGB I",
+      "code": "60001",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/grundkurs-bgb-i/1550878"
+    },
+    {
+      "name": "Grundkurs BGB II",
+      "code": "60002",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/grundkurs-bgb-ii/1550879"
+    },
+    {
+      "name": "Grundkurs BGB III",
+      "code": "60017",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/grundkurs-bgb-iii/1550880"
+    },
+    {
+      "name": "Grundkurs BGB IV",
+      "code": "60018",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/grundkurs-bgb-iv/1550881"
+    },
+    {
+      "name": "Grundlagen der Betriebswirtschaftslehre I",
+      "code": "76001",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/grundlagen-der-betriebswirtschaftslehre-i/1550885"
+    },
+    {
+      "name": "Grundlagen der BWL III",
+      "code": "76003",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/grundlagen-der-bwl-iii/1550888"
+    },
+    {
+      "name": "Grundlagen der BWL IV",
+      "code": "76004",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/grundlagen-der-bwl-iv/1550889"
+    },
+    {
+      "name": "Grundlagen der Chemie, Modul I",
+      "code": "14160",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/grundlagen-der-chemie-modul-i/1550890"
+    },
+    {
+      "name": "Grundlagen der elektrischen Energieversorgung",
+      "code": "35602",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/grundlagen-der-elektrischen-energieversorgung/1550892"
+    },
+    {
+      "name": "Grundlagen der elektrischen Energiewirtschaft",
+      "code": "35620",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/grundlagen-der-elektrischen-energiewirtschaft/1550893"
+    },
+    {
+      "name": "Grundlagen der elektrischen Messtechnik",
+      "code": "35558",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/grundlagen-der-elektrischen-messtechnik/1550894"
+    },
+    {
+      "name": "Grundlagen der elektromagnetischen Energiewandlung",
+      "code": "36250",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/grundlagen-der-elektromagnetischen-energiewandlung/1550895"
+    },
+    {
+      "name": "Grundlagen der Elektrotechnik I",
+      "code": "35501",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/grundlagen-der-elektrotechnik-i/1550897"
+    },
+    {
+      "name": "Grundlagen der Elektrotechnik II",
+      "code": "35546",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/grundlagen-der-elektrotechnik-ii/1550898"
+    },
+    {
+      "name": "Grundlagen der Elektrotechnik III",
+      "code": "35507",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/grundlagen-der-elektrotechnik-iii/1550899"
+    },
+    {
+      "name": "Grundlagen der Fachdidaktik I",
+      "code": "21044",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/grundlagen-der-fachdidaktik-i/1550902"
+    },
+    {
+      "name": "Grundlagen der Fahrzeugtechnik",
+      "code": "32225",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/grundlagen-der-fahrzeugtechnik/4366552"
+    },
+    {
+      "name": "Grundlagen der gärtnerischen Pflanzenproduktion",
+      "code": "41094",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/grundlagen-der-gartnerischen-pflanzenproduktion/1550903"
+    },
+    {
+      "name": "Grundlagen der Halbleiterbauelemente",
+      "code": "35210",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/grundlagen-der-halbleiterbauelemente/1550906"
+    },
+    {
+      "name": "Grundlagen der Kartographie",
+      "code": "17033",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/grundlagen-der-kartographie/1550908"
+    },
+    {
+      "name": "Grundlagen der Kultur-/Sozialgeographie",
+      "code": "17021",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/grundlagen-der-kultur-sozialgeographie/1550910"
+    },
+    {
+      "name": "Grundlagen der Materialwissenschaften",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/grundlagen-der-materialwissenschaften/3946510"
+    },
+    {
+      "name": "Grundlagen der medizinischen Informatik",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/grundlagen-der-medizinischen-informatik/6786658"
+    },
+    {
+      "name": "Grundlagen der molekularen Pflanzenzüchtung",
+      "code": "40604",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/grundlagen-der-molekularen-pflanzenzuchtung/1550913"
+    },
+    {
+      "name": "Grundlagen der Pflanzenbiotechnologie",
+      "code": "41904",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/grundlagen-der-pflanzenbiotechnologie/1550915"
+    },
+    {
+      "name": "Grundlagen der Rechnerarchitektur",
+      "code": "11410",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/grundlagen-der-rechnerarchitektur/1550917"
+    },
+    {
+      "name": "Grundlagen der Software-Technik",
+      "code": "11271",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/grundlagen-der-software-technik/1550919"
+    },
+    {
+      "name": "Grundlagen der Statistik",
+      "code": "17035",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/grundlagen-der-statistik/1550921"
+    },
+    {
+      "name": "Grundlagen der Theoretischen Informatik",
+      "code": "11551",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/grundlagen-der-theoretischen-informatik/1550922"
+    },
+    {
+      "name": "Grundlagen der Werkstofftechnik",
+      "code": "31710",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/grundlagen-der-werkstofftechnik/1550924"
+    },
+    {
+      "name": "Grundlagen der Wirtschaftsgeographie",
+      "code": "17020",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/grundlagen-der-wirtschaftsgeographie/1550925"
+    },
+    {
+      "name": "Grundlagen der Ökologie",
+      "code": "48105",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/grundlagen-der-okologie/1552418"
+    },
+    {
+      "name": "Grundlagen des IT-/IP-Rechts",
+      "code": "60401",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/grundlagen-des-it-ip-rechts/1550928"
+    },
+    {
+      "name": "Grundlagen des Konstruktiven Ingenieurbaus",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/grundlagen-des-konstruktiven-ingenieurbaus/6367834"
+    },
+    {
+      "name": "Grundlagen des wissenschaftlichen Arbeitens und Dokumentierens",
+      "code": "41605",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/grundlagen-des-wissenschaftlichen-arbeitens-und-dokumentierens/1550930"
+    },
+    {
+      "name": "Grundlagen digitaler Systeme",
+      "code": "11201",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/grundlagen-digitaler-systeme/1550931"
+    },
+    {
+      "name": "Grundlagen Geschichtsdidaktik",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/grundlagen-geschichtsdidaktik/6246416"
+    },
+    {
+      "name": "Grundlegende Dateien für mein Studium",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/grundlegende-dateien-fur-mein-studium/6329201"
+    },
+    {
+      "name": "Grundmodul Bioprozesstechnik",
+      "code": "15241",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/grundmodul-bioprozesstechnik/1550942"
+    },
+    {
+      "name": "Grundpraktikum Physik",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/grundpraktikum-physik/6643278"
+    },
+    {
+      "name": "Grundzüge der Chemie für Studierende des Maschinenbaus",
+      "code": "14008",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/grundzuge-der-chemie-fur-studierende-des-maschinenbaus/1550946"
+    },
+    {
+      "name": "Grundzüge der Informatik und Programmierung",
+      "code": "36456",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/grundzuge-der-informatik-und-programmierung/1550947"
+    },
+    {
+      "name": "Grundzüge der Konstruktionslehre",
+      "code": "31300",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/grundzuge-der-konstruktionslehre/1550948"
+    },
+    {
+      "name": "Gründungspraxis für Technologie-Start-ups",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/grundungspraxis-fur-technologie-start-ups/3963682"
+    },
+    {
+      "name": "Gymnastik und Tanz",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/gymnastik-und-tanz/7014729"
+    },
+    {
+      "name": "Halbleiterphysik",
+      "code": "13260",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/halbleiterphysik/1550952"
+    },
+    {
+      "name": "Halbleiterschaltungstechnik",
+      "code": "35158",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/halbleiterschaltungstechnik/1550954"
+    },
+    {
+      "name": "Handelsrechtlicher Einzelabschluss",
+      "code": "172700",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/handelsrechtlicher-einzelabschluss/1550960"
+    },
+    {
+      "name": "Handhabungs- und Montagetechnik",
+      "code": "32570",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/handhabungs-und-montagetechnik/1550962"
+    },
+    {
+      "name": "Handlungsmethoden Sozialer Arbeit",
+      "code": "SoSe17/18",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/handlungsmethoden-sozialer-arbeit/5832589"
+    },
+    {
+      "name": "Hochspannungs- und Hochleistungskabel",
+      "code": "35970",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/hochspannungs-und-hochleistungskabel/1550966"
+    },
+    {
+      "name": "Hochspannungsmesstechnik",
+      "code": "35968",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/hochspannungsmesstechnik/1550968"
+    },
+    {
+      "name": "Hochspannungstechnik I",
+      "code": "35800",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/hochspannungstechnik-i/1550970"
+    },
+    {
+      "name": "Hockey",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/hockey/7674802"
+    },
+    {
+      "name": "Höhere Festigkeitslehre",
+      "code": "203849",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/hohere-festigkeitslehre/7197334"
+    },
+    {
+      "name": "Im Job unterwegs",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/im-job-unterwegs/6732627"
+    },
+    {
+      "name": "Immobilienmanagement III",
+      "code": "28830",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/immobilienmanagement-iii/1550977"
+    },
+    {
+      "name": "Implantologie",
+      "code": "20800",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/implantologie/5195485"
+    },
+    {
+      "name": "Industrie 4.0 für Ingenieure",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/industrie-40-fur-ingenieure/6357816"
+    },
+    {
+      "name": "Industrielle Bildverarbeitung",
+      "code": "32870",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/industrielle-bildverarbeitung/1550979"
+    },
+    {
+      "name": "Industrielle Elektrowärme",
+      "code": "35714",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/industrielle-elektrowarme/1550980"
+    },
+    {
+      "name": "Industrielle Mess- und Qualitätstechnik",
+      "code": "21210",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/industrielle-mess-und-qualitatstechnik/5276976"
+    },
+    {
+      "name": "Industrielle Produktionsprozesse",
+      "code": "171105",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/industrielle-produktionsprozesse/1550857"
+    },
+    {
+      "name": "Industrielle Produktionssysteme",
+      "code": "171103",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/industrielle-produktionssysteme/1550858"
+    },
+    {
+      "name": "Industrielle Steuerungstechnik und Echtzeitsysteme",
+      "code": "11470",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/industrielle-steuerungstechnik-und-echtzeitsysteme/1550982"
+    },
+    {
+      "name": "Industrieroboter für die Montagetechnik",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/industrieroboter-fur-die-montagetechnik/3492741"
+    },
+    {
+      "name": "Inertialnavigation",
+      "code": "28511",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/inertialnavigation/4956474"
+    },
+    {
+      "name": "Informationsmanagement",
+      "code": "70163",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/informationsmanagement/1550986"
+    },
+    {
+      "name": "Informationstechnik",
+      "code": "30338",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/informationstechnik/1550987"
+    },
+    {
+      "name": "Informationstechnisches Praktikum-Repetitorium",
+      "code": "32230",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/informationstechnisches-praktikum-repetitorium/1550988"
+    },
+    {
+      "name": "Informationsverarbeitung in Dienstleistungsbetrieben",
+      "code": "171445",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/informationsverarbeitung-in-dienstleistungsbetrieben/1550989"
+    },
+    {
+      "name": "Ingenieurgeodäsie I",
+      "code": "28028",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/ingenieurgeodasie-i/1550992"
+    },
+    {
+      "name": "Ingenieurgeologie I",
+      "code": "16124",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/ingenieurgeologie-i/1550993"
+    },
+    {
+      "name": "Inklusion",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/inklusion/7572498"
+    },
+    {
+      "name": "Innovationsmanagement",
+      "code": "171213",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/innovationsmanagement/1550994"
+    },
+    {
+      "name": "Innovatives Bauen mit Beton",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/innovatives-bauen-mit-beton/7205231"
+    },
+    {
+      "name": "Instrumentelle Methoden I",
+      "code": "18505",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/instrumentelle-methoden-i/1550996"
+    },
+    {
+      "name": "Instrumentelle Methoden II",
+      "code": "18503",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/instrumentelle-methoden-ii/1550997"
+    },
+    {
+      "name": "Instrumentelle Methoden III",
+      "code": "14896",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/instrumentelle-methoden-iii/1550998"
+    },
+    {
+      "name": "Internationale Beziehungen, Wertegesellschaft, Europäische Integration",
+      "code": "BM5",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/internationale-beziehungen-wertegesellschaft-europaische-integration/2313231"
+    },
+    {
+      "name": "Internationale Finanzmärkte",
+      "code": "272016 / 171634",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/internationale-finanzmarkte/4390579"
+    },
+    {
+      "name": "Interne Unternehmensrechnung",
+      "code": "70177",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/interne-unternehmensrechnung/1551012"
+    },
+    {
+      "name": "Intralogistik",
+      "code": "30340",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/intralogistik/1551013"
+    },
+    {
+      "name": "Introduction to EU Law",
+      "code": "60713",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/introduction-to-eu-law/1551016"
+    },
+    {
+      "name": "Introduction to Linguistics",
+      "code": "0000",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/introduction-to-linguistics/1642673"
+    },
+    {
+      "name": "Investition und Finanzierung",
+      "code": "70172",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/investition-und-finanzierung/1551019"
+    },
+    {
+      "name": "Isolierstoffe der Elektrotechnik",
+      "code": "35958",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/isolierstoffe-der-elektrotechnik/1551022"
+    },
+    {
+      "name": "IT-Prozessrecht und Verfahrensführung",
+      "code": "61012",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/it-prozessrecht-und-verfahrensfuhrung/1551024"
+    },
+    {
+      "name": "Jahresabschluss",
+      "code": "70173",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/jahresabschluss/1551026"
+    },
+    {
+      "name": "Japanisch A1.1",
+      "code": "907502",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/japanisch-a11/6744419"
+    },
+    {
+      "name": "Juristische Methodenlehre",
+      "code": "60026",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/juristische-methodenlehre/1551031"
+    },
+    {
+      "name": "K3 Flächen",
+      "code": "10170",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/k3-flachen/1551032"
+    },
+    {
+      "name": "Kanalcodierung",
+      "code": "36466",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/kanalcodierung/1551034"
+    },
+    {
+      "name": "Kapitalgesellschaftsrecht I",
+      "code": "61203",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/kapitalgesellschaftsrecht-i/1551036"
+    },
+    {
+      "name": "Kapitalmarkttheorie",
+      "code": "170565 / 171665",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/kapitalmarkttheorie/1551040"
+    },
+    {
+      "name": "Katalyse (Wahlmodul)",
+      "code": "14900",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/katalyse-wahlmodul/1551041"
+    },
+    {
+      "name": "Kerntechnische Anlagen",
+      "code": "30024",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/kerntechnische-anlagen/1551046"
+    },
+    {
+      "name": "KGHP 2 - Konstruktion Gestaltung und Herstellung von Produkten 2",
+      "code": "32075",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/kghp-2-konstruktion-gestaltung-und-herstellung-von-produkten-2/1551047"
+    },
+    {
+      "name": "Kinder- und Jugendpsychiatrie",
+      "code": "KJP1819",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/kinder-und-jugendpsychiatrie/4348704"
+    },
+    {
+      "name": "Kinematik und Dynamik",
+      "code": "44100",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/kinematik-und-dynamik/1551050"
+    },
+    {
+      "name": "Klassische Studien der Politischen Soziologie",
+      "code": "BM2",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/klassische-studien-der-politischen-soziologie/6705327"
+    },
+    {
+      "name": "Klassische Studien der Politischen Soziologie und Einführung in die Politische Soziologie",
+      "code": "BM1/BM2",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/klassische-studien-der-politischen-soziologie-und-einfuhrung-in-die-politische-soziologie/6705330"
+    },
+    {
+      "name": "Klausurfragen Kirchengeschichte",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/klausurfragen-kirchengeschichte/3727126"
+    },
+    {
+      "name": "Klimatologie",
+      "code": "44903",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/klimatologie/1551054"
+    },
+    {
+      "name": "Klinische Psychologie",
+      "code": "WiSe19/20",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/klinische-psychologie/5832608"
+    },
+    {
+      "name": "Kohärente Optik",
+      "code": "12516",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/koharente-optik/1551056"
+    },
+    {
+      "name": "Kombinatorik",
+      "code": "10728",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/kombinatorik/1551059"
+    },
+    {
+      "name": "Kommunalrecht",
+      "code": "60216",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/kommunalrecht/1551061"
+    },
+    {
+      "name": "Kommunikations Kompetenzen",
+      "code": "48109",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/kommunikations-kompetenzen/1552419"
+    },
+    {
+      "name": "Komplexität von Algorithmen",
+      "code": "11550",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/komplexitat-von-algorithmen/1551063"
+    },
+    {
+      "name": "Konstruktion für Additive Fertigung",
+      "code": "0000000",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/konstruktion-fur-additive-fertigung/4819925"
+    },
+    {
+      "name": "Konstruktion, Gestaltung und Herstellung von Produkten IV",
+      "code": "31155",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/konstruktion-gestaltung-und-herstellung-von-produkten-iv/1551067"
+    },
+    {
+      "name": "Konstruktionslehre",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/konstruktionslehre/1734498"
+    },
+    {
+      "name": "konstruktionslehre III/Iv",
+      "code": "KLIII3",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/konstruktionslehre-iiiiv/5974238"
+    },
+    {
+      "name": "Konstruktionswerkstoffe",
+      "code": "31555",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/konstruktionswerkstoffe/1551069"
+    },
+    {
+      "name": "Kosten- und Leistungsrechnung",
+      "code": "70101",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/kosten-und-leistungsrechnung/1551074"
+    },
+    {
+      "name": "Kraftwerkstechnik I",
+      "code": "300529",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/kraftwerkstechnik-i/6025099"
+    },
+    {
+      "name": "Kriminalistik",
+      "code": "61415",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/kriminalistik/1551077"
+    },
+    {
+      "name": "Kristalline Gesteine",
+      "code": "16007",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/kristalline-gesteine/1551080"
+    },
+    {
+      "name": "Kristallphysik und spektroskopische Mineralanalyse",
+      "code": "16668",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/kristallphysik-und-spektroskopische-mineralanalyse/1551081"
+    },
+    {
+      "name": "Kryo- und Biokältetechnik",
+      "code": "30682",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/kryo-und-biokaltetechnik/1551082"
+    },
+    {
+      "name": "Kryptographie",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/kryptographie/3268195"
+    },
+    {
+      "name": "Kälte- und Klimatechnik",
+      "code": "30680",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/kalte-und-klimatechnik/1551033"
+    },
+    {
+      "name": "Kälteanlagen und Wärmepumpe",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/kalteanlagen-und-warmepumpe/7418053"
+    },
+    {
+      "name": "Künstlerisches Gestalten",
+      "code": "WiSe 2021/22",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/kunstlerisches-gestalten/5822058"
+    },
+    {
+      "name": "Künstliche Intelligenz",
+      "code": "11716",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/kunstliche-intelligenz/1551084"
+    },
+    {
+      "name": "Künstliche Intelligenz II",
+      "code": "1761",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/kunstliche-intelligenz-ii/4974594"
+    },
+    {
+      "name": "Landschaftsgenese",
+      "code": "17006",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/landschaftsgenese/1551091"
+    },
+    {
+      "name": "Landschaftsstruktur",
+      "code": "17011",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/landschaftsstruktur/1551094"
+    },
+    {
+      "name": "Language Practice",
+      "code": "SP2",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/language-practice/6686626"
+    },
+    {
+      "name": "Laser in der Biomedizintechnik",
+      "code": "31569",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/laser-in-der-biomedizintechnik/1551095"
+    },
+    {
+      "name": "Laserbasierte Additive Fertigung",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/laserbasierte-additive-fertigung/6794622"
+    },
+    {
+      "name": "Lasermesstechnik",
+      "code": "33010",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/lasermesstechnik/1551097"
+    },
+    {
+      "name": "Laserspektroskopie in Life Science",
+      "code": "13501",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/laserspektroskopie-in-life-science/4821546"
+    },
+    {
+      "name": "Latein",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/latein/4353057"
+    },
+    {
+      "name": "Law of international security",
+      "code": "60930",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/law-of-international-security/7426374"
+    },
+    {
+      "name": "Lean Production",
+      "code": "32576",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/lean-production/1551101"
+    },
+    {
+      "name": "Lebensmittelchemie II",
+      "code": "15160",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/lebensmittelchemie-ii/1551102"
+    },
+    {
+      "name": "Lebensmittelhygiene",
+      "code": "18013",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/lebensmittelhygiene/1551103"
+    },
+    {
+      "name": "Leistungselektronik I",
+      "code": "35101",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/leistungselektronik-i/1551106"
+    },
+    {
+      "name": "Leistungselektronik II",
+      "code": "36544",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/leistungselektronik-ii/1551107"
+    },
+    {
+      "name": "Lie-Algebren und ihre Darstellungen in der Physik",
+      "code": "12028",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/lie-algebren-und-ihre-darstellungen-in-der-physik/1551109"
+    },
+    {
+      "name": "Lineare Algebra A",
+      "code": "10060",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/lineare-algebra-a/1551110"
+    },
+    {
+      "name": "Lineare Algebra B",
+      "code": "10652",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/lineare-algebra-b/1551111"
+    },
+    {
+      "name": "Lineare Algebra I",
+      "code": "10104",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/lineare-algebra-i/1551112"
+    },
+    {
+      "name": "Lineare Algebra II",
+      "code": "10672",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/lineare-algebra-ii/1551113"
+    },
+    {
+      "name": "Logik und formale Systeme",
+      "code": "11566",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/logik-und-formale-systeme/1551114"
+    },
+    {
+      "name": "Logischer Entwurf digitaler Systeme",
+      "code": "36808",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/logischer-entwurf-digitaler-systeme/1551116"
+    },
+    {
+      "name": "Logistik",
+      "code": "171111",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/logistik/1551117"
+    },
+    {
+      "name": "Logistik im Automobilbau",
+      "code": "32630",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/logistik-im-automobilbau/1551118"
+    },
+    {
+      "name": "Logistische Modelle der Lieferkette",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/logistische-modelle-der-lieferkette/6608939"
+    },
+    {
+      "name": "M-Kurs Studienkolleg",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/m-kurs-studienkolleg/6667550"
+    },
+    {
+      "name": "Machine Learning",
+      "code": "11793",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/machine-learning/1551123"
+    },
+    {
+      "name": "Magnetofluiddynamik",
+      "code": "35661",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/magnetofluiddynamik/1551124"
+    },
+    {
+      "name": "Makroökonomische Theorie",
+      "code": "77003",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/makrookonomische-theorie/1551125"
+    },
+    {
+      "name": "Makroökonomische Theorie I",
+      "code": "173220",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/makrookonomische-theorie-i/1551126"
+    },
+    {
+      "name": "Management von Entwicklungsprojekten",
+      "code": "MoEP22",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/management-von-entwicklungsprojekten/5957707"
+    },
+    {
+      "name": "Marken- und patentrechtliche Bezüge des IT-Rechts",
+      "code": "61014",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/marken-und-patentrechtliche-bezuge-des-it-rechts/1551132"
+    },
+    {
+      "name": "Marketing",
+      "code": "70162",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/marketing/1551133"
+    },
+    {
+      "name": "Maschinelles Lernen",
+      "code": "36478",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/maschinelles-lernen/5313288"
+    },
+    {
+      "name": "Maschinendynamik",
+      "code": "33370",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/maschinendynamik/1551136"
+    },
+    {
+      "name": "Massivbau- Brückentragwerk",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/massivbau-bruckentragwerk/6765385"
+    },
+    {
+      "name": "Masterlabor",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/masterlabor/2271040"
+    },
+    {
+      "name": "Materialprüfung",
+      "code": "31567",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/materialprufung/1551140"
+    },
+    {
+      "name": "Mathe/Physik I für Lebensmittelwissenschaften",
+      "code": "18027",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/mathephysik-i-fur-lebensmittelwissenschaften/1551142"
+    },
+    {
+      "name": "Mathe/Physik II für Lebensmittelwissenschaften",
+      "code": "18040",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/mathephysik-ii-fur-lebensmittelwissenschaften/1551143"
+    },
+    {
+      "name": "Mathematik 1",
+      "code": "10075 / 70102",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/mathematik-1/1551144"
+    },
+    {
+      "name": "Mathematik 2",
+      "code": "70103",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/mathematik-2/1551145"
+    },
+    {
+      "name": "Mathematik für Biowissenschaften",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/mathematik-fur-biowissenschaften/6909890"
+    },
+    {
+      "name": "Mathematik für die Ingenieurwissenschaften II",
+      "code": "10056",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/mathematik-fur-die-ingenieurwissenschaften-ii/5870552"
+    },
+    {
+      "name": "Mathematik für Ingenieure I",
+      "code": "10057",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/mathematik-fur-ingenieure-i/1551149"
+    },
+    {
+      "name": "Mathematik für Ingenieure II",
+      "code": "70108",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/mathematik-fur-ingenieure-ii/1551146"
+    },
+    {
+      "name": "Mathematik für Ingenieure III",
+      "code": "10078",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/mathematik-fur-ingenieure-iii/1551153"
+    },
+    {
+      "name": "Mathematik für Physiker I",
+      "code": "10073",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/mathematik-fur-physiker-i/1551147"
+    },
+    {
+      "name": "Mathematik IV für Ingenieure",
+      "code": "Sose 2015",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/mathematik-iv-fur-ingenieure/5931510"
+    },
+    {
+      "name": "Mathematische Geodäsie",
+      "code": "28402",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/mathematische-geodasie/1551154"
+    },
+    {
+      "name": "Mathematische Methoden der Physik",
+      "code": "12054",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/mathematische-methoden-der-physik/1551155"
+    },
+    {
+      "name": "Mathematische Stochastik I",
+      "code": "10686",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/mathematische-stochastik-i/1551159"
+    },
+    {
+      "name": "Mathematische Stochastik II",
+      "code": "10150",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/mathematische-stochastik-ii/1551160"
+    },
+    {
+      "name": "Mechanik und Relativität",
+      "code": "12050",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/mechanik-und-relativitat/1551162"
+    },
+    {
+      "name": "Mechatronische Systeme",
+      "code": "33594",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/mechatronische-systeme/1551163"
+    },
+    {
+      "name": "Medizinische Verfahrenstechnik",
+      "code": "31080",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/medizinische-verfahrenstechnik/1551168"
+    },
+    {
+      "name": "Medizinische Verfahrenstechnik",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/medizinische-verfahrenstechnik/7018981"
+    },
+    {
+      "name": "Medizinprodukte",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/medizinprodukte/6387513"
+    },
+    {
+      "name": "Mehrkörpersysteme",
+      "code": "33345",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/mehrkorpersysteme/1551170"
+    },
+    {
+      "name": "Mehrphasenströmungen I",
+      "code": "31075",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/mehrphasenstromungen-i/1551171"
+    },
+    {
+      "name": "Membranen in der Medizintechnik",
+      "code": "27200",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/membranen-in-der-medizintechnik/5195498"
+    },
+    {
+      "name": "Mensch-Computer-Interaktion 2 (HCI 2)",
+      "code": "11232",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/mensch-computer-interaktion-2-hci-2/1551173"
+    },
+    {
+      "name": "Messen mechanischer Größen",
+      "code": "32950",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/messen-mechanischer-grossen/1551175"
+    },
+    {
+      "name": "Messtechnik",
+      "code": "13503",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/messtechnik/1551176"
+    },
+    {
+      "name": "Messtechnik I",
+      "code": "32975",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/messtechnik-i/1551177"
+    },
+    {
+      "name": "Messtechnik II",
+      "code": "32860",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/messtechnik-ii/1551178"
+    },
+    {
+      "name": "Messverfahren für Signale und Systeme",
+      "code": "35566",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/messverfahren-fur-signale-und-systeme/1551180"
+    },
+    {
+      "name": "Metallorganische Chemie",
+      "code": "15051",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/metallorganische-chemie/1551182"
+    },
+    {
+      "name": "Methoden der empirischen Sozialforschung",
+      "code": "ME",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/methoden-der-empirischen-sozialforschung/2313232"
+    },
+    {
+      "name": "Methoden der Politikwissenschaft",
+      "code": "Basismodul ME",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/methoden-der-politikwissenschaft/4357938"
+    },
+    {
+      "name": "Methoden zur Qualitätssicherung für Produkte aus Elastomeren",
+      "code": "32385",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/methoden-zur-qualitatssicherung-fur-produkte-aus-elastomeren/1551187"
+    },
+    {
+      "name": "MG-8 Geodynamik sedimentärer Becken",
+      "code": "16182",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/mg-8-geodynamik-sedimentarer-becken/1551193"
+    },
+    {
+      "name": "Micro, Macro and Trade Models",
+      "code": "173810",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/micro-macro-and-trade-models/1551194"
+    },
+    {
+      "name": "Microbial Chemistry - Secondary metabolites, their biogenesis and engineering",
+      "code": "49400",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/microbial-chemistry-secondary-metabolites-their-biogenesis-and-engineering/5195639"
+    },
+    {
+      "name": "Mikro- und Nanosysteme",
+      "code": "31515",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/mikro-und-nanosysteme/1551196"
+    },
+    {
+      "name": "Mikro- und Nanotechnik in der Biomedizin",
+      "code": "31455",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/mikro-und-nanotechnik-in-der-biomedizin/1551197"
+    },
+    {
+      "name": "Mikro- und Nanotechnologie",
+      "code": "31457",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/mikro-und-nanotechnologie/1551198"
+    },
+    {
+      "name": "Mikrobiologie I",
+      "code": "14139",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/mikrobiologie-i/1551200"
+    },
+    {
+      "name": "Mikrobiologie II",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/mikrobiologie-ii/1552462"
+    },
+    {
+      "name": "Mikrokunststofffertigung der Implantaten",
+      "code": "28200",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/mikrokunststofffertigung-der-implantaten/4448539"
+    },
+    {
+      "name": "Mikroökonomische Theorie I",
+      "code": "173200 / 174010",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/mikrookonomische-theorie-i/1551202"
+    },
+    {
+      "name": "Mobile Business",
+      "code": "171443",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/mobile-business/1551215"
+    },
+    {
+      "name": "Moderner Automobilkarosseriebau",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/moderner-automobilkarosseriebau/2271046"
+    },
+    {
+      "name": "Modul Konstruktives Projekt III",
+      "code": "31157",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/modul-konstruktives-projekt-iii/7430185"
+    },
+    {
+      "name": "Modulationsverfahren",
+      "code": "36622",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/modulationsverfahren/1551228"
+    },
+    {
+      "name": "Molekularbiologische Methoden",
+      "code": "41003",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/molekularbiologische-methoden/1551233"
+    },
+    {
+      "name": "Molekulare Biochemie und Methoden",
+      "code": "47375",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/molekulare-biochemie-und-methoden/1551235"
+    },
+    {
+      "name": "Molekulare Diagnose von Schaderregern",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/molekulare-diagnose-von-schaderregern/6734446"
+    },
+    {
+      "name": "Molekulare Medizin - vom Symptom zur Diagnose",
+      "code": "47030",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/molekulare-medizin-vom-symptom-zur-diagnose/1551239"
+    },
+    {
+      "name": "Molekulare Mikrobiologie",
+      "code": "49112",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/molekulare-mikrobiologie/1551241"
+    },
+    {
+      "name": "Molekulare Zellkommunikation",
+      "code": "41407",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/molekulare-zellkommunikation/1551245"
+    },
+    {
+      "name": "MOS-Transistoren und Speicher",
+      "code": "35224",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/mos-transistoren-und-speicher/1551249"
+    },
+    {
+      "name": "Multivariate Statistics",
+      "code": "172405",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/multivariate-statistics/5443549"
+    },
+    {
+      "name": "Multivariate Verfahren",
+      "code": "172405",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/multivariate-verfahren/1551250"
+    },
+    {
+      "name": "Muskuloskelettale Biomechanik und Implantattechnologie",
+      "code": "32205",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/muskuloskelettale-biomechanik-und-implantattechnologie/1551251"
+    },
+    {
+      "name": "Mustererkennung",
+      "code": "36433",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/mustererkennung/1551252"
+    },
+    {
+      "name": "Nachhaltigkeit in der Produktion",
+      "code": "29300",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/nachhaltigkeit-in-der-produktion/4744561"
+    },
+    {
+      "name": "Nanotechnologie",
+      "code": "12128",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/nanotechnologie/1551258"
+    },
+    {
+      "name": "Naturschutz und Landschaftsplanung",
+      "code": "421000",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/naturschutz-und-landschaftsplanung/1551260"
+    },
+    {
+      "name": "Neurobiochemie",
+      "code": "18533",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/neurobiochemie/1551269"
+    },
+    {
+      "name": "Neuroökonomisches Marketingmanagement und Konsumentenverhalten",
+      "code": "170822",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/neurookonomisches-marketingmanagement-und-konsumentenverhalten/1551271"
+    },
+    {
+      "name": "Nichtlineare Schwingungen",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/nichtlineare-schwingungen/2271030"
+    },
+    {
+      "name": "Nichtlineare Strukturdynamik",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/nichtlineare-strukturdynamik/3958626"
+    },
+    {
+      "name": "Non Profit und Public Management I: Management in Non Profit Organisationen",
+      "code": "172609",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/non-profit-und-public-management-i-management-in-non-profit-organisationen/1551278"
+    },
+    {
+      "name": "Nonlinear Control",
+      "code": "33419",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/nonlinear-control/5188697"
+    },
+    {
+      "name": "Numerik A",
+      "code": "10068",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/numerik-a/1551282"
+    },
+    {
+      "name": "Numerik I",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/numerik-i/3268221"
+    },
+    {
+      "name": "Numerische Mathematik für Bauingenieure",
+      "code": "25701",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/numerische-mathematik-fur-bauingenieure/1551285"
+    },
+    {
+      "name": "Numerische Mathematik für Ingenieure",
+      "code": "Numa17/18",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/numerische-mathematik-fur-ingenieure/5196069"
+    },
+    {
+      "name": "Numerische Mathematik I",
+      "code": "10140",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/numerische-mathematik-i/1551286"
+    },
+    {
+      "name": "Numerische Mathematik II",
+      "code": "10688",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/numerische-mathematik-ii/1551287"
+    },
+    {
+      "name": "Numerische Strömungsmechanik",
+      "code": "30135",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/numerische-stromungsmechanik/1551290"
+    },
+    {
+      "name": "Nutzung solarer Energie II",
+      "code": "35722",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/nutzung-solarer-energie-ii/1551292"
+    },
+    {
+      "name": "Nutzung von Solarenergie I",
+      "code": "35667",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/nutzung-von-solarenergie-i/1551293"
+    },
+    {
+      "name": "Oberflächentechnik",
+      "code": "-",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/oberflachentechnik/4740754"
+    },
+    {
+      "name": "Operations Management",
+      "code": "70161",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/operations-management/1551308"
+    },
+    {
+      "name": "Operations Research",
+      "code": "70141/171154/171454",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/operations-research/1551309"
+    },
+    {
+      "name": "Optik, Atomphysik und Quantenphänomene",
+      "code": "12454",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/optik-atomphysik-und-quantenphanomene/1551314"
+    },
+    {
+      "name": "Optische Analytik",
+      "code": "31575",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/optische-analytik/1551317"
+    },
+    {
+      "name": "Organisationssoziologie",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/organisationssoziologie/3312664"
+    },
+    {
+      "name": "Organische Chemie für Biowissenschaften",
+      "code": "1000",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/organische-chemie-fur-biowissenschaften/1737365"
+    },
+    {
+      "name": "Organische Chemie für das Lehramt an Gymnasien",
+      "code": "15046",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/organische-chemie-fur-das-lehramt-an-gymnasien/1551321"
+    },
+    {
+      "name": "Organische Chemie I",
+      "code": "14040a",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/organische-chemie-i/1551322"
+    },
+    {
+      "name": "Organische Chemie II",
+      "code": "15040",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/organische-chemie-ii/1551323"
+    },
+    {
+      "name": "Organische Chemie III",
+      "code": "14042",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/organische-chemie-iii/1551324"
+    },
+    {
+      "name": "Organische Chemie Übung",
+      "code": "15161o",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/organische-chemie-ubung/6279136"
+    },
+    {
+      "name": "Orthopädische Biomechanik und Implantattechnologie - Teil 1",
+      "code": "32205",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/orthopadische-biomechanik-und-implantattechnologie-teil-1/5212835"
+    },
+    {
+      "name": "Öffentliches Dienstrecht",
+      "code": "61604",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/offentliches-dienstrecht/1551297"
+    },
+    {
+      "name": "Öffentliches Recht für Studierende der Wirtschaftswissenschaft",
+      "code": "70118",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/offentliches-recht-fur-studierende-der-wirtschaftswissenschaft/1551299"
+    },
+    {
+      "name": "Ökonomie für Biosysteme, Teil 2",
+      "code": "76409",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/okonomie-fur-biosysteme-teil-2/1551303"
+    },
+    {
+      "name": "Ökosysteme",
+      "code": "49159",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/okosysteme/1551305"
+    },
+    {
+      "name": "Personalwirtschaft (Bachelor)",
+      "code": "70175",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/personalwirtschaft-bachelor/1551329"
+    },
+    {
+      "name": "Personalwirtschaftslehre I",
+      "code": "171051/172651",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/personalwirtschaftslehre-i/1551330"
+    },
+    {
+      "name": "Pflanzenbiochemie",
+      "code": "48884",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/pflanzenbiochemie/1551333"
+    },
+    {
+      "name": "Pflanzenernährung/Bodenkunde",
+      "code": "44033",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/pflanzenernahrungbodenkunde/4478790"
+    },
+    {
+      "name": "Pflanzenphysiologie",
+      "code": "41060",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/pflanzenphysiologie/1551335"
+    },
+    {
+      "name": "Philosophisches Arbeiten",
+      "code": "2700",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/philosophisches-arbeiten/7217584"
+    },
+    {
+      "name": "Photogrammetric Computer Vision",
+      "code": "28225",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/photogrammetric-computer-vision/1551339"
+    },
+    {
+      "name": "Physik der 2D Materialien",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/physik-der-2d-materialien/7436797"
+    },
+    {
+      "name": "Physik für Biologen",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/physik-fur-biologen/1552531"
+    },
+    {
+      "name": "Physik für Elektroingenieure",
+      "code": "35200",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/physik-fur-elektroingenieure/1551345"
+    },
+    {
+      "name": "Physik für Life Science",
+      "code": "14335",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/physik-fur-life-science/1551346"
+    },
+    {
+      "name": "Physik für Studierende der Ingenieurwissenschaften",
+      "code": "13005",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/physik-fur-studierende-der-ingenieurwissenschaften/1551347"
+    },
+    {
+      "name": "Physik Maschinenbauer",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/physik-maschinenbauer/3260618"
+    },
+    {
+      "name": "Physikalische Chemie I",
+      "code": "14089",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/physikalische-chemie-i/1551349"
+    },
+    {
+      "name": "Physikalische Chemie II",
+      "code": "14082",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/physikalische-chemie-ii/1551350"
+    },
+    {
+      "name": "Physikalische Chemie III",
+      "code": "14083",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/physikalische-chemie-iii/1551351"
+    },
+    {
+      "name": "Physikalische Chemie von Festkörpern und Nanosystemen",
+      "code": "14090",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/physikalische-chemie-von-festkorpern-und-nanosystemen/1551352"
+    },
+    {
+      "name": "Physiologie und Biochemie der Ernährung",
+      "code": "18003",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/physiologie-und-biochemie-der-ernahrung/1551359"
+    },
+    {
+      "name": "Physiologische Aspekte der Zierpflanzenproduktion",
+      "code": "40403",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/physiologische-aspekte-der-zierpflanzenproduktion/1551360"
+    },
+    {
+      "name": "Phytomedizin/Ätiologie",
+      "code": "41400",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/phytomedizinatiologie/4497255"
+    },
+    {
+      "name": "Planning and Evaluation of Development Projects",
+      "code": "172803",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/planning-and-evaluation-of-development-projects/1551362"
+    },
+    {
+      "name": "Planung und Entwicklung mechatronischer Systeme",
+      "code": "32012",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/planung-und-entwicklung-mechatronischer-systeme/1551364"
+    },
+    {
+      "name": "Pneumatik",
+      "code": "30273",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/pneumatik/1551369"
+    },
+    {
+      "name": "Politikfelder und Politische Verwaltung",
+      "code": "BM4",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/politikfelder-und-politische-verwaltung/2313228"
+    },
+    {
+      "name": "Politische Ideengeschichte und Theorien der Politik",
+      "code": "BM1",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/politische-ideengeschichte-und-theorien-der-politik/2313225"
+    },
+    {
+      "name": "Politische Soziologie und politische Sozialstrukturanalyse",
+      "code": "BM2",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/politische-soziologie-und-politische-sozialstrukturanalyse/2313226"
+    },
+    {
+      "name": "Politische Systeme und Regierungslehre",
+      "code": "BM3",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/politische-systeme-und-regierungslehre/2313227"
+    },
+    {
+      "name": "Politische Wissenschaft",
+      "code": "0000",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/politische-wissenschaft/1642674"
+    },
+    {
+      "name": "Power Plant Engineering",
+      "code": "50610",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/power-plant-engineering/4804649"
+    },
+    {
+      "name": "Praktische Philosophie",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/praktische-philosophie/6443324"
+    },
+    {
+      "name": "Praxis des Handels- und Wettbewerbsrechts",
+      "code": "60919",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/praxis-des-handels-und-wettbewerbsrechts/1551376"
+    },
+    {
+      "name": "Praxisbezogene Themen aus der Kraftwerkstechnik",
+      "code": "30020",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/praxisbezogene-themen-aus-der-kraftwerkstechnik/1551377"
+    },
+    {
+      "name": "Principles of systems modelling",
+      "code": "40030",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/principles-of-systems-modelling/1551378"
+    },
+    {
+      "name": "Privatrecht",
+      "code": "170128",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/privatrecht/2271017"
+    },
+    {
+      "name": "Produktentwicklung 1",
+      "code": "PE1",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/produktentwicklung-1/7399061"
+    },
+    {
+      "name": "Produktentwicklung III",
+      "code": "31310",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/produktentwicklung-iii/1551383"
+    },
+    {
+      "name": "Produktentwicklung in der pharmazeutischen chemischen Industrie I",
+      "code": "15065",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/produktentwicklung-in-der-pharmazeutischen-chemischen-industrie-i/1551384"
+    },
+    {
+      "name": "Produktion optoelektronischer Systeme",
+      "code": "30270",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/produktion-optoelektronischer-systeme/1551385"
+    },
+    {
+      "name": "Produktionsmanagement",
+      "code": "32410",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/produktionsmanagement/1551386"
+    },
+    {
+      "name": "Produktionsmesstechnik",
+      "code": "32990",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/produktionsmesstechnik/1551387"
+    },
+    {
+      "name": "Produkttechnologie pflanzlicher Lebensmittel",
+      "code": "18015",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/produkttechnologie-pflanzlicher-lebensmittel/1551388"
+    },
+    {
+      "name": "Produkttechnologie tierischer Lebensmittel I",
+      "code": "18029",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/produkttechnologie-tierischer-lebensmittel-i/1551389"
+    },
+    {
+      "name": "Prognoseverfahren",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/prognoseverfahren/1552351"
+    },
+    {
+      "name": "Programmieren I",
+      "code": "11061",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/programmieren-i/1551391"
+    },
+    {
+      "name": "Programmiersprachen und Übersetzer",
+      "code": "11210",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/programmiersprachen-und-ubersetzer/1551393"
+    },
+    {
+      "name": "Projekt und Vertragsmanagement",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/projekt-und-vertragsmanagement/6267577"
+    },
+    {
+      "name": "Projektierung einer Biogasanlage",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/projektierung-einer-biogasanlage/7664854"
+    },
+    {
+      "name": "Proteinchemie der Pflanzen",
+      "code": "49106",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/proteinchemie-der-pflanzen/1551397"
+    },
+    {
+      "name": "Prozesskette im Automobilbau",
+      "code": "31850",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/prozesskette-im-automobilbau/1551399"
+    },
+    {
+      "name": "präzisionsmontage",
+      "code": "kkk1",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/prazisionsmontage/4515742"
+    },
+    {
+      "name": "Prüfung von Produkten aus Elastomeren",
+      "code": "32380",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/prufung-von-produkten-aus-elastomeren/1551402"
+    },
+    {
+      "name": "Pädagogische Psychologie",
+      "code": "Psy 01",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/padagogische-psychologie/4802619"
+    },
+    {
+      "name": "Qualitative and Quantitative Management Methods",
+      "code": "173520",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/qualitative-and-quantitative-management-methods/1551405"
+    },
+    {
+      "name": "Qualität pflanzlicher Erzeugnisse",
+      "code": "41216",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/qualitat-pflanzlicher-erzeugnisse/7247289"
+    },
+    {
+      "name": "Qualitätsmanagement",
+      "code": "32140",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/qualitatsmanagement/1551407"
+    },
+    {
+      "name": "Quantenstrukturbauelemente",
+      "code": "QSB1",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/quantenstrukturbauelemente/4821675"
+    },
+    {
+      "name": "Quartärgeologie",
+      "code": "16098",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/quartargeologie/1551414"
+    },
+    {
+      "name": "Realisierungsmanagement",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/realisierungsmanagement/7726028"
+    },
+    {
+      "name": "Rechenmethode der Physik I",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/rechenmethode-der-physik-i/1551826"
+    },
+    {
+      "name": "Rechenmethode der Physik II",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/rechenmethode-der-physik-ii/1551827"
+    },
+    {
+      "name": "Rechenmethoden der Chemie II (für Chemiker und Biochemiker)",
+      "code": "15086",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/rechenmethoden-der-chemie-ii-fur-chemiker-und-biochemiker/1551420"
+    },
+    {
+      "name": "Rechenmethoden in der Chemie I",
+      "code": "14081",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/rechenmethoden-in-der-chemie-i/1551421"
+    },
+    {
+      "name": "Rechnernetze",
+      "code": "36662",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/rechnernetze/1551423"
+    },
+    {
+      "name": "Rechnerstrukturen",
+      "code": "11411",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/rechnerstrukturen/1551424"
+    },
+    {
+      "name": "Recht",
+      "code": "20250",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/recht/1551425"
+    },
+    {
+      "name": "Rechtsgeschichte",
+      "code": "60301",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/rechtsgeschichte/1551428"
+    },
+    {
+      "name": "Rechtsmittelrecht, Strafrecht",
+      "code": "61420",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/rechtsmittelrecht-strafrecht/1551435"
+    },
+    {
+      "name": "Regeln der Technik für Maschinen und medizinische Geräte I",
+      "code": "31211",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/regeln-der-technik-fur-maschinen-und-medizinische-gerate-i/1551439"
+    },
+    {
+      "name": "Regelungsmethoden der Robotik und Mensch-Roboter Kollaboration",
+      "code": "50210",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/regelungsmethoden-der-robotik-und-mensch-roboter-kollaboration/5287445"
+    },
+    {
+      "name": "Regelungstechnik für Fortgeschrittene",
+      "code": "RT 3",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/regelungstechnik-fur-fortgeschrittene/6879442"
+    },
+    {
+      "name": "Regelungstechnik I",
+      "code": "36139",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/regelungstechnik-i/1551442"
+    },
+    {
+      "name": "Regelungstechnik II",
+      "code": "33000",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/regelungstechnik-ii/1551443"
+    },
+    {
+      "name": "Religionspädagogik",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/religionspadagogik/7354997"
+    },
+    {
+      "name": "Research Seminar Accounting and Taxation",
+      "code": "77785",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/research-seminar-accounting-and-taxation/1551452"
+    },
+    {
+      "name": "Ringvorlesung Life Science",
+      "code": "14137",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/ringvorlesung-life-science/1551458"
+    },
+    {
+      "name": "Risk Management",
+      "code": "173315/173715/174005",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/risk-management/1551462"
+    },
+    {
+      "name": "Robotik I",
+      "code": "33380",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/robotik-i/1551464"
+    },
+    {
+      "name": "Robotik II",
+      "code": "33598",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/robotik-ii/1551465"
+    },
+    {
+      "name": "Rohstoffe I",
+      "code": "16091",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/rohstoffe-i/1551466"
+    },
+    {
+      "name": "Rohstoffkunde pflanzlicher Lebensmittel",
+      "code": "18021",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/rohstoffkunde-pflanzlicher-lebensmittel/1551468"
+    },
+    {
+      "name": "Rohstoffkunde tierischer Lebensmittel",
+      "code": "18028",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/rohstoffkunde-tierischer-lebensmittel/1551469"
+    },
+    {
+      "name": "Rotoraerodynamik",
+      "code": "30028",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/rotoraerodynamik/1551471"
+    },
+    {
+      "name": "Russische Geschichte",
+      "code": "GE241",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/russische-geschichte/4445133"
+    },
+    {
+      "name": "Sachenrecht I",
+      "code": "60004",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/sachenrecht-i/1551472"
+    },
+    {
+      "name": "Sachenrecht II",
+      "code": "60005",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/sachenrecht-ii/1551473"
+    },
+    {
+      "name": "Sanktionenrecht",
+      "code": "61402",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/sanktionenrecht/1551474"
+    },
+    {
+      "name": "Schließende Statistik",
+      "code": "70158",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/schliessende-statistik/1551481"
+    },
+    {
+      "name": "Schlüsselkompetenzen - Kommunikation in der Ernährungswissenschaft",
+      "code": "18090",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/schlusselkompetenzen-kommunikation-in-der-ernahrungswissenschaft/1551482"
+    },
+    {
+      "name": "Schulbezogene Geometrie",
+      "code": "10679",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/schulbezogene-geometrie/1551483"
+    },
+    {
+      "name": "Scientific Computing I",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/scientific-computing-i/4345563"
+    },
+    {
+      "name": "Sensoren in der Medizintechnik",
+      "code": "35554",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/sensoren-in-der-medizintechnik/1551490"
+    },
+    {
+      "name": "Signale und Systeme",
+      "code": "36550",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/signale-und-systeme/1551494"
+    },
+    {
+      "name": "Simulation turbulenter Strömungen mit LES-Modellen",
+      "code": "44921",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/simulation-turbulenter-stromungen-mit-les-modellen/1551495"
+    },
+    {
+      "name": "Simulation verbrennungsmotorischer Prozesse",
+      "code": "30535",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/simulation-verbrennungsmotorischer-prozesse/1551497"
+    },
+    {
+      "name": "Situative Bewegungsangebote",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/situative-bewegungsangebote/6692103"
+    },
+    {
+      "name": "SK 1: Grundlagen der rechnergestützten Berichtserstellung / Informationsretrieval",
+      "code": "41098",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/sk-1-grundlagen-der-rechnergestutzten-berichtserstellung-informationsretrieval/1551498"
+    },
+    {
+      "name": "SLAM",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/slam/3262858"
+    },
+    {
+      "name": "Social Network Analysis",
+      "code": "11724",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/social-network-analysis/1551500"
+    },
+    {
+      "name": "Software-Qualität",
+      "code": "11270",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/software-qualitat/1551501"
+    },
+    {
+      "name": "Sonderpädagogik",
+      "code": "SoPä",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/sonderpadagogik/4470341"
+    },
+    {
+      "name": "Sozialmanagement und Personalführung",
+      "code": "WiSe19/20",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/sozialmanagement-und-personalfuhrung/5832615"
+    },
+    {
+      "name": "Sozialpolitik",
+      "code": "70197",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/sozialpolitik/1551503"
+    },
+    {
+      "name": "Sozialrecht II - Sozialhilfe und Grundsicherung für Arbeitsuchende",
+      "code": "61211",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/sozialrecht-ii-sozialhilfe-und-grundsicherung-fur-arbeitsuchende/1551505"
+    },
+    {
+      "name": "Sozialrecht III - Öffentliches Ehe- und Familienrecht",
+      "code": "61212",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/sozialrecht-iii-offentliches-ehe-und-familienrecht/1551506"
+    },
+    {
+      "name": "Sozialstruktur und Sozialstatistik",
+      "code": "M1002",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/sozialstruktur-und-sozialstatistik/4666482"
+    },
+    {
+      "name": "Sozioökonomisches Lernen in der Politischen Bildung",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/soziookonomisches-lernen-in-der-politischen-bildung/6154374"
+    },
+    {
+      "name": "Space and Space Technologies",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/space-and-space-technologies/6985655"
+    },
+    {
+      "name": "Spanen  Modelle Methoden und Innovationen",
+      "code": "32090",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/spanen-modelle-methoden-und-innovationen/1551510"
+    },
+    {
+      "name": "Spezielle Botanik",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/spezielle-botanik/1552532"
+    },
+    {
+      "name": "Spezielle Chemie für Life Science",
+      "code": "15045",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/spezielle-chemie-fur-life-science/1551512"
+    },
+    {
+      "name": "spezielle Mathematik für Life Science",
+      "code": "15130",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/spezielle-mathematik-fur-life-science/7042807"
+    },
+    {
+      "name": "Spezielles Recht für Chemiker",
+      "code": "18504",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/spezielles-recht-fur-chemiker/1551516"
+    },
+    {
+      "name": "Spieltheorie",
+      "code": "10972",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/spieltheorie/1551517"
+    },
+    {
+      "name": "Sprachwissenschaft S1",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/sprachwissenschaft-s1/6675033"
+    },
+    {
+      "name": "Sprachwissenschaft S2",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/sprachwissenschaft-s2/7025399"
+    },
+    {
+      "name": "Stadt- Regional- und Landesplanung; Planungsrecht",
+      "code": "421600",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/stadt-regional-und-landesplanung-planungsrecht/1551520"
+    },
+    {
+      "name": "Stahlwerkstoffe",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/stahlwerkstoffe/6365920"
+    },
+    {
+      "name": "Stationäre Gasturbinen",
+      "code": "SGT2122",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/stationare-gasturbinen/5289639"
+    },
+    {
+      "name": "Statistical Programming",
+      "code": "373005",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/statistical-programming/5444425"
+    },
+    {
+      "name": "Statistik mit R",
+      "code": "172414",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/statistik-mit-r/1551525"
+    },
+    {
+      "name": "Statistische Physik",
+      "code": "12101",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/statistische-physik/1551529"
+    },
+    {
+      "name": "Stereokontrolle in der Organischen Chemie",
+      "code": "14060",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/stereokontrolle-in-der-organischen-chemie/1551530"
+    },
+    {
+      "name": "Steuerlehre I",
+      "code": "171801",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/steuerlehre-i/1551531"
+    },
+    {
+      "name": "Stochastik A",
+      "code": "10066",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/stochastik-a/1551537"
+    },
+    {
+      "name": "Stochastik B",
+      "code": "10660",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/stochastik-b/1551538"
+    },
+    {
+      "name": "Stochastik für Ingenieure",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/stochastik-fur-ingenieure/7389163"
+    },
+    {
+      "name": "Stochastische Analysis",
+      "code": "10478",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/stochastische-analysis/1551540"
+    },
+    {
+      "name": "Stochastische Modelle in Produktion und Logistik",
+      "code": "171164",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/stochastische-modelle-in-produktion-und-logistik/1551541"
+    },
+    {
+      "name": "Stoffwechselbiochemie",
+      "code": "18530",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/stoffwechselbiochemie/1551543"
+    },
+    {
+      "name": "Strafrecht AT",
+      "code": "60101",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/strafrecht-at/1551550"
+    },
+    {
+      "name": "Strafrecht BT II",
+      "code": "60107",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/strafrecht-bt-ii/1551551"
+    },
+    {
+      "name": "Strafvollzug",
+      "code": "61413",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/strafvollzug/1551553"
+    },
+    {
+      "name": "Straßenbau und Straßenerhaltung",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/strassenbau-und-strassenerhaltung/6652221"
+    },
+    {
+      "name": "Strategic International Human Resource Management",
+      "code": "173592",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/strategic-international-human-resource-management/1551557"
+    },
+    {
+      "name": "Strategisches Management",
+      "code": "171260 / 172660",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/strategisches-management/1551558"
+    },
+    {
+      "name": "Structural Safety in Steel Construction",
+      "code": "2330",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/structural-safety-in-steel-construction/3295515"
+    },
+    {
+      "name": "Struktur des Gesundheitswesens",
+      "code": "172640",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/struktur-des-gesundheitswesens/1551564"
+    },
+    {
+      "name": "Struktur und Reaktivität Organischer Verbindungen (Deutsch)",
+      "code": "14040a",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/struktur-und-reaktivitat-organischer-verbindungen-deutsch/7307512"
+    },
+    {
+      "name": "Strukturen und Gestaltungsprinzipien von Non Profit Organisationen",
+      "code": "172654",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/strukturen-und-gestaltungsprinzipien-von-non-profit-organisationen/1551565"
+    },
+    {
+      "name": "Strukturmechanische Modellierung",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/strukturmechanische-modellierung/7028085"
+    },
+    {
+      "name": "Strömungsakustik 2",
+      "code": "SA 2",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/stromungsakustik-2/5271090"
+    },
+    {
+      "name": "Strömungsmaschinen I",
+      "code": "30125",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/stromungsmaschinen-i/1551561"
+    },
+    {
+      "name": "Strömungsmechanik 1",
+      "code": "30005",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/stromungsmechanik-1/6575874"
+    },
+    {
+      "name": "Strömungsmechanik I",
+      "code": "30005",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/stromungsmechanik-i/1551562"
+    },
+    {
+      "name": "Strömungsmechanik II",
+      "code": "30130",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/stromungsmechanik-ii/1551563"
+    },
+    {
+      "name": "Studieneinstiegsmodul 2/4: Ringvorlesung",
+      "code": "0000",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/studieneinstiegsmodul-24-ringvorlesung/5790322"
+    },
+    {
+      "name": "Städtebauliche Projektentwicklung",
+      "code": "28832",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/stadtebauliche-projektentwicklung/1551521"
+    },
+    {
+      "name": "Summer School: The German Economy: Development Institutions and Regulations",
+      "code": "77101",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/summer-school-the-german-economy-development-institutions-and-regulations/1551568"
+    },
+    {
+      "name": "Survey of American Literature and Culture",
+      "code": "AmerF2",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/survey-of-american-literature-and-culture/3945032"
+    },
+    {
+      "name": "Survey of British Literature and Culture",
+      "code": "BritF2",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/survey-of-british-literature-and-culture/6245819"
+    },
+    {
+      "name": "Sustainable Economics",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/sustainable-economics/6916333"
+    },
+    {
+      "name": "System Erde I",
+      "code": "16000",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/system-erde-i/1551577"
+    },
+    {
+      "name": "System Erde III",
+      "code": "16004",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/system-erde-iii/1551578"
+    },
+    {
+      "name": "Systementwicklung und Softwareengineering",
+      "code": "171401",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/systementwicklung-und-softwareengineering/1551580"
+    },
+    {
+      "name": "Tax Accounting – Latente Steuern im Konzern nach HGB und IFRS",
+      "code": "170635",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/tax-accounting-latente-steuern-im-konzern-nach-hgb-und-ifrs/1551582"
+    },
+    {
+      "name": "Technik-Ethik-Digitalisierung - Verantwortungsvolles Handeln in den Ingenieurwissenschaften",
+      "code": "TED2022",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/technik-ethik-digitalisierung-verantwortungsvolles-handeln-in-den-ingenieurwissenschaften/5940271"
+    },
+    {
+      "name": "Technikrecht I",
+      "code": "70001",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/technikrecht-i/1551583"
+    },
+    {
+      "name": "Technikrecht II",
+      "code": "70002",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/technikrecht-ii/1551584"
+    },
+    {
+      "name": "Technische Chemie I: Grundlagen der Reaktionstechnik",
+      "code": "15120",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/technische-chemie-i-grundlagen-der-reaktionstechnik/1551585"
+    },
+    {
+      "name": "Technische Chemie III: Bioprozesstechnik",
+      "code": "15121",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/technische-chemie-iii-bioprozesstechnik/1551587"
+    },
+    {
+      "name": "Technische Gebäudeausrüstung",
+      "code": "20185",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/technische-gebaudeausrustung/1551589"
+    },
+    {
+      "name": "Technische Mechanik 1",
+      "code": "31000",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/technische-mechanik-1/2312880"
+    },
+    {
+      "name": "Technische Mechanik 2 für Maschinenbauer",
+      "code": "33500",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/technische-mechanik-2-fur-maschinenbauer/1551590"
+    },
+    {
+      "name": "Technische Mechanik I für Elektrotechnik",
+      "code": "33315",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/technische-mechanik-i-fur-elektrotechnik/1551591"
+    },
+    {
+      "name": "Technische Mechanik I für Maschinenbau",
+      "code": "33300",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/technische-mechanik-i-fur-maschinenbau/1551592"
+    },
+    {
+      "name": "Technische Mechanik II",
+      "code": "33382",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/technische-mechanik-ii/1551593"
+    },
+    {
+      "name": "Technische Mechanik II für Elektrotechnik",
+      "code": "33515",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/technische-mechanik-ii-fur-elektrotechnik/1551594"
+    },
+    {
+      "name": "Technische Mechanik III",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/technische-mechanik-iii/1716138"
+    },
+    {
+      "name": "Technische Mechanik III für Maschinenbau",
+      "code": "33330",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/technische-mechanik-iii-fur-maschinenbau/1551595"
+    },
+    {
+      "name": "Technische Mechanik IV",
+      "code": "33383",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/technische-mechanik-iv/1551596"
+    },
+    {
+      "name": "Technische Mechanik IV für Maschinenbau",
+      "code": "33530",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/technische-mechanik-iv-fur-maschinenbau/1551597"
+    },
+    {
+      "name": "Technische Wärmelehre",
+      "code": "35650",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/technische-warmelehre/1551599"
+    },
+    {
+      "name": "Technische Zuverlässigkeit",
+      "code": "31312",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/technische-zuverlassigkeit/1551600"
+    },
+    {
+      "name": "Technologie integrierter Bauelemente",
+      "code": "35228",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/technologie-integrierter-bauelemente/1551601"
+    },
+    {
+      "name": "Telekommunikationsrecht",
+      "code": "61005",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/telekommunikationsrecht/1551604"
+    },
+    {
+      "name": "Testologie der Testigkeit",
+      "code": "TEST250",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/testologie-der-testigkeit/6785938"
+    },
+    {
+      "name": "Theoretische Elektrodynamik",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/theoretische-elektrodynamik/6269241"
+    },
+    {
+      "name": "Theoretische Elektrotechnik I",
+      "code": "35155",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/theoretische-elektrotechnik-i/1551608"
+    },
+    {
+      "name": "Theoretische Elektrotechnik II",
+      "code": "35150",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/theoretische-elektrotechnik-ii/1551609"
+    },
+    {
+      "name": "Theoretische Physik für Lehramtsstudierende",
+      "code": "12015",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/theoretische-physik-fur-lehramtsstudierende/1551610"
+    },
+    {
+      "name": "Theoretische Übung: Grundlagen der Chemie für Geowissenschaften und das Lehramt Biologie",
+      "code": "14905",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/theoretische-ubung-grundlagen-der-chemie-fur-geowissenschaften-und-das-lehramt-biologie/6957631"
+    },
+    {
+      "name": "Theorie Fleischtechnik",
+      "code": "18132",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/theorie-fleischtechnik/1551615"
+    },
+    {
+      "name": "Theorien und Modelle pädagogischen Handelns (B)",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/theorien-und-modelle-padagogischen-handelns-b/6722684"
+    },
+    {
+      "name": "Thermodynamik",
+      "code": "30670",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/thermodynamik/1551619"
+    },
+    {
+      "name": "Thermodynamik I für Maschinenbauer",
+      "code": "30651",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/thermodynamik-i-fur-maschinenbauer/1551620"
+    },
+    {
+      "name": "Thermodynamik II für Maschinenbau",
+      "code": "30750",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/thermodynamik-ii-fur-maschinenbau/1551621"
+    },
+    {
+      "name": "Thermodynamik im Überblick",
+      "code": "30435",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/thermodynamik-im-uberblick/1551622"
+    },
+    {
+      "name": "Thermodynamik und Statik",
+      "code": "44820",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/thermodynamik-und-statik/1551623"
+    },
+    {
+      "name": "Tier- und Humanphysiologie I",
+      "code": "48012",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/tier-und-humanphysiologie-i/1551624"
+    },
+    {
+      "name": "Tierversuchskunde",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/tierversuchskunde/7388679"
+    },
+    {
+      "name": "Time Series Analysis",
+      "code": "379016",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/time-series-analysis/5444427"
+    },
+    {
+      "name": "Tragsicherheit im Stahlbau",
+      "code": "TSB22",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/tragsicherheit-im-stahlbau/5762171"
+    },
+    {
+      "name": "Tragsysteme",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/tragsysteme/6548425"
+    },
+    {
+      "name": "Transportprozesse in der Verfahrenstechnik I",
+      "code": "31005",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/transportprozesse-in-der-verfahrenstechnik-i/1551627"
+    },
+    {
+      "name": "Transportprozesse in der Verfahrenstechnik II",
+      "code": "37600",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/transportprozesse-in-der-verfahrenstechnik-ii/5195511"
+    },
+    {
+      "name": "Transporttechnik",
+      "code": "30260",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/transporttechnik/1551628"
+    },
+    {
+      "name": "Tribologie I",
+      "code": "Flac1369",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/tribologie-i/5286282"
+    },
+    {
+      "name": "Tribologie II - Bio- und Mikrotribologie",
+      "code": "49700",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/tribologie-ii-bio-und-mikrotribologie/4448542"
+    },
+    {
+      "name": "Triebstränge in Windkraftanlagen",
+      "code": "WiSe 2018/19",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/triebstrange-in-windkraftanlagen/3407787"
+    },
+    {
+      "name": "Turbolader",
+      "code": "30195",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/turbolader/1551632"
+    },
+    {
+      "name": "Ultraschalltechnik für industrielle Produktion, Medizin und Automobiltechnik",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/ultraschalltechnik-fur-industrielle-produktion-medizin-und-automobiltechnik/6353264"
+    },
+    {
+      "name": "Umformtechnik  Grundlagen",
+      "code": "31935",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/umformtechnik-grundlagen/1551641"
+    },
+    {
+      "name": "Umformtechnik  Maschinen",
+      "code": "31940",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/umformtechnik-maschinen/1551642"
+    },
+    {
+      "name": "Umweltmikrobiologie",
+      "code": "49220",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/umweltmikrobiologie/5207712"
+    },
+    {
+      "name": "Umweltrecht",
+      "code": "445800",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/umweltrecht/1551643"
+    },
+    {
+      "name": "Unternehmensbesteuerung I",
+      "code": "70176",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/unternehmensbesteuerung-i/1551647"
+    },
+    {
+      "name": "Unternehmensführung",
+      "code": "70174",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/unternehmensfuhrung/1551651"
+    },
+    {
+      "name": "Unternehmensführung I",
+      "code": "171200",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/unternehmensfuhrung-i/1551652"
+    },
+    {
+      "name": "Übung im Bürgerlichen Recht für Fortgeschrittene",
+      "code": "60011",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/ubung-im-burgerlichen-recht-fur-fortgeschrittene/1551635"
+    },
+    {
+      "name": "Übung im Strafrecht für Fortgeschrittene",
+      "code": "60104",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/ubung-im-strafrecht-fur-fortgeschrittene/1551636"
+    },
+    {
+      "name": "Übung und Vertiefung im Öffentlichen Recht für Fortgeschrittene",
+      "code": "60207",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/ubung-und-vertiefung-im-offentlichen-recht-fur-fortgeschrittene/1551637"
+    },
+    {
+      "name": "Verarbeitung und Analyse biologischer Daten",
+      "code": "44021",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/verarbeitung-und-analyse-biologischer-daten/7147119"
+    },
+    {
+      "name": "Verbrennungsmotoren I",
+      "code": "30405",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/verbrennungsmotoren-i/1551659"
+    },
+    {
+      "name": "Verbrennungsmotoren II",
+      "code": "30545",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/verbrennungsmotoren-ii/1551660"
+    },
+    {
+      "name": "Verbrennungstechnik I",
+      "code": "30430",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/verbrennungstechnik-i/1551661"
+    },
+    {
+      "name": "Verbrennungstechnik II - Technische Verbrennung",
+      "code": "30525",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/verbrennungstechnik-ii-technische-verbrennung/1551662"
+    },
+    {
+      "name": "Verfahren der Schweiß- und Schneidtechnik",
+      "code": "31563",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/verfahren-der-schweiss-und-schneidtechnik/1551665"
+    },
+    {
+      "name": "Verfassungsgeschichte",
+      "code": "60302",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/verfassungsgeschichte/1551667"
+    },
+    {
+      "name": "Verfassungsrecht I",
+      "code": "60201",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/verfassungsrecht-i/1551668"
+    },
+    {
+      "name": "Verfassungsrecht II",
+      "code": "60209",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/verfassungsrecht-ii/1551669"
+    },
+    {
+      "name": "Verhaltensbiologie",
+      "code": "48014",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/verhaltensbiologie/1551671"
+    },
+    {
+      "name": "Verkehrsplanung",
+      "code": "4318015",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/verkehrsplanung/1551673"
+    },
+    {
+      "name": "Verkehrsteuern",
+      "code": "170623",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/verkehrsteuern/1551674"
+    },
+    {
+      "name": "Versicherungsrecht",
+      "code": "171328",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/versicherungsrecht/1551680"
+    },
+    {
+      "name": "Verwaltungsprozessrecht",
+      "code": "60213",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/verwaltungsprozessrecht/1551688"
+    },
+    {
+      "name": "Volleyball VP",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/volleyball-vp/6692098"
+    },
+    {
+      "name": "Vom Tier stammende Lebensmittel",
+      "code": "18028",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/vom-tier-stammende-lebensmittel/4448438"
+    },
+    {
+      "name": "Vorbereitungskurs auf die Übung für Fortgeschrittene im Bürgerlichen Recht",
+      "code": "60010",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/vorbereitungskurs-auf-die-ubung-fur-fortgeschrittene-im-burgerlichen-recht/1551695"
+    },
+    {
+      "name": "Vorlesung Lebensmittelrecht und Verbraucherrecht",
+      "code": "18152",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/vorlesung-lebensmittelrecht-und-verbraucherrecht/1551697"
+    },
+    {
+      "name": "Vorlesung: Sensorik und Nanosensoren - Messen nicht-elektrischer Größen",
+      "code": "35515",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/vorlesung-sensorik-und-nanosensoren-messen-nicht-elektrischer-grossen/1551699"
+    },
+    {
+      "name": "Vorlesung: Wirtschaftsgeographische Theorien",
+      "code": "17611",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/vorlesung-wirtschaftsgeographische-theorien/1551701"
+    },
+    {
+      "name": "W-Kurs Studienkolleg",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/w-kurs-studienkolleg/6604437"
+    },
+    {
+      "name": "Wasserwirtschaft",
+      "code": "27590",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/wasserwirtschaft/1551708"
+    },
+    {
+      "name": "Werkstoffkunde 1",
+      "code": "WK 1",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/werkstoffkunde-1/7437009"
+    },
+    {
+      "name": "Werkstoffkunde A: Grundlagen der Werkstoffkunde",
+      "code": "31550",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/werkstoffkunde-a-grundlagen-der-werkstoffkunde/1551714"
+    },
+    {
+      "name": "Werkstoffkunde B: Eisenmetalle für Maschinenbauer",
+      "code": "31704",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/werkstoffkunde-b-eisenmetalle-fur-maschinenbauer/1551715"
+    },
+    {
+      "name": "Werkstoffkunde C: Nichteisenmetalle und Sonderwerkstoffe",
+      "code": "31551",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/werkstoffkunde-c-nichteisenmetalle-und-sonderwerkstoffe/1551716"
+    },
+    {
+      "name": "Werkstoffkunde für Mechatroniker",
+      "code": "31718",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/werkstoffkunde-fur-mechatroniker/1551717"
+    },
+    {
+      "name": "Werkstoffkunde II",
+      "code": "23988",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/werkstoffkunde-ii/1551718"
+    },
+    {
+      "name": "Werkstofftechnische Aspekte der Lasermaterialbearbeitung",
+      "code": "31570",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/werkstofftechnische-aspekte-der-lasermaterialbearbeitung/1551719"
+    },
+    {
+      "name": "Werkzeugmaschinen I",
+      "code": "32000",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/werkzeugmaschinen-i/1551720"
+    },
+    {
+      "name": "Werkzeugmaschinen II",
+      "code": "32095",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/werkzeugmaschinen-ii/1551721"
+    },
+    {
+      "name": "Windenergietechnik I",
+      "code": "PO 2019",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/windenergietechnik-i/5734881"
+    },
+    {
+      "name": "Windenergietechnik II",
+      "code": "2019",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/windenergietechnik-ii/4974825"
+    },
+    {
+      "name": "Wirkstoffe in Lebensmitteln",
+      "code": "14166",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/wirkstoffe-in-lebensmitteln/1551722"
+    },
+    {
+      "name": "Wirtschaftspolitik",
+      "code": "76323",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/wirtschaftspolitik/1551726"
+    },
+    {
+      "name": "Wissenschaftliches Schreiben",
+      "code": "70113",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/wissenschaftliches-schreiben/1551727"
+    },
+    {
+      "name": "Wissenschaftstheorie",
+      "code": "77002",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/wissenschaftstheorie/1551728"
+    },
+    {
+      "name": "World Trade",
+      "code": "70195",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/world-trade/1551731"
+    },
+    {
+      "name": "Wärmeübertragung I",
+      "code": "30420",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/warmeubertragung-i/1551706"
+    },
+    {
+      "name": "Wärmeübertragung II - Sieden und Kondensieren",
+      "code": "30780",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/warmeubertragung-ii-sieden-und-kondensieren/1551707"
+    },
+    {
+      "name": "Zeitreihenanalyse",
+      "code": "172403",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/zeitreihenanalyse/1551732"
+    },
+    {
+      "name": "Zivilprozessrecht I",
+      "code": "60008",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/zivilprozessrecht-i/1551735"
+    },
+    {
+      "name": "Zivilprozessrecht II",
+      "code": "60025",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/zivilprozessrecht-ii/1551736"
+    },
+    {
+      "name": "Zivilrecht",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/zivilrecht/7724106"
+    },
+    {
+      "name": "Zoologische Systematik und Tierartenkenntnis",
+      "code": "48010",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/zoologische-systematik-und-tierartenkenntnis/1551738"
+    },
+    {
+      "name": "Zufällige diskrete Strukturen und Algorithmen",
+      "code": "10092",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/zufallige-diskrete-strukturen-und-algorithmen/1551739"
+    },
+    {
+      "name": "Zuverlässigkeit elektronischer Komponenten",
+      "code": "35220",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/zuverlassigkeit-elektronischer-komponenten/1551740"
+    },
+    {
+      "name": "Zuverlässigkeit mechatronischer Systeme",
+      "code": "31312",
+      "url": "https://www.studocu.com/de/course/leibniz-universitat-hannover/zuverlassigkeit-mechatronischer-systeme/5284999"
+    }
+  ]
+}

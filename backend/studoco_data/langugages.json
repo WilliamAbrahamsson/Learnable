@@ -1,0 +1,359 @@
+{
+  "data": {
+    "suggested": [
+      {
+        "id": 11,
+        "name": "Svenska",
+        "geocode": "sv",
+        "countryGeocode": "se",
+        "isSelected": true,
+        "type": "current",
+        "englishName": "Swedish"
+      },
+      {
+        "id": 16,
+        "name": "English (US)",
+        "geocode": "en-us",
+        "countryGeocode": "us",
+        "isSelected": false,
+        "type": "browser",
+        "englishName": "English (US)"
+      },
+      {
+        "id": 18,
+        "name": "English (GB)",
+        "geocode": "en-gb",
+        "countryGeocode": "gb",
+        "isSelected": false,
+        "type": "browser",
+        "englishName": "English (GB)"
+      }
+    ],
+    "grouped": [
+      {
+        "name": "Afrika och Europa ",
+        "items": [
+          {
+            "id": 30,
+            "name": "Català (ES)",
+            "geocode": "ca",
+            "countryGeocode": "ca-es",
+            "isSelected": false,
+            "englishName": "Catalan"
+          },
+          {
+            "id": 10,
+            "name": "Dansk",
+            "geocode": "da",
+            "countryGeocode": "dk",
+            "isSelected": false,
+            "englishName": "Danish"
+          },
+          {
+            "id": 4,
+            "name": "Deutsch",
+            "geocode": "de",
+            "countryGeocode": "de",
+            "isSelected": false,
+            "englishName": "German"
+          },
+          {
+            "id": 28,
+            "name": "Deutsch (AT)",
+            "geocode": "de-at",
+            "countryGeocode": "at",
+            "isSelected": false,
+            "englishName": "German (AT)"
+          },
+          {
+            "id": 27,
+            "name": "Deutsch (CH)",
+            "geocode": "de-ch",
+            "countryGeocode": "ch",
+            "isSelected": false,
+            "englishName": "German (CH)"
+          },
+          {
+            "id": 2,
+            "name": "English",
+            "geocode": "en",
+            "countryGeocode": "gb",
+            "isSelected": false,
+            "englishName": "English"
+          },
+          {
+            "id": 18,
+            "name": "English (GB)",
+            "geocode": "en-gb",
+            "countryGeocode": "gb",
+            "isSelected": false,
+            "englishName": "English (GB)"
+          },
+          {
+            "id": 23,
+            "name": "English (IE)",
+            "geocode": "en-ie",
+            "countryGeocode": "ie",
+            "isSelected": false,
+            "englishName": "English (IE)"
+          },
+          {
+            "id": 46,
+            "name": "English (ZA)",
+            "geocode": "en-za",
+            "countryGeocode": "za",
+            "isSelected": false,
+            "englishName": "English (ZA)"
+          },
+          {
+            "id": 3,
+            "name": "Español",
+            "geocode": "es",
+            "countryGeocode": "es",
+            "isSelected": false,
+            "englishName": "Spanish"
+          },
+          {
+            "id": 5,
+            "name": "Français",
+            "geocode": "fr",
+            "countryGeocode": "fr",
+            "isSelected": false,
+            "englishName": "French"
+          },
+          {
+            "id": 19,
+            "name": "Français (BE)",
+            "geocode": "fr-be",
+            "countryGeocode": "be",
+            "isSelected": false,
+            "englishName": "French (BE)"
+          },
+          {
+            "id": 26,
+            "name": "Français (CH)",
+            "geocode": "fr-ch",
+            "countryGeocode": "ch",
+            "isSelected": false,
+            "englishName": "French (CH)"
+          },
+          {
+            "id": 8,
+            "name": "Italiano",
+            "geocode": "it",
+            "countryGeocode": "it",
+            "isSelected": false,
+            "englishName": "Italian"
+          },
+          {
+            "id": 1,
+            "name": "Nederlands",
+            "geocode": "nl",
+            "countryGeocode": "nl",
+            "isSelected": false,
+            "englishName": "Dutch"
+          },
+          {
+            "id": 6,
+            "name": "Nederlands (BE)",
+            "geocode": "nl-be",
+            "countryGeocode": "be",
+            "isSelected": false,
+            "englishName": "Dutch (BE)"
+          },
+          {
+            "id": 13,
+            "name": "Norsk",
+            "geocode": "no",
+            "countryGeocode": "no",
+            "isSelected": false,
+            "englishName": "Norwegian"
+          },
+          {
+            "id": 38,
+            "name": "Polski",
+            "geocode": "pl",
+            "countryGeocode": "pl",
+            "isSelected": false,
+            "englishName": "Polish"
+          },
+          {
+            "id": 24,
+            "name": "Português",
+            "geocode": "pt",
+            "countryGeocode": "pt",
+            "isSelected": false,
+            "englishName": "Portuguese"
+          },
+          {
+            "id": 29,
+            "name": "Suomi",
+            "geocode": "fi",
+            "countryGeocode": "fi",
+            "isSelected": false,
+            "englishName": "Sami"
+          },
+          {
+            "id": 11,
+            "name": "Svenska",
+            "geocode": "sv",
+            "countryGeocode": "se",
+            "isSelected": true,
+            "englishName": "Swedish"
+          }
+        ]
+      },
+      {
+        "name": "Asien och Stillahavsområdet ",
+        "items": [
+          {
+            "id": 9,
+            "name": "English (AU)",
+            "geocode": "en-au",
+            "countryGeocode": "au",
+            "isSelected": false,
+            "englishName": "English (AU)"
+          },
+          {
+            "id": 54,
+            "name": "English (HK)",
+            "geocode": "en-hk",
+            "countryGeocode": "hk",
+            "isSelected": false,
+            "englishName": "English (HK)"
+          },
+          {
+            "id": 55,
+            "name": "English (IN)",
+            "geocode": "en-in",
+            "countryGeocode": "in",
+            "isSelected": false,
+            "englishName": "English (IN)"
+          },
+          {
+            "id": 22,
+            "name": "English (NZ)",
+            "geocode": "en-nz",
+            "countryGeocode": "nz",
+            "isSelected": false,
+            "englishName": "English (NZ)"
+          },
+          {
+            "id": 58,
+            "name": "English (SG)",
+            "geocode": "en-sg",
+            "countryGeocode": "sg",
+            "isSelected": false,
+            "englishName": "English (SG)"
+          }
+        ]
+      },
+      {
+        "name": "Nord Amerika",
+        "items": [
+          {
+            "id": 17,
+            "name": "English (CA)",
+            "geocode": "en-ca",
+            "countryGeocode": "ca",
+            "isSelected": false,
+            "englishName": "English (CA)"
+          },
+          {
+            "id": 16,
+            "name": "English (US)",
+            "geocode": "en-us",
+            "countryGeocode": "us",
+            "isSelected": false,
+            "englishName": "English (US)"
+          },
+          {
+            "id": 15,
+            "name": "Español (MX)",
+            "geocode": "es-mx",
+            "countryGeocode": "mx",
+            "isSelected": false,
+            "englishName": "Spanish (Mexico)"
+          },
+          {
+            "id": 21,
+            "name": "Français (CA)",
+            "geocode": "fr-ca",
+            "countryGeocode": "ca",
+            "isSelected": false,
+            "englishName": "French (CA)"
+          }
+        ]
+      },
+      {
+        "name": "Syd och Central Amerika ",
+        "items": [
+          {
+            "id": 45,
+            "name": "Español (AR)",
+            "geocode": "es-ar",
+            "countryGeocode": "ar",
+            "isSelected": false,
+            "englishName": "Spanish (AR)"
+          },
+          {
+            "id": 49,
+            "name": "Español (BO)",
+            "geocode": "es-bo",
+            "countryGeocode": "bo",
+            "isSelected": false,
+            "englishName": "Spanish (BO)"
+          },
+          {
+            "id": 50,
+            "name": "Español (CL)",
+            "geocode": "es-cl",
+            "countryGeocode": "cl",
+            "isSelected": false,
+            "englishName": "Spanish (CL)"
+          },
+          {
+            "id": 51,
+            "name": "Español (CO)",
+            "geocode": "es-co",
+            "countryGeocode": "co",
+            "isSelected": false,
+            "englishName": "Spanish (CO)"
+          },
+          {
+            "id": 52,
+            "name": "Español (EC)",
+            "geocode": "es-ec",
+            "countryGeocode": "ec",
+            "isSelected": false,
+            "englishName": "Spanish (EC)"
+          },
+          {
+            "id": 53,
+            "name": "Español (GT)",
+            "geocode": "es-gt",
+            "countryGeocode": "gt",
+            "isSelected": false,
+            "englishName": "Spanish (GT)"
+          },
+          {
+            "id": 57,
+            "name": "Español (PE)",
+            "geocode": "es-pe",
+            "countryGeocode": "pe",
+            "isSelected": false,
+            "englishName": "Spanish (PE)"
+          },
+          {
+            "id": 25,
+            "name": "Português (BR)",
+            "geocode": "pt-br",
+            "countryGeocode": "br",
+            "isSelected": false,
+            "englishName": "Portuguese (Brazil)"
+          }
+        ]
+      }
+    ]
+  }
+}

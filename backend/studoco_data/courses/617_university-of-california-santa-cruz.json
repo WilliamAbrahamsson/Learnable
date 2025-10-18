@@ -1,0 +1,1956 @@
+{
+  "university_id": "617",
+  "university_name": "University of California, Santa Cruz",
+  "courses": [
+    {
+      "name": "3D Modeling",
+      "code": "CMPM 25",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/3d-modeling/4349200"
+    },
+    {
+      "name": "Abstract Data Types",
+      "code": "CMPS 101",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/abstract-data-types/1111885"
+    },
+    {
+      "name": "Academic Writing And Research Methods",
+      "code": "WRIT 161",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/academic-writing-and-research-methods/3815548"
+    },
+    {
+      "name": "Accounting Technology",
+      "code": "Accy 355",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/accounting-technology/7193555"
+    },
+    {
+      "name": "Adv Programming",
+      "code": "CMPS 109",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/adv-programming/1111882"
+    },
+    {
+      "name": "Advanced Analog Integrated Circuits",
+      "code": "ECE 221",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/advanced-analog-integrated-circuits/6534022"
+    },
+    {
+      "name": "Advanced Bayesian Computation",
+      "code": "AMS 268",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/advanced-bayesian-computation/3010870"
+    },
+    {
+      "name": "Advanced Computer Graphics and Animation",
+      "code": "CMPS 162/L",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/advanced-computer-graphics-and-animation/3815367"
+    },
+    {
+      "name": "Advanced Programming",
+      "code": "CMPS 109",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/advanced-programming/1111890"
+    },
+    {
+      "name": "Advanced Topics in Management and Finance",
+      "code": "ECON 194F",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/advanced-topics-in-management-and-finance/4349180"
+    },
+    {
+      "name": "after the human",
+      "code": "hisc 86",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/after-the-human/5705672"
+    },
+    {
+      "name": "Agroecology and Sustainable Agriculture",
+      "code": null,
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/agroecology-and-sustainable-agriculture/6617070"
+    },
+    {
+      "name": "ALE: environment/ society",
+      "code": "CRSN 1",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/ale-environment-society/5705731"
+    },
+    {
+      "name": "Algebra",
+      "code": "MATH 111A",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/algebra/1125358"
+    },
+    {
+      "name": "Algebra",
+      "code": "MATH 111B",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/algebra/1125368"
+    },
+    {
+      "name": "Algebra I",
+      "code": "MATH 200",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/algebra-i/1125566"
+    },
+    {
+      "name": "Algebra II",
+      "code": "MATH 201",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/algebra-ii/1125586"
+    },
+    {
+      "name": "Algebra Iv",
+      "code": "MATH 203",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/algebra-iv/1125602"
+    },
+    {
+      "name": "Algorithms and Abstract Data Types",
+      "code": "CMPS 101",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/algorithms-and-abstract-data-types/1111840"
+    },
+    {
+      "name": "Amazon Web Services (AWS)",
+      "code": null,
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/amazon-web-services-aws/5868223"
+    },
+    {
+      "name": "American Film, 1930–60",
+      "code": "FILM134A",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/american-film-193060/3815376"
+    },
+    {
+      "name": "Analogue Electronics",
+      "code": "ECE171",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/analogue-electronics/5586001"
+    },
+    {
+      "name": "Analysis Ii",
+      "code": "MATH 205",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/analysis-ii/1125613"
+    },
+    {
+      "name": "Analysis Of Algorithms",
+      "code": "CMPS 201",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/analysis-of-algorithms/1112239"
+    },
+    {
+      "name": "Anatomy of the Human Body",
+      "code": "METX 135/L",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/anatomy-of-the-human-body/3815106"
+    },
+    {
+      "name": "Anthropology and the Anthropocene",
+      "code": null,
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/anthropology-and-the-anthropocene/3815254"
+    },
+    {
+      "name": "Anthropology and the Environment",
+      "code": null,
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/anthropology-and-the-environment/3815253"
+    },
+    {
+      "name": "Anthropology of Global Environmental Change",
+      "code": null,
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/anthropology-of-global-environmental-change/3815310"
+    },
+    {
+      "name": "AP Physics 1 Algebra Based On-Demand",
+      "code": "APPHYSI141-034",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/ap-physics-1-algebra-based-on-demand/7400717"
+    },
+    {
+      "name": "AP Physics C: Mechanics with Labs",
+      "code": "APPHYSC141-026",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/ap-physics-c-mechanics-with-labs/7198056"
+    },
+    {
+      "name": "Applied Discrete Mathematics",
+      "code": "CMPE 16",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/applied-discrete-mathematics/1111334"
+    },
+    {
+      "name": "Approaches To Classical Myth",
+      "code": "LIT 61M",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/approaches-to-classical-myth/1124413"
+    },
+    {
+      "name": "Associate degree of Law",
+      "code": "47252",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/associate-degree-of-law/7060885"
+    },
+    {
+      "name": "Astronomy 112",
+      "code": "ASTR 112",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/astronomy-112/6431455"
+    },
+    {
+      "name": "Basic Mathematical Methods For Engineers Ii",
+      "code": "AMS 20A",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/basic-mathematical-methods-for-engineers-ii/1104524"
+    },
+    {
+      "name": "Bayesian Nonparametric Methods",
+      "code": "AMS 241",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/bayesian-nonparametric-methods/1104588"
+    },
+    {
+      "name": "Bayesian Survival Analysis and Clinical Trial Design",
+      "code": "AMS 276",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/bayesian-survival-analysis-and-clinical-trial-design/3009766"
+    },
+    {
+      "name": "Beginning Programming in Python",
+      "code": "CSE 20",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/beginning-programming-in-python/4377282"
+    },
+    {
+      "name": "Behavioral Ecology",
+      "code": "BIOE 140",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/behavioral-ecology/3815525"
+    },
+    {
+      "name": "Behavioral Neuroscience",
+      "code": "PSYC 123",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/behavioral-neuroscience/3815119"
+    },
+    {
+      "name": "Biochemistry",
+      "code": "BIOC 100C",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/biochemistry/3815105"
+    },
+    {
+      "name": "Biochemistry Lab",
+      "code": "BIOL 100L",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/biochemistry-lab/3815120"
+    },
+    {
+      "name": "Biological Principles of Environmental Science",
+      "code": "ESCI 30",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/biological-principles-of-environmental-science/6055162"
+    },
+    {
+      "name": "Biology Of Marine Mammals",
+      "code": "BIOE 129",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/biology-of-marine-mammals/1107535"
+    },
+    {
+      "name": "Biophysics",
+      "code": "PHYS 180",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/biophysics/3815117"
+    },
+    {
+      "name": "Biotechnology & Drug Development",
+      "code": "BME 155",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/biotechnology-drug-development/3815114"
+    },
+    {
+      "name": "Building Websites For Social Change",
+      "code": "OAKS 189",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/building-websites-for-social-change/4394099"
+    },
+    {
+      "name": "Business Information System",
+      "code": "CSE50",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/business-information-system/4515953"
+    },
+    {
+      "name": "Business Information Systems",
+      "code": "TIM 50",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/business-information-systems/4349208"
+    },
+    {
+      "name": "Business Strategy",
+      "code": "ECON136",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/business-strategy/1114161"
+    },
+    {
+      "name": "Calc",
+      "code": "MATH 19A",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/calc/1125551"
+    },
+    {
+      "name": "Calculus For Science, Engineering, And Mathematics",
+      "code": "MATH 19B",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/calculus-for-science-engineering-and-mathematics/1125581"
+    },
+    {
+      "name": "Calculus For Science, Engineering, And Mathematics",
+      "code": "MATH 19A",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/calculus-for-science-engineering-and-mathematics/1125549"
+    },
+    {
+      "name": "Calculus With Applications",
+      "code": "MATH 11B",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/calculus-with-applications/1125423"
+    },
+    {
+      "name": "California Pasts",
+      "code": null,
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/california-pasts/3815309"
+    },
+    {
+      "name": "Cell Biology",
+      "code": "BIOL110",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/cell-biology/3815074"
+    },
+    {
+      "name": "Charles Dickens",
+      "code": "LIT 112C",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/charles-dickens/4394090"
+    },
+    {
+      "name": "Chem Thermodynamics",
+      "code": "CHEM 163B",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/chem-thermodynamics/1109688"
+    },
+    {
+      "name": "Chemistry 1C",
+      "code": "20518",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/chemistry-1c/4338206"
+    },
+    {
+      "name": "Civil Liberties",
+      "code": "LGST111B",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/civil-liberties/3815161"
+    },
+    {
+      "name": "Class/Bayesianinfer",
+      "code": "AMS 132",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/classbayesianinfer/1104397"
+    },
+    {
+      "name": "Classical Social Theory",
+      "code": "SOCY 105A",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/classical-social-theory/3815449"
+    },
+    {
+      "name": "Clinical Psychology",
+      "code": "PSYC 167",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/clinical-psychology/1131173"
+    },
+    {
+      "name": "Cognition: Fundamental Theories",
+      "code": "PSYC20",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/cognition-fundamental-theories/4393678"
+    },
+    {
+      "name": "Cognitive Science",
+      "code": "COGS 200",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/cognitive-science/7732590"
+    },
+    {
+      "name": "Col Algbra/Calculus",
+      "code": "MATH 2",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/col-algbracalculus/1125561"
+    },
+    {
+      "name": "Colonialism, International Law, and Global Justice",
+      "code": "SOCY 257",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/colonialism-international-law-and-global-justice/3815474"
+    },
+    {
+      "name": "Com Sys/Assmbly Lan",
+      "code": "CMPE 12",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/com-sysassmbly-lan/1111201"
+    },
+    {
+      "name": "Communicating Diversity for a Just Society",
+      "code": "OAKS 1",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/communicating-diversity-for-a-just-society/4394091"
+    },
+    {
+      "name": "Communication And Rhetoric: An Introduction",
+      "code": "WRIT 70",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/communication-and-rhetoric-an-introduction/3815494"
+    },
+    {
+      "name": "Community Ecology",
+      "code": "BIOE 147",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/community-ecology/1107654"
+    },
+    {
+      "name": "Comparative Politics",
+      "code": "POLI 60",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/comparative-politics/1130128"
+    },
+    {
+      "name": "Comparative Vertebrate Anatomy",
+      "code": "BIOE 134/L",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/comparative-vertebrate-anatomy/3257414"
+    },
+    {
+      "name": "Compiler Design",
+      "code": "CMPS 104A",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/compiler-design/3815227"
+    },
+    {
+      "name": "Complex Analysis",
+      "code": "MATH 103",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/complex-analysis/1125307"
+    },
+    {
+      "name": "Computational Fluid Dynamics",
+      "code": "AMS 260",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/computational-fluid-dynamics/3009787"
+    },
+    {
+      "name": "Computational Model",
+      "code": "CMPS 130",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/computational-model/1112021"
+    },
+    {
+      "name": "Computational Models",
+      "code": "CMPS 130",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/computational-models/1111980"
+    },
+    {
+      "name": "Computer Engineering",
+      "code": "CE 12",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/computer-engineering/6464886"
+    },
+    {
+      "name": "Computer Graphics/Laboratory",
+      "code": "CMPS 160/L",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/computer-graphicslaboratory/3815233"
+    },
+    {
+      "name": "computer princple of design",
+      "code": "cse130",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/computer-princple-of-design/7519244"
+    },
+    {
+      "name": "Computer Security",
+      "code": "CMPS 122",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/computer-security/3815230"
+    },
+    {
+      "name": "Computer Systems And Assembly Language",
+      "code": "CMPE 12",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/computer-systems-and-assembly-language/1111246"
+    },
+    {
+      "name": "Congress, President, and the Court in American Politics",
+      "code": "POLI120A",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/congress-president-and-the-court-in-american-politics/3815437"
+    },
+    {
+      "name": "Constitutional Law",
+      "code": "LGST111A",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/constitutional-law/3815136"
+    },
+    {
+      "name": "Contemporary Social Theory",
+      "code": "SOCY 105B",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/contemporary-social-theory/3815450"
+    },
+    {
+      "name": "Corporate Finance",
+      "code": "ECON135",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/corporate-finance/3815185"
+    },
+    {
+      "name": "Critical Perspectives on Nutrition",
+      "code": null,
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/critical-perspectives-on-nutrition/3815352"
+    },
+    {
+      "name": "Critical Theory",
+      "code": "HISC 296",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/critical-theory/5734403"
+    },
+    {
+      "name": "Culture and Politics of Island Southeast Asia",
+      "code": null,
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/culture-and-politics-of-island-southeast-asia/3815266"
+    },
+    {
+      "name": "Culture Through Food",
+      "code": null,
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/culture-through-food/3815312"
+    },
+    {
+      "name": "Culture, Knowledge, Power",
+      "code": "SOCY 260",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/culture-knowledge-power/3815464"
+    },
+    {
+      "name": "Data Wrangling and Web Scraping",
+      "code": "CMPS 184",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/data-wrangling-and-web-scraping/3815371"
+    },
+    {
+      "name": "Designing California",
+      "code": "HAVC 44",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/designing-california/4381143"
+    },
+    {
+      "name": "Development And Physiology",
+      "code": "BIOE 20B",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/development-and-physiology/4337263"
+    },
+    {
+      "name": "Developmental Biology",
+      "code": "BIOL 120",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/developmental-biology/3815103"
+    },
+    {
+      "name": "Developmental Neurobiology",
+      "code": "BIOL 128",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/developmental-neurobiology/3815433"
+    },
+    {
+      "name": "Digital Media Workshop: Computer as Medium",
+      "code": "FILM177",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/digital-media-workshop-computer-as-medium/3815403"
+    },
+    {
+      "name": "Distributed Systems",
+      "code": "CMPS 128",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/distributed-systems/3815231"
+    },
+    {
+      "name": "Drugs and Society",
+      "code": "LGST127",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/drugs-and-society/3815171"
+    },
+    {
+      "name": "Dynamical Systems Theory",
+      "code": "MATH 235",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/dynamical-systems-theory/1125794"
+    },
+    {
+      "name": "Ecology",
+      "code": "BIOE 107",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/ecology/1107370"
+    },
+    {
+      "name": "Ecology And Evolution",
+      "code": "BIOE 20C",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/ecology-and-evolution/1107979"
+    },
+    {
+      "name": "econometrics",
+      "code": "econ 113",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/econometrics/4882638"
+    },
+    {
+      "name": "Economic Analysis of the Law",
+      "code": "ECON169",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/economic-analysis-of-the-law/3815214"
+    },
+    {
+      "name": "Economic Development",
+      "code": "ECON 120",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/economic-development/3815216"
+    },
+    {
+      "name": "Economic Development",
+      "code": "ECON120",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/economic-development/3815178"
+    },
+    {
+      "name": "Economic History of the U.S.",
+      "code": "ECON125",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/economic-history-of-the-us/3815180"
+    },
+    {
+      "name": "Economic Rhetoric",
+      "code": "ECON 197",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/economic-rhetoric/4447408"
+    },
+    {
+      "name": "economics 1",
+      "code": "22449",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/economics-1/5384997"
+    },
+    {
+      "name": "Economics and the Telecommunications Industry",
+      "code": "ECON164",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/economics-and-the-telecommunications-industry/3815213"
+    },
+    {
+      "name": "Economics as an Experimental Science",
+      "code": "ECON165",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/economics-as-an-experimental-science/3815195"
+    },
+    {
+      "name": "Economies of East and Southeast Asia",
+      "code": "ECON 149",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/economies-of-east-and-southeast-asia/3815225"
+    },
+    {
+      "name": "Editing English Prose",
+      "code": "WRIT 120",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/editing-english-prose/3815505"
+    },
+    {
+      "name": "Electromagnetic Fields And Waves",
+      "code": "EE 135",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/electromagnetic-fields-and-waves/1115662"
+    },
+    {
+      "name": "Embedded System",
+      "code": "CMPE 13",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/embedded-system/4426291"
+    },
+    {
+      "name": "Emerging Worlds",
+      "code": null,
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/emerging-worlds/3815333"
+    },
+    {
+      "name": "Energy Economics",
+      "code": "ECON175",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/energy-economics/3815200"
+    },
+    {
+      "name": "Engineering California",
+      "code": "LIT-81I",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/engineering-california/6153463"
+    },
+    {
+      "name": "Environmental Physiology",
+      "code": "BIOE-136",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/environmental-physiology/6429639"
+    },
+    {
+      "name": "Environmental Policy and Economics",
+      "code": "ENVS25",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/environmental-policy-and-economics/5155077"
+    },
+    {
+      "name": "Ethnographies of Latin America",
+      "code": "ANTH 130L",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/ethnographies-of-latin-america/1105390"
+    },
+    {
+      "name": "Ethnography of Southern Cone Chile And Argentina",
+      "code": null,
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/ethnography-of-southern-cone-chile-and-argentina/3815273"
+    },
+    {
+      "name": "Eukaryotic Molecular Biology",
+      "code": "BIOL 115",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/eukaryotic-molecular-biology/3815419"
+    },
+    {
+      "name": "Evolution",
+      "code": "BIOE 109",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/evolution/1107410"
+    },
+    {
+      "name": "Exercise Physiology",
+      "code": "BIOE 133/L",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/exercise-physiology/3815101"
+    },
+    {
+      "name": "Exercise Physiology/Laboratory",
+      "code": null,
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/exercise-physiologylaboratory/3815428"
+    },
+    {
+      "name": "Female Physiology And Gynecology",
+      "code": "BIOL 80A",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/female-physiology-and-gynecology/1109024"
+    },
+    {
+      "name": "Female Physiology And Gynecology",
+      "code": "BIOE 80A",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/female-physiology-and-gynecology/1108339"
+    },
+    {
+      "name": "Feminisms and Cultural Politics",
+      "code": "SOCY 249",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/feminisms-and-cultural-politics/3815471"
+    },
+    {
+      "name": "Feminist Theories",
+      "code": "FMST 100",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/feminist-theories/1117479"
+    },
+    {
+      "name": "Field Study",
+      "code": "WRIT 93",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/field-study/3815495"
+    },
+    {
+      "name": "Film and the Other Arts: Music and Dance",
+      "code": "FILM194F",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/film-and-the-other-arts-music-and-dance/3815387"
+    },
+    {
+      "name": "Film Authors",
+      "code": "FILM 162",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/film-authors/1117035"
+    },
+    {
+      "name": "Film Directing",
+      "code": "FILM151",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/film-directing/3815391"
+    },
+    {
+      "name": "financiero",
+      "code": "3250",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/financiero/5128022"
+    },
+    {
+      "name": "Food Systems: Culture, Social Justice, Sustainability",
+      "code": "Oakes 167",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/food-systems-culture-social-justice-sustainability/4538664"
+    },
+    {
+      "name": "French: First Year",
+      "code": "FREN 3",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/french-first-year/4402938"
+    },
+    {
+      "name": "Freshwater Ecology",
+      "code": "BIOE 155",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/freshwater-ecology/3815530"
+    },
+    {
+      "name": "Functional Programming",
+      "code": "CSE114A",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/functional-programming/7762217"
+    },
+    {
+      "name": "Fundamentals of Climate",
+      "code": "OCEA 90",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/fundamentals-of-climate/4341626"
+    },
+    {
+      "name": "Gambling And Gaming",
+      "code": "AMS 80A",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/gambling-and-gaming/1104717"
+    },
+    {
+      "name": "Game Design Studio III",
+      "code": "CMPM 172",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/game-design-studio-iii/3815372"
+    },
+    {
+      "name": "Gen Microbio Lab",
+      "code": "METX 119L",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/gen-microbio-lab/1126186"
+    },
+    {
+      "name": "Gender, Sexuality, and the Law",
+      "code": "LGST108",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/gender-sexuality-and-the-law/3815159"
+    },
+    {
+      "name": "General Chemistry 1A",
+      "code": "CHEM 1A",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/general-chemistry-1a/4376681"
+    },
+    {
+      "name": "Generalized Linear Models",
+      "code": "AMS 274",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/generalized-linear-models/1104629"
+    },
+    {
+      "name": "Genetics",
+      "code": "BIOL105",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/genetics/1107379"
+    },
+    {
+      "name": "Genetics",
+      "code": "BIOL 105",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/genetics/1108412"
+    },
+    {
+      "name": "Genomes",
+      "code": "BME 130",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/genomes/3815113"
+    },
+    {
+      "name": "Geographic Information System",
+      "code": "GIS 0012",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/geographic-information-system/4250112"
+    },
+    {
+      "name": "Global Politics",
+      "code": "POLI 70",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/global-politics/1130153"
+    },
+    {
+      "name": "Global Strategy",
+      "code": "503",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/global-strategy/7527175"
+    },
+    {
+      "name": "Golden Age of Hip Hop",
+      "code": "MUS 81",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/golden-age-of-hip-hop/3735266"
+    },
+    {
+      "name": "Government and Industry",
+      "code": "ECON160B",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/government-and-industry/3815194"
+    },
+    {
+      "name": "GPU Programming for Scientific Computations",
+      "code": "AMS148",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/gpu-programming-for-scientific-computations/3009751"
+    },
+    {
+      "name": "Grammar For Tutors And Teachers",
+      "code": "WRIT 159",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/grammar-for-tutors-and-teachers/3815506"
+    },
+    {
+      "name": "Health Care and Medical Economics",
+      "code": "ECON156",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/health-care-and-medical-economics/3815211"
+    },
+    {
+      "name": "Heritage, Memory, and Material Culture",
+      "code": "HAVC 188M",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/heritage-memory-and-material-culture/4148918"
+    },
+    {
+      "name": "High Speed Digital Design",
+      "code": "EE137",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/high-speed-digital-design/6206772"
+    },
+    {
+      "name": "History and Systems of Psychology",
+      "code": "PSYC 183",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/history-and-systems-of-psychology/5985638"
+    },
+    {
+      "name": "History Of Mathematics",
+      "code": "MATH 181",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/history-of-mathematics/1125508"
+    },
+    {
+      "name": "History of Television",
+      "code": "FILM136B",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/history-of-television/3815379"
+    },
+    {
+      "name": "History of U.S. Penal Law",
+      "code": "LGST125",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/history-of-us-penal-law/3815140"
+    },
+    {
+      "name": "Homological Algebra",
+      "code": "MATH 239",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/homological-algebra/1125823"
+    },
+    {
+      "name": "Honors Calculus",
+      "code": "MATH 20A",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/honors-calculus/1125649"
+    },
+    {
+      "name": "Human Development as a Cultural Process",
+      "code": "PSYC 114",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/human-development-as-a-cultural-process/5963210"
+    },
+    {
+      "name": "Human Evolution",
+      "code": "ANTH 101",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/human-evolution/1105236"
+    },
+    {
+      "name": "Human Functional Anatomy",
+      "code": "BIOL 135",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/human-functional-anatomy/1108595"
+    },
+    {
+      "name": "Human Functional Anatomy Laboratory",
+      "code": "BIOL 135L",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/human-functional-anatomy-laboratory/1108571"
+    },
+    {
+      "name": "Human Paleopathology",
+      "code": null,
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/human-paleopathology/3815304"
+    },
+    {
+      "name": "Human Physiolgy Lab",
+      "code": "BIOL 130L",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/human-physiolgy-lab/1108556"
+    },
+    {
+      "name": "Human Physiology",
+      "code": "BIOL130",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/human-physiology/1107551"
+    },
+    {
+      "name": "Human Physiology",
+      "code": "BIOL 130",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/human-physiology/1108550"
+    },
+    {
+      "name": "Ichthyology/Laboratory",
+      "code": null,
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/ichthyologylaboratory/3815426"
+    },
+    {
+      "name": "Identity Development",
+      "code": "PSYC 119",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/identity-development/6518967"
+    },
+    {
+      "name": "Immigrants and Education",
+      "code": null,
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/immigrants-and-education/6065701"
+    },
+    {
+      "name": "Immunology I",
+      "code": "BIOL 111A",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/immunology-i/3815417"
+    },
+    {
+      "name": "Income Tax Factors For Individuals",
+      "code": "ECON 117A",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/income-tax-factors-for-individuals/1114031"
+    },
+    {
+      "name": "Industrial Organization",
+      "code": "ECON160A",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/industrial-organization/3815212"
+    },
+    {
+      "name": "Intermediate Bayesian Inference",
+      "code": "AMS 206B",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/intermediate-bayesian-inference/1104494"
+    },
+    {
+      "name": "Intermediate Macroeconomics",
+      "code": "ECON100B",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/intermediate-macroeconomics/4347963"
+    },
+    {
+      "name": "Intermediate Programming",
+      "code": "CMPS 11",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/intermediate-programming/1111895"
+    },
+    {
+      "name": "International Financial Markets",
+      "code": "ECON 131",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/international-financial-markets/3815221"
+    },
+    {
+      "name": "International Law",
+      "code": "POLI160B",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/international-law/3815443"
+    },
+    {
+      "name": "International Politics",
+      "code": "POLI160A",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/international-politics/3815442"
+    },
+    {
+      "name": "International Trade",
+      "code": "ECON140",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/international-trade/3815186"
+    },
+    {
+      "name": "Intro Media Theory",
+      "code": "FILM 120",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/intro-media-theory/6149889"
+    },
+    {
+      "name": "Intro Program (Accel)",
+      "code": "CMPS 12A",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/intro-program-accel/1111938"
+    },
+    {
+      "name": "Intro Psychology",
+      "code": "PSYC 1",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/intro-psychology/1130527"
+    },
+    {
+      "name": "Intro to Latin America",
+      "code": "LALS 01",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/intro-to-latin-america/6801531"
+    },
+    {
+      "name": "Intro to Learning",
+      "code": "EDUC 10 - 01",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/intro-to-learning/5338050"
+    },
+    {
+      "name": "Intro to Native American Studies",
+      "code": "NAS 01",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/intro-to-native-american-studies/5725022"
+    },
+    {
+      "name": "Intro To Prog Java",
+      "code": "CMPS 5J",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/intro-to-prog-java/1112637"
+    },
+    {
+      "name": "Introduction to Analysis of Algorithms",
+      "code": "CMPS 102",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/introduction-to-analysis-of-algorithms/3815552"
+    },
+    {
+      "name": "introduction to analytics modeling",
+      "code": "isye 6501",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/introduction-to-analytics-modeling/6994108"
+    },
+    {
+      "name": "Introduction To Archaeology",
+      "code": "ANTH 3",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/introduction-to-archaeology/1106206"
+    },
+    {
+      "name": "Introduction to black studies",
+      "code": "CRES68",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/introduction-to-black-studies/4577978"
+    },
+    {
+      "name": "Introduction To Composition",
+      "code": "WRIT 1",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/introduction-to-composition/3815486"
+    },
+    {
+      "name": "Introduction To Cultural Anthropology",
+      "code": "ANTH 2",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/introduction-to-cultural-anthropology/1105891"
+    },
+    {
+      "name": "Introduction To Data Structures",
+      "code": "CMPS 12B",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/introduction-to-data-structures/1111963"
+    },
+    {
+      "name": "Introduction to Data Structures and Algorithms",
+      "code": "CSE 101",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/introduction-to-data-structures-and-algorithms/4883422"
+    },
+    {
+      "name": "Introduction To Database Management Systems",
+      "code": "CMPS 182",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/introduction-to-database-management-systems/1112188"
+    },
+    {
+      "name": "Introduction To Developmental Psychology",
+      "code": "PSYC 10",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/introduction-to-developmental-psychology/1130553"
+    },
+    {
+      "name": "Introduction To Electronic Circuits",
+      "code": "EE 101",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/introduction-to-electronic-circuits/1115595"
+    },
+    {
+      "name": "Introduction To Electronic Circuits Laboratory",
+      "code": "EE 101L",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/introduction-to-electronic-circuits-laboratory/1115584"
+    },
+    {
+      "name": "Introduction to Jews and Muslims",
+      "code": "HIS- 74B",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/introduction-to-jews-and-muslims/4141989"
+    },
+    {
+      "name": "Introduction to Legal Process",
+      "code": "LGST-10",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/introduction-to-legal-process/4341625"
+    },
+    {
+      "name": "Introduction to Linguistics",
+      "code": "LING50",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/introduction-to-linguistics/4393681"
+    },
+    {
+      "name": "Introduction to Machine Learning",
+      "code": "AISV_X400",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/introduction-to-machine-learning/7118765"
+    },
+    {
+      "name": "Introduction to Management Sciences",
+      "code": "ECON115",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/introduction-to-management-sciences/3815206"
+    },
+    {
+      "name": "Introduction to Networking and the Internet",
+      "code": "CSE 80N",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/introduction-to-networking-and-the-internet/4420120"
+    },
+    {
+      "name": "Introduction to Neuroscience",
+      "code": "BIOL 125",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/introduction-to-neuroscience/3815104"
+    },
+    {
+      "name": "Introduction to Operating Systems",
+      "code": "CMPS 111",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/introduction-to-operating-systems/1111915"
+    },
+    {
+      "name": "introduction to philosophy",
+      "code": "PHIL-11",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/introduction-to-philosophy/4153006"
+    },
+    {
+      "name": "Introduction To Photography",
+      "code": "ART 80D",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/introduction-to-photography/1106923"
+    },
+    {
+      "name": "Introduction to Physics",
+      "code": "PHYS 6A",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/introduction-to-physics/7679113"
+    },
+    {
+      "name": "Introduction To Physics I",
+      "code": "PHYS 5A",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/introduction-to-physics-i/1129182"
+    },
+    {
+      "name": "Introduction To Physics Ii",
+      "code": "PHYS 5B",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/introduction-to-physics-ii/1129187"
+    },
+    {
+      "name": "Introduction To Physics Iii",
+      "code": "PHYS 5C",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/introduction-to-physics-iii/1129320"
+    },
+    {
+      "name": "Introduction to Politics",
+      "code": "POLI-3",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/introduction-to-politics/4141954"
+    },
+    {
+      "name": "Introduction To Probability Theory",
+      "code": "AMS 131",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/introduction-to-probability-theory/1104384"
+    },
+    {
+      "name": "Introduction to Production Technique",
+      "code": "FILM 20P",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/introduction-to-production-technique/4374010"
+    },
+    {
+      "name": "Introduction To Programming (Accelerated)",
+      "code": "CMPS 12A",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/introduction-to-programming-accelerated/1111948"
+    },
+    {
+      "name": "Introduction To Programming In Java",
+      "code": "CMPS 5J",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/introduction-to-programming-in-java/1112622"
+    },
+    {
+      "name": "Introduction to Sociology",
+      "code": "SOCY 1",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/introduction-to-sociology/1131970"
+    },
+    {
+      "name": "Introduction to Software Engineering",
+      "code": "CMPS 115-02",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/introduction-to-software-engineering/3003460"
+    },
+    {
+      "name": "Introduction to Television Studies",
+      "code": "FILM20B",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/introduction-to-television-studies/4408975"
+    },
+    {
+      "name": "Introduction To University Discourse: International And Global Issues",
+      "code": "CLNI 80A",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/introduction-to-university-discourse-international-and-global-issues/1110527"
+    },
+    {
+      "name": "Introduction To World Music",
+      "code": "MUSC 11D",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/introduction-to-world-music/1126548"
+    },
+    {
+      "name": "Introductory Microeconomics: Resource Allocation And Market Structure",
+      "code": "ECON 1",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/introductory-microeconomics-resource-allocation-and-market-structure/1113905"
+    },
+    {
+      "name": "Invented Languages, From Elvish to Esperanto",
+      "code": "LING 80K",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/invented-languages-from-elvish-to-esperanto/4402928"
+    },
+    {
+      "name": "Invertebrate Zoology/Laboratory",
+      "code": null,
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/invertebrate-zoologylaboratory/3815424"
+    },
+    {
+      "name": "Is There Truth in Numbers: The Role of Statistics in Economics",
+      "code": "Econ 104",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/is-there-truth-in-numbers-the-role-of-statistics-in-economics/4349203"
+    },
+    {
+      "name": "Issues in Constitutional Law",
+      "code": "LGST111C",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/issues-in-constitutional-law/3815137"
+    },
+    {
+      "name": "Japanese 2: First-Year Japanese",
+      "code": "JAPN 2",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/japanese-2-first-year-japanese/5736732"
+    },
+    {
+      "name": "Kelp Forest Ecology",
+      "code": "BIOE 161",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/kelp-forest-ecology/3815531"
+    },
+    {
+      "name": "Law, Crime, and Social Justice",
+      "code": "LGST123",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/law-crime-and-social-justice/3815169"
+    },
+    {
+      "name": "Life in Health Care",
+      "code": "BIOL188",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/life-in-health-care/3815089"
+    },
+    {
+      "name": "Life In The Sea",
+      "code": "OCEA 80A",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/life-in-the-sea/1127692"
+    },
+    {
+      "name": "Lifespan Developmental Psychopathology",
+      "code": "PSYC 115",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/lifespan-developmental-psychopathology/1130635"
+    },
+    {
+      "name": "Linear Algebra",
+      "code": "MATH 21",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/linear-algebra/1125644"
+    },
+    {
+      "name": "Linear Statistical Models",
+      "code": "AMS 256",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/linear-statistical-models/1104613"
+    },
+    {
+      "name": "Machine Learning",
+      "code": "ECON124",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/machine-learning/7109840"
+    },
+    {
+      "name": "Machine Learning",
+      "code": "CMPS 142",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/machine-learning/1112028"
+    },
+    {
+      "name": "Machine Learning",
+      "code": "CMPS 242",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/machine-learning/1112326"
+    },
+    {
+      "name": "Magnetic Phase Transitions, and Free Energies in a Magnetic Field",
+      "code": "PHYS112",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/magnetic-phase-transitions-and-free-energies-in-a-magnetic-field/6496691"
+    },
+    {
+      "name": "Magnetohydrodynamics",
+      "code": "AMS 275",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/magnetohydrodynamics/3010872"
+    },
+    {
+      "name": "Major planner",
+      "code": "Mj123",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/major-planner/7426720"
+    },
+    {
+      "name": "Management in the Global Economy",
+      "code": "ECON 188",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/management-in-the-global-economy/3815226"
+    },
+    {
+      "name": "Management of Technology",
+      "code": "TIM 170",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/management-of-technology/6106817"
+    },
+    {
+      "name": "Management of Technology I",
+      "code": "TIM 205",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/management-of-technology-i/3815483"
+    },
+    {
+      "name": "Management Technology Seminar",
+      "code": "CSE 170",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/management-technology-seminar/4420119"
+    },
+    {
+      "name": "Managerial Economics",
+      "code": "ECON101",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/managerial-economics/3815205"
+    },
+    {
+      "name": "Manifolds Ii",
+      "code": "MATH 209",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/manifolds-ii/1125623"
+    },
+    {
+      "name": "Marine Conservation Biology",
+      "code": "BIOE 165",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/marine-conservation-biology/3815102"
+    },
+    {
+      "name": "Marine Ecology",
+      "code": "BIOE 108",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/marine-ecology/3815523"
+    },
+    {
+      "name": "Marine Geomorphology",
+      "code": "MGR 009",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/marine-geomorphology/4250113"
+    },
+    {
+      "name": "Marketing",
+      "code": "ECON161A",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/marketing/1114241"
+    },
+    {
+      "name": "Math Methds Econ Ii",
+      "code": "AMS 11B",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/math-methds-econ-ii/1104369"
+    },
+    {
+      "name": "Math Methods Ii",
+      "code": "AMS 20",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/math-methods-ii/1104475"
+    },
+    {
+      "name": "Math Problm Solving",
+      "code": "MATH 30",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/math-problm-solving/1126026"
+    },
+    {
+      "name": "Mathematical Methods For Economists I",
+      "code": "AMS 11A",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/mathematical-methods-for-economists-i/1104374"
+    },
+    {
+      "name": "Mathematical Methods For Economists Ii",
+      "code": "AMS 11B",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/mathematical-methods-for-economists-ii/1104379"
+    },
+    {
+      "name": "Mathematical Methods For Engineers I",
+      "code": "AMS 10",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/mathematical-methods-for-engineers-i/1104330"
+    },
+    {
+      "name": "Mathematical Methods For Engineers Ii",
+      "code": "AMS 20",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/mathematical-methods-for-engineers-ii/1104437"
+    },
+    {
+      "name": "Mathematical Methods in Physics III",
+      "code": "PHYS 116C",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/mathematical-methods-in-physics-iii/5913004"
+    },
+    {
+      "name": "Meaning, Paradox, and Love",
+      "code": "COWL 65",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/meaning-paradox-and-love/5339378"
+    },
+    {
+      "name": "Medical Anthropology",
+      "code": null,
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/medical-anthropology/3815243"
+    },
+    {
+      "name": "Medical Spanish",
+      "code": "SPAN 5M",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/medical-spanish/1132949"
+    },
+    {
+      "name": "Medicine and Culture",
+      "code": null,
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/medicine-and-culture/3815356"
+    },
+    {
+      "name": "Microbiology",
+      "code": "BIOL 119",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/microbiology/1108507"
+    },
+    {
+      "name": "Microbiology",
+      "code": "BIOE 119",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/microbiology/1107477"
+    },
+    {
+      "name": "Microbiology",
+      "code": "METX 119",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/microbiology/1126178"
+    },
+    {
+      "name": "Microbiology Laboratory",
+      "code": "METX 119L",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/microbiology-laboratory/1126200"
+    },
+    {
+      "name": "Microeconomic Analysis",
+      "code": "ECON 200",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/microeconomic-analysis/1114376"
+    },
+    {
+      "name": "Mobile Applications",
+      "code": "CMPS 121",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/mobile-applications/3003462"
+    },
+    {
+      "name": "Model United Nations",
+      "code": "CLNI 112",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/model-united-nations/1110483"
+    },
+    {
+      "name": "Modernity and Its Others",
+      "code": null,
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/modernity-and-its-others/3815258"
+    },
+    {
+      "name": "Molecular and Cellular Biology",
+      "code": "BIOL 20A",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/molecular-and-cellular-biology/5761408"
+    },
+    {
+      "name": "Molecular Biology",
+      "code": "BIOL101",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/molecular-biology/3815069"
+    },
+    {
+      "name": "Money and Banking",
+      "code": "ECON130",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/money-and-banking/3815182"
+    },
+    {
+      "name": "Monsters",
+      "code": "THEA 80C",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/monsters/4358846"
+    },
+    {
+      "name": "Multivariable Calc",
+      "code": "MATH 23A",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/multivariable-calc/1125804"
+    },
+    {
+      "name": "Multivariable Calculus",
+      "code": "MATH 23B",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/multivariable-calculus/1125818"
+    },
+    {
+      "name": "Multivariate Statistical Methods",
+      "code": "AMS 225",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/multivariate-statistical-methods/1104617"
+    },
+    {
+      "name": "Music 80C History and Literature of Electronic Music",
+      "code": "MUSC 80C",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/music-80c-history-and-literature-of-electronic-music/7429155"
+    },
+    {
+      "name": "Music of Latin America",
+      "code": "MUSC 80-F",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/music-of-latin-america/4142199"
+    },
+    {
+      "name": "Native Peoples Law",
+      "code": "LGST135",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/native-peoples-law/3815147"
+    },
+    {
+      "name": "Nonlinear Control Theory",
+      "code": "AMS 231",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/nonlinear-control-theory/1104593"
+    },
+    {
+      "name": "Numerical Linear Algebra",
+      "code": "AMS 213A",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/numerical-linear-algebra/3009767"
+    },
+    {
+      "name": "Numerical Methods for the Solution of Differential Equations",
+      "code": "AMS 213B",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/numerical-methods-for-the-solution-of-differential-equations/3009770"
+    },
+    {
+      "name": "Oppression and Liberation",
+      "code": "PSYC 142",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/oppression-and-liberation/5932587"
+    },
+    {
+      "name": "optical fibre commuincation",
+      "code": "ECE 230",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/optical-fibre-commuincation/5834551"
+    },
+    {
+      "name": "Ordinary Diff Equas",
+      "code": "MATH 106",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/ordinary-diff-equas/1125344"
+    },
+    {
+      "name": "Organic Chemistry",
+      "code": "CHEM 108A",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/organic-chemistry/1109502"
+    },
+    {
+      "name": "Organic Chemistry",
+      "code": "CHEM 8A",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/organic-chemistry/6663298"
+    },
+    {
+      "name": "Organic Chemistry",
+      "code": "CHEM 110",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/organic-chemistry/4403095"
+    },
+    {
+      "name": "Organizations and Leadership",
+      "code": "TIM 215",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/organizations-and-leadership/3815484"
+    },
+    {
+      "name": "Orientalism (Politics course)",
+      "code": "LGST109",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/orientalism-politics-course/3815129"
+    },
+    {
+      "name": "Our Changing Planet",
+      "code": "OCEA80B",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/our-changing-planet/5789292"
+    },
+    {
+      "name": "Pedagogy of Music",
+      "code": "MUSC 204",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/pedagogy-of-music/4353626"
+    },
+    {
+      "name": "Perception",
+      "code": "PSYC 121",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/perception/3815118"
+    },
+    {
+      "name": "Personal Finance and Investing",
+      "code": "COWL 52",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/personal-finance-and-investing/5401439"
+    },
+    {
+      "name": "Phonetics",
+      "code": "LING214",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/phonetics/3815410"
+    },
+    {
+      "name": "Phonology A",
+      "code": "LING211",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/phonology-a/3815408"
+    },
+    {
+      "name": "Plant Physiology",
+      "code": "BIOE 135/L",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/plant-physiology/1107589"
+    },
+    {
+      "name": "Plant Physiology Lab",
+      "code": "BIOE 135L",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/plant-physiology-lab/1107622"
+    },
+    {
+      "name": "Plant Physiology Laboratory",
+      "code": "BIOE 135L",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/plant-physiology-laboratory/1107616"
+    },
+    {
+      "name": "Politics and Culture in China",
+      "code": null,
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/politics-and-culture-in-china/3815265"
+    },
+    {
+      "name": "Post-Communist Politics",
+      "code": "POLI-143",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/post-communist-politics/3238731"
+    },
+    {
+      "name": "Poverty and Inequality",
+      "code": null,
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/poverty-and-inequality/3815330"
+    },
+    {
+      "name": "Practical-DFT-Concepts-for-ASICs-SoC-and-SiP",
+      "code": "VLSI.X409",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/practical-dft-concepts-for-asics-soc-and-sip/7728960"
+    },
+    {
+      "name": "Precalculus",
+      "code": "MATH 3",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/precalculus/1125993"
+    },
+    {
+      "name": "Precalculus with application",
+      "code": "math 11 a",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/precalculus-with-application/6529450"
+    },
+    {
+      "name": "Principles Of Instrumental Analysis",
+      "code": "CHEM 122",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/principles-of-instrumental-analysis/1109582"
+    },
+    {
+      "name": "Prison Narratives (3 Credits)",
+      "code": "KRSG 60C",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/prison-narratives-3-credits/1121844"
+    },
+    {
+      "name": "Probability/Stats",
+      "code": "CMPE 107",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/probabilitystats/1111149"
+    },
+    {
+      "name": "Project Implementation and Grant Writing for Social Entrepreneurs",
+      "code": "SOCY 107B",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/project-implementation-and-grant-writing-for-social-entrepreneurs/3815452"
+    },
+    {
+      "name": "Properties Of Materials",
+      "code": "EE 145",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/properties-of-materials/1115709"
+    },
+    {
+      "name": "Properties Of Materials Laboratory",
+      "code": "EE 145L",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/properties-of-materials-laboratory/1115690"
+    },
+    {
+      "name": "Psycholinguistics and Linguistic Theory",
+      "code": "LING257",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/psycholinguistics-and-linguistic-theory/3815415"
+    },
+    {
+      "name": "Public Speaking",
+      "code": "WRIT 106",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/public-speaking/3815500"
+    },
+    {
+      "name": "Python Programing Abstractions",
+      "code": "CSE 30",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/python-programing-abstractions/5855612"
+    },
+    {
+      "name": "Qualitative Research Methods",
+      "code": "PSYC 182",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/qualitative-research-methods/6061127"
+    },
+    {
+      "name": "Quantitative Ecology",
+      "code": "BIOE 148",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/quantitative-ecology/3815537"
+    },
+    {
+      "name": "Race and Anthropology",
+      "code": null,
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/race-and-anthropology/3815260"
+    },
+    {
+      "name": "Race and Ethnicity",
+      "code": "SOCY 244",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/race-and-ethnicity/3815469"
+    },
+    {
+      "name": "Rachel Carson core class/ ALE: environ/society",
+      "code": "CRSN 1",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/rachel-carson-core-class-ale-environsociety/5705702"
+    },
+    {
+      "name": "Regulating Religion/Sex",
+      "code": null,
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/regulating-religionsex/3815357"
+    },
+    {
+      "name": "Remote Sensing",
+      "code": "RMTS 0045",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/remote-sensing/4272633"
+    },
+    {
+      "name": "Representations Of Finite Groups I",
+      "code": "MATH 240A",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/representations-of-finite-groups-i/1125854"
+    },
+    {
+      "name": "Research Methods",
+      "code": "PSYC 100",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/research-methods/1130543"
+    },
+    {
+      "name": "Rhetoric And Inquiry",
+      "code": "WRIT 2",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/rhetoric-and-inquiry/3815551"
+    },
+    {
+      "name": "Rhetoric And Inquiry: Imagining Justice Past And Present",
+      "code": "COWL 80B",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/rhetoric-and-inquiry-imagining-justice-past-and-present/1112873"
+    },
+    {
+      "name": "Rhetoric Of The Natural Sciences",
+      "code": "WRIT 103",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/rhetoric-of-the-natural-sciences/3815498"
+    },
+    {
+      "name": "Robot Automation",
+      "code": "ECE 8",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/robot-automation/5911576"
+    },
+    {
+      "name": "Semantics A",
+      "code": "LING231",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/semantics-a/3815413"
+    },
+    {
+      "name": "Senior Seminar: Special Topics",
+      "code": "FILM194S",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/senior-seminar-special-topics/3815389"
+    },
+    {
+      "name": "Signals And Systems",
+      "code": "EE 103",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/signals-and-systems/1115606"
+    },
+    {
+      "name": "Silent Cinema",
+      "code": "FILM130",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/silent-cinema/3815373"
+    },
+    {
+      "name": "Social and Political Philosophy",
+      "code": "LGST144",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/social-and-political-philosophy/3815132"
+    },
+    {
+      "name": "Social History of Democracy, Anarchism and Indigenism",
+      "code": "SOCY/LGST 128C",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/social-history-of-democracy-anarchism-and-indigenism/4394086"
+    },
+    {
+      "name": "Social Justice",
+      "code": null,
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/social-justice/3815351"
+    },
+    {
+      "name": "Social Movements In Latin America",
+      "code": "LALS 80B",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/social-movements-in-latin-america/1122617"
+    },
+    {
+      "name": "Social Science Analytics",
+      "code": "LALS 100A",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/social-science-analytics/3815454"
+    },
+    {
+      "name": "Society and Democracy in American Political Development",
+      "code": "POLI120B",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/society-and-democracy-in-american-political-development/3815438"
+    },
+    {
+      "name": "Sociology of the Environment",
+      "code": "SOCY 223",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/sociology-of-the-environment/3815466"
+    },
+    {
+      "name": "Soviet History",
+      "code": "HIST 173",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/soviet-history/4832795"
+    },
+    {
+      "name": "Special Topics Workshop: Social Information Spaces",
+      "code": "FILM171D",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/special-topics-workshop-social-information-spaces/3815396"
+    },
+    {
+      "name": "Sports, Law, and Politics",
+      "code": "LGST117",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/sports-law-and-politics/3815165"
+    },
+    {
+      "name": "State and Capitalism in American Political Development",
+      "code": "POLI120C",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/state-and-capitalism-in-american-political-development/1129508"
+    },
+    {
+      "name": "Statistical Methods",
+      "code": "SOCY 3B",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/statistical-methods/3815553"
+    },
+    {
+      "name": "Statistics",
+      "code": "STAT131",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/statistics/7212205"
+    },
+    {
+      "name": "Stem Cell Biology",
+      "code": "BME 178",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/stem-cell-biology/3815116"
+    },
+    {
+      "name": "Stochastic Processes",
+      "code": "AMS 263",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/stochastic-processes/1104608"
+    },
+    {
+      "name": "Tax Factors Of Business And Investment",
+      "code": "ECON 117B",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/tax-factors-of-business-and-investment/1114041"
+    },
+    {
+      "name": "Technical And Business Writing: An Overview",
+      "code": "WRIT 107",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/technical-and-business-writing-an-overview/3815501"
+    },
+    {
+      "name": "The Beatles Music",
+      "code": "MUSC-80V",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/the-beatles-music/4141965"
+    },
+    {
+      "name": "The Biology of Everyday Life",
+      "code": "ANTH 136",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/the-biology-of-everyday-life/1105469"
+    },
+    {
+      "name": "the cosmos",
+      "code": "ASTR 1-01",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/the-cosmos/4333725"
+    },
+    {
+      "name": "The Economics Of Electronic Commerce",
+      "code": "ECON 139A",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/the-economics-of-electronic-commerce/1114166"
+    },
+    {
+      "name": "The History of The English Language",
+      "code": "HIS 59",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/the-history-of-the-english-language/4497744"
+    },
+    {
+      "name": "The Physical And Chemical Environment",
+      "code": "ENVS 23",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/the-physical-and-chemical-environment/1116737"
+    },
+    {
+      "name": "The Rhetoric Of The Social Sciences",
+      "code": "WRIT 102",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/the-rhetoric-of-the-social-sciences/3815497"
+    },
+    {
+      "name": "The United States of America from its Founding through Our Time",
+      "code": "HIS 15",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/the-united-states-of-america-from-its-founding-through-our-time/4401278"
+    },
+    {
+      "name": "Theory And Research In Intergroup Relations",
+      "code": "PSYC 253",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/theory-and-research-in-intergroup-relations/1131566"
+    },
+    {
+      "name": "Theory Of Finite Groups",
+      "code": "MATH 214",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/theory-of-finite-groups/1125679"
+    },
+    {
+      "name": "Time Series Analysis",
+      "code": "AMS 223",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/time-series-analysis/1104578"
+    },
+    {
+      "name": "Topics in American Legal History",
+      "code": "LGST155",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/topics-in-american-legal-history/3815134"
+    },
+    {
+      "name": "Topics in Macroeconomics",
+      "code": "ECON105",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/topics-in-macroeconomics/3815176"
+    },
+    {
+      "name": "tributario",
+      "code": "2021552",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/tributario/5083608"
+    },
+    {
+      "name": "Truth, Justice, and Statistics",
+      "code": "LALS 15",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/truth-justice-and-statistics/4394097"
+    },
+    {
+      "name": "U.S. And The World Economy",
+      "code": "POLI 17",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/us-and-the-world-economy/1129682"
+    },
+    {
+      "name": "Unclothed: Naked to Antiquity",
+      "code": "HAVC55",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/unclothed-naked-to-antiquity/5789295"
+    },
+    {
+      "name": "United States History 1877 to 1977",
+      "code": "HIS 10b",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/united-states-history-1877-to-1977/4349192"
+    },
+    {
+      "name": "United States History to 1877",
+      "code": "HIS 10A",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/united-states-history-to-1877/2998958"
+    },
+    {
+      "name": "Video Games as Visual Culture",
+      "code": "FILM 80V",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/video-games-as-visual-culture/4723342"
+    },
+    {
+      "name": "Virology",
+      "code": "BIOL 112",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/virology/3815431"
+    },
+    {
+      "name": "Walt Disney",
+      "code": "THEA 80N",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/walt-disney/1134097"
+    },
+    {
+      "name": "Water in the environment",
+      "code": "EART 30",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/water-in-the-environment/5374841"
+    },
+    {
+      "name": "Western art history",
+      "code": "7246",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/western-art-history/2137831"
+    },
+    {
+      "name": "What is a State?",
+      "code": "HISC 120",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/what-is-a-state/4428098"
+    },
+    {
+      "name": "Why Economies Succeed or Fail",
+      "code": "ECON 126",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/why-economies-succeed-or-fail/3815220"
+    },
+    {
+      "name": "Women in Cross-Cultural Perspective",
+      "code": null,
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/women-in-cross-cultural-perspective/3815242"
+    },
+    {
+      "name": "Women In Music",
+      "code": "Musc125",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/women-in-music/5910036"
+    },
+    {
+      "name": "World Society",
+      "code": "SOCY 15",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/world-society/3815447"
+    },
+    {
+      "name": "Writing About Genre",
+      "code": "WRIT 27",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/writing-about-genre/3815492"
+    },
+    {
+      "name": "Writing And Learning Seminar",
+      "code": "WRIT 202",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/writing-and-learning-seminar/3815521"
+    },
+    {
+      "name": "Writing In The Professions",
+      "code": "WRIT 110A",
+      "url": "https://www.studocu.com/en-us/course/university-of-california-santa-cruz/writing-in-the-professions/3815504"
+    }
+  ]
+}

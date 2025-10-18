@@ -1,0 +1,676 @@
+{
+  "university_id": "607",
+  "university_name": "Trinity College",
+  "courses": [
+    {
+      "name": "Abstract Algebra Ii",
+      "code": "MATH 308",
+      "url": "https://www.studocu.com/en-us/course/trinity-college/abstract-algebra-ii/1058517"
+    },
+    {
+      "name": "Adv Reading In Japanese Ii",
+      "code": "JAPN 411",
+      "url": "https://www.studocu.com/en-us/course/trinity-college/adv-reading-in-japanese-ii/1058460"
+    },
+    {
+      "name": "Advanced Health Assessment",
+      "code": "NUR 302",
+      "url": "https://www.studocu.com/en-us/course/trinity-college/advanced-health-assessment/4461821"
+    },
+    {
+      "name": "American Literary Realism",
+      "code": "WMGS 322",
+      "url": "https://www.studocu.com/en-us/course/trinity-college/american-literary-realism/1059233"
+    },
+    {
+      "name": "Analyzing Schools",
+      "code": "EDUC 200",
+      "url": "https://www.studocu.com/en-us/course/trinity-college/analyzing-schools/1057520"
+    },
+    {
+      "name": "Animal Physiology",
+      "code": "BIOL 319",
+      "url": "https://www.studocu.com/en-us/course/trinity-college/animal-physiology/1057254"
+    },
+    {
+      "name": "Arab Publics through Visual Culture",
+      "code": "ARAB 228",
+      "url": "https://www.studocu.com/en-us/course/trinity-college/arab-publics-through-visual-culture/6045501"
+    },
+    {
+      "name": "Art, Identity, And Society",
+      "code": "IART 101",
+      "url": "https://www.studocu.com/en-us/course/trinity-college/art-identity-and-society/1058327"
+    },
+    {
+      "name": "Asian Economics",
+      "code": "ECON 208",
+      "url": "https://www.studocu.com/en-us/course/trinity-college/asian-economics/1057437"
+    },
+    {
+      "name": "Bacterial Pathogenesis",
+      "code": "BIOL 446",
+      "url": "https://www.studocu.com/en-us/course/trinity-college/bacterial-pathogenesis/1057266"
+    },
+    {
+      "name": "Basic Economic Principles",
+      "code": "ECON 101",
+      "url": "https://www.studocu.com/en-us/course/trinity-college/basic-economic-principles/1057432"
+    },
+    {
+      "name": "Basic Musicianship",
+      "code": "MUSC 101",
+      "url": "https://www.studocu.com/en-us/course/trinity-college/basic-musicianship/1058542"
+    },
+    {
+      "name": "Biblical Tradition",
+      "code": "GDST 121",
+      "url": "https://www.studocu.com/en-us/course/trinity-college/biblical-tradition/1058049"
+    },
+    {
+      "name": "Bio Iii",
+      "code": "BIOL 203",
+      "url": "https://www.studocu.com/en-us/course/trinity-college/bio-iii/1057233"
+    },
+    {
+      "name": "Biology Ii: Evolution Of Life",
+      "code": "BIOL 182",
+      "url": "https://www.studocu.com/en-us/course/trinity-college/biology-ii-evolution-of-life/1057229"
+    },
+    {
+      "name": "Biology Iv",
+      "code": "BIOL 224",
+      "url": "https://www.studocu.com/en-us/course/trinity-college/biology-iv/1057241"
+    },
+    {
+      "name": "Biomedical Engineering",
+      "code": "ENGR 116",
+      "url": "https://www.studocu.com/en-us/course/trinity-college/biomedical-engineering/6050302"
+    },
+    {
+      "name": "British Literature CP",
+      "code": "23.1405",
+      "url": "https://www.studocu.com/en-us/course/trinity-college/british-literature-cp/5809217"
+    },
+    {
+      "name": "Business German",
+      "code": "2019",
+      "url": "https://www.studocu.com/en-us/course/trinity-college/business-german/1734201"
+    },
+    {
+      "name": "Calculus I",
+      "code": "MATH 131",
+      "url": "https://www.studocu.com/en-us/course/trinity-college/calculus-i/1058498"
+    },
+    {
+      "name": "Cell Biology",
+      "code": "BIOL 227",
+      "url": "https://www.studocu.com/en-us/course/trinity-college/cell-biology/1057244"
+    },
+    {
+      "name": "Cellular Basis Of Life",
+      "code": "BIOL 183",
+      "url": "https://www.studocu.com/en-us/course/trinity-college/cellular-basis-of-life/1057237"
+    },
+    {
+      "name": "Chem For Non-Scientsts",
+      "code": "CHEM 100",
+      "url": "https://www.studocu.com/en-us/course/trinity-college/chem-for-non-scientsts/1057277"
+    },
+    {
+      "name": "Chemistry",
+      "code": "1E5",
+      "url": "https://www.studocu.com/en-us/course/trinity-college/chemistry/3645011"
+    },
+    {
+      "name": "Child Development",
+      "code": "PSYC 619",
+      "url": "https://www.studocu.com/en-us/course/trinity-college/child-development/1058968"
+    },
+    {
+      "name": "Chinese Global Cities",
+      "code": "URST 218",
+      "url": "https://www.studocu.com/en-us/course/trinity-college/chinese-global-cities/6053159"
+    },
+    {
+      "name": "Christian Social Ethics",
+      "code": "RELG 338",
+      "url": "https://www.studocu.com/en-us/course/trinity-college/christian-social-ethics/1059066"
+    },
+    {
+      "name": "Civil War And Reconstr",
+      "code": "HIST 354",
+      "url": "https://www.studocu.com/en-us/course/trinity-college/civil-war-and-reconstr/1058257"
+    },
+    {
+      "name": "Classical & Contemprary Theory",
+      "code": "SOCL 202",
+      "url": "https://www.studocu.com/en-us/course/trinity-college/classical-contemprary-theory/1059155"
+    },
+    {
+      "name": "Cognitive Science",
+      "code": "PSYC 356",
+      "url": "https://www.studocu.com/en-us/course/trinity-college/cognitive-science/1058937"
+    },
+    {
+      "name": "Communications&Politics",
+      "code": "POLS 325",
+      "url": "https://www.studocu.com/en-us/course/trinity-college/communicationspolitics/1058844"
+    },
+    {
+      "name": "Comparative politics",
+      "code": "PO",
+      "url": "https://www.studocu.com/en-us/course/trinity-college/comparative-politics/3176192"
+    },
+    {
+      "name": "Computer Science Seminar",
+      "code": "CPSC 404",
+      "url": "https://www.studocu.com/en-us/course/trinity-college/computer-science-seminar/1057417"
+    },
+    {
+      "name": "Con Law",
+      "code": "POLS 316",
+      "url": "https://www.studocu.com/en-us/course/trinity-college/con-law/1058840"
+    },
+    {
+      "name": "Contemp Econ Issues",
+      "code": "ECON 201",
+      "url": "https://www.studocu.com/en-us/course/trinity-college/contemp-econ-issues/1057434"
+    },
+    {
+      "name": "Criminal Law",
+      "code": "LA1203",
+      "url": "https://www.studocu.com/en-us/course/trinity-college/criminal-law/4345714"
+    },
+    {
+      "name": "Cultural Histories Of Medicine",
+      "code": "HIST 401",
+      "url": "https://www.studocu.com/en-us/course/trinity-college/cultural-histories-of-medicine/1058279"
+    },
+    {
+      "name": "Culture And Mental Health",
+      "code": "FYSM 103",
+      "url": "https://www.studocu.com/en-us/course/trinity-college/culture-and-mental-health/1057907"
+    },
+    {
+      "name": "Database Fundamentals",
+      "code": "CPSC 372",
+      "url": "https://www.studocu.com/en-us/course/trinity-college/database-fundamentals/1057412"
+    },
+    {
+      "name": "diploma of hospitality management",
+      "code": "0100850",
+      "url": "https://www.studocu.com/en-us/course/trinity-college/diploma-of-hospitality-management/4854643"
+    },
+    {
+      "name": "Electric English",
+      "code": "ENGL 811",
+      "url": "https://www.studocu.com/en-us/course/trinity-college/electric-english/1057733"
+    },
+    {
+      "name": "Electric English",
+      "code": "ENGL 411",
+      "url": "https://www.studocu.com/en-us/course/trinity-college/electric-english/1057666"
+    },
+    {
+      "name": "Electrodynamics",
+      "code": "PHYS 302",
+      "url": "https://www.studocu.com/en-us/course/trinity-college/electrodynamics/1058797"
+    },
+    {
+      "name": "Elem Organic Chem I",
+      "code": "CHEM 211",
+      "url": "https://www.studocu.com/en-us/course/trinity-college/elem-organic-chem-i/1057287"
+    },
+    {
+      "name": "Elem Organic Chem Ii",
+      "code": "CHEM 212",
+      "url": "https://www.studocu.com/en-us/course/trinity-college/elem-organic-chem-ii/1057288"
+    },
+    {
+      "name": "Engineering Materials",
+      "code": "ENGR 232",
+      "url": "https://www.studocu.com/en-us/course/trinity-college/engineering-materials/1057789"
+    },
+    {
+      "name": "English Law & Government",
+      "code": "HIST 337",
+      "url": "https://www.studocu.com/en-us/course/trinity-college/english-law-government/1058247"
+    },
+    {
+      "name": "English Lit 1700-Present",
+      "code": "ENGL 211",
+      "url": "https://www.studocu.com/en-us/course/trinity-college/english-lit-1700-present/1057549"
+    },
+    {
+      "name": "Entrepreneurship & Markets",
+      "code": "FORG 291",
+      "url": "https://www.studocu.com/en-us/course/trinity-college/entrepreneurship-markets/1057852"
+    },
+    {
+      "name": "Environmental Chemistry",
+      "code": "CHEM 230",
+      "url": "https://www.studocu.com/en-us/course/trinity-college/environmental-chemistry/1057289"
+    },
+    {
+      "name": "Environmental Philosophy",
+      "code": "PHIL 227",
+      "url": "https://www.studocu.com/en-us/course/trinity-college/environmental-philosophy/1058729"
+    },
+    {
+      "name": "Ethics",
+      "code": "PHIL 103",
+      "url": "https://www.studocu.com/en-us/course/trinity-college/ethics/1058709"
+    },
+    {
+      "name": "EU law",
+      "code": "20476",
+      "url": "https://www.studocu.com/en-us/course/trinity-college/eu-law/3591868"
+    },
+    {
+      "name": "Exploring Music",
+      "code": "MUSC 121",
+      "url": "https://www.studocu.com/en-us/course/trinity-college/exploring-music/1058552"
+    },
+    {
+      "name": "Feminist Political Theory",
+      "code": "POLS 359",
+      "url": "https://www.studocu.com/en-us/course/trinity-college/feminist-political-theory/1058862"
+    },
+    {
+      "name": "Filmmaking",
+      "code": "FILM 301",
+      "url": "https://www.studocu.com/en-us/course/trinity-college/filmmaking/1057842"
+    },
+    {
+      "name": "Financial Accounting",
+      "code": "ECON 806",
+      "url": "https://www.studocu.com/en-us/course/trinity-college/financial-accounting/1057501"
+    },
+    {
+      "name": "Financial Management",
+      "code": "BU7578",
+      "url": "https://www.studocu.com/en-us/course/trinity-college/financial-management/3236095"
+    },
+    {
+      "name": "Foreigners In Roman Literature",
+      "code": "LATN 307",
+      "url": "https://www.studocu.com/en-us/course/trinity-college/foreigners-in-roman-literature/1058469"
+    },
+    {
+      "name": "French Cinema",
+      "code": "LACS 333",
+      "url": "https://www.studocu.com/en-us/course/trinity-college/french-cinema/1058458"
+    },
+    {
+      "name": "Frontiers In Medicine",
+      "code": "BIOL 104",
+      "url": "https://www.studocu.com/en-us/course/trinity-college/frontiers-in-medicine/1057214"
+    },
+    {
+      "name": "Fundamentals Of Accounting",
+      "code": "ECON 103",
+      "url": "https://www.studocu.com/en-us/course/trinity-college/fundamentals-of-accounting/1057433"
+    },
+    {
+      "name": "General Psychology",
+      "code": "PSYC 101",
+      "url": "https://www.studocu.com/en-us/course/trinity-college/general-psychology/1058908"
+    },
+    {
+      "name": "Global Politics",
+      "code": "INTS 212",
+      "url": "https://www.studocu.com/en-us/course/trinity-college/global-politics/1058352"
+    },
+    {
+      "name": "Health Policy",
+      "code": "PBPL 891",
+      "url": "https://www.studocu.com/en-us/course/trinity-college/health-policy/1058674"
+    },
+    {
+      "name": "Hindu Views War And Peace",
+      "code": "RELG 333",
+      "url": "https://www.studocu.com/en-us/course/trinity-college/hindu-views-war-and-peace/1059028"
+    },
+    {
+      "name": "Hist As Text, Text As Hist",
+      "code": "HIST 301",
+      "url": "https://www.studocu.com/en-us/course/trinity-college/hist-as-text-text-as-hist/1058217"
+    },
+    {
+      "name": "History Of Economic Thought",
+      "code": "ECON 333",
+      "url": "https://www.studocu.com/en-us/course/trinity-college/history-of-economic-thought/1057484"
+    },
+    {
+      "name": "History Of Psychology",
+      "code": "PSYC 414",
+      "url": "https://www.studocu.com/en-us/course/trinity-college/history-of-psychology/1058954"
+    },
+    {
+      "name": "History Workshop",
+      "code": "HIST 300",
+      "url": "https://www.studocu.com/en-us/course/trinity-college/history-workshop/1058228"
+    },
+    {
+      "name": "Human Biology",
+      "code": "BIOL 118",
+      "url": "https://www.studocu.com/en-us/course/trinity-college/human-biology/1057218"
+    },
+    {
+      "name": "Idp Study Unit",
+      "code": "ECON 601",
+      "url": "https://www.studocu.com/en-us/course/trinity-college/idp-study-unit/1057496"
+    },
+    {
+      "name": "Immigrants & Refugees",
+      "code": "INTS 249",
+      "url": "https://www.studocu.com/en-us/course/trinity-college/immigrants-refugees/1058369"
+    },
+    {
+      "name": "Ind Study In Quantitative Apps",
+      "code": "ECON 401",
+      "url": "https://www.studocu.com/en-us/course/trinity-college/ind-study-in-quantitative-apps/1057487"
+    },
+    {
+      "name": "Industrial Organization",
+      "code": "ECON 308",
+      "url": "https://www.studocu.com/en-us/course/trinity-college/industrial-organization/1057462"
+    },
+    {
+      "name": "Intro Chemistry I & Lab",
+      "code": "CHEM 111",
+      "url": "https://www.studocu.com/en-us/course/trinity-college/intro-chemistry-i-lab/1057282"
+    },
+    {
+      "name": "Intro Chemistry Ii & Lab",
+      "code": "CHEM 112",
+      "url": "https://www.studocu.com/en-us/course/trinity-college/intro-chemistry-ii-lab/1057278"
+    },
+    {
+      "name": "Intro Classical Art/Archaeolgy",
+      "code": "CLCV 111",
+      "url": "https://www.studocu.com/en-us/course/trinity-college/intro-classical-artarchaeolgy/1057336"
+    },
+    {
+      "name": "Intro Intl Relations",
+      "code": "POLS 104",
+      "url": "https://www.studocu.com/en-us/course/trinity-college/intro-intl-relations/1058807"
+    },
+    {
+      "name": "Intro Pol Philosophy",
+      "code": "POLS 105",
+      "url": "https://www.studocu.com/en-us/course/trinity-college/intro-pol-philosophy/1058808"
+    },
+    {
+      "name": "Intro To Asian Art",
+      "code": "AHIS 103",
+      "url": "https://www.studocu.com/en-us/course/trinity-college/intro-to-asian-art/1056992"
+    },
+    {
+      "name": "Intro To Cultural Anthropology",
+      "code": "ANTH 201",
+      "url": "https://www.studocu.com/en-us/course/trinity-college/intro-to-cultural-anthropology/1057212"
+    },
+    {
+      "name": "Introduction To Computing",
+      "code": "CPSC 115",
+      "url": "https://www.studocu.com/en-us/course/trinity-college/introduction-to-computing/1057397"
+    },
+    {
+      "name": "Introduction To Engineering",
+      "code": "ENGR 102",
+      "url": "https://www.studocu.com/en-us/course/trinity-college/introduction-to-engineering/1057781"
+    },
+    {
+      "name": "Introduction to Management and Business",
+      "code": "MGMT101",
+      "url": "https://www.studocu.com/en-us/course/trinity-college/introduction-to-management-and-business/4975790"
+    },
+    {
+      "name": "Jewish Philosophy",
+      "code": "RELG 307",
+      "url": "https://www.studocu.com/en-us/course/trinity-college/jewish-philosophy/1059021"
+    },
+    {
+      "name": "Law & Economics",
+      "code": "ECON 833",
+      "url": "https://www.studocu.com/en-us/course/trinity-college/law-economics/1057510"
+    },
+    {
+      "name": "Law, Politics And Society",
+      "code": "POLS 373",
+      "url": "https://www.studocu.com/en-us/course/trinity-college/law-politics-and-society/1058866"
+    },
+    {
+      "name": "Lincoln And His Era",
+      "code": "AMST 409",
+      "url": "https://www.studocu.com/en-us/course/trinity-college/lincoln-and-his-era/1134535"
+    },
+    {
+      "name": "Macroeconomic Theory",
+      "code": "ECON 302",
+      "url": "https://www.studocu.com/en-us/course/trinity-college/macroeconomic-theory/1057451"
+    },
+    {
+      "name": "Manage Recruitment selection and induction",
+      "code": "bsbhrm506",
+      "url": "https://www.studocu.com/en-us/course/trinity-college/manage-recruitment-selection-and-induction/4093332"
+    },
+    {
+      "name": "Mathematical Methods",
+      "code": "PHYS 300",
+      "url": "https://www.studocu.com/en-us/course/trinity-college/mathematical-methods/1058798"
+    },
+    {
+      "name": "Mathematical Statistics",
+      "code": "MATH 306",
+      "url": "https://www.studocu.com/en-us/course/trinity-college/mathematical-statistics/1058515"
+    },
+    {
+      "name": "Mechanics I",
+      "code": "ENGR 225",
+      "url": "https://www.studocu.com/en-us/course/trinity-college/mechanics-i/1057786"
+    },
+    {
+      "name": "Medical Ethics",
+      "code": "PHIL 215",
+      "url": "https://www.studocu.com/en-us/course/trinity-college/medical-ethics/1058716"
+    },
+    {
+      "name": "Microbiology",
+      "code": "BIOL 308",
+      "url": "https://www.studocu.com/en-us/course/trinity-college/microbiology/1057249"
+    },
+    {
+      "name": "Moral Theory And Pub Pol",
+      "code": "PBPL 836",
+      "url": "https://www.studocu.com/en-us/course/trinity-college/moral-theory-and-pub-pol/1058678"
+    },
+    {
+      "name": "Neural Engineering",
+      "code": "ENGR 401",
+      "url": "https://www.studocu.com/en-us/course/trinity-college/neural-engineering/1057811"
+    },
+    {
+      "name": "New Testament",
+      "code": "RELG 212",
+      "url": "https://www.studocu.com/en-us/course/trinity-college/new-testament/1058987"
+    },
+    {
+      "name": "Operations Management",
+      "code": "BU7573",
+      "url": "https://www.studocu.com/en-us/course/trinity-college/operations-management/3223032"
+    },
+    {
+      "name": "Organizations And Society",
+      "code": "SOCL 361",
+      "url": "https://www.studocu.com/en-us/course/trinity-college/organizations-and-society/1059106"
+    },
+    {
+      "name": "Organometallic Chem",
+      "code": "CHEM 415",
+      "url": "https://www.studocu.com/en-us/course/trinity-college/organometallic-chem/1057303"
+    },
+    {
+      "name": "Parent, Int Rel & Mental Hlth",
+      "code": "PSYC 240",
+      "url": "https://www.studocu.com/en-us/course/trinity-college/parent-int-rel-mental-hlth/1058917"
+    },
+    {
+      "name": "Phil Themes Western Cult",
+      "code": "GDST 211",
+      "url": "https://www.studocu.com/en-us/course/trinity-college/phil-themes-western-cult/1058052"
+    },
+    {
+      "name": "Philosophy Of Sport",
+      "code": "PHIL 213",
+      "url": "https://www.studocu.com/en-us/course/trinity-college/philosophy-of-sport/1058713"
+    },
+    {
+      "name": "Plants And People",
+      "code": "BIOL 107",
+      "url": "https://www.studocu.com/en-us/course/trinity-college/plants-and-people/1057215"
+    },
+    {
+      "name": "Principles and Practice",
+      "code": "PBPL 800",
+      "url": "https://www.studocu.com/en-us/course/trinity-college/principles-and-practice/3040837"
+    },
+    {
+      "name": "Principles Of Neuroscience-Lab",
+      "code": "NESC 201",
+      "url": "https://www.studocu.com/en-us/course/trinity-college/principles-of-neuroscience-lab/1058587"
+    },
+    {
+      "name": "Psychosocial Pers",
+      "code": "PSYC 223",
+      "url": "https://www.studocu.com/en-us/course/trinity-college/psychosocial-pers/1058911"
+    },
+    {
+      "name": "Psychotherapy",
+      "code": "PSYC 471",
+      "url": "https://www.studocu.com/en-us/course/trinity-college/psychotherapy/1058963"
+    },
+    {
+      "name": "Public Finance",
+      "code": "ECON 807",
+      "url": "https://www.studocu.com/en-us/course/trinity-college/public-finance/1057502"
+    },
+    {
+      "name": "Quality Analysis",
+      "code": "QA 100",
+      "url": "https://www.studocu.com/en-us/course/trinity-college/quality-analysis/7265115"
+    },
+    {
+      "name": "Question Of Justice",
+      "code": "PHIL 310",
+      "url": "https://www.studocu.com/en-us/course/trinity-college/question-of-justice/1058752"
+    },
+    {
+      "name": "Real World Policy Implement",
+      "code": "PBPL 803",
+      "url": "https://www.studocu.com/en-us/course/trinity-college/real-world-policy-implement/1058654"
+    },
+    {
+      "name": "Religion",
+      "code": "RELG 666",
+      "url": "https://www.studocu.com/en-us/course/trinity-college/religion/1059038"
+    },
+    {
+      "name": "Religion In Amer History",
+      "code": "RELG 262",
+      "url": "https://www.studocu.com/en-us/course/trinity-college/religion-in-amer-history/1059005"
+    },
+    {
+      "name": "Research In Biology-Lab",
+      "code": "BIOL 425",
+      "url": "https://www.studocu.com/en-us/course/trinity-college/research-in-biology-lab/1057262"
+    },
+    {
+      "name": "Rhetoric & Media Arts",
+      "code": "ENGL 402",
+      "url": "https://www.studocu.com/en-us/course/trinity-college/rhetoric-media-arts/1057656"
+    },
+    {
+      "name": "Rich And Poor, White And Color",
+      "code": "FYSM 170",
+      "url": "https://www.studocu.com/en-us/course/trinity-college/rich-and-poor-white-and-color/1057979"
+    },
+    {
+      "name": "Science&Policies",
+      "code": "ENGR 108",
+      "url": "https://www.studocu.com/en-us/course/trinity-college/sciencepolicies/1057793"
+    },
+    {
+      "name": "Science, Reality & Rationality",
+      "code": "PHIL 221",
+      "url": "https://www.studocu.com/en-us/course/trinity-college/science-reality-rationality/1058740"
+    },
+    {
+      "name": "Short Story In Hebrew Bible",
+      "code": "RELG 229",
+      "url": "https://www.studocu.com/en-us/course/trinity-college/short-story-in-hebrew-bible/1058995"
+    },
+    {
+      "name": "Statistical Data Analysis",
+      "code": "MATH 207",
+      "url": "https://www.studocu.com/en-us/course/trinity-college/statistical-data-analysis/1058504"
+    },
+    {
+      "name": "Survey Of Engl Lit",
+      "code": "ENGL 210",
+      "url": "https://www.studocu.com/en-us/course/trinity-college/survey-of-engl-lit/1057548"
+    },
+    {
+      "name": "Teaching Assistant",
+      "code": "ITAL 466",
+      "url": "https://www.studocu.com/en-us/course/trinity-college/teaching-assistant/1058443"
+    },
+    {
+      "name": "Teaching Assistant",
+      "code": "MATH 466",
+      "url": "https://www.studocu.com/en-us/course/trinity-college/teaching-assistant/1058532"
+    },
+    {
+      "name": "Teaching Assistant",
+      "code": "PHYS 466",
+      "url": "https://www.studocu.com/en-us/course/trinity-college/teaching-assistant/1058815"
+    },
+    {
+      "name": "Theater Of The Americas",
+      "code": "THDN 239",
+      "url": "https://www.studocu.com/en-us/course/trinity-college/theater-of-the-americas/1059187"
+    },
+    {
+      "name": "Theatrical Traditions",
+      "code": "THDN 110",
+      "url": "https://www.studocu.com/en-us/course/trinity-college/theatrical-traditions/1059150"
+    },
+    {
+      "name": "Transnational Urbanism",
+      "code": "HIST 328",
+      "url": "https://www.studocu.com/en-us/course/trinity-college/transnational-urbanism/1058241"
+    },
+    {
+      "name": "Trinity College Choir",
+      "code": "MUSC 102",
+      "url": "https://www.studocu.com/en-us/course/trinity-college/trinity-college-choir/1058540"
+    },
+    {
+      "name": "Trinity GESE 7",
+      "code": "Inglés",
+      "url": "https://www.studocu.com/en-us/course/trinity-college/trinity-gese-7/5739305"
+    },
+    {
+      "name": "Urban Economics",
+      "code": "ECON 305",
+      "url": "https://www.studocu.com/en-us/course/trinity-college/urban-economics/1057453"
+    },
+    {
+      "name": "Women In Music",
+      "code": "MUSC 150",
+      "url": "https://www.studocu.com/en-us/course/trinity-college/women-in-music/1058553"
+    }
+  ]
+}

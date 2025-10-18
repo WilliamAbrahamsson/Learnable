@@ -1,4 +1,5 @@
 import { Canvas as FabricCanvas, Rect, Textbox, Group, Shadow, Image } from 'fabric';
+import * as fabric from 'fabric';
 import { CardData } from '@/types/canvas';
 import { FALLBACK_IMAGE_DATA_URL } from '@/constants/cardDefaults';
 
@@ -179,8 +180,65 @@ export const createCard = (
         });
         (editGlyph as any).isEditGlyph = true;
 
+        // Fact Check button (bottom-right)
+        const factH = 22;
+        const factW = 110;
+        const factBg = new Rect({
+          left: cardWidth - factW - btnPad,
+          top: cardHeight - factH - btnPad,
+          width: factW,
+          height: factH,
+          rx: 6,
+          ry: 6,
+          fill: '#F59E0B',
+          stroke: 'transparent',
+          strokeWidth: 0,
+          selectable: false,
+          evented: true,
+          hoverCursor: 'pointer',
+          visible: false,
+        });
+        (factBg as any).isFactCheckButton = true;
+        try {
+          (factBg as any).set('fill', new (fabric as any).Gradient({
+            type: 'linear',
+            gradientUnits: 'pixels',
+            coords: { x1: 0, y1: 0, x2: factW, y2: 0 },
+            colorStops: [
+              { offset: 0, color: '#F59E0B' },
+              { offset: 1, color: '#F97316' },
+            ],
+          }));
+        } catch {}
+        const factGlyph = new Textbox('✨', {
+          left: cardWidth - factW - btnPad + 8,
+          top: cardHeight - factH - btnPad + 2,
+          width: 16,
+          height: factH - 4,
+          fontSize: 14,
+          fill: '#FFFFFF',
+          selectable: false,
+          evented: false,
+          visible: false,
+        });
+        (factGlyph as any).isFactCheckGlyph = true;
+        const factLabel = new Textbox('Fact Check', {
+          left: cardWidth - factW - btnPad + 28,
+          top: cardHeight - factH - btnPad + 3,
+          width: factW - 36,
+          height: factH - 6,
+          fontSize: 12,
+          fill: '#FFFFFF',
+          fontWeight: 'bold',
+          fontFamily: 'system-ui, -apple-system, sans-serif',
+          selectable: false,
+          evented: false,
+          visible: false,
+        });
+        (factLabel as any).isFactCheckLabel = true;
+
         const cardGroup = new Group(
-          [hoverArea, background, img, editBg, editGlyph],
+          [hoverArea, background, img, editBg, editGlyph, factBg, factGlyph, factLabel],
           baseGroupOptions(defaultX, defaultY)
         );
 
@@ -285,8 +343,65 @@ export const createCard = (
     });
     (editGlyph as any).isEditGlyph = true;
 
+    // Fact Check button (bottom-right)
+    const factH = 22;
+    const factW = 110;
+    const factBg = new Rect({
+      left: cardWidth - factW - btnPad,
+      top: cardHeight - factH - btnPad,
+      width: factW,
+      height: factH,
+      rx: 6,
+      ry: 6,
+      fill: '#F59E0B',
+      stroke: 'transparent',
+      strokeWidth: 0,
+      selectable: false,
+      evented: true,
+      hoverCursor: 'pointer',
+      visible: false,
+    });
+    (factBg as any).isFactCheckButton = true;
+    try {
+      (factBg as any).set('fill', new (fabric as any).Gradient({
+        type: 'linear',
+        gradientUnits: 'pixels',
+        coords: { x1: 0, y1: 0, x2: factW, y2: 0 },
+        colorStops: [
+          { offset: 0, color: '#F59E0B' },
+          { offset: 1, color: '#F97316' },
+        ],
+      }));
+    } catch {}
+    const factGlyph = new Textbox('✨', {
+      left: cardWidth - factW - btnPad + 8,
+      top: cardHeight - factH - btnPad + 2,
+      width: 16,
+      height: factH - 4,
+      fontSize: 14,
+      fill: '#FFFFFF',
+      selectable: false,
+      evented: false,
+      visible: false,
+    });
+    (factGlyph as any).isFactCheckGlyph = true;
+    const factLabel = new Textbox('Fact Check', {
+      left: cardWidth - factW - btnPad + 28,
+      top: cardHeight - factH - btnPad + 3,
+      width: factW - 36,
+      height: factH - 6,
+      fontSize: 12,
+      fill: '#FFFFFF',
+      fontWeight: 'bold',
+      fontFamily: 'system-ui, -apple-system, sans-serif',
+      selectable: false,
+      evented: false,
+      visible: false,
+    });
+    (factLabel as any).isFactCheckLabel = true;
+
     const cardGroup = new Group(
-      [hoverArea, background, titleText, descText, editBg, editGlyph],
+      [hoverArea, background, titleText, descText, editBg, editGlyph, factBg, factGlyph, factLabel],
       baseGroupOptions(defaultX, defaultY)
     );
 

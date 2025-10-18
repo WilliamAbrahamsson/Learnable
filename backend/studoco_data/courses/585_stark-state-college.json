@@ -1,0 +1,431 @@
+{
+  "university_id": "585",
+  "university_name": "Stark State College",
+  "courses": [
+    {
+      "name": "American Literature Ii",
+      "code": "ENG 237",
+      "url": "https://www.studocu.com/en-us/course/stark-state-college/american-literature-ii/984881"
+    },
+    {
+      "name": "Anatomy And Physiology I",
+      "code": "BIO 121",
+      "url": "https://www.studocu.com/en-us/course/stark-state-college/anatomy-and-physiology-i/984178"
+    },
+    {
+      "name": "Anatomy And Physiology Ii",
+      "code": "BIO 122",
+      "url": "https://www.studocu.com/en-us/course/stark-state-college/anatomy-and-physiology-ii/984180"
+    },
+    {
+      "name": "Business Administration",
+      "code": "BUS 121",
+      "url": "https://www.studocu.com/en-us/course/stark-state-college/business-administration/984262"
+    },
+    {
+      "name": "Business Analysis With Algebra",
+      "code": "BUS 124",
+      "url": "https://www.studocu.com/en-us/course/stark-state-college/business-analysis-with-algebra/4317306"
+    },
+    {
+      "name": "Business Communication",
+      "code": "ENG 230",
+      "url": "https://www.studocu.com/en-us/course/stark-state-college/business-communication/984873"
+    },
+    {
+      "name": "Business Decision Making",
+      "code": "MGT 223",
+      "url": "https://www.studocu.com/en-us/course/stark-state-college/business-decision-making/985512"
+    },
+    {
+      "name": "Business Law And Ethics",
+      "code": "ACC 130",
+      "url": "https://www.studocu.com/en-us/course/stark-state-college/business-law-and-ethics/983839"
+    },
+    {
+      "name": "Clinical Applications Ii",
+      "code": "OTA 228",
+      "url": "https://www.studocu.com/en-us/course/stark-state-college/clinical-applications-ii/985676"
+    },
+    {
+      "name": "College Algebra",
+      "code": "MTH 125",
+      "url": "https://www.studocu.com/en-us/course/stark-state-college/college-algebra/985604"
+    },
+    {
+      "name": "College Composition",
+      "code": "ENG 124",
+      "url": "https://www.studocu.com/en-us/course/stark-state-college/college-composition/984847"
+    },
+    {
+      "name": "College Composition Ii",
+      "code": "ENG 231",
+      "url": "https://www.studocu.com/en-us/course/stark-state-college/college-composition-ii/984883"
+    },
+    {
+      "name": "College Mathematics",
+      "code": "MTH 100",
+      "url": "https://www.studocu.com/en-us/course/stark-state-college/college-mathematics/985602"
+    },
+    {
+      "name": "College Success Skills Mod Ii",
+      "code": "IDS 113",
+      "url": "https://www.studocu.com/en-us/course/stark-state-college/college-success-skills-mod-ii/985286"
+    },
+    {
+      "name": "Community",
+      "code": "NUR206",
+      "url": "https://www.studocu.com/en-us/course/stark-state-college/community/4999020"
+    },
+    {
+      "name": "Computer App-Powerpoint",
+      "code": "AOT 104",
+      "url": "https://www.studocu.com/en-us/course/stark-state-college/computer-app-powerpoint/983920"
+    },
+    {
+      "name": "Computer Appl For Tech Prof",
+      "code": "ECA 122",
+      "url": "https://www.studocu.com/en-us/course/stark-state-college/computer-appl-for-tech-prof/984504"
+    },
+    {
+      "name": "Concepts Nursing Practice in the Care of Patients Across the Lifespan with Complex Conditions Clinical",
+      "code": "NSG 261C",
+      "url": "https://www.studocu.com/en-us/course/stark-state-college/concepts-nursing-practice-in-the-care-of-patients-across-the-lifespan-with-complex-conditions-clinical/6150527"
+    },
+    {
+      "name": "Concepts Of Calculus",
+      "code": "MTH 221",
+      "url": "https://www.studocu.com/en-us/course/stark-state-college/concepts-of-calculus/985644"
+    },
+    {
+      "name": "Critical Analysis",
+      "code": "IDS 102",
+      "url": "https://www.studocu.com/en-us/course/stark-state-college/critical-analysis/985262"
+    },
+    {
+      "name": "Cultural Diversity",
+      "code": "SOC 225",
+      "url": "https://www.studocu.com/en-us/course/stark-state-college/cultural-diversity/985790"
+    },
+    {
+      "name": "Dental Assisting Materials",
+      "code": "DAS 124",
+      "url": "https://www.studocu.com/en-us/course/stark-state-college/dental-assisting-materials/984393"
+    },
+    {
+      "name": "Dental Assisting Radiography",
+      "code": "DAS 122",
+      "url": "https://www.studocu.com/en-us/course/stark-state-college/dental-assisting-radiography/984399"
+    },
+    {
+      "name": "Dental Assisting Tech I",
+      "code": "DAS 121",
+      "url": "https://www.studocu.com/en-us/course/stark-state-college/dental-assisting-tech-i/984397"
+    },
+    {
+      "name": "Dental Assisting Tech Ii",
+      "code": "DAS 123",
+      "url": "https://www.studocu.com/en-us/course/stark-state-college/dental-assisting-tech-ii/984389"
+    },
+    {
+      "name": "Effective Speaking",
+      "code": "COM 121",
+      "url": "https://www.studocu.com/en-us/course/stark-state-college/effective-speaking/984363"
+    },
+    {
+      "name": "Eng Diagnosis And Maj Serv",
+      "code": "AUT 123",
+      "url": "https://www.studocu.com/en-us/course/stark-state-college/eng-diagnosis-and-maj-serv/983995"
+    },
+    {
+      "name": "Eng Independent Study",
+      "code": "ETD 203",
+      "url": "https://www.studocu.com/en-us/course/stark-state-college/eng-independent-study/985037"
+    },
+    {
+      "name": "Entrepreneurship",
+      "code": "ENT 120",
+      "url": "https://www.studocu.com/en-us/course/stark-state-college/entrepreneurship/984891"
+    },
+    {
+      "name": "Ethics",
+      "code": "PHL 122",
+      "url": "https://www.studocu.com/en-us/course/stark-state-college/ethics/985707"
+    },
+    {
+      "name": "Financial Accounting",
+      "code": "ACC 132",
+      "url": "https://www.studocu.com/en-us/course/stark-state-college/financial-accounting/983838"
+    },
+    {
+      "name": "First Responder",
+      "code": "EMS 123",
+      "url": "https://www.studocu.com/en-us/course/stark-state-college/first-responder/984837"
+    },
+    {
+      "name": "Fund Concepts In Nursing",
+      "code": "NUR 121",
+      "url": "https://www.studocu.com/en-us/course/stark-state-college/fund-concepts-in-nursing/985634"
+    },
+    {
+      "name": "Fundamental Concepts of Nursing Practice Across the Lifespan",
+      "code": "NSG 100",
+      "url": "https://www.studocu.com/en-us/course/stark-state-college/fundamental-concepts-of-nursing-practice-across-the-lifespan/5737984"
+    },
+    {
+      "name": "Gen Org And Biol Chemistry I",
+      "code": "CHM 121",
+      "url": "https://www.studocu.com/en-us/course/stark-state-college/gen-org-and-biol-chemistry-i/984318"
+    },
+    {
+      "name": "General Biology I",
+      "code": "BIO 141",
+      "url": "https://www.studocu.com/en-us/course/stark-state-college/general-biology-i/984206"
+    },
+    {
+      "name": "General Psychology",
+      "code": "PSY 121",
+      "url": "https://www.studocu.com/en-us/course/stark-state-college/general-psychology/985701"
+    },
+    {
+      "name": "Grant Writing",
+      "code": "ENG 229",
+      "url": "https://www.studocu.com/en-us/course/stark-state-college/grant-writing/984867"
+    },
+    {
+      "name": "Htlh Data Mgt And Delivry Sysm",
+      "code": "HIT 121",
+      "url": "https://www.studocu.com/en-us/course/stark-state-college/htlh-data-mgt-and-delivry-sysm/985166"
+    },
+    {
+      "name": "Human & Social Servce Prac/Sem",
+      "code": "SWK 231",
+      "url": "https://www.studocu.com/en-us/course/stark-state-college/human-social-servce-pracsem/985825"
+    },
+    {
+      "name": "Human Biology",
+      "code": "BIO 127",
+      "url": "https://www.studocu.com/en-us/course/stark-state-college/human-biology/984197"
+    },
+    {
+      "name": "Human Growth And Develop",
+      "code": "PSY 123",
+      "url": "https://www.studocu.com/en-us/course/stark-state-college/human-growth-and-develop/985705"
+    },
+    {
+      "name": "Interpersonal Communication",
+      "code": "COM 122",
+      "url": "https://www.studocu.com/en-us/course/stark-state-college/interpersonal-communication/984391"
+    },
+    {
+      "name": "Interpreting Construction Doc",
+      "code": "CET 237",
+      "url": "https://www.studocu.com/en-us/course/stark-state-college/interpreting-construction-doc/984296"
+    },
+    {
+      "name": "Intro To Anat And Physio",
+      "code": "BIO 101",
+      "url": "https://www.studocu.com/en-us/course/stark-state-college/intro-to-anat-and-physio/984174"
+    },
+    {
+      "name": "Intro To Anat And Physio A",
+      "code": "BIO 101A",
+      "url": "https://www.studocu.com/en-us/course/stark-state-college/intro-to-anat-and-physio-a/984172"
+    },
+    {
+      "name": "Intro To Chemistry",
+      "code": "CHM 101",
+      "url": "https://www.studocu.com/en-us/course/stark-state-college/intro-to-chemistry/984302"
+    },
+    {
+      "name": "Intro To Criminal Justice",
+      "code": "CJS 121",
+      "url": "https://www.studocu.com/en-us/course/stark-state-college/intro-to-criminal-justice/984330"
+    },
+    {
+      "name": "Intro To Critical Care",
+      "code": "RCT 126",
+      "url": "https://www.studocu.com/en-us/course/stark-state-college/intro-to-critical-care/985756"
+    },
+    {
+      "name": "Intro To Dental Term And Anat",
+      "code": "DHY 128",
+      "url": "https://www.studocu.com/en-us/course/stark-state-college/intro-to-dental-term-and-anat/984431"
+    },
+    {
+      "name": "Intro To Gerontology",
+      "code": "GER 121",
+      "url": "https://www.studocu.com/en-us/course/stark-state-college/intro-to-gerontology/985138"
+    },
+    {
+      "name": "Intro To Healthcare",
+      "code": "HTD 201",
+      "url": "https://www.studocu.com/en-us/course/stark-state-college/intro-to-healthcare/985199"
+    },
+    {
+      "name": "Introduction To Logistics",
+      "code": "MKT 235",
+      "url": "https://www.studocu.com/en-us/course/stark-state-college/introduction-to-logistics/985542"
+    },
+    {
+      "name": "Introduction to Sociology",
+      "code": "SOC 121",
+      "url": "https://www.studocu.com/en-us/course/stark-state-college/introduction-to-sociology/5900934"
+    },
+    {
+      "name": "Language Arts",
+      "code": "ECE 221",
+      "url": "https://www.studocu.com/en-us/course/stark-state-college/language-arts/984742"
+    },
+    {
+      "name": "Legal Ethics",
+      "code": "PLS 123",
+      "url": "https://www.studocu.com/en-us/course/stark-state-college/legal-ethics/985696"
+    },
+    {
+      "name": "Machine Design",
+      "code": "MET 228",
+      "url": "https://www.studocu.com/en-us/course/stark-state-college/machine-design/985486"
+    },
+    {
+      "name": "Managng Entrepreneurial Growth",
+      "code": "ENT 124",
+      "url": "https://www.studocu.com/en-us/course/stark-state-college/managng-entrepreneurial-growth/984901"
+    },
+    {
+      "name": "Material Science",
+      "code": "MET 123",
+      "url": "https://www.studocu.com/en-us/course/stark-state-college/material-science/985468"
+    },
+    {
+      "name": "Med Surg 2",
+      "code": "NSG 241",
+      "url": "https://www.studocu.com/en-us/course/stark-state-college/med-surg-2/5150558"
+    },
+    {
+      "name": "Medical Office Procedures I",
+      "code": "MAT 124",
+      "url": "https://www.studocu.com/en-us/course/stark-state-college/medical-office-procedures-i/985442"
+    },
+    {
+      "name": "Medical Terminology",
+      "code": "BIO 125",
+      "url": "https://www.studocu.com/en-us/course/stark-state-college/medical-terminology/984188"
+    },
+    {
+      "name": "Nur Care Person/Alt I",
+      "code": "NUR 221",
+      "url": "https://www.studocu.com/en-us/course/stark-state-college/nur-care-personalt-i/985653"
+    },
+    {
+      "name": "Nur Care Person/Alt Ii",
+      "code": "NUR 222",
+      "url": "https://www.studocu.com/en-us/course/stark-state-college/nur-care-personalt-ii/985651"
+    },
+    {
+      "name": "Nursing Seminar",
+      "code": "NUR 224",
+      "url": "https://www.studocu.com/en-us/course/stark-state-college/nursing-seminar/985649"
+    },
+    {
+      "name": "Osha - 40 Hr - Hazwoper",
+      "code": "ENV 221",
+      "url": "https://www.studocu.com/en-us/course/stark-state-college/osha-40-hr-hazwoper/984999"
+    },
+    {
+      "name": "Pathology",
+      "code": "DHY 126",
+      "url": "https://www.studocu.com/en-us/course/stark-state-college/pathology/984433"
+    },
+    {
+      "name": "Pharmacology",
+      "code": "BIO 222",
+      "url": "https://www.studocu.com/en-us/course/stark-state-college/pharmacology/984210"
+    },
+    {
+      "name": "Pharmacology 2",
+      "code": "PNC 121",
+      "url": "https://www.studocu.com/en-us/course/stark-state-college/pharmacology-2/7478585"
+    },
+    {
+      "name": "Political Science",
+      "code": "PSC 121",
+      "url": "https://www.studocu.com/en-us/course/stark-state-college/political-science/985693"
+    },
+    {
+      "name": "Prin Of Hum Struct And Fun",
+      "code": "BIO 123",
+      "url": "https://www.studocu.com/en-us/course/stark-state-college/prin-of-hum-struct-and-fun/984191"
+    },
+    {
+      "name": "Princ Of Microbiology",
+      "code": "BIO 221",
+      "url": "https://www.studocu.com/en-us/course/stark-state-college/princ-of-microbiology/984204"
+    },
+    {
+      "name": "Principles Of Management",
+      "code": "MGT 121",
+      "url": "https://www.studocu.com/en-us/course/stark-state-college/principles-of-management/985500"
+    },
+    {
+      "name": "Psy Aspect Of Therapy",
+      "code": "PSY 222",
+      "url": "https://www.studocu.com/en-us/course/stark-state-college/psy-aspect-of-therapy/985733"
+    },
+    {
+      "name": "Psychosocial Aspects Ot",
+      "code": "OTA 123",
+      "url": "https://www.studocu.com/en-us/course/stark-state-college/psychosocial-aspects-ot/985657"
+    },
+    {
+      "name": "Respiratory Diseases",
+      "code": "RCT 222",
+      "url": "https://www.studocu.com/en-us/course/stark-state-college/respiratory-diseases/985778"
+    },
+    {
+      "name": "Social Psychology",
+      "code": "PSY 220",
+      "url": "https://www.studocu.com/en-us/course/stark-state-college/social-psychology/985714"
+    },
+    {
+      "name": "Statistics",
+      "code": "MTH 124",
+      "url": "https://www.studocu.com/en-us/course/stark-state-college/statistics/4317330"
+    },
+    {
+      "name": "Student Success Health Seminar",
+      "code": "HTH 101",
+      "url": "https://www.studocu.com/en-us/course/stark-state-college/student-success-health-seminar/985228"
+    },
+    {
+      "name": "Tech Project-Mechanical",
+      "code": "MET 226",
+      "url": "https://www.studocu.com/en-us/course/stark-state-college/tech-project-mechanical/985492"
+    },
+    {
+      "name": "Technical Comprehension",
+      "code": "IDS 101",
+      "url": "https://www.studocu.com/en-us/course/stark-state-college/technical-comprehension/985263"
+    },
+    {
+      "name": "Transition For Lpns",
+      "code": "NUR 201",
+      "url": "https://www.studocu.com/en-us/course/stark-state-college/transition-for-lpns/985646"
+    },
+    {
+      "name": "Us History I -To 1877",
+      "code": "HIS 121",
+      "url": "https://www.studocu.com/en-us/course/stark-state-college/us-history-i-to-1877/985150"
+    },
+    {
+      "name": "Us History Ii From 1877",
+      "code": "HIS 122",
+      "url": "https://www.studocu.com/en-us/course/stark-state-college/us-history-ii-from-1877/985142"
+    },
+    {
+      "name": "Victim And Crisis Intervention",
+      "code": "SWK 225",
+      "url": "https://www.studocu.com/en-us/course/stark-state-college/victim-and-crisis-intervention/985806"
+    }
+  ]
+}

@@ -1,0 +1,4001 @@
+{
+  "university_id": "109",
+  "university_name": "Universität Stuttgart",
+  "courses": [
+    {
+      "name": "Abfallmanagement",
+      "code": "293415",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/abfallmanagement/1547212"
+    },
+    {
+      "name": "Accounting",
+      "code": "Acctg 1",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/accounting/3739662"
+    },
+    {
+      "name": "Adsorption",
+      "code": "39421",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/adsorption/1547219"
+    },
+    {
+      "name": "Advanced CMOS Devices and Technology",
+      "code": "375510",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/advanced-cmos-devices-and-technology/1547220"
+    },
+    {
+      "name": "Advanced Physics Lab",
+      "code": "32412101",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/advanced-physics-lab/1547230"
+    },
+    {
+      "name": "African American Literature and Culture",
+      "code": "17114301",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/african-american-literature-and-culture/1547244"
+    },
+    {
+      "name": "Akteure der nationalsozialistischen Vernichtungspolitik",
+      "code": "211720042",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/akteure-der-nationalsozialistischen-vernichtungspolitik/3281365"
+    },
+    {
+      "name": "Akustik",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/akustik/7572535"
+    },
+    {
+      "name": "Algebra",
+      "code": "1370",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/algebra/1547256"
+    },
+    {
+      "name": "Algorithmen und Berechenbarkeit",
+      "code": "11150",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/algorithmen-und-berechenbarkeit/1547257"
+    },
+    {
+      "name": "Algorithmik",
+      "code": "10020",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/algorithmik/1547258"
+    },
+    {
+      "name": "Algorithmisches Sprachverstehen",
+      "code": "4013960",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/algorithmisches-sprachverstehen/1547260"
+    },
+    {
+      "name": "Allgemeine Wirtschaftspolitik",
+      "code": "2300800",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/allgemeine-wirtschaftspolitik/1547263"
+    },
+    {
+      "name": "Allgemeines Verwaltungsrecht mit rechtsmethodischer Einführung",
+      "code": "1730",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/allgemeines-verwaltungsrecht-mit-rechtsmethodischer-einfuhrung/1547265"
+    },
+    {
+      "name": "Altbausanierung",
+      "code": "1492",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/altbausanierung/1547266"
+    },
+    {
+      "name": "Alte Geschichte",
+      "code": "20821",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/alte-geschichte/1547267"
+    },
+    {
+      "name": "Analyse der deutschem Politikpraxis",
+      "code": "24114112",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/analyse-der-deutschem-politikpraxis/1547270"
+    },
+    {
+      "name": "Analyse der Vormodernen Literatur",
+      "code": "blax147",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/analyse-der-vormodernen-literatur/3584833"
+    },
+    {
+      "name": "Analyse tropfendynamischer Prozesse",
+      "code": "66111603",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/analyse-tropfendynamischer-prozesse/1547272"
+    },
+    {
+      "name": "Analyse von Lehr- & Lernprozessen 2",
+      "code": "BALAEWAL4",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/analyse-von-lehr-lernprozessen-2/3944556"
+    },
+    {
+      "name": "Analyse vormoderner Literatur",
+      "code": "181200140",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/analyse-vormoderner-literatur/5188521"
+    },
+    {
+      "name": "Analysis 1",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/analysis-1/1552188"
+    },
+    {
+      "name": "Analysis 2",
+      "code": "1300",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/analysis-2/1547273"
+    },
+    {
+      "name": "Anatomie, Biologie und Physiologie",
+      "code": "250711401",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/anatomie-biologie-und-physiologie/4303982"
+    },
+    {
+      "name": "Anforderungen im mehrgeschossigen (Holz-) Hochbau",
+      "code": "293362",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/anforderungen-im-mehrgeschossigen-holz-hochbau/1547281"
+    },
+    {
+      "name": "Anfängerkurs Mikrobiologie",
+      "code": "19025",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/anfangerkurs-mikrobiologie/1547279"
+    },
+    {
+      "name": "Anfängerpraktikum Physik",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/anfangerpraktikum-physik/3501048"
+    },
+    {
+      "name": "Angewandte Informatik",
+      "code": "1362",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/angewandte-informatik/1547283"
+    },
+    {
+      "name": "Angewandte Sportpsychologie",
+      "code": "39125",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/angewandte-sportpsychologie/1547291"
+    },
+    {
+      "name": "Anglistik",
+      "code": "30042",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/anglistik/1550228"
+    },
+    {
+      "name": "Anleitung zum experimentellen Arbeiten",
+      "code": "39360",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/anleitung-zum-experimentellen-arbeiten/1547295"
+    },
+    {
+      "name": "Anthropologie der mittelalterlichen Literatur. Eine Einführung.",
+      "code": "181401",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/anthropologie-der-mittelalterlichen-literatur-eine-einfuhrung/1547296"
+    },
+    {
+      "name": "Antike",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/antike/4760699"
+    },
+    {
+      "name": "Anwendungsorientierte Einführung in Office-Produkte",
+      "code": "5044",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/anwendungsorientierte-einfuhrung-in-office-produkte/1547300"
+    },
+    {
+      "name": "Applied Numerical Field Computations",
+      "code": "73410",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/applied-numerical-field-computations/5065234"
+    },
+    {
+      "name": "Arbeitsrecht I",
+      "code": "26110450",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/arbeitsrecht-i/1547308"
+    },
+    {
+      "name": "Arbeitswissenschaft I",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/arbeitswissenschaft-i/3271769"
+    },
+    {
+      "name": "Arbeitswissenschaft II",
+      "code": "3606071",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/arbeitswissenschaft-ii/1547310"
+    },
+    {
+      "name": "Architecture",
+      "code": "331490",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/architecture/1547313"
+    },
+    {
+      "name": "Architektur von Anwendungssystemen",
+      "code": "21111",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/architektur-von-anwendungssystemen/1547314"
+    },
+    {
+      "name": "Architekturgeschichte - History of Architecture",
+      "code": "3101101",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/architekturgeschichte-history-of-architecture/1547315"
+    },
+    {
+      "name": "Aspekte der Elektromobilität",
+      "code": "26210457",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/aspekte-der-elektromobilitat/1547316"
+    },
+    {
+      "name": "Astronomie",
+      "code": "330285",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/astronomie/1547318"
+    },
+    {
+      "name": "Atomic Transport and Phase Transformations",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/atomic-transport-and-phase-transformations/5304025"
+    },
+    {
+      "name": "Ausgewählte Kapitel des Projektmanagements",
+      "code": "330213",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/ausgewahlte-kapitel-des-projektmanagements/1547333"
+    },
+    {
+      "name": "Ausstellung Studienarbeiten Projekt Satdt und Landschaft",
+      "code": "5322",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/ausstellung-studienarbeiten-projekt-satdt-und-landschaft/1547340"
+    },
+    {
+      "name": "Auswirkung industrieller Aktivitäten auf Mensch und Umwelt",
+      "code": "293407",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/auswirkung-industrieller-aktivitaten-auf-mensch-und-umwelt/1547341"
+    },
+    {
+      "name": "Automatisierungstechnik I",
+      "code": "375700",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/automatisierungstechnik-i/1547343"
+    },
+    {
+      "name": "Automatisierungstechnik II",
+      "code": "6407033",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/automatisierungstechnik-ii/1547344"
+    },
+    {
+      "name": "Automotive Electronics",
+      "code": "376030",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/automotive-electronics/1547345"
+    },
+    {
+      "name": "Ähnlichkeitstheorie im Ingenieurwesen und in der Künstlichen Intelligenz",
+      "code": "39474",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/ahnlichkeitstheorie-im-ingenieurwesen-und-in-der-kunstlichen-intelligenz/1547246"
+    },
+    {
+      "name": "Basic Phonetics and Phonology",
+      "code": "20871",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/basic-phonetics-and-phonology/1547348"
+    },
+    {
+      "name": "Basketball",
+      "code": "BALASP3",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/basketball/3925030"
+    },
+    {
+      "name": "Bau und Betrieb städtischer Rohrnetze",
+      "code": "330205",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/bau-und-betrieb-stadtischer-rohrnetze/1547351"
+    },
+    {
+      "name": "Bau- und Immobilienrecht",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/bau-und-immobilienrecht/6357868"
+    },
+    {
+      "name": "Baubetriebslehre I",
+      "code": "24215201",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/baubetriebslehre-i/1547352"
+    },
+    {
+      "name": "Baubetriebslehre II",
+      "code": "330206",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/baubetriebslehre-ii/1547353"
+    },
+    {
+      "name": "Bauen mit Fertigteilen",
+      "code": "330927",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/bauen-mit-fertigteilen/1547354"
+    },
+    {
+      "name": "Baukonstrukion",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/baukonstrukion/5402690"
+    },
+    {
+      "name": "Baulicher Brandschutz",
+      "code": "330839",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/baulicher-brandschutz/1547357"
+    },
+    {
+      "name": "Baulicher Feuchteschutz",
+      "code": "330824",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/baulicher-feuchteschutz/1547358"
+    },
+    {
+      "name": "Bauphysik 1",
+      "code": "3104300",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/bauphysik-1/1547360"
+    },
+    {
+      "name": "Bauphysik 2.1",
+      "code": "3104301",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/bauphysik-21/1547361"
+    },
+    {
+      "name": "Baustatik",
+      "code": "331901",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/baustatik/1547364"
+    },
+    {
+      "name": "Baustatik und Baudynamik I",
+      "code": "331081",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/baustatik-und-baudynamik-i/1547365"
+    },
+    {
+      "name": "Baustofflehre",
+      "code": "330204",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/baustofflehre/1547366"
+    },
+    {
+      "name": "Baustofflehre 1.1",
+      "code": "3104302",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/baustofflehre-11/1547367"
+    },
+    {
+      "name": "Bautechnik 2",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/bautechnik-2/5419842"
+    },
+    {
+      "name": "Bautechnische Grundlagen",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/bautechnische-grundlagen/6445974"
+    },
+    {
+      "name": "Berechenbarkeit und Komplexität",
+      "code": "0",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/berechenbarkeit-und-komplexitat/3171608"
+    },
+    {
+      "name": "Berechnung von Wärmeübertragern",
+      "code": "4208401",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/berechnung-von-warmeubertragern/1547377"
+    },
+    {
+      "name": "Beschaffungsmanagement",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/beschaffungsmanagement/3272273"
+    },
+    {
+      "name": "Bestandsimmobilien und Zertifizierung",
+      "code": "2270526",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/bestandsimmobilien-und-zertifizierung/4476786"
+    },
+    {
+      "name": "Betrieb, Bewertung und Finanzierung öffentlicher Verkehrssysteme",
+      "code": "330418",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/betrieb-bewertung-und-finanzierung-offentlicher-verkehrssysteme/1547383"
+    },
+    {
+      "name": "Betriebliche Weiterbildung",
+      "code": "911230",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/betriebliche-weiterbildung/1547385"
+    },
+    {
+      "name": "Betriebswirtschafliche Grundlagen",
+      "code": "3103130",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/betriebswirtschafliche-grundlagen/1547388"
+    },
+    {
+      "name": "Bildungswissenschaftliche Grundfragen - Einführung in die Pädagogik",
+      "code": "910370",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/bildungswissenschaftliche-grundfragen-einfuhrung-in-die-padagogik/1547393"
+    },
+    {
+      "name": "Bildungswissenschaftliche Grundfragen - Pädagogische Grundfragen und Konzepte",
+      "code": "13141500",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/bildungswissenschaftliche-grundfragen-padagogische-grundfragen-und-konzepte/1547394"
+    },
+    {
+      "name": "Bildungswissenschaftliche Grundlagen",
+      "code": "59540",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/bildungswissenschaftliche-grundlagen/7360753"
+    },
+    {
+      "name": "Bioinformatik I",
+      "code": "331588",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/bioinformatik-i/1547399"
+    },
+    {
+      "name": "Biologie für Lebensmittelchemiker",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/biologie-fur-lebensmittelchemiker/6432077"
+    },
+    {
+      "name": "Biologische Abluftreinigung I",
+      "code": "331299",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/biologische-abluftreinigung-i/1547402"
+    },
+    {
+      "name": "Biologische Systeme",
+      "code": "11091",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/biologische-systeme/1547405"
+    },
+    {
+      "name": "Biologische Verfahren",
+      "code": "293411",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/biologische-verfahren/1547408"
+    },
+    {
+      "name": "Biomechanik der menschl. Bewegung",
+      "code": "25266502",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/biomechanik-der-menschl-bewegung/1547411"
+    },
+    {
+      "name": "Biomedical Implant Engineering",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/biomedical-implant-engineering/6742587"
+    },
+    {
+      "name": "Biophysikalische Chemie",
+      "code": "11080",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/biophysikalische-chemie/1547417"
+    },
+    {
+      "name": "Biophysikalische Grundlagen der Zellphysiologie",
+      "code": "11000",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/biophysikalische-grundlagen-der-zellphysiologie/1547418"
+    },
+    {
+      "name": "Bioproduktaufarbeitung",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/bioproduktaufarbeitung/5471912"
+    },
+    {
+      "name": "Biorobotik",
+      "code": "4911440",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/biorobotik/1547420"
+    },
+    {
+      "name": "Biostatistik 1",
+      "code": "5341",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/biostatistik-1/1547422"
+    },
+    {
+      "name": "Bioverfahrenstechnik",
+      "code": "3506133",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/bioverfahrenstechnik/1547426"
+    },
+    {
+      "name": "Brennstoffzellentechnik II",
+      "code": "6108035",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/brennstoffzellentechnik-ii/1547438"
+    },
+    {
+      "name": "Business English",
+      "code": "1099",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/business-english/1547443"
+    },
+    {
+      "name": "Business Intelligence",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/business-intelligence/7400018"
+    },
+    {
+      "name": "Business Management and Administration",
+      "code": "43330",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/business-management-and-administration/1547444"
+    },
+    {
+      "name": "Business Process Management",
+      "code": "26172100",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/business-process-management/1547445"
+    },
+    {
+      "name": "BWI",
+      "code": "330620",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/bwi/1547448"
+    },
+    {
+      "name": "BWL 1 Organisation und Personalführung",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/bwl-1-organisation-und-personalfuhrung/5303200"
+    },
+    {
+      "name": "BWL 2",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/bwl-2/2276629"
+    },
+    {
+      "name": "BWL 3",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/bwl-3/1717495"
+    },
+    {
+      "name": "BWP I",
+      "code": "293440",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/bwp-i/1547449"
+    },
+    {
+      "name": "BWP II",
+      "code": "1401102",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/bwp-ii/1547450"
+    },
+    {
+      "name": "Bürgerliches Recht",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/burgerliches-recht/3521792"
+    },
+    {
+      "name": "CAD und Produktmodelle / Grundlagen der graphischen Ingenieursysteme",
+      "code": "20301",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/cad-und-produktmodelle-grundlagen-der-graphischen-ingenieursysteme/1547452"
+    },
+    {
+      "name": "CAD/CAM im Metall- und Holzbau",
+      "code": "330725",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/cadcam-im-metall-und-holzbau/1547453"
+    },
+    {
+      "name": "Case Study in Hydraulic Structures",
+      "code": "28005",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/case-study-in-hydraulic-structures/1547454"
+    },
+    {
+      "name": "Case Study of Key Texts I",
+      "code": "3407611",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/case-study-of-key-texts-i/1547455"
+    },
+    {
+      "name": "Chemische Reaktionstechnik I",
+      "code": "21673",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/chemische-reaktionstechnik-i/1547465"
+    },
+    {
+      "name": "Chemistry of the Atmosphere",
+      "code": "932720",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/chemistry-of-the-atmosphere/1547469"
+    },
+    {
+      "name": "Computational Mechanics of Materials",
+      "code": "451510000",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/computational-mechanics-of-materials/5071497"
+    },
+    {
+      "name": "Computational Mechanics of Materials and Structures",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/computational-mechanics-of-materials-and-structures/1736709"
+    },
+    {
+      "name": "Computational Mechanics of Structure",
+      "code": "451710000",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/computational-mechanics-of-structure/5062807"
+    },
+    {
+      "name": "Construction, Contracting and Cultures in foreign Countries",
+      "code": "330242",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/construction-contracting-and-cultures-in-foreign-countries/1547487"
+    },
+    {
+      "name": "Continuum Mechanics",
+      "code": "451120000",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/continuum-mechanics/5071470"
+    },
+    {
+      "name": "Controlling 1",
+      "code": "42070",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/controlling-1/7045978"
+    },
+    {
+      "name": "Controlling Seminar",
+      "code": "48513",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/controlling-seminar/1547490"
+    },
+    {
+      "name": "Coordination Instruments and Concepts of International Firms",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/coordination-instruments-and-concepts-of-international-firms/4342679"
+    },
+    {
+      "name": "Correspondence Problems in Computer Vision",
+      "code": "20441",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/correspondence-problems-in-computer-vision/1547493"
+    },
+    {
+      "name": "Cours de soutien, grammaire I et phonétique",
+      "code": "45151",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/cours-de-soutien-grammaire-i-et-phonetique/1547494"
+    },
+    {
+      "name": "Cours de soutien, traduction",
+      "code": "45171",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/cours-de-soutien-traduction/1547495"
+    },
+    {
+      "name": "Cyber Physische Wertschöpfungungssysteme",
+      "code": "CPWS",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/cyber-physische-wertschopfungungssysteme/7447613"
+    },
+    {
+      "name": "Dampfturbinentechnologie",
+      "code": "3608051",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/dampfturbinentechnologie/1547497"
+    },
+    {
+      "name": "Darstellen und Gestalten, Plastisches und Räumliches Arbeiten",
+      "code": "20931",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/darstellen-und-gestalten-plastisches-und-raumliches-arbeiten/1547498"
+    },
+    {
+      "name": "Das Stuttgarter Rumpfparlament",
+      "code": "2702",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/das-stuttgarter-rumpfparlament/1547505"
+    },
+    {
+      "name": "Datenbanken und Informationssysteme",
+      "code": "10080",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/datenbanken-und-informationssysteme/3467512"
+    },
+    {
+      "name": "Datenstrukturen und Algorithmen",
+      "code": "12060",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/datenstrukturen-und-algorithmen/1547511"
+    },
+    {
+      "name": "Decades of the American Novel 1920s",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/decades-of-the-american-novel-1920s/5386755"
+    },
+    {
+      "name": "Detection and Pattern Recognition",
+      "code": "376150",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/detection-and-pattern-recognition/1547524"
+    },
+    {
+      "name": "Dichtungstechnik II",
+      "code": "3606221",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/dichtungstechnik-ii/1547527"
+    },
+    {
+      "name": "Didaktik als pädagogische Kunst und Kompetenz",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/didaktik-als-padagogische-kunst-und-kompetenz/3431668"
+    },
+    {
+      "name": "Die Entwicklungsgeschichte der Immobilie",
+      "code": "131401",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/die-entwicklungsgeschichte-der-immobilie/4129966"
+    },
+    {
+      "name": "Dienstleistungsinnovation und -management",
+      "code": "26110530",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/dienstleistungsinnovation-und-management/1547538"
+    },
+    {
+      "name": "Differentialgeometrie",
+      "code": "950290",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/differentialgeometrie/1547540"
+    },
+    {
+      "name": "Diffraction Methods in Materials Science",
+      "code": "6820",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/diffraction-methods-in-materials-science/1547542"
+    },
+    {
+      "name": "Digital Design",
+      "code": "ILEK 33000000",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/digital-design/6360855"
+    },
+    {
+      "name": "Digital Engineering",
+      "code": "370860",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/digital-engineering/1547544"
+    },
+    {
+      "name": "Digitale Bildverarbeitung",
+      "code": "375330",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/digitale-bildverarbeitung/1547546"
+    },
+    {
+      "name": "Digitale Signalverarbeitung",
+      "code": "371100210",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/digitale-signalverarbeitung/4399873"
+    },
+    {
+      "name": "Digitaler Produktentwurf",
+      "code": "39413",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/digitaler-produktentwurf/1547548"
+    },
+    {
+      "name": "Digitaltechnische Komponenten",
+      "code": "20633",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/digitaltechnische-komponenten/1547549"
+    },
+    {
+      "name": "Discretization Methods",
+      "code": "340743100",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/discretization-methods/5071464"
+    },
+    {
+      "name": "Diskrete Optimierung",
+      "code": "29410",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/diskrete-optimierung/3651764"
+    },
+    {
+      "name": "Dynamik elektrischer Verbundsysteme",
+      "code": "6108015",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/dynamik-elektrischer-verbundsysteme/1547557"
+    },
+    {
+      "name": "Dynamik verteiltparametrischer Systeme",
+      "code": "3408201",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/dynamik-verteiltparametrischer-systeme/1547560"
+    },
+    {
+      "name": "Dynamische Systeme",
+      "code": "1720",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/dynamische-systeme/1547563"
+    },
+    {
+      "name": "E-Business",
+      "code": "1182",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/e-business/1547564"
+    },
+    {
+      "name": "Einführung CAD Übungsaufgaben",
+      "code": "21331",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/einfuhrung-cad-ubungsaufgaben/1547577"
+    },
+    {
+      "name": "Einführung Erneuerbare Energien",
+      "code": "6407111",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/einfuhrung-erneuerbare-energien/1547579"
+    },
+    {
+      "name": "Einführung Freiraumgestaltung",
+      "code": "491502",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/einfuhrung-freiraumgestaltung/5096173"
+    },
+    {
+      "name": "Einführung Gebäudelehre und Wohnbau",
+      "code": "20181",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/einfuhrung-gebaudelehre-und-wohnbau/1547580"
+    },
+    {
+      "name": "Einführung in Analyse und Vergleich politischer Systeme",
+      "code": "24114109",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/einfuhrung-in-analyse-und-vergleich-politischer-systeme/1547581"
+    },
+    {
+      "name": "Einführung in das Bauingenieurwesen",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/einfuhrung-in-das-bauingenieurwesen/3271774"
+    },
+    {
+      "name": "Einführung in das computergestützte Entwerfen und Konstruieren",
+      "code": "21551",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/einfuhrung-in-das-computergestutzte-entwerfen-und-konstruieren/1547583"
+    },
+    {
+      "name": "Einführung in das Controlling",
+      "code": "4607211",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/einfuhrung-in-das-controlling/1547584"
+    },
+    {
+      "name": "Einführung in das politische System der BRD",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/einfuhrung-in-das-politische-system-der-brd/2157550"
+    },
+    {
+      "name": "Einführung in das Zivilrecht",
+      "code": "505501091",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/einfuhrung-in-das-zivilrecht/1547585"
+    },
+    {
+      "name": "Einführung in Data Science",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/einfuhrung-in-data-science/4536506"
+    },
+    {
+      "name": "Einführung in die Arbeits- und Organisationssoziologie",
+      "code": "30114016",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/einfuhrung-in-die-arbeits-und-organisationssoziologie/1547586"
+    },
+    {
+      "name": "Einführung in die Bau-und Immobilienwirtschaft",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/einfuhrung-in-die-bau-und-immobilienwirtschaft/7035482"
+    },
+    {
+      "name": "Einführung in die Biochemie",
+      "code": "4911221",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/einfuhrung-in-die-biochemie/1547589"
+    },
+    {
+      "name": "Einführung in die Biomechanik",
+      "code": "250711402",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/einfuhrung-in-die-biomechanik/4303976"
+    },
+    {
+      "name": "Einführung in die Biotechnik",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/einfuhrung-in-die-biotechnik/5291449"
+    },
+    {
+      "name": "Einführung in die Chemie",
+      "code": "4921113",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/einfuhrung-in-die-chemie/1547591"
+    },
+    {
+      "name": "Einführung in die Chemie für Naturwissenschaftler",
+      "code": "030201952",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/einfuhrung-in-die-chemie-fur-naturwissenschaftler/3973710"
+    },
+    {
+      "name": "Einführung in die Didaktik",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/einfuhrung-in-die-didaktik/3925048"
+    },
+    {
+      "name": "Einführung in die Elektrotechnik 1",
+      "code": "379020",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/einfuhrung-in-die-elektrotechnik-1/1547596"
+    },
+    {
+      "name": "Einführung in die Elektrotechnik II",
+      "code": "4207084",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/einfuhrung-in-die-elektrotechnik-ii/1547597"
+    },
+    {
+      "name": "Einführung in die Erkenntnistheorie",
+      "code": "3607011",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/einfuhrung-in-die-erkenntnistheorie/1547599"
+    },
+    {
+      "name": "Einführung in die Experimentalphysik",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/einfuhrung-in-die-experimentalphysik/3487757"
+    },
+    {
+      "name": "Einführung in die Fabrikorganisation",
+      "code": "6207011",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/einfuhrung-in-die-fabrikorganisation/1547600"
+    },
+    {
+      "name": "Einführung in die Festigkeitslehre",
+      "code": "072710001",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/einfuhrung-in-die-festigkeitslehre/2276029"
+    },
+    {
+      "name": "Einführung in die formale Logik",
+      "code": "3405211",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/einfuhrung-in-die-formale-logik/1547603"
+    },
+    {
+      "name": "Einführung in die französische Literaturwissenschaft",
+      "code": "27302",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/einfuhrung-in-die-franzosische-literaturwissenschaft/1547604"
+    },
+    {
+      "name": "Einführung in die Funktionale Sicherheit",
+      "code": "3408251",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/einfuhrung-in-die-funktionale-sicherheit/1547606"
+    },
+    {
+      "name": "Einführung in die Geschichte der Philosophie",
+      "code": "57270",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/einfuhrung-in-die-geschichte-der-philosophie/3305243"
+    },
+    {
+      "name": "Einführung in die Kontinuumsbiomechanik",
+      "code": "333051",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/einfuhrung-in-die-kontinuumsbiomechanik/1547609"
+    },
+    {
+      "name": "Einführung in die Kunstgeschichte -  Moderne",
+      "code": "Kuge2021",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/einfuhrung-in-die-kunstgeschichte-moderne/4735302"
+    },
+    {
+      "name": "Einführung in die Kybernetik",
+      "code": "330975",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/einfuhrung-in-die-kybernetik/1547611"
+    },
+    {
+      "name": "Einführung in die Linguistik",
+      "code": "56101",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/einfuhrung-in-die-linguistik/1547612"
+    },
+    {
+      "name": "Einführung in die Linguistik",
+      "code": "76651",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/einfuhrung-in-die-linguistik/4034084"
+    },
+    {
+      "name": "Einführung in die Linguistik",
+      "code": "182191000",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/einfuhrung-in-die-linguistik/5187430"
+    },
+    {
+      "name": "Einführung in die Logistik",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/einfuhrung-in-die-logistik/6008583"
+    },
+    {
+      "name": "Einführung in die maschinelle Sprachverarbeitung",
+      "code": "26210093",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/einfuhrung-in-die-maschinelle-sprachverarbeitung/1547613"
+    },
+    {
+      "name": "Einführung in die Mediävistik",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/einfuhrung-in-die-mediavistik/4441332"
+    },
+    {
+      "name": "Einführung in die Neuere deutsche Literaturwissenschaft",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/einfuhrung-in-die-neuere-deutsche-literaturwissenschaft/4744232"
+    },
+    {
+      "name": "Einführung in die Organisations",
+      "code": "6207141",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/einfuhrung-in-die-organisations/1547620"
+    },
+    {
+      "name": "Einführung in die Physik",
+      "code": "505704011",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/einfuhrung-in-die-physik/1547621"
+    },
+    {
+      "name": "Einführung in die politische Theorie",
+      "code": "24114202",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/einfuhrung-in-die-politische-theorie/1547623"
+    },
+    {
+      "name": "Einführung in die pädagogische Psychologie",
+      "code": "131820010",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/einfuhrung-in-die-padagogische-psychologie/3305456"
+    },
+    {
+      "name": "Einführung in die Rechtsgrundlagen des Bauwesens",
+      "code": "330221",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/einfuhrung-in-die-rechtsgrundlagen-des-bauwesens/1547628"
+    },
+    {
+      "name": "Einführung in die Regelungstechnik",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/einfuhrung-in-die-regelungstechnik/3487773"
+    },
+    {
+      "name": "Einführung in die romanische Literaturwissenschaft",
+      "code": "39695",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/einfuhrung-in-die-romanische-literaturwissenschaft/1547629"
+    },
+    {
+      "name": "Einführung in die Semantik",
+      "code": "18114206",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/einfuhrung-in-die-semantik/1547631"
+    },
+    {
+      "name": "Einführung in die Softwaretechnik",
+      "code": "20716",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/einfuhrung-in-die-softwaretechnik/1547632"
+    },
+    {
+      "name": "Einführung in die Sozialstrukturanalyse",
+      "code": "30114041",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/einfuhrung-in-die-sozialstrukturanalyse/1547633"
+    },
+    {
+      "name": "Einführung in die sozialwissenschaftliche Methodenlehre",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/einfuhrung-in-die-sozialwissenschaftliche-methodenlehre/2157553"
+    },
+    {
+      "name": "Einführung in die Sportgeschichte",
+      "code": "5007",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/einfuhrung-in-die-sportgeschichte/1547634"
+    },
+    {
+      "name": "Einführung in die Sportmedizin",
+      "code": "250711403",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/einfuhrung-in-die-sportmedizin/4303977"
+    },
+    {
+      "name": "Einführung in die Sportpsychologie",
+      "code": "715402",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/einfuhrung-in-die-sportpsychologie/6231027"
+    },
+    {
+      "name": "Einführung in die Sportpädagogik",
+      "code": "711602",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/einfuhrung-in-die-sportpadagogik/6231002"
+    },
+    {
+      "name": "Einführung in die Sportsoziologie",
+      "code": "250590901",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/einfuhrung-in-die-sportsoziologie/4303978"
+    },
+    {
+      "name": "Einführung in die Sportwissenschaft",
+      "code": "19152077",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/einfuhrung-in-die-sportwissenschaft/1547636"
+    },
+    {
+      "name": "Einführung in die Technik- und Umweltsoziologie",
+      "code": "30114066",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/einfuhrung-in-die-technik-und-umweltsoziologie/1547638"
+    },
+    {
+      "name": "Einführung in die Technische Mechanik",
+      "code": "379000",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/einfuhrung-in-die-technische-mechanik/1547640"
+    },
+    {
+      "name": "Einführung in die theoretische Philosophie",
+      "code": "57300",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/einfuhrung-in-die-theoretische-philosophie/3305256"
+    },
+    {
+      "name": "Einführung in die Theorie sozialer Systeme",
+      "code": "30114002",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/einfuhrung-in-die-theorie-sozialer-systeme/1547641"
+    },
+    {
+      "name": "Einführung in die Trainingswissenschaft",
+      "code": "715401",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/einfuhrung-in-die-trainingswissenschaft/4096173"
+    },
+    {
+      "name": "Einführung in die Wirtschaftsinformatik",
+      "code": "330843",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/einfuhrung-in-die-wirtschaftsinformatik/1547645"
+    },
+    {
+      "name": "Einführung in die Wissenschafts- und Technikgeschichtsschreibung",
+      "code": "161820011",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/einfuhrung-in-die-wissenschafts-und-technikgeschichtsschreibung/3486906"
+    },
+    {
+      "name": "Einführung in die Ökologie",
+      "code": "330906",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/einfuhrung-in-die-okologie/1547619"
+    },
+    {
+      "name": "Einführung Materialwissenschaft",
+      "code": "6500",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/einfuhrung-materialwissenschaft/1547648"
+    },
+    {
+      "name": "Einführung Materialwissenschaft I",
+      "code": "932750",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/einfuhrung-materialwissenschaft-i/1547649"
+    },
+    {
+      "name": "Einführung Städtebauliches Entwerfen",
+      "code": "3401000",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/einfuhrung-stadtebauliches-entwerfen/1547651"
+    },
+    {
+      "name": "Einführung Technisches Zeichnen",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/einfuhrung-technisches-zeichnen/1717545"
+    },
+    {
+      "name": "Einspritztechnik I",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/einspritztechnik-i/3271767"
+    },
+    {
+      "name": "Einweisung zum Praktikum Physikalische Chemie",
+      "code": "920620",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/einweisung-zum-praktikum-physikalische-chemie/1547654"
+    },
+    {
+      "name": "Electrical Engineering",
+      "code": "25312002",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/electrical-engineering/1547657"
+    },
+    {
+      "name": "Elektrische Antriebe",
+      "code": "375340",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/elektrische-antriebe/1547660"
+    },
+    {
+      "name": "Elektrische Energietechnik I",
+      "code": "375020",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/elektrische-energietechnik-i/1547663"
+    },
+    {
+      "name": "Elektrische Maschinen I",
+      "code": "23405",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/elektrische-maschinen-i/1547664"
+    },
+    {
+      "name": "Elektrische Maschinen II",
+      "code": "375375",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/elektrische-maschinen-ii/1547665"
+    },
+    {
+      "name": "Elektrische Signalverarbeitung",
+      "code": "34050",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/elektrische-signalverarbeitung/1547666"
+    },
+    {
+      "name": "Elektrodynamik 1",
+      "code": "331005",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/elektrodynamik-1/1547669"
+    },
+    {
+      "name": "Elektrodynamik 2",
+      "code": "375240",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/elektrodynamik-2/1547670"
+    },
+    {
+      "name": "Elektromagnetische verträglichkeit",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/elektromagnetische-vertraglichkeit/7567785"
+    },
+    {
+      "name": "Elektronik",
+      "code": "950320",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/elektronik/1547673"
+    },
+    {
+      "name": "Elektronikmotor",
+      "code": "376010",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/elektronikmotor/1547675"
+    },
+    {
+      "name": "Elektronische Bauelemente in der Mikrosystemtechnik",
+      "code": "6408101",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/elektronische-bauelemente-in-der-mikrosystemtechnik/1547676"
+    },
+    {
+      "name": "Embedded Systems Engineering",
+      "code": "21152006",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/embedded-systems-engineering/1547681"
+    },
+    {
+      "name": "Empirische Sozialforschung",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/empirische-sozialforschung/3272276"
+    },
+    {
+      "name": "EMV in der Automobiltechnik",
+      "code": "376110",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/emv-in-der-automobiltechnik/1547684"
+    },
+    {
+      "name": "Energie und Umwelt",
+      "code": "6108041",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/energie-und-umwelt/1547687"
+    },
+    {
+      "name": "Energie- und Umwelttechnik",
+      "code": "3606031",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/energie-und-umwelttechnik/1547688"
+    },
+    {
+      "name": "Energiemärkte und Energiehandel",
+      "code": "6108042",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/energiemarkte-und-energiehandel/1547689"
+    },
+    {
+      "name": "Energietechnik II",
+      "code": "400001",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/energietechnik-ii/1547692"
+    },
+    {
+      "name": "Engineering Materials: Metals",
+      "code": "45321",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/engineering-materials-metals/1547695"
+    },
+    {
+      "name": "English for Academic Purposes I",
+      "code": "1401505",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/english-for-academic-purposes-i/1547697"
+    },
+    {
+      "name": "English for Academic Purposes, Upper Intermediate II",
+      "code": "1401503",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/english-for-academic-purposes-upper-intermediate-ii/1547698"
+    },
+    {
+      "name": "English for Civil Engineering",
+      "code": "931960",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/english-for-civil-engineering/6361918"
+    },
+    {
+      "name": "Entrainement à l'examen oral",
+      "code": "11154",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/entrainement-a-lexamen-oral/1547699"
+    },
+    {
+      "name": "Entrepreneurship",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/entrepreneurship/6990298"
+    },
+    {
+      "name": "Entwerfen und Konstruieren",
+      "code": "505502281",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/entwerfen-und-konstruieren/1547701"
+    },
+    {
+      "name": "Entwerfen und Leichtbau",
+      "code": "330938",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/entwerfen-und-leichtbau/1547702"
+    },
+    {
+      "name": "Entwicklung der modernen Architekturtheorie",
+      "code": "3107101",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/entwicklung-der-modernen-architekturtheorie/1547706"
+    },
+    {
+      "name": "Entwicklung Optischer Systeme",
+      "code": "4911438",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/entwicklung-optischer-systeme/1547708"
+    },
+    {
+      "name": "Entwurf digitaler Filter",
+      "code": "375420",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/entwurf-digitaler-filter/1547711"
+    },
+    {
+      "name": "Entwurf für Bauingenieure",
+      "code": "333052",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/entwurf-fur-bauingenieure/1547712"
+    },
+    {
+      "name": "Entwurf von Verkehrsanlagen",
+      "code": "46290",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/entwurf-von-verkehrsanlagen/7387609"
+    },
+    {
+      "name": "Environmental Impact Assessment",
+      "code": "331415",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/environmental-impact-assessment/1547720"
+    },
+    {
+      "name": "Epochen der deutschsprachigen Literatur",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/epochen-der-deutschsprachigen-literatur/4939886"
+    },
+    {
+      "name": "Epochen der deutschsprachigen Literatur",
+      "code": "181200001",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/epochen-der-deutschsprachigen-literatur/5188545"
+    },
+    {
+      "name": "Erd- und Dammbau",
+      "code": "330617",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/erd-und-dammbau/1547725"
+    },
+    {
+      "name": "Erfassung und Verwaltung von Planungsdaten und Statistik",
+      "code": "47042",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/erfassung-und-verwaltung-von-planungsdaten-und-statistik/1547729"
+    },
+    {
+      "name": "Erneuerbare Energien",
+      "code": "376055",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/erneuerbare-energien/1547733"
+    },
+    {
+      "name": "Erziehungswissenschaften Analysieren und Beurteilen",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/erziehungswissenschaften-analysieren-und-beurteilen/5876376"
+    },
+    {
+      "name": "Erziehungswissenschaftliches Arbeiten",
+      "code": "3100101",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/erziehungswissenschaftliches-arbeiten/1547735"
+    },
+    {
+      "name": "espressione orale",
+      "code": "59361",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/espressione-orale/4034096"
+    },
+    {
+      "name": "espressione orale e scritta",
+      "code": "59311",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/espressione-orale-e-scritta/4034083"
+    },
+    {
+      "name": "Essay Writing II",
+      "code": "28001",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/essay-writing-ii/1547736"
+    },
+    {
+      "name": "Experimentalphysik für Verfahrensingenieure",
+      "code": "4010",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/experimentalphysik-fur-verfahrensingenieure/1547742"
+    },
+    {
+      "name": "Experimentalphysik mit Praktikum",
+      "code": "11150",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/experimentalphysik-mit-praktikum/7627629"
+    },
+    {
+      "name": "Experimentelle Strömungsvisualisierung",
+      "code": "39205",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/experimentelle-stromungsvisualisierung/1547743"
+    },
+    {
+      "name": "Expermientalphysik",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/expermientalphysik/3324045"
+    },
+    {
+      "name": "F&E Management und kundenorientierte Produktentwicklung",
+      "code": "3536173",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/fe-management-und-kundenorientierte-produktentwicklung/1547744"
+    },
+    {
+      "name": "Fabrikbetriebslehre: Management in der Produktion",
+      "code": "3606061",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/fabrikbetriebslehre-management-in-der-produktion/1547745"
+    },
+    {
+      "name": "Fabrikplanung und Anlagenwirtschaft II",
+      "code": "6308111",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/fabrikplanung-und-anlagenwirtschaft-ii/1547746"
+    },
+    {
+      "name": "Fachübergreifende Schlüsselqualifikation",
+      "code": "261100002",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/fachubergreifende-schlusselqualifikation/1547751"
+    },
+    {
+      "name": "Facility Management",
+      "code": "110092",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/facility-management/3095213"
+    },
+    {
+      "name": "Fahreigenschaften I",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/fahreigenschaften-i/5723880"
+    },
+    {
+      "name": "Fahreigenschaften II",
+      "code": "4208155",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/fahreigenschaften-ii/1547752"
+    },
+    {
+      "name": "Fahrzeug-Design",
+      "code": "6208051",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/fahrzeug-design/1547755"
+    },
+    {
+      "name": "Fahrzeugdiagnose",
+      "code": "4208113",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/fahrzeugdiagnose/1547756"
+    },
+    {
+      "name": "Fassaden und Gebäudehüllen Teil I",
+      "code": "330937",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/fassaden-und-gebaudehullen-teil-i/1547761"
+    },
+    {
+      "name": "Fassaden und Gebäudehüllen Teil II",
+      "code": "330942",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/fassaden-und-gebaudehullen-teil-ii/1547762"
+    },
+    {
+      "name": "Fertigungslehre",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/fertigungslehre/1717551"
+    },
+    {
+      "name": "Fertigungsverfahren in der Bauwirtschaft",
+      "code": "330211",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/fertigungsverfahren-in-der-bauwirtschaft/1547766"
+    },
+    {
+      "name": "Fertigungsverfahren in der Bauwirtschaft 2",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/fertigungsverfahren-in-der-bauwirtschaft-2/2276430"
+    },
+    {
+      "name": "Festigkeitslehre I",
+      "code": "303901",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/festigkeitslehre-i/6773056"
+    },
+    {
+      "name": "Festigkeitslehre II",
+      "code": "6308301",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/festigkeitslehre-ii/1547768"
+    },
+    {
+      "name": "Finanzmathematik",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/finanzmathematik/1717556"
+    },
+    {
+      "name": "Finite Elemente für Tragwerksberechnungen",
+      "code": "330420",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/finite-elemente-fur-tragwerksberechnungen/1547772"
+    },
+    {
+      "name": "Firing Systems and Flue Gas Cleaning",
+      "code": "39502",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/firing-systems-and-flue-gas-cleaning/1547775"
+    },
+    {
+      "name": "Flash sur la France actuelle",
+      "code": "371140",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/flash-sur-la-france-actuelle/1547777"
+    },
+    {
+      "name": "Flat Systems",
+      "code": "340722100",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/flat-systems/4357592"
+    },
+    {
+      "name": "Flexible Mehrkörpersysteme",
+      "code": "3608409",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/flexible-mehrkorpersysteme/1547778"
+    },
+    {
+      "name": "Fluidmechanik I",
+      "code": "331431",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/fluidmechanik-i/1547787"
+    },
+    {
+      "name": "Formale Sprachen und Automatentheorie",
+      "code": "20808",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/formale-sprachen-und-automatentheorie/1547790"
+    },
+    {
+      "name": "Forschungspraktikum Theoretische Chemie",
+      "code": "1401230",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/forschungspraktikum-theoretische-chemie/1547791"
+    },
+    {
+      "name": "Fortgeschrittene Atomphysik I",
+      "code": "08 1000 014",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/fortgeschrittene-atomphysik-i/1624741"
+    },
+    {
+      "name": "Forum Software und Automatisierung",
+      "code": "26154400",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/forum-software-und-automatisierung/1547793"
+    },
+    {
+      "name": "Frankreichkunde",
+      "code": "BALAFR1",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/frankreichkunde/3925024"
+    },
+    {
+      "name": "Französisch 2",
+      "code": "4207407",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/franzosisch-2/1547799"
+    },
+    {
+      "name": "Freie Oberbaubemessung",
+      "code": "330621",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/freie-oberbaubemessung/1547802"
+    },
+    {
+      "name": "Funktionalanalysis",
+      "code": "3509041",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/funktionalanalysis/1547812"
+    },
+    {
+      "name": "Funktionelle Bewegungslehre A/B",
+      "code": "25266703",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/funktionelle-bewegungslehre-ab/1547813"
+    },
+    {
+      "name": "Funktionelle Biomaterialien",
+      "code": "6307301",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/funktionelle-biomaterialien/1547814"
+    },
+    {
+      "name": "Funktionelle Morphologie",
+      "code": "11945",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/funktionelle-morphologie/1547815"
+    },
+    {
+      "name": "Fusion research/Fusionsforschung",
+      "code": "4766",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/fusion-researchfusionsforschung/1547818"
+    },
+    {
+      "name": "Fügetechnik",
+      "code": "6308351",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/fugetechnik/1547805"
+    },
+    {
+      "name": "Führungsorientiertes Rechnungswesen",
+      "code": "26110412",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/fuhrungsorientiertes-rechnungswesen/1547809"
+    },
+    {
+      "name": "Gebäudetechnik",
+      "code": "13050",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/gebaudetechnik/2271125"
+    },
+    {
+      "name": "Geochemie",
+      "code": "5900",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/geochemie/1547823"
+    },
+    {
+      "name": "Geodäsie im Bauwesen",
+      "code": "330103",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/geodasie-im-bauwesen/1547824"
+    },
+    {
+      "name": "Geographie",
+      "code": "GR_024",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/geographie/4362995"
+    },
+    {
+      "name": "Geometrie",
+      "code": "1390",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/geometrie/1547831"
+    },
+    {
+      "name": "Geotechnik I: Bodenmechanik",
+      "code": "330601",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/geotechnik-i-bodenmechanik/1547834"
+    },
+    {
+      "name": "Geschichte der Windenergienutzung",
+      "code": "4935",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/geschichte-der-windenergienutzung/1547840"
+    },
+    {
+      "name": "Gesellschaftsrecht",
+      "code": "505501211",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/gesellschaftsrecht/1547842"
+    },
+    {
+      "name": "Gestaltung von Flughafenanlagen",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/gestaltung-von-flughafenanlagen/3237832"
+    },
+    {
+      "name": "Glück und Ekstase in der Literatur",
+      "code": "181210002",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/gluck-und-ekstase-in-der-literatur/5187250"
+    },
+    {
+      "name": "Grammaire",
+      "code": "BALAFRGR2",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/grammaire/3944565"
+    },
+    {
+      "name": "grammatica 1",
+      "code": "59352",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/grammatica-1/4034094"
+    },
+    {
+      "name": "grammatica 2",
+      "code": "59352",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/grammatica-2/4034093"
+    },
+    {
+      "name": "Grammatische Analyse",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/grammatische-analyse/4446596"
+    },
+    {
+      "name": "Grundkurs Ethik",
+      "code": "1560",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/grundkurs-ethik/1547855"
+    },
+    {
+      "name": "Grundlagen CAD-Geometrie",
+      "code": "3116201",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/grundlagen-cad-geometrie/1547857"
+    },
+    {
+      "name": "Grundlagen der Anorganischen und Analytischen Chemie",
+      "code": "5020",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/grundlagen-der-anorganischen-und-analytischen-chemie/1547858"
+    },
+    {
+      "name": "Grundlagen der Bauökonomie",
+      "code": "3103100",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/grundlagen-der-bauokonomie/1547859"
+    },
+    {
+      "name": "Grundlagen der Befestigungstechnik",
+      "code": "331585000",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/grundlagen-der-befestigungstechnik/6805589"
+    },
+    {
+      "name": "Grundlagen der Betriebswirtschaftslehre",
+      "code": "330640",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/grundlagen-der-betriebswirtschaftslehre/1547860"
+    },
+    {
+      "name": "Grundlagen der Biomedizinischen Technik II",
+      "code": "6408071",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/grundlagen-der-biomedizinischen-technik-ii/1547862"
+    },
+    {
+      "name": "Grundlagen der Bionik",
+      "code": "6308441",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/grundlagen-der-bionik/1547863"
+    },
+    {
+      "name": "Grundlagen der BWL",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/grundlagen-der-bwl/7403856"
+    },
+    {
+      "name": "Grundlagen der Chemie - Allgemeine und Anorganische Chemie",
+      "code": "5022",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/grundlagen-der-chemie-allgemeine-und-anorganische-chemie/1547865"
+    },
+    {
+      "name": "Grundlagen der Elektrotechnik 2",
+      "code": "375030",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/grundlagen-der-elektrotechnik-2/1547866"
+    },
+    {
+      "name": "Grundlagen der Energiewirtschaft und -versorgung",
+      "code": "13951",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/grundlagen-der-energiewirtschaft-und-versorgung/2276035"
+    },
+    {
+      "name": "Grundlagen der Experimentalphysik I",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/grundlagen-der-experimentalphysik-i/1754902"
+    },
+    {
+      "name": "Grundlagen der Experimentalphysik II",
+      "code": "4150",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/grundlagen-der-experimentalphysik-ii/1547867"
+    },
+    {
+      "name": "Grundlagen der Experimentalphysik III",
+      "code": "3104303",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/grundlagen-der-experimentalphysik-iii/1547868"
+    },
+    {
+      "name": "Grundlagen der Experimentalphysik IV",
+      "code": "4170",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/grundlagen-der-experimentalphysik-iv/1547869"
+    },
+    {
+      "name": "Grundlagen der Fachdidaktik",
+      "code": "4294",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/grundlagen-der-fachdidaktik/1547870"
+    },
+    {
+      "name": "Grundlagen der Heiz- und Raumlufttechnik",
+      "code": "13060",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/grundlagen-der-heiz-und-raumlufttechnik/3176413"
+    },
+    {
+      "name": "Grundlagen der Informatik 1",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/grundlagen-der-informatik-1/4496059"
+    },
+    {
+      "name": "Grundlagen der Informatik II",
+      "code": "4204034",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/grundlagen-der-informatik-ii/1547874"
+    },
+    {
+      "name": "Grundlagen der Informationssicherheit",
+      "code": "GIS1",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/grundlagen-der-informationssicherheit/4477245"
+    },
+    {
+      "name": "Grundlagen der Kraftfahrzeuge",
+      "code": "GdK2023",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/grundlagen-der-kraftfahrzeuge/6073250"
+    },
+    {
+      "name": "Grundlagen der Künstlichen Intelligenz",
+      "code": "10110",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/grundlagen-der-kunstlichen-intelligenz/7668112"
+    },
+    {
+      "name": "Grundlagen der Lebensmittelchemie und -analytik",
+      "code": "28008",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/grundlagen-der-lebensmittelchemie-und-analytik/1547876"
+    },
+    {
+      "name": "Grundlagen der Logistik",
+      "code": "4606211",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/grundlagen-der-logistik/1547879"
+    },
+    {
+      "name": "Grundlagen der Mechanischen Verfahrenstechnik",
+      "code": "28019",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/grundlagen-der-mechanischen-verfahrenstechnik/1547883"
+    },
+    {
+      "name": "Grundlagen der medizinischen Strahlentechnik",
+      "code": "3608021",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/grundlagen-der-medizinischen-strahlentechnik/1547884"
+    },
+    {
+      "name": "Grundlagen der Mikrosystemtechnik",
+      "code": "28009",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/grundlagen-der-mikrosystemtechnik/1547885"
+    },
+    {
+      "name": "Grundlagen der Optik",
+      "code": "4911215",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/grundlagen-der-optik/1547889"
+    },
+    {
+      "name": "Grundlagen der Planung und des Entwerfens",
+      "code": "2423330",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/grundlagen-der-planung-und-des-entwerfens/4497804"
+    },
+    {
+      "name": "Grundlagen der produktentwicklung I",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/grundlagen-der-produktentwicklung-i/3487785"
+    },
+    {
+      "name": "Grundlagen der Programmierung",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/grundlagen-der-programmierung/7525668"
+    },
+    {
+      "name": "Grundlagen der technischen Akustik",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/grundlagen-der-technischen-akustik/1717557"
+    },
+    {
+      "name": "Grundlagen der Technischen Informatik",
+      "code": "371104410",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/grundlagen-der-technischen-informatik/5321656"
+    },
+    {
+      "name": "Grundlagen der Theoret. Physik für LA 2: Elektro- und Thermodynamik",
+      "code": "4338",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/grundlagen-der-theoret-physik-fur-la-2-elektro-und-thermodynamik/1547894"
+    },
+    {
+      "name": "Grundlagen der Theoret. Physik für LA I: Mechanik/Quantenmechanik",
+      "code": "330619",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/grundlagen-der-theoret-physik-fur-la-i-mechanikquantenmechanik/1547895"
+    },
+    {
+      "name": "Grundlagen der Thermischen Strömungsmaschinen",
+      "code": "3606051",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/grundlagen-der-thermischen-stromungsmaschinen/1547896"
+    },
+    {
+      "name": "Grundlagen der Umformtechnik II",
+      "code": "3606311",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/grundlagen-der-umformtechnik-ii/1547899"
+    },
+    {
+      "name": "Grundlagen der Verbrennungsmotoren",
+      "code": "3605231",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/grundlagen-der-verbrennungsmotoren/1547900"
+    },
+    {
+      "name": "Grundlagen der Verfahrenstechnik I",
+      "code": "11800",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/grundlagen-der-verfahrenstechnik-i/1547901"
+    },
+    {
+      "name": "Grundlagen der Verkehrssysteme",
+      "code": "GDS24",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/grundlagen-der-verkehrssysteme/6828394"
+    },
+    {
+      "name": "Grundlagen der VWL",
+      "code": "0000",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/grundlagen-der-vwl/1624702"
+    },
+    {
+      "name": "Grundlagen der Wirtschaftswissenschaften",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/grundlagen-der-wirtschaftswissenschaften/2276633"
+    },
+    {
+      "name": "Grundlagen der Zerspanungstechnologie",
+      "code": "940160",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/grundlagen-der-zerspanungstechnologie/1547903"
+    },
+    {
+      "name": "Grundlagen der Ökonomie",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/grundlagen-der-okonomie/7439439"
+    },
+    {
+      "name": "Grundlagen des Informationsmanagement",
+      "code": "960380",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/grundlagen-des-informationsmanagement/1547905"
+    },
+    {
+      "name": "Grundlagen des Internationalen Managements",
+      "code": "26191100",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/grundlagen-des-internationalen-managements/1547906"
+    },
+    {
+      "name": "Grundlagen Fahrzeugantriebe",
+      "code": "Grdl. FzA",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/grundlagen-fahrzeugantriebe/5925497"
+    },
+    {
+      "name": "Grundlagen Fluide-Energiemaschinen",
+      "code": "39309",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/grundlagen-fluide-energiemaschinen/1547909"
+    },
+    {
+      "name": "Grundlagen Geometrie",
+      "code": "25313302",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/grundlagen-geometrie/1547911"
+    },
+    {
+      "name": "Grundlagen integrierter Schaltungen / Impuls- und Digitaltechnik I",
+      "code": "375580",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/grundlagen-integrierter-schaltungen-impuls-und-digitaltechnik-i/1547912"
+    },
+    {
+      "name": "Grundlagen naturwissenschaftlicher Forschungsmethoden",
+      "code": "26210013",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/grundlagen-naturwissenschaftlicher-forschungsmethoden/1547913"
+    },
+    {
+      "name": "Grundlagen und Strategien der Projektentwicklung",
+      "code": "330265",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/grundlagen-und-strategien-der-projektentwicklung/1547917"
+    },
+    {
+      "name": "Grundlagenkurs Ökonometrie",
+      "code": "505202211",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/grundlagenkurs-okonometrie/1547918"
+    },
+    {
+      "name": "Grundlagenpraktikum \"Leistungselektronik und Regelungstechnik\"",
+      "code": "28003",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/grundlagenpraktikum-leistungselektronik-und-regelungstechnik/1547919"
+    },
+    {
+      "name": "Grundzüge der angewandten Chemie",
+      "code": "5015",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/grundzuge-der-angewandten-chemie/1547920"
+    },
+    {
+      "name": "Grundzüge der Maschinenkonstruktion 1",
+      "code": "20861",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/grundzuge-der-maschinenkonstruktion-1/1547921"
+    },
+    {
+      "name": "Grundzüge der Maschinenkonstruktion II",
+      "code": "4936910",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/grundzuge-der-maschinenkonstruktion-ii/1547922"
+    },
+    {
+      "name": "Grundzüge der Produktentwicklung II",
+      "code": "4604011",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/grundzuge-der-produktentwicklung-ii/1547923"
+    },
+    {
+      "name": "Grundzüge der Rechtssicherheit",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/grundzuge-der-rechtssicherheit/6008573"
+    },
+    {
+      "name": "Grundzüge der Rechtswissenschaften",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/grundzuge-der-rechtswissenschaften/1717563"
+    },
+    {
+      "name": "Gruppentheoretische Methoden der Physik I",
+      "code": "331201",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/gruppentheoretische-methoden-der-physik-i/1547926"
+    },
+    {
+      "name": "Halbleitertechnologie I",
+      "code": "25313001",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/halbleitertechnologie-i/1547932"
+    },
+    {
+      "name": "Hallen- und Geschossbauten",
+      "code": "25220",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/hallen-und-geschossbauten/7658290"
+    },
+    {
+      "name": "Handball",
+      "code": "BALASPHB3",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/handball/3925039"
+    },
+    {
+      "name": "Heiz- und Raumlufttechnik",
+      "code": "6108053",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/heiz-und-raumlufttechnik/1547939"
+    },
+    {
+      "name": "High-Dimensional Data Approximation and Learning",
+      "code": "HDAL",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/high-dimensional-data-approximation-and-learning/5358875"
+    },
+    {
+      "name": "Historische Anfänge der Technik und des Studiums der Natur",
+      "code": "Histo 2020",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/historische-anfange-der-technik-und-des-studiums-der-natur/6148846"
+    },
+    {
+      "name": "Hochfrequenztechnik I",
+      "code": "950060",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/hochfrequenztechnik-i/1547946"
+    },
+    {
+      "name": "Human-Computer-Interaction",
+      "code": "20963",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/human-computer-interaction/1547957"
+    },
+    {
+      "name": "Hybridantriebe",
+      "code": "4208111",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/hybridantriebe/1547958"
+    },
+    {
+      "name": "Hygrothermische Bauteilmodellierung",
+      "code": "330825",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/hygrothermische-bauteilmodellierung/1547960"
+    },
+    {
+      "name": "Höhere Analysis",
+      "code": "1410",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/hohere-analysis/1547950"
+    },
+    {
+      "name": "Höhere Mathematik 2",
+      "code": "1057",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/hohere-mathematik-2/1547951"
+    },
+    {
+      "name": "Höhere Mathematik 3",
+      "code": "4410",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/hohere-mathematik-3/1547952"
+    },
+    {
+      "name": "Höhere Mathematik I",
+      "code": "1055",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/hohere-mathematik-i/1550234"
+    },
+    {
+      "name": "Imaging Science",
+      "code": "20431",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/imaging-science/1547962"
+    },
+    {
+      "name": "Immobilienbewirtschaftung",
+      "code": "330215",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/immobilienbewirtschaftung/1547963"
+    },
+    {
+      "name": "Immobilienfinanzierung und Immobilieninvestment",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/immobilienfinanzierung-und-immobilieninvestment/5321566"
+    },
+    {
+      "name": "Immobilienmarketing",
+      "code": "13130",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/immobilienmarketing/2271038"
+    },
+    {
+      "name": "Immobilienplanung und - entwicklung",
+      "code": "34220",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/immobilienplanung-und-entwicklung/4099603"
+    },
+    {
+      "name": "Immobilientechnik -und Wirtschaft",
+      "code": "1590829221",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/immobilientechnik-und-wirtschaft/3170026"
+    },
+    {
+      "name": "Informatik I + II",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/informatik-i-ii/4333260"
+    },
+    {
+      "name": "Informatik I, Teil 2",
+      "code": "375010",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/informatik-i-teil-2/1547976"
+    },
+    {
+      "name": "Informatik II",
+      "code": "56410",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/informatik-ii/1547977"
+    },
+    {
+      "name": "Information Retrieval and Text Mining",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/information-retrieval-and-text-mining/3553781"
+    },
+    {
+      "name": "Informationstechnik und Wissensverarbeitung in der Produktentwicklung",
+      "code": "379170",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/informationstechnik-und-wissensverarbeitung-in-der-produktentwicklung/1547979"
+    },
+    {
+      "name": "Ingenieurgeologie",
+      "code": "10950",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/ingenieurgeologie/5165820"
+    },
+    {
+      "name": "Ingenieurholzbau",
+      "code": "330768",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/ingenieurholzbau/1547983"
+    },
+    {
+      "name": "Inorganic Chemistry",
+      "code": "1040",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/inorganic-chemistry/1547988"
+    },
+    {
+      "name": "Institut für Maschinenelemente",
+      "code": "1090",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/institut-fur-maschinenelemente/1547990"
+    },
+    {
+      "name": "Instrumentelle Analytik",
+      "code": "1200",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/instrumentelle-analytik/1547995"
+    },
+    {
+      "name": "Instrumentelle Lebensmittelanalytik",
+      "code": "5853",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/instrumentelle-lebensmittelanalytik/1547996"
+    },
+    {
+      "name": "Intelligent Sensors and Actors, Lecture",
+      "code": "376090",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/intelligent-sensors-and-actors-lecture/1548005"
+    },
+    {
+      "name": "Interface-Design",
+      "code": "6208061",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/interface-design/1548009"
+    },
+    {
+      "name": "Interkulturelles Management",
+      "code": "39215",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/interkulturelles-management/1548014"
+    },
+    {
+      "name": "Intermedial Poetry",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/intermedial-poetry/5317973"
+    },
+    {
+      "name": "Internationale Bewertung von Immobilien",
+      "code": "330234",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/internationale-bewertung-von-immobilien/1548016"
+    },
+    {
+      "name": "Internationale Beziehungen",
+      "code": "SOW201",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/internationale-beziehungen/3283007"
+    },
+    {
+      "name": "Internationale Rechnungslegung",
+      "code": "26152100",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/internationale-rechnungslegung/1548017"
+    },
+    {
+      "name": "Internationales Bauen",
+      "code": "330298",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/internationales-bauen/1548018"
+    },
+    {
+      "name": "Internes und Externes Rechnungswesen",
+      "code": "26110030",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/internes-und-externes-rechnungswesen/1548021"
+    },
+    {
+      "name": "Interpretation vormoderner Literatur",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/interpretation-vormoderner-literatur/7074896"
+    },
+    {
+      "name": "Introduction to Linguistics",
+      "code": "593902",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/introduction-to-linguistics/4950021"
+    },
+    {
+      "name": "Introduction to Linguistics",
+      "code": "172215000",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/introduction-to-linguistics/5937680"
+    },
+    {
+      "name": "Introduction to Literary Studies",
+      "code": "330257",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/introduction-to-literary-studies/1548026"
+    },
+    {
+      "name": "introduction to modern cryptograph",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/introduction-to-modern-cryptograph/5274759"
+    },
+    {
+      "name": "Introduction to Scientific Programming",
+      "code": "11347",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/introduction-to-scientific-programming/1548028"
+    },
+    {
+      "name": "Investition und Finanzierung",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/investition-und-finanzierung/1717567"
+    },
+    {
+      "name": "Italienische Kulturwissenschaft: I luoghi della memoria",
+      "code": "39190",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/italienische-kulturwissenschaft-i-luoghi-della-memoria/1548033"
+    },
+    {
+      "name": "Italienische Literaturgeschichte",
+      "code": "19141248",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/italienische-literaturgeschichte/1548034"
+    },
+    {
+      "name": "Kantner: Einführung in die Sozialwissenschaften",
+      "code": "20975",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/kantner-einfuhrung-in-die-sozialwissenschaften/1548046"
+    },
+    {
+      "name": "Keramische Werkstoffe",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/keramische-werkstoffe/5294232"
+    },
+    {
+      "name": "Key Theories and Methods in Literary and Cultural Studies",
+      "code": "171220520",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/key-theories-and-methods-in-literary-and-cultural-studies/5937682"
+    },
+    {
+      "name": "KFZ Elektronik",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/kfz-elektronik/7705646"
+    },
+    {
+      "name": "Klimagerechtes Bauen",
+      "code": "330841",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/klimagerechtes-bauen/1548054"
+    },
+    {
+      "name": "Klinische Psychologie",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/klinische-psychologie/2334676"
+    },
+    {
+      "name": "Konflikttheorie und Konfliktbearbeitung",
+      "code": "3407401",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/konflikttheorie-und-konfliktbearbeitung/1548062"
+    },
+    {
+      "name": "Konjunktur, Wachstum und Außenwirtschaft",
+      "code": "2300900",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/konjunktur-wachstum-und-aussenwirtschaft/1548065"
+    },
+    {
+      "name": "Konkrete Mathematik",
+      "code": "20851",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/konkrete-mathematik/1548066"
+    },
+    {
+      "name": "Konstruktion der Fahrzeuggetriebe",
+      "code": "6208041",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/konstruktion-der-fahrzeuggetriebe/1548067"
+    },
+    {
+      "name": "Konstruktion elektrischer Maschinen",
+      "code": "379560",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/konstruktion-elektrischer-maschinen/1548068"
+    },
+    {
+      "name": "Konstruktion in der Medizingerätetechnik II",
+      "code": "491117",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/konstruktion-in-der-medizingeratetechnik-ii/1548069"
+    },
+    {
+      "name": "Konstruktion und Material",
+      "code": "21637",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/konstruktion-und-material/1548071"
+    },
+    {
+      "name": "Konstruktion von landwirtschaftlichen Geräten und Maschinen II",
+      "code": "4208416",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/konstruktion-von-landwirtschaftlichen-geraten-und-maschinen-ii/1548073"
+    },
+    {
+      "name": "Konstruktionselemente der Luft- und Raumfahrttechnik I",
+      "code": "39030",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/konstruktionselemente-der-luft-und-raumfahrttechnik-i/1548076"
+    },
+    {
+      "name": "Konstruktionselemente der Luft- und Raumfahrttechnik II",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/konstruktionselemente-der-luft-und-raumfahrttechnik-ii/3237817"
+    },
+    {
+      "name": "Konstruktionslehre 2",
+      "code": "3602021",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/konstruktionslehre-2/1548077"
+    },
+    {
+      "name": "Konstruktionslehre 4",
+      "code": "3604031",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/konstruktionslehre-4/1548078"
+    },
+    {
+      "name": "Konstruktionslehre I und II",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/konstruktionslehre-i-und-ii/1717574"
+    },
+    {
+      "name": "Konstruktionsübungen",
+      "code": "330924",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/konstruktionsubungen/1548079"
+    },
+    {
+      "name": "Konstruktive Bauphysik",
+      "code": "330811",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/konstruktive-bauphysik/1548080"
+    },
+    {
+      "name": "Konzepte der Regelungstechnik",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/konzepte-der-regelungstechnik/4405621"
+    },
+    {
+      "name": "Korpuslinguistik",
+      "code": "FR2016S6",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/korpuslinguistik/4323801"
+    },
+    {
+      "name": "Korrosionsschutz im Betonbau",
+      "code": "37570",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/korrosionsschutz-im-betonbau/3978079"
+    },
+    {
+      "name": "Korrosionsschutz im Metallbau",
+      "code": "37571",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/korrosionsschutz-im-metallbau/5223274"
+    },
+    {
+      "name": "Kraftfahrzeug - Aerodynamik II",
+      "code": "4208154",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/kraftfahrzeug-aerodynamik-ii/1548084"
+    },
+    {
+      "name": "Kraftfahrzeuge 1/2",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/kraftfahrzeuge-12/2290301"
+    },
+    {
+      "name": "Kraftfahrzeugkomponenten",
+      "code": "4208161",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/kraftfahrzeugkomponenten/1548087"
+    },
+    {
+      "name": "Kraftfahrzeugmechatronik II",
+      "code": "4206103",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/kraftfahrzeugmechatronik-ii/1548088"
+    },
+    {
+      "name": "Kriege, Krisen, Katastrophen",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/kriege-krisen-katastrophen/4076873"
+    },
+    {
+      "name": "Kulturwissenschaft Frnazösisch",
+      "code": "59271",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/kulturwissenschaft-frnazosisch/4034089"
+    },
+    {
+      "name": "Kunststofftechnik",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/kunststofftechnik/3274010"
+    },
+    {
+      "name": "Kurs B - Machen Helden Schule? Heldenepik als Stoff für den Deutschunterricht - Einzelansicht",
+      "code": "181405",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/kurs-b-machen-helden-schule-heldenepik-als-stoff-fur-den-deutschunterricht-einzelansicht/1548098"
+    },
+    {
+      "name": "Landeskunde 1",
+      "code": "4207083",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/landeskunde-1/1548103"
+    },
+    {
+      "name": "language practice",
+      "code": "75140",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/language-practice/5438467"
+    },
+    {
+      "name": "Leichtbau",
+      "code": "4206061",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/leichtbau/1548108"
+    },
+    {
+      "name": "Leistungselekrtonik I",
+      "code": "371101810",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/leistungselekrtonik-i/7673236"
+    },
+    {
+      "name": "Leistungselektronik II",
+      "code": "375600",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/leistungselektronik-ii/1548110"
+    },
+    {
+      "name": "Lektüreliste französische Literatur",
+      "code": "FR2020S5",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/lektureliste-franzosische-literatur/4356026"
+    },
+    {
+      "name": "Lineare Algebra und Analytische Geometrie 1+2",
+      "code": "1320",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/lineare-algebra-und-analytische-geometrie-12/1548111"
+    },
+    {
+      "name": "Linguistics levels 2: Syntactic Theory (B)",
+      "code": "172225310",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/linguistics-levels-2-syntactic-theory-b/6177845"
+    },
+    {
+      "name": "Literaturgeschichte",
+      "code": "19141128",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/literaturgeschichte/1548115"
+    },
+    {
+      "name": "Logistikdienstleistungen",
+      "code": "26142100",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/logistikdienstleistungen/1548119"
+    },
+    {
+      "name": "Logistikmanagement",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/logistikmanagement/5364438"
+    },
+    {
+      "name": "LPI Web Development Essentials",
+      "code": "LPI01",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/lpi-web-development-essentials/7061502"
+    },
+    {
+      "name": "Luftfahrtantriebe und Turbomaschinen",
+      "code": "66111601",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/luftfahrtantriebe-und-turbomaschinen/1548124"
+    },
+    {
+      "name": "Luftfahrtsysteme I",
+      "code": "39202",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/luftfahrtsysteme-i/1548125"
+    },
+    {
+      "name": "Luftfahrttechnik",
+      "code": "39155",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/luftfahrttechnik/1548126"
+    },
+    {
+      "name": "Machine Learning",
+      "code": "39537",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/machine-learning/1548132"
+    },
+    {
+      "name": "Makroökonomik",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/makrookonomik/4491599"
+    },
+    {
+      "name": "Marketing",
+      "code": "3603051",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/marketing/1548143"
+    },
+    {
+      "name": "Marktforschung",
+      "code": "330957",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/marktforschung/1548146"
+    },
+    {
+      "name": "Maschinen und Anlagen der Umformtechnik - Massivumformung",
+      "code": "6308521",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/maschinen-und-anlagen-der-umformtechnik-massivumformung/1548151"
+    },
+    {
+      "name": "Maschinenbau",
+      "code": "3608001",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/maschinenbau/1548155"
+    },
+    {
+      "name": "Maschinendynamik",
+      "code": "331599",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/maschinendynamik/1548156"
+    },
+    {
+      "name": "Master Wissenskulturen!",
+      "code": "17114042",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/master-wissenskulturen/1548158"
+    },
+    {
+      "name": "Materialbearbeitung mit Lasern",
+      "code": "4205100",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/materialbearbeitung-mit-lasern/1548162"
+    },
+    {
+      "name": "Materialien für Implantate",
+      "code": "6550",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/materialien-fur-implantate/1548165"
+    },
+    {
+      "name": "Mathematik für Chemiker I",
+      "code": "225212",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/mathematik-fur-chemiker-i/1548167"
+    },
+    {
+      "name": "Mathematik für Chemiker II",
+      "code": "5000",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/mathematik-fur-chemiker-ii/1548166"
+    },
+    {
+      "name": "Mathematik für Informatiker und Softwaretechniker I+II",
+      "code": "10191",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/mathematik-fur-informatiker-und-softwaretechniker-iii/1642680"
+    },
+    {
+      "name": "Mathematik für Wirtschaftswissenschaften I+II",
+      "code": "13351",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/mathematik-fur-wirtschaftswissenschaften-iii/1624736"
+    },
+    {
+      "name": "Mathematische Methoden der Physik",
+      "code": "27650",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/mathematische-methoden-der-physik/6186866"
+    },
+    {
+      "name": "Mathematische Methoden der Quantenmechanik",
+      "code": "1754",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/mathematische-methoden-der-quantenmechanik/1548169"
+    },
+    {
+      "name": "Mathematische Statistik",
+      "code": "014500000",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/mathematische-statistik/3368136"
+    },
+    {
+      "name": "Mechanical Process Engineering",
+      "code": "48571",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/mechanical-process-engineering/1548174"
+    },
+    {
+      "name": "Mechanische Systeme",
+      "code": "39340",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/mechanische-systeme/1548175"
+    },
+    {
+      "name": "Mechatronik in der Orthopädie",
+      "code": "4911443",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/mechatronik-in-der-orthopadie/1548177"
+    },
+    {
+      "name": "Medienrecht",
+      "code": "950380",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/medienrecht/1548179"
+    },
+    {
+      "name": "Medizingerätetechnik",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/medizingeratetechnik/5143119"
+    },
+    {
+      "name": "Medizinische Verfahrenstechnik I",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/medizinische-verfahrenstechnik-i/5143124"
+    },
+    {
+      "name": "Medizinische Verfahrenstechnik II",
+      "code": "6307141",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/medizinische-verfahrenstechnik-ii/1548180"
+    },
+    {
+      "name": "Mediävistische Texte als Schulstoff",
+      "code": "4035230",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/mediavistische-texte-als-schulstoff/1548178"
+    },
+    {
+      "name": "Mehrgrößenregelung",
+      "code": "39606",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/mehrgrossenregelung/1548182"
+    },
+    {
+      "name": "Mensch-Computer-Interaktion",
+      "code": "10210",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/mensch-computer-interaktion/1548185"
+    },
+    {
+      "name": "Messtechnik - Anlagenmesstechnik",
+      "code": "13800",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/messtechnik-anlagenmesstechnik/2276053"
+    },
+    {
+      "name": "Messtechnik - Fahrzeugmesstechnik",
+      "code": "4206056",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/messtechnik-fahrzeugmesstechnik/1548190"
+    },
+    {
+      "name": "Messtechnik - Fertigungsmesstechnik",
+      "code": "13811",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/messtechnik-fertigungsmesstechnik/2276050"
+    },
+    {
+      "name": "Messtechnik - Teil A",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/messtechnik-teil-a/3271783"
+    },
+    {
+      "name": "Messtechnik 1",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/messtechnik-1/4854833"
+    },
+    {
+      "name": "Messtechnik I",
+      "code": "12310",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/messtechnik-i/3179058"
+    },
+    {
+      "name": "Messtechnik Teil B: Optische Messtechnik",
+      "code": "3606022",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/messtechnik-teil-b-optische-messtechnik/1548193"
+    },
+    {
+      "name": "Metaphysik und Erkenntnistheorie",
+      "code": "12714138",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/metaphysik-und-erkenntnistheorie/1548196"
+    },
+    {
+      "name": "Methode und Theorie 2",
+      "code": "1302",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/methode-und-theorie-2/1548197"
+    },
+    {
+      "name": "Methoden der beruflichen Bildung BWP IV",
+      "code": "1401104",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/methoden-der-beruflichen-bildung-bwp-iv/1548198"
+    },
+    {
+      "name": "Methoden der Digital Humanities",
+      "code": "370630",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/methoden-der-digital-humanities/1548200"
+    },
+    {
+      "name": "Methoden der Werkstoffsimulation",
+      "code": "30400",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/methoden-der-werkstoffsimulation/5259067"
+    },
+    {
+      "name": "Methoden und Strategien in der Logistik",
+      "code": "330852",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/methoden-und-strategien-in-der-logistik/1548204"
+    },
+    {
+      "name": "Methodische Produktentwicklung",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/methodische-produktentwicklung/3271773"
+    },
+    {
+      "name": "Methodische Produktentwicklung II",
+      "code": "3606351",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/methodische-produktentwicklung-ii/1548207"
+    },
+    {
+      "name": "Mikroelektronik I",
+      "code": "21675",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/mikroelektronik-i/1548213"
+    },
+    {
+      "name": "Mikroelektronik II",
+      "code": "375000",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/mikroelektronik-ii/1548214"
+    },
+    {
+      "name": "Mikroökonomik",
+      "code": "2300200",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/mikrookonomik/1548215"
+    },
+    {
+      "name": "Modellierung",
+      "code": "10220",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/modellierung/1548231"
+    },
+    {
+      "name": "Modellierung und Simulation in der Mechatronik",
+      "code": "3608402",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/modellierung-und-simulation-in-der-mechatronik/1548234"
+    },
+    {
+      "name": "Modellierung, Simulation und Optimierungsverfahren",
+      "code": "4206404",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/modellierung-simulation-und-optimierungsverfahren/1548238"
+    },
+    {
+      "name": "Modellierung, Simulation und Optimierungsverfahren II",
+      "code": "6208181",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/modellierung-simulation-und-optimierungsverfahren-ii/1548239"
+    },
+    {
+      "name": "Molecular Quantum Mechanics",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/molecular-quantum-mechanics/5304027"
+    },
+    {
+      "name": "Molekularbiologie",
+      "code": "39270",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/molekularbiologie/1548247"
+    },
+    {
+      "name": "Molekulare Zellbiologie und Tumorzellbiologie",
+      "code": "11137",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/molekulare-zellbiologie-und-tumorzellbiologie/1548251"
+    },
+    {
+      "name": "Molukulare Theorie der Materie",
+      "code": "MTM1",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/molukulare-theorie-der-materie/4364560"
+    },
+    {
+      "name": "Morphologie I",
+      "code": "1280",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/morphologie-i/1548255"
+    },
+    {
+      "name": "Motorische Entwicklung im Kindes",
+      "code": "4173",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/motorische-entwicklung-im-kindes/1548256"
+    },
+    {
+      "name": "Motorische Entwicklung im Kindes- und Jugendalter",
+      "code": "250711503",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/motorische-entwicklung-im-kindes-und-jugendalter/5195847"
+    },
+    {
+      "name": "Muscat Studio: Re-imagining suburbia",
+      "code": "3338989",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/muscat-studio-re-imagining-suburbia/5129431"
+    },
+    {
+      "name": "Nachrichtentechnik I",
+      "code": "39150",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/nachrichtentechnik-i/1548266"
+    },
+    {
+      "name": "Nahbereichsphotogrammetrie und Machine Vision",
+      "code": "32431401",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/nahbereichsphotogrammetrie-und-machine-vision/1548268"
+    },
+    {
+      "name": "Nanotechnologie 2",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/nanotechnologie-2/7454721"
+    },
+    {
+      "name": "Nanotechnologie I - Chemie, Physik und Biologie der Nanomaterialien",
+      "code": "3508101",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/nanotechnologie-i-chemie-physik-und-biologie-der-nanomaterialien/1548270"
+    },
+    {
+      "name": "Navigation",
+      "code": "3241790",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/navigation/1548274"
+    },
+    {
+      "name": "Netzintegration von Windenergie",
+      "code": "376135",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/netzintegration-von-windenergie/1548276"
+    },
+    {
+      "name": "Neuere deutsche Literatur",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/neuere-deutsche-literatur/4451498"
+    },
+    {
+      "name": "Neurobiologie",
+      "code": "293375",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/neurobiologie/1548279"
+    },
+    {
+      "name": "New Economy, Technologie & Beschäftigung",
+      "code": "39223",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/new-economy-technologie-beschaftigung/1548281"
+    },
+    {
+      "name": "Nichtkooperative Spiele, Auktionen und Experimente",
+      "code": "32432903",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/nichtkooperative-spiele-auktionen-und-experimente/1548284"
+    },
+    {
+      "name": "Nichtlineare Dynamik",
+      "code": "34027",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/nichtlineare-dynamik/1548285"
+    },
+    {
+      "name": "Numerik Inf SS19",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/numerik-inf-ss19/5273700"
+    },
+    {
+      "name": "Numerische Behandlung von gewöhnlichen Differenzialgleichungen",
+      "code": "39065",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/numerische-behandlung-von-gewohnlichen-differenzialgleichungen/1548299"
+    },
+    {
+      "name": "Numerische Feldberechnung I",
+      "code": "375280",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/numerische-feldberechnung-i/1548301"
+    },
+    {
+      "name": "Numerische Grundlagen",
+      "code": "1128",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/numerische-grundlagen/1548303"
+    },
+    {
+      "name": "Numerische Lineare Algebra",
+      "code": "1340",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/numerische-lineare-algebra/1548304"
+    },
+    {
+      "name": "Numerische Methoden",
+      "code": "5575",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/numerische-methoden/1548306"
+    },
+    {
+      "name": "Numerische Methoden der Dynamik",
+      "code": "3606141",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/numerische-methoden-der-dynamik/1548307"
+    },
+    {
+      "name": "Numerische Simulation",
+      "code": "390650000",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/numerische-simulation/6852006"
+    },
+    {
+      "name": "Numerische Strömungssimulation",
+      "code": "3606171",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/numerische-stromungssimulation/1548313"
+    },
+    {
+      "name": "Nutzfahrzeugentwicklung 1",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/nutzfahrzeugentwicklung-1/3505497"
+    },
+    {
+      "name": "Oberflächeneigenschaften von Straßenbefestigungen",
+      "code": "331308000",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/oberflacheneigenschaften-von-strassenbefestigungen/4744289"
+    },
+    {
+      "name": "Oberflächentechnik",
+      "code": "6308134",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/oberflachentechnik/1548316"
+    },
+    {
+      "name": "Online-Vorlesung Literary and Cultural Theory",
+      "code": "17112002",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/online-vorlesung-literary-and-cultural-theory/1548322"
+    },
+    {
+      "name": "Operatortheorie",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/operatortheorie/5307325"
+    },
+    {
+      "name": "Optimal Control",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/optimal-control/4356191"
+    },
+    {
+      "name": "Optimization of Mechanical Systems",
+      "code": "3006100000",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/optimization-of-mechanical-systems/7477135"
+    },
+    {
+      "name": "Organisation und Innovation",
+      "code": "30114005",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/organisation-und-innovation/1548333"
+    },
+    {
+      "name": "Organisationssoziologie",
+      "code": "25417403",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/organisationssoziologie/1548334"
+    },
+    {
+      "name": "Organische Chemie für Technische Biologen",
+      "code": "5176",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/organische-chemie-fur-technische-biologen/1548336"
+    },
+    {
+      "name": "Organische Chemie II",
+      "code": "5160",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/organische-chemie-ii/1548337"
+    },
+    {
+      "name": "Öffentlich private Partnerschaftsprojekte",
+      "code": "330273",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/offentlich-private-partnerschaftsprojekte/1548317"
+    },
+    {
+      "name": "Öffentliches Baurecht",
+      "code": "23222210",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/offentliches-baurecht/1548318"
+    },
+    {
+      "name": "Ökologische Bewertung / Nachhaltig Bauen",
+      "code": "331573",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/okologische-bewertung-nachhaltig-bauen/1548319"
+    },
+    {
+      "name": "Parallele Numerik",
+      "code": "21466",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/parallele-numerik/1548338"
+    },
+    {
+      "name": "Parsing",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/parsing/3567837"
+    },
+    {
+      "name": "Perser und Griechen vom 6.-4. Jh. v. Chr.",
+      "code": "39697",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/perser-und-griechen-vom-6-4-jh-v-chr/1548346"
+    },
+    {
+      "name": "Personalauswahl & Personalentwicklung",
+      "code": "6107082",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/personalauswahl-personalentwicklung/1548347"
+    },
+    {
+      "name": "Personalwirtschaft",
+      "code": "4608091",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/personalwirtschaft/1548348"
+    },
+    {
+      "name": "Pflanzliche Systeme",
+      "code": "11020",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/pflanzliche-systeme/1548351"
+    },
+    {
+      "name": "Philosophische Spurensuche",
+      "code": "5351",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/philosophische-spurensuche/1548353"
+    },
+    {
+      "name": "Photogrammetrie",
+      "code": "32484001",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/photogrammetrie/1548356"
+    },
+    {
+      "name": "Photovoltaik III",
+      "code": "375675",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/photovoltaik-iii/1548358"
+    },
+    {
+      "name": "Physik auf dem Computer",
+      "code": "4195",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/physik-auf-dem-computer/1548361"
+    },
+    {
+      "name": "Physikal.Chemie",
+      "code": "25313101",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/physikalchemie/1548369"
+    },
+    {
+      "name": "Physikalische Chemie",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/physikalische-chemie/5303378"
+    },
+    {
+      "name": "Physikalische Chemie Einführung in die Biophysikalische Chemie",
+      "code": "5321",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/physikalische-chemie-einfuhrung-in-die-biophysikalische-chemie/1548370"
+    },
+    {
+      "name": "Physikalische Materialeigenschaften",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/physikalische-materialeigenschaften/5303204"
+    },
+    {
+      "name": "Physikalische Messtechnik",
+      "code": "4192",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/physikalische-messtechnik/1548372"
+    },
+    {
+      "name": "Physikalisches Praktikum 1",
+      "code": "330831",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/physikalisches-praktikum-1/1548376"
+    },
+    {
+      "name": "Planetengetriebe",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/planetengetriebe/4352607"
+    },
+    {
+      "name": "Planung und Entwicklung im Wohnungsbau",
+      "code": "330236",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/planung-und-entwicklung-im-wohnungsbau/1548385"
+    },
+    {
+      "name": "Planung und Konstruktion im Hochbau I",
+      "code": "333049",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/planung-und-konstruktion-im-hochbau-i/1548387"
+    },
+    {
+      "name": "Planungs- und Baurecht",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/planungs-und-baurecht/2276627"
+    },
+    {
+      "name": "Planungsprozesse und Bauverfahren von Brücken",
+      "code": "330752",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/planungsprozesse-und-bauverfahren-von-brucken/1548391"
+    },
+    {
+      "name": "Politikdidaktik Ia",
+      "code": "140122700",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/politikdidaktik-ia/4701701"
+    },
+    {
+      "name": "Portfoliomanagement",
+      "code": "330245",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/portfoliomanagement/1548402"
+    },
+    {
+      "name": "Pragmatik",
+      "code": "4014210",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/pragmatik/1548411"
+    },
+    {
+      "name": "Praktische Befestigungstechnik",
+      "code": "331533",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/praktische-befestigungstechnik/1548417"
+    },
+    {
+      "name": "Privates Baurecht",
+      "code": "3103101",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/privates-baurecht/1548426"
+    },
+    {
+      "name": "Produktionsmanagement",
+      "code": "330641",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/produktionsmanagement/1548430"
+    },
+    {
+      "name": "Produktionstechnische Informationstechnologien",
+      "code": "71881",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/produktionstechnische-informationstechnologien/4379635"
+    },
+    {
+      "name": "Programmentwicklung / Objektorientierte Programmierung",
+      "code": "14390",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/programmentwicklung-objektorientierte-programmierung/3176964"
+    },
+    {
+      "name": "Programmierkurs",
+      "code": "370710",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/programmierkurs/1548435"
+    },
+    {
+      "name": "Programmierparadigmen",
+      "code": "20512",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/programmierparadigmen/1548436"
+    },
+    {
+      "name": "Programmierung und Software-Entwicklung (PSE)",
+      "code": "020707",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/programmierung-und-software-entwicklung-pse/1642689"
+    },
+    {
+      "name": "Projektmanagement in der Kfz-Industrie",
+      "code": "4208156",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/projektmanagement-in-der-kfz-industrie/1548441"
+    },
+    {
+      "name": "Projektplanung und Projektmanagement",
+      "code": "24950",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/projektplanung-und-projektmanagement/5409364"
+    },
+    {
+      "name": "Projektseminar Maschinelle Sprachverarbeitung",
+      "code": "4013270",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/projektseminar-maschinelle-sprachverarbeitung/1548442"
+    },
+    {
+      "name": "propädeutikum Französische Literatur",
+      "code": "592103",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/propadeutikum-franzosische-literatur/4034091"
+    },
+    {
+      "name": "Propädeutikum Mathematik",
+      "code": "2024-25",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/propadeutikum-mathematik/7684970"
+    },
+    {
+      "name": "Propädeutikum zum Proseminar Neuzeit",
+      "code": "212020030",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/propadeutikum-zum-proseminar-neuzeit/5187381"
+    },
+    {
+      "name": "Prozessführung und Production IT in der Verfahrenstechnik",
+      "code": "3408241",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/prozessfuhrung-und-production-it-in-der-verfahrenstechnik/1548448"
+    },
+    {
+      "name": "Psycholinguistics",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/psycholinguistics/5323313"
+    },
+    {
+      "name": "Pumping Test Analysis",
+      "code": "28022",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/pumping-test-analysis/1548453"
+    },
+    {
+      "name": "Qualitative Sozialforschung I: Qualitative Interviews",
+      "code": "55021",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/qualitative-sozialforschung-i-qualitative-interviews/1548457"
+    },
+    {
+      "name": "Quantencomputing",
+      "code": "4696",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/quantencomputing/1548460"
+    },
+    {
+      "name": "Radio Frequency Technology",
+      "code": "330421",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/radio-frequency-technology/1548467"
+    },
+    {
+      "name": "Rahmenbedingungen der Innovation",
+      "code": "39475",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/rahmenbedingungen-der-innovation/1548469"
+    },
+    {
+      "name": "Raum- und Umweltplanung",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/raum-und-umweltplanung/2276630"
+    },
+    {
+      "name": "Raum- und Verkehrsplanung",
+      "code": "331107",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/raum-und-verkehrsplanung/1548473"
+    },
+    {
+      "name": "Raumklima",
+      "code": "330838",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/raumklima/1548476"
+    },
+    {
+      "name": "Raumordnung und Umweltplanung für UMW",
+      "code": "3536505",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/raumordnung-und-umweltplanung-fur-umw/1548477"
+    },
+    {
+      "name": "Recht und Politik der Europäischen Union",
+      "code": "23333303",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/recht-und-politik-der-europaischen-union/1548483"
+    },
+    {
+      "name": "Rechtliche Einflüsse in der Entwicklungsphase von Bauprojekten",
+      "code": "13080",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/rechtliche-einflusse-in-der-entwicklungsphase-von-bauprojekten/2271127"
+    },
+    {
+      "name": "Rechtliche Einflüsse in der Planungs-, Vergabe-und Realisierungsphase von Bauprojekten",
+      "code": "330288",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/rechtliche-einflusse-in-der-planungs-vergabe-und-realisierungsphase-von-bauprojekten/1548484"
+    },
+    {
+      "name": "Rechtliche Grundlagen der BWL",
+      "code": "13030",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/rechtliche-grundlagen-der-bwl/2271039"
+    },
+    {
+      "name": "Regelungstechnik",
+      "code": "371104410",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/regelungstechnik/5405865"
+    },
+    {
+      "name": "Regelungstechnik I",
+      "code": "375740",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/regelungstechnik-i/1548486"
+    },
+    {
+      "name": "Relativitätstheorie",
+      "code": "4370",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/relativitatstheorie/1548489"
+    },
+    {
+      "name": "Relativitätstheorie, Astrophysik, Kosmologie",
+      "code": "27730",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/relativitatstheorie-astrophysik-kosmologie/1548490"
+    },
+    {
+      "name": "Robotersysteme - Anwendungen aus Industrie- und Servicerobotik",
+      "code": "6308401",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/robotersysteme-anwendungen-aus-industrie-und-servicerobotik/1548494"
+    },
+    {
+      "name": "Robust Control für Studierende der Kybernetik und der Mathematik",
+      "code": "330623",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/robust-control-fur-studierende-der-kybernetik-und-der-mathematik/1548495"
+    },
+    {
+      "name": "Robust Power Semiconductor Systems 2",
+      "code": "7934100000",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/robust-power-semiconductor-systems-2/6022448"
+    },
+    {
+      "name": "Robust Power Semiconductor Systems I",
+      "code": "7479100000",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/robust-power-semiconductor-systems-i/6022387"
+    },
+    {
+      "name": "Robuste Regelung",
+      "code": "39625",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/robuste-regelung/1548496"
+    },
+    {
+      "name": "Schadenskunde",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/schadenskunde/4362653"
+    },
+    {
+      "name": "Schalen",
+      "code": "331088",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/schalen/1548507"
+    },
+    {
+      "name": "Schaltungstechnik II",
+      "code": "375260",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/schaltungstechnik-ii/1548508"
+    },
+    {
+      "name": "Schutz und Instandsetzung",
+      "code": "331571",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/schutz-und-instandsetzung/1548514"
+    },
+    {
+      "name": "Schutz, Instandsetzung und Ertüchtigung von Bauwerken",
+      "code": "330256",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/schutz-instandsetzung-und-ertuchtigung-von-bauwerken/1548515"
+    },
+    {
+      "name": "Schwerefeldmodellierung",
+      "code": "32840",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/schwerefeldmodellierung/1548516"
+    },
+    {
+      "name": "Schwimmen Grundfach",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/schwimmen-grundfach/7402137"
+    },
+    {
+      "name": "scrittura creativa",
+      "code": "59311",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/scrittura-creativa/4034085"
+    },
+    {
+      "name": "Selbstkompetenz und Pädagogische Professionalität",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/selbstkompetenz-und-padagogische-professionalitat/4372957"
+    },
+    {
+      "name": "Seminar Sozialwissenschaftliche Forschungsmethoden",
+      "code": "711201",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/seminar-sozialwissenschaftliche-forschungsmethoden/6231255"
+    },
+    {
+      "name": "Seminar Soziologie des Sportvereins",
+      "code": "711702",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/seminar-soziologie-des-sportvereins/6230956"
+    },
+    {
+      "name": "Sensoren und Aktoren",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/sensoren-und-aktoren/4352398"
+    },
+    {
+      "name": "Service Operations Management",
+      "code": "26112100",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/service-operations-management/1548528"
+    },
+    {
+      "name": "Siedlungsentwässerung",
+      "code": "27317",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/siedlungsentwasserung/1548537"
+    },
+    {
+      "name": "Siedlungswasserwirtschaft",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/siedlungswasserwirtschaft/5702444"
+    },
+    {
+      "name": "Simulation mit Höchstleistungsrechnern",
+      "code": "6108141",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/simulation-mit-hochstleistungsrechnern/1548544"
+    },
+    {
+      "name": "Simulationstechnik B",
+      "code": "572520",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/simulationstechnik-b/1548545"
+    },
+    {
+      "name": "Simultanions Engineering",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/simultanions-engineering/3272363"
+    },
+    {
+      "name": "Smart Grids",
+      "code": "376040",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/smart-grids/1548547"
+    },
+    {
+      "name": "Software-Entwurf für technische Systeme",
+      "code": "39486",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/software-entwurf-fur-technische-systeme/1548552"
+    },
+    {
+      "name": "Softwarequalität",
+      "code": "32484301",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/softwarequalitat/1548554"
+    },
+    {
+      "name": "Softwaretechnik",
+      "code": "39423",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/softwaretechnik/1548557"
+    },
+    {
+      "name": "Solarthermie I",
+      "code": "56610",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/solarthermie-i/1548563"
+    },
+    {
+      "name": "Solid Waste Treatment",
+      "code": "48591",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/solid-waste-treatment/1548565"
+    },
+    {
+      "name": "Sozial Arbeit",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/sozial-arbeit/5140842"
+    },
+    {
+      "name": "Sozialformen und Methoden des Unterrichts",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/sozialformen-und-methoden-des-unterrichts/4839891"
+    },
+    {
+      "name": "Sozialistische Architektur",
+      "code": "32400201",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/sozialistische-architektur/1548568"
+    },
+    {
+      "name": "Sozialpsychologie",
+      "code": "2526301",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/sozialpsychologie/1548569"
+    },
+    {
+      "name": "Soziologie der Erziehung",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/soziologie-der-erziehung/5003304"
+    },
+    {
+      "name": "Soziologie für Nicht- Soziologen",
+      "code": "30114024",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/soziologie-fur-nicht-soziologen/1548570"
+    },
+    {
+      "name": "Soziologie in Architektur und Wohnen",
+      "code": "49121",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/soziologie-in-architektur-und-wohnen/3176606"
+    },
+    {
+      "name": "Soziologische Theorie",
+      "code": "SOW303",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/soziologische-theorie/3283008"
+    },
+    {
+      "name": "Spanisch B2",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/spanisch-b2/4358342"
+    },
+    {
+      "name": "Speichertechnik für elektrische Energie",
+      "code": "379090",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/speichertechnik-fur-elektrische-energie/1548575"
+    },
+    {
+      "name": "Sport und Gesellschaft A/B",
+      "code": "25312201",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/sport-und-gesellschaft-ab/1548589"
+    },
+    {
+      "name": "Sport und Gesundheit in der modernen Gesellschaft",
+      "code": "225210",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/sport-und-gesundheit-in-der-modernen-gesellschaft/1548590"
+    },
+    {
+      "name": "Sport- und Rennmotorentechnik",
+      "code": "4208078",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/sport-und-rennmotorentechnik/1548591"
+    },
+    {
+      "name": "Sprachphilosophie",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/sprachphilosophie/6487837"
+    },
+    {
+      "name": "Sprachvariation und Spracherwerb",
+      "code": "181211100",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/sprachvariation-und-spracherwerb/5188543"
+    },
+    {
+      "name": "Sprachwandel und Varietäten",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/sprachwandel-und-varietaten/7028037"
+    },
+    {
+      "name": "Stadt und Mobilität",
+      "code": "21671",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/stadt-und-mobilitat/1548598"
+    },
+    {
+      "name": "Stadtbauphysik",
+      "code": "330840",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/stadtbauphysik/1548599"
+    },
+    {
+      "name": "Stadtplanung und Bodenordnung",
+      "code": "32198901",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/stadtplanung-und-bodenordnung/1548600"
+    },
+    {
+      "name": "Standpunkt der Baukultur",
+      "code": "50421",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/standpunkt-der-baukultur/6043125"
+    },
+    {
+      "name": "Statik I",
+      "code": "39144",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/statik-i/1548604"
+    },
+    {
+      "name": "Statik III",
+      "code": "39320",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/statik-iii/1548606"
+    },
+    {
+      "name": "Statistical Machine Translation",
+      "code": "21677",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/statistical-machine-translation/1548610"
+    },
+    {
+      "name": "Statistics and Information Processing",
+      "code": "21621",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/statistics-and-information-processing/1548611"
+    },
+    {
+      "name": "Statistik",
+      "code": "22731",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/statistik/1548612"
+    },
+    {
+      "name": "Statistik für Ingenieure",
+      "code": "330402",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/statistik-fur-ingenieure/1548613"
+    },
+    {
+      "name": "Statistik für WiWi",
+      "code": "1140",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/statistik-fur-wiwi/1548614"
+    },
+    {
+      "name": "Statistik und Datenanalyse",
+      "code": "250711101",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/statistik-und-datenanalyse/4303980"
+    },
+    {
+      "name": "statistik und Optimierung",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/statistik-und-optimierung/6963918"
+    },
+    {
+      "name": "Statistik und Optimierung für Simulationswissenschaften",
+      "code": "572140",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/statistik-und-optimierung-fur-simulationswissenschaften/1548617"
+    },
+    {
+      "name": "Statistische Methoden I",
+      "code": "50202",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/statistische-methoden-i/1548619"
+    },
+    {
+      "name": "Statistische Sprachverarbeitung",
+      "code": "4014080",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/statistische-sprachverarbeitung/1548620"
+    },
+    {
+      "name": "Statistische Thermodynamik",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/statistische-thermodynamik/5303374"
+    },
+    {
+      "name": "Statistische und stochastische Grundlagen der Informatik",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/statistische-und-stochastische-grundlagen-der-informatik/3591950"
+    },
+    {
+      "name": "Steinfußtheater",
+      "code": "370330",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/steinfusstheater/1548622"
+    },
+    {
+      "name": "Steuerliche Betrachtung von Immobilien",
+      "code": "6107052",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/steuerliche-betrachtung-von-immobilien/1548623"
+    },
+    {
+      "name": "Steuerungstechnik der Werkzeugmaschinen und Industrieroboter",
+      "code": "3606121",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/steuerungstechnik-der-werkzeugmaschinen-und-industrieroboter/1548624"
+    },
+    {
+      "name": "Steuerungstechnik mit Antriebstechnik",
+      "code": "4560",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/steuerungstechnik-mit-antriebstechnik/1548626"
+    },
+    {
+      "name": "Stilfragen und Formen journalistischen Schreibens",
+      "code": "3405201",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/stilfragen-und-formen-journalistischen-schreibens/1548627"
+    },
+    {
+      "name": "Stochastik und angewandte Mathematik",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/stochastik-und-angewandte-mathematik/4352897"
+    },
+    {
+      "name": "Stochastische Modellierung",
+      "code": "1780",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/stochastische-modellierung/1548631"
+    },
+    {
+      "name": "Stochastische Prozesse 2",
+      "code": "1630",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/stochastische-prozesse-2/1548633"
+    },
+    {
+      "name": "Straßenbautechnik I",
+      "code": "330070",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/strassenbautechnik-i/1548637"
+    },
+    {
+      "name": "Straßenentwurf außerorts I",
+      "code": "12750",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/strassenentwurf-ausserorts-i/4926676"
+    },
+    {
+      "name": "Straßenentwurf außerorts II",
+      "code": "331327",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/strassenentwurf-ausserorts-ii/1548638"
+    },
+    {
+      "name": "Strategic Coordination Instruments and Concepts for International Firms",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/strategic-coordination-instruments-and-concepts-for-international-firms/5404067"
+    },
+    {
+      "name": "Strategien der Produktion",
+      "code": "6308161",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/strategien-der-produktion/1548640"
+    },
+    {
+      "name": "Strategische Unternehmensplanung in der leitungsgebundenen Energiewirtschaft",
+      "code": "6108411",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/strategische-unternehmensplanung-in-der-leitungsgebundenen-energiewirtschaft/1548644"
+    },
+    {
+      "name": "Strategisches Management",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/strategisches-management/3729767"
+    },
+    {
+      "name": "Strukturanalyse und Mikroskopie",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/strukturanalyse-und-mikroskopie/5294219"
+    },
+    {
+      "name": "Strömungslehre I",
+      "code": "39070",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/stromungslehre-i/1548647"
+    },
+    {
+      "name": "Strömungsmechanik",
+      "code": "3604081",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/stromungsmechanik/1548648"
+    },
+    {
+      "name": "Strömungsmechanik und Hydraulische Strömungsmaschinen",
+      "code": "39021",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/stromungsmechanik-und-hydraulische-stromungsmaschinen/1548649"
+    },
+    {
+      "name": "Synergetik - Die Lehre vom Zusammenwirken",
+      "code": "2738",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/synergetik-die-lehre-vom-zusammenwirken/1548661"
+    },
+    {
+      "name": "Syntax",
+      "code": "4347153",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/syntax/6739196"
+    },
+    {
+      "name": "Systematik und Methoden der Immobilien- und Grundstücksbewertung",
+      "code": "330219",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/systematik-und-methoden-der-immobilien-und-grundstucksbewertung/1548663"
+    },
+    {
+      "name": "Systemdynamik",
+      "code": "34350",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/systemdynamik/1548665"
+    },
+    {
+      "name": "Systemdynamische Grundlagen der Regelungstechnik",
+      "code": "3536306",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/systemdynamische-grundlagen-der-regelungstechnik/1548667"
+    },
+    {
+      "name": "Systemkonzepte und -programmierung",
+      "code": "557602",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/systemkonzepte-und-programmierung/1651052"
+    },
+    {
+      "name": "Technik des betrieblichen Rechnungswesens",
+      "code": "48531",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/technik-des-betrieblichen-rechnungswesens/1548052"
+    },
+    {
+      "name": "Techniken der molekularen Genetik (Laborübung)",
+      "code": "19152027",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/techniken-der-molekularen-genetik-laborubung/1548673"
+    },
+    {
+      "name": "Technische Bauphysik",
+      "code": "330812",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/technische-bauphysik/1548679"
+    },
+    {
+      "name": "Technische Bewertung von Immobilien",
+      "code": "330241",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/technische-bewertung-von-immobilien/1548680"
+    },
+    {
+      "name": "Technische Biologie II",
+      "code": "3502011",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/technische-biologie-ii/1548681"
+    },
+    {
+      "name": "Technische Informatik II",
+      "code": "375850",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/technische-informatik-ii/1548682"
+    },
+    {
+      "name": "Technische Mechanik 1",
+      "code": "360101100 (V/Ü), 360101300 (SÜ)",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/technische-mechanik-1/3281584"
+    },
+    {
+      "name": "Technische Mechanik 2",
+      "code": "3602011",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/technische-mechanik-2/1548683"
+    },
+    {
+      "name": "Technische Mechanik 4",
+      "code": "3604011",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/technische-mechanik-4/1548684"
+    },
+    {
+      "name": "Technische Mechanik I+II",
+      "code": "39004",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/technische-mechanik-iii/1548685"
+    },
+    {
+      "name": "Technische Mechanik III",
+      "code": "331020",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/technische-mechanik-iii/1548686"
+    },
+    {
+      "name": "Technische Schwingungslehre",
+      "code": "4204030",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/technische-schwingungslehre/1548687"
+    },
+    {
+      "name": "Technische Strömungslehre",
+      "code": "3604061",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/technische-stromungslehre/1548688"
+    },
+    {
+      "name": "Technische Thermodynamik I+II",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/technische-thermodynamik-iii/3281587"
+    },
+    {
+      "name": "Technische Thermodynamik II",
+      "code": "56450",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/technische-thermodynamik-ii/1548689"
+    },
+    {
+      "name": "Technisches Design",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/technisches-design/1675234"
+    },
+    {
+      "name": "Technologiemanagement I",
+      "code": "072010002",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/technologiemanagement-i/1666593"
+    },
+    {
+      "name": "Technologiemanagement II",
+      "code": "3606181",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/technologiemanagement-ii/1548691"
+    },
+    {
+      "name": "Technologien der Nano- und Mikrosystemtechnik I",
+      "code": "3606441",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/technologien-der-nano-und-mikrosystemtechnik-i/1548693"
+    },
+    {
+      "name": "Technologien der Nano- und Mikrosystemtechnik II",
+      "code": "6408351",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/technologien-der-nano-und-mikrosystemtechnik-ii/1548694"
+    },
+    {
+      "name": "theoretische chemie",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/theoretische-chemie/5293172"
+    },
+    {
+      "name": "Theoretische Grundlagen der Informatik",
+      "code": "10940",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/theoretische-grundlagen-der-informatik/1548701"
+    },
+    {
+      "name": "Theoretische Informatik I",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/theoretische-informatik-i/5378615"
+    },
+    {
+      "name": "Theoretische Informatik II",
+      "code": "020800500",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/theoretische-informatik-ii/3666268"
+    },
+    {
+      "name": "Theoretische Physik",
+      "code": "39001",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/theoretische-physik/1548702"
+    },
+    {
+      "name": "Theoretische Physik I: Klassische Mechanik",
+      "code": "4202",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/theoretische-physik-i-klassische-mechanik/1548703"
+    },
+    {
+      "name": "Theorien des Sprachwandels",
+      "code": "19141054",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/theorien-des-sprachwandels/1548707"
+    },
+    {
+      "name": "Thermal Waste Treatment",
+      "code": "48601",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/thermal-waste-treatment/1548709"
+    },
+    {
+      "name": "Thermische Energiespeicher",
+      "code": "6108036",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/thermische-energiespeicher/1548710"
+    },
+    {
+      "name": "Thermische Verfahrenstechnik II",
+      "code": "3508151",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/thermische-verfahrenstechnik-ii/1548712"
+    },
+    {
+      "name": "Thermodynamik der Gemische",
+      "code": "39540",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/thermodynamik-der-gemische/1548713"
+    },
+    {
+      "name": "Thermodynamik Grundlagen der Luft- und Raumfahrttechnik I+II",
+      "code": "Thermo I+II LRT",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/thermodynamik-grundlagen-der-luft-und-raumfahrttechnik-iii/5362553"
+    },
+    {
+      "name": "Thermodynamik I",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/thermodynamik-i/3237822"
+    },
+    {
+      "name": "Thermodynamik II",
+      "code": "39075",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/thermodynamik-ii/1548714"
+    },
+    {
+      "name": "Tier- und Humanphysiologie",
+      "code": "11008",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/tier-und-humanphysiologie/1548716"
+    },
+    {
+      "name": "Topology and Optimization",
+      "code": "32413001",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/topology-and-optimization/1548718"
+    },
+    {
+      "name": "Traduction",
+      "code": "BALAFRTD1",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/traduction/3944564"
+    },
+    {
+      "name": "Tragkonstruktionen 1",
+      "code": "3113300",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/tragkonstruktionen-1/1548719"
+    },
+    {
+      "name": "Tragkonstruktionen 2.1",
+      "code": "3901703",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/tragkonstruktionen-21/6471063"
+    },
+    {
+      "name": "Tragwerksoptimierung",
+      "code": "39355",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/tragwerksoptimierung/1548720"
+    },
+    {
+      "name": "Translation",
+      "code": "594001",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/translation/7360746"
+    },
+    {
+      "name": "Trägheitsmomente",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/tragheitsmomente/5046905"
+    },
+    {
+      "name": "Tutorium Alte Geschichte - Einführung in die Alte Geschichte und deren Arbeitsmethoden",
+      "code": "212020071",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/tutorium-alte-geschichte-einfuhrung-in-die-alte-geschichte-und-deren-arbeitsmethoden/5187429"
+    },
+    {
+      "name": "Tutorium Neuzeit",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/tutorium-neuzeit/7416694"
+    },
+    {
+      "name": "Typologie I",
+      "code": "4921225",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/typologie-i/1548738"
+    },
+    {
+      "name": "Umweltsoziologie und Technikfolgenabschätzung",
+      "code": "32432001",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/umweltsoziologie-und-technikfolgenabschatzung/1548748"
+    },
+    {
+      "name": "Unternehmenspraxis und Nachhaltigkeit. Vom Konzept zur Umsetzung",
+      "code": "4200",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/unternehmenspraxis-und-nachhaltigkeit-vom-konzept-zur-umsetzung/1548755"
+    },
+    {
+      "name": "Unternehmer und Politik",
+      "code": "242181300",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/unternehmer-und-politik/3490903"
+    },
+    {
+      "name": "Upload file",
+      "code": "UFF1",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/upload-file/5031524"
+    },
+    {
+      "name": "Urban Mapping Lab",
+      "code": "UML2021",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/urban-mapping-lab/5129497"
+    },
+    {
+      "name": "Urban Planning I",
+      "code": "4575",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/urban-planning-i/1548759"
+    },
+    {
+      "name": "Überblick über die deutsche Literatur und Kunst für ausländische Studierende",
+      "code": "39499",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/uberblick-uber-die-deutsche-literatur-und-kunst-fur-auslandische-studierende/1548739"
+    },
+    {
+      "name": "Übertragungstechnik I",
+      "code": "11660",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/ubertragungstechnik-i/6153359"
+    },
+    {
+      "name": "Value Management",
+      "code": "3607181",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/value-management/1548765"
+    },
+    {
+      "name": "Verbindungen, Anschlüsse",
+      "code": "3607191",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/verbindungen-anschlusse/1548768"
+    },
+    {
+      "name": "Verkehrsplanung und Verkehrstechnik",
+      "code": "106701",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/verkehrsplanung-und-verkehrstechnik/4462769"
+    },
+    {
+      "name": "Verkehrstechnik und Verkehrsleittechnik",
+      "code": "331369",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/verkehrstechnik-und-verkehrsleittechnik/1548784"
+    },
+    {
+      "name": "Verstärken von Stahlbetonbauwerken in Erdbebengebieten",
+      "code": "331566",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/verstarken-von-stahlbetonbauwerken-in-erdbebengebieten/1548787"
+    },
+    {
+      "name": "Vertiefung in die Wirtschaftsinformatik",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/vertiefung-in-die-wirtschaftsinformatik/7185384"
+    },
+    {
+      "name": "Visualisierung und Animation von GeoDaten",
+      "code": "32834",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/visualisierung-und-animation-von-geodaten/1548799"
+    },
+    {
+      "name": "Volkswirtschaftslehre",
+      "code": "VWL 2007",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/volkswirtschaftslehre/5133853"
+    },
+    {
+      "name": "Vorbereitungskurs Mathe",
+      "code": "Jdb6w72",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/vorbereitungskurs-mathe/5845119"
+    },
+    {
+      "name": "Vorkurs Mathematik",
+      "code": "505701141",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/vorkurs-mathematik/1548803"
+    },
+    {
+      "name": "Vorkurs Physik",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/vorkurs-physik/5485033"
+    },
+    {
+      "name": "Vorlesung Grundlagen Städtebau",
+      "code": "3112501",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/vorlesung-grundlagen-stadtebau/1548806"
+    },
+    {
+      "name": "Vorlesung Stadtentwicklung und räumliche Planung",
+      "code": "3112526",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/vorlesung-stadtentwicklung-und-raumliche-planung/1548808"
+    },
+    {
+      "name": "Wahrscheinlichkeitstheorie",
+      "code": "013440000",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/wahrscheinlichkeitstheorie/3368149"
+    },
+    {
+      "name": "Wahrscheinlichkeitstheorie und Statistik",
+      "code": "12240",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/wahrscheinlichkeitstheorie-und-statistik/3171329"
+    },
+    {
+      "name": "Wasserwirtschaft",
+      "code": "331206",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/wasserwirtschaft/1548821"
+    },
+    {
+      "name": "Water Treatment",
+      "code": "28034",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/water-treatment/1548823"
+    },
+    {
+      "name": "Werkstoffe im Bauwesen I",
+      "code": "331501",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/werkstoffe-im-bauwesen-i/1548828"
+    },
+    {
+      "name": "Werkstoffe im Bauwesen II",
+      "code": "331511",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/werkstoffe-im-bauwesen-ii/1548829"
+    },
+    {
+      "name": "Werkstoffe und Fertigungsverfahren im Flugzeugbau",
+      "code": "39457",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/werkstoffe-und-fertigungsverfahren-im-flugzeugbau/1548831"
+    },
+    {
+      "name": "Werkstoffkunde I+II",
+      "code": "041810001",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/werkstoffkunde-iii/2276034"
+    },
+    {
+      "name": "Werkstoffkunde II",
+      "code": "3602031",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/werkstoffkunde-ii/1548834"
+    },
+    {
+      "name": "Werkstoffmechanik II",
+      "code": "26110004",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/werkstoffmechanik-ii/1548836"
+    },
+    {
+      "name": "Werkstofftechnik metallischer Werkstoffe",
+      "code": "39317",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/werkstofftechnik-metallischer-werkstoffe/1548837"
+    },
+    {
+      "name": "Werkstoffübergreifendes Konstruieren und Entwerfen",
+      "code": "330901",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/werkstoffubergreifendes-konstruieren-und-entwerfen/1548839"
+    },
+    {
+      "name": "Werkzeugmaschinen",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/werkzeugmaschinen/4333176"
+    },
+    {
+      "name": "Windenergienutzung I",
+      "code": "39463",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/windenergienutzung-i/1548844"
+    },
+    {
+      "name": "Wissens- und Informationsmanagement in der Produktion I",
+      "code": "13581",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/wissens-und-informationsmanagement-in-der-produktion-i/4049763"
+    },
+    {
+      "name": "Wissens- und Informationsmanagement in der Produktion II",
+      "code": "3606391",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/wissens-und-informationsmanagement-in-der-produktion-ii/1548848"
+    },
+    {
+      "name": "Wissenschaftliches Arbeiten im Sportstudium",
+      "code": "370360",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/wissenschaftliches-arbeiten-im-sportstudium/1548850"
+    },
+    {
+      "name": "Wärmeschutz und Energieeinsparung",
+      "code": "330820000",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/warmeschutz-und-energieeinsparung/7342808"
+    },
+    {
+      "name": "Wärmeübertragung",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/warmeubertragung/2300956"
+    },
+    {
+      "name": "Zeitreihenanalyse",
+      "code": "ZRA3100",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/zeitreihenanalyse/5163748"
+    },
+    {
+      "name": "Zell- und Humanbiologie 2",
+      "code": "4911219",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/zell-und-humanbiologie-2/1548855"
+    },
+    {
+      "name": "Zelluläre Biochemie",
+      "code": "5403",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/zellulare-biochemie/1548856"
+    },
+    {
+      "name": "Zuverlässigkeitstechnik",
+      "code": "620712401",
+      "url": "https://www.studocu.com/de/course/universitat-stuttgart/zuverlassigkeitstechnik/3387534"
+    }
+  ]
+}
