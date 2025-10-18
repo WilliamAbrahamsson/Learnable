@@ -122,7 +122,7 @@ export const CanvasToolbar = ({
                 <button
                   type="button"
                   onClick={handleShare}
-                  className="rounded-lg bg-emerald-600 px-3 py-1.5 text-sm text-white shadow"
+                  className="rounded-lg bg-[#2A2A28] hover:bg-[#33332F] px-3 py-1.5 text-sm text-[#C5C1BA] shadow"
                 >
                   <span className="inline-flex items-center gap-1.5">
                     <Share className="h-4 w-4" />

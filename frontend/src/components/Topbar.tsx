@@ -4,14 +4,7 @@ import { Button } from '@/components/ui/button';
 import { Input } from '@/components/ui/input';
 import { Label } from '@/components/ui/label';
 import { Checkbox } from '@/components/ui/checkbox';
-import {
-  Dialog,
-  DialogContent,
-  DialogHeader,
-  DialogTitle,
-  DialogDescription,
-  DialogFooter,
-} from '@/components/ui/dialog';
+import { Dialog, DialogContent } from '@/components/ui/dialog';
 import {
   DropdownMenu,
   DropdownMenuContent,
@@ -21,17 +14,7 @@ import {
 } from '@/components/ui/dropdown-menu';
 import { useToast } from '@/hooks/use-toast';
 import { waitForGoogleScript, initGoogleId, renderGoogleButton } from '@/lib/googleAuth';
-import { Tooltip, TooltipContent, TooltipTrigger } from '@/components/ui/tooltip';
-import {
-  Drawer,
-  DrawerContent,
-  DrawerDescription,
-  DrawerHeader,
-  DrawerTitle,
-  DrawerClose,
-  DrawerTrigger,
-} from '@/components/ui/drawer';
-import { Menu } from 'lucide-react';
+// (Drawer imports removed: not used)
 
 type StoredUser = {
   id: number;
@@ -47,6 +30,8 @@ const authInputClasses =
 
 export const Topbar = () => {
   const navigate = useNavigate();
+  const { toast } = useToast();
+
   const [isSignInOpen, setSignInOpen] = useState(false);
   const [isSignUpOpen, setSignUpOpen] = useState(false);
   const [isSigningIn, setIsSigningIn] = useState(false);
@@ -56,7 +41,6 @@ export const Topbar = () => {
   const [now, setNow] = useState<Date>(new Date());
   const [clockHovered, setClockHovered] = useState(false);
   const [agreeTerms, setAgreeTerms] = useState(false);
-  const { toast } = useToast();
 
   const apiBaseUrl = import.meta.env.VITE_API_BASE_URL ?? 'http://localhost:5000';
   const googleClientId = import.meta.env.VITE_GOOGLE_CLIENT_ID as string | undefined;
@@ -94,7 +78,7 @@ export const Topbar = () => {
     return { prefix: `${weekday}, ${month} ${day} • ${time} • `, week: wk };
   })();
 
-  // Read user from localStorage
+  // Read user
   const refreshUserFromStorage = () => {
     const storedUser = localStorage.getItem('learnableUser');
     if (!storedUser) {
@@ -104,19 +88,13 @@ export const Topbar = () => {
     }
     try {
       const parsed = JSON.parse(storedUser) as StoredUser;
-      if (parsed && parsed.email) {
-        setCurrentUser(parsed);
-        setTokenBalance(typeof parsed.token_balance === 'number' ? parsed.token_balance : null);
-      } else {
-        setCurrentUser(null);
-        setTokenBalance(null);
-      }
+      setCurrentUser(parsed);
+      setTokenBalance(typeof parsed.token_balance === 'number' ? parsed.token_balance : null);
     } catch {
       setCurrentUser(null);
       setTokenBalance(null);
     }
   };
-
   useEffect(() => {
     refreshUserFromStorage();
     const onStorage = (e: StorageEvent) => {
@@ -124,6 +102,24 @@ export const Topbar = () => {
     };
     window.addEventListener('storage', onStorage);
     return () => window.removeEventListener('storage', onStorage);
+  }, []);
+
+  // Open auth dialogs from elsewhere (e.g., Chat CTA)
+  useEffect(() => {
+    const openSignin = () => {
+      setSignUpOpen(false);
+      setSignInOpen(true);
+    };
+    const openSignup = () => {
+      setSignInOpen(false);
+      setSignUpOpen(true);
+    };
+    window.addEventListener('learnable-open-signin', openSignin as EventListener);
+    window.addEventListener('learnable-open-signup', openSignup as EventListener);
+    return () => {
+      window.removeEventListener('learnable-open-signin', openSignin as EventListener);
+      window.removeEventListener('learnable-open-signup', openSignup as EventListener);
+    };
   }, []);
 
   // Google auth
@@ -160,7 +156,8 @@ export const Topbar = () => {
           const el = document.getElementById(id);
           if (el) {
             el.innerHTML = '';
-            renderGoogleButton(el);
+            const max = Math.min(360, Math.max(240, Math.floor((el.parentElement?.clientWidth ?? 320) - 8)));
+            renderGoogleButton(el, 'filled_blue', max);
           }
         });
       } catch {
@@ -297,51 +294,13 @@ export const Topbar = () => {
           </a>
         </div>
 
-        {/* Mobile Drawer */}
-        <div className="xl:hidden flex items-center gap-2">
-          <Drawer>
-            <DrawerTrigger asChild>
-              <button className="inline-flex items-center justify-center rounded-md h-8 w-8 text-[#C5C1BA] hover:text-white hover:bg-[#272725]">
-                <Menu className="h-5 w-5" />
-              </button>
-            </DrawerTrigger>
-            <DrawerContent className="bg-[#1C1C1C] text-[#C5C1BA] border-t border-[#272725]">
-              <DrawerHeader>
-                <DrawerTitle className="text-[#E5E3DF]">Menu</DrawerTitle>
-                <DrawerDescription className="text-[#76746F]">Quick actions</DrawerDescription>
-              </DrawerHeader>
-              <div className="px-4 pb-4 space-y-2">
-                <button className="w-full text-left px-3 py-2 rounded border border-[#272725] hover:bg-[#272725]" onClick={()=>navigate('/vision')}>Vision</button>
-                {currentUser && (
-                  <button className="w-full text-left px-3 py-2 rounded border border-[#272725] hover:bg-[#272725]" onClick={()=>navigate('/my-graphs')}>My Learning Graphs</button>
-                )}
-                {currentUser ? (
-                  <>
-                    <button className="w-full text-left px-3 py-2 rounded border border-[#272725] hover:bg-[#272725]" onClick={()=>navigate('/sub')}>Manage Subscription</button>
-                    <button className="w-full text-left px-3 py-2 rounded border border-[#272725] hover:bg-[#272725]" onClick={()=>navigate('/settings')}>Settings</button>
-                    <button className="w-full text-left px-3 py-2 rounded border border-[#272725] hover:bg-[#272725]" onClick={handleSignOut}>Sign Out</button>
-                  </>
-                ) : (
-                  <>
-                    <button className="w-full text-left px-3 py-2 rounded border border-[#272725] hover:bg-[#272725]" onClick={()=>setSignUpOpen(true)}>Explore Demo</button>
-                    <button className="w-full text-left px-3 py-2 rounded border border-[#272725] hover:bg-[#272725]" onClick={()=>setSignInOpen(true)}>Sign In</button>
-                  </>
-                )}
-              </div>
-              <DrawerClose asChild>
-                <button className="mx-4 mb-4 w-full h-9 rounded bg-[#1E52F1] text-white hover:bg-[#1E52F1]/90">Close</button>
-              </DrawerClose>
-            </DrawerContent>
-          </Drawer>
-        </div>
-
         {/* Right Section */}
         <div className="hidden xl:flex items-center gap-3">
           {currentUser ? (
             <>
               {typeof tokenBalance === 'number' && (
                 <button
-                  className="hidden sm:flex items-center gap-2 px-3 py-1.5 h-auto text-xs border border-[#272725] rounded-md text-[#C5C1BA] hover:bg-[#272725] hover:text-white transition-colors"
+                  className="hidden sm:flex items-center gap-2 px-3 py-1.5 h-auto text-xs border border-[#272725] rounded-md text-[#C5C1BA] hover:bg-[#272725]"
                   onClick={() => navigate('/sub')}
                 >
                   <span className="opacity-80">Tokens</span>
@@ -351,7 +310,6 @@ export const Topbar = () => {
               <Button
                 variant="ghost"
                 className="text-[#C5C1BA] hover:text-white hover:bg-[#272725] px-3 py-1.5 h-auto"
-                style={{ borderRadius: '4px', fontSize: '13.5px' }}
                 onClick={() => navigate('/sub')}
               >
                 Manage Subscription
@@ -359,8 +317,7 @@ export const Topbar = () => {
               <DropdownMenu>
                 <DropdownMenuTrigger asChild>
                   <button
-                    className="h-8 w-8 rounded-full bg-[#272725] text-[#C5C1BA] hover:text-white hover:bg-[#1E52F1] transition-colors flex items-center justify-center font-semibold uppercase"
-                    aria-label="User menu"
+                    className="h-8 w-8 rounded-full bg-[#272725] text-[#C5C1BA] hover:text-white hover:bg-[#1E52F1] flex items-center justify-center font-semibold uppercase"
                   >
                     {(currentUser.username || currentUser.email || '?')
                       .trim()
@@ -372,9 +329,7 @@ export const Topbar = () => {
                   align="end"
                   className="w-40 bg-[#1C1C1C] text-[#C5C1BA] border border-[#272725]"
                 >
-                  <DropdownMenuItem onSelect={() => navigate('/settings')}>
-                    Settings
-                  </DropdownMenuItem>
+                  <DropdownMenuItem onSelect={() => navigate('/settings')}>Settings</DropdownMenuItem>
                   <DropdownMenuSeparator className="bg-[#272725]" />
                   <DropdownMenuItem onSelect={handleSignOut}>Sign Out</DropdownMenuItem>
                 </DropdownMenuContent>
@@ -384,16 +339,20 @@ export const Topbar = () => {
             <>
               <Button
                 variant="ghost"
-                className="text-[#C5C1BA] hover:text-white hover:bg-[#272725] px-3 py-1.5 h-auto"
-                style={{ borderRadius: '4px', fontSize: '13.5px' }}
-                onClick={() => setSignUpOpen(true)}
+                className="text-[#C5C1BA] hover:text-white hover:bg-[#272725]"
+                onClick={() => {
+                  setSignInOpen(false);
+                  setSignUpOpen(true);
+                }}
               >
                 Explore Demo
               </Button>
               <Button
-                className="bg-[#1E52F1] text-white hover:bg-[#1E52F1]/90 transition-colors px-3 py-1.5 h-auto"
-                style={{ borderRadius: '4px', fontSize: '13.5px' }}
-                onClick={() => setSignInOpen(true)}
+                className="bg-[#1E52F1] text-white hover:bg-[#1E52F1]/90"
+                onClick={() => {
+                  setSignUpOpen(false);
+                  setSignInOpen(true);
+                }}
               >
                 Sign In
               </Button>
@@ -402,7 +361,130 @@ export const Topbar = () => {
         </div>
       </header>
 
-      {/* Dialogs remain same (sign up/sign in) using handleSignUp & handleSignIn */}
+      {/* ---- Sign In Dialog ---- */}
+      <Dialog open={isSignInOpen} onOpenChange={setSignInOpen}>
+        <DialogContent className="bg-[#1C1C1C] border border-[#272725] text-[#C5C1BA] sm:max-w-md p-0 overflow-hidden rounded-xl">
+          <div className="p-6">
+            {/* Brand header */}
+            <div className="flex items-center gap-3 mb-4">
+              <span className="inline-flex items-center justify-center bg-[#1E52F1] rounded w-8 h-8">
+                <img src="/learnable-logo.png" alt="Learnable" className="h-6 w-6" />
+              </span>
+              <div>
+                <div className="text-sm font-semibold text-[#E5E3DF]">Welcome back</div>
+                <div className="text-xs text-[#B5B2AC]">Sign in to your account</div>
+              </div>
+            </div>
+
+            {/* Form */}
+            <form onSubmit={handleSignIn} className="space-y-4">
+              <div className="space-y-2">
+                <Label htmlFor="signin-email">Email</Label>
+                <Input id="signin-email" name="email" autoComplete="email" autoFocus type="email" required className={`${authInputClasses} h-9`} />
+              </div>
+              <div className="space-y-2">
+                <div className="flex items-center justify-between">
+                  <Label htmlFor="signin-password">Password</Label>
+                  <button type="button" className="text-xs text-[#9E9B94] hover:text-[#C5C1BA]">Forgot?</button>
+                </div>
+                <Input id="signin-password" name="password" type="password" autoComplete="current-password" required className={`${authInputClasses} h-9`} />
+              </div>
+              <Button type="submit" disabled={isSigningIn} className="w-full h-9 bg-[#1E52F1] hover:bg-[#1E52F1]/90">
+                {isSigningIn ? 'Signing in…' : 'Sign In'}
+              </Button>
+            </form>
+
+            {/* OR divider */}
+            <div className="relative my-5">
+              <div className="absolute inset-0 flex items-center"><span className="w-full border-t border-[#272725]" /></div>
+              <div className="relative flex justify-center text-xs text-[#76746F]"><span className="bg-[#1C1C1C] px-2">Or continue with</span></div>
+            </div>
+            <div className="flex justify-center">
+              <div id="google-signin-btn" className="w-full flex justify-center" />
+            </div>
+
+            {/* Switch */}
+            <div className="mt-4 text-xs text-[#B5B2AC] text-center">
+              Don’t have an account?{' '}
+              <button
+                type="button"
+                className="text-[#E5E3DF] hover:underline"
+                onClick={() => {
+                  setSignInOpen(false);
+                  setSignUpOpen(true);
+                }}
+              >
+                Create one
+              </button>
+            </div>
+          </div>
+        </DialogContent>
+      </Dialog>
+
+      {/* ---- Sign Up Dialog ---- */}
+      <Dialog open={isSignUpOpen} onOpenChange={setSignUpOpen}>
+        <DialogContent className="bg-[#1C1C1C] border border-[#272725] text-[#C5C1BA] sm:max-w-md p-0 overflow-hidden rounded-xl">
+          <div className="p-6">
+            {/* Brand header */}
+            <div className="flex items-center gap-3 mb-4">
+              <span className="inline-flex items-center justify-center bg-[#1E52F1] rounded w-8 h-8">
+                <img src="/learnable-logo.png" alt="Learnable" className="h-6 w-6" />
+              </span>
+              <div>
+                <div className="text-sm font-semibold text-[#E5E3DF]">Create your account</div>
+                <div className="text-xs text-[#B5B2AC]">Start building your Learning Graph</div>
+              </div>
+            </div>
+
+            {/* Form */}
+            <form onSubmit={handleSignUp} className="space-y-4">
+              <div className="space-y-2">
+                <Label htmlFor="signup-email">Email</Label>
+                <Input id="signup-email" name="email" type="email" autoComplete="email" required className={`${authInputClasses} h-9`} />
+              </div>
+              <div className="space-y-2">
+                <Label htmlFor="signup-username">Username (optional)</Label>
+                <Input id="signup-username" name="username" type="text" autoComplete="username" className={`${authInputClasses} h-9`} />
+              </div>
+              <div className="space-y-2">
+                <Label htmlFor="signup-password">Password</Label>
+                <Input id="signup-password" name="password" type="password" autoComplete="new-password" required className={`${authInputClasses} h-9`} />
+              </div>
+              <div className="flex items-center gap-2 text-xs text-[#B5B2AC]">
+                <Checkbox id="terms" checked={agreeTerms} onCheckedChange={(v) => setAgreeTerms(!!v)} />
+                <Label htmlFor="terms">I agree to the <a className="underline hover:text-[#E5E3DF]" href="/terms#terms" onClick={(e) => e.stopPropagation()}>Terms</a></Label>
+              </div>
+              <Button type="submit" disabled={isSigningUp} className="w-full h-9 bg-[#1E52F1] hover:bg-[#1E52F1]/90">
+                {isSigningUp ? 'Creating…' : 'Create account'}
+              </Button>
+            </form>
+
+            {/* OR divider */}
+            <div className="relative my-5">
+              <div className="absolute inset-0 flex items-center"><span className="w-full border-t border-[#272725]" /></div>
+              <div className="relative flex justify-center text-xs text-[#76746F]"><span className="bg-[#1C1C1C] px-2">Or continue with</span></div>
+            </div>
+            <div className="flex justify-center">
+              <div id="google-signup-btn" className="w-full flex justify-center" />
+            </div>
+
+            {/* Switch */}
+            <div className="mt-4 text-xs text-[#B5B2AC] text-center">
+              Already have an account?{' '}
+              <button
+                type="button"
+                className="text-[#E5E3DF] hover:underline"
+                onClick={() => {
+                  setSignUpOpen(false);
+                  setSignInOpen(true);
+                }}
+              >
+                Sign in
+              </button>
+            </div>
+          </div>
+        </DialogContent>
+      </Dialog>
     </>
   );
 };

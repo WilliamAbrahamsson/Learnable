@@ -32,7 +32,7 @@ const baseGroupOptions = (left: number, top: number) => ({
   top,
   selectable: true,
   hasControls: true,
-  hasBorders: true,
+  hasBorders: false,
   borderColor: '#3F3F3D',
   borderOpacityWhenMoving: 0,
   lockRotation: true,

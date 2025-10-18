@@ -29,15 +29,18 @@ export function initGoogleId(clientId: string, callback: (credential: string) =>
   });
 }
 
-export function renderGoogleButton(container: HTMLElement, theme: 'outline' | 'filled_blue' = 'filled_blue') {
+export function renderGoogleButton(
+  container: HTMLElement,
+  theme: 'outline' | 'filled_blue' = 'filled_blue',
+  width?: number,
+) {
   if (!window.google?.accounts?.id) return;
   window.google.accounts.id.renderButton(container, {
     theme,
     size: 'large',
     shape: 'rectangular',
     logo_alignment: 'left',
-    width: 320,
+    width: typeof width === 'number' ? width : 320,
     text: 'continue_with',
   });
 }
-

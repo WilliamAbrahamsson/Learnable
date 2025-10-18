@@ -4,6 +4,8 @@ import { Dialog, DialogContent, DialogDescription, DialogFooter, DialogHeader, D
 import { Input } from '@/components/ui/input';
 import { Textarea } from '@/components/ui/textarea';
 import { Button } from '@/components/ui/button';
+import { useToast } from '@/hooks/use-toast';
+import { GitMerge } from 'lucide-react';
 
 type Props = {
   // Percentage of the container width occupied by the right overlay (chat)
@@ -22,6 +24,8 @@ export const CardCanvas = ({ rightOffsetPercent = 0, graphId = null }: Props) =>
     handleAddImageCard,
     zoomIn,
     zoomOut,
+    selectedCardIds,
+    multiSelectAnchor,
     // Editor
     editOpen,
     editId,
@@ -38,6 +42,7 @@ export const CardCanvas = ({ rightOffsetPercent = 0, graphId = null }: Props) =>
     deleteEditedCard,
     editMode,
   } = useCardCanvas(graphId);
+  const { toast } = useToast();
 
   return (
     <div
@@ -60,6 +65,36 @@ export const CardCanvas = ({ rightOffsetPercent = 0, graphId = null }: Props) =>
         onAddImage={handleAddImageCard}
       />
       <canvas ref={canvasRef} />
+
+      {/* Multi-select action popover */}
+      {multiSelectAnchor && selectedCardIds.length >= 2 && (
+        <div
+          className="absolute z-20"
+          style={{
+            left: (() => {
+              const w = containerRef.current?.clientWidth ?? 0;
+              const desired = multiSelectAnchor.left;
+              const maxLeft = Math.max(0, w - 240); // clamp so button stays inside
+              return Math.min(desired, maxLeft);
+            })(),
+            top: Math.max(4, multiSelectAnchor.top),
+          }}
+        >
+          <Button
+            className="rounded-lg bg-[#2A2A28] hover:bg-[#33332F] text-[#C5C1BA] text-sm h-8 px-3 border border-[#3F3F3D] shadow"
+            onClick={() => {
+              const n = selectedCardIds.length;
+              toast({ description: `Checking merge compatibility for ${n} selected cards…` });
+              // Future: trigger real merge analysis here
+            }}
+          >
+            <span className="inline-flex items-center gap-1.5">
+              <GitMerge className="h-4 w-4" />
+              Check Merge Compatibility
+            </span>
+          </Button>
+        </div>
+      )}
 
       {/* Edit Card Dialog */}
       <Dialog open={editOpen} onOpenChange={setEditOpen}>

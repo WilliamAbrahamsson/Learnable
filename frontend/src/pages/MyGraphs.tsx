@@ -74,6 +74,15 @@ const MyGraphs = () => {
   const [shareGraphId, setShareGraphId] = useState<string | null>(null);
   const [invitees, setInvitees] = useState<string[]>([]);
   const [query, setQuery] = useState('');
+  const shareUrlFor = (id: string) => `${window.location.origin}/my-graphs/${id}`;
+  const copyShareLink = async (id: string) => {
+    try {
+      await navigator.clipboard.writeText(shareUrlFor(id));
+      toast({ description: 'Link copied to clipboard.' });
+    } catch {
+      toast({ description: 'Failed to copy link.', variant: 'destructive' });
+    }
+  };
 
   const addGraph = async () => {
     try {
@@ -166,6 +175,15 @@ const MyGraphs = () => {
                   <div className="flex gap-2">
                     <Button variant="outline" className="text-xs" onClick={() => navigate(`/my-graphs/${g.id}`)}>Open</Button>
                     <Button
+                      className="text-xs bg-[#2A2A28] hover:bg-[#33332F] text-[#C5C1BA]"
+                      onClick={() => { setShareGraphId(g.id); setShareOpen(true); }}
+                    >
+                      <span className="inline-flex items-center gap-1">
+                        <Share className="h-3.5 w-3.5" />
+                        Share
+                      </span>
+                    </Button>
+                    <Button
                       variant="ghost"
                       className="text-xs text-rose-500 hover:text-rose-400"
                       onClick={() => { setDeleteTarget({ id: g.id, name: g.name }); setDeleteText(''); setDeleteOpen(true); }}
@@ -202,6 +220,34 @@ const MyGraphs = () => {
             >
               Delete
             </Button>
+          </DialogFooter>
+        </DialogContent>
+      </Dialog>
+
+      {/* Share Graph Dialog */}
+      <Dialog open={shareOpen} onOpenChange={setShareOpen}>
+        <DialogContent className="max-w-sm bg-[#1C1C1C] text-[#C5C1BA] border border-[#272725]">
+          <DialogHeader>
+            <DialogTitle>Share Learning Graph</DialogTitle>
+            <DialogDescription>Copy a link to share this graph.</DialogDescription>
+          </DialogHeader>
+          <div className="space-y-3">
+            {shareGraphId && (
+              <Input
+                readOnly
+                value={shareUrlFor(shareGraphId)}
+                onFocus={(e) => e.currentTarget.select()}
+                className="bg-[#1C1C1C] border-[#2A2A28] text-[#C5C1BA]"
+              />
+            )}
+          </div>
+          <DialogFooter>
+            <Button variant="ghost" onClick={() => setShareOpen(false)}>Close</Button>
+            {shareGraphId && (
+              <Button className="bg-[#2A2A28] hover:bg-[#33332F] text-[#C5C1BA]" onClick={() => copyShareLink(shareGraphId)}>
+                Copy link
+              </Button>
+            )}
           </DialogFooter>
         </DialogContent>
       </Dialog>

@@ -39,6 +39,11 @@ export const useCardCanvas = (graphId?: number | null) => {
   const canvasRef = useRef<HTMLCanvasElement>(null);
   const containerRef = useRef<HTMLDivElement>(null);
   const addMenuRef = useRef<HTMLDivElement>(null);
+  // Per-card selection frames for multi-select visualization
+  const selectionFramesRef = useRef<Map<string, fabric.Rect>>(new Map());
+  // Selection state for overlay UI
+  const [selectedCardIds, setSelectedCardIds] = useState<string[]>([]);
+  const [multiSelectAnchor, setMultiSelectAnchor] = useState<{ left: number; top: number } | null>(null);
 
   const [fabricCanvas, setFabricCanvas] = useState<FabricCanvas | null>(null);
   const [isAddMenuOpen, setIsAddMenuOpen] = useState(false);
@@ -61,6 +66,14 @@ export const useCardCanvas = (graphId?: number | null) => {
         canvas.remove(group);
         cardGroupsRef.current.delete(cardId);
       }
+      // Remove any selection frame for this card
+      try {
+        const frame = selectionFramesRef.current.get(cardId);
+        if (frame) {
+          canvas.remove(frame);
+          selectionFramesRef.current.delete(cardId);
+        }
+      } catch {}
 
       const handles = cardHandlesRef.current.get(cardId);
       if (handles) {
@@ -279,10 +292,130 @@ export const useCardCanvas = (graphId?: number | null) => {
     return () => {
       window.removeEventListener('resize', handleResize);
       resizeObserver.disconnect();
+      // Remove any selection frames before disposing
+      try {
+        selectionFramesRef.current.forEach((r) => canvas.remove(r));
+        selectionFramesRef.current.clear();
+      } catch {}
+      setSelectedCardIds([]);
+      setMultiSelectAnchor(null);
       canvas.dispose();
       setFabricCanvas(null);
     };
   }, [initializeCanvasObjects, loadInitialData, cardsRef, nextCardIndexRef]);
+
+  // Draw dashed selection frames around each selected card (multi-select only)
+  const updateSelectionFrames = useCallback(() => {
+    if (!fabricCanvas) return;
+    const selected = typeof fabricCanvas.getActiveObjects === 'function' ? fabricCanvas.getActiveObjects() : [];
+    if (!selected || selected.length < 1) {
+      // Clear frames when not in multi-select
+      selectionFramesRef.current.forEach((rect) => fabricCanvas.remove(rect));
+      selectionFramesRef.current.clear();
+      setSelectedCardIds([]);
+      setMultiSelectAnchor(null);
+      fabricCanvas.requestRenderAll();
+      return;
+    }
+
+    const selectedIdsArr: string[] = [];
+    const selectedIds = new Set<string>();
+    for (const obj of selected) {
+      const id = (obj as any)?.cardId as string | undefined;
+      if (id && !selectedIds.has(id)) { selectedIds.add(id); selectedIdsArr.push(id); }
+    }
+    setSelectedCardIds(selectedIdsArr);
+
+    // Remove frames for cards no longer selected
+    for (const [id, rect] of selectionFramesRef.current.entries()) {
+      if (!selectedIds.has(id)) {
+        fabricCanvas.remove(rect);
+        selectionFramesRef.current.delete(id);
+      }
+    }
+
+    // Ensure/update frames for selected cards
+    selectedIds.forEach((id) => {
+      const group = cardGroupsRef.current.get(id);
+      if (!group) return;
+
+      const bounds = group.getBoundingRect();
+      const scaleX = group.scaleX || 1;
+      const scaleY = group.scaleY || 1;
+      const baseWidth = (group as any).cardWidth ?? 280;
+      const baseHeight = (group as any).cardHeight ?? 200;
+      const hoverPadding = (group as any).hoverPadding ?? 25;
+
+      const left = bounds.left + hoverPadding * scaleX;
+      const top = bounds.top + hoverPadding * scaleY;
+      const width = baseWidth * scaleX;
+      const height = baseHeight * scaleY;
+
+      let frame = selectionFramesRef.current.get(id);
+      if (!frame) {
+        frame = new fabric.Rect({
+          left,
+          top,
+          width,
+          height,
+          fill: 'transparent',
+          stroke: '#3F3F3D',
+          strokeWidth: 1,
+          strokeDashArray: [4, 4],
+          strokeUniform: true,
+          selectable: false,
+          evented: false,
+          excludeFromExport: true as unknown as boolean,
+        });
+        (frame as any).isSelectionFrame = true;
+        selectionFramesRef.current.set(id, frame);
+        fabricCanvas.add(frame);
+      } else {
+        frame.set({ left, top, width, height });
+        frame.setCoords();
+      }
+    });
+
+    // Compute a DOM anchor next to the union of selected cards
+    try {
+      let minLeft = Number.POSITIVE_INFINITY;
+      let minTop = Number.POSITIVE_INFINITY;
+      let maxRight = Number.NEGATIVE_INFINITY;
+      // Use actual card rect (exclude hover padding)
+      selectedIds.forEach((id) => {
+        const group = cardGroupsRef.current.get(id);
+        if (!group) return;
+        const bounds = group.getBoundingRect();
+        const scaleX = group.scaleX || 1;
+        const scaleY = group.scaleY || 1;
+        const baseWidth = (group as any).cardWidth ?? 280;
+        const baseHeight = (group as any).cardHeight ?? 200;
+        const hoverPadding = (group as any).hoverPadding ?? 25;
+        const left = bounds.left + hoverPadding * scaleX;
+        const top = bounds.top + hoverPadding * scaleY;
+        const right = left + baseWidth * scaleX;
+        const bottom = top + baseHeight * scaleY;
+        minLeft = Math.min(minLeft, left);
+        minTop = Math.min(minTop, top);
+        maxRight = Math.max(maxRight, right);
+        // bottom not used now, but kept for future if needed
+        void bottom;
+      });
+      if (isFinite(minLeft) && isFinite(minTop) && isFinite(maxRight)) {
+        const anchorLeft = maxRight + 8; // 8px to the right of the rightmost edge
+        const anchorTop = minTop - 8; // slightly above the top edge
+        setMultiSelectAnchor({ left: anchorLeft, top: Math.max(4, anchorTop) });
+      } else {
+        setMultiSelectAnchor(null);
+      }
+    } catch {
+      setMultiSelectAnchor(null);
+    }
+
+    // Keep handles above frames
+    try { bringHandlesToFront(fabricCanvas, cardHandlesRef); } catch {}
+    fabricCanvas.requestRenderAll();
+  }, [fabricCanvas, cardGroupsRef, cardHandlesRef]);
 
   // Open editor when the edit button on a card is clicked
   useEffect(() => {
@@ -434,6 +567,8 @@ export const useCardCanvas = (graphId?: number | null) => {
       if (!('target' in e) || !e.target) return;
       // Recompute handle positions from card bounds to keep dots on edges for all moved items
       updateConnectionLines(fabricCanvas, cardHandlesRef, cardGroupsRef, connectionLinesRef);
+      // Update per-card selection frames while dragging
+      updateSelectionFrames();
       fabricCanvas.requestRenderAll();
     };
 
@@ -444,7 +579,29 @@ export const useCardCanvas = (graphId?: number | null) => {
       fabricCanvas.off('object:moving', handleObjectMove);
       fabricCanvas.off('object:modified', handleObjectMove);
     };
-  }, [fabricCanvas, cardHandlesRef, cardGroupsRef, connectionLinesRef]);
+  }, [fabricCanvas, cardHandlesRef, cardGroupsRef, connectionLinesRef, updateSelectionFrames]);
+
+  // Update frames on selection changes and zoom
+  useEffect(() => {
+    if (!fabricCanvas) return;
+    const onCreated = () => updateSelectionFrames();
+    const onUpdated = () => updateSelectionFrames();
+    const onCleared = () => updateSelectionFrames();
+    const onWheel = () => {
+      // Defer to allow zoom to apply first
+      setTimeout(() => updateSelectionFrames(), 0);
+    };
+    fabricCanvas.on('selection:created', onCreated);
+    fabricCanvas.on('selection:updated', onUpdated);
+    fabricCanvas.on('selection:cleared', onCleared);
+    fabricCanvas.on('mouse:wheel', onWheel);
+    return () => {
+      fabricCanvas.off('selection:created', onCreated);
+      fabricCanvas.off('selection:updated', onUpdated);
+      fabricCanvas.off('selection:cleared', onCleared);
+      fabricCanvas.off('mouse:wheel', onWheel);
+    };
+  }, [fabricCanvas, updateSelectionFrames]);
 
   // ✅ Fixed Add Card with POST request
   const addCard = useCallback(
@@ -678,6 +835,8 @@ export const useCardCanvas = (graphId?: number | null) => {
       addMenuRef,
       isAddMenuOpen,
       isLoaded,
+      selectedCardIds,
+      multiSelectAnchor,
       toggleAddMenu: () => setIsAddMenuOpen((p) => !p),
       handleAddTextCard: () => {
         setIsAddMenuOpen(false);
@@ -687,8 +846,8 @@ export const useCardCanvas = (graphId?: number | null) => {
         setIsAddMenuOpen(false);
         void addCard('image', true);
       },
-      zoomIn: () => zoom('in'),
-      zoomOut: () => zoom('out'),
+      zoomIn: () => { zoom('in'); setTimeout(() => updateSelectionFrames(), 0); },
+      zoomOut: () => { zoom('out'); setTimeout(() => updateSelectionFrames(), 0); },
       isDraggingConnection,
       // Editor API
       editOpen,
