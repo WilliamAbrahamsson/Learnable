@@ -1,0 +1,211 @@
+{
+  "university_id": "5214",
+  "university_name": "אפקה - המכללה האקדמית להנדסה בתל אביב",
+  "courses": [
+    {
+      "name": "Assembly and computer architecture",
+      "code": "10124",
+      "url": "https://www.studocu.com/il/course/%D7%90%D7%A4%D7%A7%D7%94-%D7%94%D7%9E%D7%9B%D7%9C%D7%9C%D7%94-%D7%94%D7%90%D7%A7%D7%93%D7%9E%D7%99%D7%AA-%D7%9C%D7%94%D7%A0%D7%93%D7%A1%D7%94-%D7%91%D7%AA%D7%9C-%D7%90%D7%91%D7%99%D7%91/assembly-and-computer-architecture/3003750"
+    },
+    {
+      "name": "Database Systems",
+      "code": "10127",
+      "url": "https://www.studocu.com/il/course/%D7%90%D7%A4%D7%A7%D7%94-%D7%94%D7%9E%D7%9B%D7%9C%D7%9C%D7%94-%D7%94%D7%90%D7%A7%D7%93%D7%9E%D7%99%D7%AA-%D7%9C%D7%94%D7%A0%D7%93%D7%A1%D7%94-%D7%91%D7%AA%D7%9C-%D7%90%D7%91%D7%99%D7%91/database-systems/5176466"
+    },
+    {
+      "name": "Digital Logic Design",
+      "code": null,
+      "url": "https://www.studocu.com/il/course/%D7%90%D7%A4%D7%A7%D7%94-%D7%94%D7%9E%D7%9B%D7%9C%D7%9C%D7%94-%D7%94%D7%90%D7%A7%D7%93%D7%9E%D7%99%D7%AA-%D7%9C%D7%94%D7%A0%D7%93%D7%A1%D7%94-%D7%91%D7%AA%D7%9C-%D7%90%D7%91%D7%99%D7%91/digital-logic-design/5033492"
+    },
+    {
+      "name": "Fluctuations",
+      "code": "213023902",
+      "url": "https://www.studocu.com/il/course/%D7%90%D7%A4%D7%A7%D7%94-%D7%94%D7%9E%D7%9B%D7%9C%D7%9C%D7%94-%D7%94%D7%90%D7%A7%D7%93%D7%9E%D7%99%D7%AA-%D7%9C%D7%94%D7%A0%D7%93%D7%A1%D7%94-%D7%91%D7%AA%D7%9C-%D7%90%D7%91%D7%99%D7%91/fluctuations/4981811"
+    },
+    {
+      "name": "fluid mechanics 2",
+      "code": "30118",
+      "url": "https://www.studocu.com/il/course/%D7%90%D7%A4%D7%A7%D7%94-%D7%94%D7%9E%D7%9B%D7%9C%D7%9C%D7%94-%D7%94%D7%90%D7%A7%D7%93%D7%9E%D7%99%D7%AA-%D7%9C%D7%94%D7%A0%D7%93%D7%A1%D7%94-%D7%91%D7%AA%D7%9C-%D7%90%D7%91%D7%99%D7%91/fluid-mechanics-2/4082413"
+    },
+    {
+      "name": "Fundamentals Of Analog Electronic Circuits",
+      "code": "20373",
+      "url": "https://www.studocu.com/il/course/%D7%90%D7%A4%D7%A7%D7%94-%D7%94%D7%9E%D7%9B%D7%9C%D7%9C%D7%94-%D7%94%D7%90%D7%A7%D7%93%D7%9E%D7%99%D7%AA-%D7%9C%D7%94%D7%A0%D7%93%D7%A1%D7%94-%D7%91%D7%AA%D7%9C-%D7%90%D7%91%D7%99%D7%91/fundamentals-of-analog-electronic-circuits/5740265"
+    },
+    {
+      "name": "industrial engineering",
+      "code": "INEN 123",
+      "url": "https://www.studocu.com/il/course/%D7%90%D7%A4%D7%A7%D7%94-%D7%94%D7%9E%D7%9B%D7%9C%D7%9C%D7%94-%D7%94%D7%90%D7%A7%D7%93%D7%9E%D7%99%D7%AA-%D7%9C%D7%94%D7%A0%D7%93%D7%A1%D7%94-%D7%91%D7%AA%D7%9C-%D7%90%D7%91%D7%99%D7%91/industrial-engineering/7352759"
+    },
+    {
+      "name": "Information Security",
+      "code": "21337",
+      "url": "https://www.studocu.com/il/course/%D7%90%D7%A4%D7%A7%D7%94-%D7%94%D7%9E%D7%9B%D7%9C%D7%9C%D7%94-%D7%94%D7%90%D7%A7%D7%93%D7%9E%D7%99%D7%AA-%D7%9C%D7%94%D7%A0%D7%93%D7%A1%D7%94-%D7%91%D7%AA%D7%9C-%D7%90%D7%91%D7%99%D7%91/information-security/6665742"
+    },
+    {
+      "name": "Machine Learning",
+      "code": "10244",
+      "url": "https://www.studocu.com/il/course/%D7%90%D7%A4%D7%A7%D7%94-%D7%94%D7%9E%D7%9B%D7%9C%D7%9C%D7%94-%D7%94%D7%90%D7%A7%D7%93%D7%9E%D7%99%D7%AA-%D7%9C%D7%94%D7%A0%D7%93%D7%A1%D7%94-%D7%91%D7%AA%D7%9C-%D7%90%D7%91%D7%99%D7%91/machine-learning/5883929"
+    },
+    {
+      "name": "Object Oriented Design",
+      "code": null,
+      "url": "https://www.studocu.com/il/course/%D7%90%D7%A4%D7%A7%D7%94-%D7%94%D7%9E%D7%9B%D7%9C%D7%9C%D7%94-%D7%94%D7%90%D7%A7%D7%93%D7%9E%D7%99%D7%AA-%D7%9C%D7%94%D7%A0%D7%93%D7%A1%D7%94-%D7%91%D7%AA%D7%9C-%D7%90%D7%91%D7%99%D7%91/object-oriented-design/7414806"
+    },
+    {
+      "name": "ordinary differential equations",
+      "code": "90914",
+      "url": "https://www.studocu.com/il/course/%D7%90%D7%A4%D7%A7%D7%94-%D7%94%D7%9E%D7%9B%D7%9C%D7%9C%D7%94-%D7%94%D7%90%D7%A7%D7%93%D7%9E%D7%99%D7%AA-%D7%9C%D7%94%D7%A0%D7%93%D7%A1%D7%94-%D7%91%D7%AA%D7%9C-%D7%90%D7%91%D7%99%D7%91/ordinary-differential-equations/4946766"
+    },
+    {
+      "name": "Parallel Programming",
+      "code": null,
+      "url": "https://www.studocu.com/il/course/%D7%90%D7%A4%D7%A7%D7%94-%D7%94%D7%9E%D7%9B%D7%9C%D7%9C%D7%94-%D7%94%D7%90%D7%A7%D7%93%D7%9E%D7%99%D7%AA-%D7%9C%D7%94%D7%A0%D7%93%D7%A1%D7%94-%D7%91%D7%AA%D7%9C-%D7%90%D7%91%D7%99%D7%91/parallel-programming/6793222"
+    },
+    {
+      "name": "Simulation",
+      "code": "SIML1",
+      "url": "https://www.studocu.com/il/course/%D7%90%D7%A4%D7%A7%D7%94-%D7%94%D7%9E%D7%9B%D7%9C%D7%9C%D7%94-%D7%94%D7%90%D7%A7%D7%93%D7%9E%D7%99%D7%AA-%D7%9C%D7%94%D7%A0%D7%93%D7%A1%D7%94-%D7%91%D7%AA%D7%9C-%D7%90%D7%91%D7%99%D7%91/simulation/4365719"
+    },
+    {
+      "name": "Statistic",
+      "code": "2210015",
+      "url": "https://www.studocu.com/il/course/%D7%90%D7%A4%D7%A7%D7%94-%D7%94%D7%9E%D7%9B%D7%9C%D7%9C%D7%94-%D7%94%D7%90%D7%A7%D7%93%D7%9E%D7%99%D7%AA-%D7%9C%D7%94%D7%A0%D7%93%D7%A1%D7%94-%D7%91%D7%AA%D7%9C-%D7%90%D7%91%D7%99%D7%91/statistic/5179034"
+    },
+    {
+      "name": "Strength of materials",
+      "code": "30127חוזק",
+      "url": "https://www.studocu.com/il/course/%D7%90%D7%A4%D7%A7%D7%94-%D7%94%D7%9E%D7%9B%D7%9C%D7%9C%D7%94-%D7%94%D7%90%D7%A7%D7%93%D7%9E%D7%99%D7%AA-%D7%9C%D7%94%D7%A0%D7%93%D7%A1%D7%94-%D7%91%D7%AA%D7%9C-%D7%90%D7%91%D7%99%D7%91/strength-of-materials/4353179"
+    },
+    {
+      "name": "Thermo",
+      "code": null,
+      "url": "https://www.studocu.com/il/course/%D7%90%D7%A4%D7%A7%D7%94-%D7%94%D7%9E%D7%9B%D7%9C%D7%9C%D7%94-%D7%94%D7%90%D7%A7%D7%93%D7%9E%D7%99%D7%AA-%D7%9C%D7%94%D7%A0%D7%93%D7%A1%D7%94-%D7%91%D7%AA%D7%9C-%D7%90%D7%91%D7%99%D7%91/thermo/3253010"
+    },
+    {
+      "name": "אלגברה לינארית",
+      "code": "90905",
+      "url": "https://www.studocu.com/il/course/%D7%90%D7%A4%D7%A7%D7%94-%D7%94%D7%9E%D7%9B%D7%9C%D7%9C%D7%94-%D7%94%D7%90%D7%A7%D7%93%D7%9E%D7%99%D7%AA-%D7%9C%D7%94%D7%A0%D7%93%D7%A1%D7%94-%D7%91%D7%AA%D7%9C-%D7%90%D7%91%D7%99%D7%91/%D7%90%D7%9C%D7%92%D7%91%D7%A8%D7%94-%D7%9C%D7%99%D7%A0%D7%90%D7%A8%D7%99%D7%AA/5157838"
+    },
+    {
+      "name": "אלגוריתמים ותכנות",
+      "code": "6500201",
+      "url": "https://www.studocu.com/il/course/%D7%90%D7%A4%D7%A7%D7%94-%D7%94%D7%9E%D7%9B%D7%9C%D7%9C%D7%94-%D7%94%D7%90%D7%A7%D7%93%D7%9E%D7%99%D7%AA-%D7%9C%D7%94%D7%A0%D7%93%D7%A1%D7%94-%D7%91%D7%AA%D7%9C-%D7%90%D7%91%D7%99%D7%91/%D7%90%D7%9C%D7%92%D7%95%D7%A8%D7%99%D7%AA%D7%9E%D7%99%D7%9D-%D7%95%D7%AA%D7%9B%D7%A0%D7%95%D7%AA/4617013"
+    },
+    {
+      "name": "אנליזה הרמונית",
+      "code": null,
+      "url": "https://www.studocu.com/il/course/%D7%90%D7%A4%D7%A7%D7%94-%D7%94%D7%9E%D7%9B%D7%9C%D7%9C%D7%94-%D7%94%D7%90%D7%A7%D7%93%D7%9E%D7%99%D7%AA-%D7%9C%D7%94%D7%A0%D7%93%D7%A1%D7%94-%D7%91%D7%AA%D7%9C-%D7%90%D7%91%D7%99%D7%91/%D7%90%D7%A0%D7%9C%D7%99%D7%96%D7%94-%D7%94%D7%A8%D7%9E%D7%95%D7%A0%D7%99%D7%AA/7361059"
+    },
+    {
+      "name": "בינה מלאכותית",
+      "code": "65005",
+      "url": "https://www.studocu.com/il/course/%D7%90%D7%A4%D7%A7%D7%94-%D7%94%D7%9E%D7%9B%D7%9C%D7%9C%D7%94-%D7%94%D7%90%D7%A7%D7%93%D7%9E%D7%99%D7%AA-%D7%9C%D7%94%D7%A0%D7%93%D7%A1%D7%94-%D7%91%D7%AA%D7%9C-%D7%90%D7%91%D7%99%D7%91/%D7%91%D7%99%D7%A0%D7%94-%D7%9E%D7%9C%D7%90%D7%9B%D7%95%D7%AA%D7%99%D7%AA/5000137"
+    },
+    {
+      "name": "חדו\"א",
+      "code": null,
+      "url": "https://www.studocu.com/il/course/%D7%90%D7%A4%D7%A7%D7%94-%D7%94%D7%9E%D7%9B%D7%9C%D7%9C%D7%94-%D7%94%D7%90%D7%A7%D7%93%D7%9E%D7%99%D7%AA-%D7%9C%D7%94%D7%A0%D7%93%D7%A1%D7%94-%D7%91%D7%AA%D7%9C-%D7%90%D7%91%D7%99%D7%91/%D7%97%D7%93%D7%95%D7%90/5971947"
+    },
+    {
+      "name": "חוזק חומרים",
+      "code": null,
+      "url": "https://www.studocu.com/il/course/%D7%90%D7%A4%D7%A7%D7%94-%D7%94%D7%9E%D7%9B%D7%9C%D7%9C%D7%94-%D7%94%D7%90%D7%A7%D7%93%D7%9E%D7%99%D7%AA-%D7%9C%D7%94%D7%A0%D7%93%D7%A1%D7%94-%D7%91%D7%AA%D7%9C-%D7%90%D7%91%D7%99%D7%91/%D7%97%D7%95%D7%96%D7%A7-%D7%97%D7%95%D7%9E%D7%A8%D7%99%D7%9D/6049379"
+    },
+    {
+      "name": "חשבונאות ותמחיר",
+      "code": "40106",
+      "url": "https://www.studocu.com/il/course/%D7%90%D7%A4%D7%A7%D7%94-%D7%94%D7%9E%D7%9B%D7%9C%D7%9C%D7%94-%D7%94%D7%90%D7%A7%D7%93%D7%9E%D7%99%D7%AA-%D7%9C%D7%94%D7%A0%D7%93%D7%A1%D7%94-%D7%91%D7%AA%D7%9C-%D7%90%D7%91%D7%99%D7%91/%D7%97%D7%A9%D7%91%D7%95%D7%A0%D7%90%D7%95%D7%AA-%D7%95%D7%AA%D7%9E%D7%97%D7%99%D7%A8/4526409"
+    },
+    {
+      "name": "כימיה להנדסה רפואית",
+      "code": "911500012",
+      "url": "https://www.studocu.com/il/course/%D7%90%D7%A4%D7%A7%D7%94-%D7%94%D7%9E%D7%9B%D7%9C%D7%9C%D7%94-%D7%94%D7%90%D7%A7%D7%93%D7%9E%D7%99%D7%AA-%D7%9C%D7%94%D7%A0%D7%93%D7%A1%D7%94-%D7%91%D7%AA%D7%9C-%D7%90%D7%91%D7%99%D7%91/%D7%9B%D7%99%D7%9E%D7%99%D7%94-%D7%9C%D7%94%D7%A0%D7%93%D7%A1%D7%94-%D7%A8%D7%A4%D7%95%D7%90%D7%99%D7%AA/3505435"
+    },
+    {
+      "name": "כלכלה התנהגותית",
+      "code": "40204",
+      "url": "https://www.studocu.com/il/course/%D7%90%D7%A4%D7%A7%D7%94-%D7%94%D7%9E%D7%9B%D7%9C%D7%9C%D7%94-%D7%94%D7%90%D7%A7%D7%93%D7%9E%D7%99%D7%AA-%D7%9C%D7%94%D7%A0%D7%93%D7%A1%D7%94-%D7%91%D7%AA%D7%9C-%D7%90%D7%91%D7%99%D7%91/%D7%9B%D7%9C%D7%9B%D7%9C%D7%94-%D7%94%D7%AA%D7%A0%D7%94%D7%92%D7%95%D7%AA%D7%99%D7%AA/4526414"
+    },
+    {
+      "name": "למידה חישובית",
+      "code": "65005",
+      "url": "https://www.studocu.com/il/course/%D7%90%D7%A4%D7%A7%D7%94-%D7%94%D7%9E%D7%9B%D7%9C%D7%9C%D7%94-%D7%94%D7%90%D7%A7%D7%93%D7%9E%D7%99%D7%AA-%D7%9C%D7%94%D7%A0%D7%93%D7%A1%D7%94-%D7%91%D7%AA%D7%9C-%D7%90%D7%91%D7%99%D7%91/%D7%9C%D7%9E%D7%99%D7%93%D7%94-%D7%97%D7%99%D7%A9%D7%95%D7%91%D7%99%D7%AA/5000138"
+    },
+    {
+      "name": "מבוא לטכנולוגיה רפואית",
+      "code": "50126",
+      "url": "https://www.studocu.com/il/course/%D7%90%D7%A4%D7%A7%D7%94-%D7%94%D7%9E%D7%9B%D7%9C%D7%9C%D7%94-%D7%94%D7%90%D7%A7%D7%93%D7%9E%D7%99%D7%AA-%D7%9C%D7%94%D7%A0%D7%93%D7%A1%D7%94-%D7%91%D7%AA%D7%9C-%D7%90%D7%91%D7%99%D7%91/%D7%9E%D7%91%D7%95%D7%90-%D7%9C%D7%98%D7%9B%D7%A0%D7%95%D7%9C%D7%95%D7%92%D7%99%D7%94-%D7%A8%D7%A4%D7%95%D7%90%D7%99%D7%AA/5149523"
+    },
+    {
+      "name": "מבוא לתכנות",
+      "code": null,
+      "url": "https://www.studocu.com/il/course/%D7%90%D7%A4%D7%A7%D7%94-%D7%94%D7%9E%D7%9B%D7%9C%D7%9C%D7%94-%D7%94%D7%90%D7%A7%D7%93%D7%9E%D7%99%D7%AA-%D7%9C%D7%94%D7%A0%D7%93%D7%A1%D7%94-%D7%91%D7%AA%D7%9C-%D7%90%D7%91%D7%99%D7%91/%D7%9E%D7%91%D7%95%D7%90-%D7%9C%D7%AA%D7%9B%D7%A0%D7%95%D7%AA/5622914"
+    },
+    {
+      "name": "מבוא לתכנות פייתון",
+      "code": "10812",
+      "url": "https://www.studocu.com/il/course/%D7%90%D7%A4%D7%A7%D7%94-%D7%94%D7%9E%D7%9B%D7%9C%D7%9C%D7%94-%D7%94%D7%90%D7%A7%D7%93%D7%9E%D7%99%D7%AA-%D7%9C%D7%94%D7%A0%D7%93%D7%A1%D7%94-%D7%91%D7%AA%D7%9C-%D7%90%D7%91%D7%99%D7%91/%D7%9E%D7%91%D7%95%D7%90-%D7%9C%D7%AA%D7%9B%D7%A0%D7%95%D7%AA-%D7%A4%D7%99%D7%99%D7%AA%D7%95%D7%9F/5209688"
+    },
+    {
+      "name": "מבנה מחשבים",
+      "code": null,
+      "url": "https://www.studocu.com/il/course/%D7%90%D7%A4%D7%A7%D7%94-%D7%94%D7%9E%D7%9B%D7%9C%D7%9C%D7%94-%D7%94%D7%90%D7%A7%D7%93%D7%9E%D7%99%D7%AA-%D7%9C%D7%94%D7%A0%D7%93%D7%A1%D7%94-%D7%91%D7%AA%D7%9C-%D7%90%D7%91%D7%99%D7%91/%D7%9E%D7%91%D7%A0%D7%94-%D7%9E%D7%97%D7%A9%D7%91%D7%99%D7%9D/6988638"
+    },
+    {
+      "name": "מכינה להנדסה - פיזיקה",
+      "code": null,
+      "url": "https://www.studocu.com/il/course/%D7%90%D7%A4%D7%A7%D7%94-%D7%94%D7%9E%D7%9B%D7%9C%D7%9C%D7%94-%D7%94%D7%90%D7%A7%D7%93%D7%9E%D7%99%D7%AA-%D7%9C%D7%94%D7%A0%D7%93%D7%A1%D7%94-%D7%91%D7%AA%D7%9C-%D7%90%D7%91%D7%99%D7%91/%D7%9E%D7%9B%D7%99%D7%A0%D7%94-%D7%9C%D7%94%D7%A0%D7%93%D7%A1%D7%94-%D7%A4%D7%99%D7%96%D7%99%D7%A7%D7%94/7339731"
+    },
+    {
+      "name": "מעגלים אלקטרונים אנלוגיים 2",
+      "code": "20349",
+      "url": "https://www.studocu.com/il/course/%D7%90%D7%A4%D7%A7%D7%94-%D7%94%D7%9E%D7%9B%D7%9C%D7%9C%D7%94-%D7%94%D7%90%D7%A7%D7%93%D7%9E%D7%99%D7%AA-%D7%9C%D7%94%D7%A0%D7%93%D7%A1%D7%94-%D7%91%D7%AA%D7%9C-%D7%90%D7%91%D7%99%D7%91/%D7%9E%D7%A2%D7%92%D7%9C%D7%99%D7%9D-%D7%90%D7%9C%D7%A7%D7%98%D7%A8%D7%95%D7%A0%D7%99%D7%9D-%D7%90%D7%A0%D7%9C%D7%95%D7%92%D7%99%D7%99%D7%9D-2/6989957"
+    },
+    {
+      "name": "מתמטיקה בדידה",
+      "code": "90926",
+      "url": "https://www.studocu.com/il/course/%D7%90%D7%A4%D7%A7%D7%94-%D7%94%D7%9E%D7%9B%D7%9C%D7%9C%D7%94-%D7%94%D7%90%D7%A7%D7%93%D7%9E%D7%99%D7%AA-%D7%9C%D7%94%D7%A0%D7%93%D7%A1%D7%94-%D7%91%D7%AA%D7%9C-%D7%90%D7%91%D7%99%D7%91/%D7%9E%D7%AA%D7%9E%D7%98%D7%99%D7%A7%D7%94-%D7%91%D7%93%D7%99%D7%93%D7%94/7438644"
+    },
+    {
+      "name": "סטטיקה של גוף קשיח",
+      "code": "20203",
+      "url": "https://www.studocu.com/il/course/%D7%90%D7%A4%D7%A7%D7%94-%D7%94%D7%9E%D7%9B%D7%9C%D7%9C%D7%94-%D7%94%D7%90%D7%A7%D7%93%D7%9E%D7%99%D7%AA-%D7%9C%D7%94%D7%A0%D7%93%D7%A1%D7%94-%D7%91%D7%AA%D7%9C-%D7%90%D7%91%D7%99%D7%91/%D7%A1%D7%98%D7%98%D7%99%D7%A7%D7%94-%D7%A9%D7%9C-%D7%92%D7%95%D7%A3-%D7%A7%D7%A9%D7%99%D7%97/4487666"
+    },
+    {
+      "name": "עיבוד ספרתי של אותות",
+      "code": "20238",
+      "url": "https://www.studocu.com/il/course/%D7%90%D7%A4%D7%A7%D7%94-%D7%94%D7%9E%D7%9B%D7%9C%D7%9C%D7%94-%D7%94%D7%90%D7%A7%D7%93%D7%9E%D7%99%D7%AA-%D7%9C%D7%94%D7%A0%D7%93%D7%A1%D7%94-%D7%91%D7%AA%D7%9C-%D7%90%D7%91%D7%99%D7%91/%D7%A2%D7%99%D7%91%D7%95%D7%93-%D7%A1%D7%A4%D7%A8%D7%AA%D7%99-%D7%A9%D7%9C-%D7%90%D7%95%D7%AA%D7%95%D7%AA/5069941"
+    },
+    {
+      "name": "פיזיקה חשמל ומגנטיות",
+      "code": "90403",
+      "url": "https://www.studocu.com/il/course/%D7%90%D7%A4%D7%A7%D7%94-%D7%94%D7%9E%D7%9B%D7%9C%D7%9C%D7%94-%D7%94%D7%90%D7%A7%D7%93%D7%9E%D7%99%D7%AA-%D7%9C%D7%94%D7%A0%D7%93%D7%A1%D7%94-%D7%91%D7%AA%D7%9C-%D7%90%D7%91%D7%99%D7%91/%D7%A4%D7%99%D7%96%D7%99%D7%A7%D7%94-%D7%97%D7%A9%D7%9E%D7%9C-%D7%95%D7%9E%D7%92%D7%A0%D7%98%D7%99%D7%95%D7%AA/6807235"
+    },
+    {
+      "name": "פיזיקה מכאניקה",
+      "code": "90903",
+      "url": "https://www.studocu.com/il/course/%D7%90%D7%A4%D7%A7%D7%94-%D7%94%D7%9E%D7%9B%D7%9C%D7%9C%D7%94-%D7%94%D7%90%D7%A7%D7%93%D7%9E%D7%99%D7%AA-%D7%9C%D7%94%D7%A0%D7%93%D7%A1%D7%94-%D7%91%D7%AA%D7%9C-%D7%90%D7%91%D7%99%D7%91/%D7%A4%D7%99%D7%96%D7%99%D7%A7%D7%94-%D7%9E%D7%9B%D7%90%D7%A0%D7%99%D7%A7%D7%94/6398535"
+    },
+    {
+      "name": "פייתון",
+      "code": null,
+      "url": "https://www.studocu.com/il/course/%D7%90%D7%A4%D7%A7%D7%94-%D7%94%D7%9E%D7%9B%D7%9C%D7%9C%D7%94-%D7%94%D7%90%D7%A7%D7%93%D7%9E%D7%99%D7%AA-%D7%9C%D7%94%D7%A0%D7%93%D7%A1%D7%94-%D7%91%D7%AA%D7%9C-%D7%90%D7%91%D7%99%D7%91/%D7%A4%D7%99%D7%99%D7%AA%D7%95%D7%9F/5002651"
+    },
+    {
+      "name": "פיתוח מאובטח",
+      "code": null,
+      "url": "https://www.studocu.com/il/course/%D7%90%D7%A4%D7%A7%D7%94-%D7%94%D7%9E%D7%9B%D7%9C%D7%9C%D7%94-%D7%94%D7%90%D7%A7%D7%93%D7%9E%D7%99%D7%AA-%D7%9C%D7%94%D7%A0%D7%93%D7%A1%D7%94-%D7%91%D7%AA%D7%9C-%D7%90%D7%91%D7%99%D7%91/%D7%A4%D7%99%D7%AA%D7%95%D7%97-%D7%9E%D7%90%D7%95%D7%91%D7%98%D7%97/5071574"
+    },
+    {
+      "name": "שיטות סטטיסטיות",
+      "code": "40229",
+      "url": "https://www.studocu.com/il/course/%D7%90%D7%A4%D7%A7%D7%94-%D7%94%D7%9E%D7%9B%D7%9C%D7%9C%D7%94-%D7%94%D7%90%D7%A7%D7%93%D7%9E%D7%99%D7%AA-%D7%9C%D7%94%D7%A0%D7%93%D7%A1%D7%94-%D7%91%D7%AA%D7%9C-%D7%90%D7%91%D7%99%D7%91/%D7%A9%D7%99%D7%98%D7%95%D7%AA-%D7%A1%D7%98%D7%98%D7%99%D7%A1%D7%98%D7%99%D7%95%D7%AA/6334732"
+    },
+    {
+      "name": "תכנות למכטרוניקה",
+      "code": "30321",
+      "url": "https://www.studocu.com/il/course/%D7%90%D7%A4%D7%A7%D7%94-%D7%94%D7%9E%D7%9B%D7%9C%D7%9C%D7%94-%D7%94%D7%90%D7%A7%D7%93%D7%9E%D7%99%D7%AA-%D7%9C%D7%94%D7%A0%D7%93%D7%A1%D7%94-%D7%91%D7%AA%D7%9C-%D7%90%D7%91%D7%99%D7%91/%D7%AA%D7%9B%D7%A0%D7%95%D7%AA-%D7%9C%D7%9E%D7%9B%D7%98%D7%A8%D7%95%D7%A0%D7%99%D7%A7%D7%94/6865419"
+    }
+  ]
+}

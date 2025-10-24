@@ -1,0 +1,891 @@
+{
+  "university_id": "1082",
+  "university_name": "University of Bahrain",
+  "courses": [
+    {
+      "name": "Abstract Algebra",
+      "code": "MATHS311/312",
+      "url": "https://www.studocu.com/row/course/university-of-bahrain/abstract-algebra/4369689"
+    },
+    {
+      "name": "Accounting Systems and Controls",
+      "code": "acc 451",
+      "url": "https://www.studocu.com/row/course/university-of-bahrain/accounting-systems-and-controls/5740286"
+    },
+    {
+      "name": "Admission Test",
+      "code": "AD101",
+      "url": "https://www.studocu.com/row/course/university-of-bahrain/admission-test/6640733"
+    },
+    {
+      "name": "Advance Cardiac Life Support",
+      "code": "ACLS1",
+      "url": "https://www.studocu.com/row/course/university-of-bahrain/advance-cardiac-life-support/6670399"
+    },
+    {
+      "name": "Advanced Accounting",
+      "code": "ACC311",
+      "url": "https://www.studocu.com/row/course/university-of-bahrain/advanced-accounting/5707300"
+    },
+    {
+      "name": "Advanced Electronics",
+      "code": "EENG462",
+      "url": "https://www.studocu.com/row/course/university-of-bahrain/advanced-electronics/7230285"
+    },
+    {
+      "name": "Analytical Chemistry",
+      "code": "CHEMY310",
+      "url": "https://www.studocu.com/row/course/university-of-bahrain/analytical-chemistry/3509968"
+    },
+    {
+      "name": "Anatomy and Physiology I",
+      "code": "LFS118",
+      "url": "https://www.studocu.com/row/course/university-of-bahrain/anatomy-and-physiology-i/5312723"
+    },
+    {
+      "name": "Anti Money Laundering",
+      "code": "AML101",
+      "url": "https://www.studocu.com/row/course/university-of-bahrain/anti-money-laundering/6332443"
+    },
+    {
+      "name": "applied numerical analysis",
+      "code": "ITCE380",
+      "url": "https://www.studocu.com/row/course/university-of-bahrain/applied-numerical-analysis/4504090"
+    },
+    {
+      "name": "Applied Thermodynamics",
+      "code": "MENG235",
+      "url": "https://www.studocu.com/row/course/university-of-bahrain/applied-thermodynamics/4270163"
+    },
+    {
+      "name": "Approaches to Studying Religions",
+      "code": "REL1001",
+      "url": "https://www.studocu.com/row/course/university-of-bahrain/approaches-to-studying-religions/6436042"
+    },
+    {
+      "name": "Arab",
+      "code": "101",
+      "url": "https://www.studocu.com/row/course/university-of-bahrain/arab/4821351"
+    },
+    {
+      "name": "artificial intelligence",
+      "code": "itce 464",
+      "url": "https://www.studocu.com/row/course/university-of-bahrain/artificial-intelligence/6153007"
+    },
+    {
+      "name": "Assembly and computer organization",
+      "code": "itcs321",
+      "url": "https://www.studocu.com/row/course/university-of-bahrain/assembly-and-computer-organization/6054064"
+    },
+    {
+      "name": "audit 2",
+      "code": "acc332",
+      "url": "https://www.studocu.com/row/course/university-of-bahrain/audit-2/5278960"
+    },
+    {
+      "name": "Business",
+      "code": "Bmng200",
+      "url": "https://www.studocu.com/row/course/university-of-bahrain/business/5339726"
+    },
+    {
+      "name": "Business English 2",
+      "code": "ENGL146",
+      "url": "https://www.studocu.com/row/course/university-of-bahrain/business-english-2/7167430"
+    },
+    {
+      "name": "Business Environment",
+      "code": "Unit 1",
+      "url": "https://www.studocu.com/row/course/university-of-bahrain/business-environment/4541443"
+    },
+    {
+      "name": "Business Ethics (MGT437).",
+      "code": "MGT437",
+      "url": "https://www.studocu.com/row/course/university-of-bahrain/business-ethics-mgt437/6740565"
+    },
+    {
+      "name": "Business Information Systems",
+      "code": "BIS202",
+      "url": "https://www.studocu.com/row/course/university-of-bahrain/business-information-systems/5318709"
+    },
+    {
+      "name": "Calculus 01",
+      "code": "MATHS101",
+      "url": "https://www.studocu.com/row/course/university-of-bahrain/calculus-01/5312653"
+    },
+    {
+      "name": "cell biology",
+      "code": "bio300",
+      "url": "https://www.studocu.com/row/course/university-of-bahrain/cell-biology/7172107"
+    },
+    {
+      "name": "chemy",
+      "code": "102",
+      "url": "https://www.studocu.com/row/course/university-of-bahrain/chemy/6817793"
+    },
+    {
+      "name": "Cloud computing",
+      "code": "ITIS 252",
+      "url": "https://www.studocu.com/row/course/university-of-bahrain/cloud-computing/6644929"
+    },
+    {
+      "name": "Commercial banking",
+      "code": "Bank 323",
+      "url": "https://www.studocu.com/row/course/university-of-bahrain/commercial-banking/6671606"
+    },
+    {
+      "name": "Commercial law",
+      "code": "law238",
+      "url": "https://www.studocu.com/row/course/university-of-bahrain/commercial-law/3196980"
+    },
+    {
+      "name": "computer architecture",
+      "code": "ITCE364",
+      "url": "https://www.studocu.com/row/course/university-of-bahrain/computer-architecture/6146073"
+    },
+    {
+      "name": "Computer for chemical engineers",
+      "code": "Cheng315",
+      "url": "https://www.studocu.com/row/course/university-of-bahrain/computer-for-chemical-engineers/7141708"
+    },
+    {
+      "name": "computer network",
+      "code": "352",
+      "url": "https://www.studocu.com/row/course/university-of-bahrain/computer-network/5151789"
+    },
+    {
+      "name": "computer networks I",
+      "code": "ITCE314",
+      "url": "https://www.studocu.com/row/course/university-of-bahrain/computer-networks-i/7172219"
+    },
+    {
+      "name": "Computer Networks II",
+      "code": "ITNE241",
+      "url": "https://www.studocu.com/row/course/university-of-bahrain/computer-networks-ii/6676333"
+    },
+    {
+      "name": "Computer Programming",
+      "code": "ITCS113",
+      "url": "https://www.studocu.com/row/course/university-of-bahrain/computer-programming/3588197"
+    },
+    {
+      "name": "computer programming 2",
+      "code": "ITCS114",
+      "url": "https://www.studocu.com/row/course/university-of-bahrain/computer-programming-2/6193304"
+    },
+    {
+      "name": "Construction Engineering",
+      "code": "CENG302",
+      "url": "https://www.studocu.com/row/course/university-of-bahrain/construction-engineering/5071045"
+    },
+    {
+      "name": "Corporate finance",
+      "code": "FIN620",
+      "url": "https://www.studocu.com/row/course/university-of-bahrain/corporate-finance/6013818"
+    },
+    {
+      "name": "Corporate Finance",
+      "code": "FIN220",
+      "url": "https://www.studocu.com/row/course/university-of-bahrain/corporate-finance/6195732"
+    },
+    {
+      "name": "Corporate finance",
+      "code": "Fin425",
+      "url": "https://www.studocu.com/row/course/university-of-bahrain/corporate-finance/6959131"
+    },
+    {
+      "name": "Data Communication Networks",
+      "code": "ITCE252",
+      "url": "https://www.studocu.com/row/course/university-of-bahrain/data-communication-networks/5731711"
+    },
+    {
+      "name": "database management systems",
+      "code": "ITIS213",
+      "url": "https://www.studocu.com/row/course/university-of-bahrain/database-management-systems/5251928"
+    },
+    {
+      "name": "Database Management Systems",
+      "code": "ITCS285",
+      "url": "https://www.studocu.com/row/course/university-of-bahrain/database-management-systems/5338112"
+    },
+    {
+      "name": "Design of mechanical systems",
+      "code": "MENG475",
+      "url": "https://www.studocu.com/row/course/university-of-bahrain/design-of-mechanical-systems/4363019"
+    },
+    {
+      "name": "Digital process control",
+      "code": "PIC433",
+      "url": "https://www.studocu.com/row/course/university-of-bahrain/digital-process-control/6920082"
+    },
+    {
+      "name": "Digital System I",
+      "code": "EENG251",
+      "url": "https://www.studocu.com/row/course/university-of-bahrain/digital-system-i/4205923"
+    },
+    {
+      "name": "Economic Engneering",
+      "code": "IE33001",
+      "url": "https://www.studocu.com/row/course/university-of-bahrain/economic-engneering/2349778"
+    },
+    {
+      "name": "Electical engineering",
+      "code": "EENG000",
+      "url": "https://www.studocu.com/row/course/university-of-bahrain/electical-engineering/6191221"
+    },
+    {
+      "name": "Electrics cercuit1",
+      "code": "EENG109",
+      "url": "https://www.studocu.com/row/course/university-of-bahrain/electrics-cercuit1/5695652"
+    },
+    {
+      "name": "Electronic devices and circuits",
+      "code": "Eeng261",
+      "url": "https://www.studocu.com/row/course/university-of-bahrain/electronic-devices-and-circuits/5279741"
+    },
+    {
+      "name": "Elements of electrical engineering",
+      "code": "Eeng 301",
+      "url": "https://www.studocu.com/row/course/university-of-bahrain/elements-of-electrical-engineering/4148854"
+    },
+    {
+      "name": "Engineering Ethics",
+      "code": "CHENG400",
+      "url": "https://www.studocu.com/row/course/university-of-bahrain/engineering-ethics/6802052"
+    },
+    {
+      "name": "English for business l",
+      "code": "Engl145",
+      "url": "https://www.studocu.com/row/course/university-of-bahrain/english-for-business-l/4507952"
+    },
+    {
+      "name": "English for Science",
+      "code": "Engl125",
+      "url": "https://www.studocu.com/row/course/university-of-bahrain/english-for-science/7414908"
+    },
+    {
+      "name": "English for Science ii",
+      "code": "Engl126",
+      "url": "https://www.studocu.com/row/course/university-of-bahrain/english-for-science-ii/4739479"
+    },
+    {
+      "name": "Enterprise Systems",
+      "code": "ITIS451",
+      "url": "https://www.studocu.com/row/course/university-of-bahrain/enterprise-systems/7333917"
+    },
+    {
+      "name": "Financial Accounting I",
+      "code": "Acc112",
+      "url": "https://www.studocu.com/row/course/university-of-bahrain/financial-accounting-i/6281686"
+    },
+    {
+      "name": "financial accounting II",
+      "code": "acc113",
+      "url": "https://www.studocu.com/row/course/university-of-bahrain/financial-accounting-ii/6042987"
+    },
+    {
+      "name": "Food Chemistry",
+      "code": "CHEMY426",
+      "url": "https://www.studocu.com/row/course/university-of-bahrain/food-chemistry/5327943"
+    },
+    {
+      "name": "Forensic",
+      "code": "MLS324",
+      "url": "https://www.studocu.com/row/course/university-of-bahrain/forensic/5413369"
+    },
+    {
+      "name": "French I",
+      "code": "FREN141",
+      "url": "https://www.studocu.com/row/course/university-of-bahrain/french-i/4739477"
+    },
+    {
+      "name": "Fundamentals of Corporate Finance",
+      "code": "FIN320",
+      "url": "https://www.studocu.com/row/course/university-of-bahrain/fundamentals-of-corporate-finance/3733311"
+    },
+    {
+      "name": "Fundamentals of IT",
+      "code": "ITIS204",
+      "url": "https://www.studocu.com/row/course/university-of-bahrain/fundamentals-of-it/7372594"
+    },
+    {
+      "name": "Fundamentals of Physics",
+      "code": "PHYCS 111",
+      "url": "https://www.studocu.com/row/course/university-of-bahrain/fundamentals-of-physics/6536169"
+    },
+    {
+      "name": "Fundamentals of psychology",
+      "code": "SBS316",
+      "url": "https://www.studocu.com/row/course/university-of-bahrain/fundamentals-of-psychology/6648308"
+    },
+    {
+      "name": "general biology 1",
+      "code": "BIOLS102",
+      "url": "https://www.studocu.com/row/course/university-of-bahrain/general-biology-1/4886941"
+    },
+    {
+      "name": "General Chemistry",
+      "code": "CHEMY 101",
+      "url": "https://www.studocu.com/row/course/university-of-bahrain/general-chemistry/5760324"
+    },
+    {
+      "name": "general chemistry",
+      "code": "chemy102",
+      "url": "https://www.studocu.com/row/course/university-of-bahrain/general-chemistry/7172109"
+    },
+    {
+      "name": "General ENGLISH Skills",
+      "code": "ENG 201",
+      "url": "https://www.studocu.com/row/course/university-of-bahrain/general-english-skills/6033012"
+    },
+    {
+      "name": "General Physics 1",
+      "code": "PHYCS 101",
+      "url": "https://www.studocu.com/row/course/university-of-bahrain/general-physics-1/3209077"
+    },
+    {
+      "name": "General Physics 2",
+      "code": "PHYCS102",
+      "url": "https://www.studocu.com/row/course/university-of-bahrain/general-physics-2/4854154"
+    },
+    {
+      "name": "German Language",
+      "code": "GERM101",
+      "url": "https://www.studocu.com/row/course/university-of-bahrain/german-language/7305399"
+    },
+    {
+      "name": "Governmental accounting",
+      "code": "ACC341",
+      "url": "https://www.studocu.com/row/course/university-of-bahrain/governmental-accounting/7299498"
+    },
+    {
+      "name": "Health and Professional Issues",
+      "code": "NUR 413",
+      "url": "https://www.studocu.com/row/course/university-of-bahrain/health-and-professional-issues/6203939"
+    },
+    {
+      "name": "heat transfer",
+      "code": "MENG 335",
+      "url": "https://www.studocu.com/row/course/university-of-bahrain/heat-transfer/5821677"
+    },
+    {
+      "name": "History, Tudors",
+      "code": "HIS1",
+      "url": "https://www.studocu.com/row/course/university-of-bahrain/history-tudors/4793345"
+    },
+    {
+      "name": "Huawei HCIA-Datacom V1.0",
+      "code": "H12-811",
+      "url": "https://www.studocu.com/row/course/university-of-bahrain/huawei-hcia-datacom-v10/5806971"
+    },
+    {
+      "name": "Human Computer Interaction",
+      "code": "ITIS333",
+      "url": "https://www.studocu.com/row/course/university-of-bahrain/human-computer-interaction/6025124"
+    },
+    {
+      "name": "Human physiology",
+      "code": "BIOLS372",
+      "url": "https://www.studocu.com/row/course/university-of-bahrain/human-physiology/6142502"
+    },
+    {
+      "name": "Human resource management",
+      "code": "MGT631",
+      "url": "https://www.studocu.com/row/course/university-of-bahrain/human-resource-management/3272130"
+    },
+    {
+      "name": "Human rights",
+      "code": "HRLC107",
+      "url": "https://www.studocu.com/row/course/university-of-bahrain/human-rights/6702376"
+    },
+    {
+      "name": "Industrial Training",
+      "code": "MENG390",
+      "url": "https://www.studocu.com/row/course/university-of-bahrain/industrial-training/5522603"
+    },
+    {
+      "name": "Information Security",
+      "code": "ITIS360",
+      "url": "https://www.studocu.com/row/course/university-of-bahrain/information-security/4804886"
+    },
+    {
+      "name": "Information security",
+      "code": "ITIS412",
+      "url": "https://www.studocu.com/row/course/university-of-bahrain/information-security/7526193"
+    },
+    {
+      "name": "Information Security II",
+      "code": "Itis467",
+      "url": "https://www.studocu.com/row/course/university-of-bahrain/information-security-ii/7719053"
+    },
+    {
+      "name": "Innovation and Entrepreneurship",
+      "code": "MGT632",
+      "url": "https://www.studocu.com/row/course/university-of-bahrain/innovation-and-entrepreneurship/7592852"
+    },
+    {
+      "name": "Intelligent systems",
+      "code": "ITCS440",
+      "url": "https://www.studocu.com/row/course/university-of-bahrain/intelligent-systems/7054097"
+    },
+    {
+      "name": "Intermediate accounting II",
+      "code": "acc310",
+      "url": "https://www.studocu.com/row/course/university-of-bahrain/intermediate-accounting-ii/3196981"
+    },
+    {
+      "name": "Internal Audit",
+      "code": "111 Audit",
+      "url": "https://www.studocu.com/row/course/university-of-bahrain/internal-audit/6509923"
+    },
+    {
+      "name": "Internal Combustion Engine",
+      "code": "Meng444",
+      "url": "https://www.studocu.com/row/course/university-of-bahrain/internal-combustion-engine/3488698"
+    },
+    {
+      "name": "International Accounting Course (IFRS)",
+      "code": "ACC410",
+      "url": "https://www.studocu.com/row/course/university-of-bahrain/international-accounting-course-ifrs/6189212"
+    },
+    {
+      "name": "International Economics",
+      "code": "Econ 440",
+      "url": "https://www.studocu.com/row/course/university-of-bahrain/international-economics/4399417"
+    },
+    {
+      "name": "Internet of Things",
+      "code": "ITNE488",
+      "url": "https://www.studocu.com/row/course/university-of-bahrain/internet-of-things/7534306"
+    },
+    {
+      "name": "intrapartum care",
+      "code": "MWF 504",
+      "url": "https://www.studocu.com/row/course/university-of-bahrain/intrapartum-care/6827843"
+    },
+    {
+      "name": "introduction to chemical engineering",
+      "code": "CHENG111",
+      "url": "https://www.studocu.com/row/course/university-of-bahrain/introduction-to-chemical-engineering/6278142"
+    },
+    {
+      "name": "Introduction to Information Systems",
+      "code": "ITIS103",
+      "url": "https://www.studocu.com/row/course/university-of-bahrain/introduction-to-information-systems/3734972"
+    },
+    {
+      "name": "Introduction to Islamic Culture",
+      "code": "Islm101",
+      "url": "https://www.studocu.com/row/course/university-of-bahrain/introduction-to-islamic-culture/4359198"
+    },
+    {
+      "name": "Introduction to linguistics",
+      "code": "ENGL240",
+      "url": "https://www.studocu.com/row/course/university-of-bahrain/introduction-to-linguistics/5811768"
+    },
+    {
+      "name": "introduction to literature",
+      "code": "ENGL130",
+      "url": "https://www.studocu.com/row/course/university-of-bahrain/introduction-to-literature/5251931"
+    },
+    {
+      "name": "introduction to staticites",
+      "code": "qm250",
+      "url": "https://www.studocu.com/row/course/university-of-bahrain/introduction-to-staticites/5698686"
+    },
+    {
+      "name": "Invertebrate zoology",
+      "code": "Biols232",
+      "url": "https://www.studocu.com/row/course/university-of-bahrain/invertebrate-zoology/6757302"
+    },
+    {
+      "name": "Islamic Banking and Finance",
+      "code": "SBF270",
+      "url": "https://www.studocu.com/row/course/university-of-bahrain/islamic-banking-and-finance/5632768"
+    },
+    {
+      "name": "IT project",
+      "code": "ITIS265",
+      "url": "https://www.studocu.com/row/course/university-of-bahrain/it-project/5710972"
+    },
+    {
+      "name": "Korean Language",
+      "code": "KL101",
+      "url": "https://www.studocu.com/row/course/university-of-bahrain/korean-language/5332408"
+    },
+    {
+      "name": "Language Aoutomata",
+      "code": "ITCS 316",
+      "url": "https://www.studocu.com/row/course/university-of-bahrain/language-aoutomata/4527144"
+    },
+    {
+      "name": "Language development 02",
+      "code": "ENGL128",
+      "url": "https://www.studocu.com/row/course/university-of-bahrain/language-development-02/5321118"
+    },
+    {
+      "name": "Language development 08",
+      "code": "ENGL106",
+      "url": "https://www.studocu.com/row/course/university-of-bahrain/language-development-08/5321125"
+    },
+    {
+      "name": "Linear Algebra",
+      "code": "MATHS211",
+      "url": "https://www.studocu.com/row/course/university-of-bahrain/linear-algebra/4524786"
+    },
+    {
+      "name": "Linear algebra and complex analysis",
+      "code": "Maths 342",
+      "url": "https://www.studocu.com/row/course/university-of-bahrain/linear-algebra-and-complex-analysis/6960496"
+    },
+    {
+      "name": "Macroeconomics",
+      "code": "ECON141",
+      "url": "https://www.studocu.com/row/course/university-of-bahrain/macroeconomics/6032909"
+    },
+    {
+      "name": "Managerial Accounting",
+      "code": "acc325",
+      "url": "https://www.studocu.com/row/course/university-of-bahrain/managerial-accounting/5286976"
+    },
+    {
+      "name": "managerial accounting",
+      "code": "ACC611",
+      "url": "https://www.studocu.com/row/course/university-of-bahrain/managerial-accounting/5817100"
+    },
+    {
+      "name": "managment",
+      "code": "mgt230",
+      "url": "https://www.studocu.com/row/course/university-of-bahrain/managment/4494508"
+    },
+    {
+      "name": "Marketing",
+      "code": "MKT261",
+      "url": "https://www.studocu.com/row/course/university-of-bahrain/marketing/4549265"
+    },
+    {
+      "name": "marketing",
+      "code": "bus 2201",
+      "url": "https://www.studocu.com/row/course/university-of-bahrain/marketing/5392331"
+    },
+    {
+      "name": "Marketing Channels",
+      "code": "MKT367",
+      "url": "https://www.studocu.com/row/course/university-of-bahrain/marketing-channels/5720736"
+    },
+    {
+      "name": "Marketing research",
+      "code": "Mkt362",
+      "url": "https://www.studocu.com/row/course/university-of-bahrain/marketing-research/5163678"
+    },
+    {
+      "name": "Marketing services",
+      "code": "MKT465",
+      "url": "https://www.studocu.com/row/course/university-of-bahrain/marketing-services/5984778"
+    },
+    {
+      "name": "Material Science",
+      "code": "MENG212",
+      "url": "https://www.studocu.com/row/course/university-of-bahrain/material-science/7437450"
+    },
+    {
+      "name": "material scince",
+      "code": "meng201",
+      "url": "https://www.studocu.com/row/course/university-of-bahrain/material-scince/5176582"
+    },
+    {
+      "name": "Mathematics",
+      "code": "MATHS103",
+      "url": "https://www.studocu.com/row/course/university-of-bahrain/mathematics/4503123"
+    },
+    {
+      "name": "Mathematics",
+      "code": "MATH104",
+      "url": "https://www.studocu.com/row/course/university-of-bahrain/mathematics/6035897"
+    },
+    {
+      "name": "maths for computing",
+      "code": "IT5001",
+      "url": "https://www.studocu.com/row/course/university-of-bahrain/maths-for-computing/5354896"
+    },
+    {
+      "name": "Mechanics of Fluids",
+      "code": "MENG334",
+      "url": "https://www.studocu.com/row/course/university-of-bahrain/mechanics-of-fluids/3219537"
+    },
+    {
+      "name": "Mechanics of Fluids",
+      "code": "CENG231",
+      "url": "https://www.studocu.com/row/course/university-of-bahrain/mechanics-of-fluids/3477710"
+    },
+    {
+      "name": "Mechanics of materials",
+      "code": "Ceng212",
+      "url": "https://www.studocu.com/row/course/university-of-bahrain/mechanics-of-materials/3195676"
+    },
+    {
+      "name": "mechanics of materials",
+      "code": "meng371",
+      "url": "https://www.studocu.com/row/course/university-of-bahrain/mechanics-of-materials/5178397"
+    },
+    {
+      "name": "Micro Economics",
+      "code": "ECN104",
+      "url": "https://www.studocu.com/row/course/university-of-bahrain/micro-economics/6794770"
+    },
+    {
+      "name": "Microeconomics",
+      "code": "econ140",
+      "url": "https://www.studocu.com/row/course/university-of-bahrain/microeconomics/4508523"
+    },
+    {
+      "name": "Microelectronic and Analog",
+      "code": "EENG262",
+      "url": "https://www.studocu.com/row/course/university-of-bahrain/microelectronic-and-analog/3192213"
+    },
+    {
+      "name": "micrology",
+      "code": "BIOLS250",
+      "url": "https://www.studocu.com/row/course/university-of-bahrain/micrology/6013351"
+    },
+    {
+      "name": "Money and Banking",
+      "code": "BANK 248",
+      "url": "https://www.studocu.com/row/course/university-of-bahrain/money-and-banking/6148189"
+    },
+    {
+      "name": "Multimedia Communications",
+      "code": "ITCE456",
+      "url": "https://www.studocu.com/row/course/university-of-bahrain/multimedia-communications/6909769"
+    },
+    {
+      "name": "network manegment",
+      "code": "itne250",
+      "url": "https://www.studocu.com/row/course/university-of-bahrain/network-manegment/4517777"
+    },
+    {
+      "name": "Network Operating Systems",
+      "code": "ITNE240",
+      "url": "https://www.studocu.com/row/course/university-of-bahrain/network-operating-systems/7332520"
+    },
+    {
+      "name": "Numerical Analysis",
+      "code": "MENG274",
+      "url": "https://www.studocu.com/row/course/university-of-bahrain/numerical-analysis/6436014"
+    },
+    {
+      "name": "Numerical Analysis 1",
+      "code": "MATHS331",
+      "url": "https://www.studocu.com/row/course/university-of-bahrain/numerical-analysis-1/4369690"
+    },
+    {
+      "name": "Nutrition Information",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/university-of-bahrain/nutrition-information/7043364"
+    },
+    {
+      "name": "operating system",
+      "code": "ITCS325",
+      "url": "https://www.studocu.com/row/course/university-of-bahrain/operating-system/6034911"
+    },
+    {
+      "name": "Operation research",
+      "code": "CENG410",
+      "url": "https://www.studocu.com/row/course/university-of-bahrain/operation-research/3245369"
+    },
+    {
+      "name": "operation research",
+      "code": "qm350",
+      "url": "https://www.studocu.com/row/course/university-of-bahrain/operation-research/6019879"
+    },
+    {
+      "name": "organizational behavior",
+      "code": "MGT233",
+      "url": "https://www.studocu.com/row/course/university-of-bahrain/organizational-behavior/4591164"
+    },
+    {
+      "name": "Organizational Management",
+      "code": "MGT630",
+      "url": "https://www.studocu.com/row/course/university-of-bahrain/organizational-management/4549244"
+    },
+    {
+      "name": "parallel distribution",
+      "code": "ITCS441",
+      "url": "https://www.studocu.com/row/course/university-of-bahrain/parallel-distribution/5318735"
+    },
+    {
+      "name": "Pathophysiology",
+      "code": "LFS227",
+      "url": "https://www.studocu.com/row/course/university-of-bahrain/pathophysiology/7494735"
+    },
+    {
+      "name": "Pharmacology II",
+      "code": "PHAM310",
+      "url": "https://www.studocu.com/row/course/university-of-bahrain/pharmacology-ii/6950815"
+    },
+    {
+      "name": "Physical chemistry",
+      "code": "chemy231",
+      "url": "https://www.studocu.com/row/course/university-of-bahrain/physical-chemistry/3245710"
+    },
+    {
+      "name": "plant morphology",
+      "code": "BIOLS222",
+      "url": "https://www.studocu.com/row/course/university-of-bahrain/plant-morphology/6013350"
+    },
+    {
+      "name": "plant physiology",
+      "code": "biols320",
+      "url": "https://www.studocu.com/row/course/university-of-bahrain/plant-physiology/6503460"
+    },
+    {
+      "name": "positive environment",
+      "code": "educ 5240",
+      "url": "https://www.studocu.com/row/course/university-of-bahrain/positive-environment/5271420"
+    },
+    {
+      "name": "practical physical chemistry",
+      "code": "CHEMY332",
+      "url": "https://www.studocu.com/row/course/university-of-bahrain/practical-physical-chemistry/7131514"
+    },
+    {
+      "name": "Principles of genetics",
+      "code": "BIOLS360",
+      "url": "https://www.studocu.com/row/course/university-of-bahrain/principles-of-genetics/4582276"
+    },
+    {
+      "name": "Principles of Marketing",
+      "code": "CMKT100",
+      "url": "https://www.studocu.com/row/course/university-of-bahrain/principles-of-marketing/6752938"
+    },
+    {
+      "name": "Professional Issues and Ethics",
+      "code": "ITCE370",
+      "url": "https://www.studocu.com/row/course/university-of-bahrain/professional-issues-and-ethics/5928346"
+    },
+    {
+      "name": "QBM polytechnic",
+      "code": "BU 6006 QBM",
+      "url": "https://www.studocu.com/row/course/university-of-bahrain/qbm-polytechnic/6542944"
+    },
+    {
+      "name": "QBM Polytechnic",
+      "code": "6006",
+      "url": "https://www.studocu.com/row/course/university-of-bahrain/qbm-polytechnic/6542947"
+    },
+    {
+      "name": "Quality Assurance",
+      "code": "MLS 410",
+      "url": "https://www.studocu.com/row/course/university-of-bahrain/quality-assurance/7309325"
+    },
+    {
+      "name": "Radiology 1",
+      "code": "RAD102",
+      "url": "https://www.studocu.com/row/course/university-of-bahrain/radiology-1/6641987"
+    },
+    {
+      "name": "research methods",
+      "code": "SBS320",
+      "url": "https://www.studocu.com/row/course/university-of-bahrain/research-methods/6541644"
+    },
+    {
+      "name": "Social Psychology",
+      "code": "UBBSP",
+      "url": "https://www.studocu.com/row/course/university-of-bahrain/social-psychology/5139503"
+    },
+    {
+      "name": "Software Architecture and Design",
+      "code": "ITSE302",
+      "url": "https://www.studocu.com/row/course/university-of-bahrain/software-architecture-and-design/6910095"
+    },
+    {
+      "name": "software engineering 2",
+      "code": "ITCS489",
+      "url": "https://www.studocu.com/row/course/university-of-bahrain/software-engineering-2/6071554"
+    },
+    {
+      "name": "software engineering project",
+      "code": "ITSE305",
+      "url": "https://www.studocu.com/row/course/university-of-bahrain/software-engineering-project/4905454"
+    },
+    {
+      "name": "Software project management- 2",
+      "code": "ITSE301",
+      "url": "https://www.studocu.com/row/course/university-of-bahrain/software-project-management-2/4538430"
+    },
+    {
+      "name": "software testing",
+      "code": "SE403",
+      "url": "https://www.studocu.com/row/course/university-of-bahrain/software-testing/6195221"
+    },
+    {
+      "name": "Soil mechanics",
+      "code": "Ceng341",
+      "url": "https://www.studocu.com/row/course/university-of-bahrain/soil-mechanics/6668655"
+    },
+    {
+      "name": "Statictics",
+      "code": "stat273",
+      "url": "https://www.studocu.com/row/course/university-of-bahrain/statictics/3251532"
+    },
+    {
+      "name": "Strategic management",
+      "code": "Mgt434",
+      "url": "https://www.studocu.com/row/course/university-of-bahrain/strategic-management/6890548"
+    },
+    {
+      "name": "Structural analysis",
+      "code": "CENG311",
+      "url": "https://www.studocu.com/row/course/university-of-bahrain/structural-analysis/3252856"
+    },
+    {
+      "name": "Surveying",
+      "code": "CENG131",
+      "url": "https://www.studocu.com/row/course/university-of-bahrain/surveying/5822062"
+    },
+    {
+      "name": "System Analysis and Design",
+      "code": "ITIS335",
+      "url": "https://www.studocu.com/row/course/university-of-bahrain/system-analysis-and-design/5287645"
+    },
+    {
+      "name": "System analysis and design",
+      "code": "ITIS232",
+      "url": "https://www.studocu.com/row/course/university-of-bahrain/system-analysis-and-design/6456038"
+    },
+    {
+      "name": "Systems and Control",
+      "code": "MENG485",
+      "url": "https://www.studocu.com/row/course/university-of-bahrain/systems-and-control/4554988"
+    },
+    {
+      "name": "taxation",
+      "code": "ACC416",
+      "url": "https://www.studocu.com/row/course/university-of-bahrain/taxation/4360584"
+    },
+    {
+      "name": "Thermal Sciences",
+      "code": "MENG230",
+      "url": "https://www.studocu.com/row/course/university-of-bahrain/thermal-sciences/4343303"
+    },
+    {
+      "name": "Turkish",
+      "code": "tl",
+      "url": "https://www.studocu.com/row/course/university-of-bahrain/turkish/7548050"
+    },
+    {
+      "name": "Virtual Instrumentation",
+      "code": "PICENG464",
+      "url": "https://www.studocu.com/row/course/university-of-bahrain/virtual-instrumentation/7481159"
+    },
+    {
+      "name": "Working Capital Management",
+      "code": "Fin429",
+      "url": "https://www.studocu.com/row/course/university-of-bahrain/working-capital-management/4516101"
+    },
+    {
+      "name": "zz",
+      "code": "sis11",
+      "url": "https://www.studocu.com/row/course/university-of-bahrain/zz/5906136"
+    }
+  ]
+}

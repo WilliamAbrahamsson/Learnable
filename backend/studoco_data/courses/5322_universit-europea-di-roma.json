@@ -1,0 +1,831 @@
+{
+  "university_id": "5322",
+  "university_name": "Università Europea di Roma",
+  "courses": [
+    {
+      "name": "Accounting",
+      "code": "SECS-P/07",
+      "url": "https://www.studocu.com/it/course/universita-europea-di-roma/accounting/7427889"
+    },
+    {
+      "name": "analisi finanziarie",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-europea-di-roma/analisi-finanziarie/4941000"
+    },
+    {
+      "name": "anatomia comparata",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-europea-di-roma/anatomia-comparata/4941030"
+    },
+    {
+      "name": "Antropologia e Bioetica",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-europea-di-roma/antropologia-e-bioetica/5882509"
+    },
+    {
+      "name": "Antropologia e cure palliative",
+      "code": "1756",
+      "url": "https://www.studocu.com/it/course/universita-europea-di-roma/antropologia-e-cure-palliative/6206425"
+    },
+    {
+      "name": "antropologia e neuroetica",
+      "code": "M-FIL/03",
+      "url": "https://www.studocu.com/it/course/universita-europea-di-roma/antropologia-e-neuroetica/7649791"
+    },
+    {
+      "name": "Antropologia ed etica clinica",
+      "code": "M-FIL/03",
+      "url": "https://www.studocu.com/it/course/universita-europea-di-roma/antropologia-ed-etica-clinica/4142075"
+    },
+    {
+      "name": "Antropologia Filosofica",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-europea-di-roma/antropologia-filosofica/3237300"
+    },
+    {
+      "name": "Antropologia Giuridica",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-europea-di-roma/antropologia-giuridica/4941226"
+    },
+    {
+      "name": "appunti",
+      "code": "102030",
+      "url": "https://www.studocu.com/it/course/universita-europea-di-roma/appunti/5240053"
+    },
+    {
+      "name": "Archeologia",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-europea-di-roma/archeologia/7607350"
+    },
+    {
+      "name": "architettura tecnica",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-europea-di-roma/architettura-tecnica/4941032"
+    },
+    {
+      "name": "bilancio e standard contabili",
+      "code": "PDS0",
+      "url": "https://www.studocu.com/it/course/universita-europea-di-roma/bilancio-e-standard-contabili/5309480"
+    },
+    {
+      "name": "bilancio giunta pisani",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-europea-di-roma/bilancio-giunta-pisani/4417886"
+    },
+    {
+      "name": "Biologia cellulare",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-europea-di-roma/biologia-cellulare/7635495"
+    },
+    {
+      "name": "Chimica e propedeutica biochimica",
+      "code": "2033",
+      "url": "https://www.studocu.com/it/course/universita-europea-di-roma/chimica-e-propedeutica-biochimica/7610606"
+    },
+    {
+      "name": "contabilità",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-europea-di-roma/contabilita/4940997"
+    },
+    {
+      "name": "Cooperazione Giudiziaria",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-europea-di-roma/cooperazione-giudiziaria/4941227"
+    },
+    {
+      "name": "Costruzioni (Temporin)",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-europea-di-roma/costruzioni-temporin/5147385"
+    },
+    {
+      "name": "criminologia dei sex offender",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-europea-di-roma/criminologia-dei-sex-offender/7563174"
+    },
+    {
+      "name": "Cyberpsicologia",
+      "code": "M-PSI/04",
+      "url": "https://www.studocu.com/it/course/universita-europea-di-roma/cyberpsicologia/5327461"
+    },
+    {
+      "name": "destination management",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-europea-di-roma/destination-management/6708025"
+    },
+    {
+      "name": "Didattica della letteratura",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-europea-di-roma/didattica-della-letteratura/7605443"
+    },
+    {
+      "name": "Didattica della letteratura italiana",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-europea-di-roma/didattica-della-letteratura-italiana/7245233"
+    },
+    {
+      "name": "Didattica e pedagogia speciale",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-europea-di-roma/didattica-e-pedagogia-speciale/6245834"
+    },
+    {
+      "name": "Didattica Generale",
+      "code": "M-PED/03 ,899",
+      "url": "https://www.studocu.com/it/course/universita-europea-di-roma/didattica-generale/4408481"
+    },
+    {
+      "name": "didattics della matematics",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-europea-di-roma/didattics-della-matematics/7624182"
+    },
+    {
+      "name": "diritto agrario",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-europea-di-roma/diritto-agrario/4940985"
+    },
+    {
+      "name": "Diritto Agroalimentare",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-europea-di-roma/diritto-agroalimentare/4941224"
+    },
+    {
+      "name": "Diritto Amministrativo",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-europea-di-roma/diritto-amministrativo/4526020"
+    },
+    {
+      "name": "Diritto amministrativo Europeo",
+      "code": "4",
+      "url": "https://www.studocu.com/it/course/universita-europea-di-roma/diritto-amministrativo-europeo/2185104"
+    },
+    {
+      "name": "diritto bancario",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-europea-di-roma/diritto-bancario/4940998"
+    },
+    {
+      "name": "Diritto Commerciale",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-europea-di-roma/diritto-commerciale/2651065"
+    },
+    {
+      "name": "Diritto comparato",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-europea-di-roma/diritto-comparato/6944311"
+    },
+    {
+      "name": "Diritto Costituzionale",
+      "code": "IUS/08",
+      "url": "https://www.studocu.com/it/course/universita-europea-di-roma/diritto-costituzionale/4767239"
+    },
+    {
+      "name": "Diritto dell’Unione europea",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-europea-di-roma/diritto-dellunione-europea/4941067"
+    },
+    {
+      "name": "Diritto di Famiglia e delle Successioni",
+      "code": "001",
+      "url": "https://www.studocu.com/it/course/universita-europea-di-roma/diritto-di-famiglia-e-delle-successioni/2972795"
+    },
+    {
+      "name": "Diritto Internazionale",
+      "code": "IUS/13",
+      "url": "https://www.studocu.com/it/course/universita-europea-di-roma/diritto-internazionale/4331390"
+    },
+    {
+      "name": "Diritto Penale",
+      "code": "000",
+      "url": "https://www.studocu.com/it/course/universita-europea-di-roma/diritto-penale/1948209"
+    },
+    {
+      "name": "diritto persona e società",
+      "code": "PDS0",
+      "url": "https://www.studocu.com/it/course/universita-europea-di-roma/diritto-persona-e-societa/5328715"
+    },
+    {
+      "name": "Diritto Privato",
+      "code": "73001",
+      "url": "https://www.studocu.com/it/course/universita-europea-di-roma/diritto-privato/2917892"
+    },
+    {
+      "name": "Diritto privato",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-europea-di-roma/diritto-privato/3239328"
+    },
+    {
+      "name": "diritto processuale penale",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-europea-di-roma/diritto-processuale-penale/5923864"
+    },
+    {
+      "name": "Diritto pubblico",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-europea-di-roma/diritto-pubblico/4496838"
+    },
+    {
+      "name": "diritto tributario",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-europea-di-roma/diritto-tributario/4941036"
+    },
+    {
+      "name": "Dottrina sociale della chiesa",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-europea-di-roma/dottrina-sociale-della-chiesa/5083480"
+    },
+    {
+      "name": "ecologia",
+      "code": "M-ECO/03",
+      "url": "https://www.studocu.com/it/course/universita-europea-di-roma/ecologia/5278817"
+    },
+    {
+      "name": "economia aziendale",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-europea-di-roma/economia-aziendale/5823806"
+    },
+    {
+      "name": "Economia comportamentale e scelte del consumatore",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-europea-di-roma/economia-comportamentale-e-scelte-del-consumatore/5909630"
+    },
+    {
+      "name": "economia e gestione dell'innovazione",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-europea-di-roma/economia-e-gestione-dellinnovazione/7225949"
+    },
+    {
+      "name": "economia e gestione delle imprese",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-europea-di-roma/economia-e-gestione-delle-imprese/5721847"
+    },
+    {
+      "name": "economia europea e internazionale",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-europea-di-roma/economia-europea-e-internazionale/6314591"
+    },
+    {
+      "name": "Economia industriale",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-europea-di-roma/economia-industriale/4941007"
+    },
+    {
+      "name": "Economic and Financial Public Relations",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-europea-di-roma/economic-and-financial-public-relations/6483469"
+    },
+    {
+      "name": "Ecosistemi dell'innovazione",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-europea-di-roma/ecosistemi-dellinnovazione/6672451"
+    },
+    {
+      "name": "Elementi di Chimica",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-europea-di-roma/elementi-di-chimica/5991198"
+    },
+    {
+      "name": "elementi e didattica della fisica",
+      "code": "FIS/08",
+      "url": "https://www.studocu.com/it/course/universita-europea-di-roma/elementi-e-didattica-della-fisica/4480448"
+    },
+    {
+      "name": "Elettrotecnica",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-europea-di-roma/elettrotecnica/4941264"
+    },
+    {
+      "name": "Ethics and economics",
+      "code": "1707",
+      "url": "https://www.studocu.com/it/course/universita-europea-di-roma/ethics-and-economics/7759659"
+    },
+    {
+      "name": "Etica E Bioetica",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-europea-di-roma/etica-e-bioetica/3732039"
+    },
+    {
+      "name": "Filosofia del diritto",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-europea-di-roma/filosofia-del-diritto/4417116"
+    },
+    {
+      "name": "Finanza aziendale",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-europea-di-roma/finanza-aziendale/6475472"
+    },
+    {
+      "name": "fondamenti di logica e laboratorio",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-europea-di-roma/fondamenti-di-logica-e-laboratorio/5379989"
+    },
+    {
+      "name": "Fondamenti di Psicologia Fisiologica",
+      "code": "M-PSI/02",
+      "url": "https://www.studocu.com/it/course/universita-europea-di-roma/fondamenti-di-psicologia-fisiologica/2991357"
+    },
+    {
+      "name": "Fondamenti di psicopatologia clinica",
+      "code": "M-PSI 08",
+      "url": "https://www.studocu.com/it/course/universita-europea-di-roma/fondamenti-di-psicopatologia-clinica/4729906"
+    },
+    {
+      "name": "Fondamenti romanistici del diritto europeo",
+      "code": "IUS/18",
+      "url": "https://www.studocu.com/it/course/universita-europea-di-roma/fondamenti-romanistici-del-diritto-europeo/5857861"
+    },
+    {
+      "name": "General Botany",
+      "code": "M-BOT/03",
+      "url": "https://www.studocu.com/it/course/universita-europea-di-roma/general-botany/5278811"
+    },
+    {
+      "name": "geografia",
+      "code": "M-GGR/02",
+      "url": "https://www.studocu.com/it/course/universita-europea-di-roma/geografia/5367300"
+    },
+    {
+      "name": "geometria",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-europea-di-roma/geometria/4578213"
+    },
+    {
+      "name": "Gestione delle risorse umane",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-europea-di-roma/gestione-delle-risorse-umane/6599340"
+    },
+    {
+      "name": "history of art",
+      "code": "art-02",
+      "url": "https://www.studocu.com/it/course/universita-europea-di-roma/history-of-art/4334380"
+    },
+    {
+      "name": "Human Rights",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-europea-di-roma/human-rights/4448519"
+    },
+    {
+      "name": "intercultural education and social integration",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-europea-di-roma/intercultural-education-and-social-integration/4900597"
+    },
+    {
+      "name": "International Accounting",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-europea-di-roma/international-accounting/5334650"
+    },
+    {
+      "name": "introduction to history of arts and visual education",
+      "code": "895",
+      "url": "https://www.studocu.com/it/course/universita-europea-di-roma/introduction-to-history-of-arts-and-visual-education/5927928"
+    },
+    {
+      "name": "introduction to the philosophy",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-europea-di-roma/introduction-to-the-philosophy/7324831"
+    },
+    {
+      "name": "Italiano",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-europea-di-roma/italiano/6478567"
+    },
+    {
+      "name": "La relazione con il paziente/cliente: come si declina all'interno di un setting pubblico e privato",
+      "code": "1345",
+      "url": "https://www.studocu.com/it/course/universita-europea-di-roma/la-relazione-con-il-pazientecliente-come-si-declina-allinterno-di-un-setting-pubblico-e-privato/5132608"
+    },
+    {
+      "name": "Laboratorio sperimentazione psicologica embodied cognition",
+      "code": "PSYC142",
+      "url": "https://www.studocu.com/it/course/universita-europea-di-roma/laboratorio-sperimentazione-psicologica-embodied-cognition/5857919"
+    },
+    {
+      "name": "Laurea magistrale a ciclo unico in Scienze della Formazione Primaria",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-europea-di-roma/laurea-magistrale-a-ciclo-unico-in-scienze-della-formazione-primaria/3357005"
+    },
+    {
+      "name": "Legislazione scolastica",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-europea-di-roma/legislazione-scolastica/4361346"
+    },
+    {
+      "name": "Letteratura francese",
+      "code": "90142",
+      "url": "https://www.studocu.com/it/course/universita-europea-di-roma/letteratura-francese/5293181"
+    },
+    {
+      "name": "Letteratura per l'infanzia",
+      "code": "2019/2020",
+      "url": "https://www.studocu.com/it/course/universita-europea-di-roma/letteratura-per-linfanzia/4316668"
+    },
+    {
+      "name": "Letteratura per l'infanzia 2022/",
+      "code": "2023",
+      "url": "https://www.studocu.com/it/course/universita-europea-di-roma/letteratura-per-linfanzia-20222023/6314508"
+    },
+    {
+      "name": "letteratura spagnola",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-europea-di-roma/letteratura-spagnola/5824176"
+    },
+    {
+      "name": "linguistica generale",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-europea-di-roma/linguistica-generale/4939903"
+    },
+    {
+      "name": "logica causale",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-europea-di-roma/logica-causale/4500661"
+    },
+    {
+      "name": "Logica secondo anno",
+      "code": "PSYC142",
+      "url": "https://www.studocu.com/it/course/universita-europea-di-roma/logica-secondo-anno/5858025"
+    },
+    {
+      "name": "Macroeconomia",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-europea-di-roma/macroeconomia/3220708"
+    },
+    {
+      "name": "Management Skills",
+      "code": "792",
+      "url": "https://www.studocu.com/it/course/universita-europea-di-roma/management-skills/4032113"
+    },
+    {
+      "name": "market law and regulation",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-europea-di-roma/market-law-and-regulation/4418440"
+    },
+    {
+      "name": "marketing dell'esperienza digitale",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-europea-di-roma/marketing-dellesperienza-digitale/7225948"
+    },
+    {
+      "name": "Marketing Management",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-europea-di-roma/marketing-management/5334655"
+    },
+    {
+      "name": "Maturità",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-europea-di-roma/maturita/7429913"
+    },
+    {
+      "name": "Media, culture and global tourism",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-europea-di-roma/media-culture-and-global-tourism/5808083"
+    },
+    {
+      "name": "Medicina e Chirurgia",
+      "code": "LM-41",
+      "url": "https://www.studocu.com/it/course/universita-europea-di-roma/medicina-e-chirurgia/7619582"
+    },
+    {
+      "name": "Medicina Legale",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-europea-di-roma/medicina-legale/3257947"
+    },
+    {
+      "name": "Metafisica",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-europea-di-roma/metafisica/4914521"
+    },
+    {
+      "name": "Metodologia",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-europea-di-roma/metodologia/3572712"
+    },
+    {
+      "name": "Metodologia della ricerca psicologica",
+      "code": "5589",
+      "url": "https://www.studocu.com/it/course/universita-europea-di-roma/metodologia-della-ricerca-psicologica/6574757"
+    },
+    {
+      "name": "microeconomia",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-europea-di-roma/microeconomia/5109747"
+    },
+    {
+      "name": "Money and financial market",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-europea-di-roma/money-and-financial-market/6503149"
+    },
+    {
+      "name": "Neurologia",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-europea-di-roma/neurologia/7001401"
+    },
+    {
+      "name": "Neuropsicologia Forense",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-europea-di-roma/neuropsicologia-forense/4201976"
+    },
+    {
+      "name": "Neuroscienze Cliniche e Cognitive",
+      "code": "M-PSI/02",
+      "url": "https://www.studocu.com/it/course/universita-europea-di-roma/neuroscienze-cliniche-e-cognitive/4589369"
+    },
+    {
+      "name": "Ordinamento Comunale Roma",
+      "code": "OCR1",
+      "url": "https://www.studocu.com/it/course/universita-europea-di-roma/ordinamento-comunale-roma/6032451"
+    },
+    {
+      "name": "Organizzazione Aziendale",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-europea-di-roma/organizzazione-aziendale/4611335"
+    },
+    {
+      "name": "Pedagogia dell'informazione",
+      "code": "M-PED/03",
+      "url": "https://www.studocu.com/it/course/universita-europea-di-roma/pedagogia-dellinformazione/5196686"
+    },
+    {
+      "name": "pedagogia generale",
+      "code": "S401",
+      "url": "https://www.studocu.com/it/course/universita-europea-di-roma/pedagogia-generale/4914004"
+    },
+    {
+      "name": "Pedagogia speciale",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-europea-di-roma/pedagogia-speciale/4843447"
+    },
+    {
+      "name": "Pedagogia Sperimentale",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-europea-di-roma/pedagogia-sperimentale/3237178"
+    },
+    {
+      "name": "People management",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-europea-di-roma/people-management/6599338"
+    },
+    {
+      "name": "Pianificazione e Controllo",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-europea-di-roma/pianificazione-e-controllo/5361295"
+    },
+    {
+      "name": "Politica economica",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-europea-di-roma/politica-economica/3242083"
+    },
+    {
+      "name": "Procedura Civile",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-europea-di-roma/procedura-civile/1740135"
+    },
+    {
+      "name": "programmazione e controllo",
+      "code": "SECS-P/07",
+      "url": "https://www.studocu.com/it/course/universita-europea-di-roma/programmazione-e-controllo/5334562"
+    },
+    {
+      "name": "Psichiatria",
+      "code": "MED-25",
+      "url": "https://www.studocu.com/it/course/universita-europea-di-roma/psichiatria/4714608"
+    },
+    {
+      "name": "Psicodiagnostica",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-europea-di-roma/psicodiagnostica/6765260"
+    },
+    {
+      "name": "Psicofisiologia",
+      "code": "P102P01",
+      "url": "https://www.studocu.com/it/course/universita-europea-di-roma/psicofisiologia/5395263"
+    },
+    {
+      "name": "psicologia applicata alla gestione dello stress e alla promozione del benessere lavorativo",
+      "code": "P303P02",
+      "url": "https://www.studocu.com/it/course/universita-europea-di-roma/psicologia-applicata-alla-gestione-dello-stress-e-alla-promozione-del-benessere-lavorativo/5329383"
+    },
+    {
+      "name": "Psicologia Clinica",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-europea-di-roma/psicologia-clinica/4392080"
+    },
+    {
+      "name": "Psicologia cognitiva e della personalità",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-europea-di-roma/psicologia-cognitiva-e-della-personalita/3271288"
+    },
+    {
+      "name": "Psicologia del Cinema",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-europea-di-roma/psicologia-del-cinema/6474987"
+    },
+    {
+      "name": "Psicologia Del Lavoro",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-europea-di-roma/psicologia-del-lavoro/2733388"
+    },
+    {
+      "name": "Psicologia della Salute e Psicosomatica",
+      "code": "M-PSI/08",
+      "url": "https://www.studocu.com/it/course/universita-europea-di-roma/psicologia-della-salute-e-psicosomatica/7578731"
+    },
+    {
+      "name": "psicologia dello sviluppo",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-europea-di-roma/psicologia-dello-sviluppo/4900596"
+    },
+    {
+      "name": "psicologia di marketing, sviluppo organizzativo e leadership development",
+      "code": "M-PSI/06",
+      "url": "https://www.studocu.com/it/course/universita-europea-di-roma/psicologia-di-marketing-sviluppo-organizzativo-e-leadership-development/5329299"
+    },
+    {
+      "name": "Psicologia Dinamiva",
+      "code": "PSI-M07",
+      "url": "https://www.studocu.com/it/course/universita-europea-di-roma/psicologia-dinamiva/6498773"
+    },
+    {
+      "name": "Psicologia Economica e ICT",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-europea-di-roma/psicologia-economica-e-ict/7605951"
+    },
+    {
+      "name": "Psicologia forense",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-europea-di-roma/psicologia-forense/5792138"
+    },
+    {
+      "name": "Psicologia Generale",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-europea-di-roma/psicologia-generale/2733384"
+    },
+    {
+      "name": "Psicologia giuridica",
+      "code": "P303",
+      "url": "https://www.studocu.com/it/course/universita-europea-di-roma/psicologia-giuridica/7699947"
+    },
+    {
+      "name": "Psicologia positiva",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-europea-di-roma/psicologia-positiva/4840316"
+    },
+    {
+      "name": "Psicologia Scolastica",
+      "code": "MPSI/04",
+      "url": "https://www.studocu.com/it/course/universita-europea-di-roma/psicologia-scolastica/6724232"
+    },
+    {
+      "name": "Psicology for social integration",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-europea-di-roma/psicology-for-social-integration/3735977"
+    },
+    {
+      "name": "Psicometria",
+      "code": "M-PSI/03",
+      "url": "https://www.studocu.com/it/course/universita-europea-di-roma/psicometria/6463966"
+    },
+    {
+      "name": "psicopatologia dello sviluppo con elementi di neuropsichiatria infantile",
+      "code": "M-PSI/08",
+      "url": "https://www.studocu.com/it/course/universita-europea-di-roma/psicopatologia-dello-sviluppo-con-elementi-di-neuropsichiatria-infantile/5367306"
+    },
+    {
+      "name": "Psicoterapia cognitiva e metodi di valutazione dell’infanzia, dell’adolescenza e delle interazioni familiari",
+      "code": "P303",
+      "url": "https://www.studocu.com/it/course/universita-europea-di-roma/psicoterapia-cognitiva-e-metodi-di-valutazione-dellinfanzia-delladolescenza-e-delle-interazioni-familiari/5129136"
+    },
+    {
+      "name": "Psicvologia generale",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-europea-di-roma/psicvologia-generale/7427837"
+    },
+    {
+      "name": "relazioni pubbliche",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-europea-di-roma/relazioni-pubbliche/5291253"
+    },
+    {
+      "name": "religion, education and society",
+      "code": "S401R2015",
+      "url": "https://www.studocu.com/it/course/universita-europea-di-roma/religion-education-and-society/4853515"
+    },
+    {
+      "name": "Reti e sistemi turistici locali",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-europea-di-roma/reti-e-sistemi-turistici-locali/7607355"
+    },
+    {
+      "name": "risk management",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-europea-di-roma/risk-management/7132834"
+    },
+    {
+      "name": "scienze e tecniche psiclogiche",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-europea-di-roma/scienze-e-tecniche-psiclogiche/4318336"
+    },
+    {
+      "name": "Segni, simboli e mete di viaggio",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-europea-di-roma/segni-simboli-e-mete-di-viaggio/5805401"
+    },
+    {
+      "name": "sessuologia clinica",
+      "code": "M-PSI/08",
+      "url": "https://www.studocu.com/it/course/universita-europea-di-roma/sessuologia-clinica/7573656"
+    },
+    {
+      "name": "Sociologia della devianza",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-europea-di-roma/sociologia-della-devianza/4601223"
+    },
+    {
+      "name": "Sociologia e Ricerca Sociale",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-europea-di-roma/sociologia-e-ricerca-sociale/5110187"
+    },
+    {
+      "name": "Start up skills",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-europea-di-roma/start-up-skills/5564670"
+    },
+    {
+      "name": "Statistica aziendale",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-europea-di-roma/statistica-aziendale/4467798"
+    },
+    {
+      "name": "Storia contemporanea",
+      "code": "1025369",
+      "url": "https://www.studocu.com/it/course/universita-europea-di-roma/storia-contemporanea/3170896"
+    },
+    {
+      "name": "Storia dell'economia",
+      "code": "665",
+      "url": "https://www.studocu.com/it/course/universita-europea-di-roma/storia-delleconomia/4032112"
+    },
+    {
+      "name": "Storia della Giurisprudenza Europea",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-europea-di-roma/storia-della-giurisprudenza-europea/4349288"
+    },
+    {
+      "name": "Storia della psicologia",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-europea-di-roma/storia-della-psicologia/2715727"
+    },
+    {
+      "name": "storia greca",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-europea-di-roma/storia-greca/4399124"
+    },
+    {
+      "name": "Storia medievale con elementi di metodologia e didattica",
+      "code": "1233",
+      "url": "https://www.studocu.com/it/course/universita-europea-di-roma/storia-medievale-con-elementi-di-metodologia-e-didattica/5126096"
+    },
+    {
+      "name": "Storia romana",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-europea-di-roma/storia-romana/2124691"
+    },
+    {
+      "name": "storia romana",
+      "code": "L-ANT/03",
+      "url": "https://www.studocu.com/it/course/universita-europea-di-roma/storia-romana/5367303"
+    },
+    {
+      "name": "tecniche di marketing e ricerca di mercato",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-europea-di-roma/tecniche-di-marketing-e-ricerca-di-mercato/4329124"
+    },
+    {
+      "name": "Tecniche di osservazione del comportamento infantile",
+      "code": "M-PSI/04",
+      "url": "https://www.studocu.com/it/course/universita-europea-di-roma/tecniche-di-osservazione-del-comportamento-infantile/7574335"
+    },
+    {
+      "name": "Teoresi ed etica",
+      "code": "M-FIL/03",
+      "url": "https://www.studocu.com/it/course/universita-europea-di-roma/teoresi-ed-etica/3728728"
+    },
+    {
+      "name": "Teoria e metodologia dell’intervento clinico",
+      "code": "M-PSI 08",
+      "url": "https://www.studocu.com/it/course/universita-europea-di-roma/teoria-e-metodologia-dellintervento-clinico/4719359"
+    },
+    {
+      "name": "Teoria e tecniche dei test e analisi dei dati",
+      "code": "M-PSI 03",
+      "url": "https://www.studocu.com/it/course/universita-europea-di-roma/teoria-e-tecniche-dei-test-e-analisi-dei-dati/4714613"
+    },
+    {
+      "name": "tfa sostegno",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-europea-di-roma/tfa-sostegno/6322966"
+    },
+    {
+      "name": "Turismo e Valorizzazione del territorio",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-europea-di-roma/turismo-e-valorizzazione-del-territorio/4343836"
+    }
+  ]
+}

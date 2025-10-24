@@ -1,0 +1,831 @@
+{
+  "university_id": "11279",
+  "university_name": "The Copperbelt University",
+  "courses": [
+    {
+      "name": "Accounting information system",
+      "code": "Bs 427",
+      "url": "https://www.studocu.com/row/course/the-copperbelt-university/accounting-information-system/7059221"
+    },
+    {
+      "name": "Advanced Financial Reporting",
+      "code": "BS420",
+      "url": "https://www.studocu.com/row/course/the-copperbelt-university/advanced-financial-reporting/3492647"
+    },
+    {
+      "name": "Advanced Macroeconomics",
+      "code": "BEC 360",
+      "url": "https://www.studocu.com/row/course/the-copperbelt-university/advanced-macroeconomics/6380676"
+    },
+    {
+      "name": "Advanced Management Accounting",
+      "code": "GAF600",
+      "url": "https://www.studocu.com/row/course/the-copperbelt-university/advanced-management-accounting/6428750"
+    },
+    {
+      "name": "Advanced Measurements",
+      "code": "ESQ 530",
+      "url": "https://www.studocu.com/row/course/the-copperbelt-university/advanced-measurements/7527150"
+    },
+    {
+      "name": "Aerodynamics II",
+      "code": "EA 410",
+      "url": "https://www.studocu.com/row/course/the-copperbelt-university/aerodynamics-ii/5399079"
+    },
+    {
+      "name": "Aircraft Propulsion II",
+      "code": "EA 541",
+      "url": "https://www.studocu.com/row/course/the-copperbelt-university/aircraft-propulsion-ii/5396432"
+    },
+    {
+      "name": "alternative dispute resolution",
+      "code": "LS 361",
+      "url": "https://www.studocu.com/row/course/the-copperbelt-university/alternative-dispute-resolution/6871039"
+    },
+    {
+      "name": "Analytical Chemistry",
+      "code": "CH 440",
+      "url": "https://www.studocu.com/row/course/the-copperbelt-university/analytical-chemistry/5377604"
+    },
+    {
+      "name": "Anatomy",
+      "code": "MB 200",
+      "url": "https://www.studocu.com/row/course/the-copperbelt-university/anatomy/4483257"
+    },
+    {
+      "name": "Anatomy- H'istology",
+      "code": "MBS200",
+      "url": "https://www.studocu.com/row/course/the-copperbelt-university/anatomy-histology/7559515"
+    },
+    {
+      "name": "Animal diversity",
+      "code": "Bio2812",
+      "url": "https://www.studocu.com/row/course/the-copperbelt-university/animal-diversity/7031943"
+    },
+    {
+      "name": "Applied computing",
+      "code": "CS211",
+      "url": "https://www.studocu.com/row/course/the-copperbelt-university/applied-computing/7474102"
+    },
+    {
+      "name": "Applied Thermodynamics",
+      "code": "EM 341",
+      "url": "https://www.studocu.com/row/course/the-copperbelt-university/applied-thermodynamics/6358049"
+    },
+    {
+      "name": "Aquaculture system and engineering",
+      "code": "FA310",
+      "url": "https://www.studocu.com/row/course/the-copperbelt-university/aquaculture-system-and-engineering/7639182"
+    },
+    {
+      "name": "Art History",
+      "code": "1401-01",
+      "url": "https://www.studocu.com/row/course/the-copperbelt-university/art-history/7217661"
+    },
+    {
+      "name": "Auditing",
+      "code": "BS 325",
+      "url": "https://www.studocu.com/row/course/the-copperbelt-university/auditing/7087218"
+    },
+    {
+      "name": "Banking Law and Practice",
+      "code": "LS300",
+      "url": "https://www.studocu.com/row/course/the-copperbelt-university/banking-law-and-practice/6833407"
+    },
+    {
+      "name": "Biochemistry",
+      "code": "BIO 481",
+      "url": "https://www.studocu.com/row/course/the-copperbelt-university/biochemistry/5377601"
+    },
+    {
+      "name": "Biology",
+      "code": "Bi 110",
+      "url": "https://www.studocu.com/row/course/the-copperbelt-university/biology/4348310"
+    },
+    {
+      "name": "Bsc fisheries and aquaculture",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/the-copperbelt-university/bsc-fisheries-and-aquaculture/3427818"
+    },
+    {
+      "name": "Building maintenance",
+      "code": "ES450",
+      "url": "https://www.studocu.com/row/course/the-copperbelt-university/building-maintenance/4385904"
+    },
+    {
+      "name": "business environment",
+      "code": "bs153",
+      "url": "https://www.studocu.com/row/course/the-copperbelt-university/business-environment/6718418"
+    },
+    {
+      "name": "business law",
+      "code": "bba 190",
+      "url": "https://www.studocu.com/row/course/the-copperbelt-university/business-law/4086359"
+    },
+    {
+      "name": "Business Mathematics",
+      "code": "BBA 120",
+      "url": "https://www.studocu.com/row/course/the-copperbelt-university/business-mathematics/4358948"
+    },
+    {
+      "name": "Chemical engineering calculation",
+      "code": "CE210",
+      "url": "https://www.studocu.com/row/course/the-copperbelt-university/chemical-engineering-calculation/6753680"
+    },
+    {
+      "name": "Chemistry II",
+      "code": "CH210",
+      "url": "https://www.studocu.com/row/course/the-copperbelt-university/chemistry-ii/7029869"
+    },
+    {
+      "name": "Civil and Criminal Procedure",
+      "code": "LS 400",
+      "url": "https://www.studocu.com/row/course/the-copperbelt-university/civil-and-criminal-procedure/7582819"
+    },
+    {
+      "name": "Clearing and forwarding",
+      "code": "BSP 380",
+      "url": "https://www.studocu.com/row/course/the-copperbelt-university/clearing-and-forwarding/5876885"
+    },
+    {
+      "name": "Climate Change",
+      "code": "NR430",
+      "url": "https://www.studocu.com/row/course/the-copperbelt-university/climate-change/7715742"
+    },
+    {
+      "name": "College Algebra",
+      "code": "MATH 1201",
+      "url": "https://www.studocu.com/row/course/the-copperbelt-university/college-algebra/6732766"
+    },
+    {
+      "name": "Commercial Law",
+      "code": "LS340",
+      "url": "https://www.studocu.com/row/course/the-copperbelt-university/commercial-law/7694600"
+    },
+    {
+      "name": "communication skills",
+      "code": "LA111",
+      "url": "https://www.studocu.com/row/course/the-copperbelt-university/communication-skills/4957089"
+    },
+    {
+      "name": "Company law",
+      "code": "BS 390",
+      "url": "https://www.studocu.com/row/course/the-copperbelt-university/company-law/5421035"
+    },
+    {
+      "name": "company law",
+      "code": "LS 310",
+      "url": "https://www.studocu.com/row/course/the-copperbelt-university/company-law/7519958"
+    },
+    {
+      "name": "Computer Science",
+      "code": "CS 1102- 1",
+      "url": "https://www.studocu.com/row/course/the-copperbelt-university/computer-science/6732752"
+    },
+    {
+      "name": "Constitutional, Administrative and Local Government Law",
+      "code": "LS100",
+      "url": "https://www.studocu.com/row/course/the-copperbelt-university/constitutional-administrative-and-local-government-law/6722208"
+    },
+    {
+      "name": "Contemporary issues",
+      "code": "Bs422",
+      "url": "https://www.studocu.com/row/course/the-copperbelt-university/contemporary-issues/7115702"
+    },
+    {
+      "name": "Control Systems",
+      "code": "MC450",
+      "url": "https://www.studocu.com/row/course/the-copperbelt-university/control-systems/7068124"
+    },
+    {
+      "name": "conveyance and legal drafting",
+      "code": "ls 251",
+      "url": "https://www.studocu.com/row/course/the-copperbelt-university/conveyance-and-legal-drafting/7536951"
+    },
+    {
+      "name": "Conveyancing",
+      "code": "Ls 261",
+      "url": "https://www.studocu.com/row/course/the-copperbelt-university/conveyancing/7451880"
+    },
+    {
+      "name": "CORPORATE FINANCE",
+      "code": "GBS 621",
+      "url": "https://www.studocu.com/row/course/the-copperbelt-university/corporate-finance/3258004"
+    },
+    {
+      "name": "Corporate law",
+      "code": "Bs341",
+      "url": "https://www.studocu.com/row/course/the-copperbelt-university/corporate-law/7468118"
+    },
+    {
+      "name": "Cost Accounting",
+      "code": "BSP320",
+      "url": "https://www.studocu.com/row/course/the-copperbelt-university/cost-accounting/6542907"
+    },
+    {
+      "name": "Criminal Law",
+      "code": "LS 200",
+      "url": "https://www.studocu.com/row/course/the-copperbelt-university/criminal-law/5293313"
+    },
+    {
+      "name": "Data processing",
+      "code": "BS 240",
+      "url": "https://www.studocu.com/row/course/the-copperbelt-university/data-processing/6749077"
+    },
+    {
+      "name": "Database Foundation",
+      "code": "CS 3306-01 Database",
+      "url": "https://www.studocu.com/row/course/the-copperbelt-university/database-foundation/6727672"
+    },
+    {
+      "name": "Design and Manufacturing Process",
+      "code": "EM470",
+      "url": "https://www.studocu.com/row/course/the-copperbelt-university/design-and-manufacturing-process/3660230"
+    },
+    {
+      "name": "Economics",
+      "code": "BEC 320",
+      "url": "https://www.studocu.com/row/course/the-copperbelt-university/economics/4385724"
+    },
+    {
+      "name": "Electric and electronics principles 1",
+      "code": "ee220",
+      "url": "https://www.studocu.com/row/course/the-copperbelt-university/electric-and-electronics-principles-1/3417343"
+    },
+    {
+      "name": "Electric Drives",
+      "code": "EE 541",
+      "url": "https://www.studocu.com/row/course/the-copperbelt-university/electric-drives/5703567"
+    },
+    {
+      "name": "Embedded systems",
+      "code": "CSE320",
+      "url": "https://www.studocu.com/row/course/the-copperbelt-university/embedded-systems/6069763"
+    },
+    {
+      "name": "Employment law",
+      "code": "LS220",
+      "url": "https://www.studocu.com/row/course/the-copperbelt-university/employment-law/6020871"
+    },
+    {
+      "name": "Engineering Drawing",
+      "code": "ED 111",
+      "url": "https://www.studocu.com/row/course/the-copperbelt-university/engineering-drawing/7111772"
+    },
+    {
+      "name": "Engineering Mathematics",
+      "code": "MA210",
+      "url": "https://www.studocu.com/row/course/the-copperbelt-university/engineering-mathematics/4351918"
+    },
+    {
+      "name": "engineering mathematics",
+      "code": "MA310",
+      "url": "https://www.studocu.com/row/course/the-copperbelt-university/engineering-mathematics/6571364"
+    },
+    {
+      "name": "Engineering mechanics",
+      "code": "EM290",
+      "url": "https://www.studocu.com/row/course/the-copperbelt-university/engineering-mechanics/2998103"
+    },
+    {
+      "name": "Engineering science",
+      "code": "BSP 130",
+      "url": "https://www.studocu.com/row/course/the-copperbelt-university/engineering-science/4446255"
+    },
+    {
+      "name": "Engineering Thermodynamics",
+      "code": "CE 360",
+      "url": "https://www.studocu.com/row/course/the-copperbelt-university/engineering-thermodynamics/7657188"
+    },
+    {
+      "name": "ENTREPRENEURSHIP 330",
+      "code": "BS 330",
+      "url": "https://www.studocu.com/row/course/the-copperbelt-university/entrepreneurship-330/3498275"
+    },
+    {
+      "name": "Environmental Chemistry",
+      "code": "CH491",
+      "url": "https://www.studocu.com/row/course/the-copperbelt-university/environmental-chemistry/6174690"
+    },
+    {
+      "name": "Equity, Trust and wills",
+      "code": "LS 151",
+      "url": "https://www.studocu.com/row/course/the-copperbelt-university/equity-trust-and-wills/5163142"
+    },
+    {
+      "name": "family law and succession",
+      "code": "ls231",
+      "url": "https://www.studocu.com/row/course/the-copperbelt-university/family-law-and-succession/6066842"
+    },
+    {
+      "name": "Financal Accounting",
+      "code": "120",
+      "url": "https://www.studocu.com/row/course/the-copperbelt-university/financal-accounting/4021953"
+    },
+    {
+      "name": "Financial and Management Accounting",
+      "code": "GBS 520",
+      "url": "https://www.studocu.com/row/course/the-copperbelt-university/financial-and-management-accounting/6730637"
+    },
+    {
+      "name": "financial investment",
+      "code": "bs 421",
+      "url": "https://www.studocu.com/row/course/the-copperbelt-university/financial-investment/4473559"
+    },
+    {
+      "name": "FLUID MECHANICS",
+      "code": "EC 311",
+      "url": "https://www.studocu.com/row/course/the-copperbelt-university/fluid-mechanics/3470100"
+    },
+    {
+      "name": "Fluid mechanics",
+      "code": "Ce311",
+      "url": "https://www.studocu.com/row/course/the-copperbelt-university/fluid-mechanics/4832887"
+    },
+    {
+      "name": "Fluid Power Systems",
+      "code": "MC 540",
+      "url": "https://www.studocu.com/row/course/the-copperbelt-university/fluid-power-systems/7473337"
+    },
+    {
+      "name": "Functional Analysis",
+      "code": "M523",
+      "url": "https://www.studocu.com/row/course/the-copperbelt-university/functional-analysis/5130392"
+    },
+    {
+      "name": "fundamental of macro and micro economics",
+      "code": "AS321",
+      "url": "https://www.studocu.com/row/course/the-copperbelt-university/fundamental-of-macro-and-micro-economics/6503233"
+    },
+    {
+      "name": "Heat Engines and Thermodynamics 2",
+      "code": "EM440",
+      "url": "https://www.studocu.com/row/course/the-copperbelt-university/heat-engines-and-thermodynamics-2/7107177"
+    },
+    {
+      "name": "History of Settlements",
+      "code": "ESP 241",
+      "url": "https://www.studocu.com/row/course/the-copperbelt-university/history-of-settlements/7103991"
+    },
+    {
+      "name": "housing development",
+      "code": "ESR510",
+      "url": "https://www.studocu.com/row/course/the-copperbelt-university/housing-development/5315041"
+    },
+    {
+      "name": "Human Resource Planning",
+      "code": "HRM 356",
+      "url": "https://www.studocu.com/row/course/the-copperbelt-university/human-resource-planning/7077983"
+    },
+    {
+      "name": "Human rights and civil liberties",
+      "code": "ls141",
+      "url": "https://www.studocu.com/row/course/the-copperbelt-university/human-rights-and-civil-liberties/6592129"
+    },
+    {
+      "name": "Human Rights and Civil Liberties",
+      "code": "ls 131",
+      "url": "https://www.studocu.com/row/course/the-copperbelt-university/human-rights-and-civil-liberties/6892094"
+    },
+    {
+      "name": "Hydrometallurgy",
+      "code": "MT421",
+      "url": "https://www.studocu.com/row/course/the-copperbelt-university/hydrometallurgy/5303486"
+    },
+    {
+      "name": "Industrial Chemistry",
+      "code": "CE251",
+      "url": "https://www.studocu.com/row/course/the-copperbelt-university/industrial-chemistry/4384320"
+    },
+    {
+      "name": "Inorganic Chemistry",
+      "code": "CH350",
+      "url": "https://www.studocu.com/row/course/the-copperbelt-university/inorganic-chemistry/4542427"
+    },
+    {
+      "name": "integrated production systems",
+      "code": "BSP 430",
+      "url": "https://www.studocu.com/row/course/the-copperbelt-university/integrated-production-systems/5001649"
+    },
+    {
+      "name": "Intellectual Property Law",
+      "code": "LS 320",
+      "url": "https://www.studocu.com/row/course/the-copperbelt-university/intellectual-property-law/6833490"
+    },
+    {
+      "name": "INTERMEDIATE ECONOMIC THEORY",
+      "code": "BS 210",
+      "url": "https://www.studocu.com/row/course/the-copperbelt-university/intermediate-economic-theory/3250290"
+    },
+    {
+      "name": "intro to physics",
+      "code": "ph110",
+      "url": "https://www.studocu.com/row/course/the-copperbelt-university/intro-to-physics/6230522"
+    },
+    {
+      "name": "Introduction to computer science",
+      "code": "CS110",
+      "url": "https://www.studocu.com/row/course/the-copperbelt-university/introduction-to-computer-science/4407073"
+    },
+    {
+      "name": "Introduction to computing",
+      "code": "Cs110",
+      "url": "https://www.studocu.com/row/course/the-copperbelt-university/introduction-to-computing/7658351"
+    },
+    {
+      "name": "Introduction to environmental engineering",
+      "code": "EN211",
+      "url": "https://www.studocu.com/row/course/the-copperbelt-university/introduction-to-environmental-engineering/6755924"
+    },
+    {
+      "name": "Introduction to general Mathematics",
+      "code": "MA 110",
+      "url": "https://www.studocu.com/row/course/the-copperbelt-university/introduction-to-general-mathematics/5874132"
+    },
+    {
+      "name": "Introductory Biology",
+      "code": "Bio 111",
+      "url": "https://www.studocu.com/row/course/the-copperbelt-university/introductory-biology/7373240"
+    },
+    {
+      "name": "Introductory Macroeconomics",
+      "code": "BEC 130",
+      "url": "https://www.studocu.com/row/course/the-copperbelt-university/introductory-macroeconomics/5512200"
+    },
+    {
+      "name": "Introductory Microeconomics",
+      "code": "BEC 130",
+      "url": "https://www.studocu.com/row/course/the-copperbelt-university/introductory-microeconomics/5512194"
+    },
+    {
+      "name": "Investment Law",
+      "code": "LS 461",
+      "url": "https://www.studocu.com/row/course/the-copperbelt-university/investment-law/7458681"
+    },
+    {
+      "name": "Jurisprudence",
+      "code": "LS 411",
+      "url": "https://www.studocu.com/row/course/the-copperbelt-university/jurisprudence/7552158"
+    },
+    {
+      "name": "land law introduction",
+      "code": "LS 210",
+      "url": "https://www.studocu.com/row/course/the-copperbelt-university/land-law-introduction/5293549"
+    },
+    {
+      "name": "Law of contract and tort",
+      "code": "ES340",
+      "url": "https://www.studocu.com/row/course/the-copperbelt-university/law-of-contract-and-tort/3311164"
+    },
+    {
+      "name": "Law of Evidence",
+      "code": "LS 241",
+      "url": "https://www.studocu.com/row/course/the-copperbelt-university/law-of-evidence/5462687"
+    },
+    {
+      "name": "Law of international trade",
+      "code": "Ls 351",
+      "url": "https://www.studocu.com/row/course/the-copperbelt-university/law-of-international-trade/7490470"
+    },
+    {
+      "name": "Legal Aid",
+      "code": "442",
+      "url": "https://www.studocu.com/row/course/the-copperbelt-university/legal-aid/7518463"
+    },
+    {
+      "name": "Legal Context, Skills and Ethics",
+      "code": "LS 131",
+      "url": "https://www.studocu.com/row/course/the-copperbelt-university/legal-context-skills-and-ethics/6615866"
+    },
+    {
+      "name": "Machine design",
+      "code": "Em 411",
+      "url": "https://www.studocu.com/row/course/the-copperbelt-university/machine-design/7072023"
+    },
+    {
+      "name": "managerial economics",
+      "code": "gbs514",
+      "url": "https://www.studocu.com/row/course/the-copperbelt-university/managerial-economics/4446860"
+    },
+    {
+      "name": "Material Science II",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/the-copperbelt-university/material-science-ii/6615971"
+    },
+    {
+      "name": "Mathematical Analysis",
+      "code": "BS 140",
+      "url": "https://www.studocu.com/row/course/the-copperbelt-university/mathematical-analysis/7400014"
+    },
+    {
+      "name": "Mathematical methods",
+      "code": "MA110",
+      "url": "https://www.studocu.com/row/course/the-copperbelt-university/mathematical-methods/7413050"
+    },
+    {
+      "name": "Mathematical methods of physics",
+      "code": "MPH 410",
+      "url": "https://www.studocu.com/row/course/the-copperbelt-university/mathematical-methods-of-physics/3736311"
+    },
+    {
+      "name": "Mathematics Education Project",
+      "code": "MA 400",
+      "url": "https://www.studocu.com/row/course/the-copperbelt-university/mathematics-education-project/3505739"
+    },
+    {
+      "name": "Media and Information law",
+      "code": "LS 330",
+      "url": "https://www.studocu.com/row/course/the-copperbelt-university/media-and-information-law/7023809"
+    },
+    {
+      "name": "Medical Law",
+      "code": "LS 251",
+      "url": "https://www.studocu.com/row/course/the-copperbelt-university/medical-law/6362140"
+    },
+    {
+      "name": "medicine and surgery",
+      "code": "MBChB",
+      "url": "https://www.studocu.com/row/course/the-copperbelt-university/medicine-and-surgery/6391775"
+    },
+    {
+      "name": "Mineral Economics",
+      "code": "MI 441",
+      "url": "https://www.studocu.com/row/course/the-copperbelt-university/mineral-economics/7040250"
+    },
+    {
+      "name": "mining and environmental law",
+      "code": "LS 420",
+      "url": "https://www.studocu.com/row/course/the-copperbelt-university/mining-and-environmental-law/7476851"
+    },
+    {
+      "name": "Mining Engineering",
+      "code": "ME - 02",
+      "url": "https://www.studocu.com/row/course/the-copperbelt-university/mining-engineering/7598376"
+    },
+    {
+      "name": "molecular biology",
+      "code": "mbm 345",
+      "url": "https://www.studocu.com/row/course/the-copperbelt-university/molecular-biology/5174440"
+    },
+    {
+      "name": "Monetary and financial systems",
+      "code": "BF210",
+      "url": "https://www.studocu.com/row/course/the-copperbelt-university/monetary-and-financial-systems/7464248"
+    },
+    {
+      "name": "Natural sciences",
+      "code": "CH110",
+      "url": "https://www.studocu.com/row/course/the-copperbelt-university/natural-sciences/3978096"
+    },
+    {
+      "name": "Network design and technology",
+      "code": "CYS100",
+      "url": "https://www.studocu.com/row/course/the-copperbelt-university/network-design-and-technology/6404679"
+    },
+    {
+      "name": "Obstetrics and gynecology",
+      "code": "MCs 420",
+      "url": "https://www.studocu.com/row/course/the-copperbelt-university/obstetrics-and-gynecology/6049581"
+    },
+    {
+      "name": "Online Education Strategies",
+      "code": "1001",
+      "url": "https://www.studocu.com/row/course/the-copperbelt-university/online-education-strategies/5033034"
+    },
+    {
+      "name": "Operating Systems",
+      "code": "CS225",
+      "url": "https://www.studocu.com/row/course/the-copperbelt-university/operating-systems/7079448"
+    },
+    {
+      "name": "Operations research",
+      "code": "BPS340",
+      "url": "https://www.studocu.com/row/course/the-copperbelt-university/operations-research/6542890"
+    },
+    {
+      "name": "Operative dentistry and Endodontics",
+      "code": "MDCS 500",
+      "url": "https://www.studocu.com/row/course/the-copperbelt-university/operative-dentistry-and-endodontics/6743709"
+    },
+    {
+      "name": "Organic chemistry",
+      "code": "360",
+      "url": "https://www.studocu.com/row/course/the-copperbelt-university/organic-chemistry/4473426"
+    },
+    {
+      "name": "Organic Chemistry",
+      "code": "CH 460",
+      "url": "https://www.studocu.com/row/course/the-copperbelt-university/organic-chemistry/6328912"
+    },
+    {
+      "name": "Organisational Behaviour",
+      "code": "GBS 530",
+      "url": "https://www.studocu.com/row/course/the-copperbelt-university/organisational-behaviour/1943359"
+    },
+    {
+      "name": "Pathology",
+      "code": "MBS200",
+      "url": "https://www.studocu.com/row/course/the-copperbelt-university/pathology/4419155"
+    },
+    {
+      "name": "Pharmacology",
+      "code": "MBS230",
+      "url": "https://www.studocu.com/row/course/the-copperbelt-university/pharmacology/4497466"
+    },
+    {
+      "name": "Philosophy of science",
+      "code": "PHI 2030",
+      "url": "https://www.studocu.com/row/course/the-copperbelt-university/philosophy-of-science/7660083"
+    },
+    {
+      "name": "Physics",
+      "code": "110",
+      "url": "https://www.studocu.com/row/course/the-copperbelt-university/physics/7426715"
+    },
+    {
+      "name": "Physics Teaching Methods",
+      "code": "SCE 310",
+      "url": "https://www.studocu.com/row/course/the-copperbelt-university/physics-teaching-methods/5128191"
+    },
+    {
+      "name": "Political Science",
+      "code": "PS 200",
+      "url": "https://www.studocu.com/row/course/the-copperbelt-university/political-science/7441184"
+    },
+    {
+      "name": "Power System protection",
+      "code": "EE 531",
+      "url": "https://www.studocu.com/row/course/the-copperbelt-university/power-system-protection/4501027"
+    },
+    {
+      "name": "Primary health care",
+      "code": "MBP 220",
+      "url": "https://www.studocu.com/row/course/the-copperbelt-university/primary-health-care/6933372"
+    },
+    {
+      "name": "Principles of economics",
+      "code": "Bs 110",
+      "url": "https://www.studocu.com/row/course/the-copperbelt-university/principles-of-economics/7022420"
+    },
+    {
+      "name": "Principles of Management",
+      "code": "BS150",
+      "url": "https://www.studocu.com/row/course/the-copperbelt-university/principles-of-management/7174487"
+    },
+    {
+      "name": "Project Management",
+      "code": "BSP 470",
+      "url": "https://www.studocu.com/row/course/the-copperbelt-university/project-management/5445167"
+    },
+    {
+      "name": "Public Health",
+      "code": "MCS 210",
+      "url": "https://www.studocu.com/row/course/the-copperbelt-university/public-health/4173593"
+    },
+    {
+      "name": "Quantitative methods",
+      "code": "BS310",
+      "url": "https://www.studocu.com/row/course/the-copperbelt-university/quantitative-methods/4412702"
+    },
+    {
+      "name": "Quantum Mechnics",
+      "code": "PHP310",
+      "url": "https://www.studocu.com/row/course/the-copperbelt-university/quantum-mechnics/6318807"
+    },
+    {
+      "name": "Regulation of financial institutions",
+      "code": "Bf392",
+      "url": "https://www.studocu.com/row/course/the-copperbelt-university/regulation-of-financial-institutions/7635749"
+    },
+    {
+      "name": "Remedies in Private law",
+      "code": "LS161",
+      "url": "https://www.studocu.com/row/course/the-copperbelt-university/remedies-in-private-law/6317900"
+    },
+    {
+      "name": "Renewable energy",
+      "code": "EE 572",
+      "url": "https://www.studocu.com/row/course/the-copperbelt-university/renewable-energy/6283267"
+    },
+    {
+      "name": "Research and Dissertation",
+      "code": "PH 600",
+      "url": "https://www.studocu.com/row/course/the-copperbelt-university/research-and-dissertation/5878786"
+    },
+    {
+      "name": "Research Methods (Education)",
+      "code": "PE 330",
+      "url": "https://www.studocu.com/row/course/the-copperbelt-university/research-methods-education/5173966"
+    },
+    {
+      "name": "Research Methods and statics",
+      "code": "GBS700",
+      "url": "https://www.studocu.com/row/course/the-copperbelt-university/research-methods-and-statics/5320009"
+    },
+    {
+      "name": "Research methods in social sciences",
+      "code": "SDS 2414",
+      "url": "https://www.studocu.com/row/course/the-copperbelt-university/research-methods-in-social-sciences/7660085"
+    },
+    {
+      "name": "Risk Management",
+      "code": "GBS 614",
+      "url": "https://www.studocu.com/row/course/the-copperbelt-university/risk-management/5733877"
+    },
+    {
+      "name": "Robotics",
+      "code": "CSE 497",
+      "url": "https://www.studocu.com/row/course/the-copperbelt-university/robotics/5409102"
+    },
+    {
+      "name": "Rock excavation",
+      "code": "MI450",
+      "url": "https://www.studocu.com/row/course/the-copperbelt-university/rock-excavation/7141873"
+    },
+    {
+      "name": "Rural and Urban Development",
+      "code": "DS 210",
+      "url": "https://www.studocu.com/row/course/the-copperbelt-university/rural-and-urban-development/7636241"
+    },
+    {
+      "name": "separation processes",
+      "code": "CE 480",
+      "url": "https://www.studocu.com/row/course/the-copperbelt-university/separation-processes/5162277"
+    },
+    {
+      "name": "Social",
+      "code": "Bs222",
+      "url": "https://www.studocu.com/row/course/the-copperbelt-university/social/7468120"
+    },
+    {
+      "name": "Software Engineering",
+      "code": "CS 130",
+      "url": "https://www.studocu.com/row/course/the-copperbelt-university/software-engineering/5927119"
+    },
+    {
+      "name": "Soil Mechanics",
+      "code": "EC 470",
+      "url": "https://www.studocu.com/row/course/the-copperbelt-university/soil-mechanics/5335864"
+    },
+    {
+      "name": "Statics and Dynamics",
+      "code": "EG231",
+      "url": "https://www.studocu.com/row/course/the-copperbelt-university/statics-and-dynamics/4122493"
+    },
+    {
+      "name": "Strategic Business Leader",
+      "code": "SBL",
+      "url": "https://www.studocu.com/row/course/the-copperbelt-university/strategic-business-leader/3614545"
+    },
+    {
+      "name": "Strategic Management",
+      "code": "GBS 750",
+      "url": "https://www.studocu.com/row/course/the-copperbelt-university/strategic-management/3847387"
+    },
+    {
+      "name": "Structural Geology",
+      "code": "GM 313",
+      "url": "https://www.studocu.com/row/course/the-copperbelt-university/structural-geology/4522926"
+    },
+    {
+      "name": "Structures I",
+      "code": "EC 330",
+      "url": "https://www.studocu.com/row/course/the-copperbelt-university/structures-i/4384325"
+    },
+    {
+      "name": "Therapeutics and Biochemistry 2",
+      "code": "MBS 330",
+      "url": "https://www.studocu.com/row/course/the-copperbelt-university/therapeutics-and-biochemistry-2/7161731"
+    },
+    {
+      "name": "Thermal Physics",
+      "code": "PH 310",
+      "url": "https://www.studocu.com/row/course/the-copperbelt-university/thermal-physics/4821438"
+    },
+    {
+      "name": "Thinking skills",
+      "code": "BEC120",
+      "url": "https://www.studocu.com/row/course/the-copperbelt-university/thinking-skills/2998169"
+    },
+    {
+      "name": "Trade policy",
+      "code": "BEC 411",
+      "url": "https://www.studocu.com/row/course/the-copperbelt-university/trade-policy/4385727"
+    },
+    {
+      "name": "transportation engineering",
+      "code": "EC541",
+      "url": "https://www.studocu.com/row/course/the-copperbelt-university/transportation-engineering/4355847"
+    },
+    {
+      "name": "Water resources",
+      "code": "EC412",
+      "url": "https://www.studocu.com/row/course/the-copperbelt-university/water-resources/3730856"
+    },
+    {
+      "name": "World Literature",
+      "code": "ENGL 4032",
+      "url": "https://www.studocu.com/row/course/the-copperbelt-university/world-literature/6907512"
+    }
+  ]
+}

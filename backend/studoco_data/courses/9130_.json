@@ -1,0 +1,306 @@
+{
+  "university_id": "9130",
+  "university_name": "國立臺灣科技大學",
+  "courses": [
+    {
+      "name": "Accounting",
+      "code": "FB2800701",
+      "url": "https://www.studocu.com/tw/course/%E5%9C%8B%E7%AB%8B%E8%87%BA%E7%81%A3%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8/accounting/7544268"
+    },
+    {
+      "name": "Advanced Computer Architecture",
+      "code": "CS5104",
+      "url": "https://www.studocu.com/tw/course/%E5%9C%8B%E7%AB%8B%E8%87%BA%E7%81%A3%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8/advanced-computer-architecture/7229455"
+    },
+    {
+      "name": "Advanced Reinforced Concrete Design",
+      "code": "CT3305701",
+      "url": "https://www.studocu.com/tw/course/%E5%9C%8B%E7%AB%8B%E8%87%BA%E7%81%A3%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8/advanced-reinforced-concrete-design/4367013"
+    },
+    {
+      "name": "Big Data analysis",
+      "code": null,
+      "url": "https://www.studocu.com/tw/course/%E5%9C%8B%E7%AB%8B%E8%87%BA%E7%81%A3%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8/big-data-analysis/2927137"
+    },
+    {
+      "name": "Characterization of Material",
+      "code": "TX4115302",
+      "url": "https://www.studocu.com/tw/course/%E5%9C%8B%E7%AB%8B%E8%87%BA%E7%81%A3%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8/characterization-of-material/6602661"
+    },
+    {
+      "name": "Circuit Theory",
+      "code": "ET2104301",
+      "url": "https://www.studocu.com/tw/course/%E5%9C%8B%E7%AB%8B%E8%87%BA%E7%81%A3%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8/circuit-theory/4802881"
+    },
+    {
+      "name": "Civil Engineering",
+      "code": "82138",
+      "url": "https://www.studocu.com/tw/course/%E5%9C%8B%E7%AB%8B%E8%87%BA%E7%81%A3%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8/civil-engineering/1947913"
+    },
+    {
+      "name": "Clustering",
+      "code": "CSS8971",
+      "url": "https://www.studocu.com/tw/course/%E5%9C%8B%E7%AB%8B%E8%87%BA%E7%81%A3%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8/clustering/7767062"
+    },
+    {
+      "name": "computer vision",
+      "code": "taida2022",
+      "url": "https://www.studocu.com/tw/course/%E5%9C%8B%E7%AB%8B%E8%87%BA%E7%81%A3%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8/computer-vision/6979697"
+    },
+    {
+      "name": "Data Structure",
+      "code": "MI3002301",
+      "url": "https://www.studocu.com/tw/course/%E5%9C%8B%E7%AB%8B%E8%87%BA%E7%81%A3%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8/data-structure/6651597"
+    },
+    {
+      "name": "Debt class",
+      "code": "DB400",
+      "url": "https://www.studocu.com/tw/course/%E5%9C%8B%E7%AB%8B%E8%87%BA%E7%81%A3%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8/debt-class/4554160"
+    },
+    {
+      "name": "Differential Equations",
+      "code": "EE2011",
+      "url": "https://www.studocu.com/tw/course/%E5%9C%8B%E7%AB%8B%E8%87%BA%E7%81%A3%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8/differential-equations/4361114"
+    },
+    {
+      "name": "Digital Logic Design",
+      "code": "EC1003",
+      "url": "https://www.studocu.com/tw/course/%E5%9C%8B%E7%AB%8B%E8%87%BA%E7%81%A3%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8/digital-logic-design/3739997"
+    },
+    {
+      "name": "Digital Signal Processing Laboratory",
+      "code": "ET4800301",
+      "url": "https://www.studocu.com/tw/course/%E5%9C%8B%E7%AB%8B%E8%87%BA%E7%81%A3%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8/digital-signal-processing-laboratory/7515342"
+    },
+    {
+      "name": "Discrete Mathematics",
+      "code": "MI4202701",
+      "url": "https://www.studocu.com/tw/course/%E5%9C%8B%E7%AB%8B%E8%87%BA%E7%81%A3%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8/discrete-mathematics/4243019"
+    },
+    {
+      "name": "Dynamics, Mechanical engineering",
+      "code": "ME3100303",
+      "url": "https://www.studocu.com/tw/course/%E5%9C%8B%E7%AB%8B%E8%87%BA%E7%81%A3%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8/dynamics-mechanical-engineering/6574775"
+    },
+    {
+      "name": "Electromagnetism",
+      "code": "EE3201303",
+      "url": "https://www.studocu.com/tw/course/%E5%9C%8B%E7%AB%8B%E8%87%BA%E7%81%A3%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8/electromagnetism/7183922"
+    },
+    {
+      "name": "Finance",
+      "code": "FIN 450119",
+      "url": "https://www.studocu.com/tw/course/%E5%9C%8B%E7%AB%8B%E8%87%BA%E7%81%A3%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8/finance/7374891"
+    },
+    {
+      "name": "Financial Management",
+      "code": "FINM7409",
+      "url": "https://www.studocu.com/tw/course/%E5%9C%8B%E7%AB%8B%E8%87%BA%E7%81%A3%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8/financial-management/7696824"
+    },
+    {
+      "name": "Financial Management",
+      "code": "FN5401701",
+      "url": "https://www.studocu.com/tw/course/%E5%9C%8B%E7%AB%8B%E8%87%BA%E7%81%A3%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8/financial-management/4345689"
+    },
+    {
+      "name": "Heat Transfer",
+      "code": "ME3705301",
+      "url": "https://www.studocu.com/tw/course/%E5%9C%8B%E7%AB%8B%E8%87%BA%E7%81%A3%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8/heat-transfer/4392855"
+    },
+    {
+      "name": "human geography",
+      "code": "Hum 0123",
+      "url": "https://www.studocu.com/tw/course/%E5%9C%8B%E7%AB%8B%E8%87%BA%E7%81%A3%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8/human-geography/7354780"
+    },
+    {
+      "name": "Integrating Technology into Instruction",
+      "code": "VE5210701",
+      "url": "https://www.studocu.com/tw/course/%E5%9C%8B%E7%AB%8B%E8%87%BA%E7%81%A3%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8/integrating-technology-into-instruction/6611781"
+    },
+    {
+      "name": "Intelligent Control Systems",
+      "code": "ME5500701",
+      "url": "https://www.studocu.com/tw/course/%E5%9C%8B%E7%AB%8B%E8%87%BA%E7%81%A3%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8/intelligent-control-systems/5404472"
+    },
+    {
+      "name": "International Business",
+      "code": "MA7600701",
+      "url": "https://www.studocu.com/tw/course/%E5%9C%8B%E7%AB%8B%E8%87%BA%E7%81%A3%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8/international-business/5174176"
+    },
+    {
+      "name": "Introduction to Business Techonology",
+      "code": "ITP 101",
+      "url": "https://www.studocu.com/tw/course/%E5%9C%8B%E7%AB%8B%E8%87%BA%E7%81%A3%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8/introduction-to-business-techonology/6929094"
+    },
+    {
+      "name": "laminar flow",
+      "code": "1135135",
+      "url": "https://www.studocu.com/tw/course/%E5%9C%8B%E7%AB%8B%E8%87%BA%E7%81%A3%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8/laminar-flow/5851631"
+    },
+    {
+      "name": "Literature and Cinema",
+      "code": "TCG034301",
+      "url": "https://www.studocu.com/tw/course/%E5%9C%8B%E7%AB%8B%E8%87%BA%E7%81%A3%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8/literature-and-cinema/6179940"
+    },
+    {
+      "name": "Management Information System",
+      "code": null,
+      "url": "https://www.studocu.com/tw/course/%E5%9C%8B%E7%AB%8B%E8%87%BA%E7%81%A3%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8/management-information-system/6629078"
+    },
+    {
+      "name": "Mandarin Level 2",
+      "code": "FE1042702",
+      "url": "https://www.studocu.com/tw/course/%E5%9C%8B%E7%AB%8B%E8%87%BA%E7%81%A3%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8/mandarin-level-2/6653459"
+    },
+    {
+      "name": "Marketing data science",
+      "code": "BA4717701",
+      "url": "https://www.studocu.com/tw/course/%E5%9C%8B%E7%AB%8B%E8%87%BA%E7%81%A3%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8/marketing-data-science/4536874"
+    },
+    {
+      "name": "Mechanical Engineering",
+      "code": "ME",
+      "url": "https://www.studocu.com/tw/course/%E5%9C%8B%E7%AB%8B%E8%87%BA%E7%81%A3%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8/mechanical-engineering/3211198"
+    },
+    {
+      "name": "Non-linear programming",
+      "code": null,
+      "url": "https://www.studocu.com/tw/course/%E5%9C%8B%E7%AB%8B%E8%87%BA%E7%81%A3%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8/non-linear-programming/2918122"
+    },
+    {
+      "name": "Operating System",
+      "code": "CS3009302",
+      "url": "https://www.studocu.com/tw/course/%E5%9C%8B%E7%AB%8B%E8%87%BA%E7%81%A3%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8/operating-system/5710725"
+    },
+    {
+      "name": "Optimal Design",
+      "code": "ME5209701",
+      "url": "https://www.studocu.com/tw/course/%E5%9C%8B%E7%AB%8B%E8%87%BA%E7%81%A3%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8/optimal-design/7149297"
+    },
+    {
+      "name": "Probability and Statistic",
+      "code": null,
+      "url": "https://www.studocu.com/tw/course/%E5%9C%8B%E7%AB%8B%E8%87%BA%E7%81%A3%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8/probability-and-statistic/3222788"
+    },
+    {
+      "name": "Product Ddesign and Development",
+      "code": "IM6602701",
+      "url": "https://www.studocu.com/tw/course/%E5%9C%8B%E7%AB%8B%E8%87%BA%E7%81%A3%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8/product-ddesign-and-development/4370735"
+    },
+    {
+      "name": "Programming languages",
+      "code": "CS4001301",
+      "url": "https://www.studocu.com/tw/course/%E5%9C%8B%E7%AB%8B%E8%87%BA%E7%81%A3%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8/programming-languages/4338522"
+    },
+    {
+      "name": "Psychological Foundations in H. F. Engineering",
+      "code": "IM7301701",
+      "url": "https://www.studocu.com/tw/course/%E5%9C%8B%E7%AB%8B%E8%87%BA%E7%81%A3%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8/psychological-foundations-in-h-f-engineering/6079709"
+    },
+    {
+      "name": "Research",
+      "code": "RA7001",
+      "url": "https://www.studocu.com/tw/course/%E5%9C%8B%E7%AB%8B%E8%87%BA%E7%81%A3%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8/research/5708819"
+    },
+    {
+      "name": "robotics",
+      "code": "ME5609710",
+      "url": "https://www.studocu.com/tw/course/%E5%9C%8B%E7%AB%8B%E8%87%BA%E7%81%A3%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8/robotics/7209389"
+    },
+    {
+      "name": "semiconductor physics and devices",
+      "code": "20221129",
+      "url": "https://www.studocu.com/tw/course/%E5%9C%8B%E7%AB%8B%E8%87%BA%E7%81%A3%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8/semiconductor-physics-and-devices/5836356"
+    },
+    {
+      "name": "Social Sciences",
+      "code": "B246",
+      "url": "https://www.studocu.com/tw/course/%E5%9C%8B%E7%AB%8B%E8%87%BA%E7%81%A3%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8/social-sciences/7174335"
+    },
+    {
+      "name": "Supply Chain Management",
+      "code": "1",
+      "url": "https://www.studocu.com/tw/course/%E5%9C%8B%E7%AB%8B%E8%87%BA%E7%81%A3%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8/supply-chain-management/3223972"
+    },
+    {
+      "name": "Thermaldynamics of Material",
+      "code": "TDM123",
+      "url": "https://www.studocu.com/tw/course/%E5%9C%8B%E7%AB%8B%E8%87%BA%E7%81%A3%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8/thermaldynamics-of-material/6483271"
+    },
+    {
+      "name": "Urdu Language",
+      "code": "101",
+      "url": "https://www.studocu.com/tw/course/%E5%9C%8B%E7%AB%8B%E8%87%BA%E7%81%A3%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8/urdu-language/7188987"
+    },
+    {
+      "name": "Valuation",
+      "code": "VAL 303",
+      "url": "https://www.studocu.com/tw/course/%E5%9C%8B%E7%AB%8B%E8%87%BA%E7%81%A3%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8/valuation/7374884"
+    },
+    {
+      "name": "VICd sdfvdfvsdfv",
+      "code": "65656",
+      "url": "https://www.studocu.com/tw/course/%E5%9C%8B%E7%AB%8B%E8%87%BA%E7%81%A3%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8/vicd-sdfvdfvsdfv/4514387"
+    },
+    {
+      "name": "半導體元件理論",
+      "code": "EO5400701",
+      "url": "https://www.studocu.com/tw/course/%E5%9C%8B%E7%AB%8B%E8%87%BA%E7%81%A3%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8/%E5%8D%8A%E5%B0%8E%E9%AB%94%E5%85%83%E4%BB%B6%E7%90%86%E8%AB%96/5706974"
+    },
+    {
+      "name": "品質管理",
+      "code": "IM4704301",
+      "url": "https://www.studocu.com/tw/course/%E5%9C%8B%E7%AB%8B%E8%87%BA%E7%81%A3%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8/%E5%93%81%E8%B3%AA%E7%AE%A1%E7%90%86/7210422"
+    },
+    {
+      "name": "應用機率模型",
+      "code": "IM7103701",
+      "url": "https://www.studocu.com/tw/course/%E5%9C%8B%E7%AB%8B%E8%87%BA%E7%81%A3%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8/%E6%87%89%E7%94%A8%E6%A9%9F%E7%8E%87%E6%A8%A1%E5%9E%8B/6092426"
+    },
+    {
+      "name": "智慧財產與行銷策略",
+      "code": "Intellectual Propert",
+      "url": "https://www.studocu.com/tw/course/%E5%9C%8B%E7%AB%8B%E8%87%BA%E7%81%A3%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8/%E6%99%BA%E6%85%A7%E8%B2%A1%E7%94%A2%E8%88%87%E8%A1%8C%E9%8A%B7%E7%AD%96%E7%95%A5/3240800"
+    },
+    {
+      "name": "有機化學",
+      "code": "CH213B002",
+      "url": "https://www.studocu.com/tw/course/%E5%9C%8B%E7%AB%8B%E8%87%BA%E7%81%A3%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8/%E6%9C%89%E6%A9%9F%E5%8C%96%E5%AD%B8/6821665"
+    },
+    {
+      "name": "期貨與選擇權",
+      "code": "FN00001",
+      "url": "https://www.studocu.com/tw/course/%E5%9C%8B%E7%AB%8B%E8%87%BA%E7%81%A3%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8/%E6%9C%9F%E8%B2%A8%E8%88%87%E9%81%B8%E6%93%87%E6%AC%8A/5291973"
+    },
+    {
+      "name": "材料熱力學",
+      "code": "GD4117301",
+      "url": "https://www.studocu.com/tw/course/%E5%9C%8B%E7%AB%8B%E8%87%BA%E7%81%A3%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8/%E6%9D%90%E6%96%99%E7%86%B1%E5%8A%9B%E5%AD%B8/5727536"
+    },
+    {
+      "name": "機械業之企業發展與策略管理",
+      "code": "ME5914301",
+      "url": "https://www.studocu.com/tw/course/%E5%9C%8B%E7%AB%8B%E8%87%BA%E7%81%A3%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8/%E6%A9%9F%E6%A2%B0%E6%A5%AD%E4%B9%8B%E4%BC%81%E6%A5%AD%E7%99%BC%E5%B1%95%E8%88%87%E7%AD%96%E7%95%A5%E7%AE%A1%E7%90%86/4827028"
+    },
+    {
+      "name": "科技法 Technology Law",
+      "code": "ME5914301",
+      "url": "https://www.studocu.com/tw/course/%E5%9C%8B%E7%AB%8B%E8%87%BA%E7%81%A3%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8/%E7%A7%91%E6%8A%80%E6%B3%95-technology-law/4854393"
+    },
+    {
+      "name": "設計Microsoft Azure 基礎結構解決方案",
+      "code": "AZ305",
+      "url": "https://www.studocu.com/tw/course/%E5%9C%8B%E7%AB%8B%E8%87%BA%E7%81%A3%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8/%E8%A8%AD%E8%A8%88microsoft-azure-%E5%9F%BA%E7%A4%8E%E7%B5%90%E6%A7%8B%E8%A7%A3%E6%B1%BA%E6%96%B9%E6%A1%88/6756763"
+    },
+    {
+      "name": "金融市場與機構",
+      "code": "FB2200701",
+      "url": "https://www.studocu.com/tw/course/%E5%9C%8B%E7%AB%8B%E8%87%BA%E7%81%A3%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8/%E9%87%91%E8%9E%8D%E5%B8%82%E5%A0%B4%E8%88%87%E6%A9%9F%E6%A7%8B/4599263"
+    },
+    {
+      "name": "電子學",
+      "code": "EE2217302",
+      "url": "https://www.studocu.com/tw/course/%E5%9C%8B%E7%AB%8B%E8%87%BA%E7%81%A3%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8/%E9%9B%BB%E5%AD%90%E5%AD%B8/6466367"
+    }
+  ]
+}

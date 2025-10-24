@@ -16,6 +16,7 @@ import {
   DEFAULT_IMAGE_URL,
 } from '@/constants/cardDefaults';
 import { createCard } from '@/utils/cardFactory';
+import { toast } from '@/hooks/use-toast';
 import { updateConnectionLines } from '@/utils/connectionHandles';
 import { CardData } from '@/types/canvas';
 
@@ -73,7 +74,7 @@ export const useCardCanvas = (graphId?: number | null) => {
           canvas.remove(frame);
           selectionFramesRef.current.delete(cardId);
         }
-      } catch {}
+      } catch { }
 
       const handles = cardHandlesRef.current.get(cardId);
       if (handles) {
@@ -253,7 +254,7 @@ export const useCardCanvas = (graphId?: number | null) => {
         // Ensure the selection is still draggable even without visible group box
         (fabric.ActiveSelection.prototype as any).perPixelTargetFind = true;
       }
-    } catch {}
+    } catch { }
 
     const canvas = new fabric.Canvas(canvasRef.current, {
       width: containerRef.current.clientWidth,
@@ -296,7 +297,7 @@ export const useCardCanvas = (graphId?: number | null) => {
       try {
         selectionFramesRef.current.forEach((r) => canvas.remove(r));
         selectionFramesRef.current.clear();
-      } catch {}
+      } catch { }
       setSelectedCardIds([]);
       setMultiSelectAnchor(null);
       canvas.dispose();
@@ -314,6 +315,20 @@ export const useCardCanvas = (graphId?: number | null) => {
       selectionFramesRef.current.clear();
       setSelectedCardIds([]);
       setMultiSelectAnchor(null);
+      // Hide Fact Check on all cards when nothing selected
+      try {
+        cardGroupsRef.current.forEach((group) => {
+          try {
+            const objs: any[] = Array.isArray((group as any)._objects) ? (group as any)._objects : [];
+            const fb = objs.find((o: any) => !!o?.isFactCheckButton);
+            const fg = objs.find((o: any) => !!o?.isFactCheckGlyph);
+            const fl = objs.find((o: any) => !!o?.isFactCheckLabel);
+            if (fb) (fb as any).set({ visible: false });
+            if (fg) (fg as any).set({ visible: false });
+            if (fl) (fl as any).set({ visible: false });
+          } catch { }
+        });
+      } catch { }
       fabricCanvas.requestRenderAll();
       return;
     }
@@ -333,6 +348,22 @@ export const useCardCanvas = (graphId?: number | null) => {
         selectionFramesRef.current.delete(id);
       }
     }
+
+    // Toggle Fact Check visibility for each card based on selection
+    try {
+      cardGroupsRef.current.forEach((group, gid) => {
+        try {
+          const objs: any[] = Array.isArray((group as any)._objects) ? (group as any)._objects : [];
+          const fb = objs.find((o: any) => !!o?.isFactCheckButton);
+          const fg = objs.find((o: any) => !!o?.isFactCheckGlyph);
+          const fl = objs.find((o: any) => !!o?.isFactCheckLabel);
+          const vis = selectedIds.has(gid);
+          if (fb) { (fb as any).set({ visible: vis }); if (vis) fabricCanvas.bringObjectToFront(fb as any); }
+          if (fg) { (fg as any).set({ visible: vis }); if (vis) fabricCanvas.bringObjectToFront(fg as any); }
+          if (fl) { (fl as any).set({ visible: vis }); if (vis) fabricCanvas.bringObjectToFront(fl as any); }
+        } catch { }
+      });
+    } catch { }
 
     // Ensure/update frames for selected cards
     selectedIds.forEach((id) => {
@@ -413,23 +444,37 @@ export const useCardCanvas = (graphId?: number | null) => {
     }
 
     // Keep handles above frames
-    try { bringHandlesToFront(fabricCanvas, cardHandlesRef); } catch {}
+    try { bringHandlesToFront(fabricCanvas, cardHandlesRef); } catch { }
     fabricCanvas.requestRenderAll();
   }, [fabricCanvas, cardGroupsRef, cardHandlesRef]);
 
-  // Open editor when the edit button on a card is clicked
+  // Open editor / trigger actions when in-card buttons are clicked
   useEffect(() => {
     if (!fabricCanvas) return;
     const handleMouseDown = (opt: any) => {
+      // Only react to primary button (left click) for in-card UI actions
+      const evt: MouseEvent | undefined = opt?.e as MouseEvent | undefined;
+      if (!evt || evt.button !== 0) return;
       // Check subTargets first for the edit button
       const sub = (opt as any).subTargets as any[] | undefined;
-      const clicked = (sub && sub.find?.((o: any) => o?.isEditButton)) || (opt as any).target;
-      if (!clicked || !(clicked as any).isEditButton) return;
+      const clicked = (sub && sub.find?.((o: any) => (o?.isEditButton || o?.isFactCheckButton || o?.isFactCheckGlyph || o?.isFactCheckLabel))) || (opt as any).target;
+      if (!clicked) return;
 
       // Parent group holds the cardId
       const parent = (clicked as any).group as (fabric.Group & { cardId?: string }) | undefined;
       const id = (parent as any)?.cardId as string | undefined;
       if (!id) return;
+
+      // Fact Check button
+      if ((clicked as any).isFactCheckButton || (clicked as any).isFactCheckGlyph || (clicked as any).isFactCheckLabel) {
+        try {
+          toast({ description: 'Running fact check for this card…' });
+        } catch { }
+        return;
+      }
+
+      // Edit button
+      if (!(clicked as any).isEditButton) return;
       const texts = cardTextRefs.current.get(id);
       const cg = cardGroupsRef.current.get(id);
       if (!cg) return;
@@ -482,7 +527,11 @@ export const useCardCanvas = (graphId?: number | null) => {
       const background = objs?.find?.((o) => (o as any).isBackground) || null;
       const editBtn = objs?.find?.((o) => (o as any).isEditButton) || null;
       const editGlyph = objs?.find?.((o) => (o as any).isEditGlyph) || null;
+      const factBtn = objs?.find?.((o) => (o as any).isFactCheckButton) || null;
+      const factGlyph = objs?.find?.((o) => (o as any).isFactCheckGlyph) || null;
+      const factLabel = objs?.find?.((o) => (o as any).isFactCheckLabel) || null;
       const btnSize = 22, btnPad = 8;
+      const factW = 110, factH = 22;
 
       // Determine if size changed BEFORE touching text (for stable widths)
       const prevW = (background as any)?.width as number | undefined;
@@ -522,6 +571,9 @@ export const useCardCanvas = (graphId?: number | null) => {
       if (hover && sizeChanged) hover.set({ width: editWidth + 2 * 25, height: editHeight + 2 * 25, left: -25, top: -25 });
       if (editBtn && sizeChanged) (editBtn as any).set({ left: editWidth - btnSize - btnPad, top: btnPad });
       if (editGlyph && sizeChanged) (editGlyph as any).set({ left: editWidth - btnSize - btnPad + 5, top: btnPad + 2 });
+      if (factBtn && sizeChanged) (factBtn as any).set({ left: editWidth - factW - btnPad, top: editHeight - factH - btnPad });
+      if (factGlyph && sizeChanged) (factGlyph as any).set({ left: editWidth - factW - btnPad + 8, top: editHeight - factH - btnPad + 2 });
+      if (factLabel && sizeChanged) (factLabel as any).set({ left: editWidth - factW - btnPad + 28, top: editHeight - factH - btnPad + 3 });
       (group as any).cardWidth = editWidth;
       (group as any).cardHeight = editHeight;
       // Keep group origin stable — avoid recalculating bounds which can shift children
@@ -727,7 +779,7 @@ export const useCardCanvas = (graphId?: number | null) => {
             setEditHeight(curH);
             setEditMode('create');
             setEditOpen(true);
-          } catch {}
+          } catch { }
         }
       } catch (err) {
         console.error('Create note error:', err);
@@ -821,11 +873,43 @@ export const useCardCanvas = (graphId?: number | null) => {
         const note = custom.detail;
         if (!note) return;
         void addExistingNoteToCanvas(note);
-      } catch {}
+      } catch { }
     };
     window.addEventListener('learnable-note-added', handler as EventListener);
     return () => window.removeEventListener('learnable-note-added', handler as EventListener);
   }, [addExistingNoteToCanvas]);
+
+
+
+  // ✅ Live refresh of connection colors after AI analysis
+  useEffect(() => {
+    const handler = async (e: Event) => {
+      const { graphId: analyzedGraphId } = (e as CustomEvent<any>).detail || {};
+      if (!graphId || analyzedGraphId !== graphId || !fabricCanvas) return;
+
+      try {
+        const token = localStorage.getItem('learnableToken');
+        const res = await fetch(`${apiBaseUrl}/api/graph/connections?graph_id=${graphId}`, {
+          headers: { Authorization: `Bearer ${token}` },
+        });
+        if (!res.ok) return;
+        const connections = await res.json();
+
+        // ✅ Redraw connections with new strengths/colors
+        drawConnections(fabricCanvas, cardsRef, cardHandlesRef, connectionLinesRef, connections);
+        bringHandlesToFront(fabricCanvas, cardHandlesRef);
+        fabricCanvas.requestRenderAll();
+
+        console.info('✅ Graph connections refreshed after AI analysis');
+      } catch (err) {
+        console.error('Failed to refresh graph connections:', err);
+      }
+    };
+
+    window.addEventListener('learnable-graph-analyzed', handler);
+    return () => window.removeEventListener('learnable-graph-analyzed', handler);
+  }, [graphId, fabricCanvas, apiBaseUrl, cardsRef, cardHandlesRef, connectionLinesRef]);
+
 
 
   return useMemo(

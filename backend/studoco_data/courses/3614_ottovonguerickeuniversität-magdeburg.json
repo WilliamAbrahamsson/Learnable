@@ -1,0 +1,2421 @@
+{
+  "university_id": "3614",
+  "university_name": "Otto-von-Guericke-Universität Magdeburg",
+  "courses": [
+    {
+      "name": "Academic Skills",
+      "code": "41061",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/academic-skills/7280302"
+    },
+    {
+      "name": "Adaptronik",
+      "code": "Adaptronik",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/adaptronik/1723564"
+    },
+    {
+      "name": "Advanced International Corporate Strategy",
+      "code": "22552",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/advanced-international-corporate-strategy/4362037"
+    },
+    {
+      "name": "Advanced Labor Economics",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/advanced-labor-economics/1723898"
+    },
+    {
+      "name": "Advanced Marketing Research",
+      "code": "21163",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/advanced-marketing-research/4359453"
+    },
+    {
+      "name": "Advanced Topics in Machine Learning",
+      "code": "ATiML",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/advanced-topics-in-machine-learning/1723587"
+    },
+    {
+      "name": "Aktivitätsanalyse und Kostenbewertung",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/aktivitatsanalyse-und-kostenbewertung/1723902"
+    },
+    {
+      "name": "Algorithmen und Datenstrukturen",
+      "code": "Tut AuD",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/algorithmen-und-datenstrukturen/1723872"
+    },
+    {
+      "name": "Allgemeine Elektrotechnik 1",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/allgemeine-elektrotechnik-1/1723903"
+    },
+    {
+      "name": "Allgemeine Elektrotechnik 2",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/allgemeine-elektrotechnik-2/1723904"
+    },
+    {
+      "name": "Allgemeine Pathologie",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/allgemeine-pathologie/1723905"
+    },
+    {
+      "name": "Allgemeine Psychologie I",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/allgemeine-psychologie-i/1723907"
+    },
+    {
+      "name": "Allgemeine Psychologie II",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/allgemeine-psychologie-ii/1723908"
+    },
+    {
+      "name": "Allgemeinmedizin",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/allgemeinmedizin/1723909"
+    },
+    {
+      "name": "Analysis I",
+      "code": "Ana1",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/analysis-i/1723573"
+    },
+    {
+      "name": "Analysis II",
+      "code": "Ana II",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/analysis-ii/1723572"
+    },
+    {
+      "name": "Analysis III",
+      "code": "Ana3",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/analysis-iii/1723575"
+    },
+    {
+      "name": "Analytische Transmissionselektronenmikroskopie",
+      "code": "V",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/analytische-transmissionselektronenmikroskopie/1723875"
+    },
+    {
+      "name": "Anatomie",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/anatomie/1723912"
+    },
+    {
+      "name": "Angewandte Konstruktionselemente",
+      "code": "AKT",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/angewandte-konstruktionselemente/3469767"
+    },
+    {
+      "name": "Angewandte Planung in Produktion und Logistik",
+      "code": "APiPuL",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/angewandte-planung-in-produktion-und-logistik/3154633"
+    },
+    {
+      "name": "Angewandte Produktentwicklung und Industriedesign",
+      "code": "API",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/angewandte-produktentwicklung-und-industriedesign/2998423"
+    },
+    {
+      "name": "Anlagenbau",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/anlagenbau/1723913"
+    },
+    {
+      "name": "Anorganische Chemie",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/anorganische-chemie/1723914"
+    },
+    {
+      "name": "Anorganische und Allgemeine Chemie",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/anorganische-und-allgemeine-chemie/1723915"
+    },
+    {
+      "name": "Anorganische und Organische Chemie für WVET",
+      "code": "AOC",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/anorganische-und-organische-chemie-fur-wvet/1723577"
+    },
+    {
+      "name": "Anwendungssysteme",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/anwendungssysteme/3008109"
+    },
+    {
+      "name": "Apparatetechnik",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/apparatetechnik/1723916"
+    },
+    {
+      "name": "Arabisch, A1",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/arabisch-a1/1723583"
+    },
+    {
+      "name": "Arbeits- und Organisationspsychologie II",
+      "code": "AO-Psy II",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/arbeits-und-organisationspsychologie-ii/1723578"
+    },
+    {
+      "name": "Arbeits-und Organisationspsychologie I",
+      "code": "AO-PsyI-V",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/arbeits-und-organisationspsychologie-i/1723579"
+    },
+    {
+      "name": "Arbeitsmarktökonomik I",
+      "code": "Aöko",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/arbeitsmarktokonomik-i/3160152"
+    },
+    {
+      "name": "Arbeitsmedizin",
+      "code": "IAM",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/arbeitsmedizin/3145408"
+    },
+    {
+      "name": "Arbeitssystemplanung",
+      "code": "AsyPlan-V",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/arbeitssystemplanung/1723586"
+    },
+    {
+      "name": "Astronomie",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/astronomie/1723918"
+    },
+    {
+      "name": "Atom-, Molekül- und Kernphysik",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/atom-molekul-und-kernphysik/1723919"
+    },
+    {
+      "name": "Augenheilkunde",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/augenheilkunde/1723920"
+    },
+    {
+      "name": "Ausgewählte Themenfelder der Arbeits- und Organisationsgestaltung",
+      "code": "AG/OG-V",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/ausgewahlte-themenfelder-der-arbeits-und-organisationsgestaltung/1723566"
+    },
+    {
+      "name": "Automation/Modelling",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/automationmodelling/7645051"
+    },
+    {
+      "name": "Ältere deutsche Literatur",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/altere-deutsche-literatur/1723910"
+    },
+    {
+      "name": "Behavioral Finance",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/behavioral-finance/1723924"
+    },
+    {
+      "name": "Berufliche Didaktik",
+      "code": "BeDi 2022",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/berufliche-didaktik/5793197"
+    },
+    {
+      "name": "Beschaffungsprozessmanagement",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/beschaffungsprozessmanagement/2844371"
+    },
+    {
+      "name": "Besteuerung von Umwandlungen",
+      "code": "FWW22",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/besteuerung-von-umwandlungen/6072199"
+    },
+    {
+      "name": "Betriebliches Rechnungswesen",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/betriebliches-rechnungswesen/1723928"
+    },
+    {
+      "name": "Betriebsorganisation (Vorlesung)",
+      "code": "BO-V",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/betriebsorganisation-vorlesung/1723594"
+    },
+    {
+      "name": "Bewegungswissenschaftliche Grundlagen/Sportmotorik Basic of Movement Science / Motor control, Motor learning",
+      "code": "Sportmotor",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/bewegungswissenschaftliche-grundlagensportmotorik-basic-of-movement-science-motor-control-motor-learning/1723849"
+    },
+    {
+      "name": "Big Data Anwendung",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/big-data-anwendung/4273474"
+    },
+    {
+      "name": "Bildung und soziale Ungleichheit",
+      "code": "907199",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/bildung-und-soziale-ungleichheit/6681354"
+    },
+    {
+      "name": "Biochemie",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/biochemie/1723929"
+    },
+    {
+      "name": "Bioinformatik",
+      "code": "BioInf",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/bioinformatik/1723591"
+    },
+    {
+      "name": "Biologische Psychologie",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/biologische-psychologie/1723931"
+    },
+    {
+      "name": "Biologische Psychologie II",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/biologische-psychologie-ii/2735454"
+    },
+    {
+      "name": "Biomechanik und Sportmotorik",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/biomechanik-und-sportmotorik/1723933"
+    },
+    {
+      "name": "Business Administration",
+      "code": "BBA",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/business-administration/1723589"
+    },
+    {
+      "name": "Business Decision Analysis",
+      "code": "11057",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/business-decision-analysis/3322079"
+    },
+    {
+      "name": "Business Decision Making",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/business-decision-making/1723935"
+    },
+    {
+      "name": "Business Planning",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/business-planning/1723936"
+    },
+    {
+      "name": "Business Statistics",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/business-statistics/1723937"
+    },
+    {
+      "name": "BWL für Ingenieure",
+      "code": "BWLIng.",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/bwl-fur-ingenieure/1723596"
+    },
+    {
+      "name": "Bürgerliches Recht",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/burgerliches-recht/1723934"
+    },
+    {
+      "name": "Chemie",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/chemie/1723939"
+    },
+    {
+      "name": "Chemie der Brände und Löschmittel",
+      "code": "BLM",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/chemie-der-brande-und-loschmittel/1723593"
+    },
+    {
+      "name": "Chemie für Mediziner",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/chemie-fur-mediziner/1723940"
+    },
+    {
+      "name": "Chemie für Physiker",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/chemie-fur-physiker/1723941"
+    },
+    {
+      "name": "Chemische Analyse/Struktur und Gefüge",
+      "code": "CASG",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/chemische-analysestruktur-und-gefuge/1723600"
+    },
+    {
+      "name": "Chemistry",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/chemistry/1723945"
+    },
+    {
+      "name": "CNC-Programmierung",
+      "code": "CNC-PR",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/cnc-programmierung/1723610"
+    },
+    {
+      "name": "Collective Decision Making in Organizations",
+      "code": "CDMO2023",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/collective-decision-making-in-organizations/6280170"
+    },
+    {
+      "name": "Computational Fluid Dynamics",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/computational-fluid-dynamics/1723947"
+    },
+    {
+      "name": "Computational Neuroscience II",
+      "code": "CNS II 2021",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/computational-neuroscience-ii/5376491"
+    },
+    {
+      "name": "Computergestützte Diagnose und Therapie",
+      "code": "CDT1",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/computergestutzte-diagnose-und-therapie/7048239"
+    },
+    {
+      "name": "Consumer Research",
+      "code": "22989",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/consumer-research/5211528"
+    },
+    {
+      "name": "Continuum mechanics of gradient materials",
+      "code": "CMGM",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/continuum-mechanics-of-gradient-materials/1723608"
+    },
+    {
+      "name": "Corporate Finance",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/corporate-finance/1723950"
+    },
+    {
+      "name": "Corporate Governance, Compliance und Konzernrecht",
+      "code": "CG (20309)",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/corporate-governance-compliance-und-konzernrecht/1723604"
+    },
+    {
+      "name": "DaF, A1.1",
+      "code": "DaF A1.1",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/daf-a11/1723618"
+    },
+    {
+      "name": "DaF, B2, Sommerkurs",
+      "code": "DaF B2 SK",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/daf-b2-sommerkurs/1723626"
+    },
+    {
+      "name": "Das Recht der Unternehmensfinanzierung und das Kapitalmarktrecht",
+      "code": "20196",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/das-recht-der-unternehmensfinanzierung-und-das-kapitalmarktrecht/6093971"
+    },
+    {
+      "name": "Data Management for Engineering Applications",
+      "code": "DMEA",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/data-management-for-engineering-applications/1723649"
+    },
+    {
+      "name": "Data Mining",
+      "code": "DM4BA",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/data-mining/1723648"
+    },
+    {
+      "name": "Data-Warehouse-Technologien",
+      "code": "DWT",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/data-warehouse-technologien/1723653"
+    },
+    {
+      "name": "Datenbanken",
+      "code": "DB I",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/datenbanken/1723634"
+    },
+    {
+      "name": "Datenbanken 1 (Database Concepts)",
+      "code": "DB1_en",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/datenbanken-1-database-concepts/1723636"
+    },
+    {
+      "name": "Datenbanken II",
+      "code": "DB II",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/datenbanken-ii/1723635"
+    },
+    {
+      "name": "Datenbanksysteme 1",
+      "code": "DBS1",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/datenbanksysteme-1/4333617"
+    },
+    {
+      "name": "Datenmanagement",
+      "code": "DM",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/datenmanagement/1723647"
+    },
+    {
+      "name": "Dermatologie",
+      "code": "-",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/dermatologie/4293086"
+    },
+    {
+      "name": "Deskriptive Statistik und Wahrscheinlichkeitstheorie - B.1",
+      "code": "Statistik",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/deskriptive-statistik-und-wahrscheinlichkeitstheorie-b1/1723854"
+    },
+    {
+      "name": "Deutsch als Fremd-/Zweitsprache: Laut und Schrift - Phoneme and Script",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/deutsch-als-fremd-zweitsprache-laut-und-schrift-phoneme-and-script/1723951"
+    },
+    {
+      "name": "Deutsches und internationales Wirtschaftsrecht",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/deutsches-und-internationales-wirtschaftsrecht/1727143"
+    },
+    {
+      "name": "Deutschtutorium",
+      "code": "FKFM",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/deutschtutorium/1723700"
+    },
+    {
+      "name": "Dezentrale Unternehmenssteuerung",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/dezentrale-unternehmenssteuerung/1723952"
+    },
+    {
+      "name": "Diagnostik",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/diagnostik/1723953"
+    },
+    {
+      "name": "Diagnostische Verfahren: Interview und Beobachtung",
+      "code": "200031",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/diagnostische-verfahren-interview-und-beobachtung/5046836"
+    },
+    {
+      "name": "Didaktik des Mathematikunterrichts in S II (Fachdidaktik Mathematik II)",
+      "code": "FDMath-SII",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/didaktik-des-mathematikunterrichts-in-s-ii-fachdidaktik-mathematik-ii/1723698"
+    },
+    {
+      "name": "Differentielle und Persönlichkeitspsychologie 1 - K.1",
+      "code": "DiffPsy1-M",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/differentielle-und-personlichkeitspsychologie-1-k1/1723641"
+    },
+    {
+      "name": "Differentielle und Persönlichkeitspsychologie 2 - K.2",
+      "code": "DiffPsy2-M",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/differentielle-und-personlichkeitspsychologie-2-k2/1723642"
+    },
+    {
+      "name": "Differenzielle Lern- und Bildungssettings I",
+      "code": "DLB I",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/differenzielle-lern-und-bildungssettings-i/1723645"
+    },
+    {
+      "name": "Digitale Medien",
+      "code": "DiMe",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/digitale-medien/1723643"
+    },
+    {
+      "name": "Digitale Netze / Nachrichtenvermittlung II",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/digitale-netze-nachrichtenvermittlung-ii/1723956"
+    },
+    {
+      "name": "Digitale Produktionstechnik",
+      "code": "DPT",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/digitale-produktionstechnik/1723651"
+    },
+    {
+      "name": "Distributed Data Management",
+      "code": "DDM",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/distributed-data-management/1723639"
+    },
+    {
+      "name": "Economics of Growth",
+      "code": "20305",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/economics-of-growth/4355824"
+    },
+    {
+      "name": "Einführung in das wissenschaftliche Arbeiten",
+      "code": "TEwA",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/einfuhrung-in-das-wissenschaftliche-arbeiten/1723861"
+    },
+    {
+      "name": "Einführung in die Allgemeine Pädagogik und Medienbilung",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/einfuhrung-in-die-allgemeine-padagogik-und-medienbilung/1723961"
+    },
+    {
+      "name": "Einführung in die Betriebswirtschaftslehre",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/einfuhrung-in-die-betriebswirtschaftslehre/1723962"
+    },
+    {
+      "name": "Einführung in die BWL",
+      "code": "11011",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/einfuhrung-in-die-bwl/5034124"
+    },
+    {
+      "name": "Einführung in die Didaktik der Mathematik (Fachdidaktik Mathematik I)",
+      "code": "E-FDMath",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/einfuhrung-in-die-didaktik-der-mathematik-fachdidaktik-mathematik-i/1723656"
+    },
+    {
+      "name": "Einführung in die Erwachsenenbildung",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/einfuhrung-in-die-erwachsenenbildung/2735430"
+    },
+    {
+      "name": "Einführung in die Europastudien",
+      "code": "EUSB 2",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/einfuhrung-in-die-europastudien/1723691"
+    },
+    {
+      "name": "Einführung in die Formale Logik",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/einfuhrung-in-die-formale-logik/1723964"
+    },
+    {
+      "name": "Einführung in die Forschungsmethoden der Psychologie",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/einfuhrung-in-die-forschungsmethoden-der-psychologie/2735455"
+    },
+    {
+      "name": "Einführung in die Informatik",
+      "code": "EInf-Tut",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/einfuhrung-in-die-informatik/1723659"
+    },
+    {
+      "name": "Einführung in die Informatik, Algorithmen und Datenstrukturen",
+      "code": "EAD I",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/einfuhrung-in-die-informatik-algorithmen-und-datenstrukturen/1723654"
+    },
+    {
+      "name": "Einführung in die Informatik, Algorithmen und Datenstrukturen II",
+      "code": "EAD II",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/einfuhrung-in-die-informatik-algorithmen-und-datenstrukturen-ii/1723655"
+    },
+    {
+      "name": "Einführung in die Internationalen Beziehungen, Außen- und Sicherheitspolitik",
+      "code": "SoWB 7.1",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/einfuhrung-in-die-internationalen-beziehungen-aussen-und-sicherheitspolitik/1723836"
+    },
+    {
+      "name": "Einführung in die Managementinformationssysteme",
+      "code": "EMIS",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/einfuhrung-in-die-managementinformationssysteme/3890041"
+    },
+    {
+      "name": "Einführung in die Medizintechnik",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/einfuhrung-in-die-medizintechnik/1723969"
+    },
+    {
+      "name": "Einführung in die Methoden der empirischen Sozialforschung",
+      "code": "SoWB 3.1",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/einfuhrung-in-die-methoden-der-empirischen-sozialforschung/1723833"
+    },
+    {
+      "name": "Einführung in die Methoden der qualitativen Sozialforschung",
+      "code": "SoWB 3.2",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/einfuhrung-in-die-methoden-der-qualitativen-sozialforschung/1723834"
+    },
+    {
+      "name": "Einführung in die Mikrosystemtechnik",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/einfuhrung-in-die-mikrosystemtechnik/1723970"
+    },
+    {
+      "name": "Einführung in die Numerik",
+      "code": "Num",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/einfuhrung-in-die-numerik/1723795"
+    },
+    {
+      "name": "Einführung in die Philosophie des Geistes / Introduction to the Philosophy of Mind",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/einfuhrung-in-die-philosophie-des-geistes-introduction-to-the-philosophy-of-mind/1723972"
+    },
+    {
+      "name": "Einführung in die Praktische Philosophie/ Introduction to Practical Philosophy",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/einfuhrung-in-die-praktische-philosophie-introduction-to-practical-philosophy/1723973"
+    },
+    {
+      "name": "Einführung in die Psychologie und ihre Geschichte",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/einfuhrung-in-die-psychologie-und-ihre-geschichte/2735453"
+    },
+    {
+      "name": "Einführung in die Psychosomatische Medizin und Psychotherapie",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/einfuhrung-in-die-psychosomatische-medizin-und-psychotherapie/2735428"
+    },
+    {
+      "name": "Einführung in die Sozialwissenschaften",
+      "code": "SoWB 1.1",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/einfuhrung-in-die-sozialwissenschaften/1723831"
+    },
+    {
+      "name": "Einführung in die Systemtheorie",
+      "code": "FEIT6",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/einfuhrung-in-die-systemtheorie/4429357"
+    },
+    {
+      "name": "Einführung in die Theoretische Philosophie/ Introduction to Theoretical Philosophy",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/einfuhrung-in-die-theoretische-philosophie-introduction-to-theoretical-philosophy/1723976"
+    },
+    {
+      "name": "Einführung in die Volkswirtschaftslehre",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/einfuhrung-in-die-volkswirtschaftslehre/1723978"
+    },
+    {
+      "name": "Einführung in die Wahrscheinlichkeitstheorie und Statistik",
+      "code": "Einf W-Th",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/einfuhrung-in-die-wahrscheinlichkeitstheorie-und-statistik/1723657"
+    },
+    {
+      "name": "Einführung in die Wirtschaftsinformatik",
+      "code": "EWIF",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/einfuhrung-in-die-wirtschaftsinformatik/1723692"
+    },
+    {
+      "name": "Einführung in die Wirtschaftspolitik",
+      "code": "EWipo",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/einfuhrung-in-die-wirtschaftspolitik/3160156"
+    },
+    {
+      "name": "Einführung in die Wirtschaftswissenschaft",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/einfuhrung-in-die-wirtschaftswissenschaft/1723979"
+    },
+    {
+      "name": "Einführung in die Ökonometrie/Introduction to Econometrics",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/einfuhrung-in-die-okonometrieintroduction-to-econometrics/1723971"
+    },
+    {
+      "name": "Einführung in die ökonomische Bildung",
+      "code": "EÖB 2018",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/einfuhrung-in-die-okonomische-bildung/4610589"
+    },
+    {
+      "name": "Einführung in Digitale Spiele",
+      "code": "EiDS",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/einfuhrung-in-digitale-spiele/4449412"
+    },
+    {
+      "name": "Einführung in E-Business",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/einfuhrung-in-e-business/1723980"
+    },
+    {
+      "name": "Einführung Projektmanagement",
+      "code": "920318",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/einfuhrung-projektmanagement/7442601"
+    },
+    {
+      "name": "Eingebettete Systeme (System-on-Chip)",
+      "code": "SoC-V",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/eingebettete-systeme-system-on-chip/1723830"
+    },
+    {
+      "name": "Eingebettete Systeme II (Embedded Systems II)",
+      "code": "ESYII",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/eingebettete-systeme-ii-embedded-systems-ii/1723689"
+    },
+    {
+      "name": "Elastizität und Plastizität",
+      "code": "Ela+Pla",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/elastizitat-und-plastizitat/1723660"
+    },
+    {
+      "name": "Electrochemical Process Engineering",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/electrochemical-process-engineering/1723983"
+    },
+    {
+      "name": "elektrische energietechnik",
+      "code": "geet 1",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/elektrische-energietechnik/5212149"
+    },
+    {
+      "name": "Elektrische Fahrantriebe",
+      "code": "604168",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/elektrische-fahrantriebe/4828501"
+    },
+    {
+      "name": "Elektronische Schaltungstechnik",
+      "code": "EST/V-MTK",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/elektronische-schaltungstechnik/1723687"
+    },
+    {
+      "name": "Empirical Finance",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/empirical-finance/3003561"
+    },
+    {
+      "name": "EMV regenerativer elektrischer Systeme (EMV-RES)",
+      "code": "EMV-RES",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/emv-regenerativer-elektrischer-systeme-emv-res/1723663"
+    },
+    {
+      "name": "Engineering",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/engineering/1723986"
+    },
+    {
+      "name": "Englisch, B2, English in Sports, Teil 2",
+      "code": "EN B2 SPO",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/englisch-b2-english-in-sports-teil-2/1723680"
+    },
+    {
+      "name": "Englisch, C1, Academic Skills IBE, Part 2",
+      "code": "EN C1 ACS2",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/englisch-c1-academic-skills-ibe-part-2/1723683"
+    },
+    {
+      "name": "Englisch, UNIcert III/B, English in Management and Economics",
+      "code": "EN 3B M&E",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/englisch-unicert-iiib-english-in-management-and-economics/1723671"
+    },
+    {
+      "name": "Entrepreneurship",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/entrepreneurship/1723988"
+    },
+    {
+      "name": "Entscheidungstheorie",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/entscheidungstheorie/2792853"
+    },
+    {
+      "name": "Entwicklungspsychologie I",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/entwicklungspsychologie-i/2735458"
+    },
+    {
+      "name": "Entwicklungspsychologie II",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/entwicklungspsychologie-ii/2735457"
+    },
+    {
+      "name": "Ergonomische Gestaltung von Arbeitssystemen",
+      "code": "ErgASy",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/ergonomische-gestaltung-von-arbeitssystemen/4654370"
+    },
+    {
+      "name": "European studies",
+      "code": "EU2019",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/european-studies/7101207"
+    },
+    {
+      "name": "Experimentelle Mechanik",
+      "code": "Exp. Mech.",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/experimentelle-mechanik/1723693"
+    },
+    {
+      "name": "Experimentelle Wirtschaftsforschung",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/experimentelle-wirtschaftsforschung/1723994"
+    },
+    {
+      "name": "Explorative Datenanalyse",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/explorative-datenanalyse/1727171"
+    },
+    {
+      "name": "Fachdidaktik technischer Allgemeinbildung I",
+      "code": "FD I (V)",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/fachdidaktik-technischer-allgemeinbildung-i/1723696"
+    },
+    {
+      "name": "Factory Automation and Industrial Robots",
+      "code": "103",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/factory-automation-and-industrial-robots/5540824"
+    },
+    {
+      "name": "Fahrerassistenzsysteme und Autonomes Fahren",
+      "code": "206377",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/fahrerassistenzsysteme-und-autonomes-fahren/4956904"
+    },
+    {
+      "name": "Fahrzeugtechnik",
+      "code": "FZT",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/fahrzeugtechnik/1723715"
+    },
+    {
+      "name": "Fertigungslehre",
+      "code": "FL",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/fertigungslehre/1723701"
+    },
+    {
+      "name": "Fertigungsmesstechnik",
+      "code": "FT09428",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/fertigungsmesstechnik/4399688"
+    },
+    {
+      "name": "Fertigungstechnik I",
+      "code": "601261",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/fertigungstechnik-i/5866605"
+    },
+    {
+      "name": "Fiktive Personalführung",
+      "code": "FPF2024",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/fiktive-personalfuhrung/7358071"
+    },
+    {
+      "name": "Filmanalyse",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/filmanalyse/1723997"
+    },
+    {
+      "name": "Financial Accounting",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/financial-accounting/1723998"
+    },
+    {
+      "name": "Financial Engineering",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/financial-engineering/1723999"
+    },
+    {
+      "name": "Financial Institutions",
+      "code": "FIN17/18",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/financial-institutions/2998199"
+    },
+    {
+      "name": "Financial Management",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/financial-management/1724000"
+    },
+    {
+      "name": "Finanzwissenschaft",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/finanzwissenschaft/1724003"
+    },
+    {
+      "name": "Fortgeschrittene Methoden der Medizinischen Bildanalyse",
+      "code": "FM MBA",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/fortgeschrittene-methoden-der-medizinischen-bildanalyse/1723702"
+    },
+    {
+      "name": "Foundations of Finance",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/foundations-of-finance/3003560"
+    },
+    {
+      "name": "Funktionelle Bildgebung",
+      "code": "-",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/funktionelle-bildgebung/4279271"
+    },
+    {
+      "name": "Funktionentheorie für das Lehramt",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/funktionentheorie-fur-das-lehramt/4045028"
+    },
+    {
+      "name": "Förderanlagen",
+      "code": "FA",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/forderanlagen/3144924"
+    },
+    {
+      "name": "Fördertechnik",
+      "code": "FT",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/fordertechnik/1723714"
+    },
+    {
+      "name": "Germanistische Linguistik",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/germanistische-linguistik/1724007"
+    },
+    {
+      "name": "Geschichte der Philosophie",
+      "code": "GeP2021",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/geschichte-der-philosophie/6579378"
+    },
+    {
+      "name": "Geschichte der Wirtschaftstheorie",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/geschichte-der-wirtschaftstheorie/1724008"
+    },
+    {
+      "name": "Geschichte und Grundlagen der Mathematik",
+      "code": "GGMath",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/geschichte-und-grundlagen-der-mathematik/1723726"
+    },
+    {
+      "name": "Gesellschaftsrecht",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/gesellschaftsrecht/1727156"
+    },
+    {
+      "name": "Gesundheitswissenschaftliche Grundlagen, Principles of health care",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/gesundheitswissenschaftliche-grundlagen-principles-of-health-care/1724009"
+    },
+    {
+      "name": "Globalization: Past, Present and Future",
+      "code": "22214",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/globalization-past-present-and-future/5168473"
+    },
+    {
+      "name": "Grammatik",
+      "code": "PNR: 920056",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/grammatik/7660178"
+    },
+    {
+      "name": "Grundkurs Mathematik",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/grundkurs-mathematik/1724011"
+    },
+    {
+      "name": "Grundlagen der Abgabenordnung und des Erbschaft- und Schenkungsteuerrechts",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/grundlagen-der-abgabenordnung-und-des-erbschaft-und-schenkungsteuerrechts/1724012"
+    },
+    {
+      "name": "Grundlagen der Arbeitswissenschaft",
+      "code": "AWI-V",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/grundlagen-der-arbeitswissenschaft/1723588"
+    },
+    {
+      "name": "Grundlagen der Berufs-, Betriebs- und Wirtschaftspädagogik I",
+      "code": "BBWP I",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/grundlagen-der-berufs-betriebs-und-wirtschaftspadagogik-i/1723590"
+    },
+    {
+      "name": "Grundlagen der Bildverarbeitung",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/grundlagen-der-bildverarbeitung/1724014"
+    },
+    {
+      "name": "Grundlagen der Biologie",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/grundlagen-der-biologie/1724015"
+    },
+    {
+      "name": "Grundlagen der Computergraphik",
+      "code": "Graphik I",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/grundlagen-der-computergraphik/1723731"
+    },
+    {
+      "name": "Grundlagen der Diagnostik",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/grundlagen-der-diagnostik/1724016"
+    },
+    {
+      "name": "Grundlagen der Didaktik und Curriculumentwicklung für Bachelorstudierende",
+      "code": "DuC",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/grundlagen-der-didaktik-und-curriculumentwicklung-fur-bachelorstudierende/1723652"
+    },
+    {
+      "name": "Grundlagen der Elektrotechnik I",
+      "code": "GET I V",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/grundlagen-der-elektrotechnik-i/1723723"
+    },
+    {
+      "name": "Grundlagen der Elektrotechnik II",
+      "code": "GETII V",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/grundlagen-der-elektrotechnik-ii/1723725"
+    },
+    {
+      "name": "Grundlagen der Elektrotechnik III",
+      "code": "GET III V",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/grundlagen-der-elektrotechnik-iii/1723724"
+    },
+    {
+      "name": "Grundlagen der Fertigunglehre",
+      "code": "GFL2020",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/grundlagen-der-fertigunglehre/5343746"
+    },
+    {
+      "name": "Grundlagen der Forschungsmethoden",
+      "code": "Forschungs",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/grundlagen-der-forschungsmethoden/1723703"
+    },
+    {
+      "name": "Grundlagen der Informatik für Ingenieure",
+      "code": "GIF Tut",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/grundlagen-der-informatik-fur-ingenieure/1723727"
+    },
+    {
+      "name": "Grundlagen der Leistungselektronik",
+      "code": "GLE",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/grundlagen-der-leistungselektronik/5377284"
+    },
+    {
+      "name": "Grundlagen der messtechnisch orientierten Leistungsdiagnostik im Sport",
+      "code": "Leistungsd",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/grundlagen-der-messtechnisch-orientierten-leistungsdiagnostik-im-sport/1723770"
+    },
+    {
+      "name": "Grundlagen der Programmierung",
+      "code": "GPA2021",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/grundlagen-der-programmierung/5949412"
+    },
+    {
+      "name": "Grundlagen der Statistik",
+      "code": "GL Stat",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/grundlagen-der-statistik/1723729"
+    },
+    {
+      "name": "Grundlagen der Theoretischen Informatik",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/grundlagen-der-theoretischen-informatik/1724019"
+    },
+    {
+      "name": "Grundlagen der Werkstofftechnik",
+      "code": "GWT",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/grundlagen-der-werkstofftechnik/1723734"
+    },
+    {
+      "name": "Grundlagen der Werkstoffwissenschaft",
+      "code": "GWwiss-V",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/grundlagen-der-werkstoffwissenschaft/1723735"
+    },
+    {
+      "name": "Grundlagen psychologischer Diagnostik",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/grundlagen-psychologischer-diagnostik/2735429"
+    },
+    {
+      "name": "Grundlagen Ökologie",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/grundlagen-okologie/1724021"
+    },
+    {
+      "name": "Grundzüge der Umsatzsteuer",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/grundzuge-der-umsatzsteuer/2572970"
+    },
+    {
+      "name": "Gynäkologie",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/gynakologie/1724022"
+    },
+    {
+      "name": "Histologie",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/histologie/1724024"
+    },
+    {
+      "name": "Hochfrequenztechnik I",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/hochfrequenztechnik-i/1724025"
+    },
+    {
+      "name": "Hochspannungstechnik",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/hochspannungstechnik/1724028"
+    },
+    {
+      "name": "Hochtechnologie - Lehrgebiet Urformen, Umformen, Trennen",
+      "code": "HT-UUT",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/hochtechnologie-lehrgebiet-urformen-umformen-trennen/1723740"
+    },
+    {
+      "name": "Humangenetik",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/humangenetik/1724030"
+    },
+    {
+      "name": "Idea Engineering",
+      "code": "IE 2023",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/idea-engineering/6279090"
+    },
+    {
+      "name": "Identität und Interaktion",
+      "code": "IuI22/23",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/identitat-und-interaktion/6152752"
+    },
+    {
+      "name": "Improvisational Theatre and English Language Teaching",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/improvisational-theatre-and-english-language-teaching/1724035"
+    },
+    {
+      "name": "Industrielles Produktmanagement",
+      "code": "601307",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/industrielles-produktmanagement/3168282"
+    },
+    {
+      "name": "Industrieökonomik I/Industrial Organisation I",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/industrieokonomik-iindustrial-organisation-i/1724037"
+    },
+    {
+      "name": "Informatik",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/informatik/1724039"
+    },
+    {
+      "name": "Information Retrieval",
+      "code": "IR",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/information-retrieval/1723753"
+    },
+    {
+      "name": "Informationstechnik und Elektronik",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/informationstechnik-und-elektronik/1724042"
+    },
+    {
+      "name": "Informationstechnologie in organisationen",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/informationstechnologie-in-organisationen/3444473"
+    },
+    {
+      "name": "Informationsvisualisierung",
+      "code": "InfoVis",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/informationsvisualisierung/1723748"
+    },
+    {
+      "name": "Ingenieurinformatik I/CAx-Grundlagen I",
+      "code": "CAxG I",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/ingenieurinformatik-icax-grundlagen-i/1723601"
+    },
+    {
+      "name": "Innere Medizin",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/innere-medizin/1724043"
+    },
+    {
+      "name": "Insolvenzrecht",
+      "code": "21970",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/insolvenzrecht/4359448"
+    },
+    {
+      "name": "Integrative & Comparative Neuroanatomy",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/integrative-comparative-neuroanatomy/1724045"
+    },
+    {
+      "name": "Integrierte Produktentwicklung",
+      "code": "IPE",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/integrierte-produktentwicklung/1723751"
+    },
+    {
+      "name": "Intelligente Systeme",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/intelligente-systeme/3383211"
+    },
+    {
+      "name": "International Corporate Strategy",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/international-corporate-strategy/1724046"
+    },
+    {
+      "name": "International Marketing",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/international-marketing/1724048"
+    },
+    {
+      "name": "international MBA (iMBA)",
+      "code": "iMBA",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/international-mba-imba/1723747"
+    },
+    {
+      "name": "International Taxation",
+      "code": "TXT101",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/international-taxation/5967877"
+    },
+    {
+      "name": "International Technology and Innovation Management",
+      "code": "22390",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/international-technology-and-innovation-management/4129169"
+    },
+    {
+      "name": "International Technology, Innovation and Marketing Management",
+      "code": "22390",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/international-technology-innovation-and-marketing-management/4451565"
+    },
+    {
+      "name": "International Trade",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/international-trade/1724050"
+    },
+    {
+      "name": "Internationale Rechnungslegung / International Financial Accounting",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/internationale-rechnungslegung-international-financial-accounting/1724051"
+    },
+    {
+      "name": "Internationale wirtschaft",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/internationale-wirtschaft/1736594"
+    },
+    {
+      "name": "Interne Unternehmensrechnung/Managerial Accounting",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/interne-unternehmensrechnungmanagerial-accounting/1724052"
+    },
+    {
+      "name": "Internes Rechnungswesen",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/internes-rechnungswesen/1724053"
+    },
+    {
+      "name": "Introduction to 2D Game Development",
+      "code": "2D Game",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/introduction-to-2d-game-development/1723562"
+    },
+    {
+      "name": "Introduction to Applied Econometrics II",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/introduction-to-applied-econometrics-ii/1724054"
+    },
+    {
+      "name": "Introduction to Computer Science for Engineers",
+      "code": "ICSE",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/introduction-to-computer-science-for-engineers/1723741"
+    },
+    {
+      "name": "Introduction to Cultural Studies",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/introduction-to-cultural-studies/1724055"
+    },
+    {
+      "name": "Introduction to International Economics",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/introduction-to-international-economics/1724056"
+    },
+    {
+      "name": "Introduction to International Management",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/introduction-to-international-management/1724057"
+    },
+    {
+      "name": "Introduction to Probability and Statistics",
+      "code": "IProbStat",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/introduction-to-probability-and-statistics/1723752"
+    },
+    {
+      "name": "Investition und Finanzierung",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/investition-und-finanzierung/1724058"
+    },
+    {
+      "name": "Investition und Finanzierung III",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/investition-und-finanzierung-iii/1724059"
+    },
+    {
+      "name": "IT Skills",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/it-skills/1724060"
+    },
+    {
+      "name": "IT-Projektmanagement",
+      "code": "IT-PM",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/it-projektmanagement/1723756"
+    },
+    {
+      "name": "Japanisch, A1, Teil 1",
+      "code": "Jap. A1/1",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/japanisch-a1-teil-1/1723759"
+    },
+    {
+      "name": "Klassische Physik",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/klassische-physik/1724063"
+    },
+    {
+      "name": "Klinische Anatomie und Physiologie",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/klinische-anatomie-und-physiologie/1724065"
+    },
+    {
+      "name": "Klinische Chemie",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/klinische-chemie/1724066"
+    },
+    {
+      "name": "Klinische Neurowissenschaften",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/klinische-neurowissenschaften/1724067"
+    },
+    {
+      "name": "Klinische Psychologie u. Neuropsychologie",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/klinische-psychologie-u-neuropsychologie/1724068"
+    },
+    {
+      "name": "Klinische Psychologie u. Neuropsychologie II",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/klinische-psychologie-u-neuropsychologie-ii/2735456"
+    },
+    {
+      "name": "Kolbenpumpen und Kompressoren",
+      "code": "KPK",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/kolbenpumpen-und-kompressoren/3160281"
+    },
+    {
+      "name": "Konstruktionselemente I",
+      "code": "KE I",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/konstruktionselemente-i/1723760"
+    },
+    {
+      "name": "Konstruktionselemente I - Konstruktionslehre I",
+      "code": "KEI-KL-Tut",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/konstruktionselemente-i-konstruktionslehre-i/1723762"
+    },
+    {
+      "name": "Konstruktionselemente II",
+      "code": "KE II",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/konstruktionselemente-ii/1723761"
+    },
+    {
+      "name": "Konstruktionslehre I + II",
+      "code": "KL 1 2",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/konstruktionslehre-i-ii/4777830"
+    },
+    {
+      "name": "Konstruktionslehre II",
+      "code": "KL II",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/konstruktionslehre-ii/1723763"
+    },
+    {
+      "name": "Konstruktionstechnik",
+      "code": "KT",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/konstruktionstechnik/1723766"
+    },
+    {
+      "name": "Kontinuumsmechanik",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/kontinuumsmechanik/3477614"
+    },
+    {
+      "name": "Koordination (intern)",
+      "code": "Koordination",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/koordination-intern/3160194"
+    },
+    {
+      "name": "Kosmologie",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/kosmologie/1724070"
+    },
+    {
+      "name": "Kraftstoffe und Energieträger",
+      "code": "KuE",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/kraftstoffe-und-energietrager/3160282"
+    },
+    {
+      "name": "Kraftstoffeinspritzung",
+      "code": "KE",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/kraftstoffeinspritzung/3160283"
+    },
+    {
+      "name": "Kreislauf- und Ressourcenwirtschaft",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/kreislauf-und-ressourcenwirtschaft/1724071"
+    },
+    {
+      "name": "Kultur und Individuum",
+      "code": "PM5",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/kultur-und-individuum/2997232"
+    },
+    {
+      "name": "Labor Economics",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/labor-economics/1724072"
+    },
+    {
+      "name": "Lean Manufacturing and Benchmarking",
+      "code": "Lean MuB",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/lean-manufacturing-and-benchmarking/3160162"
+    },
+    {
+      "name": "Life Cycle Assessment for Biofuels",
+      "code": "702262",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/life-cycle-assessment-for-biofuels/4555204"
+    },
+    {
+      "name": "Lineare Algebra für AS",
+      "code": "AS LA",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/lineare-algebra-fur-as/1723585"
+    },
+    {
+      "name": "Lineare Algebra für LA, MathIng und Physik",
+      "code": "LinAlg",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/lineare-algebra-fur-la-mathing-und-physik/1723771"
+    },
+    {
+      "name": "Lineare Algebra I",
+      "code": "LinAlg I",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/lineare-algebra-i/1723772"
+    },
+    {
+      "name": "Lineare Algebra II",
+      "code": "LinAlgII",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/lineare-algebra-ii/1723773"
+    },
+    {
+      "name": "Lineare Optimierung und Erweiterungen",
+      "code": "LOP",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/lineare-optimierung-und-erweiterungen/3160163"
+    },
+    {
+      "name": "Literaturgeschichte",
+      "code": "PNR 909499",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/literaturgeschichte/5308745"
+    },
+    {
+      "name": "Logistikprozessführung",
+      "code": "LPF",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/logistikprozessfuhrung/3144917"
+    },
+    {
+      "name": "Logistiksystemplanung",
+      "code": "LSP",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/logistiksystemplanung/3144926"
+    },
+    {
+      "name": "Logistische Netze",
+      "code": "LN2022",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/logistische-netze/5949318"
+    },
+    {
+      "name": "Machine Learning",
+      "code": "ML_",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/machine-learning/7402000"
+    },
+    {
+      "name": "Macht und Herrschaft",
+      "code": "MuH2021",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/macht-und-herrschaft/6342241"
+    },
+    {
+      "name": "Macroeconomics",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/macroeconomics/1724074"
+    },
+    {
+      "name": "Makroökonomik",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/makrookonomik/1724076"
+    },
+    {
+      "name": "Management Accounting",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/management-accounting/1724077"
+    },
+    {
+      "name": "Managementinformationssysteme (MIS)",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/managementinformationssysteme-mis/3305615"
+    },
+    {
+      "name": "Marketing",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/marketing/1724078"
+    },
+    {
+      "name": "Marketing Methods & Analysis",
+      "code": "50566",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/marketing-methods-analysis/4362012"
+    },
+    {
+      "name": "Marketingkonzepte und -strategien",
+      "code": "Marketing k u s",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/marketingkonzepte-und-strategien/3160164"
+    },
+    {
+      "name": "Marktkommunikation",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/marktkommunikation/2572968"
+    },
+    {
+      "name": "Maschinenelemente",
+      "code": "ME",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/maschinenelemente/2998361"
+    },
+    {
+      "name": "Materialflussrechnung",
+      "code": "MFR",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/materialflussrechnung/3144921"
+    },
+    {
+      "name": "Materialflusstechnik I",
+      "code": "MFT I",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/materialflusstechnik-i/1723785"
+    },
+    {
+      "name": "Mathematical Methods I",
+      "code": "MM",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/mathematical-methods-i/2998365"
+    },
+    {
+      "name": "Mathematics for Business",
+      "code": "MathB",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/mathematics-for-business/1723779"
+    },
+    {
+      "name": "Mathematik 1 für Informatiker",
+      "code": "Math 1",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/mathematik-1-fur-informatiker/1723777"
+    },
+    {
+      "name": "Mathematik 1 für Ingenieure (Stg A)",
+      "code": "MA1-IngA",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/mathematik-1-fur-ingenieure-stg-a/1723774"
+    },
+    {
+      "name": "Mathematik 1 für Ingenieure (Stg B)",
+      "code": "MA1-IngB",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/mathematik-1-fur-ingenieure-stg-b/1723775"
+    },
+    {
+      "name": "Mathematik 2 für Informatiker",
+      "code": "Mathe 2",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/mathematik-2-fur-informatiker/1723780"
+    },
+    {
+      "name": "Mathematik 3 für Informatiker",
+      "code": "Math 3 Inf",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/mathematik-3-fur-informatiker/1723778"
+    },
+    {
+      "name": "Mathematik II",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/mathematik-ii/1724081"
+    },
+    {
+      "name": "Mathematik II für Ingenieure",
+      "code": "Mathe II",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/mathematik-ii-fur-ingenieure/1723781"
+    },
+    {
+      "name": "Mathematik III für Ingenieure",
+      "code": "Ma3-Ing",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/mathematik-iii-fur-ingenieure/1723776"
+    },
+    {
+      "name": "Mathematische Methoden I",
+      "code": "41009",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/mathematische-methoden-i/3632409"
+    },
+    {
+      "name": "Mathematische Methoden II",
+      "code": "41010",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/mathematische-methoden-ii/3632417"
+    },
+    {
+      "name": "Mechanik und Elektrodynamik",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/mechanik-und-elektrodynamik/1724083"
+    },
+    {
+      "name": "Mechanische Konstruktionselemente",
+      "code": "MKE",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/mechanische-konstruktionselemente/3160284"
+    },
+    {
+      "name": "Mechatronik I",
+      "code": "MTKI",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/mechatronik-i/1723789"
+    },
+    {
+      "name": "Mechatronische Systeme",
+      "code": "MechSys",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/mechatronische-systeme/2997438"
+    },
+    {
+      "name": "Medical Visualization",
+      "code": "Med Vis",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/medical-visualization/1723783"
+    },
+    {
+      "name": "Medizinische Messtechnik",
+      "code": "Medizinisc",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/medizinische-messtechnik/1723784"
+    },
+    {
+      "name": "Medizinische Mikrobiologie, Virologie, Hygiene",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/medizinische-mikrobiologie-virologie-hygiene/1724085"
+    },
+    {
+      "name": "Medizinische Psychologie",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/medizinische-psychologie/1724086"
+    },
+    {
+      "name": "Medizinische Signal- und Informationsverarbeitung",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/medizinische-signal-und-informationsverarbeitung/1724087"
+    },
+    {
+      "name": "Medizinische Soziologie",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/medizinische-soziologie/1724088"
+    },
+    {
+      "name": "Medizinphysik, Strahlenschutz und Dosimetrie",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/medizinphysik-strahlenschutz-und-dosimetrie/1724089"
+    },
+    {
+      "name": "Mehrkörperdynamik",
+      "code": "MKD",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/mehrkorperdynamik/3477615"
+    },
+    {
+      "name": "Messtechnik",
+      "code": "MT",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/messtechnik/1723788"
+    },
+    {
+      "name": "Methoden des Virtual Engenieerung in der Mechanik",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/methoden-des-virtual-engenieerung-in-der-mechanik/3477616"
+    },
+    {
+      "name": "Microeconomics",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/microeconomics/1724092"
+    },
+    {
+      "name": "Mikrobiologie",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/mikrobiologie/1724095"
+    },
+    {
+      "name": "Mikroökonomik",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/mikrookonomik/1724096"
+    },
+    {
+      "name": "Mobile Antriebssysteme",
+      "code": "MA",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/mobile-antriebssysteme/3329141"
+    },
+    {
+      "name": "Monetary Economics",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/monetary-economics/1724102"
+    },
+    {
+      "name": "Monetäre Ökonomie",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/monetare-okonomie/1724101"
+    },
+    {
+      "name": "Montagesysteme",
+      "code": "MoSys1",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/montagesysteme/4956188"
+    },
+    {
+      "name": "Multicultural and Interactive Marketing Communication",
+      "code": "22034",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/multicultural-and-interactive-marketing-communication/4362007"
+    },
+    {
+      "name": "Mustererkennung I",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/mustererkennung-i/1724105"
+    },
+    {
+      "name": "Nachhaltige Entwicklung",
+      "code": "NE",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/nachhaltige-entwicklung/3144923"
+    },
+    {
+      "name": "Nanoparticle Technology",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/nanoparticle-technology/1724107"
+    },
+    {
+      "name": "Neue Werkstoffe",
+      "code": "N_Wst_2024w",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/neue-werkstoffe/7493056"
+    },
+    {
+      "name": "Neuere deutsche Literatur",
+      "code": "NdL",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/neuere-deutsche-literatur/1723793"
+    },
+    {
+      "name": "Neuroanatomie",
+      "code": "Neuroanato",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/neuroanatomie/1723794"
+    },
+    {
+      "name": "Neuronale Netze",
+      "code": "NN 2023",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/neuronale-netze/6347507"
+    },
+    {
+      "name": "Numerik für Ingenieure und FHW",
+      "code": "Num Ing",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/numerik-fur-ingenieure-und-fhw/1723796"
+    },
+    {
+      "name": "O.1: Einführungsteilmodul Vorlesung Mensch-Umwelt-Interaktion",
+      "code": "PSYC 2210",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/o1-einfuhrungsteilmodul-vorlesung-mensch-umwelt-interaktion/4354754"
+    },
+    {
+      "name": "Operations Management",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/operations-management/1724114"
+    },
+    {
+      "name": "Operations Research",
+      "code": "OR",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/operations-research/1723800"
+    },
+    {
+      "name": "Operations Strategy and Tactical Planning",
+      "code": "22550",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/operations-strategy-and-tactical-planning/4362017"
+    },
+    {
+      "name": "Organisation und Personal",
+      "code": "Orga",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/organisation-und-personal/3144925"
+    },
+    {
+      "name": "Organische Chemie",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/organische-chemie/1724115"
+    },
+    {
+      "name": "Orthopädie",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/orthopadie/1724116"
+    },
+    {
+      "name": "Parallele Programmierung",
+      "code": "PP22/23",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/parallele-programmierung/5928812"
+    },
+    {
+      "name": "Personalführung / Personnel Management",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/personalfuhrung-personnel-management/1724120"
+    },
+    {
+      "name": "Personalplanung / Personnel Planning",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/personalplanung-personnel-planning/1724121"
+    },
+    {
+      "name": "Physik",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/physik/1724124"
+    },
+    {
+      "name": "Physik I",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/physik-i/1724126"
+    },
+    {
+      "name": "Physik II",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/physik-ii/1724127"
+    },
+    {
+      "name": "Physikalische Chemie",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/physikalische-chemie/1724128"
+    },
+    {
+      "name": "Physiologie",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/physiologie/1724131"
+    },
+    {
+      "name": "Planung logistischer Systeme",
+      "code": "PLS",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/planung-logistischer-systeme/3144915"
+    },
+    {
+      "name": "Principles of Management",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/principles-of-management/1724140"
+    },
+    {
+      "name": "Prinzipien und Komponenten eingebetteter Systeme",
+      "code": "PKeS",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/prinzipien-und-komponenten-eingebetteter-systeme/1723803"
+    },
+    {
+      "name": "Process Control",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/process-control/1724142"
+    },
+    {
+      "name": "Production Management and Operations Research",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/production-management-and-operations-research/1724144"
+    },
+    {
+      "name": "Produktdesign und Entwurf",
+      "code": "PDE",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/produktdesign-und-entwurf/1723801"
+    },
+    {
+      "name": "Produktentwicklung",
+      "code": "ProdEntw",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/produktentwicklung/1723810"
+    },
+    {
+      "name": "Produktion, Logistik und Operations Research",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/produktion-logistik-und-operations-research/1724146"
+    },
+    {
+      "name": "Produktionssystemplanung I",
+      "code": "PSP-T1",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/produktionssystemplanung-i/1723812"
+    },
+    {
+      "name": "Produktmodellierung und -visualisierung",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/produktmodellierung-und-visualisierung/3477618"
+    },
+    {
+      "name": "Programmieren in C++",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/programmieren-in-c/1724147"
+    },
+    {
+      "name": "Projektarbeit im Team",
+      "code": "604267",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/projektarbeit-im-team/5866608"
+    },
+    {
+      "name": "Prozessdynamik I",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/prozessdynamik-i/1724148"
+    },
+    {
+      "name": "Prozessmanagement",
+      "code": "ProzMan",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/prozessmanagement/1723811"
+    },
+    {
+      "name": "Pädagogische Psychologie I",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/padagogische-psychologie-i/1724117"
+    },
+    {
+      "name": "Pädagogische Psychologie II",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/padagogische-psychologie-ii/1724118"
+    },
+    {
+      "name": "Qualitätsmanagement und Statistik",
+      "code": "QMSt",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/qualitatsmanagement-und-statistik/1723814"
+    },
+    {
+      "name": "Quantenmechanik",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/quantenmechanik/1724153"
+    },
+    {
+      "name": "Reaktionstechnik I",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/reaktionstechnik-i/1724155"
+    },
+    {
+      "name": "Reaktionstechnik II",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/reaktionstechnik-ii/1724156"
+    },
+    {
+      "name": "Rechnungslegung und Publizität",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/rechnungslegung-und-publizitat/1724158"
+    },
+    {
+      "name": "Rechtsmedizin",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/rechtsmedizin/1724159"
+    },
+    {
+      "name": "Regelungstechnik",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/regelungstechnik/1724160"
+    },
+    {
+      "name": "Schlüsselkompetenzen",
+      "code": "0707",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/schlusselkompetenzen/1552961"
+    },
+    {
+      "name": "Schlüsselkompetenzen 1 & 2",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/schlusselkompetenzen-1-2/3010845"
+    },
+    {
+      "name": "Schweißtechnische Fertigungsverfahren",
+      "code": "ST-Feve",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/schweisstechnische-fertigungsverfahren/1723855"
+    },
+    {
+      "name": "Schätzen und testen",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/schatzen-und-testen/1727167"
+    },
+    {
+      "name": "Sensorik und Sensorsysteme",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/sensorik-und-sensorsysteme/1724164"
+    },
+    {
+      "name": "Servicelogistik",
+      "code": "Servicel",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/servicelogistik/3160200"
+    },
+    {
+      "name": "Sichere Systeme",
+      "code": "SISY",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/sichere-systeme/3890037"
+    },
+    {
+      "name": "Signale und Systeme",
+      "code": "SigSys2223",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/signale-und-systeme/6119606"
+    },
+    {
+      "name": "Simulation in Produktion und Logistik",
+      "code": "ProdSim",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/simulation-in-produktion-und-logistik/3144931"
+    },
+    {
+      "name": "Simulationstechnik",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/simulationstechnik/1724167"
+    },
+    {
+      "name": "Social & Personal Skills",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/social-personal-skills/1724168"
+    },
+    {
+      "name": "Software Engineering",
+      "code": "blaw14785",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/software-engineering/3573417"
+    },
+    {
+      "name": "Sozialmedizin",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/sozialmedizin/1724169"
+    },
+    {
+      "name": "Sozialpsychologie I",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/sozialpsychologie-i/1724170"
+    },
+    {
+      "name": "Sozialpsychologie II",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/sozialpsychologie-ii/1724171"
+    },
+    {
+      "name": "Spezielle Werkstoffe",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/spezielle-werkstoffe/3468893"
+    },
+    {
+      "name": "Spezifikationstechnik",
+      "code": "SPT",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/spezifikationstechnik/1723853"
+    },
+    {
+      "name": "Spieltheorie",
+      "code": "Wintersemester",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/spieltheorie/2574598"
+    },
+    {
+      "name": "Sportbiomechanik (Sport biomechanics)",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/sportbiomechanik-sport-biomechanics/1724174"
+    },
+    {
+      "name": "Sportinformatik",
+      "code": "Sportinfor",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/sportinformatik/1723848"
+    },
+    {
+      "name": "Sportpsychologie",
+      "code": "Sportpsych",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/sportpsychologie/1723851"
+    },
+    {
+      "name": "Sportsoziologie und Sportgeschichte (Sociology of sport and sports history)",
+      "code": "Sportsozio",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/sportsoziologie-und-sportgeschichte-sociology-of-sport-and-sports-history/1723852"
+    },
+    {
+      "name": "Sprachverarbeitung/Speech Recognition",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/sprachverarbeitungspeech-recognition/1724175"
+    },
+    {
+      "name": "Statistik",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/statistik/1724177"
+    },
+    {
+      "name": "Statistische Modellierung und Datenanalyse",
+      "code": "41020",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/statistische-modellierung-und-datenanalyse/3614314"
+    },
+    {
+      "name": "Steuerrecht und Steuerwirkung",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/steuerrecht-und-steuerwirkung/1724180"
+    },
+    {
+      "name": "Stochastik",
+      "code": "EinfST",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/stochastik/6732800"
+    },
+    {
+      "name": "Stochastik für Ingenieure",
+      "code": "Stoch Ing",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/stochastik-fur-ingenieure/1723856"
+    },
+    {
+      "name": "Strategische Unternehmensführung/Strategic Business Management",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/strategische-unternehmensfuhrungstrategic-business-management/1724182"
+    },
+    {
+      "name": "Strategisches Management/Strategic Management",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/strategisches-managementstrategic-management/1724183"
+    },
+    {
+      "name": "Struktur und Design elektronischer Märkte",
+      "code": "SDEM",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/struktur-und-design-elektronischer-markte/3160681"
+    },
+    {
+      "name": "Strömungsmechanik I",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/stromungsmechanik-i/1724184"
+    },
+    {
+      "name": "Supply Chain Coordination",
+      "code": "SCC",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/supply-chain-coordination/3160201"
+    },
+    {
+      "name": "Supply Chain Management",
+      "code": "SCM",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/supply-chain-management/3160202"
+    },
+    {
+      "name": "Sustainable Enterprise Development",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/sustainable-enterprise-development/1724185"
+    },
+    {
+      "name": "Systeme der Berufsorientierung",
+      "code": "SYBO2223",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/systeme-der-berufsorientierung/5913488"
+    },
+    {
+      "name": "Systems and Control",
+      "code": "RT2",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/systems-and-control/7542524"
+    },
+    {
+      "name": "Systems Engineering for Manufacturing",
+      "code": "103",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/systems-engineering-for-manufacturing/5540801"
+    },
+    {
+      "name": "Systemtheorie / Regelungstechnik 2",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/systemtheorie-regelungstechnik-2/1724186"
+    },
+    {
+      "name": "Systemtheorie und Regelungstechnik 2",
+      "code": "Sys/RT2",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/systemtheorie-und-regelungstechnik-2/5376507"
+    },
+    {
+      "name": "Techniken des wissenschaftlichen Arbeitens",
+      "code": "SoWB 1.2",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/techniken-des-wissenschaftlichen-arbeitens/1723832"
+    },
+    {
+      "name": "Technische Chemie",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/technische-chemie/1724188"
+    },
+    {
+      "name": "Technische Dartstellungslehre",
+      "code": "2020/2021",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/technische-dartstellungslehre/4755077"
+    },
+    {
+      "name": "Technische Informatik für Bildungsstudiengänge I",
+      "code": "TechnInf",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/technische-informatik-fur-bildungsstudiengange-i/1723859"
+    },
+    {
+      "name": "Technische Informatik II",
+      "code": "TI-II",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/technische-informatik-ii/1723863"
+    },
+    {
+      "name": "Technische Logistik I",
+      "code": "TeLo I",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/technische-logistik-i/1723860"
+    },
+    {
+      "name": "Technische Logistik II",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/technische-logistik-ii/1724190"
+    },
+    {
+      "name": "Technische Mechanik I - MB",
+      "code": "TM I - MB",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/technische-mechanik-i-mb/1723865"
+    },
+    {
+      "name": "Technische Mechanik I - WI",
+      "code": "TM I - WI",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/technische-mechanik-i-wi/1723866"
+    },
+    {
+      "name": "Technische Mechanik II/1 - MB",
+      "code": "TM II/1-MB",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/technische-mechanik-ii1-mb/1723869"
+    },
+    {
+      "name": "Technische Mechanik II/2- MB",
+      "code": "TM II/2-MB",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/technische-mechanik-ii2-mb/1723870"
+    },
+    {
+      "name": "Technische Mechanik II/III",
+      "code": "TM II/III",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/technische-mechanik-iiiii/2998421"
+    },
+    {
+      "name": "Technische Thermodynamik I",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/technische-thermodynamik-i/1724191"
+    },
+    {
+      "name": "Telematik und Identechnik",
+      "code": "TI1",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/telematik-und-identechnik/4446276"
+    },
+    {
+      "name": "Theorie der Rechnungslegung",
+      "code": "T Rechnung",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/theorie-der-rechnungslegung/3160203"
+    },
+    {
+      "name": "Theorie der Sportarten",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/theorie-der-sportarten/3366692"
+    },
+    {
+      "name": "Thermische und mechanische Werkstoffbehandlung",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/thermische-und-mechanische-werkstoffbehandlung/3477622"
+    },
+    {
+      "name": "Thermodynamik und Statistik",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/thermodynamik-und-statistik/1724200"
+    },
+    {
+      "name": "Trainingswisssenschaftliche Grundlagen",
+      "code": "904418",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/trainingswisssenschaftliche-grundlagen/4744475"
+    },
+    {
+      "name": "Transport phenomena",
+      "code": "702071",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/transport-phenomena/6859315"
+    },
+    {
+      "name": "Tutorium Rechnungswesen",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/tutorium-rechnungswesen/1724204"
+    },
+    {
+      "name": "UML with Semantics",
+      "code": "UML 19/20",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/uml-with-semantics/4353577"
+    },
+    {
+      "name": "Umweltgeschichte",
+      "code": "UmwGe1",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/umweltgeschichte/5062300"
+    },
+    {
+      "name": "Umweltmanagementinformationssysteme",
+      "code": "UMIS",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/umweltmanagementinformationssysteme/3144911"
+    },
+    {
+      "name": "Umweltökonomik",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/umweltokonomik/1724206"
+    },
+    {
+      "name": "Unternehmensbewertung und Bilanzanalyse",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/unternehmensbewertung-und-bilanzanalyse/1724207"
+    },
+    {
+      "name": "Unternehmensgestaltung/Venture Creation",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/unternehmensgestaltungventure-creation/1724208"
+    },
+    {
+      "name": "Unternehmensinteraktion",
+      "code": "ABWLII",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/unternehmensinteraktion/3160206"
+    },
+    {
+      "name": "Unternehmensplanung und Unternehmensführung",
+      "code": "UPF",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/unternehmensplanung-und-unternehmensfuhrung/1723874"
+    },
+    {
+      "name": "Urologie",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/urologie/1724209"
+    },
+    {
+      "name": "Usability und Ästhetik",
+      "code": "UÄ",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/usability-und-asthetik/3890038"
+    },
+    {
+      "name": "Verbrennungsmotoren I",
+      "code": "VM I",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/verbrennungsmotoren-i/1723881"
+    },
+    {
+      "name": "Verbrennungsmotoren II",
+      "code": "VM II",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/verbrennungsmotoren-ii/1723882"
+    },
+    {
+      "name": "Verbrennungsmotoren III",
+      "code": "VM III",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/verbrennungsmotoren-iii/1723883"
+    },
+    {
+      "name": "Vergleichende Sozialstrukturanalyse",
+      "code": "SoWB 6.1",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/vergleichende-sozialstrukturanalyse/1723838"
+    },
+    {
+      "name": "Verkehrstechnik und -logistik",
+      "code": "VLog",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/verkehrstechnik-und-logistik/1723880"
+    },
+    {
+      "name": "Vibroakustik",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/vibroakustik/3297402"
+    },
+    {
+      "name": "Visualisierung",
+      "code": "-",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/visualisierung/3890040"
+    },
+    {
+      "name": "VR/AR-Technologien in der Produktion",
+      "code": "604153",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/vrar-technologien-in-der-produktion/4341690"
+    },
+    {
+      "name": "Wastewater Sludge Treatment",
+      "code": "7021480",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/wastewater-sludge-treatment/4929279"
+    },
+    {
+      "name": "Weiterführende Wahrscheinlichkeitstheorie",
+      "code": "W-W-Th.",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/weiterfuhrende-wahrscheinlichkeitstheorie/1723893"
+    },
+    {
+      "name": "Werkstoff Eigenschaften & Anwendung",
+      "code": "604072",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/werkstoff-eigenschaften-anwendung/4887595"
+    },
+    {
+      "name": "Werkstoff- und Bruchmechanik",
+      "code": "WStoff/BM",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/werkstoff-und-bruchmechanik/1723889"
+    },
+    {
+      "name": "Werkstoffe I",
+      "code": "WS1/2021",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/werkstoffe-i/5949409"
+    },
+    {
+      "name": "Werkstoffe II",
+      "code": "Wst2-V",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/werkstoffe-ii/5188764"
+    },
+    {
+      "name": "Werkstoffe in der Medizintechnik",
+      "code": "WIM23",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/werkstoffe-in-der-medizintechnik/6790927"
+    },
+    {
+      "name": "Werkstofftechnik (MB, VT)",
+      "code": "WTMBVT",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/werkstofftechnik-mb-vt/1723890"
+    },
+    {
+      "name": "Werkstofftechnik (MTK)",
+      "code": "WTMTK",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/werkstofftechnik-mtk/1723891"
+    },
+    {
+      "name": "Werkzeuge der Produktionstechnik",
+      "code": "WZPT2021",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/werkzeuge-der-produktionstechnik/5125418"
+    },
+    {
+      "name": "Wertpapieranalyse",
+      "code": "Aktien",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/wertpapieranalyse/3160176"
+    },
+    {
+      "name": "Wirtschaftsdidaktik I",
+      "code": "Wida I",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/wirtschaftsdidaktik-i/1723884"
+    },
+    {
+      "name": "Wirtschaftsgeschichte",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/wirtschaftsgeschichte/1724213"
+    },
+    {
+      "name": "Wirtschaftspolitik",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/wirtschaftspolitik/2792859"
+    },
+    {
+      "name": "Wissenschaftstheorie/Philosophy of Science",
+      "code": "909436",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/wissenschaftstheoriephilosophy-of-science/7685063"
+    },
+    {
+      "name": "Wissensmanagement",
+      "code": "WMS",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/wissensmanagement/1723887"
+    },
+    {
+      "name": "Wärme uns Stoffübertragung",
+      "code": "WSÜ22",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/warme-uns-stoffubertragung/5870617"
+    },
+    {
+      "name": "Zeitmanagement und Datenermittlung",
+      "code": "601250",
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/zeitmanagement-und-datenermittlung/3168279"
+    },
+    {
+      "name": "Zellbiologie",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/otto-von-guericke-universitat-magdeburg/zellbiologie/1724216"
+    }
+  ]
+}

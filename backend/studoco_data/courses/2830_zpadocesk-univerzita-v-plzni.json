@@ -1,0 +1,921 @@
+{
+  "university_id": "2830",
+  "university_name": "Západoceská Univerzita v Plzni",
+  "courses": [
+    {
+      "name": "Analýza sociologických dat",
+      "code": "KSS/ASDY",
+      "url": "https://www.studocu.com/cs/course/zapadoceska-univerzita-v-plzni/analyza-sociologickych-dat/3641669"
+    },
+    {
+      "name": "Angličtina 2",
+      "code": "UJP/A2",
+      "url": "https://www.studocu.com/cs/course/zapadoceska-univerzita-v-plzni/anglictina-2/3641319"
+    },
+    {
+      "name": "Angličtina A",
+      "code": "UJP/AA",
+      "url": "https://www.studocu.com/cs/course/zapadoceska-univerzita-v-plzni/anglictina-a/3641317"
+    },
+    {
+      "name": "Angličtina pro finance a bankovnictví",
+      "code": "UJP/EFB",
+      "url": "https://www.studocu.com/cs/course/zapadoceska-univerzita-v-plzni/anglictina-pro-finance-a-bankovnictvi/3641719"
+    },
+    {
+      "name": "Ateliér Nová média 5",
+      "code": "KVU/NM5",
+      "url": "https://www.studocu.com/cs/course/zapadoceska-univerzita-v-plzni/atelier-nova-media-5/3641584"
+    },
+    {
+      "name": "Bakalářská státní zkouška z ekonomie",
+      "code": "KEM/SBZEK",
+      "url": "https://www.studocu.com/cs/course/zapadoceska-univerzita-v-plzni/bakalarska-statni-zkouska-z-ekonomie/3641472"
+    },
+    {
+      "name": "Bakalářská zkouška ze sociálního bloku",
+      "code": "KSR/BZSB",
+      "url": "https://www.studocu.com/cs/course/zapadoceska-univerzita-v-plzni/bakalarska-zkouska-ze-socialniho-bloku/3641763"
+    },
+    {
+      "name": "Civilní proces 3",
+      "code": "PR3N",
+      "url": "https://www.studocu.com/cs/course/zapadoceska-univerzita-v-plzni/civilni-proces-3/4284507"
+    },
+    {
+      "name": "Cizí jazyky pro komerční praxi - Ruština",
+      "code": "KAP/BAK",
+      "url": "https://www.studocu.com/cs/course/zapadoceska-univerzita-v-plzni/cizi-jazyky-pro-komercni-praxi-rustina/7117762"
+    },
+    {
+      "name": "československé právní dějiny",
+      "code": "ČD1",
+      "url": "https://www.studocu.com/cs/course/zapadoceska-univerzita-v-plzni/ceskoslovenske-pravni-dejiny/6772464"
+    },
+    {
+      "name": "České a československé právní dějiny 1",
+      "code": "KPD/ČD1VS",
+      "url": "https://www.studocu.com/cs/course/zapadoceska-univerzita-v-plzni/ceske-a-ceskoslovenske-pravni-dejiny-1/3641726"
+    },
+    {
+      "name": "České a československé právní dějiny 2",
+      "code": "KPD/ČD2VR",
+      "url": "https://www.studocu.com/cs/course/zapadoceska-univerzita-v-plzni/ceske-a-ceskoslovenske-pravni-dejiny-2/3641733"
+    },
+    {
+      "name": "České dějiny v 19. a 20. století",
+      "code": "KHV/CDSB",
+      "url": "https://www.studocu.com/cs/course/zapadoceska-univerzita-v-plzni/ceske-dejiny-v-19-a-20-stoleti/3641868"
+    },
+    {
+      "name": "Český politický systém",
+      "code": "KAP/CPS",
+      "url": "https://www.studocu.com/cs/course/zapadoceska-univerzita-v-plzni/cesky-politicky-system/3641607"
+    },
+    {
+      "name": "Deskriptivní geometrie 2",
+      "code": "KMA/DEG2",
+      "url": "https://www.studocu.com/cs/course/zapadoceska-univerzita-v-plzni/deskriptivni-geometrie-2/3641248"
+    },
+    {
+      "name": "Dálný východ ve 20. století",
+      "code": "KHV/VDHB",
+      "url": "https://www.studocu.com/cs/course/zapadoceska-univerzita-v-plzni/dalny-vychod-ve-20-stoleti/3641873"
+    },
+    {
+      "name": "Dějiny 20. století (obecné)",
+      "code": "KHV/DEHB",
+      "url": "https://www.studocu.com/cs/course/zapadoceska-univerzita-v-plzni/dejiny-20-stoleti-obecne/3641869"
+    },
+    {
+      "name": "Dějiny habsburské monarchie 1",
+      "code": "KHV/HMHB1",
+      "url": "https://www.studocu.com/cs/course/zapadoceska-univerzita-v-plzni/dejiny-habsburske-monarchie-1/3641864"
+    },
+    {
+      "name": "Dějiny mezinárodních vztahů 20. století",
+      "code": "KHV/MVHB",
+      "url": "https://www.studocu.com/cs/course/zapadoceska-univerzita-v-plzni/dejiny-mezinarodnich-vztahu-20-stoleti/3641866"
+    },
+    {
+      "name": "Dějiny Umění",
+      "code": "DUM",
+      "url": "https://www.studocu.com/cs/course/zapadoceska-univerzita-v-plzni/dejiny-umeni/3283462"
+    },
+    {
+      "name": "Dějiny umění 1",
+      "code": "KVU/DUM1",
+      "url": "https://www.studocu.com/cs/course/zapadoceska-univerzita-v-plzni/dejiny-umeni-1/3641389"
+    },
+    {
+      "name": "Ekonomická geografie 1",
+      "code": "KGE/EG1",
+      "url": "https://www.studocu.com/cs/course/zapadoceska-univerzita-v-plzni/ekonomicka-geografie-1/3641272"
+    },
+    {
+      "name": "Ekonomické dějiny českých zemí 2",
+      "code": "KEM/ECHB2",
+      "url": "https://www.studocu.com/cs/course/zapadoceska-univerzita-v-plzni/ekonomicke-dejiny-ceskych-zemi-2/3641884"
+    },
+    {
+      "name": "Elektroenergetika 2",
+      "code": "KEE/EE2",
+      "url": "https://www.studocu.com/cs/course/zapadoceska-univerzita-v-plzni/elektroenergetika-2/3641196"
+    },
+    {
+      "name": "Elektronické podnikání",
+      "code": "KEM/EPO",
+      "url": "https://www.studocu.com/cs/course/zapadoceska-univerzita-v-plzni/elektronicke-podnikani/3641469"
+    },
+    {
+      "name": "English",
+      "code": "english",
+      "url": "https://www.studocu.com/cs/course/zapadoceska-univerzita-v-plzni/english/6753001"
+    },
+    {
+      "name": "Evropa mezi válkami",
+      "code": "KHV/EMV",
+      "url": "https://www.studocu.com/cs/course/zapadoceska-univerzita-v-plzni/evropa-mezi-valkami/3641886"
+    },
+    {
+      "name": "Evropská ekonomická integrace",
+      "code": "KMO/EEI",
+      "url": "https://www.studocu.com/cs/course/zapadoceska-univerzita-v-plzni/evropska-ekonomicka-integrace/3641313"
+    },
+    {
+      "name": "Evropská unie",
+      "code": "KAP/UNIE",
+      "url": "https://www.studocu.com/cs/course/zapadoceska-univerzita-v-plzni/evropska-unie/3641614"
+    },
+    {
+      "name": "Evropské právo",
+      "code": "AEUL1",
+      "url": "https://www.studocu.com/cs/course/zapadoceska-univerzita-v-plzni/evropske-pravo/6800532"
+    },
+    {
+      "name": "Filozofie",
+      "code": "KFI/FBSZ",
+      "url": "https://www.studocu.com/cs/course/zapadoceska-univerzita-v-plzni/filozofie/3641374"
+    },
+    {
+      "name": "Filozofie 1",
+      "code": "KFI/F1HB",
+      "url": "https://www.studocu.com/cs/course/zapadoceska-univerzita-v-plzni/filozofie-1/3641835"
+    },
+    {
+      "name": "Finance",
+      "code": "AFU",
+      "url": "https://www.studocu.com/cs/course/zapadoceska-univerzita-v-plzni/finance/7728611"
+    },
+    {
+      "name": "Finanční a pojistné výpočty 1",
+      "code": "KEM/FIPV1",
+      "url": "https://www.studocu.com/cs/course/zapadoceska-univerzita-v-plzni/financni-a-pojistne-vypocty-1/3641464"
+    },
+    {
+      "name": "Finanční právo pro veřejnou správu 1",
+      "code": "KFP/FP1VR",
+      "url": "https://www.studocu.com/cs/course/zapadoceska-univerzita-v-plzni/financni-pravo-pro-verejnou-spravu-1/3641747"
+    },
+    {
+      "name": "Finanční právo pro Veřejnou správu 2",
+      "code": "KFP/FP2VR",
+      "url": "https://www.studocu.com/cs/course/zapadoceska-univerzita-v-plzni/financni-pravo-pro-verejnou-spravu-2/3641759"
+    },
+    {
+      "name": "Finanční účetnictví",
+      "code": "KFP/FAU",
+      "url": "https://www.studocu.com/cs/course/zapadoceska-univerzita-v-plzni/financni-ucetnictvi/3641815"
+    },
+    {
+      "name": "Francouzština 2",
+      "code": "UJP/F2",
+      "url": "https://www.studocu.com/cs/course/zapadoceska-univerzita-v-plzni/francouzstina-2/3641321"
+    },
+    {
+      "name": "Fyzika pro aplikované vědy 1",
+      "code": "KFY/FYA1",
+      "url": "https://www.studocu.com/cs/course/zapadoceska-univerzita-v-plzni/fyzika-pro-aplikovane-vedy-1/3641217"
+    },
+    {
+      "name": "Fyzika pro aplikované vědy 2",
+      "code": "KFY/FYA2",
+      "url": "https://www.studocu.com/cs/course/zapadoceska-univerzita-v-plzni/fyzika-pro-aplikovane-vedy-2/3641224"
+    },
+    {
+      "name": "Gender a sociální instituce",
+      "code": "KSS/1GESA",
+      "url": "https://www.studocu.com/cs/course/zapadoceska-univerzita-v-plzni/gender-a-socialni-instituce/3641713"
+    },
+    {
+      "name": "Geografické aspekty politiky",
+      "code": "KAP/GEO",
+      "url": "https://www.studocu.com/cs/course/zapadoceska-univerzita-v-plzni/geograficke-aspekty-politiky/3641602"
+    },
+    {
+      "name": "Geografie cestovního ruchu",
+      "code": "KMO/GCR",
+      "url": "https://www.studocu.com/cs/course/zapadoceska-univerzita-v-plzni/geografie-cestovniho-ruchu/3641529"
+    },
+    {
+      "name": "Geografie malé oblasti",
+      "code": "KGE/GEMO",
+      "url": "https://www.studocu.com/cs/course/zapadoceska-univerzita-v-plzni/geografie-male-oblasti/3641297"
+    },
+    {
+      "name": "Grafický design 1",
+      "code": "KDE/AGD1",
+      "url": "https://www.studocu.com/cs/course/zapadoceska-univerzita-v-plzni/graficky-design-1/3641406"
+    },
+    {
+      "name": "Historie a současnost notářství",
+      "code": "002",
+      "url": "https://www.studocu.com/cs/course/zapadoceska-univerzita-v-plzni/historie-a-soucasnost-notarstvi/4827427"
+    },
+    {
+      "name": "Hospodářská politika",
+      "code": "KEM/HPON",
+      "url": "https://www.studocu.com/cs/course/zapadoceska-univerzita-v-plzni/hospodarska-politika/3641746"
+    },
+    {
+      "name": "Informace ve veřejné správě",
+      "code": "KSR/IVTR",
+      "url": "https://www.studocu.com/cs/course/zapadoceska-univerzita-v-plzni/informace-ve-verejne-sprave/3641753"
+    },
+    {
+      "name": "Inovace a veřejná politika",
+      "code": "KSR/IVP",
+      "url": "https://www.studocu.com/cs/course/zapadoceska-univerzita-v-plzni/inovace-a-verejna-politika/3641830"
+    },
+    {
+      "name": "Islámské právo",
+      "code": "KTP/ISL",
+      "url": "https://www.studocu.com/cs/course/zapadoceska-univerzita-v-plzni/islamske-pravo/3641787"
+    },
+    {
+      "name": "Italština pro Historická studia",
+      "code": "KHV/IOHB",
+      "url": "https://www.studocu.com/cs/course/zapadoceska-univerzita-v-plzni/italstina-pro-historicka-studia/3641894"
+    },
+    {
+      "name": "Knižní vazba pro ilustraci",
+      "code": "KVU/ILKV",
+      "url": "https://www.studocu.com/cs/course/zapadoceska-univerzita-v-plzni/knizni-vazba-pro-ilustraci/3641399"
+    },
+    {
+      "name": "Konfesní právo",
+      "code": "KPD/KO",
+      "url": "https://www.studocu.com/cs/course/zapadoceska-univerzita-v-plzni/konfesni-pravo/3641803"
+    },
+    {
+      "name": "Kriminalistika",
+      "code": "KTR/KRA",
+      "url": "https://www.studocu.com/cs/course/zapadoceska-univerzita-v-plzni/kriminalistika/7414915"
+    },
+    {
+      "name": "Kultura společenské komunikace",
+      "code": "KFI/KSKH",
+      "url": "https://www.studocu.com/cs/course/zapadoceska-univerzita-v-plzni/kultura-spolecenske-komunikace/3641346"
+    },
+    {
+      "name": "Kulturní a sociální dějiny",
+      "code": "KHV/KSDB",
+      "url": "https://www.studocu.com/cs/course/zapadoceska-univerzita-v-plzni/kulturni-a-socialni-dejiny/3641838"
+    },
+    {
+      "name": "Latina 1",
+      "code": "KRO/LAT1",
+      "url": "https://www.studocu.com/cs/course/zapadoceska-univerzita-v-plzni/latina-1/3641842"
+    },
+    {
+      "name": "Letecké právo",
+      "code": "KTR/LEP",
+      "url": "https://www.studocu.com/cs/course/zapadoceska-univerzita-v-plzni/letecke-pravo/7724112"
+    },
+    {
+      "name": "Makroekonomie",
+      "code": "KEM/EK2",
+      "url": "https://www.studocu.com/cs/course/zapadoceska-univerzita-v-plzni/makroekonomie/3641451"
+    },
+    {
+      "name": "Manažerské účetnictví",
+      "code": "KFU/MUC",
+      "url": "https://www.studocu.com/cs/course/zapadoceska-univerzita-v-plzni/manazerske-ucetnictvi/3641587"
+    },
+    {
+      "name": "Marketingové aplikace",
+      "code": "KMO/MTGB",
+      "url": "https://www.studocu.com/cs/course/zapadoceska-univerzita-v-plzni/marketingove-aplikace/3641481"
+    },
+    {
+      "name": "Marketingové aplikace v angličtině",
+      "code": "KMO/AMTGB",
+      "url": "https://www.studocu.com/cs/course/zapadoceska-univerzita-v-plzni/marketingove-aplikace-v-anglictine/3641538"
+    },
+    {
+      "name": "Matematika 1",
+      "code": "KMA/MA1E",
+      "url": "https://www.studocu.com/cs/course/zapadoceska-univerzita-v-plzni/matematika-1/3641160"
+    },
+    {
+      "name": "Matematika 1",
+      "code": "KMA/M1",
+      "url": "https://www.studocu.com/cs/course/zapadoceska-univerzita-v-plzni/matematika-1/3641216"
+    },
+    {
+      "name": "Metodologie a teorie hist. a antr. věd",
+      "code": "KHV/IHBSZ",
+      "url": "https://www.studocu.com/cs/course/zapadoceska-univerzita-v-plzni/metodologie-a-teorie-hist-a-antr-ved/3641874"
+    },
+    {
+      "name": "Mezinárodní právo",
+      "code": "AIIL",
+      "url": "https://www.studocu.com/cs/course/zapadoceska-univerzita-v-plzni/mezinarodni-pravo/6119547"
+    },
+    {
+      "name": "Mikroekonomie",
+      "code": "KEM/EK1",
+      "url": "https://www.studocu.com/cs/course/zapadoceska-univerzita-v-plzni/mikroekonomie/3641446"
+    },
+    {
+      "name": "Moderní dějiny Jižní Afriky",
+      "code": "KHV/JAHB",
+      "url": "https://www.studocu.com/cs/course/zapadoceska-univerzita-v-plzni/moderni-dejiny-jizni-afriky/3641882"
+    },
+    {
+      "name": "Moderní dějiny Velké Británie",
+      "code": "KHV/GBHB",
+      "url": "https://www.studocu.com/cs/course/zapadoceska-univerzita-v-plzni/moderni-dejiny-velke-britanie/3641858"
+    },
+    {
+      "name": "Místní právní předpisy a jejich tvorba",
+      "code": "KSR/MPPR",
+      "url": "https://www.studocu.com/cs/course/zapadoceska-univerzita-v-plzni/mistni-pravni-predpisy-a-jejich-tvorba/3641754"
+    },
+    {
+      "name": "Náhrada majetkové a nemajetkové újmy",
+      "code": "KPO/NÚ",
+      "url": "https://www.studocu.com/cs/course/zapadoceska-univerzita-v-plzni/nahrada-majetkove-a-nemajetkove-ujmy/3641828"
+    },
+    {
+      "name": "Obecná psychologie a psychologie osobnosti",
+      "code": "ROBON1",
+      "url": "https://www.studocu.com/cs/course/zapadoceska-univerzita-v-plzni/obecna-psychologie-a-psychologie-osobnosti/6056051"
+    },
+    {
+      "name": "Obecná sociologie",
+      "code": "KSS/RIS",
+      "url": "https://www.studocu.com/cs/course/zapadoceska-univerzita-v-plzni/obecna-sociologie/3641711"
+    },
+    {
+      "name": "Obecné dějiny",
+      "code": "KHV/OHBSZ",
+      "url": "https://www.studocu.com/cs/course/zapadoceska-univerzita-v-plzni/obecne-dejiny/3641875"
+    },
+    {
+      "name": "Obecné dějiny státu a práva 1",
+      "code": "KPD/OD1",
+      "url": "https://www.studocu.com/cs/course/zapadoceska-univerzita-v-plzni/obecne-dejiny-statu-a-prava-1/5851751"
+    },
+    {
+      "name": "Občanské právo hmotné 1",
+      "code": "KPO/OH1",
+      "url": "https://www.studocu.com/cs/course/zapadoceska-univerzita-v-plzni/obcanske-pravo-hmotne-1/6052674"
+    },
+    {
+      "name": "Občanské Právo Hmotné 3",
+      "code": "KPO/OH3",
+      "url": "https://www.studocu.com/cs/course/zapadoceska-univerzita-v-plzni/obcanske-pravo-hmotne-3/7159978"
+    },
+    {
+      "name": "Ochrana životního prostředí",
+      "code": "KEE/OŽP",
+      "url": "https://www.studocu.com/cs/course/zapadoceska-univerzita-v-plzni/ochrana-zivotniho-prostredi/3641158"
+    },
+    {
+      "name": "Odborná angličtina pro právníky 1",
+      "code": "UJP/AP1",
+      "url": "https://www.studocu.com/cs/course/zapadoceska-univerzita-v-plzni/odborna-anglictina-pro-pravniky-1/3641831"
+    },
+    {
+      "name": "Odborná angličtina pro právníky 1",
+      "code": "AP1",
+      "url": "https://www.studocu.com/cs/course/zapadoceska-univerzita-v-plzni/odborna-anglictina-pro-pravniky-1/6757194"
+    },
+    {
+      "name": "Odborná angličtina pro právníky 2",
+      "code": "UJP/AP2",
+      "url": "https://www.studocu.com/cs/course/zapadoceska-univerzita-v-plzni/odborna-anglictina-pro-pravniky-2/3641833"
+    },
+    {
+      "name": "Odborná němčina pro právníky 1",
+      "code": "UJP/NP1",
+      "url": "https://www.studocu.com/cs/course/zapadoceska-univerzita-v-plzni/odborna-nemcina-pro-pravniky-1/3641832"
+    },
+    {
+      "name": "Operační výzkum",
+      "code": "KEM/OV",
+      "url": "https://www.studocu.com/cs/course/zapadoceska-univerzita-v-plzni/operacni-vyzkum/3641456"
+    },
+    {
+      "name": "Organizační procesy ve veřejné správě",
+      "code": "KSR/OPVR",
+      "url": "https://www.studocu.com/cs/course/zapadoceska-univerzita-v-plzni/organizacni-procesy-ve-verejne-sprave/3641739"
+    },
+    {
+      "name": "Photography",
+      "code": "DUM1",
+      "url": "https://www.studocu.com/cs/course/zapadoceska-univerzita-v-plzni/photography/6698160"
+    },
+    {
+      "name": "Podnik v mezinárodním prostředí v AJ",
+      "code": "KPM/AIB",
+      "url": "https://www.studocu.com/cs/course/zapadoceska-univerzita-v-plzni/podnik-v-mezinarodnim-prostredi-v-aj/3641540"
+    },
+    {
+      "name": "Podniková ekonomika 1",
+      "code": "KPM/PE1",
+      "url": "https://www.studocu.com/cs/course/zapadoceska-univerzita-v-plzni/podnikova-ekonomika-1/3641449"
+    },
+    {
+      "name": "Podnikové informační systémy",
+      "code": "KPV/PIS",
+      "url": "https://www.studocu.com/cs/course/zapadoceska-univerzita-v-plzni/podnikove-informacni-systemy/3641471"
+    },
+    {
+      "name": "Politologie 1",
+      "code": "KAP/PP1",
+      "url": "https://www.studocu.com/cs/course/zapadoceska-univerzita-v-plzni/politologie-1/3641646"
+    },
+    {
+      "name": "Pracovní právo 1",
+      "code": "KPP/PO1R",
+      "url": "https://www.studocu.com/cs/course/zapadoceska-univerzita-v-plzni/pracovni-pravo-1/3641743"
+    },
+    {
+      "name": "Pracovní právo 2 pro veř. spr.",
+      "code": "KPP/PO2VS",
+      "url": "https://www.studocu.com/cs/course/zapadoceska-univerzita-v-plzni/pracovni-pravo-2-pro-ver-spr/3641748"
+    },
+    {
+      "name": "Praxe",
+      "code": "KDE/PRX",
+      "url": "https://www.studocu.com/cs/course/zapadoceska-univerzita-v-plzni/praxe/3641418"
+    },
+    {
+      "name": "Projektový management",
+      "code": "KPM/PM",
+      "url": "https://www.studocu.com/cs/course/zapadoceska-univerzita-v-plzni/projektovy-management/3641468"
+    },
+    {
+      "name": "Prostorová a sociální organizace společ",
+      "code": "KSR/PSOS",
+      "url": "https://www.studocu.com/cs/course/zapadoceska-univerzita-v-plzni/prostorova-a-socialni-organizace-spolec/3641735"
+    },
+    {
+      "name": "Pružnost pevnost",
+      "code": "KME/PP1",
+      "url": "https://www.studocu.com/cs/course/zapadoceska-univerzita-v-plzni/pruznost-pevnost/6492186"
+    },
+    {
+      "name": "Právnické profese v justici",
+      "code": "KPO/PPJ",
+      "url": "https://www.studocu.com/cs/course/zapadoceska-univerzita-v-plzni/pravnicke-profese-v-justici/7747286"
+    },
+    {
+      "name": "Právní aspekty etiky v podnikání",
+      "code": "KFP/EPO",
+      "url": "https://www.studocu.com/cs/course/zapadoceska-univerzita-v-plzni/pravni-aspekty-etiky-v-podnikani/3641781"
+    },
+    {
+      "name": "Právní dějiny mimoevropských zemí 1",
+      "code": "KPD/PDMZ1",
+      "url": "https://www.studocu.com/cs/course/zapadoceska-univerzita-v-plzni/pravni-dejiny-mimoevropskych-zemi-1/3641783"
+    },
+    {
+      "name": "Právní dějiny mimoevropských zemí 2",
+      "code": "KPD/PDMZ2",
+      "url": "https://www.studocu.com/cs/course/zapadoceska-univerzita-v-plzni/pravni-dejiny-mimoevropskych-zemi-2/3641793"
+    },
+    {
+      "name": "Právní dějiny zemí bývalého SSSR",
+      "code": "KPD/PDZBS",
+      "url": "https://www.studocu.com/cs/course/zapadoceska-univerzita-v-plzni/pravni-dejiny-zemi-byvaleho-sssr/3641785"
+    },
+    {
+      "name": "Právní etika",
+      "code": "KTP/PRE",
+      "url": "https://www.studocu.com/cs/course/zapadoceska-univerzita-v-plzni/pravni-etika/3641797"
+    },
+    {
+      "name": "Právní úprava neziskového sektoru",
+      "code": "KSR/UNS",
+      "url": "https://www.studocu.com/cs/course/zapadoceska-univerzita-v-plzni/pravni-uprava-neziskoveho-sektoru/3641827"
+    },
+    {
+      "name": "Právo a ekonomie",
+      "code": "KFP/PAE",
+      "url": "https://www.studocu.com/cs/course/zapadoceska-univerzita-v-plzni/pravo-a-ekonomie/3641742"
+    },
+    {
+      "name": "Právo Evropské unie 1",
+      "code": "PEU1R",
+      "url": "https://www.studocu.com/cs/course/zapadoceska-univerzita-v-plzni/pravo-evropske-unie-1/7341098"
+    },
+    {
+      "name": "Právo sociálního zabezpečení",
+      "code": "PZR",
+      "url": "https://www.studocu.com/cs/course/zapadoceska-univerzita-v-plzni/pravo-socialniho-zabezpeceni/5210539"
+    },
+    {
+      "name": "Psychologie v ekonomické praxi",
+      "code": "KPM/PSYCH",
+      "url": "https://www.studocu.com/cs/course/zapadoceska-univerzita-v-plzni/psychologie-v-ekonomicke-praxi/3641450"
+    },
+    {
+      "name": "Regionální a městský management a mtg.",
+      "code": "KGE/RMM",
+      "url": "https://www.studocu.com/cs/course/zapadoceska-univerzita-v-plzni/regionalni-a-mestsky-management-a-mtg/3641528"
+    },
+    {
+      "name": "Regionální ekonomika",
+      "code": "KGE/REE",
+      "url": "https://www.studocu.com/cs/course/zapadoceska-univerzita-v-plzni/regionalni-ekonomika/3641732"
+    },
+    {
+      "name": "Regionální ekonomika a reg. politika",
+      "code": "KGE/REG1",
+      "url": "https://www.studocu.com/cs/course/zapadoceska-univerzita-v-plzni/regionalni-ekonomika-a-reg-politika/3641299"
+    },
+    {
+      "name": "Rodinné právo",
+      "code": "KPO/ROP",
+      "url": "https://www.studocu.com/cs/course/zapadoceska-univerzita-v-plzni/rodinne-pravo/7413758"
+    },
+    {
+      "name": "Rozpočtování projektů",
+      "code": "KPM/ROP",
+      "url": "https://www.studocu.com/cs/course/zapadoceska-univerzita-v-plzni/rozpoctovani-projektu/3641597"
+    },
+    {
+      "name": "římské právo",
+      "code": "KPD-ŘP1",
+      "url": "https://www.studocu.com/cs/course/zapadoceska-univerzita-v-plzni/rimske-pravo/6712959"
+    },
+    {
+      "name": "Římské právo 1 pro veřejnou správu",
+      "code": "KPD/ŘP1VS",
+      "url": "https://www.studocu.com/cs/course/zapadoceska-univerzita-v-plzni/rimske-pravo-1-pro-verejnou-spravu/3641727"
+    },
+    {
+      "name": "Římské právo 2",
+      "code": "KPD/ŘP2",
+      "url": "https://www.studocu.com/cs/course/zapadoceska-univerzita-v-plzni/rimske-pravo-2/6940548"
+    },
+    {
+      "name": "Římské právo 2 pro veřejnou správu",
+      "code": "KPD/ŘP2VR",
+      "url": "https://www.studocu.com/cs/course/zapadoceska-univerzita-v-plzni/rimske-pravo-2-pro-verejnou-spravu/3641734"
+    },
+    {
+      "name": "Římské právo ve středověku",
+      "code": "KPD/ŘPST",
+      "url": "https://www.studocu.com/cs/course/zapadoceska-univerzita-v-plzni/rimske-pravo-ve-stredoveku/3641795"
+    },
+    {
+      "name": "Seminář k bakalářské práci",
+      "code": "KSR/BPR",
+      "url": "https://www.studocu.com/cs/course/zapadoceska-univerzita-v-plzni/seminar-k-bakalarske-praci/3641750"
+    },
+    {
+      "name": "Seminář k přípravě ČDDZ",
+      "code": "SČDZ1",
+      "url": "https://www.studocu.com/cs/course/zapadoceska-univerzita-v-plzni/seminar-k-priprave-cddz/7544544"
+    },
+    {
+      "name": "Seminář z ekonomie",
+      "code": "KEM/SEMEK",
+      "url": "https://www.studocu.com/cs/course/zapadoceska-univerzita-v-plzni/seminar-z-ekonomie/3641600"
+    },
+    {
+      "name": "Služební a pracovněprávní vztahy ve VS",
+      "code": "KSR/PMVSN",
+      "url": "https://www.studocu.com/cs/course/zapadoceska-univerzita-v-plzni/sluzebni-a-pracovnepravni-vztahy-ve-vs/3641740"
+    },
+    {
+      "name": "Socioekonomická a správní geografie",
+      "code": "KGE/SSG",
+      "url": "https://www.studocu.com/cs/course/zapadoceska-univerzita-v-plzni/socioekonomicka-a-spravni-geografie/3641725"
+    },
+    {
+      "name": "Sociální a manažerské dovednosti",
+      "code": "KPM/SOMAD",
+      "url": "https://www.studocu.com/cs/course/zapadoceska-univerzita-v-plzni/socialni-a-manazerske-dovednosti/3641309"
+    },
+    {
+      "name": "Sociální a zdravotní politika a správa",
+      "code": "KSR/SZPR",
+      "url": "https://www.studocu.com/cs/course/zapadoceska-univerzita-v-plzni/socialni-a-zdravotni-politika-a-sprava/3641745"
+    },
+    {
+      "name": "Současná česká společnost",
+      "code": "KSS/1SCSA",
+      "url": "https://www.studocu.com/cs/course/zapadoceska-univerzita-v-plzni/soucasna-ceska-spolecnost/3641687"
+    },
+    {
+      "name": "Současný český jazyk 1",
+      "code": "SČA 1",
+      "url": "https://www.studocu.com/cs/course/zapadoceska-univerzita-v-plzni/soucasny-cesky-jazyk-1/7675558"
+    },
+    {
+      "name": "Společnost, sociální rozvoj a VS",
+      "code": "KSR/SSSR",
+      "url": "https://www.studocu.com/cs/course/zapadoceska-univerzita-v-plzni/spolecnost-socialni-rozvoj-a-vs/3641728"
+    },
+    {
+      "name": "Správní právo 1",
+      "code": "KSP/SP1R",
+      "url": "https://www.studocu.com/cs/course/zapadoceska-univerzita-v-plzni/spravni-pravo-1/3641744"
+    },
+    {
+      "name": "Správní právo 2",
+      "code": "KSP/SP2N",
+      "url": "https://www.studocu.com/cs/course/zapadoceska-univerzita-v-plzni/spravni-pravo-2/3641749"
+    },
+    {
+      "name": "Správní právo 2",
+      "code": "SP2N",
+      "url": "https://www.studocu.com/cs/course/zapadoceska-univerzita-v-plzni/spravni-pravo-2/7299747"
+    },
+    {
+      "name": "Správní právo 3",
+      "code": "KSP/SP3N",
+      "url": "https://www.studocu.com/cs/course/zapadoceska-univerzita-v-plzni/spravni-pravo-3/3641761"
+    },
+    {
+      "name": "Srovnávací Dějiny Veřejného Práva Ve Střední Evropě",
+      "code": null,
+      "url": "https://www.studocu.com/cs/course/zapadoceska-univerzita-v-plzni/srovnavaci-dejiny-verejneho-prava-ve-stredni-evrope/7618352"
+    },
+    {
+      "name": "Srovnávací ústavní studie 2",
+      "code": "KUP/ASS2",
+      "url": "https://www.studocu.com/cs/course/zapadoceska-univerzita-v-plzni/srovnavaci-ustavni-studie-2/6916356"
+    },
+    {
+      "name": "Statistika",
+      "code": "KEM/STA",
+      "url": "https://www.studocu.com/cs/course/zapadoceska-univerzita-v-plzni/statistika/3641460"
+    },
+    {
+      "name": "Stavební právo",
+      "code": "KSR/STP",
+      "url": "https://www.studocu.com/cs/course/zapadoceska-univerzita-v-plzni/stavebni-pravo/3641826"
+    },
+    {
+      "name": "Státní bakalářská zkouška SPŘ",
+      "code": "KPM/SBZSP",
+      "url": "https://www.studocu.com/cs/course/zapadoceska-univerzita-v-plzni/statni-bakalarska-zkouska-spr/3641718"
+    },
+    {
+      "name": "Státní závěrečná zkouška",
+      "code": "KFI/SZZ",
+      "url": "https://www.studocu.com/cs/course/zapadoceska-univerzita-v-plzni/statni-zaverecna-zkouska/3641372"
+    },
+    {
+      "name": "Státověda",
+      "code": "KÚP/SVR",
+      "url": "https://www.studocu.com/cs/course/zapadoceska-univerzita-v-plzni/statoveda/3641730"
+    },
+    {
+      "name": "Středověk v českých zemích",
+      "code": "KHV/SCHB",
+      "url": "https://www.studocu.com/cs/course/zapadoceska-univerzita-v-plzni/stredovek-v-ceskych-zemich/3641846"
+    },
+    {
+      "name": "Světová ekonomika a EU",
+      "code": "KMO/SE",
+      "url": "https://www.studocu.com/cs/course/zapadoceska-univerzita-v-plzni/svetova-ekonomika-a-eu/3641339"
+    },
+    {
+      "name": "Systémové přístupy v managementu",
+      "code": "KPM/SPM",
+      "url": "https://www.studocu.com/cs/course/zapadoceska-univerzita-v-plzni/systemove-pristupy-v-managementu/3641715"
+    },
+    {
+      "name": "Španělština pro Historická studia",
+      "code": "KHV/SOHB",
+      "url": "https://www.studocu.com/cs/course/zapadoceska-univerzita-v-plzni/spanelstina-pro-historicka-studia/3641897"
+    },
+    {
+      "name": "Technická dokumentace",
+      "code": "KEV/TD",
+      "url": "https://www.studocu.com/cs/course/zapadoceska-univerzita-v-plzni/technicka-dokumentace/3641159"
+    },
+    {
+      "name": "Technologie elektroniky",
+      "code": "KET/TEL",
+      "url": "https://www.studocu.com/cs/course/zapadoceska-univerzita-v-plzni/technologie-elektroniky/3641173"
+    },
+    {
+      "name": "Teorie argumentace",
+      "code": "KFI/TAR",
+      "url": "https://www.studocu.com/cs/course/zapadoceska-univerzita-v-plzni/teorie-argumentace/3641371"
+    },
+    {
+      "name": "Teorie elektrických strojů 1",
+      "code": "KEV/TES1",
+      "url": "https://www.studocu.com/cs/course/zapadoceska-univerzita-v-plzni/teorie-elektrickych-stroju-1/3641187"
+    },
+    {
+      "name": "Teorie práva",
+      "code": "TP1",
+      "url": "https://www.studocu.com/cs/course/zapadoceska-univerzita-v-plzni/teorie-prava/6772465"
+    },
+    {
+      "name": "Teorie práva 1 - právní propedeutika",
+      "code": "KTP/TP1R",
+      "url": "https://www.studocu.com/cs/course/zapadoceska-univerzita-v-plzni/teorie-prava-1-pravni-propedeutika/3641729"
+    },
+    {
+      "name": "Teorie práva 2 - právní metodologie",
+      "code": "KTP/TP2R",
+      "url": "https://www.studocu.com/cs/course/zapadoceska-univerzita-v-plzni/teorie-prava-2-pravni-metodologie/3641736"
+    },
+    {
+      "name": "Terénní praxe z fyzické geografie",
+      "code": "CBG/FGP",
+      "url": "https://www.studocu.com/cs/course/zapadoceska-univerzita-v-plzni/terenni-praxe-z-fyzicke-geografie/3641340"
+    },
+    {
+      "name": "Trestní právo",
+      "code": null,
+      "url": "https://www.studocu.com/cs/course/zapadoceska-univerzita-v-plzni/trestni-pravo/4345315"
+    },
+    {
+      "name": "Trestní právo v historickém vývoji",
+      "code": "KPD/TPVH",
+      "url": "https://www.studocu.com/cs/course/zapadoceska-univerzita-v-plzni/trestni-pravo-v-historickem-vyvoji/6700596"
+    },
+    {
+      "name": "Veřejný prostor a veřejná správa",
+      "code": "KSR/VPVS",
+      "url": "https://www.studocu.com/cs/course/zapadoceska-univerzita-v-plzni/verejny-prostor-a-verejna-sprava/3641811"
+    },
+    {
+      "name": "Vybrané kapitoly z anglických dějin",
+      "code": "KHV/ADHB",
+      "url": "https://www.studocu.com/cs/course/zapadoceska-univerzita-v-plzni/vybrane-kapitoly-z-anglickych-dejin/3641885"
+    },
+    {
+      "name": "Vybrané kapitoly z dějin fin. vztahů",
+      "code": "KFP/DEFI",
+      "url": "https://www.studocu.com/cs/course/zapadoceska-univerzita-v-plzni/vybrane-kapitoly-z-dejin-fin-vztahu/3641805"
+    },
+    {
+      "name": "Výrobní a logistické systémy",
+      "code": "KEM/VLS",
+      "url": "https://www.studocu.com/cs/course/zapadoceska-univerzita-v-plzni/vyrobni-a-logisticke-systemy/3641461"
+    },
+    {
+      "name": "Výzkum veřejného mínění",
+      "code": "KSS/VEM",
+      "url": "https://www.studocu.com/cs/course/zapadoceska-univerzita-v-plzni/vyzkum-verejneho-mineni/3641680"
+    },
+    {
+      "name": "Věcná práva",
+      "code": "KPO/VPR",
+      "url": "https://www.studocu.com/cs/course/zapadoceska-univerzita-v-plzni/vecna-prava/6950635"
+    },
+    {
+      "name": "Zahraniční politika",
+      "code": "KAP/ZAPO",
+      "url": "https://www.studocu.com/cs/course/zapadoceska-univerzita-v-plzni/zahranicni-politika/7348089"
+    },
+    {
+      "name": "Zemědělské, chovatelské a lovecké právo",
+      "code": "KSP/ZCHLP",
+      "url": "https://www.studocu.com/cs/course/zapadoceska-univerzita-v-plzni/zemedelske-chovatelske-a-lovecke-pravo/3641829"
+    },
+    {
+      "name": "Základy informačních systémů",
+      "code": "KIV/ZIS",
+      "url": "https://www.studocu.com/cs/course/zapadoceska-univerzita-v-plzni/zaklady-informacnich-systemu/3641520"
+    },
+    {
+      "name": "Základy konstruování",
+      "code": "KKS/ZK",
+      "url": "https://www.studocu.com/cs/course/zapadoceska-univerzita-v-plzni/zaklady-konstruovani/6513466"
+    },
+    {
+      "name": "Základy legislativy",
+      "code": "KTP/ZL1",
+      "url": "https://www.studocu.com/cs/course/zapadoceska-univerzita-v-plzni/zaklady-legislativy/7386687"
+    },
+    {
+      "name": "Základy managementu",
+      "code": "KPM/ZM",
+      "url": "https://www.studocu.com/cs/course/zapadoceska-univerzita-v-plzni/zaklady-managementu/3641463"
+    },
+    {
+      "name": "Základy marketingu",
+      "code": "KMO/MTGA",
+      "url": "https://www.studocu.com/cs/course/zapadoceska-univerzita-v-plzni/zaklady-marketingu/3641459"
+    },
+    {
+      "name": "Základy matematiky 1",
+      "code": "KMA/ZM1",
+      "url": "https://www.studocu.com/cs/course/zapadoceska-univerzita-v-plzni/zaklady-matematiky-1/3641448"
+    },
+    {
+      "name": "Základy národního hosp. a finanční vědy",
+      "code": "KFP/ZNH",
+      "url": "https://www.studocu.com/cs/course/zapadoceska-univerzita-v-plzni/zaklady-narodniho-hosp-a-financni-vedy/3641738"
+    },
+    {
+      "name": "Základy podnikání",
+      "code": "KPM/ZAP",
+      "url": "https://www.studocu.com/cs/course/zapadoceska-univerzita-v-plzni/zaklady-podnikani/3641301"
+    },
+    {
+      "name": "Základy psychologie",
+      "code": "KPS/ZAPS",
+      "url": "https://www.studocu.com/cs/course/zapadoceska-univerzita-v-plzni/zaklady-psychologie/3641349"
+    },
+    {
+      "name": "Základy soukromého práva",
+      "code": "KPO/ZSP",
+      "url": "https://www.studocu.com/cs/course/zapadoceska-univerzita-v-plzni/zaklady-soukromeho-prava/3641235"
+    },
+    {
+      "name": "Základy správní vědy",
+      "code": "KSR/ZSS",
+      "url": "https://www.studocu.com/cs/course/zapadoceska-univerzita-v-plzni/zaklady-spravni-vedy/3641741"
+    },
+    {
+      "name": "Základy účetnictví",
+      "code": "KFU/ZUC",
+      "url": "https://www.studocu.com/cs/course/zapadoceska-univerzita-v-plzni/zaklady-ucetnictvi/3641478"
+    },
+    {
+      "name": "Základy češtiny 1",
+      "code": "UJP/CZK1",
+      "url": "https://www.studocu.com/cs/course/zapadoceska-univerzita-v-plzni/zaklady-cestiny-1/3641553"
+    },
+    {
+      "name": "Základy češtiny 2",
+      "code": "UJP/CZK2",
+      "url": "https://www.studocu.com/cs/course/zapadoceska-univerzita-v-plzni/zaklady-cestiny-2/3641555"
+    },
+    {
+      "name": "Židovské a islámské právo v komparaci",
+      "code": "KTP/AJIL",
+      "url": "https://www.studocu.com/cs/course/zapadoceska-univerzita-v-plzni/zidovske-a-islamske-pravo-v-komparaci/5922847"
+    },
+    {
+      "name": "Židovské právo",
+      "code": "KÚP/ZIP",
+      "url": "https://www.studocu.com/cs/course/zapadoceska-univerzita-v-plzni/zidovske-pravo/3641799"
+    },
+    {
+      "name": "Ústava a právo na informace",
+      "code": "KÚP/LPT",
+      "url": "https://www.studocu.com/cs/course/zapadoceska-univerzita-v-plzni/ustava-a-pravo-na-informace/3641813"
+    },
+    {
+      "name": "Ústavní právo 1",
+      "code": "KÚP/ÚP1Z",
+      "url": "https://www.studocu.com/cs/course/zapadoceska-univerzita-v-plzni/ustavni-pravo-1/3641731"
+    },
+    {
+      "name": "Ústavní právo 2",
+      "code": "KÚP/ÚP2R",
+      "url": "https://www.studocu.com/cs/course/zapadoceska-univerzita-v-plzni/ustavni-pravo-2/3641737"
+    },
+    {
+      "name": "Úvod do mezinárodních vztahů",
+      "code": "KAP/UMV",
+      "url": "https://www.studocu.com/cs/course/zapadoceska-univerzita-v-plzni/uvod-do-mezinarodnich-vztahu/3641604"
+    },
+    {
+      "name": "Úvod do obchodního práva",
+      "code": "KOP/ÚOP",
+      "url": "https://www.studocu.com/cs/course/zapadoceska-univerzita-v-plzni/uvod-do-obchodniho-prava/3641454"
+    },
+    {
+      "name": "Úvod do studia geografie",
+      "code": "KGE/UGE",
+      "url": "https://www.studocu.com/cs/course/zapadoceska-univerzita-v-plzni/uvod-do-studia-geografie/3641278"
+    },
+    {
+      "name": "Úvod do studia lidských práv",
+      "code": "KTP/ULP",
+      "url": "https://www.studocu.com/cs/course/zapadoceska-univerzita-v-plzni/uvod-do-studia-lidskych-prav/3641789"
+    },
+    {
+      "name": "Úvod do studia sociálních věd",
+      "code": "KSS/USV",
+      "url": "https://www.studocu.com/cs/course/zapadoceska-univerzita-v-plzni/uvod-do-studia-socialnich-ved/3641650"
+    }
+  ]
+}

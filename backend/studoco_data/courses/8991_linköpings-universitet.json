@@ -1,0 +1,2986 @@
+{
+  "university_id": "8991",
+  "university_name": "Linköpings Universitet",
+  "courses": [
+    {
+      "name": "3-D Computer Graphics",
+      "code": "TNM061",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/3-d-computer-graphics/2847396"
+    },
+    {
+      "name": "Accociationsrätt",
+      "code": "747G70",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/accociationsratt/4837242"
+    },
+    {
+      "name": "Advanced Programming in C++",
+      "code": "TDDD38",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/advanced-programming-in-c/2847226"
+    },
+    {
+      "name": "Affärskommuniaktion för jurister",
+      "code": "704G72",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/affarskommuniaktion-for-jurister/6695290"
+    },
+    {
+      "name": "Affärsrätt",
+      "code": "747G16",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/affarsratt/4391032"
+    },
+    {
+      "name": "Affärsstrategier",
+      "code": "Teie72",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/affarsstrategier/5146409"
+    },
+    {
+      "name": "AI Robotics",
+      "code": "TDDE05",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/ai-robotics/2847238"
+    },
+    {
+      "name": "Akademisk Engelska, grundkurs",
+      "code": "711G66",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/akademisk-engelska-grundkurs/6057498"
+    },
+    {
+      "name": "Allmän farmakologi",
+      "code": null,
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/allman-farmakologi/7747598"
+    },
+    {
+      "name": "Allmän kemi 2",
+      "code": "NKEA04",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/allman-kemi-2/5126486"
+    },
+    {
+      "name": "Allmän rättslära 1",
+      "code": null,
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/allman-rattslara-1/5925449"
+    },
+    {
+      "name": "Alternative Energy",
+      "code": "TFYA85",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/alternative-energy/6881333"
+    },
+    {
+      "name": "Analog Circuits",
+      "code": "TSTE93",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/analog-circuits/2847434"
+    },
+    {
+      "name": "Analoga filter",
+      "code": "TSEI68",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/analoga-filter/5355178"
+    },
+    {
+      "name": "Analys i en variabel",
+      "code": "TAIU10",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/analys-i-en-variabel/2998686"
+    },
+    {
+      "name": "Analytical Chemistry T",
+      "code": "NKEB05",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/analytical-chemistry-t/2847182"
+    },
+    {
+      "name": "Application-Specific Integrated Circuits",
+      "code": "TSTE87",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/application-specific-integrated-circuits/2847433"
+    },
+    {
+      "name": "Applied Cognitive Science",
+      "code": "729G19",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/applied-cognitive-science/2846811"
+    },
+    {
+      "name": "Applied Neuropsychology",
+      "code": "735A10",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/applied-neuropsychology/2846846"
+    },
+    {
+      "name": "Arbetsrätt",
+      "code": "747G48",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/arbetsratt/4335185"
+    },
+    {
+      "name": "Arbetsrätt",
+      "code": "702G10",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/arbetsratt/6623157"
+    },
+    {
+      "name": "Arbetsterapi vid sjukdomar och hälsoproblem - II",
+      "code": "8ATG44",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/arbetsterapi-vid-sjukdomar-och-halsoproblem-ii/5856113"
+    },
+    {
+      "name": "Artificial Intelligence - Principles and Techniques",
+      "code": "TNM096",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/artificial-intelligence-principles-and-techniques/2847399"
+    },
+    {
+      "name": "Associationsrätt",
+      "code": "702G15",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/associationsratt/7555002"
+    },
+    {
+      "name": "Associationsrätt med ekonomisk inriktning",
+      "code": "747G64",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/associationsratt-med-ekonomisk-inriktning/4543332"
+    },
+    {
+      "name": "Automatic Control",
+      "code": "TSRT19",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/automatic-control/2847431"
+    },
+    {
+      "name": "Automatic Control",
+      "code": "TSRT12",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/automatic-control/4382383"
+    },
+    {
+      "name": "Avancerad skadeståndsrätt",
+      "code": "747A10",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/avancerad-skadestandsratt/5056674"
+    },
+    {
+      "name": "Ägande- och nyttjanderätt till fast egendom",
+      "code": "747G50",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/agande-och-nyttjanderatt-till-fast-egendom/4393352"
+    },
+    {
+      "name": "Bachelor Thesis - Energy and Environment Engineering",
+      "code": "TKMJ41",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/bachelor-thesis-energy-and-environment-engineering/2847327"
+    },
+    {
+      "name": "Bachelor Thesis - Mechanical Engineering",
+      "code": "TMMT31",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/bachelor-thesis-mechanical-engineering/2847356"
+    },
+    {
+      "name": "Bachelor Thesis in Social Work",
+      "code": "745G53",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/bachelor-thesis-in-social-work/2846876"
+    },
+    {
+      "name": "Barn- och ungdomspsykiatri",
+      "code": "8FG077",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/barn-och-ungdomspsykiatri/6599756"
+    },
+    {
+      "name": "Basic Course on Commercial Law, basic course",
+      "code": "747G06",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/basic-course-on-commercial-law-basic-course/2846888"
+    },
+    {
+      "name": "Basic Japanese",
+      "code": "TEJA02",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/basic-japanese/2847273"
+    },
+    {
+      "name": "Bayesian Learning",
+      "code": "TDDE07",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/bayesian-learning/2847240"
+    },
+    {
+      "name": "bedömning och betygsättning",
+      "code": "9VAA09",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/bedomning-och-betygsattning/5141369"
+    },
+    {
+      "name": "Beginners Course in Swedish, level 1",
+      "code": "THSV08",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/beginners-course-in-swedish-level-1/2847319"
+    },
+    {
+      "name": "Behörighet på svenska",
+      "code": null,
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/behorighet-pa-svenska/6685807"
+    },
+    {
+      "name": "Beräkningsmatematik",
+      "code": "TANA21",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/berakningsmatematik/2998680"
+    },
+    {
+      "name": "Beteendevetenskaplig grundkurs",
+      "code": "759G46 2020HT FQ",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/beteendevetenskaplig-grundkurs/4575442"
+    },
+    {
+      "name": "Beteendevetenskapligt personalarbete - en introduktion och integration",
+      "code": "759G57",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/beteendevetenskapligt-personalarbete-en-introduktion-och-integration/5464772"
+    },
+    {
+      "name": "Biblical Studies II: Old Testament/Tanak and New Testament",
+      "code": "790G35",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/biblical-studies-ii-old-testamenttanak-and-new-testament/2846935"
+    },
+    {
+      "name": "Big Data Analytics",
+      "code": "732A54",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/big-data-analytics/2846826"
+    },
+    {
+      "name": "BIM Technology",
+      "code": "TNBI87",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/bim-technology/2847369"
+    },
+    {
+      "name": "Biochemistry",
+      "code": "TFKE36",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/biochemistry/2847282"
+    },
+    {
+      "name": "Biochemistry and Organic Chemistry",
+      "code": "8BKG26",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/biochemistry-and-organic-chemistry/5071410"
+    },
+    {
+      "name": "Biofuels for transportation",
+      "code": "TKMJ31",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/biofuels-for-transportation/7488236"
+    },
+    {
+      "name": "Biokemi 1",
+      "code": "NKEA08",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/biokemi-1/4381267"
+    },
+    {
+      "name": "Biological Function",
+      "code": "8LAG21",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/biological-function/2846997"
+    },
+    {
+      "name": "Biology",
+      "code": "91BI21",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/biology/2847038"
+    },
+    {
+      "name": "Biology",
+      "code": "91BI27",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/biology/2847039"
+    },
+    {
+      "name": "Biology",
+      "code": "92BI21",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/biology/2847052"
+    },
+    {
+      "name": "Biology 1 for Foundation Year",
+      "code": "BBL111",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/biology-1-for-foundation-year/2847164"
+    },
+    {
+      "name": "Biomedical Signal Processing",
+      "code": "TBMT01",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/biomedical-signal-processing/4534274"
+    },
+    {
+      "name": "Biomedicine, Movement Science and Health I",
+      "code": "8FYG11",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/biomedicine-movement-science-and-health-i/2846979"
+    },
+    {
+      "name": "Biomedicine, Movement Science and Health II",
+      "code": "8FYG21",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/biomedicine-movement-science-and-health-ii/2846980"
+    },
+    {
+      "name": "Biotechnology Manufacturing",
+      "code": "TFTB39",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/biotechnology-manufacturing/2847290"
+    },
+    {
+      "name": "Body Structure and Function in Relation to Occupation and Environment",
+      "code": "8ATG24",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/body-structure-and-function-in-relation-to-occupation-and-environment/2846942"
+    },
+    {
+      "name": "Botany: Systematics and Function of Plants",
+      "code": "NBIB47",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/botany-systematics-and-function-of-plants/2847178"
+    },
+    {
+      "name": "Business Administration 3 - Marketing Management",
+      "code": "723G83",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/business-administration-3-marketing-management/2846798"
+    },
+    {
+      "name": "Business Ethics in a Globalized World",
+      "code": "723G98",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/business-ethics-in-a-globalized-world/7286233"
+    },
+    {
+      "name": "Byggmekanik",
+      "code": "Tnbj20",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/byggmekanik/6693924"
+    },
+    {
+      "name": "Byggnaders Energisystem",
+      "code": "TMSE30",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/byggnaders-energisystem/7226372"
+    },
+    {
+      "name": "Byggnads-och samhällsplanering",
+      "code": "TNBI91",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/byggnads-och-samhallsplanering/5872704"
+    },
+    {
+      "name": "byggnadsteknik",
+      "code": "TNBI39",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/byggnadsteknik/4806139"
+    },
+    {
+      "name": "Börsrätt",
+      "code": "747A41",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/borsratt/5791879"
+    },
+    {
+      "name": "CAD and Machine Elements",
+      "code": "TMKT14",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/cad-and-machine-elements/2847342"
+    },
+    {
+      "name": "Calculus in one and several variables",
+      "code": "TATA91",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/calculus-in-one-and-several-variables/2847204"
+    },
+    {
+      "name": "Calculus in one variable",
+      "code": "TATA42",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/calculus-in-one-variable/2847195"
+    },
+    {
+      "name": "Calculus in several variables",
+      "code": "TATA43",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/calculus-in-several-variables/2847196"
+    },
+    {
+      "name": "Calculus in Several Variables",
+      "code": "TATA69",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/calculus-in-several-variables/2847200"
+    },
+    {
+      "name": "Cellbiologi",
+      "code": "NBIA25",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/cellbiologi/4374314"
+    },
+    {
+      "name": "Chemistry 2 for Foundation Year",
+      "code": "BKL102",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/chemistry-2-for-foundation-year/2847168"
+    },
+    {
+      "name": "Children's and Youth Literature",
+      "code": "716G21",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/childrens-and-youth-literature/2846777"
+    },
+    {
+      "name": "Civil and Commercial Law",
+      "code": "TEAE13",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/civil-and-commercial-law/2847259"
+    },
+    {
+      "name": "Civilprocessrätt",
+      "code": null,
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/civilprocessratt/6585693"
+    },
+    {
+      "name": "Civilprocessrätt",
+      "code": "702G11",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/civilprocessratt/6622861"
+    },
+    {
+      "name": "Civilrätt 1",
+      "code": "702G01",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/civilratt-1/6662888"
+    },
+    {
+      "name": "Civilrätt 2",
+      "code": "702G03",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/civilratt-2/6622865"
+    },
+    {
+      "name": "Clinical Psychology 2 - Psychopathology and diagnosis",
+      "code": "735G84",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/clinical-psychology-2-psychopathology-and-diagnosis/2846853"
+    },
+    {
+      "name": "Communicate in French 4 - Internationalization",
+      "code": "712G14",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/communicate-in-french-4-internationalization/2846741"
+    },
+    {
+      "name": "Communicate in German 4 - Internationalization",
+      "code": "715G31",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/communicate-in-german-4-internationalization/2846772"
+    },
+    {
+      "name": "Communicative French",
+      "code": "THFR05",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/communicative-french/2847312"
+    },
+    {
+      "name": "Comparative Literature 2 continuation course",
+      "code": "716G16",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/comparative-literature-2-continuation-course/2846775"
+    },
+    {
+      "name": "Computer Architecture",
+      "code": "TDTS10",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/computer-architecture/4738660"
+    },
+    {
+      "name": "Computer Hardware and Architecture",
+      "code": "TSEA83",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/computer-hardware-and-architecture/2847419"
+    },
+    {
+      "name": "Computer Hardware and Architecture Y",
+      "code": "TSEA28",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/computer-hardware-and-architecture-y/2847417"
+    },
+    {
+      "name": "Computer Vision",
+      "code": "TSBB15",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/computer-vision/2847414"
+    },
+    {
+      "name": "Conceptual Design – Project Course",
+      "code": "TMKT69",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/conceptual-design-project-course/2847346"
+    },
+    {
+      "name": "Concrete Structures",
+      "code": "TNBI99",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/concrete-structures/2847370"
+    },
+    {
+      "name": "Concurrent programming and Operating Systems",
+      "code": "TDDB68",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/concurrent-programming-and-operating-systems/4382764"
+    },
+    {
+      "name": "Construction Materials",
+      "code": "TMKM86",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/construction-materials/5147196"
+    },
+    {
+      "name": "Contract, Tort and Insurance Law",
+      "code": "747G68",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/contract-tort-and-insurance-law/2846893"
+    },
+    {
+      "name": "Contrastive English for Teachers of English",
+      "code": "711G55",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/contrastive-english-for-teachers-of-english/5141382"
+    },
+    {
+      "name": "Corporate Finance",
+      "code": "TPPE17",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/corporate-finance/4364840"
+    },
+    {
+      "name": "Corporate Identity and Branding",
+      "code": "TNGD22",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/corporate-identity-and-branding/2847383"
+    },
+    {
+      "name": "Corporate Law with Focus on Economics",
+      "code": "747G64",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/corporate-law-with-focus-on-economics/2846891"
+    },
+    {
+      "name": "Corporate Law with Focus on Europe",
+      "code": "747G65",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/corporate-law-with-focus-on-europe/2846892"
+    },
+    {
+      "name": "Corporate Social Responsibility",
+      "code": "TEIO41",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/corporate-social-responsibility/2847271"
+    },
+    {
+      "name": "Culture and Society 1500-1850",
+      "code": "758G53",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/culture-and-society-1500-1850/2846914"
+    },
+    {
+      "name": "Data Driven",
+      "code": null,
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/data-driven/7543098"
+    },
+    {
+      "name": "Data Mining - Clustering and Association Analysis",
+      "code": "TDDD41",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/data-mining-clustering-and-association-analysis/4382783"
+    },
+    {
+      "name": "Data Structures and Algorithms",
+      "code": "TDDE22",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/data-structures-and-algorithms/4529107"
+    },
+    {
+      "name": "Database Technology",
+      "code": "TDDD12",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/database-technology/2847221"
+    },
+    {
+      "name": "Database Technology",
+      "code": "TDDD81",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/database-technology/2847230"
+    },
+    {
+      "name": "Databases for Bioinformatics",
+      "code": "TDDD74",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/databases-for-bioinformatics/2847228"
+    },
+    {
+      "name": "Datastrukturer, algoritmer och programmeringsparadigm",
+      "code": "TDDD86",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/datastrukturer-algoritmer-och-programmeringsparadigm/7180426"
+    },
+    {
+      "name": "Datatekniska Beräkningar",
+      "code": "TANA09",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/datatekniska-berakningar/2998775"
+    },
+    {
+      "name": "Datorarkitektur",
+      "code": "TDDI03",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/datorarkitektur/4329917"
+    },
+    {
+      "name": "Degree project - Master’s Thesis",
+      "code": "TQxx33",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/degree-project-masters-thesis/2847411"
+    },
+    {
+      "name": "Den effektiva organisationen",
+      "code": "EFO235",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/den-effektiva-organisationen/5268961"
+    },
+    {
+      "name": "Det moderna samhällets framväxt, grundkurs",
+      "code": "740G59",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/det-moderna-samhallets-framvaxt-grundkurs/2997765"
+    },
+    {
+      "name": "Det svenska politiska systemet",
+      "code": "733g16",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/det-svenska-politiska-systemet/3536454"
+    },
+    {
+      "name": "Digital Filters",
+      "code": "TSEI07",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/digital-filters/2847420"
+    },
+    {
+      "name": "Digital Filters",
+      "code": "TSTE06",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/digital-filters/2847432"
+    },
+    {
+      "name": "digital teknik",
+      "code": null,
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/digital-teknik/6748745"
+    },
+    {
+      "name": "Disability Science 1, basic course",
+      "code": "752G01",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/disability-science-1-basic-course/2846908"
+    },
+    {
+      "name": "Discrete Mathematics",
+      "code": "ETE306",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/discrete-mathematics/2847171"
+    },
+    {
+      "name": "Discrete Mathematics",
+      "code": "TATA82",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/discrete-mathematics/2847203"
+    },
+    {
+      "name": "Diskret matematik",
+      "code": "TATA65",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/diskret-matematik/2998621"
+    },
+    {
+      "name": "Diskret Matematik",
+      "code": "tata32",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/diskret-matematik/2998800"
+    },
+    {
+      "name": "Diskret matematik och logik",
+      "code": "764G06",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/diskret-matematik-och-logik/2998682"
+    },
+    {
+      "name": "Diskret simulering",
+      "code": "TNK089",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/diskret-simulering/4518143"
+    },
+    {
+      "name": "Dynamical Systems and ODEs",
+      "code": "TATA71",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/dynamical-systems-and-odes/2998806"
+    },
+    {
+      "name": "Economic Analysis: Decision- and Financial Methodology",
+      "code": "TPPE24",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/economic-analysis-decision-and-financial-methodology/2847407"
+    },
+    {
+      "name": "Economic Analysis: Economic Theory",
+      "code": "TPPE98",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/economic-analysis-economic-theory/2998454"
+    },
+    {
+      "name": "Economic Policy",
+      "code": "730G73",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/economic-policy/2846819"
+    },
+    {
+      "name": "Effektiva industriella energisystem",
+      "code": "TMES31",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/effektiva-industriella-energisystem/6746796"
+    },
+    {
+      "name": "Ekologi",
+      "code": "NBIB41",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/ekologi/5839918"
+    },
+    {
+      "name": "Ekonometri",
+      "code": "770G32",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/ekonometri/6689008"
+    },
+    {
+      "name": "ekonomisk familjerätt",
+      "code": "702G04",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/ekonomisk-familjeratt/5797570"
+    },
+    {
+      "name": "Ekonomisk politik",
+      "code": null,
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/ekonomisk-politik/4048464"
+    },
+    {
+      "name": "Electrical and Energy Technology",
+      "code": "TSFS11",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/electrical-and-energy-technology/2847424"
+    },
+    {
+      "name": "Electromagnetic Field Theory",
+      "code": "TFYA13",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/electromagnetic-field-theory/2847293"
+    },
+    {
+      "name": "Elektriska mätsystem",
+      "code": "TFEI71",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/elektriska-matsystem/5355182"
+    },
+    {
+      "name": "Eltekniska system",
+      "code": "TMEL08",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/eltekniska-system/6650229"
+    },
+    {
+      "name": "Embedded Software",
+      "code": "TDDI11",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/embedded-software/2847249"
+    },
+    {
+      "name": "Energy Engineering - Bachelor Project",
+      "code": "TMMV16",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/energy-engineering-bachelor-project/2847358"
+    },
+    {
+      "name": "Energy Systems - Supply and Demand",
+      "code": "TMES44",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/energy-systems-supply-and-demand/2847334"
+    },
+    {
+      "name": "engilsh law",
+      "code": "711g61",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/engilsh-law/6115664"
+    },
+    {
+      "name": "Engineering Materials",
+      "code": "TMKM21",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/engineering-materials/2847341"
+    },
+    {
+      "name": "Engineering Materials for Lightweight Applications",
+      "code": "TMKM09",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/engineering-materials-for-lightweight-applications/2847339"
+    },
+    {
+      "name": "Engineering Materials, Welding and Manufacturing Technology",
+      "code": "TMKM18",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/engineering-materials-welding-and-manufacturing-technology/2847340"
+    },
+    {
+      "name": "Engineering Mechanics",
+      "code": "TMMI03",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/engineering-mechanics/2847350"
+    },
+    {
+      "name": "Engineering Mechanics - Statics",
+      "code": "TMME63",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/engineering-mechanics-statics/2847349"
+    },
+    {
+      "name": "Engineering Optimization",
+      "code": "TAOP88",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/engineering-optimization/2847194"
+    },
+    {
+      "name": "English",
+      "code": "91EN11",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/english/2847040"
+    },
+    {
+      "name": "English",
+      "code": "91EN17",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/english/2847041"
+    },
+    {
+      "name": "English",
+      "code": "92EN11",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/english/2847054"
+    },
+    {
+      "name": "English 3",
+      "code": "711G30",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/english-3/2846738"
+    },
+    {
+      "name": "Enterprise Systems",
+      "code": "723G79",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/enterprise-systems/2846796"
+    },
+    {
+      "name": "Entrepreneurship and New Business Development",
+      "code": "TEIO20",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/entrepreneurship-and-new-business-development/2847270"
+    },
+    {
+      "name": "Envariabelanalys 1",
+      "code": "Tata41",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/envariabelanalys-1/2998602"
+    },
+    {
+      "name": "Environmental and Energy Related Policy Instruments",
+      "code": "TKMJ50",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/environmental-and-energy-related-policy-instruments/2847329"
+    },
+    {
+      "name": "Environmental Chemistry",
+      "code": "TFKE47",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/environmental-chemistry/2847283"
+    },
+    {
+      "name": "Environmental Engineering",
+      "code": "TKMJ24",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/environmental-engineering/2847324"
+    },
+    {
+      "name": "Environmental Science B2",
+      "code": "746G18",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/environmental-science-b2/2846882"
+    },
+    {
+      "name": "Environmental Social Governance",
+      "code": null,
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/environmental-social-governance/5993908"
+    },
+    {
+      "name": "Ethics of Artificial Intelligence",
+      "code": "721G28",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/ethics-of-artificial-intelligence/7102339"
+    },
+    {
+      "name": "Etik, legitimitet och tillit i offentlig förvaltning",
+      "code": "733A91",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/etik-legitimitet-och-tillit-i-offentlig-forvaltning/5405251"
+    },
+    {
+      "name": "EU Law",
+      "code": "747G86",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/eu-law/2846894"
+    },
+    {
+      "name": "EU Law",
+      "code": "747G87",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/eu-law/2846895"
+    },
+    {
+      "name": "Evolution",
+      "code": "NBIA26",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/evolution/7187282"
+    },
+    {
+      "name": "Experimental Chemistry",
+      "code": "NKEB08",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/experimental-chemistry/2847183"
+    },
+    {
+      "name": "Externredovisning",
+      "code": "722G70",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/externredovisning/2998520"
+    },
+    {
+      "name": "Externredovisning",
+      "code": "722G85",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/externredovisning/5737391"
+    },
+    {
+      "name": "Externredovisning B",
+      "code": "723G36",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/externredovisning-b/6930056"
+    },
+    {
+      "name": "Externredovsining",
+      "code": "722G52",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/externredovsining/5899559"
+    },
+    {
+      "name": "Family Law, basic course",
+      "code": "747G61",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/family-law-basic-course/2846890"
+    },
+    {
+      "name": "Financial Planning",
+      "code": "723G39",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/financial-planning/2846791"
+    },
+    {
+      "name": "Finansiel planering",
+      "code": "723G27",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/finansiel-planering/6491768"
+    },
+    {
+      "name": "Finansiell analys",
+      "code": "772G08",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/finansiell-analys/7432307"
+    },
+    {
+      "name": "Finansiell ekonomi",
+      "code": "730G32",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/finansiell-ekonomi/5048010"
+    },
+    {
+      "name": "Finansiell ekonomi",
+      "code": "770G29",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/finansiell-ekonomi/7582383"
+    },
+    {
+      "name": "Finansiell planering",
+      "code": "722G64",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/finansiell-planering/5048013"
+    },
+    {
+      "name": "Finansiell riskhantering - portföljvalsteori och derivatinstrument",
+      "code": "722A65",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/finansiell-riskhantering-portfoljvalsteori-och-derivatinstrument/7282335"
+    },
+    {
+      "name": "Finansiell riskhantering- duggor",
+      "code": "730a29",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/finansiell-riskhantering-duggor/6695299"
+    },
+    {
+      "name": "Finansiell styrning",
+      "code": null,
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/finansiell-styrning/4372840"
+    },
+    {
+      "name": "Finansiella Marknader och Instrument",
+      "code": "TPPE29",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/finansiella-marknader-och-instrument/6693170"
+    },
+    {
+      "name": "Flervariabelanalys",
+      "code": "TAIU08",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/flervariabelanalys/2998699"
+    },
+    {
+      "name": "Flervariabelanalys",
+      "code": "TATA76",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/flervariabelanalys/2998808"
+    },
+    {
+      "name": "fordrings- och krediträtt",
+      "code": "702G23",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/fordrings-och-kreditratt/6847323"
+    },
+    {
+      "name": "Formal Languages and Automata Theory",
+      "code": "TDDD14",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/formal-languages-and-automata-theory/2847222"
+    },
+    {
+      "name": "Forskningsmetodik",
+      "code": "735G71",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/forskningsmetodik/5274049"
+    },
+    {
+      "name": "Fortsättningskurs i etologi",
+      "code": "ETE328",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/fortsattningskurs-i-etologi/5376852"
+    },
+    {
+      "name": "Fourier and Wavelet Analysis",
+      "code": "TATA66",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/fourier-and-wavelet-analysis/2847199"
+    },
+    {
+      "name": "Fourieranalys",
+      "code": "tata77",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/fourieranalys/2998809"
+    },
+    {
+      "name": "Franska: Språk och professionell kommunikation, nivå B2",
+      "code": "701G28 2024VT B3",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/franska-sprak-och-professionell-kommunikation-niva-b2/6865021"
+    },
+    {
+      "name": "French",
+      "code": "92FR31",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/french/2847056"
+    },
+    {
+      "name": "Fritidspedagogik 1, Fritidshemmets uppdrag",
+      "code": "971G37",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/fritidspedagogik-1-fritidshemmets-uppdrag/6895543"
+    },
+    {
+      "name": "Fritidspedagogik 2, Kommunikation, lek och lärande i fritidshem",
+      "code": "971G39",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/fritidspedagogik-2-kommunikation-lek-och-larande-i-fritidshem/6895604"
+    },
+    {
+      "name": "Fritidspedagogik 2, verksamhetsförlagd utbildning",
+      "code": "971G34",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/fritidspedagogik-2-verksamhetsforlagd-utbildning/6336373"
+    },
+    {
+      "name": "From gene to function",
+      "code": "8BKG20",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/from-gene-to-function/2846953"
+    },
+    {
+      "name": "Fundamentals of Chemistry",
+      "code": "TFKE52",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/fundamentals-of-chemistry/2847284"
+    },
+    {
+      "name": "Fysik 1",
+      "code": "BFL101",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/fysik-1/5328382"
+    },
+    {
+      "name": "Fysik 2 för basår",
+      "code": "BFL102",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/fysik-2-for-basar/7506845"
+    },
+    {
+      "name": "Fysiologiska principer",
+      "code": "NBIB45",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/fysiologiska-principer/4360897"
+    },
+    {
+      "name": "Fysioterapi, folkhälsa och arbetsrelaterad ohälsa",
+      "code": "8FYG54",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/fysioterapi-folkhalsa-och-arbetsrelaterad-ohalsa/5149964"
+    },
+    {
+      "name": "Fördjupad speciell avtalsrätt",
+      "code": "702g14",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/fordjupad-speciell-avtalsratt/7509171"
+    },
+    {
+      "name": "Företaget och den globala marknaden",
+      "code": "722G41",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/foretaget-och-den-globala-marknaden/7193386"
+    },
+    {
+      "name": "Försöksplanering och biostatistik",
+      "code": "TAMS38",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/forsoksplanering-och-biostatistik/2998772"
+    },
+    {
+      "name": "Gene Technology and Transgenic Models",
+      "code": "8BKG33",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/gene-technology-and-transgenic-models/5071405"
+    },
+    {
+      "name": "Genetik och Evolution",
+      "code": "NBIA24",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/genetik-och-evolution/2998164"
+    },
+    {
+      "name": "Genus, demokrati och media",
+      "code": "GE2003",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/genus-demokrati-och-media/5252977"
+    },
+    {
+      "name": "Geography",
+      "code": "92GE31",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/geography/2847062"
+    },
+    {
+      "name": "Geography: Thesis 1",
+      "code": "93XGE1",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/geography-thesis-1/2847094"
+    },
+    {
+      "name": "grammatik i undervisning",
+      "code": null,
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/grammatik-i-undervisning/5539290"
+    },
+    {
+      "name": "Graph Theory",
+      "code": "TATA64",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/graph-theory/2998804"
+    },
+    {
+      "name": "Grunderna i AI",
+      "code": "ETE318",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/grunderna-i-ai/5268593"
+    },
+    {
+      "name": "Grundläggande Laboratorievetenskap - Histologi",
+      "code": null,
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/grundlaggande-laboratorievetenskap-histologi/6642208"
+    },
+    {
+      "name": "Grundläggande Logistik",
+      "code": "Tets37",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/grundlaggande-logistik/4086339"
+    },
+    {
+      "name": "Grundläggande statistik",
+      "code": "732g01",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/grundlaggande-statistik/4408715"
+    },
+    {
+      "name": "Gruppsykologi",
+      "code": "735G70",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/gruppsykologi/5274053"
+    },
+    {
+      "name": "Handelsrätt",
+      "code": "747G84",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/handelsratt/2998529"
+    },
+    {
+      "name": "Handelsrätt",
+      "code": "747G47",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/handelsratt/7421492"
+    },
+    {
+      "name": "Health and Disease",
+      "code": "8LAG20",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/health-and-disease/2846996"
+    },
+    {
+      "name": "Health and Disease 1",
+      "code": "8LAG31",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/health-and-disease-1/2846998"
+    },
+    {
+      "name": "Health Care Logistics",
+      "code": "TNSL09",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/health-care-logistics/2847403"
+    },
+    {
+      "name": "Health, Quality of Life and Functional Ability - To Use as Outcome",
+      "code": "8FA184",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/health-quality-of-life-and-functional-ability-to-use-as-outcome/2846964"
+    },
+    {
+      "name": "Historia 1, grundkurs",
+      "code": "751G07",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/historia-1-grundkurs/5903356"
+    },
+    {
+      "name": "historiskt perspektiv på globalitet",
+      "code": "703G02",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/historiskt-perspektiv-pa-globalitet/5188857"
+    },
+    {
+      "name": "History",
+      "code": "91HI27",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/history/2847043"
+    },
+    {
+      "name": "History 2, continuation course",
+      "code": "751G02",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/history-2-continuation-course/2846905"
+    },
+    {
+      "name": "HR practice from a behavioural science perspective - introduction and integration",
+      "code": "759G57",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/hr-practice-from-a-behavioural-science-perspective-introduction-and-integration/2846922"
+    },
+    {
+      "name": "HR-arbete - utveckling och modeller",
+      "code": "759G61",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/hr-arbete-utveckling-och-modeller/7378365"
+    },
+    {
+      "name": "HRM and Leadership",
+      "code": null,
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/hrm-and-leadership/3258146"
+    },
+    {
+      "name": "HRM in Modern Organizations",
+      "code": "722A60",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/hrm-in-modern-organizations/2846787"
+    },
+    {
+      "name": "Human Resource Management 2",
+      "code": "731G16",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/human-resource-management-2/2846822"
+    },
+    {
+      "name": "Hydrauliska servosystem",
+      "code": "TMHP51",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/hydrauliska-servosystem/6669636"
+    },
+    {
+      "name": "Hälsofrämjande omvårdnad",
+      "code": "8SJG20",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/halsoframjande-omvardnad/6178113"
+    },
+    {
+      "name": "Hälsofrämjande omvårdnad 2",
+      "code": "8SJG21",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/halsoframjande-omvardnad-2/7686230"
+    },
+    {
+      "name": "Hållbar utveckling och företagande",
+      "code": "TKMJ51",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/hallbar-utveckling-och-foretagande/4529110"
+    },
+    {
+      "name": "Hållfen",
+      "code": "TMMI17",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/hallfen/5163756"
+    },
+    {
+      "name": "Idrottsmedicin",
+      "code": "8FYA19",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/idrottsmedicin/5150259"
+    },
+    {
+      "name": "immaterialrätt, marknads och konkurrensrätt",
+      "code": null,
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/immaterialratt-marknads-och-konkurrensratt/4340032"
+    },
+    {
+      "name": "Immaterialrätt, marknads- och konkurrensrätt",
+      "code": "747G46",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/immaterialratt-marknads-och-konkurrensratt/4393364"
+    },
+    {
+      "name": "Incontinence and Care of Incontinence",
+      "code": "8FA002",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/incontinence-and-care-of-incontinence/2846961"
+    },
+    {
+      "name": "Industrial Economics, Basic Course",
+      "code": "TEAE01",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/industrial-economics-basic-course/2847258"
+    },
+    {
+      "name": "Industrial Market Research",
+      "code": "TEIM07",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/industrial-market-research/2847267"
+    },
+    {
+      "name": "Industriell Bioteknik",
+      "code": "TFYA32",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/industriell-bioteknik/3011038"
+    },
+    {
+      "name": "Industriell ekologi",
+      "code": "TFBI23",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/industriell-ekologi/4397481"
+    },
+    {
+      "name": "Industriell ekologi för ökad resurseffektivitet",
+      "code": "TKMJ35",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/industriell-ekologi-for-okad-resurseffektivitet/4610766"
+    },
+    {
+      "name": "Industriell Ekonomi",
+      "code": "TEIE17",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/industriell-ekonomi/5275236"
+    },
+    {
+      "name": "Industriell Försäljning",
+      "code": "TEIE42",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/industriell-forsaljning/4758682"
+    },
+    {
+      "name": "Industriell Marknadsföring",
+      "code": "TEIM11",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/industriell-marknadsforing/1948334"
+    },
+    {
+      "name": "Industriell marknadsföring",
+      "code": "TEIM32",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/industriell-marknadsforing/6047497"
+    },
+    {
+      "name": "Industriell organisation",
+      "code": "TEIO61",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/industriell-organisation/3160374"
+    },
+    {
+      "name": "Industriella marknads- och teknikstrategier",
+      "code": "TEIM04",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/industriella-marknads-och-teknikstrategier/6730891"
+    },
+    {
+      "name": "Infection Biology - Clinical Perspectives",
+      "code": "8MEA04",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/infection-biology-clinical-perspectives/2847006"
+    },
+    {
+      "name": "Ingenjörskonst",
+      "code": "TMPR02",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/ingenjorskonst/6654993"
+    },
+    {
+      "name": "Ingenjörsprofessionalism",
+      "code": "TDDD70",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/ingenjorsprofessionalism/6603970"
+    },
+    {
+      "name": "Ingenjörsprofessionalism, del 6",
+      "code": "TDDD98",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/ingenjorsprofessionalism-del-6/6603971"
+    },
+    {
+      "name": "Inkontinens och inkontinensvård, 7.5 hp",
+      "code": "8FA262",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/inkontinens-och-inkontinensvard-75-hp/5173009"
+    },
+    {
+      "name": "Innovative Entrepreneurship",
+      "code": "TEIO06",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/innovative-entrepreneurship/2847269"
+    },
+    {
+      "name": "Institutionell Teori och Analys",
+      "code": "730A32",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/institutionell-teori-och-analys/6634659"
+    },
+    {
+      "name": "Intensive care under specific conditions",
+      "code": "8INA15",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/intensive-care-under-specific-conditions/2846987"
+    },
+    {
+      "name": "Interactive systems",
+      "code": "TDDD60",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/interactive-systems/4382366"
+    },
+    {
+      "name": "International Business English",
+      "code": "711G05",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/international-business-english/2846732"
+    },
+    {
+      "name": "International Finance and Fixed Income Management",
+      "code": "770G19",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/international-finance-and-fixed-income-management/7151967"
+    },
+    {
+      "name": "International Financial Management - Fixed Income and Foreign Exchange Markets",
+      "code": "730G82",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/international-financial-management-fixed-income-and-foreign-exchange-markets/2846820"
+    },
+    {
+      "name": "International Financial Reporting Standards",
+      "code": "702G08",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/international-financial-reporting-standards/7004933"
+    },
+    {
+      "name": "International Policy",
+      "code": "733G20",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/international-policy/2846837"
+    },
+    {
+      "name": "Internationell ekonomi",
+      "code": "730G65",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/internationell-ekonomi/2998532"
+    },
+    {
+      "name": "Internationell Ekonomi",
+      "code": "770G34",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/internationell-ekonomi/7282148"
+    },
+    {
+      "name": "Internationella energimarknader",
+      "code": "TMES51",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/internationella-energimarknader/4397135"
+    },
+    {
+      "name": "Internationellt Företagande",
+      "code": "Teim09",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/internationellt-foretagande/3505977"
+    },
+    {
+      "name": "Introduction to Electronics",
+      "code": "TNGE20",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/introduction-to-electronics/2847385"
+    },
+    {
+      "name": "Introduction to jurisprudence and welfare law",
+      "code": "745G65",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/introduction-to-jurisprudence-and-welfare-law/2846879"
+    },
+    {
+      "name": "Introduction to Operations Research",
+      "code": "TAOP52",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/introduction-to-operations-research/2847193"
+    },
+    {
+      "name": "Introduction to Programming",
+      "code": "TDDD11",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/introduction-to-programming/2847220"
+    },
+    {
+      "name": "Introduction to SAS programming",
+      "code": "732G17",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/introduction-to-sas-programming/2846830"
+    },
+    {
+      "name": "Introductory Course in Behavioural Science",
+      "code": "759G46",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/introductory-course-in-behavioural-science/2846920"
+    },
+    {
+      "name": "Introduktion till informatik - människa, teknik, organisation",
+      "code": "725G96",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/introduktion-till-informatik-manniska-teknik-organisation/5783943"
+    },
+    {
+      "name": "Introduktion till miljövetenskap och hållbar utveckling",
+      "code": "746G55",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/introduktion-till-miljovetenskap-och-hallbar-utveckling/6650686"
+    },
+    {
+      "name": "Introduktion till Nationalekonomi, grundkurs",
+      "code": "730G25",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/introduktion-till-nationalekonomi-grundkurs/7053709"
+    },
+    {
+      "name": "Introduktion till nationalekonomi, grundkurs",
+      "code": "730G11",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/introduktion-till-nationalekonomi-grundkurs/7464035"
+    },
+    {
+      "name": "introduktion till psykologi som ämne och profession",
+      "code": "735G31",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/introduktion-till-psykologi-som-amne-och-profession/5152042"
+    },
+    {
+      "name": "introduktions kurs av Globala Studies",
+      "code": "703G01",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/introduktions-kurs-av-globala-studies/5188862"
+    },
+    {
+      "name": "Islam Itroduktionskusr",
+      "code": "790G12",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/islam-itroduktionskusr/6707829"
+    },
+    {
+      "name": "IT",
+      "code": "TNSL04",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/it/2847402"
+    },
+    {
+      "name": "IT-Project Management",
+      "code": "TDDD29",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/it-project-management/2847225"
+    },
+    {
+      "name": "IT-projekt och projektledning",
+      "code": "726G37",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/it-projekt-och-projektledning/7215187"
+    },
+    {
+      "name": "Japanese for Engineers I",
+      "code": "TEII22",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/japanese-for-engineers-i/2847263"
+    },
+    {
+      "name": "Juridisk översiktskurs med inriktning mot förvaltning",
+      "code": "747G38",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/juridisk-oversiktskurs-med-inriktning-mot-forvaltning/5463585"
+    },
+    {
+      "name": "Kalkylering och budgetering",
+      "code": "722G82",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/kalkylering-och-budgetering/4600758"
+    },
+    {
+      "name": "Kalkylering och budgetering",
+      "code": "722G46",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/kalkylering-och-budgetering/5263544"
+    },
+    {
+      "name": "Katters personlighet och kommunikation",
+      "code": "799G57",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/katters-personlighet-och-kommunikation/7137964"
+    },
+    {
+      "name": "Kemi 1 för Basår",
+      "code": "BKL101",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/kemi-1-for-basar/7237784"
+    },
+    {
+      "name": "Kina idag - den nya supermakten",
+      "code": "704G33",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/kina-idag-den-nya-supermakten/5885227"
+    },
+    {
+      "name": "Klassisk och Modern Organisation",
+      "code": "723G38",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/klassisk-och-modern-organisation/5268964"
+    },
+    {
+      "name": "Kliniska färdigheter 2",
+      "code": "MALA/K7",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/kliniska-fardigheter-2/6357939"
+    },
+    {
+      "name": "Kognitionspsykologi",
+      "code": "735G74",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/kognitionspsykologi/5274047"
+    },
+    {
+      "name": "Kognitiv psykologi",
+      "code": "TDDC72",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/kognitiv-psykologi/4382819"
+    },
+    {
+      "name": "Kombinatorisk optimering grundkurs",
+      "code": "TAOP33",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/kombinatorisk-optimering-grundkurs/2998797"
+    },
+    {
+      "name": "Kombinatorisk optimering med miljötillämpningar",
+      "code": "TAOP86",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/kombinatorisk-optimering-med-miljotillampningar/2998799"
+    },
+    {
+      "name": "Kommunal självstyrelse och förvaltning",
+      "code": "733A86",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/kommunal-sjalvstyrelse-och-forvaltning/5405249"
+    },
+    {
+      "name": "Kommunicera på Spanska 3 - Marknadsföringsperspektiv",
+      "code": "713G23",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/kommunicera-pa-spanska-3-marknadsforingsperspektiv/7371899"
+    },
+    {
+      "name": "Kommunikation och användargränssnitt",
+      "code": "tnm040",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/kommunikation-och-anvandargranssnitt/6456174"
+    },
+    {
+      "name": "Komplex analys",
+      "code": "Tata45",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/komplex-analys/2998802"
+    },
+    {
+      "name": "Kredit och obeståndsrätt",
+      "code": "747A33",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/kredit-och-obestandsratt/6585694"
+    },
+    {
+      "name": "Kredit och Valutamarknaden",
+      "code": "770G30",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/kredit-och-valutamarknaden/7593877"
+    },
+    {
+      "name": "Kredit- och exekutionsrätt, 15 hp",
+      "code": "747G73",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/kredit-och-exekutionsratt-15-hp/5252917"
+    },
+    {
+      "name": "Kunskapsbedömning Uk3",
+      "code": "972G03",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/kunskapsbedomning-uk3/4360915"
+    },
+    {
+      "name": "Kvalitativa metoderi teori och praktik",
+      "code": "725G88",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/kvalitativa-metoderi-teori-och-praktik/7549128"
+    },
+    {
+      "name": "Labor economics",
+      "code": "770g27",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/labor-economics/6695289"
+    },
+    {
+      "name": "Labour Law, basic course",
+      "code": "747G41",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/labour-law-basic-course/2846889"
+    },
+    {
+      "name": "Large-Scale Distributed Systems and Networks",
+      "code": "TDDE35",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/large-scale-distributed-systems-and-networks/2847244"
+    },
+    {
+      "name": "Large-Scale Software Development: Structures and Processes",
+      "code": "TDDE06",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/large-scale-software-development-structures-and-processes/2847239"
+    },
+    {
+      "name": "Leading creative change",
+      "code": null,
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/leading-creative-change/7277037"
+    },
+    {
+      "name": "Learning and Competence Development in Working Life",
+      "code": "759G07",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/learning-and-competence-development-in-working-life/2846919"
+    },
+    {
+      "name": "Ledarskap och organisation",
+      "code": "TEIO29",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/ledarskap-och-organisation/4610763"
+    },
+    {
+      "name": "Ledarskap och organisation",
+      "code": "TEIO19",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/ledarskap-och-organisation/5168474"
+    },
+    {
+      "name": "Ledarskap och organisation",
+      "code": "ETES41",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/ledarskap-och-organisation/5402404"
+    },
+    {
+      "name": "Ledarskap och styrning i offentliga organisationer",
+      "code": "733A89",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/ledarskap-och-styrning-i-offentliga-organisationer/5405235"
+    },
+    {
+      "name": "Ledning och strategiskt personalarbete 1",
+      "code": "731G14",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/ledning-och-strategiskt-personalarbete-1/5992867"
+    },
+    {
+      "name": "Lex Mercatoria",
+      "code": "747A04",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/lex-mercatoria/5791922"
+    },
+    {
+      "name": "Linear Algebra",
+      "code": "ETE325",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/linear-algebra/2847172"
+    },
+    {
+      "name": "Linear Algebra",
+      "code": "Tata31",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/linear-algebra/2998546"
+    },
+    {
+      "name": "Linear Algebra",
+      "code": "TATA24",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/linear-algebra/2998612"
+    },
+    {
+      "name": "Linear Algebra",
+      "code": "TATA16",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/linear-algebra/2998622"
+    },
+    {
+      "name": "Linear Algebra",
+      "code": "TAIU05",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/linear-algebra/2998695"
+    },
+    {
+      "name": "Linear Algebra, Honours Course",
+      "code": "TATA53",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/linear-algebra-honours-course/2847197"
+    },
+    {
+      "name": "Linjar Algebra",
+      "code": "TNA002",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/linjar-algebra/1710376"
+    },
+    {
+      "name": "Linjär Algebra",
+      "code": "764G01",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/linjar-algebra/2998681"
+    },
+    {
+      "name": "Linjär algebra med geometri",
+      "code": "TATA67",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/linjar-algebra-med-geometri/2998419"
+    },
+    {
+      "name": "Linjära system",
+      "code": "TSEI50",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/linjara-system/5355180"
+    },
+    {
+      "name": "LiU Summer Academy: Leadership and Organisational Behaviour in Contemporary Organisations",
+      "code": "ETES02",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/liu-summer-academy-leadership-and-organisational-behaviour-in-contemporary-organisations/2847173"
+    },
+    {
+      "name": "Logistics 1",
+      "code": "ete382",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/logistics-1/7377342"
+    },
+    {
+      "name": "Logistics of Airline Companies",
+      "code": "TNFL07",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/logistics-of-airline-companies/2847378"
+    },
+    {
+      "name": "Logistik och hållbar utveckling",
+      "code": "tnsl15",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/logistik-och-hallbar-utveckling/6663235"
+    },
+    {
+      "name": "Logistik och kvalitetsutveckling",
+      "code": "tets44",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/logistik-och-kvalitetsutveckling/6446746"
+    },
+    {
+      "name": "Logistik och produktionsplanering",
+      "code": "TNK122",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/logistik-och-produktionsplanering/7486999"
+    },
+    {
+      "name": "Logistikanalys",
+      "code": "Tets57",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/logistikanalys/4758685"
+    },
+    {
+      "name": "lärande och kompetensutveckling i arbetslivet",
+      "code": "759G07",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/larande-och-kompetensutveckling-i-arbetslivet/7348095"
+    },
+    {
+      "name": "Machine Elements",
+      "code": "TMMI16",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/machine-elements/2847351"
+    },
+    {
+      "name": "Machine Learning",
+      "code": "TDDE01",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/machine-learning/6015922"
+    },
+    {
+      "name": "Macroeconomics",
+      "code": "730G43",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/macroeconomics/2846818"
+    },
+    {
+      "name": "Makroekonomi",
+      "code": "730G61",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/makroekonomi/3003654"
+    },
+    {
+      "name": "Makroekonomisk teori och politik",
+      "code": "770G20",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/makroekonomisk-teori-och-politik/7336743"
+    },
+    {
+      "name": "Management Accounting",
+      "code": "722G78",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/management-accounting/2846788"
+    },
+    {
+      "name": "Management control system",
+      "code": "722A46",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/management-control-system/1715148"
+    },
+    {
+      "name": "Managing and Developing Psychiatric Care",
+      "code": "8PYA04",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/managing-and-developing-psychiatric-care/2847019"
+    },
+    {
+      "name": "Market Communication and Analysis",
+      "code": "TEAE14",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/market-communication-and-analysis/2847260"
+    },
+    {
+      "name": "Marketing and Consumer Behaviour",
+      "code": "723G44",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/marketing-and-consumer-behaviour/5268953"
+    },
+    {
+      "name": "Marknadsekonomins grunder",
+      "code": "730g70",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/marknadsekonomins-grunder/5161205"
+    },
+    {
+      "name": "Marknadsföring",
+      "code": "722G83",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/marknadsforing/2185336"
+    },
+    {
+      "name": "Marknadsföring",
+      "code": "722G93",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/marknadsforing/3590589"
+    },
+    {
+      "name": "Marknadsföring",
+      "code": "722G86",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/marknadsforing/7282150"
+    },
+    {
+      "name": "Marknadsstruktur och företagsstrategi",
+      "code": "770G21",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/marknadsstruktur-och-foretagsstrategi/6742624"
+    },
+    {
+      "name": "Master Thesis",
+      "code": "722A31",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/master-thesis/1739712"
+    },
+    {
+      "name": "Master Thesis in Business",
+      "code": "722A42",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/master-thesis-in-business/2846786"
+    },
+    {
+      "name": "Matematidka Beräkningar",
+      "code": "TANA17",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/matematidka-berakningar/2998679"
+    },
+    {
+      "name": "Matematisk ANalys",
+      "code": "764G07",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/matematisk-analys/2998684"
+    },
+    {
+      "name": "Matematisk Grundkurs",
+      "code": "TATM79",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/matematisk-grundkurs/2998402"
+    },
+    {
+      "name": "Matematisk grundkurs",
+      "code": "TATA68",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/matematisk-grundkurs/2998805"
+    },
+    {
+      "name": "Matematisk grundkurs",
+      "code": "TNA001",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/matematisk-grundkurs/5874832"
+    },
+    {
+      "name": "Matematisk statistik",
+      "code": "TAMS11",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/matematisk-statistik/2998705"
+    },
+    {
+      "name": "Matematisk statistik",
+      "code": "TAMS28",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/matematisk-statistik/2998715"
+    },
+    {
+      "name": "Matematisk statistik, del 2",
+      "code": "TAMS65",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/matematisk-statistik-del-2/2998285"
+    },
+    {
+      "name": "Matematisk statistik, grundkurs",
+      "code": "TAMS79",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/matematisk-statistik-grundkurs/2998541"
+    },
+    {
+      "name": "Matematiska beräkningar med matlab",
+      "code": "TAIU07",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/matematiska-berakningar-med-matlab/2998698"
+    },
+    {
+      "name": "Matematiska metoder i Nationalekonomi",
+      "code": "770G17",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/matematiska-metoder-i-nationalekonomi/6758624"
+    },
+    {
+      "name": "Matematiska modeller i biologi",
+      "code": "TATM38",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/matematiska-modeller-i-biologi/2998810"
+    },
+    {
+      "name": "Material för design",
+      "code": "TMKM11",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/material-for-design/6192789"
+    },
+    {
+      "name": "Mathematical Statistics",
+      "code": "TAIU06",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/mathematical-statistics/2847187"
+    },
+    {
+      "name": "Mathematical Statistics",
+      "code": "TAMS27",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/mathematical-statistics/2847189"
+    },
+    {
+      "name": "Mathematics",
+      "code": "TDP015",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/mathematics/2847255"
+    },
+    {
+      "name": "Mathematics 2",
+      "code": "973G11",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/mathematics-2/2847133"
+    },
+    {
+      "name": "Mathematics specialisation for Foundation Year",
+      "code": "BML402",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/mathematics-specialisation-for-foundation-year/2847169"
+    },
+    {
+      "name": "Measurement Technology",
+      "code": null,
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/measurement-technology/5999357"
+    },
+    {
+      "name": "Mechanical Design Methodology and Product Development",
+      "code": "TMKA02",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/mechanical-design-methodology-and-product-development/2847338"
+    },
+    {
+      "name": "Mechanical Engineering - Bachelor Project",
+      "code": "TMPS32",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/mechanical-engineering-bachelor-project/2847362"
+    },
+    {
+      "name": "Mechanics",
+      "code": "TMME27",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/mechanics/2998280"
+    },
+    {
+      "name": "Media and Communication Studies 1-2 basic course",
+      "code": "738G01",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/media-and-communication-studies-1-2-basic-course/2846854"
+    },
+    {
+      "name": "Media Technology - Bachelor Project",
+      "code": "TNM094",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/media-technology-bachelor-project/2847398"
+    },
+    {
+      "name": "Medical Systemic Physiology, Cell and Tissue Homeostasis",
+      "code": "8BKG42",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/medical-systemic-physiology-cell-and-tissue-homeostasis/2846954"
+    },
+    {
+      "name": "Medicin teknik",
+      "code": null,
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/medicin-teknik/6802278"
+    },
+    {
+      "name": "Medicinsk Bildanalys",
+      "code": "TBMI02",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/medicinsk-bildanalys/5871430"
+    },
+    {
+      "name": "Medieproduktion - processer och verktyg",
+      "code": "TNGD42",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/medieproduktion-processer-och-verktyg/5900437"
+    },
+    {
+      "name": "Mekanik Dynamik",
+      "code": "TMME28",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/mekanik-dynamik/2998939"
+    },
+    {
+      "name": "Mekanik och grundläggande fysikaliska begrepp",
+      "code": "TFYB04",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/mekanik-och-grundlaggande-fysikaliska-begrepp/7614981"
+    },
+    {
+      "name": "Mekatronik",
+      "code": "TMMS21",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/mekatronik/3620957"
+    },
+    {
+      "name": "Microbiology",
+      "code": "NBIA23",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/microbiology/2847174"
+    },
+    {
+      "name": "Microekonomi",
+      "code": "730G60",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/microekonomi/4837239"
+    },
+    {
+      "name": "Mikroekonomi",
+      "code": "770G33",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/mikroekonomi/5153096"
+    },
+    {
+      "name": "Mikroekonomi",
+      "code": "730G13",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/mikroekonomi/7722085"
+    },
+    {
+      "name": "miljöekonomi",
+      "code": "770G22",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/miljoekonomi/5273789"
+    },
+    {
+      "name": "Miljökemi",
+      "code": "TFKE63",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/miljokemi/7335499"
+    },
+    {
+      "name": "Miljörätt",
+      "code": "747A42",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/miljoratt/5791902"
+    },
+    {
+      "name": "Miljövård",
+      "code": "NBIB35",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/miljovard/5816051"
+    },
+    {
+      "name": "Mobile Communication",
+      "code": "TNK093",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/mobile-communication/2847390"
+    },
+    {
+      "name": "Modelling and simulation",
+      "code": null,
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/modelling-and-simulation/6660372"
+    },
+    {
+      "name": "modern eng lit",
+      "code": null,
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/modern-eng-lit/7114408"
+    },
+    {
+      "name": "Modern Physics II",
+      "code": "TFYA74",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/modern-physics-ii/2847301"
+    },
+    {
+      "name": "Molecular Genetics",
+      "code": "NBIC52",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/molecular-genetics/2847179"
+    },
+    {
+      "name": "Molecular virology",
+      "code": "TVMB26",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/molecular-virology/4529220"
+    },
+    {
+      "name": "Molekylär genetik och cellbiologi",
+      "code": "BIO241",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/molekylar-genetik-och-cellbiologi/7573782"
+    },
+    {
+      "name": "molekylär miljötoxikologi",
+      "code": "NBIC60",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/molekylar-miljotoxikologi/6674471"
+    },
+    {
+      "name": "Multiple Regression and Time Series Analysis",
+      "code": "732G41",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/multiple-regression-and-time-series-analysis/2846833"
+    },
+    {
+      "name": "Människans anatomi och fysiologi",
+      "code": "8SJG11",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/manniskans-anatomi-och-fysiologi/7695645"
+    },
+    {
+      "name": "Människors levnadsvillkor och det sociala verksamhetsfältet",
+      "code": "745G52",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/manniskors-levnadsvillkor-och-det-sociala-verksamhetsfaltet/5351343"
+    },
+    {
+      "name": "Natural Science",
+      "code": "92NK41",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/natural-science/2847068"
+    },
+    {
+      "name": "Naturorienterande ämnen",
+      "code": "972G39",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/naturorienterande-amnen/4359480"
+    },
+    {
+      "name": "Neural Networks and System Learning",
+      "code": "TBMI26",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/neural-networks-and-system-learning/6013281"
+    },
+    {
+      "name": "Neurobiology",
+      "code": "8MEA10",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/neurobiology/2847007"
+    },
+    {
+      "name": "Norm Creative perspectives on Design, Power and Change",
+      "code": "TRTE20",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/norm-creative-perspectives-on-design-power-and-change/2847413"
+    },
+    {
+      "name": "Normalitet och avvikelse",
+      "code": "740G58",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/normalitet-och-avvikelse/2997763"
+    },
+    {
+      "name": "Northeast Asia 3: The Modern Society - China and Northeast Asian Economy",
+      "code": "TEAS13",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/northeast-asia-3-the-modern-society-china-and-northeast-asian-economy/2847261"
+    },
+    {
+      "name": "Number Theory",
+      "code": "TATA54",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/number-theory/2998803"
+    },
+    {
+      "name": "Numerical Linear Algebra",
+      "code": "TANA15",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/numerical-linear-algebra/2998776"
+    },
+    {
+      "name": "Nursing Difficult Conditions in Severely Ill People",
+      "code": "8SKG65",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/nursing-difficult-conditions-in-severely-ill-people/2847027"
+    },
+    {
+      "name": "Nursing in Complex Conditions - Elderly People",
+      "code": "8SKG58",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/nursing-in-complex-conditions-elderly-people/2847025"
+    },
+    {
+      "name": "Nursing in Illness I",
+      "code": "8SKG32",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/nursing-in-illness-i/2847023"
+    },
+    {
+      "name": "Nursing in Illness II",
+      "code": "8SKG41",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/nursing-in-illness-ii/2847024"
+    },
+    {
+      "name": "Object Oriented Programming and Java",
+      "code": "TDDE30",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/object-oriented-programming-and-java/2847241"
+    },
+    {
+      "name": "Occupational Therapy for Diseases and Health Problems - I",
+      "code": "8ATG34",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/occupational-therapy-for-diseases-and-health-problems-i/2846943"
+    },
+    {
+      "name": "Occupational Therapy, Occupation and Health",
+      "code": "8ATG12",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/occupational-therapy-occupation-and-health/2846941"
+    },
+    {
+      "name": "Offentlig rätt med EU-rätt",
+      "code": "747G77",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/offentlig-ratt-med-eu-ratt/4391609"
+    },
+    {
+      "name": "omvårdnad vid ohälsa I",
+      "code": null,
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/omvardnad-vid-ohalsa-i/7358162"
+    },
+    {
+      "name": "Omvårdnad vid ohälsa I",
+      "code": "8SJG30",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/omvardnad-vid-ohalsa-i/7461466"
+    },
+    {
+      "name": "Omvårdnad vid ohälsa II",
+      "code": "8SJG40",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/omvardnad-vid-ohalsa-ii/6852171"
+    },
+    {
+      "name": "Operating Systems",
+      "code": "TDIU11",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/operating-systems/6695137"
+    },
+    {
+      "name": "Operations Research, secondary course",
+      "code": "TAOP62",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/operations-research-secondary-course/2998313"
+    },
+    {
+      "name": "Optimering av realistiska, sammansatta system",
+      "code": "TAOP61",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/optimering-av-realistiska-sammansatta-system/2998798"
+    },
+    {
+      "name": "Optimeringslära, grundkurs",
+      "code": "TAOP07",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/optimeringslara-grundkurs/2998792"
+    },
+    {
+      "name": "Optoelectronics",
+      "code": "TFYA38",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/optoelectronics/2847297"
+    },
+    {
+      "name": "Organisation och Beteende",
+      "code": "722G84",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/organisation-och-beteende/5252992"
+    },
+    {
+      "name": "Organisation och ledning",
+      "code": "722G55",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/organisation-och-ledning/2998817"
+    },
+    {
+      "name": "Organisering och ledning i socialt arbete",
+      "code": "745G57",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/organisering-och-ledning-i-socialt-arbete/6767705"
+    },
+    {
+      "name": "Organisering, Projekt och Utvärdering",
+      "code": null,
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/organisering-projekt-och-utvardering/4827868"
+    },
+    {
+      "name": "Organisk Analytisk Kemi",
+      "code": "NKEC16",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/organisk-analytisk-kemi/6532962"
+    },
+    {
+      "name": "Organisk kemi 2",
+      "code": "TFKE06",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/organisk-kemi-2/4600013"
+    },
+    {
+      "name": "Organisk Kemi 2",
+      "code": "NKEB04",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/organisk-kemi-2/6532953"
+    },
+    {
+      "name": "Organisk Kemi 2",
+      "code": "NKBE04",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/organisk-kemi-2/6532960"
+    },
+    {
+      "name": "Outdoor Education and Outdoor Didactics",
+      "code": "917A18",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/outdoor-education-and-outdoor-didactics/2847036"
+    },
+    {
+      "name": "Pain and Pain Management",
+      "code": "8FO0092",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/pain-and-pain-management/2846975"
+    },
+    {
+      "name": "Patient and Prevention",
+      "code": "8LAA30",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/patient-and-prevention/2846994"
+    },
+    {
+      "name": "Pedagogik",
+      "code": "Ped",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/pedagogik/3005189"
+    },
+    {
+      "name": "Pediatrics and Pediatric Care; Neonatology",
+      "code": "8HSB14",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/pediatrics-and-pediatric-care-neonatology/2846985"
+    },
+    {
+      "name": "Personalarbete och forskningsmetoder",
+      "code": "759G56",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/personalarbete-och-forskningsmetoder/5540721"
+    },
+    {
+      "name": "Philosophy",
+      "code": "92FS31",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/philosophy/2847058"
+    },
+    {
+      "name": "Philosophy of Science and Technology",
+      "code": "TGTU95",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/philosophy-of-science-and-technology/6324580"
+    },
+    {
+      "name": "Physical Interaction Design and Prototyping",
+      "code": "TDDE39",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/physical-interaction-design-and-prototyping/2847248"
+    },
+    {
+      "name": "Physics",
+      "code": "92FY21",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/physics/2847060"
+    },
+    {
+      "name": "Physics",
+      "code": "TFYA86",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/physics/2847303"
+    },
+    {
+      "name": "Physics",
+      "code": "TFYY55",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/physics/2847305"
+    },
+    {
+      "name": "Physics 3 for Foundation Year",
+      "code": "BFL103",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/physics-3-for-foundation-year/2847166"
+    },
+    {
+      "name": "Physiotherapy as Medical Intervention for Functional Impairments",
+      "code": "8FYG31",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/physiotherapy-as-medical-intervention-for-functional-impairments/2846981"
+    },
+    {
+      "name": "Physiotherapy as Medical Intervention for Functional Impairments and Disability",
+      "code": "8FYG41",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/physiotherapy-as-medical-intervention-for-functional-impairments-and-disability/2846982"
+    },
+    {
+      "name": "Politisk teori",
+      "code": "733g05",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/politisk-teori/3534775"
+    },
+    {
+      "name": "Politisk teori",
+      "code": "733G28",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/politisk-teori/5929167"
+    },
+    {
+      "name": "Portfolio Management",
+      "code": "TPPE33",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/portfolio-management/2847408"
+    },
+    {
+      "name": "Powergrid and Technology for Renewable Production",
+      "code": "TSTE26",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/powergrid-and-technology-for-renewable-production/6681247"
+    },
+    {
+      "name": "Principles of Physics in Information Technology",
+      "code": "TFYA94",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/principles-of-physics-in-information-technology/2847304"
+    },
+    {
+      "name": "Production Systems",
+      "code": "TMPS27",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/production-systems/2847361"
+    },
+    {
+      "name": "Produktion och Distrubition",
+      "code": "TNSL08",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/produktion-och-distrubition/5173915"
+    },
+    {
+      "name": "Produktionsekonomi",
+      "code": "TPPE13",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/produktionsekonomi/4530226"
+    },
+    {
+      "name": "Produktionssystemets planering och ekonomi",
+      "code": "TPPE91",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/produktionssystemets-planering-och-ekonomi/3234610"
+    },
+    {
+      "name": "Programmering och logik",
+      "code": "729G06",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/programmering-och-logik/4316929"
+    },
+    {
+      "name": "Programming: Abstraction and Modelling",
+      "code": "TDDC74",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/programming-abstraction-and-modelling/2847217"
+    },
+    {
+      "name": "Project block 5. Culture and Media Procution",
+      "code": "739G28",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/project-block-5-culture-and-media-procution/2846862"
+    },
+    {
+      "name": "Project management",
+      "code": "TEIO91",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/project-management/6821938"
+    },
+    {
+      "name": "Project MAnagement",
+      "code": "723G74",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/project-management/6834918"
+    },
+    {
+      "name": "Project Medicinal Chemistry",
+      "code": "NKED21",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/project-medicinal-chemistry/2847185"
+    },
+    {
+      "name": "Project: Agile System Development",
+      "code": "TDP029",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/project-agile-system-development/2847257"
+    },
+    {
+      "name": "Project: Mobile and Social Applications",
+      "code": "TDDD80",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/project-mobile-and-social-applications/2847229"
+    },
+    {
+      "name": "Projektledning",
+      "code": "TIO04",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/projektledning/3258437"
+    },
+    {
+      "name": "Projektledning inom globalt arbete",
+      "code": "703G09",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/projektledning-inom-globalt-arbete/6577833"
+    },
+    {
+      "name": "psykologi 1 grundkurs",
+      "code": "735G01",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/psykologi-1-grundkurs/7421201"
+    },
+    {
+      "name": "Psykologi 2",
+      "code": null,
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/psykologi-2/3813637"
+    },
+    {
+      "name": "Quantitative Models and Analysis in Operations Management",
+      "code": "TPPE78",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/quantitative-models-and-analysis-in-operations-management/6718917"
+    },
+    {
+      "name": "Recent Trends in Strategic Urban and Regional Planning – Urbanisation and globalisation",
+      "code": "709A04",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/recent-trends-in-strategic-urban-and-regional-planning-urbanisation-and-globalisation/6737785"
+    },
+    {
+      "name": "Redovisning",
+      "code": "722G76",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/redovisning/4396292"
+    },
+    {
+      "name": "Redovisning och Redovisningsrätt",
+      "code": "701G08",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/redovisning-och-redovisningsratt/7760362"
+    },
+    {
+      "name": "Redovisningsval och revision i teori och praktik",
+      "code": "722A64 2020HT UU",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/redovisningsval-och-revision-i-teori-och-praktik/4534199"
+    },
+    {
+      "name": "Reglerteknik",
+      "code": "TSRT22",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/reglerteknik/5989217"
+    },
+    {
+      "name": "Reglerteknik, fortsättningskurs",
+      "code": "Tsrt06",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/reglerteknik-fortsattningskurs/7255252"
+    },
+    {
+      "name": "Religionskunskap",
+      "code": "93RE53",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/religionskunskap/7051421"
+    },
+    {
+      "name": "Religious Education",
+      "code": "92RE47",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/religious-education/2847070"
+    },
+    {
+      "name": "Religious Education",
+      "code": "9ARE37",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/religious-education/2847137"
+    },
+    {
+      "name": "Religious Education. Teaching Practice",
+      "code": "9AREV7",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/religious-education-teaching-practice/2847138"
+    },
+    {
+      "name": "Religiuos Education",
+      "code": "92RE41",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/religiuos-education/2847069"
+    },
+    {
+      "name": "Research Methods and Term Paper",
+      "code": "723G35",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/research-methods-and-term-paper/2846790"
+    },
+    {
+      "name": "Resource Efficient Products",
+      "code": "TKMJ29",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/resource-efficient-products/2847325"
+    },
+    {
+      "name": "RF System Design",
+      "code": "TNE062",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/rf-system-design/2847374"
+    },
+    {
+      "name": "Rhetoric: To speak",
+      "code": "738G26",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/rhetoric-to-speak/2846855"
+    },
+    {
+      "name": "Risk Management of Financial Markets and Institutions",
+      "code": "730G97",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/risk-management-of-financial-markets-and-institutions/6201737"
+    },
+    {
+      "name": "Rättsteori och rättsteknik",
+      "code": "747g27",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/rattsteori-och-rattsteknik/4350390"
+    },
+    {
+      "name": "Samhälle och Arbetsliv, grundnivå",
+      "code": "759G06",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/samhalle-och-arbetsliv-grundniva/5927048"
+    },
+    {
+      "name": "Samhälls- och beteendevetenskapliga teorier i socialt arbete",
+      "code": "745G58",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/samhalls-och-beteendevetenskapliga-teorier-i-socialt-arbete/4600175"
+    },
+    {
+      "name": "Samhällskunskap",
+      "code": "92SH13",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/samhallskunskap/6568075"
+    },
+    {
+      "name": "samhällsplaneringens ideer och historia",
+      "code": "709G06",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/samhallsplaneringens-ideer-och-historia/6678452"
+    },
+    {
+      "name": "Samhällsvetenskaplig metod",
+      "code": "723G37",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/samhallsvetenskaplig-metod/6847276"
+    },
+    {
+      "name": "Samtal, bemötande och förhållningssätt i socialt arbete",
+      "code": "745G46",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/samtal-bemotande-och-forhallningssatt-i-socialt-arbete/5830059"
+    },
+    {
+      "name": "Sannolikhetslära",
+      "code": "TAMS14",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/sannolikhetslara/2998707"
+    },
+    {
+      "name": "Sannolikhetslära och statistik",
+      "code": "TDAB01",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/sannolikhetslara-och-statistik/4382755"
+    },
+    {
+      "name": "Sannolikhetslära, fortsättningskurs (Vartannatårskurs)",
+      "code": "TAMS46",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/sannolikhetslara-fortsattningskurs-vartannatarskurs/2998773"
+    },
+    {
+      "name": "Sannolikhetsteori",
+      "code": "TAMS15",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/sannolikhetsteori/2998706"
+    },
+    {
+      "name": "Service Management and Marketing",
+      "code": "723G69",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/service-management-and-marketing/5278810"
+    },
+    {
+      "name": "Signaler & System samt Transformer",
+      "code": "Tsdt84",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/signaler-system-samt-transformer/6806728"
+    },
+    {
+      "name": "Sjuksköterskans profession och omvårdnadens grunder",
+      "code": "8SJG10",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/sjukskoterskans-profession-och-omvardnadens-grunder/5341227"
+    },
+    {
+      "name": "sjuksköterskans profession och omvårdnandes gruder",
+      "code": "8SKG11",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/sjukskoterskans-profession-och-omvardnandes-gruder/5970230"
+    },
+    {
+      "name": "Skatterätt",
+      "code": "747G53",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/skatteratt/5048004"
+    },
+    {
+      "name": "Skiljeförfarande och förhandling",
+      "code": "747A23",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/skiljeforfarande-och-forhandling/6585691"
+    },
+    {
+      "name": "Social Science: Didactics",
+      "code": "91SH01",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/social-science-didactics/2847045"
+    },
+    {
+      "name": "Social Science: Didactics",
+      "code": "92SH01",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/social-science-didactics/2847075"
+    },
+    {
+      "name": "Social Science: Economics",
+      "code": "9GSH06",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/social-science-economics/2847149"
+    },
+    {
+      "name": "Socialpolitik och välfärdssamhället",
+      "code": "745G48",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/socialpolitik-och-valfardssamhallet/7395971"
+    },
+    {
+      "name": "Socialpsykologi",
+      "code": "735G73",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/socialpsykologi/5307653"
+    },
+    {
+      "name": "socialt arbete",
+      "code": "000",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/socialt-arbete/5946868"
+    },
+    {
+      "name": "Socialt arbete som profession och vetenskap",
+      "code": "745G49",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/socialt-arbete-som-profession-och-vetenskap/4533453"
+    },
+    {
+      "name": "Sociology 1 basic course",
+      "code": "731G19",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/sociology-1-basic-course/2846824"
+    },
+    {
+      "name": "Sociology 2 continuation course",
+      "code": "731G20",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/sociology-2-continuation-course/2846825"
+    },
+    {
+      "name": "Software Engineering",
+      "code": "TDDC88",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/software-engineering/3258435"
+    },
+    {
+      "name": "Spanish",
+      "code": "92SP31",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/spanish/2847076"
+    },
+    {
+      "name": "Spanska: Språk och professionell kommunikation, nivå B1",
+      "code": "701g21",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/spanska-sprak-och-professionell-kommunikation-niva-b1/5320375"
+    },
+    {
+      "name": "Speech, Language and Swallowing in Children and Adults within Habilitation and Rehabilitation",
+      "code": "8LOG43",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/speech-language-and-swallowing-in-children-and-adults-within-habilitation-and-rehabilitation/2847004"
+    },
+    {
+      "name": "Spoken and Written German",
+      "code": "715G18",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/spoken-and-written-german/2846770"
+    },
+    {
+      "name": "Statistics",
+      "code": "TNG006",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/statistics/2847379"
+    },
+    {
+      "name": "Statistics",
+      "code": "732G81",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/statistics/7216004"
+    },
+    {
+      "name": "Statistics and research methods in speech-language pathology",
+      "code": "8LOG62",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/statistics-and-research-methods-in-speech-language-pathology/2847005"
+    },
+    {
+      "name": "Statistik B",
+      "code": "732G71",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/statistik-b/7678749"
+    },
+    {
+      "name": "Statistisk teori",
+      "code": "TAMS24",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/statistisk-teori/2998711"
+    },
+    {
+      "name": "Statsvetenskap 3",
+      "code": "733G47",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/statsvetenskap-3/5588977"
+    },
+    {
+      "name": "Statsvetenskapliga metoder",
+      "code": "733A92",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/statsvetenskapliga-metoder/5405253"
+    },
+    {
+      "name": "Stokastiska processer",
+      "code": "TAMS32",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/stokastiska-processer/2998720"
+    },
+    {
+      "name": "Stokastiska processer för finansmarknadsmodeller",
+      "code": "TAMS29",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/stokastiska-processer-for-finansmarknadsmodeller/4510476"
+    },
+    {
+      "name": "Straffrätt och ekonomiska brott",
+      "code": "747G15",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/straffratt-och-ekonomiska-brott/4338584"
+    },
+    {
+      "name": "Strategi och styrning",
+      "code": "722g96",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/strategi-och-styrning/4542390"
+    },
+    {
+      "name": "Strategic Development of Sustainable Energy Systems",
+      "code": "TMES41",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/strategic-development-of-sustainable-energy-systems/2847333"
+    },
+    {
+      "name": "Strategic Human Resource Management 1",
+      "code": "731G14",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/strategic-human-resource-management-1/2846821"
+    },
+    {
+      "name": "Strategic Human Resource Management 3",
+      "code": "731G18",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/strategic-human-resource-management-3/2846823"
+    },
+    {
+      "name": "Strategiskt inköp",
+      "code": "TETS58",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/strategiskt-inkop/7710828"
+    },
+    {
+      "name": "Strategy and Management Control",
+      "code": "TDEI35",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/strategy-and-management-control/2847253"
+    },
+    {
+      "name": "Structural Mechanics and Strength of Materials",
+      "code": "TNBI24",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/structural-mechanics-and-strength-of-materials/2847367"
+    },
+    {
+      "name": "Strömningslära och Värmeöverföring",
+      "code": "TMMV11",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/stromningslara-och-varmeoverforing/4393587"
+    },
+    {
+      "name": "Studiet av staten och den offentliga förvaltningen",
+      "code": "733A88",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/studiet-av-staten-och-den-offentliga-forvaltningen/5403319"
+    },
+    {
+      "name": "Stålkonstruktion",
+      "code": "TNBJ10",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/stalkonstruktion/5275253"
+    },
+    {
+      "name": "Supply of Personnel and Competence",
+      "code": "759A10",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/supply-of-personnel-and-competence/2846916"
+    },
+    {
+      "name": "Survey Methods",
+      "code": "732G38",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/survey-methods/2846832"
+    },
+    {
+      "name": "Sustainable Business - an ecological perspective",
+      "code": "772G02",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/sustainable-business-an-ecological-perspective/6738351"
+    },
+    {
+      "name": "Sustainable Manufacturing",
+      "code": "TMPS31",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/sustainable-manufacturing/5919625"
+    },
+    {
+      "name": "Svenska som andraspråk",
+      "code": "93SA53",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/svenska-som-andrasprak/7390077"
+    },
+    {
+      "name": "Svenska språket - Textanalys",
+      "code": "714G58",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/svenska-spraket-textanalys/6550519"
+    },
+    {
+      "name": "Svenska, verksamhetsförlagd utbildning 2",
+      "code": "973G37",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/svenska-verksamhetsforlagd-utbildning-2/6895550"
+    },
+    {
+      "name": "Swedish",
+      "code": "91SV13",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/swedish/2847046"
+    },
+    {
+      "name": "Swedish",
+      "code": "91SV19",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/swedish/2847047"
+    },
+    {
+      "name": "Swedish",
+      "code": "92SV11",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/swedish/2847078"
+    },
+    {
+      "name": "Swedish",
+      "code": "93SV51",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/swedish/2847093"
+    },
+    {
+      "name": "Swedish",
+      "code": "973G05",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/swedish/2847131"
+    },
+    {
+      "name": "Swedish as a Second Language 1",
+      "code": "910G02",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/swedish-as-a-second-language-1/2847028"
+    },
+    {
+      "name": "Swedish as a Second Language 3, in-depth course",
+      "code": "910G03",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/swedish-as-a-second-language-3-in-depth-course/2847029"
+    },
+    {
+      "name": "Teaching Practice 4",
+      "code": "9KPA15",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/teaching-practice-4/2847154"
+    },
+    {
+      "name": "Technology in Intensive Care and Surgery",
+      "code": "TBMT26",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/technology-in-intensive-care-and-surgery/2847206"
+    },
+    {
+      "name": "Teknik",
+      "code": "972G40",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/teknik/4359487"
+    },
+    {
+      "name": "Termodynamik",
+      "code": "TMMV04",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/termodynamik/2998937"
+    },
+    {
+      "name": "Termodynamik och Statistisk Mekanik",
+      "code": "TFYA12",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/termodynamik-och-statistisk-mekanik/7269782"
+    },
+    {
+      "name": "The Anatomy and Physiology of the Human Body",
+      "code": "8SKG12",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/the-anatomy-and-physiology-of-the-human-body/2847021"
+    },
+    {
+      "name": "The Finite Element Method, FEM",
+      "code": "TMMI37",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/the-finite-element-method-fem/2847352"
+    },
+    {
+      "name": "The Folk high school: institutional characteristics and pedagogical practices",
+      "code": "912G31",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/the-folk-high-school-institutional-characteristics-and-pedagogical-practices/2847034"
+    },
+    {
+      "name": "The Literary Imagination of the Information Age. Literature and Media Cultures from 1960 till today",
+      "code": "716G26",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/the-literary-imagination-of-the-information-age-literature-and-media-cultures-from-1960-till-today/2846778"
+    },
+    {
+      "name": "The Nurse Profession and Fundamentals of Nursing",
+      "code": "8SKG11",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/the-nurse-profession-and-fundamentals-of-nursing/2847020"
+    },
+    {
+      "name": "The Professional Physician and Biological Function",
+      "code": "8LAG11",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/the-professional-physician-and-biological-function/2846995"
+    },
+    {
+      "name": "Theories of Personality",
+      "code": "735G75",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/theories-of-personality/2846850"
+    },
+    {
+      "name": "Theory of Calculus, second course",
+      "code": "TATA73",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/theory-of-calculus-second-course/2847201"
+    },
+    {
+      "name": "Thesis in Environmental Science",
+      "code": "746G35",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/thesis-in-environmental-science/2846885"
+    },
+    {
+      "name": "Thesis in Specialist Nursing - Medical Care",
+      "code": "8MIA20",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/thesis-in-specialist-nursing-medical-care/2847012"
+    },
+    {
+      "name": "Thin Film Physics",
+      "code": "TFYA41",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/thin-film-physics/2847298"
+    },
+    {
+      "name": "tillverkningsteknik",
+      "code": "TMPS34",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/tillverkningsteknik/7746274"
+    },
+    {
+      "name": "Transform methods",
+      "code": "TAIU04",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/transform-methods/2998694"
+    },
+    {
+      "name": "Transform Theory",
+      "code": "TATA57",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/transform-theory/2847198"
+    },
+    {
+      "name": "Trikåklädda - seriekurs",
+      "code": "9SK007",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/trikakladda-seriekurs/5285486"
+    },
+    {
+      "name": "Tysk affärskultur och näringsliv",
+      "code": "704G07",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/tysk-affarskultur-och-naringsliv/6939751"
+    },
+    {
+      "name": "Upphandlingsrätt",
+      "code": "747A24",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/upphandlingsratt/5791999"
+    },
+    {
+      "name": "User Experience and Interaction Design",
+      "code": "TDDE36",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/user-experience-and-interaction-design/2847245"
+    },
+    {
+      "name": "Utbildningsvetenskaplig kärna 1, allmändidaktik",
+      "code": "975G01",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/utbildningsvetenskaplig-karna-1-allmandidaktik/5990141"
+    },
+    {
+      "name": "utbildningsvetenskaplig kärna 2",
+      "code": "uk2",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/utbildningsvetenskaplig-karna-2/7141629"
+    },
+    {
+      "name": "Utbildningsvetenskaplig kärna 2, utveckling och lärande",
+      "code": "971G16",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/utbildningsvetenskaplig-karna-2-utveckling-och-larande/6336376"
+    },
+    {
+      "name": "Utbildningsvetenskaplig kärna 3, Utbildningshistoria, fritidshemmets och skolans samhälleliga roll och värdegrund",
+      "code": "971G03",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/utbildningsvetenskaplig-karna-3-utbildningshistoria-fritidshemmets-och-skolans-samhalleliga-roll-och-vardegrund/6336369"
+    },
+    {
+      "name": "Utbildningsvetenskaplig Kärna 4",
+      "code": "975G04",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/utbildningsvetenskaplig-karna-4/6568084"
+    },
+    {
+      "name": "Utbildningsvetenskaplig kärna 5, bedömning och uppföljning för utveckling och lärande",
+      "code": "971G18",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/utbildningsvetenskaplig-karna-5-bedomning-och-uppfoljning-for-utveckling-och-larande/6336360"
+    },
+    {
+      "name": "Utbildningsvetenskaplig kärna, Vetenskapsteori och metod",
+      "code": "93UK82",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/utbildningsvetenskaplig-karna-vetenskapsteori-och-metod/7051422"
+    },
+    {
+      "name": "Utredning, handläggning och dokumentation i socialt arbete",
+      "code": "745G51",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/utredning-handlaggning-och-dokumentation-i-socialt-arbete/6173193"
+    },
+    {
+      "name": "Utredningskunskap",
+      "code": "799G49",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/utredningskunskap/7027983"
+    },
+    {
+      "name": "utvecklingpsykologi",
+      "code": "735G72",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/utvecklingpsykologi/5212990"
+    },
+    {
+      "name": "Utvärdering av offentlig politik",
+      "code": "733A90",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/utvardering-av-offentlig-politik/5405237"
+    },
+    {
+      "name": "Vardagsliv och institution, grundkurs",
+      "code": "740G57",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/vardagsliv-och-institution-grundkurs/2997756"
+    },
+    {
+      "name": "Vector Analysis",
+      "code": "TATA44",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/vector-analysis/2998619"
+    },
+    {
+      "name": "Vehicle Propulsion Systems",
+      "code": "TSFS03",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/vehicle-propulsion-systems/2847422"
+    },
+    {
+      "name": "Vetenskaplig grundkurs",
+      "code": "745G47",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/vetenskaplig-grundkurs/6732461"
+    },
+    {
+      "name": "Vetenskaplig kommunikation och etik",
+      "code": "TGTU86",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/vetenskaplig-kommunikation-och-etik/7255185"
+    },
+    {
+      "name": "Vetenskapsteori och metodik",
+      "code": "V & M",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/vetenskapsteori-och-metodik/3005190"
+    },
+    {
+      "name": "Välfärdsrätt I",
+      "code": "745G65",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/valfardsratt-i/5734318"
+    },
+    {
+      "name": "Välfärdsrätt II",
+      "code": "745G66",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/valfardsratt-ii/5734376"
+    },
+    {
+      "name": "Wireless Communication Systems",
+      "code": "TNK080",
+      "url": "https://www.studocu.com/sv/course/linkopings-universitet/wireless-communication-systems/2847389"
+    }
+  ]
+}

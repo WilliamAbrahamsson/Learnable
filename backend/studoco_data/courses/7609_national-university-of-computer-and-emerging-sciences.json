@@ -1,0 +1,791 @@
+{
+  "university_id": "7609",
+  "university_name": "National University of Computer and Emerging Sciences",
+  "courses": [
+    {
+      "name": "accounting and finance",
+      "code": "af2032",
+      "url": "https://www.studocu.com/row/course/national-university-of-computer-and-emerging-sciences/accounting-and-finance/5479354"
+    },
+    {
+      "name": "Advanced Stats",
+      "code": "DS2003",
+      "url": "https://www.studocu.com/row/course/national-university-of-computer-and-emerging-sciences/advanced-stats/6198314"
+    },
+    {
+      "name": "Agile Project Software Management",
+      "code": "CS4057",
+      "url": "https://www.studocu.com/row/course/national-university-of-computer-and-emerging-sciences/agile-project-software-management/7622464"
+    },
+    {
+      "name": "Analog and Digital Communication",
+      "code": "EE-323",
+      "url": "https://www.studocu.com/row/course/national-university-of-computer-and-emerging-sciences/analog-and-digital-communication/4086278"
+    },
+    {
+      "name": "Analytics For Business",
+      "code": "MG-450",
+      "url": "https://www.studocu.com/row/course/national-university-of-computer-and-emerging-sciences/analytics-for-business/4280350"
+    },
+    {
+      "name": "Apoyo psicológico en situaciones de emergencias",
+      "code": "APSE1",
+      "url": "https://www.studocu.com/row/course/national-university-of-computer-and-emerging-sciences/apoyo-psicologico-en-situaciones-de-emergencias/5910977"
+    },
+    {
+      "name": "Applied Dev Ops",
+      "code": "SE4007",
+      "url": "https://www.studocu.com/row/course/national-university-of-computer-and-emerging-sciences/applied-dev-ops/6641014"
+    },
+    {
+      "name": "Applied Physics",
+      "code": "340",
+      "url": "https://www.studocu.com/row/course/national-university-of-computer-and-emerging-sciences/applied-physics/3249115"
+    },
+    {
+      "name": "Applied Thermodynamics",
+      "code": "ME2002",
+      "url": "https://www.studocu.com/row/course/national-university-of-computer-and-emerging-sciences/applied-thermodynamics/5173041"
+    },
+    {
+      "name": "art history",
+      "code": "ART218",
+      "url": "https://www.studocu.com/row/course/national-university-of-computer-and-emerging-sciences/art-history/7201994"
+    },
+    {
+      "name": "Artifical Intelligence",
+      "code": "CS 461",
+      "url": "https://www.studocu.com/row/course/national-university-of-computer-and-emerging-sciences/artifical-intelligence/5113893"
+    },
+    {
+      "name": "Audit",
+      "code": "-",
+      "url": "https://www.studocu.com/row/course/national-university-of-computer-and-emerging-sciences/audit/4356646"
+    },
+    {
+      "name": "Basic Mechanical Engineering",
+      "code": "EE",
+      "url": "https://www.studocu.com/row/course/national-university-of-computer-and-emerging-sciences/basic-mechanical-engineering/3219576"
+    },
+    {
+      "name": "Block chain",
+      "code": "EE 2011",
+      "url": "https://www.studocu.com/row/course/national-university-of-computer-and-emerging-sciences/block-chain/6945976"
+    },
+    {
+      "name": "Business Communication",
+      "code": "MG202",
+      "url": "https://www.studocu.com/row/course/national-university-of-computer-and-emerging-sciences/business-communication/4426130"
+    },
+    {
+      "name": "Business Ethics",
+      "code": "MG324",
+      "url": "https://www.studocu.com/row/course/national-university-of-computer-and-emerging-sciences/business-ethics/4565264"
+    },
+    {
+      "name": "Business Law",
+      "code": "BLaw195",
+      "url": "https://www.studocu.com/row/course/national-university-of-computer-and-emerging-sciences/business-law/4377848"
+    },
+    {
+      "name": "Business Maths",
+      "code": "MT1002",
+      "url": "https://www.studocu.com/row/course/national-university-of-computer-and-emerging-sciences/business-maths/7469602"
+    },
+    {
+      "name": "calculus and analytical geometry",
+      "code": "MT1003",
+      "url": "https://www.studocu.com/row/course/national-university-of-computer-and-emerging-sciences/calculus-and-analytical-geometry/5481198"
+    },
+    {
+      "name": "civic and community engagement",
+      "code": "SS2043",
+      "url": "https://www.studocu.com/row/course/national-university-of-computer-and-emerging-sciences/civic-and-community-engagement/7190663"
+    },
+    {
+      "name": "civil engineering",
+      "code": "cv12134",
+      "url": "https://www.studocu.com/row/course/national-university-of-computer-and-emerging-sciences/civil-engineering/4118940"
+    },
+    {
+      "name": "Cloud Computing",
+      "code": "BLAW1010",
+      "url": "https://www.studocu.com/row/course/national-university-of-computer-and-emerging-sciences/cloud-computing/7044405"
+    },
+    {
+      "name": "Co.puter vision",
+      "code": "Cs 446",
+      "url": "https://www.studocu.com/row/course/national-university-of-computer-and-emerging-sciences/coputer-vision/6582373"
+    },
+    {
+      "name": "Communication And Presentation Skills",
+      "code": "SS-152",
+      "url": "https://www.studocu.com/row/course/national-university-of-computer-and-emerging-sciences/communication-and-presentation-skills/4426047"
+    },
+    {
+      "name": "Compiler Construction",
+      "code": "CS4031",
+      "url": "https://www.studocu.com/row/course/national-university-of-computer-and-emerging-sciences/compiler-construction/6044236"
+    },
+    {
+      "name": "Computer and bussiness",
+      "code": "Fintech",
+      "url": "https://www.studocu.com/row/course/national-university-of-computer-and-emerging-sciences/computer-and-bussiness/6651907"
+    },
+    {
+      "name": "Computer Networks",
+      "code": "CS307",
+      "url": "https://www.studocu.com/row/course/national-university-of-computer-and-emerging-sciences/computer-networks/3584504"
+    },
+    {
+      "name": "Computer Organization and Assembly Language",
+      "code": "EE213",
+      "url": "https://www.studocu.com/row/course/national-university-of-computer-and-emerging-sciences/computer-organization-and-assembly-language/4433266"
+    },
+    {
+      "name": "Computer Organization and Assembly Language COAL lab",
+      "code": "EL-3003",
+      "url": "https://www.studocu.com/row/course/national-university-of-computer-and-emerging-sciences/computer-organization-and-assembly-language-coal-lab/6554719"
+    },
+    {
+      "name": "Computer Programming",
+      "code": "CS-103",
+      "url": "https://www.studocu.com/row/course/national-university-of-computer-and-emerging-sciences/computer-programming/3210415"
+    },
+    {
+      "name": "Computer Systems Servicing",
+      "code": "CSS2023",
+      "url": "https://www.studocu.com/row/course/national-university-of-computer-and-emerging-sciences/computer-systems-servicing/6117520"
+    },
+    {
+      "name": "Computer Vision",
+      "code": "CS495",
+      "url": "https://www.studocu.com/row/course/national-university-of-computer-and-emerging-sciences/computer-vision/3539523"
+    },
+    {
+      "name": "Construction Engineering and Management",
+      "code": "MG3007",
+      "url": "https://www.studocu.com/row/course/national-university-of-computer-and-emerging-sciences/construction-engineering-and-management/5364122"
+    },
+    {
+      "name": "Consumer Behaviour",
+      "code": "MG 309",
+      "url": "https://www.studocu.com/row/course/national-university-of-computer-and-emerging-sciences/consumer-behaviour/4793344"
+    },
+    {
+      "name": "Cost managerial",
+      "code": "112",
+      "url": "https://www.studocu.com/row/course/national-university-of-computer-and-emerging-sciences/cost-managerial/5304277"
+    },
+    {
+      "name": "Critical Thinking",
+      "code": "SS2041",
+      "url": "https://www.studocu.com/row/course/national-university-of-computer-and-emerging-sciences/critical-thinking/7338745"
+    },
+    {
+      "name": "Data Analysis for Business",
+      "code": "MG2008",
+      "url": "https://www.studocu.com/row/course/national-university-of-computer-and-emerging-sciences/data-analysis-for-business/7526245"
+    },
+    {
+      "name": "Data communication and networks",
+      "code": "VLI-832",
+      "url": "https://www.studocu.com/row/course/national-university-of-computer-and-emerging-sciences/data-communication-and-networks/5289552"
+    },
+    {
+      "name": "Data Mining",
+      "code": "DMCS 4038",
+      "url": "https://www.studocu.com/row/course/national-university-of-computer-and-emerging-sciences/data-mining/6145381"
+    },
+    {
+      "name": "Data Science",
+      "code": "CS4048",
+      "url": "https://www.studocu.com/row/course/national-university-of-computer-and-emerging-sciences/data-science/6697495"
+    },
+    {
+      "name": "data science",
+      "code": "cs319",
+      "url": "https://www.studocu.com/row/course/national-university-of-computer-and-emerging-sciences/data-science/6999440"
+    },
+    {
+      "name": "Data Structure",
+      "code": "CS 2001",
+      "url": "https://www.studocu.com/row/course/national-university-of-computer-and-emerging-sciences/data-structure/7396901"
+    },
+    {
+      "name": "Data Structures",
+      "code": "CS 202",
+      "url": "https://www.studocu.com/row/course/national-university-of-computer-and-emerging-sciences/data-structures/5115314"
+    },
+    {
+      "name": "Data structures and algorithms",
+      "code": "CL2002",
+      "url": "https://www.studocu.com/row/course/national-university-of-computer-and-emerging-sciences/data-structures-and-algorithms/5212398"
+    },
+    {
+      "name": "Data Structures and Business Applications",
+      "code": "CS2003",
+      "url": "https://www.studocu.com/row/course/national-university-of-computer-and-emerging-sciences/data-structures-and-business-applications/6973087"
+    },
+    {
+      "name": "Database Systems",
+      "code": "CS203",
+      "url": "https://www.studocu.com/row/course/national-university-of-computer-and-emerging-sciences/database-systems/4342711"
+    },
+    {
+      "name": "Decision Science for Business",
+      "code": "MG5047",
+      "url": "https://www.studocu.com/row/course/national-university-of-computer-and-emerging-sciences/decision-science-for-business/6342019"
+    },
+    {
+      "name": "Deep Learning",
+      "code": "CS393",
+      "url": "https://www.studocu.com/row/course/national-university-of-computer-and-emerging-sciences/deep-learning/4342949"
+    },
+    {
+      "name": "Design and Analysis of Algorithms",
+      "code": "ALO-220",
+      "url": "https://www.studocu.com/row/course/national-university-of-computer-and-emerging-sciences/design-and-analysis-of-algorithms/4118252"
+    },
+    {
+      "name": "Differential Equation",
+      "code": "MT224",
+      "url": "https://www.studocu.com/row/course/national-university-of-computer-and-emerging-sciences/differential-equation/4433264"
+    },
+    {
+      "name": "Digital Image Processing",
+      "code": "CS5053",
+      "url": "https://www.studocu.com/row/course/national-university-of-computer-and-emerging-sciences/digital-image-processing/5990175"
+    },
+    {
+      "name": "Digital Logic Design",
+      "code": "EE 227",
+      "url": "https://www.studocu.com/row/course/national-university-of-computer-and-emerging-sciences/digital-logic-design/4007507"
+    },
+    {
+      "name": "Digital Marketing",
+      "code": "MG4033",
+      "url": "https://www.studocu.com/row/course/national-university-of-computer-and-emerging-sciences/digital-marketing/7580902"
+    },
+    {
+      "name": "Digital MArleting",
+      "code": "4060",
+      "url": "https://www.studocu.com/row/course/national-university-of-computer-and-emerging-sciences/digital-marleting/3172420"
+    },
+    {
+      "name": "Discrete Mathematics",
+      "code": "CS211",
+      "url": "https://www.studocu.com/row/course/national-university-of-computer-and-emerging-sciences/discrete-mathematics/4194209"
+    },
+    {
+      "name": "E commerce",
+      "code": "CS410",
+      "url": "https://www.studocu.com/row/course/national-university-of-computer-and-emerging-sciences/e-commerce/5118662"
+    },
+    {
+      "name": "Electomechanical systems",
+      "code": "EE 2010",
+      "url": "https://www.studocu.com/row/course/national-university-of-computer-and-emerging-sciences/electomechanical-systems/6190425"
+    },
+    {
+      "name": "ELECTRICAL NETWORK ANALYSIS - ENA",
+      "code": "EE228",
+      "url": "https://www.studocu.com/row/course/national-university-of-computer-and-emerging-sciences/electrical-network-analysis-ena/3219560"
+    },
+    {
+      "name": "Electrical networl analysis - ENA",
+      "code": "EE228",
+      "url": "https://www.studocu.com/row/course/national-university-of-computer-and-emerging-sciences/electrical-networl-analysis-ena/3219558"
+    },
+    {
+      "name": "Electro Magnetic Theoty (EMT)",
+      "code": "EE-305",
+      "url": "https://www.studocu.com/row/course/national-university-of-computer-and-emerging-sciences/electro-magnetic-theoty-emt/4118627"
+    },
+    {
+      "name": "Electronic Devices and Circuits",
+      "code": "EE225",
+      "url": "https://www.studocu.com/row/course/national-university-of-computer-and-emerging-sciences/electronic-devices-and-circuits/4326306"
+    },
+    {
+      "name": "English",
+      "code": "SS1016",
+      "url": "https://www.studocu.com/row/course/national-university-of-computer-and-emerging-sciences/english/7178006"
+    },
+    {
+      "name": "English Comprehension and Composition",
+      "code": "SS 150",
+      "url": "https://www.studocu.com/row/course/national-university-of-computer-and-emerging-sciences/english-comprehension-and-composition/5159177"
+    },
+    {
+      "name": "Entrepreneurship",
+      "code": "MG414",
+      "url": "https://www.studocu.com/row/course/national-university-of-computer-and-emerging-sciences/entrepreneurship/4407873"
+    },
+    {
+      "name": "Entry test preparation",
+      "code": "Entry1234",
+      "url": "https://www.studocu.com/row/course/national-university-of-computer-and-emerging-sciences/entry-test-preparation/7047913"
+    },
+    {
+      "name": "Environmental Engineering",
+      "code": "CV4007",
+      "url": "https://www.studocu.com/row/course/national-university-of-computer-and-emerging-sciences/environmental-engineering/5170725"
+    },
+    {
+      "name": "Evolutionary Computing",
+      "code": "CS5039",
+      "url": "https://www.studocu.com/row/course/national-university-of-computer-and-emerging-sciences/evolutionary-computing/5310613"
+    },
+    {
+      "name": "Expository writing",
+      "code": "SS1014",
+      "url": "https://www.studocu.com/row/course/national-university-of-computer-and-emerging-sciences/expository-writing/7455139"
+    },
+    {
+      "name": "Feedback control systems",
+      "code": "EE-304",
+      "url": "https://www.studocu.com/row/course/national-university-of-computer-and-emerging-sciences/feedback-control-systems/4440012"
+    },
+    {
+      "name": "Final Year Projest",
+      "code": "FYP01",
+      "url": "https://www.studocu.com/row/course/national-university-of-computer-and-emerging-sciences/final-year-projest/4756011"
+    },
+    {
+      "name": "Finance",
+      "code": "MG-103",
+      "url": "https://www.studocu.com/row/course/national-university-of-computer-and-emerging-sciences/finance/3191979"
+    },
+    {
+      "name": "Financial Accounting",
+      "code": "MG112",
+      "url": "https://www.studocu.com/row/course/national-university-of-computer-and-emerging-sciences/financial-accounting/3498278"
+    },
+    {
+      "name": "Financial Accounting",
+      "code": "MG224",
+      "url": "https://www.studocu.com/row/course/national-university-of-computer-and-emerging-sciences/financial-accounting/4541580"
+    },
+    {
+      "name": "Financial instituions",
+      "code": "dad523",
+      "url": "https://www.studocu.com/row/course/national-university-of-computer-and-emerging-sciences/financial-instituions/4356080"
+    },
+    {
+      "name": "Financial Management",
+      "code": "MG311",
+      "url": "https://www.studocu.com/row/course/national-university-of-computer-and-emerging-sciences/financial-management/4500195"
+    },
+    {
+      "name": "Formal Methods",
+      "code": "SE2003",
+      "url": "https://www.studocu.com/row/course/national-university-of-computer-and-emerging-sciences/formal-methods/6810944"
+    },
+    {
+      "name": "French Language",
+      "code": "SS-104",
+      "url": "https://www.studocu.com/row/course/national-university-of-computer-and-emerging-sciences/french-language/4340793"
+    },
+    {
+      "name": "Functional English",
+      "code": "SL1004",
+      "url": "https://www.studocu.com/row/course/national-university-of-computer-and-emerging-sciences/functional-english/6767203"
+    },
+    {
+      "name": "Functional English",
+      "code": "SS1012",
+      "url": "https://www.studocu.com/row/course/national-university-of-computer-and-emerging-sciences/functional-english/7736173"
+    },
+    {
+      "name": "Fundamental of Software Project Management",
+      "code": "SE4002",
+      "url": "https://www.studocu.com/row/course/national-university-of-computer-and-emerging-sciences/fundamental-of-software-project-management/7190758"
+    },
+    {
+      "name": "Fundamentals Of Accounting",
+      "code": "AF1001",
+      "url": "https://www.studocu.com/row/course/national-university-of-computer-and-emerging-sciences/fundamentals-of-accounting/6458151"
+    },
+    {
+      "name": "Fundamentals of Management",
+      "code": "MG-223",
+      "url": "https://www.studocu.com/row/course/national-university-of-computer-and-emerging-sciences/fundamentals-of-management/4162846"
+    },
+    {
+      "name": "Fundamentals of Management",
+      "code": "MG1001",
+      "url": "https://www.studocu.com/row/course/national-university-of-computer-and-emerging-sciences/fundamentals-of-management/5855598"
+    },
+    {
+      "name": "Game Design and Development",
+      "code": "CS-4046",
+      "url": "https://www.studocu.com/row/course/national-university-of-computer-and-emerging-sciences/game-design-and-development/6078979"
+    },
+    {
+      "name": "Generative AI",
+      "code": "AI-4009",
+      "url": "https://www.studocu.com/row/course/national-university-of-computer-and-emerging-sciences/generative-ai/7430628"
+    },
+    {
+      "name": "Graph Theory",
+      "code": "MT 3001",
+      "url": "https://www.studocu.com/row/course/national-university-of-computer-and-emerging-sciences/graph-theory/6469103"
+    },
+    {
+      "name": "High Performance Computing",
+      "code": "CS559",
+      "url": "https://www.studocu.com/row/course/national-university-of-computer-and-emerging-sciences/high-performance-computing/1741584"
+    },
+    {
+      "name": "Human Computer Interaction",
+      "code": "CS4042",
+      "url": "https://www.studocu.com/row/course/national-university-of-computer-and-emerging-sciences/human-computer-interaction/5276326"
+    },
+    {
+      "name": "Human Resource Management",
+      "code": "MG333",
+      "url": "https://www.studocu.com/row/course/national-university-of-computer-and-emerging-sciences/human-resource-management/3271692"
+    },
+    {
+      "name": "Hydraulics",
+      "code": "CV2002",
+      "url": "https://www.studocu.com/row/course/national-university-of-computer-and-emerging-sciences/hydraulics/7602467"
+    },
+    {
+      "name": "Hydropower Engineerning",
+      "code": "CV5056",
+      "url": "https://www.studocu.com/row/course/national-university-of-computer-and-emerging-sciences/hydropower-engineerning/6839799"
+    },
+    {
+      "name": "Ideology",
+      "code": "SS1013",
+      "url": "https://www.studocu.com/row/course/national-university-of-computer-and-emerging-sciences/ideology/7442199"
+    },
+    {
+      "name": "Inferential Statistics and Descriptive Modelling",
+      "code": "BA5001",
+      "url": "https://www.studocu.com/row/course/national-university-of-computer-and-emerging-sciences/inferential-statistics-and-descriptive-modelling/6342024"
+    },
+    {
+      "name": "Information retrieval",
+      "code": "cs4051",
+      "url": "https://www.studocu.com/row/course/national-university-of-computer-and-emerging-sciences/information-retrieval/7444781"
+    },
+    {
+      "name": "Information Secuirty",
+      "code": "CS446",
+      "url": "https://www.studocu.com/row/course/national-university-of-computer-and-emerging-sciences/information-secuirty/3480741"
+    },
+    {
+      "name": "Introduction to Computing",
+      "code": "CS101",
+      "url": "https://www.studocu.com/row/course/national-university-of-computer-and-emerging-sciences/introduction-to-computing/4194143"
+    },
+    {
+      "name": "Introduction to Robotics",
+      "code": "RB2001",
+      "url": "https://www.studocu.com/row/course/national-university-of-computer-and-emerging-sciences/introduction-to-robotics/6323294"
+    },
+    {
+      "name": "Investment Analysis and Management",
+      "code": "MG432",
+      "url": "https://www.studocu.com/row/course/national-university-of-computer-and-emerging-sciences/investment-analysis-and-management/4329942"
+    },
+    {
+      "name": "irrigation design and drainage engineering",
+      "code": "CV4001",
+      "url": "https://www.studocu.com/row/course/national-university-of-computer-and-emerging-sciences/irrigation-design-and-drainage-engineering/6903080"
+    },
+    {
+      "name": "Islamic Religious  Studies",
+      "code": "SS111",
+      "url": "https://www.studocu.com/row/course/national-university-of-computer-and-emerging-sciences/islamic-religious-studies/4945580"
+    },
+    {
+      "name": "Islamic Studies/Ethics",
+      "code": "SS1002",
+      "url": "https://www.studocu.com/row/course/national-university-of-computer-and-emerging-sciences/islamic-studiesethics/7277644"
+    },
+    {
+      "name": "IT in business",
+      "code": "CS1001",
+      "url": "https://www.studocu.com/row/course/national-university-of-computer-and-emerging-sciences/it-in-business/6468303"
+    },
+    {
+      "name": "Java OCA certification",
+      "code": "JAVAOCA",
+      "url": "https://www.studocu.com/row/course/national-university-of-computer-and-emerging-sciences/java-oca-certification/6009771"
+    },
+    {
+      "name": "Knowledge Representation",
+      "code": "AI-2002",
+      "url": "https://www.studocu.com/row/course/national-university-of-computer-and-emerging-sciences/knowledge-representation/7181649"
+    },
+    {
+      "name": "Linear Algebra",
+      "code": "MT103",
+      "url": "https://www.studocu.com/row/course/national-university-of-computer-and-emerging-sciences/linear-algebra/1948271"
+    },
+    {
+      "name": "Linear Algebra",
+      "code": "MT 103",
+      "url": "https://www.studocu.com/row/course/national-university-of-computer-and-emerging-sciences/linear-algebra/3235623"
+    },
+    {
+      "name": "Linear Circuit Analysis",
+      "code": "EE115",
+      "url": "https://www.studocu.com/row/course/national-university-of-computer-and-emerging-sciences/linear-circuit-analysis/3731272"
+    },
+    {
+      "name": "Machine Learning",
+      "code": "AI3002",
+      "url": "https://www.studocu.com/row/course/national-university-of-computer-and-emerging-sciences/machine-learning/7222665"
+    },
+    {
+      "name": "Machine Learning Operations",
+      "code": "CS-4085",
+      "url": "https://www.studocu.com/row/course/national-university-of-computer-and-emerging-sciences/machine-learning-operations/7559260"
+    },
+    {
+      "name": "Macro-Economics",
+      "code": "2032",
+      "url": "https://www.studocu.com/row/course/national-university-of-computer-and-emerging-sciences/macro-economics/3191978"
+    },
+    {
+      "name": "management information system",
+      "code": "Cs456",
+      "url": "https://www.studocu.com/row/course/national-university-of-computer-and-emerging-sciences/management-information-system/4356082"
+    },
+    {
+      "name": "Marketing Management",
+      "code": "MG220",
+      "url": "https://www.studocu.com/row/course/national-university-of-computer-and-emerging-sciences/marketing-management/4406213"
+    },
+    {
+      "name": "Micro Econmics",
+      "code": "Mic1112",
+      "url": "https://www.studocu.com/row/course/national-university-of-computer-and-emerging-sciences/micro-econmics/4154515"
+    },
+    {
+      "name": "Micro-Economics",
+      "code": "SS135",
+      "url": "https://www.studocu.com/row/course/national-university-of-computer-and-emerging-sciences/micro-economics/4194206"
+    },
+    {
+      "name": "Microprocessor and interfacing",
+      "code": "EE3002",
+      "url": "https://www.studocu.com/row/course/national-university-of-computer-and-emerging-sciences/microprocessor-and-interfacing/7760104"
+    },
+    {
+      "name": "Multivariable Calculus",
+      "code": "MT-1007",
+      "url": "https://www.studocu.com/row/course/national-university-of-computer-and-emerging-sciences/multivariable-calculus/6927817"
+    },
+    {
+      "name": "Multivariable Calculus",
+      "code": "MT1006",
+      "url": "https://www.studocu.com/row/course/national-university-of-computer-and-emerging-sciences/multivariable-calculus/7519263"
+    },
+    {
+      "name": "Mutliagents",
+      "code": "AI-4002",
+      "url": "https://www.studocu.com/row/course/national-university-of-computer-and-emerging-sciences/mutliagents/7515218"
+    },
+    {
+      "name": "Natural Language Processing",
+      "code": "CS 458",
+      "url": "https://www.studocu.com/row/course/national-university-of-computer-and-emerging-sciences/natural-language-processing/5268806"
+    },
+    {
+      "name": "Nature Inspired Algorithm",
+      "code": "CS 5471",
+      "url": "https://www.studocu.com/row/course/national-university-of-computer-and-emerging-sciences/nature-inspired-algorithm/6661073"
+    },
+    {
+      "name": "Numerical Computing",
+      "code": "CS2008",
+      "url": "https://www.studocu.com/row/course/national-university-of-computer-and-emerging-sciences/numerical-computing/5925171"
+    },
+    {
+      "name": "Object-Oriented Programming.",
+      "code": "CS1004",
+      "url": "https://www.studocu.com/row/course/national-university-of-computer-and-emerging-sciences/object-oriented-programming/5064689"
+    },
+    {
+      "name": "Operating Systems",
+      "code": "CS205",
+      "url": "https://www.studocu.com/row/course/national-university-of-computer-and-emerging-sciences/operating-systems/3526835"
+    },
+    {
+      "name": "Operations Management",
+      "code": "MG3006",
+      "url": "https://www.studocu.com/row/course/national-university-of-computer-and-emerging-sciences/operations-management/7087840"
+    },
+    {
+      "name": "Organizational Behavior",
+      "code": "SS206",
+      "url": "https://www.studocu.com/row/course/national-university-of-computer-and-emerging-sciences/organizational-behavior/4825720"
+    },
+    {
+      "name": "Pakistan Studies",
+      "code": "S115",
+      "url": "https://www.studocu.com/row/course/national-university-of-computer-and-emerging-sciences/pakistan-studies/5119527"
+    },
+    {
+      "name": "Parallel and distributed Computing",
+      "code": "CS 3006",
+      "url": "https://www.studocu.com/row/course/national-university-of-computer-and-emerging-sciences/parallel-and-distributed-computing/6651039"
+    },
+    {
+      "name": "Personal support worker",
+      "code": "Comp 2023",
+      "url": "https://www.studocu.com/row/course/national-university-of-computer-and-emerging-sciences/personal-support-worker/6454135"
+    },
+    {
+      "name": "Power Distribution and Utilization",
+      "code": "EE430",
+      "url": "https://www.studocu.com/row/course/national-university-of-computer-and-emerging-sciences/power-distribution-and-utilization/3735343"
+    },
+    {
+      "name": "Power Electronics",
+      "code": "EE523",
+      "url": "https://www.studocu.com/row/course/national-university-of-computer-and-emerging-sciences/power-electronics/3176452"
+    },
+    {
+      "name": "Principles of leadership",
+      "code": "MG3033",
+      "url": "https://www.studocu.com/row/course/national-university-of-computer-and-emerging-sciences/principles-of-leadership/7590447"
+    },
+    {
+      "name": "Probability and Random Processes",
+      "code": "EE319",
+      "url": "https://www.studocu.com/row/course/national-university-of-computer-and-emerging-sciences/probability-and-random-processes/4194642"
+    },
+    {
+      "name": "probability and statistics for engineering and the sciences",
+      "code": "MT206",
+      "url": "https://www.studocu.com/row/course/national-university-of-computer-and-emerging-sciences/probability-and-statistics-for-engineering-and-the-sciences/4340872"
+    },
+    {
+      "name": "Probability and statitics",
+      "code": "PRP01",
+      "url": "https://www.studocu.com/row/course/national-university-of-computer-and-emerging-sciences/probability-and-statitics/3505423"
+    },
+    {
+      "name": "Professional Practises in IT",
+      "code": "PPT2001",
+      "url": "https://www.studocu.com/row/course/national-university-of-computer-and-emerging-sciences/professional-practises-in-it/5934988"
+    },
+    {
+      "name": "Programming For Business",
+      "code": "CL2016",
+      "url": "https://www.studocu.com/row/course/national-university-of-computer-and-emerging-sciences/programming-for-business/7675888"
+    },
+    {
+      "name": "Programming Fundamentals",
+      "code": "CS118",
+      "url": "https://www.studocu.com/row/course/national-university-of-computer-and-emerging-sciences/programming-fundamentals/3228033"
+    },
+    {
+      "name": "Programming Fundamentals",
+      "code": "CS-1002",
+      "url": "https://www.studocu.com/row/course/national-university-of-computer-and-emerging-sciences/programming-fundamentals/5120450"
+    },
+    {
+      "name": "Psychology",
+      "code": "2232",
+      "url": "https://www.studocu.com/row/course/national-university-of-computer-and-emerging-sciences/psychology/4341082"
+    },
+    {
+      "name": "Psychology/ Sociology",
+      "code": "SS2018",
+      "url": "https://www.studocu.com/row/course/national-university-of-computer-and-emerging-sciences/psychology-sociology/7366126"
+    },
+    {
+      "name": "Recommender Systems",
+      "code": "CS-4053",
+      "url": "https://www.studocu.com/row/course/national-university-of-computer-and-emerging-sciences/recommender-systems/7520555"
+    },
+    {
+      "name": "renewable",
+      "code": "223",
+      "url": "https://www.studocu.com/row/course/national-university-of-computer-and-emerging-sciences/renewable/4930433"
+    },
+    {
+      "name": "Research Methods",
+      "code": "MG546",
+      "url": "https://www.studocu.com/row/course/national-university-of-computer-and-emerging-sciences/research-methods/4520168"
+    },
+    {
+      "name": "SAT international",
+      "code": "5677",
+      "url": "https://www.studocu.com/row/course/national-university-of-computer-and-emerging-sciences/sat-international/5031420"
+    },
+    {
+      "name": "Slaes Force",
+      "code": "MKGT 456",
+      "url": "https://www.studocu.com/row/course/national-university-of-computer-and-emerging-sciences/slaes-force/5999192"
+    },
+    {
+      "name": "Social Network Analysis",
+      "code": "SNA12",
+      "url": "https://www.studocu.com/row/course/national-university-of-computer-and-emerging-sciences/social-network-analysis/5154835"
+    },
+    {
+      "name": "Software Construction & Development",
+      "code": "SE3004",
+      "url": "https://www.studocu.com/row/course/national-university-of-computer-and-emerging-sciences/software-construction-development/7511328"
+    },
+    {
+      "name": "Software Design and Architecture",
+      "code": "SE 2002",
+      "url": "https://www.studocu.com/row/course/national-university-of-computer-and-emerging-sciences/software-design-and-architecture/5328398"
+    },
+    {
+      "name": "Software Engineerinng",
+      "code": "CS-303",
+      "url": "https://www.studocu.com/row/course/national-university-of-computer-and-emerging-sciences/software-engineerinng/4362735"
+    },
+    {
+      "name": "Software Requirement Engineering",
+      "code": "SE 2001",
+      "url": "https://www.studocu.com/row/course/national-university-of-computer-and-emerging-sciences/software-requirement-engineering/5851658"
+    },
+    {
+      "name": "Strategic management",
+      "code": "MG5042",
+      "url": "https://www.studocu.com/row/course/national-university-of-computer-and-emerging-sciences/strategic-management/6900696"
+    },
+    {
+      "name": "Sustainable Production & Consumption",
+      "code": "SPC1022",
+      "url": "https://www.studocu.com/row/course/national-university-of-computer-and-emerging-sciences/sustainable-production-consumption/7134271"
+    },
+    {
+      "name": "Technical Business Writing",
+      "code": "SS108",
+      "url": "https://www.studocu.com/row/course/national-university-of-computer-and-emerging-sciences/technical-business-writing/4362211"
+    },
+    {
+      "name": "Theory Of Automata",
+      "code": "CS-301",
+      "url": "https://www.studocu.com/row/course/national-university-of-computer-and-emerging-sciences/theory-of-automata/2900397"
+    },
+    {
+      "name": "Theory of Programming Languages",
+      "code": "CS-5006",
+      "url": "https://www.studocu.com/row/course/national-university-of-computer-and-emerging-sciences/theory-of-programming-languages/5289881"
+    },
+    {
+      "name": "Watershed Management",
+      "code": "CV5011",
+      "url": "https://www.studocu.com/row/course/national-university-of-computer-and-emerging-sciences/watershed-management/5939759"
+    },
+    {
+      "name": "Web programming",
+      "code": "CS 402",
+      "url": "https://www.studocu.com/row/course/national-university-of-computer-and-emerging-sciences/web-programming/5058164"
+    }
+  ]
+}

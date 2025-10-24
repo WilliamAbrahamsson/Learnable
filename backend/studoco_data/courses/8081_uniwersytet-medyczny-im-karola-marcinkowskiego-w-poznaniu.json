@@ -1,0 +1,731 @@
+{
+  "university_id": "8081",
+  "university_name": "Uniwersytet Medyczny im. Karola Marcinkowskiego w Poznaniu",
+  "courses": [
+    {
+      "name": "anatomia prawidłowa",
+      "code": "ANAT 2017",
+      "url": "https://www.studocu.com/pl/course/uniwersytet-medyczny-im-karola-marcinkowskiego-w-poznaniu/anatomia-prawidlowa/4355233"
+    },
+    {
+      "name": "anatomia szpilki",
+      "code": "ANATA24",
+      "url": "https://www.studocu.com/pl/course/uniwersytet-medyczny-im-karola-marcinkowskiego-w-poznaniu/anatomia-szpilki/7394214"
+    },
+    {
+      "name": "Angielski",
+      "code": "Chem25",
+      "url": "https://www.studocu.com/pl/course/uniwersytet-medyczny-im-karola-marcinkowskiego-w-poznaniu/angielski/7617830"
+    },
+    {
+      "name": "badania stabilometryczne",
+      "code": "BADS 2017",
+      "url": "https://www.studocu.com/pl/course/uniwersytet-medyczny-im-karola-marcinkowskiego-w-poznaniu/badania-stabilometryczne/4355235"
+    },
+    {
+      "name": "Biblioterapia",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/uniwersytet-medyczny-im-karola-marcinkowskiego-w-poznaniu/biblioterapia/5341908"
+    },
+    {
+      "name": "biochemia",
+      "code": "BIOCH 2017",
+      "url": "https://www.studocu.com/pl/course/uniwersytet-medyczny-im-karola-marcinkowskiego-w-poznaniu/biochemia/4355236"
+    },
+    {
+      "name": "biochemia kliniczna",
+      "code": "Biot/S/P/2/5",
+      "url": "https://www.studocu.com/pl/course/uniwersytet-medyczny-im-karola-marcinkowskiego-w-poznaniu/biochemia-kliniczna/4946719"
+    },
+    {
+      "name": "Biochemistry",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/uniwersytet-medyczny-im-karola-marcinkowskiego-w-poznaniu/biochemistry/4731106"
+    },
+    {
+      "name": "bioetyka",
+      "code": "BIOET2018",
+      "url": "https://www.studocu.com/pl/course/uniwersytet-medyczny-im-karola-marcinkowskiego-w-poznaniu/bioetyka/4953979"
+    },
+    {
+      "name": "biofizyka",
+      "code": "BIOF 2017",
+      "url": "https://www.studocu.com/pl/course/uniwersytet-medyczny-im-karola-marcinkowskiego-w-poznaniu/biofizyka/4355234"
+    },
+    {
+      "name": "Bioinformatyka",
+      "code": "BIOIN2021",
+      "url": "https://www.studocu.com/pl/course/uniwersytet-medyczny-im-karola-marcinkowskiego-w-poznaniu/bioinformatyka/5314547"
+    },
+    {
+      "name": "biokrystalografia",
+      "code": "BIOKRY2020",
+      "url": "https://www.studocu.com/pl/course/uniwersytet-medyczny-im-karola-marcinkowskiego-w-poznaniu/biokrystalografia/4954469"
+    },
+    {
+      "name": "biologia komórki",
+      "code": "Biot/S/P/1/125",
+      "url": "https://www.studocu.com/pl/course/uniwersytet-medyczny-im-karola-marcinkowskiego-w-poznaniu/biologia-komorki/4938556"
+    },
+    {
+      "name": "biologia nowotworów",
+      "code": "BIONO2020",
+      "url": "https://www.studocu.com/pl/course/uniwersytet-medyczny-im-karola-marcinkowskiego-w-poznaniu/biologia-nowotworow/4956275"
+    },
+    {
+      "name": "biologiczne podstawy zachowań",
+      "code": "bpz2018",
+      "url": "https://www.studocu.com/pl/course/uniwersytet-medyczny-im-karola-marcinkowskiego-w-poznaniu/biologiczne-podstawy-zachowan/4953980"
+    },
+    {
+      "name": "Biology",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/uniwersytet-medyczny-im-karola-marcinkowskiego-w-poznaniu/biology/4731071"
+    },
+    {
+      "name": "biomateriały",
+      "code": "BIOMA2020",
+      "url": "https://www.studocu.com/pl/course/uniwersytet-medyczny-im-karola-marcinkowskiego-w-poznaniu/biomaterialy/4956267"
+    },
+    {
+      "name": "biotechnologia w ochronie środowiska",
+      "code": "BOŚ2018",
+      "url": "https://www.studocu.com/pl/course/uniwersytet-medyczny-im-karola-marcinkowskiego-w-poznaniu/biotechnologia-w-ochronie-srodowiska/4953989"
+    },
+    {
+      "name": "Biotechnology",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/uniwersytet-medyczny-im-karola-marcinkowskiego-w-poznaniu/biotechnology/4731050"
+    },
+    {
+      "name": "Chemia analityczna",
+      "code": "CA2024",
+      "url": "https://www.studocu.com/pl/course/uniwersytet-medyczny-im-karola-marcinkowskiego-w-poznaniu/chemia-analityczna/6803715"
+    },
+    {
+      "name": "chemia organiczna",
+      "code": "??/S/P/1/21",
+      "url": "https://www.studocu.com/pl/course/uniwersytet-medyczny-im-karola-marcinkowskiego-w-poznaniu/chemia-organiczna/4952985"
+    },
+    {
+      "name": "chemia organiczna",
+      "code": "CHORG2018",
+      "url": "https://www.studocu.com/pl/course/uniwersytet-medyczny-im-karola-marcinkowskiego-w-poznaniu/chemia-organiczna/4953982"
+    },
+    {
+      "name": "Chirurgia Stomatologiczna",
+      "code": "UMP 2025",
+      "url": "https://www.studocu.com/pl/course/uniwersytet-medyczny-im-karola-marcinkowskiego-w-poznaniu/chirurgia-stomatologiczna/7616432"
+    },
+    {
+      "name": "Clinical Bases And Physiotherapy In Psychiatry",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/uniwersytet-medyczny-im-karola-marcinkowskiego-w-poznaniu/clinical-bases-and-physiotherapy-in-psychiatry/4731078"
+    },
+    {
+      "name": "Clinical Neuropsychology With Neurological Speech Therapy",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/uniwersytet-medyczny-im-karola-marcinkowskiego-w-poznaniu/clinical-neuropsychology-with-neurological-speech-therapy/4731108"
+    },
+    {
+      "name": "Clinical Psychology",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/uniwersytet-medyczny-im-karola-marcinkowskiego-w-poznaniu/clinical-psychology/4731090"
+    },
+    {
+      "name": "Conservative Dentistry With Endodontics",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/uniwersytet-medyczny-im-karola-marcinkowskiego-w-poznaniu/conservative-dentistry-with-endodontics/4731122"
+    },
+    {
+      "name": "Coordinator",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/uniwersytet-medyczny-im-karola-marcinkowskiego-w-poznaniu/coordinator/4731111"
+    },
+    {
+      "name": "Diabetology",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/uniwersytet-medyczny-im-karola-marcinkowskiego-w-poznaniu/diabetology/4731141"
+    },
+    {
+      "name": "Dietetics In Sports",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/uniwersytet-medyczny-im-karola-marcinkowskiego-w-poznaniu/dietetics-in-sports/4731143"
+    },
+    {
+      "name": "Economics And Health Care System",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/uniwersytet-medyczny-im-karola-marcinkowskiego-w-poznaniu/economics-and-health-care-system/4731177"
+    },
+    {
+      "name": "ekonomika produktu biotechnologicznego",
+      "code": "EPB2020",
+      "url": "https://www.studocu.com/pl/course/uniwersytet-medyczny-im-karola-marcinkowskiego-w-poznaniu/ekonomika-produktu-biotechnologicznego/4980413"
+    },
+    {
+      "name": "Endodoncja",
+      "code": "UMP 2025",
+      "url": "https://www.studocu.com/pl/course/uniwersytet-medyczny-im-karola-marcinkowskiego-w-poznaniu/endodoncja/7616436"
+    },
+    {
+      "name": "Epidemiology",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/uniwersytet-medyczny-im-karola-marcinkowskiego-w-poznaniu/epidemiology/4731130"
+    },
+    {
+      "name": "Ewolucja bioróżnorodności",
+      "code": "01-BI-BIOREWO",
+      "url": "https://www.studocu.com/pl/course/uniwersytet-medyczny-im-karola-marcinkowskiego-w-poznaniu/ewolucja-bioroznorodnosci/5402120"
+    },
+    {
+      "name": "Examination",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/uniwersytet-medyczny-im-karola-marcinkowskiego-w-poznaniu/examination/4731172"
+    },
+    {
+      "name": "farmacja fizyczna",
+      "code": "FFIZ2021",
+      "url": "https://www.studocu.com/pl/course/uniwersytet-medyczny-im-karola-marcinkowskiego-w-poznaniu/farmacja-fizyczna/4980409"
+    },
+    {
+      "name": "farmakogenetyka",
+      "code": "Biot/S/P/2/22",
+      "url": "https://www.studocu.com/pl/course/uniwersytet-medyczny-im-karola-marcinkowskiego-w-poznaniu/farmakogenetyka/4945584"
+    },
+    {
+      "name": "Farmakologia",
+      "code": "FARM2021",
+      "url": "https://www.studocu.com/pl/course/uniwersytet-medyczny-im-karola-marcinkowskiego-w-poznaniu/farmakologia/5303847"
+    },
+    {
+      "name": "First Aid",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/uniwersytet-medyczny-im-karola-marcinkowskiego-w-poznaniu/first-aid/4731162"
+    },
+    {
+      "name": "Fizjologia 2024",
+      "code": "Fizjo2024",
+      "url": "https://www.studocu.com/pl/course/uniwersytet-medyczny-im-karola-marcinkowskiego-w-poznaniu/fizjologia-2024/6701784"
+    },
+    {
+      "name": "fizjologia i patofizjologia",
+      "code": "FIZJO2018",
+      "url": "https://www.studocu.com/pl/course/uniwersytet-medyczny-im-karola-marcinkowskiego-w-poznaniu/fizjologia-i-patofizjologia/4953991"
+    },
+    {
+      "name": "fizykoterapia",
+      "code": "FIZY 2017",
+      "url": "https://www.studocu.com/pl/course/uniwersytet-medyczny-im-karola-marcinkowskiego-w-poznaniu/fizykoterapia/4355238"
+    },
+    {
+      "name": "Functional Anatomy",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/uniwersytet-medyczny-im-karola-marcinkowskiego-w-poznaniu/functional-anatomy/4731243"
+    },
+    {
+      "name": "Functional Diagnostics And Rehabilitation Planning In Pediatric Neurology",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/uniwersytet-medyczny-im-karola-marcinkowskiego-w-poznaniu/functional-diagnostics-and-rehabilitation-planning-in-pediatric-neurology/4731152"
+    },
+    {
+      "name": "Genetics",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/uniwersytet-medyczny-im-karola-marcinkowskiego-w-poznaniu/genetics/4731222"
+    },
+    {
+      "name": "genetyka kliniczna",
+      "code": "Biot/S/P/2/27",
+      "url": "https://www.studocu.com/pl/course/uniwersytet-medyczny-im-karola-marcinkowskiego-w-poznaniu/genetyka-kliniczna/4952998"
+    },
+    {
+      "name": "genetyka ogólna",
+      "code": "Biot/S/P/1/29",
+      "url": "https://www.studocu.com/pl/course/uniwersytet-medyczny-im-karola-marcinkowskiego-w-poznaniu/genetyka-ogolna/4941442"
+    },
+    {
+      "name": "Ginecology And Obstetrics",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/uniwersytet-medyczny-im-karola-marcinkowskiego-w-poznaniu/ginecology-and-obstetrics/4731115"
+    },
+    {
+      "name": "Hematology",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/uniwersytet-medyczny-im-karola-marcinkowskiego-w-poznaniu/hematology/4731303"
+    },
+    {
+      "name": "histology",
+      "code": "101",
+      "url": "https://www.studocu.com/pl/course/uniwersytet-medyczny-im-karola-marcinkowskiego-w-poznaniu/histology/4495746"
+    },
+    {
+      "name": "Histology, Cytology & Embryology",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/uniwersytet-medyczny-im-karola-marcinkowskiego-w-poznaniu/histology-cytology-embryology/4731415"
+    },
+    {
+      "name": "History Of Medicine",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/uniwersytet-medyczny-im-karola-marcinkowskiego-w-poznaniu/history-of-medicine/4731156"
+    },
+    {
+      "name": "History Of Pharmacy",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/uniwersytet-medyczny-im-karola-marcinkowskiego-w-poznaniu/history-of-pharmacy/4731273"
+    },
+    {
+      "name": "hodowle komórkowe i tkankowe zwierzęce",
+      "code": "HKIT2020",
+      "url": "https://www.studocu.com/pl/course/uniwersytet-medyczny-im-karola-marcinkowskiego-w-poznaniu/hodowle-komorkowe-i-tkankowe-zwierzece/4954033"
+    },
+    {
+      "name": "Hygiene & Epidemiology",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/uniwersytet-medyczny-im-karola-marcinkowskiego-w-poznaniu/hygiene-epidemiology/4731217"
+    },
+    {
+      "name": "Immunology",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/uniwersytet-medyczny-im-karola-marcinkowskiego-w-poznaniu/immunology/4731237"
+    },
+    {
+      "name": "Intensive Care",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/uniwersytet-medyczny-im-karola-marcinkowskiego-w-poznaniu/intensive-care/4731113"
+    },
+    {
+      "name": "Internal Medicine",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/uniwersytet-medyczny-im-karola-marcinkowskiego-w-poznaniu/internal-medicine/4731192"
+    },
+    {
+      "name": "Introduction To Social Sciences",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/uniwersytet-medyczny-im-karola-marcinkowskiego-w-poznaniu/introduction-to-social-sciences/4731241"
+    },
+    {
+      "name": "inżynieria bioprocesowa",
+      "code": "Biot/S/P/2/32",
+      "url": "https://www.studocu.com/pl/course/uniwersytet-medyczny-im-karola-marcinkowskiego-w-poznaniu/inzynieria-bioprocesowa/4953451"
+    },
+    {
+      "name": "inżynieria genetyczna",
+      "code": "INŻGEN2020",
+      "url": "https://www.studocu.com/pl/course/uniwersytet-medyczny-im-karola-marcinkowskiego-w-poznaniu/inzynieria-genetyczna/4980402"
+    },
+    {
+      "name": "Język angielski",
+      "code": "Ang20",
+      "url": "https://www.studocu.com/pl/course/uniwersytet-medyczny-im-karola-marcinkowskiego-w-poznaniu/jezyk-angielski/5781995"
+    },
+    {
+      "name": "kannabinoidy w medycynie",
+      "code": "KAN2018",
+      "url": "https://www.studocu.com/pl/course/uniwersytet-medyczny-im-karola-marcinkowskiego-w-poznaniu/kannabinoidy-w-medycynie/4953992"
+    },
+    {
+      "name": "Kinezyterapia",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/uniwersytet-medyczny-im-karola-marcinkowskiego-w-poznaniu/kinezyterapia/4355239"
+    },
+    {
+      "name": "komputerowe modelowanie struktur",
+      "code": "KMS2020",
+      "url": "https://www.studocu.com/pl/course/uniwersytet-medyczny-im-karola-marcinkowskiego-w-poznaniu/komputerowe-modelowanie-struktur/4954034"
+    },
+    {
+      "name": "komórki macierzyste",
+      "code": "STCELLS2021",
+      "url": "https://www.studocu.com/pl/course/uniwersytet-medyczny-im-karola-marcinkowskiego-w-poznaniu/komorki-macierzyste/4980404"
+    },
+    {
+      "name": "Kosmetologia",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/uniwersytet-medyczny-im-karola-marcinkowskiego-w-poznaniu/kosmetologia/5938484"
+    },
+    {
+      "name": "Laboratory Medicine",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/uniwersytet-medyczny-im-karola-marcinkowskiego-w-poznaniu/laboratory-medicine/4731191"
+    },
+    {
+      "name": "Laboratoryjna Genetyka Medyczna",
+      "code": "BIOT/S/D/2/207",
+      "url": "https://www.studocu.com/pl/course/uniwersytet-medyczny-im-karola-marcinkowskiego-w-poznaniu/laboratoryjna-genetyka-medyczna/6010074"
+    },
+    {
+      "name": "Matematyka",
+      "code": "MAT2021",
+      "url": "https://www.studocu.com/pl/course/uniwersytet-medyczny-im-karola-marcinkowskiego-w-poznaniu/matematyka/5303900"
+    },
+    {
+      "name": "Maxillo-Facial Surgery",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/uniwersytet-medyczny-im-karola-marcinkowskiego-w-poznaniu/maxillo-facial-surgery/4731195"
+    },
+    {
+      "name": "Medical Anatomy",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/uniwersytet-medyczny-im-karola-marcinkowskiego-w-poznaniu/medical-anatomy/4731274"
+    },
+    {
+      "name": "Medical Biology",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/uniwersytet-medyczny-im-karola-marcinkowskiego-w-poznaniu/medical-biology/4731283"
+    },
+    {
+      "name": "Medical Chemistry",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/uniwersytet-medyczny-im-karola-marcinkowskiego-w-poznaniu/medical-chemistry/4731348"
+    },
+    {
+      "name": "Medical Electrodiagnostics",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/uniwersytet-medyczny-im-karola-marcinkowskiego-w-poznaniu/medical-electrodiagnostics/4731211"
+    },
+    {
+      "name": "Medical Polish",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/uniwersytet-medyczny-im-karola-marcinkowskiego-w-poznaniu/medical-polish/4731317"
+    },
+    {
+      "name": "Medical Science",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/uniwersytet-medyczny-im-karola-marcinkowskiego-w-poznaniu/medical-science/7607349"
+    },
+    {
+      "name": "Medicinal Chemistry I & II",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/uniwersytet-medyczny-im-karola-marcinkowskiego-w-poznaniu/medicinal-chemistry-i-ii/4731301"
+    },
+    {
+      "name": "medycyna sądowa",
+      "code": "MS1234",
+      "url": "https://www.studocu.com/pl/course/uniwersytet-medyczny-im-karola-marcinkowskiego-w-poznaniu/medycyna-sadowa/7469113"
+    },
+    {
+      "name": "Methodology Of Scientific Research",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/uniwersytet-medyczny-im-karola-marcinkowskiego-w-poznaniu/methodology-of-scientific-research/4731359"
+    },
+    {
+      "name": "Metodologia badań naukowych",
+      "code": "BIOT/S/D/2/137",
+      "url": "https://www.studocu.com/pl/course/uniwersytet-medyczny-im-karola-marcinkowskiego-w-poznaniu/metodologia-badan-naukowych/5987128"
+    },
+    {
+      "name": "metody oceny aktywności przeciwdrobnoustrojowej",
+      "code": "12345",
+      "url": "https://www.studocu.com/pl/course/uniwersytet-medyczny-im-karola-marcinkowskiego-w-poznaniu/metody-oceny-aktywnosci-przeciwdrobnoustrojowej/5911362"
+    },
+    {
+      "name": "Microbiology",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/uniwersytet-medyczny-im-karola-marcinkowskiego-w-poznaniu/microbiology/4731264"
+    },
+    {
+      "name": "mikrobiologia",
+      "code": "MIKRO2137",
+      "url": "https://www.studocu.com/pl/course/uniwersytet-medyczny-im-karola-marcinkowskiego-w-poznaniu/mikrobiologia/5269567"
+    },
+    {
+      "name": "Mikrobiom",
+      "code": "BIOT/S/D/2/203",
+      "url": "https://www.studocu.com/pl/course/uniwersytet-medyczny-im-karola-marcinkowskiego-w-poznaniu/mikrobiom/6118584"
+    },
+    {
+      "name": "Molecular Biology",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/uniwersytet-medyczny-im-karola-marcinkowskiego-w-poznaniu/molecular-biology/4731333"
+    },
+    {
+      "name": "Molekularne techniki analizy RNA",
+      "code": "Biot/S/D/1/70",
+      "url": "https://www.studocu.com/pl/course/uniwersytet-medyczny-im-karola-marcinkowskiego-w-poznaniu/molekularne-techniki-analizy-rna/5402057"
+    },
+    {
+      "name": "mykologia",
+      "code": "myk01",
+      "url": "https://www.studocu.com/pl/course/uniwersytet-medyczny-im-karola-marcinkowskiego-w-poznaniu/mykologia/5152203"
+    },
+    {
+      "name": "Nauka o leku biotechnologicznym",
+      "code": "BIOT/S/D/2/68",
+      "url": "https://www.studocu.com/pl/course/uniwersytet-medyczny-im-karola-marcinkowskiego-w-poznaniu/nauka-o-leku-biotechnologicznym/5987073"
+    },
+    {
+      "name": "Neonatology",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/uniwersytet-medyczny-im-karola-marcinkowskiego-w-poznaniu/neonatology/4731306"
+    },
+    {
+      "name": "Neurogenetyka",
+      "code": "Biot/S/D/1/187",
+      "url": "https://www.studocu.com/pl/course/uniwersytet-medyczny-im-karola-marcinkowskiego-w-poznaniu/neurogenetyka/5402097"
+    },
+    {
+      "name": "Neurology",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/uniwersytet-medyczny-im-karola-marcinkowskiego-w-poznaniu/neurology/4731351"
+    },
+    {
+      "name": "Nowoczesne techniki sekwencjonowania",
+      "code": "BIOT/S/D/2/205",
+      "url": "https://www.studocu.com/pl/course/uniwersytet-medyczny-im-karola-marcinkowskiego-w-poznaniu/nowoczesne-techniki-sekwencjonowania/5987115"
+    },
+    {
+      "name": "Nuclear Medicine",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/uniwersytet-medyczny-im-karola-marcinkowskiego-w-poznaniu/nuclear-medicine/4731350"
+    },
+    {
+      "name": "Occupational Therapy And Art Therapy",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/uniwersytet-medyczny-im-karola-marcinkowskiego-w-poznaniu/occupational-therapy-and-art-therapy/4731366"
+    },
+    {
+      "name": "Ocena Funkcjonalna Pacjenta",
+      "code": "OFP-2019",
+      "url": "https://www.studocu.com/pl/course/uniwersytet-medyczny-im-karola-marcinkowskiego-w-poznaniu/ocena-funkcjonalna-pacjenta/5824062"
+    },
+    {
+      "name": "ochrona własności intelektualnej",
+      "code": "OWI2019",
+      "url": "https://www.studocu.com/pl/course/uniwersytet-medyczny-im-karola-marcinkowskiego-w-poznaniu/ochrona-wlasnosci-intelektualnej/4953993"
+    },
+    {
+      "name": "onkologia",
+      "code": "ONKO2018",
+      "url": "https://www.studocu.com/pl/course/uniwersytet-medyczny-im-karola-marcinkowskiego-w-poznaniu/onkologia/4953976"
+    },
+    {
+      "name": "Ophthalmology",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/uniwersytet-medyczny-im-karola-marcinkowskiego-w-poznaniu/ophthalmology/4731224"
+    },
+    {
+      "name": "Opieka farmaceutyczna w geriatrii",
+      "code": "test1",
+      "url": "https://www.studocu.com/pl/course/uniwersytet-medyczny-im-karola-marcinkowskiego-w-poznaniu/opieka-farmaceutyczna-w-geriatrii/6464049"
+    },
+    {
+      "name": "Opthalmology",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/uniwersytet-medyczny-im-karola-marcinkowskiego-w-poznaniu/opthalmology/4731238"
+    },
+    {
+      "name": "organizmy modelowe",
+      "code": "ORMOD2020",
+      "url": "https://www.studocu.com/pl/course/uniwersytet-medyczny-im-karola-marcinkowskiego-w-poznaniu/organizmy-modelowe/4954006"
+    },
+    {
+      "name": "Orthodontics",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/uniwersytet-medyczny-im-karola-marcinkowskiego-w-poznaniu/orthodontics/4731272"
+    },
+    {
+      "name": "Orthopedics",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/uniwersytet-medyczny-im-karola-marcinkowskiego-w-poznaniu/orthopedics/4731250"
+    },
+    {
+      "name": "Palliative Care",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/uniwersytet-medyczny-im-karola-marcinkowskiego-w-poznaniu/palliative-care/4731384"
+    },
+    {
+      "name": "Pathology I",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/uniwersytet-medyczny-im-karola-marcinkowskiego-w-poznaniu/pathology-i/4731280"
+    },
+    {
+      "name": "Pathophysiology I",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/uniwersytet-medyczny-im-karola-marcinkowskiego-w-poznaniu/pathophysiology-i/4731327"
+    },
+    {
+      "name": "Patient Care I & II",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/uniwersytet-medyczny-im-karola-marcinkowskiego-w-poznaniu/patient-care-i-ii/4731397"
+    },
+    {
+      "name": "patofizjologia",
+      "code": "-",
+      "url": "https://www.studocu.com/pl/course/uniwersytet-medyczny-im-karola-marcinkowskiego-w-poznaniu/patofizjologia/4356237"
+    },
+    {
+      "name": "Patologia jamy ustnej",
+      "code": "PAT2023",
+      "url": "https://www.studocu.com/pl/course/uniwersytet-medyczny-im-karola-marcinkowskiego-w-poznaniu/patologia-jamy-ustnej/7160000"
+    },
+    {
+      "name": "patomorfologia",
+      "code": "Biot/S/D/2/47",
+      "url": "https://www.studocu.com/pl/course/uniwersytet-medyczny-im-karola-marcinkowskiego-w-poznaniu/patomorfologia/4953471"
+    },
+    {
+      "name": "pedagogika ogólna",
+      "code": "PEOG1",
+      "url": "https://www.studocu.com/pl/course/uniwersytet-medyczny-im-karola-marcinkowskiego-w-poznaniu/pedagogika-ogolna/6645051"
+    },
+    {
+      "name": "Pedagogy",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/uniwersytet-medyczny-im-karola-marcinkowskiego-w-poznaniu/pedagogy/4731319"
+    },
+    {
+      "name": "Pediatrics",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/uniwersytet-medyczny-im-karola-marcinkowskiego-w-poznaniu/pediatrics/4731371"
+    },
+    {
+      "name": "Periodontal Diseases",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/uniwersytet-medyczny-im-karola-marcinkowskiego-w-poznaniu/periodontal-diseases/4731338"
+    },
+    {
+      "name": "Pharmacology I",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/uniwersytet-medyczny-im-karola-marcinkowskiego-w-poznaniu/pharmacology-i/4731414"
+    },
+    {
+      "name": "Plan diagnozy",
+      "code": "Piel23",
+      "url": "https://www.studocu.com/pl/course/uniwersytet-medyczny-im-karola-marcinkowskiego-w-poznaniu/plan-diagnozy/6711602"
+    },
+    {
+      "name": "Polish (I)",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/uniwersytet-medyczny-im-karola-marcinkowskiego-w-poznaniu/polish-i/4731409"
+    },
+    {
+      "name": "Posture Diagnostics",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/uniwersytet-medyczny-im-karola-marcinkowskiego-w-poznaniu/posture-diagnostics/4731352"
+    },
+    {
+      "name": "Położnictwo",
+      "code": "Poł 2023",
+      "url": "https://www.studocu.com/pl/course/uniwersytet-medyczny-im-karola-marcinkowskiego-w-poznaniu/poloznictwo/6729945"
+    },
+    {
+      "name": "Preclinical Conservative Dentistry",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/uniwersytet-medyczny-im-karola-marcinkowskiego-w-poznaniu/preclinical-conservative-dentistry/4731421"
+    },
+    {
+      "name": "Promocja Zdrowia",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/uniwersytet-medyczny-im-karola-marcinkowskiego-w-poznaniu/promocja-zdrowia/6711612"
+    },
+    {
+      "name": "Psychiatry",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/uniwersytet-medyczny-im-karola-marcinkowskiego-w-poznaniu/psychiatry/4731346"
+    },
+    {
+      "name": "Psychology",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/uniwersytet-medyczny-im-karola-marcinkowskiego-w-poznaniu/psychology/4731418"
+    },
+    {
+      "name": "Public Health",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/uniwersytet-medyczny-im-karola-marcinkowskiego-w-poznaniu/public-health/4731388"
+    },
+    {
+      "name": "Pulmonology",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/uniwersytet-medyczny-im-karola-marcinkowskiego-w-poznaniu/pulmonology/4731390"
+    },
+    {
+      "name": "Płynna Biopsja",
+      "code": "BIOT/S/D/2/206",
+      "url": "https://www.studocu.com/pl/course/uniwersytet-medyczny-im-karola-marcinkowskiego-w-poznaniu/plynna-biopsja/6010144"
+    },
+    {
+      "name": "Ratownictwo Medyczne",
+      "code": "Rat-Med2024",
+      "url": "https://www.studocu.com/pl/course/uniwersytet-medyczny-im-karola-marcinkowskiego-w-poznaniu/ratownictwo-medyczne/6701779"
+    },
+    {
+      "name": "receptura kosmetyczna",
+      "code": "RECEP2023",
+      "url": "https://www.studocu.com/pl/course/uniwersytet-medyczny-im-karola-marcinkowskiego-w-poznaniu/receptura-kosmetyczna/6753210"
+    },
+    {
+      "name": "Research Project",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/uniwersytet-medyczny-im-karola-marcinkowskiego-w-poznaniu/research-project/4731431"
+    },
+    {
+      "name": "rozwój funkcjonalny człowieka",
+      "code": "RFCZ 2017",
+      "url": "https://www.studocu.com/pl/course/uniwersytet-medyczny-im-karola-marcinkowskiego-w-poznaniu/rozwoj-funkcjonalny-czlowieka/4355240"
+    },
+    {
+      "name": "Rośliny transgeniczne",
+      "code": "Biot/S/D/1/186",
+      "url": "https://www.studocu.com/pl/course/uniwersytet-medyczny-im-karola-marcinkowskiego-w-poznaniu/rosliny-transgeniczne/5402103"
+    },
+    {
+      "name": "Sociology",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/uniwersytet-medyczny-im-karola-marcinkowskiego-w-poznaniu/sociology/4731287"
+    },
+    {
+      "name": "Socjoterapia",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/uniwersytet-medyczny-im-karola-marcinkowskiego-w-poznaniu/socjoterapia/5703297"
+    },
+    {
+      "name": "Sports Training",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/uniwersytet-medyczny-im-karola-marcinkowskiego-w-poznaniu/sports-training/4731372"
+    },
+    {
+      "name": "Statistics In Medicine",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/uniwersytet-medyczny-im-karola-marcinkowskiego-w-poznaniu/statistics-in-medicine/4731396"
+    },
+    {
+      "name": "Statystyka",
+      "code": "STAT2021",
+      "url": "https://www.studocu.com/pl/course/uniwersytet-medyczny-im-karola-marcinkowskiego-w-poznaniu/statystyka/5303195"
+    },
+    {
+      "name": "synteza i technologia środków leczniczych",
+      "code": "synt 0405",
+      "url": "https://www.studocu.com/pl/course/uniwersytet-medyczny-im-karola-marcinkowskiego-w-poznaniu/synteza-i-technologia-srodkow-leczniczych/6190049"
+    },
+    {
+      "name": "techniki wspomaganego rozrodu",
+      "code": "TWR2020",
+      "url": "https://www.studocu.com/pl/course/uniwersytet-medyczny-im-karola-marcinkowskiego-w-poznaniu/techniki-wspomaganego-rozrodu/4954001"
+    },
+    {
+      "name": "Terapia przez teatr",
+      "code": "PSA_ 18",
+      "url": "https://www.studocu.com/pl/course/uniwersytet-medyczny-im-karola-marcinkowskiego-w-poznaniu/terapia-przez-teatr/5196701"
+    },
+    {
+      "name": "Therapeutic Massage",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/uniwersytet-medyczny-im-karola-marcinkowskiego-w-poznaniu/therapeutic-massage/4731439"
+    },
+    {
+      "name": "toksycznośc",
+      "code": "TOK00",
+      "url": "https://www.studocu.com/pl/course/uniwersytet-medyczny-im-karola-marcinkowskiego-w-poznaniu/toksycznosc/4511210"
+    },
+    {
+      "name": "wiedza o żywności i żywieniu",
+      "code": "WZIZ 2024",
+      "url": "https://www.studocu.com/pl/course/uniwersytet-medyczny-im-karola-marcinkowskiego-w-poznaniu/wiedza-o-zywnosci-i-zywieniu/7449455"
+    },
+    {
+      "name": "wirusologia ogólna",
+      "code": "WIROG2019",
+      "url": "https://www.studocu.com/pl/course/uniwersytet-medyczny-im-karola-marcinkowskiego-w-poznaniu/wirusologia-ogolna/4954443"
+    }
+  ]
+}

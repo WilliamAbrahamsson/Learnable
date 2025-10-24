@@ -1,0 +1,541 @@
+{
+  "university_id": "9302",
+  "university_name": "มหาวิทยาลัยธรรมศาสตร์",
+  "courses": [
+    {
+      "name": "Accounting Systems and Auditing",
+      "code": "ASC103",
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%A8%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B8%A3/accounting-systems-and-auditing/5541175"
+    },
+    {
+      "name": "Advanced Accounting",
+      "code": "AC412",
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%A8%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B8%A3/advanced-accounting/3258628"
+    },
+    {
+      "name": "Analytics",
+      "code": "MK318",
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%A8%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B8%A3/analytics/4830349"
+    },
+    {
+      "name": "Applied Mathematics",
+      "code": "math 23",
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%A8%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B8%A3/applied-mathematics/6194860"
+    },
+    {
+      "name": "artificial intelligence",
+      "code": "CS265",
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%A8%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B8%A3/artificial-intelligence/5292742"
+    },
+    {
+      "name": "Auditing and Assurance Services",
+      "code": "AI314",
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%A8%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B8%A3/auditing-and-assurance-services/6502897"
+    },
+    {
+      "name": "Basel Risk",
+      "code": "RISK100",
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%A8%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B8%A3/basel-risk/4976847"
+    },
+    {
+      "name": "Basic Electric",
+      "code": "EC220",
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%A8%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B8%A3/basic-electric/3718027"
+    },
+    {
+      "name": "British Foreign Policy",
+      "code": "BA220",
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%A8%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B8%A3/british-foreign-policy/5195530"
+    },
+    {
+      "name": "British Government",
+      "code": "BA 330",
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%A8%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B8%A3/british-government/5195531"
+    },
+    {
+      "name": "Building and Facility",
+      "code": "CES202",
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%A8%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B8%A3/building-and-facility/2263388"
+    },
+    {
+      "name": "Business econ reading",
+      "code": "EE444",
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%A8%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B8%A3/business-econ-reading/5071681"
+    },
+    {
+      "name": "Business Finance",
+      "code": "FN588",
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%A8%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B8%A3/business-finance/3212395"
+    },
+    {
+      "name": "Business finance",
+      "code": "FN201",
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%A8%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B8%A3/business-finance/3177401"
+    },
+    {
+      "name": "business info sys",
+      "code": "tu542",
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%A8%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B8%A3/business-info-sys/4633564"
+    },
+    {
+      "name": "Business Intelligence and Analytics",
+      "code": "MTS487",
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%A8%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B8%A3/business-intelligence-and-analytics/6915589"
+    },
+    {
+      "name": "Business Law",
+      "code": "BA201",
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%A8%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B8%A3/business-law/5188615"
+    },
+    {
+      "name": "Business Statistic",
+      "code": "BA204",
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%A8%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B8%A3/business-statistic/1942594"
+    },
+    {
+      "name": "Caculus 2",
+      "code": "MA112",
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%A8%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B8%A3/caculus-2/3171949"
+    },
+    {
+      "name": "Chemical Reaction",
+      "code": "548965",
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%A8%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B8%A3/chemical-reaction/7291179"
+    },
+    {
+      "name": "Chinese",
+      "code": "CH101",
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%A8%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B8%A3/chinese/7550511"
+    },
+    {
+      "name": "Civic Citizen",
+      "code": "TU100",
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%A8%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B8%A3/civic-citizen/4547637"
+    },
+    {
+      "name": "Communication in Tourism and Hospitality Industry",
+      "code": "EB447",
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%A8%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B8%A3/communication-in-tourism-and-hospitality-industry/5170109"
+    },
+    {
+      "name": "Computer Security",
+      "code": "CS302",
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%A8%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B8%A3/computer-security/4420254"
+    },
+    {
+      "name": "Consumer Behaviors",
+      "code": "mk311",
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%A8%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B8%A3/consumer-behaviors/2918531"
+    },
+    {
+      "name": "Cost Accounting",
+      "code": "AC313",
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%A8%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B8%A3/cost-accounting/3192304"
+    },
+    {
+      "name": "cost management",
+      "code": "ac203",
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%A8%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B8%A3/cost-management/6242364"
+    },
+    {
+      "name": "Cost Management",
+      "code": "AC314",
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%A8%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B8%A3/cost-management/3945147"
+    },
+    {
+      "name": "Critical Reading",
+      "code": "EG221",
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%A8%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B8%A3/critical-reading/6400210"
+    },
+    {
+      "name": "Data Mining and Machine Learning",
+      "code": "DES434",
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%A8%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B8%A3/data-mining-and-machine-learning/6519691"
+    },
+    {
+      "name": "Discrete Structure",
+      "code": "CS101",
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%A8%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B8%A3/discrete-structure/5473652"
+    },
+    {
+      "name": "Doctor of Medicine",
+      "code": "Doctor of Medicine",
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%A8%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B8%A3/doctor-of-medicine/3738078"
+    },
+    {
+      "name": "Dynamic of structure",
+      "code": "Ce413",
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%A8%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B8%A3/dynamic-of-structure/3172723"
+    },
+    {
+      "name": "E-commerce",
+      "code": "MT383",
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%A8%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B8%A3/e-commerce/4194577"
+    },
+    {
+      "name": "Econometrics",
+      "code": "MF503",
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%A8%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B8%A3/econometrics/2997675"
+    },
+    {
+      "name": "Economic Analysis of Corruption",
+      "code": "EE446",
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%A8%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B8%A3/economic-analysis-of-corruption/4981736"
+    },
+    {
+      "name": "Electronic Communications",
+      "code": "EB332",
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%A8%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B8%A3/electronic-communications/5096308"
+    },
+    {
+      "name": "Eng present",
+      "code": "EL204 -",
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%A8%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B8%A3/eng-present/5781785"
+    },
+    {
+      "name": "Engineering Economic",
+      "code": "IES341",
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%A8%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B8%A3/engineering-economic/4509411"
+    },
+    {
+      "name": "Engineering Statistics",
+      "code": "IES302",
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%A8%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B8%A3/engineering-statistics/3487796"
+    },
+    {
+      "name": "English for Career",
+      "code": "CR700",
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%A8%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B8%A3/english-for-career/3732747"
+    },
+    {
+      "name": "English Tutor Course",
+      "code": "ENG101",
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%A8%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B8%A3/english-tutor-course/6767384"
+    },
+    {
+      "name": "environmental engineering",
+      "code": "en201",
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%A8%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B8%A3/environmental-engineering/6831395"
+    },
+    {
+      "name": "Factory Automation",
+      "code": "IES323",
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%A8%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B8%A3/factory-automation/6624768"
+    },
+    {
+      "name": "Financial economics",
+      "code": "EC431",
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%A8%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B8%A3/financial-economics/3179536"
+    },
+    {
+      "name": "Food and Drug Technology",
+      "code": "FAD203",
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%A8%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B8%A3/food-and-drug-technology/6152517"
+    },
+    {
+      "name": "Foreign Relations and Policy in East Asia",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%A8%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B8%A3/foreign-relations-and-policy-in-east-asia/2917828"
+    },
+    {
+      "name": "Fundamental Accounting",
+      "code": "AC201",
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%A8%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B8%A3/fundamental-accounting/5865419"
+    },
+    {
+      "name": "Geotechnical",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%A8%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B8%A3/geotechnical/2505622"
+    },
+    {
+      "name": "Global Environments of International Business",
+      "code": "IB311",
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%A8%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B8%A3/global-environments-of-international-business/2972912"
+    },
+    {
+      "name": "History of Economic Thought",
+      "code": "EE404",
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%A8%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B8%A3/history-of-economic-thought/7283929"
+    },
+    {
+      "name": "History of Western Art",
+      "code": "BS240",
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%A8%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B8%A3/history-of-western-art/3408267"
+    },
+    {
+      "name": "Industry Econ",
+      "code": "EE481",
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%A8%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B8%A3/industry-econ/4537855"
+    },
+    {
+      "name": "Information system",
+      "code": "IS201",
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%A8%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B8%A3/information-system/3223404"
+    },
+    {
+      "name": "Intermediate accounting1",
+      "code": "ac311",
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%A8%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B8%A3/intermediate-accounting1/5115757"
+    },
+    {
+      "name": "International Environmental Law",
+      "code": "LB395",
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%A8%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B8%A3/international-environmental-law/3160409"
+    },
+    {
+      "name": "International Finance",
+      "code": "FN313",
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%A8%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B8%A3/international-finance/5071368"
+    },
+    {
+      "name": "International Monetary and Financial Economics",
+      "code": "EC452",
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%A8%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B8%A3/international-monetary-and-financial-economics/5693377"
+    },
+    {
+      "name": "Introduction to Chemistry",
+      "code": "SC123",
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%A8%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B8%A3/introduction-to-chemistry/5328264"
+    },
+    {
+      "name": "Introduction to International Relation",
+      "code": "PI271",
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%A8%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B8%A3/introduction-to-international-relation/5341066"
+    },
+    {
+      "name": "Introduction to reading philosophy texts",
+      "code": "PH222",
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%A8%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B8%A3/introduction-to-reading-philosophy-texts/6521678"
+    },
+    {
+      "name": "Introduction to Research Methodology",
+      "code": "MTS394",
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%A8%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B8%A3/introduction-to-research-methodology/6444190"
+    },
+    {
+      "name": "Investments",
+      "code": "FN312",
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%A8%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B8%A3/investments/4173844"
+    },
+    {
+      "name": "Korean History",
+      "code": "KS333",
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%A8%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B8%A3/korean-history/5796847"
+    },
+    {
+      "name": "Laws and regulation",
+      "code": "TU101",
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%A8%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B8%A3/laws-and-regulation/4547638"
+    },
+    {
+      "name": "Lecture note",
+      "code": "pp110",
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%A8%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B8%A3/lecture-note/5291459"
+    },
+    {
+      "name": "Management",
+      "code": "Bi201",
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%A8%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B8%A3/management/4238913"
+    },
+    {
+      "name": "Managerial Accounting",
+      "code": "MTS315",
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%A8%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B8%A3/managerial-accounting/4550386"
+    },
+    {
+      "name": "Marketing research",
+      "code": "mk313",
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%A8%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B8%A3/marketing-research/4374677"
+    },
+    {
+      "name": "Material Science",
+      "code": "MTS252",
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%A8%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B8%A3/material-science/4508615"
+    },
+    {
+      "name": "Mechanic",
+      "code": "320",
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%A8%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B8%A3/mechanic/3227747"
+    },
+    {
+      "name": "Mechanical Engineering laboratory",
+      "code": "ME300",
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%A8%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B8%A3/mechanical-engineering-laboratory/6742061"
+    },
+    {
+      "name": "Mechanics Of Solid",
+      "code": "CE221",
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%A8%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B8%A3/mechanics-of-solid/4119689"
+    },
+    {
+      "name": "Medical Biology",
+      "code": "CMM110",
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%A8%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B8%A3/medical-biology/7093651"
+    },
+    {
+      "name": "Microeconomics theory",
+      "code": "EE311",
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%A8%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B8%A3/microeconomics-theory/4208965"
+    },
+    {
+      "name": "Monetary Economics",
+      "code": "EE631",
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%A8%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B8%A3/monetary-economics/5539268"
+    },
+    {
+      "name": "Monetary theory and policy",
+      "code": "EE432",
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%A8%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B8%A3/monetary-theory-and-policy/3177400"
+    },
+    {
+      "name": "Morphology and Syntax",
+      "code": "EG342",
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%A8%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B8%A3/morphology-and-syntax/4480379"
+    },
+    {
+      "name": "New Media Studies",
+      "code": "JM 202",
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%A8%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B8%A3/new-media-studies/5072093"
+    },
+    {
+      "name": "Operation Management",
+      "code": "Om201",
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%A8%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B8%A3/operation-management/3453150"
+    },
+    {
+      "name": "Oral Pathology",
+      "code": "DS324",
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%A8%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B8%A3/oral-pathology/6190426"
+    },
+    {
+      "name": "Organization Theory",
+      "code": "PO242",
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%A8%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B8%A3/organization-theory/4362927"
+    },
+    {
+      "name": "Organizational behavior",
+      "code": "mts313",
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%A8%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B8%A3/organizational-behavior/3477541"
+    },
+    {
+      "name": "Organizational Behavior",
+      "code": "HR311",
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%A8%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B8%A3/organizational-behavior/2972910"
+    },
+    {
+      "name": "Physical chemistry",
+      "code": "AE201",
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%A8%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B8%A3/physical-chemistry/3408039"
+    },
+    {
+      "name": "Principle of Marketing",
+      "code": "MK201",
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%A8%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B8%A3/principle-of-marketing/1742116"
+    },
+    {
+      "name": "Principles of Chemistry for Biomedical Science",
+      "code": "CMM103",
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%A8%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B8%A3/principles-of-chemistry-for-biomedical-science/7558785"
+    },
+    {
+      "name": "Principles of Macroeconomics",
+      "code": "ee212",
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%A8%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B8%A3/principles-of-macroeconomics/6919964"
+    },
+    {
+      "name": "Principles of Microeconomic",
+      "code": "EE211",
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%A8%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B8%A3/principles-of-microeconomic/3362327"
+    },
+    {
+      "name": "Probability for engineering",
+      "code": "LE211",
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%A8%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B8%A3/probability-for-engineering/6026274"
+    },
+    {
+      "name": "Product logistics",
+      "code": "SE601",
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%A8%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B8%A3/product-logistics/4544356"
+    },
+    {
+      "name": "Production and inventory control",
+      "code": "mts333",
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%A8%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B8%A3/production-and-inventory-control/3592507"
+    },
+    {
+      "name": "Public international law",
+      "code": "LB290",
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%A8%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B8%A3/public-international-law/4070780"
+    },
+    {
+      "name": "Research writing",
+      "code": "EG434",
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%A8%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B8%A3/research-writing/6443772"
+    },
+    {
+      "name": "Risk Managment",
+      "code": "FN241",
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%A8%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B8%A3/risk-managment/3945148"
+    },
+    {
+      "name": "Social Psychology",
+      "code": "PSYC 241",
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%A8%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B8%A3/social-psychology/4372235"
+    },
+    {
+      "name": "Solid Mechanics",
+      "code": "CE320",
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%A8%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B8%A3/solid-mechanics/3221367"
+    },
+    {
+      "name": "Statics",
+      "code": "CE202",
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%A8%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B8%A3/statics/3723034"
+    },
+    {
+      "name": "Strategic Management",
+      "code": "BA401",
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%A8%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B8%A3/strategic-management/5289613"
+    },
+    {
+      "name": "strategic sourcing and supply management",
+      "code": "mts339",
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%A8%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B8%A3/strategic-sourcing-and-supply-management/5065432"
+    },
+    {
+      "name": "Tax accounting",
+      "code": "AC315",
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%A8%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B8%A3/tax-accounting/7305482"
+    },
+    {
+      "name": "Technology law for medical student",
+      "code": "CMM126",
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%A8%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B8%A3/technology-law-for-medical-student/7101962"
+    },
+    {
+      "name": "thai history",
+      "code": "KING001",
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%A8%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B8%A3/thai-history/6477770"
+    },
+    {
+      "name": "Thai theatre",
+      "code": "AT301",
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%A8%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B8%A3/thai-theatre/6723387"
+    },
+    {
+      "name": "Theemodynamics 1",
+      "code": "ME230",
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%A8%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B8%A3/theemodynamics-1/3209089"
+    },
+    {
+      "name": "Theory of Macroeconomics",
+      "code": "EE312",
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%A8%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B8%A3/theory-of-macroeconomics/2918523"
+    },
+    {
+      "name": "Thermodynamics",
+      "code": "MES311",
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%A8%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B8%A3/thermodynamics/3193427"
+    }
+  ]
+}

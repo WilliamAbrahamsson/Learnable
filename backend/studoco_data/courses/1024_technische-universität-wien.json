@@ -1,0 +1,2876 @@
+{
+  "university_id": "1024",
+  "university_name": "Technische Universität Wien",
+  "courses": [
+    {
+      "name": "Baudynamik",
+      "code": "206.301",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/baudynamik/2737331"
+    },
+    {
+      "name": "Magnetismus",
+      "code": "138.033",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/magnetismus/2699128"
+    },
+    {
+      "name": "Mechanik 2",
+      "code": "309.020",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/mechanik-2/2792330"
+    },
+    {
+      "name": "Nichtlineare Optimierung",
+      "code": "105.652",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/nichtlineare-optimierung/2872016"
+    },
+    {
+      "name": "Physikalische Analytik",
+      "code": "134.048",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/physikalische-analytik/2699139"
+    },
+    {
+      "name": "Programmiersprachen",
+      "code": "185.208",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/programmiersprachen/2905050"
+    },
+    {
+      "name": "Satellitengeodäsie",
+      "code": "120.071",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/satellitengeodasie/2872017"
+    },
+    {
+      "name": "Abfallwirtschaft und Entsorgungstechnik",
+      "code": null,
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/abfallwirtschaft-und-entsorgungstechnik/5392913"
+    },
+    {
+      "name": "Advanced Business Management and Culture",
+      "code": "325.037",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/advanced-business-management-and-culture/1569880"
+    },
+    {
+      "name": "Advanced Macro- & Micromechanics of Materials",
+      "code": "202.051",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/advanced-macro-micromechanics-of-materials/1569887"
+    },
+    {
+      "name": "Advanced Software Engineering",
+      "code": "180.456",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/advanced-software-engineering/1569892"
+    },
+    {
+      "name": "AKALG Lie Algebren und Darstellungstheorie 2",
+      "code": "104.502",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/akalg-lie-algebren-und-darstellungstheorie-2/2733582"
+    },
+    {
+      "name": "AKMOD: Nervenmodelle",
+      "code": "101.186",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/akmod-nervenmodelle/2737338"
+    },
+    {
+      "name": "AKNUM Computernumerik",
+      "code": "106.054",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/aknum-computernumerik/1569906"
+    },
+    {
+      "name": "AKSTA: Statistical Computing",
+      "code": "107.106",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/aksta-statistical-computing/1569912"
+    },
+    {
+      "name": "Algebra UE",
+      "code": "104.304",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/algebra-ue/1569914"
+    },
+    {
+      "name": "Algebra und Diskrete Mathematik für Informatik und Wirtschaftsinformatik",
+      "code": "104.263",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/algebra-und-diskrete-mathematik-fur-informatik-und-wirtschaftsinformatik/1569915"
+    },
+    {
+      "name": "Algorithmen und Datenstrukturen 1",
+      "code": "186.813",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/algorithmen-und-datenstrukturen-1/1569918"
+    },
+    {
+      "name": "Algorithmen und Datenstrukturen 2",
+      "code": "186.815",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/algorithmen-und-datenstrukturen-2/1569919"
+    },
+    {
+      "name": "Allgemeine Betriebswirtschaftslehre",
+      "code": "234.083",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/allgemeine-betriebswirtschaftslehre/1569922"
+    },
+    {
+      "name": "Allgemeine Gebäudelehre und Planungsmethodik",
+      "code": "252.029",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/allgemeine-gebaudelehre-und-planungsmethodik/1569923"
+    },
+    {
+      "name": "Alpines Raumordnungsrecht und Alpenschutz",
+      "code": "265.048",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/alpines-raumordnungsrecht-und-alpenschutz/1569924"
+    },
+    {
+      "name": "Analysis 1",
+      "code": "103.279",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/analysis-1/1569927"
+    },
+    {
+      "name": "Analysis 1 UE",
+      "code": "103.280",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/analysis-1-ue/1569928"
+    },
+    {
+      "name": "Analysis 2 für Informatik",
+      "code": "104.268",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/analysis-2-fur-informatik/1569929"
+    },
+    {
+      "name": "Analysis 2 UE",
+      "code": "103.301",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/analysis-2-ue/1569930"
+    },
+    {
+      "name": "Analysis 3",
+      "code": "101.448",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/analysis-3/1569931"
+    },
+    {
+      "name": "Analysis für Informatik und Wirtschaftsinformatik",
+      "code": "104.262",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/analysis-fur-informatik-und-wirtschaftsinformatik/1569932"
+    },
+    {
+      "name": "Analytische Chemie I",
+      "code": "164.053",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/analytische-chemie-i/1569933"
+    },
+    {
+      "name": "Analytische Chemie III",
+      "code": "164.253",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/analytische-chemie-iii/1569935"
+    },
+    {
+      "name": "Analytische Mechanik",
+      "code": "130.009",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/analytische-mechanik/6019047"
+    },
+    {
+      "name": "Analytische Methoden und Trennverfahren",
+      "code": "164.322",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/analytische-methoden-und-trennverfahren/1569938"
+    },
+    {
+      "name": "Angewandte Betriebswirtschaftslehre",
+      "code": "330.097",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/angewandte-betriebswirtschaftslehre/1569941"
+    },
+    {
+      "name": "Angewandte Flesmechanik",
+      "code": "203.098",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/angewandte-flesmechanik/7413777"
+    },
+    {
+      "name": "Angewandte Geometrie",
+      "code": "111.102",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/angewandte-geometrie/1569946"
+    },
+    {
+      "name": "Angewandte Mathematik",
+      "code": null,
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/angewandte-mathematik/2637820"
+    },
+    {
+      "name": "Angewandte Quantenmechanik",
+      "code": "132.070",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/angewandte-quantenmechanik/2699157"
+    },
+    {
+      "name": "Angewandte Thermodynamik",
+      "code": "302.696",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/angewandte-thermodynamik/1569949"
+    },
+    {
+      "name": "Angewandtes Liegenschaftsmanagement",
+      "code": "016.011",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/angewandtes-liegenschaftsmanagement/1569950"
+    },
+    {
+      "name": "Anorganische Chemie I",
+      "code": "165.087",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/anorganische-chemie-i/1569953"
+    },
+    {
+      "name": "Anorganische Chemie II",
+      "code": "165.112",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/anorganische-chemie-ii/2844479"
+    },
+    {
+      "name": "Arbeits- und Organisationspsychologie",
+      "code": null,
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/arbeits-und-organisationspsychologie/2637821"
+    },
+    {
+      "name": "Arch.lab",
+      "code": "253.279",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/archlab/1569964"
+    },
+    {
+      "name": "Architektur und Gesellschaft",
+      "code": "251.143",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/architektur-und-gesellschaft/1569971"
+    },
+    {
+      "name": "Architektur- und Kunstgeschichte",
+      "code": "251.692",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/architektur-und-kunstgeschichte/1569972"
+    },
+    {
+      "name": "Architektur- und Kunstgeschichte 3 Gegenwartskunst",
+      "code": "251.804",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/architektur-und-kunstgeschichte-3-gegenwartskunst/2792349"
+    },
+    {
+      "name": "Architektur- und Kunstgeschichte des 19. und 20.Jhs.",
+      "code": "257.082",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/architektur-und-kunstgeschichte-des-19-und-20jhs/1569973"
+    },
+    {
+      "name": "Architektur: Film",
+      "code": "251.041",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/architektur-film/1569974"
+    },
+    {
+      "name": "Architekturtheorie",
+      "code": "251.117",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/architekturtheorie/1569978"
+    },
+    {
+      "name": "Archtitekturtheorie 2",
+      "code": "259.598",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/archtitekturtheorie-2/5835130"
+    },
+    {
+      "name": "Archäometrie: Datierung, Spurenelement-Bestimmung",
+      "code": "141.106",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/archaometrie-datierung-spurenelement-bestimmung/6900224"
+    },
+    {
+      "name": "aschinenelemente Konstruktionsübung",
+      "code": "307452",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/aschinenelemente-konstruktionsubung/1569867"
+    },
+    {
+      "name": "Auffrischungskurs Mathematik",
+      "code": "101.521",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/auffrischungskurs-mathematik/1569989"
+    },
+    {
+      "name": "Ausgleichsrechnung",
+      "code": "127.033",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/ausgleichsrechnung/1570000"
+    },
+    {
+      "name": "Automatisierung",
+      "code": "376.000",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/automatisierung/1570003"
+    },
+    {
+      "name": "Automobillogistik",
+      "code": "330.177",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/automobillogistik/1570004"
+    },
+    {
+      "name": "Barrierefreies Bauen",
+      "code": "259.345",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/barrierefreies-bauen/1570007"
+    },
+    {
+      "name": "Barrierefreies Internet",
+      "code": "187.A58",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/barrierefreies-internet/1570008"
+    },
+    {
+      "name": "Bau und Planungsrecht",
+      "code": null,
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/bau-und-planungsrecht/2637834"
+    },
+    {
+      "name": "Bau- und Anlagenrecht",
+      "code": "234.987",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/bau-und-anlagenrecht/1570010"
+    },
+    {
+      "name": "Baudurchführung u. AVA",
+      "code": "270.103",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/baudurchfuhrung-u-ava/2573824"
+    },
+    {
+      "name": "Bauen für Menschen",
+      "code": null,
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/bauen-fur-menschen/4843264"
+    },
+    {
+      "name": "Baugeschichte 1",
+      "code": "251.155",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/baugeschichte-1/2574472"
+    },
+    {
+      "name": "Baugeschichte 2",
+      "code": "251.153",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/baugeschichte-2/2617432"
+    },
+    {
+      "name": "Baukonstruktionen",
+      "code": "206.097",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/baukonstruktionen/1570013"
+    },
+    {
+      "name": "Baulicher Brandschutz",
+      "code": "206.051",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/baulicher-brandschutz/1570015"
+    },
+    {
+      "name": "Baumechanik",
+      "code": "206.329",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/baumechanik/2651777"
+    },
+    {
+      "name": "Bauphysik",
+      "code": "253.040",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/bauphysik/1570016"
+    },
+    {
+      "name": "Bauphysik und Bauökologie",
+      "code": "253.146",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/bauphysik-und-bauokologie/1570021"
+    },
+    {
+      "name": "Bauphysik und Humanökologie",
+      "code": "253.039",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/bauphysik-und-humanokologie/1570022"
+    },
+    {
+      "name": "Bauphysikalische Konstruktionslehre",
+      "code": "206.134",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/bauphysikalische-konstruktionslehre/1570024"
+    },
+    {
+      "name": "Baustatik 1",
+      "code": "202.066",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/baustatik-1/1570028"
+    },
+    {
+      "name": "Bausysteme - Holzbau",
+      "code": "254.035",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/bausysteme-holzbau/1570032"
+    },
+    {
+      "name": "Bautechnik 2",
+      "code": null,
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/bautechnik-2/5135855"
+    },
+    {
+      "name": "Bauverfahrenstechnik (Englisch",
+      "code": "234.223",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/bauverfahrenstechnik-englisch/1570033"
+    },
+    {
+      "name": "Bauwirtschaft und Bau-projektmanagement 1 (VO) Kopie",
+      "code": "234.011",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/bauwirtschaft-und-bau-projektmanagement-1-vo-kopie/1570035"
+    },
+    {
+      "name": "Bauwirtschaft und Bauprojektmanagement 1",
+      "code": "234.994",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/bauwirtschaft-und-bauprojektmanagement-1/1570034"
+    },
+    {
+      "name": "Berufsfeld Architektur",
+      "code": "251.129",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/berufsfeld-architektur/1570042"
+    },
+    {
+      "name": "Betonbau 1",
+      "code": "212.021",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/betonbau-1/2658329"
+    },
+    {
+      "name": "Betonbau 1 - Übung",
+      "code": "212.022",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/betonbau-1-ubung/2658335"
+    },
+    {
+      "name": "Betonbau 2",
+      "code": "212.455",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/betonbau-2/2658631"
+    },
+    {
+      "name": "Betriebliche Kostenrechnung",
+      "code": "330.212",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/betriebliche-kostenrechnung/1570048"
+    },
+    {
+      "name": "Betriebswirtschaftliche Grundlagen der Projektentwicklung",
+      "code": "260.147",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/betriebswirtschaftliche-grundlagen-der-projektentwicklung/1570050"
+    },
+    {
+      "name": "Betriebswirtschaftliche Grundlagen der Projektentwicklung",
+      "code": "260.300",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/betriebswirtschaftliche-grundlagen-der-projektentwicklung/7353070"
+    },
+    {
+      "name": "Betriebswirtschaftliche Optimierung",
+      "code": "330.227",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/betriebswirtschaftliche-optimierung/1570051"
+    },
+    {
+      "name": "Biochemie",
+      "code": "166.023",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/biochemie/1570059"
+    },
+    {
+      "name": "Biokompatible Werkstoffe",
+      "code": "308.106",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/biokompatible-werkstoffe/1570060"
+    },
+    {
+      "name": "Biology",
+      "code": "BIO101",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/biology/2918389"
+    },
+    {
+      "name": "Biomaterials",
+      "code": "308.119",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/biomaterials/1570061"
+    },
+    {
+      "name": "Biomechanik d. menschl. Bewegungsapparates",
+      "code": "309.033",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/biomechanik-d-menschl-bewegungsapparates/1570062"
+    },
+    {
+      "name": "Biomedical Sensors and Signals",
+      "code": "351.027",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/biomedical-sensors-and-signals/1570065"
+    },
+    {
+      "name": "Biophysik",
+      "code": "362.111",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/biophysik/1570067"
+    },
+    {
+      "name": "Black Holes I",
+      "code": "136.028",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/black-holes-i/2878204"
+    },
+    {
+      "name": "Black Holes II",
+      "code": "136.029",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/black-holes-ii/2878206"
+    },
+    {
+      "name": "Bodendynamik",
+      "code": "220.029",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/bodendynamik/5393088"
+    },
+    {
+      "name": "Brennstoff- und Energietechnologie",
+      "code": "159.830",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/brennstoff-und-energietechnologie/7696327"
+    },
+    {
+      "name": "Brückenbau",
+      "code": "212.461",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/bruckenbau/4843444"
+    },
+    {
+      "name": "Business Intelligence",
+      "code": "188.429",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/business-intelligence/1570084"
+    },
+    {
+      "name": "CAAD 1",
+      "code": "259.266",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/caad-1/1570085"
+    },
+    {
+      "name": "CAAD 2",
+      "code": "259.267",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/caad-2/1570086"
+    },
+    {
+      "name": "CAAD und Geometrie",
+      "code": "272.052",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/caad-und-geometrie/1570087"
+    },
+    {
+      "name": "CAD im Bauwesen",
+      "code": "242.023",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/cad-im-bauwesen/1570089"
+    },
+    {
+      "name": "CAE Statik",
+      "code": "211.111",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/cae-statik/1570094"
+    },
+    {
+      "name": "Chemie",
+      "code": "153.075",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/chemie/1570101"
+    },
+    {
+      "name": "Chemie für Maschinenbau",
+      "code": "153.494",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/chemie-fur-maschinenbau/1570103"
+    },
+    {
+      "name": "Chemie im Bauwesen",
+      "code": "226.024",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/chemie-im-bauwesen/2651780"
+    },
+    {
+      "name": "Chemische Grundlagen für Umweltingenieurwesen",
+      "code": "163.189",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/chemische-grundlagen-fur-umweltingenieurwesen/4510481"
+    },
+    {
+      "name": "Chemische Technologie anorganischer Stoffe",
+      "code": "164.221",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/chemische-technologie-anorganischer-stoffe/1570106"
+    },
+    {
+      "name": "Chemische Technologie nachwachsender Rohstoffe",
+      "code": "163.156",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/chemische-technologie-nachwachsender-rohstoffe/7057544"
+    },
+    {
+      "name": "Chemische Technologie organischer Stoffe",
+      "code": "163.138",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/chemische-technologie-organischer-stoffe/1570107"
+    },
+    {
+      "name": "Computational Neuroscience",
+      "code": "101.597",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/computational-neuroscience/1570116"
+    },
+    {
+      "name": "Computational Social Simulation",
+      "code": "105.622",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/computational-social-simulation/1570117"
+    },
+    {
+      "name": "Computermathematik",
+      "code": "101.463",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/computermathematik/6029922"
+    },
+    {
+      "name": "Computerstatistik",
+      "code": "107.258",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/computerstatistik/1570124"
+    },
+    {
+      "name": "Creativity Engineering",
+      "code": "015.100",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/creativity-engineering/1570135"
+    },
+    {
+      "name": "Current Trends in Computer Science",
+      "code": "195.072",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/current-trends-in-computer-science/1570139"
+    },
+    {
+      "name": "Darstellende Geometrie",
+      "code": "104.590",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/darstellende-geometrie/5712314"
+    },
+    {
+      "name": "Data Stewardship",
+      "code": "194.044",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/data-stewardship/7378389"
+    },
+    {
+      "name": "Daten- und Informatikrecht",
+      "code": "265.066",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/daten-und-informatikrecht/1570142"
+    },
+    {
+      "name": "Datenanalyse",
+      "code": "107.A03",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/datenanalyse/1570144"
+    },
+    {
+      "name": "Datenbanksysteme",
+      "code": "184.686",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/datenbanksysteme/1570146"
+    },
+    {
+      "name": "Datenbanksysteme Vertiefung",
+      "code": "184.780",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/datenbanksysteme-vertiefung/7378379"
+    },
+    {
+      "name": "Datenkommunikation",
+      "code": "389.153",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/datenkommunikation/5065016"
+    },
+    {
+      "name": "Datenmodellierung",
+      "code": "184.685",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/datenmodellierung/1570147"
+    },
+    {
+      "name": "Denkmalpflege",
+      "code": "257.058",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/denkmalpflege/2573787"
+    },
+    {
+      "name": "Denkmalpflege und Bausanierung",
+      "code": "251.148",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/denkmalpflege-und-bausanierung/1570153"
+    },
+    {
+      "name": "Dependable Distributed System",
+      "code": "183.212",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/dependable-distributed-system/1570155"
+    },
+    {
+      "name": "Design for All",
+      "code": "259.344",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/design-for-all/1570158"
+    },
+    {
+      "name": "Deutsch VWU",
+      "code": "FG1",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/deutsch-vwu/6387571"
+    },
+    {
+      "name": "Differentialgeometrie",
+      "code": "104.358",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/differentialgeometrie/2843628"
+    },
+    {
+      "name": "Differentialgleichungen 1",
+      "code": "101.666",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/differentialgleichungen-1/2698576"
+    },
+    {
+      "name": "Digitale Darstellungsmethoden 1",
+      "code": "259.604",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/digitale-darstellungsmethoden-1/7747343"
+    },
+    {
+      "name": "Digitale Darstellungsmethoden 2",
+      "code": "259.605",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/digitale-darstellungsmethoden-2/7747338"
+    },
+    {
+      "name": "Digitale Systeme",
+      "code": "384.047",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/digitale-systeme/1570178"
+    },
+    {
+      "name": "Digitale Systeme",
+      "code": "384.046",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/digitale-systeme/5790867"
+    },
+    {
+      "name": "Discrete Mathematics",
+      "code": "104.272",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/discrete-mathematics/1570184"
+    },
+    {
+      "name": "Diskrete Methoden",
+      "code": "104.350",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/diskrete-methoden/2843635"
+    },
+    {
+      "name": "Dreidimensionales Gestalten VO",
+      "code": "258.045",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/dreidimensionales-gestalten-vo/3624351"
+    },
+    {
+      "name": "Dynamics of the cardiovascular system",
+      "code": "322.018",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/dynamics-of-the-cardiovascular-system/3735795"
+    },
+    {
+      "name": "Einführung in das Programmieren für Technische Mathematik",
+      "code": "101.275",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/einfuhrung-in-das-programmieren-fur-technische-mathematik/1570213"
+    },
+    {
+      "name": "Einführung in die biologische Chemie",
+      "code": "163.137",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/einfuhrung-in-die-biologische-chemie/1570216"
+    },
+    {
+      "name": "Einführung in die Finite Elemente Methoden",
+      "code": "317.017",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/einfuhrung-in-die-finite-elemente-methoden/1570221"
+    },
+    {
+      "name": "Einführung in die Immobilienökonomie",
+      "code": "260.705",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/einfuhrung-in-die-immobilienokonomie/6614411"
+    },
+    {
+      "name": "Einführung in die Künstliche Intelligenz",
+      "code": "184.735",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/einfuhrung-in-die-kunstliche-intelligenz/1570222"
+    },
+    {
+      "name": "Einführung in die Mustererkennung",
+      "code": "186.844",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/einfuhrung-in-die-mustererkennung/1570224"
+    },
+    {
+      "name": "Einführung in die Programmierung 1",
+      "code": "185.A91",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/einfuhrung-in-die-programmierung-1/5387988"
+    },
+    {
+      "name": "Einführung in die Programmierung 2",
+      "code": "185A92",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/einfuhrung-in-die-programmierung-2/5166032"
+    },
+    {
+      "name": "Einführung in die Rechtswissenschaft für Wirtschaftswissenschaftler",
+      "code": null,
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/einfuhrung-in-die-rechtswissenschaft-fur-wirtschaftswissenschaftler/2637824"
+    },
+    {
+      "name": "Einführung in die Soziologie und Demographie",
+      "code": null,
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/einfuhrung-in-die-soziologie-und-demographie/5389117"
+    },
+    {
+      "name": "Einführung in die Stochastischen Prozesse und Zeitreihen",
+      "code": "105.593",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/einfuhrung-in-die-stochastischen-prozesse-und-zeitreihen/1570226"
+    },
+    {
+      "name": "Einführung in die Verfahrenstechnik",
+      "code": "166.687",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/einfuhrung-in-die-verfahrenstechnik/2698605"
+    },
+    {
+      "name": "Einführung in die Volkswirtschaftslehre",
+      "code": "280.080",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/einfuhrung-in-die-volkswirtschaftslehre/1570228"
+    },
+    {
+      "name": "Einführung in Maschinenwesen und Betriebswissenschaften",
+      "code": "300.000",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/einfuhrung-in-maschinenwesen-und-betriebswissenschaften/5134658"
+    },
+    {
+      "name": "Einführung in Python-Programmierung für Geowissenschaften",
+      "code": "120.050",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/einfuhrung-in-python-programmierung-fur-geowissenschaften/1570231"
+    },
+    {
+      "name": "Einführung in Semantic Web",
+      "code": "188.399",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/einfuhrung-in-semantic-web/1570232"
+    },
+    {
+      "name": "Eisenbahnwesen",
+      "code": "230.033",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/eisenbahnwesen/2658352"
+    },
+    {
+      "name": "Eisenbahnwesen",
+      "code": "232.518",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/eisenbahnwesen/2843640"
+    },
+    {
+      "name": "Eisenbahnwesen",
+      "code": "232.507",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/eisenbahnwesen/2658358"
+    },
+    {
+      "name": "Eisenbahnwesen 2",
+      "code": "230.039",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/eisenbahnwesen-2/4840738"
+    },
+    {
+      "name": "Elektrische Antriebstechnik für MB und WIMB",
+      "code": "370.013",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/elektrische-antriebstechnik-fur-mb-und-wimb/6049827"
+    },
+    {
+      "name": "Elektrochemische Energieumwandlung und Speicherung",
+      "code": null,
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/elektrochemische-energieumwandlung-und-speicherung/4494368"
+    },
+    {
+      "name": "Elektrodynamik",
+      "code": "351.019",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/elektrodynamik/1570238"
+    },
+    {
+      "name": "Elektrodynamik 1 VU",
+      "code": "136.015",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/elektrodynamik-1-vu/6612145"
+    },
+    {
+      "name": "Elektrodynamik II UE",
+      "code": null,
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/elektrodynamik-ii-ue/6067474"
+    },
+    {
+      "name": "Elektronische Bauelemente",
+      "code": "362.072",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/elektronische-bauelemente/1570239"
+    },
+    {
+      "name": "Elektrotechnik 1",
+      "code": "351.009",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/elektrotechnik-1/1570241"
+    },
+    {
+      "name": "Elektrotechnik 2",
+      "code": "351.012",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/elektrotechnik-2/1570242"
+    },
+    {
+      "name": "Elementary Particle Physics I",
+      "code": "142.PGW",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/elementary-particle-physics-i/1570243"
+    },
+    {
+      "name": "Entrepreneurship und Wirtschaftsentwicklung",
+      "code": null,
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/entrepreneurship-und-wirtschaftsentwicklung/2637822"
+    },
+    {
+      "name": "Environmental and Population Economics",
+      "code": null,
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/environmental-and-population-economics/4788425"
+    },
+    {
+      "name": "Environmental Engineering",
+      "code": null,
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/environmental-engineering/7003186"
+    },
+    {
+      "name": "European Union - Institutions, Policies and Future Challenges",
+      "code": "164.287",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/european-union-institutions-policies-and-future-challenges/2733748"
+    },
+    {
+      "name": "Exkursion Architektur- und Kunstgeschichte",
+      "code": "257.079",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/exkursion-architektur-und-kunstgeschichte/1570272"
+    },
+    {
+      "name": "Exkursion Bauphysik",
+      "code": "206.188",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/exkursion-bauphysik/1570273"
+    },
+    {
+      "name": "Exkursion zu Architekturtheorie",
+      "code": "251.045",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/exkursion-zu-architekturtheorie/1570275"
+    },
+    {
+      "name": "Fachvertiefung - Softwareentwicklung",
+      "code": "384.141",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/fachvertiefung-softwareentwicklung/1570293"
+    },
+    {
+      "name": "Fahrzeugdynamik Seminar",
+      "code": "325.047",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/fahrzeugdynamik-seminar/1570294"
+    },
+    {
+      "name": "Federalism and fiscal relations in (federal) states",
+      "code": "280.330",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/federalism-and-fiscal-relations-in-federal-states/1570295"
+    },
+    {
+      "name": "Fehlerkorrigierende Codes, Übung",
+      "code": "104.183",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/fehlerkorrigierende-codes-ubung/2843634"
+    },
+    {
+      "name": "Fels und Tunnelbau",
+      "code": "220.000",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/fels-und-tunnelbau/4425525"
+    },
+    {
+      "name": "Fertigungstechnisches Labor",
+      "code": "311.108",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/fertigungstechnisches-labor/2844501"
+    },
+    {
+      "name": "Festkörperchemie",
+      "code": "164.240",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/festkorperchemie/1570298"
+    },
+    {
+      "name": "Festkörperchemie",
+      "code": "VO 164.185",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/festkorperchemie/4106044"
+    },
+    {
+      "name": "Festkörperkontinuumsmechanik",
+      "code": "317.528",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/festkorperkontinuumsmechanik/1570299"
+    },
+    {
+      "name": "Festkörperphysik I",
+      "code": "138.017",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/festkorperphysik-i/4528490"
+    },
+    {
+      "name": "Finanzmathematik 1: diskrete Modelle",
+      "code": "105.595",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/finanzmathematik-1-diskrete-modelle/1570303"
+    },
+    {
+      "name": "Finanzwissenschaft und Infrastrukurökonomie",
+      "code": "280.122",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/finanzwissenschaft-und-infrastrukurokonomie/1570306"
+    },
+    {
+      "name": "Finite Elemente Methoden",
+      "code": "202.653",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/finite-elemente-methoden/1570308"
+    },
+    {
+      "name": "Finite Elemente Methoden 2",
+      "code": "202.660",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/finite-elemente-methoden-2/1570309"
+    },
+    {
+      "name": "Flugbetriebsflächen",
+      "code": null,
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/flugbetriebsflachen/4557929"
+    },
+    {
+      "name": "Flugbetriebsflächsen",
+      "code": "230.023",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/flugbetriebsflachsen/4557779"
+    },
+    {
+      "name": "Fokus: Energie Mobilität und Umwelt - Indikatoren zur energiebewußten Stadtentwicklung",
+      "code": "280.407",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/fokus-energie-mobilitat-und-umwelt-indikatoren-zur-energiebewussten-stadtentwicklung/1570318"
+    },
+    {
+      "name": "Fokus: Sozialer Raum und Diversität Kindheit und Raum",
+      "code": "280.415",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/fokus-sozialer-raum-und-diversitat-kindheit-und-raum/1570324"
+    },
+    {
+      "name": "Formale Modellierung",
+      "code": "185.A06",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/formale-modellierung/1570333"
+    },
+    {
+      "name": "Formen des Wohnens UE: Horizontale Verdichtung",
+      "code": "253.E06",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/formen-des-wohnens-ue-horizontale-verdichtung/4350235"
+    },
+    {
+      "name": "Forschungs- und Planungsdesign",
+      "code": "280.227",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/forschungs-und-planungsdesign/1570334"
+    },
+    {
+      "name": "Fortgeschrittenes Synthesepraktikum",
+      "code": "163.116",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/fortgeschrittenes-synthesepraktikum/1570339"
+    },
+    {
+      "name": "Fortschrittliche Energieanlagen",
+      "code": "302.690",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/fortschrittliche-energieanlagen/1570340"
+    },
+    {
+      "name": "Fortschrittliche und alternative Energieanlagen",
+      "code": "302.699",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/fortschrittliche-und-alternative-energieanlagen/1570341"
+    },
+    {
+      "name": "Freshwater Quality and Ecology",
+      "code": "226.052",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/freshwater-quality-and-ecology/5385932"
+    },
+    {
+      "name": "Funktionalanalysis 1 UE",
+      "code": "101.341",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/funktionalanalysis-1-ue/1570355"
+    },
+    {
+      "name": "Fügetechnik",
+      "code": "308.098",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/fugetechnik/1570351"
+    },
+    {
+      "name": "Gebäudelehre",
+      "code": "252.058",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/gebaudelehre/1570363"
+    },
+    {
+      "name": "Gegenwartsarchitektur",
+      "code": "251.083",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/gegenwartsarchitektur/1570369"
+    },
+    {
+      "name": "Gegenwartsarchitektur 1 Gegenwartsarchitektur Steop",
+      "code": "259.287",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/gegenwartsarchitektur-1-gegenwartsarchitektur-steop/1570370"
+    },
+    {
+      "name": "Gender Studies",
+      "code": "251.058",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/gender-studies/1570371"
+    },
+    {
+      "name": "Geodätische und kartographische Grundlagen der Raumplanung",
+      "code": "127.039",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/geodatische-und-kartographische-grundlagen-der-raumplanung/1570373"
+    },
+    {
+      "name": "Geologie",
+      "code": "220.001",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/geologie/1715938"
+    },
+    {
+      "name": "Geometrie I für Vermessung und Geoinformation",
+      "code": "104.311",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/geometrie-i-fur-vermessung-und-geoinformation/1570377"
+    },
+    {
+      "name": "Geometrische Datenverarbeitung",
+      "code": "104.360",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/geometrische-datenverarbeitung/2872018"
+    },
+    {
+      "name": "Geometrische Methoden",
+      "code": "104.400",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/geometrische-methoden/5285596"
+    },
+    {
+      "name": "Geosynthetics",
+      "code": "220.03",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/geosynthetics/5337644"
+    },
+    {
+      "name": "Geovisualisierung",
+      "code": "120.118",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/geovisualisierung/6491435"
+    },
+    {
+      "name": "Geschichte der Stadt",
+      "code": "260.663",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/geschichte-der-stadt/5195601"
+    },
+    {
+      "name": "Geschichte und Theorie des Designs",
+      "code": "187.228",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/geschichte-und-theorie-des-designs/1570384"
+    },
+    {
+      "name": "Gestaltungslehre",
+      "code": "263.013",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/gestaltungslehre/1570389"
+    },
+    {
+      "name": "Grundbau und Bodenmechanik",
+      "code": null,
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/grundbau-und-bodenmechanik/3735494"
+    },
+    {
+      "name": "Grundkonzepte der Datenanalyse und Visualisierung",
+      "code": "192.103",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/grundkonzepte-der-datenanalyse-und-visualisierung/5165079"
+    },
+    {
+      "name": "Grundkurs Architektur und Darstellung - DG",
+      "code": "113.077",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/grundkurs-architektur-und-darstellung-dg/2633908"
+    },
+    {
+      "name": "Grundkurs Architektur und Konstruktion-CAAD",
+      "code": "272.072",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/grundkurs-architektur-und-konstruktion-caad/1570400"
+    },
+    {
+      "name": "Grundlagen d. Mehrkörpersystemdynamik",
+      "code": "325.056",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/grundlagen-d-mehrkorpersystemdynamik/1570401"
+    },
+    {
+      "name": "Grundlagen der Arbeitswissenschaft",
+      "code": "330.200",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/grundlagen-der-arbeitswissenschaft/1570402"
+    },
+    {
+      "name": "Grundlagen der Betriebs- und Unternehmensführung",
+      "code": "330.001",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/grundlagen-der-betriebs-und-unternehmensfuhrung/1570403"
+    },
+    {
+      "name": "Grundlagen der Chemi",
+      "code": "163.006",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/grundlagen-der-chemi/1570404"
+    },
+    {
+      "name": "Grundlagen der Chemie",
+      "code": "163.122",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/grundlagen-der-chemie/1570405"
+    },
+    {
+      "name": "Grundlagen der Computergraphic",
+      "code": "193.018",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/grundlagen-der-computergraphic/7106468"
+    },
+    {
+      "name": "Grundlagen der Elektronik",
+      "code": "134.163",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/grundlagen-der-elektronik/1570408"
+    },
+    {
+      "name": "Grundlagen der Elektrotechnik für MB und WIMB",
+      "code": null,
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/grundlagen-der-elektrotechnik-fur-mb-und-wimb/2637819"
+    },
+    {
+      "name": "grundlagen der fertigungstechnik",
+      "code": null,
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/grundlagen-der-fertigungstechnik/5940934"
+    },
+    {
+      "name": "Grundlagen der Ingenieurgeodäsie",
+      "code": "121.062",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/grundlagen-der-ingenieurgeodasie/1570410"
+    },
+    {
+      "name": "Grundlagen der Klinischen Medizin",
+      "code": "185.329",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/grundlagen-der-klinischen-medizin/4415121"
+    },
+    {
+      "name": "Grundlagen der Konstruktionslehre",
+      "code": "307.428",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/grundlagen-der-konstruktionslehre/2633936"
+    },
+    {
+      "name": "Grundlagen der Mikroökonomie",
+      "code": "105.621",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/grundlagen-der-mikrookonomie/5984859"
+    },
+    {
+      "name": "Grundlagen der Organisation",
+      "code": "330.189",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/grundlagen-der-organisation/1570414"
+    },
+    {
+      "name": "Grundlagen der physik 1",
+      "code": "1300.001",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/grundlagen-der-physik-1/7458569"
+    },
+    {
+      "name": "Grundlagen der Physik I",
+      "code": "138.005",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/grundlagen-der-physik-i/1570415"
+    },
+    {
+      "name": "Grundlagen der Physik II",
+      "code": "130.003",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/grundlagen-der-physik-ii/6015883"
+    },
+    {
+      "name": "Grundlagen der Physik III",
+      "code": "134.125",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/grundlagen-der-physik-iii/1570416"
+    },
+    {
+      "name": "Grundlagen der Regelungstechnik",
+      "code": "325.038",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/grundlagen-der-regelungstechnik/1570418"
+    },
+    {
+      "name": "Grundlagen der Regionalplanung",
+      "code": "280.086",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/grundlagen-der-regionalplanung/5389114"
+    },
+    {
+      "name": "Grundlagen der RObotik",
+      "code": "376.078",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/grundlagen-der-robotik/6255827"
+    },
+    {
+      "name": "Grundlagen der Stadtplanung",
+      "code": "280.087",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/grundlagen-der-stadtplanung/1570419"
+    },
+    {
+      "name": "Grundlagen der Strömungslehre",
+      "code": "322.034",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/grundlagen-der-stromungslehre/1715945"
+    },
+    {
+      "name": "Grundlagen der Strömungsmechanik",
+      "code": "322.048",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/grundlagen-der-stromungsmechanik/1570420"
+    },
+    {
+      "name": "Grundlagen der Thermodynamik",
+      "code": "302.671",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/grundlagen-der-thermodynamik/1570421"
+    },
+    {
+      "name": "Grundlagen der Verkehrsplanung und Mobilität",
+      "code": "280.089",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/grundlagen-der-verkehrsplanung-und-mobilitat/5389116"
+    },
+    {
+      "name": "Grundlagen der Werkstofftechnik",
+      "code": "308.127",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/grundlagen-der-werkstofftechnik/1570422"
+    },
+    {
+      "name": "Grundlagen des Apparate- und Anlagenbaus",
+      "code": "329.020",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/grundlagen-des-apparate-und-anlagenbaus/1570423"
+    },
+    {
+      "name": "Grundlagen des Programmierens",
+      "code": "307.047",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/grundlagen-des-programmierens/1570425"
+    },
+    {
+      "name": "Grundlagen des Programmierens für MB WIMB und VT",
+      "code": "317.530",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/grundlagen-des-programmierens-fur-mb-wimb-und-vt/1570426"
+    },
+    {
+      "name": "Grundlagen digitaler Systeme",
+      "code": "183.580",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/grundlagen-digitaler-systeme/1570428"
+    },
+    {
+      "name": "Grundzüge der Fernerkundung",
+      "code": "122.037",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/grundzuge-der-fernerkundung/1570437"
+    },
+    {
+      "name": "Grundzüge der Photogrammetrie",
+      "code": "122.036",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/grundzuge-der-photogrammetrie/1570443"
+    },
+    {
+      "name": "Grundzüge digitaler Systeme",
+      "code": "192.134",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/grundzuge-digitaler-systeme/7751085"
+    },
+    {
+      "name": "HB2 - Projektdatenbank",
+      "code": "253.481",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/hb2-projektdatenbank/1570447"
+    },
+    {
+      "name": "Hochbau",
+      "code": "253.735",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/hochbau/1570455"
+    },
+    {
+      "name": "Hochbau 1",
+      "code": "253.255",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/hochbau-1/1570456"
+    },
+    {
+      "name": "Hochbau 2",
+      "code": "253.776",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/hochbau-2/2573788"
+    },
+    {
+      "name": "Hochbau Einführung",
+      "code": "253.254",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/hochbau-einfuhrung/1570457"
+    },
+    {
+      "name": "Hochbau und Tragwerk",
+      "code": "270.104",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/hochbau-und-tragwerk/1570458"
+    },
+    {
+      "name": "Hochbaukonstruktionen 2",
+      "code": "206.101",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/hochbaukonstruktionen-2/1570459"
+    },
+    {
+      "name": "Holzbau",
+      "code": "202.652",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/holzbau/1570464"
+    },
+    {
+      "name": "Holzbau 2",
+      "code": "202.657",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/holzbau-2/1570465"
+    },
+    {
+      "name": "Horizontale Verdichtungsformen im Wohnbau",
+      "code": "253.339",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/horizontale-verdichtungsformen-im-wohnbau/2637818"
+    },
+    {
+      "name": "House Rules House Rules",
+      "code": "259.288",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/house-rules-house-rules/1570467"
+    },
+    {
+      "name": "Human Resource Management and Leadership",
+      "code": "330.195",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/human-resource-management-and-leadership/1570472"
+    },
+    {
+      "name": "Hydraulische Maschinen und Anlagen",
+      "code": "302.075",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/hydraulische-maschinen-und-anlagen/1570475"
+    },
+    {
+      "name": "Hydraulische Maschinen und Anlagen I",
+      "code": "302.681",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/hydraulische-maschinen-und-anlagen-i/1570476"
+    },
+    {
+      "name": "Höhere Festigkeitslehre",
+      "code": "325.064",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/hohere-festigkeitslehre/1570463"
+    },
+    {
+      "name": "Industrielle Informationssysteme",
+      "code": "307.413",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/industrielle-informationssysteme/1570495"
+    },
+    {
+      "name": "Industrielle Informationssysteme",
+      "code": "330.285",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/industrielle-informationssysteme/6616760"
+    },
+    {
+      "name": "Information Economics",
+      "code": "175.035",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/information-economics/5175535"
+    },
+    {
+      "name": "Infrastruktur- und Energieplanung",
+      "code": "280.093",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/infrastruktur-und-energieplanung/1570511"
+    },
+    {
+      "name": "Ingenieurmechanik",
+      "code": null,
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/ingenieurmechanik/6448994"
+    },
+    {
+      "name": "Ingenieurwerkstoffe",
+      "code": "308.868",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/ingenieurwerkstoffe/4930840"
+    },
+    {
+      "name": "Innovation Theory",
+      "code": "330.258",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/innovation-theory/1570523"
+    },
+    {
+      "name": "Innovationsmanagement und Marketing",
+      "code": "330.199",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/innovationsmanagement-und-marketing/1570524"
+    },
+    {
+      "name": "Institutionelle Landschaft der Immobilienentwicklung",
+      "code": "260.299",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/institutionelle-landschaft-der-immobilienentwicklung/1570527"
+    },
+    {
+      "name": "Integrale Planung",
+      "code": "234.172",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/integrale-planung/7564462"
+    },
+    {
+      "name": "Intensiv-Deutschkurs",
+      "code": null,
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/intensiv-deutschkurs/7342833"
+    },
+    {
+      "name": "Intensive German Language Course",
+      "code": null,
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/intensive-german-language-course/6351783"
+    },
+    {
+      "name": "International Negotiations",
+      "code": "330.131",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/international-negotiations/1570543"
+    },
+    {
+      "name": "International Trade Theory and Policy 1",
+      "code": "105.623",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/international-trade-theory-and-policy-1/6016153"
+    },
+    {
+      "name": "Internationale Stadt- und Regionalentwicklung",
+      "code": "280.017",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/internationale-stadt-und-regionalentwicklung/1570544"
+    },
+    {
+      "name": "Introduction to Finite Element Methods in Solid Mechanics",
+      "code": "317.039",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/introduction-to-finite-element-methods-in-solid-mechanics/1570547"
+    },
+    {
+      "name": "Introduction to Security",
+      "code": "188.916",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/introduction-to-security/1570552"
+    },
+    {
+      "name": "Investition und Finanzierung",
+      "code": "320.184",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/investition-und-finanzierung/1570553"
+    },
+    {
+      "name": "Investition und Finanzierung 1",
+      "code": "330.224",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/investition-und-finanzierung-1/1570554"
+    },
+    {
+      "name": "IT Security in Large IT Infrastructures",
+      "code": "183.633",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/it-security-in-large-it-infrastructures/1570559"
+    },
+    {
+      "name": "IT-based Management",
+      "code": "330.232",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/it-based-management/1570562"
+    },
+    {
+      "name": "KFZ – Technik Laborübung",
+      "code": "315.726",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/kfz-technik-laborubung/2638015"
+    },
+    {
+      "name": "KFZ-Technik",
+      "code": "315.282",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/kfz-technik/2871812"
+    },
+    {
+      "name": "Kleines Check - In Flug 2014",
+      "code": "260.324",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/kleines-check-in-flug-2014/1570578"
+    },
+    {
+      "name": "Klimaresilienz in der Stadt- und Regionalentwicklung - Grundlagen, Methoden und Strategien",
+      "code": "280.A14",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/klimaresilienz-in-der-stadt-und-regionalentwicklung-grundlagen-methoden-und-strategien/6201979"
+    },
+    {
+      "name": "Kommunikation in zeit- und webbasierten Medien",
+      "code": "264.107",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/kommunikation-in-zeit-und-webbasierten-medien/1570598"
+    },
+    {
+      "name": "Konstruieren und realisieren von komplexen Tragwerken",
+      "code": "259.329",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/konstruieren-und-realisieren-von-komplexen-tragwerken/1570607"
+    },
+    {
+      "name": "Kosten und gemeindefiskalische Wirkungen von Bauvorhaben",
+      "code": "280.154",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/kosten-und-gemeindefiskalische-wirkungen-von-bauvorhaben/1570616"
+    },
+    {
+      "name": "Kosten und Terminplanung",
+      "code": "234.012",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/kosten-und-terminplanung/1570618"
+    },
+    {
+      "name": "Kosten- und Leistungsrechnung",
+      "code": "330.229",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/kosten-und-leistungsrechnung/1570617"
+    },
+    {
+      "name": "Kriterien zukünftiger Kraftfahrzeuge II",
+      "code": "315.055",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/kriterien-zukunftiger-kraftfahrzeuge-ii/6283038"
+    },
+    {
+      "name": "Kunst und öffentlicher Raum",
+      "code": "264.114",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/kunst-und-offentlicher-raum/1570622"
+    },
+    {
+      "name": "Kunstgeschichte",
+      "code": "257.035",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/kunstgeschichte/1570623"
+    },
+    {
+      "name": "Labor Angewandte Fluidmechani",
+      "code": "322.047",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/labor-angewandte-fluidmechani/1570629"
+    },
+    {
+      "name": "Labortechnik",
+      "code": "154.213",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/labortechnik/1570630"
+    },
+    {
+      "name": "Laborübungen 2",
+      "code": "134.124, PR",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/laborubungen-2/6231713"
+    },
+    {
+      "name": "Landschafts- und Umweltplanung",
+      "code": "260.186",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/landschafts-und-umweltplanung/1570632"
+    },
+    {
+      "name": "Lebenszykluskosten und -analyse",
+      "code": "234.985",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/lebenszykluskosten-und-analyse/1570643"
+    },
+    {
+      "name": "Leichtbau",
+      "code": "254.085",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/leichtbau/1570645"
+    },
+    {
+      "name": "Leistungselektronik",
+      "code": "306.",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/leistungselektronik/4298984"
+    },
+    {
+      "name": "Lineare Algebra und Geometrie 1",
+      "code": "104.274",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/lineare-algebra-und-geometrie-1/1570650"
+    },
+    {
+      "name": "Logik der Struktur",
+      "code": "254.080",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/logik-der-struktur/1570657"
+    },
+    {
+      "name": "Logistik",
+      "code": "330.165",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/logistik/1570660"
+    },
+    {
+      "name": "Logistik",
+      "code": "330.164",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/logistik/2656192"
+    },
+    {
+      "name": "Luftqualität und Treibhausgase",
+      "code": null,
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/luftqualitat-und-treibhausgase/6027744"
+    },
+    {
+      "name": "Lüftungs- und Klimatechnik",
+      "code": "302.035",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/luftungs-und-klimatechnik/1570661"
+    },
+    {
+      "name": "Machine Learning",
+      "code": "184.702",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/machine-learning/1570664"
+    },
+    {
+      "name": "Machine Learning for Visual Computing",
+      "code": "183.605",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/machine-learning-for-visual-computing/1570665"
+    },
+    {
+      "name": "Machine Vision and Cognitive Robotics",
+      "code": "376.054",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/machine-vision-and-cognitive-robotics/1570667"
+    },
+    {
+      "name": "Managing People and Organizations",
+      "code": "330.190",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/managing-people-and-organizations/1570672"
+    },
+    {
+      "name": "Marketing Grundlagen",
+      "code": "360.173",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/marketing-grundlagen/1570674"
+    },
+    {
+      "name": "Markoökonomie",
+      "code": null,
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/markookonomie/2651835"
+    },
+    {
+      "name": "Maschinenelemente",
+      "code": "307.451",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/maschinenelemente/1570678"
+    },
+    {
+      "name": "Maschinenelemente",
+      "code": "306.002",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/maschinenelemente/1570679"
+    },
+    {
+      "name": "Maschinenelemente Konstruktionsübung",
+      "code": "307.452",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/maschinenelemente-konstruktionsubung/1570680"
+    },
+    {
+      "name": "Maschinenelemente Vertiefung",
+      "code": "307.455",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/maschinenelemente-vertiefung/1570681"
+    },
+    {
+      "name": "Maß- und Wahrscheinlichkeitstheorie 2",
+      "code": "107.A09",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/mass-und-wahrscheinlichkeitstheorie-2/1570682"
+    },
+    {
+      "name": "Maß- und Wahrscheinlichkeitstheorie I",
+      "code": "107.A02",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/mass-und-wahrscheinlichkeitstheorie-i/1570683"
+    },
+    {
+      "name": "Materialien, Prozesse und Technologien der Mikroelektronik",
+      "code": "362.152",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/materialien-prozesse-und-technologien-der-mikroelektronik/4512809"
+    },
+    {
+      "name": "Materialkunde",
+      "code": null,
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/materialkunde/1715955"
+    },
+    {
+      "name": "Materialkunde Übung",
+      "code": "206.050",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/materialkunde-ubung/4332235"
+    },
+    {
+      "name": "Materialwisscenschaften",
+      "code": "138.053",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/materialwisscenschaften/3290328"
+    },
+    {
+      "name": "Mathematics for Building Science",
+      "code": "259.298",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/mathematics-for-building-science/1570689"
+    },
+    {
+      "name": "Mathematik 1 für BI",
+      "code": "104.289",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/mathematik-1-fur-bi/1570690"
+    },
+    {
+      "name": "Mathematik 1 für ET",
+      "code": "101.679",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/mathematik-1-fur-et/1570691"
+    },
+    {
+      "name": "Mathematik 1 für Informatik und Wirtschaftsinformatik",
+      "code": "113.118",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/mathematik-1-fur-informatik-und-wirtschaftsinformatik/1570692"
+    },
+    {
+      "name": "Mathematik 1 für MB WIMB und VT",
+      "code": "104.297",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/mathematik-1-fur-mb-wimb-und-vt/1570693"
+    },
+    {
+      "name": "Mathematik 2 für ET",
+      "code": "101.136",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/mathematik-2-fur-et/1570694"
+    },
+    {
+      "name": "Mathematik 2 für MB WIMB und VT",
+      "code": "104.300",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/mathematik-2-fur-mb-wimb-und-vt/1570695"
+    },
+    {
+      "name": "Mathematik 2 für MB, WIMB und VT",
+      "code": "104.299",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/mathematik-2-fur-mb-wimb-und-vt/2658344"
+    },
+    {
+      "name": "Mathematik 3 für MB WIMB und VT",
+      "code": "104.293",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/mathematik-3-fur-mb-wimb-und-vt/1570698"
+    },
+    {
+      "name": "Mathematik 3 für MB, WIMB und VT",
+      "code": "104.295",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/mathematik-3-fur-mb-wimb-und-vt/2844990"
+    },
+    {
+      "name": "Mathematik Aufbaukurs",
+      "code": "201.089",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/mathematik-aufbaukurs/2843639"
+    },
+    {
+      "name": "Mathematik BRP",
+      "code": null,
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/mathematik-brp/5834102"
+    },
+    {
+      "name": "Mathematik für BI",
+      "code": "104.316",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/mathematik-fur-bi/1570700"
+    },
+    {
+      "name": "Mathematik I für Vermessung und Geoinformation",
+      "code": "101.768",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/mathematik-i-fur-vermessung-und-geoinformation/1570704"
+    },
+    {
+      "name": "Mathematische Methoden der Theoretischen Physik",
+      "code": "136.059",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/mathematische-methoden-der-theoretischen-physik/1570709"
+    },
+    {
+      "name": "Mathematische Statistik",
+      "code": "107.210",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/mathematische-statistik/1570710"
+    },
+    {
+      "name": "Mechanik",
+      "code": "325.063",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/mechanik/1570713"
+    },
+    {
+      "name": "Mechanik",
+      "code": "201.883",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/mechanik/1570714"
+    },
+    {
+      "name": "Mechanik 1",
+      "code": "309.025",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/mechanik-1/1570715"
+    },
+    {
+      "name": "Mechanik 1",
+      "code": "309.019",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/mechanik-1/2737343"
+    },
+    {
+      "name": "Mechanik 1 für VT",
+      "code": "325.092",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/mechanik-1-fur-vt/2699137"
+    },
+    {
+      "name": "Mechanik 2",
+      "code": "309.022",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/mechanik-2/1570716"
+    },
+    {
+      "name": "Mechanik 2 für Verfahrenstechniker",
+      "code": "301.058",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/mechanik-2-fur-verfahrenstechniker/2699138"
+    },
+    {
+      "name": "Mechanik 3",
+      "code": "301.038",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/mechanik-3/1570717"
+    },
+    {
+      "name": "Mechanische Verfahrenstechnik",
+      "code": "159.478",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/mechanische-verfahrenstechnik/2844475"
+    },
+    {
+      "name": "Medizinische Bildverarbeitung",
+      "code": "183.630",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/medizinische-bildverarbeitung/1570722"
+    },
+    {
+      "name": "Mess- und Schwingungstechnik",
+      "code": "303.010",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/mess-und-schwingungstechnik/1570727"
+    },
+    {
+      "name": "Messtechnik",
+      "code": "376.045",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/messtechnik/1570728"
+    },
+    {
+      "name": "Methoden der Angewandten Statistik",
+      "code": "107.329",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/methoden-der-angewandten-statistik/2844988"
+    },
+    {
+      "name": "Methoden der empirischen Sozialforschung",
+      "code": "280.159",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/methoden-der-empirischen-sozialforschung/1570733"
+    },
+    {
+      "name": "Methodik der 3D-CAD Konstruktion",
+      "code": "307.078",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/methodik-der-3d-cad-konstruktion/1570740"
+    },
+    {
+      "name": "Mikrofluidik",
+      "code": null,
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/mikrofluidik/5115681"
+    },
+    {
+      "name": "Modellierung dynamischer Systeme",
+      "code": "105.730",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/modellierung-dynamischer-systeme/5350941"
+    },
+    {
+      "name": "Moderne analytische Chemie",
+      "code": "151.398",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/moderne-analytische-chemie/1570762"
+    },
+    {
+      "name": "Moderne Methoden im Produktionsmanagement",
+      "code": "330.249",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/moderne-methoden-im-produktionsmanagement/1570765"
+    },
+    {
+      "name": "Modul Projektmanagement",
+      "code": "260.752",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/modul-projektmanagement/6970082"
+    },
+    {
+      "name": "Multivariate Statistik",
+      "code": "107.391",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/multivariate-statistik/2872013"
+    },
+    {
+      "name": "Nachhaltig Planen Bauen",
+      "code": "253.173",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/nachhaltig-planen-bauen/1570781"
+    },
+    {
+      "name": "Naturräumliche Grundlagen der Raumplanung",
+      "code": "260.181",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/naturraumliche-grundlagen-der-raumplanung/1570785"
+    },
+    {
+      "name": "Networks: Design and Analysis",
+      "code": "186.812",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/networks-design-and-analysis/1570787"
+    },
+    {
+      "name": "New Perspectives in Data-driven Design",
+      "code": "259.025",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/new-perspectives-in-data-driven-design/7763735"
+    },
+    {
+      "name": "Nichtmetallische Werkstoffe",
+      "code": "308.028",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/nichtmetallische-werkstoffe/1570794"
+    },
+    {
+      "name": "Numerical Optimization",
+      "code": "101.941",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/numerical-optimization/7629110"
+    },
+    {
+      "name": "Numerik von Differentialgleichungen",
+      "code": "101.316",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/numerik-von-differentialgleichungen/1570797"
+    },
+    {
+      "name": "Numerische Mathematik",
+      "code": "106.064",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/numerische-mathematik/1570799"
+    },
+    {
+      "name": "Numerische Methoden der Ingenieurswissenschaften",
+      "code": "322.036",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/numerische-methoden-der-ingenieurswissenschaften/7383213"
+    },
+    {
+      "name": "Numerische Methoden der Ingenieurwissenschaften",
+      "code": "317.516",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/numerische-methoden-der-ingenieurwissenschaften/1570800"
+    },
+    {
+      "name": "Numerische Methoden der Strömungs- und Wärmetechnik  UE",
+      "code": "322.061",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/numerische-methoden-der-stromungs-und-warmetechnik-ue/4162640"
+    },
+    {
+      "name": "Numerische Strömungsberechnung von Thermischen Turbomaschinen",
+      "code": "302.693",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/numerische-stromungsberechnung-von-thermischen-turbomaschinen/1570804"
+    },
+    {
+      "name": "Nutzen-Kosten-Analyse",
+      "code": "280.944",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/nutzen-kosten-analyse/6201982"
+    },
+    {
+      "name": "Oberflächen- und Grenzflächenanalytik",
+      "code": "164.182",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/oberflachen-und-grenzflachenanalytik/1570806"
+    },
+    {
+      "name": "Objektorientiertes Programmieren",
+      "code": "384.061",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/objektorientiertes-programmieren/1570809"
+    },
+    {
+      "name": "Operations Research",
+      "code": "105.696",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/operations-research/7003286"
+    },
+    {
+      "name": "Operations Research",
+      "code": "105.615",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/operations-research/2905051"
+    },
+    {
+      "name": "Organisation und Führung",
+      "code": "314.032",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/organisation-und-fuhrung/1570825"
+    },
+    {
+      "name": "Organisation und Personal",
+      "code": "330.125",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/organisation-und-personal/1570826"
+    },
+    {
+      "name": "Organische Chemie 2",
+      "code": "163.130",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/organische-chemie-2/1570829"
+    },
+    {
+      "name": "Organische Chemie für Verfahrenstechniker",
+      "code": "163.123",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/organische-chemie-fur-verfahrenstechniker/1570828"
+    },
+    {
+      "name": "Organische Chemie I",
+      "code": "163.119",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/organische-chemie-i/1570831"
+    },
+    {
+      "name": "Organization Theory",
+      "code": "330.191",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/organization-theory/1570834"
+    },
+    {
+      "name": "Orientierungskurs",
+      "code": "253.568",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/orientierungskurs/1570837"
+    },
+    {
+      "name": "Orientierungsphase",
+      "code": "280.082",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/orientierungsphase/1570840"
+    },
+    {
+      "name": "Öffentlicher Personennahverkehr",
+      "code": "232.032",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/offentlicher-personennahverkehr/4843445"
+    },
+    {
+      "name": "Öffentliches Europäisches und Österreichisches Wirtschaftsrecht",
+      "code": "265.079",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/offentliches-europaisches-und-osterreichisches-wirtschaftsrecht/5386828"
+    },
+    {
+      "name": "Ökologie und nachhaltige Entwicklung",
+      "code": "164.225",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/okologie-und-nachhaltige-entwicklung/1570811"
+    },
+    {
+      "name": "Ökologische und gesellschaftliche Aspekte d. Chemie",
+      "code": "166.127",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/okologische-und-gesellschaftliche-aspekte-d-chemie/1570813"
+    },
+    {
+      "name": "Ökonomische Bewertungsmethoden für WINF",
+      "code": "267.043",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/okonomische-bewertungsmethoden-fur-winf/1570814"
+    },
+    {
+      "name": "Österreichischer Pavillon für die EXPO 2015 in Mailand",
+      "code": "259.260",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/osterreichischer-pavillon-fur-die-expo-2015-in-mailand/1570843"
+    },
+    {
+      "name": "Perspektiven der Stadterneuerung und Stadtentwicklung",
+      "code": "280.200",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/perspektiven-der-stadterneuerung-und-stadtentwicklung/1570852"
+    },
+    {
+      "name": "Physik 1 Aufbaukurs",
+      "code": "201.088",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/physik-1-aufbaukurs/2843636"
+    },
+    {
+      "name": "Physik 2 für TCH",
+      "code": "138.042",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/physik-2-fur-tch/5129473"
+    },
+    {
+      "name": "Physik für MB",
+      "code": "311.123",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/physik-fur-mb/1570862"
+    },
+    {
+      "name": "Physik Proseminar I",
+      "code": "138.080",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/physik-proseminar-i/1570866"
+    },
+    {
+      "name": "Physikalische Chemie",
+      "code": "165.008",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/physikalische-chemie/1570868"
+    },
+    {
+      "name": "Physikalische Chemie",
+      "code": "165.098",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/physikalische-chemie/2844477"
+    },
+    {
+      "name": "Physikalische Chemie I",
+      "code": "165.106",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/physikalische-chemie-i/1570870"
+    },
+    {
+      "name": "Physikalische Chemie II",
+      "code": "165.117",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/physikalische-chemie-ii/1570871"
+    },
+    {
+      "name": "Physikalische Chemie und Analytik von Oberflächen und Nanomaterialien",
+      "code": "165.139",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/physikalische-chemie-und-analytik-von-oberflachen-und-nanomaterialien/1570873"
+    },
+    {
+      "name": "Physikalische Messtechnik I",
+      "code": "138.073",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/physikalische-messtechnik-i/1570875"
+    },
+    {
+      "name": "Planungsprozess und Bauprojektmanagement 2",
+      "code": "234.983",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/planungsprozess-und-bauprojektmanagement-2/1570881"
+    },
+    {
+      "name": "Planungsprozesse mit BIM",
+      "code": "234.145",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/planungsprozesse-mit-bim/5364226"
+    },
+    {
+      "name": "Political Economy of Europe",
+      "code": "175.024",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/political-economy-of-europe/4508457"
+    },
+    {
+      "name": "Praktische Mathematik 1 für TPH",
+      "code": "103.089",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/praktische-mathematik-1-fur-tph/6011845"
+    },
+    {
+      "name": "Privacy Enhancing Technologies",
+      "code": "188.982",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/privacy-enhancing-technologies/1570904"
+    },
+    {
+      "name": "Privates Wirtschaftsrecht",
+      "code": "280.195",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/privates-wirtschaftsrecht/1570905"
+    },
+    {
+      "name": "Privatissimum für Dipl. und Diss.",
+      "code": "101.026",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/privatissimum-fur-dipl-und-diss/1570907"
+    },
+    {
+      "name": "Problem Solving and Search in Artificial Intelligence",
+      "code": "181.190",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/problem-solving-and-search-in-artificial-intelligence/1570909"
+    },
+    {
+      "name": "Product Lifecycle Management",
+      "code": "307.416",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/product-lifecycle-management/1570912"
+    },
+    {
+      "name": "Production Information Management Systems",
+      "code": "330.308",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/production-information-management-systems/7266894"
+    },
+    {
+      "name": "Produktentwicklung am Beispiel Roboter",
+      "code": "376.068",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/produktentwicklung-am-beispiel-roboter/1570914"
+    },
+    {
+      "name": "Produktions- und Qualitätsmanagement 1",
+      "code": "330.159",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/produktions-und-qualitatsmanagement-1/1570915"
+    },
+    {
+      "name": "Produktions- und Qualitätsmanagement 2",
+      "code": "330.163",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/produktions-und-qualitatsmanagement-2/1570916"
+    },
+    {
+      "name": "Programmieren 1",
+      "code": null,
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/programmieren-1/6255825"
+    },
+    {
+      "name": "Programmieren im Bauingenieurwesen Einführung und Grundlagen",
+      "code": "242.031",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/programmieren-im-bauingenieurwesen-einfuhrung-und-grundlagen/1570922"
+    },
+    {
+      "name": "Project Course",
+      "code": "259.309",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/project-course/1570926"
+    },
+    {
+      "name": "Projekt- und Prozessmanagement",
+      "code": "330.181",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/projekt-und-prozessmanagement/1570939"
+    },
+    {
+      "name": "Projektentwicklung",
+      "code": "260.296",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/projektentwicklung/1570944"
+    },
+    {
+      "name": "Projektmanagement",
+      "code": "183.244",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/projektmanagement/1570947"
+    },
+    {
+      "name": "Projektmanagement",
+      "code": "330.156",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/projektmanagement/3814239"
+    },
+    {
+      "name": "Propädeutikum für Informatik",
+      "code": "188.482",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/propadeutikum-fur-informatik/1570952"
+    },
+    {
+      "name": "Prozess Simulation",
+      "code": "166.038",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/prozess-simulation/5174856"
+    },
+    {
+      "name": "Prozess- Mess- und Regelungstechnik",
+      "code": "325.007",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/prozess-mess-und-regelungstechnik/1570954"
+    },
+    {
+      "name": "Prozesse und Produkte der Gebäudehülle",
+      "code": "234.061",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/prozesse-und-produkte-der-gebaudehulle/1570955"
+    },
+    {
+      "name": "Prozessregelung",
+      "code": "325.001",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/prozessregelung/1570960"
+    },
+    {
+      "name": "Psychologische Grundlagen der Visualisierung",
+      "code": "187.A44",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/psychologische-grundlagen-der-visualisierung/1570961"
+    },
+    {
+      "name": "Quantentheorie 1",
+      "code": "136.019",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/quantentheorie-1/5307156"
+    },
+    {
+      "name": "Quantentheorie II",
+      "code": "136.027",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/quantentheorie-ii/1570969"
+    },
+    {
+      "name": "Quantitatives Analytisches Praktikum",
+      "code": "164.249",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/quantitatives-analytisches-praktikum/6521250"
+    },
+    {
+      "name": "Raumgestaltung",
+      "code": "256.100",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/raumgestaltung/1570975"
+    },
+    {
+      "name": "Realtime Visualization",
+      "code": null,
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/realtime-visualization/6708341"
+    },
+    {
+      "name": "Rechenmethoden der Quantenelektronik",
+      "code": "360.229",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/rechenmethoden-der-quantenelektronik/1570989"
+    },
+    {
+      "name": "Rechnerstrukturen",
+      "code": "182.690",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/rechnerstrukturen/4729838"
+    },
+    {
+      "name": "Rechnungswesen",
+      "code": "330.259",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/rechnungswesen/2844798"
+    },
+    {
+      "name": "Rechnungswesen 1",
+      "code": "320.165",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/rechnungswesen-1/1570991"
+    },
+    {
+      "name": "Rechnungswesen 2",
+      "code": "320.164",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/rechnungswesen-2/1570992"
+    },
+    {
+      "name": "Rechtsfragen d. Umweltschutzes",
+      "code": "265.045",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/rechtsfragen-d-umweltschutzes/1570993"
+    },
+    {
+      "name": "Regelungstechnik",
+      "code": "325.000",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/regelungstechnik/1570997"
+    },
+    {
+      "name": "Regionalwissenschaft",
+      "code": null,
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/regionalwissenschaft/2633916"
+    },
+    {
+      "name": "Regulierung und Markt in der Energiewirtschaft",
+      "code": "370.051",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/regulierung-und-markt-in-der-energiewirtschaft/6999377"
+    },
+    {
+      "name": "RessourcenEffizienz",
+      "code": null,
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/ressourceneffizienz/3722408"
+    },
+    {
+      "name": "Ringvorlesung Methodologie der Architekturforschung",
+      "code": "259.268",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/ringvorlesung-methodologie-der-architekturforschung/1571017"
+    },
+    {
+      "name": "Ringvorlesung Ökologie",
+      "code": "253.118",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/ringvorlesung-okologie/1571018"
+    },
+    {
+      "name": "Risikomanagement",
+      "code": "183.131",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/risikomanagement/1571022"
+    },
+    {
+      "name": "Räumliche Analytik mit GIS",
+      "code": "280.142",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/raumliche-analytik-mit-gis/1570976"
+    },
+    {
+      "name": "Räumliche Analytik mit GIS",
+      "code": "280.389",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/raumliche-analytik-mit-gis/5389119"
+    },
+    {
+      "name": "Sachverständigenrecht",
+      "code": "265.727",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/sachverstandigenrecht/4323491"
+    },
+    {
+      "name": "Sanierung von Bauwerken aus Naturstein",
+      "code": null,
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/sanierung-von-bauwerken-aus-naturstein/4909976"
+    },
+    {
+      "name": "Scientific writing and publication",
+      "code": "259.301",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/scientific-writing-and-publication/1571041"
+    },
+    {
+      "name": "Semantic Services for Business Process Management",
+      "code": "188.508",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/semantic-services-for-business-process-management/1571047"
+    },
+    {
+      "name": "Semantik von Programmiersprachen",
+      "code": "184.749",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/semantik-von-programmiersprachen/1571049"
+    },
+    {
+      "name": "Seminar zur räumlichen Entwicklung Pflichtmodul 10: Projekt II Vorbereitung",
+      "code": "280.163",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/seminar-zur-raumlichen-entwicklung-pflichtmodul-10-projekt-ii-vorbereitung/1571080"
+    },
+    {
+      "name": "Sensorik und Sensorsysteme",
+      "code": "366.071",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/sensorik-und-sensorsysteme/5069754"
+    },
+    {
+      "name": "Sicherheitstechnik für VT",
+      "code": "307.470",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/sicherheitstechnik-fur-vt/4515995"
+    },
+    {
+      "name": "Siedlungsentwicklung und Naturgefahrenmanagement",
+      "code": "280.265",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/siedlungsentwicklung-und-naturgefahrenmanagement/1571087"
+    },
+    {
+      "name": "Signale und Systeme 1",
+      "code": "351.015",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/signale-und-systeme-1/1571088"
+    },
+    {
+      "name": "Software Engineering und Projektmanagement",
+      "code": "188.909",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/software-engineering-und-projektmanagement/1571096"
+    },
+    {
+      "name": "Software Testing",
+      "code": "183.290",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/software-testing/1571101"
+    },
+    {
+      "name": "Soziologie für ArchitektInnen",
+      "code": "273.013",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/soziologie-fur-architektinnen/2574488"
+    },
+    {
+      "name": "Soziologie und Demographie",
+      "code": null,
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/soziologie-und-demographie/2633917"
+    },
+    {
+      "name": "Spezialkunststoffe",
+      "code": "308.107",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/spezialkunststoffe/1571113"
+    },
+    {
+      "name": "Spezialtiefbau (inkl. Injektionstechnik)",
+      "code": "220.033",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/spezialtiefbau-inkl-injektionstechnik/4557780"
+    },
+    {
+      "name": "Spieltheoretische Modellierung",
+      "code": "105.650",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/spieltheoretische-modellierung/2872010"
+    },
+    {
+      "name": "Sprechen hilft",
+      "code": "259.280",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/sprechen-hilft/1571120"
+    },
+    {
+      "name": "Stadt und Regionalplanung",
+      "code": null,
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/stadt-und-regionalplanung/4336433"
+    },
+    {
+      "name": "Stadtentwicklung",
+      "code": "260.050",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/stadtentwicklung/1571124"
+    },
+    {
+      "name": "Stahlbau",
+      "code": "213.010",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/stahlbau/1571129"
+    },
+    {
+      "name": "Stahlbau 2",
+      "code": "212,456",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/stahlbau-2/7601865"
+    },
+    {
+      "name": "Statistical Simulation and Computerintensive Methods",
+      "code": "107.330",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/statistical-simulation-and-computerintensive-methods/7294730"
+    },
+    {
+      "name": "Statistik und Wahrscheinlichkeitstheorie",
+      "code": "107.370",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/statistik-und-wahrscheinlichkeitstheorie/1571132"
+    },
+    {
+      "name": "Stochastik",
+      "code": "325.062",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/stochastik/1571140"
+    },
+    {
+      "name": "Strahlenphysikalische und gesellschaftliche Aspekte des Strahlenschutzes",
+      "code": "141.599",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/strahlenphysikalische-und-gesellschaftliche-aspekte-des-strahlenschutzes/6763209"
+    },
+    {
+      "name": "Straßenwesen",
+      "code": "233.032",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/strassenwesen/1571146"
+    },
+    {
+      "name": "Strategic Management",
+      "code": "330.130",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/strategic-management/1571147"
+    },
+    {
+      "name": "Strömungsmechanik",
+      "code": "322.048",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/stromungsmechanik/1716017"
+    },
+    {
+      "name": "Strömungsmechanik 2",
+      "code": "322.049",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/stromungsmechanik-2/2843671"
+    },
+    {
+      "name": "Studio Hochbau",
+      "code": "262.051",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/studio-hochbau/1571160"
+    },
+    {
+      "name": "Studio Städtebau",
+      "code": "260.114",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/studio-stadtebau/1571162"
+    },
+    {
+      "name": "Städtebau",
+      "code": "260.110",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/stadtebau/1571121"
+    },
+    {
+      "name": "Systemtechnik in der Automation",
+      "code": "376.012",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/systemtechnik-in-der-automation/1571172"
+    },
+    {
+      "name": "Technik und Gesellschaft",
+      "code": "351.018",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/technik-und-gesellschaft/4573781"
+    },
+    {
+      "name": "Technische Chemie",
+      "code": "033 290",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/technische-chemie/3628835"
+    },
+    {
+      "name": "Technische Elektrochemie",
+      "code": "164.216",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/technische-elektrochemie/1571179"
+    },
+    {
+      "name": "Technische Gebäudeaustattung",
+      "code": "206.283",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/technische-gebaudeaustattung/4838871"
+    },
+    {
+      "name": "Technische Grundlagen der Informatik",
+      "code": "183.579",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/technische-grundlagen-der-informatik/1571182"
+    },
+    {
+      "name": "Technische Grundlagen der Informatik für Wirtschaftsinformatik",
+      "code": "185.A74",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/technische-grundlagen-der-informatik-fur-wirtschaftsinformatik/1571183"
+    },
+    {
+      "name": "Technische Hydraulik",
+      "code": "222.564",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/technische-hydraulik/6488596"
+    },
+    {
+      "name": "Technischer Ausbau",
+      "code": "253.062",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/technischer-ausbau/1571185"
+    },
+    {
+      "name": "Technisches Chinesisch III",
+      "code": "015.098",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/technisches-chinesisch-iii/1571186"
+    },
+    {
+      "name": "Technisches Chinesisch IV",
+      "code": "015.099",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/technisches-chinesisch-iv/1571187"
+    },
+    {
+      "name": "Technisches Zeichnen + CAD",
+      "code": "307.018",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/technisches-zeichnen-cad/1571188"
+    },
+    {
+      "name": "Technisches Zeichnen/CAD Konstruktionsübung",
+      "code": "307.427",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/technisches-zeichnencad-konstruktionsubung/1571189"
+    },
+    {
+      "name": "Technologie nanostrukturierter Materialien",
+      "code": "164.167",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/technologie-nanostrukturierter-materialien/1571191"
+    },
+    {
+      "name": "Technologieverwertung",
+      "code": "015.082",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/technologieverwertung/5175633"
+    },
+    {
+      "name": "Thematische Kartographie in der Raumplanung",
+      "code": "127.030",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/thematische-kartographie-in-der-raumplanung/1571201"
+    },
+    {
+      "name": "Theoretische Chemie",
+      "code": "165.009",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/theoretische-chemie/1571204"
+    },
+    {
+      "name": "Theoretische Informatik",
+      "code": "THI1",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/theoretische-informatik/5928132"
+    },
+    {
+      "name": "Theoretische Informatik und Logik",
+      "code": "185.278",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/theoretische-informatik-und-logik/1571205"
+    },
+    {
+      "name": "Theoretische Informatik und Logik für Lehramt Informatik Teil 1",
+      "code": "185.A54",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/theoretische-informatik-und-logik-fur-lehramt-informatik-teil-1/1571206"
+    },
+    {
+      "name": "Theoretische Kartographie",
+      "code": "126.094",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/theoretische-kartographie/1571208"
+    },
+    {
+      "name": "Theorie der Stadt & Regionalentwicklung",
+      "code": "280.145",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/theorie-der-stadt-regionalentwicklung/4348201"
+    },
+    {
+      "name": "Thermal building performance simulation",
+      "code": "259.310",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/thermal-building-performance-simulation/1571214"
+    },
+    {
+      "name": "Thermische Biomassenutzung",
+      "code": "166.220",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/thermische-biomassenutzung/6346480"
+    },
+    {
+      "name": "Thermische Verfahrenstechnik",
+      "code": "159.731",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/thermische-verfahrenstechnik/3477986"
+    },
+    {
+      "name": "Thermodyn. fortschrittl. und alternat. Verfahren der Energiewandlung",
+      "code": "302.691",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/thermodyn-fortschrittl-und-alternat-verfahren-der-energiewandlung/1571215"
+    },
+    {
+      "name": "Thermodynamik für WIMB",
+      "code": "302.670",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/thermodynamik-fur-wimb/1571217"
+    },
+    {
+      "name": "Thermodynamik in der Energietechnik",
+      "code": "302.048",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/thermodynamik-in-der-energietechnik/1571219"
+    },
+    {
+      "name": "Tools and Media",
+      "code": "253.120",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/tools-and-media/1571221"
+    },
+    {
+      "name": "Topos in architecture theory",
+      "code": "259.426",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/topos-in-architecture-theory/1571225"
+    },
+    {
+      "name": "Tragwerkslehre",
+      "code": "254.040",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/tragwerkslehre/1571228"
+    },
+    {
+      "name": "Tragwerkslehre 1 - Statik und Festigkeitslehre",
+      "code": "254.087",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/tragwerkslehre-1-statik-und-festigkeitslehre/1571229"
+    },
+    {
+      "name": "Tragwerkslehre 2",
+      "code": "259.602",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/tragwerkslehre-2/5978073"
+    },
+    {
+      "name": "Tragwerkslehre Einführung",
+      "code": "254.084",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/tragwerkslehre-einfuhrung/1571230"
+    },
+    {
+      "name": "Transport Phenomena in Biological Systems",
+      "code": "322.071",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/transport-phenomena-in-biological-systems/2843669"
+    },
+    {
+      "name": "Tu informatik Aufnahmetests",
+      "code": null,
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/tu-informatik-aufnahmetests/6375601"
+    },
+    {
+      "name": "TU Wien:Econometrics for Business Informatics LU (Schneider, Ulrike)",
+      "code": "105.628",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/tu-wieneconometrics-for-business-informatics-lu-schneider-ulrike/6046457"
+    },
+    {
+      "name": "TUWEL Beispielkur",
+      "code": "123.456",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/tuwel-beispielkur/1571234"
+    },
+    {
+      "name": "TWL_Einführung",
+      "code": "259.600",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/twl-einfuhrung/5166891"
+    },
+    {
+      "name": "Umweltchemie und Analytik",
+      "code": "164.052",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/umweltchemie-und-analytik/1571238"
+    },
+    {
+      "name": "Umweltethik",
+      "code": "226.07",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/umweltethik/6201978"
+    },
+    {
+      "name": "Umweltwissenschaften",
+      "code": null,
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/umweltwissenschaften/2651838"
+    },
+    {
+      "name": "Ungeplante Stadtentwicklung",
+      "code": "260.346",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/ungeplante-stadtentwicklung/5174106"
+    },
+    {
+      "name": "Unternehmensgründung",
+      "code": "015.664",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/unternehmensgrundung/1571244"
+    },
+    {
+      "name": "Urbane Landschaft - städtebaulicher Kontext",
+      "code": "253.347",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/urbane-landschaft-stadtebaulicher-kontext/6280876"
+    },
+    {
+      "name": "Urbaner Stoffhaushalt",
+      "code": "225.023",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/urbaner-stoffhaushalt/1571255"
+    },
+    {
+      "name": "Verfassungs- und Verwaltungsrecht",
+      "code": "280.081",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/verfassungs-und-verwaltungsrecht/1571264"
+    },
+    {
+      "name": "Vergabewesen und Vertragsrecht",
+      "code": "270.073",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/vergabewesen-und-vertragsrecht/1571265"
+    },
+    {
+      "name": "Verkehrsplanung",
+      "code": "280.094",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/verkehrsplanung/1571266"
+    },
+    {
+      "name": "Verkehrspolitik",
+      "code": "231.017",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/verkehrspolitik/1571267"
+    },
+    {
+      "name": "Vermessungskunde für Bauingenieure",
+      "code": "121.059",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/vermessungskunde-fur-bauingenieure/1571269"
+    },
+    {
+      "name": "Vernetztes Lernen",
+      "code": "187.A26",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/vernetztes-lernen/1571271"
+    },
+    {
+      "name": "Versicherungswirtschaftslehre 1",
+      "code": "105.226",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/versicherungswirtschaftslehre-1/6458618"
+    },
+    {
+      "name": "Verteilte Systeme",
+      "code": "184.237",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/verteilte-systeme/1571272"
+    },
+    {
+      "name": "Verteiltes Programmieren mit Space Based Computing Middleware",
+      "code": "185.226",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/verteiltes-programmieren-mit-space-based-computing-middleware/1571273"
+    },
+    {
+      "name": "Vertiefung Elektrotechnik und Elektronik für MB und WIMB",
+      "code": "370.012",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/vertiefung-elektrotechnik-und-elektronik-fur-mb-und-wimb/6216937"
+    },
+    {
+      "name": "Vertrags- und Haftungsrecht",
+      "code": "265.076",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/vertrags-und-haftungsrecht/1571274"
+    },
+    {
+      "name": "Virtual and Augmented Reality",
+      "code": "188.913",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/virtual-and-augmented-reality/1571277"
+    },
+    {
+      "name": "Virtuelle Produktentwicklung",
+      "code": "307.414",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/virtuelle-produktentwicklung/1571279"
+    },
+    {
+      "name": "Visuelle Kultur",
+      "code": "258.023",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/visuelle-kultur/1571288"
+    },
+    {
+      "name": "VO Science-Technology-Society",
+      "code": "034.013",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/vo-science-technology-society/6465062"
+    },
+    {
+      "name": "Wasserbewirtschaftung",
+      "code": "222075",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/wasserbewirtschaftung/6481252"
+    },
+    {
+      "name": "Wassergütewirtschaft",
+      "code": "224.019",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/wassergutewirtschaft/1571298"
+    },
+    {
+      "name": "Werkstoff und Strukturanalytik",
+      "code": "151.042",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/werkstoff-und-strukturanalytik/1571310"
+    },
+    {
+      "name": "Werkstoffe",
+      "code": "366.104",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/werkstoffe/3490914"
+    },
+    {
+      "name": "Werkstoffe im Bauwesen 2",
+      "code": "206.310",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/werkstoffe-im-bauwesen-2/4557782"
+    },
+    {
+      "name": "Werkstoffkunde metallischer Werkstoffe",
+      "code": "308.862",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/werkstoffkunde-metallischer-werkstoffe/1716026"
+    },
+    {
+      "name": "Werkstoffkunde nichtmetallische Werkstoffe",
+      "code": "308.860",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/werkstoffkunde-nichtmetallische-werkstoffe/2890107"
+    },
+    {
+      "name": "Werkstoffprüfung",
+      "code": "308.128",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/werkstoffprufung/1571314"
+    },
+    {
+      "name": "Werkstoffprüfung 2",
+      "code": "308.859",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/werkstoffprufung-2/3281177"
+    },
+    {
+      "name": "Wirtschaftsrecht",
+      "code": "330.226",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/wirtschaftsrecht/1571323"
+    },
+    {
+      "name": "Wissenschaftliches Arbeiten",
+      "code": "188.971",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/wissenschaftliches-arbeiten/1571324"
+    },
+    {
+      "name": "Wissenschaftliches Arbeiten in der Raumplanung",
+      "code": "280.084",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/wissenschaftliches-arbeiten-in-der-raumplanung/1571325"
+    },
+    {
+      "name": "Wissenschaftliches Schreiben für gehörlose Studierende",
+      "code": "015.716",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/wissenschaftliches-schreiben-fur-gehorlose-studierende/1571327"
+    },
+    {
+      "name": "Wohnbau",
+      "code": "255.047",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/wohnbau/1571328"
+    },
+    {
+      "name": "Wohnbauproduktion",
+      "code": null,
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/wohnbauproduktion/4687972"
+    },
+    {
+      "name": "Wohnen im gesellschaftlichen Wandel",
+      "code": "253.B80",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/wohnen-im-gesellschaftlichen-wandel/5174128"
+    },
+    {
+      "name": "Wohnen und Privatheit",
+      "code": "253.345",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/wohnen-und-privatheit/3765807"
+    },
+    {
+      "name": "Workshop Wohnbau",
+      "code": "253.378",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/workshop-wohnbau/1571330"
+    },
+    {
+      "name": "Wärme- und Stoffübertragung",
+      "code": "322.082",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/warme-und-stoffubertragung/7159808"
+    },
+    {
+      "name": "Wärmetechnische Anlagen",
+      "code": "302.019",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/warmetechnische-anlagen/1571293"
+    },
+    {
+      "name": "Wärmeübertragung",
+      "code": "322.046",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/warmeubertragung/1571297"
+    },
+    {
+      "name": "Zeichnen und visuelle Sprachen (Teil 1)",
+      "code": "258.001",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/zeichnen-und-visuelle-sprachen-teil-1/1571333"
+    },
+    {
+      "name": "Zeichnen und visuelle Sprachen (Teil 2)",
+      "code": "258.007",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/zeichnen-und-visuelle-sprachen-teil-2/1571334"
+    },
+    {
+      "name": "Zusatzprüfung aus Darstellende Geometrie",
+      "code": "112.026",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-wien/zusatzprufung-aus-darstellende-geometrie/1571341"
+    }
+  ]
+}

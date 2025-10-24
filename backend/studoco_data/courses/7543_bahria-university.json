@@ -1,0 +1,931 @@
+{
+  "university_id": "7543",
+  "university_name": "Bahria University",
+  "courses": [
+    {
+      "name": "Academic Research",
+      "code": "PSYC-101",
+      "url": "https://www.studocu.com/row/course/bahria-university/academic-research/5852869"
+    },
+    {
+      "name": "Accounting",
+      "code": "ACC260",
+      "url": "https://www.studocu.com/row/course/bahria-university/accounting/2313073"
+    },
+    {
+      "name": "Administration Law",
+      "code": "LLB-701",
+      "url": "https://www.studocu.com/row/course/bahria-university/administration-law/7240411"
+    },
+    {
+      "name": "Advanced application in IT",
+      "code": "MIS 461",
+      "url": "https://www.studocu.com/row/course/bahria-university/advanced-application-in-it/4429377"
+    },
+    {
+      "name": "Advanced Digital System Design",
+      "code": "CEN-742",
+      "url": "https://www.studocu.com/row/course/bahria-university/advanced-digital-system-design/1732588"
+    },
+    {
+      "name": "Advanced Topics in Microeconomics",
+      "code": "ECO 504",
+      "url": "https://www.studocu.com/row/course/bahria-university/advanced-topics-in-microeconomics/7530021"
+    },
+    {
+      "name": "Advanced Usability Engineering",
+      "code": "SEN 756",
+      "url": "https://www.studocu.com/row/course/bahria-university/advanced-usability-engineering/4854461"
+    },
+    {
+      "name": "analysis of pakistan",
+      "code": "ana564",
+      "url": "https://www.studocu.com/row/course/bahria-university/analysis-of-pakistan/6063655"
+    },
+    {
+      "name": "Applied physics",
+      "code": "GSC 113",
+      "url": "https://www.studocu.com/row/course/bahria-university/applied-physics/3238278"
+    },
+    {
+      "name": "Artificial Intelligence",
+      "code": "CSC 411",
+      "url": "https://www.studocu.com/row/course/bahria-university/artificial-intelligence/3223829"
+    },
+    {
+      "name": "Artificial Intelligence Lab",
+      "code": "CSL 411",
+      "url": "https://www.studocu.com/row/course/bahria-university/artificial-intelligence-lab/7566643"
+    },
+    {
+      "name": "Assessment and Psychodiagnostics",
+      "code": "CPY-645",
+      "url": "https://www.studocu.com/row/course/bahria-university/assessment-and-psychodiagnostics/6659345"
+    },
+    {
+      "name": "Australian Constitutional law",
+      "code": "LGC123",
+      "url": "https://www.studocu.com/row/course/bahria-university/australian-constitutional-law/7689044"
+    },
+    {
+      "name": "Automata",
+      "code": "CSC 315",
+      "url": "https://www.studocu.com/row/course/bahria-university/automata/5401130"
+    },
+    {
+      "name": "Bachelors of surgery and medicine",
+      "code": "MBBS2017",
+      "url": "https://www.studocu.com/row/course/bahria-university/bachelors-of-surgery-and-medicine/6942205"
+    },
+    {
+      "name": "Business communication",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/bahria-university/business-communication/3272850"
+    },
+    {
+      "name": "business law",
+      "code": "MGT 301",
+      "url": "https://www.studocu.com/row/course/bahria-university/business-law/6035038"
+    },
+    {
+      "name": "Business Mathematics",
+      "code": "QTM 101",
+      "url": "https://www.studocu.com/row/course/bahria-university/business-mathematics/6180934"
+    },
+    {
+      "name": "Business Process Automation",
+      "code": "SEN 449",
+      "url": "https://www.studocu.com/row/course/bahria-university/business-process-automation/7217902"
+    },
+    {
+      "name": "Business Research",
+      "code": "HI6008",
+      "url": "https://www.studocu.com/row/course/bahria-university/business-research/3553846"
+    },
+    {
+      "name": "Career Exploring management",
+      "code": "MGT 311",
+      "url": "https://www.studocu.com/row/course/bahria-university/career-exploring-management/5827485"
+    },
+    {
+      "name": "Certified Ethical Hacker",
+      "code": "CEHv11",
+      "url": "https://www.studocu.com/row/course/bahria-university/certified-ethical-hacker/5697842"
+    },
+    {
+      "name": "Change Management",
+      "code": "MGT 487",
+      "url": "https://www.studocu.com/row/course/bahria-university/change-management/7069589"
+    },
+    {
+      "name": "Civil Procedure",
+      "code": "LLB 423",
+      "url": "https://www.studocu.com/row/course/bahria-university/civil-procedure/5874583"
+    },
+    {
+      "name": "Cognitive Psychology",
+      "code": "COG 326",
+      "url": "https://www.studocu.com/row/course/bahria-university/cognitive-psychology/6863079"
+    },
+    {
+      "name": "Communication Skills",
+      "code": "HS 120",
+      "url": "https://www.studocu.com/row/course/bahria-university/communication-skills/4866674"
+    },
+    {
+      "name": "Company Law",
+      "code": "CLAW 101",
+      "url": "https://www.studocu.com/row/course/bahria-university/company-law/6695117"
+    },
+    {
+      "name": "Compiler construction",
+      "code": "CSC323",
+      "url": "https://www.studocu.com/row/course/bahria-university/compiler-construction/6854285"
+    },
+    {
+      "name": "Compiler Construction Lab",
+      "code": "CSC 323",
+      "url": "https://www.studocu.com/row/course/bahria-university/compiler-construction-lab/5717298"
+    },
+    {
+      "name": "Complex Variable and transforms",
+      "code": "GSC 220",
+      "url": "https://www.studocu.com/row/course/bahria-university/complex-variable-and-transforms/6568299"
+    },
+    {
+      "name": "Computer and Network Forensics",
+      "code": "ISC-737",
+      "url": "https://www.studocu.com/row/course/bahria-university/computer-and-network-forensics/6492040"
+    },
+    {
+      "name": "Computer Organization and Architecture",
+      "code": "CEL 221",
+      "url": "https://www.studocu.com/row/course/bahria-university/computer-organization-and-architecture/3209908"
+    },
+    {
+      "name": "Computer Organization and Assembly Language Lab",
+      "code": "CEL-323",
+      "url": "https://www.studocu.com/row/course/bahria-university/computer-organization-and-assembly-language-lab/7767164"
+    },
+    {
+      "name": "Computer programing",
+      "code": "55815",
+      "url": "https://www.studocu.com/row/course/bahria-university/computer-programing/3234426"
+    },
+    {
+      "name": "Computer Science",
+      "code": "CS 101",
+      "url": "https://www.studocu.com/row/course/bahria-university/computer-science/4341965"
+    },
+    {
+      "name": "contract act",
+      "code": "MT 301",
+      "url": "https://www.studocu.com/row/course/bahria-university/contract-act/6697354"
+    },
+    {
+      "name": "corporate finance",
+      "code": "FIN 308",
+      "url": "https://www.studocu.com/row/course/bahria-university/corporate-finance/6997447"
+    },
+    {
+      "name": "Corporate Law",
+      "code": "MGT-508",
+      "url": "https://www.studocu.com/row/course/bahria-university/corporate-law/6674679"
+    },
+    {
+      "name": "Cost and Managerial Accounting",
+      "code": "CMA-11",
+      "url": "https://www.studocu.com/row/course/bahria-university/cost-and-managerial-accounting/5331843"
+    },
+    {
+      "name": "Creative Arts",
+      "code": "Arts111",
+      "url": "https://www.studocu.com/row/course/bahria-university/creative-arts/6050845"
+    },
+    {
+      "name": "Criminal Law",
+      "code": "LA1010",
+      "url": "https://www.studocu.com/row/course/bahria-university/criminal-law/5855484"
+    },
+    {
+      "name": "Critical Thinking",
+      "code": "BES 103",
+      "url": "https://www.studocu.com/row/course/bahria-university/critical-thinking/4346163"
+    },
+    {
+      "name": "Cyber Security",
+      "code": "ITC 411",
+      "url": "https://www.studocu.com/row/course/bahria-university/cyber-security/7566619"
+    },
+    {
+      "name": "Data Base Management System Lab",
+      "code": "CSl 220",
+      "url": "https://www.studocu.com/row/course/bahria-university/data-base-management-system-lab/7215621"
+    },
+    {
+      "name": "Data Communication and Networking",
+      "code": "CEN 222",
+      "url": "https://www.studocu.com/row/course/bahria-university/data-communication-and-networking/5319565"
+    },
+    {
+      "name": "Data Mining",
+      "code": "DM101",
+      "url": "https://www.studocu.com/row/course/bahria-university/data-mining/4446555"
+    },
+    {
+      "name": "Data structures and Algorithm",
+      "code": "Cs150",
+      "url": "https://www.studocu.com/row/course/bahria-university/data-structures-and-algorithm/5174669"
+    },
+    {
+      "name": "Data Warehousing",
+      "code": "CSC 454",
+      "url": "https://www.studocu.com/row/course/bahria-university/data-warehousing/5932712"
+    },
+    {
+      "name": "Database Administration and Management Lab",
+      "code": "ITL 424",
+      "url": "https://www.studocu.com/row/course/bahria-university/database-administration-and-management-lab/7566470"
+    },
+    {
+      "name": "Database Administration and Management Theory",
+      "code": "ITL 424",
+      "url": "https://www.studocu.com/row/course/bahria-university/database-administration-and-management-theory/7566629"
+    },
+    {
+      "name": "Database Management System",
+      "code": "CSC 220",
+      "url": "https://www.studocu.com/row/course/bahria-university/database-management-system/5000484"
+    },
+    {
+      "name": "Deep Learning",
+      "code": "CS2105",
+      "url": "https://www.studocu.com/row/course/bahria-university/deep-learning/6217416"
+    },
+    {
+      "name": "Defense studies",
+      "code": "DS 001",
+      "url": "https://www.studocu.com/row/course/bahria-university/defense-studies/6455953"
+    },
+    {
+      "name": "Design and Analysis of Algorithms",
+      "code": "CSC-321",
+      "url": "https://www.studocu.com/row/course/bahria-university/design-and-analysis-of-algorithms/7092482"
+    },
+    {
+      "name": "Development Studies",
+      "code": "DS",
+      "url": "https://www.studocu.com/row/course/bahria-university/development-studies/7289749"
+    },
+    {
+      "name": "Deviant Behavior",
+      "code": "HSS216",
+      "url": "https://www.studocu.com/row/course/bahria-university/deviant-behavior/5316107"
+    },
+    {
+      "name": "Differential equation",
+      "code": "Math-2215",
+      "url": "https://www.studocu.com/row/course/bahria-university/differential-equation/5873173"
+    },
+    {
+      "name": "Digital Image processing",
+      "code": "EEN 221",
+      "url": "https://www.studocu.com/row/course/bahria-university/digital-image-processing/4317599"
+    },
+    {
+      "name": "Digital Logic Design",
+      "code": "CEL 220",
+      "url": "https://www.studocu.com/row/course/bahria-university/digital-logic-design/4832900"
+    },
+    {
+      "name": "digital marketing",
+      "code": "mkgt5103",
+      "url": "https://www.studocu.com/row/course/bahria-university/digital-marketing/4529909"
+    },
+    {
+      "name": "Discrete Maths",
+      "code": "GSC 221",
+      "url": "https://www.studocu.com/row/course/bahria-university/discrete-maths/6691826"
+    },
+    {
+      "name": "E-Commerce",
+      "code": "MIS 460",
+      "url": "https://www.studocu.com/row/course/bahria-university/e-commerce/7012563"
+    },
+    {
+      "name": "Econometrics",
+      "code": "1010",
+      "url": "https://www.studocu.com/row/course/bahria-university/econometrics/5174341"
+    },
+    {
+      "name": "electrical eng",
+      "code": "BEE23",
+      "url": "https://www.studocu.com/row/course/bahria-university/electrical-eng/6562273"
+    },
+    {
+      "name": "Electromagnetic Field Theory",
+      "code": "EEN331",
+      "url": "https://www.studocu.com/row/course/bahria-university/electromagnetic-field-theory/5702304"
+    },
+    {
+      "name": "Electronic devices andd circuit",
+      "code": "EEN225",
+      "url": "https://www.studocu.com/row/course/bahria-university/electronic-devices-andd-circuit/3168510"
+    },
+    {
+      "name": "Emergency Procedures & Primary Care in Physical Therapy",
+      "code": "EPT 411",
+      "url": "https://www.studocu.com/row/course/bahria-university/emergency-procedures-primary-care-in-physical-therapy/6651635"
+    },
+    {
+      "name": "Engineering circuit analysis",
+      "code": "EEN-211",
+      "url": "https://www.studocu.com/row/course/bahria-university/engineering-circuit-analysis/3691879"
+    },
+    {
+      "name": "Engineering Economics and management",
+      "code": "HSS-411",
+      "url": "https://www.studocu.com/row/course/bahria-university/engineering-economics-and-management/4401424"
+    },
+    {
+      "name": "ENGINEERING ETHICS",
+      "code": "HSS424",
+      "url": "https://www.studocu.com/row/course/bahria-university/engineering-ethics/3168511"
+    },
+    {
+      "name": "English",
+      "code": "Eng 2020",
+      "url": "https://www.studocu.com/row/course/bahria-university/english/4666224"
+    },
+    {
+      "name": "English III",
+      "code": "LLB 221",
+      "url": "https://www.studocu.com/row/course/bahria-university/english-iii/6590437"
+    },
+    {
+      "name": "English Writing Skills",
+      "code": "ENG 120",
+      "url": "https://www.studocu.com/row/course/bahria-university/english-writing-skills/6710426"
+    },
+    {
+      "name": "Enlightenment",
+      "code": "SS2405",
+      "url": "https://www.studocu.com/row/course/bahria-university/enlightenment/7569075"
+    },
+    {
+      "name": "Enterprise Systems",
+      "code": "ITC-321",
+      "url": "https://www.studocu.com/row/course/bahria-university/enterprise-systems/5155178"
+    },
+    {
+      "name": "entrepreneurship",
+      "code": "HSS 410",
+      "url": "https://www.studocu.com/row/course/bahria-university/entrepreneurship/5176349"
+    },
+    {
+      "name": "Environmental Science",
+      "code": "ENV 110",
+      "url": "https://www.studocu.com/row/course/bahria-university/environmental-science/6399784"
+    },
+    {
+      "name": "Equity and Specific Relief",
+      "code": "LLB 422",
+      "url": "https://www.studocu.com/row/course/bahria-university/equity-and-specific-relief/5874278"
+    },
+    {
+      "name": "Essay",
+      "code": "2016",
+      "url": "https://www.studocu.com/row/course/bahria-university/essay/7664787"
+    },
+    {
+      "name": "Experimental psychology 2",
+      "code": "EXP 221",
+      "url": "https://www.studocu.com/row/course/bahria-university/experimental-psychology-2/6863100"
+    },
+    {
+      "name": "Film studies",
+      "code": "FLM001",
+      "url": "https://www.studocu.com/row/course/bahria-university/film-studies/4349879"
+    },
+    {
+      "name": "Financial Accounting",
+      "code": "ACC102",
+      "url": "https://www.studocu.com/row/course/bahria-university/financial-accounting/7238097"
+    },
+    {
+      "name": "Financial Management",
+      "code": "FIN-659",
+      "url": "https://www.studocu.com/row/course/bahria-university/financial-management/6186360"
+    },
+    {
+      "name": "financial reporting",
+      "code": "fr2",
+      "url": "https://www.studocu.com/row/course/bahria-university/financial-reporting/4361243"
+    },
+    {
+      "name": "Fundamentals of biology",
+      "code": "ENV 100",
+      "url": "https://www.studocu.com/row/course/bahria-university/fundamentals-of-biology/6863076"
+    },
+    {
+      "name": "fundamentals of economics",
+      "code": "LLB114",
+      "url": "https://www.studocu.com/row/course/bahria-university/fundamentals-of-economics/5873768"
+    },
+    {
+      "name": "Fundamentals of finance",
+      "code": "FIN210",
+      "url": "https://www.studocu.com/row/course/bahria-university/fundamentals-of-finance/3019654"
+    },
+    {
+      "name": "Fundamentals Of Nursing",
+      "code": "FON-1",
+      "url": "https://www.studocu.com/row/course/bahria-university/fundamentals-of-nursing/5380016"
+    },
+    {
+      "name": "GCE Biology",
+      "code": "5090",
+      "url": "https://www.studocu.com/row/course/bahria-university/gce-biology/4512201"
+    },
+    {
+      "name": "Gender studies",
+      "code": "GS 002",
+      "url": "https://www.studocu.com/row/course/bahria-university/gender-studies/6466876"
+    },
+    {
+      "name": "Geography",
+      "code": "GEO211",
+      "url": "https://www.studocu.com/row/course/bahria-university/geography/6185076"
+    },
+    {
+      "name": "Geology",
+      "code": "GEO098",
+      "url": "https://www.studocu.com/row/course/bahria-university/geology/4208962"
+    },
+    {
+      "name": "geopolitics",
+      "code": "BLAW 1234",
+      "url": "https://www.studocu.com/row/course/bahria-university/geopolitics/4752866"
+    },
+    {
+      "name": "Global Political Economy",
+      "code": "IRS 303",
+      "url": "https://www.studocu.com/row/course/bahria-university/global-political-economy/5866033"
+    },
+    {
+      "name": "Health and Safety",
+      "code": "HS1003",
+      "url": "https://www.studocu.com/row/course/bahria-university/health-and-safety/4464693"
+    },
+    {
+      "name": "Human Computer Interaction",
+      "code": "CS-353",
+      "url": "https://www.studocu.com/row/course/bahria-university/human-computer-interaction/5389681"
+    },
+    {
+      "name": "Human Resource Management",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/bahria-university/human-resource-management/4199486"
+    },
+    {
+      "name": "Industrial Process Control",
+      "code": "IPC-087",
+      "url": "https://www.studocu.com/row/course/bahria-university/industrial-process-control/5333760"
+    },
+    {
+      "name": "Information technology",
+      "code": "CSL 114",
+      "url": "https://www.studocu.com/row/course/bahria-university/information-technology/5791705"
+    },
+    {
+      "name": "internet of things",
+      "code": "CEL 449",
+      "url": "https://www.studocu.com/row/course/bahria-university/internet-of-things/7047194"
+    },
+    {
+      "name": "Introduction to Cloud Computing",
+      "code": "CSC 410",
+      "url": "https://www.studocu.com/row/course/bahria-university/introduction-to-cloud-computing/5741519"
+    },
+    {
+      "name": "Introduction to Communication and Technology",
+      "code": "CSC-110-T",
+      "url": "https://www.studocu.com/row/course/bahria-university/introduction-to-communication-and-technology/4416727"
+    },
+    {
+      "name": "Introduction to datascience",
+      "code": "CSC-487",
+      "url": "https://www.studocu.com/row/course/bahria-university/introduction-to-datascience/6178377"
+    },
+    {
+      "name": "Introduction to Information & Communication Technology Lab",
+      "code": "CSL 114",
+      "url": "https://www.studocu.com/row/course/bahria-university/introduction-to-information-communication-technology-lab/5350389"
+    },
+    {
+      "name": "Introduction to Interanational Relations",
+      "code": "HSS 111",
+      "url": "https://www.studocu.com/row/course/bahria-university/introduction-to-interanational-relations/5926992"
+    },
+    {
+      "name": "Introduction to Literature-2 (Novel & Prose)",
+      "code": "ENG 203",
+      "url": "https://www.studocu.com/row/course/bahria-university/introduction-to-literature-2-novel-prose/6710452"
+    },
+    {
+      "name": "Introduction to Philosophy",
+      "code": "HSS 102",
+      "url": "https://www.studocu.com/row/course/bahria-university/introduction-to-philosophy/6709914"
+    },
+    {
+      "name": "Introduction to procurement",
+      "code": "SCM 201",
+      "url": "https://www.studocu.com/row/course/bahria-university/introduction-to-procurement/6706054"
+    },
+    {
+      "name": "Investment Analysis and Portfolio Management",
+      "code": "FIN 695",
+      "url": "https://www.studocu.com/row/course/bahria-university/investment-analysis-and-portfolio-management/7686140"
+    },
+    {
+      "name": "Investment Banking",
+      "code": "FIN 622",
+      "url": "https://www.studocu.com/row/course/bahria-university/investment-banking/5839653"
+    },
+    {
+      "name": "Islamic Jurisprudence I",
+      "code": "LLB-213",
+      "url": "https://www.studocu.com/row/course/bahria-university/islamic-jurisprudence-i/4346193"
+    },
+    {
+      "name": "Islamic studies",
+      "code": "ISL 101",
+      "url": "https://www.studocu.com/row/course/bahria-university/islamic-studies/5739366"
+    },
+    {
+      "name": "IT infrastructure",
+      "code": "ITI 003",
+      "url": "https://www.studocu.com/row/course/bahria-university/it-infrastructure/7696378"
+    },
+    {
+      "name": "job analyis",
+      "code": "JA 2024",
+      "url": "https://www.studocu.com/row/course/bahria-university/job-analyis/6468276"
+    },
+    {
+      "name": "jurisprudence",
+      "code": "BLAW-2001",
+      "url": "https://www.studocu.com/row/course/bahria-university/jurisprudence/4905463"
+    },
+    {
+      "name": "Law of property",
+      "code": "LLB 317",
+      "url": "https://www.studocu.com/row/course/bahria-university/law-of-property/7360673"
+    },
+    {
+      "name": "Law of Torts II",
+      "code": "LLB 219",
+      "url": "https://www.studocu.com/row/course/bahria-university/law-of-torts-ii/6700007"
+    },
+    {
+      "name": "Legal Drafting",
+      "code": "LLB-411",
+      "url": "https://www.studocu.com/row/course/bahria-university/legal-drafting/4517314"
+    },
+    {
+      "name": "Linear Algebra",
+      "code": "LA101",
+      "url": "https://www.studocu.com/row/course/bahria-university/linear-algebra/3174454"
+    },
+    {
+      "name": "Linear Intregrated Circuit",
+      "code": "EEC-100",
+      "url": "https://www.studocu.com/row/course/bahria-university/linear-intregrated-circuit/4387470"
+    },
+    {
+      "name": "Logic and Reasoning",
+      "code": "LLB 217",
+      "url": "https://www.studocu.com/row/course/bahria-university/logic-and-reasoning/6811436"
+    },
+    {
+      "name": "Macro Economics",
+      "code": "ECO-201",
+      "url": "https://www.studocu.com/row/course/bahria-university/macro-economics/3510288"
+    },
+    {
+      "name": "Managerial accounting",
+      "code": "ACC125",
+      "url": "https://www.studocu.com/row/course/bahria-university/managerial-accounting/6825803"
+    },
+    {
+      "name": "Marine Ecology and Ecosystems",
+      "code": "CMS 201",
+      "url": "https://www.studocu.com/row/course/bahria-university/marine-ecology-and-ecosystems/6002313"
+    },
+    {
+      "name": "Maritime Business & Management",
+      "code": "MTM 101",
+      "url": "https://www.studocu.com/row/course/bahria-university/maritime-business-management/4816661"
+    },
+    {
+      "name": "Marketing",
+      "code": "CB 201",
+      "url": "https://www.studocu.com/row/course/bahria-university/marketing/4426099"
+    },
+    {
+      "name": "Media Studies",
+      "code": "Med-01",
+      "url": "https://www.studocu.com/row/course/bahria-university/media-studies/7632187"
+    },
+    {
+      "name": "Mental Health & Psychopathology - II",
+      "code": "MHP 331",
+      "url": "https://www.studocu.com/row/course/bahria-university/mental-health-psychopathology-ii/5167805"
+    },
+    {
+      "name": "Mobile Application Development",
+      "code": "CSL-341",
+      "url": "https://www.studocu.com/row/course/bahria-university/mobile-application-development/5814195"
+    },
+    {
+      "name": "Mobile Application Development Lab",
+      "code": "CSL 341",
+      "url": "https://www.studocu.com/row/course/bahria-university/mobile-application-development-lab/7566684"
+    },
+    {
+      "name": "Morphology & Syntax",
+      "code": "ENG 202",
+      "url": "https://www.studocu.com/row/course/bahria-university/morphology-syntax/6710458"
+    },
+    {
+      "name": "MS in Project Management",
+      "code": "MSPM",
+      "url": "https://www.studocu.com/row/course/bahria-university/ms-in-project-management/3240096"
+    },
+    {
+      "name": "Multivariable Calculus",
+      "code": "GSC 211",
+      "url": "https://www.studocu.com/row/course/bahria-university/multivariable-calculus/3945985"
+    },
+    {
+      "name": "musculoskeletal disorder",
+      "code": "304MSK",
+      "url": "https://www.studocu.com/row/course/bahria-university/musculoskeletal-disorder/4515238"
+    },
+    {
+      "name": "Networking",
+      "code": "NT 200",
+      "url": "https://www.studocu.com/row/course/bahria-university/networking/5110350"
+    },
+    {
+      "name": "Neurological Behaviour",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/bahria-university/neurological-behaviour/2157625"
+    },
+    {
+      "name": "Numerical Analysis",
+      "code": "GSC-320",
+      "url": "https://www.studocu.com/row/course/bahria-university/numerical-analysis/5159358"
+    },
+    {
+      "name": "Object Oriented Programming",
+      "code": "CSC-110",
+      "url": "https://www.studocu.com/row/course/bahria-university/object-oriented-programming/3226701"
+    },
+    {
+      "name": "Object programming",
+      "code": "COMP 112",
+      "url": "https://www.studocu.com/row/course/bahria-university/object-programming/6377943"
+    },
+    {
+      "name": "Object-Oriented Programming",
+      "code": "CSC-210",
+      "url": "https://www.studocu.com/row/course/bahria-university/object-oriented-programming/5918827"
+    },
+    {
+      "name": "Operating systems",
+      "code": "CSC-320",
+      "url": "https://www.studocu.com/row/course/bahria-university/operating-systems/4434702"
+    },
+    {
+      "name": "Operations Research",
+      "code": "OPM300",
+      "url": "https://www.studocu.com/row/course/bahria-university/operations-research/6381645"
+    },
+    {
+      "name": "Organization Theory and Behaviour",
+      "code": "MGT 242",
+      "url": "https://www.studocu.com/row/course/bahria-university/organization-theory-and-behaviour/5131720"
+    },
+    {
+      "name": "pak studies",
+      "code": "pkstd1",
+      "url": "https://www.studocu.com/row/course/bahria-university/pak-studies/4739332"
+    },
+    {
+      "name": "Pakistan Studies",
+      "code": "PAK 101",
+      "url": "https://www.studocu.com/row/course/bahria-university/pakistan-studies/6709950"
+    },
+    {
+      "name": "parallel and distributed computing",
+      "code": "CEN-455",
+      "url": "https://www.studocu.com/row/course/bahria-university/parallel-and-distributed-computing/5178735"
+    },
+    {
+      "name": "Pedagogy",
+      "code": "123987",
+      "url": "https://www.studocu.com/row/course/bahria-university/pedagogy/4577832"
+    },
+    {
+      "name": "Phonetics and Phonology",
+      "code": "ENG 112",
+      "url": "https://www.studocu.com/row/course/bahria-university/phonetics-and-phonology/6709917"
+    },
+    {
+      "name": "Physiology",
+      "code": "PHY234",
+      "url": "https://www.studocu.com/row/course/bahria-university/physiology/4503195"
+    },
+    {
+      "name": "Power Politics and Beyond",
+      "code": "MIR 300",
+      "url": "https://www.studocu.com/row/course/bahria-university/power-politics-and-beyond/5920381"
+    },
+    {
+      "name": "Power Systems Analysis",
+      "code": "PSA1",
+      "url": "https://www.studocu.com/row/course/bahria-university/power-systems-analysis/6776661"
+    },
+    {
+      "name": "Primavera p6",
+      "code": "PM-301",
+      "url": "https://www.studocu.com/row/course/bahria-university/primavera-p6/4912708"
+    },
+    {
+      "name": "Principles of Accounting",
+      "code": "ACC 101",
+      "url": "https://www.studocu.com/row/course/bahria-university/principles-of-accounting/3737118"
+    },
+    {
+      "name": "Principles of Auditing",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/bahria-university/principles-of-auditing/3339617"
+    },
+    {
+      "name": "principles of management",
+      "code": "MGT 111",
+      "url": "https://www.studocu.com/row/course/bahria-university/principles-of-management/4520967"
+    },
+    {
+      "name": "Probability and Statistics",
+      "code": "122",
+      "url": "https://www.studocu.com/row/course/bahria-university/probability-and-statistics/1732587"
+    },
+    {
+      "name": "Professional Practice",
+      "code": "CSC-307",
+      "url": "https://www.studocu.com/row/course/bahria-university/professional-practice/6527605"
+    },
+    {
+      "name": "Promotion and Advertising",
+      "code": "MKT 643",
+      "url": "https://www.studocu.com/row/course/bahria-university/promotion-and-advertising/5799351"
+    },
+    {
+      "name": "Psychological practicum",
+      "code": "PRC 222",
+      "url": "https://www.studocu.com/row/course/bahria-university/psychological-practicum/6863111"
+    },
+    {
+      "name": "Psychology",
+      "code": "PSY",
+      "url": "https://www.studocu.com/row/course/bahria-university/psychology/3237088"
+    },
+    {
+      "name": "Psychology of Lifespan",
+      "code": "LSP 220",
+      "url": "https://www.studocu.com/row/course/bahria-university/psychology-of-lifespan/6585414"
+    },
+    {
+      "name": "Public International Law",
+      "code": "LLB-421",
+      "url": "https://www.studocu.com/row/course/bahria-university/public-international-law/4550290"
+    },
+    {
+      "name": "Recruitment and selection",
+      "code": "rs112",
+      "url": "https://www.studocu.com/row/course/bahria-university/recruitment-and-selection/3275271"
+    },
+    {
+      "name": "Research Methodology",
+      "code": "ESC-701",
+      "url": "https://www.studocu.com/row/course/bahria-university/research-methodology/3144093"
+    },
+    {
+      "name": "Research Methods and Techniques",
+      "code": "RMT 240",
+      "url": "https://www.studocu.com/row/course/bahria-university/research-methods-and-techniques/5839810"
+    },
+    {
+      "name": "Robotics",
+      "code": "CEL-463",
+      "url": "https://www.studocu.com/row/course/bahria-university/robotics/5333126"
+    },
+    {
+      "name": "Smart Grid",
+      "code": "EEP 754",
+      "url": "https://www.studocu.com/row/course/bahria-university/smart-grid/5252403"
+    },
+    {
+      "name": "Social and Psychological Development",
+      "code": "HSS-301",
+      "url": "https://www.studocu.com/row/course/bahria-university/social-and-psychological-development/7600556"
+    },
+    {
+      "name": "sociology",
+      "code": "HSS 202",
+      "url": "https://www.studocu.com/row/course/bahria-university/sociology/5179423"
+    },
+    {
+      "name": "Software engineering",
+      "code": "SEN220",
+      "url": "https://www.studocu.com/row/course/bahria-university/software-engineering/5313543"
+    },
+    {
+      "name": "Software Quality Assurance",
+      "code": "CSC-320",
+      "url": "https://www.studocu.com/row/course/bahria-university/software-quality-assurance/4344321"
+    },
+    {
+      "name": "Software Requirement Engineering",
+      "code": "SEN-458",
+      "url": "https://www.studocu.com/row/course/bahria-university/software-requirement-engineering/7219297"
+    },
+    {
+      "name": "Statistical Inference",
+      "code": "QTM 204",
+      "url": "https://www.studocu.com/row/course/bahria-university/statistical-inference/5739392"
+    },
+    {
+      "name": "Statistical Tools for Social Sciences",
+      "code": "STA 330",
+      "url": "https://www.studocu.com/row/course/bahria-university/statistical-tools-for-social-sciences/6146612"
+    },
+    {
+      "name": "Supplu Chain Management",
+      "code": "1235",
+      "url": "https://www.studocu.com/row/course/bahria-university/supplu-chain-management/3221259"
+    },
+    {
+      "name": "syllabus designing and testing",
+      "code": "110124",
+      "url": "https://www.studocu.com/row/course/bahria-university/syllabus-designing-and-testing/6687427"
+    },
+    {
+      "name": "Technical Writing",
+      "code": "SEN-225",
+      "url": "https://www.studocu.com/row/course/bahria-university/technical-writing/3510258"
+    },
+    {
+      "name": "Theories and Practices of Management",
+      "code": "MGT 746",
+      "url": "https://www.studocu.com/row/course/bahria-university/theories-and-practices-of-management/7537211"
+    },
+    {
+      "name": "Theories of International Relations",
+      "code": "IRS-701",
+      "url": "https://www.studocu.com/row/course/bahria-university/theories-of-international-relations/5920383"
+    },
+    {
+      "name": "Theories of Personality 2",
+      "code": "PER 219",
+      "url": "https://www.studocu.com/row/course/bahria-university/theories-of-personality-2/6863082"
+    },
+    {
+      "name": "Understanding Quran II",
+      "code": "ISL 109",
+      "url": "https://www.studocu.com/row/course/bahria-university/understanding-quran-ii/7360755"
+    },
+    {
+      "name": "Visual Programming Lab",
+      "code": "VP121",
+      "url": "https://www.studocu.com/row/course/bahria-university/visual-programming-lab/5325850"
+    },
+    {
+      "name": "Web Engineering",
+      "code": "SEN 310",
+      "url": "https://www.studocu.com/row/course/bahria-university/web-engineering/6377931"
+    },
+    {
+      "name": "web system and technology",
+      "code": "CS-3548",
+      "url": "https://www.studocu.com/row/course/bahria-university/web-system-and-technology/5740509"
+    },
+    {
+      "name": "World History",
+      "code": "HUM112",
+      "url": "https://www.studocu.com/row/course/bahria-university/world-history/6043545"
+    }
+  ]
+}

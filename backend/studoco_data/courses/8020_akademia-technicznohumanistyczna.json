@@ -1,0 +1,446 @@
+{
+  "university_id": "8020",
+  "university_name": "Akademia Techniczno-Humanistyczna",
+  "courses": [
+    {
+      "name": "Algorytmy i struktury danych",
+      "code": "AISD",
+      "url": "https://www.studocu.com/pl/course/akademia-techniczno-humanistyczna/algorytmy-i-struktury-danych/6096685"
+    },
+    {
+      "name": "Anatomia",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/akademia-techniczno-humanistyczna/anatomia/4297897"
+    },
+    {
+      "name": "Badania operacyjne",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/akademia-techniczno-humanistyczna/badania-operacyjne/4297904"
+    },
+    {
+      "name": "Bezpieczeństwo pracy i ergonomia",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/akademia-techniczno-humanistyczna/bezpieczenstwo-pracy-i-ergonomia/4297909"
+    },
+    {
+      "name": "BHP i ergonomia",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/akademia-techniczno-humanistyczna/bhp-i-ergonomia/4297910"
+    },
+    {
+      "name": "Biocenologia",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/akademia-techniczno-humanistyczna/biocenologia/6151974"
+    },
+    {
+      "name": "Biochemia i biofizyka",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/akademia-techniczno-humanistyczna/biochemia-i-biofizyka/4297911"
+    },
+    {
+      "name": "Biologia",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/akademia-techniczno-humanistyczna/biologia/6151966"
+    },
+    {
+      "name": "Budownictwo",
+      "code": "BLAw 443",
+      "url": "https://www.studocu.com/pl/course/akademia-techniczno-humanistyczna/budownictwo/4753748"
+    },
+    {
+      "name": "Chemia fizyczna",
+      "code": "OS-SI7O",
+      "url": "https://www.studocu.com/pl/course/akademia-techniczno-humanistyczna/chemia-fizyczna/6151967"
+    },
+    {
+      "name": "Chemia ogólna i analityczna",
+      "code": "IS-SI7O",
+      "url": "https://www.studocu.com/pl/course/akademia-techniczno-humanistyczna/chemia-ogolna-i-analityczna/6151969"
+    },
+    {
+      "name": "D3b. Industrial Innovation Engineering",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/akademia-techniczno-humanistyczna/d3b-industrial-innovation-engineering/4297922"
+    },
+    {
+      "name": "Ekonomia",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/akademia-techniczno-humanistyczna/ekonomia/4297938"
+    },
+    {
+      "name": "Filologia polska - communication design",
+      "code": "FP-SM4O",
+      "url": "https://www.studocu.com/pl/course/akademia-techniczno-humanistyczna/filologia-polska-communication-design/6356892"
+    },
+    {
+      "name": "Fizyka",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/akademia-techniczno-humanistyczna/fizyka/4297961"
+    },
+    {
+      "name": "Fizyka I",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/akademia-techniczno-humanistyczna/fizyka-i/4297962"
+    },
+    {
+      "name": "Geotechnika i fundamentowanie",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/akademia-techniczno-humanistyczna/geotechnika-i-fundamentowanie/4297966"
+    },
+    {
+      "name": "Gospodarka odpadami",
+      "code": "ES-SI7O",
+      "url": "https://www.studocu.com/pl/course/akademia-techniczno-humanistyczna/gospodarka-odpadami/6179699"
+    },
+    {
+      "name": "Hydrologia i Gospodarka Wodna",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/akademia-techniczno-humanistyczna/hydrologia-i-gospodarka-wodna/6151982"
+    },
+    {
+      "name": "Informacja naukowa",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/akademia-techniczno-humanistyczna/informacja-naukowa/4297976"
+    },
+    {
+      "name": "Informatyka I",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/akademia-techniczno-humanistyczna/informatyka-i/4297981"
+    },
+    {
+      "name": "Inżynieria bezpieczeństwa pracy",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/akademia-techniczno-humanistyczna/inzynieria-bezpieczenstwa-pracy/4297989"
+    },
+    {
+      "name": "Inżynieria wytwarzania",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/akademia-techniczno-humanistyczna/inzynieria-wytwarzania/4297992"
+    },
+    {
+      "name": "Język angielski",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/akademia-techniczno-humanistyczna/jezyk-angielski/4297994"
+    },
+    {
+      "name": "Język angielski III",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/akademia-techniczno-humanistyczna/jezyk-angielski-iii/4297997"
+    },
+    {
+      "name": "Język angielski V",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/akademia-techniczno-humanistyczna/jezyk-angielski-v/4297999"
+    },
+    {
+      "name": "Język obcy II",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/akademia-techniczno-humanistyczna/jezyk-obcy-ii/4298004"
+    },
+    {
+      "name": "Komunikacja społeczna",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/akademia-techniczno-humanistyczna/komunikacja-spoleczna/4298015"
+    },
+    {
+      "name": "Koncepcje logistyczne",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/akademia-techniczno-humanistyczna/koncepcje-logistyczne/4298016"
+    },
+    {
+      "name": "Konstrukcje stalowe",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/akademia-techniczno-humanistyczna/konstrukcje-stalowe/4298018"
+    },
+    {
+      "name": "Kształcenie Zintegrowane Dzieci przedszkole i 1-3",
+      "code": "KZDP1-3",
+      "url": "https://www.studocu.com/pl/course/akademia-techniczno-humanistyczna/ksztalcenie-zintegrowane-dzieci-przedszkole-i-1-3/6674006"
+    },
+    {
+      "name": "literatura współczesna",
+      "code": "LIT WS1",
+      "url": "https://www.studocu.com/pl/course/akademia-techniczno-humanistyczna/literatura-wspolczesna/5921048"
+    },
+    {
+      "name": "Makroekonomia",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/akademia-techniczno-humanistyczna/makroekonomia/4298031"
+    },
+    {
+      "name": "Matematyka",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/akademia-techniczno-humanistyczna/matematyka/4298036"
+    },
+    {
+      "name": "Materiały Budowlane i Nowej Generacji",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/akademia-techniczno-humanistyczna/materialy-budowlane-i-nowej-generacji/4298040"
+    },
+    {
+      "name": "Mathematical analysis",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/akademia-techniczno-humanistyczna/mathematical-analysis/4298041"
+    },
+    {
+      "name": "Mechanika techniczna I",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/akademia-techniczno-humanistyczna/mechanika-techniczna-i/4298044"
+    },
+    {
+      "name": "Metaloznawstwo I",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/akademia-techniczno-humanistyczna/metaloznawstwo-i/4298048"
+    },
+    {
+      "name": "Metaloznawstwo II",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/akademia-techniczno-humanistyczna/metaloznawstwo-ii/4298049"
+    },
+    {
+      "name": "Metody kontroli wód i ścieków",
+      "code": "ES-SI7O",
+      "url": "https://www.studocu.com/pl/course/akademia-techniczno-humanistyczna/metody-kontroli-wod-i-sciekow/6173858"
+    },
+    {
+      "name": "Metody propabilistyczne i statystyka",
+      "code": "MPIS1",
+      "url": "https://www.studocu.com/pl/course/akademia-techniczno-humanistyczna/metody-propabilistyczne-i-statystyka/6060716"
+    },
+    {
+      "name": "Mikrobiologia i parazytologia",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/akademia-techniczno-humanistyczna/mikrobiologia-i-parazytologia/4298058"
+    },
+    {
+      "name": "Mikroekonomia",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/akademia-techniczno-humanistyczna/mikroekonomia/4298059"
+    },
+    {
+      "name": "Monitoring Biologiczny i Bioindykacja",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/akademia-techniczno-humanistyczna/monitoring-biologiczny-i-bioindykacja/6151986"
+    },
+    {
+      "name": "Nauka o materiałach",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/akademia-techniczno-humanistyczna/nauka-o-materialach/4298062"
+    },
+    {
+      "name": "nierelacyjne bazy danych",
+      "code": "NBD1",
+      "url": "https://www.studocu.com/pl/course/akademia-techniczno-humanistyczna/nierelacyjne-bazy-danych/6329399"
+    },
+    {
+      "name": "Obliczenia równoległe i systemy rozproszone",
+      "code": "ORISR1",
+      "url": "https://www.studocu.com/pl/course/akademia-techniczno-humanistyczna/obliczenia-rownolegle-i-systemy-rozproszone/6144921"
+    },
+    {
+      "name": "Obrabiarki skrawające i roboty",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/akademia-techniczno-humanistyczna/obrabiarki-skrawajace-i-roboty/4298071"
+    },
+    {
+      "name": "Ochrona litosfery",
+      "code": "OL-POB1",
+      "url": "https://www.studocu.com/pl/course/akademia-techniczno-humanistyczna/ochrona-litosfery/6173848"
+    },
+    {
+      "name": "Ochrona powietrza",
+      "code": "ES-SI7O",
+      "url": "https://www.studocu.com/pl/course/akademia-techniczno-humanistyczna/ochrona-powietrza/6153373"
+    },
+    {
+      "name": "Ochrona przed hałasem i wibracjami",
+      "code": "ES-SI7O",
+      "url": "https://www.studocu.com/pl/course/akademia-techniczno-humanistyczna/ochrona-przed-halasem-i-wibracjami/6183247"
+    },
+    {
+      "name": "Ochrona przyrody",
+      "code": "OP-POB2",
+      "url": "https://www.studocu.com/pl/course/akademia-techniczno-humanistyczna/ochrona-przyrody/6173853"
+    },
+    {
+      "name": "Ochrona własności intelektualnej",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/akademia-techniczno-humanistyczna/ochrona-wlasnosci-intelektualnej/4298078"
+    },
+    {
+      "name": "Odlewnictwo",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/akademia-techniczno-humanistyczna/odlewnictwo/4298079"
+    },
+    {
+      "name": "Pedagogika",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/akademia-techniczno-humanistyczna/pedagogika/4298089"
+    },
+    {
+      "name": "Podstawowa opieka zdrowotna",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/akademia-techniczno-humanistyczna/podstawowa-opieka-zdrowotna/4298096"
+    },
+    {
+      "name": "Podstawy automatyki i robotyki",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/akademia-techniczno-humanistyczna/podstawy-automatyki-i-robotyki/4298097"
+    },
+    {
+      "name": "Podstawy elektrotechniki i elektroniki",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/akademia-techniczno-humanistyczna/podstawy-elektrotechniki-i-elektroniki/4298099"
+    },
+    {
+      "name": "Podstawy konstrukcji maszyn II",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/akademia-techniczno-humanistyczna/podstawy-konstrukcji-maszyn-ii/4298102"
+    },
+    {
+      "name": "Podstawy techniki cyfrowej",
+      "code": "PTC1",
+      "url": "https://www.studocu.com/pl/course/akademia-techniczno-humanistyczna/podstawy-techniki-cyfrowej/6060742"
+    },
+    {
+      "name": "prawo spółek",
+      "code": "BLAW 2001",
+      "url": "https://www.studocu.com/pl/course/akademia-techniczno-humanistyczna/prawo-spolek/5791770"
+    },
+    {
+      "name": "Prawo w ochronie środowiska",
+      "code": "ES-SI7O",
+      "url": "https://www.studocu.com/pl/course/akademia-techniczno-humanistyczna/prawo-w-ochronie-srodowiska/6173855"
+    },
+    {
+      "name": "Procesy produkcyjne - projektowanie proc. produkcji maszyn",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/akademia-techniczno-humanistyczna/procesy-produkcyjne-projektowanie-proc-produkcji-maszyn/4298128"
+    },
+    {
+      "name": "Programowanie3",
+      "code": "PROG3",
+      "url": "https://www.studocu.com/pl/course/akademia-techniczno-humanistyczna/programowanie3/6095165"
+    },
+    {
+      "name": "Projektowanie systemów bezpieczeństwa i higieny pracy",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/akademia-techniczno-humanistyczna/projektowanie-systemow-bezpieczenstwa-i-higieny-pracy/4298135"
+    },
+    {
+      "name": "Psychiatria i pielęgniarstwo psychiatryczne",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/akademia-techniczno-humanistyczna/psychiatria-i-pielegniarstwo-psychiatryczne/4298149"
+    },
+    {
+      "name": "Psychologia",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/akademia-techniczno-humanistyczna/psychologia/4298150"
+    },
+    {
+      "name": "Rekultywacja terenów zdegradowanych",
+      "code": "ES-SI7O",
+      "url": "https://www.studocu.com/pl/course/akademia-techniczno-humanistyczna/rekultywacja-terenow-zdegradowanych/6173856"
+    },
+    {
+      "name": "Socjologia",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/akademia-techniczno-humanistyczna/socjologia/4298159"
+    },
+    {
+      "name": "Statystyka",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/akademia-techniczno-humanistyczna/statystyka/4298164"
+    },
+    {
+      "name": "Statystyka i probabilistyka",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/akademia-techniczno-humanistyczna/statystyka-i-probabilistyka/4298165"
+    },
+    {
+      "name": "Statystyka medyczna",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/akademia-techniczno-humanistyczna/statystyka-medyczna/4298167"
+    },
+    {
+      "name": "Sterowanie i monitoring",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/akademia-techniczno-humanistyczna/sterowanie-i-monitoring/4298168"
+    },
+    {
+      "name": "Symulacyjne gry dydaktyczne",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/akademia-techniczno-humanistyczna/symulacyjne-gry-dydaktyczne/4298170"
+    },
+    {
+      "name": "Systemy operacyjne",
+      "code": "SO1",
+      "url": "https://www.studocu.com/pl/course/akademia-techniczno-humanistyczna/systemy-operacyjne/6060703"
+    },
+    {
+      "name": "Systemy sterowania silników",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/akademia-techniczno-humanistyczna/systemy-sterowania-silnikow/4298176"
+    },
+    {
+      "name": "Technologia ASP.NET",
+      "code": "ASP1",
+      "url": "https://www.studocu.com/pl/course/akademia-techniczno-humanistyczna/technologia-aspnet/6329414"
+    },
+    {
+      "name": "Technologia informacyjna",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/akademia-techniczno-humanistyczna/technologia-informacyjna/4298181"
+    },
+    {
+      "name": "Technologia wody i ścieków",
+      "code": "OS-SI7O",
+      "url": "https://www.studocu.com/pl/course/akademia-techniczno-humanistyczna/technologia-wody-i-sciekow/6173757"
+    },
+    {
+      "name": "Teoria maszyn i mechanizmów",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/akademia-techniczno-humanistyczna/teoria-maszyn-i-mechanizmow/4298193"
+    },
+    {
+      "name": "Termodynamika techniczna I",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/akademia-techniczno-humanistyczna/termodynamika-techniczna-i/4298195"
+    },
+    {
+      "name": "Wybrane zagadnienia z ochrony własności intelektualnych",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/akademia-techniczno-humanistyczna/wybrane-zagadnienia-z-ochrony-wlasnosci-intelektualnych/4298207"
+    },
+    {
+      "name": "Wychowanie fizyczne",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/akademia-techniczno-humanistyczna/wychowanie-fizyczne/4298208"
+    },
+    {
+      "name": "Wytrzymałość materiałów II",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/akademia-techniczno-humanistyczna/wytrzymalosc-materialow-ii/4298213"
+    },
+    {
+      "name": "Zarządzanie produkcją i usługami II",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/akademia-techniczno-humanistyczna/zarzadzanie-produkcja-i-uslugami-ii/4298226"
+    },
+    {
+      "name": "Zarządzanie przedsiębiorstwem",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/akademia-techniczno-humanistyczna/zarzadzanie-przedsiebiorstwem/4298230"
+    },
+    {
+      "name": "Zarządzanie przez jakość",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/akademia-techniczno-humanistyczna/zarzadzanie-przez-jakosc/4298232"
+    },
+    {
+      "name": "Zarządzanie środowiskiem i ekologia",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/akademia-techniczno-humanistyczna/zarzadzanie-srodowiskiem-i-ekologia/4298233"
+    }
+  ]
+}

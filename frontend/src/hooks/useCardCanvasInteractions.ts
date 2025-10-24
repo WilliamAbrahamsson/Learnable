@@ -156,8 +156,12 @@ export const useCanvasInteractions = (
         dragStartPos.current = null;
       }
 
-      const leftWithModifier = event.button === 0 && (event.shiftKey || spaceDown.current);
-      const middleOrRight = event.button === 1 || event.button === 2 || event.buttons === 4;
+      const buttonsMask = (event as any).buttons ?? 0;
+      const isLeft = event.button === 0 || (buttonsMask & 1) === 1;
+      const isMiddle = event.button === 1 || (buttonsMask & 4) === 4;
+      const isRight = event.button === 2 || (buttonsMask & 2) === 2;
+      const leftWithModifier = isLeft && (event.shiftKey || spaceDown.current);
+      const middleOrRight = isMiddle || isRight;
 
       if (middleOrRight || leftWithModifier) {
         isPanning.current = true;
@@ -292,8 +296,44 @@ export const useCanvasInteractions = (
     canvas.on('before:render', clearTop);
     canvas.on('after:render', drawIndividualSelectionBoxes);
 
+    // Prevent default browser behaviors that interfere with canvas interactions
     try {
-      (canvas as any).upperCanvasEl?.addEventListener('contextmenu', (e: Event) => e.preventDefault());
+      const upperEl: HTMLCanvasElement | undefined = (canvas as any).upperCanvasEl;
+      if (upperEl) {
+        // Disable right-click context menu
+        const preventContext = (e: Event) => e.preventDefault();
+        // Prevent middle-click auto-scroll and auxclick behaviors
+        const preventMiddleMouseDown = (e: MouseEvent) => {
+          if (e.button === 1) {
+            e.preventDefault();
+          }
+        };
+        const preventAuxClick = (e: MouseEvent) => {
+          if (e.button === 1) {
+            e.preventDefault();
+          }
+        };
+
+        upperEl.addEventListener('contextmenu', preventContext);
+        upperEl.addEventListener('mousedown', preventMiddleMouseDown);
+        // Some environments emit pointer events; block middle pointer too
+        const preventMiddlePointerDown = (e: PointerEvent) => {
+          if (e.button === 1) {
+            e.preventDefault();
+          }
+        };
+        upperEl.addEventListener('pointerdown', preventMiddlePointerDown as any);
+        // Some browsers fire auxclick for middle button
+        upperEl.addEventListener('auxclick', preventAuxClick as any);
+
+        // Store references for cleanup
+        (upperEl as any)._learnablePreventers = {
+          preventContext,
+          preventMiddleMouseDown,
+          preventMiddlePointerDown,
+          preventAuxClick,
+        };
+      }
     } catch {}
 
     window.addEventListener('keydown', handleDelete);
@@ -312,6 +352,19 @@ export const useCanvasInteractions = (
       window.removeEventListener('keydown', handleDelete);
       window.removeEventListener('keydown', keydown);
       window.removeEventListener('keyup', keyup);
+
+      // Cleanup DOM listeners on upper canvas element
+      try {
+        const upperEl: HTMLCanvasElement | undefined = (canvas as any).upperCanvasEl;
+        const refs = (upperEl as any)?._learnablePreventers;
+        if (upperEl && refs) {
+          upperEl.removeEventListener('contextmenu', refs.preventContext);
+          upperEl.removeEventListener('mousedown', refs.preventMiddleMouseDown);
+          upperEl.removeEventListener('pointerdown', refs.preventMiddlePointerDown);
+          upperEl.removeEventListener('auxclick', refs.preventAuxClick);
+          delete (upperEl as any)._learnablePreventers;
+        }
+      } catch {}
     };
   }, [canvas, apiBaseUrl, onDelete, onDeleteConnection]);
 

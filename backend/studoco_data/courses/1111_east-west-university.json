@@ -1,0 +1,896 @@
+{
+  "university_id": "1111",
+  "university_name": "East West University",
+  "courses": [
+    {
+      "name": "Academic writing",
+      "code": "Eng 309",
+      "url": "https://www.studocu.com/row/course/east-west-university/academic-writing/6245184"
+    },
+    {
+      "name": "Accouning Information System",
+      "code": "ACT 430",
+      "url": "https://www.studocu.com/row/course/east-west-university/accouning-information-system/4367696"
+    },
+    {
+      "name": "Advance Database",
+      "code": "CSE464",
+      "url": "https://www.studocu.com/row/course/east-west-university/advance-database/7767267"
+    },
+    {
+      "name": "Advanced Accounting",
+      "code": "ACT478",
+      "url": "https://www.studocu.com/row/course/east-west-university/advanced-accounting/6445640"
+    },
+    {
+      "name": "Advanced Clinical Pharmacy",
+      "code": "pharm513",
+      "url": "https://www.studocu.com/row/course/east-west-university/advanced-clinical-pharmacy/6965318"
+    },
+    {
+      "name": "Advanced reading, writing",
+      "code": "Eng 155",
+      "url": "https://www.studocu.com/row/course/east-west-university/advanced-reading-writing/6245187"
+    },
+    {
+      "name": "Agricultural economics",
+      "code": "ECO-200",
+      "url": "https://www.studocu.com/row/course/east-west-university/agricultural-economics/5782922"
+    },
+    {
+      "name": "Algorithms",
+      "code": "CSE246",
+      "url": "https://www.studocu.com/row/course/east-west-university/algorithms/6669464"
+    },
+    {
+      "name": "american literature",
+      "code": "eng 426",
+      "url": "https://www.studocu.com/row/course/east-west-university/american-literature/5418607"
+    },
+    {
+      "name": "Applied statistics",
+      "code": "AST 101",
+      "url": "https://www.studocu.com/row/course/east-west-university/applied-statistics/3169654"
+    },
+    {
+      "name": "Artificial Intelligence",
+      "code": "CSE 366",
+      "url": "https://www.studocu.com/row/course/east-west-university/artificial-intelligence/6286709"
+    },
+    {
+      "name": "assurance",
+      "code": "4011",
+      "url": "https://www.studocu.com/row/course/east-west-university/assurance/6870784"
+    },
+    {
+      "name": "Auditing",
+      "code": "act 427",
+      "url": "https://www.studocu.com/row/course/east-west-university/auditing/4500278"
+    },
+    {
+      "name": "Bangladesh Studies",
+      "code": "GEN201",
+      "url": "https://www.studocu.com/row/course/east-west-university/bangladesh-studies/6601634"
+    },
+    {
+      "name": "Basic Biochemistry",
+      "code": "GEB201",
+      "url": "https://www.studocu.com/row/course/east-west-university/basic-biochemistry/7366097"
+    },
+    {
+      "name": "Basic biology",
+      "code": "101",
+      "url": "https://www.studocu.com/row/course/east-west-university/basic-biology/6453410"
+    },
+    {
+      "name": "Basic Computer",
+      "code": "CSE 101",
+      "url": "https://www.studocu.com/row/course/east-west-university/basic-computer/6146170"
+    },
+    {
+      "name": "Basic econometrics",
+      "code": "ECO 465",
+      "url": "https://www.studocu.com/row/course/east-west-university/basic-econometrics/4526320"
+    },
+    {
+      "name": "Basic English",
+      "code": "ENG 101",
+      "url": "https://www.studocu.com/row/course/east-west-university/basic-english/6657288"
+    },
+    {
+      "name": "Basic Microbiology",
+      "code": "GEB 104",
+      "url": "https://www.studocu.com/row/course/east-west-university/basic-microbiology/5335501"
+    },
+    {
+      "name": "Big Data Analytics",
+      "code": "CSE488",
+      "url": "https://www.studocu.com/row/course/east-west-university/big-data-analytics/7761689"
+    },
+    {
+      "name": "biological psych",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/east-west-university/biological-psych/4118285"
+    },
+    {
+      "name": "Brand Management",
+      "code": "MKT416",
+      "url": "https://www.studocu.com/row/course/east-west-university/brand-management/5169632"
+    },
+    {
+      "name": "Business Finance",
+      "code": "FIN201",
+      "url": "https://www.studocu.com/row/course/east-west-university/business-finance/3727100"
+    },
+    {
+      "name": "Business Law",
+      "code": "BUS361",
+      "url": "https://www.studocu.com/row/course/east-west-university/business-law/5481552"
+    },
+    {
+      "name": "Cell Biology 1",
+      "code": "GEB 103",
+      "url": "https://www.studocu.com/row/course/east-west-university/cell-biology-1/6713104"
+    },
+    {
+      "name": "Civil engineering",
+      "code": "CE100",
+      "url": "https://www.studocu.com/row/course/east-west-university/civil-engineering/7177865"
+    },
+    {
+      "name": "Climate Change and development",
+      "code": "ECO 677",
+      "url": "https://www.studocu.com/row/course/east-west-university/climate-change-and-development/7626840"
+    },
+    {
+      "name": "communication and network system",
+      "code": "CSE350",
+      "url": "https://www.studocu.com/row/course/east-west-university/communication-and-network-system/6061418"
+    },
+    {
+      "name": "Communication Skills",
+      "code": "BUS-231",
+      "url": "https://www.studocu.com/row/course/east-west-university/communication-skills/4401374"
+    },
+    {
+      "name": "Compensation Management",
+      "code": "HRM412",
+      "url": "https://www.studocu.com/row/course/east-west-university/compensation-management/5469254"
+    },
+    {
+      "name": "Composition and Communication skills",
+      "code": "ENG102",
+      "url": "https://www.studocu.com/row/course/east-west-university/composition-and-communication-skills/4955904"
+    },
+    {
+      "name": "Computer Aided Engineering Drawing",
+      "code": "CSE200",
+      "url": "https://www.studocu.com/row/course/east-west-university/computer-aided-engineering-drawing/7495682"
+    },
+    {
+      "name": "Computer Architecture",
+      "code": "CSE360",
+      "url": "https://www.studocu.com/row/course/east-west-university/computer-architecture/4350363"
+    },
+    {
+      "name": "Computer graphics",
+      "code": "CSE420",
+      "url": "https://www.studocu.com/row/course/east-west-university/computer-graphics/6061411"
+    },
+    {
+      "name": "Computer Information and system analysis",
+      "code": "Cse347",
+      "url": "https://www.studocu.com/row/course/east-west-university/computer-information-and-system-analysis/6061408"
+    },
+    {
+      "name": "Computer Networks",
+      "code": "CSE405",
+      "url": "https://www.studocu.com/row/course/east-west-university/computer-networks/6331526"
+    },
+    {
+      "name": "Computer Programming",
+      "code": "CSE103",
+      "url": "https://www.studocu.com/row/course/east-west-university/computer-programming/6493853"
+    },
+    {
+      "name": "Concepts of Journalism and Media Studies",
+      "code": "GEN 211",
+      "url": "https://www.studocu.com/row/course/east-west-university/concepts-of-journalism-and-media-studies/6370552"
+    },
+    {
+      "name": "Consumer Behavior",
+      "code": "MKT410",
+      "url": "https://www.studocu.com/row/course/east-west-university/consumer-behavior/5710510"
+    },
+    {
+      "name": "Consumer Behaviour",
+      "code": "MKT 410",
+      "url": "https://www.studocu.com/row/course/east-west-university/consumer-behaviour/6146163"
+    },
+    {
+      "name": "Control System",
+      "code": "EEE 402",
+      "url": "https://www.studocu.com/row/course/east-west-university/control-system/5250789"
+    },
+    {
+      "name": "Control System",
+      "code": "ETE420",
+      "url": "https://www.studocu.com/row/course/east-west-university/control-system/6824865"
+    },
+    {
+      "name": "Coordinate Geometry and Vector Analysis",
+      "code": "MAT104",
+      "url": "https://www.studocu.com/row/course/east-west-university/coordinate-geometry-and-vector-analysis/4955698"
+    },
+    {
+      "name": "Cost Accounting",
+      "code": "ACT441",
+      "url": "https://www.studocu.com/row/course/east-west-university/cost-accounting/6829362"
+    },
+    {
+      "name": "Criminal Law",
+      "code": "Law 307",
+      "url": "https://www.studocu.com/row/course/east-west-university/criminal-law/6523459"
+    },
+    {
+      "name": "Cyber Management",
+      "code": "CSE498",
+      "url": "https://www.studocu.com/row/course/east-west-university/cyber-management/7053663"
+    },
+    {
+      "name": "Data Communications",
+      "code": "CSE 350",
+      "url": "https://www.studocu.com/row/course/east-west-university/data-communications/6573019"
+    },
+    {
+      "name": "Data Mining",
+      "code": "CSE 477",
+      "url": "https://www.studocu.com/row/course/east-west-university/data-mining/7656923"
+    },
+    {
+      "name": "Data Structures",
+      "code": "CSE207",
+      "url": "https://www.studocu.com/row/course/east-west-university/data-structures/7180795"
+    },
+    {
+      "name": "Database Systems",
+      "code": "CSE302",
+      "url": "https://www.studocu.com/row/course/east-west-university/database-systems/6047951"
+    },
+    {
+      "name": "Decision Support Systems",
+      "code": "MIS-415",
+      "url": "https://www.studocu.com/row/course/east-west-university/decision-support-systems/5710503"
+    },
+    {
+      "name": "Development studies",
+      "code": "GEN214",
+      "url": "https://www.studocu.com/row/course/east-west-university/development-studies/5401283"
+    },
+    {
+      "name": "Differential and Integral Calculas",
+      "code": "MAT101",
+      "url": "https://www.studocu.com/row/course/east-west-university/differential-and-integral-calculas/6874127"
+    },
+    {
+      "name": "Differential Equations and Special Functions",
+      "code": "MAT102",
+      "url": "https://www.studocu.com/row/course/east-west-university/differential-equations-and-special-functions/4955697"
+    },
+    {
+      "name": "Digital Image processing",
+      "code": "Cse438",
+      "url": "https://www.studocu.com/row/course/east-west-university/digital-image-processing/7661243"
+    },
+    {
+      "name": "Digital Lgic Design",
+      "code": "EEE 205",
+      "url": "https://www.studocu.com/row/course/east-west-university/digital-lgic-design/4531458"
+    },
+    {
+      "name": "digital logic design",
+      "code": "CSE345",
+      "url": "https://www.studocu.com/row/course/east-west-university/digital-logic-design/4826687"
+    },
+    {
+      "name": "Digital Signal processing",
+      "code": "ETE322",
+      "url": "https://www.studocu.com/row/course/east-west-university/digital-signal-processing/5476807"
+    },
+    {
+      "name": "digital signal processing",
+      "code": "EEE309",
+      "url": "https://www.studocu.com/row/course/east-west-university/digital-signal-processing/4517686"
+    },
+    {
+      "name": "Discrete Mathematics",
+      "code": "CSE106",
+      "url": "https://www.studocu.com/row/course/east-west-university/discrete-mathematics/4352674"
+    },
+    {
+      "name": "East West University",
+      "code": "EWU101",
+      "url": "https://www.studocu.com/row/course/east-west-university/east-west-university/6177855"
+    },
+    {
+      "name": "Ecological System and Environment",
+      "code": "GEN203",
+      "url": "https://www.studocu.com/row/course/east-west-university/ecological-system-and-environment/5867760"
+    },
+    {
+      "name": "economics",
+      "code": "eco101",
+      "url": "https://www.studocu.com/row/course/east-west-university/economics/6375834"
+    },
+    {
+      "name": "Effective Business Communication Skills for Leather and Footwear Managers",
+      "code": "LF 701",
+      "url": "https://www.studocu.com/row/course/east-west-university/effective-business-communication-skills-for-leather-and-footwear-managers/5945517"
+    },
+    {
+      "name": "Electric Machines",
+      "code": "EEE 301",
+      "url": "https://www.studocu.com/row/course/east-west-university/electric-machines/5019343"
+    },
+    {
+      "name": "Electrical Circuit",
+      "code": "CSE209",
+      "url": "https://www.studocu.com/row/course/east-west-university/electrical-circuit/4955659"
+    },
+    {
+      "name": "Electrical Power Systems",
+      "code": "EEE304",
+      "url": "https://www.studocu.com/row/course/east-west-university/electrical-power-systems/6881202"
+    },
+    {
+      "name": "Electromagnetic Fields and Waves",
+      "code": "EEE 305",
+      "url": "https://www.studocu.com/row/course/east-west-university/electromagnetic-fields-and-waves/4953096"
+    },
+    {
+      "name": "Electronic circuit",
+      "code": "EEE 101",
+      "url": "https://www.studocu.com/row/course/east-west-university/electronic-circuit/3170679"
+    },
+    {
+      "name": "Electronic Circuits",
+      "code": "CSE251",
+      "url": "https://www.studocu.com/row/course/east-west-university/electronic-circuits/4289967"
+    },
+    {
+      "name": "Electronic Circuits II",
+      "code": "EEE202",
+      "url": "https://www.studocu.com/row/course/east-west-university/electronic-circuits-ii/7642886"
+    },
+    {
+      "name": "Electronic Properties of Materials",
+      "code": "EEE 308",
+      "url": "https://www.studocu.com/row/course/east-west-university/electronic-properties-of-materials/5918380"
+    },
+    {
+      "name": "Emergence of Bangladesh",
+      "code": "GEN226",
+      "url": "https://www.studocu.com/row/course/east-west-university/emergence-of-bangladesh/4557397"
+    },
+    {
+      "name": "Engineering Chemistry",
+      "code": "CHE109",
+      "url": "https://www.studocu.com/row/course/east-west-university/engineering-chemistry/4974461"
+    },
+    {
+      "name": "Engineering physics",
+      "code": "PHY209",
+      "url": "https://www.studocu.com/row/course/east-west-university/engineering-physics/6061406"
+    },
+    {
+      "name": "Engineering physics",
+      "code": "PHY109",
+      "url": "https://www.studocu.com/row/course/east-west-university/engineering-physics/6061416"
+    },
+    {
+      "name": "Engineering Physics-1",
+      "code": "PHY109",
+      "url": "https://www.studocu.com/row/course/east-west-university/engineering-physics-1/5729043"
+    },
+    {
+      "name": "english",
+      "code": "eng102",
+      "url": "https://www.studocu.com/row/course/east-west-university/english/4821342"
+    },
+    {
+      "name": "Enterprise Information System",
+      "code": "MIS305",
+      "url": "https://www.studocu.com/row/course/east-west-university/enterprise-information-system/7097164"
+    },
+    {
+      "name": "Entrepreneurship",
+      "code": "MBA 513",
+      "url": "https://www.studocu.com/row/course/east-west-university/entrepreneurship/7296507"
+    },
+    {
+      "name": "Environmental & Natural Resource Economics-II",
+      "code": "ECO354",
+      "url": "https://www.studocu.com/row/course/east-west-university/environmental-natural-resource-economics-ii/6926138"
+    },
+    {
+      "name": "Financial Accounting",
+      "code": "ACT101",
+      "url": "https://www.studocu.com/row/course/east-west-university/financial-accounting/4528999"
+    },
+    {
+      "name": "Financial Analysis and Control",
+      "code": "FIN408",
+      "url": "https://www.studocu.com/row/course/east-west-university/financial-analysis-and-control/6923954"
+    },
+    {
+      "name": "Footwear Quality Control",
+      "code": "2770",
+      "url": "https://www.studocu.com/row/course/east-west-university/footwear-quality-control/7630682"
+    },
+    {
+      "name": "Green Computing",
+      "code": "CSE407",
+      "url": "https://www.studocu.com/row/course/east-west-university/green-computing/5796035"
+    },
+    {
+      "name": "Health Challenges of Adolescents and Youths",
+      "code": "POP201",
+      "url": "https://www.studocu.com/row/course/east-west-university/health-challenges-of-adolescents-and-youths/4953951"
+    },
+    {
+      "name": "History of Economic Thought",
+      "code": "ECO 475",
+      "url": "https://www.studocu.com/row/course/east-west-university/history-of-economic-thought/7118460"
+    },
+    {
+      "name": "Human Resource Management",
+      "code": "HRM301",
+      "url": "https://www.studocu.com/row/course/east-west-university/human-resource-management/4953956"
+    },
+    {
+      "name": "Human Resource Management",
+      "code": "HRM-501",
+      "url": "https://www.studocu.com/row/course/east-west-university/human-resource-management/4473293"
+    },
+    {
+      "name": "Human Resource Planning",
+      "code": "HRM411",
+      "url": "https://www.studocu.com/row/course/east-west-university/human-resource-planning/6399090"
+    },
+    {
+      "name": "Industrial Relations and Labour Law",
+      "code": "HRM413",
+      "url": "https://www.studocu.com/row/course/east-west-university/industrial-relations-and-labour-law/6364544"
+    },
+    {
+      "name": "Information System Analysis and Design",
+      "code": "CSE347",
+      "url": "https://www.studocu.com/row/course/east-west-university/information-system-analysis-and-design/6145707"
+    },
+    {
+      "name": "Integrated Marketing Communication",
+      "code": "MKT402",
+      "url": "https://www.studocu.com/row/course/east-west-university/integrated-marketing-communication/5932779"
+    },
+    {
+      "name": "Intermediate Accounting",
+      "code": "Act411",
+      "url": "https://www.studocu.com/row/course/east-west-university/intermediate-accounting/3171357"
+    },
+    {
+      "name": "Intermediate Accounting II",
+      "code": "ACT 421",
+      "url": "https://www.studocu.com/row/course/east-west-university/intermediate-accounting-ii/5833373"
+    },
+    {
+      "name": "International Business",
+      "code": "ITB301",
+      "url": "https://www.studocu.com/row/course/east-west-university/international-business/3304883"
+    },
+    {
+      "name": "International Finance and Banking",
+      "code": "BMG9525",
+      "url": "https://www.studocu.com/row/course/east-west-university/international-finance-and-banking/7492913"
+    },
+    {
+      "name": "International Financial Management",
+      "code": "Fin465",
+      "url": "https://www.studocu.com/row/course/east-west-university/international-financial-management/3844724"
+    },
+    {
+      "name": "International Perspective on Environment",
+      "code": "Eco 674",
+      "url": "https://www.studocu.com/row/course/east-west-university/international-perspective-on-environment/7626845"
+    },
+    {
+      "name": "International Relations",
+      "code": "GEN210",
+      "url": "https://www.studocu.com/row/course/east-west-university/international-relations/6546320"
+    },
+    {
+      "name": "International Trade Theory",
+      "code": "Eco 406",
+      "url": "https://www.studocu.com/row/course/east-west-university/international-trade-theory/6375476"
+    },
+    {
+      "name": "Internship",
+      "code": "BUS499",
+      "url": "https://www.studocu.com/row/course/east-west-university/internship/5425678"
+    },
+    {
+      "name": "Introduction to Anthropology",
+      "code": "SOC102",
+      "url": "https://www.studocu.com/row/course/east-west-university/introduction-to-anthropology/6625925"
+    },
+    {
+      "name": "Introduction to Business",
+      "code": "BUS101",
+      "url": "https://www.studocu.com/row/course/east-west-university/introduction-to-business/4864886"
+    },
+    {
+      "name": "Introduction to Business Law",
+      "code": "LAW200",
+      "url": "https://www.studocu.com/row/course/east-west-university/introduction-to-business-law/2745283"
+    },
+    {
+      "name": "Introduction to Computers II",
+      "code": "CSE102",
+      "url": "https://www.studocu.com/row/course/east-west-university/introduction-to-computers-ii/4953118"
+    },
+    {
+      "name": "Introduction to MIS",
+      "code": "MIS101",
+      "url": "https://www.studocu.com/row/course/east-west-university/introduction-to-mis/4821465"
+    },
+    {
+      "name": "Introduction to Sociology",
+      "code": "SOC101",
+      "url": "https://www.studocu.com/row/course/east-west-university/introduction-to-sociology/4953955"
+    },
+    {
+      "name": "JAVA basic programming",
+      "code": "CSE110",
+      "url": "https://www.studocu.com/row/course/east-west-university/java-basic-programming/4529492"
+    },
+    {
+      "name": "Language Acquisition Theories for EFL/ESL context",
+      "code": "ENG411",
+      "url": "https://www.studocu.com/row/course/east-west-university/language-acquisition-theories-for-eflesl-context/5879000"
+    },
+    {
+      "name": "Law of Torts",
+      "code": "0421-109",
+      "url": "https://www.studocu.com/row/course/east-west-university/law-of-torts/7716179"
+    },
+    {
+      "name": "Legal system of Bangladesh",
+      "code": "0421-107",
+      "url": "https://www.studocu.com/row/course/east-west-university/legal-system-of-bangladesh/7772151"
+    },
+    {
+      "name": "Linear Algebra and Complex Variable",
+      "code": "MAT205",
+      "url": "https://www.studocu.com/row/course/east-west-university/linear-algebra-and-complex-variable/4335095"
+    },
+    {
+      "name": "Macro Economics II",
+      "code": "ECO477",
+      "url": "https://www.studocu.com/row/course/east-west-university/macro-economics-ii/5270669"
+    },
+    {
+      "name": "Management Accounting",
+      "code": "MBA 508",
+      "url": "https://www.studocu.com/row/course/east-west-university/management-accounting/4945576"
+    },
+    {
+      "name": "Management Accounting",
+      "code": "ACT201",
+      "url": "https://www.studocu.com/row/course/east-west-university/management-accounting/5469229"
+    },
+    {
+      "name": "Management of Commercial Bank",
+      "code": "Fin 380",
+      "url": "https://www.studocu.com/row/course/east-west-university/management-of-commercial-bank/6987866"
+    },
+    {
+      "name": "Managerial Accounting",
+      "code": "201",
+      "url": "https://www.studocu.com/row/course/east-west-university/managerial-accounting/4527695"
+    },
+    {
+      "name": "Managerial Economics",
+      "code": "MBA 512",
+      "url": "https://www.studocu.com/row/course/east-west-university/managerial-economics/5033199"
+    },
+    {
+      "name": "Managerial Finance",
+      "code": "FIN 501",
+      "url": "https://www.studocu.com/row/course/east-west-university/managerial-finance/5155818"
+    },
+    {
+      "name": "Marketing Management",
+      "code": "MKT201",
+      "url": "https://www.studocu.com/row/course/east-west-university/marketing-management/4455311"
+    },
+    {
+      "name": "Marketing Research",
+      "code": "MKT501",
+      "url": "https://www.studocu.com/row/course/east-west-university/marketing-research/5168847"
+    },
+    {
+      "name": "Marketing Strategy",
+      "code": "MKT 430",
+      "url": "https://www.studocu.com/row/course/east-west-university/marketing-strategy/6178037"
+    },
+    {
+      "name": "Mathematical Economics",
+      "code": "ECO 511",
+      "url": "https://www.studocu.com/row/course/east-west-university/mathematical-economics/6816401"
+    },
+    {
+      "name": "Mathematics for Business and Economics II",
+      "code": "MAT211",
+      "url": "https://www.studocu.com/row/course/east-west-university/mathematics-for-business-and-economics-ii/6059669"
+    },
+    {
+      "name": "Mechanics of solid",
+      "code": "ce211",
+      "url": "https://www.studocu.com/row/course/east-west-university/mechanics-of-solid/3697761"
+    },
+    {
+      "name": "Micro controller",
+      "code": "EEE 311",
+      "url": "https://www.studocu.com/row/course/east-west-university/micro-controller/4513362"
+    },
+    {
+      "name": "Micro economics",
+      "code": "bus 506",
+      "url": "https://www.studocu.com/row/course/east-west-university/micro-economics/3565654"
+    },
+    {
+      "name": "Micro Economics II",
+      "code": "ECO 467",
+      "url": "https://www.studocu.com/row/course/east-west-university/micro-economics-ii/6248079"
+    },
+    {
+      "name": "Microbial Genomics",
+      "code": "MG306",
+      "url": "https://www.studocu.com/row/course/east-west-university/microbial-genomics/5413272"
+    },
+    {
+      "name": "Modern Novel",
+      "code": "ENG403",
+      "url": "https://www.studocu.com/row/course/east-west-university/modern-novel/5410057"
+    },
+    {
+      "name": "Money & Banking",
+      "code": "ECO310",
+      "url": "https://www.studocu.com/row/course/east-west-university/money-banking/7492914"
+    },
+    {
+      "name": "Network Operating System",
+      "code": "MIS404",
+      "url": "https://www.studocu.com/row/course/east-west-university/network-operating-system/4883040"
+    },
+    {
+      "name": "Numerical Analysis for Electrical Engineering",
+      "code": "EEE204",
+      "url": "https://www.studocu.com/row/course/east-west-university/numerical-analysis-for-electrical-engineering/7661214"
+    },
+    {
+      "name": "Operating System",
+      "code": "CSE325",
+      "url": "https://www.studocu.com/row/course/east-west-university/operating-system/5810712"
+    },
+    {
+      "name": "Organizational Behavior",
+      "code": "MGT 251",
+      "url": "https://www.studocu.com/row/course/east-west-university/organizational-behavior/5333005"
+    },
+    {
+      "name": "PHRM Lab",
+      "code": "201",
+      "url": "https://www.studocu.com/row/course/east-west-university/phrm-lab/4955781"
+    },
+    {
+      "name": "Physical Pharmacy",
+      "code": "PHRM 101",
+      "url": "https://www.studocu.com/row/course/east-west-university/physical-pharmacy/6363301"
+    },
+    {
+      "name": "physics",
+      "code": "109",
+      "url": "https://www.studocu.com/row/course/east-west-university/physics/4352269"
+    },
+    {
+      "name": "Principals of Marketing",
+      "code": "MKT 101",
+      "url": "https://www.studocu.com/row/course/east-west-university/principals-of-marketing/6146171"
+    },
+    {
+      "name": "principle of management",
+      "code": "MGT101",
+      "url": "https://www.studocu.com/row/course/east-west-university/principle-of-management/4821466"
+    },
+    {
+      "name": "principle of marketing",
+      "code": "MKT101",
+      "url": "https://www.studocu.com/row/course/east-west-university/principle-of-marketing/5463383"
+    },
+    {
+      "name": "Principle of marketing",
+      "code": "MKT5013",
+      "url": "https://www.studocu.com/row/course/east-west-university/principle-of-marketing/2908223"
+    },
+    {
+      "name": "Principles of Finance",
+      "code": "FIN 101",
+      "url": "https://www.studocu.com/row/course/east-west-university/principles-of-finance/4922349"
+    },
+    {
+      "name": "Principles of Macroeconomics",
+      "code": "ECO 102",
+      "url": "https://www.studocu.com/row/course/east-west-university/principles-of-macroeconomics/6829148"
+    },
+    {
+      "name": "Principles of Microeconomics",
+      "code": "ECO 101",
+      "url": "https://www.studocu.com/row/course/east-west-university/principles-of-microeconomics/3722506"
+    },
+    {
+      "name": "Private International Law",
+      "code": "LLM 503",
+      "url": "https://www.studocu.com/row/course/east-west-university/private-international-law/7712243"
+    },
+    {
+      "name": "Production management",
+      "code": "mgt 337",
+      "url": "https://www.studocu.com/row/course/east-west-university/production-management/3241177"
+    },
+    {
+      "name": "Programming for Data Science",
+      "code": "DSA5002",
+      "url": "https://www.studocu.com/row/course/east-west-university/programming-for-data-science/6760306"
+    },
+    {
+      "name": "programming with c",
+      "code": "CS191",
+      "url": "https://www.studocu.com/row/course/east-west-university/programming-with-c/7587385"
+    },
+    {
+      "name": "Project Analysis",
+      "code": "Eco 484",
+      "url": "https://www.studocu.com/row/course/east-west-university/project-analysis/7258672"
+    },
+    {
+      "name": "Project Work",
+      "code": "MKT 498",
+      "url": "https://www.studocu.com/row/course/east-west-university/project-work/4500843"
+    },
+    {
+      "name": "Psycholinguistics",
+      "code": "eng 207",
+      "url": "https://www.studocu.com/row/course/east-west-university/psycholinguistics/7551919"
+    },
+    {
+      "name": "public finance",
+      "code": "ECO315",
+      "url": "https://www.studocu.com/row/course/east-west-university/public-finance/4866394"
+    },
+    {
+      "name": "Public Sector Economics",
+      "code": "ECO 314",
+      "url": "https://www.studocu.com/row/course/east-west-university/public-sector-economics/7355897"
+    },
+    {
+      "name": "Python Programming",
+      "code": "PY101",
+      "url": "https://www.studocu.com/row/course/east-west-university/python-programming/5817545"
+    },
+    {
+      "name": "Relational Database Management Systems",
+      "code": "MIS406",
+      "url": "https://www.studocu.com/row/course/east-west-university/relational-database-management-systems/6972263"
+    },
+    {
+      "name": "Research Marketing",
+      "code": "MKT414",
+      "url": "https://www.studocu.com/row/course/east-west-university/research-marketing/5166475"
+    },
+    {
+      "name": "Research Methodology",
+      "code": "MBA 511",
+      "url": "https://www.studocu.com/row/course/east-west-university/research-methodology/5161141"
+    },
+    {
+      "name": "Risk Management and Insurance",
+      "code": "Fin 410",
+      "url": "https://www.studocu.com/row/course/east-west-university/risk-management-and-insurance/7283186"
+    },
+    {
+      "name": "Semiconductor Devices",
+      "code": "EEE 417",
+      "url": "https://www.studocu.com/row/course/east-west-university/semiconductor-devices/6588644"
+    },
+    {
+      "name": "Service Marketing",
+      "code": "MKT412",
+      "url": "https://www.studocu.com/row/course/east-west-university/service-marketing/5135713"
+    },
+    {
+      "name": "Software Engineering",
+      "code": "CSE412",
+      "url": "https://www.studocu.com/row/course/east-west-university/software-engineering/7767271"
+    },
+    {
+      "name": "Software Quality Assurance",
+      "code": "CSE435",
+      "url": "https://www.studocu.com/row/course/east-west-university/software-quality-assurance/4945410"
+    },
+    {
+      "name": "Statistics and Probability",
+      "code": "STA 102",
+      "url": "https://www.studocu.com/row/course/east-west-university/statistics-and-probability/3246957"
+    },
+    {
+      "name": "Statistics for Business and Economics I",
+      "code": "ECO104",
+      "url": "https://www.studocu.com/row/course/east-west-university/statistics-for-business-and-economics-i/6012814"
+    },
+    {
+      "name": "Statistics for Business and Economics II",
+      "code": "ECO 204",
+      "url": "https://www.studocu.com/row/course/east-west-university/statistics-for-business-and-economics-ii/6495704"
+    },
+    {
+      "name": "Statistics for Data Science",
+      "code": "CSE303",
+      "url": "https://www.studocu.com/row/course/east-west-university/statistics-for-data-science/7661292"
+    },
+    {
+      "name": "Strategic Human Resource Management",
+      "code": "HRM416",
+      "url": "https://www.studocu.com/row/course/east-west-university/strategic-human-resource-management/7635857"
+    },
+    {
+      "name": "strategic management",
+      "code": "mgt 480",
+      "url": "https://www.studocu.com/row/course/east-west-university/strategic-management/4500285"
+    },
+    {
+      "name": "Strategic Marketing",
+      "code": "MKT430",
+      "url": "https://www.studocu.com/row/course/east-west-university/strategic-marketing/5851669"
+    },
+    {
+      "name": "Structured Programming",
+      "code": "CSE103",
+      "url": "https://www.studocu.com/row/course/east-west-university/structured-programming/4380229"
+    },
+    {
+      "name": "Taxation",
+      "code": "ACT 311",
+      "url": "https://www.studocu.com/row/course/east-west-university/taxation/7283189"
+    },
+    {
+      "name": "Telecommunication",
+      "code": "EEE307",
+      "url": "https://www.studocu.com/row/course/east-west-university/telecommunication/4416063"
+    },
+    {
+      "name": "TRAINING AND DEVELOPMENT",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/east-west-university/training-and-development/3268154"
+    },
+    {
+      "name": "Trust Equity and Specific relief",
+      "code": "LAW0421-111",
+      "url": "https://www.studocu.com/row/course/east-west-university/trust-equity-and-specific-relief/7772154"
+    },
+    {
+      "name": "wireless communication",
+      "code": "ICE441",
+      "url": "https://www.studocu.com/row/course/east-west-university/wireless-communication/6319869"
+    }
+  ]
+}

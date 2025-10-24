@@ -1,0 +1,901 @@
+{
+  "university_id": "8093",
+  "university_name": "Uniwersytet Rolniczy w Krakowie im. Hugona Kollataja",
+  "courses": [
+    {
+      "name": "Agrometeorologia",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/uniwersytet-rolniczy-w-krakowie-im-hugona-kollataja/agrometeorologia/3642810"
+    },
+    {
+      "name": "Aktywne formy rekreacji",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/uniwersytet-rolniczy-w-krakowie-im-hugona-kollataja/aktywne-formy-rekreacji/3642966"
+    },
+    {
+      "name": "Analiza jakości i bezpieczeństwa żywności",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/uniwersytet-rolniczy-w-krakowie-im-hugona-kollataja/analiza-jakosci-i-bezpieczenstwa-zywnosci/6231608"
+    },
+    {
+      "name": "Analiza laboratoryjna i diagnostyka mikrobiologiczna",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/uniwersytet-rolniczy-w-krakowie-im-hugona-kollataja/analiza-laboratoryjna-i-diagnostyka-mikrobiologiczna/3642878"
+    },
+    {
+      "name": "Anatomia człowieka",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/uniwersytet-rolniczy-w-krakowie-im-hugona-kollataja/anatomia-czlowieka/6231739"
+    },
+    {
+      "name": "anatomia zwierząt",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/uniwersytet-rolniczy-w-krakowie-im-hugona-kollataja/anatomia-zwierzat/5845665"
+    },
+    {
+      "name": "angielski 2B",
+      "code": "J.SJO.EN4.B2.SI.MWZ",
+      "url": "https://www.studocu.com/pl/course/uniwersytet-rolniczy-w-krakowie-im-hugona-kollataja/angielski-2b/6043404"
+    },
+    {
+      "name": "Angielski C1",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/uniwersytet-rolniczy-w-krakowie-im-hugona-kollataja/angielski-c1/7395312"
+    },
+    {
+      "name": "Biochemia",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/uniwersytet-rolniczy-w-krakowie-im-hugona-kollataja/biochemia/3642801"
+    },
+    {
+      "name": "Biofizyka",
+      "code": "O.1s.BIF.SI.OOGXY",
+      "url": "https://www.studocu.com/pl/course/uniwersytet-rolniczy-w-krakowie-im-hugona-kollataja/biofizyka/3179606"
+    },
+    {
+      "name": "Biogospodarka leśna i przetwórstwo drewna",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/uniwersytet-rolniczy-w-krakowie-im-hugona-kollataja/biogospodarka-lesna-i-przetworstwo-drewna/3642911"
+    },
+    {
+      "name": "Biologia",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/uniwersytet-rolniczy-w-krakowie-im-hugona-kollataja/biologia/3642976"
+    },
+    {
+      "name": "Biologia komórki",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/uniwersytet-rolniczy-w-krakowie-im-hugona-kollataja/biologia-komorki/3642912"
+    },
+    {
+      "name": "Biologia molekularna",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/uniwersytet-rolniczy-w-krakowie-im-hugona-kollataja/biologia-molekularna/3642889"
+    },
+    {
+      "name": "biologia nasion",
+      "code": "O.F3.BIN.SI.OOTXZ",
+      "url": "https://www.studocu.com/pl/course/uniwersytet-rolniczy-w-krakowie-im-hugona-kollataja/biologia-nasion/6033833"
+    },
+    {
+      "name": "Biotechnologia roślin",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/uniwersytet-rolniczy-w-krakowie-im-hugona-kollataja/biotechnologia-roslin/3642928"
+    },
+    {
+      "name": "Botanika",
+      "code": "O.2s.BOT.SI.OOGXY",
+      "url": "https://www.studocu.com/pl/course/uniwersytet-rolniczy-w-krakowie-im-hugona-kollataja/botanika/3170352"
+    },
+    {
+      "name": "Botanika",
+      "code": "O.1s.BOT.SI.OOGXY",
+      "url": "https://www.studocu.com/pl/course/uniwersytet-rolniczy-w-krakowie-im-hugona-kollataja/botanika/3170630"
+    },
+    {
+      "name": "Byliny ogrodowe",
+      "code": "O.FL.BYO.SI.OOGXY",
+      "url": "https://www.studocu.com/pl/course/uniwersytet-rolniczy-w-krakowie-im-hugona-kollataja/byliny-ogrodowe/4368692"
+    },
+    {
+      "name": "Byliny w kompozycjach ogrodowych",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/uniwersytet-rolniczy-w-krakowie-im-hugona-kollataja/byliny-w-kompozycjach-ogrodowych/6492494"
+    },
+    {
+      "name": "Chemia",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/uniwersytet-rolniczy-w-krakowie-im-hugona-kollataja/chemia/3642998"
+    },
+    {
+      "name": "Chemia ogólna i nieorganiczna",
+      "code": "O.1s.CHE.SI.OOGXY.R",
+      "url": "https://www.studocu.com/pl/course/uniwersytet-rolniczy-w-krakowie-im-hugona-kollataja/chemia-ogolna-i-nieorganiczna/3179607"
+    },
+    {
+      "name": "chemia ogólna z elementami chemiii fizycznej i biofizyki",
+      "code": "O.1s.CHE.SI.OOTXZ",
+      "url": "https://www.studocu.com/pl/course/uniwersytet-rolniczy-w-krakowie-im-hugona-kollataja/chemia-ogolna-z-elementami-chemiii-fizycznej-i-biofizyki/6043389"
+    },
+    {
+      "name": "Chemia organiczna z biochemią",
+      "code": "O.2s.CHE.SI.OOGXY",
+      "url": "https://www.studocu.com/pl/course/uniwersytet-rolniczy-w-krakowie-im-hugona-kollataja/chemia-organiczna-z-biochemia/3181481"
+    },
+    {
+      "name": "chemia organiczna z biochemią",
+      "code": "O.2s.CHO.SI.OOTXZ",
+      "url": "https://www.studocu.com/pl/course/uniwersytet-rolniczy-w-krakowie-im-hugona-kollataja/chemia-organiczna-z-biochemia/6033827"
+    },
+    {
+      "name": "Choroby i szkodniki winorośli",
+      "code": "CHiSZ 2023",
+      "url": "https://www.studocu.com/pl/course/uniwersytet-rolniczy-w-krakowie-im-hugona-kollataja/choroby-i-szkodniki-winorosli/6861631"
+    },
+    {
+      "name": "Choroby, szkodniki i ochrona roślin leczniczych",
+      "code": "O.6s.CSO.SI.OOTXZ",
+      "url": "https://www.studocu.com/pl/course/uniwersytet-rolniczy-w-krakowie-im-hugona-kollataja/choroby-szkodniki-i-ochrona-roslin-leczniczych/6059857"
+    },
+    {
+      "name": "Dendrologia",
+      "code": "O.4s.DEN.SI.OOGXY",
+      "url": "https://www.studocu.com/pl/course/uniwersytet-rolniczy-w-krakowie-im-hugona-kollataja/dendrologia/4366832"
+    },
+    {
+      "name": "Diagnostyka",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/uniwersytet-rolniczy-w-krakowie-im-hugona-kollataja/diagnostyka/4417823"
+    },
+    {
+      "name": "didáctica y diseño curricular",
+      "code": "MASTER",
+      "url": "https://www.studocu.com/pl/course/uniwersytet-rolniczy-w-krakowie-im-hugona-kollataja/didactica-y-diseno-curricular/5905154"
+    },
+    {
+      "name": "Doniczkowe rośliny ozdobne",
+      "code": "O.7s.DON.SI.OOGOY",
+      "url": "https://www.studocu.com/pl/course/uniwersytet-rolniczy-w-krakowie-im-hugona-kollataja/doniczkowe-rosliny-ozdobne/4369900"
+    },
+    {
+      "name": "Doradztwo w agroturystyce",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/uniwersytet-rolniczy-w-krakowie-im-hugona-kollataja/doradztwo-w-agroturystyce/3642960"
+    },
+    {
+      "name": "Dzieje gospodarowania na ziemiach Polskich",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/uniwersytet-rolniczy-w-krakowie-im-hugona-kollataja/dzieje-gospodarowania-na-ziemiach-polskich/3642922"
+    },
+    {
+      "name": "Ekologia i genetyka drobnoustrojów",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/uniwersytet-rolniczy-w-krakowie-im-hugona-kollataja/ekologia-i-genetyka-drobnoustrojow/3642913"
+    },
+    {
+      "name": "Ekologia i ochrona przyrody",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/uniwersytet-rolniczy-w-krakowie-im-hugona-kollataja/ekologia-i-ochrona-przyrody/3642824"
+    },
+    {
+      "name": "Ekologia i ochrona środowiska",
+      "code": "O.6s.EKL.SI.OOGXY",
+      "url": "https://www.studocu.com/pl/course/uniwersytet-rolniczy-w-krakowie-im-hugona-kollataja/ekologia-i-ochrona-srodowiska/4370194"
+    },
+    {
+      "name": "ekologia i ochrona środowiska",
+      "code": "O.6s.EOS.SI.OOTXZ",
+      "url": "https://www.studocu.com/pl/course/uniwersytet-rolniczy-w-krakowie-im-hugona-kollataja/ekologia-i-ochrona-srodowiska/6043390"
+    },
+    {
+      "name": "Ekonomia",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/uniwersytet-rolniczy-w-krakowie-im-hugona-kollataja/ekonomia/3642980"
+    },
+    {
+      "name": "Ekonomika rolnictwa",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/uniwersytet-rolniczy-w-krakowie-im-hugona-kollataja/ekonomika-rolnictwa/3642856"
+    },
+    {
+      "name": "Ekotoksykologia",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/uniwersytet-rolniczy-w-krakowie-im-hugona-kollataja/ekotoksykologia/3642961"
+    },
+    {
+      "name": "Electricidad",
+      "code": "CARGA Y ARRANQUE",
+      "url": "https://www.studocu.com/pl/course/uniwersytet-rolniczy-w-krakowie-im-hugona-kollataja/electricidad/7490593"
+    },
+    {
+      "name": "Enzymologia",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/uniwersytet-rolniczy-w-krakowie-im-hugona-kollataja/enzymologia/5730268"
+    },
+    {
+      "name": "Fakultety (x pkt ects)",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/uniwersytet-rolniczy-w-krakowie-im-hugona-kollataja/fakultety-x-pkt-ects/3642969"
+    },
+    {
+      "name": "Filogenetyka Molekularna",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/uniwersytet-rolniczy-w-krakowie-im-hugona-kollataja/filogenetyka-molekularna/7305901"
+    },
+    {
+      "name": "Fitopatologia i entomologia ogrodnicza",
+      "code": "O.3s.FIT.SI.OOGXY",
+      "url": "https://www.studocu.com/pl/course/uniwersytet-rolniczy-w-krakowie-im-hugona-kollataja/fitopatologia-i-entomologia-ogrodnicza/4368553"
+    },
+    {
+      "name": "Fitopatologia i entomologia ogrodnicza",
+      "code": "O.4s.FIT.SI.OOGXY",
+      "url": "https://www.studocu.com/pl/course/uniwersytet-rolniczy-w-krakowie-im-hugona-kollataja/fitopatologia-i-entomologia-ogrodnicza/4368698"
+    },
+    {
+      "name": "Fizjologia i endokrynologia zwierząt",
+      "code": "H.3s.FEZ.SI.HETOZ",
+      "url": "https://www.studocu.com/pl/course/uniwersytet-rolniczy-w-krakowie-im-hugona-kollataja/fizjologia-i-endokrynologia-zwierzat/6713279"
+    },
+    {
+      "name": "Fizjologia roślin",
+      "code": "O.3s.FIZ.SI.OOGXY",
+      "url": "https://www.studocu.com/pl/course/uniwersytet-rolniczy-w-krakowie-im-hugona-kollataja/fizjologia-roslin/4368656"
+    },
+    {
+      "name": "fizjologia roślin",
+      "code": "O.O3s.FIR.SI.OOTXZ",
+      "url": "https://www.studocu.com/pl/course/uniwersytet-rolniczy-w-krakowie-im-hugona-kollataja/fizjologia-roslin/6033855"
+    },
+    {
+      "name": "Fizyka",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/uniwersytet-rolniczy-w-krakowie-im-hugona-kollataja/fizyka/3642996"
+    },
+    {
+      "name": "Genetyka",
+      "code": "O.2s.GEN.SI.OOGXY",
+      "url": "https://www.studocu.com/pl/course/uniwersytet-rolniczy-w-krakowie-im-hugona-kollataja/genetyka/3181480"
+    },
+    {
+      "name": "genetyka i genomika roślin",
+      "code": "O.2s.GGR.SI.OOTXZ",
+      "url": "https://www.studocu.com/pl/course/uniwersytet-rolniczy-w-krakowie-im-hugona-kollataja/genetyka-i-genomika-roslin/6043391"
+    },
+    {
+      "name": "Genetyka i hodowla roślin ozdobnych",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/uniwersytet-rolniczy-w-krakowie-im-hugona-kollataja/genetyka-i-hodowla-roslin-ozdobnych/6325736"
+    },
+    {
+      "name": "Geodezja i kartografia",
+      "code": "O.5s.GEO.SI.OOGXY",
+      "url": "https://www.studocu.com/pl/course/uniwersytet-rolniczy-w-krakowie-im-hugona-kollataja/geodezja-i-kartografia/4369901"
+    },
+    {
+      "name": "Geografia ekonomiczna",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/uniwersytet-rolniczy-w-krakowie-im-hugona-kollataja/geografia-ekonomiczna/3642977"
+    },
+    {
+      "name": "Geologia i gleboznawstwo",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/uniwersytet-rolniczy-w-krakowie-im-hugona-kollataja/geologia-i-gleboznawstwo/3642826"
+    },
+    {
+      "name": "Geologia, geomorfologia i gleboznawstwo",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/uniwersytet-rolniczy-w-krakowie-im-hugona-kollataja/geologia-geomorfologia-i-gleboznawstwo/3642812"
+    },
+    {
+      "name": "Gleboznawstwo",
+      "code": "O.2s.GLE.SI.OOGXY",
+      "url": "https://www.studocu.com/pl/course/uniwersytet-rolniczy-w-krakowie-im-hugona-kollataja/gleboznawstwo/3181476"
+    },
+    {
+      "name": "gospodarka leśna",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/uniwersytet-rolniczy-w-krakowie-im-hugona-kollataja/gospodarka-lesna/4358658"
+    },
+    {
+      "name": "Gospodarka wodno-ściekowa",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/uniwersytet-rolniczy-w-krakowie-im-hugona-kollataja/gospodarka-wodno-sciekowa/3642858"
+    },
+    {
+      "name": "Historia gospodarcza",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/uniwersytet-rolniczy-w-krakowie-im-hugona-kollataja/historia-gospodarcza/3642948"
+    },
+    {
+      "name": "Historia kierunku",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/uniwersytet-rolniczy-w-krakowie-im-hugona-kollataja/historia-kierunku/4415558"
+    },
+    {
+      "name": "Hodowla roślin i nasiennictwo",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/uniwersytet-rolniczy-w-krakowie-im-hugona-kollataja/hodowla-roslin-i-nasiennictwo/3642859"
+    },
+    {
+      "name": "Hydrobiologia",
+      "code": "H11",
+      "url": "https://www.studocu.com/pl/course/uniwersytet-rolniczy-w-krakowie-im-hugona-kollataja/hydrobiologia/7169865"
+    },
+    {
+      "name": "Informacja i komunikacja społeczna",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/uniwersytet-rolniczy-w-krakowie-im-hugona-kollataja/informacja-i-komunikacja-spoleczna/3642848"
+    },
+    {
+      "name": "Instrumentoznawstwo Geodezyjne",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/uniwersytet-rolniczy-w-krakowie-im-hugona-kollataja/instrumentoznawstwo-geodezyjne/5911373"
+    },
+    {
+      "name": "Inżynieria genetyczna roślin",
+      "code": "O.5s.OGR.SI.OOTXZ",
+      "url": "https://www.studocu.com/pl/course/uniwersytet-rolniczy-w-krakowie-im-hugona-kollataja/inzynieria-genetyczna-roslin/6059860"
+    },
+    {
+      "name": "Inżynieria procesowa",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/uniwersytet-rolniczy-w-krakowie-im-hugona-kollataja/inzynieria-procesowa/3642930"
+    },
+    {
+      "name": "Inżynieria produkcji ogrodniczej",
+      "code": "O.3s.INZ.SI.OOGXY.A",
+      "url": "https://www.studocu.com/pl/course/uniwersytet-rolniczy-w-krakowie-im-hugona-kollataja/inzynieria-produkcji-ogrodniczej/4368660"
+    },
+    {
+      "name": "Język nowoŜytny",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/uniwersytet-rolniczy-w-krakowie-im-hugona-kollataja/jezyk-nowosytny/3642881"
+    },
+    {
+      "name": "Język obcy",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/uniwersytet-rolniczy-w-krakowie-im-hugona-kollataja/jezyk-obcy/3642786"
+    },
+    {
+      "name": "Kompozycje ogrodowe",
+      "code": "O.FL.KOO.SI.OOGXY",
+      "url": "https://www.studocu.com/pl/course/uniwersytet-rolniczy-w-krakowie-im-hugona-kollataja/kompozycje-ogrodowe/4370198"
+    },
+    {
+      "name": "konwencjonalna i molekularna hodowla roślin",
+      "code": "O.6s.KMH.SI.OOTXZ",
+      "url": "https://www.studocu.com/pl/course/uniwersytet-rolniczy-w-krakowie-im-hugona-kollataja/konwencjonalna-i-molekularna-hodowla-roslin/6149798"
+    },
+    {
+      "name": "Kultura, sztuka lub tradycje regionu",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/uniwersytet-rolniczy-w-krakowie-im-hugona-kollataja/kultura-sztuka-lub-tradycje-regionu/3642791"
+    },
+    {
+      "name": "Kwiaciarstwo",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/uniwersytet-rolniczy-w-krakowie-im-hugona-kollataja/kwiaciarstwo/5386182"
+    },
+    {
+      "name": "Magazynowanie żywności",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/uniwersytet-rolniczy-w-krakowie-im-hugona-kollataja/magazynowanie-zywnosci/6231735"
+    },
+    {
+      "name": "Matematyka",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/uniwersytet-rolniczy-w-krakowie-im-hugona-kollataja/matematyka/3642795"
+    },
+    {
+      "name": "Materiałoznawstwo",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/uniwersytet-rolniczy-w-krakowie-im-hugona-kollataja/materialoznawstwo/5400135"
+    },
+    {
+      "name": "metabolity wtórne",
+      "code": "O.F6.MWT.SI.OOTXZ",
+      "url": "https://www.studocu.com/pl/course/uniwersytet-rolniczy-w-krakowie-im-hugona-kollataja/metabolity-wtorne/6043395"
+    },
+    {
+      "name": "Meteorologia i klimatologia",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/uniwersytet-rolniczy-w-krakowie-im-hugona-kollataja/meteorologia-i-klimatologia/3642815"
+    },
+    {
+      "name": "Metody organizacji i zarządzania",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/uniwersytet-rolniczy-w-krakowie-im-hugona-kollataja/metody-organizacji-i-zarzadzania/3642968"
+    },
+    {
+      "name": "Mikrobiologia",
+      "code": "O.1s.MIK.SI.OOGXY.R",
+      "url": "https://www.studocu.com/pl/course/uniwersytet-rolniczy-w-krakowie-im-hugona-kollataja/mikrobiologia/3179608"
+    },
+    {
+      "name": "Nasiennictwo",
+      "code": "O.3s.NAS.SI.OOGXY",
+      "url": "https://www.studocu.com/pl/course/uniwersytet-rolniczy-w-krakowie-im-hugona-kollataja/nasiennictwo/4368662"
+    },
+    {
+      "name": "nasiennictwo roślin leczniczych i prozdrowotnych",
+      "code": "O.3s.NAS.SI.OOTXZ",
+      "url": "https://www.studocu.com/pl/course/uniwersytet-rolniczy-w-krakowie-im-hugona-kollataja/nasiennictwo-roslin-leczniczych-i-prozdrowotnych/6043400"
+    },
+    {
+      "name": "Nauka o organizacji",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/uniwersytet-rolniczy-w-krakowie-im-hugona-kollataja/nauka-o-organizacji/3642987"
+    },
+    {
+      "name": "Obsługa konsumenta",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/uniwersytet-rolniczy-w-krakowie-im-hugona-kollataja/obsluga-konsumenta/3642932"
+    },
+    {
+      "name": "ocena jakości surowców i preparatów roslinnych",
+      "code": "O.4s.OJS.SI.OOTXZ",
+      "url": "https://www.studocu.com/pl/course/uniwersytet-rolniczy-w-krakowie-im-hugona-kollataja/ocena-jakosci-surowcow-i-preparatow-roslinnych/6033885"
+    },
+    {
+      "name": "Ochrona i jakość wód",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/uniwersytet-rolniczy-w-krakowie-im-hugona-kollataja/ochrona-i-jakosc-wod/3642874"
+    },
+    {
+      "name": "Ochrona zasobów przyrodniczych",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/uniwersytet-rolniczy-w-krakowie-im-hugona-kollataja/ochrona-zasobow-przyrodniczych/5382979"
+    },
+    {
+      "name": "Odnawialne źródła energii",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/uniwersytet-rolniczy-w-krakowie-im-hugona-kollataja/odnawialne-zrodla-energii/3642944"
+    },
+    {
+      "name": "ogrodnictwo terapeutyczne",
+      "code": "O.6s.OTE.SI.OOTXZ",
+      "url": "https://www.studocu.com/pl/course/uniwersytet-rolniczy-w-krakowie-im-hugona-kollataja/ogrodnictwo-terapeutyczne/6043397"
+    },
+    {
+      "name": "Ogrody siedliskiem owadów zapylających",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/uniwersytet-rolniczy-w-krakowie-im-hugona-kollataja/ogrody-siedliskiem-owadow-zapylajacych/5400137"
+    },
+    {
+      "name": "Ogrody tymczasowe",
+      "code": "O.F3.KWI.SI.OOSXZ",
+      "url": "https://www.studocu.com/pl/course/uniwersytet-rolniczy-w-krakowie-im-hugona-kollataja/ogrody-tymczasowe/7583687"
+    },
+    {
+      "name": "Opracowanie nowych artykułów żywnościowych",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/uniwersytet-rolniczy-w-krakowie-im-hugona-kollataja/opracowanie-nowych-artykulow-zywnosciowych/6408761"
+    },
+    {
+      "name": "Parazytologia",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/uniwersytet-rolniczy-w-krakowie-im-hugona-kollataja/parazytologia/4417821"
+    },
+    {
+      "name": "Pielęgnacja terenów zieleni",
+      "code": "O.5s.PIE.SI.OOGOY",
+      "url": "https://www.studocu.com/pl/course/uniwersytet-rolniczy-w-krakowie-im-hugona-kollataja/pielegnacja-terenow-zieleni/4369902"
+    },
+    {
+      "name": "Podstawy agrobiznesu",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/uniwersytet-rolniczy-w-krakowie-im-hugona-kollataja/podstawy-agrobiznesu/3642844"
+    },
+    {
+      "name": "Podstawy biznesu",
+      "code": "ozp.ni.oosxz",
+      "url": "https://www.studocu.com/pl/course/uniwersytet-rolniczy-w-krakowie-im-hugona-kollataja/podstawy-biznesu/7526565"
+    },
+    {
+      "name": "podstawy botaniki",
+      "code": "O.2s.PBR.SI.OOTXZ",
+      "url": "https://www.studocu.com/pl/course/uniwersytet-rolniczy-w-krakowie-im-hugona-kollataja/podstawy-botaniki/6033819"
+    },
+    {
+      "name": "Podstawy ekologii i ochrony przyrody",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/uniwersytet-rolniczy-w-krakowie-im-hugona-kollataja/podstawy-ekologii-i-ochrony-przyrody/3642816"
+    },
+    {
+      "name": "Podstawy etyki w naukach przyrodniczych",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/uniwersytet-rolniczy-w-krakowie-im-hugona-kollataja/podstawy-etyki-w-naukach-przyrodniczych/7288770"
+    },
+    {
+      "name": "Podstawy grafiki inżynierskiej",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/uniwersytet-rolniczy-w-krakowie-im-hugona-kollataja/podstawy-grafiki-inzynierskiej/3642866"
+    },
+    {
+      "name": "podstawy inżynierii budownictwa",
+      "code": "PIB 2023",
+      "url": "https://www.studocu.com/pl/course/uniwersytet-rolniczy-w-krakowie-im-hugona-kollataja/podstawy-inzynierii-budownictwa/6446822"
+    },
+    {
+      "name": "Podstawy marketingu",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/uniwersytet-rolniczy-w-krakowie-im-hugona-kollataja/podstawy-marketingu/3642836"
+    },
+    {
+      "name": "Podstawy prawa",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/uniwersytet-rolniczy-w-krakowie-im-hugona-kollataja/podstawy-prawa/3642793"
+    },
+    {
+      "name": "Podstawy produkcji zwierzęcej",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/uniwersytet-rolniczy-w-krakowie-im-hugona-kollataja/podstawy-produkcji-zwierzecej/3642860"
+    },
+    {
+      "name": "Podstawy rachunkowości",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/uniwersytet-rolniczy-w-krakowie-im-hugona-kollataja/podstawy-rachunkowosci/3642910"
+    },
+    {
+      "name": "podstawy racjonalnego żywienia",
+      "code": "O.2s.PRZ.SI.OOTXZ",
+      "url": "https://www.studocu.com/pl/course/uniwersytet-rolniczy-w-krakowie-im-hugona-kollataja/podstawy-racjonalnego-zywienia/6033797"
+    },
+    {
+      "name": "Podstawy sztuki ogrodowej",
+      "code": "O.5s.POD.SI.OOGXY",
+      "url": "https://www.studocu.com/pl/course/uniwersytet-rolniczy-w-krakowie-im-hugona-kollataja/podstawy-sztuki-ogrodowej/4369903"
+    },
+    {
+      "name": "Podstawy uprawy roli i żywienia roślin leczniczych",
+      "code": "O.5s.PUR.SI.OOTXZ",
+      "url": "https://www.studocu.com/pl/course/uniwersytet-rolniczy-w-krakowie-im-hugona-kollataja/podstawy-uprawy-roli-i-zywienia-roslin-leczniczych/6033897"
+    },
+    {
+      "name": "Podstawy zarządzania",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/uniwersytet-rolniczy-w-krakowie-im-hugona-kollataja/podstawy-zarzadzania/3642796"
+    },
+    {
+      "name": "Podstawy zarządzania środowiskiem",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/uniwersytet-rolniczy-w-krakowie-im-hugona-kollataja/podstawy-zarzadzania-srodowiskiem/3642938"
+    },
+    {
+      "name": "Podstawy zielarstwa",
+      "code": "O.5s.POZ.SI.OOGXY",
+      "url": "https://www.studocu.com/pl/course/uniwersytet-rolniczy-w-krakowie-im-hugona-kollataja/podstawy-zielarstwa/4369905"
+    },
+    {
+      "name": "Podstawy żywienie roślin",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/uniwersytet-rolniczy-w-krakowie-im-hugona-kollataja/podstawy-zywienie-roslin/3642849"
+    },
+    {
+      "name": "Polityka gospodarcza",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/uniwersytet-rolniczy-w-krakowie-im-hugona-kollataja/polityka-gospodarcza/3642817"
+    },
+    {
+      "name": "Postępowanie z materiałem biologicznym w badaniach naukowych",
+      "code": "H.ZBZ.PMB9.SI.HETOZ",
+      "url": "https://www.studocu.com/pl/course/uniwersytet-rolniczy-w-krakowie-im-hugona-kollataja/postepowanie-z-materialem-biologicznym-w-badaniach-naukowych/6713281"
+    },
+    {
+      "name": "Postępowanie ze zwierzętami doświadczalnymi",
+      "code": "H.ZBZ.PMB9.SI.HETOZ",
+      "url": "https://www.studocu.com/pl/course/uniwersytet-rolniczy-w-krakowie-im-hugona-kollataja/postepowanie-ze-zwierzetami-doswiadczalnymi/6713436"
+    },
+    {
+      "name": "Prawo cywilne i gospodarcze",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/uniwersytet-rolniczy-w-krakowie-im-hugona-kollataja/prawo-cywilne-i-gospodarcze/3642916"
+    },
+    {
+      "name": "Prawo w biogospodarce",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/uniwersytet-rolniczy-w-krakowie-im-hugona-kollataja/prawo-w-biogospodarce/3642842"
+    },
+    {
+      "name": "Procedury administracyjne w ochronie środowiska",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/uniwersytet-rolniczy-w-krakowie-im-hugona-kollataja/procedury-administracyjne-w-ochronie-srodowiska/3642946"
+    },
+    {
+      "name": "proekologiczna uprawa roślin i roli",
+      "code": "O.F6.MWT.SI.OOTXZ",
+      "url": "https://www.studocu.com/pl/course/uniwersytet-rolniczy-w-krakowie-im-hugona-kollataja/proekologiczna-uprawa-roslin-i-roli/6268024"
+    },
+    {
+      "name": "Przechowalnictwo ogrodnicze",
+      "code": "O.5s.PRZ.SI.OOGXY",
+      "url": "https://www.studocu.com/pl/course/uniwersytet-rolniczy-w-krakowie-im-hugona-kollataja/przechowalnictwo-ogrodnicze/4369908"
+    },
+    {
+      "name": "psychologia ogólna",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/uniwersytet-rolniczy-w-krakowie-im-hugona-kollataja/psychologia-ogolna/6725534"
+    },
+    {
+      "name": "Pszczelnictwo",
+      "code": "O.2s.PSZ.SI.OOGXY",
+      "url": "https://www.studocu.com/pl/course/uniwersytet-rolniczy-w-krakowie-im-hugona-kollataja/pszczelnictwo/3181468"
+    },
+    {
+      "name": "Rachunek kosztów dla inżynierów",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/uniwersytet-rolniczy-w-krakowie-im-hugona-kollataja/rachunek-kosztow-dla-inzynierow/7636725"
+    },
+    {
+      "name": "Rachunkowość",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/uniwersytet-rolniczy-w-krakowie-im-hugona-kollataja/rachunkowosc/3642799"
+    },
+    {
+      "name": "Rolnictwo i obszary wiejskie w UE",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/uniwersytet-rolniczy-w-krakowie-im-hugona-kollataja/rolnictwo-i-obszary-wiejskie-w-ue/3642973"
+    },
+    {
+      "name": "rozród",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/uniwersytet-rolniczy-w-krakowie-im-hugona-kollataja/rozrod/4816811"
+    },
+    {
+      "name": "roślinne kultury in vitro",
+      "code": "O.5s.RIV.SI.OOTXZ",
+      "url": "https://www.studocu.com/pl/course/uniwersytet-rolniczy-w-krakowie-im-hugona-kollataja/roslinne-kultury-in-vitro/6043392"
+    },
+    {
+      "name": "rośliny lecznicze i prozdrowotne w dietetyce",
+      "code": "O.3s.RLD.SI.OOTXZ",
+      "url": "https://www.studocu.com/pl/course/uniwersytet-rolniczy-w-krakowie-im-hugona-kollataja/rosliny-lecznicze-i-prozdrowotne-w-dietetyce/6033859"
+    },
+    {
+      "name": "Rośliny ozdobne",
+      "code": "O.5s.ROS.SI.OOGXY",
+      "url": "https://www.studocu.com/pl/course/uniwersytet-rolniczy-w-krakowie-im-hugona-kollataja/rosliny-ozdobne/4369744"
+    },
+    {
+      "name": "Rośliny zielne",
+      "code": "Ziel123",
+      "url": "https://www.studocu.com/pl/course/uniwersytet-rolniczy-w-krakowie-im-hugona-kollataja/rosliny-zielne/6878385"
+    },
+    {
+      "name": "Rysunek techniczny",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/uniwersytet-rolniczy-w-krakowie-im-hugona-kollataja/rysunek-techniczny/7465349"
+    },
+    {
+      "name": "Sadownictwo",
+      "code": "O.3s.SAD.SI.OOGXY",
+      "url": "https://www.studocu.com/pl/course/uniwersytet-rolniczy-w-krakowie-im-hugona-kollataja/sadownictwo/4368665"
+    },
+    {
+      "name": "Socjologia",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/uniwersytet-rolniczy-w-krakowie-im-hugona-kollataja/socjologia/3642950"
+    },
+    {
+      "name": "Statystyka opisowa",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/uniwersytet-rolniczy-w-krakowie-im-hugona-kollataja/statystyka-opisowa/3642804"
+    },
+    {
+      "name": "suplementy diety",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/uniwersytet-rolniczy-w-krakowie-im-hugona-kollataja/suplementy-diety/5376273"
+    },
+    {
+      "name": "surowce lecznicze i prozdrowotne",
+      "code": "O.4s.SLP.SI.OOTXZ",
+      "url": "https://www.studocu.com/pl/course/uniwersytet-rolniczy-w-krakowie-im-hugona-kollataja/surowce-lecznicze-i-prozdrowotne/6033869"
+    },
+    {
+      "name": "Systemy oceny jakości i towaroznawstwo surowców",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/uniwersytet-rolniczy-w-krakowie-im-hugona-kollataja/systemy-oceny-jakosci-i-towaroznawstwo-surowcow/3642918"
+    },
+    {
+      "name": "Szkółkarstwo ozdobne",
+      "code": "O.5s.SZK.SI.OOGXY",
+      "url": "https://www.studocu.com/pl/course/uniwersytet-rolniczy-w-krakowie-im-hugona-kollataja/szkolkarstwo-ozdobne/4369749"
+    },
+    {
+      "name": "Szkółkarstwo sadownicze",
+      "code": "O.2s.SZK.SI.OOGXY",
+      "url": "https://www.studocu.com/pl/course/uniwersytet-rolniczy-w-krakowie-im-hugona-kollataja/szkolkarstwo-sadownicze/3181463"
+    },
+    {
+      "name": "Środowiskowe funkcje rolnictwa i leśnictwa",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/uniwersytet-rolniczy-w-krakowie-im-hugona-kollataja/srodowiskowe-funkcje-rolnictwa-i-lesnictwa/3642898"
+    },
+    {
+      "name": "śywienie człowieka i podstawy gastronomii",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/uniwersytet-rolniczy-w-krakowie-im-hugona-kollataja/sywienie-czlowieka-i-podstawy-gastronomii/3642975"
+    },
+    {
+      "name": "techniki mikroskopowe w biologii roślin",
+      "code": "O.F5.TMB.SI.OOTXZ",
+      "url": "https://www.studocu.com/pl/course/uniwersytet-rolniczy-w-krakowie-im-hugona-kollataja/techniki-mikroskopowe-w-biologii-roslin/6033903"
+    },
+    {
+      "name": "Technologia produkcji roślinnej",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/uniwersytet-rolniczy-w-krakowie-im-hugona-kollataja/technologia-produkcji-roslinnej/3642888"
+    },
+    {
+      "name": "Technologia produkcji zwierzęcej",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/uniwersytet-rolniczy-w-krakowie-im-hugona-kollataja/technologia-produkcji-zwierzecej/3642880"
+    },
+    {
+      "name": "Technologie informacyjne",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/uniwersytet-rolniczy-w-krakowie-im-hugona-kollataja/technologie-informacyjne/3642884"
+    },
+    {
+      "name": "Technologie przetworzenia biomasy",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/uniwersytet-rolniczy-w-krakowie-im-hugona-kollataja/technologie-przetworzenia-biomasy/3642926"
+    },
+    {
+      "name": "technologie uprawy roślin leczniczych i prozdrowotnych",
+      "code": "O.6s.TUR.SI.OOTXZ",
+      "url": "https://www.studocu.com/pl/course/uniwersytet-rolniczy-w-krakowie-im-hugona-kollataja/technologie-uprawy-roslin-leczniczych-i-prozdrowotnych/6268011"
+    },
+    {
+      "name": "Teoria i praktyka gospodarki rynkowej",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/uniwersytet-rolniczy-w-krakowie-im-hugona-kollataja/teoria-i-praktyka-gospodarki-rynkowej/3642903"
+    },
+    {
+      "name": "Teoria mechanizmów",
+      "code": "TM UR1",
+      "url": "https://www.studocu.com/pl/course/uniwersytet-rolniczy-w-krakowie-im-hugona-kollataja/teoria-mechanizmow/7366189"
+    },
+    {
+      "name": "Uprawa roli i żywienie roślin",
+      "code": "O.3s.UPR.SI.OOGXY",
+      "url": "https://www.studocu.com/pl/course/uniwersytet-rolniczy-w-krakowie-im-hugona-kollataja/uprawa-roli-i-zywienie-roslin/4368668"
+    },
+    {
+      "name": "Urządzanie lasu",
+      "code": "Urz1",
+      "url": "https://www.studocu.com/pl/course/uniwersytet-rolniczy-w-krakowie-im-hugona-kollataja/urzadzanie-lasu/6822936"
+    },
+    {
+      "name": "Urządzanie trawników",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/uniwersytet-rolniczy-w-krakowie-im-hugona-kollataja/urzadzanie-trawnikow/3642957"
+    },
+    {
+      "name": "Utrwalanie i preparowanie roślin ozdobnych",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/uniwersytet-rolniczy-w-krakowie-im-hugona-kollataja/utrwalanie-i-preparowanie-roslin-ozdobnych/5871370"
+    },
+    {
+      "name": "utrwalanie, uszlachetnianie i logistyka surowców leczniczych",
+      "code": "O.5s.UUL.SI.OOTXZ",
+      "url": "https://www.studocu.com/pl/course/uniwersytet-rolniczy-w-krakowie-im-hugona-kollataja/utrwalanie-uszlachetnianie-i-logistyka-surowcow-leczniczych/6043394"
+    },
+    {
+      "name": "UŜytkowanie koni w agrotursytyce",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/uniwersytet-rolniczy-w-krakowie-im-hugona-kollataja/usytkowanie-koni-w-agrotursytyce/3642971"
+    },
+    {
+      "name": "Warzywnictwo",
+      "code": "O.3s.WAR.SI.OOGXY",
+      "url": "https://www.studocu.com/pl/course/uniwersytet-rolniczy-w-krakowie-im-hugona-kollataja/warzywnictwo/4368675"
+    },
+    {
+      "name": "Weterynaria",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/uniwersytet-rolniczy-w-krakowie-im-hugona-kollataja/weterynaria/6992913"
+    },
+    {
+      "name": "Wino i cywilizacja",
+      "code": "O.F2.WIN.SI.OOTXZ",
+      "url": "https://www.studocu.com/pl/course/uniwersytet-rolniczy-w-krakowie-im-hugona-kollataja/wino-i-cywilizacja/6033767"
+    },
+    {
+      "name": "winogrodnictwo",
+      "code": "O.F5.WIN.SI.OOTXZ",
+      "url": "https://www.studocu.com/pl/course/uniwersytet-rolniczy-w-krakowie-im-hugona-kollataja/winogrodnictwo/6033888"
+    },
+    {
+      "name": "Wprowadzenie do gosp. żywnościowej",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/uniwersytet-rolniczy-w-krakowie-im-hugona-kollataja/wprowadzenie-do-gosp-zywnosciowej/3642851"
+    },
+    {
+      "name": "Wpływ czynników antropogenicznych i jakości gleby na produkcję pierwotną",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/uniwersytet-rolniczy-w-krakowie-im-hugona-kollataja/wplyw-czynnikow-antropogenicznych-i-jakosci-gleby-na-produkcje-pierwotna/3642965"
+    },
+    {
+      "name": "Wybrane zagadnienia z zoologii z ekologią zwierząt",
+      "code": "O.4s.WZZ.SI.OOGAY",
+      "url": "https://www.studocu.com/pl/course/uniwersytet-rolniczy-w-krakowie-im-hugona-kollataja/wybrane-zagadnienia-z-zoologii-z-ekologia-zwierzat/4368702"
+    },
+    {
+      "name": "Wybrane zagadnienia z zoologii z ekologią zwierząt",
+      "code": "O.5s.WZZ.SI.OOGAY",
+      "url": "https://www.studocu.com/pl/course/uniwersytet-rolniczy-w-krakowie-im-hugona-kollataja/wybrane-zagadnienia-z-zoologii-z-ekologia-zwierzat/4369742"
+    },
+    {
+      "name": "Zachowania organizacyjne",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/uniwersytet-rolniczy-w-krakowie-im-hugona-kollataja/zachowania-organizacyjne/3642809"
+    },
+    {
+      "name": "Zagrożenia cywilizacyjne i zrównoważony rozwój",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/uniwersytet-rolniczy-w-krakowie-im-hugona-kollataja/zagrozenia-cywilizacyjne-i-zrownowazony-rozwoj/3642852"
+    },
+    {
+      "name": "Zarządzanie jakością",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/uniwersytet-rolniczy-w-krakowie-im-hugona-kollataja/zarzadzanie-jakoscia/3642823"
+    },
+    {
+      "name": "Zarządzanie marketingowe w agrobiznesie",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/uniwersytet-rolniczy-w-krakowie-im-hugona-kollataja/zarzadzanie-marketingowe-w-agrobiznesie/3642847"
+    },
+    {
+      "name": "Zarządzanie produkcją",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/uniwersytet-rolniczy-w-krakowie-im-hugona-kollataja/zarzadzanie-produkcja/3642862"
+    },
+    {
+      "name": "Zasady projektowania",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/uniwersytet-rolniczy-w-krakowie-im-hugona-kollataja/zasady-projektowania/6325732"
+    },
+    {
+      "name": "Zoogeografia",
+      "code": "H.RAZ.ZOG9.SI.HETOZ",
+      "url": "https://www.studocu.com/pl/course/uniwersytet-rolniczy-w-krakowie-im-hugona-kollataja/zoogeografia/6713280"
+    },
+    {
+      "name": "Zoologia",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/uniwersytet-rolniczy-w-krakowie-im-hugona-kollataja/zoologia/3642992"
+    },
+    {
+      "name": "Zoologia bezkręgowców",
+      "code": "H.1s.ZOB.SI.HETOZ",
+      "url": "https://www.studocu.com/pl/course/uniwersytet-rolniczy-w-krakowie-im-hugona-kollataja/zoologia-bezkregowcow/6713338"
+    },
+    {
+      "name": "Zoologia kręgowców",
+      "code": "H.2s.ZOK.SI.HETOZ",
+      "url": "https://www.studocu.com/pl/course/uniwersytet-rolniczy-w-krakowie-im-hugona-kollataja/zoologia-kregowcow/6713343"
+    },
+    {
+      "name": "Zootechnika",
+      "code": "11111",
+      "url": "https://www.studocu.com/pl/course/uniwersytet-rolniczy-w-krakowie-im-hugona-kollataja/zootechnika/5172980"
+    },
+    {
+      "name": "zróżnicowanie anatomiczne roślin jako adaptacje środowiskowe",
+      "code": "O.F3.ZAR.SI.OOTXZ",
+      "url": "https://www.studocu.com/pl/course/uniwersytet-rolniczy-w-krakowie-im-hugona-kollataja/zroznicowanie-anatomiczne-roslin-jako-adaptacje-srodowiskowe/6033848"
+    },
+    {
+      "name": "Żywienie Człowieka",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/uniwersytet-rolniczy-w-krakowie-im-hugona-kollataja/zywienie-czlowieka/6231613"
+    },
+    {
+      "name": "żywnośc funkcjonalna i suplementy diety",
+      "code": "O.3s.ZFD.SI.OOTXZ",
+      "url": "https://www.studocu.com/pl/course/uniwersytet-rolniczy-w-krakowie-im-hugona-kollataja/zywnosc-funkcjonalna-i-suplementy-diety/6033863"
+    }
+  ]
+}

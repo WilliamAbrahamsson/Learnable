@@ -1,0 +1,2686 @@
+{
+  "university_id": "8887",
+  "university_name": "Universidad de Huelva",
+  "courses": [
+    {
+      "name": "Abogacía y práctica forense",
+      "code": "808009318",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/abogacia-y-practica-forense/2109269"
+    },
+    {
+      "name": "Actividad Física y Salud",
+      "code": "202411210",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/actividad-fisica-y-salud/2108747"
+    },
+    {
+      "name": "Administración de Bases de Datos",
+      "code": "606010303",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/administracion-de-bases-de-datos/2108849"
+    },
+    {
+      "name": "Administración de Empresas y Organización de la Producción",
+      "code": "606210110",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/administracion-de-empresas-y-organizacion-de-la-produccion/2108922"
+    },
+    {
+      "name": "Administración de Servidores",
+      "code": "606010229",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/administracion-de-servidores/2108836"
+    },
+    {
+      "name": "Administración y Economía de Empresas",
+      "code": "606810110",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/administracion-y-economia-de-empresas/2109198"
+    },
+    {
+      "name": "Administración y Economía de la Empresa",
+      "code": "606010105",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/administracion-y-economia-de-la-empresa/2108802"
+    },
+    {
+      "name": "Administración y Gestión de Empresas",
+      "code": "1140301",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/administracion-y-gestion-de-empresas/2108586"
+    },
+    {
+      "name": "Administración y Gestión de Redes de Computadores",
+      "code": "606010228",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/administracion-y-gestion-de-redes-de-computadores/2108835"
+    },
+    {
+      "name": "Administración y Programación de Sistemas Operativos",
+      "code": "606010210",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/administracion-y-programacion-de-sistemas-operativos/2108817"
+    },
+    {
+      "name": "Alemán para el turismo II",
+      "code": "858710203",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/aleman-para-el-turismo-ii/2263520"
+    },
+    {
+      "name": "Alemán para el turismo III",
+      "code": "858710208",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/aleman-para-el-turismo-iii/2263518"
+    },
+    {
+      "name": "Algorítmica y Modelos de Computación",
+      "code": "606010211",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/algoritmica-y-modelos-de-computacion/2108818"
+    },
+    {
+      "name": "Alimentación, Dietética y Nutrición",
+      "code": "303009109",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/alimentacion-dietetica-y-nutricion/4510240"
+    },
+    {
+      "name": "Ampliación de Química Física",
+      "code": "Química",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/ampliacion-de-quimica-fisica/4976959"
+    },
+    {
+      "name": "Analisis de datos y Explotación de los resultados",
+      "code": "1150123",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/analisis-de-datos-y-explotacion-de-los-resultados/2108637"
+    },
+    {
+      "name": "Anatomía y fisiología aplicada al movimiento",
+      "code": "202411219",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/anatomia-y-fisiologia-aplicada-al-movimiento/2108754"
+    },
+    {
+      "name": "Animación, Recreación y Promoción de Actividades Físicas, Deportivas y Expresivas",
+      "code": "202411221",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/animacion-recreacion-y-promocion-de-actividades-fisicas-deportivas-y-expresivas/2108756"
+    },
+    {
+      "name": "Antropología y Patrimonio",
+      "code": "120099073",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/antropologia-y-patrimonio/2108719"
+    },
+    {
+      "name": "Análisis de Datos en Ciencias de Actividad Física y el Deporte",
+      "code": "202411108",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/analisis-de-datos-en-ciencias-de-actividad-fisica-y-el-deporte/2108735"
+    },
+    {
+      "name": "Análisis de datos en Psicología 1",
+      "code": "202310107",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/analisis-de-datos-en-psicologia-1/4498360"
+    },
+    {
+      "name": "Análisis de Parámetros de Calidad Ambiental",
+      "code": "606510317",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/analisis-de-parametros-de-calidad-ambiental/2109096"
+    },
+    {
+      "name": "Análisis del Discurso y Pragmática del Español",
+      "code": "580005039",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/analisis-del-discurso-y-pragmatica-del-espanol/2108774"
+    },
+    {
+      "name": "Análisis Económico y Financiero de la Actividad Forestal",
+      "code": "1150109",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/analisis-economico-y-financiero-de-la-actividad-forestal/2108623"
+    },
+    {
+      "name": "Análisis Hematológico",
+      "code": "Hematología Clínica",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/analisis-hematologico/5470707"
+    },
+    {
+      "name": "Aparato cardiorespiratorio",
+      "code": "-",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/aparato-cardiorespiratorio/4438511"
+    },
+    {
+      "name": "Aprendizaje Automático",
+      "code": "606010238",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/aprendizaje-automatico/2108845"
+    },
+    {
+      "name": "Arqueología",
+      "code": "110099033",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/arqueologia/2108672"
+    },
+    {
+      "name": "Arqueología Medieval y Moderna",
+      "code": "110099040",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/arqueologia-medieval-y-moderna/2108679"
+    },
+    {
+      "name": "Arquitectura de Computadores",
+      "code": "606010209",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/arquitectura-de-computadores/2108816"
+    },
+    {
+      "name": "Arte y Literatura: Iconografía e Iconología",
+      "code": "580005040",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/arte-y-literatura-iconografia-e-iconologia/2108775"
+    },
+    {
+      "name": "Atención a la Diversidad y Tutoría",
+      "code": "202110108",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/atencion-a-la-diversidad-y-tutoria/2255603"
+    },
+    {
+      "name": "Auditoría de RRHH",
+      "code": "RELACIONES LABORALES",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/auditoria-de-rrhh/6676285"
+    },
+    {
+      "name": "Auditoría, Calidad y Seguridad",
+      "code": "1140203",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/auditoria-calidad-y-seguridad/2108568"
+    },
+    {
+      "name": "Automatización e Instrumentación Industrial",
+      "code": "606310212",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/automatizacion-e-instrumentacion-industrial/2108980"
+    },
+    {
+      "name": "Bases Culturales de la Educación",
+      "code": "202210109",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/bases-culturales-de-la-educacion/4824582"
+    },
+    {
+      "name": "Bases de Datos",
+      "code": "606010202",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/bases-de-datos/2108809"
+    },
+    {
+      "name": "Bases Psicológicas de la Educación Especial",
+      "code": "202110105",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/bases-psicologicas-de-la-educacion-especial/2255605"
+    },
+    {
+      "name": "Bases Sociales y Económicas de la España Moderna",
+      "code": "110099048",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/bases-sociales-y-economicas-de-la-espana-moderna/2108687"
+    },
+    {
+      "name": "Biología",
+      "code": "606110104",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/biologia/2108866"
+    },
+    {
+      "name": "Biomecánica del movimiento humano",
+      "code": "202411106",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/biomecanica-del-movimiento-humano/2108733"
+    },
+    {
+      "name": "biomoleculas",
+      "code": "757509208",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/biomoleculas/4497427"
+    },
+    {
+      "name": "Biotecnología y Mejora Genética en el Ámbito Forestal",
+      "code": "1150106",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/biotecnologia-y-mejora-genetica-en-el-ambito-forestal/2108620"
+    },
+    {
+      "name": "Botánica Agrícola",
+      "code": "606110206",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/botanica-agricola/2108877"
+    },
+    {
+      "name": "Botánica Forestal. Dendrología",
+      "code": "606510202",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/botanica-forestal-dendrologia/2109059"
+    },
+    {
+      "name": "Calidad, Medición y Estimación de Productos y Procesos Software",
+      "code": "606010222",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/calidad-medicion-y-estimacion-de-productos-y-procesos-software/2108829"
+    },
+    {
+      "name": "Centrales Eléctricas",
+      "code": "606711218",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/centrales-electricas/2109172"
+    },
+    {
+      "name": "Centrales Eléctricas",
+      "code": "606310219",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/centrales-electricas/2108987"
+    },
+    {
+      "name": "Ciencia de los Materiales",
+      "code": "606410204",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/ciencia-de-los-materiales/2109017"
+    },
+    {
+      "name": "Ciencia y Tecnología del Medio Ambiente",
+      "code": "606110207",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/ciencia-y-tecnologia-del-medio-ambiente/2108878"
+    },
+    {
+      "name": "Ciencias del medio físico",
+      "code": "606510107",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/ciencias-del-medio-fisico/2109056"
+    },
+    {
+      "name": "Cloud Computing",
+      "code": "1140204",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/cloud-computing/2108569"
+    },
+    {
+      "name": "Complementos de Formación Disciplinar",
+      "code": "MAES2223",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/complementos-de-formacion-disciplinar/6434395"
+    },
+    {
+      "name": "Computadores Comerciales",
+      "code": "606010224",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/computadores-comerciales/2108831"
+    },
+    {
+      "name": "conceptos basicos de quimica organica",
+      "code": "757509204",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/conceptos-basicos-de-quimica-organica/4497430"
+    },
+    {
+      "name": "Constitucional I",
+      "code": null,
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/constitucional-i/1735245"
+    },
+    {
+      "name": "Construcciones Agrarias",
+      "code": "606110209",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/construcciones-agrarias/2108880"
+    },
+    {
+      "name": "Construcción de Pruebas Psicológicas",
+      "code": "202310309",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/construccion-de-pruebas-psicologicas/3179190"
+    },
+    {
+      "name": "Construcción y Arquitectura Industrial",
+      "code": "606410218",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/construccion-y-arquitectura-industrial/2109031"
+    },
+    {
+      "name": "Contabilidad",
+      "code": "858710217",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/contabilidad/2263510"
+    },
+    {
+      "name": "Contabilidad de Gestión",
+      "code": null,
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/contabilidad-de-gestion/3099715"
+    },
+    {
+      "name": "Contabilidad Fianciera II",
+      "code": null,
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/contabilidad-fianciera-ii/3099716"
+    },
+    {
+      "name": "Contratos Mercantiles",
+      "code": "808009320",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/contratos-mercantiles/2109270"
+    },
+    {
+      "name": "Contratos turísticos",
+      "code": "858710107",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/contratos-turisticos/2263507"
+    },
+    {
+      "name": "Control de la contaminación del medio natural",
+      "code": "1150122",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/control-de-la-contaminacion-del-medio-natural/2108636"
+    },
+    {
+      "name": "Cooperación Judicial Europea en Materia Civil y Mercantil",
+      "code": "808009307",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/cooperacion-judicial-europea-en-materia-civil-y-mercantil/2109261"
+    },
+    {
+      "name": "Corrientes y experiencias renovadoras en Educación Infantil",
+      "code": null,
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/corrientes-y-experiencias-renovadoras-en-educacion-infantil/3734423"
+    },
+    {
+      "name": "Creación de Empresas",
+      "code": "1140328",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/creacion-de-empresas/2108613"
+    },
+    {
+      "name": "Creación de Empresas Turísticas",
+      "code": "858710225",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/creacion-de-empresas-turisticas/2263516"
+    },
+    {
+      "name": "Creación y Gestión de Empresas de Turismo activo",
+      "code": "202411312",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/creacion-y-gestion-de-empresas-de-turismo-activo/2108768"
+    },
+    {
+      "name": "Criptografía",
+      "code": "1140219",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/criptografia/2108584"
+    },
+    {
+      "name": "cristalografía y mineralogía",
+      "code": "757509110",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/cristalografia-y-mineralogia/4496008"
+    },
+    {
+      "name": "Cuidados Básicos",
+      "code": "1011223344",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/cuidados-basicos/4473227"
+    },
+    {
+      "name": "Cultura y Civilización en América",
+      "code": "110099054",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/cultura-y-civilizacion-en-america/2108693"
+    },
+    {
+      "name": "Curso Monográfico de filología Española",
+      "code": "120007008",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/curso-monografico-de-filologia-espanola/2108705"
+    },
+    {
+      "name": "Curso Monográfico de Literatura Española e Hispanoamericana de los Siglos XVIII y XIX",
+      "code": "580005042",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/curso-monografico-de-literatura-espanola-e-hispanoamericana-de-los-siglos-xviii-y-xix/2108777"
+    },
+    {
+      "name": "Curso Monográfico de Literatura Española e Hispanoamericana del Siglo XX",
+      "code": "580005043",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/curso-monografico-de-literatura-espanola-e-hispanoamericana-del-siglo-xx/2108778"
+    },
+    {
+      "name": "Curso Superior de Literatura Comparada",
+      "code": "580005046",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/curso-superior-de-literatura-comparada/2108780"
+    },
+    {
+      "name": "Curso Superior de Teoría de la Literatura",
+      "code": "580005047",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/curso-superior-de-teoria-de-la-literatura/2108781"
+    },
+    {
+      "name": "Cálculo de Cimentaciones",
+      "code": "606810313",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/calculo-de-cimentaciones/2109237"
+    },
+    {
+      "name": "Cálculo y Diseño de Estructuras II",
+      "code": "606410303",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/calculo-y-diseno-de-estructuras-ii/2109039"
+    },
+    {
+      "name": "Deontología",
+      "code": "tema 1",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/deontologia/4533806"
+    },
+    {
+      "name": "Derecho administrati",
+      "code": "-",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/derecho-administrati/5212909"
+    },
+    {
+      "name": "Derecho Administrativo del Sector Turístico",
+      "code": "858710222",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/derecho-administrativo-del-sector-turistico/2263519"
+    },
+    {
+      "name": "Derecho Administrativo II",
+      "code": "808009208",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/derecho-administrativo-ii/4843556"
+    },
+    {
+      "name": "Derecho Canónico",
+      "code": "808009301",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/derecho-canonico/2109256"
+    },
+    {
+      "name": "Derecho Civil I",
+      "code": "808009107",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/derecho-civil-i/2109241"
+    },
+    {
+      "name": "Derecho Civil II",
+      "code": "808009205",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/derecho-civil-ii/2109246"
+    },
+    {
+      "name": "Derecho Civil III",
+      "code": "808009210",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/derecho-civil-iii/2109248"
+    },
+    {
+      "name": "Derecho Civil IV",
+      "code": "808009217",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/derecho-civil-iv/2109254"
+    },
+    {
+      "name": "Derecho Constitucional I",
+      "code": "808900105",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/derecho-constitucional-i/2109276"
+    },
+    {
+      "name": "Derecho Constitucional II",
+      "code": "808009202",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/derecho-constitucional-ii/2109243"
+    },
+    {
+      "name": "derecho del empleo",
+      "code": "515113214",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/derecho-del-empleo/6589640"
+    },
+    {
+      "name": "Derecho del Trabajo I",
+      "code": "808900206",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/derecho-del-trabajo-i/2109279"
+    },
+    {
+      "name": "Derecho del Trabajo II",
+      "code": "808009214",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/derecho-del-trabajo-ii/2109251"
+    },
+    {
+      "name": "Derecho Eclesiástico del Estado",
+      "code": "808009203",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/derecho-eclesiastico-del-estado/2109244"
+    },
+    {
+      "name": "Derecho Financiero I",
+      "code": "808009204",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/derecho-financiero-i/2109245"
+    },
+    {
+      "name": "Derecho Financiero II",
+      "code": "808009211",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/derecho-financiero-ii/2109249"
+    },
+    {
+      "name": "Derecho Internacional Privado",
+      "code": "808009216",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/derecho-internacional-privado/2109253"
+    },
+    {
+      "name": "Derecho Internacional Público",
+      "code": "808009209",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/derecho-internacional-publico/2109247"
+    },
+    {
+      "name": "Derecho Internacional. Derecho de la UE",
+      "code": "808009215",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/derecho-internacional-derecho-de-la-ue/2109252"
+    },
+    {
+      "name": "Derecho Mercantil",
+      "code": "858510102 / 85861010",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/derecho-mercantil/2258485"
+    },
+    {
+      "name": "Derecho Mercantil II",
+      "code": "808009218",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/derecho-mercantil-ii/2109255"
+    },
+    {
+      "name": "Derecho Penal 1",
+      "code": null,
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/derecho-penal-1/3394703"
+    },
+    {
+      "name": "Derecho Penal II",
+      "code": "808009207",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/derecho-penal-ii/4510244"
+    },
+    {
+      "name": "Derecho Procesal Civil y Penal",
+      "code": "808009212",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/derecho-procesal-civil-y-penal/2109250"
+    },
+    {
+      "name": "Derecho Publico",
+      "code": null,
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/derecho-publico/1734524"
+    },
+    {
+      "name": "Derecho Registral",
+      "code": "808009309",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/derecho-registral/2109263"
+    },
+    {
+      "name": "Derecho Romano",
+      "code": "808900103",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/derecho-romano/2109275"
+    },
+    {
+      "name": "Derecho tributario",
+      "code": "58510207 / 858610207",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/derecho-tributario/4413491"
+    },
+    {
+      "name": "Derecho Urbanístico y del medio ambiente",
+      "code": "808009304",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/derecho-urbanistico-y-del-medio-ambiente/2109258"
+    },
+    {
+      "name": "Derechos Fundamentales",
+      "code": "808009302",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/derechos-fundamentales/2109257"
+    },
+    {
+      "name": "Derechos Humanos, Valor, Género y Paz",
+      "code": null,
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/derechos-humanos-valor-genero-y-paz/3099705"
+    },
+    {
+      "name": "Derechos Humanos, Valores, Género y Paz",
+      "code": "808900101",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/derechos-humanos-valores-genero-y-paz/2109273"
+    },
+    {
+      "name": "Desafíos de la UE: Política Europea de Asilo",
+      "code": "808009306",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/desafios-de-la-ue-politica-europea-de-asilo/2109260"
+    },
+    {
+      "name": "Desarrollo de Aplicaciones para Dispositivos Móviles y de Consumo",
+      "code": "1140212",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/desarrollo-de-aplicaciones-para-dispositivos-moviles-y-de-consumo/2108577"
+    },
+    {
+      "name": "Desarrollo de Aplicaciones Web",
+      "code": "606010301",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/desarrollo-de-aplicaciones-web/2108847"
+    },
+    {
+      "name": "Desarrollo no Normativo y Aprendizaje",
+      "code": "202310217",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/desarrollo-no-normativo-y-aprendizaje/3179171"
+    },
+    {
+      "name": "Desarrollo Rural y Turismo",
+      "code": "120099083",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/desarrollo-rural-y-turismo/2108728"
+    },
+    {
+      "name": "Dibujo Artístico",
+      "code": null,
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/dibujo-artistico/2213874"
+    },
+    {
+      "name": "Didáctica de la Creación Plástica y Visual en Primaria",
+      "code": "202110204",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/didactica-de-la-creacion-plastica-y-visual-en-primaria/2213877"
+    },
+    {
+      "name": "Didáctica de la lengua extranjera (inglés)",
+      "code": "202010206",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/didactica-de-la-lengua-extranjera-ingles/7193938"
+    },
+    {
+      "name": "Didáctica de la lengua oral y escrita para la Educación Primaria",
+      "code": "202110212",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/didactica-de-la-lengua-oral-y-escrita-para-la-educacion-primaria/2255606"
+    },
+    {
+      "name": "Didáctica de las Ciencias Naturales I",
+      "code": "202110214",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/didactica-de-las-ciencias-naturales-i/2255639"
+    },
+    {
+      "name": "Didáctica de las Ciencias Sociales I",
+      "code": "202110215",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/didactica-de-las-ciencias-sociales-i/2255642"
+    },
+    {
+      "name": "Didáctica de las Matemáticas en la Educación Primaria",
+      "code": "202110211",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/didactica-de-las-matematicas-en-la-educacion-primaria/2255607"
+    },
+    {
+      "name": "Didáctica y Desarrollo Curricular",
+      "code": "202110107",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/didactica-y-desarrollo-curricular/2213887"
+    },
+    {
+      "name": "Didáctica, Currículum y Trabajo Cooperativo",
+      "code": null,
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/didactica-curriculum-y-trabajo-cooperativo/3099706"
+    },
+    {
+      "name": "Direccion de Recursos Humanos",
+      "code": "858710106",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/direccion-de-recursos-humanos/4387582"
+    },
+    {
+      "name": "Dirección y gestión de organizaciones socioeducativas",
+      "code": "202210214",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/direccion-y-gestion-de-organizaciones-socioeducativas/4373730"
+    },
+    {
+      "name": "Dirección y Gestión de Personas",
+      "code": "1140302",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/direccion-y-gestion-de-personas/2108587"
+    },
+    {
+      "name": "Dirección y Organización de Empresas",
+      "code": "1140119",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/direccion-y-organizacion-de-empresas/2108564"
+    },
+    {
+      "name": "Diseño de Interfaces de Usuario",
+      "code": "606010217",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/diseno-de-interfaces-de-usuario/2108824"
+    },
+    {
+      "name": "Diseño Electrónico",
+      "code": "606610208",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/diseno-electronico/2109116"
+    },
+    {
+      "name": "Diseño y desarrollo de programas de inclusión social",
+      "code": null,
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/diseno-y-desarrollo-de-programas-de-inclusion-social/3220055"
+    },
+    {
+      "name": "Diseño y Estructura de los Sistemas Operativos",
+      "code": "606010205",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/diseno-y-estructura-de-los-sistemas-operativos/2108812"
+    },
+    {
+      "name": "Diseño y Gestión de Centros de Datos",
+      "code": "1140209",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/diseno-y-gestion-de-centros-de-datos/2108574"
+    },
+    {
+      "name": "Ecología Forestal",
+      "code": "606510205",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/ecologia-forestal/2109062"
+    },
+    {
+      "name": "economia española",
+      "code": "Economía española",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/economia-espanola/3945856"
+    },
+    {
+      "name": "Economía Agraria",
+      "code": "606110222",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/economia-agraria/2108893"
+    },
+    {
+      "name": "Economía Aplicada al Trabajo Social",
+      "code": "404009107",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/economia-aplicada-al-trabajo-social/6754913"
+    },
+    {
+      "name": "Economía del trabajo",
+      "code": "012345",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/economia-del-trabajo/1740566"
+    },
+    {
+      "name": "Economía política y hacienda pública",
+      "code": "Economía 1",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/economia-politica-y-hacienda-publica/7415645"
+    },
+    {
+      "name": "Economía y Empresa",
+      "code": "606510108",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/economia-y-empresa/2109057"
+    },
+    {
+      "name": "Edafologia y Climatología",
+      "code": "606110108",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/edafologia-y-climatologia/2108870"
+    },
+    {
+      "name": "Educación física de base",
+      "code": "202411203",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/educacion-fisica-de-base/2108740"
+    },
+    {
+      "name": "Educación Física de Base",
+      "code": "202110306",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/educacion-fisica-de-base/2255609"
+    },
+    {
+      "name": "el comentario linguístico: metodología y análisis de texto",
+      "code": "109012234",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/el-comentario-linguistico-metodologia-y-analisis-de-texto/6572637"
+    },
+    {
+      "name": "El Legado Religioso en el Mundo clásico",
+      "code": "120099058",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/el-legado-religioso-en-el-mundo-clasico/2108713"
+    },
+    {
+      "name": "El Mundo Actual",
+      "code": "110099036",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/el-mundo-actual/2108675"
+    },
+    {
+      "name": "Electricidad",
+      "code": "ELEC",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/electricidad/7340431"
+    },
+    {
+      "name": "Electrificación Rural e Instalaciones de Energías Renovables",
+      "code": "606510315",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/electrificacion-rural-e-instalaciones-de-energias-renovables/2109094"
+    },
+    {
+      "name": "electromagnetismo y óptica",
+      "code": "757509109",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/electromagnetismo-y-optica/4496011"
+    },
+    {
+      "name": "Electrotecnia",
+      "code": "606210205",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/electrotecnia/2108927"
+    },
+    {
+      "name": "Electrónica Analógica",
+      "code": "606610204",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/electronica-analogica/2109112"
+    },
+    {
+      "name": "Electrónica Industrial",
+      "code": "606711202",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/electronica-industrial/2109156"
+    },
+    {
+      "name": "Electrónica Industrial",
+      "code": "606310202",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/electronica-industrial/2108970"
+    },
+    {
+      "name": "Elementos de Derecho Privado",
+      "code": "515113106",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/elementos-de-derecho-privado/4366500"
+    },
+    {
+      "name": "Energías Alternativas",
+      "code": "606810228",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/energias-alternativas/2109224"
+    },
+    {
+      "name": "Energías Renovables en el Medio Forestal y Natural",
+      "code": "1150103",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/energias-renovables-en-el-medio-forestal-y-natural/2108617"
+    },
+    {
+      "name": "Enfermedades y Plagas Forestales",
+      "code": "606510215",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/enfermedades-y-plagas-forestales/2109072"
+    },
+    {
+      "name": "Enfermeria de salud mental y relación de ayuda",
+      "code": "303009205",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/enfermeria-de-salud-mental-y-relacion-de-ayuda/4524269"
+    },
+    {
+      "name": "Enfermería de la persona adulta I",
+      "code": "303009207",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/enfermeria-de-la-persona-adulta-i/4511059"
+    },
+    {
+      "name": "Enfermería de la persona adulta III",
+      "code": "-",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/enfermeria-de-la-persona-adulta-iii/4438152"
+    },
+    {
+      "name": "Enfermería del envejecimiento",
+      "code": "30300921",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/enfermeria-del-envejecimiento/4510246"
+    },
+    {
+      "name": "enlace químico y estructura de la materia",
+      "code": "757509101",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/enlace-quimico-y-estructura-de-la-materia/4496141"
+    },
+    {
+      "name": "Enseñanza y aprendizaje de lenguas extranjeras",
+      "code": "001160507",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/ensenanza-y-aprendizaje-de-lenguas-extranjeras/5884431"
+    },
+    {
+      "name": "Enseñanza y Promoción de otros deportes",
+      "code": "202411301",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/ensenanza-y-promocion-de-otros-deportes/2108758"
+    },
+    {
+      "name": "Entrenamiento Deportivo",
+      "code": "202411216",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/entrenamiento-deportivo/2108751"
+    },
+    {
+      "name": "España Actual",
+      "code": "110099037",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/espana-actual/2108676"
+    },
+    {
+      "name": "Especialización Deportiva: Baloncesto y Balonmano",
+      "code": "202411306",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/especializacion-deportiva-baloncesto-y-balonmano/2108763"
+    },
+    {
+      "name": "Estado Federal, Comunidades Autónomas y UE",
+      "code": "808009312",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/estado-federal-comunidades-autonomas-y-ue/2109265"
+    },
+    {
+      "name": "Estadística",
+      "code": "858710102",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/estadistica/2263541"
+    },
+    {
+      "name": "Estadística e Informática",
+      "code": "606510103",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/estadistica-e-informatica/2109052"
+    },
+    {
+      "name": "Estructura de mercado turístico",
+      "code": "858710214",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/estructura-de-mercado-turistico/2263531"
+    },
+    {
+      "name": "Estructura y función del cuerpo humano I",
+      "code": "303009101",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/estructura-y-funcion-del-cuerpo-humano-i/4511056"
+    },
+    {
+      "name": "Estructura y función del cuerpo humano II",
+      "code": "303009102",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/estructura-y-funcion-del-cuerpo-humano-ii/4508046"
+    },
+    {
+      "name": "Estructuras de Datos I",
+      "code": "606010109",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/estructuras-de-datos-i/2108806"
+    },
+    {
+      "name": "Estructuras de Hormigón",
+      "code": "606410223",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/estructuras-de-hormigon/2109036"
+    },
+    {
+      "name": "EVALUACIÓN E INTERVENCIÓN EN LAS DIFICULTADES DEL DESARROLLO Y DEL APRENDIZAJE",
+      "code": "202310219",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/evaluacion-e-intervencion-en-las-dificultades-del-desarrollo-y-del-aprendizaje/3179156"
+    },
+    {
+      "name": "Evaluación en Psicología Clínica I",
+      "code": "202310212",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/evaluacion-en-psicologia-clinica-i/4502754"
+    },
+    {
+      "name": "Evaluación en Psicología Clínica II",
+      "code": "202310306",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/evaluacion-en-psicologia-clinica-ii/3179169"
+    },
+    {
+      "name": "Experimentación en Ingeniería Química II",
+      "code": "606210223",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/experimentacion-en-ingenieria-quimica-ii/2108945"
+    },
+    {
+      "name": "Experimentación en Química",
+      "code": "606210202",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/experimentacion-en-quimica/2108924"
+    },
+    {
+      "name": "Expresión Gráfica I",
+      "code": "606810102",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/expresion-grafica-i/2109191"
+    },
+    {
+      "name": "Expresión y comprensión",
+      "code": "INFANTIL",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/expresion-y-comprension/5837503"
+    },
+    {
+      "name": "Épocas y Textos",
+      "code": null,
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/epocas-y-textos/3099707"
+    },
+    {
+      "name": "Ética Fundamental y Aplicada",
+      "code": "120099079",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/etica-fundamental-y-aplicada/2108724"
+    },
+    {
+      "name": "Farmacologia general.",
+      "code": "-",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/farmacologia-general/4439329"
+    },
+    {
+      "name": "Farmacología y Procedimientos terapéuticos",
+      "code": "303009110",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/farmacologia-y-procedimientos-terapeuticos/4508047"
+    },
+    {
+      "name": "Filosofía",
+      "code": "120099068",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/filosofia/2108715"
+    },
+    {
+      "name": "Filosofía del Derecho",
+      "code": "808900106",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/filosofia-del-derecho/2109277"
+    },
+    {
+      "name": "Fiscalidad internacional",
+      "code": "808009315",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/fiscalidad-internacional/2109267"
+    },
+    {
+      "name": "Fisiologia animal",
+      "code": "Biología",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/fisiologia-animal/7122735"
+    },
+    {
+      "name": "Fisiología de la Nutrición Vegetal y Fertirrigación",
+      "code": "606110313",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/fisiologia-de-la-nutricion-vegetal-y-fertirrigacion/2108906"
+    },
+    {
+      "name": "Fisiología del Ejercicio Físico",
+      "code": "202411109",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/fisiologia-del-ejercicio-fisico/2108736"
+    },
+    {
+      "name": "Fisiología Vegetal",
+      "code": "606110202",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/fisiologia-vegetal/2108873"
+    },
+    {
+      "name": "Fisiopatología y soporte vital",
+      "code": "30300910",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/fisiopatologia-y-soporte-vital/4510243"
+    },
+    {
+      "name": "Fitotecnia",
+      "code": "606110201",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/fitotecnia/2108872"
+    },
+    {
+      "name": "Formación de la Cultura Jurídica Europea",
+      "code": "808900102",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/formacion-de-la-cultura-juridica-europea/2109274"
+    },
+    {
+      "name": "Fruticultura",
+      "code": "606110212",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/fruticultura/2108883"
+    },
+    {
+      "name": "Fuentes e Historiografía Medievales",
+      "code": "110099044",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/fuentes-e-historiografia-medievales/2108683"
+    },
+    {
+      "name": "Fundamentos de Administración",
+      "code": "1150219",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/fundamentos-de-administracion/3274423"
+    },
+    {
+      "name": "Fundamentos de Análisis de Algoritmos",
+      "code": "606010107",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/fundamentos-de-analisis-de-algoritmos/2108804"
+    },
+    {
+      "name": "Fundamentos de Computadores",
+      "code": "606010108",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/fundamentos-de-computadores/2108805"
+    },
+    {
+      "name": "Fundamentos de Derecho Procesal",
+      "code": "808900110",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/fundamentos-de-derecho-procesal/2109278"
+    },
+    {
+      "name": "Fundamentos de Informática",
+      "code": "606210103",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/fundamentos-de-informatica/2108915"
+    },
+    {
+      "name": "Fundamentos de Informática",
+      "code": "606711107",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/fundamentos-de-informatica/2109151"
+    },
+    {
+      "name": "Fundamentos de Informática",
+      "code": "606310107",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/fundamentos-de-informatica/2108965"
+    },
+    {
+      "name": "Fundamentos de Informática",
+      "code": "606410103",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/fundamentos-de-informatica/2109006"
+    },
+    {
+      "name": "Fundamentos de Ingeniería Electrónica",
+      "code": "606410205",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/fundamentos-de-ingenieria-electronica/2109018"
+    },
+    {
+      "name": "Fundamentos de Ingeniería Eléctrica",
+      "code": "606310201",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/fundamentos-de-ingenieria-electrica/2108969"
+    },
+    {
+      "name": "Fundamentos de Ingeniería Química",
+      "code": "1140310",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/fundamentos-de-ingenieria-quimica/2108595"
+    },
+    {
+      "name": "Fundamentos de los deportes e iniciación deportiva",
+      "code": "202411202",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/fundamentos-de-los-deportes-e-iniciacion-deportiva/2108739"
+    },
+    {
+      "name": "Fundamentos de Programación",
+      "code": "606010104",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/fundamentos-de-programacion/2108801"
+    },
+    {
+      "name": "Fundamentos de Psicobiología",
+      "code": "Psicología",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/fundamentos-de-psicobiologia/3477927"
+    },
+    {
+      "name": "Fundamentos de Química",
+      "code": "606110102",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/fundamentos-de-quimica/2108864"
+    },
+    {
+      "name": "Fundamentos de Química y Bioquímica",
+      "code": "606510102",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/fundamentos-de-quimica-y-bioquimica/2109051"
+    },
+    {
+      "name": "Fundamentos de Redes de Computadores",
+      "code": "606010203",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/fundamentos-de-redes-de-computadores/2108810"
+    },
+    {
+      "name": "Fundamentos de Teoría de Máquinas y Mecanismos",
+      "code": "606711213",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/fundamentos-de-teoria-de-maquinas-y-mecanismos/2109167"
+    },
+    {
+      "name": "Fundamentos Geológicos de la Ingeniería",
+      "code": "606810104",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/fundamentos-geologicos-de-la-ingenieria/2109193"
+    },
+    {
+      "name": "Fundamentos metodológicos en Psicología",
+      "code": "202310201",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/fundamentos-metodologicos-en-psicologia/4498356"
+    },
+    {
+      "name": "Fundamentos Pedagógicos de la Educación",
+      "code": "202110102",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/fundamentos-pedagogicos-de-la-educacion/2213890"
+    },
+    {
+      "name": "Física",
+      "code": "606510106",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/fisica/2109055"
+    },
+    {
+      "name": "Física",
+      "code": "606010102",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/fisica/2108799"
+    },
+    {
+      "name": "Física I",
+      "code": "606310102",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/fisica-i/2108960"
+    },
+    {
+      "name": "Física I",
+      "code": "606610102",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/fisica-i/2109100"
+    },
+    {
+      "name": "Física I",
+      "code": "606410102",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/fisica-i/2109005"
+    },
+    {
+      "name": "Física I",
+      "code": "606210102",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/fisica-i/2108914"
+    },
+    {
+      "name": "Física II",
+      "code": "606310106",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/fisica-ii/2108964"
+    },
+    {
+      "name": "Generación Distribuida",
+      "code": "606711220",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/generacion-distribuida/2109174"
+    },
+    {
+      "name": "Genética y mejora vegetal",
+      "code": "606110214",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/genetica-y-mejora-vegetal/2108885"
+    },
+    {
+      "name": "Geografía de Andalucía",
+      "code": "120099082",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/geografia-de-andalucia/2108727"
+    },
+    {
+      "name": "Geografía de los destinos turísticos",
+      "code": "858710109",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/geografia-de-los-destinos-turisticos/2263523"
+    },
+    {
+      "name": "Geografía de los paisajes culturales.",
+      "code": "67021106",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/geografia-de-los-paisajes-culturales/5196182"
+    },
+    {
+      "name": "Geografía de los recursos turísticos",
+      "code": "858710104",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/geografia-de-los-recursos-turisticos/2263504"
+    },
+    {
+      "name": "Geografía Económica y Política del Mundo Actual",
+      "code": "120099051",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/geografia-economica-y-politica-del-mundo-actual/2108707"
+    },
+    {
+      "name": "Geología",
+      "code": "606810108",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/geologia/2109196"
+    },
+    {
+      "name": "Gestion del conflicto",
+      "code": "2010",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/gestion-del-conflicto/5837060"
+    },
+    {
+      "name": "Gestión de I + D + i en Ingeniería Química",
+      "code": "1140120",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/gestion-de-i-d-i-en-ingenieria-quimica/2108565"
+    },
+    {
+      "name": "Gestión del Paisaje",
+      "code": "1150116",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/gestion-del-paisaje/2108630"
+    },
+    {
+      "name": "Gestión y organización de empresas",
+      "code": "606310108",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/gestion-y-organizacion-de-empresas/2108966"
+    },
+    {
+      "name": "Gestión y Organización de Empresas",
+      "code": "606410108",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/gestion-y-organizacion-de-empresas/2109011"
+    },
+    {
+      "name": "Gramática Española I",
+      "code": "580005060",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/gramatica-espanola-i/2108791"
+    },
+    {
+      "name": "Gramática Española II",
+      "code": "580005063",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/gramatica-espanola-ii/2108794"
+    },
+    {
+      "name": "Gramática Inglesa",
+      "code": "100099034",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/gramatica-inglesa/2108647"
+    },
+    {
+      "name": "Género y salud",
+      "code": "303009106",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/genero-y-salud/4510249"
+    },
+    {
+      "name": "hablas andaluzas y el español de américa",
+      "code": "109012320",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/hablas-andaluzas-y-el-espanol-de-america/6572620"
+    },
+    {
+      "name": "Hidrología y Restauración Hidrológico Forestal",
+      "code": "606510212",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/hidrologia-y-restauracion-hidrologico-forestal/2109069"
+    },
+    {
+      "name": "Higiene, Prevención de lesiones y primeros auxilios",
+      "code": "202411313",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/higiene-prevencion-de-lesiones-y-primeros-auxilios/2108769"
+    },
+    {
+      "name": "Historia Antigua I",
+      "code": "Antigua",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/historia-antigua-i/4371293"
+    },
+    {
+      "name": "Historia Antigua II",
+      "code": "Historia",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/historia-antigua-ii/4371292"
+    },
+    {
+      "name": "Historia Antigua Universal I",
+      "code": "101010202",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/historia-antigua-universal-i/4498434"
+    },
+    {
+      "name": "Historia Contemporánea",
+      "code": "67022092",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/historia-contemporanea/4744334"
+    },
+    {
+      "name": "Historia de América",
+      "code": "120099057",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/historia-de-america/2108712"
+    },
+    {
+      "name": "Historia de América",
+      "code": "110099034",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/historia-de-america/2108673"
+    },
+    {
+      "name": "Historia de América I",
+      "code": "101010214",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/historia-de-america-i/4498431"
+    },
+    {
+      "name": "Historia de Andalucía Contemporánea",
+      "code": "110099051",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/historia-de-andalucia-contemporanea/2108690"
+    },
+    {
+      "name": "Historia de la Cultura en el Mundo Moderno",
+      "code": "120099067",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/historia-de-la-cultura-en-el-mundo-moderno/2108714"
+    },
+    {
+      "name": "Historia de la Escritura Latina",
+      "code": "110099047",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/historia-de-la-escritura-latina/2108686"
+    },
+    {
+      "name": "historia de la filosofía",
+      "code": "filosofía",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/historia-de-la-filosofia/6788338"
+    },
+    {
+      "name": "Historia de la Integración Europea",
+      "code": "120099056",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/historia-de-la-integracion-europea/2108711"
+    },
+    {
+      "name": "Historia de la Lengua Española I",
+      "code": "580005064",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/historia-de-la-lengua-espanola-i/2108795"
+    },
+    {
+      "name": "Historia de la Lengua Española II",
+      "code": "580005065",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/historia-de-la-lengua-espanola-ii/2108796"
+    },
+    {
+      "name": "Historia de la Lengua Inglesa",
+      "code": "100099036",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/historia-de-la-lengua-inglesa/2108649"
+    },
+    {
+      "name": "Historia de la Mujer",
+      "code": "Historia",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/historia-de-la-mujer/7506519"
+    },
+    {
+      "name": "Historia de la Psicología",
+      "code": "-",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/historia-de-la-psicologia/4537188"
+    },
+    {
+      "name": "Historia del arte Antiguo y Medieval",
+      "code": "120099075",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/historia-del-arte-antiguo-y-medieval/2108720"
+    },
+    {
+      "name": "Historia del Arte Moderno y Contemporáneo",
+      "code": "120099076",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/historia-del-arte-moderno-y-contemporaneo/2108721"
+    },
+    {
+      "name": "Historia del arte y patrimonio",
+      "code": "858710209",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/historia-del-arte-y-patrimonio/2263526"
+    },
+    {
+      "name": "Historia del Cine",
+      "code": "67902019",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/historia-del-cine/4517517"
+    },
+    {
+      "name": "Historia del Documento",
+      "code": "110099046",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/historia-del-documento/2108685"
+    },
+    {
+      "name": "Historia e Instituciones de la Antigua Grecia",
+      "code": "110099041",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/historia-e-instituciones-de-la-antigua-grecia/2108680"
+    },
+    {
+      "name": "Historia e Instituciones de la Antigua Roma I",
+      "code": "110099042",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/historia-e-instituciones-de-la-antigua-roma-i/2108681"
+    },
+    {
+      "name": "Historia Económica",
+      "code": null,
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/historia-economica/1581329"
+    },
+    {
+      "name": "Historia Medieval de España",
+      "code": "101010216",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/historia-medieval-de-espana/6510091"
+    },
+    {
+      "name": "historia medieval universal I",
+      "code": "101010203",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/historia-medieval-universal-i/5156656"
+    },
+    {
+      "name": "Historia y Cultura de los Países de Habla Inglesa",
+      "code": "100099035",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/historia-y-cultura-de-los-paises-de-habla-inglesa/2108648"
+    },
+    {
+      "name": "Historia y Dialectología de la Lengua Española",
+      "code": "580005057",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/historia-y-dialectologia-de-la-lengua-espanola/2108788"
+    },
+    {
+      "name": "Humanismo y Cultura",
+      "code": "120099080",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/humanismo-y-cultura/2108725"
+    },
+    {
+      "name": "Impacto Ambiental",
+      "code": "606210313",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/impacto-ambiental/2108958"
+    },
+    {
+      "name": "Impacto Ambiental",
+      "code": "606410313",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/impacto-ambiental/2109049"
+    },
+    {
+      "name": "Impacto Ambiental",
+      "code": "606610313",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/impacto-ambiental/2109144"
+    },
+    {
+      "name": "Impacto Ambiental de Instalaciones Energéticas",
+      "code": "606711313",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/impacto-ambiental-de-instalaciones-energeticas/2109189"
+    },
+    {
+      "name": "Inclusión Educativa: estrategias didácticas y organizativas",
+      "code": "202110304",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/inclusion-educativa-estrategias-didacticas-y-organizativas/2255646"
+    },
+    {
+      "name": "Industrias de la Madera Maciza y los Tableros",
+      "code": "1150101",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/industrias-de-la-madera-maciza-y-los-tableros/2108615"
+    },
+    {
+      "name": "Informática Industrial II",
+      "code": "606610220",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/informatica-industrial-ii/2109128"
+    },
+    {
+      "name": "Ingeniería de los Alimentos",
+      "code": "606210308",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/ingenieria-de-los-alimentos/2108953"
+    },
+    {
+      "name": "Ingeniería del Transporte",
+      "code": "1140317",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/ingenieria-del-transporte/2108602"
+    },
+    {
+      "name": "Ingeniería Fluidomecánica",
+      "code": "606410207",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/ingenieria-fluidomecanica/2109020"
+    },
+    {
+      "name": "Ingeniería Geotécnica",
+      "code": "606810214",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/ingenieria-geotecnica/2109212"
+    },
+    {
+      "name": "Ingeniería Térmica",
+      "code": "606610216",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/ingenieria-termica/2109124"
+    },
+    {
+      "name": "Ingeniería Térmica",
+      "code": "606410217",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/ingenieria-termica/2109030"
+    },
+    {
+      "name": "Ingeniería Web",
+      "code": "1140211",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/ingenieria-web/2108576"
+    },
+    {
+      "name": "Inglés para el turismo",
+      "code": "858710202",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/ingles-para-el-turismo/2263539"
+    },
+    {
+      "name": "Inmunología",
+      "code": "16337",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/inmunologia/5471739"
+    },
+    {
+      "name": "Instalaciones Solares Fotovoltáicas",
+      "code": "606711210",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/instalaciones-solares-fotovoltaicas/2109164"
+    },
+    {
+      "name": "Instrumentación Electrónica II",
+      "code": "606610218",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/instrumentacion-electronica-ii/2109126"
+    },
+    {
+      "name": "Integración de la Información y Aplicaciones",
+      "code": "606010221",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/integracion-de-la-informacion-y-aplicaciones/2108828"
+    },
+    {
+      "name": "Inteligencia Artificial",
+      "code": "606010208",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/inteligencia-artificial/2108815"
+    },
+    {
+      "name": "Inteligencia Computacional Aplicada a la Ingeniería Energética",
+      "code": "606711303",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/inteligencia-computacional-aplicada-a-la-ingenieria-energetica/2109179"
+    },
+    {
+      "name": "Intervención Docente en la Enseñanza de la Educación Física",
+      "code": "202411213",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/intervencion-docente-en-la-ensenanza-de-la-educacion-fisica/2108749"
+    },
+    {
+      "name": "Intervención Familiar",
+      "code": "1111",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/intervencion-familiar/2313173"
+    },
+    {
+      "name": "Intervención psicoeducativa en niños con dificultades en psicomotricidad y en lengua escrita",
+      "code": "202110302",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/intervencion-psicoeducativa-en-ninos-con-dificultades-en-psicomotricidad-y-en-lengua-escrita/2255753"
+    },
+    {
+      "name": "Introducción a la Cultura Clásica",
+      "code": "120007005",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/introduccion-a-la-cultura-clasica/2108702"
+    },
+    {
+      "name": "Introducción a la Dirección Financiera",
+      "code": "858710206",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/introduccion-a-la-direccion-financiera/2263509"
+    },
+    {
+      "name": "Introducción a la enseñanza y el aprendizaje de la matemática en Educación Primaria",
+      "code": "202110207",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/introduccion-a-la-ensenanza-y-el-aprendizaje-de-la-matematica-en-educacion-primaria/4527994"
+    },
+    {
+      "name": "Introducción a la Historia del Arte",
+      "code": "120007007",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/introduccion-a-la-historia-del-arte/2108704"
+    },
+    {
+      "name": "Introducción al CC y Evidencia en cuidados",
+      "code": "303009203",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/introduccion-al-cc-y-evidencia-en-cuidados/5796539"
+    },
+    {
+      "name": "Introducción al Patrimonio Histórico Arqueológico",
+      "code": "120007006",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/introduccion-al-patrimonio-historico-arqueologico/2108703"
+    },
+    {
+      "name": "Introducción del Derecho Tributario del Sector Turístico",
+      "code": "858710210",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/introduccion-del-derecho-tributario-del-sector-turistico/2263522"
+    },
+    {
+      "name": "Investigación e Innovación educativa",
+      "code": "202110110",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/investigacion-e-innovacion-educativa/2255610"
+    },
+    {
+      "name": "Jardinería y Paisajismo",
+      "code": "606510219",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/jardineria-y-paisajismo/2109076"
+    },
+    {
+      "name": "Justicia Penal y Política Criminal",
+      "code": "808009313",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/justicia-penal-y-politica-criminal/2109266"
+    },
+    {
+      "name": "La Ciudad Mediterránea y su proyección Universal I",
+      "code": "120099084",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/la-ciudad-mediterranea-y-su-proyeccion-universal-i/2108729"
+    },
+    {
+      "name": "La Ciudad mediterránea y su Proyección Universal II",
+      "code": "120099085",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/la-ciudad-mediterranea-y-su-proyeccion-universal-ii/2108730"
+    },
+    {
+      "name": "La Gestión de los Tributos",
+      "code": "808009305",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/la-gestion-de-los-tributos/2109259"
+    },
+    {
+      "name": "Legislación y Tramitación de Proyectos Mineros",
+      "code": "606810209",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/legislacion-y-tramitacion-de-proyectos-mineros/2109207"
+    },
+    {
+      "name": "Lengua Española",
+      "code": "202110203",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/lengua-espanola/2213891"
+    },
+    {
+      "name": "Lengua Española III",
+      "code": "109012213",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/lengua-espanola-iii/4415820"
+    },
+    {
+      "name": "Lengua Extranjera II (Frances)",
+      "code": "202110321",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/lengua-extranjera-ii-frances/4502751"
+    },
+    {
+      "name": "Lengua Extranjera Moderna y su literatura (Inglés)",
+      "code": "120007002",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/lengua-extranjera-moderna-y-su-literatura-ingles/2108699"
+    },
+    {
+      "name": "Lexicografía",
+      "code": "580005050",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/lexicografia/2108783"
+    },
+    {
+      "name": "Lingüística Aplicada",
+      "code": "100099058",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/linguistica-aplicada/2108671"
+    },
+    {
+      "name": "Literatura en lengua Extranjera Moderna (Francés)",
+      "code": "120007003",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/literatura-en-lengua-extranjera-moderna-frances/2108700"
+    },
+    {
+      "name": "Literatura en lengua Extranjera Moderna (Inglés)",
+      "code": "120007004",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/literatura-en-lengua-extranjera-moderna-ingles/2108701"
+    },
+    {
+      "name": "Literatura española de los siglos XIX y XX",
+      "code": "101110215",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/literatura-espanola-de-los-siglos-xix-y-xx/6614337"
+    },
+    {
+      "name": "Literatura española del S.XVI",
+      "code": "101110211",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/literatura-espanola-del-sxvi/6620892"
+    },
+    {
+      "name": "Literatura Española III",
+      "code": "580005059",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/literatura-espanola-iii/2108790"
+    },
+    {
+      "name": "Literatura Española IV",
+      "code": "580005062",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/literatura-espanola-iv/2108793"
+    },
+    {
+      "name": "Literatura Hispanoamericana I",
+      "code": "580005061",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/literatura-hispanoamericana-i/2108792"
+    },
+    {
+      "name": "Literatura Inglesa",
+      "code": null,
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/literatura-inglesa/3099710"
+    },
+    {
+      "name": "Literatura Inglesa: Poesía",
+      "code": "100099056",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/literatura-inglesa-poesia/2108669"
+    },
+    {
+      "name": "Literatura Inglesa: Teatro",
+      "code": "100099037",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/literatura-inglesa-teatro/2108650"
+    },
+    {
+      "name": "Literatura Norteamericana I",
+      "code": "100099038",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/literatura-norteamericana-i/2108651"
+    },
+    {
+      "name": "Literatura Norteamericana II",
+      "code": "100099057",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/literatura-norteamericana-ii/2108670"
+    },
+    {
+      "name": "Literatura Universal",
+      "code": "Filología Hispánica",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/literatura-universal/6352552"
+    },
+    {
+      "name": "Literaturas hispánicas y anglófonas de Las Américas",
+      "code": "001160515",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/literaturas-hispanicas-y-anglofonas-de-las-americas/5361832"
+    },
+    {
+      "name": "Logística",
+      "code": "Logística comercial",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/logistica/5808133"
+    },
+    {
+      "name": "Mantenimiento Industrial",
+      "code": "606810310",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/mantenimiento-industrial/2109234"
+    },
+    {
+      "name": "Mantenimiento y Conservación de Zonas Verdes",
+      "code": "606110217",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/mantenimiento-y-conservacion-de-zonas-verdes/2108888"
+    },
+    {
+      "name": "Maquinaria Minera",
+      "code": "606810307",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/maquinaria-minera/2109231"
+    },
+    {
+      "name": "Marketing Forestal",
+      "code": "1150111",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/marketing-forestal/2108625"
+    },
+    {
+      "name": "Marketing I",
+      "code": "858510109‐858610109",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/marketing-i/2258486"
+    },
+    {
+      "name": "Marketing Operativo Para el Turismo",
+      "code": "858710213",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/marketing-operativo-para-el-turismo/2263524"
+    },
+    {
+      "name": "Matemáticas",
+      "code": "606510101",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/matematicas/2109050"
+    },
+    {
+      "name": "Matemáticas Financieras",
+      "code": "858510107 / 85861010",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/matematicas-financieras/2258487"
+    },
+    {
+      "name": "Matemáticas I",
+      "code": "606810101",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/matematicas-i/2109190"
+    },
+    {
+      "name": "Matemáticas I",
+      "code": "606010101",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/matematicas-i/2108798"
+    },
+    {
+      "name": "Matemáticas II",
+      "code": "606310105",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/matematicas-ii/2108963"
+    },
+    {
+      "name": "Matemáticas II",
+      "code": "606810105",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/matematicas-ii/1553570"
+    },
+    {
+      "name": "Matemáticas II",
+      "code": "606010106",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/matematicas-ii/2108803"
+    },
+    {
+      "name": "Matemáticas II",
+      "code": "606210106",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/matematicas-ii/2108918"
+    },
+    {
+      "name": "Matemáticas III",
+      "code": "606210109",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/matematicas-iii/2108921"
+    },
+    {
+      "name": "Matemáticas III",
+      "code": "606310109",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/matematicas-iii/2108967"
+    },
+    {
+      "name": "Matemáticas III",
+      "code": "606810202",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/matematicas-iii/2109200"
+    },
+    {
+      "name": "Matemáticas III",
+      "code": "606610109",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/matematicas-iii/2109107"
+    },
+    {
+      "name": "Matemáticas III",
+      "code": "606410109",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/matematicas-iii/2109012"
+    },
+    {
+      "name": "Matemáticas III",
+      "code": "606010110",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/matematicas-iii/2108807"
+    },
+    {
+      "name": "Materiales de Construcción y Teoría de Estructuras",
+      "code": "606510316",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/materiales-de-construccion-y-teoria-de-estructuras/2109095"
+    },
+    {
+      "name": "Materiales Poliméricos en la Ingeniería del Producto: Compuestos y Nanocompuestos",
+      "code": "1140110",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/materiales-polimericos-en-la-ingenieria-del-producto-compuestos-y-nanocompuestos/2108555"
+    },
+    {
+      "name": "Mecánica de Fluidos",
+      "code": "606310207",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/mecanica-de-fluidos/2108975"
+    },
+    {
+      "name": "Mecánica de Suelos y Rocas",
+      "code": "606810210",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/mecanica-de-suelos-y-rocas/2109208"
+    },
+    {
+      "name": "Mecánica Técnica",
+      "code": "606810311",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/mecanica-tecnica/2109235"
+    },
+    {
+      "name": "Mercados financieros I",
+      "code": "Administración",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/mercados-financieros-i/5367477"
+    },
+    {
+      "name": "Meteorología y Climatología",
+      "code": "24025",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/meteorologia-y-climatologia/7453743"
+    },
+    {
+      "name": "Metodología Arqueológica",
+      "code": "110099039",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/metodologia-arqueologica/2108678"
+    },
+    {
+      "name": "Metodología de la Programación",
+      "code": "606010201",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/metodologia-de-la-programacion/2108808"
+    },
+    {
+      "name": "Metodos de Prediccion Turistica",
+      "code": "56778799",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/metodos-de-prediccion-turistica/5819605"
+    },
+    {
+      "name": "Microbiologia",
+      "code": "-",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/microbiologia/4439247"
+    },
+    {
+      "name": "Microeconomía",
+      "code": "858710103",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/microeconomia/2263506"
+    },
+    {
+      "name": "moda de lujo",
+      "code": "2025",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/moda-de-lujo/7649892"
+    },
+    {
+      "name": "Modelado de Negocio",
+      "code": "606010302",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/modelado-de-negocio/2108848"
+    },
+    {
+      "name": "Motores y Maquinaria Agrícola",
+      "code": "606110205",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/motores-y-maquinaria-agricola/2108876"
+    },
+    {
+      "name": "Mundo Actual",
+      "code": "101010211",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/mundo-actual/4498436"
+    },
+    {
+      "name": "Máquinas Hidráulicas",
+      "code": "606410214",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/maquinas-hidraulicas/2109027"
+    },
+    {
+      "name": "Métodos Formales de la Ingeniería de Software",
+      "code": "606010219-T1",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/metodos-formales-de-la-ingenieria-de-software/4498413"
+    },
+    {
+      "name": "Métodos y Técnicas de Investigación Histórica I",
+      "code": "110099056",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/metodos-y-tecnicas-de-investigacion-historica-i/2108695"
+    },
+    {
+      "name": "Música en la escuela",
+      "code": "202110106",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/musica-en-la-escuela/2255612"
+    },
+    {
+      "name": "Nacionalismos y Estado en la España Contemporánea",
+      "code": "110099053",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/nacionalismos-y-estado-en-la-espana-contemporanea/2108692"
+    },
+    {
+      "name": "Necesidades educativas específicas del lenguaje oral y la cognición",
+      "code": "202110305",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/necesidades-educativas-especificas-del-lenguaje-oral-y-la-cognicion/2255613"
+    },
+    {
+      "name": "Neuroanatomía II",
+      "code": "-",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/neuroanatomia-ii/4642655"
+    },
+    {
+      "name": "Neuropsicología",
+      "code": "202310221",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/neuropsicologia/3179160"
+    },
+    {
+      "name": "Normas Apa",
+      "code": null,
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/normas-apa/7675320"
+    },
+    {
+      "name": "Nutrición y Actividad Física",
+      "code": "202411303",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/nutricion-y-actividad-fisica/2108760"
+    },
+    {
+      "name": "Obras e Instalaciones Hidráulicas",
+      "code": "606810226",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/obras-e-instalaciones-hidraulicas/2109222"
+    },
+    {
+      "name": "Operaciones Básicas con Sólidos",
+      "code": "606210214",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/operaciones-basicas-con-solidos/2108936"
+    },
+    {
+      "name": "Operaciones Básicas de Ingeniería Química I",
+      "code": "606210211",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/operaciones-basicas-de-ingenieria-quimica-i/2108933"
+    },
+    {
+      "name": "Optimización del desarrollo en el ciclo vital",
+      "code": "202210203",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/optimizacion-del-desarrollo-en-el-ciclo-vital/4373736"
+    },
+    {
+      "name": "Ordenación del territorio y turismo sostenible",
+      "code": "858710224",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/ordenacion-del-territorio-y-turismo-sostenible/2263536"
+    },
+    {
+      "name": "Ordenación y Planificación del Territorio",
+      "code": "606510222",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/ordenacion-y-planificacion-del-territorio/2109079"
+    },
+    {
+      "name": "Organización de Centros Educativos",
+      "code": "202110104",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/organizacion-de-centros-educativos/2224081"
+    },
+    {
+      "name": "Organización de empresas. Estrategia Internacional",
+      "code": "858710302",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/organizacion-de-empresas-estrategia-internacional/2263513"
+    },
+    {
+      "name": "Organización de empresas. Estrategia internacional I",
+      "code": "858710302",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/organizacion-de-empresas-estrategia-internacional-i/2263535"
+    },
+    {
+      "name": "Organización de empresas. Estrategia Internacional II",
+      "code": "858710307",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/organizacion-de-empresas-estrategia-internacional-ii/2263528"
+    },
+    {
+      "name": "Organización y Gestión de procesos",
+      "code": "858710218",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/organizacion-y-gestion-de-procesos/2263530"
+    },
+    {
+      "name": "Orientación y Prescripción de Actividad Física orientada a la Salud",
+      "code": "202411218",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/orientacion-y-prescripcion-de-actividad-fisica-orientada-a-la-salud/2108753"
+    },
+    {
+      "name": "Paleografía y Codicología",
+      "code": "580005053",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/paleografia-y-codicologia/2108785"
+    },
+    {
+      "name": "Paleografía y Diplomática, Epigrafía y Numismática",
+      "code": "110099035",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/paleografia-y-diplomatica-epigrafia-y-numismatica/2108674"
+    },
+    {
+      "name": "Patologia general",
+      "code": "-",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/patologia-general/4439242"
+    },
+    {
+      "name": "Patrimonio Cultural y Etnológico",
+      "code": "858710212",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/patrimonio-cultural-y-etnologico/2263529"
+    },
+    {
+      "name": "Patrimonio Documental y Bibliográfico",
+      "code": "120099053",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/patrimonio-documental-y-bibliografico/2108708"
+    },
+    {
+      "name": "Pedagogía en la educación física y el deporte",
+      "code": "202411103",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/pedagogia-en-la-educacion-fisica-y-el-deporte/2108731"
+    },
+    {
+      "name": "Pedagogía Social",
+      "code": "202210102",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/pedagogia-social/4502750"
+    },
+    {
+      "name": "Planificación y dirección estratégica",
+      "code": "858710108",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/planificacion-y-direccion-estrategica/2263511"
+    },
+    {
+      "name": "Pluralismo cultural",
+      "code": "Educación social",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/pluralismo-cultural/6912071"
+    },
+    {
+      "name": "Política Económica del sector turístico",
+      "code": "858710223",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/politica-economica-del-sector-turistico/2263534"
+    },
+    {
+      "name": "Política Social y del Estado del Bienestar",
+      "code": "202210108",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/politica-social-y-del-estado-del-bienestar/4824577"
+    },
+    {
+      "name": "Políticas Forestales y Sociología",
+      "code": "1150110",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/politicas-forestales-y-sociologia/2108624"
+    },
+    {
+      "name": "Prehistoria Universal",
+      "code": "120099077",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/prehistoria-universal/2108722"
+    },
+    {
+      "name": "Prevención de Riesgos Laborales",
+      "code": "606410309",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/prevencion-de-riesgos-laborales/2109045"
+    },
+    {
+      "name": "Prevención de Riesgos Laborales",
+      "code": "606310309",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/prevencion-de-riesgos-laborales/2108999"
+    },
+    {
+      "name": "Prevención de Riesgos Laborales",
+      "code": "606210312",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/prevencion-de-riesgos-laborales/2108957"
+    },
+    {
+      "name": "Prevención de Riesgos Laborales",
+      "code": "606610309",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/prevencion-de-riesgos-laborales/2109140"
+    },
+    {
+      "name": "Principios Básicos de los Procesos Químicos",
+      "code": "606610311",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/principios-basicos-de-los-procesos-quimicos/2109142"
+    },
+    {
+      "name": "Principios y Fundamentos de la Ingeniería del Software",
+      "code": "606010207",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/principios-y-fundamentos-de-la-ingenieria-del-software/2108814"
+    },
+    {
+      "name": "Procesadores de Lenguajes",
+      "code": "606010235",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/procesadores-de-lenguajes/2108842"
+    },
+    {
+      "name": "Procesamiento del Habla, Visión e Interacción Multimodal",
+      "code": "606010308-T1",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/procesamiento-del-habla-vision-e-interaccion-multimodal/4701113"
+    },
+    {
+      "name": "Producción Integrada y Ecológica",
+      "code": "606110314",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/produccion-integrada-y-ecologica/2108907"
+    },
+    {
+      "name": "Programación de Juegos",
+      "code": "606010306",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/programacion-de-juegos/2108852"
+    },
+    {
+      "name": "Prospección y Gestión de Recursos Energéticos",
+      "code": "606711301",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/prospeccion-y-gestion-de-recursos-energeticos/2109177"
+    },
+    {
+      "name": "Proyectos",
+      "code": "606110218",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/proyectos/2108889"
+    },
+    {
+      "name": "Prácticas",
+      "code": "808009401",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/practicas/2109272"
+    },
+    {
+      "name": "Prácticas de empresas o centro de investigación II",
+      "code": "2150102",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/practicas-de-empresas-o-centro-de-investigacion-ii/2108646"
+    },
+    {
+      "name": "Prácticum II",
+      "code": "202411402",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/practicum-ii/2108772"
+    },
+    {
+      "name": "Psicofarmacología I",
+      "code": "-",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/psicofarmacologia-i/4642660"
+    },
+    {
+      "name": "Psicogerontología",
+      "code": null,
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/psicogerontologia/6526172"
+    },
+    {
+      "name": "Psicolingüística",
+      "code": "202310220",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/psicolinguistica/3179155"
+    },
+    {
+      "name": "Psicologia de la Personalidad",
+      "code": null,
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/psicologia-de-la-personalidad/2056750"
+    },
+    {
+      "name": "Psicología",
+      "code": "120099069",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/psicologia/2108716"
+    },
+    {
+      "name": "Psicología Clínica de la Salud",
+      "code": "202310222",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/psicologia-clinica-de-la-salud/3179159"
+    },
+    {
+      "name": "Psicología de La atención, la percepción y la memoria",
+      "code": "202310106",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/psicologia-de-la-atencion-la-percepcion-y-la-memoria/4492083"
+    },
+    {
+      "name": "Psicología de la Educación",
+      "code": "202110103",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/psicologia-de-la-educacion/2224082"
+    },
+    {
+      "name": "Psicología de la intervención Social y Comunitaria",
+      "code": "202310205",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/psicologia-de-la-intervencion-social-y-comunitaria/4498359"
+    },
+    {
+      "name": "Psicología de la motivación y emoción",
+      "code": "202310202",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/psicologia-de-la-motivacion-y-emocion/4491622"
+    },
+    {
+      "name": "Psicología de la Personalidad",
+      "code": "202310206",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/psicologia-de-la-personalidad/4498390"
+    },
+    {
+      "name": "Psicología de las Diferencias humanas",
+      "code": "120099044",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/psicologia-de-las-diferencias-humanas/2108706"
+    },
+    {
+      "name": "Psicología de los Grupos",
+      "code": "202310215",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/psicologia-de-los-grupos/4498396"
+    },
+    {
+      "name": "Psicología del aprendizaje y del condicionamiento",
+      "code": "202310108",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/psicologia-del-aprendizaje-y-del-condicionamiento/4498393"
+    },
+    {
+      "name": "Psicología del Desarrollo",
+      "code": "202110101",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/psicologia-del-desarrollo/2255600"
+    },
+    {
+      "name": "Psicología del Desarrollo 0-6 Años",
+      "code": null,
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/psicologia-del-desarrollo-0-6-anos/3099714"
+    },
+    {
+      "name": "Psicología del desarrollo en la infancia y en la adolescencia",
+      "code": "202310105",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/psicologia-del-desarrollo-en-la-infancia-y-en-la-adolescencia/4492088"
+    },
+    {
+      "name": "Psicología del Pensamiento",
+      "code": "202310214",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/psicologia-del-pensamiento/3179164"
+    },
+    {
+      "name": "Psicología del Trabajo y de las Organizaciones",
+      "code": "202310211",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/psicologia-del-trabajo-y-de-las-organizaciones/4498394"
+    },
+    {
+      "name": "Psicología Fisiológica",
+      "code": "202310110",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/psicologia-fisiologica/4498391"
+    },
+    {
+      "name": "Psicología social I",
+      "code": "202310101",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/psicologia-social-i/6684796"
+    },
+    {
+      "name": "Psicología Social II",
+      "code": "202310203",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/psicologia-social-ii/4492092"
+    },
+    {
+      "name": "Psicometría",
+      "code": "202310218",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/psicometria/3179162"
+    },
+    {
+      "name": "Psicopatología del Adulto",
+      "code": "202310304",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/psicopatologia-del-adulto/3179192"
+    },
+    {
+      "name": "Psicopatología infantil en el aula",
+      "code": "202110303",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/psicopatologia-infantil-en-el-aula/2255757"
+    },
+    {
+      "name": "Publicidad y promoción de actividades turísticas",
+      "code": "858710319",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/publicidad-y-promocion-de-actividades-turisticas/2263540"
+    },
+    {
+      "name": "quimica organica",
+      "code": "757509206",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/quimica-organica/4497425"
+    },
+    {
+      "name": "Química",
+      "code": "606610103",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/quimica/2109101"
+    },
+    {
+      "name": "Química",
+      "code": "606810201",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/quimica/2109199"
+    },
+    {
+      "name": "Química",
+      "code": "606711104",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/quimica/2109148"
+    },
+    {
+      "name": "Química",
+      "code": "606310104",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/quimica/2108962"
+    },
+    {
+      "name": "Química",
+      "code": "606410104",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/quimica/2109007"
+    },
+    {
+      "name": "Química Analítica y Bioquímica",
+      "code": "606110107",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/quimica-analitica-y-bioquimica/2108869"
+    },
+    {
+      "name": "Química Física",
+      "code": "480004023",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/quimica-fisica/6680182"
+    },
+    {
+      "name": "Química Industrial",
+      "code": "606210220",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/quimica-industrial/2108942"
+    },
+    {
+      "name": "Química Inorgánica Descriptiva",
+      "code": "Inorgánica",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/quimica-inorganica-descriptiva/4976947"
+    },
+    {
+      "name": "Reactores Químicos I",
+      "code": "606210212",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/reactores-quimicos-i/2108934"
+    },
+    {
+      "name": "Rebeldías y Revoluciones en la Edad Moderna",
+      "code": "110099049",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/rebeldias-y-revoluciones-en-la-edad-moderna/2108688"
+    },
+    {
+      "name": "Recursos Humanos y Prevención de Riesgos Laborales",
+      "code": "1150112",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/recursos-humanos-y-prevencion-de-riesgos-laborales/2108626"
+    },
+    {
+      "name": "Redes Avanzadas",
+      "code": "606010311",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/redes-avanzadas/2108857"
+    },
+    {
+      "name": "Redes de Datos",
+      "code": "606610301",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/redes-de-datos/2109132"
+    },
+    {
+      "name": "Redes Inalámbricas",
+      "code": "1140218",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/redes-inalambricas/2108583"
+    },
+    {
+      "name": "Refuerzo Pedagógico a la Diversidad del alumnado",
+      "code": "202110305",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/refuerzo-pedagogico-a-la-diversidad-del-alumnado/4490542"
+    },
+    {
+      "name": "Regulación Automática",
+      "code": "606310217",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/regulacion-automatica/2108985"
+    },
+    {
+      "name": "Regulación Automática",
+      "code": "606610212",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/regulacion-automatica/2109120"
+    },
+    {
+      "name": "Representación del Conocimiento",
+      "code": "606010236",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/representacion-del-conocimiento/2108843"
+    },
+    {
+      "name": "Resistencia de Materiales",
+      "code": "606210207",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/resistencia-de-materiales/2108929"
+    },
+    {
+      "name": "Resistencia de Materiales",
+      "code": "606410216",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/resistencia-de-materiales/2109029"
+    },
+    {
+      "name": "Resistencia de Materiales",
+      "code": "606310208",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/resistencia-de-materiales/2108976"
+    },
+    {
+      "name": "Retos del Derecho Internacional: Derechos Humanos",
+      "code": "808009316",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/retos-del-derecho-internacional-derechos-humanos/2109268"
+    },
+    {
+      "name": "Riesgo, Protección e Intervención en el Desarrollo",
+      "code": "202310213",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/riesgo-proteccion-e-intervencion-en-el-desarrollo/3179167"
+    },
+    {
+      "name": "Robótica y Automatización Industrial I",
+      "code": "606610214",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/robotica-y-automatizacion-industrial-i/2109122"
+    },
+    {
+      "name": "Seguridad de las Instalaciones Industriales",
+      "code": "606210215",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/seguridad-de-las-instalaciones-industriales/2108937"
+    },
+    {
+      "name": "Seguridad de Sistemas Informáticos",
+      "code": "606010231",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/seguridad-de-sistemas-informaticos/2108838"
+    },
+    {
+      "name": "Seguridad y Salud en el Trabajo",
+      "code": "SST",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/seguridad-y-salud-en-el-trabajo/3494553"
+    },
+    {
+      "name": "Seminario 1 Organización de empresas",
+      "code": "858710302",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/seminario-1-organizacion-de-empresas/4387549"
+    },
+    {
+      "name": "Servicios Sociales Comunitarios",
+      "code": "404009203",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/servicios-sociales-comunitarios/5160879"
+    },
+    {
+      "name": "servicios sociales especializados",
+      "code": "404009206",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/servicios-sociales-especializados/5827996"
+    },
+    {
+      "name": "Sexualidad y salud",
+      "code": "303009107",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/sexualidad-y-salud/4524271"
+    },
+    {
+      "name": "Siglo XIX: La mirada al pasado y la modernidad.",
+      "code": "67022100",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/siglo-xix-la-mirada-al-pasado-y-la-modernidad/5196185"
+    },
+    {
+      "name": "Simulación Dinámica de Fluidos",
+      "code": "1140118",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/simulacion-dinamica-de-fluidos/2108563"
+    },
+    {
+      "name": "Simulación, Optimización y Control de Procesos Químicos",
+      "code": "1140104",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/simulacion-optimizacion-y-control-de-procesos-quimicos/2108549"
+    },
+    {
+      "name": "Sintaxis Inglesa",
+      "code": "100099040",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/sintaxis-inglesa/2108653"
+    },
+    {
+      "name": "Sistema inmunitario",
+      "code": "-",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/sistema-inmunitario/4438519"
+    },
+    {
+      "name": "Sistemas de Certificación de la Calidad en la Agricultura",
+      "code": "606110311",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/sistemas-de-certificacion-de-la-calidad-en-la-agricultura/2108904"
+    },
+    {
+      "name": "Sistemas de Control Industrial",
+      "code": "606610209",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/sistemas-de-control-industrial/2109117"
+    },
+    {
+      "name": "Sistemas de Información Geográfica y Teledetección",
+      "code": "606510211",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/sistemas-de-informacion-geografica-y-teledeteccion/2109068"
+    },
+    {
+      "name": "Sistemas de Medida y Regulacion",
+      "code": "ROBOTICA INDUSTRIAL",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/sistemas-de-medida-y-regulacion/7254720"
+    },
+    {
+      "name": "Sistemas de Producción y Fabricación en la Industria Mecánica",
+      "code": "606410208",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/sistemas-de-produccion-y-fabricacion-en-la-industria-mecanica/2109021"
+    },
+    {
+      "name": "Sistemas Digitales I",
+      "code": "606610203",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/sistemas-digitales-i/2109111"
+    },
+    {
+      "name": "Sistemas Digitales II",
+      "code": "606610207",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/sistemas-digitales-ii/2109115"
+    },
+    {
+      "name": "Sistemas Distribuidos",
+      "code": "606010220",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/sistemas-distribuidos/2108827"
+    },
+    {
+      "name": "Sistemas en Tiempo Real",
+      "code": "606010230",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/sistemas-en-tiempo-real/2108837"
+    },
+    {
+      "name": "Sistemas Jurídicos Contemporáneos",
+      "code": "808009201",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/sistemas-juridicos-contemporaneos/2109242"
+    },
+    {
+      "name": "SISTEMAS JURÍDICOS DE DERECHO PRIVADO",
+      "code": "808009322",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/sistemas-juridicos-de-derecho-privado/2109271"
+    },
+    {
+      "name": "Sistemas Robóticos y Automáticos",
+      "code": "1140319",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/sistemas-roboticos-y-automaticos/2108604"
+    },
+    {
+      "name": "Sociedad, Cultura y Mentalidades en la Edad Media",
+      "code": "120099081",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/sociedad-cultura-y-mentalidades-en-la-edad-media/2108726"
+    },
+    {
+      "name": "Sociologia del Trabajo",
+      "code": "Sociologia",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/sociologia-del-trabajo/6742186"
+    },
+    {
+      "name": "Sociología de la actividad física y el deporte",
+      "code": "202411104",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/sociologia-de-la-actividad-fisica-y-el-deporte/2108732"
+    },
+    {
+      "name": "Sociología de la Educación",
+      "code": null,
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/sociologia-de-la-educacion/3099711"
+    },
+    {
+      "name": "Sociología de la Familia y la Escuela",
+      "code": "202010103",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/sociologia-de-la-familia-y-la-escuela/2255615"
+    },
+    {
+      "name": "Soldaduras",
+      "code": "606410220",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/soldaduras/2109033"
+    },
+    {
+      "name": "Subestaciones y Centros de Transformación",
+      "code": "606310221",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/subestaciones-y-centros-de-transformacion/2108989"
+    },
+    {
+      "name": "Tec. de la Propagación de Especies Hortícolas, Frutales y Ornamentales",
+      "code": "606110303",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/tec-de-la-propagacion-de-especies-horticolas-frutales-y-ornamentales/2108900"
+    },
+    {
+      "name": "Tecnicas de gestion de los recursos humanos",
+      "code": null,
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/tecnicas-de-gestion-de-los-recursos-humanos/3238851"
+    },
+    {
+      "name": "Tecnología de Computadores",
+      "code": "606010103",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/tecnologia-de-computadores/2108800"
+    },
+    {
+      "name": "Tecnología Eléctrica",
+      "code": "606810204",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/tecnologia-electrica/2109202"
+    },
+    {
+      "name": "Tecnología Eléctrica",
+      "code": "1140306",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/tecnologia-electrica/2108591"
+    },
+    {
+      "name": "Tecnología Energética",
+      "code": "1140307",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/tecnologia-energetica/2108592"
+    },
+    {
+      "name": "Tecnología Mecánica II",
+      "code": "606410215",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/tecnologia-mecanica-ii/2109028"
+    },
+    {
+      "name": "Tecnología Nuclear",
+      "code": "606810223",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/tecnologia-nuclear/2109220"
+    },
+    {
+      "name": "Tecnologías de la información y la comunicación aplicadas a la educación primaria",
+      "code": "202110210",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/tecnologias-de-la-informacion-y-la-comunicacion-aplicadas-a-la-educacion-primaria/2255616"
+    },
+    {
+      "name": "Tecnologías de Lubricantes",
+      "code": "1140108",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/tecnologias-de-lubricantes/2108553"
+    },
+    {
+      "name": "Teoría de Circuitos",
+      "code": "606310205",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/teoria-de-circuitos/2108973"
+    },
+    {
+      "name": "Teoría de Estructuras",
+      "code": "1140320",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/teoria-de-estructuras/2108605"
+    },
+    {
+      "name": "Teoría de la literatura I",
+      "code": "101110204",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/teoria-de-la-literatura-i/6614341"
+    },
+    {
+      "name": "Termodinámica",
+      "code": "606210203",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/termodinamica/2108925"
+    },
+    {
+      "name": "Termotecnia",
+      "code": "606310203",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/termotecnia/2108971"
+    },
+    {
+      "name": "Trabajo Fin de Grado",
+      "code": "202411901",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/trabajo-fin-de-grado/2108773"
+    },
+    {
+      "name": "Tradición Clásica",
+      "code": "580005056",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/tradicion-clasica/2108787"
+    },
+    {
+      "name": "Transmisión de Calor",
+      "code": "606210208",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/transmision-de-calor/2108930"
+    },
+    {
+      "name": "Trastornos de la Salud en la Infancia",
+      "code": null,
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/trastornos-de-la-salud-en-la-infancia/3099712"
+    },
+    {
+      "name": "Tratamiento de Agua",
+      "code": "606210302",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/tratamiento-de-agua/2108947"
+    },
+    {
+      "name": "Tratamientos de Residuos Industriales",
+      "code": "606210219",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/tratamientos-de-residuos-industriales/2108941"
+    },
+    {
+      "name": "Técnica Procesal",
+      "code": "808009308",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/tecnica-procesal/2109262"
+    },
+    {
+      "name": "Técnicas de Caracterización de Materiales",
+      "code": "1140116",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/tecnicas-de-caracterizacion-de-materiales/2108561"
+    },
+    {
+      "name": "Técnicas de Intervención en Psicología Clínica I",
+      "code": "202310216",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/tecnicas-de-intervencion-en-psicologia-clinica-i/3179191"
+    },
+    {
+      "name": "Técnicas de Intervención en Psicología Clínica II",
+      "code": "2020",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/tecnicas-de-intervencion-en-psicologia-clinica-ii/4498401"
+    },
+    {
+      "name": "Técnicas Numéricas para la Computación",
+      "code": "606010316",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/tecnicas-numericas-para-la-computacion/2108862"
+    },
+    {
+      "name": "Zoología y fauna forestal",
+      "code": "606510201",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/zoologia-y-fauna-forestal/2109058"
+    },
+    {
+      "name": "Últimas Tendencias en la Literatura en Lengua Inglesa II",
+      "code": "100099054",
+      "url": "https://www.studocu.com/es/course/universidad-de-huelva/ultimas-tendencias-en-la-literatura-en-lengua-inglesa-ii/2108667"
+    }
+  ]
+}

@@ -1,0 +1,926 @@
+{
+  "university_id": "854",
+  "university_name": "Universidad Católica de Santiago del Estero",
+  "courses": [
+    {
+      "name": "Accidentologia",
+      "code": null,
+      "url": "https://www.studocu.com/es-ar/course/universidad-catolica-de-santiago-del-estero/accidentologia/7557778"
+    },
+    {
+      "name": "Actualizacion Academica en Ludoteca Escolar",
+      "code": null,
+      "url": "https://www.studocu.com/es-ar/course/universidad-catolica-de-santiago-del-estero/actualizacion-academica-en-ludoteca-escolar/7670831"
+    },
+    {
+      "name": "Alfabetización Académica",
+      "code": null,
+      "url": "https://www.studocu.com/es-ar/course/universidad-catolica-de-santiago-del-estero/alfabetizacion-academica/6954092"
+    },
+    {
+      "name": "Analisis grupal",
+      "code": null,
+      "url": "https://www.studocu.com/es-ar/course/universidad-catolica-de-santiago-del-estero/analisis-grupal/5700849"
+    },
+    {
+      "name": "Analisis matematica",
+      "code": "4409",
+      "url": "https://www.studocu.com/es-ar/course/universidad-catolica-de-santiago-del-estero/analisis-matematica/5333527"
+    },
+    {
+      "name": "anatomia humana",
+      "code": "anatomia humana",
+      "url": "https://www.studocu.com/es-ar/course/universidad-catolica-de-santiago-del-estero/anatomia-humana/4375694"
+    },
+    {
+      "name": "Antropologia sociohistorica",
+      "code": "Antropologia",
+      "url": "https://www.studocu.com/es-ar/course/universidad-catolica-de-santiago-del-estero/antropologia-sociohistorica/7622146"
+    },
+    {
+      "name": "Análisis de riesgo",
+      "code": "riesgo",
+      "url": "https://www.studocu.com/es-ar/course/universidad-catolica-de-santiago-del-estero/analisis-de-riesgo/6640814"
+    },
+    {
+      "name": "Análisis Documental",
+      "code": null,
+      "url": "https://www.studocu.com/es-ar/course/universidad-catolica-de-santiago-del-estero/analisis-documental/6885054"
+    },
+    {
+      "name": "Aprender siglo 21",
+      "code": null,
+      "url": "https://www.studocu.com/es-ar/course/universidad-catolica-de-santiago-del-estero/aprender-siglo-21/5013662"
+    },
+    {
+      "name": "Arquitectura y Urbanismo",
+      "code": null,
+      "url": "https://www.studocu.com/es-ar/course/universidad-catolica-de-santiago-del-estero/arquitectura-y-urbanismo/6464774"
+    },
+    {
+      "name": "Aspectos legales",
+      "code": "1AL",
+      "url": "https://www.studocu.com/es-ar/course/universidad-catolica-de-santiago-del-estero/aspectos-legales/7081480"
+    },
+    {
+      "name": "auditoria",
+      "code": "111",
+      "url": "https://www.studocu.com/es-ar/course/universidad-catolica-de-santiago-del-estero/auditoria/4410315"
+    },
+    {
+      "name": "Álgebra avanzada",
+      "code": null,
+      "url": "https://www.studocu.com/es-ar/course/universidad-catolica-de-santiago-del-estero/algebra-avanzada/7577311"
+    },
+    {
+      "name": "Base de Datos 1",
+      "code": "BD01",
+      "url": "https://www.studocu.com/es-ar/course/universidad-catolica-de-santiago-del-estero/base-de-datos-1/4082579"
+    },
+    {
+      "name": "biologia celular",
+      "code": null,
+      "url": "https://www.studocu.com/es-ar/course/universidad-catolica-de-santiago-del-estero/biologia-celular/6677055"
+    },
+    {
+      "name": "Biología Humana, Psicología",
+      "code": null,
+      "url": "https://www.studocu.com/es-ar/course/universidad-catolica-de-santiago-del-estero/biologia-humana-psicologia/6371696"
+    },
+    {
+      "name": "Biomecánica",
+      "code": null,
+      "url": "https://www.studocu.com/es-ar/course/universidad-catolica-de-santiago-del-estero/biomecanica/4977195"
+    },
+    {
+      "name": "Bromatología",
+      "code": "Bromatologia",
+      "url": "https://www.studocu.com/es-ar/course/universidad-catolica-de-santiago-del-estero/bromatologia/6286771"
+    },
+    {
+      "name": "buenas practicas de manufactura",
+      "code": null,
+      "url": "https://www.studocu.com/es-ar/course/universidad-catolica-de-santiago-del-estero/buenas-practicas-de-manufactura/5494490"
+    },
+    {
+      "name": "Bulling",
+      "code": null,
+      "url": "https://www.studocu.com/es-ar/course/universidad-catolica-de-santiago-del-estero/bulling/6548388"
+    },
+    {
+      "name": "calculo financiero",
+      "code": "calculo financieroo",
+      "url": "https://www.studocu.com/es-ar/course/universidad-catolica-de-santiago-del-estero/calculo-financiero/7640912"
+    },
+    {
+      "name": "Ciencias de la Administración",
+      "code": "Ciencias Políticas",
+      "url": "https://www.studocu.com/es-ar/course/universidad-catolica-de-santiago-del-estero/ciencias-de-la-administracion/5815962"
+    },
+    {
+      "name": "Ciencias Naturales",
+      "code": null,
+      "url": "https://www.studocu.com/es-ar/course/universidad-catolica-de-santiago-del-estero/ciencias-naturales/7662111"
+    },
+    {
+      "name": "Citologia, Histologia Y Embriologia",
+      "code": null,
+      "url": "https://www.studocu.com/es-ar/course/universidad-catolica-de-santiago-del-estero/citologia-histologia-y-embriologia/3720757"
+    },
+    {
+      "name": "clinicas psicoanaliticas",
+      "code": null,
+      "url": "https://www.studocu.com/es-ar/course/universidad-catolica-de-santiago-del-estero/clinicas-psicoanaliticas/4502855"
+    },
+    {
+      "name": "Comportamiento del consumidor",
+      "code": "Comp consumidor1",
+      "url": "https://www.studocu.com/es-ar/course/universidad-catolica-de-santiago-del-estero/comportamiento-del-consumidor/5716548"
+    },
+    {
+      "name": "Comunicación",
+      "code": null,
+      "url": "https://www.studocu.com/es-ar/course/universidad-catolica-de-santiago-del-estero/comunicacion/4414328"
+    },
+    {
+      "name": "contabilidad gerencial",
+      "code": null,
+      "url": "https://www.studocu.com/es-ar/course/universidad-catolica-de-santiago-del-estero/contabilidad-gerencial/4454808"
+    },
+    {
+      "name": "contrato",
+      "code": null,
+      "url": "https://www.studocu.com/es-ar/course/universidad-catolica-de-santiago-del-estero/contrato/4448397"
+    },
+    {
+      "name": "Contratos parte especial",
+      "code": "contratos",
+      "url": "https://www.studocu.com/es-ar/course/universidad-catolica-de-santiago-del-estero/contratos-parte-especial/7568326"
+    },
+    {
+      "name": "Corrientes actuales en Psicologia",
+      "code": "psicologia",
+      "url": "https://www.studocu.com/es-ar/course/universidad-catolica-de-santiago-del-estero/corrientes-actuales-en-psicologia/4500036"
+    },
+    {
+      "name": "Costos",
+      "code": null,
+      "url": "https://www.studocu.com/es-ar/course/universidad-catolica-de-santiago-del-estero/costos/7672475"
+    },
+    {
+      "name": "deontologia y legislacion profesional",
+      "code": null,
+      "url": "https://www.studocu.com/es-ar/course/universidad-catolica-de-santiago-del-estero/deontologia-y-legislacion-profesional/6232260"
+    },
+    {
+      "name": "Derecho Administrativo",
+      "code": "01",
+      "url": "https://www.studocu.com/es-ar/course/universidad-catolica-de-santiago-del-estero/derecho-administrativo/6727816"
+    },
+    {
+      "name": "Derecho Automotor",
+      "code": "DA1",
+      "url": "https://www.studocu.com/es-ar/course/universidad-catolica-de-santiago-del-estero/derecho-automotor/6266948"
+    },
+    {
+      "name": "Derecho Automotor",
+      "code": null,
+      "url": "https://www.studocu.com/es-ar/course/universidad-catolica-de-santiago-del-estero/derecho-automotor/6266950"
+    },
+    {
+      "name": "Derecho Civil",
+      "code": null,
+      "url": "https://www.studocu.com/es-ar/course/universidad-catolica-de-santiago-del-estero/derecho-civil/3732348"
+    },
+    {
+      "name": "Derecho Concursal",
+      "code": null,
+      "url": "https://www.studocu.com/es-ar/course/universidad-catolica-de-santiago-del-estero/derecho-concursal/4409623"
+    },
+    {
+      "name": "Derecho Constitucional",
+      "code": null,
+      "url": "https://www.studocu.com/es-ar/course/universidad-catolica-de-santiago-del-estero/derecho-constitucional/6312893"
+    },
+    {
+      "name": "Derecho de la seguridad social",
+      "code": "Derecho seg_social",
+      "url": "https://www.studocu.com/es-ar/course/universidad-catolica-de-santiago-del-estero/derecho-de-la-seguridad-social/5485997"
+    },
+    {
+      "name": "derecho de recursos naturales",
+      "code": "Derecho Agrario",
+      "url": "https://www.studocu.com/es-ar/course/universidad-catolica-de-santiago-del-estero/derecho-de-recursos-naturales/4434765"
+    },
+    {
+      "name": "derecho del usuario y consumidor",
+      "code": null,
+      "url": "https://www.studocu.com/es-ar/course/universidad-catolica-de-santiago-del-estero/derecho-del-usuario-y-consumidor/5918429"
+    },
+    {
+      "name": "derecho empresarial",
+      "code": null,
+      "url": "https://www.studocu.com/es-ar/course/universidad-catolica-de-santiago-del-estero/derecho-empresarial/7235780"
+    },
+    {
+      "name": "Derecho Financiero y Tributario",
+      "code": "Derecho Tributario",
+      "url": "https://www.studocu.com/es-ar/course/universidad-catolica-de-santiago-del-estero/derecho-financiero-y-tributario/4494964"
+    },
+    {
+      "name": "Derecho Internacional Privado",
+      "code": null,
+      "url": "https://www.studocu.com/es-ar/course/universidad-catolica-de-santiago-del-estero/derecho-internacional-privado/4387524"
+    },
+    {
+      "name": "Derecho Notarial",
+      "code": null,
+      "url": "https://www.studocu.com/es-ar/course/universidad-catolica-de-santiago-del-estero/derecho-notarial/4374711"
+    },
+    {
+      "name": "derecho penal 2",
+      "code": "Penal 2",
+      "url": "https://www.studocu.com/es-ar/course/universidad-catolica-de-santiago-del-estero/derecho-penal-2/4082600"
+    },
+    {
+      "name": "Derecho Privado Parte General",
+      "code": "Derecho Privado",
+      "url": "https://www.studocu.com/es-ar/course/universidad-catolica-de-santiago-del-estero/derecho-privado-parte-general/4501530"
+    },
+    {
+      "name": "Derecho publico provincial y municipal",
+      "code": null,
+      "url": "https://www.studocu.com/es-ar/course/universidad-catolica-de-santiago-del-estero/derecho-publico-provincial-y-municipal/6367477"
+    },
+    {
+      "name": "Derecho Reales",
+      "code": null,
+      "url": "https://www.studocu.com/es-ar/course/universidad-catolica-de-santiago-del-estero/derecho-reales/5102017"
+    },
+    {
+      "name": "Derecho Romano",
+      "code": null,
+      "url": "https://www.studocu.com/es-ar/course/universidad-catolica-de-santiago-del-estero/derecho-romano/4338232"
+    },
+    {
+      "name": "Derecho Romano, Estadística Código",
+      "code": "Bioquímica, Derecho",
+      "url": "https://www.studocu.com/es-ar/course/universidad-catolica-de-santiago-del-estero/derecho-romano-estadistica-codigo/6374576"
+    },
+    {
+      "name": "Derecho Sucesorio",
+      "code": null,
+      "url": "https://www.studocu.com/es-ar/course/universidad-catolica-de-santiago-del-estero/derecho-sucesorio/6686972"
+    },
+    {
+      "name": "Derechos Humanos",
+      "code": "Derecho Humano",
+      "url": "https://www.studocu.com/es-ar/course/universidad-catolica-de-santiago-del-estero/derechos-humanos/5395906"
+    },
+    {
+      "name": "desarrollo emp",
+      "code": null,
+      "url": "https://www.studocu.com/es-ar/course/universidad-catolica-de-santiago-del-estero/desarrollo-emp/7595837"
+    },
+    {
+      "name": "Desarrollo Inmobiliario",
+      "code": null,
+      "url": "https://www.studocu.com/es-ar/course/universidad-catolica-de-santiago-del-estero/desarrollo-inmobiliario/7017614"
+    },
+    {
+      "name": "Dialogo entre Fe y Razon",
+      "code": "Seguridad e Higiene",
+      "url": "https://www.studocu.com/es-ar/course/universidad-catolica-de-santiago-del-estero/dialogo-entre-fe-y-razon/7016611"
+    },
+    {
+      "name": "Didáctica general",
+      "code": null,
+      "url": "https://www.studocu.com/es-ar/course/universidad-catolica-de-santiago-del-estero/didactica-general/7589054"
+    },
+    {
+      "name": "Diseño Grafico II",
+      "code": "Comunicación Social",
+      "url": "https://www.studocu.com/es-ar/course/universidad-catolica-de-santiago-del-estero/diseno-grafico-ii/5438230"
+    },
+    {
+      "name": "Diseño Tridimensional",
+      "code": null,
+      "url": "https://www.studocu.com/es-ar/course/universidad-catolica-de-santiago-del-estero/diseno-tridimensional/5670545"
+    },
+    {
+      "name": "Doctrina Social de la Iglesia",
+      "code": "DSI 1",
+      "url": "https://www.studocu.com/es-ar/course/universidad-catolica-de-santiago-del-estero/doctrina-social-de-la-iglesia/5481444"
+    },
+    {
+      "name": "Ecologia",
+      "code": null,
+      "url": "https://www.studocu.com/es-ar/course/universidad-catolica-de-santiago-del-estero/ecologia/7546915"
+    },
+    {
+      "name": "Economía 1",
+      "code": "Economía",
+      "url": "https://www.studocu.com/es-ar/course/universidad-catolica-de-santiago-del-estero/economia-1/7540543"
+    },
+    {
+      "name": "educacion especial",
+      "code": "3er año de psicopeda",
+      "url": "https://www.studocu.com/es-ar/course/universidad-catolica-de-santiago-del-estero/educacion-especial/6900851"
+    },
+    {
+      "name": "Educación sexual integral",
+      "code": null,
+      "url": "https://www.studocu.com/es-ar/course/universidad-catolica-de-santiago-del-estero/educacion-sexual-integral/6548386"
+    },
+    {
+      "name": "Electronica",
+      "code": null,
+      "url": "https://www.studocu.com/es-ar/course/universidad-catolica-de-santiago-del-estero/electronica/6874463"
+    },
+    {
+      "name": "Ergonomia",
+      "code": "ergo1",
+      "url": "https://www.studocu.com/es-ar/course/universidad-catolica-de-santiago-del-estero/ergonomia/6562329"
+    },
+    {
+      "name": "estructura",
+      "code": null,
+      "url": "https://www.studocu.com/es-ar/course/universidad-catolica-de-santiago-del-estero/estructura/7706209"
+    },
+    {
+      "name": "Etica y profesion",
+      "code": "etica1",
+      "url": "https://www.studocu.com/es-ar/course/universidad-catolica-de-santiago-del-estero/etica-y-profesion/6721285"
+    },
+    {
+      "name": "Evaluación Nutricional",
+      "code": "3006",
+      "url": "https://www.studocu.com/es-ar/course/universidad-catolica-de-santiago-del-estero/evaluacion-nutricional/6056375"
+    },
+    {
+      "name": "Evaluación y diagnóstico en psicologia",
+      "code": "Psicologia",
+      "url": "https://www.studocu.com/es-ar/course/universidad-catolica-de-santiago-del-estero/evaluacion-y-diagnostico-en-psicologia/3868856"
+    },
+    {
+      "name": "Farmacognosia",
+      "code": null,
+      "url": "https://www.studocu.com/es-ar/course/universidad-catolica-de-santiago-del-estero/farmacognosia/6573639"
+    },
+    {
+      "name": "Farmacología Aplicada a la Producción de Bioimágenes",
+      "code": null,
+      "url": "https://www.studocu.com/es-ar/course/universidad-catolica-de-santiago-del-estero/farmacologia-aplicada-a-la-produccion-de-bioimagenes/6452295"
+    },
+    {
+      "name": "Filosofía Contemporanea",
+      "code": null,
+      "url": "https://www.studocu.com/es-ar/course/universidad-catolica-de-santiago-del-estero/filosofia-contemporanea/4330032"
+    },
+    {
+      "name": "Filosofía Medieval",
+      "code": "Filo2",
+      "url": "https://www.studocu.com/es-ar/course/universidad-catolica-de-santiago-del-estero/filosofia-medieval/7158124"
+    },
+    {
+      "name": "finanzas de empresas",
+      "code": null,
+      "url": "https://www.studocu.com/es-ar/course/universidad-catolica-de-santiago-del-estero/finanzas-de-empresas/6191967"
+    },
+    {
+      "name": "finanzas publicas",
+      "code": null,
+      "url": "https://www.studocu.com/es-ar/course/universidad-catolica-de-santiago-del-estero/finanzas-publicas/4455286"
+    },
+    {
+      "name": "Fisiologia humana",
+      "code": null,
+      "url": "https://www.studocu.com/es-ar/course/universidad-catolica-de-santiago-del-estero/fisiologia-humana/4394541"
+    },
+    {
+      "name": "Fisioterapia",
+      "code": "3° año",
+      "url": "https://www.studocu.com/es-ar/course/universidad-catolica-de-santiago-del-estero/fisioterapia/6936720"
+    },
+    {
+      "name": "Fundamento del pensamiento critico",
+      "code": "Psicología",
+      "url": "https://www.studocu.com/es-ar/course/universidad-catolica-de-santiago-del-estero/fundamento-del-pensamiento-critico/6909849"
+    },
+    {
+      "name": "Fundamentos de Programación",
+      "code": null,
+      "url": "https://www.studocu.com/es-ar/course/universidad-catolica-de-santiago-del-estero/fundamentos-de-programacion/5413690"
+    },
+    {
+      "name": "Fundamentos del Pensamiento Científico",
+      "code": null,
+      "url": "https://www.studocu.com/es-ar/course/universidad-catolica-de-santiago-del-estero/fundamentos-del-pensamiento-cientifico/7125555"
+    },
+    {
+      "name": "Fundamentos Epistemologicos",
+      "code": "006",
+      "url": "https://www.studocu.com/es-ar/course/universidad-catolica-de-santiago-del-estero/fundamentos-epistemologicos/6803675"
+    },
+    {
+      "name": "Fundamentos Psicométricos",
+      "code": null,
+      "url": "https://www.studocu.com/es-ar/course/universidad-catolica-de-santiago-del-estero/fundamentos-psicometricos/4512462"
+    },
+    {
+      "name": "Geografía Política y Económica",
+      "code": null,
+      "url": "https://www.studocu.com/es-ar/course/universidad-catolica-de-santiago-del-estero/geografia-politica-y-economica/5830382"
+    },
+    {
+      "name": "Gestion y Reglamentacion publica",
+      "code": null,
+      "url": "https://www.studocu.com/es-ar/course/universidad-catolica-de-santiago-del-estero/gestion-y-reglamentacion-publica/6889170"
+    },
+    {
+      "name": "Gestión de Cooperativas y Mutuales",
+      "code": null,
+      "url": "https://www.studocu.com/es-ar/course/universidad-catolica-de-santiago-del-estero/gestion-de-cooperativas-y-mutuales/6621754"
+    },
+    {
+      "name": "Historia Argentina",
+      "code": null,
+      "url": "https://www.studocu.com/es-ar/course/universidad-catolica-de-santiago-del-estero/historia-argentina/4417316"
+    },
+    {
+      "name": "Historia de la Arquitectura",
+      "code": "arquitectura",
+      "url": "https://www.studocu.com/es-ar/course/universidad-catolica-de-santiago-del-estero/historia-de-la-arquitectura/6709033"
+    },
+    {
+      "name": "historia de la psicologia",
+      "code": null,
+      "url": "https://www.studocu.com/es-ar/course/universidad-catolica-de-santiago-del-estero/historia-de-la-psicologia/4378528"
+    },
+    {
+      "name": "historia del noroeste",
+      "code": null,
+      "url": "https://www.studocu.com/es-ar/course/universidad-catolica-de-santiago-del-estero/historia-del-noroeste/4264679"
+    },
+    {
+      "name": "Historia del pensamiento jurídico y político",
+      "code": "12345",
+      "url": "https://www.studocu.com/es-ar/course/universidad-catolica-de-santiago-del-estero/historia-del-pensamiento-juridico-y-politico/2617430"
+    },
+    {
+      "name": "Historia latinoamericana",
+      "code": null,
+      "url": "https://www.studocu.com/es-ar/course/universidad-catolica-de-santiago-del-estero/historia-latinoamericana/4473019"
+    },
+    {
+      "name": "Idioma Extranjero",
+      "code": null,
+      "url": "https://www.studocu.com/es-ar/course/universidad-catolica-de-santiago-del-estero/idioma-extranjero/6448980"
+    },
+    {
+      "name": "imagen en movimiento",
+      "code": null,
+      "url": "https://www.studocu.com/es-ar/course/universidad-catolica-de-santiago-del-estero/imagen-en-movimiento/7007845"
+    },
+    {
+      "name": "Impuestos Nacionales",
+      "code": null,
+      "url": "https://www.studocu.com/es-ar/course/universidad-catolica-de-santiago-del-estero/impuestos-nacionales/7137667"
+    },
+    {
+      "name": "ingenieria de software",
+      "code": "a11aw",
+      "url": "https://www.studocu.com/es-ar/course/universidad-catolica-de-santiago-del-estero/ingenieria-de-software/5699430"
+    },
+    {
+      "name": "Ingles 1",
+      "code": null,
+      "url": "https://www.studocu.com/es-ar/course/universidad-catolica-de-santiago-del-estero/ingles-1/4911015"
+    },
+    {
+      "name": "Inglés",
+      "code": "112111",
+      "url": "https://www.studocu.com/es-ar/course/universidad-catolica-de-santiago-del-estero/ingles/6544431"
+    },
+    {
+      "name": "Inteligencia Artificial",
+      "code": "33- Inteligencia",
+      "url": "https://www.studocu.com/es-ar/course/universidad-catolica-de-santiago-del-estero/inteligencia-artificial/5481001"
+    },
+    {
+      "name": "introduccion a la filosofia",
+      "code": null,
+      "url": "https://www.studocu.com/es-ar/course/universidad-catolica-de-santiago-del-estero/introduccion-a-la-filosofia/6248098"
+    },
+    {
+      "name": "introduccion al derecho",
+      "code": null,
+      "url": "https://www.studocu.com/es-ar/course/universidad-catolica-de-santiago-del-estero/introduccion-al-derecho/4820662"
+    },
+    {
+      "name": "Introducción a la Psicología",
+      "code": null,
+      "url": "https://www.studocu.com/es-ar/course/universidad-catolica-de-santiago-del-estero/introduccion-a-la-psicologia/4882750"
+    },
+    {
+      "name": "Introducción a la Sociología",
+      "code": null,
+      "url": "https://www.studocu.com/es-ar/course/universidad-catolica-de-santiago-del-estero/introduccion-a-la-sociologia/6658000"
+    },
+    {
+      "name": "Introducción a los estudios de la comunicación",
+      "code": "Diseño grafico",
+      "url": "https://www.studocu.com/es-ar/course/universidad-catolica-de-santiago-del-estero/introduccion-a-los-estudios-de-la-comunicacion/6281216"
+    },
+    {
+      "name": "Kinefilixia",
+      "code": "kine20022",
+      "url": "https://www.studocu.com/es-ar/course/universidad-catolica-de-santiago-del-estero/kinefilixia/5391910"
+    },
+    {
+      "name": "kinesiologia legal",
+      "code": null,
+      "url": "https://www.studocu.com/es-ar/course/universidad-catolica-de-santiago-del-estero/kinesiologia-legal/5699132"
+    },
+    {
+      "name": "Laboratorio II",
+      "code": "ROBOTICA",
+      "url": "https://www.studocu.com/es-ar/course/universidad-catolica-de-santiago-del-estero/laboratorio-ii/5438684"
+    },
+    {
+      "name": "Licenciatura en Fonoaudiología",
+      "code": null,
+      "url": "https://www.studocu.com/es-ar/course/universidad-catolica-de-santiago-del-estero/licenciatura-en-fonoaudiologia/7514629"
+    },
+    {
+      "name": "Literature and linguistis",
+      "code": "CBV859",
+      "url": "https://www.studocu.com/es-ar/course/universidad-catolica-de-santiago-del-estero/literature-and-linguistis/6484178"
+    },
+    {
+      "name": "Logica y argumentacion juridica",
+      "code": "12345",
+      "url": "https://www.studocu.com/es-ar/course/universidad-catolica-de-santiago-del-estero/logica-y-argumentacion-juridica/6756136"
+    },
+    {
+      "name": "Marketing",
+      "code": null,
+      "url": "https://www.studocu.com/es-ar/course/universidad-catolica-de-santiago-del-estero/marketing/5734590"
+    },
+    {
+      "name": "Medios Participativos De Resolucion de Conflictos",
+      "code": "Mediación",
+      "url": "https://www.studocu.com/es-ar/course/universidad-catolica-de-santiago-del-estero/medios-participativos-de-resolucion-de-conflictos/7760567"
+    },
+    {
+      "name": "metodologia",
+      "code": null,
+      "url": "https://www.studocu.com/es-ar/course/universidad-catolica-de-santiago-del-estero/metodologia/4832779"
+    },
+    {
+      "name": "microbiologia  y parasitologia",
+      "code": "microbiologia",
+      "url": "https://www.studocu.com/es-ar/course/universidad-catolica-de-santiago-del-estero/microbiologia-y-parasitologia/6969185"
+    },
+    {
+      "name": "Microeconomia",
+      "code": "Eco2021",
+      "url": "https://www.studocu.com/es-ar/course/universidad-catolica-de-santiago-del-estero/microeconomia/5023915"
+    },
+    {
+      "name": "Movimiento y Cuerpo",
+      "code": null,
+      "url": "https://www.studocu.com/es-ar/course/universidad-catolica-de-santiago-del-estero/movimiento-y-cuerpo/7018420"
+    },
+    {
+      "name": "Musculos",
+      "code": null,
+      "url": "https://www.studocu.com/es-ar/course/universidad-catolica-de-santiago-del-estero/musculos/3224229"
+    },
+    {
+      "name": "Métodos de organización",
+      "code": "a0938",
+      "url": "https://www.studocu.com/es-ar/course/universidad-catolica-de-santiago-del-estero/metodos-de-organizacion/7223379"
+    },
+    {
+      "name": "Métodos y técnica de investigación social",
+      "code": "Métodos",
+      "url": "https://www.studocu.com/es-ar/course/universidad-catolica-de-santiago-del-estero/metodos-y-tecnica-de-investigacion-social/5808760"
+    },
+    {
+      "name": "Neurología",
+      "code": null,
+      "url": "https://www.studocu.com/es-ar/course/universidad-catolica-de-santiago-del-estero/neurologia/6579566"
+    },
+    {
+      "name": "Neuropatologia",
+      "code": "Neuro23",
+      "url": "https://www.studocu.com/es-ar/course/universidad-catolica-de-santiago-del-estero/neuropatologia/5843991"
+    },
+    {
+      "name": "Neuropsicología",
+      "code": "Blaw4",
+      "url": "https://www.studocu.com/es-ar/course/universidad-catolica-de-santiago-del-estero/neuropsicologia/7653201"
+    },
+    {
+      "name": "Nutrición Normal",
+      "code": "IAo3",
+      "url": "https://www.studocu.com/es-ar/course/universidad-catolica-de-santiago-del-estero/nutricion-normal/7223377"
+    },
+    {
+      "name": "Obligaciones",
+      "code": null,
+      "url": "https://www.studocu.com/es-ar/course/universidad-catolica-de-santiago-del-estero/obligaciones/4830879"
+    },
+    {
+      "name": "Optativa I - Empresas de Familia",
+      "code": null,
+      "url": "https://www.studocu.com/es-ar/course/universidad-catolica-de-santiago-del-estero/optativa-i-empresas-de-familia/5725869"
+    },
+    {
+      "name": "Optativa II",
+      "code": null,
+      "url": "https://www.studocu.com/es-ar/course/universidad-catolica-de-santiago-del-estero/optativa-ii/7290393"
+    },
+    {
+      "name": "Organización Empresarial",
+      "code": null,
+      "url": "https://www.studocu.com/es-ar/course/universidad-catolica-de-santiago-del-estero/organizacion-empresarial/4825914"
+    },
+    {
+      "name": "Orientación vocacional",
+      "code": null,
+      "url": "https://www.studocu.com/es-ar/course/universidad-catolica-de-santiago-del-estero/orientacion-vocacional/6939894"
+    },
+    {
+      "name": "Pensamiento Político Argentino y Latinoamericano",
+      "code": null,
+      "url": "https://www.studocu.com/es-ar/course/universidad-catolica-de-santiago-del-estero/pensamiento-politico-argentino-y-latinoamericano/5830384"
+    },
+    {
+      "name": "periodismo radial",
+      "code": null,
+      "url": "https://www.studocu.com/es-ar/course/universidad-catolica-de-santiago-del-estero/periodismo-radial/7560659"
+    },
+    {
+      "name": "Perspectivas Antropológicas",
+      "code": null,
+      "url": "https://www.studocu.com/es-ar/course/universidad-catolica-de-santiago-del-estero/perspectivas-antropologicas/5314442"
+    },
+    {
+      "name": "Planeamiento Educativo",
+      "code": null,
+      "url": "https://www.studocu.com/es-ar/course/universidad-catolica-de-santiago-del-estero/planeamiento-educativo/6904887"
+    },
+    {
+      "name": "Políticas Públicas",
+      "code": null,
+      "url": "https://www.studocu.com/es-ar/course/universidad-catolica-de-santiago-del-estero/politicas-publicas/5830378"
+    },
+    {
+      "name": "Practicas del Lenguaje",
+      "code": "PDL1",
+      "url": "https://www.studocu.com/es-ar/course/universidad-catolica-de-santiago-del-estero/practicas-del-lenguaje/6215110"
+    },
+    {
+      "name": "Probabilidad y estadistica",
+      "code": "423123",
+      "url": "https://www.studocu.com/es-ar/course/universidad-catolica-de-santiago-del-estero/probabilidad-y-estadistica/6198782"
+    },
+    {
+      "name": "procesos de automatizacion",
+      "code": "robotica",
+      "url": "https://www.studocu.com/es-ar/course/universidad-catolica-de-santiago-del-estero/procesos-de-automatizacion/7418419"
+    },
+    {
+      "name": "procesos politicos mundiales",
+      "code": "bioquimica",
+      "url": "https://www.studocu.com/es-ar/course/universidad-catolica-de-santiago-del-estero/procesos-politicos-mundiales/7120317"
+    },
+    {
+      "name": "Programador Web Full Stack",
+      "code": "BLAW001",
+      "url": "https://www.studocu.com/es-ar/course/universidad-catolica-de-santiago-del-estero/programador-web-full-stack/5467513"
+    },
+    {
+      "name": "Prótesis y ortesis",
+      "code": null,
+      "url": "https://www.studocu.com/es-ar/course/universidad-catolica-de-santiago-del-estero/protesis-y-ortesis/6765371"
+    },
+    {
+      "name": "Psicobiología",
+      "code": null,
+      "url": "https://www.studocu.com/es-ar/course/universidad-catolica-de-santiago-del-estero/psicobiologia/5813099"
+    },
+    {
+      "name": "Psicofarmacoloia",
+      "code": "699",
+      "url": "https://www.studocu.com/es-ar/course/universidad-catolica-de-santiago-del-estero/psicofarmacoloia/3510186"
+    },
+    {
+      "name": "Psicologia Comunitaria",
+      "code": "011",
+      "url": "https://www.studocu.com/es-ar/course/universidad-catolica-de-santiago-del-estero/psicologia-comunitaria/6030144"
+    },
+    {
+      "name": "psicologia de la personalidad",
+      "code": "psi personalidad",
+      "url": "https://www.studocu.com/es-ar/course/universidad-catolica-de-santiago-del-estero/psicologia-de-la-personalidad/7004559"
+    },
+    {
+      "name": "Psicologia del desarrollo I",
+      "code": "psicologia",
+      "url": "https://www.studocu.com/es-ar/course/universidad-catolica-de-santiago-del-estero/psicologia-del-desarrollo-i/4500042"
+    },
+    {
+      "name": "Psicologia del Desarrollo II",
+      "code": null,
+      "url": "https://www.studocu.com/es-ar/course/universidad-catolica-de-santiago-del-estero/psicologia-del-desarrollo-ii/6482495"
+    },
+    {
+      "name": "Psicologia educacional",
+      "code": "Ps. Educacional",
+      "url": "https://www.studocu.com/es-ar/course/universidad-catolica-de-santiago-del-estero/psicologia-educacional/5358520"
+    },
+    {
+      "name": "psicologia evolutiva",
+      "code": null,
+      "url": "https://www.studocu.com/es-ar/course/universidad-catolica-de-santiago-del-estero/psicologia-evolutiva/4921529"
+    },
+    {
+      "name": "Psicologia Política y social",
+      "code": null,
+      "url": "https://www.studocu.com/es-ar/course/universidad-catolica-de-santiago-del-estero/psicologia-politica-y-social/7581895"
+    },
+    {
+      "name": "psicología del trabajo",
+      "code": null,
+      "url": "https://www.studocu.com/es-ar/course/universidad-catolica-de-santiago-del-estero/psicologia-del-trabajo/4817891"
+    },
+    {
+      "name": "Psicología Forense",
+      "code": null,
+      "url": "https://www.studocu.com/es-ar/course/universidad-catolica-de-santiago-del-estero/psicologia-forense/5069628"
+    },
+    {
+      "name": "Psicología Organizacional y Laboral",
+      "code": null,
+      "url": "https://www.studocu.com/es-ar/course/universidad-catolica-de-santiago-del-estero/psicologia-organizacional-y-laboral/4911013"
+    },
+    {
+      "name": "Psicología Social",
+      "code": "Psicología",
+      "url": "https://www.studocu.com/es-ar/course/universidad-catolica-de-santiago-del-estero/psicologia-social/6393669"
+    },
+    {
+      "name": "Psicopatología 1",
+      "code": "2202",
+      "url": "https://www.studocu.com/es-ar/course/universidad-catolica-de-santiago-del-estero/psicopatologia-1/4362089"
+    },
+    {
+      "name": "Psicopatología II",
+      "code": "psicopatología, 2",
+      "url": "https://www.studocu.com/es-ar/course/universidad-catolica-de-santiago-del-estero/psicopatologia-ii/4792984"
+    },
+    {
+      "name": "Psicopedagogía Clínica",
+      "code": "780",
+      "url": "https://www.studocu.com/es-ar/course/universidad-catolica-de-santiago-del-estero/psicopedagogia-clinica/6346860"
+    },
+    {
+      "name": "Psicopedagogía Institucional",
+      "code": null,
+      "url": "https://www.studocu.com/es-ar/course/universidad-catolica-de-santiago-del-estero/psicopedagogia-institucional/5623170"
+    },
+    {
+      "name": "psicoterapia cognitiva conductual",
+      "code": "TCC1",
+      "url": "https://www.studocu.com/es-ar/course/universidad-catolica-de-santiago-del-estero/psicoterapia-cognitiva-conductual/7028649"
+    },
+    {
+      "name": "Psicoterapia Cognitiva Conductual",
+      "code": null,
+      "url": "https://www.studocu.com/es-ar/course/universidad-catolica-de-santiago-del-estero/psicoterapia-cognitiva-conductual/5950784"
+    },
+    {
+      "name": "Psicoterapia Gestaltica",
+      "code": null,
+      "url": "https://www.studocu.com/es-ar/course/universidad-catolica-de-santiago-del-estero/psicoterapia-gestaltica/4886909"
+    },
+    {
+      "name": "Psicoterapia Sistémica",
+      "code": null,
+      "url": "https://www.studocu.com/es-ar/course/universidad-catolica-de-santiago-del-estero/psicoterapia-sistemica/7033774"
+    },
+    {
+      "name": "Recursos Humanos",
+      "code": null,
+      "url": "https://www.studocu.com/es-ar/course/universidad-catolica-de-santiago-del-estero/recursos-humanos/6230072"
+    },
+    {
+      "name": "Relaciones Internacionales",
+      "code": null,
+      "url": "https://www.studocu.com/es-ar/course/universidad-catolica-de-santiago-del-estero/relaciones-internacionales/5830385"
+    },
+    {
+      "name": "Robótica",
+      "code": null,
+      "url": "https://www.studocu.com/es-ar/course/universidad-catolica-de-santiago-del-estero/robotica/5831359"
+    },
+    {
+      "name": "Seminario ll",
+      "code": null,
+      "url": "https://www.studocu.com/es-ar/course/universidad-catolica-de-santiago-del-estero/seminario-ll/5830387"
+    },
+    {
+      "name": "Semiopatologia",
+      "code": null,
+      "url": "https://www.studocu.com/es-ar/course/universidad-catolica-de-santiago-del-estero/semiopatologia/6765373"
+    },
+    {
+      "name": "Semiótica",
+      "code": null,
+      "url": "https://www.studocu.com/es-ar/course/universidad-catolica-de-santiago-del-estero/semiotica/4531273"
+    },
+    {
+      "name": "Servicio comunitario",
+      "code": null,
+      "url": "https://www.studocu.com/es-ar/course/universidad-catolica-de-santiago-del-estero/servicio-comunitario/4547332"
+    },
+    {
+      "name": "Simulación",
+      "code": null,
+      "url": "https://www.studocu.com/es-ar/course/universidad-catolica-de-santiago-del-estero/simulacion/4467524"
+    },
+    {
+      "name": "Sistema de Información Contable",
+      "code": "SIC1",
+      "url": "https://www.studocu.com/es-ar/course/universidad-catolica-de-santiago-del-estero/sistema-de-informacion-contable/6584260"
+    },
+    {
+      "name": "Sistemas de informacion 2",
+      "code": null,
+      "url": "https://www.studocu.com/es-ar/course/universidad-catolica-de-santiago-del-estero/sistemas-de-informacion-2/6637887"
+    },
+    {
+      "name": "Sistemas de producción y comercialización de alimentos",
+      "code": "N",
+      "url": "https://www.studocu.com/es-ar/course/universidad-catolica-de-santiago-del-estero/sistemas-de-produccion-y-comercializacion-de-alimentos/5308171"
+    },
+    {
+      "name": "sociedades y asociaciones",
+      "code": null,
+      "url": "https://www.studocu.com/es-ar/course/universidad-catolica-de-santiago-del-estero/sociedades-y-asociaciones/7275345"
+    },
+    {
+      "name": "subasta y corretaje",
+      "code": null,
+      "url": "https://www.studocu.com/es-ar/course/universidad-catolica-de-santiago-del-estero/subasta-y-corretaje/6628445"
+    },
+    {
+      "name": "Suplementacion Deportiva",
+      "code": "Blaw35",
+      "url": "https://www.studocu.com/es-ar/course/universidad-catolica-de-santiago-del-estero/suplementacion-deportiva/5411027"
+    },
+    {
+      "name": "Taller de Integración",
+      "code": null,
+      "url": "https://www.studocu.com/es-ar/course/universidad-catolica-de-santiago-del-estero/taller-de-integracion/7202024"
+    },
+    {
+      "name": "Tecnica Dietoterapica",
+      "code": "Dietoterapica",
+      "url": "https://www.studocu.com/es-ar/course/universidad-catolica-de-santiago-del-estero/tecnica-dietoterapica/5905578"
+    },
+    {
+      "name": "Tecnicas Proyectivas",
+      "code": "Psicopedagogia",
+      "url": "https://www.studocu.com/es-ar/course/universidad-catolica-de-santiago-del-estero/tecnicas-proyectivas/6352229"
+    },
+    {
+      "name": "Teologia",
+      "code": "123",
+      "url": "https://www.studocu.com/es-ar/course/universidad-catolica-de-santiago-del-estero/teologia/2617431"
+    },
+    {
+      "name": "teoria de as rrii",
+      "code": null,
+      "url": "https://www.studocu.com/es-ar/course/universidad-catolica-de-santiago-del-estero/teoria-de-as-rrii/4357741"
+    },
+    {
+      "name": "Teoria General del Proceso",
+      "code": "Procesal 1",
+      "url": "https://www.studocu.com/es-ar/course/universidad-catolica-de-santiago-del-estero/teoria-general-del-proceso/5586359"
+    },
+    {
+      "name": "Teoría de la Actividad Física y el Deporte",
+      "code": null,
+      "url": "https://www.studocu.com/es-ar/course/universidad-catolica-de-santiago-del-estero/teoria-de-la-actividad-fisica-y-el-deporte/6348295"
+    },
+    {
+      "name": "Teoría de la Comunicación",
+      "code": null,
+      "url": "https://www.studocu.com/es-ar/course/universidad-catolica-de-santiago-del-estero/teoria-de-la-comunicacion/5670547"
+    }
+  ]
+}

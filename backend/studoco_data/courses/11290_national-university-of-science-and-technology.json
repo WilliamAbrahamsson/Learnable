@@ -1,0 +1,721 @@
+{
+  "university_id": "11290",
+  "university_name": "National University of Science and Technology",
+  "courses": [
+    {
+      "name": "Accounting information systems",
+      "code": "CAC4104",
+      "url": "https://www.studocu.com/row/course/national-university-of-science-and-technology/accounting-information-systems/5701820"
+    },
+    {
+      "name": "Advanced Corporate Financial Strategy",
+      "code": "CFI 5102",
+      "url": "https://www.studocu.com/row/course/national-university-of-science-and-technology/advanced-corporate-financial-strategy/4271549"
+    },
+    {
+      "name": "Advanced financial reporting",
+      "code": "CAC 4201",
+      "url": "https://www.studocu.com/row/course/national-university-of-science-and-technology/advanced-financial-reporting/5383120"
+    },
+    {
+      "name": "Advertsing and Sales Promotion",
+      "code": "CMK2106",
+      "url": "https://www.studocu.com/row/course/national-university-of-science-and-technology/advertsing-and-sales-promotion/4744502"
+    },
+    {
+      "name": "Agribusiness Marketing Mangement",
+      "code": "CBU 4206",
+      "url": "https://www.studocu.com/row/course/national-university-of-science-and-technology/agribusiness-marketing-mangement/4375162"
+    },
+    {
+      "name": "Analytical chemistry",
+      "code": "802",
+      "url": "https://www.studocu.com/row/course/national-university-of-science-and-technology/analytical-chemistry/3274743"
+    },
+    {
+      "name": "Anatomy",
+      "code": "MBM 1101",
+      "url": "https://www.studocu.com/row/course/national-university-of-science-and-technology/anatomy/7063476"
+    },
+    {
+      "name": "Applied Economics 2",
+      "code": "CBA 4203",
+      "url": "https://www.studocu.com/row/course/national-university-of-science-and-technology/applied-economics-2/2312930"
+    },
+    {
+      "name": "Applied physics",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/national-university-of-science-and-technology/applied-physics/3455302"
+    },
+    {
+      "name": "Applied Physics",
+      "code": "12345",
+      "url": "https://www.studocu.com/row/course/national-university-of-science-and-technology/applied-physics/3532525"
+    },
+    {
+      "name": "Applied Statistics",
+      "code": "SORS 1201",
+      "url": "https://www.studocu.com/row/course/national-university-of-science-and-technology/applied-statistics/3623626"
+    },
+    {
+      "name": "Architecture",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/national-university-of-science-and-technology/architecture/4854589"
+    },
+    {
+      "name": "Architecture Presentation",
+      "code": "AAR101",
+      "url": "https://www.studocu.com/row/course/national-university-of-science-and-technology/architecture-presentation/6442196"
+    },
+    {
+      "name": "Artificial Intelligence",
+      "code": "SCS4107",
+      "url": "https://www.studocu.com/row/course/national-university-of-science-and-technology/artificial-intelligence/6032087"
+    },
+    {
+      "name": "Audit Skills",
+      "code": "CAC2203",
+      "url": "https://www.studocu.com/row/course/national-university-of-science-and-technology/audit-skills/4447068"
+    },
+    {
+      "name": "Biochemistry",
+      "code": "1001",
+      "url": "https://www.studocu.com/row/course/national-university-of-science-and-technology/biochemistry/3169982"
+    },
+    {
+      "name": "Biomedical Sciences",
+      "code": "BMS1",
+      "url": "https://www.studocu.com/row/course/national-university-of-science-and-technology/biomedical-sciences/7105345"
+    },
+    {
+      "name": "business communication",
+      "code": "CIN 1103",
+      "url": "https://www.studocu.com/row/course/national-university-of-science-and-technology/business-communication/6610469"
+    },
+    {
+      "name": "Calculus and Analytical Geometry",
+      "code": "math101",
+      "url": "https://www.studocu.com/row/course/national-university-of-science-and-technology/calculus-and-analytical-geometry/3236122"
+    },
+    {
+      "name": "Calculus of several variables",
+      "code": "SMA 12O1",
+      "url": "https://www.studocu.com/row/course/national-university-of-science-and-technology/calculus-of-several-variables/5395397"
+    },
+    {
+      "name": "Case studies",
+      "code": "SORS 4105",
+      "url": "https://www.studocu.com/row/course/national-university-of-science-and-technology/case-studies/7262181"
+    },
+    {
+      "name": "Chemical engineering",
+      "code": "TCE",
+      "url": "https://www.studocu.com/row/course/national-university-of-science-and-technology/chemical-engineering/7137468"
+    },
+    {
+      "name": "chemical reactions",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/national-university-of-science-and-technology/chemical-reactions/4509990"
+    },
+    {
+      "name": "Civil Engineering",
+      "code": "BCE",
+      "url": "https://www.studocu.com/row/course/national-university-of-science-and-technology/civil-engineering/3730550"
+    },
+    {
+      "name": "civil engineering quantification",
+      "code": "602201",
+      "url": "https://www.studocu.com/row/course/national-university-of-science-and-technology/civil-engineering-quantification/7141970"
+    },
+    {
+      "name": "Commercial Law",
+      "code": "CIN1103",
+      "url": "https://www.studocu.com/row/course/national-university-of-science-and-technology/commercial-law/3645171"
+    },
+    {
+      "name": "Communication skills",
+      "code": "ILI 1105",
+      "url": "https://www.studocu.com/row/course/national-university-of-science-and-technology/communication-skills/6994379"
+    },
+    {
+      "name": "Communication theory and practice",
+      "code": "ILI 1108",
+      "url": "https://www.studocu.com/row/course/national-university-of-science-and-technology/communication-theory-and-practice/6994382"
+    },
+    {
+      "name": "Computational Drug Design",
+      "code": "CSE- 921",
+      "url": "https://www.studocu.com/row/course/national-university-of-science-and-technology/computational-drug-design/4086314"
+    },
+    {
+      "name": "Computer science",
+      "code": "scs1103",
+      "url": "https://www.studocu.com/row/course/national-university-of-science-and-technology/computer-science/3236328"
+    },
+    {
+      "name": "computer-aided design/computer-aided manufacturing (cad/cam)",
+      "code": "TIE 6121",
+      "url": "https://www.studocu.com/row/course/national-university-of-science-and-technology/computer-aided-designcomputer-aided-manufacturing-cadcam/5407390"
+    },
+    {
+      "name": "computer-aided design/computer-aided manufacturing (cad/cam)",
+      "code": "TIE51111",
+      "url": "https://www.studocu.com/row/course/national-university-of-science-and-technology/computer-aided-designcomputer-aided-manufacturing-cadcam/6611168"
+    },
+    {
+      "name": "Computing and information systems",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/national-university-of-science-and-technology/computing-and-information-systems/6742156"
+    },
+    {
+      "name": "Conflict Transformation and Leadership",
+      "code": "CTL1101",
+      "url": "https://www.studocu.com/row/course/national-university-of-science-and-technology/conflict-transformation-and-leadership/3727165"
+    },
+    {
+      "name": "Construction and engineering law",
+      "code": "aqs 2105",
+      "url": "https://www.studocu.com/row/course/national-university-of-science-and-technology/construction-and-engineering-law/3235018"
+    },
+    {
+      "name": "Construction materials",
+      "code": "BCM 1101",
+      "url": "https://www.studocu.com/row/course/national-university-of-science-and-technology/construction-materials/6994385"
+    },
+    {
+      "name": "Contract Administration 2",
+      "code": "BQS 4202",
+      "url": "https://www.studocu.com/row/course/national-university-of-science-and-technology/contract-administration-2/7562185"
+    },
+    {
+      "name": "Control Engineering",
+      "code": "EEE3241",
+      "url": "https://www.studocu.com/row/course/national-university-of-science-and-technology/control-engineering/6029349"
+    },
+    {
+      "name": "Corporate finance",
+      "code": "FINA2222",
+      "url": "https://www.studocu.com/row/course/national-university-of-science-and-technology/corporate-finance/3178896"
+    },
+    {
+      "name": "Corporate finance",
+      "code": "CFI2202",
+      "url": "https://www.studocu.com/row/course/national-university-of-science-and-technology/corporate-finance/3178897"
+    },
+    {
+      "name": "Corporate law",
+      "code": "CLA201",
+      "url": "https://www.studocu.com/row/course/national-university-of-science-and-technology/corporate-law/3428468"
+    },
+    {
+      "name": "Corporate Law",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/national-university-of-science-and-technology/corporate-law/4475727"
+    },
+    {
+      "name": "Corporate strategy and decision making",
+      "code": "CIN4102",
+      "url": "https://www.studocu.com/row/course/national-university-of-science-and-technology/corporate-strategy-and-decision-making/4394371"
+    },
+    {
+      "name": "Crop Science",
+      "code": "LCS  2103",
+      "url": "https://www.studocu.com/row/course/national-university-of-science-and-technology/crop-science/5397194"
+    },
+    {
+      "name": "Data Structures & Object Oriented Programming",
+      "code": "EC-204",
+      "url": "https://www.studocu.com/row/course/national-university-of-science-and-technology/data-structures-object-oriented-programming/3526427"
+    },
+    {
+      "name": "Decision Analysis",
+      "code": "SORS 4101",
+      "url": "https://www.studocu.com/row/course/national-university-of-science-and-technology/decision-analysis/4260571"
+    },
+    {
+      "name": "Derivative Securities",
+      "code": "CBA4204",
+      "url": "https://www.studocu.com/row/course/national-university-of-science-and-technology/derivative-securities/3545772"
+    },
+    {
+      "name": "Digital and social media marketing",
+      "code": "CMK2105",
+      "url": "https://www.studocu.com/row/course/national-university-of-science-and-technology/digital-and-social-media-marketing/4633620"
+    },
+    {
+      "name": "Digital Communication",
+      "code": "TEE3221",
+      "url": "https://www.studocu.com/row/course/national-university-of-science-and-technology/digital-communication/5279418"
+    },
+    {
+      "name": "digital forensics",
+      "code": "SCI4201",
+      "url": "https://www.studocu.com/row/course/national-university-of-science-and-technology/digital-forensics/6749129"
+    },
+    {
+      "name": "Digital Signal processing",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/national-university-of-science-and-technology/digital-signal-processing/3532539"
+    },
+    {
+      "name": "Discrete Math",
+      "code": "MATH-161",
+      "url": "https://www.studocu.com/row/course/national-university-of-science-and-technology/discrete-math/3179597"
+    },
+    {
+      "name": "electrical measurements",
+      "code": "TEE1241",
+      "url": "https://www.studocu.com/row/course/national-university-of-science-and-technology/electrical-measurements/5275283"
+    },
+    {
+      "name": "Electromagnetic theory",
+      "code": "TEE 2256",
+      "url": "https://www.studocu.com/row/course/national-university-of-science-and-technology/electromagnetic-theory/3510155"
+    },
+    {
+      "name": "Electronic Commerce",
+      "code": "SIA 1102",
+      "url": "https://www.studocu.com/row/course/national-university-of-science-and-technology/electronic-commerce/7317011"
+    },
+    {
+      "name": "Electronic Pubishing",
+      "code": "IPU 1111",
+      "url": "https://www.studocu.com/row/course/national-university-of-science-and-technology/electronic-pubishing/5709057"
+    },
+    {
+      "name": "Engineering Circuit Analysis Hayt 8e",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/national-university-of-science-and-technology/engineering-circuit-analysis-hayt-8e/3254994"
+    },
+    {
+      "name": "engineering mathematics 1a",
+      "code": "sma1116a",
+      "url": "https://www.studocu.com/row/course/national-university-of-science-and-technology/engineering-mathematics-1a/6763375"
+    },
+    {
+      "name": "Engineering Mathematics 1b",
+      "code": "SMA1216",
+      "url": "https://www.studocu.com/row/course/national-university-of-science-and-technology/engineering-mathematics-1b/6637726"
+    },
+    {
+      "name": "Enzymology  and immunology",
+      "code": "sbb207",
+      "url": "https://www.studocu.com/row/course/national-university-of-science-and-technology/enzymology-and-immunology/6510944"
+    },
+    {
+      "name": "Financial accounting",
+      "code": "cac 2101",
+      "url": "https://www.studocu.com/row/course/national-university-of-science-and-technology/financial-accounting/3211185"
+    },
+    {
+      "name": "Financial Accounting 1B",
+      "code": "CAC1202",
+      "url": "https://www.studocu.com/row/course/national-university-of-science-and-technology/financial-accounting-1b/3727170"
+    },
+    {
+      "name": "Financial Economics",
+      "code": "CIN 4115",
+      "url": "https://www.studocu.com/row/course/national-university-of-science-and-technology/financial-economics/7304553"
+    },
+    {
+      "name": "financial mathematics",
+      "code": "CFI1101",
+      "url": "https://www.studocu.com/row/course/national-university-of-science-and-technology/financial-mathematics/3855534"
+    },
+    {
+      "name": "Financial Mathematics",
+      "code": "SMA4241",
+      "url": "https://www.studocu.com/row/course/national-university-of-science-and-technology/financial-mathematics/6956535"
+    },
+    {
+      "name": "Financial Reporting",
+      "code": "CAC4101",
+      "url": "https://www.studocu.com/row/course/national-university-of-science-and-technology/financial-reporting/6458115"
+    },
+    {
+      "name": "Financial Risk Management",
+      "code": "CIN5102",
+      "url": "https://www.studocu.com/row/course/national-university-of-science-and-technology/financial-risk-management/5396748"
+    },
+    {
+      "name": "Fluid Mechanics",
+      "code": "ME-233",
+      "url": "https://www.studocu.com/row/course/national-university-of-science-and-technology/fluid-mechanics/3257983"
+    },
+    {
+      "name": "General Insurance Maths 2",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/national-university-of-science-and-technology/general-insurance-maths-2/6044718"
+    },
+    {
+      "name": "Geographical information systems and remote sensing",
+      "code": "EGR1102",
+      "url": "https://www.studocu.com/row/course/national-university-of-science-and-technology/geographical-information-systems-and-remote-sensing/7319978"
+    },
+    {
+      "name": "Health and Disability Insurance",
+      "code": "CIN 2219",
+      "url": "https://www.studocu.com/row/course/national-university-of-science-and-technology/health-and-disability-insurance/6049176"
+    },
+    {
+      "name": "Heat & Mass Transfer",
+      "code": "ME-330",
+      "url": "https://www.studocu.com/row/course/national-university-of-science-and-technology/heat-mass-transfer/4361806"
+    },
+    {
+      "name": "Heat Transfer Processes",
+      "code": "TCE2205",
+      "url": "https://www.studocu.com/row/course/national-university-of-science-and-technology/heat-transfer-processes/3510388"
+    },
+    {
+      "name": "High Speed Networks",
+      "code": "TEE5224",
+      "url": "https://www.studocu.com/row/course/national-university-of-science-and-technology/high-speed-networks/5279421"
+    },
+    {
+      "name": "History of USA",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/national-university-of-science-and-technology/history-of-usa/4086366"
+    },
+    {
+      "name": "Human Resource Management",
+      "code": "HRM2032",
+      "url": "https://www.studocu.com/row/course/national-university-of-science-and-technology/human-resource-management/3645417"
+    },
+    {
+      "name": "internal medicine",
+      "code": "MBBS 2001",
+      "url": "https://www.studocu.com/row/course/national-university-of-science-and-technology/internal-medicine/6351797"
+    },
+    {
+      "name": "international finance",
+      "code": "Cin 4201",
+      "url": "https://www.studocu.com/row/course/national-university-of-science-and-technology/international-finance/4332868"
+    },
+    {
+      "name": "Introduction to Business Statistics",
+      "code": "BB6012",
+      "url": "https://www.studocu.com/row/course/national-university-of-science-and-technology/introduction-to-business-statistics/3697919"
+    },
+    {
+      "name": "Introduction to Financial Accounting",
+      "code": "ACC101",
+      "url": "https://www.studocu.com/row/course/national-university-of-science-and-technology/introduction-to-financial-accounting/6515801"
+    },
+    {
+      "name": "Introduction To Information Technology",
+      "code": "CAC 1203",
+      "url": "https://www.studocu.com/row/course/national-university-of-science-and-technology/introduction-to-information-technology/3950614"
+    },
+    {
+      "name": "introduction to mineral processing",
+      "code": "3103",
+      "url": "https://www.studocu.com/row/course/national-university-of-science-and-technology/introduction-to-mineral-processing/4527211"
+    },
+    {
+      "name": "iNTRODUCTION TO QUANTITY SURVEYING",
+      "code": "QS001",
+      "url": "https://www.studocu.com/row/course/national-university-of-science-and-technology/introduction-to-quantity-surveying/5973392"
+    },
+    {
+      "name": "Introductory Microbiology",
+      "code": "BIO203",
+      "url": "https://www.studocu.com/row/course/national-university-of-science-and-technology/introductory-microbiology/6510932"
+    },
+    {
+      "name": "Investment Analysis",
+      "code": "IVA 301",
+      "url": "https://www.studocu.com/row/course/national-university-of-science-and-technology/investment-analysis/5069732"
+    },
+    {
+      "name": "Journalism and Media Studies",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/national-university-of-science-and-technology/journalism-and-media-studies/6334733"
+    },
+    {
+      "name": "Laboratory",
+      "code": "TEE3104",
+      "url": "https://www.studocu.com/row/course/national-university-of-science-and-technology/laboratory/5253333"
+    },
+    {
+      "name": "Laboratory Science",
+      "code": "ECE2209",
+      "url": "https://www.studocu.com/row/course/national-university-of-science-and-technology/laboratory-science/6789466"
+    },
+    {
+      "name": "Life Contingencies 1",
+      "code": "CIN 2222",
+      "url": "https://www.studocu.com/row/course/national-university-of-science-and-technology/life-contingencies-1/6039926"
+    },
+    {
+      "name": "Linear Algebra",
+      "code": "Math-222",
+      "url": "https://www.studocu.com/row/course/national-university-of-science-and-technology/linear-algebra/3239997"
+    },
+    {
+      "name": "Mammalogy",
+      "code": "EFW 2102",
+      "url": "https://www.studocu.com/row/course/national-university-of-science-and-technology/mammalogy/5471238"
+    },
+    {
+      "name": "Management and Cost Accounting",
+      "code": "CAC2105",
+      "url": "https://www.studocu.com/row/course/national-university-of-science-and-technology/management-and-cost-accounting/4285019"
+    },
+    {
+      "name": "Management and Cost Accounting",
+      "code": "CAC 4105",
+      "url": "https://www.studocu.com/row/course/national-university-of-science-and-technology/management-and-cost-accounting/5703212"
+    },
+    {
+      "name": "Managerial Economics",
+      "code": "GMB5163",
+      "url": "https://www.studocu.com/row/course/national-university-of-science-and-technology/managerial-economics/4363758"
+    },
+    {
+      "name": "Manufacturing Processes III",
+      "code": "TIE5103",
+      "url": "https://www.studocu.com/row/course/national-university-of-science-and-technology/manufacturing-processes-iii/6611156"
+    },
+    {
+      "name": "Manufacturing Processes III",
+      "code": "TIE5101",
+      "url": "https://www.studocu.com/row/course/national-university-of-science-and-technology/manufacturing-processes-iii/6611158"
+    },
+    {
+      "name": "Manufacturing systems 1",
+      "code": "TIE 3112",
+      "url": "https://www.studocu.com/row/course/national-university-of-science-and-technology/manufacturing-systems-1/4317069"
+    },
+    {
+      "name": "Manufacturing Technology",
+      "code": "TIE 6122",
+      "url": "https://www.studocu.com/row/course/national-university-of-science-and-technology/manufacturing-technology/6184940"
+    },
+    {
+      "name": "Marketing Management",
+      "code": "SMB5601",
+      "url": "https://www.studocu.com/row/course/national-university-of-science-and-technology/marketing-management/3451105"
+    },
+    {
+      "name": "Mathematical Economics",
+      "code": "Maths-109",
+      "url": "https://www.studocu.com/row/course/national-university-of-science-and-technology/mathematical-economics/3234531"
+    },
+    {
+      "name": "Mathematical Methods For Computing",
+      "code": "CS813",
+      "url": "https://www.studocu.com/row/course/national-university-of-science-and-technology/mathematical-methods-for-computing/3177161"
+    },
+    {
+      "name": "Mechanics Of Materials",
+      "code": "ME 211",
+      "url": "https://www.studocu.com/row/course/national-university-of-science-and-technology/mechanics-of-materials/2900775"
+    },
+    {
+      "name": "Mechanizatio in Agriculture",
+      "code": "LCS 2103",
+      "url": "https://www.studocu.com/row/course/national-university-of-science-and-technology/mechanizatio-in-agriculture/5339021"
+    },
+    {
+      "name": "Medical Ethics",
+      "code": "SBS 1202",
+      "url": "https://www.studocu.com/row/course/national-university-of-science-and-technology/medical-ethics/7241391"
+    },
+    {
+      "name": "microwave devices",
+      "code": "TCL3102",
+      "url": "https://www.studocu.com/row/course/national-university-of-science-and-technology/microwave-devices/5159925"
+    },
+    {
+      "name": "Occupational Health",
+      "code": "ESH 2208",
+      "url": "https://www.studocu.com/row/course/national-university-of-science-and-technology/occupational-health/6682543"
+    },
+    {
+      "name": "Operation management",
+      "code": "cbu2108",
+      "url": "https://www.studocu.com/row/course/national-university-of-science-and-technology/operation-management/3266460"
+    },
+    {
+      "name": "Oracle Security",
+      "code": "SCS401",
+      "url": "https://www.studocu.com/row/course/national-university-of-science-and-technology/oracle-security/5239578"
+    },
+    {
+      "name": "Organisations and Management",
+      "code": "MGT- 535",
+      "url": "https://www.studocu.com/row/course/national-university-of-science-and-technology/organisations-and-management/3275676"
+    },
+    {
+      "name": "Pakistan Studies",
+      "code": "HU-107",
+      "url": "https://www.studocu.com/row/course/national-university-of-science-and-technology/pakistan-studies/3714562"
+    },
+    {
+      "name": "Parallel and distributed computing",
+      "code": "p4122",
+      "url": "https://www.studocu.com/row/course/national-university-of-science-and-technology/parallel-and-distributed-computing/6767735"
+    },
+    {
+      "name": "PDE",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/national-university-of-science-and-technology/pde/7186731"
+    },
+    {
+      "name": "Physical Chemistry",
+      "code": "SCH2204",
+      "url": "https://www.studocu.com/row/course/national-university-of-science-and-technology/physical-chemistry/5359738"
+    },
+    {
+      "name": "physiology",
+      "code": "MBM 2002",
+      "url": "https://www.studocu.com/row/course/national-university-of-science-and-technology/physiology/4032874"
+    },
+    {
+      "name": "Principles of economics",
+      "code": "BCS 1102",
+      "url": "https://www.studocu.com/row/course/national-university-of-science-and-technology/principles-of-economics/6994377"
+    },
+    {
+      "name": "Principles of Macroeconomics",
+      "code": "CBA1205",
+      "url": "https://www.studocu.com/row/course/national-university-of-science-and-technology/principles-of-macroeconomics/3639229"
+    },
+    {
+      "name": "Principles of management",
+      "code": "CBU 1108",
+      "url": "https://www.studocu.com/row/course/national-university-of-science-and-technology/principles-of-management/6504978"
+    },
+    {
+      "name": "Principles of Marketing",
+      "code": "CMK1209",
+      "url": "https://www.studocu.com/row/course/national-university-of-science-and-technology/principles-of-marketing/3946690"
+    },
+    {
+      "name": "Principles of Microeconomics",
+      "code": "CBA1104",
+      "url": "https://www.studocu.com/row/course/national-university-of-science-and-technology/principles-of-microeconomics/7436771"
+    },
+    {
+      "name": "Process dynamics and control",
+      "code": "5102",
+      "url": "https://www.studocu.com/row/course/national-university-of-science-and-technology/process-dynamics-and-control/5468006"
+    },
+    {
+      "name": "Process Dynamics, Modelling and Control",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/national-university-of-science-and-technology/process-dynamics-modelling-and-control/4411228"
+    },
+    {
+      "name": "Production Planning and Control",
+      "code": "TIE5102",
+      "url": "https://www.studocu.com/row/course/national-university-of-science-and-technology/production-planning-and-control/6611153"
+    },
+    {
+      "name": "Programming Fundamentals",
+      "code": "CS201",
+      "url": "https://www.studocu.com/row/course/national-university-of-science-and-technology/programming-fundamentals/3624425"
+    },
+    {
+      "name": "Property Studies",
+      "code": "BQS4208",
+      "url": "https://www.studocu.com/row/course/national-university-of-science-and-technology/property-studies/7432642"
+    },
+    {
+      "name": "Public policy",
+      "code": "cfs8790",
+      "url": "https://www.studocu.com/row/course/national-university-of-science-and-technology/public-policy/5742690"
+    },
+    {
+      "name": "Public sector accounting",
+      "code": "CAC4106",
+      "url": "https://www.studocu.com/row/course/national-university-of-science-and-technology/public-sector-accounting/6623735"
+    },
+    {
+      "name": "Quantitative Analysis for Business",
+      "code": "CIN1106",
+      "url": "https://www.studocu.com/row/course/national-university-of-science-and-technology/quantitative-analysis-for-business/3727161"
+    },
+    {
+      "name": "Research Methods",
+      "code": "CMK 2103",
+      "url": "https://www.studocu.com/row/course/national-university-of-science-and-technology/research-methods/5160328"
+    },
+    {
+      "name": "Research project",
+      "code": "scs4000",
+      "url": "https://www.studocu.com/row/course/national-university-of-science-and-technology/research-project/6528244"
+    },
+    {
+      "name": "Russian Language",
+      "code": "RUSA1",
+      "url": "https://www.studocu.com/row/course/national-university-of-science-and-technology/russian-language/6750008"
+    },
+    {
+      "name": "SOFTWARE ENGINEERING",
+      "code": "BSSE24",
+      "url": "https://www.studocu.com/row/course/national-university-of-science-and-technology/software-engineering/3236582"
+    },
+    {
+      "name": "Strategic Marketing Management",
+      "code": "BSM5102",
+      "url": "https://www.studocu.com/row/course/national-university-of-science-and-technology/strategic-marketing-management/5482399"
+    },
+    {
+      "name": "Structure analysis",
+      "code": "1",
+      "url": "https://www.studocu.com/row/course/national-university-of-science-and-technology/structure-analysis/3236108"
+    },
+    {
+      "name": "Tax law and practice",
+      "code": "CFS 2103",
+      "url": "https://www.studocu.com/row/course/national-university-of-science-and-technology/tax-law-and-practice/5830358"
+    },
+    {
+      "name": "Taxation",
+      "code": "Cac4202",
+      "url": "https://www.studocu.com/row/course/national-university-of-science-and-technology/taxation/5338096"
+    },
+    {
+      "name": "Telecommunications engineering",
+      "code": "Nust01-10",
+      "url": "https://www.studocu.com/row/course/national-university-of-science-and-technology/telecommunications-engineering/5065371"
+    },
+    {
+      "name": "Theory and practice of quantity surveying",
+      "code": "BQS2101",
+      "url": "https://www.studocu.com/row/course/national-university-of-science-and-technology/theory-and-practice-of-quantity-surveying/7398962"
+    },
+    {
+      "name": "Theory and Valuation of Derivatives",
+      "code": "CIN 4221",
+      "url": "https://www.studocu.com/row/course/national-university-of-science-and-technology/theory-and-valuation-of-derivatives/7482432"
+    },
+    {
+      "name": "Theory of Construction Management",
+      "code": "BCM 2103",
+      "url": "https://www.studocu.com/row/course/national-university-of-science-and-technology/theory-of-construction-management/6994375"
+    },
+    {
+      "name": "Topographic Base Mapping and DTM",
+      "code": "EGR2104",
+      "url": "https://www.studocu.com/row/course/national-university-of-science-and-technology/topographic-base-mapping-and-dtm/6928333"
+    },
+    {
+      "name": "Treasury management",
+      "code": "CBA 2108",
+      "url": "https://www.studocu.com/row/course/national-university-of-science-and-technology/treasury-management/1948392"
+    },
+    {
+      "name": "treasury mgt",
+      "code": "CBA11",
+      "url": "https://www.studocu.com/row/course/national-university-of-science-and-technology/treasury-mgt/4079338"
+    },
+    {
+      "name": "Wastewater Engineering",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/national-university-of-science-and-technology/wastewater-engineering/5962275"
+    }
+  ]
+}

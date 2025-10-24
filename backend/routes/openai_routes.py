@@ -7,6 +7,8 @@ from models.chat_message import ChatMessage
 from models.graph import Graph
 from flask_cors import cross_origin
 from openai import OpenAI
+from models.connection import Connection
+
 
 openai_bp = Blueprint("openai_bp", __name__)
 client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
@@ -181,3 +183,139 @@ def chat_stream():
             "Connection": "keep-alive",
         },
     )
+
+
+@openai_bp.route("/analyze-graph", methods=["POST"])
+@cross_origin()
+def analyze_graph_connections():
+    """
+    Analyze conceptual relationship strength for a graph's connections using AI.
+
+    Request JSON:
+      { "graph_id": 5 }
+
+    Response JSON:
+      {
+        "success": true,
+        "updated": 10,
+        "graph_id": 5
+      }
+    """
+    data = request.get_json(silent=True) or {}
+    graph_id = data.get("graph_id")
+
+    if not graph_id:
+        return jsonify({"error": "graph_id is required"}), 400
+
+    graph = Graph.query.filter_by(id=graph_id).first()
+    if not graph:
+        return jsonify({"error": f"Graph {graph_id} not found"}), 404
+
+    # --------------------------
+    # Fetch notes and connections
+    # --------------------------
+    notes = Graph.query.get(graph_id).notes
+    note_map = {n.id: n for n in notes}
+    connections = (
+        Connection.query
+        .filter(Connection.note_id_1.in_(note_map.keys()), Connection.note_id_2.in_(note_map.keys()))
+        .all()
+    )
+
+    if not connections:
+        return jsonify({"error": "No connections found in graph"}), 400
+
+    # Build JSON payload
+    graph_data = {
+        "graph_id": graph.id,
+        "name": graph.name,
+        "nodes": [
+            {
+                "id": n.id,
+                "name": n.name,
+                "description": n.description,
+            }
+            for n in notes
+        ],
+        "edges": [
+            {
+                "id": c.id,
+                "source": c.note_id_1,
+                "target": c.note_id_2,
+                "strength": None,
+            }
+            for c in connections
+        ],
+    }
+
+    # --------------------------
+    # Prompt for relationship analysis
+    # --------------------------
+    prompt = f"""
+You are an AI that evaluates conceptual relationships in a knowledge graph.
+
+INPUT FORMAT
+- Nodes: each has a "name" (title) and "description".
+- Edges: each connects two node IDs.
+
+TASK
+Evaluate every edge's conceptual validity IN THE CONTEXT OF THE ENTIRE GRAPH AND ITS IMPLIED HIERARCHY
+(e.g., parent/child groupings, core vs. subtype, part-of vs. peer). Be very critical:
+if an edge does not make strong sense given the overall structure, it should receive a low score.
+
+SCORING (integer 1–10 only)
+- 10 → Essential, correct, and structurally coherent in the hierarchy (e.g., clear parent-child, part-of, or canonical subtype).
+- 8–9 → Strong and coherent; fits the hierarchy with minimal ambiguity.
+- 5–7 → Plausible but not clearly supported by the hierarchy; partial overlap.
+- 3–4 → Weak; likely cross-link that confuses structure or mixes unrelated levels.
+- 1–2 → Incorrect or misleading; contradicts hierarchy or unrelated concepts.
+
+IMPORTANT RULES
+- Judge each edge using BOTH the two nodes’ meanings AND the global graph context (clusters, central nodes, known groupings).
+- Penalize edges that jump across unrelated branches, or connect items at incompatible levels (e.g., a specific subtype ↔ distant, unrelated category).
+- Do not invent new nodes or change the structure.
+- Output must be ONLY the same JSON structure as provided, with "strength" filled for each edge (integer 1–10). No extra text.
+
+Graph data:
+{json.dumps(graph_data, indent=2, ensure_ascii=False)}
+    """
+
+    # --------------------------
+    # Call model
+    # --------------------------
+    try:
+        response = client.chat.completions.create(
+            model="gpt-4o-mini",
+            messages=[
+                {"role": "system", "content": "You are an expert at analyzing conceptual relationships."},
+                {"role": "user", "content": prompt},
+            ],
+            response_format={"type": "json_object"},
+            temperature=0.2,
+        )
+
+        result_text = response.choices[0].message.content
+        evaluated_graph = json.loads(result_text)
+
+    except Exception as e:
+        print("⚠️ AI analysis error:", e)
+        return jsonify({"error": "Failed to analyze graph", "details": str(e)}), 500
+
+    # --------------------------
+    # Update connection strengths in DB
+    # --------------------------
+    updated_count = 0
+    for edge in evaluated_graph.get("edges", []):
+        conn = next((c for c in connections if c.id == edge["id"]), None)
+        if conn and "strength" in edge and isinstance(edge["strength"], (int, float)):
+            conn.strength = float(edge["strength"])
+            updated_count += 1
+
+    db.session.commit()
+
+    return jsonify({
+        "success": True,
+        "graph_id": graph_id,
+        "updated": updated_count,
+        "message": "Connection strengths analyzed and updated."
+    }), 200

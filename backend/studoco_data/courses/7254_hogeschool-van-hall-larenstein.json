@@ -1,0 +1,601 @@
+{
+  "university_id": "7254",
+  "university_name": "Hogeschool Van Hall Larenstein",
+  "courses": [
+    {
+      "name": "Adviseren over uitgangsmateriaal",
+      "code": "LTA221",
+      "url": "https://www.studocu.com/nl/course/hogeschool-van-hall-larenstein/adviseren-over-uitgangsmateriaal/6269233"
+    },
+    {
+      "name": "Animal Health",
+      "code": "VAH2AHVE",
+      "url": "https://www.studocu.com/nl/course/hogeschool-van-hall-larenstein/animal-health/1742638"
+    },
+    {
+      "name": "Applied Qualitative Research",
+      "code": "VID1ARVE",
+      "url": "https://www.studocu.com/nl/course/hogeschool-van-hall-larenstein/applied-qualitative-research/2427436"
+    },
+    {
+      "name": "Bakkerijtechnologie",
+      "code": null,
+      "url": "https://www.studocu.com/nl/course/hogeschool-van-hall-larenstein/bakkerijtechnologie/2931722"
+    },
+    {
+      "name": "Basic Forensic Skills",
+      "code": "LBT203VNFS1",
+      "url": "https://www.studocu.com/nl/course/hogeschool-van-hall-larenstein/basic-forensic-skills/4591140"
+    },
+    {
+      "name": "Basisvaardigheden Technisch Onderzoek",
+      "code": "LFL112VN2",
+      "url": "https://www.studocu.com/nl/course/hogeschool-van-hall-larenstein/basisvaardigheden-technisch-onderzoek/5168982"
+    },
+    {
+      "name": "Bedrijfseconomie",
+      "code": "LBA221",
+      "url": "https://www.studocu.com/nl/course/hogeschool-van-hall-larenstein/bedrijfseconomie/3237988"
+    },
+    {
+      "name": "Beleid en duurzame ontwikkelingen",
+      "code": "LKZ114VN2",
+      "url": "https://www.studocu.com/nl/course/hogeschool-van-hall-larenstein/beleid-en-duurzame-ontwikkelingen/5379379"
+    },
+    {
+      "name": "Beoordelen van mileueffecten",
+      "code": "LML223",
+      "url": "https://www.studocu.com/nl/course/hogeschool-van-hall-larenstein/beoordelen-van-mileueffecten/1739796"
+    },
+    {
+      "name": "Beoordelen van omgevingskwaliteit",
+      "code": "LLG204",
+      "url": "https://www.studocu.com/nl/course/hogeschool-van-hall-larenstein/beoordelen-van-omgevingskwaliteit/1739795"
+    },
+    {
+      "name": "Beweging, sport en maatschappij",
+      "code": "BSM001",
+      "url": "https://www.studocu.com/nl/course/hogeschool-van-hall-larenstein/beweging-sport-en-maatschappij/5835791"
+    },
+    {
+      "name": "Biobits",
+      "code": "PLS05/07",
+      "url": "https://www.studocu.com/nl/course/hogeschool-van-hall-larenstein/biobits/1552787"
+    },
+    {
+      "name": "Biochemistry",
+      "code": "LLS333",
+      "url": "https://www.studocu.com/nl/course/hogeschool-van-hall-larenstein/biochemistry/2184985"
+    },
+    {
+      "name": "Biologisch Forensisch Onderzoek",
+      "code": "LBT204VNFS1",
+      "url": "https://www.studocu.com/nl/course/hogeschool-van-hall-larenstein/biologisch-forensisch-onderzoek/4591142"
+    },
+    {
+      "name": "bioprocestechnologie",
+      "code": "LBT104",
+      "url": "https://www.studocu.com/nl/course/hogeschool-van-hall-larenstein/bioprocestechnologie/5798118"
+    },
+    {
+      "name": "Bmwuu",
+      "code": "Bmwuu2022",
+      "url": "https://www.studocu.com/nl/course/hogeschool-van-hall-larenstein/bmwuu/6181496"
+    },
+    {
+      "name": "Bodem en Milieu",
+      "code": "geen idee",
+      "url": "https://www.studocu.com/nl/course/hogeschool-van-hall-larenstein/bodem-en-milieu/5918556"
+    },
+    {
+      "name": "celbiologie",
+      "code": "LDM125",
+      "url": "https://www.studocu.com/nl/course/hogeschool-van-hall-larenstein/celbiologie/4528236"
+    },
+    {
+      "name": "Cell Biology",
+      "code": "LLS332",
+      "url": "https://www.studocu.com/nl/course/hogeschool-van-hall-larenstein/cell-biology/1552785"
+    },
+    {
+      "name": "ChemieX",
+      "code": null,
+      "url": "https://www.studocu.com/nl/course/hogeschool-van-hall-larenstein/chemiex/1667671"
+    },
+    {
+      "name": "Chemisch sporenonderzoek",
+      "code": "LCH102VNW2",
+      "url": "https://www.studocu.com/nl/course/hogeschool-van-hall-larenstein/chemisch-sporenonderzoek/4325475"
+    },
+    {
+      "name": "chemische reactorkunde",
+      "code": "LCT221",
+      "url": "https://www.studocu.com/nl/course/hogeschool-van-hall-larenstein/chemische-reactorkunde/5269073"
+    },
+    {
+      "name": "Chromatografie",
+      "code": "LVT201",
+      "url": "https://www.studocu.com/nl/course/hogeschool-van-hall-larenstein/chromatografie/3170020"
+    },
+    {
+      "name": "Communicatie en Ethiek",
+      "code": "LFL221VN",
+      "url": "https://www.studocu.com/nl/course/hogeschool-van-hall-larenstein/communicatie-en-ethiek/6716508"
+    },
+    {
+      "name": "Communiceren van Beleid",
+      "code": "LLG114",
+      "url": "https://www.studocu.com/nl/course/hogeschool-van-hall-larenstein/communiceren-van-beleid/1552788"
+    },
+    {
+      "name": "Communiceren van beleid",
+      "code": "LDM114VN",
+      "url": "https://www.studocu.com/nl/course/hogeschool-van-hall-larenstein/communiceren-van-beleid/1667660"
+    },
+    {
+      "name": "Crises and food security",
+      "code": "VID2CFVE1",
+      "url": "https://www.studocu.com/nl/course/hogeschool-van-hall-larenstein/crises-and-food-security/4905759"
+    },
+    {
+      "name": "Dairy Technology",
+      "code": "LLS351",
+      "url": "https://www.studocu.com/nl/course/hogeschool-van-hall-larenstein/dairy-technology/1501876"
+    },
+    {
+      "name": "De Cel",
+      "code": "LBT101VN1",
+      "url": "https://www.studocu.com/nl/course/hogeschool-van-hall-larenstein/de-cel/4523267"
+    },
+    {
+      "name": "De Plant",
+      "code": "LBT122VN",
+      "url": "https://www.studocu.com/nl/course/hogeschool-van-hall-larenstein/de-plant/5096424"
+    },
+    {
+      "name": "Derecho",
+      "code": "familia",
+      "url": "https://www.studocu.com/nl/course/hogeschool-van-hall-larenstein/derecho/7632408"
+    },
+    {
+      "name": "Diagnostisch Redeneren",
+      "code": "LBM222",
+      "url": "https://www.studocu.com/nl/course/hogeschool-van-hall-larenstein/diagnostisch-redeneren/1741287"
+    },
+    {
+      "name": "Dier & Beheer",
+      "code": "LDM101VN",
+      "url": "https://www.studocu.com/nl/course/hogeschool-van-hall-larenstein/dier-beheer/1667652"
+    },
+    {
+      "name": "Dier & Omgeving",
+      "code": "LDM103VN",
+      "url": "https://www.studocu.com/nl/course/hogeschool-van-hall-larenstein/dier-omgeving/1667654"
+    },
+    {
+      "name": "Dier & Samenleving",
+      "code": "LDM102VN",
+      "url": "https://www.studocu.com/nl/course/hogeschool-van-hall-larenstein/dier-samenleving/1667653"
+    },
+    {
+      "name": "Dier en Bedrijf",
+      "code": "LDM3B3VN",
+      "url": "https://www.studocu.com/nl/course/hogeschool-van-hall-larenstein/dier-en-bedrijf/2917799"
+    },
+    {
+      "name": "Dier en welzijn 1",
+      "code": "ldm125",
+      "url": "https://www.studocu.com/nl/course/hogeschool-van-hall-larenstein/dier-en-welzijn-1/4496782"
+    },
+    {
+      "name": "Dier en welzijn 2",
+      "code": "LDM126VN",
+      "url": "https://www.studocu.com/nl/course/hogeschool-van-hall-larenstein/dier-en-welzijn-2/2951327"
+    },
+    {
+      "name": "Dieren in de Zorg",
+      "code": "LDM3Z0VN",
+      "url": "https://www.studocu.com/nl/course/hogeschool-van-hall-larenstein/dieren-in-de-zorg/3179378"
+    },
+    {
+      "name": "Diergezondheid",
+      "code": null,
+      "url": "https://www.studocu.com/nl/course/hogeschool-van-hall-larenstein/diergezondheid/1665755"
+    },
+    {
+      "name": "DNAno",
+      "code": "LLS349",
+      "url": "https://www.studocu.com/nl/course/hogeschool-van-hall-larenstein/dnano/1552786"
+    },
+    {
+      "name": "Duurzame Gebiedsontwikkeling",
+      "code": "LML360",
+      "url": "https://www.studocu.com/nl/course/hogeschool-van-hall-larenstein/duurzame-gebiedsontwikkeling/2015129"
+    },
+    {
+      "name": "Effectief adviseren",
+      "code": "LDM113VN",
+      "url": "https://www.studocu.com/nl/course/hogeschool-van-hall-larenstein/effectief-adviseren/1667659"
+    },
+    {
+      "name": "Enzymen",
+      "code": "LLS102",
+      "url": "https://www.studocu.com/nl/course/hogeschool-van-hall-larenstein/enzymen/5798115"
+    },
+    {
+      "name": "Ethologie",
+      "code": "ldm201",
+      "url": "https://www.studocu.com/nl/course/hogeschool-van-hall-larenstein/ethologie/2137852"
+    },
+    {
+      "name": "Financial management",
+      "code": "331",
+      "url": "https://www.studocu.com/nl/course/hogeschool-van-hall-larenstein/financial-management/3329154"
+    },
+    {
+      "name": "Fire Research",
+      "code": "LFL321VN3",
+      "url": "https://www.studocu.com/nl/course/hogeschool-van-hall-larenstein/fire-research/7456322"
+    },
+    {
+      "name": "Food preservation processes",
+      "code": "LVT332VN1",
+      "url": "https://www.studocu.com/nl/course/hogeschool-van-hall-larenstein/food-preservation-processes/5739973"
+    },
+    {
+      "name": "Food Safety and Quality",
+      "code": "VFT3FSVE2_2020",
+      "url": "https://www.studocu.com/nl/course/hogeschool-van-hall-larenstein/food-safety-and-quality/5725848"
+    },
+    {
+      "name": "GIS",
+      "code": "LML360",
+      "url": "https://www.studocu.com/nl/course/hogeschool-van-hall-larenstein/gis/2015131"
+    },
+    {
+      "name": "Groente en fruittechnologie",
+      "code": "BLAW0912",
+      "url": "https://www.studocu.com/nl/course/hogeschool-van-hall-larenstein/groente-en-fruittechnologie/5161249"
+    },
+    {
+      "name": "Hematologie",
+      "code": "LBM204VN",
+      "url": "https://www.studocu.com/nl/course/hogeschool-van-hall-larenstein/hematologie/4615122"
+    },
+    {
+      "name": "Het dier is zijn omgeving",
+      "code": "LDM130VN",
+      "url": "https://www.studocu.com/nl/course/hogeschool-van-hall-larenstein/het-dier-is-zijn-omgeving/6037547"
+    },
+    {
+      "name": "HRM en Logistiek",
+      "code": "LBA225",
+      "url": "https://www.studocu.com/nl/course/hogeschool-van-hall-larenstein/hrm-en-logistiek/6515662"
+    },
+    {
+      "name": "IDM",
+      "code": null,
+      "url": "https://www.studocu.com/nl/course/hogeschool-van-hall-larenstein/idm/2573357"
+    },
+    {
+      "name": "Immunologie",
+      "code": "LBT332",
+      "url": "https://www.studocu.com/nl/course/hogeschool-van-hall-larenstein/immunologie/1741283"
+    },
+    {
+      "name": "Industrial Quality Management",
+      "code": "LLS333",
+      "url": "https://www.studocu.com/nl/course/hogeschool-van-hall-larenstein/industrial-quality-management/4353414"
+    },
+    {
+      "name": "Infectie en Therapie",
+      "code": "LBM203",
+      "url": "https://www.studocu.com/nl/course/hogeschool-van-hall-larenstein/infectie-en-therapie/1667110"
+    },
+    {
+      "name": "Infectie en therapie",
+      "code": "LBM203VN1",
+      "url": "https://www.studocu.com/nl/course/hogeschool-van-hall-larenstein/infectie-en-therapie/4615128"
+    },
+    {
+      "name": "Informatiemanagement",
+      "code": "IM",
+      "url": "https://www.studocu.com/nl/course/hogeschool-van-hall-larenstein/informatiemanagement/3269725"
+    },
+    {
+      "name": "Inkoop",
+      "code": "LLG",
+      "url": "https://www.studocu.com/nl/course/hogeschool-van-hall-larenstein/inkoop/1492506"
+    },
+    {
+      "name": "Inleiding Milieu",
+      "code": "LMK151/152",
+      "url": "https://www.studocu.com/nl/course/hogeschool-van-hall-larenstein/inleiding-milieu/4577881"
+    },
+    {
+      "name": "Inleiding voeding en gezondheid",
+      "code": null,
+      "url": "https://www.studocu.com/nl/course/hogeschool-van-hall-larenstein/inleiding-voeding-en-gezondheid/2185309"
+    },
+    {
+      "name": "International Development Management",
+      "code": "IDM",
+      "url": "https://www.studocu.com/nl/course/hogeschool-van-hall-larenstein/international-development-management/3195743"
+    },
+    {
+      "name": "Je studie, je toekomst",
+      "code": "LVT111VN2",
+      "url": "https://www.studocu.com/nl/course/hogeschool-van-hall-larenstein/je-studie-je-toekomst/6559009"
+    },
+    {
+      "name": "Klant gericht denken",
+      "code": "LDM112VN",
+      "url": "https://www.studocu.com/nl/course/hogeschool-van-hall-larenstein/klant-gericht-denken/1667658"
+    },
+    {
+      "name": "Klimaatslim Bosbeheer Keuzevak",
+      "code": null,
+      "url": "https://www.studocu.com/nl/course/hogeschool-van-hall-larenstein/klimaatslim-bosbeheer-keuzevak/5918415"
+    },
+    {
+      "name": "Kwaliteits- en informatiesystemen",
+      "code": "LVT221VN1",
+      "url": "https://www.studocu.com/nl/course/hogeschool-van-hall-larenstein/kwaliteits-en-informatiesystemen/5156229"
+    },
+    {
+      "name": "Laboratoriumanalyse",
+      "code": "LBM221VNW2",
+      "url": "https://www.studocu.com/nl/course/hogeschool-van-hall-larenstein/laboratoriumanalyse/4497373"
+    },
+    {
+      "name": "Landschapsplan en Werkend leren",
+      "code": null,
+      "url": "https://www.studocu.com/nl/course/hogeschool-van-hall-larenstein/landschapsplan-en-werkend-leren/6062620"
+    },
+    {
+      "name": "Linking phenotype to genotype",
+      "code": "LLS372VN",
+      "url": "https://www.studocu.com/nl/course/hogeschool-van-hall-larenstein/linking-phenotype-to-genotype/4615123"
+    },
+    {
+      "name": "Maatschappelijk Verantwoord Ondernemen",
+      "code": "LBA004",
+      "url": "https://www.studocu.com/nl/course/hogeschool-van-hall-larenstein/maatschappelijk-verantwoord-ondernemen/6059514"
+    },
+    {
+      "name": "Mariene diversiteit",
+      "code": "LKZ111",
+      "url": "https://www.studocu.com/nl/course/hogeschool-van-hall-larenstein/mariene-diversiteit/5381315"
+    },
+    {
+      "name": "Marine spatial planning",
+      "code": "lkz112vn1",
+      "url": "https://www.studocu.com/nl/course/hogeschool-van-hall-larenstein/marine-spatial-planning/4488764"
+    },
+    {
+      "name": "Marketing",
+      "code": "LDM112VN",
+      "url": "https://www.studocu.com/nl/course/hogeschool-van-hall-larenstein/marketing/1667656"
+    },
+    {
+      "name": "Metagenomics",
+      "code": "LLS373VN1",
+      "url": "https://www.studocu.com/nl/course/hogeschool-van-hall-larenstein/metagenomics/4615119"
+    },
+    {
+      "name": "Moleculair Medicine",
+      "code": "LLS121",
+      "url": "https://www.studocu.com/nl/course/hogeschool-van-hall-larenstein/moleculair-medicine/5096423"
+    },
+    {
+      "name": "Moleculaire detectie",
+      "code": "LLS105VN1",
+      "url": "https://www.studocu.com/nl/course/hogeschool-van-hall-larenstein/moleculaire-detectie/4323915"
+    },
+    {
+      "name": "Moleculaire detectie 2",
+      "code": "LLS207",
+      "url": "https://www.studocu.com/nl/course/hogeschool-van-hall-larenstein/moleculaire-detectie-2/4325466"
+    },
+    {
+      "name": "Natuur en Waterbeheer",
+      "code": "LMK227",
+      "url": "https://www.studocu.com/nl/course/hogeschool-van-hall-larenstein/natuur-en-waterbeheer/2993004"
+    },
+    {
+      "name": "Natuurkunde",
+      "code": "Natw1101",
+      "url": "https://www.studocu.com/nl/course/hogeschool-van-hall-larenstein/natuurkunde/4686615"
+    },
+    {
+      "name": "Ondernemerschap in de agro food sector",
+      "code": "LTA116",
+      "url": "https://www.studocu.com/nl/course/hogeschool-van-hall-larenstein/ondernemerschap-in-de-agro-food-sector/6269230"
+    },
+    {
+      "name": "Onderzoek Soortenkennis",
+      "code": null,
+      "url": "https://www.studocu.com/nl/course/hogeschool-van-hall-larenstein/onderzoek-soortenkennis/6062536"
+    },
+    {
+      "name": "optimalisatie zuivelproces",
+      "code": "LLS103VN1",
+      "url": "https://www.studocu.com/nl/course/hogeschool-van-hall-larenstein/optimalisatie-zuivelproces/6570255"
+    },
+    {
+      "name": "Organisatiekunde",
+      "code": "LBA104VNLG",
+      "url": "https://www.studocu.com/nl/course/hogeschool-van-hall-larenstein/organisatiekunde/4480430"
+    },
+    {
+      "name": "Pathologie/Fysiologie",
+      "code": "LBT334",
+      "url": "https://www.studocu.com/nl/course/hogeschool-van-hall-larenstein/pathologiefysiologie/1741280"
+    },
+    {
+      "name": "Pathology, Physiology",
+      "code": "LBT334VN1",
+      "url": "https://www.studocu.com/nl/course/hogeschool-van-hall-larenstein/pathology-physiology/1741537"
+    },
+    {
+      "name": "Plant biotechnology 1",
+      "code": "LBT331",
+      "url": "https://www.studocu.com/nl/course/hogeschool-van-hall-larenstein/plant-biotechnology-1/4554659"
+    },
+    {
+      "name": "Plant en Bodem",
+      "code": "LTA112",
+      "url": "https://www.studocu.com/nl/course/hogeschool-van-hall-larenstein/plant-en-bodem/6014365"
+    },
+    {
+      "name": "Plant in onderzoek en innovatie",
+      "code": "LTA115",
+      "url": "https://www.studocu.com/nl/course/hogeschool-van-hall-larenstein/plant-in-onderzoek-en-innovatie/6232831"
+    },
+    {
+      "name": "Plantenkennis",
+      "code": "V1TLPL1",
+      "url": "https://www.studocu.com/nl/course/hogeschool-van-hall-larenstein/plantenkennis/2350437"
+    },
+    {
+      "name": "Process Engineering 1",
+      "code": "LCT311VN1",
+      "url": "https://www.studocu.com/nl/course/hogeschool-van-hall-larenstein/process-engineering-1/3238053"
+    },
+    {
+      "name": "Procesverslag",
+      "code": "LDM111VN",
+      "url": "https://www.studocu.com/nl/course/hogeschool-van-hall-larenstein/procesverslag/1665410"
+    },
+    {
+      "name": "Projectmanagement",
+      "code": "LBA220",
+      "url": "https://www.studocu.com/nl/course/hogeschool-van-hall-larenstein/projectmanagement/4371981"
+    },
+    {
+      "name": "Projectrealisatie",
+      "code": "VLW2P1VN",
+      "url": "https://www.studocu.com/nl/course/hogeschool-van-hall-larenstein/projectrealisatie/1665063"
+    },
+    {
+      "name": "Recht",
+      "code": null,
+      "url": "https://www.studocu.com/nl/course/hogeschool-van-hall-larenstein/recht/1492507"
+    },
+    {
+      "name": "Recht en onderzoek",
+      "code": "LBT205VNFS",
+      "url": "https://www.studocu.com/nl/course/hogeschool-van-hall-larenstein/recht-en-onderzoek/4591144"
+    },
+    {
+      "name": "Research AH",
+      "code": "VAH111VE",
+      "url": "https://www.studocu.com/nl/course/hogeschool-van-hall-larenstein/research-ah/6561112"
+    },
+    {
+      "name": "Research Management",
+      "code": "LLS215",
+      "url": "https://www.studocu.com/nl/course/hogeschool-van-hall-larenstein/research-management/1741276"
+    },
+    {
+      "name": "Research Management",
+      "code": "LLS215VN",
+      "url": "https://www.studocu.com/nl/course/hogeschool-van-hall-larenstein/research-management/1741531"
+    },
+    {
+      "name": "Research Management",
+      "code": "LVT215VN",
+      "url": "https://www.studocu.com/nl/course/hogeschool-van-hall-larenstein/research-management/7215223"
+    },
+    {
+      "name": "Statistiek",
+      "code": "LLS101VNSLB",
+      "url": "https://www.studocu.com/nl/course/hogeschool-van-hall-larenstein/statistiek/1624754"
+    },
+    {
+      "name": "Stress Effects on Coast and Sea",
+      "code": "LKZ221VE1",
+      "url": "https://www.studocu.com/nl/course/hogeschool-van-hall-larenstein/stress-effects-on-coast-and-sea/6907906"
+    },
+    {
+      "name": "Systems biology",
+      "code": "LLS338VN",
+      "url": "https://www.studocu.com/nl/course/hogeschool-van-hall-larenstein/systems-biology/4615127"
+    },
+    {
+      "name": "Techniek (Grondwater)",
+      "code": "LW1WA3",
+      "url": "https://www.studocu.com/nl/course/hogeschool-van-hall-larenstein/techniek-grondwater/1665087"
+    },
+    {
+      "name": "Toekomst gericht ondernemen",
+      "code": "LBA502",
+      "url": "https://www.studocu.com/nl/course/hogeschool-van-hall-larenstein/toekomst-gericht-ondernemen/2574586"
+    },
+    {
+      "name": "Toxicology",
+      "code": "LLS347",
+      "url": "https://www.studocu.com/nl/course/hogeschool-van-hall-larenstein/toxicology/1501875"
+    },
+    {
+      "name": "Tropical Forestry",
+      "code": "VBN3TFVE2",
+      "url": "https://www.studocu.com/nl/course/hogeschool-van-hall-larenstein/tropical-forestry/6900381"
+    },
+    {
+      "name": "Tuin- en Landschapsinrichting",
+      "code": "??",
+      "url": "https://www.studocu.com/nl/course/hogeschool-van-hall-larenstein/tuin-en-landschapsinrichting/1732948"
+    },
+    {
+      "name": "van worst tot vegaburger",
+      "code": "LVT101VN2",
+      "url": "https://www.studocu.com/nl/course/hogeschool-van-hall-larenstein/van-worst-tot-vegaburger/5935399"
+    },
+    {
+      "name": "Vegetatie en Fauna",
+      "code": "VegFau",
+      "url": "https://www.studocu.com/nl/course/hogeschool-van-hall-larenstein/vegetatie-en-fauna/5922921"
+    },
+    {
+      "name": "Verwerking plantaardige producten",
+      "code": "LVT102",
+      "url": "https://www.studocu.com/nl/course/hogeschool-van-hall-larenstein/verwerking-plantaardige-producten/4499627"
+    },
+    {
+      "name": "Vleestechnologie",
+      "code": null,
+      "url": "https://www.studocu.com/nl/course/hogeschool-van-hall-larenstein/vleestechnologie/2185310"
+    },
+    {
+      "name": "Water (2)",
+      "code": "VLW1W2VN",
+      "url": "https://www.studocu.com/nl/course/hogeschool-van-hall-larenstein/water-2/1665075"
+    },
+    {
+      "name": "Watermanagement",
+      "code": "watermanagement",
+      "url": "https://www.studocu.com/nl/course/hogeschool-van-hall-larenstein/watermanagement/3160288"
+    },
+    {
+      "name": "Werken in het lab",
+      "code": "LLS101VN2",
+      "url": "https://www.studocu.com/nl/course/hogeschool-van-hall-larenstein/werken-in-het-lab/3751178"
+    },
+    {
+      "name": "Wettelijke Kaders",
+      "code": "LFL121VN2",
+      "url": "https://www.studocu.com/nl/course/hogeschool-van-hall-larenstein/wettelijke-kaders/5382843"
+    },
+    {
+      "name": "Wiskunde",
+      "code": "LPS101VN",
+      "url": "https://www.studocu.com/nl/course/hogeschool-van-hall-larenstein/wiskunde/1552784"
+    },
+    {
+      "name": "Zee als bron van leven",
+      "code": "LKZ101VN",
+      "url": "https://www.studocu.com/nl/course/hogeschool-van-hall-larenstein/zee-als-bron-van-leven/1505716"
+    }
+  ]
+}

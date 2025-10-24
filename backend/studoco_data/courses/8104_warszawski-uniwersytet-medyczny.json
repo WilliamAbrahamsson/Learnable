@@ -1,0 +1,706 @@
+{
+  "university_id": "8104",
+  "university_name": "Warszawski Uniwersytet Medyczny",
+  "courses": [
+    {
+      "name": "Analiza Kliniczna; Zaawansowana Synteza",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/warszawski-uniwersytet-medyczny/analiza-kliniczna-zaawansowana-synteza/4285859"
+    },
+    {
+      "name": "Analiza Wpływu Wydatków Na Lek Na Budżet Płatnika - Praktyczna Nauka Zawodu",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/warszawski-uniwersytet-medyczny/analiza-wplywu-wydatkow-na-lek-na-budzet-platnika-praktyczna-nauka-zawodu/4285866"
+    },
+    {
+      "name": "Anatomia",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/warszawski-uniwersytet-medyczny/anatomia/4362212"
+    },
+    {
+      "name": "Anatomy",
+      "code": "1",
+      "url": "https://www.studocu.com/pl/course/warszawski-uniwersytet-medyczny/anatomy/4577307"
+    },
+    {
+      "name": "Anestesiology and Intensive Care",
+      "code": "1",
+      "url": "https://www.studocu.com/pl/course/warszawski-uniwersytet-medyczny/anestesiology-and-intensive-care/4577308"
+    },
+    {
+      "name": "Anestezjologii I Intensywnej Terapii",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/warszawski-uniwersytet-medyczny/anestezjologii-i-intensywnej-terapii/4285877"
+    },
+    {
+      "name": "Badania fizykalne",
+      "code": "Bdfiz2024",
+      "url": "https://www.studocu.com/pl/course/warszawski-uniwersytet-medyczny/badania-fizykalne/7386650"
+    },
+    {
+      "name": "Basic Polish",
+      "code": "1",
+      "url": "https://www.studocu.com/pl/course/warszawski-uniwersytet-medyczny/basic-polish/4577309"
+    },
+    {
+      "name": "Bazy Informacji Naukowej O Lekach",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/warszawski-uniwersytet-medyczny/bazy-informacji-naukowej-o-lekach/4285863"
+    },
+    {
+      "name": "Bezpieczeństwo I Higiena Pracy  (On-Line)",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/warszawski-uniwersytet-medyczny/bezpieczenstwo-i-higiena-pracy-on-line/4285854"
+    },
+    {
+      "name": "biochemia",
+      "code": "bioch2020",
+      "url": "https://www.studocu.com/pl/course/warszawski-uniwersytet-medyczny/biochemia/4905909"
+    },
+    {
+      "name": "Biochemistry",
+      "code": "-",
+      "url": "https://www.studocu.com/pl/course/warszawski-uniwersytet-medyczny/biochemistry/4467304"
+    },
+    {
+      "name": "Biochemistry with Elements of Chemistry",
+      "code": "1",
+      "url": "https://www.studocu.com/pl/course/warszawski-uniwersytet-medyczny/biochemistry-with-elements-of-chemistry/4577310"
+    },
+    {
+      "name": "Biology",
+      "code": "1",
+      "url": "https://www.studocu.com/pl/course/warszawski-uniwersytet-medyczny/biology/4577311"
+    },
+    {
+      "name": "Biophysics",
+      "code": "1",
+      "url": "https://www.studocu.com/pl/course/warszawski-uniwersytet-medyczny/biophysics/4577312"
+    },
+    {
+      "name": "Biostatystyka W Badaniach Klinicznych I Ocenie Technologii Medycznych, Kurs Podstawowy",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/warszawski-uniwersytet-medyczny/biostatystyka-w-badaniach-klinicznych-i-ocenie-technologii-medycznych-kurs-podstawowy/4285850"
+    },
+    {
+      "name": "Biostatystyka W Badaniach Klinicznych I Ocenie Technologii Medycznych, Kurs Zaawansowany",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/warszawski-uniwersytet-medyczny/biostatystyka-w-badaniach-klinicznych-i-ocenie-technologii-medycznych-kurs-zaawansowany/4285861"
+    },
+    {
+      "name": "Chemia Organiczna",
+      "code": "YTU-23",
+      "url": "https://www.studocu.com/pl/course/warszawski-uniwersytet-medyczny/chemia-organiczna/7154092"
+    },
+    {
+      "name": "Child Psychiatry",
+      "code": "1",
+      "url": "https://www.studocu.com/pl/course/warszawski-uniwersytet-medyczny/child-psychiatry/4577313"
+    },
+    {
+      "name": "chirurgia stomatologiczna",
+      "code": "chirustom2021",
+      "url": "https://www.studocu.com/pl/course/warszawski-uniwersytet-medyczny/chirurgia-stomatologiczna/4700980"
+    },
+    {
+      "name": "Chirurgii",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/warszawski-uniwersytet-medyczny/chirurgii/4285875"
+    },
+    {
+      "name": "Choroby wewnętrzne",
+      "code": "ChW1",
+      "url": "https://www.studocu.com/pl/course/warszawski-uniwersytet-medyczny/choroby-wewnetrzne/4898426"
+    },
+    {
+      "name": "Clinical Pharmacology",
+      "code": "1",
+      "url": "https://www.studocu.com/pl/course/warszawski-uniwersytet-medyczny/clinical-pharmacology/4577315"
+    },
+    {
+      "name": "Cytophysiology",
+      "code": "1",
+      "url": "https://www.studocu.com/pl/course/warszawski-uniwersytet-medyczny/cytophysiology/4577316"
+    },
+    {
+      "name": "Dermatologia z wenerologią",
+      "code": "Der001",
+      "url": "https://www.studocu.com/pl/course/warszawski-uniwersytet-medyczny/dermatologia-z-wenerologia/4628372"
+    },
+    {
+      "name": "Dermatology with venerology",
+      "code": "1",
+      "url": "https://www.studocu.com/pl/course/warszawski-uniwersytet-medyczny/dermatology-with-venerology/4577317"
+    },
+    {
+      "name": "dfsdasdf",
+      "code": "E23323",
+      "url": "https://www.studocu.com/pl/course/warszawski-uniwersytet-medyczny/dfsdasdf/7201672"
+    },
+    {
+      "name": "Dietetyka",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/warszawski-uniwersytet-medyczny/dietetyka/6612249"
+    },
+    {
+      "name": "Emergency Medicine",
+      "code": "1",
+      "url": "https://www.studocu.com/pl/course/warszawski-uniwersytet-medyczny/emergency-medicine/4577318"
+    },
+    {
+      "name": "Excel (Średnio Zaawansowany)",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/warszawski-uniwersytet-medyczny/excel-srednio-zaawansowany/4285851"
+    },
+    {
+      "name": "Family Medicine",
+      "code": "1",
+      "url": "https://www.studocu.com/pl/course/warszawski-uniwersytet-medyczny/family-medicine/4577320"
+    },
+    {
+      "name": "Family Medicine with elements of Geriatry",
+      "code": "1",
+      "url": "https://www.studocu.com/pl/course/warszawski-uniwersytet-medyczny/family-medicine-with-elements-of-geriatry/4577321"
+    },
+    {
+      "name": "Farmaceutycznym",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/warszawski-uniwersytet-medyczny/farmaceutycznym/4285868"
+    },
+    {
+      "name": "Farmacja rok 3",
+      "code": "FARM_3_2020/21",
+      "url": "https://www.studocu.com/pl/course/warszawski-uniwersytet-medyczny/farmacja-rok-3/4887170"
+    },
+    {
+      "name": "First Aid with the Elements of Nursing",
+      "code": "1",
+      "url": "https://www.studocu.com/pl/course/warszawski-uniwersytet-medyczny/first-aid-with-the-elements-of-nursing/4577322"
+    },
+    {
+      "name": "Fizjologia z elementami patofizjologii",
+      "code": "Fiz101",
+      "url": "https://www.studocu.com/pl/course/warszawski-uniwersytet-medyczny/fizjologia-z-elementami-patofizjologii/4633666"
+    },
+    {
+      "name": "fizykoterapia",
+      "code": "20fiz21",
+      "url": "https://www.studocu.com/pl/course/warszawski-uniwersytet-medyczny/fizykoterapia/4979805"
+    },
+    {
+      "name": "Foniatria",
+      "code": "FON-002",
+      "url": "https://www.studocu.com/pl/course/warszawski-uniwersytet-medyczny/foniatria/4642520"
+    },
+    {
+      "name": "Forensic Medicine with Elements of Law",
+      "code": "1",
+      "url": "https://www.studocu.com/pl/course/warszawski-uniwersytet-medyczny/forensic-medicine-with-elements-of-law/4577323"
+    },
+    {
+      "name": "General English",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/warszawski-uniwersytet-medyczny/general-english/6592334"
+    },
+    {
+      "name": "Genetics",
+      "code": "1",
+      "url": "https://www.studocu.com/pl/course/warszawski-uniwersytet-medyczny/genetics/4577324"
+    },
+    {
+      "name": "genetyka",
+      "code": "genetyka2020",
+      "url": "https://www.studocu.com/pl/course/warszawski-uniwersytet-medyczny/genetyka/4905921"
+    },
+    {
+      "name": "Ginekologii I Położnictwa",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/warszawski-uniwersytet-medyczny/ginekologii-i-poloznictwa/4285873"
+    },
+    {
+      "name": "Histologia z Embriologią",
+      "code": "HIS123",
+      "url": "https://www.studocu.com/pl/course/warszawski-uniwersytet-medyczny/histologia-z-embriologia/4323951"
+    },
+    {
+      "name": "Histology with Embryology",
+      "code": "1",
+      "url": "https://www.studocu.com/pl/course/warszawski-uniwersytet-medyczny/histology-with-embryology/4577325"
+    },
+    {
+      "name": "History of Medicine",
+      "code": "1",
+      "url": "https://www.studocu.com/pl/course/warszawski-uniwersytet-medyczny/history-of-medicine/4577326"
+    },
+    {
+      "name": "Immunology",
+      "code": "1",
+      "url": "https://www.studocu.com/pl/course/warszawski-uniwersytet-medyczny/immunology/4577328"
+    },
+    {
+      "name": "Industry Learning",
+      "code": "IBL2398",
+      "url": "https://www.studocu.com/pl/course/warszawski-uniwersytet-medyczny/industry-learning/6146459"
+    },
+    {
+      "name": "Internal Medicine-Cardiology",
+      "code": "1",
+      "url": "https://www.studocu.com/pl/course/warszawski-uniwersytet-medyczny/internal-medicine-cardiology/4577330"
+    },
+    {
+      "name": "Internal Medicine-Diabetology",
+      "code": "1",
+      "url": "https://www.studocu.com/pl/course/warszawski-uniwersytet-medyczny/internal-medicine-diabetology/4577331"
+    },
+    {
+      "name": "Internal Medicine-Endocrinology",
+      "code": "1",
+      "url": "https://www.studocu.com/pl/course/warszawski-uniwersytet-medyczny/internal-medicine-endocrinology/4577332"
+    },
+    {
+      "name": "Internal Medicine-Gastroenterology",
+      "code": "1",
+      "url": "https://www.studocu.com/pl/course/warszawski-uniwersytet-medyczny/internal-medicine-gastroenterology/4577333"
+    },
+    {
+      "name": "Internal Medicine-Hematology",
+      "code": "1",
+      "url": "https://www.studocu.com/pl/course/warszawski-uniwersytet-medyczny/internal-medicine-hematology/4577334"
+    },
+    {
+      "name": "Internal Medicine-Pulmonology",
+      "code": "1",
+      "url": "https://www.studocu.com/pl/course/warszawski-uniwersytet-medyczny/internal-medicine-pulmonology/4577336"
+    },
+    {
+      "name": "Internal Medicine-Rheumatology",
+      "code": "1",
+      "url": "https://www.studocu.com/pl/course/warszawski-uniwersytet-medyczny/internal-medicine-rheumatology/4577337"
+    },
+    {
+      "name": "Interny",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/warszawski-uniwersytet-medyczny/interny/4285874"
+    },
+    {
+      "name": "Język Niemiecki medyczny",
+      "code": "NIEM1",
+      "url": "https://www.studocu.com/pl/course/warszawski-uniwersytet-medyczny/jezyk-niemiecki-medyczny/6196415"
+    },
+    {
+      "name": "kinezyterapia",
+      "code": "KIN20",
+      "url": "https://www.studocu.com/pl/course/warszawski-uniwersytet-medyczny/kinezyterapia/5141717"
+    },
+    {
+      "name": "Kosmetologia",
+      "code": "KS2023/24",
+      "url": "https://www.studocu.com/pl/course/warszawski-uniwersytet-medyczny/kosmetologia/7399464"
+    },
+    {
+      "name": "kwalifikowana pierwsza pomoc",
+      "code": "KPP23",
+      "url": "https://www.studocu.com/pl/course/warszawski-uniwersytet-medyczny/kwalifikowana-pierwsza-pomoc/7196216"
+    },
+    {
+      "name": "Laboratory Diagnostics",
+      "code": "1",
+      "url": "https://www.studocu.com/pl/course/warszawski-uniwersytet-medyczny/laboratory-diagnostics/4577340"
+    },
+    {
+      "name": "Latin in Medicine",
+      "code": "1",
+      "url": "https://www.studocu.com/pl/course/warszawski-uniwersytet-medyczny/latin-in-medicine/4577342"
+    },
+    {
+      "name": "Leki Jako Technologie Medyczne: Badania",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/warszawski-uniwersytet-medyczny/leki-jako-technologie-medyczne-badania/4285857"
+    },
+    {
+      "name": "Library Training",
+      "code": "1",
+      "url": "https://www.studocu.com/pl/course/warszawski-uniwersytet-medyczny/library-training/4577343"
+    },
+    {
+      "name": "Marketing Innowacji W Przemyśle",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/warszawski-uniwersytet-medyczny/marketing-innowacji-w-przemysle/4285867"
+    },
+    {
+      "name": "MED",
+      "code": "MED 2022/1564",
+      "url": "https://www.studocu.com/pl/course/warszawski-uniwersytet-medyczny/med/5267392"
+    },
+    {
+      "name": "Medical Ethics with Elements of Philosophy",
+      "code": "1",
+      "url": "https://www.studocu.com/pl/course/warszawski-uniwersytet-medyczny/medical-ethics-with-elements-of-philosophy/4577346"
+    },
+    {
+      "name": "Medical Psychology",
+      "code": "1",
+      "url": "https://www.studocu.com/pl/course/warszawski-uniwersytet-medyczny/medical-psychology/4577347"
+    },
+    {
+      "name": "Medycyna sądowa",
+      "code": "Bipi2000",
+      "url": "https://www.studocu.com/pl/course/warszawski-uniwersytet-medyczny/medycyna-sadowa/7327503"
+    },
+    {
+      "name": "Medycyny Ratunkowej",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/warszawski-uniwersytet-medyczny/medycyny-ratunkowej/4285876"
+    },
+    {
+      "name": "Metodologia Badań Naukowych I Przygotowania Publikacji Naukowych",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/warszawski-uniwersytet-medyczny/metodologia-badan-naukowych-i-przygotowania-publikacji-naukowych/4285842"
+    },
+    {
+      "name": "Metodyka nauczania ruchu",
+      "code": "MNR2023",
+      "url": "https://www.studocu.com/pl/course/warszawski-uniwersytet-medyczny/metodyka-nauczania-ruchu/7079005"
+    },
+    {
+      "name": "Microbiology",
+      "code": "1",
+      "url": "https://www.studocu.com/pl/course/warszawski-uniwersytet-medyczny/microbiology/4577348"
+    },
+    {
+      "name": "Mikrobiologia",
+      "code": "MIK2021",
+      "url": "https://www.studocu.com/pl/course/warszawski-uniwersytet-medyczny/mikrobiologia/4618017"
+    },
+    {
+      "name": "Molekularne Podstawy Chorób I Terapia",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/warszawski-uniwersytet-medyczny/molekularne-podstawy-chorob-i-terapia/4285855"
+    },
+    {
+      "name": "Narzędzia Informatyczne W Ocenie Technologii Medycznych (Język R)",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/warszawski-uniwersytet-medyczny/narzedzia-informatyczne-w-ocenie-technologii-medycznych-jezyk-r/4285862"
+    },
+    {
+      "name": "Nefrologia dziecięca",
+      "code": "NEFDZ01",
+      "url": "https://www.studocu.com/pl/course/warszawski-uniwersytet-medyczny/nefrologia-dziecieca/6974905"
+    },
+    {
+      "name": "Neurology",
+      "code": "1",
+      "url": "https://www.studocu.com/pl/course/warszawski-uniwersytet-medyczny/neurology/4577349"
+    },
+    {
+      "name": "Nic potrzebnego",
+      "code": "NICNEEDED1",
+      "url": "https://www.studocu.com/pl/course/warszawski-uniwersytet-medyczny/nic-potrzebnego/6799490"
+    },
+    {
+      "name": "Obstetrics and Gynecology",
+      "code": "1",
+      "url": "https://www.studocu.com/pl/course/warszawski-uniwersytet-medyczny/obstetrics-and-gynecology/4577352"
+    },
+    {
+      "name": "Occupational Safety and Health at Work/Study",
+      "code": "1",
+      "url": "https://www.studocu.com/pl/course/warszawski-uniwersytet-medyczny/occupational-safety-and-health-at-workstudy/4577353"
+    },
+    {
+      "name": "Oncogenetics",
+      "code": "1",
+      "url": "https://www.studocu.com/pl/course/warszawski-uniwersytet-medyczny/oncogenetics/4577354"
+    },
+    {
+      "name": "Oncology",
+      "code": "1",
+      "url": "https://www.studocu.com/pl/course/warszawski-uniwersytet-medyczny/oncology/4577355"
+    },
+    {
+      "name": "Ortodoncja",
+      "code": "Orto2021",
+      "url": "https://www.studocu.com/pl/course/warszawski-uniwersytet-medyczny/ortodoncja/4700977"
+    },
+    {
+      "name": "Ortopedics i Traumatology",
+      "code": "1",
+      "url": "https://www.studocu.com/pl/course/warszawski-uniwersytet-medyczny/ortopedics-i-traumatology/4577357"
+    },
+    {
+      "name": "Otolaryngologia",
+      "code": "OTO 2019",
+      "url": "https://www.studocu.com/pl/course/warszawski-uniwersytet-medyczny/otolaryngologia/4671443"
+    },
+    {
+      "name": "Palliative Medicine",
+      "code": "1",
+      "url": "https://www.studocu.com/pl/course/warszawski-uniwersytet-medyczny/palliative-medicine/4577358"
+    },
+    {
+      "name": "Parasitology",
+      "code": "1",
+      "url": "https://www.studocu.com/pl/course/warszawski-uniwersytet-medyczny/parasitology/4577359"
+    },
+    {
+      "name": "Parazytologia",
+      "code": "PAR2019",
+      "url": "https://www.studocu.com/pl/course/warszawski-uniwersytet-medyczny/parazytologia/4621464"
+    },
+    {
+      "name": "Pathomorphology",
+      "code": "1",
+      "url": "https://www.studocu.com/pl/course/warszawski-uniwersytet-medyczny/pathomorphology/4577360"
+    },
+    {
+      "name": "Patomorfologia",
+      "code": "34793",
+      "url": "https://www.studocu.com/pl/course/warszawski-uniwersytet-medyczny/patomorfologia/3130308"
+    },
+    {
+      "name": "Pedagogika ogólna",
+      "code": "3007-L1A1PD",
+      "url": "https://www.studocu.com/pl/course/warszawski-uniwersytet-medyczny/pedagogika-ogolna/6769884"
+    },
+    {
+      "name": "Pediatric Imaging Diagnostics",
+      "code": "1",
+      "url": "https://www.studocu.com/pl/course/warszawski-uniwersytet-medyczny/pediatric-imaging-diagnostics/4577361"
+    },
+    {
+      "name": "Pediatrics",
+      "code": "1",
+      "url": "https://www.studocu.com/pl/course/warszawski-uniwersytet-medyczny/pediatrics/4577364"
+    },
+    {
+      "name": "Pediatrics - Neonatology",
+      "code": "1",
+      "url": "https://www.studocu.com/pl/course/warszawski-uniwersytet-medyczny/pediatrics-neonatology/4577365"
+    },
+    {
+      "name": "Pediatrii",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/warszawski-uniwersytet-medyczny/pediatrii/4285872"
+    },
+    {
+      "name": "Periodontologia",
+      "code": "Perio2021",
+      "url": "https://www.studocu.com/pl/course/warszawski-uniwersytet-medyczny/periodontologia/4700979"
+    },
+    {
+      "name": "Physiology with Pathophysiology",
+      "code": "1",
+      "url": "https://www.studocu.com/pl/course/warszawski-uniwersytet-medyczny/physiology-with-pathophysiology/4577367"
+    },
+    {
+      "name": "pierwsza pomoc",
+      "code": "kpp23",
+      "url": "https://www.studocu.com/pl/course/warszawski-uniwersytet-medyczny/pierwsza-pomoc/7573201"
+    },
+    {
+      "name": "Pierwszej Pomocy",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/warszawski-uniwersytet-medyczny/pierwszej-pomocy/4285878"
+    },
+    {
+      "name": "Podstawy Dydaktyki W Szkole Wyższej (Przysposobienie Pedagogiczne)",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/warszawski-uniwersytet-medyczny/podstawy-dydaktyki-w-szkole-wyzszej-przysposobienie-pedagogiczne/4285840"
+    },
+    {
+      "name": "Podstawy Ekonomiki Zdrowia",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/warszawski-uniwersytet-medyczny/podstawy-ekonomiki-zdrowia/4285846"
+    },
+    {
+      "name": "Podstawy Epidemiologii",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/warszawski-uniwersytet-medyczny/podstawy-epidemiologii/4285845"
+    },
+    {
+      "name": "Podstawy Farmakologii",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/warszawski-uniwersytet-medyczny/podstawy-farmakologii/4285844"
+    },
+    {
+      "name": "Podstawy Oceny Ekonomicznej W Ocenie Lekowych Technologii Medycznych (Analiza Wpływu Na Budżet, Analiza Ekonomiczna)",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/warszawski-uniwersytet-medyczny/podstawy-oceny-ekonomicznej-w-ocenie-lekowych-technologii-medycznych-analiza-wplywu-na-budzet-analiza-ekonomiczna/4285860"
+    },
+    {
+      "name": "Podstawy pielęgniarstwa",
+      "code": "pp22102024",
+      "url": "https://www.studocu.com/pl/course/warszawski-uniwersytet-medyczny/podstawy-pielegniarstwa/7195568"
+    },
+    {
+      "name": "Podstawy zarządzania i marketingu dla lekarzy",
+      "code": "FAK001",
+      "url": "https://www.studocu.com/pl/course/warszawski-uniwersytet-medyczny/podstawy-zarzadzania-i-marketingu-dla-lekarzy/4618039"
+    },
+    {
+      "name": "Podstawy Zdrowia Publicznego",
+      "code": "PZP2023",
+      "url": "https://www.studocu.com/pl/course/warszawski-uniwersytet-medyczny/podstawy-zdrowia-publicznego/6229960"
+    },
+    {
+      "name": "Polish for Medicine",
+      "code": "1",
+      "url": "https://www.studocu.com/pl/course/warszawski-uniwersytet-medyczny/polish-for-medicine/4577368"
+    },
+    {
+      "name": "Postępy ap.",
+      "code": "POST200",
+      "url": "https://www.studocu.com/pl/course/warszawski-uniwersytet-medyczny/postepy-ap/7596085"
+    },
+    {
+      "name": "prawo polskie",
+      "code": "POL234",
+      "url": "https://www.studocu.com/pl/course/warszawski-uniwersytet-medyczny/prawo-polskie/6779418"
+    },
+    {
+      "name": "Prawo W Sektorze Ochrony Zdrowia - Wprowadzenie",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/warszawski-uniwersytet-medyczny/prawo-w-sektorze-ochrony-zdrowia-wprowadzenie/4285847"
+    },
+    {
+      "name": "Promocja zdrowia i edukacja zdrowotna",
+      "code": "3007-L1A1PZ",
+      "url": "https://www.studocu.com/pl/course/warszawski-uniwersytet-medyczny/promocja-zdrowia-i-edukacja-zdrowotna/6719813"
+    },
+    {
+      "name": "Propaedeutics of Addiction Medicine",
+      "code": "1",
+      "url": "https://www.studocu.com/pl/course/warszawski-uniwersytet-medyczny/propaedeutics-of-addiction-medicine/4577370"
+    },
+    {
+      "name": "Propedeutics of Stomatology",
+      "code": "1",
+      "url": "https://www.studocu.com/pl/course/warszawski-uniwersytet-medyczny/propedeutics-of-stomatology/4577371"
+    },
+    {
+      "name": "Propedeutyka Medycyny",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/warszawski-uniwersytet-medyczny/propedeutyka-medycyny/4285843"
+    },
+    {
+      "name": "Protection of Intellectual Property credit",
+      "code": "1",
+      "url": "https://www.studocu.com/pl/course/warszawski-uniwersytet-medyczny/protection-of-intellectual-property-credit/4577372"
+    },
+    {
+      "name": "protetyka",
+      "code": "PROT 2021",
+      "url": "https://www.studocu.com/pl/course/warszawski-uniwersytet-medyczny/protetyka/4762464"
+    },
+    {
+      "name": "Przysposobienie Biblioteczne (On-Line)",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/warszawski-uniwersytet-medyczny/przysposobienie-biblioteczne-on-line/4285853"
+    },
+    {
+      "name": "Psychiatry",
+      "code": "1",
+      "url": "https://www.studocu.com/pl/course/warszawski-uniwersytet-medyczny/psychiatry/4577373"
+    },
+    {
+      "name": "Radiology",
+      "code": "1",
+      "url": "https://www.studocu.com/pl/course/warszawski-uniwersytet-medyczny/radiology/4577374"
+    },
+    {
+      "name": "Rehabilitation",
+      "code": "1",
+      "url": "https://www.studocu.com/pl/course/warszawski-uniwersytet-medyczny/rehabilitation/4577375"
+    },
+    {
+      "name": "Research Methodology",
+      "code": "1",
+      "url": "https://www.studocu.com/pl/course/warszawski-uniwersytet-medyczny/research-methodology/4577376"
+    },
+    {
+      "name": "Rola Oceny Technologii Medycznych W Gospodarce Lekami W Systemach Opieki Zdrowotnej",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/warszawski-uniwersytet-medyczny/rola-oceny-technologii-medycznych-w-gospodarce-lekami-w-systemach-opieki-zdrowotnej/4285870"
+    },
+    {
+      "name": "Sciences and Engineering Faculties",
+      "code": "SEF2020",
+      "url": "https://www.studocu.com/pl/course/warszawski-uniwersytet-medyczny/sciences-and-engineering-faculties/6461853"
+    },
+    {
+      "name": "Seminarium Magisterskie: Analiza Kliniczna W Ects Uwzględniona Obrona Pracy Dyplomowej)",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/warszawski-uniwersytet-medyczny/seminarium-magisterskie-analiza-kliniczna-w-ects-uwzgledniona-obrona-pracy-dyplomowej/4285871"
+    },
+    {
+      "name": "Socjologia",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/warszawski-uniwersytet-medyczny/socjologia/6612247"
+    },
+    {
+      "name": "Specjalistyczny Język Angielski",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/warszawski-uniwersytet-medyczny/specjalistyczny-jezyk-angielski/4285852"
+    },
+    {
+      "name": "Sport training",
+      "code": "1",
+      "url": "https://www.studocu.com/pl/course/warszawski-uniwersytet-medyczny/sport-training/4577377"
+    },
+    {
+      "name": "Statistics and Medical Informatics",
+      "code": "1",
+      "url": "https://www.studocu.com/pl/course/warszawski-uniwersytet-medyczny/statistics-and-medical-informatics/4577378"
+    },
+    {
+      "name": "Staż I (Wizyty Studyjne)",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/warszawski-uniwersytet-medyczny/staz-i-wizyty-studyjne/4285864"
+    },
+    {
+      "name": "stomatologia dziecięca",
+      "code": "stomdziec2021",
+      "url": "https://www.studocu.com/pl/course/warszawski-uniwersytet-medyczny/stomatologia-dziecieca/4700982"
+    },
+    {
+      "name": "stomatologia zachowawcza",
+      "code": "zacho2021",
+      "url": "https://www.studocu.com/pl/course/warszawski-uniwersytet-medyczny/stomatologia-zachowawcza/4700981"
+    },
+    {
+      "name": "Szkolenie Bhp",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/warszawski-uniwersytet-medyczny/szkolenie-bhp/4285841"
+    },
+    {
+      "name": "Techniki dentystyczne",
+      "code": "tech02",
+      "url": "https://www.studocu.com/pl/course/warszawski-uniwersytet-medyczny/techniki-dentystyczne/6961660"
+    },
+    {
+      "name": "Transplantology",
+      "code": "1",
+      "url": "https://www.studocu.com/pl/course/warszawski-uniwersytet-medyczny/transplantology/4577380"
+    },
+    {
+      "name": "Urology",
+      "code": "1",
+      "url": "https://www.studocu.com/pl/course/warszawski-uniwersytet-medyczny/urology/4577381"
+    },
+    {
+      "name": "Vocational Training",
+      "code": "1",
+      "url": "https://www.studocu.com/pl/course/warszawski-uniwersytet-medyczny/vocational-training/4577382"
+    },
+    {
+      "name": "Wprowadzenie Do Oceny Technologii Medycznych",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/warszawski-uniwersytet-medyczny/wprowadzenie-do-oceny-technologii-medycznych/4285848"
+    },
+    {
+      "name": "Zarządzanie W Systemach Ochrony Zdrowia",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/warszawski-uniwersytet-medyczny/zarzadzanie-w-systemach-ochrony-zdrowia/4285869"
+    }
+  ]
+}

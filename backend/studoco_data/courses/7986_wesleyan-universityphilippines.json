@@ -1,0 +1,791 @@
+{
+  "university_id": "7986",
+  "university_name": "Wesleyan University-Philippines",
+  "courses": [
+    {
+      "name": "Accountancy",
+      "code": "BSA 1-1",
+      "url": "https://www.studocu.com/ph/course/wesleyan-university-philippines/accountancy/6750245"
+    },
+    {
+      "name": "Accounting Information System",
+      "code": "COMP 1x",
+      "url": "https://www.studocu.com/ph/course/wesleyan-university-philippines/accounting-information-system/4512562"
+    },
+    {
+      "name": "Adavanced Financial Accounting and Reporting",
+      "code": null,
+      "url": "https://www.studocu.com/ph/course/wesleyan-university-philippines/adavanced-financial-accounting-and-reporting/7669472"
+    },
+    {
+      "name": "Agricultural Engineering",
+      "code": "AAENG120",
+      "url": "https://www.studocu.com/ph/course/wesleyan-university-philippines/agricultural-engineering/5303855"
+    },
+    {
+      "name": "Agriculture Enginrrng",
+      "code": "AAENG120",
+      "url": "https://www.studocu.com/ph/course/wesleyan-university-philippines/agriculture-enginrrng/5303851"
+    },
+    {
+      "name": "Alternative Learning G9",
+      "code": "Grade 9 K-12",
+      "url": "https://www.studocu.com/ph/course/wesleyan-university-philippines/alternative-learning-g9/6401898"
+    },
+    {
+      "name": "Anatomy and Physiology",
+      "code": "MC 1",
+      "url": "https://www.studocu.com/ph/course/wesleyan-university-philippines/anatomy-and-physiology/6601225"
+    },
+    {
+      "name": "araling panlipunan",
+      "code": "ap 101",
+      "url": "https://www.studocu.com/ph/course/wesleyan-university-philippines/araling-panlipunan/6472572"
+    },
+    {
+      "name": "Architecture II",
+      "code": "ARST 436",
+      "url": "https://www.studocu.com/ph/course/wesleyan-university-philippines/architecture-ii/6733447"
+    },
+    {
+      "name": "Arts Appreciation",
+      "code": "GEC5",
+      "url": "https://www.studocu.com/ph/course/wesleyan-university-philippines/arts-appreciation/5193760"
+    },
+    {
+      "name": "Asian History",
+      "code": "HIST15",
+      "url": "https://www.studocu.com/ph/course/wesleyan-university-philippines/asian-history/5353842"
+    },
+    {
+      "name": "Audit Theory",
+      "code": "AT",
+      "url": "https://www.studocu.com/ph/course/wesleyan-university-philippines/audit-theory/6651453"
+    },
+    {
+      "name": "Bachelor of Science in Nursing",
+      "code": "BSN111",
+      "url": "https://www.studocu.com/ph/course/wesleyan-university-philippines/bachelor-of-science-in-nursing/5707502"
+    },
+    {
+      "name": "Bachelor of Science in Tourism Management",
+      "code": "BSTM 1",
+      "url": "https://www.studocu.com/ph/course/wesleyan-university-philippines/bachelor-of-science-in-tourism-management/6722043"
+    },
+    {
+      "name": "Bachelor pf Science in Management Accounting",
+      "code": "IBT",
+      "url": "https://www.studocu.com/ph/course/wesleyan-university-philippines/bachelor-pf-science-in-management-accounting/6456034"
+    },
+    {
+      "name": "BC Computer Science",
+      "code": null,
+      "url": "https://www.studocu.com/ph/course/wesleyan-university-philippines/bc-computer-science/6529990"
+    },
+    {
+      "name": "Bs Criminology",
+      "code": "Crim Pro 1",
+      "url": "https://www.studocu.com/ph/course/wesleyan-university-philippines/bs-criminology/6441503"
+    },
+    {
+      "name": "Bs Criminology",
+      "code": "CLJ 5",
+      "url": "https://www.studocu.com/ph/course/wesleyan-university-philippines/bs-criminology/6369934"
+    },
+    {
+      "name": "Bs Criminology",
+      "code": "CRIM 101",
+      "url": "https://www.studocu.com/ph/course/wesleyan-university-philippines/bs-criminology/5936925"
+    },
+    {
+      "name": "BS Pharmacy",
+      "code": null,
+      "url": "https://www.studocu.com/ph/course/wesleyan-university-philippines/bs-pharmacy/4374545"
+    },
+    {
+      "name": "BS Social Work",
+      "code": "Field Instruction II",
+      "url": "https://www.studocu.com/ph/course/wesleyan-university-philippines/bs-social-work/7365637"
+    },
+    {
+      "name": "business addministration",
+      "code": null,
+      "url": "https://www.studocu.com/ph/course/wesleyan-university-philippines/business-addministration/6029370"
+    },
+    {
+      "name": "Business Administration",
+      "code": "BA1",
+      "url": "https://www.studocu.com/ph/course/wesleyan-university-philippines/business-administration/5795112"
+    },
+    {
+      "name": "business law",
+      "code": "law 3",
+      "url": "https://www.studocu.com/ph/course/wesleyan-university-philippines/business-law/6054005"
+    },
+    {
+      "name": "chemistry",
+      "code": "627",
+      "url": "https://www.studocu.com/ph/course/wesleyan-university-philippines/chemistry/5910587"
+    },
+    {
+      "name": "Christian education",
+      "code": "CE1",
+      "url": "https://www.studocu.com/ph/course/wesleyan-university-philippines/christian-education/6315602"
+    },
+    {
+      "name": "Civic Welfare Training Service",
+      "code": "CWTS 1",
+      "url": "https://www.studocu.com/ph/course/wesleyan-university-philippines/civic-welfare-training-service/5464579"
+    },
+    {
+      "name": "Civil engineering",
+      "code": "4-1 BSCE",
+      "url": "https://www.studocu.com/ph/course/wesleyan-university-philippines/civil-engineering/7307487"
+    },
+    {
+      "name": "Civil engineering surveying",
+      "code": "ES 299",
+      "url": "https://www.studocu.com/ph/course/wesleyan-university-philippines/civil-engineering-surveying/7304504"
+    },
+    {
+      "name": "Civil Law",
+      "code": null,
+      "url": "https://www.studocu.com/ph/course/wesleyan-university-philippines/civil-law/5465414"
+    },
+    {
+      "name": "clinical chemistry",
+      "code": "cc1",
+      "url": "https://www.studocu.com/ph/course/wesleyan-university-philippines/clinical-chemistry/6382012"
+    },
+    {
+      "name": "Clinical pharmacy and pharmacotherapy 2",
+      "code": "Therapeutics 2",
+      "url": "https://www.studocu.com/ph/course/wesleyan-university-philippines/clinical-pharmacy-and-pharmacotherapy-2/7100849"
+    },
+    {
+      "name": "College Academic Skills in English",
+      "code": "CASE1011",
+      "url": "https://www.studocu.com/ph/course/wesleyan-university-philippines/college-academic-skills-in-english/6514857"
+    },
+    {
+      "name": "College of Education",
+      "code": "BSED - ENGLISH",
+      "url": "https://www.studocu.com/ph/course/wesleyan-university-philippines/college-of-education/6776616"
+    },
+    {
+      "name": "Comparative Economic Planning",
+      "code": "SS 15",
+      "url": "https://www.studocu.com/ph/course/wesleyan-university-philippines/comparative-economic-planning/7113948"
+    },
+    {
+      "name": "Computer Engineering",
+      "code": null,
+      "url": "https://www.studocu.com/ph/course/wesleyan-university-philippines/computer-engineering/6358317"
+    },
+    {
+      "name": "Computer Engineering",
+      "code": "CpE2",
+      "url": "https://www.studocu.com/ph/course/wesleyan-university-philippines/computer-engineering/5484725"
+    },
+    {
+      "name": "Constitutional Law 1",
+      "code": "JD 301",
+      "url": "https://www.studocu.com/ph/course/wesleyan-university-philippines/constitutional-law-1/6397814"
+    },
+    {
+      "name": "Contextualization in Science Education",
+      "code": "Sci 202",
+      "url": "https://www.studocu.com/ph/course/wesleyan-university-philippines/contextualization-in-science-education/6832004"
+    },
+    {
+      "name": "Corporate Law, Social Psychology",
+      "code": "BLAW 2001,PSYC 241",
+      "url": "https://www.studocu.com/ph/course/wesleyan-university-philippines/corporate-law-social-psychology/7193612"
+    },
+    {
+      "name": "Cost Accounting",
+      "code": "AC5A",
+      "url": "https://www.studocu.com/ph/course/wesleyan-university-philippines/cost-accounting/6189330"
+    },
+    {
+      "name": "Credit Transaction",
+      "code": null,
+      "url": "https://www.studocu.com/ph/course/wesleyan-university-philippines/credit-transaction/5717225"
+    },
+    {
+      "name": "Criminal Law",
+      "code": null,
+      "url": "https://www.studocu.com/ph/course/wesleyan-university-philippines/criminal-law/7418556"
+    },
+    {
+      "name": "Cruise tourism",
+      "code": "tro4",
+      "url": "https://www.studocu.com/ph/course/wesleyan-university-philippines/cruise-tourism/6017072"
+    },
+    {
+      "name": "Culinary",
+      "code": "BSHM1",
+      "url": "https://www.studocu.com/ph/course/wesleyan-university-philippines/culinary/6660665"
+    },
+    {
+      "name": "Curriculum in Education",
+      "code": "MAED SOCIAL STUDIES",
+      "url": "https://www.studocu.com/ph/course/wesleyan-university-philippines/curriculum-in-education/7741349"
+    },
+    {
+      "name": "Cytogenetics",
+      "code": "CYTO1",
+      "url": "https://www.studocu.com/ph/course/wesleyan-university-philippines/cytogenetics/7393551"
+    },
+    {
+      "name": "Data Warehousing",
+      "code": "ITPC19",
+      "url": "https://www.studocu.com/ph/course/wesleyan-university-philippines/data-warehousing/7450736"
+    },
+    {
+      "name": "Economic Development",
+      "code": "ECO2",
+      "url": "https://www.studocu.com/ph/course/wesleyan-university-philippines/economic-development/6920489"
+    },
+    {
+      "name": "Education",
+      "code": "BEEd",
+      "url": "https://www.studocu.com/ph/course/wesleyan-university-philippines/education/5174835"
+    },
+    {
+      "name": "Electrical Circuits",
+      "code": "ACC1",
+      "url": "https://www.studocu.com/ph/course/wesleyan-university-philippines/electrical-circuits/6811007"
+    },
+    {
+      "name": "Emotional Intelligence",
+      "code": "EI1",
+      "url": "https://www.studocu.com/ph/course/wesleyan-university-philippines/emotional-intelligence/4723114"
+    },
+    {
+      "name": "Engineering Statistics",
+      "code": "IE 27",
+      "url": "https://www.studocu.com/ph/course/wesleyan-university-philippines/engineering-statistics/6334346"
+    },
+    {
+      "name": "English for Business",
+      "code": "ELEC 1",
+      "url": "https://www.studocu.com/ph/course/wesleyan-university-philippines/english-for-business/5858523"
+    },
+    {
+      "name": "environmental science",
+      "code": "GEE 1",
+      "url": "https://www.studocu.com/ph/course/wesleyan-university-philippines/environmental-science/6491876"
+    },
+    {
+      "name": "Environmental Science",
+      "code": "ENVSCI",
+      "url": "https://www.studocu.com/ph/course/wesleyan-university-philippines/environmental-science/6507181"
+    },
+    {
+      "name": "Environmental Science",
+      "code": "ENSCI 2100",
+      "url": "https://www.studocu.com/ph/course/wesleyan-university-philippines/environmental-science/5847690"
+    },
+    {
+      "name": "Esport",
+      "code": "ES101",
+      "url": "https://www.studocu.com/ph/course/wesleyan-university-philippines/esport/7237767"
+    },
+    {
+      "name": "Evidence",
+      "code": "JD 604",
+      "url": "https://www.studocu.com/ph/course/wesleyan-university-philippines/evidence/5982108"
+    },
+    {
+      "name": "Filipino",
+      "code": "FIL 3",
+      "url": "https://www.studocu.com/ph/course/wesleyan-university-philippines/filipino/4740093"
+    },
+    {
+      "name": "Finance Introduction",
+      "code": "FIN 101",
+      "url": "https://www.studocu.com/ph/course/wesleyan-university-philippines/finance-introduction/3977831"
+    },
+    {
+      "name": "financial management",
+      "code": "fm2",
+      "url": "https://www.studocu.com/ph/course/wesleyan-university-philippines/financial-management/7167071"
+    },
+    {
+      "name": "Fundamentals of Accounting and Reporting",
+      "code": "AC1",
+      "url": "https://www.studocu.com/ph/course/wesleyan-university-philippines/fundamentals-of-accounting-and-reporting/6705873"
+    },
+    {
+      "name": "Gender and Society",
+      "code": "GS 101",
+      "url": "https://www.studocu.com/ph/course/wesleyan-university-philippines/gender-and-society/5883593"
+    },
+    {
+      "name": "General Psychology",
+      "code": "Psycho101",
+      "url": "https://www.studocu.com/ph/course/wesleyan-university-philippines/general-psychology/6711414"
+    },
+    {
+      "name": "Geography",
+      "code": "GEO127",
+      "url": "https://www.studocu.com/ph/course/wesleyan-university-philippines/geography/5276983"
+    },
+    {
+      "name": "Good Governance and Social ResponsibilitY",
+      "code": null,
+      "url": "https://www.studocu.com/ph/course/wesleyan-university-philippines/good-governance-and-social-responsibility/7724931"
+    },
+    {
+      "name": "Guidance office",
+      "code": null,
+      "url": "https://www.studocu.com/ph/course/wesleyan-university-philippines/guidance-office/6467622"
+    },
+    {
+      "name": "Health education",
+      "code": "NCM 102",
+      "url": "https://www.studocu.com/ph/course/wesleyan-university-philippines/health-education/5848155"
+    },
+    {
+      "name": "Health information system",
+      "code": "HIS2",
+      "url": "https://www.studocu.com/ph/course/wesleyan-university-philippines/health-information-system/5211426"
+    },
+    {
+      "name": "Hotel Management",
+      "code": "CHTM 1",
+      "url": "https://www.studocu.com/ph/course/wesleyan-university-philippines/hotel-management/6070950"
+    },
+    {
+      "name": "Human Behavior in Organization",
+      "code": "HBO1",
+      "url": "https://www.studocu.com/ph/course/wesleyan-university-philippines/human-behavior-in-organization/6761721"
+    },
+    {
+      "name": "Humanities and Social Sciences",
+      "code": null,
+      "url": "https://www.studocu.com/ph/course/wesleyan-university-philippines/humanities-and-social-sciences/7370127"
+    },
+    {
+      "name": "Income Taxation",
+      "code": "TAX1A",
+      "url": "https://www.studocu.com/ph/course/wesleyan-university-philippines/income-taxation/7661712"
+    },
+    {
+      "name": "Information Technology",
+      "code": "BSIT",
+      "url": "https://www.studocu.com/ph/course/wesleyan-university-philippines/information-technology/5793988"
+    },
+    {
+      "name": "intermediate accounting 1",
+      "code": "AC3",
+      "url": "https://www.studocu.com/ph/course/wesleyan-university-philippines/intermediate-accounting-1/5920690"
+    },
+    {
+      "name": "Intermediate Accounting 3",
+      "code": "INTACC3",
+      "url": "https://www.studocu.com/ph/course/wesleyan-university-philippines/intermediate-accounting-3/7051135"
+    },
+    {
+      "name": "Intro to Research",
+      "code": "RESEARCH2",
+      "url": "https://www.studocu.com/ph/course/wesleyan-university-philippines/intro-to-research/6793137"
+    },
+    {
+      "name": "Introduction to Electronics",
+      "code": "ECE 002",
+      "url": "https://www.studocu.com/ph/course/wesleyan-university-philippines/introduction-to-electronics/6483661"
+    },
+    {
+      "name": "iNTRODUCTION TO ETHICS",
+      "code": "212",
+      "url": "https://www.studocu.com/ph/course/wesleyan-university-philippines/introduction-to-ethics/6193046"
+    },
+    {
+      "name": "introduction to new mathematics world",
+      "code": "MATH 002",
+      "url": "https://www.studocu.com/ph/course/wesleyan-university-philippines/introduction-to-new-mathematics-world/6483660"
+    },
+    {
+      "name": "introduction to the bible",
+      "code": "ce1",
+      "url": "https://www.studocu.com/ph/course/wesleyan-university-philippines/introduction-to-the-bible/6692682"
+    },
+    {
+      "name": "introduction to world literature",
+      "code": "PUAD 2021",
+      "url": "https://www.studocu.com/ph/course/wesleyan-university-philippines/introduction-to-world-literature/6483664"
+    },
+    {
+      "name": "Juris Doctor",
+      "code": "JD",
+      "url": "https://www.studocu.com/ph/course/wesleyan-university-philippines/juris-doctor/4821781"
+    },
+    {
+      "name": "Legal Ethics",
+      "code": null,
+      "url": "https://www.studocu.com/ph/course/wesleyan-university-philippines/legal-ethics/5465724"
+    },
+    {
+      "name": "Linguistics",
+      "code": null,
+      "url": "https://www.studocu.com/ph/course/wesleyan-university-philippines/linguistics/7285732"
+    },
+    {
+      "name": "Literature",
+      "code": "LIT 01",
+      "url": "https://www.studocu.com/ph/course/wesleyan-university-philippines/literature/4516804"
+    },
+    {
+      "name": "Living in the IT Era",
+      "code": "GEE 2",
+      "url": "https://www.studocu.com/ph/course/wesleyan-university-philippines/living-in-the-it-era/7031309"
+    },
+    {
+      "name": "Macroskills",
+      "code": "ENG 154",
+      "url": "https://www.studocu.com/ph/course/wesleyan-university-philippines/macroskills/7408987"
+    },
+    {
+      "name": "Management",
+      "code": "BSBA",
+      "url": "https://www.studocu.com/ph/course/wesleyan-university-philippines/management/3481470"
+    },
+    {
+      "name": "Management Accounting",
+      "code": "SM1",
+      "url": "https://www.studocu.com/ph/course/wesleyan-university-philippines/management-accounting/6497472"
+    },
+    {
+      "name": "Managerial Economics",
+      "code": "ECO1",
+      "url": "https://www.studocu.com/ph/course/wesleyan-university-philippines/managerial-economics/6705875"
+    },
+    {
+      "name": "Master of Arts in Christian Education",
+      "code": "MACE",
+      "url": "https://www.studocu.com/ph/course/wesleyan-university-philippines/master-of-arts-in-christian-education/5743016"
+    },
+    {
+      "name": "Master of Arts in Education",
+      "code": "MAED-FILIPINO",
+      "url": "https://www.studocu.com/ph/course/wesleyan-university-philippines/master-of-arts-in-education/6209407"
+    },
+    {
+      "name": "Master's of Divinity",
+      "code": null,
+      "url": "https://www.studocu.com/ph/course/wesleyan-university-philippines/masters-of-divinity/6754697"
+    },
+    {
+      "name": "Masters in Business Administration",
+      "code": "MBA",
+      "url": "https://www.studocu.com/ph/course/wesleyan-university-philippines/masters-in-business-administration/3993254"
+    },
+    {
+      "name": "Masters in Hospital Administration",
+      "code": "HA 112",
+      "url": "https://www.studocu.com/ph/course/wesleyan-university-philippines/masters-in-hospital-administration/6405761"
+    },
+    {
+      "name": "Maternal and Child Health",
+      "code": "NCM 109",
+      "url": "https://www.studocu.com/ph/course/wesleyan-university-philippines/maternal-and-child-health/6131797"
+    },
+    {
+      "name": "MATH",
+      "code": "121",
+      "url": "https://www.studocu.com/ph/course/wesleyan-university-philippines/math/5992863"
+    },
+    {
+      "name": "Mathematics IX",
+      "code": "MATH 9",
+      "url": "https://www.studocu.com/ph/course/wesleyan-university-philippines/mathematics-ix/7438242"
+    },
+    {
+      "name": "Medical Surgery",
+      "code": "NCM118",
+      "url": "https://www.studocu.com/ph/course/wesleyan-university-philippines/medical-surgery/6475399"
+    },
+    {
+      "name": "Medical technology",
+      "code": "AUBF",
+      "url": "https://www.studocu.com/ph/course/wesleyan-university-philippines/medical-technology/6558746"
+    },
+    {
+      "name": "Medical Technology",
+      "code": "BSMT 1-3",
+      "url": "https://www.studocu.com/ph/course/wesleyan-university-philippines/medical-technology/5470209"
+    },
+    {
+      "name": "Medical Technology",
+      "code": "BSMT 3-2",
+      "url": "https://www.studocu.com/ph/course/wesleyan-university-philippines/medical-technology/5240753"
+    },
+    {
+      "name": "Medical Technology",
+      "code": "BSMT1-2",
+      "url": "https://www.studocu.com/ph/course/wesleyan-university-philippines/medical-technology/4511567"
+    },
+    {
+      "name": "Medical Technology",
+      "code": "BACTE1",
+      "url": "https://www.studocu.com/ph/course/wesleyan-university-philippines/medical-technology/5096314"
+    },
+    {
+      "name": "Medical Technology Laws and Bioethics",
+      "code": "MTLBE1",
+      "url": "https://www.studocu.com/ph/course/wesleyan-university-philippines/medical-technology-laws-and-bioethics/7461128"
+    },
+    {
+      "name": "Medtech",
+      "code": "PARA",
+      "url": "https://www.studocu.com/ph/course/wesleyan-university-philippines/medtech/6474828"
+    },
+    {
+      "name": "Microbiology",
+      "code": "Micro001",
+      "url": "https://www.studocu.com/ph/course/wesleyan-university-philippines/microbiology/5955367"
+    },
+    {
+      "name": "Molecular Biology and Biochemistry",
+      "code": null,
+      "url": "https://www.studocu.com/ph/course/wesleyan-university-philippines/molecular-biology-and-biochemistry/5938972"
+    },
+    {
+      "name": "National Service Training Program",
+      "code": "NSTP 1",
+      "url": "https://www.studocu.com/ph/course/wesleyan-university-philippines/national-service-training-program/6048401"
+    },
+    {
+      "name": "Negotiable Instruments in Law",
+      "code": "LAW2",
+      "url": "https://www.studocu.com/ph/course/wesleyan-university-philippines/negotiable-instruments-in-law/4710578"
+    },
+    {
+      "name": "Numerical Solutions to CE Problems",
+      "code": "EMath 2201",
+      "url": "https://www.studocu.com/ph/course/wesleyan-university-philippines/numerical-solutions-to-ce-problems/6828241"
+    },
+    {
+      "name": "Nursing",
+      "code": "GE 12",
+      "url": "https://www.studocu.com/ph/course/wesleyan-university-philippines/nursing/7578020"
+    },
+    {
+      "name": "Nutrition",
+      "code": "NCM 105",
+      "url": "https://www.studocu.com/ph/course/wesleyan-university-philippines/nutrition/5121138"
+    },
+    {
+      "name": "Obligations and Contracts",
+      "code": "LAW1101",
+      "url": "https://www.studocu.com/ph/course/wesleyan-university-philippines/obligations-and-contracts/6455266"
+    },
+    {
+      "name": "Oral Communication in Context",
+      "code": "OCC",
+      "url": "https://www.studocu.com/ph/course/wesleyan-university-philippines/oral-communication-in-context/6837648"
+    },
+    {
+      "name": "Panitikang filipino",
+      "code": "GE10",
+      "url": "https://www.studocu.com/ph/course/wesleyan-university-philippines/panitikang-filipino/7706850"
+    },
+    {
+      "name": "PE and Fitness",
+      "code": "PE 1",
+      "url": "https://www.studocu.com/ph/course/wesleyan-university-philippines/pe-and-fitness/6437918"
+    },
+    {
+      "name": "Performance Management System",
+      "code": "MAC8",
+      "url": "https://www.studocu.com/ph/course/wesleyan-university-philippines/performance-management-system/5821813"
+    },
+    {
+      "name": "Personality Development",
+      "code": "PerDev",
+      "url": "https://www.studocu.com/ph/course/wesleyan-university-philippines/personality-development/5304104"
+    },
+    {
+      "name": "Philippine Gastronomy",
+      "code": "tro 5",
+      "url": "https://www.studocu.com/ph/course/wesleyan-university-philippines/philippine-gastronomy/5805320"
+    },
+    {
+      "name": "physical education",
+      "code": "pe3",
+      "url": "https://www.studocu.com/ph/course/wesleyan-university-philippines/physical-education/5538139"
+    },
+    {
+      "name": "Physics for Engineers",
+      "code": "PHY 032",
+      "url": "https://www.studocu.com/ph/course/wesleyan-university-philippines/physics-for-engineers/6601265"
+    },
+    {
+      "name": "Physics for Engineers",
+      "code": "Enggphys",
+      "url": "https://www.studocu.com/ph/course/wesleyan-university-philippines/physics-for-engineers/6645010"
+    },
+    {
+      "name": "Policy Analysis",
+      "code": null,
+      "url": "https://www.studocu.com/ph/course/wesleyan-university-philippines/policy-analysis/5936718"
+    },
+    {
+      "name": "political goverment",
+      "code": "PPGC211",
+      "url": "https://www.studocu.com/ph/course/wesleyan-university-philippines/political-goverment/6758064"
+    },
+    {
+      "name": "Political Law",
+      "code": "PLaw 001",
+      "url": "https://www.studocu.com/ph/course/wesleyan-university-philippines/political-law/4513842"
+    },
+    {
+      "name": "Political Science",
+      "code": "PS 001",
+      "url": "https://www.studocu.com/ph/course/wesleyan-university-philippines/political-science/6750261"
+    },
+    {
+      "name": "Popular Litreature",
+      "code": "EL110",
+      "url": "https://www.studocu.com/ph/course/wesleyan-university-philippines/popular-litreature/6864965"
+    },
+    {
+      "name": "Professional Elective 1",
+      "code": "AE1",
+      "url": "https://www.studocu.com/ph/course/wesleyan-university-philippines/professional-elective-1/7661710"
+    },
+    {
+      "name": "professional elective 2",
+      "code": "AE2",
+      "url": "https://www.studocu.com/ph/course/wesleyan-university-philippines/professional-elective-2/6432568"
+    },
+    {
+      "name": "Psych assessment",
+      "code": "Psych 312",
+      "url": "https://www.studocu.com/ph/course/wesleyan-university-philippines/psych-assessment/6517455"
+    },
+    {
+      "name": "Public Service and Leadership",
+      "code": "MPA 212",
+      "url": "https://www.studocu.com/ph/course/wesleyan-university-philippines/public-service-and-leadership/7749965"
+    },
+    {
+      "name": "Purposive Communication",
+      "code": "GEC 2",
+      "url": "https://www.studocu.com/ph/course/wesleyan-university-philippines/purposive-communication/7720344"
+    },
+    {
+      "name": "Radiologic technologist",
+      "code": null,
+      "url": "https://www.studocu.com/ph/course/wesleyan-university-philippines/radiologic-technologist/6477517"
+    },
+    {
+      "name": "Radiologic Technology",
+      "code": "BSRT 101",
+      "url": "https://www.studocu.com/ph/course/wesleyan-university-philippines/radiologic-technology/6491960"
+    },
+    {
+      "name": "Readings in Philippine History",
+      "code": "GEC4",
+      "url": "https://www.studocu.com/ph/course/wesleyan-university-philippines/readings-in-philippine-history/5980423"
+    },
+    {
+      "name": "Research Methods",
+      "code": "EDUC 101",
+      "url": "https://www.studocu.com/ph/course/wesleyan-university-philippines/research-methods/4104497"
+    },
+    {
+      "name": "rizal's life works and writings",
+      "code": "rizal1",
+      "url": "https://www.studocu.com/ph/course/wesleyan-university-philippines/rizals-life-works-and-writings/5738392"
+    },
+    {
+      "name": "Science in Criminology",
+      "code": "CRIM. 2015",
+      "url": "https://www.studocu.com/ph/course/wesleyan-university-philippines/science-in-criminology/5936397"
+    },
+    {
+      "name": "Science, Technology and Society",
+      "code": "GECC 109",
+      "url": "https://www.studocu.com/ph/course/wesleyan-university-philippines/science-technology-and-society/6882738"
+    },
+    {
+      "name": "Sciology",
+      "code": null,
+      "url": "https://www.studocu.com/ph/course/wesleyan-university-philippines/sciology/5286349"
+    },
+    {
+      "name": "shs-abm",
+      "code": "fabm1",
+      "url": "https://www.studocu.com/ph/course/wesleyan-university-philippines/shs-abm/6587264"
+    },
+    {
+      "name": "Social Work",
+      "code": "SWE1",
+      "url": "https://www.studocu.com/ph/course/wesleyan-university-philippines/social-work/6435688"
+    },
+    {
+      "name": "Statutory Construction",
+      "code": null,
+      "url": "https://www.studocu.com/ph/course/wesleyan-university-philippines/statutory-construction/5929258"
+    },
+    {
+      "name": "Strategic Cost",
+      "code": "AC7",
+      "url": "https://www.studocu.com/ph/course/wesleyan-university-philippines/strategic-cost/5135900"
+    },
+    {
+      "name": "Strategic Cost Management",
+      "code": "AC5",
+      "url": "https://www.studocu.com/ph/course/wesleyan-university-philippines/strategic-cost-management/7606598"
+    },
+    {
+      "name": "Strategic Management",
+      "code": "SM001",
+      "url": "https://www.studocu.com/ph/course/wesleyan-university-philippines/strategic-management/6652738"
+    },
+    {
+      "name": "Sustainability and Strategic Audit",
+      "code": "MAC 16",
+      "url": "https://www.studocu.com/ph/course/wesleyan-university-philippines/sustainability-and-strategic-audit/6010028"
+    },
+    {
+      "name": "sustainability reporting",
+      "code": "mac6",
+      "url": "https://www.studocu.com/ph/course/wesleyan-university-philippines/sustainability-reporting/7121803"
+    },
+    {
+      "name": "taxation",
+      "code": "tax101",
+      "url": "https://www.studocu.com/ph/course/wesleyan-university-philippines/taxation/4527124"
+    },
+    {
+      "name": "The Contemporary World",
+      "code": "GEC8",
+      "url": "https://www.studocu.com/ph/course/wesleyan-university-philippines/the-contemporary-world/5193763"
+    },
+    {
+      "name": "Theoretical Foundation Of Nursing",
+      "code": "NCM 100",
+      "url": "https://www.studocu.com/ph/course/wesleyan-university-philippines/theoretical-foundation-of-nursing/6601229"
+    },
+    {
+      "name": "total quality management",
+      "code": "TQM",
+      "url": "https://www.studocu.com/ph/course/wesleyan-university-philippines/total-quality-management/5992577"
+    },
+    {
+      "name": "Understanding the Self",
+      "code": "GEC1",
+      "url": "https://www.studocu.com/ph/course/wesleyan-university-philippines/understanding-the-self/6435682"
+    },
+    {
+      "name": "Writing",
+      "code": "101",
+      "url": "https://www.studocu.com/ph/course/wesleyan-university-philippines/writing/6511215"
+    }
+  ]
+}

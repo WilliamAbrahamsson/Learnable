@@ -1,0 +1,1826 @@
+{
+  "university_id": "10760",
+  "university_name": "Texas Woman's University",
+  "courses": [
+    {
+      "name": "A First Course in Computing",
+      "code": "CSCI 1403",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/a-first-course-in-computing/2743712"
+    },
+    {
+      "name": "Abnormal Psychology",
+      "code": "PSY 2513",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/abnormal-psychology/2743992"
+    },
+    {
+      "name": "Addiction Counseling",
+      "code": "FS 5143",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/addiction-counseling/2744350"
+    },
+    {
+      "name": "Adolescent Psychology",
+      "code": "PSY 2633",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/adolescent-psychology/2743993"
+    },
+    {
+      "name": "Adult Dysphagia",
+      "code": "COMS 5353",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/adult-dysphagia/2744258"
+    },
+    {
+      "name": "Adult Health",
+      "code": "NURS4045",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/adult-health/5934068"
+    },
+    {
+      "name": "Adult Health Competencies I",
+      "code": "NURS 3035",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/adult-health-competencies-i/2743910"
+    },
+    {
+      "name": "Adult Health Competencies II",
+      "code": "NURS 4045",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/adult-health-competencies-ii/2743921"
+    },
+    {
+      "name": "Adult/Gerontology Nursing I",
+      "code": "NURS 5525",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/adultgerontology-nursing-i/2744827"
+    },
+    {
+      "name": "Adult/Gerontology Nursing II",
+      "code": "NURS 5505",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/adultgerontology-nursing-ii/2744825"
+    },
+    {
+      "name": "Advanced Assessment/Differential Diagnosis",
+      "code": "NURS 5644",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/advanced-assessmentdifferential-diagnosis/2744836"
+    },
+    {
+      "name": "Advanced Biochemistry I",
+      "code": "CHEM 5613",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/advanced-biochemistry-i/2744238"
+    },
+    {
+      "name": "Advanced Biochemistry II",
+      "code": "CHEM 5623",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/advanced-biochemistry-ii/2744239"
+    },
+    {
+      "name": "Advanced Cell Biology",
+      "code": "BIOL 6334",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/advanced-cell-biology/2744224"
+    },
+    {
+      "name": "Advanced Computing Technology",
+      "code": "CSCI 3002",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/advanced-computing-technology/2743721"
+    },
+    {
+      "name": "Advanced Exercise Physiology",
+      "code": "KINS 4603",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/advanced-exercise-physiology/2743638"
+    },
+    {
+      "name": "Advanced Genetics",
+      "code": "BIOL 6734",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/advanced-genetics/2744226"
+    },
+    {
+      "name": "Advanced Health Informatics",
+      "code": "NURS 2313",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/advanced-health-informatics/2743907"
+    },
+    {
+      "name": "Advanced Literature for Young Adults",
+      "code": "LS 5623",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/advanced-literature-for-young-adults/2744626"
+    },
+    {
+      "name": "Advanced Nutrition: Micronutrients",
+      "code": "NFS 4313",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/advanced-nutrition-micronutrients/2743966"
+    },
+    {
+      "name": "Advanced Pathophysiology",
+      "code": "BIOL 5333",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/advanced-pathophysiology/2744213"
+    },
+    {
+      "name": "Advanced Practice Nursing Seminar",
+      "code": "NURS 5001",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/advanced-practice-nursing-seminar/2744795"
+    },
+    {
+      "name": "Advertising Ethics",
+      "code": "BUS 4053",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/advertising-ethics/2743672"
+    },
+    {
+      "name": "Aging and Health",
+      "code": "HS 5063",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/aging-and-health/2744468"
+    },
+    {
+      "name": "Algebra in the Mathematics Classroom",
+      "code": "MATH 4303",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/algebra-in-the-mathematics-classroom/2743778"
+    },
+    {
+      "name": "Algebraic Geometry",
+      "code": "MATH 5883",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/algebraic-geometry/2744715"
+    },
+    {
+      "name": "American Roots Music",
+      "code": "MU 2813",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/american-roots-music/2743841"
+    },
+    {
+      "name": "Applied Computational Thinking",
+      "code": "CSCI 3013",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/applied-computational-thinking/2743722"
+    },
+    {
+      "name": "Applied Research Design and Methods",
+      "code": "OT 6553",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/applied-research-design-and-methods/2744991"
+    },
+    {
+      "name": "Applied Statistics",
+      "code": "PSY 2303",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/applied-statistics/2743991"
+    },
+    {
+      "name": "Audiology",
+      "code": "COMS 3523",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/audiology/2743220"
+    },
+    {
+      "name": "Aural Habilitation",
+      "code": "COMS 3633",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/aural-habilitation/2743223"
+    },
+    {
+      "name": "Autism Spectrum Disorders",
+      "code": "PSY 6253",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/autism-spectrum-disorders/2745099"
+    },
+    {
+      "name": "Behavior Therapy Laboratory",
+      "code": "PSY 3161",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/behavior-therapy-laboratory/2743997"
+    },
+    {
+      "name": "Biochemistry I",
+      "code": "CHEM 3633",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/biochemistry-i/2743196"
+    },
+    {
+      "name": "Bioethics",
+      "code": "PHIL 3073",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/bioethics/2743980"
+    },
+    {
+      "name": "Biological Research",
+      "code": "BIOL 5801",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/biological-research/2744218"
+    },
+    {
+      "name": "Biomechanics Laboratory",
+      "code": "KINS 3591",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/biomechanics-laboratory/2743623"
+    },
+    {
+      "name": "Biomechanics of Human Body and Motion",
+      "code": "KINS 3593",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/biomechanics-of-human-body-and-motion/2743624"
+    },
+    {
+      "name": "Bionutrition",
+      "code": "NFS 3083",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/bionutrition/2743949"
+    },
+    {
+      "name": "Black and White Photography",
+      "code": "ART 2653",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/black-and-white-photography/2744156"
+    },
+    {
+      "name": "Business Analytics",
+      "code": "BUS 3313",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/business-analytics/2743665"
+    },
+    {
+      "name": "Business Ethics and Legal Environment",
+      "code": "BUS 5933",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/business-ethics-and-legal-environment/2744673"
+    },
+    {
+      "name": "Business Finance",
+      "code": "BUS 3053",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/business-finance/2743654"
+    },
+    {
+      "name": "Business Law and Ethics",
+      "code": "BUS 3013",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/business-law-and-ethics/2743651"
+    },
+    {
+      "name": "Business Leadership",
+      "code": "BUS 5453",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/business-leadership/2744648"
+    },
+    {
+      "name": "Business Leadership Strategies",
+      "code": "BUS 4343",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/business-leadership-strategies/2743694"
+    },
+    {
+      "name": "Business Strategy and Policy",
+      "code": "BUS 5893",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/business-strategy-and-policy/2744671"
+    },
+    {
+      "name": "Calculus I",
+      "code": "MATH 2014",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/calculus-i/2743762"
+    },
+    {
+      "name": "Child Guidance",
+      "code": "FS 5613",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/child-guidance/2744386"
+    },
+    {
+      "name": "Child Health Competencies",
+      "code": "NURS 4055",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/child-health-competencies/2743922"
+    },
+    {
+      "name": "Child Life I: Working with Hospitalized Children and Families",
+      "code": "FS 4403",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/child-life-i-working-with-hospitalized-children-and-families/2743489"
+    },
+    {
+      "name": "Classroom Environment and Management",
+      "code": "EDUC 4243",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/classroom-environment-and-management/2744101"
+    },
+    {
+      "name": "Climate Change: A Human Perspective",
+      "code": "SCI 3133",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/climate-change-a-human-perspective/2743155"
+    },
+    {
+      "name": "Clinical Ethics in Professional Nursing",
+      "code": "NURS 4502",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/clinical-ethics-in-professional-nursing/2743926"
+    },
+    {
+      "name": "Clinical Integration I",
+      "code": "PT 6141",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/clinical-integration-i/2745025"
+    },
+    {
+      "name": "Clinical Integration II",
+      "code": "PT 6802",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/clinical-integration-ii/2745065"
+    },
+    {
+      "name": "Clinical Neuroscience for Occupational Therapy",
+      "code": "OT 5003",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/clinical-neuroscience-for-occupational-therapy/2744935"
+    },
+    {
+      "name": "Clinical Nurse Leader I",
+      "code": "NURS 5016",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/clinical-nurse-leader-i/2744801"
+    },
+    {
+      "name": "Cognitive Psychology",
+      "code": "PSY 4103",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/cognitive-psychology/2744009"
+    },
+    {
+      "name": "College Teaching",
+      "code": "PSY 6981",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/college-teaching/2745125"
+    },
+    {
+      "name": "Colonial America",
+      "code": "HIST 3103",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/colonial-america/2743568"
+    },
+    {
+      "name": "Communication and the Family",
+      "code": "FS 4533",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/communication-and-the-family/2743491"
+    },
+    {
+      "name": "Community Health",
+      "code": "HS 3053",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/community-health/2743538"
+    },
+    {
+      "name": "Community Health Competencies",
+      "code": "NURS 4614",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/community-health-competencies/2743930"
+    },
+    {
+      "name": "Community Nutrition",
+      "code": "NFS 3043",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/community-nutrition/2743945"
+    },
+    {
+      "name": "Community Oral Health",
+      "code": "DH 4313",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/community-oral-health/2743373"
+    },
+    {
+      "name": "Competencies in RN Transition to Baccalaureate Nursing",
+      "code": "NURS 4823",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/competencies-in-rn-transition-to-baccalaureate-nursing/2743934"
+    },
+    {
+      "name": "Composition II",
+      "code": "ENG 1023",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/composition-ii/2743423"
+    },
+    {
+      "name": "Concepts and Clinical Competencies",
+      "code": "NURS 3005",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/concepts-and-clinical-competencies/2743908"
+    },
+    {
+      "name": "Concepts of Pediatric Nursing",
+      "code": "NURS4053",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/concepts-of-pediatric-nursing/7413490"
+    },
+    {
+      "name": "Consumer Behavior",
+      "code": "BUS 4213",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/consumer-behavior/2743683"
+    },
+    {
+      "name": "Cooperative Education",
+      "code": "PSY 4953",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/cooperative-education/2744017"
+    },
+    {
+      "name": "Creating Shakespeare",
+      "code": "DRAM 2513",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/creating-shakespeare/2743397"
+    },
+    {
+      "name": "Criminal Evidence and Procedure",
+      "code": "GOV 3253",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/criminal-evidence-and-procedure/2743248"
+    },
+    {
+      "name": "Criminal Investigation",
+      "code": "GOV 2223",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/criminal-investigation/2743238"
+    },
+    {
+      "name": "Critical Competency Integration",
+      "code": "NURS 4026",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/critical-competency-integration/2743920"
+    },
+    {
+      "name": "Culinary Nutrition Modification",
+      "code": "NFS 4032",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/culinary-nutrition-modification/2743960"
+    },
+    {
+      "name": "Culture and Food",
+      "code": "NFS 3173",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/culture-and-food/2743952"
+    },
+    {
+      "name": "Culture, Inequality, and Self",
+      "code": "SOCI 1413",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/culture-inequality-and-self/2743274"
+    },
+    {
+      "name": "Current Social Problems",
+      "code": "SOCI 1023",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/current-social-problems/2743273"
+    },
+    {
+      "name": "Dance Aerobic Fitness",
+      "code": "DNCE 1081",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/dance-aerobic-fitness/2743314"
+    },
+    {
+      "name": "Data Base Management",
+      "code": "CSCI 3423",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/data-base-management/2743729"
+    },
+    {
+      "name": "Data Communication Networks",
+      "code": "CSCI 5413",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/data-communication-networks/2744682"
+    },
+    {
+      "name": "Database Systems",
+      "code": "CSCI 5203",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/database-systems/2744681"
+    },
+    {
+      "name": "Decision Analysis for Managers",
+      "code": "BUS 5663",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/decision-analysis-for-managers/2744662"
+    },
+    {
+      "name": "Dental Hygiene Clinical Case Study Development",
+      "code": "DH 4823",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/dental-hygiene-clinical-case-study-development/2743385"
+    },
+    {
+      "name": "Dental Hygiene Clinical Education",
+      "code": "HS 5733",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/dental-hygiene-clinical-education/2744483"
+    },
+    {
+      "name": "Dental Hygiene Educational Concepts",
+      "code": "HS 5743",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/dental-hygiene-educational-concepts/2744484"
+    },
+    {
+      "name": "Dental Hygiene Leadership and Advocacy",
+      "code": "HS 5713",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/dental-hygiene-leadership-and-advocacy/2744481"
+    },
+    {
+      "name": "Design and Implementation of Instruction and Assessment",
+      "code": "EDUC 4113",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/design-and-implementation-of-instruction-and-assessment/2744085"
+    },
+    {
+      "name": "Developing Societies",
+      "code": "SOCI 3483",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/developing-societies/2743297"
+    },
+    {
+      "name": "Developmental Psychology",
+      "code": "PSY 1603",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/developmental-psychology/2743986"
+    },
+    {
+      "name": "Differential Equations",
+      "code": "MATH 3123",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/differential-equations/2743774"
+    },
+    {
+      "name": "Digital Logic and Computer Architecture",
+      "code": "CSCI 3443",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/digital-logic-and-computer-architecture/2743731"
+    },
+    {
+      "name": "Doctoral Seminar in Reading",
+      "code": "READ 6683",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/doctoral-seminar-in-reading/2745160"
+    },
+    {
+      "name": "Earth Science I",
+      "code": "SCI 2113",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/earth-science-i/2743152"
+    },
+    {
+      "name": "Economics of Health Care",
+      "code": "HCA 5623",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/economics-of-health-care/2744448"
+    },
+    {
+      "name": "Education Law",
+      "code": "ELDR 6113",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/education-law/2745237"
+    },
+    {
+      "name": "Elementary Analysis I",
+      "code": "MATH 1303",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/elementary-analysis-i/2743754"
+    },
+    {
+      "name": "Elementary Art Education",
+      "code": "ART 3223",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/elementary-art-education/2744165"
+    },
+    {
+      "name": "Elementary Number Theory",
+      "code": "MATH 3083",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/elementary-number-theory/2743772"
+    },
+    {
+      "name": "Elementary Statistics I",
+      "code": "MATH 1703",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/elementary-statistics-i/2743760"
+    },
+    {
+      "name": "English",
+      "code": "ENG 1013",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/english/2960452"
+    },
+    {
+      "name": "English Literary Masterpieces",
+      "code": "ENG 2013",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/english-literary-masterpieces/2743424"
+    },
+    {
+      "name": "Entrepreneurship",
+      "code": "BUS 3243",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/entrepreneurship/2743662"
+    },
+    {
+      "name": "Environmental Biology",
+      "code": "BIOL 1023",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/environmental-biology/2743126"
+    },
+    {
+      "name": "Epidemiology",
+      "code": "HS 3413",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/epidemiology/2743547"
+    },
+    {
+      "name": "Epidemiology",
+      "code": "HS 5353",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/epidemiology/2744472"
+    },
+    {
+      "name": "Ethics",
+      "code": "PHIL 3053",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/ethics/2743979"
+    },
+    {
+      "name": "European Art History",
+      "code": "ART 5553",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/european-art-history/2745255"
+    },
+    {
+      "name": "Evolutionary Psychology",
+      "code": "PSY 3333",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/evolutionary-psychology/2743999"
+    },
+    {
+      "name": "Exercise Testing and Prescription",
+      "code": "KINS 4703",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/exercise-testing-and-prescription/2743640"
+    },
+    {
+      "name": "Experimental Psychology",
+      "code": "PSY 3354",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/experimental-psychology/2744000"
+    },
+    {
+      "name": "Exploring Scholarship",
+      "code": "NURS 6053",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/exploring-scholarship/2744853"
+    },
+    {
+      "name": "Family Health Nursing I",
+      "code": "NURS 5625",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/family-health-nursing-i/2744835"
+    },
+    {
+      "name": "Family Sexuality",
+      "code": "FS 5023",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/family-sexuality/2744346"
+    },
+    {
+      "name": "Family Systems",
+      "code": "FS 5853",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/family-systems/2744397"
+    },
+    {
+      "name": "Financial and Quantitative Literacy",
+      "code": "MATH 1013",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/financial-and-quantitative-literacy/2743750"
+    },
+    {
+      "name": "Financial Management",
+      "code": "BUS 4243",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/financial-management/2743685"
+    },
+    {
+      "name": "Fit & Health: Enhan Pers Well",
+      "code": "KINS 1902",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/fit-health-enhan-pers-well/2996455"
+    },
+    {
+      "name": "Food Preparation Principles",
+      "code": "NFS 1302",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/food-preparation-principles/2743937"
+    },
+    {
+      "name": "Food Preparation Principles Laboratory",
+      "code": "NFS 1301",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/food-preparation-principles-laboratory/2743936"
+    },
+    {
+      "name": "Food Science",
+      "code": "NFS 3323",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/food-science/2743955"
+    },
+    {
+      "name": "Food Science Laboratory",
+      "code": "NFS 3321",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/food-science-laboratory/2743954"
+    },
+    {
+      "name": "Forensic Psychology",
+      "code": "PSY 4023",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/forensic-psychology/2744005"
+    },
+    {
+      "name": "Foundations in Business",
+      "code": "BUS 5013",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/foundations-in-business/2744638"
+    },
+    {
+      "name": "Foundations of Art Learning and Practice",
+      "code": "ART 5313",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/foundations-of-art-learning-and-practice/2745249"
+    },
+    {
+      "name": "Foundations of Assessment in Kinesiology",
+      "code": "KINS 1583",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/foundations-of-assessment-in-kinesiology/2743594"
+    },
+    {
+      "name": "Foundations of Early Childhood Education",
+      "code": "FS 6663",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/foundations-of-early-childhood-education/2744420"
+    },
+    {
+      "name": "Foundations of Financial Management",
+      "code": "BUS 5753",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/foundations-of-financial-management/2744668"
+    },
+    {
+      "name": "Fundamentals of Accounting I",
+      "code": "BUS 2043",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/fundamentals-of-accounting-i/2743647"
+    },
+    {
+      "name": "Fundamentals of Informatics",
+      "code": "CSCI 5103",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/fundamentals-of-informatics/2744680"
+    },
+    {
+      "name": "Fundamentals of Science",
+      "code": "SCI 1003",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/fundamentals-of-science/2743148"
+    },
+    {
+      "name": "Gender and Social Change: An Introduction to Multicultural-Women's Studies",
+      "code": "WS 2013",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/gender-and-social-change-an-introduction-to-multicultural-womens-studies/2743784"
+    },
+    {
+      "name": "General and Oral Pathology",
+      "code": "DH 4723",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/general-and-oral-pathology/2743384"
+    },
+    {
+      "name": "General Chemistry I",
+      "code": "CHEM 1113",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/general-chemistry-i/2743177"
+    },
+    {
+      "name": "General Life Science",
+      "code": "SCI 1123",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/general-life-science/2743150"
+    },
+    {
+      "name": "General Microbiology",
+      "code": "BACT 3113",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/general-microbiology/2743121"
+    },
+    {
+      "name": "General Microbiology Laboratory",
+      "code": "BACT 3111",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/general-microbiology-laboratory/2743120"
+    },
+    {
+      "name": "General Physics I",
+      "code": "PHYS 2153",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/general-physics-i/2743211"
+    },
+    {
+      "name": "General Physics Laboratory I",
+      "code": "PHYS 2151",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/general-physics-laboratory-i/2743210"
+    },
+    {
+      "name": "General Physics Laboratory II",
+      "code": "PHYS 2161",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/general-physics-laboratory-ii/2743212"
+    },
+    {
+      "name": "Global Business",
+      "code": "BUS 5923",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/global-business/2744672"
+    },
+    {
+      "name": "Global Production and Trade",
+      "code": "FT 3043",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/global-production-and-trade/2743513"
+    },
+    {
+      "name": "Graphic Design",
+      "code": "ART 5223",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/graphic-design/2745248"
+    },
+    {
+      "name": "Group Counseling Procedures",
+      "code": "FS 5373",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/group-counseling-procedures/2744373"
+    },
+    {
+      "name": "Health Aspects of Aging",
+      "code": "HS 3443",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/health-aspects-of-aging/2743549"
+    },
+    {
+      "name": "Health Aspects of Human Sexuality",
+      "code": "HS 2373",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/health-aspects-of-human-sexuality/2743534"
+    },
+    {
+      "name": "Health Assessments",
+      "code": "NURS3153",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/health-assessments/7201242"
+    },
+    {
+      "name": "Health Communications",
+      "code": "HS 2013",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/health-communications/2743533"
+    },
+    {
+      "name": "Health Policy Analysis",
+      "code": "HCA 5633",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/health-policy-analysis/2744449"
+    },
+    {
+      "name": "Health Policy and Health Promotion",
+      "code": "NURS 5003",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/health-policy-and-health-promotion/2744797"
+    },
+    {
+      "name": "Health Promotion for Children",
+      "code": "HS 3373",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/health-promotion-for-children/2743544"
+    },
+    {
+      "name": "Health Psychology",
+      "code": "PSY 4013",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/health-psychology/2744004"
+    },
+    {
+      "name": "Healthcare Disparities",
+      "code": "NURS 4112",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/healthcare-disparities/5353964"
+    },
+    {
+      "name": "History and Principles of Health Education",
+      "code": "HS 3363",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/history-and-principles-of-health-education/2743543"
+    },
+    {
+      "name": "History of Art",
+      "code": "ART 5503",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/history-of-art/2745254"
+    },
+    {
+      "name": "History of Costume",
+      "code": "FT 3013",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/history-of-costume/2743511"
+    },
+    {
+      "name": "History of the United States, 1492-1865",
+      "code": "HIST 1013",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/history-of-the-united-states-1492-1865/2743562"
+    },
+    {
+      "name": "History of the United States, 1865 to the Present",
+      "code": "HIST 1023",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/history-of-the-united-states-1865-to-the-present/2743563"
+    },
+    {
+      "name": "Human Anatomy and Physiology",
+      "code": "ZOOL 2033",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/human-anatomy-and-physiology/2743163"
+    },
+    {
+      "name": "Human Anatomy and Physiology I",
+      "code": "ZOOL 2013",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/human-anatomy-and-physiology-i/2743159"
+    },
+    {
+      "name": "Human Anatomy and Physiology I Laboratory",
+      "code": "ZOOL 2011",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/human-anatomy-and-physiology-i-laboratory/2743158"
+    },
+    {
+      "name": "Human Anatomy and Physiology II",
+      "code": "ZOOL 2023",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/human-anatomy-and-physiology-ii/2743161"
+    },
+    {
+      "name": "Human Anatomy and Physiology II Laboratory",
+      "code": "ZOOL 2021",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/human-anatomy-and-physiology-ii-laboratory/2743160"
+    },
+    {
+      "name": "Human Anatomy and Physiology Laboratory",
+      "code": "ZOOL 2031",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/human-anatomy-and-physiology-laboratory/2743162"
+    },
+    {
+      "name": "Human Behavior in Business Administration",
+      "code": "BUS 4223",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/human-behavior-in-business-administration/2743684"
+    },
+    {
+      "name": "Human Biology",
+      "code": "BIOL 1013",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/human-biology/2743125"
+    },
+    {
+      "name": "Human Development",
+      "code": "FS 1513",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/human-development/2743467"
+    },
+    {
+      "name": "Human Resource Administration",
+      "code": "BUS 5273",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/human-resource-administration/2744645"
+    },
+    {
+      "name": "Human Resource Management",
+      "code": "BUS 3273",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/human-resource-management/2743664"
+    },
+    {
+      "name": "Human Resources Management in Health Care Administration",
+      "code": "HCA 5343",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/human-resources-management-in-health-care-administration/2744437"
+    },
+    {
+      "name": "Immunology",
+      "code": "BACT 4113",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/immunology/2743123"
+    },
+    {
+      "name": "Instrumental Techniques and Pedagogy",
+      "code": "MU 3052",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/instrumental-techniques-and-pedagogy/2743848"
+    },
+    {
+      "name": "Instrumentation for Measuring Occupational Performance",
+      "code": "OT 6623",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/instrumentation-for-measuring-occupational-performance/2744993"
+    },
+    {
+      "name": "Intermediate Accounting I",
+      "code": "BUS 3023",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/intermediate-accounting-i/2743652"
+    },
+    {
+      "name": "Intro to Nutrition",
+      "code": "NFS 2323",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/intro-to-nutrition/2107542"
+    },
+    {
+      "name": "Intro To Psychology",
+      "code": "PSY 1013",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/intro-to-psychology/3978180"
+    },
+    {
+      "name": "Introduction to Communication Sciences and Disorders",
+      "code": "COMS 2223",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/introduction-to-communication-sciences-and-disorders/2743214"
+    },
+    {
+      "name": "Introduction to Counseling",
+      "code": "PSY 4153",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/introduction-to-counseling/2744012"
+    },
+    {
+      "name": "Introduction to English Studies",
+      "code": "ENG 3113",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/introduction-to-english-studies/2743438"
+    },
+    {
+      "name": "Introduction to General Psychology",
+      "code": "PSY 1013",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/introduction-to-general-psychology/2743984"
+    },
+    {
+      "name": "Introduction to Health Informatics",
+      "code": "NURS 2213",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/introduction-to-health-informatics/2743906"
+    },
+    {
+      "name": "Introduction to Literature by Women",
+      "code": "WS 2393",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/introduction-to-literature-by-women/2743788"
+    },
+    {
+      "name": "Introduction to Nursing Research",
+      "code": "NURS 3612",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/introduction-to-nursing-research/2743914"
+    },
+    {
+      "name": "Introduction to Nutrition",
+      "code": "NFS 2323",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/introduction-to-nutrition/2743941"
+    },
+    {
+      "name": "Introduction to Philosophy",
+      "code": "PHIL 1023",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/introduction-to-philosophy/2743977"
+    },
+    {
+      "name": "Introductory Chemistry",
+      "code": "CHEM 1013",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/introductory-chemistry/2743172"
+    },
+    {
+      "name": "Japanese Culture and Politics",
+      "code": "GOV 3513",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/japanese-culture-and-politics/2743252"
+    },
+    {
+      "name": "Language Disorders in School-Age Children",
+      "code": "COMS 5603",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/language-disorders-in-school-age-children/2744271"
+    },
+    {
+      "name": "Law for Women",
+      "code": "GOV 3393",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/law-for-women/2743250"
+    },
+    {
+      "name": "Learners with Exceptionalities",
+      "code": "EDSP 4203",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/learners-with-exceptionalities/2744053"
+    },
+    {
+      "name": "Legal and Ethical Issues in Health Informatics",
+      "code": "HS 3383",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/legal-and-ethical-issues-in-health-informatics/2743545"
+    },
+    {
+      "name": "Library Technology Systems",
+      "code": "LS 5403",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/library-technology-systems/2744615"
+    },
+    {
+      "name": "Literature for Children and Young Adults",
+      "code": "LS 5603",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/literature-for-children-and-young-adults/2744625"
+    },
+    {
+      "name": "Logic and Critical Thinking",
+      "code": "PHIL 2033",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/logic-and-critical-thinking/2743978"
+    },
+    {
+      "name": "Mammalian Physiology Laboratory",
+      "code": "ZOOL 4241",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/mammalian-physiology-laboratory/2743168"
+    },
+    {
+      "name": "Management Accounting",
+      "code": "ACCT 5433",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/management-accounting/5871826"
+    },
+    {
+      "name": "Management Accounting for Health Care Organizations",
+      "code": "HCA 5533",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/management-accounting-for-health-care-organizations/2744446"
+    },
+    {
+      "name": "Management Information Systems",
+      "code": "BUS 3533",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/management-information-systems/2743669"
+    },
+    {
+      "name": "Managerial Finance",
+      "code": "BUS 5243",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/managerial-finance/2744643"
+    },
+    {
+      "name": "Marketing Management",
+      "code": "BUS 5133",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/marketing-management/2744640"
+    },
+    {
+      "name": "Matrix Algebra",
+      "code": "MATH 5513",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/matrix-algebra/2744706"
+    },
+    {
+      "name": "Matrix Methods",
+      "code": "MATH 3073",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/matrix-methods/2743771"
+    },
+    {
+      "name": "Med Surg",
+      "code": null,
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/med-surg/4378231"
+    },
+    {
+      "name": "Medical Kinesiology",
+      "code": "PT 6073",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/medical-kinesiology/2745013"
+    },
+    {
+      "name": "Medical Nutrition Therapy I",
+      "code": "NFS 4103",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/medical-nutrition-therapy-i/2743961"
+    },
+    {
+      "name": "Medical Sociology",
+      "code": "SOCI 5733",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/medical-sociology/2745172"
+    },
+    {
+      "name": "Medical Terminology",
+      "code": "HS 3033",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/medical-terminology/2743537"
+    },
+    {
+      "name": "Mental Health Competencies",
+      "code": "NURS 4615",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/mental-health-competencies/2743931"
+    },
+    {
+      "name": "Methods of Teaching English",
+      "code": "ENG 4483",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/methods-of-teaching-english/2743456"
+    },
+    {
+      "name": "Methods of Teaching Sociology",
+      "code": "SOCI 5353",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/methods-of-teaching-sociology/2745167"
+    },
+    {
+      "name": "Microbiology",
+      "code": "BACT 1003",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/microbiology/2743119"
+    },
+    {
+      "name": "Microbiology Laboratory",
+      "code": "BACT 1001",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/microbiology-laboratory/2743118"
+    },
+    {
+      "name": "Modern Political Thought",
+      "code": "GOV 3723",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/modern-political-thought/2743253"
+    },
+    {
+      "name": "Molecular and Cellular Biology: Gene Expression",
+      "code": "BIOL 4813",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/molecular-and-cellular-biology-gene-expression/2743140"
+    },
+    {
+      "name": "Molecular and Cellular Biology: Genetics and Inheritance",
+      "code": "BIOL 4823",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/molecular-and-cellular-biology-genetics-and-inheritance/2743142"
+    },
+    {
+      "name": "Molecular and Cellular Biology: Genetics and Inheritance Laboratory",
+      "code": "BIOL 4821",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/molecular-and-cellular-biology-genetics-and-inheritance-laboratory/2743141"
+    },
+    {
+      "name": "Molecular Biology",
+      "code": "BIOL 6513",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/molecular-biology/2744225"
+    },
+    {
+      "name": "Motor Learning and Development",
+      "code": "KINS 4573",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/motor-learning-and-development/2743636"
+    },
+    {
+      "name": "Multicultural Literature",
+      "code": "ENG 3153",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/multicultural-literature/2743440"
+    },
+    {
+      "name": "Multicultural Literature for Children and Young Adults",
+      "code": "LS 5653",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/multicultural-literature-for-children-and-young-adults/2744629"
+    },
+    {
+      "name": "Multicultural Nursing",
+      "code": "NURS 6002",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/multicultural-nursing/2744843"
+    },
+    {
+      "name": "Musculoskeletal Physical Therapy: Lower Quadrant",
+      "code": "PT 6363",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/musculoskeletal-physical-therapy-lower-quadrant/2745046"
+    },
+    {
+      "name": "Musculoskeletal Physical Therapy: Upper Quadrant",
+      "code": "PT 6373",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/musculoskeletal-physical-therapy-upper-quadrant/2745047"
+    },
+    {
+      "name": "Music and Wellness",
+      "code": "MU 1112",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/music-and-wellness/2743809"
+    },
+    {
+      "name": "Music and World Cultures",
+      "code": "MU 3713",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/music-and-world-cultures/2743877"
+    },
+    {
+      "name": "Music History I",
+      "code": "MU 3313",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/music-history-i/2743851"
+    },
+    {
+      "name": "Music History II",
+      "code": "MU 3323",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/music-history-ii/2743852"
+    },
+    {
+      "name": "Mythology",
+      "code": "ENG 2073",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/mythology/2743428"
+    },
+    {
+      "name": "Needs Assessment, Planning, and Evaluation for Health Professionals",
+      "code": "HS 4743",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/needs-assessment-planning-and-evaluation-for-health-professionals/2743558"
+    },
+    {
+      "name": "Neural Foundations of COMM",
+      "code": "COMS 4623",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/neural-foundations-of-comm/6326186"
+    },
+    {
+      "name": "Neuroanatomy and Neurophysiology",
+      "code": "ZOOL 3123",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/neuroanatomy-and-neurophysiology/2743165"
+    },
+    {
+      "name": "Neuroanatomy and Neurophysiology Laboratory",
+      "code": "ZOOL 3121",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/neuroanatomy-and-neurophysiology-laboratory/2743164"
+    },
+    {
+      "name": "Normal Language Development in School Age Children",
+      "code": "COMS 3553",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/normal-language-development-in-school-age-children/2743221"
+    },
+    {
+      "name": "Normal Speech and Language Development",
+      "code": "COMS 3063",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/normal-speech-and-language-development/2743217"
+    },
+    {
+      "name": "Nurg Implic of Dysrrhythmias",
+      "code": "NURS 4402",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/nurg-implic-of-dysrrhythmias/6462633"
+    },
+    {
+      "name": "Nurse Preceptorship I",
+      "code": "NURS 5683",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/nurse-preceptorship-i/2744838"
+    },
+    {
+      "name": "Nurse Preceptorship II",
+      "code": "NURS 5695",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/nurse-preceptorship-ii/2744839"
+    },
+    {
+      "name": "Nursing Assessment across the Life Span",
+      "code": "NURS 3614",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/nursing-assessment-across-the-life-span/2743915"
+    },
+    {
+      "name": "Nursing Care of Adults with Complex Health Needs",
+      "code": "NURS 4043",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/nursing-care-of-adults-with-complex-health-needs/7168553"
+    },
+    {
+      "name": "Nursing Success",
+      "code": "NURS 4902",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/nursing-success/4382640"
+    },
+    {
+      "name": "Nutrition Assessment",
+      "code": "NFS 3201",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/nutrition-assessment/2743953"
+    },
+    {
+      "name": "Nutrition Education",
+      "code": "NFS 5453",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/nutrition-education/2744892"
+    },
+    {
+      "name": "Older Persons and the Family",
+      "code": "FS 3633",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/older-persons-and-the-family/2743482"
+    },
+    {
+      "name": "Operations Management",
+      "code": "BUS 4563",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/operations-management/2743704"
+    },
+    {
+      "name": "Organic Chemistry I",
+      "code": "CHEM 2213",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/organic-chemistry-i/2743185"
+    },
+    {
+      "name": "Organic Chemistry II",
+      "code": "CHEM 3223",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/organic-chemistry-ii/2743187"
+    },
+    {
+      "name": "Organic Chemistry Laboratory I",
+      "code": "CHEM 2211",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/organic-chemistry-laboratory-i/2743184"
+    },
+    {
+      "name": "Organic Chemistry Laboratory II",
+      "code": "CHEM 3221",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/organic-chemistry-laboratory-ii/2743186"
+    },
+    {
+      "name": "Palliative Care Nursing",
+      "code": "NURS 4512",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/palliative-care-nursing/2743927"
+    },
+    {
+      "name": "Pathophysiology",
+      "code": "BIOL 4344",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/pathophysiology/2743135"
+    },
+    {
+      "name": "Pediatric Dysphagia",
+      "code": "COMS 5452",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/pediatric-dysphagia/2744263"
+    },
+    {
+      "name": "Pediatric Motor Speech Disorders",
+      "code": "COMS 5421",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/pediatric-motor-speech-disorders/2744261"
+    },
+    {
+      "name": "Pediatric Physical Therapy",
+      "code": "PT 6353",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/pediatric-physical-therapy/2745045"
+    },
+    {
+      "name": "Performance I",
+      "code": "DRAM 2213",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/performance-i/2743390"
+    },
+    {
+      "name": "Periodontal Disease II",
+      "code": "DH 4342",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/periodontal-disease-ii/2743376"
+    },
+    {
+      "name": "Perspectives on Women's Health",
+      "code": "HS 3133",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/perspectives-on-womens-health/2743541"
+    },
+    {
+      "name": "Pharmacology",
+      "code": "NURS 3813",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/pharmacology/1580740"
+    },
+    {
+      "name": "Pharmacology for the Dental Hygienist",
+      "code": "DH 3542",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/pharmacology-for-the-dental-hygienist/2743368"
+    },
+    {
+      "name": "Pharmacotherapeutics for Advanced Nursing Practice",
+      "code": "NURS 5663",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/pharmacotherapeutics-for-advanced-nursing-practice/2744837"
+    },
+    {
+      "name": "Phonetics, Phonology, and Transcription",
+      "code": "COMS 3333",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/phonetics-phonology-and-transcription/2743218"
+    },
+    {
+      "name": "Physical Chemistry for the Life Sciences",
+      "code": "CHEM 3313",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/physical-chemistry-for-the-life-sciences/2743188"
+    },
+    {
+      "name": "Physiological Psychology",
+      "code": "PSY 4133",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/physiological-psychology/2744011"
+    },
+    {
+      "name": "Physiology of Exercise",
+      "code": "KINS 3603",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/physiology-of-exercise/2743626"
+    },
+    {
+      "name": "Physiology of Exercise Laboratory",
+      "code": "KINS 3601",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/physiology-of-exercise-laboratory/2743625"
+    },
+    {
+      "name": "Plant Biology",
+      "code": "BOT 2113",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/plant-biology/2743147"
+    },
+    {
+      "name": "Play, Development, and the Young Learner",
+      "code": "FS 5593",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/play-development-and-the-young-learner/2744384"
+    },
+    {
+      "name": "Political Science",
+      "code": "POLS 3303",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/political-science/5272483"
+    },
+    {
+      "name": "Politics, Policy, and Ethics",
+      "code": "ELDR 6603",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/politics-policy-and-ethics/2745243"
+    },
+    {
+      "name": "Positive Psychology",
+      "code": "PSY 3933",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/positive-psychology/2744002"
+    },
+    {
+      "name": "Practicum",
+      "code": "READ 6663",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/practicum/2745158"
+    },
+    {
+      "name": "Practicum in Athletic Training",
+      "code": "KINS 3403",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/practicum-in-athletic-training/2743616"
+    },
+    {
+      "name": "Pre-Calculus Mathematics",
+      "code": "MATH 105",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/pre-calculus-mathematics/7016728"
+    },
+    {
+      "name": "Principles and Techniques of Design Construction",
+      "code": "FT 1013",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/principles-and-techniques-of-design-construction/2743503"
+    },
+    {
+      "name": "Principles of Biology I",
+      "code": "BIOL 1113",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/principles-of-biology-i/2743128"
+    },
+    {
+      "name": "Principles of Biology I Laboratory",
+      "code": "BIOL 1111",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/principles-of-biology-i-laboratory/2743127"
+    },
+    {
+      "name": "Principles of Biology II",
+      "code": "BIOL 1123",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/principles-of-biology-ii/2743130"
+    },
+    {
+      "name": "Principles of Biology II Laboratory",
+      "code": "BIOL 1121",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/principles-of-biology-ii-laboratory/2743129"
+    },
+    {
+      "name": "Principles of Chemistry Laboratory I",
+      "code": "CHEM 1211",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/principles-of-chemistry-laboratory-i/2743180"
+    },
+    {
+      "name": "Principles of Fashion Marketing",
+      "code": "FT 2033",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/principles-of-fashion-marketing/2743507"
+    },
+    {
+      "name": "Principles of Foodservice Systems",
+      "code": "NFS 4744",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/principles-of-foodservice-systems/2743972"
+    },
+    {
+      "name": "Principles of Macroeconomics",
+      "code": "ECO 1023",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/principles-of-macroeconomics/2743709"
+    },
+    {
+      "name": "Principles of Management",
+      "code": "BUS 3003",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/principles-of-management/2743650"
+    },
+    {
+      "name": "Principles of Marketing",
+      "code": "BUS 3113",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/principles-of-marketing/2743657"
+    },
+    {
+      "name": "Principles of Microeconomics",
+      "code": "ECO 1013",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/principles-of-microeconomics/2743708"
+    },
+    {
+      "name": "Principles of Physics I",
+      "code": "PHYS 1133",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/principles-of-physics-i/2743207"
+    },
+    {
+      "name": "Principles of Physics II",
+      "code": "PHYS 1143",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/principles-of-physics-ii/2743209"
+    },
+    {
+      "name": "Principles of Selling",
+      "code": "BUS 4093",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/principles-of-selling/2743674"
+    },
+    {
+      "name": "Pro Seminar in Sociology",
+      "code": "SOCI 6321",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/pro-seminar-in-sociology/2745176"
+    },
+    {
+      "name": "Probability and Statistics",
+      "code": "MATH 4013",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/probability-and-statistics/2743776"
+    },
+    {
+      "name": "Process of Care for the Registered Dental Hygienist",
+      "code": "DH 3303",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/process-of-care-for-the-registered-dental-hygienist/2743357"
+    },
+    {
+      "name": "Processes and Strategies for Comprehending Texts",
+      "code": "READ 5453",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/processes-and-strategies-for-comprehending-texts/2745132"
+    },
+    {
+      "name": "Professional Development for the Registered Dental Hygienist",
+      "code": "DH 4833",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/professional-development-for-the-registered-dental-hygienist/2743386"
+    },
+    {
+      "name": "Professional Development in Family Sciences",
+      "code": "FS 4933",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/professional-development-in-family-sciences/2743500"
+    },
+    {
+      "name": "Professional Development in Psychology",
+      "code": "PSY 2013",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/professional-development-in-psychology/2743987"
+    },
+    {
+      "name": "Professional Paper in Occupational Therapy",
+      "code": "OT 5101",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/professional-paper-in-occupational-therapy/2744937"
+    },
+    {
+      "name": "Project Management",
+      "code": "BUS 5743",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/project-management/2744667"
+    },
+    {
+      "name": "Promoting Wellness in the Aging Family",
+      "code": "NURS 4612",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/promoting-wellness-in-the-aging-family/2743929"
+    },
+    {
+      "name": "Psychiatry",
+      "code": "N1253",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/psychiatry/4900909"
+    },
+    {
+      "name": "Psychology of Adjustment",
+      "code": "PSY 1082",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/psychology-of-adjustment/2743985"
+    },
+    {
+      "name": "Psychology of Women",
+      "code": "WS 3733",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/psychology-of-women/2743801"
+    },
+    {
+      "name": "Qualitative Research",
+      "code": "READ 6483",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/qualitative-research/2745148"
+    },
+    {
+      "name": "Quantity Food Production and Service",
+      "code": "NFS 3713",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/quantity-food-production-and-service/2743956"
+    },
+    {
+      "name": "Religion in an Atlantic World, 1450-1776",
+      "code": "HIST 5123",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/religion-in-an-atlantic-world-1450-1776/2744525"
+    },
+    {
+      "name": "Research Methods",
+      "code": "BIOL 5503",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/research-methods/2744214"
+    },
+    {
+      "name": "Resources in Family Sciences",
+      "code": "FS 6943",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/resources-in-family-sciences/2744430"
+    },
+    {
+      "name": "Rhetoric and Composition: Theory and Pedagogy of Electronic Texts",
+      "code": "ENG 5353",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/rhetoric-and-composition-theory-and-pedagogy-of-electronic-texts/2744324"
+    },
+    {
+      "name": "RN with Families and Groups",
+      "code": "NURS 3804",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/rn-with-families-and-groups/2743919"
+    },
+    {
+      "name": "Schools and Society",
+      "code": "EDUC 2003",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/schools-and-society/2744059"
+    },
+    {
+      "name": "Script Reading",
+      "code": "DRAM 1321",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/script-reading/2743388"
+    },
+    {
+      "name": "Secondary Art Education",
+      "code": "ART 3233",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/secondary-art-education/2744166"
+    },
+    {
+      "name": "Seminar",
+      "code": "CHEM 5101",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/seminar/2744234"
+    },
+    {
+      "name": "Seminar in Emotional and Behavioral Disorders",
+      "code": "EDSP 6303",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/seminar-in-emotional-and-behavioral-disorders/2745210"
+    },
+    {
+      "name": "Services Marketing",
+      "code": "BUS 4153",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/services-marketing/2743678"
+    },
+    {
+      "name": "Social Psychology",
+      "code": "PSY 2023",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/social-psychology/2743988"
+    },
+    {
+      "name": "Social Research",
+      "code": "SOCI 3053",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/social-research/2743281"
+    },
+    {
+      "name": "Social Statistics",
+      "code": "SOCI 3163",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/social-statistics/2743289"
+    },
+    {
+      "name": "Social Work Field Practicum",
+      "code": "SOWK 4469",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/social-work-field-practicum/2744045"
+    },
+    {
+      "name": "Software Engineering",
+      "code": "CSCI 3413",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/software-engineering/2743728"
+    },
+    {
+      "name": "Sound Design and Technology",
+      "code": "DRAM 4472",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/sound-design-and-technology/2743417"
+    },
+    {
+      "name": "Spanish Grammar, Composition, and Literature I",
+      "code": "SPAN 3153",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/spanish-grammar-composition-and-literature-i/2743463"
+    },
+    {
+      "name": "Sport and Fitness Management",
+      "code": "KINS 3713",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/sport-and-fitness-management/2743630"
+    },
+    {
+      "name": "Sport Development",
+      "code": "KINS 3453",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/sport-development/2743619"
+    },
+    {
+      "name": "Sports Nutrition",
+      "code": "NFS 3163",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/sports-nutrition/2743951"
+    },
+    {
+      "name": "Strategic Information Systems",
+      "code": "BUS 5763",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/strategic-information-systems/2744669"
+    },
+    {
+      "name": "Strategic Planning in Healthcare",
+      "code": "HCA 5223",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/strategic-planning-in-healthcare/2744435"
+    },
+    {
+      "name": "Strength Training and Functional Anatomy",
+      "code": "KINS 1683",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/strength-training-and-functional-anatomy/2743595"
+    },
+    {
+      "name": "Student Teaching: Economics",
+      "code": "EDUC 4186",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/student-teaching-economics/2744094"
+    },
+    {
+      "name": "Student Teaching: Grades 4-8 Mathematics",
+      "code": "EDUC 4783",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/student-teaching-grades-4-8-mathematics/2744132"
+    },
+    {
+      "name": "Student Teaching: Mathematics",
+      "code": "EDUC 4126",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/student-teaching-mathematics/2744088"
+    },
+    {
+      "name": "Studies in Ethnic, Multicultural, and Cross Cultural Literature",
+      "code": "ENG 5173",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/studies-in-ethnic-multicultural-and-cross-cultural-literature/2744313"
+    },
+    {
+      "name": "Studies in Writing in Networked Environments",
+      "code": "ENG 5333",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/studies-in-writing-in-networked-environments/2744322"
+    },
+    {
+      "name": "Study in Speech and Language Development",
+      "code": "COMS 4101",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/study-in-speech-and-language-development/2743224"
+    },
+    {
+      "name": "Teaching English As a Second Language",
+      "code": "EDBE 3453",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/teaching-english-as-a-second-language/2744049"
+    },
+    {
+      "name": "Texas Government",
+      "code": "GOV 2023",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/texas-government/2743237"
+    },
+    {
+      "name": "Textiles",
+      "code": "FT 1073",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/textiles/2743504"
+    },
+    {
+      "name": "Texts, Trends, and Issues in Women's Studies",
+      "code": "WS 4013",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/texts-trends-and-issues-in-womens-studies/2743802"
+    },
+    {
+      "name": "The Brain and Language: an Introduction",
+      "code": "COMS 4623",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/the-brain-and-language-an-introduction/2743231"
+    },
+    {
+      "name": "The Care and Education of Children: A Global Perspective",
+      "code": "FS 3523",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/the-care-and-education-of-children-a-global-perspective/2743477"
+    },
+    {
+      "name": "The Nursing Experience with Groups",
+      "code": "NURS 4602",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/the-nursing-experience-with-groups/2743928"
+    },
+    {
+      "name": "The Nursing Leadership and Management Experience",
+      "code": "NURS 4803",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/the-nursing-leadership-and-management-experience/2743933"
+    },
+    {
+      "name": "Theatre in Performance",
+      "code": "DRAM 5521",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/theatre-in-performance/2744746"
+    },
+    {
+      "name": "Theoretical Foundations of Nursing Practice",
+      "code": "NURS 5013",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/theoretical-foundations-of-nursing-practice/2744799"
+    },
+    {
+      "name": "Theories of Art",
+      "code": "ART 5063",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/theories-of-art/2745247"
+    },
+    {
+      "name": "Theory and Foundations of Nursing Research",
+      "code": "NURS 6004",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/theory-and-foundations-of-nursing-research/2744845"
+    },
+    {
+      "name": "Therapeutic and Crisis Interventions for Children and Adolescents",
+      "code": "PSY 6673",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/therapeutic-and-crisis-interventions-for-children-and-adolescents/2745112"
+    },
+    {
+      "name": "Topics in World Literature",
+      "code": "ENG 4433",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/topics-in-world-literature/2743451"
+    },
+    {
+      "name": "Treatment of Language Disorders in Culturally and Linguistically Diverse Populations",
+      "code": "COMS 5712",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/treatment-of-language-disorders-in-culturally-and-linguistically-diverse-populations/2744276"
+    },
+    {
+      "name": "Two-Dimensional Color and Design",
+      "code": "ART 1203",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/two-dimensional-color-and-design/2744143"
+    },
+    {
+      "name": "U.S. National Government",
+      "code": "GOV 2013",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/us-national-government/2743236"
+    },
+    {
+      "name": "University Band",
+      "code": "MU 3611",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/university-band/2743869"
+    },
+    {
+      "name": "University Chorus",
+      "code": "MU 3531",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/university-chorus/2743860"
+    },
+    {
+      "name": "Using ASL to Teach English",
+      "code": "COMS 4663",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/using-asl-to-teach-english/2743234"
+    },
+    {
+      "name": "Virology",
+      "code": "BACT 4413",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/virology/2743124"
+    },
+    {
+      "name": "Vocal Pedagogy",
+      "code": "MU 3492",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/vocal-pedagogy/2743859"
+    },
+    {
+      "name": "Woman's Roles",
+      "code": "WS 3213",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/womans-roles/2743796"
+    },
+    {
+      "name": "Womanist Spiritual Activism: Social Justice Theories for Wellness and Transformation",
+      "code": "WS 2033",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/womanist-spiritual-activism-social-justice-theories-for-wellness-and-transformation/2743785"
+    },
+    {
+      "name": "Women in Politics",
+      "code": "WS 3063",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/women-in-politics/2743791"
+    },
+    {
+      "name": "Women's Health",
+      "code": "N3025",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/womens-health/4250326"
+    },
+    {
+      "name": "Women's Health and Family Role Competencies",
+      "code": "NURS 3025",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/womens-health-and-family-role-competencies/2743909"
+    },
+    {
+      "name": "World of the Imagination in Art, Dance, and Film",
+      "code": "DNCE 3373",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/world-of-the-imagination-in-art-dance-and-film/2743343"
+    },
+    {
+      "name": "World Regional Geography",
+      "code": "SOCI 3273",
+      "url": "https://www.studocu.com/en-us/course/texas-womans-university/world-regional-geography/2743293"
+    }
+  ]
+}

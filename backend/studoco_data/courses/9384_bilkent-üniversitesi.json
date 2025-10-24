@@ -1,0 +1,961 @@
+{
+  "university_id": "9384",
+  "university_name": "Bilkent Üniversitesi",
+  "courses": [
+    {
+      "name": "20th century world politics",
+      "code": "IR236",
+      "url": "https://www.studocu.com/row/course/bilkent-universitesi/20th-century-world-politics/3253133"
+    },
+    {
+      "name": "Abnormal Psychology",
+      "code": "PSYC 433",
+      "url": "https://www.studocu.com/row/course/bilkent-universitesi/abnormal-psychology/6733204"
+    },
+    {
+      "name": "Advanced Calculus 1",
+      "code": "MATH 213",
+      "url": "https://www.studocu.com/row/course/bilkent-universitesi/advanced-calculus-1/5717271"
+    },
+    {
+      "name": "Advanced Calculus for Applications in Physics",
+      "code": "242",
+      "url": "https://www.studocu.com/row/course/bilkent-universitesi/advanced-calculus-for-applications-in-physics/6845471"
+    },
+    {
+      "name": "Algorithms 1",
+      "code": "CS 473",
+      "url": "https://www.studocu.com/row/course/bilkent-universitesi/algorithms-1/6505731"
+    },
+    {
+      "name": "Algorithms and Data Structures",
+      "code": "CTIS152",
+      "url": "https://www.studocu.com/row/course/bilkent-universitesi/algorithms-and-data-structures/6820607"
+    },
+    {
+      "name": "Algorithms and Programming I",
+      "code": "CS 101",
+      "url": "https://www.studocu.com/row/course/bilkent-universitesi/algorithms-and-programming-i/6154304"
+    },
+    {
+      "name": "american culture and literature",
+      "code": "amer116",
+      "url": "https://www.studocu.com/row/course/bilkent-universitesi/american-culture-and-literature/6464914"
+    },
+    {
+      "name": "applied quantum chemistry",
+      "code": "chem450",
+      "url": "https://www.studocu.com/row/course/bilkent-universitesi/applied-quantum-chemistry/4392915"
+    },
+    {
+      "name": "Applied Thermodynamics",
+      "code": "ME 432",
+      "url": "https://www.studocu.com/row/course/bilkent-universitesi/applied-thermodynamics/4221376"
+    },
+    {
+      "name": "Automata Theory",
+      "code": "CS476",
+      "url": "https://www.studocu.com/row/course/bilkent-universitesi/automata-theory/5830222"
+    },
+    {
+      "name": "Basic Concepts of Law",
+      "code": "LAW 210",
+      "url": "https://www.studocu.com/row/course/bilkent-universitesi/basic-concepts-of-law/6142877"
+    },
+    {
+      "name": "Basics of Signals and Systems",
+      "code": "EEE391",
+      "url": "https://www.studocu.com/row/course/bilkent-universitesi/basics-of-signals-and-systems/7289850"
+    },
+    {
+      "name": "Bioinformatics Algorithms",
+      "code": "CS481",
+      "url": "https://www.studocu.com/row/course/bilkent-universitesi/bioinformatics-algorithms/4922475"
+    },
+    {
+      "name": "Business strategy",
+      "code": "man 407",
+      "url": "https://www.studocu.com/row/course/bilkent-universitesi/business-strategy/3729595"
+    },
+    {
+      "name": "Business Strategy",
+      "code": "MAN 406",
+      "url": "https://www.studocu.com/row/course/bilkent-universitesi/business-strategy/6070384"
+    },
+    {
+      "name": "Calculus II",
+      "code": "MATH102",
+      "url": "https://www.studocu.com/row/course/bilkent-universitesi/calculus-ii/5351183"
+    },
+    {
+      "name": "Chemistry",
+      "code": "CHEM 101",
+      "url": "https://www.studocu.com/row/course/bilkent-universitesi/chemistry/5287338"
+    },
+    {
+      "name": "Circuit Theory",
+      "code": "EEE 202",
+      "url": "https://www.studocu.com/row/course/bilkent-universitesi/circuit-theory/3477387"
+    },
+    {
+      "name": "Civil Law",
+      "code": "LAW 105",
+      "url": "https://www.studocu.com/row/course/bilkent-universitesi/civil-law/5709777"
+    },
+    {
+      "name": "cmk",
+      "code": "law411",
+      "url": "https://www.studocu.com/row/course/bilkent-universitesi/cmk/7255147"
+    },
+    {
+      "name": "Cognitive and Social Development",
+      "code": "PSYC-350",
+      "url": "https://www.studocu.com/row/course/bilkent-universitesi/cognitive-and-social-development/5341520"
+    },
+    {
+      "name": "cognitive psychology",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/bilkent-universitesi/cognitive-psychology/4368405"
+    },
+    {
+      "name": "Comparative Politics I",
+      "code": "POLS-303",
+      "url": "https://www.studocu.com/row/course/bilkent-universitesi/comparative-politics-i/6667250"
+    },
+    {
+      "name": "Comparative Politics II",
+      "code": "POLS-304",
+      "url": "https://www.studocu.com/row/course/bilkent-universitesi/comparative-politics-ii/5167101"
+    },
+    {
+      "name": "Complex Analysis",
+      "code": "MATH 202",
+      "url": "https://www.studocu.com/row/course/bilkent-universitesi/complex-analysis/5780683"
+    },
+    {
+      "name": "Computational Optimization",
+      "code": "IE586",
+      "url": "https://www.studocu.com/row/course/bilkent-universitesi/computational-optimization/6057514"
+    },
+    {
+      "name": "Computer Networks",
+      "code": "cs421",
+      "url": "https://www.studocu.com/row/course/bilkent-universitesi/computer-networks/6341359"
+    },
+    {
+      "name": "Computer Organization",
+      "code": "CS224",
+      "url": "https://www.studocu.com/row/course/bilkent-universitesi/computer-organization/3565560"
+    },
+    {
+      "name": "Constitutional Law",
+      "code": "LAW 103",
+      "url": "https://www.studocu.com/row/course/bilkent-universitesi/constitutional-law/5174000"
+    },
+    {
+      "name": "coparate finans",
+      "code": "man 216",
+      "url": "https://www.studocu.com/row/course/bilkent-universitesi/coparate-finans/4523621"
+    },
+    {
+      "name": "Corporate Finance",
+      "code": "MAN321",
+      "url": "https://www.studocu.com/row/course/bilkent-universitesi/corporate-finance/3731380"
+    },
+    {
+      "name": "Criminal Law (Special Part)",
+      "code": "LAW358",
+      "url": "https://www.studocu.com/row/course/bilkent-universitesi/criminal-law-special-part/4359578"
+    },
+    {
+      "name": "cross cultural management",
+      "code": "man467",
+      "url": "https://www.studocu.com/row/course/bilkent-universitesi/cross-cultural-management/5169134"
+    },
+    {
+      "name": "Database Systems",
+      "code": "CS 353",
+      "url": "https://www.studocu.com/row/course/bilkent-universitesi/database-systems/5153507"
+    },
+    {
+      "name": "deep learning",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/bilkent-universitesi/deep-learning/6217474"
+    },
+    {
+      "name": "Democracy, Development and Human Rights",
+      "code": "POLS 490",
+      "url": "https://www.studocu.com/row/course/bilkent-universitesi/democracy-development-and-human-rights/5168389"
+    },
+    {
+      "name": "Developmental Biology",
+      "code": "MBG 483",
+      "url": "https://www.studocu.com/row/course/bilkent-universitesi/developmental-biology/6148164"
+    },
+    {
+      "name": "Digital Communications",
+      "code": "EEE 431",
+      "url": "https://www.studocu.com/row/course/bilkent-universitesi/digital-communications/7448872"
+    },
+    {
+      "name": "Digital design",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/bilkent-universitesi/digital-design/2037205"
+    },
+    {
+      "name": "Digital Design",
+      "code": "CS223",
+      "url": "https://www.studocu.com/row/course/bilkent-universitesi/digital-design/6792358"
+    },
+    {
+      "name": "Diplomatic History",
+      "code": "IR 205",
+      "url": "https://www.studocu.com/row/course/bilkent-universitesi/diplomatic-history/3282946"
+    },
+    {
+      "name": "Discrete and Combinatorial Mathematics",
+      "code": "Math132",
+      "url": "https://www.studocu.com/row/course/bilkent-universitesi/discrete-and-combinatorial-mathematics/4753849"
+    },
+    {
+      "name": "Dynamics",
+      "code": "ME341",
+      "url": "https://www.studocu.com/row/course/bilkent-universitesi/dynamics/3221908"
+    },
+    {
+      "name": "Economics",
+      "code": "207",
+      "url": "https://www.studocu.com/row/course/bilkent-universitesi/economics/4524261"
+    },
+    {
+      "name": "Economy",
+      "code": "Econ107",
+      "url": "https://www.studocu.com/row/course/bilkent-universitesi/economy/7185789"
+    },
+    {
+      "name": "Electromagnetic Theory",
+      "code": "EEE 351",
+      "url": "https://www.studocu.com/row/course/bilkent-universitesi/electromagnetic-theory/7259566"
+    },
+    {
+      "name": "Energy Economics",
+      "code": "ECON 317",
+      "url": "https://www.studocu.com/row/course/bilkent-universitesi/energy-economics/5841403"
+    },
+    {
+      "name": "Engineering Economics",
+      "code": "IE342",
+      "url": "https://www.studocu.com/row/course/bilkent-universitesi/engineering-economics/5721942"
+    },
+    {
+      "name": "Engineering Electromagnetics",
+      "code": "EE351",
+      "url": "https://www.studocu.com/row/course/bilkent-universitesi/engineering-electromagnetics/4509011"
+    },
+    {
+      "name": "Engineering Mathematics",
+      "code": "MATH242",
+      "url": "https://www.studocu.com/row/course/bilkent-universitesi/engineering-mathematics/4396049"
+    },
+    {
+      "name": "engineering mathematics 1",
+      "code": "math241",
+      "url": "https://www.studocu.com/row/course/bilkent-universitesi/engineering-mathematics-1/7215539"
+    },
+    {
+      "name": "English and Composition I",
+      "code": "ENG 101",
+      "url": "https://www.studocu.com/row/course/bilkent-universitesi/english-and-composition-i/4303916"
+    },
+    {
+      "name": "English and Composition II",
+      "code": "ENG 102",
+      "url": "https://www.studocu.com/row/course/bilkent-universitesi/english-and-composition-ii/7026867"
+    },
+    {
+      "name": "English Preparation",
+      "code": "PREP 151",
+      "url": "https://www.studocu.com/row/course/bilkent-universitesi/english-preparation/6021121"
+    },
+    {
+      "name": "Entreprenurship and venture capital",
+      "code": "man 484",
+      "url": "https://www.studocu.com/row/course/bilkent-universitesi/entreprenurship-and-venture-capital/7196374"
+    },
+    {
+      "name": "Equality Law",
+      "code": "LAW394",
+      "url": "https://www.studocu.com/row/course/bilkent-universitesi/equality-law/5478802"
+    },
+    {
+      "name": "EU Law",
+      "code": "LW413",
+      "url": "https://www.studocu.com/row/course/bilkent-universitesi/eu-law/4378893"
+    },
+    {
+      "name": "European Politics",
+      "code": "POLS 480",
+      "url": "https://www.studocu.com/row/course/bilkent-universitesi/european-politics/6923940"
+    },
+    {
+      "name": "European Union Law",
+      "code": "LAW 413",
+      "url": "https://www.studocu.com/row/course/bilkent-universitesi/european-union-law/7249858"
+    },
+    {
+      "name": "Foreign Policy Analysis",
+      "code": "IR 333",
+      "url": "https://www.studocu.com/row/course/bilkent-universitesi/foreign-policy-analysis/4535359"
+    },
+    {
+      "name": "French I",
+      "code": "LNG 121",
+      "url": "https://www.studocu.com/row/course/bilkent-universitesi/french-i/6410537"
+    },
+    {
+      "name": "FUNDAMENTAL OF PROGRAMMING",
+      "code": "CS 201",
+      "url": "https://www.studocu.com/row/course/bilkent-universitesi/fundamental-of-programming/3226707"
+    },
+    {
+      "name": "Fundamentals of Marketing",
+      "code": "MAN335",
+      "url": "https://www.studocu.com/row/course/bilkent-universitesi/fundamentals-of-marketing/4328392"
+    },
+    {
+      "name": "Fundamentals of Mechanical Engineering",
+      "code": "ME101",
+      "url": "https://www.studocu.com/row/course/bilkent-universitesi/fundamentals-of-mechanical-engineering/5538339"
+    },
+    {
+      "name": "Fuzzy Logic",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/bilkent-universitesi/fuzzy-logic/5389646"
+    },
+    {
+      "name": "Game Theory",
+      "code": "Econ",
+      "url": "https://www.studocu.com/row/course/bilkent-universitesi/game-theory/7005698"
+    },
+    {
+      "name": "Gender and Politics",
+      "code": "POLS-411",
+      "url": "https://www.studocu.com/row/course/bilkent-universitesi/gender-and-politics/3238045"
+    },
+    {
+      "name": "German",
+      "code": "GE101",
+      "url": "https://www.studocu.com/row/course/bilkent-universitesi/german/7435459"
+    },
+    {
+      "name": "Global Environmental Issues",
+      "code": "IR214",
+      "url": "https://www.studocu.com/row/course/bilkent-universitesi/global-environmental-issues/6570424"
+    },
+    {
+      "name": "Haberci̇li̇k",
+      "code": "HAB1",
+      "url": "https://www.studocu.com/row/course/bilkent-universitesi/habercilik/5828735"
+    },
+    {
+      "name": "Heat Exchanger",
+      "code": "ME430",
+      "url": "https://www.studocu.com/row/course/bilkent-universitesi/heat-exchanger/4386490"
+    },
+    {
+      "name": "History of Built Environment II",
+      "code": "ADA26",
+      "url": "https://www.studocu.com/row/course/bilkent-universitesi/history-of-built-environment-ii/6069956"
+    },
+    {
+      "name": "History of Civilizations",
+      "code": "101",
+      "url": "https://www.studocu.com/row/course/bilkent-universitesi/history-of-civilizations/5166718"
+    },
+    {
+      "name": "History of Economic Thought",
+      "code": "ECON 363",
+      "url": "https://www.studocu.com/row/course/bilkent-universitesi/history-of-economic-thought/5167053"
+    },
+    {
+      "name": "History Of Turkey",
+      "code": "HIST200",
+      "url": "https://www.studocu.com/row/course/bilkent-universitesi/history-of-turkey/4516562"
+    },
+    {
+      "name": "How houses build people",
+      "code": "ADA265",
+      "url": "https://www.studocu.com/row/course/bilkent-universitesi/how-houses-build-people/6831319"
+    },
+    {
+      "name": "How houses build people",
+      "code": "ADA 265",
+      "url": "https://www.studocu.com/row/course/bilkent-universitesi/how-houses-build-people/6831323"
+    },
+    {
+      "name": "Human Bonding",
+      "code": "PSYC444",
+      "url": "https://www.studocu.com/row/course/bilkent-universitesi/human-bonding/6001998"
+    },
+    {
+      "name": "Humanity",
+      "code": "hum111",
+      "url": "https://www.studocu.com/row/course/bilkent-universitesi/humanity/3222090"
+    },
+    {
+      "name": "immunology",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/bilkent-universitesi/immunology/5286514"
+    },
+    {
+      "name": "Individual Differences and Personality",
+      "code": "PSYC360",
+      "url": "https://www.studocu.com/row/course/bilkent-universitesi/individual-differences-and-personality/7445077"
+    },
+    {
+      "name": "Industrial Engineering",
+      "code": "IE 202",
+      "url": "https://www.studocu.com/row/course/bilkent-universitesi/industrial-engineering/7549240"
+    },
+    {
+      "name": "Interdisciplinary Project",
+      "code": "GE 400",
+      "url": "https://www.studocu.com/row/course/bilkent-universitesi/interdisciplinary-project/7005704"
+    },
+    {
+      "name": "International Business",
+      "code": "MAN 403",
+      "url": "https://www.studocu.com/row/course/bilkent-universitesi/international-business/4533626"
+    },
+    {
+      "name": "international law",
+      "code": "law 303",
+      "url": "https://www.studocu.com/row/course/bilkent-universitesi/international-law/6471625"
+    },
+    {
+      "name": "International Logistics",
+      "code": "IR4116",
+      "url": "https://www.studocu.com/row/course/bilkent-universitesi/international-logistics/4355809"
+    },
+    {
+      "name": "International Organizations",
+      "code": "IR 305",
+      "url": "https://www.studocu.com/row/course/bilkent-universitesi/international-organizations/7752415"
+    },
+    {
+      "name": "International Relations in Movies",
+      "code": "IR 349",
+      "url": "https://www.studocu.com/row/course/bilkent-universitesi/international-relations-in-movies/6561564"
+    },
+    {
+      "name": "International Relations Theory",
+      "code": "IR335",
+      "url": "https://www.studocu.com/row/course/bilkent-universitesi/international-relations-theory/3230160"
+    },
+    {
+      "name": "International security",
+      "code": "IR358",
+      "url": "https://www.studocu.com/row/course/bilkent-universitesi/international-security/7173065"
+    },
+    {
+      "name": "Intoduction to Calculus II",
+      "code": "MATH106",
+      "url": "https://www.studocu.com/row/course/bilkent-universitesi/intoduction-to-calculus-ii/4527616"
+    },
+    {
+      "name": "intro to management",
+      "code": "man 101",
+      "url": "https://www.studocu.com/row/course/bilkent-universitesi/intro-to-management/7590757"
+    },
+    {
+      "name": "Intro to Sociology",
+      "code": "SOC 101",
+      "url": "https://www.studocu.com/row/course/bilkent-universitesi/intro-to-sociology/4447614"
+    },
+    {
+      "name": "Introduction to Art, Design Culture I",
+      "code": "FA-171",
+      "url": "https://www.studocu.com/row/course/bilkent-universitesi/introduction-to-art-design-culture-i/7333214"
+    },
+    {
+      "name": "Introduction to basics of music making",
+      "code": "Msc100",
+      "url": "https://www.studocu.com/row/course/bilkent-universitesi/introduction-to-basics-of-music-making/6725319"
+    },
+    {
+      "name": "Introduction to Calculus",
+      "code": "MATH105",
+      "url": "https://www.studocu.com/row/course/bilkent-universitesi/introduction-to-calculus/3238962"
+    },
+    {
+      "name": "Introduction to Computer Viision",
+      "code": "CS 484",
+      "url": "https://www.studocu.com/row/course/bilkent-universitesi/introduction-to-computer-viision/7348636"
+    },
+    {
+      "name": "Introduction to Data Analysis for Social Sciences",
+      "code": "CS 125",
+      "url": "https://www.studocu.com/row/course/bilkent-universitesi/introduction-to-data-analysis-for-social-sciences/4345153"
+    },
+    {
+      "name": "Introduction to Economics",
+      "code": "ECON101",
+      "url": "https://www.studocu.com/row/course/bilkent-universitesi/introduction-to-economics/2915585"
+    },
+    {
+      "name": "Introduction to General Relativity",
+      "code": "PHYS405",
+      "url": "https://www.studocu.com/row/course/bilkent-universitesi/introduction-to-general-relativity/6858708"
+    },
+    {
+      "name": "Introduction to Linear Algebra",
+      "code": "MATH 227",
+      "url": "https://www.studocu.com/row/course/bilkent-universitesi/introduction-to-linear-algebra/4538596"
+    },
+    {
+      "name": "Introduction to Macroeconomics",
+      "code": "Econ 102",
+      "url": "https://www.studocu.com/row/course/bilkent-universitesi/introduction-to-macroeconomics/3273606"
+    },
+    {
+      "name": "Introduction to Microeconomics",
+      "code": "ECON 101",
+      "url": "https://www.studocu.com/row/course/bilkent-universitesi/introduction-to-microeconomics/4531938"
+    },
+    {
+      "name": "Introduction to modern biology",
+      "code": "MBG 110",
+      "url": "https://www.studocu.com/row/course/bilkent-universitesi/introduction-to-modern-biology/5164034"
+    },
+    {
+      "name": "Introduction to Philosophy",
+      "code": "103",
+      "url": "https://www.studocu.com/row/course/bilkent-universitesi/introduction-to-philosophy/4273402"
+    },
+    {
+      "name": "Introduction to Political Science II",
+      "code": "POLS104",
+      "url": "https://www.studocu.com/row/course/bilkent-universitesi/introduction-to-political-science-ii/6632306"
+    },
+    {
+      "name": "Introduction to Politics",
+      "code": "POLS-101",
+      "url": "https://www.studocu.com/row/course/bilkent-universitesi/introduction-to-politics/3442276"
+    },
+    {
+      "name": "Introduction to Programming in Python",
+      "code": "CS115",
+      "url": "https://www.studocu.com/row/course/bilkent-universitesi/introduction-to-programming-in-python/6820616"
+    },
+    {
+      "name": "Introduction to Psyc",
+      "code": "PSYC 100",
+      "url": "https://www.studocu.com/row/course/bilkent-universitesi/introduction-to-psyc/6532778"
+    },
+    {
+      "name": "Introduction to Research Methods in Social Sciences",
+      "code": "201",
+      "url": "https://www.studocu.com/row/course/bilkent-universitesi/introduction-to-research-methods-in-social-sciences/7005703"
+    },
+    {
+      "name": "Introduction to Social Psychology",
+      "code": "PSYC 102",
+      "url": "https://www.studocu.com/row/course/bilkent-universitesi/introduction-to-social-psychology/4343308"
+    },
+    {
+      "name": "Introduction to Theatre",
+      "code": "THR 110",
+      "url": "https://www.studocu.com/row/course/bilkent-universitesi/introduction-to-theatre/7345642"
+    },
+    {
+      "name": "Introduction to Tourism",
+      "code": "THM125",
+      "url": "https://www.studocu.com/row/course/bilkent-universitesi/introduction-to-tourism/6662046"
+    },
+    {
+      "name": "Introduction to world politics",
+      "code": "IR 101",
+      "url": "https://www.studocu.com/row/course/bilkent-universitesi/introduction-to-world-politics/6772597"
+    },
+    {
+      "name": "Issues in Macro Economics",
+      "code": "ECON 405",
+      "url": "https://www.studocu.com/row/course/bilkent-universitesi/issues-in-macro-economics/1669070"
+    },
+    {
+      "name": "Issues of Urbanization",
+      "code": "POLS 491",
+      "url": "https://www.studocu.com/row/course/bilkent-universitesi/issues-of-urbanization/5339650"
+    },
+    {
+      "name": "İdare Hukuku",
+      "code": "LAW 205",
+      "url": "https://www.studocu.com/row/course/bilkent-universitesi/idare-hukuku/6043678"
+    },
+    {
+      "name": "Japanese 1",
+      "code": "LNG421",
+      "url": "https://www.studocu.com/row/course/bilkent-universitesi/japanese-1/7049767"
+    },
+    {
+      "name": "Labor Economics",
+      "code": "ECON 458",
+      "url": "https://www.studocu.com/row/course/bilkent-universitesi/labor-economics/5166197"
+    },
+    {
+      "name": "Law of Obligations II",
+      "code": "LAW 202",
+      "url": "https://www.studocu.com/row/course/bilkent-universitesi/law-of-obligations-ii/3906337"
+    },
+    {
+      "name": "Law of Property",
+      "code": "LAW305",
+      "url": "https://www.studocu.com/row/course/bilkent-universitesi/law-of-property/5586737"
+    },
+    {
+      "name": "Learning, Remembering and Thinking",
+      "code": "PSYC-340",
+      "url": "https://www.studocu.com/row/course/bilkent-universitesi/learning-remembering-and-thinking/5341517"
+    },
+    {
+      "name": "Linear Algebra",
+      "code": "MATH220",
+      "url": "https://www.studocu.com/row/course/bilkent-universitesi/linear-algebra/6060948"
+    },
+    {
+      "name": "Machine Learning",
+      "code": "CS550",
+      "url": "https://www.studocu.com/row/course/bilkent-universitesi/machine-learning/3171768"
+    },
+    {
+      "name": "machine learning",
+      "code": "cs464",
+      "url": "https://www.studocu.com/row/course/bilkent-universitesi/machine-learning/5277424"
+    },
+    {
+      "name": "Management science",
+      "code": "Man256",
+      "url": "https://www.studocu.com/row/course/bilkent-universitesi/management-science/6173756"
+    },
+    {
+      "name": "Managerial Accountin",
+      "code": "MAN321",
+      "url": "https://www.studocu.com/row/course/bilkent-universitesi/managerial-accountin/3266263"
+    },
+    {
+      "name": "Marketing Principles",
+      "code": "MAN 333",
+      "url": "https://www.studocu.com/row/course/bilkent-universitesi/marketing-principles/6513378"
+    },
+    {
+      "name": "Materials Science and Technology",
+      "code": "CHEM201",
+      "url": "https://www.studocu.com/row/course/bilkent-universitesi/materials-science-and-technology/5804124"
+    },
+    {
+      "name": "mathematics",
+      "code": "math101",
+      "url": "https://www.studocu.com/row/course/bilkent-universitesi/mathematics/7185794"
+    },
+    {
+      "name": "Mathematics for economists",
+      "code": "Econ 225",
+      "url": "https://www.studocu.com/row/course/bilkent-universitesi/mathematics-for-economists/4503366"
+    },
+    {
+      "name": "Mechanics and Materials II",
+      "code": "ME 232",
+      "url": "https://www.studocu.com/row/course/bilkent-universitesi/mechanics-and-materials-ii/6343716"
+    },
+    {
+      "name": "Mechatronic Systems",
+      "code": "ME 384",
+      "url": "https://www.studocu.com/row/course/bilkent-universitesi/mechatronic-systems/6830106"
+    },
+    {
+      "name": "Media studies",
+      "code": "COMD 203",
+      "url": "https://www.studocu.com/row/course/bilkent-universitesi/media-studies/6517104"
+    },
+    {
+      "name": "Microbiology",
+      "code": "MBG 338",
+      "url": "https://www.studocu.com/row/course/bilkent-universitesi/microbiology/3729760"
+    },
+    {
+      "name": "microeconomic theory-1",
+      "code": "ECON 203",
+      "url": "https://www.studocu.com/row/course/bilkent-universitesi/microeconomic-theory-1/4414505"
+    },
+    {
+      "name": "Modern Physics",
+      "code": "PHYS212",
+      "url": "https://www.studocu.com/row/course/bilkent-universitesi/modern-physics/7498403"
+    },
+    {
+      "name": "Molecular Biology of the Cell I",
+      "code": "MBG 301",
+      "url": "https://www.studocu.com/row/course/bilkent-universitesi/molecular-biology-of-the-cell-i/6510499"
+    },
+    {
+      "name": "Negotiation and Mediation in Politics",
+      "code": "IR 350",
+      "url": "https://www.studocu.com/row/course/bilkent-universitesi/negotiation-and-mediation-in-politics/7138440"
+    },
+    {
+      "name": "Neural Networks",
+      "code": "EEE443",
+      "url": "https://www.studocu.com/row/course/bilkent-universitesi/neural-networks/5718319"
+    },
+    {
+      "name": "Nonlinear Systems",
+      "code": "EEE442",
+      "url": "https://www.studocu.com/row/course/bilkent-universitesi/nonlinear-systems/5738915"
+    },
+    {
+      "name": "Object Oriented Programming",
+      "code": "CS 319",
+      "url": "https://www.studocu.com/row/course/bilkent-universitesi/object-oriented-programming/6569081"
+    },
+    {
+      "name": "Operating Systems",
+      "code": "CS 342",
+      "url": "https://www.studocu.com/row/course/bilkent-universitesi/operating-systems/4317571"
+    },
+    {
+      "name": "Organic Chemistry",
+      "code": "CHEM233",
+      "url": "https://www.studocu.com/row/course/bilkent-universitesi/organic-chemistry/6531412"
+    },
+    {
+      "name": "Organizational Behavior",
+      "code": "Man 262",
+      "url": "https://www.studocu.com/row/course/bilkent-universitesi/organizational-behavior/6451438"
+    },
+    {
+      "name": "Organizational Theory",
+      "code": "MAN361",
+      "url": "https://www.studocu.com/row/course/bilkent-universitesi/organizational-theory/3237681"
+    },
+    {
+      "name": "Parallel Computing",
+      "code": "CS426",
+      "url": "https://www.studocu.com/row/course/bilkent-universitesi/parallel-computing/7585610"
+    },
+    {
+      "name": "Partial Differential Equations",
+      "code": "MATH 443",
+      "url": "https://www.studocu.com/row/course/bilkent-universitesi/partial-differential-equations/6343719"
+    },
+    {
+      "name": "Percept'on",
+      "code": "PSYC310",
+      "url": "https://www.studocu.com/row/course/bilkent-universitesi/percepton/5163389"
+    },
+    {
+      "name": "Physic",
+      "code": "101",
+      "url": "https://www.studocu.com/row/course/bilkent-universitesi/physic/3192065"
+    },
+    {
+      "name": "Poetry and Poetics",
+      "code": "ELIT 227",
+      "url": "https://www.studocu.com/row/course/bilkent-universitesi/poetry-and-poetics/7224461"
+    },
+    {
+      "name": "political economy",
+      "code": "ir338",
+      "url": "https://www.studocu.com/row/course/bilkent-universitesi/political-economy/6669930"
+    },
+    {
+      "name": "Political Philosophy",
+      "code": "PHIL244",
+      "url": "https://www.studocu.com/row/course/bilkent-universitesi/political-philosophy/5159302"
+    },
+    {
+      "name": "Politics and Literature",
+      "code": "POLS 431",
+      "url": "https://www.studocu.com/row/course/bilkent-universitesi/politics-and-literature/4345060"
+    },
+    {
+      "name": "Principles of Economics",
+      "code": "Econ 103",
+      "url": "https://www.studocu.com/row/course/bilkent-universitesi/principles-of-economics/4009483"
+    },
+    {
+      "name": "Principles of Engineering Management",
+      "code": "IE400",
+      "url": "https://www.studocu.com/row/course/bilkent-universitesi/principles-of-engineering-management/4513491"
+    },
+    {
+      "name": "Principles of Macroecenomics",
+      "code": "ECON 108",
+      "url": "https://www.studocu.com/row/course/bilkent-universitesi/principles-of-macroecenomics/6898711"
+    },
+    {
+      "name": "Probability and statistics for engineers",
+      "code": "Math 230",
+      "url": "https://www.studocu.com/row/course/bilkent-universitesi/probability-and-statistics-for-engineers/3236148"
+    },
+    {
+      "name": "Production information system",
+      "code": "IE376",
+      "url": "https://www.studocu.com/row/course/bilkent-universitesi/production-information-system/3383212"
+    },
+    {
+      "name": "Production Planning",
+      "code": "IE 375",
+      "url": "https://www.studocu.com/row/course/bilkent-universitesi/production-planning/4515268"
+    },
+    {
+      "name": "Professional Communication",
+      "code": "Comd 358",
+      "url": "https://www.studocu.com/row/course/bilkent-universitesi/professional-communication/6060116"
+    },
+    {
+      "name": "Programming Languages",
+      "code": "CS315",
+      "url": "https://www.studocu.com/row/course/bilkent-universitesi/programming-languages/3486390"
+    },
+    {
+      "name": "Project Writing",
+      "code": "ENG 401",
+      "url": "https://www.studocu.com/row/course/bilkent-universitesi/project-writing/6654663"
+    },
+    {
+      "name": "Psychology of Language",
+      "code": "PSYC 442",
+      "url": "https://www.studocu.com/row/course/bilkent-universitesi/psychology-of-language/6213290"
+    },
+    {
+      "name": "Public governance",
+      "code": "econ 428",
+      "url": "https://www.studocu.com/row/course/bilkent-universitesi/public-governance/5870746"
+    },
+    {
+      "name": "Real estate of finance",
+      "code": "485",
+      "url": "https://www.studocu.com/row/course/bilkent-universitesi/real-estate-of-finance/7304691"
+    },
+    {
+      "name": "Reinforcement Learning and Dynamic Programming",
+      "code": "EEE448",
+      "url": "https://www.studocu.com/row/course/bilkent-universitesi/reinforcement-learning-and-dynamic-programming/7422299"
+    },
+    {
+      "name": "Research Methods",
+      "code": "ICP 110",
+      "url": "https://www.studocu.com/row/course/bilkent-universitesi/research-methods/5128180"
+    },
+    {
+      "name": "Research Methods",
+      "code": "ır227",
+      "url": "https://www.studocu.com/row/course/bilkent-universitesi/research-methods/7339798"
+    },
+    {
+      "name": "Robust Control",
+      "code": "EEE444",
+      "url": "https://www.studocu.com/row/course/bilkent-universitesi/robust-control/5696891"
+    },
+    {
+      "name": "Service Marketing",
+      "code": "MAN 436",
+      "url": "https://www.studocu.com/row/course/bilkent-universitesi/service-marketing/5272746"
+    },
+    {
+      "name": "Social and Political Philosophy I",
+      "code": "PHIL243",
+      "url": "https://www.studocu.com/row/course/bilkent-universitesi/social-and-political-philosophy-i/7744103"
+    },
+    {
+      "name": "social research",
+      "code": "206",
+      "url": "https://www.studocu.com/row/course/bilkent-universitesi/social-research/6480517"
+    },
+    {
+      "name": "Software Product Line",
+      "code": "CS415",
+      "url": "https://www.studocu.com/row/course/bilkent-universitesi/software-product-line/5963698"
+    },
+    {
+      "name": "Software Project Management",
+      "code": "CS 413",
+      "url": "https://www.studocu.com/row/course/bilkent-universitesi/software-project-management/4348480"
+    },
+    {
+      "name": "Spanish 1",
+      "code": "LNG 111",
+      "url": "https://www.studocu.com/row/course/bilkent-universitesi/spanish-1/7484480"
+    },
+    {
+      "name": "Statistical Mechanics",
+      "code": "PHYS334",
+      "url": "https://www.studocu.com/row/course/bilkent-universitesi/statistical-mechanics/7254127"
+    },
+    {
+      "name": "Statistics for Social Sciences",
+      "code": "MATH 264",
+      "url": "https://www.studocu.com/row/course/bilkent-universitesi/statistics-for-social-sciences/4331573"
+    },
+    {
+      "name": "Statistics II",
+      "code": "PSYC 205",
+      "url": "https://www.studocu.com/row/course/bilkent-universitesi/statistics-ii/6824126"
+    },
+    {
+      "name": "Summer Training",
+      "code": "CS 299",
+      "url": "https://www.studocu.com/row/course/bilkent-universitesi/summer-training/4462925"
+    },
+    {
+      "name": "testing, please ignore",
+      "code": "test123x",
+      "url": "https://www.studocu.com/row/course/bilkent-universitesi/testing-please-ignore/5471683"
+    },
+    {
+      "name": "Theory of Knowledge",
+      "code": "TOK123",
+      "url": "https://www.studocu.com/row/course/bilkent-universitesi/theory-of-knowledge/5149866"
+    },
+    {
+      "name": "Thinking Mathematically",
+      "code": "MATH103",
+      "url": "https://www.studocu.com/row/course/bilkent-universitesi/thinking-mathematically/6939944"
+    },
+    {
+      "name": "Thinking mathematically II",
+      "code": "MATH104",
+      "url": "https://www.studocu.com/row/course/bilkent-universitesi/thinking-mathematically-ii/6576337"
+    },
+    {
+      "name": "Turkish literature",
+      "code": "TURK101",
+      "url": "https://www.studocu.com/row/course/bilkent-universitesi/turkish-literature/1948562"
+    },
+    {
+      "name": "Verification Validation",
+      "code": "CS 458",
+      "url": "https://www.studocu.com/row/course/bilkent-universitesi/verification-validation/7582718"
+    },
+    {
+      "name": "Waves, Optics, Thermodynamics",
+      "code": "PHYS211",
+      "url": "https://www.studocu.com/row/course/bilkent-universitesi/waves-optics-thermodynamics/4328410"
+    },
+    {
+      "name": "Ways of Seeing: Approaches to Art and Architectural History",
+      "code": "HART 117",
+      "url": "https://www.studocu.com/row/course/bilkent-universitesi/ways-of-seeing-approaches-to-art-and-architectural-history/6209342"
+    },
+    {
+      "name": "World Politics",
+      "code": "IR-101",
+      "url": "https://www.studocu.com/row/course/bilkent-universitesi/world-politics/3728530"
+    },
+    {
+      "name": "Yeni Kadınları Secme",
+      "code": "YKS 001",
+      "url": "https://www.studocu.com/row/course/bilkent-universitesi/yeni-kadinlari-secme/6531690"
+    }
+  ]
+}

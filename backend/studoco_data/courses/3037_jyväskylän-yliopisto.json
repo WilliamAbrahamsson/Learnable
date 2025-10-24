@@ -1,0 +1,986 @@
+{
+  "university_id": "3037",
+  "university_name": "Jyväskylän yliopisto",
+  "courses": [
+    {
+      "name": "Adapted Physical Activity",
+      "code": "ELIA004",
+      "url": "https://www.studocu.com/fi/course/jyvaskylan-yliopisto/adapted-physical-activity/2657581"
+    },
+    {
+      "name": "AIkuisen ajattelun kehitys",
+      "code": "AIKP1001",
+      "url": "https://www.studocu.com/fi/course/jyvaskylan-yliopisto/aikuisen-ajattelun-kehitys/4325800"
+    },
+    {
+      "name": "Aikuiskasvatustieteellinen tutkimus",
+      "code": "AIKP1004",
+      "url": "https://www.studocu.com/fi/course/jyvaskylan-yliopisto/aikuiskasvatustieteellinen-tutkimus/4331718"
+    },
+    {
+      "name": "Asiakassuhde- ja palvelujohtaminen",
+      "code": "YMAA2120",
+      "url": "https://www.studocu.com/fi/course/jyvaskylan-yliopisto/asiakassuhde-ja-palvelujohtaminen/2658147"
+    },
+    {
+      "name": "Assessment And Promotion Of Physical Capacity",
+      "code": "TTIP1006",
+      "url": "https://www.studocu.com/fi/course/jyvaskylan-yliopisto/assessment-and-promotion-of-physical-capacity/7434730"
+    },
+    {
+      "name": "Biomekaanisten menetelmien perusteet",
+      "code": "LBIP005",
+      "url": "https://www.studocu.com/fi/course/jyvaskylan-yliopisto/biomekaanisten-menetelmien-perusteet/2657610"
+    },
+    {
+      "name": "Digitalisaatio, arkielämä ja elämänkaari",
+      "code": "DIGS5001",
+      "url": "https://www.studocu.com/fi/course/jyvaskylan-yliopisto/digitalisaatio-arkielama-ja-elamankaari/4324790"
+    },
+    {
+      "name": "Draama ja kirjallisuus",
+      "code": "VAAM1340",
+      "url": "https://www.studocu.com/fi/course/jyvaskylan-yliopisto/draama-ja-kirjallisuus/2657953"
+    },
+    {
+      "name": "Ekologia",
+      "code": "EKOA101",
+      "url": "https://www.studocu.com/fi/course/jyvaskylan-yliopisto/ekologia/2657543"
+    },
+    {
+      "name": "Elämän perusedellytykset maapallolla",
+      "code": "BENP1001",
+      "url": "https://www.studocu.com/fi/course/jyvaskylan-yliopisto/elaman-perusedellytykset-maapallolla/2658004"
+    },
+    {
+      "name": "English as a Global Language",
+      "code": "EKIS504",
+      "url": "https://www.studocu.com/fi/course/jyvaskylan-yliopisto/english-as-a-global-language/2657710"
+    },
+    {
+      "name": "Erityispedagogiikan perusteet",
+      "code": "ERIP101",
+      "url": "https://www.studocu.com/fi/course/jyvaskylan-yliopisto/erityispedagogiikan-perusteet/2658003"
+    },
+    {
+      "name": "Erityispedagogiikan perusteet, Erityiskasvatuksen toimintaympäristöt ja yhteistyöverkot",
+      "code": "ERIP102",
+      "url": "https://www.studocu.com/fi/course/jyvaskylan-yliopisto/erityispedagogiikan-perusteet-erityiskasvatuksen-toimintaymparistot-ja-yhteistyoverkot/6900847"
+    },
+    {
+      "name": "Ethics in Sport",
+      "code": "LYTA1001",
+      "url": "https://www.studocu.com/fi/course/jyvaskylan-yliopisto/ethics-in-sport/2657926"
+    },
+    {
+      "name": "Etiikka ja urheilu",
+      "code": "LYTA005",
+      "url": "https://www.studocu.com/fi/course/jyvaskylan-yliopisto/etiikka-ja-urheilu/2657596"
+    },
+    {
+      "name": "Etnologian ja antropologian teoriat 2",
+      "code": "ETAA12000",
+      "url": "https://www.studocu.com/fi/course/jyvaskylan-yliopisto/etnologian-ja-antropologian-teoriat-2/4318380"
+    },
+    {
+      "name": "Etnologian perintö",
+      "code": "ETNP113",
+      "url": "https://www.studocu.com/fi/course/jyvaskylan-yliopisto/etnologian-perinto/2657409"
+    },
+    {
+      "name": "Euklidinen tasogeometria",
+      "code": "MATA128",
+      "url": "https://www.studocu.com/fi/course/jyvaskylan-yliopisto/euklidinen-tasogeometria/2657459"
+    },
+    {
+      "name": "Evoluutio",
+      "code": "EKOA102",
+      "url": "https://www.studocu.com/fi/course/jyvaskylan-yliopisto/evoluutio/2657653"
+    },
+    {
+      "name": "Fysiologian perusteet",
+      "code": "LBIP010",
+      "url": "https://www.studocu.com/fi/course/jyvaskylan-yliopisto/fysiologian-perusteet/2658071"
+    },
+    {
+      "name": "Fyysisen toimintakyvyn mittaamisen perusteet",
+      "code": "LPEA1009",
+      "url": "https://www.studocu.com/fi/course/jyvaskylan-yliopisto/fyysisen-toimintakyvyn-mittaamisen-perusteet/2658190"
+    },
+    {
+      "name": "Geoinformatiikan perusteet",
+      "code": "BENA4033",
+      "url": "https://www.studocu.com/fi/course/jyvaskylan-yliopisto/geoinformatiikan-perusteet/2658191"
+    },
+    {
+      "name": "Gerontologinen kuntoutus",
+      "code": "TGES008",
+      "url": "https://www.studocu.com/fi/course/jyvaskylan-yliopisto/gerontologinen-kuntoutus/2657587"
+    },
+    {
+      "name": "Gerontologinen tutkimus I",
+      "code": "TGES012",
+      "url": "https://www.studocu.com/fi/course/jyvaskylan-yliopisto/gerontologinen-tutkimus-i/4508275"
+    },
+    {
+      "name": "Geropsychology",
+      "code": "PSYA180",
+      "url": "https://www.studocu.com/fi/course/jyvaskylan-yliopisto/geropsychology/4510013"
+    },
+    {
+      "name": "Henkilöstöjohtaminen",
+      "code": "YJOA2110",
+      "url": "https://www.studocu.com/fi/course/jyvaskylan-yliopisto/henkilostojohtaminen/2658087"
+    },
+    {
+      "name": "Hermolihasjärjestelmän adaptaatio",
+      "code": "LBIA014",
+      "url": "https://www.studocu.com/fi/course/jyvaskylan-yliopisto/hermolihasjarjestelman-adaptaatio/2657602"
+    },
+    {
+      "name": "Hydrobiology and limnology book examination",
+      "code": "WETS115",
+      "url": "https://www.studocu.com/fi/course/jyvaskylan-yliopisto/hydrobiology-and-limnology-book-examination/2657506"
+    },
+    {
+      "name": "Ihmisen fysiologia, kirjatentti",
+      "code": "BIOA112",
+      "url": "https://www.studocu.com/fi/course/jyvaskylan-yliopisto/ihmisen-fysiologia-kirjatentti/2657512"
+    },
+    {
+      "name": "Ihmisen liikkumisen biologiset perusteet",
+      "code": "LBIY1001",
+      "url": "https://www.studocu.com/fi/course/jyvaskylan-yliopisto/ihmisen-liikkumisen-biologiset-perusteet/2658070"
+    },
+    {
+      "name": "Ilmansuojelu ja melu",
+      "code": "YMPP152",
+      "url": "https://www.studocu.com/fi/course/jyvaskylan-yliopisto/ilmansuojelu-ja-melu/2657651"
+    },
+    {
+      "name": "Information Security Management",
+      "code": "TJTSM51",
+      "url": "https://www.studocu.com/fi/course/jyvaskylan-yliopisto/information-security-management/2658066"
+    },
+    {
+      "name": "Introduction to Management and Leadership",
+      "code": "YTTP2110",
+      "url": "https://www.studocu.com/fi/course/jyvaskylan-yliopisto/introduction-to-management-and-leadership/4829515"
+    },
+    {
+      "name": "Introduction to Marketing",
+      "code": "YTTP2120",
+      "url": "https://www.studocu.com/fi/course/jyvaskylan-yliopisto/introduction-to-marketing/2658211"
+    },
+    {
+      "name": "Johdatus historian tutkimukseen",
+      "code": "HISP011",
+      "url": "https://www.studocu.com/fi/course/jyvaskylan-yliopisto/johdatus-historian-tutkimukseen/3147654"
+    },
+    {
+      "name": "Johdatus matemaattiseen analyysiin 1",
+      "code": "MATA171",
+      "url": "https://www.studocu.com/fi/course/jyvaskylan-yliopisto/johdatus-matemaattiseen-analyysiin-1/2657856"
+    },
+    {
+      "name": "Johdatus matemaattiseen analyysiin 2",
+      "code": "MATA172",
+      "url": "https://www.studocu.com/fi/course/jyvaskylan-yliopisto/johdatus-matemaattiseen-analyysiin-2/2657792"
+    },
+    {
+      "name": "Johdatus matemaattiseen analyysiin 3",
+      "code": "MATA173",
+      "url": "https://www.studocu.com/fi/course/jyvaskylan-yliopisto/johdatus-matemaattiseen-analyysiin-3/2657827"
+    },
+    {
+      "name": "Johdatus matemaattiseen analyysiin 4",
+      "code": "MATA174",
+      "url": "https://www.studocu.com/fi/course/jyvaskylan-yliopisto/johdatus-matemaattiseen-analyysiin-4/2657544"
+    },
+    {
+      "name": "Johdatus matematiikkaan",
+      "code": "MATP100",
+      "url": "https://www.studocu.com/fi/course/jyvaskylan-yliopisto/johdatus-matematiikkaan/2657795"
+    },
+    {
+      "name": "Johdatus tieteen etiikkaan",
+      "code": "FILY025",
+      "url": "https://www.studocu.com/fi/course/jyvaskylan-yliopisto/johdatus-tieteen-etiikkaan/2657642"
+    },
+    {
+      "name": "Johdatus tietojärjestelmätieteeseen",
+      "code": "TJTP1110",
+      "url": "https://www.studocu.com/fi/course/jyvaskylan-yliopisto/johdatus-tietojarjestelmatieteeseen/4688197"
+    },
+    {
+      "name": "Johdatus viestinnän ja journalismin tutkimukseen",
+      "code": "VIJP1001",
+      "url": "https://www.studocu.com/fi/course/jyvaskylan-yliopisto/johdatus-viestinnan-ja-journalismin-tutkimukseen/5120719"
+    },
+    {
+      "name": "Johdatus viestinnän ja median tutkimukseen",
+      "code": "VIEP1010",
+      "url": "https://www.studocu.com/fi/course/jyvaskylan-yliopisto/johdatus-viestinnan-ja-median-tutkimukseen/4328366"
+    },
+    {
+      "name": "Johtamisen ja johtajuuden perusteet",
+      "code": "YTTP1110",
+      "url": "https://www.studocu.com/fi/course/jyvaskylan-yliopisto/johtamisen-ja-johtajuuden-perusteet/2658089"
+    },
+    {
+      "name": "Kalabiologian ja kalatalouden perusteet",
+      "code": "WETA503",
+      "url": "https://www.studocu.com/fi/course/jyvaskylan-yliopisto/kalabiologian-ja-kalatalouden-perusteet/2657643"
+    },
+    {
+      "name": "Kalabiologian kirjatentti",
+      "code": "WETA501",
+      "url": "https://www.studocu.com/fi/course/jyvaskylan-yliopisto/kalabiologian-kirjatentti/2657496"
+    },
+    {
+      "name": "Kalabiologian kirjatentti",
+      "code": "WETA502",
+      "url": "https://www.studocu.com/fi/course/jyvaskylan-yliopisto/kalabiologian-kirjatentti/2657497"
+    },
+    {
+      "name": "Kansanterveystieteen ja terveystieteiden perusteet",
+      "code": "KTEP002",
+      "url": "https://www.studocu.com/fi/course/jyvaskylan-yliopisto/kansanterveystieteen-ja-terveystieteiden-perusteet/2658025"
+    },
+    {
+      "name": "Kasvatus, yhteiskunta ja muutos",
+      "code": "KTKP020",
+      "url": "https://www.studocu.com/fi/course/jyvaskylan-yliopisto/kasvatus-yhteiskunta-ja-muutos/2657811"
+    },
+    {
+      "name": "Kasvatus-ja tieteenfolosofia",
+      "code": "KAIA1022",
+      "url": "https://www.studocu.com/fi/course/jyvaskylan-yliopisto/kasvatus-ja-tieteenfolosofia/4325795"
+    },
+    {
+      "name": "Kasvatusalan vuorovaikutusosaaminen 1",
+      "code": "OKLV211",
+      "url": "https://www.studocu.com/fi/course/jyvaskylan-yliopisto/kasvatusalan-vuorovaikutusosaaminen-1/4573561"
+    },
+    {
+      "name": "Kasviekologia, kirjatentti",
+      "code": "EKOA155",
+      "url": "https://www.studocu.com/fi/course/jyvaskylan-yliopisto/kasviekologia-kirjatentti/2657781"
+    },
+    {
+      "name": "Kauppa- ja varallisuusoikeuden perusteet",
+      "code": "KAOP1110",
+      "url": "https://www.studocu.com/fi/course/jyvaskylan-yliopisto/kauppa-ja-varallisuusoikeuden-perusteet/4419351"
+    },
+    {
+      "name": "Kehityksen ja oppimisen lähtökohdat, haasteet ja tuki",
+      "code": "VKTA1010",
+      "url": "https://www.studocu.com/fi/course/jyvaskylan-yliopisto/kehityksen-ja-oppimisen-lahtokohdat-haasteet-ja-tuki/2658020"
+    },
+    {
+      "name": "Kehityksen ja Oppimisen Tuki",
+      "code": "VAAM1240",
+      "url": "https://www.studocu.com/fi/course/jyvaskylan-yliopisto/kehityksen-ja-oppimisen-tuki/4353891"
+    },
+    {
+      "name": "Kehitys, oppiminen ja oppimisen ohjaus",
+      "code": "KAIA042",
+      "url": "https://www.studocu.com/fi/course/jyvaskylan-yliopisto/kehitys-oppiminen-ja-oppimisen-ohjaus/4414163"
+    },
+    {
+      "name": "Kehityspsykologia I",
+      "code": "PSYP110",
+      "url": "https://www.studocu.com/fi/course/jyvaskylan-yliopisto/kehityspsykologia-i/2657761"
+    },
+    {
+      "name": "Kehityspsykologia II",
+      "code": "PSYA110",
+      "url": "https://www.studocu.com/fi/course/jyvaskylan-yliopisto/kehityspsykologia-ii/2657764"
+    },
+    {
+      "name": "Kemialliset menetelmät biologiassa",
+      "code": "CMBS1101",
+      "url": "https://www.studocu.com/fi/course/jyvaskylan-yliopisto/kemialliset-menetelmat-biologiassa/2658051"
+    },
+    {
+      "name": "Kemian perusteet 1 (Yleinen kemia)",
+      "code": "KEMP111",
+      "url": "https://www.studocu.com/fi/course/jyvaskylan-yliopisto/kemian-perusteet-1-yleinen-kemia/2657784"
+    },
+    {
+      "name": "Kemian perusteet 2 (Yleinen kemia)",
+      "code": "KEMP112",
+      "url": "https://www.studocu.com/fi/course/jyvaskylan-yliopisto/kemian-perusteet-2-yleinen-kemia/2657785"
+    },
+    {
+      "name": "Kemian perusteet 3 (Epäorgaaninen kemia)",
+      "code": "KEMP113",
+      "url": "https://www.studocu.com/fi/course/jyvaskylan-yliopisto/kemian-perusteet-3-epaorgaaninen-kemia/2657447"
+    },
+    {
+      "name": "Kemian perusteet 5 (kemia elinympäristössä)",
+      "code": "KEMP1150",
+      "url": "https://www.studocu.com/fi/course/jyvaskylan-yliopisto/kemian-perusteet-5-kemia-elinymparistossa/2658040"
+    },
+    {
+      "name": "Kestävä hyvinvointi",
+      "code": "KKES5003",
+      "url": "https://www.studocu.com/fi/course/jyvaskylan-yliopisto/kestava-hyvinvointi/4421514"
+    },
+    {
+      "name": "Kestävä kehitys",
+      "code": "YKPA362",
+      "url": "https://www.studocu.com/fi/course/jyvaskylan-yliopisto/kestava-kehitys/3160171"
+    },
+    {
+      "name": "Kieli",
+      "code": "VAAM 1350",
+      "url": "https://www.studocu.com/fi/course/jyvaskylan-yliopisto/kieli/4336926"
+    },
+    {
+      "name": "Kieliperusteet",
+      "code": "SKIA199",
+      "url": "https://www.studocu.com/fi/course/jyvaskylan-yliopisto/kieliperusteet/5377022"
+    },
+    {
+      "name": "Kirjanpito ja tuloslaskenta",
+      "code": "YLAA3110",
+      "url": "https://www.studocu.com/fi/course/jyvaskylan-yliopisto/kirjanpito-ja-tuloslaskenta/2658077"
+    },
+    {
+      "name": "Kliininen psykologia I: Terveyden ja mielenterveyden psykologia",
+      "code": "PSYP140",
+      "url": "https://www.studocu.com/fi/course/jyvaskylan-yliopisto/kliininen-psykologia-i-terveyden-ja-mielenterveyden-psykologia/2657457"
+    },
+    {
+      "name": "Kliininen psykologia II",
+      "code": "PSYA140",
+      "url": "https://www.studocu.com/fi/course/jyvaskylan-yliopisto/kliininen-psykologia-ii/2657486"
+    },
+    {
+      "name": "Kognitiivinen psykologia ja neurotiede",
+      "code": "PSYA170",
+      "url": "https://www.studocu.com/fi/course/jyvaskylan-yliopisto/kognitiivinen-psykologia-ja-neurotiede/2657765"
+    },
+    {
+      "name": "Kompleksianalyysi 1",
+      "code": "MATS121",
+      "url": "https://www.studocu.com/fi/course/jyvaskylan-yliopisto/kompleksianalyysi-1/2657464"
+    },
+    {
+      "name": "Kompleksianalyysi 2",
+      "code": "MATS122",
+      "url": "https://www.studocu.com/fi/course/jyvaskylan-yliopisto/kompleksianalyysi-2/2657546"
+    },
+    {
+      "name": "Kompleksilaskenta",
+      "code": "MATA200",
+      "url": "https://www.studocu.com/fi/course/jyvaskylan-yliopisto/kompleksilaskenta/2657814"
+    },
+    {
+      "name": "Kriittinen ajattelu ja tieteellinen kommunikaatio",
+      "code": "YFIP250",
+      "url": "https://www.studocu.com/fi/course/jyvaskylan-yliopisto/kriittinen-ajattelu-ja-tieteellinen-kommunikaatio/2657813"
+    },
+    {
+      "name": "Kustannuslaskenta",
+      "code": "YLAA2110",
+      "url": "https://www.studocu.com/fi/course/jyvaskylan-yliopisto/kustannuslaskenta/2658091"
+    },
+    {
+      "name": "Käyrien differentiaaligeometria",
+      "code": "MATA235",
+      "url": "https://www.studocu.com/fi/course/jyvaskylan-yliopisto/kayrien-differentiaaligeometria/2658011"
+    },
+    {
+      "name": "Käyttäytymisekologia, kirjatentti",
+      "code": "EKOA153",
+      "url": "https://www.studocu.com/fi/course/jyvaskylan-yliopisto/kayttaytymisekologia-kirjatentti/2657518"
+    },
+    {
+      "name": "Lapset ja yhteisöt",
+      "code": "VAAM1260",
+      "url": "https://www.studocu.com/fi/course/jyvaskylan-yliopisto/lapset-ja-yhteisot/2658121"
+    },
+    {
+      "name": "Laskentatoimen perusteet",
+      "code": "YTTP1130",
+      "url": "https://www.studocu.com/fi/course/jyvaskylan-yliopisto/laskentatoimen-perusteet/5120718"
+    },
+    {
+      "name": "Lasten terveys ja hyvinvointi",
+      "code": "VAAM1230",
+      "url": "https://www.studocu.com/fi/course/jyvaskylan-yliopisto/lasten-terveys-ja-hyvinvointi/2658107"
+    },
+    {
+      "name": "Learning and Teaching Grammar and Vocabulary",
+      "code": "EKIA390",
+      "url": "https://www.studocu.com/fi/course/jyvaskylan-yliopisto/learning-and-teaching-grammar-and-vocabulary/2657717"
+    },
+    {
+      "name": "Liikunnan ja terveyden kulttuurihistoria",
+      "code": "LTKY1002",
+      "url": "https://www.studocu.com/fi/course/jyvaskylan-yliopisto/liikunnan-ja-terveyden-kulttuurihistoria/2658103"
+    },
+    {
+      "name": "Liikunnan talous",
+      "code": "LYTA012",
+      "url": "https://www.studocu.com/fi/course/jyvaskylan-yliopisto/liikunnan-talous/2657573"
+    },
+    {
+      "name": "Liikunta ja lainsäädäntö",
+      "code": "LYTA009",
+      "url": "https://www.studocu.com/fi/course/jyvaskylan-yliopisto/liikunta-ja-lainsaadanto/2657594"
+    },
+    {
+      "name": "Liikunta ja terveys",
+      "code": "KTEP003",
+      "url": "https://www.studocu.com/fi/course/jyvaskylan-yliopisto/liikunta-ja-terveys/2658073"
+    },
+    {
+      "name": "Liikunta yhteiskunnassa",
+      "code": "LYTP002",
+      "url": "https://www.studocu.com/fi/course/jyvaskylan-yliopisto/liikunta-yhteiskunnassa/2657615"
+    },
+    {
+      "name": "Liikuntahallinto ja -politiikka",
+      "code": "LYTP008",
+      "url": "https://www.studocu.com/fi/course/jyvaskylan-yliopisto/liikuntahallinto-ja-politiikka/2657612"
+    },
+    {
+      "name": "Liikuntapedagogiikan perusteet",
+      "code": "LPEEY1001",
+      "url": "https://www.studocu.com/fi/course/jyvaskylan-yliopisto/liikuntapedagogiikan-perusteet/4573595"
+    },
+    {
+      "name": "Liikuntasosiologiseen tutkimukseen perehtyminen",
+      "code": "LYTP005",
+      "url": "https://www.studocu.com/fi/course/jyvaskylan-yliopisto/liikuntasosiologiseen-tutkimukseen-perehtyminen/2658102"
+    },
+    {
+      "name": "Limnologian ja kalatalouden tutkimusmenetelmät",
+      "code": "WETA104",
+      "url": "https://www.studocu.com/fi/course/jyvaskylan-yliopisto/limnologian-ja-kalatalouden-tutkimusmenetelmat/2657937"
+    },
+    {
+      "name": "Limnologian kirjatentti I",
+      "code": "WETA102",
+      "url": "https://www.studocu.com/fi/course/jyvaskylan-yliopisto/limnologian-kirjatentti-i/2657492"
+    },
+    {
+      "name": "Limnologian kirjatentti II",
+      "code": "WETA103",
+      "url": "https://www.studocu.com/fi/course/jyvaskylan-yliopisto/limnologian-kirjatentti-ii/2657493"
+    },
+    {
+      "name": "Lukuteoria 1",
+      "code": "MATA151",
+      "url": "https://www.studocu.com/fi/course/jyvaskylan-yliopisto/lukuteoria-1/2658017"
+    },
+    {
+      "name": "Luonnonvarojen hyödyntäminen, kirjatentti IV",
+      "code": "WETS707",
+      "url": "https://www.studocu.com/fi/course/jyvaskylan-yliopisto/luonnonvarojen-hyodyntaminen-kirjatentti-iv/2657507"
+    },
+    {
+      "name": "Lähisuhdeväkivalta – ehkäisevät ja hoidolliset interventiot",
+      "code": "PSYA5005",
+      "url": "https://www.studocu.com/fi/course/jyvaskylan-yliopisto/lahisuhdevakivalta-ehkaisevat-ja-hoidolliset-interventiot/4408114"
+    },
+    {
+      "name": "Markkinoinnin perusteet",
+      "code": "YTTP1120",
+      "url": "https://www.studocu.com/fi/course/jyvaskylan-yliopisto/markkinoinnin-perusteet/2658078"
+    },
+    {
+      "name": "Matematiikan peruskurssi",
+      "code": "MATY020",
+      "url": "https://www.studocu.com/fi/course/jyvaskylan-yliopisto/matematiikan-peruskurssi/2657855"
+    },
+    {
+      "name": "Mediamaiseman murros",
+      "code": "VIJP1003",
+      "url": "https://www.studocu.com/fi/course/jyvaskylan-yliopisto/mediamaiseman-murros/5120721"
+    },
+    {
+      "name": "Mekaniikka",
+      "code": "FYSA2020",
+      "url": "https://www.studocu.com/fi/course/jyvaskylan-yliopisto/mekaniikka/6595172"
+    },
+    {
+      "name": "Mikrobiologia",
+      "code": "BENA2002",
+      "url": "https://www.studocu.com/fi/course/jyvaskylan-yliopisto/mikrobiologia/2658120"
+    },
+    {
+      "name": "Moderni molekyylibiologia",
+      "code": "SMBA301",
+      "url": "https://www.studocu.com/fi/course/jyvaskylan-yliopisto/moderni-molekyylibiologia/2657659"
+    },
+    {
+      "name": "Monikielisyys ja kielenoppiminen muuttuvassa yhteiskunnassa",
+      "code": "KIMO1020",
+      "url": "https://www.studocu.com/fi/course/jyvaskylan-yliopisto/monikielisyys-ja-kielenoppiminen-muuttuvassa-yhteiskunnassa/4805866"
+    },
+    {
+      "name": "Monimuotoinen lapsuus, täydennysosa",
+      "code": "VKTA1021",
+      "url": "https://www.studocu.com/fi/course/jyvaskylan-yliopisto/monimuotoinen-lapsuus-taydennysosa/2658122"
+    },
+    {
+      "name": "Musiikki",
+      "code": "Vaam1320",
+      "url": "https://www.studocu.com/fi/course/jyvaskylan-yliopisto/musiikki/4335496"
+    },
+    {
+      "name": "Muuttuvat kansalaistoiminnat ja liikuntaorganisaatiot",
+      "code": "LYTS017",
+      "url": "https://www.studocu.com/fi/course/jyvaskylan-yliopisto/muuttuvat-kansalaistoiminnat-ja-liikuntaorganisaatiot/2657613"
+    },
+    {
+      "name": "Neuropsykologia I: Kognitiivisen neurotieteen ja neuropsykologian perusteet",
+      "code": "PSYP120",
+      "url": "https://www.studocu.com/fi/course/jyvaskylan-yliopisto/neuropsykologia-i-kognitiivisen-neurotieteen-ja-neuropsykologian-perusteet/2657762"
+    },
+    {
+      "name": "Neuropsykologia II",
+      "code": "PSYA120",
+      "url": "https://www.studocu.com/fi/course/jyvaskylan-yliopisto/neuropsykologia-ii/2657485"
+    },
+    {
+      "name": "Näyttöön perustuva terveydenhuolto",
+      "code": "KTEA018",
+      "url": "https://www.studocu.com/fi/course/jyvaskylan-yliopisto/nayttoon-perustuva-terveydenhuolto/4907379"
+    },
+    {
+      "name": "Oppiminen ja ohjaus, osa 1",
+      "code": "KTKP011",
+      "url": "https://www.studocu.com/fi/course/jyvaskylan-yliopisto/oppiminen-ja-ohjaus-osa-1/3011042"
+    },
+    {
+      "name": "Organisaation ICT ja strateginen ohjaus (Policy and Strategy)",
+      "code": "TJTSM64",
+      "url": "https://www.studocu.com/fi/course/jyvaskylan-yliopisto/organisaation-ict-ja-strateginen-ohjaus-policy-and-strategy/2657775"
+    },
+    {
+      "name": "Organisaatioviestintä",
+      "code": "VIJP1002",
+      "url": "https://www.studocu.com/fi/course/jyvaskylan-yliopisto/organisaatioviestinta/5120720"
+    },
+    {
+      "name": "Pedagogiikka II",
+      "code": "VAAM1220",
+      "url": "https://www.studocu.com/fi/course/jyvaskylan-yliopisto/pedagogiikka-ii/2658106"
+    },
+    {
+      "name": "Perhe ja yksilö",
+      "code": "PEOP020",
+      "url": "https://www.studocu.com/fi/course/jyvaskylan-yliopisto/perhe-ja-yksilo/4421516"
+    },
+    {
+      "name": "Persoonallisuuspsykologia I",
+      "code": "PSYP130",
+      "url": "https://www.studocu.com/fi/course/jyvaskylan-yliopisto/persoonallisuuspsykologia-i/2657763"
+    },
+    {
+      "name": "Persoonallisuuspsykologia III B",
+      "code": "PSYS133",
+      "url": "https://www.studocu.com/fi/course/jyvaskylan-yliopisto/persoonallisuuspsykologia-iii-b/2657773"
+    },
+    {
+      "name": "Populaatiogenetiikka",
+      "code": "EKOA502",
+      "url": "https://www.studocu.com/fi/course/jyvaskylan-yliopisto/populaatiogenetiikka/2657652"
+    },
+    {
+      "name": "Pragmatics",
+      "code": "EKIA271",
+      "url": "https://www.studocu.com/fi/course/jyvaskylan-yliopisto/pragmatics/2657721"
+    },
+    {
+      "name": "Proteiinien rakenne ja toiminta",
+      "code": "BENA2015",
+      "url": "https://www.studocu.com/fi/course/jyvaskylan-yliopisto/proteiinien-rakenne-ja-toiminta/2657962"
+    },
+    {
+      "name": "Psychology of Coaching",
+      "code": "LPSS020",
+      "url": "https://www.studocu.com/fi/course/jyvaskylan-yliopisto/psychology-of-coaching/2657929"
+    },
+    {
+      "name": "Psykologian tutkimusmenetelmät I",
+      "code": "PSYP201",
+      "url": "https://www.studocu.com/fi/course/jyvaskylan-yliopisto/psykologian-tutkimusmenetelmat-i/2657484"
+    },
+    {
+      "name": "Rahoitusmarkkinat ja -instituutiot",
+      "code": "KTTP4120",
+      "url": "https://www.studocu.com/fi/course/jyvaskylan-yliopisto/rahoitusmarkkinat-ja-instituutiot/2658128"
+    },
+    {
+      "name": "Ravitsemus ja liikunta (luentokurssi)",
+      "code": "LLTY011",
+      "url": "https://www.studocu.com/fi/course/jyvaskylan-yliopisto/ravitsemus-ja-liikunta-luentokurssi/2657579"
+    },
+    {
+      "name": "Research Methods (Tutkimus ja sen menetelmät)",
+      "code": "TJTS504",
+      "url": "https://www.studocu.com/fi/course/jyvaskylan-yliopisto/research-methods-tutkimus-ja-sen-menetelmat/2657863"
+    },
+    {
+      "name": "Rooman topografia ja rakennushistoria - KIRJATENTTI",
+      "code": "LATA045",
+      "url": "https://www.studocu.com/fi/course/jyvaskylan-yliopisto/rooman-topografia-ja-rakennushistoria-kirjatentti/2657219"
+    },
+    {
+      "name": "Sociolinguistics 1",
+      "code": "EKIA514",
+      "url": "https://www.studocu.com/fi/course/jyvaskylan-yliopisto/sociolinguistics-1/2657719"
+    },
+    {
+      "name": "Solu- ja molekyylibiologia",
+      "code": "LBIP1001",
+      "url": "https://www.studocu.com/fi/course/jyvaskylan-yliopisto/solu-ja-molekyylibiologia/5167582"
+    },
+    {
+      "name": "Solun elämä",
+      "code": "BENP1003",
+      "url": "https://www.studocu.com/fi/course/jyvaskylan-yliopisto/solun-elama/2658055"
+    },
+    {
+      "name": "Sosiologian historia",
+      "code": "SOSA115",
+      "url": "https://www.studocu.com/fi/course/jyvaskylan-yliopisto/sosiologian-historia/2657967"
+    },
+    {
+      "name": "Soveltava liikuntakasvatus",
+      "code": "LPEA008",
+      "url": "https://www.studocu.com/fi/course/jyvaskylan-yliopisto/soveltava-liikuntakasvatus/4907386"
+    },
+    {
+      "name": "Sport in Finland",
+      "code": "LYTS518",
+      "url": "https://www.studocu.com/fi/course/jyvaskylan-yliopisto/sport-in-finland/2657804"
+    },
+    {
+      "name": "Strategic Management",
+      "code": "YJOA3110",
+      "url": "https://www.studocu.com/fi/course/jyvaskylan-yliopisto/strategic-management/2658168"
+    },
+    {
+      "name": "Strateginen vuorovaikutus, kilpailu ja hinnoittelu",
+      "code": "KTTS2120",
+      "url": "https://www.studocu.com/fi/course/jyvaskylan-yliopisto/strateginen-vuorovaikutus-kilpailu-ja-hinnoittelu/2658113"
+    },
+    {
+      "name": "sukupuolihistoria",
+      "code": "Hisp023",
+      "url": "https://www.studocu.com/fi/course/jyvaskylan-yliopisto/sukupuolihistoria/4318371"
+    },
+    {
+      "name": "Suunnittelu ja arviointi terveystieteissä",
+      "code": "KTEA010",
+      "url": "https://www.studocu.com/fi/course/jyvaskylan-yliopisto/suunnittelu-ja-arviointi-terveystieteissa/2657933"
+    },
+    {
+      "name": "Svenska för pedagoger / skriftlig / AIK ERI KAS OKL",
+      "code": "XRUK002",
+      "url": "https://www.studocu.com/fi/course/jyvaskylan-yliopisto/svenska-for-pedagoger-skriftlig-aik-eri-kas-okl/2657970"
+    },
+    {
+      "name": "Svenska för psykologer, skriftlig",
+      "code": "XRUY003",
+      "url": "https://www.studocu.com/fi/course/jyvaskylan-yliopisto/svenska-for-psykologer-skriftlig/2657973"
+    },
+    {
+      "name": "Talousmatematiikka 1",
+      "code": "JSBY1220",
+      "url": "https://www.studocu.com/fi/course/jyvaskylan-yliopisto/talousmatematiikka-1/2658075"
+    },
+    {
+      "name": "Terveyden edistäminen eri väestöryhmissä I",
+      "code": "KTEP011",
+      "url": "https://www.studocu.com/fi/course/jyvaskylan-yliopisto/terveyden-edistaminen-eri-vaestoryhmissa-i/2658097"
+    },
+    {
+      "name": "Terveyden edistäminen eri väestöryhmissä II",
+      "code": "KTEP012",
+      "url": "https://www.studocu.com/fi/course/jyvaskylan-yliopisto/terveyden-edistaminen-eri-vaestoryhmissa-ii/2657591"
+    },
+    {
+      "name": "Terveys, sairaus ja hyvinvointi",
+      "code": "HISP025",
+      "url": "https://www.studocu.com/fi/course/jyvaskylan-yliopisto/terveys-sairaus-ja-hyvinvointi/4331870"
+    },
+    {
+      "name": "Terveystiedon sisällöt I - Kulttuuri ja terveys",
+      "code": "TERV007",
+      "url": "https://www.studocu.com/fi/course/jyvaskylan-yliopisto/terveystiedon-sisallot-i-kulttuuri-ja-terveys/2657631"
+    },
+    {
+      "name": "Terveystiedon sisällöt I - Tupakka ja päihteet",
+      "code": "TERV006",
+      "url": "https://www.studocu.com/fi/course/jyvaskylan-yliopisto/terveystiedon-sisallot-i-tupakka-ja-paihteet/2657634"
+    },
+    {
+      "name": "Terveystiedon sisällöt II - Ihminen, ympäristö ja hyvinvointi",
+      "code": "TERV113",
+      "url": "https://www.studocu.com/fi/course/jyvaskylan-yliopisto/terveystiedon-sisallot-ii-ihminen-ymparisto-ja-hyvinvointi/2657627"
+    },
+    {
+      "name": "Terveystiedon sisällöt II - Mielenterveys ja tunneosaaminen",
+      "code": "TERV114",
+      "url": "https://www.studocu.com/fi/course/jyvaskylan-yliopisto/terveystiedon-sisallot-ii-mielenterveys-ja-tunneosaaminen/2657628"
+    },
+    {
+      "name": "Terveystiedon sisällöt II - Seksuaaliterveys",
+      "code": "TERV112",
+      "url": "https://www.studocu.com/fi/course/jyvaskylan-yliopisto/terveystiedon-sisallot-ii-seksuaaliterveys/2657629"
+    },
+    {
+      "name": "Testaamisen peruskurssi",
+      "code": "LBIP014",
+      "url": "https://www.studocu.com/fi/course/jyvaskylan-yliopisto/testaamisen-peruskurssi/2657960"
+    },
+    {
+      "name": "Tiedonhankinnan perusteet",
+      "code": "LIB1THP",
+      "url": "https://www.studocu.com/fi/course/jyvaskylan-yliopisto/tiedonhankinnan-perusteet/4313909"
+    },
+    {
+      "name": "Tieteellisen tiedon rakentuminen: Laadulliset tutkimusmenetelmät",
+      "code": "KTKA2010",
+      "url": "https://www.studocu.com/fi/course/jyvaskylan-yliopisto/tieteellisen-tiedon-rakentuminen-laadulliset-tutkimusmenetelmat/4325791"
+    },
+    {
+      "name": "Tieteellisen tiedon rakentuminen: Määrälliset tutkimusmenetelmät",
+      "code": "KTKA2020",
+      "url": "https://www.studocu.com/fi/course/jyvaskylan-yliopisto/tieteellisen-tiedon-rakentuminen-maaralliset-tutkimusmenetelmat/4421515"
+    },
+    {
+      "name": "Tieteen teoria",
+      "code": "YFIY100",
+      "url": "https://www.studocu.com/fi/course/jyvaskylan-yliopisto/tieteen-teoria/2657553"
+    },
+    {
+      "name": "Tietojärjestelmien kehittäminen",
+      "code": "TJTA113",
+      "url": "https://www.studocu.com/fi/course/jyvaskylan-yliopisto/tietojarjestelmien-kehittaminen/2657759"
+    },
+    {
+      "name": "Tilastomenetelmien peruskurssi",
+      "code": "TILP150",
+      "url": "https://www.studocu.com/fi/course/jyvaskylan-yliopisto/tilastomenetelmien-peruskurssi/2657934"
+    },
+    {
+      "name": "Toimijuus ja identiteetti erilaisilla elämänkentillä",
+      "code": "KAIA052",
+      "url": "https://www.studocu.com/fi/course/jyvaskylan-yliopisto/toimijuus-ja-identiteetti-erilaisilla-elamankentilla/4325796"
+    },
+    {
+      "name": "Toiminnallinen anatomia",
+      "code": "LTKP1000",
+      "url": "https://www.studocu.com/fi/course/jyvaskylan-yliopisto/toiminnallinen-anatomia/5702275"
+    },
+    {
+      "name": "Tuki-ja liikuntaelimistön anatomia",
+      "code": "LBIP009",
+      "url": "https://www.studocu.com/fi/course/jyvaskylan-yliopisto/tuki-ja-liikuntaelimiston-anatomia/2657575"
+    },
+    {
+      "name": "Tutkimusprosessi ja tutkimusasetelmat -harjoitukset",
+      "code": "LTKY011",
+      "url": "https://www.studocu.com/fi/course/jyvaskylan-yliopisto/tutkimusprosessi-ja-tutkimusasetelmat-harjoitukset/2657956"
+    },
+    {
+      "name": "Työ- ja organisaatiopsykologia II",
+      "code": "PSYA151",
+      "url": "https://www.studocu.com/fi/course/jyvaskylan-yliopisto/tyo-ja-organisaatiopsykologia-ii/2657768"
+    },
+    {
+      "name": "Työn ja talouden sosiologia",
+      "code": "SOSA 403",
+      "url": "https://www.studocu.com/fi/course/jyvaskylan-yliopisto/tyon-ja-talouden-sosiologia/2900953"
+    },
+    {
+      "name": "Urheilu, media ja julkisuus",
+      "code": "LYTA001",
+      "url": "https://www.studocu.com/fi/course/jyvaskylan-yliopisto/urheilu-media-ja-julkisuus/2657614"
+    },
+    {
+      "name": "Urheiluvalmennuksen jatkokurssi",
+      "code": "LBIA023",
+      "url": "https://www.studocu.com/fi/course/jyvaskylan-yliopisto/urheiluvalmennuksen-jatkokurssi/4377487"
+    },
+    {
+      "name": "Uudet teknologiat yhteiskunnassa",
+      "code": "TJTA116",
+      "url": "https://www.studocu.com/fi/course/jyvaskylan-yliopisto/uudet-teknologiat-yhteiskunnassa/2657826"
+    },
+    {
+      "name": "Valinnaiset perheopinnot",
+      "code": "PEOP050",
+      "url": "https://www.studocu.com/fi/course/jyvaskylan-yliopisto/valinnaiset-perheopinnot/4414168"
+    },
+    {
+      "name": "Valmennus- ja testausopin syventävä kirjallisuus I",
+      "code": "VTES004",
+      "url": "https://www.studocu.com/fi/course/jyvaskylan-yliopisto/valmennus-ja-testausopin-syventava-kirjallisuus-i/2657608"
+    },
+    {
+      "name": "Valtio ja yhteiskunta",
+      "code": "YFIP1002",
+      "url": "https://www.studocu.com/fi/course/jyvaskylan-yliopisto/valtio-ja-yhteiskunta/2658005"
+    },
+    {
+      "name": "Vanheneminen ja terveys I",
+      "code": "KTEP013",
+      "url": "https://www.studocu.com/fi/course/jyvaskylan-yliopisto/vanheneminen-ja-terveys-i/2658023"
+    },
+    {
+      "name": "Vanheneminen ja terveys II",
+      "code": "KTEP014",
+      "url": "https://www.studocu.com/fi/course/jyvaskylan-yliopisto/vanheneminen-ja-terveys-ii/2658024"
+    },
+    {
+      "name": "Vapaa-ajan sosiologia",
+      "code": "LYTA002",
+      "url": "https://www.studocu.com/fi/course/jyvaskylan-yliopisto/vapaa-ajan-sosiologia/2657593"
+    },
+    {
+      "name": "Vesi ja vesistöt",
+      "code": "BIOP302",
+      "url": "https://www.studocu.com/fi/course/jyvaskylan-yliopisto/vesi-ja-vesistot/2657646"
+    },
+    {
+      "name": "Vesi ja vesistöt",
+      "code": "BENP1002",
+      "url": "https://www.studocu.com/fi/course/jyvaskylan-yliopisto/vesi-ja-vesistot/2658050"
+    },
+    {
+      "name": "Vesieliöiden fysiologia, luennot ja harjoitukset",
+      "code": "WETA506",
+      "url": "https://www.studocu.com/fi/course/jyvaskylan-yliopisto/vesielioiden-fysiologia-luennot-ja-harjoitukset/2657649"
+    },
+    {
+      "name": "Vesihuollon perusteet",
+      "code": "YMPA213",
+      "url": "https://www.studocu.com/fi/course/jyvaskylan-yliopisto/vesihuollon-perusteet/2657650"
+    },
+    {
+      "name": "Vesiviljelyn kirjatentti / Aquaculture Book Examination",
+      "code": "WETS111",
+      "url": "https://www.studocu.com/fi/course/jyvaskylan-yliopisto/vesiviljelyn-kirjatentti-aquaculture-book-examination/2657503"
+    },
+    {
+      "name": "Viestinnän etiikka",
+      "code": "VIJP1005",
+      "url": "https://www.studocu.com/fi/course/jyvaskylan-yliopisto/viestinnan-etiikka/5120724"
+    },
+    {
+      "name": "Viestinnän etiikka ja normit",
+      "code": "VIEP042",
+      "url": "https://www.studocu.com/fi/course/jyvaskylan-yliopisto/viestinnan-etiikka-ja-normit/2657750"
+    },
+    {
+      "name": "Viestinnän perusteet liikunta- ja terveystieteissä",
+      "code": "LTKY1003",
+      "url": "https://www.studocu.com/fi/course/jyvaskylan-yliopisto/viestinnan-perusteet-liikunta-ja-terveystieteissa/4904466"
+    },
+    {
+      "name": "Viestintä ja vaikuttaminen",
+      "code": "viep1011",
+      "url": "https://www.studocu.com/fi/course/jyvaskylan-yliopisto/viestinta-ja-vaikuttaminen/4330179"
+    },
+    {
+      "name": "Viestintä ja vaikuttaminen",
+      "code": "VIEP030",
+      "url": "https://www.studocu.com/fi/course/jyvaskylan-yliopisto/viestinta-ja-vaikuttaminen/2657384"
+    },
+    {
+      "name": "Viestintäkompetenssi ja vuorovaikutusosaaminen",
+      "code": "VISA1010",
+      "url": "https://www.studocu.com/fi/course/jyvaskylan-yliopisto/viestintakompetenssi-ja-vuorovaikutusosaaminen/5120726"
+    },
+    {
+      "name": "Vuorovaikutus ryhmissä ja tiimeissä",
+      "code": "VISA1012",
+      "url": "https://www.studocu.com/fi/course/jyvaskylan-yliopisto/vuorovaikutus-ryhmissa-ja-tiimeissa/5120729"
+    },
+    {
+      "name": "Vuorovaikutussuhteet",
+      "code": "PUHS312",
+      "url": "https://www.studocu.com/fi/course/jyvaskylan-yliopisto/vuorovaikutussuhteet/2657284"
+    },
+    {
+      "name": "Vuorovaikutussuhteiden dynamiikka",
+      "code": "VISA1011",
+      "url": "https://www.studocu.com/fi/course/jyvaskylan-yliopisto/vuorovaikutussuhteiden-dynamiikka/5120727"
+    },
+    {
+      "name": "Yhteiskunnan muutoksen ja talouden historia",
+      "code": "HISP026",
+      "url": "https://www.studocu.com/fi/course/jyvaskylan-yliopisto/yhteiskunnan-muutoksen-ja-talouden-historia/4324791"
+    },
+    {
+      "name": "Yhteiskunta",
+      "code": "YFIP220",
+      "url": "https://www.studocu.com/fi/course/jyvaskylan-yliopisto/yhteiskunta/2657557"
+    },
+    {
+      "name": "Yhteiskuntaetnologia",
+      "code": "ETNA214",
+      "url": "https://www.studocu.com/fi/course/jyvaskylan-yliopisto/yhteiskuntaetnologia/2657401"
+    },
+    {
+      "name": "Yhteiskuntateoriat",
+      "code": "YFIP1003",
+      "url": "https://www.studocu.com/fi/course/jyvaskylan-yliopisto/yhteiskuntateoriat/2658036"
+    },
+    {
+      "name": "Yksilöllinen opetus liikuntaryhmässä",
+      "code": "LPEA040",
+      "url": "https://www.studocu.com/fi/course/jyvaskylan-yliopisto/yksilollinen-opetus-liikuntaryhmassa/2657618"
+    },
+    {
+      "name": "Yksilöllisyys oppimisessa ja osallistumisessa",
+      "code": "ERIP104",
+      "url": "https://www.studocu.com/fi/course/jyvaskylan-yliopisto/yksilollisyys-oppimisessa-ja-osallistumisessa/2657640"
+    },
+    {
+      "name": "Ympäristöetiikka",
+      "code": "FILA406",
+      "url": "https://www.studocu.com/fi/course/jyvaskylan-yliopisto/ymparistoetiikka/4323653"
+    },
+    {
+      "name": "Ympäristöfysiikka",
+      "code": "YMPP115",
+      "url": "https://www.studocu.com/fi/course/jyvaskylan-yliopisto/ymparistofysiikka/2657665"
+    },
+    {
+      "name": "Ympäristökemian ja toksikologian perusteet",
+      "code": "YMPP125",
+      "url": "https://www.studocu.com/fi/course/jyvaskylan-yliopisto/ymparistokemian-ja-toksikologian-perusteet/2657661"
+    },
+    {
+      "name": "Ympäristön ilmiöt -tutkien, kokeillen ja keksien",
+      "code": "VAAM1360",
+      "url": "https://www.studocu.com/fi/course/jyvaskylan-yliopisto/ympariston-ilmiot-tutkien-kokeillen-ja-keksien/2657969"
+    },
+    {
+      "name": "Ympäristönsuojelun perusteet, kirjatentti",
+      "code": "YMPP105",
+      "url": "https://www.studocu.com/fi/course/jyvaskylan-yliopisto/ymparistonsuojelun-perusteet-kirjatentti/2657788"
+    },
+    {
+      "name": "Ympäristötieteen perusteet",
+      "code": "YMPP123",
+      "url": "https://www.studocu.com/fi/course/jyvaskylan-yliopisto/ymparistotieteen-perusteet/2657952"
+    },
+    {
+      "name": "Yrittäjyyden perusteet",
+      "code": "YTTP1140",
+      "url": "https://www.studocu.com/fi/course/jyvaskylan-yliopisto/yrittajyyden-perusteet/2658199"
+    }
+  ]
+}

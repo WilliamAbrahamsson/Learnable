@@ -1,0 +1,926 @@
+{
+  "university_id": "9877",
+  "university_name": "Ashland University",
+  "courses": [
+    {
+      "name": "A Measure in Behavior Science",
+      "code": "PSYC 301",
+      "url": "https://www.studocu.com/en-us/course/ashland-university/a-measure-in-behavior-science/5957118"
+    },
+    {
+      "name": "ACH: Protect, Senstn, Mobil",
+      "code": "NUR 312",
+      "url": "https://www.studocu.com/en-us/course/ashland-university/ach-protect-senstn-mobil/5316707"
+    },
+    {
+      "name": "Addictions Counseling",
+      "code": "ADD 131",
+      "url": "https://www.studocu.com/en-us/course/ashland-university/addictions-counseling/5957083"
+    },
+    {
+      "name": "Adv Pathophysiology",
+      "code": "NUR9210",
+      "url": "https://www.studocu.com/en-us/course/ashland-university/adv-pathophysiology/4733016"
+    },
+    {
+      "name": "Adv Pharmacology",
+      "code": "NUR9220",
+      "url": "https://www.studocu.com/en-us/course/ashland-university/adv-pharmacology/4733015"
+    },
+    {
+      "name": "Advanced Accounting",
+      "code": "ACCT540",
+      "url": "https://www.studocu.com/en-us/course/ashland-university/advanced-accounting/4732870"
+    },
+    {
+      "name": "Advanced Level Intensive French Study Abroad",
+      "code": "FREN300",
+      "url": "https://www.studocu.com/en-us/course/ashland-university/advanced-level-intensive-french-study-abroad/4732777"
+    },
+    {
+      "name": "Advanced Studies In Language Arts",
+      "code": "EDCI563",
+      "url": "https://www.studocu.com/en-us/course/ashland-university/advanced-studies-in-language-arts/4733210"
+    },
+    {
+      "name": "Advanced Study Of Child Development",
+      "code": "PSYC594",
+      "url": "https://www.studocu.com/en-us/course/ashland-university/advanced-study-of-child-development/4732987"
+    },
+    {
+      "name": "America During The Cold War",
+      "code": "AHG607",
+      "url": "https://www.studocu.com/en-us/course/ashland-university/america-during-the-cold-war/4732918"
+    },
+    {
+      "name": "American Foreign Policy",
+      "code": "AHG610",
+      "url": "https://www.studocu.com/en-us/course/ashland-university/american-foreign-policy/4732920"
+    },
+    {
+      "name": "American History After Civil War",
+      "code": "HIST213",
+      "url": "https://www.studocu.com/en-us/course/ashland-university/american-history-after-civil-war/4732768"
+    },
+    {
+      "name": "American History After The Cival War",
+      "code": "HIST213",
+      "url": "https://www.studocu.com/en-us/course/ashland-university/american-history-after-the-cival-war/4733071"
+    },
+    {
+      "name": "American History Through Civil War",
+      "code": "HIST212",
+      "url": "https://www.studocu.com/en-us/course/ashland-university/american-history-through-civil-war/4732767"
+    },
+    {
+      "name": "American Revolution",
+      "code": "AHG501",
+      "url": "https://www.studocu.com/en-us/course/ashland-university/american-revolution/4732954"
+    },
+    {
+      "name": "American Statement",
+      "code": "AHG630",
+      "url": "https://www.studocu.com/en-us/course/ashland-university/american-statement/4732926"
+    },
+    {
+      "name": "Anatomy & Physiology I",
+      "code": "BIO125",
+      "url": "https://www.studocu.com/en-us/course/ashland-university/anatomy-physiology-i/4732817"
+    },
+    {
+      "name": "Anatomy & Physiology II",
+      "code": "BIO126",
+      "url": "https://www.studocu.com/en-us/course/ashland-university/anatomy-physiology-ii/4732818"
+    },
+    {
+      "name": "Applied Ethics",
+      "code": "PHIL280",
+      "url": "https://www.studocu.com/en-us/course/ashland-university/applied-ethics/4732995"
+    },
+    {
+      "name": "Archaeology & Human Antiquity",
+      "code": "GEOL212",
+      "url": "https://www.studocu.com/en-us/course/ashland-university/archaeology-human-antiquity/4732741"
+    },
+    {
+      "name": "Archeology & Human Antiquity",
+      "code": "GEOL212",
+      "url": "https://www.studocu.com/en-us/course/ashland-university/archeology-human-antiquity/4733078"
+    },
+    {
+      "name": "Art & Ideas",
+      "code": "ART150",
+      "url": "https://www.studocu.com/en-us/course/ashland-university/art-ideas/4733279"
+    },
+    {
+      "name": "Art of asia",
+      "code": "IFT 2985464",
+      "url": "https://www.studocu.com/en-us/course/ashland-university/art-of-asia/7298032"
+    },
+    {
+      "name": "Ashland Area Chorus",
+      "code": "MUSIC52",
+      "url": "https://www.studocu.com/en-us/course/ashland-university/ashland-area-chorus/4733033"
+    },
+    {
+      "name": "Ashland Area Community Concernt Band",
+      "code": "MUSIC51",
+      "url": "https://www.studocu.com/en-us/course/ashland-university/ashland-area-community-concernt-band/4733034"
+    },
+    {
+      "name": "Assessing And Teaching Children With Mild/Moderate Educational Needs",
+      "code": "EDIS548",
+      "url": "https://www.studocu.com/en-us/course/ashland-university/assessing-and-teaching-children-with-mildmoderate-educational-needs/4733152"
+    },
+    {
+      "name": "Assessment And Evaluation Of Young Children W/ Special Education Needs",
+      "code": "EDEC669",
+      "url": "https://www.studocu.com/en-us/course/ashland-university/assessment-and-evaluation-of-young-children-w-special-education-needs/4733187"
+    },
+    {
+      "name": "Assessment, Instruction, Evaluation, And Intervention Field Experience For Early Childhood Bachelor’S Plus",
+      "code": "EDEC588",
+      "url": "https://www.studocu.com/en-us/course/ashland-university/assessment-instruction-evaluation-and-intervention-field-experience-for-early-childhood-bachelors-plus/4733194"
+    },
+    {
+      "name": "Asteroids, Comets, And Catastrophism",
+      "code": "GEOL213",
+      "url": "https://www.studocu.com/en-us/course/ashland-university/asteroids-comets-and-catastrophism/4733077"
+    },
+    {
+      "name": "Becoming A Researcher",
+      "code": "EDLS9819",
+      "url": "https://www.studocu.com/en-us/course/ashland-university/becoming-a-researcher/4733127"
+    },
+    {
+      "name": "Bible As Literature",
+      "code": "ENG210",
+      "url": "https://www.studocu.com/en-us/course/ashland-university/bible-as-literature/4732671"
+    },
+    {
+      "name": "Business Analytics 1",
+      "code": "MBA546",
+      "url": "https://www.studocu.com/en-us/course/ashland-university/business-analytics-1/4732844"
+    },
+    {
+      "name": "Business Intelligence And Data Analytics",
+      "code": "MBA545",
+      "url": "https://www.studocu.com/en-us/course/ashland-university/business-intelligence-and-data-analytics/4732843"
+    },
+    {
+      "name": "Business Statistics",
+      "code": "MBA504",
+      "url": "https://www.studocu.com/en-us/course/ashland-university/business-statistics/4732822"
+    },
+    {
+      "name": "Business Tax Planning",
+      "code": "MBA542",
+      "url": "https://www.studocu.com/en-us/course/ashland-university/business-tax-planning/4732851"
+    },
+    {
+      "name": "Capstone Project",
+      "code": "AHG692",
+      "url": "https://www.studocu.com/en-us/course/ashland-university/capstone-project/4732936"
+    },
+    {
+      "name": "Cell Biology",
+      "code": "BIO 424",
+      "url": "https://www.studocu.com/en-us/course/ashland-university/cell-biology/6202514"
+    },
+    {
+      "name": "Ceramics",
+      "code": "ART160A",
+      "url": "https://www.studocu.com/en-us/course/ashland-university/ceramics/4732641"
+    },
+    {
+      "name": "Child and Adolescent Psychopath",
+      "code": "PSYC 308",
+      "url": "https://www.studocu.com/en-us/course/ashland-university/child-and-adolescent-psychopath/5946754"
+    },
+    {
+      "name": "Civilization Of Latin America",
+      "code": "SPAN312",
+      "url": "https://www.studocu.com/en-us/course/ashland-university/civilization-of-latin-america/4732803"
+    },
+    {
+      "name": "Cognitive Psychology",
+      "code": "PSYC 320",
+      "url": "https://www.studocu.com/en-us/course/ashland-university/cognitive-psychology/5957122"
+    },
+    {
+      "name": "Computer Architecture",
+      "code": "CS 301",
+      "url": "https://www.studocu.com/en-us/course/ashland-university/computer-architecture/7554023"
+    },
+    {
+      "name": "Concepts In Biology",
+      "code": "BIO1SGF",
+      "url": "https://www.studocu.com/en-us/course/ashland-university/concepts-in-biology/4732721"
+    },
+    {
+      "name": "Curriculum And Methods Of Early Childhood Mathematics",
+      "code": "EDEC564",
+      "url": "https://www.studocu.com/en-us/course/ashland-university/curriculum-and-methods-of-early-childhood-mathematics/4733196"
+    },
+    {
+      "name": "Democracy in America",
+      "code": "POLSC 102",
+      "url": "https://www.studocu.com/en-us/course/ashland-university/democracy-in-america/5954431"
+    },
+    {
+      "name": "Developing Classroom Learning Environments",
+      "code": "EDIS540",
+      "url": "https://www.studocu.com/en-us/course/ashland-university/developing-classroom-learning-environments/4733156"
+    },
+    {
+      "name": "Developmental Psychology",
+      "code": "PSYC209",
+      "url": "https://www.studocu.com/en-us/course/ashland-university/developmental-psychology/4732807"
+    },
+    {
+      "name": "Ecology And The Human Environment",
+      "code": "BIO110",
+      "url": "https://www.studocu.com/en-us/course/ashland-university/ecology-and-the-human-environment/4733277"
+    },
+    {
+      "name": "Economic Policy And Its Application To The Curriculum",
+      "code": "ECED582",
+      "url": "https://www.studocu.com/en-us/course/ashland-university/economic-policy-and-its-application-to-the-curriculum/4733247"
+    },
+    {
+      "name": "Economics",
+      "code": "MBAF500C",
+      "url": "https://www.studocu.com/en-us/course/ashland-university/economics/4732832"
+    },
+    {
+      "name": "Educational Leadership",
+      "code": "EDAD683",
+      "url": "https://www.studocu.com/en-us/course/ashland-university/educational-leadership/4732945"
+    },
+    {
+      "name": "Elementary Intervention Specialist Field Experience",
+      "code": "EDIS587",
+      "url": "https://www.studocu.com/en-us/course/ashland-university/elementary-intervention-specialist-field-experience/4733143"
+    },
+    {
+      "name": "Emerging Financial Markets",
+      "code": "MBA561",
+      "url": "https://www.studocu.com/en-us/course/ashland-university/emerging-financial-markets/4732859"
+    },
+    {
+      "name": "English",
+      "code": "ENG 100",
+      "url": "https://www.studocu.com/en-us/course/ashland-university/english/4448607"
+    },
+    {
+      "name": "English Composition I",
+      "code": "ENG101",
+      "url": "https://www.studocu.com/en-us/course/ashland-university/english-composition-i/4732622"
+    },
+    {
+      "name": "Epidemiology & Biostatistics",
+      "code": "NUR9520",
+      "url": "https://www.studocu.com/en-us/course/ashland-university/epidemiology-biostatistics/4733008"
+    },
+    {
+      "name": "Ethics",
+      "code": "PHIL215",
+      "url": "https://www.studocu.com/en-us/course/ashland-university/ethics/4732701"
+    },
+    {
+      "name": "European Discovery & Settlement",
+      "code": "AHG602",
+      "url": "https://www.studocu.com/en-us/course/ashland-university/european-discovery-settlement/4732913"
+    },
+    {
+      "name": "Exploring The Bible",
+      "code": "REL106",
+      "url": "https://www.studocu.com/en-us/course/ashland-university/exploring-the-bible/4732633"
+    },
+    {
+      "name": "Finance",
+      "code": "MBAF500F",
+      "url": "https://www.studocu.com/en-us/course/ashland-university/finance/4732834"
+    },
+    {
+      "name": "Financial Management",
+      "code": "MBA505",
+      "url": "https://www.studocu.com/en-us/course/ashland-university/financial-management/4732840"
+    },
+    {
+      "name": "Financial Management",
+      "code": "FIN228",
+      "url": "https://www.studocu.com/en-us/course/ashland-university/financial-management/4733088"
+    },
+    {
+      "name": "Financial Markets Tour (Chicago Or New York City)",
+      "code": "MBA564",
+      "url": "https://www.studocu.com/en-us/course/ashland-university/financial-markets-tour-chicago-or-new-york-city/4733044"
+    },
+    {
+      "name": "Foundations in Social Welfare",
+      "code": "SOCWK 250",
+      "url": "https://www.studocu.com/en-us/course/ashland-university/foundations-in-social-welfare/5957098"
+    },
+    {
+      "name": "Foundations of Project Management",
+      "code": "MBA 530",
+      "url": "https://www.studocu.com/en-us/course/ashland-university/foundations-of-project-management/3510023"
+    },
+    {
+      "name": "French Civilization From Revolution To Present",
+      "code": "FREN302",
+      "url": "https://www.studocu.com/en-us/course/ashland-university/french-civilization-from-revolution-to-present/4733082"
+    },
+    {
+      "name": "French Women Writers",
+      "code": "FL315",
+      "url": "https://www.studocu.com/en-us/course/ashland-university/french-women-writers/4732771"
+    },
+    {
+      "name": "General Chemsitry",
+      "code": "CHEM103",
+      "url": "https://www.studocu.com/en-us/course/ashland-university/general-chemsitry/4733271"
+    },
+    {
+      "name": "General Music Methods",
+      "code": "MUSIC204",
+      "url": "https://www.studocu.com/en-us/course/ashland-university/general-music-methods/4733032"
+    },
+    {
+      "name": "Genetics And Health",
+      "code": "NUR336",
+      "url": "https://www.studocu.com/en-us/course/ashland-university/genetics-and-health/4733022"
+    },
+    {
+      "name": "Geology Of Ohio",
+      "code": "GEOL550",
+      "url": "https://www.studocu.com/en-us/course/ashland-university/geology-of-ohio/4733075"
+    },
+    {
+      "name": "Global Human Rights and Social Rights",
+      "code": "SOCWK 239",
+      "url": "https://www.studocu.com/en-us/course/ashland-university/global-human-rights-and-social-rights/5957089"
+    },
+    {
+      "name": "Great American Texts",
+      "code": "AHG510",
+      "url": "https://www.studocu.com/en-us/course/ashland-university/great-american-texts/4732959"
+    },
+    {
+      "name": "Health Care Systems 3",
+      "code": "NUR405",
+      "url": "https://www.studocu.com/en-us/course/ashland-university/health-care-systems-3/4732813"
+    },
+    {
+      "name": "Health Foundations",
+      "code": "NUR 304",
+      "url": "https://www.studocu.com/en-us/course/ashland-university/health-foundations/5585660"
+    },
+    {
+      "name": "Health Policy & Advocacy",
+      "code": "NUR9560",
+      "url": "https://www.studocu.com/en-us/course/ashland-university/health-policy-advocacy/4733004"
+    },
+    {
+      "name": "Healthcare Delivery, Quality, And Safety",
+      "code": "NUR9550",
+      "url": "https://www.studocu.com/en-us/course/ashland-university/healthcare-delivery-quality-and-safety/4733005"
+    },
+    {
+      "name": "Historical Perspectives In Modern Physics",
+      "code": "PHYS552",
+      "url": "https://www.studocu.com/en-us/course/ashland-university/historical-perspectives-in-modern-physics/4732991"
+    },
+    {
+      "name": "History Of Education In The United States",
+      "code": "EDFN525",
+      "url": "https://www.studocu.com/en-us/course/ashland-university/history-of-education-in-the-united-states/4733177"
+    },
+    {
+      "name": "Human Biology",
+      "code": "BIO100",
+      "url": "https://www.studocu.com/en-us/course/ashland-university/human-biology/4732722"
+    },
+    {
+      "name": "Human Communication",
+      "code": "COM101",
+      "url": "https://www.studocu.com/en-us/course/ashland-university/human-communication/4732668"
+    },
+    {
+      "name": "Independent Project Research",
+      "code": "MBA601",
+      "url": "https://www.studocu.com/en-us/course/ashland-university/independent-project-research/5871921"
+    },
+    {
+      "name": "Individual Health 3",
+      "code": "NUR303",
+      "url": "https://www.studocu.com/en-us/course/ashland-university/individual-health-3/4732809"
+    },
+    {
+      "name": "Information Technology",
+      "code": "IS221",
+      "url": "https://www.studocu.com/en-us/course/ashland-university/information-technology/4733070"
+    },
+    {
+      "name": "Inquiry Chemistry Instruction Using Case Studies",
+      "code": "CHEM550",
+      "url": "https://www.studocu.com/en-us/course/ashland-university/inquiry-chemistry-instruction-using-case-studies/4733268"
+    },
+    {
+      "name": "Integrated Teaching Methods For English Language Learners",
+      "code": "EDCI535",
+      "url": "https://www.studocu.com/en-us/course/ashland-university/integrated-teaching-methods-for-english-language-learners/4733216"
+    },
+    {
+      "name": "Intermediate German II",
+      "code": "GER262",
+      "url": "https://www.studocu.com/en-us/course/ashland-university/intermediate-german-ii/4732787"
+    },
+    {
+      "name": "Intermediate Latin I",
+      "code": "LTN310",
+      "url": "https://www.studocu.com/en-us/course/ashland-university/intermediate-latin-i/4733069"
+    },
+    {
+      "name": "Intermediate Spanish II",
+      "code": "SPAN272",
+      "url": "https://www.studocu.com/en-us/course/ashland-university/intermediate-spanish-ii/4732798"
+    },
+    {
+      "name": "Internship For Multi-Age Prek-12",
+      "code": "EDCI607",
+      "url": "https://www.studocu.com/en-us/course/ashland-university/internship-for-multi-age-prek-12/4733204"
+    },
+    {
+      "name": "Internship For Talented Programs",
+      "code": "EDIS591",
+      "url": "https://www.studocu.com/en-us/course/ashland-university/internship-for-talented-programs/4733140"
+    },
+    {
+      "name": "Intervention And Remediation In Math: Assessment And Instructional Methods",
+      "code": "EDIS553",
+      "url": "https://www.studocu.com/en-us/course/ashland-university/intervention-and-remediation-in-math-assessment-and-instructional-methods/4733149"
+    },
+    {
+      "name": "Intro To Modern Algebra",
+      "code": "MATH615",
+      "url": "https://www.studocu.com/en-us/course/ashland-university/intro-to-modern-algebra/4733064"
+    },
+    {
+      "name": "Introduction To Criminal Justice",
+      "code": "CJ130",
+      "url": "https://www.studocu.com/en-us/course/ashland-university/introduction-to-criminal-justice/4733267"
+    },
+    {
+      "name": "Introduction to Social Work",
+      "code": "SOCWK 221",
+      "url": "https://www.studocu.com/en-us/course/ashland-university/introduction-to-social-work/5957104"
+    },
+    {
+      "name": "Issues And Trends In Computer Mediated Learning And Teaching",
+      "code": "EDLS9841",
+      "url": "https://www.studocu.com/en-us/course/ashland-university/issues-and-trends-in-computer-mediated-learning-and-teaching/4733121"
+    },
+    {
+      "name": "Jazz Combo",
+      "code": "MUSIC15",
+      "url": "https://www.studocu.com/en-us/course/ashland-university/jazz-combo/4733041"
+    },
+    {
+      "name": "Juvenile Delinquency",
+      "code": "CJ244",
+      "url": "https://www.studocu.com/en-us/course/ashland-university/juvenile-delinquency/4733263"
+    },
+    {
+      "name": "Juvenile Delinquency None",
+      "code": "CJ244",
+      "url": "https://www.studocu.com/en-us/course/ashland-university/juvenile-delinquency-none/4732887"
+    },
+    {
+      "name": "Labor Relations And Collective Bargaining",
+      "code": "MBA551",
+      "url": "https://www.studocu.com/en-us/course/ashland-university/labor-relations-and-collective-bargaining/4732855"
+    },
+    {
+      "name": "Language Acquisition And Elements Of Linguistics For Teacing English Language Learners",
+      "code": "EDCI534",
+      "url": "https://www.studocu.com/en-us/course/ashland-university/language-acquisition-and-elements-of-linguistics-for-teacing-english-language-learners/4733217"
+    },
+    {
+      "name": "Language/Communication Disorders In Childre",
+      "code": "EDIS507",
+      "url": "https://www.studocu.com/en-us/course/ashland-university/languagecommunication-disorders-in-childre/4733160"
+    },
+    {
+      "name": "Logistics And Procurement",
+      "code": "MBA571",
+      "url": "https://www.studocu.com/en-us/course/ashland-university/logistics-and-procurement/4732865"
+    },
+    {
+      "name": "Management Information Systems",
+      "code": "MBA513",
+      "url": "https://www.studocu.com/en-us/course/ashland-university/management-information-systems/4732826"
+    },
+    {
+      "name": "Marketing",
+      "code": "MBAF500E",
+      "url": "https://www.studocu.com/en-us/course/ashland-university/marketing/4732833"
+    },
+    {
+      "name": "Marketing Management",
+      "code": "MBA507",
+      "url": "https://www.studocu.com/en-us/course/ashland-university/marketing-management/4732841"
+    },
+    {
+      "name": "maternal newborn",
+      "code": "438",
+      "url": "https://www.studocu.com/en-us/course/ashland-university/maternal-newborn/5113848"
+    },
+    {
+      "name": "Mathematical Statistics",
+      "code": "MATH518",
+      "url": "https://www.studocu.com/en-us/course/ashland-university/mathematical-statistics/4733065"
+    },
+    {
+      "name": "Mba Seminars",
+      "code": "MBA516",
+      "url": "https://www.studocu.com/en-us/course/ashland-university/mba-seminars/4732828"
+    },
+    {
+      "name": "Medical Ethics",
+      "code": "PHIL280D",
+      "url": "https://www.studocu.com/en-us/course/ashland-university/medical-ethics/4732705"
+    },
+    {
+      "name": "Microbiology For Nursing",
+      "code": "BIO240",
+      "url": "https://www.studocu.com/en-us/course/ashland-university/microbiology-for-nursing/4732819"
+    },
+    {
+      "name": "Molecular & Cellular Basis Of Life",
+      "code": "BIO201",
+      "url": "https://www.studocu.com/en-us/course/ashland-university/molecular-cellular-basis-of-life/4732728"
+    },
+    {
+      "name": "Molecular Architecture",
+      "code": "CHEM 251",
+      "url": "https://www.studocu.com/en-us/course/ashland-university/molecular-architecture/5927158"
+    },
+    {
+      "name": "Natural Disasters: Volcanoes And Earthquakes",
+      "code": "GEOL209",
+      "url": "https://www.studocu.com/en-us/course/ashland-university/natural-disasters-volcanoes-and-earthquakes/4732738"
+    },
+    {
+      "name": "Neuropsychology",
+      "code": "PSYC 414",
+      "url": "https://www.studocu.com/en-us/course/ashland-university/neuropsychology/5946735"
+    },
+    {
+      "name": "Nietzche And The Problem Of Values",
+      "code": "ENG372",
+      "url": "https://www.studocu.com/en-us/course/ashland-university/nietzche-and-the-problem-of-values/4733100"
+    },
+    {
+      "name": "Nursing Fundamentals",
+      "code": "NUR 304 & 306",
+      "url": "https://www.studocu.com/en-us/course/ashland-university/nursing-fundamentals/6721471"
+    },
+    {
+      "name": "Nursing Pharmacology & Physiology",
+      "code": "NUR 225 & 226",
+      "url": "https://www.studocu.com/en-us/course/ashland-university/nursing-pharmacology-physiology/6721475"
+    },
+    {
+      "name": "Nursing Research And Evidencebased Practice",
+      "code": "NUR362",
+      "url": "https://www.studocu.com/en-us/course/ashland-university/nursing-research-and-evidencebased-practice/4733021"
+    },
+    {
+      "name": "Operations Management",
+      "code": "MBA503",
+      "url": "https://www.studocu.com/en-us/course/ashland-university/operations-management/4732839"
+    },
+    {
+      "name": "Org, Design, Dev & Change Management",
+      "code": "MBA501",
+      "url": "https://www.studocu.com/en-us/course/ashland-university/org-design-dev-change-management/4732838"
+    },
+    {
+      "name": "Organic Chemistry",
+      "code": "CHEM201",
+      "url": "https://www.studocu.com/en-us/course/ashland-university/organic-chemistry/4519262"
+    },
+    {
+      "name": "Organic Chemistry 2",
+      "code": "Chem 308",
+      "url": "https://www.studocu.com/en-us/course/ashland-university/organic-chemistry-2/6906538"
+    },
+    {
+      "name": "Organisms, Adaptation, And Diversity",
+      "code": "BIO202",
+      "url": "https://www.studocu.com/en-us/course/ashland-university/organisms-adaptation-and-diversity/4733274"
+    },
+    {
+      "name": "Organizational Communication",
+      "code": "COM630",
+      "url": "https://www.studocu.com/en-us/course/ashland-university/organizational-communication/4733252"
+    },
+    {
+      "name": "Organizational Design, Development, And Change Management",
+      "code": "MBA501",
+      "url": "https://www.studocu.com/en-us/course/ashland-university/organizational-design-development-and-change-management/4733057"
+    },
+    {
+      "name": "Paul In The Greco Roman World",
+      "code": "REL3SGK",
+      "url": "https://www.studocu.com/en-us/course/ashland-university/paul-in-the-greco-roman-world/4732717"
+    },
+    {
+      "name": "Personal Finance",
+      "code": "ECED586",
+      "url": "https://www.studocu.com/en-us/course/ashland-university/personal-finance/4733244"
+    },
+    {
+      "name": "Personality",
+      "code": "PSYC 307",
+      "url": "https://www.studocu.com/en-us/course/ashland-university/personality/5957070"
+    },
+    {
+      "name": "Political Parties",
+      "code": "AHG642",
+      "url": "https://www.studocu.com/en-us/course/ashland-university/political-parties/4732932"
+    },
+    {
+      "name": "Principles Of Macroeconomics",
+      "code": "ECON233",
+      "url": "https://www.studocu.com/en-us/course/ashland-university/principles-of-macroeconomics/4732748"
+    },
+    {
+      "name": "Principles Of Microeconomics",
+      "code": "ECON232",
+      "url": "https://www.studocu.com/en-us/course/ashland-university/principles-of-microeconomics/4732747"
+    },
+    {
+      "name": "Professional Development",
+      "code": "EDAD684",
+      "url": "https://www.studocu.com/en-us/course/ashland-university/professional-development/4733235"
+    },
+    {
+      "name": "Psychology",
+      "code": "PSYC 209",
+      "url": "https://www.studocu.com/en-us/course/ashland-university/psychology/3368325"
+    },
+    {
+      "name": "Psychology Of Adolescence",
+      "code": "PSYC218",
+      "url": "https://www.studocu.com/en-us/course/ashland-university/psychology-of-adolescence/4732761"
+    },
+    {
+      "name": "Quantitative & Statistical Methods",
+      "code": "MBAF500H",
+      "url": "https://www.studocu.com/en-us/course/ashland-university/quantitative-statistical-methods/4732836"
+    },
+    {
+      "name": "Quantitative Data Analysis",
+      "code": "NUHS509",
+      "url": "https://www.studocu.com/en-us/course/ashland-university/quantitative-data-analysis/4733286"
+    },
+    {
+      "name": "Race Ethnic, And Minority Issues",
+      "code": "SOC301",
+      "url": "https://www.studocu.com/en-us/course/ashland-university/race-ethnic-and-minority-issues/4732763"
+    },
+    {
+      "name": "Readings In Crime And Justice",
+      "code": "CJ360",
+      "url": "https://www.studocu.com/en-us/course/ashland-university/readings-in-crime-and-justice/4733258"
+    },
+    {
+      "name": "Religion & The Civil Rights Movement In America",
+      "code": "REL340",
+      "url": "https://www.studocu.com/en-us/course/ashland-university/religion-the-civil-rights-movement-in-america/4732715"
+    },
+    {
+      "name": "Religion And The Civil Rights Movement In America",
+      "code": "REL340",
+      "url": "https://www.studocu.com/en-us/course/ashland-university/religion-and-the-civil-rights-movement-in-america/4732985"
+    },
+    {
+      "name": "Research Methods In Social Science",
+      "code": "SOC460",
+      "url": "https://www.studocu.com/en-us/course/ashland-university/research-methods-in-social-science/4732975"
+    },
+    {
+      "name": "Romantic Movement & VIctorian Period",
+      "code": "ENG610",
+      "url": "https://www.studocu.com/en-us/course/ashland-university/romantic-movement-victorian-period/4733091"
+    },
+    {
+      "name": "School Nurse Internship",
+      "code": "SNL680",
+      "url": "https://www.studocu.com/en-us/course/ashland-university/school-nurse-internship/4732978"
+    },
+    {
+      "name": "Science As A Cultural Force",
+      "code": "GEOL350",
+      "url": "https://www.studocu.com/en-us/course/ashland-university/science-as-a-cultural-force/4733076"
+    },
+    {
+      "name": "Science As A Cultural Force",
+      "code": "CHEM/GEOL/PHYS/PHIL350",
+      "url": "https://www.studocu.com/en-us/course/ashland-university/science-as-a-cultural-force/4732737"
+    },
+    {
+      "name": "Science As A Cultural Force",
+      "code": "PHYS350",
+      "url": "https://www.studocu.com/en-us/course/ashland-university/science-as-a-cultural-force/4732992"
+    },
+    {
+      "name": "Science As A Cultural Force",
+      "code": "CHEM350",
+      "url": "https://www.studocu.com/en-us/course/ashland-university/science-as-a-cultural-force/4733269"
+    },
+    {
+      "name": "Scientific Basis For Advanced Practice Nursing",
+      "code": "NUR9240",
+      "url": "https://www.studocu.com/en-us/course/ashland-university/scientific-basis-for-advanced-practice-nursing/4733013"
+    },
+    {
+      "name": "Script Analysis",
+      "code": "TH204",
+      "url": "https://www.studocu.com/en-us/course/ashland-university/script-analysis/4732663"
+    },
+    {
+      "name": "Sculpture",
+      "code": "ART161D",
+      "url": "https://www.studocu.com/en-us/course/ashland-university/sculpture/4732650"
+    },
+    {
+      "name": "Sectionalism And Civil War",
+      "code": "AHG503",
+      "url": "https://www.studocu.com/en-us/course/ashland-university/sectionalism-and-civil-war/4733283"
+    },
+    {
+      "name": "Seminar In Hispanic Studies",
+      "code": "SPAN671",
+      "url": "https://www.studocu.com/en-us/course/ashland-university/seminar-in-hispanic-studies/4732971"
+    },
+    {
+      "name": "Seminar In Social Media Platforming",
+      "code": "COM680",
+      "url": "https://www.studocu.com/en-us/course/ashland-university/seminar-in-social-media-platforming/4732904"
+    },
+    {
+      "name": "Social & Ethical Issues In Sport",
+      "code": "SMG574",
+      "url": "https://www.studocu.com/en-us/course/ashland-university/social-ethical-issues-in-sport/4732873"
+    },
+    {
+      "name": "Social And Political Philosophy",
+      "code": "PHIL309",
+      "url": "https://www.studocu.com/en-us/course/ashland-university/social-and-political-philosophy/4732994"
+    },
+    {
+      "name": "Social Psychology",
+      "code": "PSYC 305",
+      "url": "https://www.studocu.com/en-us/course/ashland-university/social-psychology/5946725"
+    },
+    {
+      "name": "Sociiology",
+      "code": "SOC 111",
+      "url": "https://www.studocu.com/en-us/course/ashland-university/sociiology/4552006"
+    },
+    {
+      "name": "Strategic Planning And Policy",
+      "code": "MBA517",
+      "url": "https://www.studocu.com/en-us/course/ashland-university/strategic-planning-and-policy/4733055"
+    },
+    {
+      "name": "Survey Of Latin American Literature",
+      "code": "SPAN373",
+      "url": "https://www.studocu.com/en-us/course/ashland-university/survey-of-latin-american-literature/4732720"
+    },
+    {
+      "name": "Systems Analysis And Design",
+      "code": "MBA535",
+      "url": "https://www.studocu.com/en-us/course/ashland-university/systems-analysis-and-design/4732871"
+    },
+    {
+      "name": "Teaching The 21St Century Adolescent—Social Studies",
+      "code": "EDCI519",
+      "url": "https://www.studocu.com/en-us/course/ashland-university/teaching-the-21st-century-adolescentsocial-studies/4733221"
+    },
+    {
+      "name": "The American Founding",
+      "code": "AHG 502",
+      "url": "https://www.studocu.com/en-us/course/ashland-university/the-american-founding/3735976"
+    },
+    {
+      "name": "The American Presidency I, Washington To Lincoln",
+      "code": "AHG632",
+      "url": "https://www.studocu.com/en-us/course/ashland-university/the-american-presidency-i-washington-to-lincoln/4732966"
+    },
+    {
+      "name": "The American Presidency II, Johnson To The Present",
+      "code": "AHG633",
+      "url": "https://www.studocu.com/en-us/course/ashland-university/the-american-presidency-ii-johnson-to-the-present/4733281"
+    },
+    {
+      "name": "The Early Republic",
+      "code": "AHG604",
+      "url": "https://www.studocu.com/en-us/course/ashland-university/the-early-republic/4732915"
+    },
+    {
+      "name": "The Gospels",
+      "code": "REL210",
+      "url": "https://www.studocu.com/en-us/course/ashland-university/the-gospels/4732636"
+    },
+    {
+      "name": "The Health Care Organization",
+      "code": "MBA575",
+      "url": "https://www.studocu.com/en-us/course/ashland-university/the-health-care-organization/4732876"
+    },
+    {
+      "name": "The Progressive Era",
+      "code": "AHG505",
+      "url": "https://www.studocu.com/en-us/course/ashland-university/the-progressive-era/4732957"
+    },
+    {
+      "name": "The Scientific Basis Of Sport",
+      "code": "AEXS671",
+      "url": "https://www.studocu.com/en-us/course/ashland-university/the-scientific-basis-of-sport/4733290"
+    },
+    {
+      "name": "The Supreme Court",
+      "code": "AHG641",
+      "url": "https://www.studocu.com/en-us/course/ashland-university/the-supreme-court/4732931"
+    },
+    {
+      "name": "The Teaching Of Foreign Languages K-12",
+      "code": "FL637",
+      "url": "https://www.studocu.com/en-us/course/ashland-university/the-teaching-of-foreign-languages-k-12/4733084"
+    },
+    {
+      "name": "The VIsual Art Of Theatre",
+      "code": "TH207",
+      "url": "https://www.studocu.com/en-us/course/ashland-university/the-visual-art-of-theatre/4732664"
+    },
+    {
+      "name": "The World In Your Classroom: Multicultural & Global Education",
+      "code": "EDFN510",
+      "url": "https://www.studocu.com/en-us/course/ashland-university/the-world-in-your-classroom-multicultural-global-education/4733181"
+    },
+    {
+      "name": "Theatre Aesthetics",
+      "code": "TH203",
+      "url": "https://www.studocu.com/en-us/course/ashland-university/theatre-aesthetics/4732662"
+    },
+    {
+      "name": "Topics In Am. Hist. & Gov.",
+      "code": "AHG660",
+      "url": "https://www.studocu.com/en-us/course/ashland-university/topics-in-am-hist-gov/4732933"
+    },
+    {
+      "name": "U.S. – Mexico Border Literature",
+      "code": "FL221",
+      "url": "https://www.studocu.com/en-us/course/ashland-university/us-mexico-border-literature/4732770"
+    },
+    {
+      "name": "Understanding Group Dynamics In Schools",
+      "code": "EDFN622",
+      "url": "https://www.studocu.com/en-us/course/ashland-university/understanding-group-dynamics-in-schools/4733166"
+    },
+    {
+      "name": "Understanding Politics",
+      "code": "POLSC101",
+      "url": "https://www.studocu.com/en-us/course/ashland-university/understanding-politics/4732755"
+    },
+    {
+      "name": "Victimology None",
+      "code": "CJ307",
+      "url": "https://www.studocu.com/en-us/course/ashland-university/victimology-none/4732889"
+    },
+    {
+      "name": "Western Civilization I",
+      "code": "HIST112",
+      "url": "https://www.studocu.com/en-us/course/ashland-university/western-civilization-i/4733074"
+    },
+    {
+      "name": "Western Political Thought",
+      "code": "POLSC 346",
+      "url": "https://www.studocu.com/en-us/course/ashland-university/western-political-thought/5954403"
+    },
+    {
+      "name": "Wetlands And Waterways",
+      "code": "BIO111",
+      "url": "https://www.studocu.com/en-us/course/ashland-university/wetlands-and-waterways/4733276"
+    },
+    {
+      "name": "Women’S Chorus",
+      "code": "MUSIC20",
+      "url": "https://www.studocu.com/en-us/course/ashland-university/womens-chorus/4733039"
+    }
+  ]
+}

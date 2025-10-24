@@ -1,0 +1,4356 @@
+{
+  "university_id": "8841",
+  "university_name": "University of the Free State",
+  "courses": [
+    {
+      "name": "A Brief History of the Whole World",
+      "code": "HIST1534",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/a-brief-history-of-the-whole-world/6933252"
+    },
+    {
+      "name": "Abstract Algebra",
+      "code": "MATM3744",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/abstract-algebra/4823029"
+    },
+    {
+      "name": "Academic writing",
+      "code": "ENA15",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/academic-writing/6839843"
+    },
+    {
+      "name": "Accounting",
+      "code": "EACC1624",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/accounting/5002817"
+    },
+    {
+      "name": "Accounting for Attorneys",
+      "code": "ERRK 1624",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/accounting-for-attorneys/4274101"
+    },
+    {
+      "name": "Actuarial Financial management",
+      "code": "ACSF1613",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/actuarial-financial-management/6329302"
+    },
+    {
+      "name": "Actuarial financial reporting",
+      "code": "ACSF1623",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/actuarial-financial-reporting/6527954"
+    },
+    {
+      "name": "Administrative law",
+      "code": "LADM 4813",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/administrative-law/6119695"
+    },
+    {
+      "name": "Administrative law",
+      "code": "4813",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/administrative-law/6119696"
+    },
+    {
+      "name": "Adult Education for Behavioral Change",
+      "code": "AGEX3764",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/adult-education-for-behavioral-change/7061150"
+    },
+    {
+      "name": "Advanced Afrikaans Linguistics and Language Diversity",
+      "code": "AFRT3714",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/advanced-afrikaans-linguistics-and-language-diversity/3451274"
+    },
+    {
+      "name": "Advanced Auditing",
+      "code": "EODT5808",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/advanced-auditing/3451478"
+    },
+    {
+      "name": "Advanced Auditing",
+      "code": "eacg6808",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/advanced-auditing/6350873"
+    },
+    {
+      "name": "Advanced Certificate In Teaching GENERIC Introduction to ICT",
+      "code": "EGGI1510_2510_1540_2",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/advanced-certificate-in-teaching-generic-introduction-to-ict/5539075"
+    },
+    {
+      "name": "Advanced Clinical Measurement and Evaluation",
+      "code": "BIKE3708",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/advanced-clinical-measurement-and-evaluation/3451150"
+    },
+    {
+      "name": "Advanced Computer Literacy",
+      "code": "CSIL1521",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/advanced-computer-literacy/3451461"
+    },
+    {
+      "name": "Advanced Developmental Psychology",
+      "code": "PSHD6814",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/advanced-developmental-psychology/3558241"
+    },
+    {
+      "name": "Advanced Education Theory And Professional Ethics",
+      "code": "EDTE 6804",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/advanced-education-theory-and-professional-ethics/6192175"
+    },
+    {
+      "name": "Advanced Enzyme Kinetics and Metabolism",
+      "code": "BOCE3714",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/advanced-enzyme-kinetics-and-metabolism/4420061"
+    },
+    {
+      "name": "Advanced Financial Accounting",
+      "code": "EFIN5808",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/advanced-financial-accounting/3451475"
+    },
+    {
+      "name": "Advanced Financial Mathematics",
+      "code": "ACSF2746",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/advanced-financial-mathematics/7761430"
+    },
+    {
+      "name": "Advanced Human Rights",
+      "code": "LAHR3713",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/advanced-human-rights/6019769"
+    },
+    {
+      "name": "Advanced Human Rights Law",
+      "code": "LAHR 3714",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/advanced-human-rights-law/5331121"
+    },
+    {
+      "name": "Advanced Managerial Accounting and Finance",
+      "code": "EBRF5808",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/advanced-managerial-accounting-and-finance/3451476"
+    },
+    {
+      "name": "Advanced Manegerial and cost accounting",
+      "code": "EMFM5/6808",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/advanced-manegerial-and-cost-accounting/7670043"
+    },
+    {
+      "name": "Advanced Study of Congregations and Leadership",
+      "code": "8TCON4822",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/advanced-study-of-congregations-and-leadership/3451574"
+    },
+    {
+      "name": "Advanced Study of Liturgy and Homiletics",
+      "code": "THOM4812",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/advanced-study-of-liturgy-and-homiletics/3451569"
+    },
+    {
+      "name": "Advanced Study of Pastoral Care  TP",
+      "code": "AS4822",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/advanced-study-of-pastoral-care-tp/3451573"
+    },
+    {
+      "name": "Advanced Study of the History of Christianity 1",
+      "code": "THIS4832",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/advanced-study-of-the-history-of-christianity-1/3451567"
+    },
+    {
+      "name": "Advanced Syntax in Sesotho",
+      "code": "AFCL 6838",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/advanced-syntax-in-sesotho/3451397"
+    },
+    {
+      "name": "Advanced Taxation",
+      "code": "EBLS5808",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/advanced-taxation/3451477"
+    },
+    {
+      "name": "Advances in Genetics",
+      "code": "GENE3703",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/advances-in-genetics/6563494"
+    },
+    {
+      "name": "African Customary law",
+      "code": "LAFR 2604",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/african-customary-law/5717575"
+    },
+    {
+      "name": "Afrikaans Additional Language",
+      "code": "AATI4705",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/afrikaans-additional-language/7423864"
+    },
+    {
+      "name": "Afrikaans Huistaal",
+      "code": "AHTF4705",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/afrikaans-huistaal/4365267"
+    },
+    {
+      "name": "Afrikaans Morphology and Semantics for Non-Mother Tongue Speakers",
+      "code": "AFRT2614",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/afrikaans-morphology-and-semantics-for-non-mother-tongue-speakers/3451272"
+    },
+    {
+      "name": "Agribusiness",
+      "code": "AGMA6884",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/agribusiness/7537378"
+    },
+    {
+      "name": "Agribusiness management",
+      "code": "AGEC3734",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/agribusiness-management/6817897"
+    },
+    {
+      "name": "Agricultural Datametry",
+      "code": "DATA2614",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/agricultural-datametry/5379321"
+    },
+    {
+      "name": "Agricultural Datametry",
+      "code": "DATA2624",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/agricultural-datametry/6394881"
+    },
+    {
+      "name": "Agricultural Development and Policy",
+      "code": "AGEC6845",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/agricultural-development-and-policy/5708785"
+    },
+    {
+      "name": "Agricultural Economics",
+      "code": "AGEC1514",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/agricultural-economics/6182312"
+    },
+    {
+      "name": "Agricultural engineering",
+      "code": "Ageg3724",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/agricultural-engineering/7062212"
+    },
+    {
+      "name": "Agricultural Engineering pumps and hydraulics",
+      "code": "AGEG3714",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/agricultural-engineering-pumps-and-hydraulics/7601858"
+    },
+    {
+      "name": "Agricultural finance",
+      "code": "AGMA6835",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/agricultural-finance/6834979"
+    },
+    {
+      "name": "Agricultural Marketing",
+      "code": "AGEC2624",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/agricultural-marketing/5133231"
+    },
+    {
+      "name": "Agricultural production economics",
+      "code": "AGEC3714",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/agricultural-production-economics/5252846"
+    },
+    {
+      "name": "Alternative Dispute Resolution",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/alternative-dispute-resolution/4499615"
+    },
+    {
+      "name": "Analytical chemistry",
+      "code": "Chem 2633",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/analytical-chemistry/3591492"
+    },
+    {
+      "name": "Analytical chemistry",
+      "code": "CHEM3713",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/analytical-chemistry/6379148"
+    },
+    {
+      "name": "Anatomy",
+      "code": "ANBP1608",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/anatomy/3451135"
+    },
+    {
+      "name": "Anatomy",
+      "code": "ANBO1608",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/anatomy/3451161"
+    },
+    {
+      "name": "Anatomy",
+      "code": "ANB125",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/anatomy/3451215"
+    },
+    {
+      "name": "Anatomy",
+      "code": "ANB215",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/anatomy/3451216"
+    },
+    {
+      "name": "Anatomy and Physiology of farm animals",
+      "code": "ANIP2614",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/anatomy-and-physiology-of-farm-animals/4368380"
+    },
+    {
+      "name": "Anatomy and physiology of farm animals",
+      "code": "ANIP 3714",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/anatomy-and-physiology-of-farm-animals/4412432"
+    },
+    {
+      "name": "Anatomy and Physiology theory",
+      "code": "BMNT1524",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/anatomy-and-physiology-theory/3451209"
+    },
+    {
+      "name": "Anatomy physiology",
+      "code": "ANBP1611",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/anatomy-physiology/6174433"
+    },
+    {
+      "name": "Animal and Grassland",
+      "code": "ANING1624",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/animal-and-grassland/5990199"
+    },
+    {
+      "name": "Animal Biology",
+      "code": "BIOl1644",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/animal-biology/4320454"
+    },
+    {
+      "name": "Animal Breeding",
+      "code": "ANIB 2624",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/animal-breeding/4409087"
+    },
+    {
+      "name": "Animal fiber",
+      "code": "ANIF2624",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/animal-fiber/7420733"
+    },
+    {
+      "name": "Animal nutrition",
+      "code": "ANIN3744",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/animal-nutrition/5782506"
+    },
+    {
+      "name": "Animal nutrition",
+      "code": "ANIN4834",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/animal-nutrition/6035826"
+    },
+    {
+      "name": "animal nutrition",
+      "code": "ANIN2624",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/animal-nutrition/6366278"
+    },
+    {
+      "name": "animal production",
+      "code": "anip3713",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/animal-production/6807545"
+    },
+    {
+      "name": "Animal Reproduction",
+      "code": "ANIP4814",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/animal-reproduction/5368221"
+    },
+    {
+      "name": "Animal science",
+      "code": "ANIG2613",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/animal-science/4368369"
+    },
+    {
+      "name": "Animal Science",
+      "code": "ANIG 2614",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/animal-science/4409067"
+    },
+    {
+      "name": "Animal Science",
+      "code": "ANIG2623",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/animal-science/5790550"
+    },
+    {
+      "name": "Animal Science",
+      "code": "AGRI6844",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/animal-science/7476084"
+    },
+    {
+      "name": "animal Science Praticals III",
+      "code": "ANIG3704",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/animal-science-praticals-iii/5268950"
+    },
+    {
+      "name": "Animal, Wildlife and Grassland Sciences",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/animal-wildlife-and-grassland-sciences/7685493"
+    },
+    {
+      "name": "Anthropology",
+      "code": "ANTC1624",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/anthropology/3451164"
+    },
+    {
+      "name": "anthropology",
+      "code": "ANTD 2714",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/anthropology/6536156"
+    },
+    {
+      "name": "Applied Environmental Studies and Environmental Management",
+      "code": "GEOP3724",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/applied-environmental-studies-and-environmental-management/6585729"
+    },
+    {
+      "name": "Applied fruit production",
+      "code": "Hort 3724",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/applied-fruit-production/7202897"
+    },
+    {
+      "name": "Applied Interpersonal Communication",
+      "code": "COMM1524",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/applied-interpersonal-communication/3451367"
+    },
+    {
+      "name": "applied Mathematics",
+      "code": "MATA 1684",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/applied-mathematics/4494358"
+    },
+    {
+      "name": "Applied Research for HRM and IOP",
+      "code": "EARH 3724",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/applied-research-for-hrm-and-iop/3451379"
+    },
+    {
+      "name": "Applied Urban Development and Spatial Transformation",
+      "code": "GEOH3714",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/applied-urban-development-and-spatial-transformation/6585627"
+    },
+    {
+      "name": "artifical",
+      "code": "AIDE2456",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/artifical/7029854"
+    },
+    {
+      "name": "Assessment",
+      "code": "EDA 142",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/assessment/4956210"
+    },
+    {
+      "name": "Astrophysics",
+      "code": "PHYA1664",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/astrophysics/4110286"
+    },
+    {
+      "name": "Auditing",
+      "code": "EACG3708",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/auditing/7023731"
+    },
+    {
+      "name": "B. Sc Home Economics (Ed)",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/b-sc-home-economics-ed/4395000"
+    },
+    {
+      "name": "B.Ed Senior and FET",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/bed-senior-and-fet/7042633"
+    },
+    {
+      "name": "Bachelor of Art",
+      "code": "B.A",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/bachelor-of-art/5362664"
+    },
+    {
+      "name": "Bachelor of Laws",
+      "code": "BC340000",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/bachelor-of-laws/5738909"
+    },
+    {
+      "name": "Bachelors Degree in Architecture",
+      "code": "BArch 3500",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/bachelors-degree-in-architecture/6348912"
+    },
+    {
+      "name": "Bachelors in Management and Leadership",
+      "code": "ENMB2636",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/bachelors-in-management-and-leadership/7468891"
+    },
+    {
+      "name": "Bachelors in Management and Leadership",
+      "code": "LEMB1615",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/bachelors-in-management-and-leadership/7498910"
+    },
+    {
+      "name": "Bachelors in Management and Leadership",
+      "code": "LEMB1614",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/bachelors-in-management-and-leadership/7498919"
+    },
+    {
+      "name": "Banking and Payment Law",
+      "code": "LBPM 4823",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/banking-and-payment-law/6357811"
+    },
+    {
+      "name": "Basic Academics",
+      "code": "UFS101",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/basic-academics/7372014"
+    },
+    {
+      "name": "Basic Afrikaans Language - Patterns and Usage",
+      "code": "AFRT1514",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/basic-afrikaans-language-patterns-and-usage/3451270"
+    },
+    {
+      "name": "Basic Afrikaans Literature 16",
+      "code": "AFRL1624",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/basic-afrikaans-literature-16/3451271"
+    },
+    {
+      "name": "Basic Anatomy & Physiology BMBO1508",
+      "code": "BMBO1508",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/basic-anatomy-physiology-bmbo1508/3451187"
+    },
+    {
+      "name": "Basic German",
+      "code": "GERM 1514",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/basic-german/6195453"
+    },
+    {
+      "name": "Basic Human Embryology",
+      "code": "ANBE3726",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/basic-human-embryology/6522179"
+    },
+    {
+      "name": "Basic Mathematics",
+      "code": "MTBI2053",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/basic-mathematics/5708790"
+    },
+    {
+      "name": "Basic Taxation",
+      "code": "ETXN2614",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/basic-taxation/6173389"
+    },
+    {
+      "name": "Bayesian Statistical Inference",
+      "code": "STSM2626",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/bayesian-statistical-inference/6513290"
+    },
+    {
+      "name": "bcom specializing in business management",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/bcom-specializing-in-business-management/7610119"
+    },
+    {
+      "name": "BEd Intermediate Phase",
+      "code": "SSCI2624",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/bed-intermediate-phase/4294303"
+    },
+    {
+      "name": "Behavioural Genetics",
+      "code": "GENE3734",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/behavioural-genetics/3508163"
+    },
+    {
+      "name": "bimetrical mathematics",
+      "code": "Agri 1624",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/bimetrical-mathematics/5411730"
+    },
+    {
+      "name": "Binocular Vision",
+      "code": "BVIS3704",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/binocular-vision/3451196"
+    },
+    {
+      "name": "Biochemistry",
+      "code": "BOCH2614",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/biochemistry/3451172"
+    },
+    {
+      "name": "Biochemistry",
+      "code": "BOCE2626",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/biochemistry/3591823"
+    },
+    {
+      "name": "Biochemistry and Microbiology",
+      "code": "BLGY1683",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/biochemistry-and-microbiology/7345749"
+    },
+    {
+      "name": "Biogeography and Climate of Southern Africa",
+      "code": "GEOG 2644",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/biogeography-and-climate-of-southern-africa/3451291"
+    },
+    {
+      "name": "Biological principles of Agriculture",
+      "code": "AGRI 1514",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/biological-principles-of-agriculture/4980019"
+    },
+    {
+      "name": "Biology",
+      "code": "BLGY1683",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/biology/3451167"
+    },
+    {
+      "name": "Biology",
+      "code": "BLGY1623",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/biology/5437860"
+    },
+    {
+      "name": "Biology Introduction",
+      "code": "BLGY1513",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/biology-introduction/6018919"
+    },
+    {
+      "name": "Biomechanics",
+      "code": "BIKB2614",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/biomechanics/3451142"
+    },
+    {
+      "name": "Biophysics",
+      "code": "MPDI1524",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/biophysics/3451166"
+    },
+    {
+      "name": "biostatistics",
+      "code": "STSA1624",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/biostatistics/5840461"
+    },
+    {
+      "name": "Botany",
+      "code": "BLGY1643",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/botany/5741390"
+    },
+    {
+      "name": "Botany",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/botany/7064612"
+    },
+    {
+      "name": "Building Economics",
+      "code": "QBED6812",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/building-economics/5071047"
+    },
+    {
+      "name": "Building sciences",
+      "code": "BBSD1504",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/building-sciences/6795476"
+    },
+    {
+      "name": "Business and Information Technology",
+      "code": "BITC1511",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/business-and-information-technology/3451119"
+    },
+    {
+      "name": "Business Dynamics",
+      "code": "1614",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/business-dynamics/6054546"
+    },
+    {
+      "name": "Business entities",
+      "code": "3704",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/business-entities/6372947"
+    },
+    {
+      "name": "Business ethics",
+      "code": "EOEC2614",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/business-ethics/6801258"
+    },
+    {
+      "name": "Business Functions",
+      "code": "EBUS 1514",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/business-functions/3451390"
+    },
+    {
+      "name": "Business Functions",
+      "code": "AGEC1634",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/business-functions/5350498"
+    },
+    {
+      "name": "Business Functions 16",
+      "code": "EBUS1514",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/business-functions-16/3451332"
+    },
+    {
+      "name": "Business Law",
+      "code": "LBEN 3724",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/business-law/4299270"
+    },
+    {
+      "name": "Business Management",
+      "code": "EBUS1614",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/business-management/3451176"
+    },
+    {
+      "name": "Business management and entrepreneurship",
+      "code": "AGMA3714",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/business-management-and-entrepreneurship/5287453"
+    },
+    {
+      "name": "business school",
+      "code": "PGAC5815",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/business-school/4822824"
+    },
+    {
+      "name": "Business Statistics",
+      "code": "EBUS6814",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/business-statistics/3451480"
+    },
+    {
+      "name": "Calculus",
+      "code": "MATM1534",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/calculus/4103324"
+    },
+    {
+      "name": "Capita Selecta",
+      "code": "LCSP 4814",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/capita-selecta/4097594"
+    },
+    {
+      "name": "Career Orientation Self- Actualization and relationship skills",
+      "code": "ELX 112",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/career-orientation-self-actualization-and-relationship-skills/4371453"
+    },
+    {
+      "name": "Career Psychology",
+      "code": "ECAP2614",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/career-psychology/3451375"
+    },
+    {
+      "name": "Career Psychology",
+      "code": "ECAP6824",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/career-psychology/3451490"
+    },
+    {
+      "name": "cattle production sytem",
+      "code": "anig3713",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/cattle-production-sytem/6216203"
+    },
+    {
+      "name": "Causal inference",
+      "code": "STSM3734",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/causal-inference/7517748"
+    },
+    {
+      "name": "Chemistry",
+      "code": "CHEM1513",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/chemistry/3451168"
+    },
+    {
+      "name": "Chemistry",
+      "code": "CEM113",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/chemistry/3451228"
+    },
+    {
+      "name": "Chemistry",
+      "code": "CEM112",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/chemistry/3451248"
+    },
+    {
+      "name": "Chemistry",
+      "code": "CHEM 2613",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/chemistry/3584660"
+    },
+    {
+      "name": "Chemistry in Agriculture",
+      "code": "AGRI1534",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/chemistry-in-agriculture/6267777"
+    },
+    {
+      "name": "Civil Procedure",
+      "code": "LCVP4814",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/civil-procedure/3451409"
+    },
+    {
+      "name": "Classroom management and related judicial issues",
+      "code": "EJI 122",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/classroom-management-and-related-judicial-issues/4956217"
+    },
+    {
+      "name": "Climate Change and Variability",
+      "code": "CLIM3724/3764",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/climate-change-and-variability/6587521"
+    },
+    {
+      "name": "Climate science",
+      "code": "clim2664",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/climate-science/5001797"
+    },
+    {
+      "name": "clinical legal education",
+      "code": "LCLE 4800",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/clinical-legal-education/6383582"
+    },
+    {
+      "name": "Clinical Occupational Therapy",
+      "code": "OCTC1603",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/clinical-occupational-therapy/3451159"
+    },
+    {
+      "name": "Clinical Optometry",
+      "code": "CLPT3706",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/clinical-optometry/3451200"
+    },
+    {
+      "name": "Commercial Law",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/commercial-law/4843653"
+    },
+    {
+      "name": "Commercial Law",
+      "code": "LMER1514",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/commercial-law/6330995"
+    },
+    {
+      "name": "Commercial Law",
+      "code": "LMER 1624",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/commercial-law/6343797"
+    },
+    {
+      "name": "Communication Ethics",
+      "code": "COMM2724",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/communication-ethics/3451370"
+    },
+    {
+      "name": "Communication Research",
+      "code": "COMM3714",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/communication-research/3451372"
+    },
+    {
+      "name": "Communication Science and Political",
+      "code": "QC138614:",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/communication-science-and-political/3451364"
+    },
+    {
+      "name": "Communication Science and Psychology",
+      "code": "QC138615:",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/communication-science-and-psychology/3451365"
+    },
+    {
+      "name": "Communication Science and Sociology",
+      "code": "QC138612:",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/communication-science-and-sociology/3451362"
+    },
+    {
+      "name": "communication sciences",
+      "code": "comm 3724",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/communication-sciences/7179551"
+    },
+    {
+      "name": "Communication studies",
+      "code": "CCOM 1514",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/communication-studies/3592131"
+    },
+    {
+      "name": "Communication Theory",
+      "code": "COMM2614",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/communication-theory/3451369"
+    },
+    {
+      "name": "Community and Social Psychology",
+      "code": "PSHC6804",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/community-and-social-psychology/3558248"
+    },
+    {
+      "name": "Community Development 1 24",
+      "code": "COMD1626",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/community-development-1-24/3451333"
+    },
+    {
+      "name": "Community Development III 24",
+      "code": "COMD3716",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/community-development-iii-24/3451345"
+    },
+    {
+      "name": "Community Development Skills II 12",
+      "code": "COMD3723",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/community-development-skills-ii-12/3451350"
+    },
+    {
+      "name": "Community Nutrition",
+      "code": "COMN3712",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/community-nutrition/3451178"
+    },
+    {
+      "name": "Community Service",
+      "code": "LCSL4810",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/community-service/7668382"
+    },
+    {
+      "name": "Company law",
+      "code": "LBUE3704",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/company-law/6379922"
+    },
+    {
+      "name": "Competition law",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/competition-law/4490172"
+    },
+    {
+      "name": "Complex Analysis",
+      "code": "MATM3714",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/complex-analysis/5309332"
+    },
+    {
+      "name": "Computer Literacy",
+      "code": "CSIL1511",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/computer-literacy/3451460"
+    },
+    {
+      "name": "Computer Networking",
+      "code": "CSIQ1623",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/computer-networking/4359070"
+    },
+    {
+      "name": "computer science",
+      "code": "CSIQ6863",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/computer-science/7491069"
+    },
+    {
+      "name": "Conservation Genetics",
+      "code": "GENP6824",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/conservation-genetics/6146015"
+    },
+    {
+      "name": "Constitutional Law",
+      "code": "LCON 1523",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/constitutional-law/4508660"
+    },
+    {
+      "name": "Constitutional Law",
+      "code": "LCO500",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/constitutional-law/5725572"
+    },
+    {
+      "name": "Construction Management",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/construction-management/4368392"
+    },
+    {
+      "name": "Construction Science 1 (Structures)",
+      "code": "BCSD2612",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/construction-science-1-structures/7672747"
+    },
+    {
+      "name": "Consumer Brand Relationships",
+      "code": "ECBR6814",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/consumer-brand-relationships/3451487"
+    },
+    {
+      "name": "Consumer Protection Act and credit law",
+      "code": "Lcpc 2623",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/consumer-protection-act-and-credit-law/5717573"
+    },
+    {
+      "name": "Consumer Science",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/consumer-science/6543726"
+    },
+    {
+      "name": "Contact Lenses and Practice",
+      "code": "CLNS262",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/contact-lenses-and-practice/3451199"
+    },
+    {
+      "name": "Contemporary Digital Marketing",
+      "code": "ECOM6824",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/contemporary-digital-marketing/3451486"
+    },
+    {
+      "name": "Contemporary Expression of Religiosity in Africa",
+      "code": "TRER1524",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/contemporary-expression-of-religiosity-in-africa/3451538"
+    },
+    {
+      "name": "Contemporary literary identities: race, gender and the self",
+      "code": "ENGE6844",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/contemporary-literary-identities-race-gender-and-the-self/3451404"
+    },
+    {
+      "name": "Contemporary poetry",
+      "code": "ENGA6834",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/contemporary-poetry/3451400"
+    },
+    {
+      "name": "Cooperative Governance And Electoral Politics",
+      "code": "POLS2634",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/cooperative-governance-and-electoral-politics/3451382"
+    },
+    {
+      "name": "Corporate Finance",
+      "code": "EMNf2724",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/corporate-finance/5413383"
+    },
+    {
+      "name": "Corporate Insolvency",
+      "code": "LMCT7920",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/corporate-insolvency/5627728"
+    },
+    {
+      "name": "Cost Management Accounting",
+      "code": "EMAC2624",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/cost-management-accounting/5446556"
+    },
+    {
+      "name": "Criminal Law",
+      "code": "LCRM1514 1",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/criminal-law/3451410"
+    },
+    {
+      "name": "Criminal Law",
+      "code": "LCRM1524 1",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/criminal-law/3451411"
+    },
+    {
+      "name": "Criminal Law",
+      "code": "LCRM2614 2",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/criminal-law/3451412"
+    },
+    {
+      "name": "Criminal Law",
+      "code": "LCRM1514",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/criminal-law/3451465"
+    },
+    {
+      "name": "criminal law 2604",
+      "code": "LCRM 2604",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/criminal-law-2604/5119033"
+    },
+    {
+      "name": "Criminal Procedure",
+      "code": "LCPR2624",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/criminal-procedure/3451413"
+    },
+    {
+      "name": "Criminology",
+      "code": "CRIM3714",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/criminology/4392075"
+    },
+    {
+      "name": "Criminology",
+      "code": "CRIM2614",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/criminology/6939908"
+    },
+    {
+      "name": "Criminology",
+      "code": "crim3734",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/criminology/7572806"
+    },
+    {
+      "name": "Critical academic literacy",
+      "code": "CALL 1508",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/critical-academic-literacy/7536094"
+    },
+    {
+      "name": "Crop Development",
+      "code": "SCCS2624",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/crop-development/5780806"
+    },
+    {
+      "name": "Crop Production",
+      "code": "AGRI 2614",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/crop-production/4843960"
+    },
+    {
+      "name": "Data Analysis",
+      "code": "Agma6800",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/data-analysis/7608238"
+    },
+    {
+      "name": "Data Science",
+      "code": "CSIS3743",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/data-science/6800899"
+    },
+    {
+      "name": "Data Structures and Advanced Programming",
+      "code": "CSIS2614",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/data-structures-and-advanced-programming/4369457"
+    },
+    {
+      "name": "Data Structures and Advanced Programming",
+      "code": "CSIQ2614",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/data-structures-and-advanced-programming/4491684"
+    },
+    {
+      "name": "Derivative Instruments",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/derivative-instruments/3451504"
+    },
+    {
+      "name": "Design and technology",
+      "code": "TEGC2714",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/design-and-technology/3718018"
+    },
+    {
+      "name": "Design Patterns",
+      "code": "CSIS2664",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/design-patterns/6476086"
+    },
+    {
+      "name": "Development and Health Communication",
+      "code": "COMM3724",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/development-and-health-communication/3451349"
+    },
+    {
+      "name": "Development and Natural Environment",
+      "code": "EDSC7905",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/development-and-natural-environment/3451528"
+    },
+    {
+      "name": "Development Economics",
+      "code": "EDEV3722",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/development-economics/7653104"
+    },
+    {
+      "name": "Development, Underdevelopment and POVERTY",
+      "code": "EDSA7905",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/development-underdevelopment-and-poverty/3451526"
+    },
+    {
+      "name": "Developmental psychology",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/developmental-psychology/7086333"
+    },
+    {
+      "name": "Developmental Psychology 16",
+      "code": "PSDE1624",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/developmental-psychology-16/3451163"
+    },
+    {
+      "name": "Diagnostic Skills",
+      "code": "DGNS3702",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/diagnostic-skills/3451204"
+    },
+    {
+      "name": "Dietetic Service Learning",
+      "code": "DETS1502",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/dietetic-service-learning/3451177"
+    },
+    {
+      "name": "Dietetics Research",
+      "code": "DRES3704",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/dietetics-research/3451180"
+    },
+    {
+      "name": "Digital information",
+      "code": "EIDE 1624",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/digital-information/5485281"
+    },
+    {
+      "name": "Digital Makerting",
+      "code": "EBMA 3725",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/digital-makerting/5606039"
+    },
+    {
+      "name": "drama history",
+      "code": "DRAH2606",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/drama-history/5332565"
+    },
+    {
+      "name": "Driving learners",
+      "code": "Code 10",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/driving-learners/7273690"
+    },
+    {
+      "name": "E2-Managing Performance",
+      "code": "EEMA6808",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/e2-managing-performance/6845568"
+    },
+    {
+      "name": "Early Childhood Education",
+      "code": "ECED3703",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/early-childhood-education/6474886"
+    },
+    {
+      "name": "Early English Literature and Cultures; South African and African Literature and Culture",
+      "code": "ENGL3718",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/early-english-literature-and-cultures-south-african-and-african-literature-and-culture/3451279"
+    },
+    {
+      "name": "Early Modern to Contemporary World Literatures",
+      "code": "ENGL2614",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/early-modern-to-contemporary-world-literatures/3451277"
+    },
+    {
+      "name": "Economic Geography 16",
+      "code": "GEOG 3724",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/economic-geography-16/3451297"
+    },
+    {
+      "name": "Economic Public Administration and Management",
+      "code": "EPAM1624",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/economic-public-administration-and-management/6457615"
+    },
+    {
+      "name": "Economic systems and basic microeconomics",
+      "code": "EECF1614",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/economic-systems-and-basic-microeconomics/5302599"
+    },
+    {
+      "name": "Economics and Banking for Managers",
+      "code": "ECON1519",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/economics-and-banking-for-managers/3451120"
+    },
+    {
+      "name": "Education",
+      "code": "MTCF2604",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/education/4298878"
+    },
+    {
+      "name": "Education",
+      "code": "EDUB1623",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/education/4298886"
+    },
+    {
+      "name": "Education",
+      "code": "EDUB2724",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/education/4298894"
+    },
+    {
+      "name": "education",
+      "code": "B.Ed 101",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/education/5001957"
+    },
+    {
+      "name": "Education",
+      "code": "EDUB 1613",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/education/7568122"
+    },
+    {
+      "name": "Education studies",
+      "code": "EDUB2714",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/education-studies/5474380"
+    },
+    {
+      "name": "Educational enterpreneurship",
+      "code": "ENED3514",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/educational-enterpreneurship/7020385"
+    },
+    {
+      "name": "Educational psychology",
+      "code": "EDPH6804",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/educational-psychology/7567998"
+    },
+    {
+      "name": "Educational studies",
+      "code": "Edub3714",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/educational-studies/6047580"
+    },
+    {
+      "name": "Electromagnetism",
+      "code": "PHYS2614",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/electromagnetism/7684125"
+    },
+    {
+      "name": "Electronic and Internet Law",
+      "code": "LEIL482",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/electronic-and-internet-law/3451449"
+    },
+    {
+      "name": "Elementary Mathematics",
+      "code": "MATD 1554",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/elementary-mathematics/6117781"
+    },
+    {
+      "name": "Ems for teaching",
+      "code": "EMST4700",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/ems-for-teaching/6827404"
+    },
+    {
+      "name": "En route to the new South Africa and the African Renaissance, c.1976-2000: a historical perspective",
+      "code": "HIST3718",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/en-route-to-the-new-south-africa-and-the-african-renaissance-c1976-2000-a-historical-perspective/3451307"
+    },
+    {
+      "name": "End User Computing",
+      "code": "EUC1213",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/end-user-computing/6596298"
+    },
+    {
+      "name": "end user comuting",
+      "code": "EUC1213",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/end-user-comuting/6596299"
+    },
+    {
+      "name": "Engineering and Environmental geology",
+      "code": "GLGY 2646",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/engineering-and-environmental-geology/6364208"
+    },
+    {
+      "name": "Engineering principles in agriculture",
+      "code": "AGEG2624",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/engineering-principles-in-agriculture/5420784"
+    },
+    {
+      "name": "English",
+      "code": "1508",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/english/4381369"
+    },
+    {
+      "name": "English Academic Literacy for  Humanities",
+      "code": "EALH1508",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/english-academic-literacy-for-humanities/7165042"
+    },
+    {
+      "name": "English Academic literacy for humanities",
+      "code": "EALH 2508",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/english-academic-literacy-for-humanities/7097751"
+    },
+    {
+      "name": "English Academic Literacy for Law",
+      "code": "ALL1508",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/english-academic-literacy-for-law/3451459"
+    },
+    {
+      "name": "English Academic Literacy for Law",
+      "code": "EALL1508",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/english-academic-literacy-for-law/6379177"
+    },
+    {
+      "name": "English Academic Literacy for Natural and Agricultural Sciences",
+      "code": "EALN 1508",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/english-academic-literacy-for-natural-and-agricultural-sciences/7068016"
+    },
+    {
+      "name": "English First Additional Language",
+      "code": "EATF4705",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/english-first-additional-language/4365269"
+    },
+    {
+      "name": "English for Law",
+      "code": "ENGS1608",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/english-for-law/4989097"
+    },
+    {
+      "name": "English for teachers",
+      "code": "EALT1508",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/english-for-teachers/5343162"
+    },
+    {
+      "name": "English Language for Education",
+      "code": "ENGE1608",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/english-language-for-education/7421834"
+    },
+    {
+      "name": "English literacy",
+      "code": "Eale1508",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/english-literacy/4477169"
+    },
+    {
+      "name": "English skills for law",
+      "code": "ENGS1506",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/english-skills-for-law/7156855"
+    },
+    {
+      "name": "English Teaching",
+      "code": "EHTV3",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/english-teaching/6862039"
+    },
+    {
+      "name": "Enterprise Risk Management",
+      "code": "RMAN1512",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/enterprise-risk-management/3451121"
+    },
+    {
+      "name": "Entrepreneurship",
+      "code": "EBUS2714",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/entrepreneurship/4403498"
+    },
+    {
+      "name": "Entrepreneurship and Development MDS 709",
+      "code": "EDSI7905",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/entrepreneurship-and-development-mds-709/3451521"
+    },
+    {
+      "name": "Entrepreneurship and Innovation",
+      "code": "ENT1515",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/entrepreneurship-and-innovation/3451122"
+    },
+    {
+      "name": "Environment and climate Studies 16",
+      "code": "GEOG 2624",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/environment-and-climate-studies-16/3451285"
+    },
+    {
+      "name": "Environmental and Climate Studies",
+      "code": "GEOP2624",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/environmental-and-climate-studies/5424432"
+    },
+    {
+      "name": "Environmental and Occupational Optometry",
+      "code": "ENVO2612",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/environmental-and-occupational-optometry/3451194"
+    },
+    {
+      "name": "Environmental Geomorphology",
+      "code": "GEOP3714",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/environmental-geomorphology/6585656"
+    },
+    {
+      "name": "Environmental Law",
+      "code": "LENV4824",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/environmental-law/3451450"
+    },
+    {
+      "name": "Environmental Management and Analysis",
+      "code": "GEOG 3744",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/environmental-management-and-analysis/3451298"
+    },
+    {
+      "name": "Ethical Debates in Geography 16",
+      "code": "GEOG 3764",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/ethical-debates-in-geography-16/3451299"
+    },
+    {
+      "name": "Ethics and Governance",
+      "code": "GOVE1511",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/ethics-and-governance/3451123"
+    },
+    {
+      "name": "Ethics and Management Skills",
+      "code": "ETHS1522",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/ethics-and-management-skills/3451191"
+    },
+    {
+      "name": "Executive Public Management",
+      "code": "EPAM6824",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/executive-public-management/3451516"
+    },
+    {
+      "name": "Exercise Physiology",
+      "code": "BIKP2614",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/exercise-physiology/3451143"
+    },
+    {
+      "name": "Extension with the Agricultural  Innovation System",
+      "code": "AGEX2614",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/extension-with-the-agricultural-innovation-system/4982468"
+    },
+    {
+      "name": "External Auditing",
+      "code": "EAUD5808",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/external-auditing/3451472"
+    },
+    {
+      "name": "Facilitation skills for law students",
+      "code": "LFSL4810",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/facilitation-skills-for-law-students/7543903"
+    },
+    {
+      "name": "Family Law",
+      "code": "LFAM1524 1",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/family-law/3451414"
+    },
+    {
+      "name": "Family Law",
+      "code": "LFAM2613",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/family-law/6042009"
+    },
+    {
+      "name": "Farm planning and management",
+      "code": "AGEC2614",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/farm-planning-and-management/4292843"
+    },
+    {
+      "name": "Farm tax",
+      "code": "AGRI3714",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/farm-tax/5271770"
+    },
+    {
+      "name": "Farm tax",
+      "code": "AGMA3734",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/farm-tax/6057308"
+    },
+    {
+      "name": "Field Techniques",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/field-techniques/6036966"
+    },
+    {
+      "name": "Financial Accounting",
+      "code": "EACC5808",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/financial-accounting/3451471"
+    },
+    {
+      "name": "financial accounting",
+      "code": "EACC2608",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/financial-accounting/4822821"
+    },
+    {
+      "name": "financial accounting",
+      "code": "EFIN2708",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/financial-accounting/4824036"
+    },
+    {
+      "name": "Financial Accounting",
+      "code": "EFIN1614",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/financial-accounting/5332043"
+    },
+    {
+      "name": "Financial Accounting",
+      "code": "EACC 3708",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/financial-accounting/6328187"
+    },
+    {
+      "name": "Financial Accounting",
+      "code": "ENMB3723",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/financial-accounting/6739305"
+    },
+    {
+      "name": "Financial Accounting",
+      "code": "EFIN3708",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/financial-accounting/7662821"
+    },
+    {
+      "name": "Financial economics",
+      "code": "Efes2714",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/financial-economics/6031474"
+    },
+    {
+      "name": "Financial Management",
+      "code": "EMNF2724",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/financial-management/7155095"
+    },
+    {
+      "name": "Financial Management and Cost Accounting",
+      "code": "FMAN1514",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/financial-management-and-cost-accounting/3451124"
+    },
+    {
+      "name": "Financial Markets, Instruments and Institutions",
+      "code": "EFES2724",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/financial-markets-instruments-and-institutions/7208165"
+    },
+    {
+      "name": "financial Mathematics",
+      "code": "ACSF2716",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/financial-mathematics/6876475"
+    },
+    {
+      "name": "Financial Planning",
+      "code": "LFPL4814",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/financial-planning/3451451"
+    },
+    {
+      "name": "Financial Planning Case Study",
+      "code": "LFPS5800",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/financial-planning-case-study/7435020"
+    },
+    {
+      "name": "Financial Planning Law",
+      "code": "LFPL4824",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/financial-planning-law/3451452"
+    },
+    {
+      "name": "Financial Planning Law: Personal",
+      "code": "LFPE5800",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/financial-planning-law-personal/6813430"
+    },
+    {
+      "name": "financial registration",
+      "code": "fchb010",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/financial-registration/6914180"
+    },
+    {
+      "name": "Financial Risk Management in Banking",
+      "code": "EFRM6816",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/financial-risk-management-in-banking/3451499"
+    },
+    {
+      "name": "First Year Experience",
+      "code": "UFS101",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/first-year-experience/7514077"
+    },
+    {
+      "name": "Food Preparation",
+      "code": "CNSF2624",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/food-preparation/7099217"
+    },
+    {
+      "name": "food processing",
+      "code": "anif3714",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/food-processing/7534054"
+    },
+    {
+      "name": "Foods",
+      "code": "CNFD2614",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/foods/3451171"
+    },
+    {
+      "name": "Forensic",
+      "code": "Fors2616",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/forensic/6822858"
+    },
+    {
+      "name": "Forensic Chemistry",
+      "code": "FORS3724",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/forensic-chemistry/7134434"
+    },
+    {
+      "name": "Forensic Criminology",
+      "code": "CRIM3744",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/forensic-criminology/6529234"
+    },
+    {
+      "name": "Forensic Entomology",
+      "code": "FORS3734",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/forensic-entomology/4364702"
+    },
+    {
+      "name": "Forensic Genetics",
+      "code": "FORS3744",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/forensic-genetics/4099604"
+    },
+    {
+      "name": "Foundation phase",
+      "code": "oeft2612",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/foundation-phase/6857656"
+    },
+    {
+      "name": "Foundation Phase",
+      "code": "EF101",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/foundation-phase/6894905"
+    },
+    {
+      "name": "Foundation Skills",
+      "code": "FOSK1511",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/foundation-skills/3451125"
+    },
+    {
+      "name": "fruit production",
+      "code": "HORT3774",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/fruit-production/6757536"
+    },
+    {
+      "name": "Fundamental and Experimental Nutrition",
+      "code": "ANIN 3734",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/fundamental-and-experimental-nutrition/4411301"
+    },
+    {
+      "name": "Fundamental Business Functions",
+      "code": "EBUS1614",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/fundamental-business-functions/4406695"
+    },
+    {
+      "name": "Fundamental of Agrometeorology",
+      "code": "CLIM2614",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/fundamental-of-agrometeorology/5170748"
+    },
+    {
+      "name": "Future Lead Challenge",
+      "code": "FLC 3",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/future-lead-challenge/7141648"
+    },
+    {
+      "name": "Game and Natural Environment Interaction",
+      "code": "WDMT 2624",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/game-and-natural-environment-interaction/4409153"
+    },
+    {
+      "name": "General Analytical and Chromatographic Techniques in Biochemistry",
+      "code": "BOC614",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/general-analytical-and-chromatographic-techniques-in-biochemistry/7535360"
+    },
+    {
+      "name": "General Language Course",
+      "code": "GENL1408",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/general-language-course/3451326"
+    },
+    {
+      "name": "General Management",
+      "code": "EBUS 1624",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/general-management/3451391"
+    },
+    {
+      "name": "General Management",
+      "code": "EFBM2625",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/general-management/5955748"
+    },
+    {
+      "name": "General Management 16",
+      "code": "EBUS1624",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/general-management-16/3451342"
+    },
+    {
+      "name": "General Management and Communication",
+      "code": "GMAN1513",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/general-management-and-communication/3451126"
+    },
+    {
+      "name": "general pedagogy",
+      "code": "GPED1623",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/general-pedagogy/4324061"
+    },
+    {
+      "name": "General Pedagogy I: Early Childhood Development and Learning (birth to nine years)",
+      "code": "PEDF1623",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/general-pedagogy-i-early-childhood-development-and-learning-birth-to-nine-years/4298891"
+    },
+    {
+      "name": "General Pedahogy 2",
+      "code": "GPEV2613",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/general-pedahogy-2/7592109"
+    },
+    {
+      "name": "Genetics",
+      "code": "GENE2616",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/genetics/3591847"
+    },
+    {
+      "name": "Genetics",
+      "code": "BLGY1623",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/genetics/5789628"
+    },
+    {
+      "name": "Genetics in Practice",
+      "code": "GENE3764",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/genetics-in-practice/5119526"
+    },
+    {
+      "name": "Genomics",
+      "code": "GENE3714",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/genomics/3508165"
+    },
+    {
+      "name": "Geographic Information Systems",
+      "code": "GISC2624",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/geographic-information-systems/5424428"
+    },
+    {
+      "name": "Geographical Information Science 16",
+      "code": "GISS 3724",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/geographical-information-science-16/3451300"
+    },
+    {
+      "name": "Geographical Information Systems",
+      "code": "GISC3724",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/geographical-information-systems/6585676"
+    },
+    {
+      "name": "Geography and Environmental science",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/geography-and-environmental-science/5731491"
+    },
+    {
+      "name": "Geography and Statistics",
+      "code": "BC43363",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/geography-and-statistics/6063518"
+    },
+    {
+      "name": "Geography teaching 2 Snr and FET",
+      "code": "GETV4705",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/geography-teaching-2-snr-and-fet/6352303"
+    },
+    {
+      "name": "geology",
+      "code": "GLGY1614",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/geology/5720330"
+    },
+    {
+      "name": "German for beginners",
+      "code": "GERB1514",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/german-for-beginners/6408910"
+    },
+    {
+      "name": "Gevorderde Psigopatologie",
+      "code": "PSHP6824",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/gevorderde-psigopatologie/3558243"
+    },
+    {
+      "name": "gis and remote sensing",
+      "code": "GERS1624",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/gis-and-remote-sensing/7759766"
+    },
+    {
+      "name": "Governance and Development MDS 702",
+      "code": "EDSB7905",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/governance-and-development-mds-702/3451527"
+    },
+    {
+      "name": "Governance And Political TransFormation In Africa",
+      "code": "POLS2624",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/governance-and-political-transformation-in-africa/3451383"
+    },
+    {
+      "name": "Grassland and Wildlife Sciences",
+      "code": "GRAS 2614",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/grassland-and-wildlife-sciences/4409085"
+    },
+    {
+      "name": "Grassland and Wildlife Sciences",
+      "code": "GRAS 3714",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/grassland-and-wildlife-sciences/4412445"
+    },
+    {
+      "name": "grassland sciences",
+      "code": "Grass3724",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/grassland-sciences/5133901"
+    },
+    {
+      "name": "Groundwater Hydraulics",
+      "code": "GEOH6815",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/groundwater-hydraulics/6063994"
+    },
+    {
+      "name": "Growth of Microorganisms",
+      "code": "MCBG3714",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/growth-of-microorganisms/3591829"
+    },
+    {
+      "name": "Haematology and immunology",
+      "code": "HMBG3744",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/haematology-and-immunology/3591832"
+    },
+    {
+      "name": "Health care dynamics",
+      "code": "GSD314",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/health-care-dynamics/3451251"
+    },
+    {
+      "name": "Hebrew in its Ancient Context 7 HEB",
+      "code": "R272428",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/hebrew-in-its-ancient-context-7-heb/3451563"
+    },
+    {
+      "name": "Historical Foundations of South African Law",
+      "code": "LHIS1514 1 5",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/historical-foundations-of-south-african-law/3451415"
+    },
+    {
+      "name": "Historical Foundations of South African law",
+      "code": "LHIS1514",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/historical-foundations-of-south-african-law/3451466"
+    },
+    {
+      "name": "History and Political Science",
+      "code": "QC138611:",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/history-and-political-science/3451357"
+    },
+    {
+      "name": "History of language development in isiZulu",
+      "code": "ZULL3718",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/history-of-language-development-in-isizulu/3451313"
+    },
+    {
+      "name": "History of Language Development in Sesotho",
+      "code": "SSML3718",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/history-of-language-development-in-sesotho/3451323"
+    },
+    {
+      "name": "Homeostasis of Fluids and Gases",
+      "code": "PHGB 3716",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/homeostasis-of-fluids-and-gases/3592164"
+    },
+    {
+      "name": "How to make history 32",
+      "code": "HIST3728",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/how-to-make-history-32/3451308"
+    },
+    {
+      "name": "Human Anatomy",
+      "code": "ANBG 1524",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/human-anatomy/7691987"
+    },
+    {
+      "name": "Human Computer Interaction",
+      "code": "CSIS2624",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/human-computer-interaction/6476093"
+    },
+    {
+      "name": "Human Genetics",
+      "code": "HMBG2614",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/human-genetics/4442018"
+    },
+    {
+      "name": "Human Physiology",
+      "code": "PHBG2616",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/human-physiology/6985614"
+    },
+    {
+      "name": "Human Resource Management",
+      "code": "EHRM6824",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/human-resource-management/3451493"
+    },
+    {
+      "name": "Human resources department",
+      "code": "HRM101",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/human-resources-department/6448493"
+    },
+    {
+      "name": "Human Rights law",
+      "code": "LHUM 2613",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/human-rights-law/4861897"
+    },
+    {
+      "name": "Human Setllement in a Developing Contex mds 710",
+      "code": "EDSJ7905",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/human-setllement-in-a-developing-contex-mds-710/3451522"
+    },
+    {
+      "name": "Ideologies",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/ideologies/7677304"
+    },
+    {
+      "name": "Ideology and Political Theory",
+      "code": "POLS3724",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/ideology-and-political-theory/3451386"
+    },
+    {
+      "name": "Igneous geology",
+      "code": "GLGY3714",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/igneous-geology/7482820"
+    },
+    {
+      "name": "Industrial Communication",
+      "code": "ICOM2614",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/industrial-communication/6003702"
+    },
+    {
+      "name": "Industrial psychology",
+      "code": "EORG3714",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/industrial-psychology/6950879"
+    },
+    {
+      "name": "Industrial Psychology and Sociology",
+      "code": "QC138603:",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/industrial-psychology-and-sociology/3451356"
+    },
+    {
+      "name": "Inference II",
+      "code": "STSM3714",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/inference-ii/7699953"
+    },
+    {
+      "name": "Informatin science",
+      "code": "inl 240",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/informatin-science/5406594"
+    },
+    {
+      "name": "Information Systems in organisations",
+      "code": "BCIS3714",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/information-systems-in-organisations/7494430"
+    },
+    {
+      "name": "Innovation",
+      "code": "AGMA3724",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/innovation/6596433"
+    },
+    {
+      "name": "Innovation Management",
+      "code": "ENOV6824",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/innovation-management/3451482"
+    },
+    {
+      "name": "Inorganic Chemistry",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/inorganic-chemistry/5062148"
+    },
+    {
+      "name": "Inorganic chemistry practical",
+      "code": "CHEM3721",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/inorganic-chemistry-practical/7098003"
+    },
+    {
+      "name": "Insolvency Law",
+      "code": "LINL 4824",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/insolvency-law/7420830"
+    },
+    {
+      "name": "Institutional Memory and Knowledge",
+      "code": "MEMO1511",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/institutional-memory-and-knowledge/3451127"
+    },
+    {
+      "name": "Instruments of Payment",
+      "code": "LIOP3724",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/instruments-of-payment/3451416"
+    },
+    {
+      "name": "Insurance Law",
+      "code": "LINS4814",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/insurance-law/3451454"
+    },
+    {
+      "name": "Integrated Assessment",
+      "code": "LIAS4811",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/integrated-assessment/6884617"
+    },
+    {
+      "name": "Integrated Marketing Communication",
+      "code": "EIMC6814",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/integrated-marketing-communication/3451488"
+    },
+    {
+      "name": "Intellectual Property Law",
+      "code": "LIPL4824",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/intellectual-property-law/3451453"
+    },
+    {
+      "name": "intergrated marketing communication",
+      "code": "ICOM3708",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/intergrated-marketing-communication/7390349"
+    },
+    {
+      "name": "International Economic Law",
+      "code": "LIEL4814",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/international-economic-law/3451455"
+    },
+    {
+      "name": "International Economics",
+      "code": "EINT6826",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/international-economics/3451509"
+    },
+    {
+      "name": "International Economics",
+      "code": "EINT3715",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/international-economics/5321660"
+    },
+    {
+      "name": "International Law",
+      "code": "LINT4824",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/international-law/3451417"
+    },
+    {
+      "name": "International Political Economy",
+      "code": "POLS3744",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/international-political-economy/3451387"
+    },
+    {
+      "name": "International Political Theory",
+      "code": "IPC4802",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/international-political-theory/5986082"
+    },
+    {
+      "name": "International Private Law",
+      "code": "LPIL4814",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/international-private-law/3451456"
+    },
+    {
+      "name": "Internet and Web Development",
+      "code": "CSIS1664",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/internet-and-web-development/7695842"
+    },
+    {
+      "name": "Internet Programming",
+      "code": "CSIS3734",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/internet-programming/4793352"
+    },
+    {
+      "name": "Interpersonal Communication",
+      "code": "COMM1514",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/interpersonal-communication/3451366"
+    },
+    {
+      "name": "Introduction Geography majoring in Agrometereology",
+      "code": "SCCS1624",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/introduction-geography-majoring-in-agrometereology/4362637"
+    },
+    {
+      "name": "Introduction to Actuarial Science",
+      "code": "ACSG1614",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/introduction-to-actuarial-science/7615707"
+    },
+    {
+      "name": "Introduction to advanced Mathematics",
+      "code": "MATM1622",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/introduction-to-advanced-mathematics/4542886"
+    },
+    {
+      "name": "Introduction To Agricultural Economics",
+      "code": "AGEC 1624",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/introduction-to-agricultural-economics/4409157"
+    },
+    {
+      "name": "Introduction to Animal, Wildlife and Grassland Sciences",
+      "code": "ANIG 1624",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/introduction-to-animal-wildlife-and-grassland-sciences/4409094"
+    },
+    {
+      "name": "Introduction to biochemistry",
+      "code": "BOCB2616",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/introduction-to-biochemistry/6343997"
+    },
+    {
+      "name": "Introduction to C# for Engineering Students",
+      "code": "CSIE1606",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/introduction-to-c-for-engineering-students/7371994"
+    },
+    {
+      "name": "Introduction to Chemistry",
+      "code": "CHEM 1643",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/introduction-to-chemistry/4409105"
+    },
+    {
+      "name": "Introduction to Community Development 16",
+      "code": "COMD1514",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/introduction-to-community-development-16/3451329"
+    },
+    {
+      "name": "Introduction to Computer Hardware",
+      "code": "CSIQ1553",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/introduction-to-computer-hardware/6064190"
+    },
+    {
+      "name": "Introduction To computer Hardware",
+      "code": "CSIS 1553",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/introduction-to-computer-hardware/6850275"
+    },
+    {
+      "name": "Introduction to Criminal Justice",
+      "code": "CRIM1624",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/introduction-to-criminal-justice/4317345"
+    },
+    {
+      "name": "Introduction to Criminology",
+      "code": "CRIM1514",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/introduction-to-criminology/4165673"
+    },
+    {
+      "name": "introduction to cultivation practices",
+      "code": "CROP2614",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/introduction-to-cultivation-practices/5411681"
+    },
+    {
+      "name": "Introduction to Database and Database management systems- Part 2",
+      "code": "CSIS3714",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/introduction-to-database-and-database-management-systems-part-2/6204859"
+    },
+    {
+      "name": "Introduction to Database and Database Management Systems: Part 1",
+      "code": "CSIS2634",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/introduction-to-database-and-database-management-systems-part-1/4369464"
+    },
+    {
+      "name": "Introduction to Databases and Database Management Systems: Part 1",
+      "code": "CSIS2634",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/introduction-to-databases-and-database-management-systems-part-1/3591837"
+    },
+    {
+      "name": "Introduction to Databases and Databases Management Systems:Part 1",
+      "code": "CSIQ2634",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/introduction-to-databases-and-databases-management-systemspart-1/4369348"
+    },
+    {
+      "name": "Introduction to discrete math",
+      "code": "MATM1622",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/introduction-to-discrete-math/6564878"
+    },
+    {
+      "name": "Introduction to Econometrics",
+      "code": "EECO6816",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/introduction-to-econometrics/3451498"
+    },
+    {
+      "name": "Introduction to External auditing",
+      "code": "EACG2708",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/introduction-to-external-auditing/5480868"
+    },
+    {
+      "name": "Introduction to financial accounting",
+      "code": "EACC1614",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/introduction-to-financial-accounting/4392258"
+    },
+    {
+      "name": "Introduction to financial accounting and statistics",
+      "code": "EBCS1514",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/introduction-to-financial-accounting-and-statistics/4909606"
+    },
+    {
+      "name": "Introduction to Financial Management",
+      "code": "EFMA2614",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/introduction-to-financial-management/5302598"
+    },
+    {
+      "name": "Introduction to Health Psychology 16",
+      "code": "PSIH2724",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/introduction-to-health-psychology-16/3451315"
+    },
+    {
+      "name": "Introduction to human geography",
+      "code": "GEOH1624",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/introduction-to-human-geography/3451393"
+    },
+    {
+      "name": "Introduction to Human Geography 16",
+      "code": "GEOG 1624",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/introduction-to-human-geography-16/3451282"
+    },
+    {
+      "name": "Introduction to Human Resources Management",
+      "code": "EHRM1514",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/introduction-to-human-resources-management/3451373"
+    },
+    {
+      "name": "Introduction to Individual Differences",
+      "code": "EIOP1524",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/introduction-to-individual-differences/3451374"
+    },
+    {
+      "name": "Introduction to Industrial Psychology",
+      "code": "EIOP1524",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/introduction-to-industrial-psychology/6391452"
+    },
+    {
+      "name": "Introduction to Information Systems",
+      "code": "BCIS1513",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/introduction-to-information-systems/4360866"
+    },
+    {
+      "name": "Introduction to Law",
+      "code": "LITL2524",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/introduction-to-law/6351745"
+    },
+    {
+      "name": "Introduction to Legal Science",
+      "code": "LILS1",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/introduction-to-legal-science/3451418"
+    },
+    {
+      "name": "Introduction to Linguistics",
+      "code": "HLIN1514",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/introduction-to-linguistics/7537477"
+    },
+    {
+      "name": "Introduction to Mathematics",
+      "code": "MATD1534",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/introduction-to-mathematics/5494949"
+    },
+    {
+      "name": "Introduction to Micrometeorology",
+      "code": "CLIM3734",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/introduction-to-micrometeorology/6585613"
+    },
+    {
+      "name": "Introduction to physical Geography",
+      "code": "GEOP1514",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/introduction-to-physical-geography/3451392"
+    },
+    {
+      "name": "Introduction to Physical Geography 16",
+      "code": "GEOG 1514",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/introduction-to-physical-geography-16/3451281"
+    },
+    {
+      "name": "Introduction to Politics 16",
+      "code": "POLS1514",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/introduction-to-politics-16/3451327"
+    },
+    {
+      "name": "Introduction to Practical and Missional Theology",
+      "code": "TPMT1512",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/introduction-to-practical-and-missional-theology/3451545"
+    },
+    {
+      "name": "Introduction to probability",
+      "code": "STSM1614",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/introduction-to-probability/7095861"
+    },
+    {
+      "name": "Introduction to Programming: Part 2",
+      "code": "CSIS1644",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/introduction-to-programming-part-2/7670462"
+    },
+    {
+      "name": "Introduction To Psychology",
+      "code": "PSIN1514",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/introduction-to-psychology/3451189"
+    },
+    {
+      "name": "Introduction to Psychotherapy and Ethics",
+      "code": "PSTH3724",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/introduction-to-psychotherapy-and-ethics/3451169"
+    },
+    {
+      "name": "Introduction to Remote Sensing",
+      "code": "GERS2614",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/introduction-to-remote-sensing/7016547"
+    },
+    {
+      "name": "Introduction to social work",
+      "code": "1514",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/introduction-to-social-work/7666072"
+    },
+    {
+      "name": "Introduction to Sociology",
+      "code": "SOCI1514",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/introduction-to-sociology/3451328"
+    },
+    {
+      "name": "Introduction to South African Government",
+      "code": "EMMA2614",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/introduction-to-south-african-government/6325486"
+    },
+    {
+      "name": "Introduction to spatial analysis",
+      "code": "GERS2624",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/introduction-to-spatial-analysis/7724675"
+    },
+    {
+      "name": "Introduction to Stats",
+      "code": "EQMB1524",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/introduction-to-stats/5034179"
+    },
+    {
+      "name": "Introduction to the Bible",
+      "code": "TBIB151",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/introduction-to-the-bible/3451531"
+    },
+    {
+      "name": "Introduction to the History of Christianity",
+      "code": "THIS1512",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/introduction-to-the-history-of-christianity/3451546"
+    },
+    {
+      "name": "Introduction to the Old Testament",
+      "code": "TOTT1513",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/introduction-to-the-old-testament/3451544"
+    },
+    {
+      "name": "Introduction to the Study of Theology",
+      "code": "TIST1522",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/introduction-to-the-study-of-theology/3451548"
+    },
+    {
+      "name": "Introduction To The Twentieth Century History Of South Africa And Africa",
+      "code": "HIST1514",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/introduction-to-the-twentieth-century-history-of-south-africa-and-africa/3451303"
+    },
+    {
+      "name": "Introduction to ufs",
+      "code": "UFSS 1504",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/introduction-to-ufs/7430307"
+    },
+    {
+      "name": "Introduction to Website Development",
+      "code": "CSIQ2654",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/introduction-to-website-development/4361321"
+    },
+    {
+      "name": "Introduction To World Politics And Global Governance",
+      "code": "POLS1524",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/introduction-to-world-politics-and-global-governance/3451381"
+    },
+    {
+      "name": "Introduction to zoology and entomology",
+      "code": "BLGY1663",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/introduction-to-zoology-and-entomology/3477995"
+    },
+    {
+      "name": "Introductory Monogastric Production",
+      "code": "ANIG 2624",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/introductory-monogastric-production/4409103"
+    },
+    {
+      "name": "Introductory Plant Development and Biotechnology",
+      "code": "BTNY 2626",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/introductory-plant-development-and-biotechnology/7097880"
+    },
+    {
+      "name": "Introductory Probability Theory",
+      "code": "STSM1614",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/introductory-probability-theory/6107490"
+    },
+    {
+      "name": "Introductory Probability Theory",
+      "code": "STSM1624",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/introductory-probability-theory/6580855"
+    },
+    {
+      "name": "Investment Management",
+      "code": "EFET3714",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/investment-management/5380328"
+    },
+    {
+      "name": "IsiZulu Conversational Language",
+      "code": "ZUCL3504",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/isizulu-conversational-language/6836361"
+    },
+    {
+      "name": "IsiZulu Poetry and Drama 16",
+      "code": "ZULT2624",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/isizulu-poetry-and-drama-16/3451312"
+    },
+    {
+      "name": "IsiZulu: Introduction to Linguistics 16",
+      "code": "ZULL1514",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/isizulu-introduction-to-linguistics-16/3451309"
+    },
+    {
+      "name": "IsiZulu: Introduction to Literature 16",
+      "code": "ZULT1524",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/isizulu-introduction-to-literature-16/3451310"
+    },
+    {
+      "name": "Judaism and Islam",
+      "code": "TRJI3724",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/judaism-and-islam/3451565"
+    },
+    {
+      "name": "Jurisprudence",
+      "code": "LJUR4814",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/jurisprudence/3451419"
+    },
+    {
+      "name": "Jurisprudence",
+      "code": "LJUR4824",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/jurisprudence/3451420"
+    },
+    {
+      "name": "Jurisprudence and Ethics",
+      "code": "LJAE4813",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/jurisprudence-and-ethics/6022836"
+    },
+    {
+      "name": "korean",
+      "code": "KOR2347",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/korean/5303721"
+    },
+    {
+      "name": "Labour Economics",
+      "code": "ELAB6826",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/labour-economics/3451510"
+    },
+    {
+      "name": "Labour Economics",
+      "code": "ELAB3712",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/labour-economics/7615329"
+    },
+    {
+      "name": "Labour Law",
+      "code": "LLAB2614",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/labour-law/3451421"
+    },
+    {
+      "name": "Labour Law",
+      "code": "LLAB2624",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/labour-law/3451422"
+    },
+    {
+      "name": "Labour Law",
+      "code": "LLAB2605",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/labour-law/6467266"
+    },
+    {
+      "name": "Labour Relations",
+      "code": "LABO1512",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/labour-relations/3451128"
+    },
+    {
+      "name": "Labour Relations",
+      "code": "ELAB6814",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/labour-relations/3451492"
+    },
+    {
+      "name": "Labour Relations",
+      "code": "ELRM2624",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/labour-relations/4516563"
+    },
+    {
+      "name": "Labour Relations Management",
+      "code": "ELRM2624",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/labour-relations-management/3451376"
+    },
+    {
+      "name": "Language and Culture",
+      "code": "CLLC1624",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/language-and-culture/5364813"
+    },
+    {
+      "name": "Language practice",
+      "code": "HLAP1524",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/language-practice/7742910"
+    },
+    {
+      "name": "Law of Business Enterprises",
+      "code": "LBEN371",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/law-of-business-enterprises/3451423"
+    },
+    {
+      "name": "Law of Business Enterprises",
+      "code": "LBEN372",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/law-of-business-enterprises/3451424"
+    },
+    {
+      "name": "Law of business entities",
+      "code": "LBUE3704",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/law-of-business-entities/5328825"
+    },
+    {
+      "name": "Law of civil procedure",
+      "code": "LCVP3705",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/law-of-civil-procedure/5627774"
+    },
+    {
+      "name": "Law of Contract",
+      "code": "LCON2614",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/law-of-contract/3451425"
+    },
+    {
+      "name": "Law of contract",
+      "code": "LLOC 2604",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/law-of-contract/5072242"
+    },
+    {
+      "name": "Law of Criminal Justice",
+      "code": "LCRJ 4823",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/law-of-criminal-justice/6443615"
+    },
+    {
+      "name": "Law of Criminal procedure",
+      "code": "LCPR3705",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/law-of-criminal-procedure/5727174"
+    },
+    {
+      "name": "Law of Damages",
+      "code": "LDAM4814",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/law-of-damages/3451457"
+    },
+    {
+      "name": "Law of Delict",
+      "code": "LDEL3714",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/law-of-delict/4250078"
+    },
+    {
+      "name": "Law of Delict",
+      "code": "LDEL3705",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/law-of-delict/6351948"
+    },
+    {
+      "name": "Law of Evidence",
+      "code": "LDEL3714",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/law-of-evidence/3451426"
+    },
+    {
+      "name": "Law of Evidence",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/law-of-evidence/4490175"
+    },
+    {
+      "name": "Law of evidence",
+      "code": "LEVD3705",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/law-of-evidence/6042002"
+    },
+    {
+      "name": "Law of Insolvency and Liquidation",
+      "code": "LILL4824",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/law-of-insolvency-and-liquidation/3451427"
+    },
+    {
+      "name": "Law of Obligations",
+      "code": "LOBL3724",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/law-of-obligations/3451428"
+    },
+    {
+      "name": "Law of Persons",
+      "code": "LPSN1514",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/law-of-persons/3451429"
+    },
+    {
+      "name": "Law of Persons",
+      "code": "LPSN 1512",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/law-of-persons/6802233"
+    },
+    {
+      "name": "Law of Property",
+      "code": "LPRO3724",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/law-of-property/3451430"
+    },
+    {
+      "name": "Law of Sectional Title",
+      "code": "LSSB4814",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/law-of-sectional-title/5365303"
+    },
+    {
+      "name": "Law of Specific Contracts",
+      "code": "LSPC3623",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/law-of-specific-contracts/5443430"
+    },
+    {
+      "name": "Law of Succession and Administration of Estates",
+      "code": "LSAE2624",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/law-of-succession-and-administration-of-estates/3451431"
+    },
+    {
+      "name": "Law of Third Party Compensation",
+      "code": "LTPC4824",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/law-of-third-party-compensation/3451468"
+    },
+    {
+      "name": "Law of Trusts",
+      "code": "LTRL4824",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/law-of-trusts/3451469"
+    },
+    {
+      "name": "Leadership Communication",
+      "code": "CCOM2744",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/leadership-communication/3451371"
+    },
+    {
+      "name": "Leadership Development",
+      "code": "LEAD1515",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/leadership-development/3451129"
+    },
+    {
+      "name": "Leading at higher organization",
+      "code": "ELED3714",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/leading-at-higher-organization/7675515"
+    },
+    {
+      "name": "Legal Foundation of the South African Law",
+      "code": "LFSA1500",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/legal-foundation-of-the-south-african-law/5265511"
+    },
+    {
+      "name": "Legal History",
+      "code": "LHIS1514",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/legal-history/4414702"
+    },
+    {
+      "name": "Legal Interpretation",
+      "code": "LSIN2614",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/legal-interpretation/3451433"
+    },
+    {
+      "name": "Legal Interpretation",
+      "code": "LLIN 2613",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/legal-interpretation/7487036"
+    },
+    {
+      "name": "Legal Pluralism",
+      "code": "LPLU2624",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/legal-pluralism/3451434"
+    },
+    {
+      "name": "Legal Practice",
+      "code": "LPRC1522",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/legal-practice/3451435"
+    },
+    {
+      "name": "Legal Practice",
+      "code": "LPRC1512",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/legal-practice/3451436"
+    },
+    {
+      "name": "Legal Practice",
+      "code": "LPRC2514",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/legal-practice/3451437"
+    },
+    {
+      "name": "Legal Practice",
+      "code": "LPRC3712",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/legal-practice/3451438"
+    },
+    {
+      "name": "Legal Practice",
+      "code": "LPRC3722",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/legal-practice/3451439"
+    },
+    {
+      "name": "Legal Practice",
+      "code": "LPRC4812",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/legal-practice/3451440"
+    },
+    {
+      "name": "Legal Practice",
+      "code": "LPRC4822",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/legal-practice/3451441"
+    },
+    {
+      "name": "Legal Practice",
+      "code": "LPRC3714",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/legal-practice/4371424"
+    },
+    {
+      "name": "Legal Practoce",
+      "code": "LPRC4812",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/legal-practoce/5130335"
+    },
+    {
+      "name": "Legal Research Methodology",
+      "code": "LNAV7900",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/legal-research-methodology/7710164"
+    },
+    {
+      "name": "Legal Skills",
+      "code": "LSKL1514",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/legal-skills/3451462"
+    },
+    {
+      "name": "Legal Skills",
+      "code": "LSKL1524",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/legal-skills/3451463"
+    },
+    {
+      "name": "Letteratura italiana",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/letteratura-italiana/4922742"
+    },
+    {
+      "name": "Life Orientation",
+      "code": "LOGRADE9",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/life-orientation/7184841"
+    },
+    {
+      "name": "Life Orientation Teaching 2: FET",
+      "code": "LOTV4705",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/life-orientation-teaching-2-fet/5343545"
+    },
+    {
+      "name": "life science education",
+      "code": "lstv3605",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/life-science-education/7135179"
+    },
+    {
+      "name": "Life Skills",
+      "code": "LSCI1614",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/life-skills/3610720"
+    },
+    {
+      "name": "Life Skills Teaching",
+      "code": "LSTI 4705",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/life-skills-teaching/6885755"
+    },
+    {
+      "name": "Lifelong Learning For Skills Teachers",
+      "code": "LLST1513",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/lifelong-learning-for-skills-teachers/3610721"
+    },
+    {
+      "name": "Linear Algebra",
+      "code": "MATM2624",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/linear-algebra/6321633"
+    },
+    {
+      "name": "Low Vision",
+      "code": "LVIS2622",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/low-vision/3451193"
+    },
+    {
+      "name": "Lower life and molecular biology",
+      "code": "BIOL1504",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/lower-life-and-molecular-biology/7659434"
+    },
+    {
+      "name": "Macro Economics",
+      "code": "EMAC2724",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/macro-economics/6569914"
+    },
+    {
+      "name": "Macroeconomics",
+      "code": "EMAC6816",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/macroeconomics/3451497"
+    },
+    {
+      "name": "Macroeconomics",
+      "code": "EECF1624",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/macroeconomics/6400299"
+    },
+    {
+      "name": "Management Accounting",
+      "code": "EMAC2714",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/management-accounting/6184018"
+    },
+    {
+      "name": "management accounting",
+      "code": "EMFM 3708",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/management-accounting/6391157"
+    },
+    {
+      "name": "Management Accounting and Finance",
+      "code": "MAF5808",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/management-accounting-and-finance/3451473"
+    },
+    {
+      "name": "Managerial finance",
+      "code": "EMNF2624",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/managerial-finance/7060327"
+    },
+    {
+      "name": "Market Research",
+      "code": "EMAR3714",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/market-research/6845131"
+    },
+    {
+      "name": "Marketing and Digital Marketing",
+      "code": "MARK1513",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/marketing-and-digital-marketing/3451130"
+    },
+    {
+      "name": "Material",
+      "code": "qmsc2",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/material/7622963"
+    },
+    {
+      "name": "Math and Science Grade 12",
+      "code": "Gr12",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/math-and-science-grade-12/7168752"
+    },
+    {
+      "name": "Mathematical Economics",
+      "code": "EECO6813",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/mathematical-economics/3451500"
+    },
+    {
+      "name": "Mathematical Economics",
+      "code": "EECM3714",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/mathematical-economics/6021137"
+    },
+    {
+      "name": "Mathematical Literacy",
+      "code": "MTDL1508",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/mathematical-literacy/3451464"
+    },
+    {
+      "name": "Mathematical Literacy for the Humanities",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/mathematical-literacy-for-the-humanities/6595053"
+    },
+    {
+      "name": "Mathematical Modelling",
+      "code": "MATA2664",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/mathematical-modelling/7038706"
+    },
+    {
+      "name": "Mathematics Calculus 2",
+      "code": "MATM1644",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/mathematics-calculus-2/5737879"
+    },
+    {
+      "name": "Mathematics Teaching Practice 1",
+      "code": "MSTS3605",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/mathematics-teaching-practice-1/5115146"
+    },
+    {
+      "name": "Mathematics(Calculus 2)",
+      "code": "MATM1664",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/mathematicscalculus-2/5712356"
+    },
+    {
+      "name": "mechanisms of disease",
+      "code": "MDIS2614",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/mechanisms-of-disease/5393991"
+    },
+    {
+      "name": "Medical Law",
+      "code": "LMED4820",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/medical-law/6434965"
+    },
+    {
+      "name": "Medical physics",
+      "code": "BFS312",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/medical-physics/3451252"
+    },
+    {
+      "name": "Medicina Forensis",
+      "code": "LMDF4814",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/medicina-forensis/3451458"
+    },
+    {
+      "name": "Medicina Forensis",
+      "code": "LMDF4824",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/medicina-forensis/3451470"
+    },
+    {
+      "name": "Medicine",
+      "code": "MBChB",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/medicine/3477550"
+    },
+    {
+      "name": "Medieval making: from manuscript to book",
+      "code": "ENGG6884",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/medieval-making-from-manuscript-to-book/3451406"
+    },
+    {
+      "name": "Mercantile Law Contracts, Consumer and Insurance Law",
+      "code": "LCIL3714",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/mercantile-law-contracts-consumer-and-insurance-law/3451442"
+    },
+    {
+      "name": "Methodology in Theology",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/methodology-in-theology/3451577"
+    },
+    {
+      "name": "Micro Economics",
+      "code": "EMIC2714",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/micro-economics/4820720"
+    },
+    {
+      "name": "Microbial principles in agri",
+      "code": "agri1664",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/microbial-principles-in-agri/5000332"
+    },
+    {
+      "name": "Microbiology",
+      "code": "MCBH2614",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/microbiology/3451174"
+    },
+    {
+      "name": "Microbiology",
+      "code": "MCB113",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/microbiology/3451231"
+    },
+    {
+      "name": "Microbiology",
+      "code": "MCB214",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/microbiology/3451249"
+    },
+    {
+      "name": "Microbiology",
+      "code": "MCB224",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/microbiology/3451250"
+    },
+    {
+      "name": "Microbiology",
+      "code": "MCBC3724",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/microbiology/3591833"
+    },
+    {
+      "name": "Microbiology",
+      "code": "MCBP2616",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/microbiology/3591849"
+    },
+    {
+      "name": "Microbiology",
+      "code": "MCBP2626",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/microbiology/7114006"
+    },
+    {
+      "name": "Microeconomics",
+      "code": "EMIC6816",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/microeconomics/3451505"
+    },
+    {
+      "name": "Midwifery",
+      "code": "VER424",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/midwifery/3451258"
+    },
+    {
+      "name": "Midwifery practical",
+      "code": "VRP414",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/midwifery-practical/3451257"
+    },
+    {
+      "name": "Mining law",
+      "code": "LMIN4810",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/mining-law/7632680"
+    },
+    {
+      "name": "Mission in Africa",
+      "code": "TPMA1524",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/mission-in-africa/3451537"
+    },
+    {
+      "name": "Mobile development",
+      "code": "CSIQ2644",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/mobile-development/4542160"
+    },
+    {
+      "name": "Modern Physics",
+      "code": "PHYS 3714",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/modern-physics/3723213"
+    },
+    {
+      "name": "Molecular and Cell Biology of humans",
+      "code": "HMBG2614",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/molecular-and-cell-biology-of-humans/3451175"
+    },
+    {
+      "name": "Molecular Biology",
+      "code": "BOCM3714",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/molecular-biology/4420057"
+    },
+    {
+      "name": "Molecular Genetics",
+      "code": "GENE2626",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/molecular-genetics/4363356"
+    },
+    {
+      "name": "Money & Interest Rates",
+      "code": "EFES2714",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/money-interest-rates/5288956"
+    },
+    {
+      "name": "money and interest rates",
+      "code": "efes2714",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/money-and-interest-rates/6071307"
+    },
+    {
+      "name": "Monitoring and Evaluation",
+      "code": "EMEP2624",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/monitoring-and-evaluation/7205759"
+    },
+    {
+      "name": "Motor Learning and Control",
+      "code": "BIKL1508",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/motor-learning-and-control/3451136"
+    },
+    {
+      "name": "Municipal Finance",
+      "code": "EMMA3725",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/municipal-finance/7065420"
+    },
+    {
+      "name": "municipal gov",
+      "code": "EMMA3714",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/municipal-gov/6941813"
+    },
+    {
+      "name": "Municipal Management",
+      "code": "EMMA6814",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/municipal-management/3451511"
+    },
+    {
+      "name": "Narratives of Resistance; Literature, Film, Culture: Critical Approaches from Cultural Studies",
+      "code": "ENGL3728",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/narratives-of-resistance-literature-film-culture-critical-approaches-from-cultural-studies/3451280"
+    },
+    {
+      "name": "Natural Science",
+      "code": "NSTC2614",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/natural-science/7568125"
+    },
+    {
+      "name": "Neuro-Optometry",
+      "code": "NOPT4804",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/neuro-optometry/3451203"
+    },
+    {
+      "name": "Neurophysiology",
+      "code": "PHBN3712",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/neurophysiology/6231201"
+    },
+    {
+      "name": "New Technologies in Animal Breeding",
+      "code": "ANIB 3724",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/new-technologies-in-animal-breeding/4412883"
+    },
+    {
+      "name": "Nursing",
+      "code": "NNUR3716",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/nursing/3451210"
+    },
+    {
+      "name": "Nursing ETHICS",
+      "code": "NUET 1512",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/nursing-ethics/4439348"
+    },
+    {
+      "name": "Nursing practical",
+      "code": "NVRP1514",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/nursing-practical/3451206"
+    },
+    {
+      "name": "Nursing theory",
+      "code": "VRT115",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/nursing-theory/3451226"
+    },
+    {
+      "name": "Nursing Theory",
+      "code": "NVRT1516",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/nursing-theory/3591578"
+    },
+    {
+      "name": "Nutrition",
+      "code": "NUTD1514",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/nutrition/3451170"
+    },
+    {
+      "name": "Nutrition I",
+      "code": "NUTB1624",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/nutrition-i/3451139"
+    },
+    {
+      "name": "Nutrition II",
+      "code": "NUTB2714",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/nutrition-ii/3451144"
+    },
+    {
+      "name": "Occupational Therapy",
+      "code": "OCTF1514",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/occupational-therapy/3451158"
+    },
+    {
+      "name": "Operations and Logistics Management",
+      "code": "OMAN1512",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/operations-and-logistics-management/3451131"
+    },
+    {
+      "name": "Ophthalmic Dispensing",
+      "code": "OPHT1522",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/ophthalmic-dispensing/3451188"
+    },
+    {
+      "name": "Ordinary differential equations",
+      "code": "MATA2654",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/ordinary-differential-equations/4884082"
+    },
+    {
+      "name": "Organic Chemistry",
+      "code": "CHEM2623",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/organic-chemistry/4364044"
+    },
+    {
+      "name": "organic chemistry",
+      "code": "chem3743",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/organic-chemistry/6486313"
+    },
+    {
+      "name": "Organisation Psychology",
+      "code": "EORG6814",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/organisation-psychology/3451491"
+    },
+    {
+      "name": "Organisational Behavior",
+      "code": "EORG3715",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/organisational-behavior/6559071"
+    },
+    {
+      "name": "Organisational Psychology",
+      "code": "EORG3715",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/organisational-psychology/3451377"
+    },
+    {
+      "name": "Organizational psychology",
+      "code": "Ecap2614",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/organizational-psychology/6954209"
+    },
+    {
+      "name": "Orthoapedics Undergraduate",
+      "code": "MSUR4840",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/orthoapedics-undergraduate/5709105"
+    },
+    {
+      "name": "Paediatric Optometry",
+      "code": "PAED3702",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/paediatric-optometry/3451202"
+    },
+    {
+      "name": "Parasites, Vectors and Toxic Animals",
+      "code": "ZLGY2616",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/parasites-vectors-and-toxic-animals/5341152"
+    },
+    {
+      "name": "Pastoral Ministry in an African",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/pastoral-ministry-in-an-african/3451534"
+    },
+    {
+      "name": "Pathogens and immunity",
+      "code": "MCBP3714",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/pathogens-and-immunity/3591830"
+    },
+    {
+      "name": "People Management",
+      "code": "HRMA1513",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/people-management/3451132"
+    },
+    {
+      "name": "Performance Management",
+      "code": "EPFM3724",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/performance-management/3451378"
+    },
+    {
+      "name": "Performing the past: late-medieval and early mode drama 16",
+      "code": "ENGB6854",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/performing-the-past-late-medieval-and-early-mode-drama-16/3451401"
+    },
+    {
+      "name": "Personal finance",
+      "code": "Efef1624",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/personal-finance/5418627"
+    },
+    {
+      "name": "Personal Finance",
+      "code": "EEFC1614",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/personal-finance/6394317"
+    },
+    {
+      "name": "Personal selling",
+      "code": "EBMA2624",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/personal-selling/4503814"
+    },
+    {
+      "name": "Personology 16",
+      "code": "PSPE3724",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/personology-16/3451317"
+    },
+    {
+      "name": "Persuasive Communication",
+      "code": "COMM1544",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/persuasive-communication/3451368"
+    },
+    {
+      "name": "pgdip tax law",
+      "code": "tax 711",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/pgdip-tax-law/7535653"
+    },
+    {
+      "name": "Pharmacology",
+      "code": "FRMB2612",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/pharmacology/3451182"
+    },
+    {
+      "name": "Philosophy",
+      "code": "WYS115",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/philosophy/3451233"
+    },
+    {
+      "name": "Philosophy",
+      "code": "WYS125",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/philosophy/3451234"
+    },
+    {
+      "name": "Philosophy for Geographers",
+      "code": "GEOF6816",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/philosophy-for-geographers/7190962"
+    },
+    {
+      "name": "Physical and Geometric Optics",
+      "code": "PHYS1534",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/physical-and-geometric-optics/3451181"
+    },
+    {
+      "name": "Physical chemistry",
+      "code": "CHEM3733",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/physical-chemistry/5467034"
+    },
+    {
+      "name": "Physical Chemistry",
+      "code": "CHEM1622",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/physical-chemistry/6578028"
+    },
+    {
+      "name": "Physical chemistry",
+      "code": "CHEM1643",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/physical-chemistry/7598334"
+    },
+    {
+      "name": "Physical science",
+      "code": "PHYS1534",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/physical-science/6013123"
+    },
+    {
+      "name": "physical sciences teaching 1",
+      "code": "PSTV 3605",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/physical-sciences-teaching-1/6447480"
+    },
+    {
+      "name": "Physics",
+      "code": "PHYS 1534",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/physics/4419236"
+    },
+    {
+      "name": "Physics",
+      "code": "PHYS1624",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/physics/5410219"
+    },
+    {
+      "name": "Physics ( Oscillations, Waves and Optics )",
+      "code": "PHYS 2614",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/physics-oscillations-waves-and-optics/3584633"
+    },
+    {
+      "name": "Physics (mechanics, optics and electricity)",
+      "code": "PHYS 1514",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/physics-mechanics-optics-and-electricity/3584614"
+    },
+    {
+      "name": "physics and dynamics of the atmosphere",
+      "code": "CLIM 4834/6834",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/physics-and-dynamics-of-the-atmosphere/5328677"
+    },
+    {
+      "name": "physics for agriculture",
+      "code": "agri 1554",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/physics-for-agriculture/4843684"
+    },
+    {
+      "name": "Physics Practical",
+      "code": "PHYS2632",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/physics-practical/7162729"
+    },
+    {
+      "name": "Physics: Electronics",
+      "code": "PHYS2624",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/physics-electronics/7684132"
+    },
+    {
+      "name": "Physiology",
+      "code": "PHBP2608",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/physiology/3451140"
+    },
+    {
+      "name": "Physiology",
+      "code": "PHBO2614",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/physiology/3451162"
+    },
+    {
+      "name": "Physiology",
+      "code": "PHBD2608",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/physiology/3451173"
+    },
+    {
+      "name": "Physiology",
+      "code": "FFB125",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/physiology/3451217"
+    },
+    {
+      "name": "Physiology",
+      "code": "PHBG3726",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/physiology/5485193"
+    },
+    {
+      "name": "Physiology",
+      "code": "PHBG3716",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/physiology/6183108"
+    },
+    {
+      "name": "Physiotherapy",
+      "code": "PTBP1506",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/physiotherapy/3451184"
+    },
+    {
+      "name": "Physiotherapy",
+      "code": "PTBP2600",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/physiotherapy/4363431"
+    },
+    {
+      "name": "Physiotherapy",
+      "code": "PTIP 4800",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/physiotherapy/5251686"
+    },
+    {
+      "name": "Pig and Poultry Production",
+      "code": "ANIG3754",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/pig-and-poultry-production/6028350"
+    },
+    {
+      "name": "Pig production",
+      "code": "ANIG3743",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/pig-production/5464195"
+    },
+    {
+      "name": "Plant adaptations for survival on land",
+      "code": "BTNY2616",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/plant-adaptations-for-survival-on-land/4501680"
+    },
+    {
+      "name": "plant and animal life processes",
+      "code": "BLGY2625",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/plant-and-animal-life-processes/7128307"
+    },
+    {
+      "name": "Plant biology",
+      "code": "BIOL1624",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/plant-biology/4318350"
+    },
+    {
+      "name": "Plant Pathology",
+      "code": "PPLG 2624",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/plant-pathology/6382060"
+    },
+    {
+      "name": "Policy Framework of Community Development",
+      "code": "COMD1543",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/policy-framework-of-community-development/3451335"
+    },
+    {
+      "name": "Political Philosophy",
+      "code": "FILO2626",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/political-philosophy/6468370"
+    },
+    {
+      "name": "Political Risk Analysis and Strategic",
+      "code": "POLS3734",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/political-risk-analysis-and-strategic/3451385"
+    },
+    {
+      "name": "Political Science and Sociology",
+      "code": "QC138402:",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/political-science-and-sociology/3451358"
+    },
+    {
+      "name": "Population and conservation genetics",
+      "code": "GENE 3743",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/population-and-conservation-genetics/6494368"
+    },
+    {
+      "name": "Population genetics",
+      "code": "GENE3744",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/population-genetics/3591831"
+    },
+    {
+      "name": "Practical Legal Skills",
+      "code": "LPLS3713",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/practical-legal-skills/6178573"
+    },
+    {
+      "name": "Practical Vocational Training",
+      "code": "PVT1",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/practical-vocational-training/5795678"
+    },
+    {
+      "name": "Practice Management Training",
+      "code": "PMT",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/practice-management-training/7212671"
+    },
+    {
+      "name": "Precalculus",
+      "code": "Matd1554",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/precalculus/6574368"
+    },
+    {
+      "name": "Principles and methods of payment",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/principles-and-methods-of-payment/4490532"
+    },
+    {
+      "name": "Principles of trading",
+      "code": "forex101",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/principles-of-trading/6629239"
+    },
+    {
+      "name": "Process Geomorphology and Geomorphological Hazards",
+      "code": "GEOG2614",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/process-geomorphology-and-geomorphological-hazards/3451290"
+    },
+    {
+      "name": "Process Geomorphology:  Landforms and Hazards",
+      "code": "GEOP2614",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/process-geomorphology-landforms-and-hazards/5341142"
+    },
+    {
+      "name": "Production and operational management",
+      "code": "CPOR6804",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/production-and-operational-management/5550916"
+    },
+    {
+      "name": "Programming And Problem Solving",
+      "code": "CSIS1614",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/programming-and-problem-solving/3731285"
+    },
+    {
+      "name": "Programming and problem solving",
+      "code": "CSIS1624",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/programming-and-problem-solving/6535977"
+    },
+    {
+      "name": "Project and Programme Management",
+      "code": "PMAN1511",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/project-and-programme-management/3451133"
+    },
+    {
+      "name": "Project Management 12",
+      "code": "COMD3733",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/project-management-12/3451348"
+    },
+    {
+      "name": "Project Management for Development",
+      "code": "EDSE7905",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/project-management-for-development/3451530"
+    },
+    {
+      "name": "Property Development",
+      "code": "BPDD6812",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/property-development/5178982"
+    },
+    {
+      "name": "Prose Fiction in Sesotho 16",
+      "code": "SSMT1524",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/prose-fiction-in-sesotho-16/3451320"
+    },
+    {
+      "name": "Protein Biochemistry",
+      "code": "BOCP3724",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/protein-biochemistry/4420062"
+    },
+    {
+      "name": "Psychiatric nursing",
+      "code": "VRT417",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/psychiatric-nursing/3451221"
+    },
+    {
+      "name": "Psychiatric nursing",
+      "code": "PSI415",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/psychiatric-nursing/3451259"
+    },
+    {
+      "name": "Psychological Assessment",
+      "code": "PSHA6804",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/psychological-assessment/3558244"
+    },
+    {
+      "name": "Psychological Assessment and Measurement",
+      "code": "EPSM6808",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/psychological-assessment-and-measurement/3451495"
+    },
+    {
+      "name": "Psychology",
+      "code": "PSY152",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/psychology/3451207"
+    },
+    {
+      "name": "Psychology",
+      "code": "SIL385",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/psychology/3451229"
+    },
+    {
+      "name": "Psychology",
+      "code": "PSY132",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/psychology/3451239"
+    },
+    {
+      "name": "Psychology",
+      "code": "PSY222",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/psychology/3451240"
+    },
+    {
+      "name": "Psychology",
+      "code": "PSY242",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/psychology/3451241"
+    },
+    {
+      "name": "Psychology",
+      "code": "PSY224",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/psychology/3451254"
+    },
+    {
+      "name": "Psychometrics",
+      "code": "EIPS 2624",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/psychometrics/7373800"
+    },
+    {
+      "name": "Psychopathology 16",
+      "code": "PSPA3714",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/psychopathology-16/3451316"
+    },
+    {
+      "name": "Public Administration",
+      "code": "EPAM 3725",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/public-administration/6451941"
+    },
+    {
+      "name": "Public Administration",
+      "code": "EPAM 2614",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/public-administration/7453495"
+    },
+    {
+      "name": "Public Administration and Management Law",
+      "code": "EPAL3714",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/public-administration-and-management-law/6246634"
+    },
+    {
+      "name": "Public Financial Administration and Management",
+      "code": "EPAF6814",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/public-financial-administration-and-management/3451513"
+    },
+    {
+      "name": "Public Health",
+      "code": "PUBH2622",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/public-health/3451201"
+    },
+    {
+      "name": "Public Human Resource Management",
+      "code": "EPAH6824",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/public-human-resource-management/3451515"
+    },
+    {
+      "name": "Public Law",
+      "code": "LPUB3714",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/public-law/3451443"
+    },
+    {
+      "name": "Public Law",
+      "code": "LPUB3724",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/public-law/3451444"
+    },
+    {
+      "name": "Public Law",
+      "code": "LPUB4814 4",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/public-law/3451445"
+    },
+    {
+      "name": "Public Law",
+      "code": "LPUB4824",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/public-law/3451446"
+    },
+    {
+      "name": "Quantinative methods",
+      "code": "EQMB1514",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/quantinative-methods/6318848"
+    },
+    {
+      "name": "Quantity Surveying",
+      "code": "DQR 206",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/quantity-surveying/5132557"
+    },
+    {
+      "name": "Reading film: perspectives from film theory and cultural studies",
+      "code": "ENGD6894",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/reading-film-perspectives-from-film-theory-and-cultural-studies/3451403"
+    },
+    {
+      "name": "Reading Literature, Film and Culture",
+      "code": "ENGL1624",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/reading-literature-film-and-culture/3451276"
+    },
+    {
+      "name": "Reading Literature: An Introduction to Reading, Writing and Critical Textual Analysis",
+      "code": "ENGL1514",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/reading-literature-an-introduction-to-reading-writing-and-critical-textual-analysis/3451275"
+    },
+    {
+      "name": "Regulation of Financial Institutions",
+      "code": "EREG6813",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/regulation-of-financial-institutions/3451501"
+    },
+    {
+      "name": "Religious Systems",
+      "code": "LRLS4820",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/religious-systems/7197158"
+    },
+    {
+      "name": "Research",
+      "code": "RES304",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/research/3451253"
+    },
+    {
+      "name": "Research and Research Methodology in Public Administration",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/research-and-research-methodology-in-public-administration/3451517"
+    },
+    {
+      "name": "Research Methodology 16",
+      "code": "PSRM3714",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/research-methodology-16/3451318"
+    },
+    {
+      "name": "Research Methods and Behavioural Economics",
+      "code": "EREM6813",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/research-methods-and-behavioural-economics/3451506"
+    },
+    {
+      "name": "Research Psychology",
+      "code": "PSHR6808",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/research-psychology/3531354"
+    },
+    {
+      "name": "Research Report",
+      "code": "LTHE4804",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/research-report/3451447"
+    },
+    {
+      "name": "Research Report",
+      "code": "ESCR6808",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/research-report/3451485"
+    },
+    {
+      "name": "Research Report",
+      "code": "ERIP6808",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/research-report/3451496"
+    },
+    {
+      "name": "Research Report",
+      "code": "EPOM6828",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/research-report/3451502"
+    },
+    {
+      "name": "Research Report in Economics",
+      "code": "EEDE6820",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/research-report-in-economics/3451507"
+    },
+    {
+      "name": "Research Skills",
+      "code": "STA1507",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/research-skills/7309479"
+    },
+    {
+      "name": "Risk Analysis",
+      "code": "STSE6823",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/risk-analysis/4306490"
+    },
+    {
+      "name": "Risk Management",
+      "code": "EFET3715",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/risk-management/4306495"
+    },
+    {
+      "name": "Risk Management in Banking",
+      "code": "EFET3724",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/risk-management-in-banking/6546507"
+    },
+    {
+      "name": "Rizal",
+      "code": "23bb",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/rizal/6034369"
+    },
+    {
+      "name": "Roman Law Foundations of South African Law",
+      "code": "LROM1524",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/roman-law-foundations-of-south-african-law/3451448"
+    },
+    {
+      "name": "Rules book EMS student",
+      "code": "Rules book",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/rules-book-ems-student/7440292"
+    },
+    {
+      "name": "Rural Geography 16",
+      "code": "GEOG 3754",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/rural-geography-16/3451294"
+    },
+    {
+      "name": "SA Macroeconomic Policy Issues",
+      "code": "EECT3725",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/sa-macroeconomic-policy-issues/5794404"
+    },
+    {
+      "name": "sale and lease",
+      "code": "BLWA4248",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/sale-and-lease/6233094"
+    },
+    {
+      "name": "Sample Distribution Theory and Inference",
+      "code": "STSM2616",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/sample-distribution-theory-and-inference/6610821"
+    },
+    {
+      "name": "Sectional Title Law",
+      "code": "LSSB4814",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/sectional-title-law/3651740"
+    },
+    {
+      "name": "Security Analysis",
+      "code": "ESEC6828",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/security-analysis/3451503"
+    },
+    {
+      "name": "Security And Conflict Studies",
+      "code": "POLS3714",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/security-and-conflict-studies/3451384"
+    },
+    {
+      "name": "Sedimentology",
+      "code": "GLGY2626",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/sedimentology/6537335"
+    },
+    {
+      "name": "Sequences and series",
+      "code": "MATM2664",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/sequences-and-series/5141489"
+    },
+    {
+      "name": "Services Marketing",
+      "code": "ESMT6824",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/services-marketing/3451489"
+    },
+    {
+      "name": "Sesotho Language Structure and usage",
+      "code": "SSML1514",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/sesotho-language-structure-and-usage/3451319"
+    },
+    {
+      "name": "Sesotho Poetry and Drama 16",
+      "code": "SSMT2624",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/sesotho-poetry-and-drama-16/3451322"
+    },
+    {
+      "name": "Sheep production",
+      "code": "Anig3723",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/sheep-production/5727017"
+    },
+    {
+      "name": "Sign Language",
+      "code": "SICL 3504",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/sign-language/6591520"
+    },
+    {
+      "name": "Skills",
+      "code": "UFSS1522",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/skills/6526916"
+    },
+    {
+      "name": "Skills and Competencies for Lifelong Learning",
+      "code": "SCLL1508",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/skills-and-competencies-for-lifelong-learning/3451325"
+    },
+    {
+      "name": "Slave trade grade 10 essay",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/slave-trade-grade-10-essay/7446220"
+    },
+    {
+      "name": "Small Business Manangement",
+      "code": "ESBM 2724",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/small-business-manangement/6066491"
+    },
+    {
+      "name": "Social Institutions",
+      "code": "SOCI1624",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/social-institutions/3451330"
+    },
+    {
+      "name": "Social Psychology 16",
+      "code": "PSSO2614",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/social-psychology-16/3451138"
+    },
+    {
+      "name": "Social Research And Practice",
+      "code": "SOCR3728",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/social-research-and-practice/3451389"
+    },
+    {
+      "name": "Social Science",
+      "code": "SCSR2622",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/social-science/7727095"
+    },
+    {
+      "name": "Social Science Research in Africa",
+      "code": "SCSI2612",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/social-science-research-in-africa/6144906"
+    },
+    {
+      "name": "Social Work Professional Practice",
+      "code": "SWPP2706",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/social-work-professional-practice/7120844"
+    },
+    {
+      "name": "Sociolinguistic in IsiZulu 16",
+      "code": "ZULL2614",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/sociolinguistic-in-isizulu-16/3451311"
+    },
+    {
+      "name": "Sociolinguistics in Sesotho 16",
+      "code": "SSML2614",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/sociolinguistics-in-sesotho-16/3451321"
+    },
+    {
+      "name": "Sociological Theory",
+      "code": "SOCT3718",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/sociological-theory/3451388"
+    },
+    {
+      "name": "Sociology",
+      "code": "SOCI1532",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/sociology/3451208"
+    },
+    {
+      "name": "Sociology",
+      "code": "SOS225",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/sociology/3451235"
+    },
+    {
+      "name": "Sociology",
+      "code": "SOS324",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/sociology/3451238"
+    },
+    {
+      "name": "Sociology",
+      "code": "SOS222",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/sociology/3451242"
+    },
+    {
+      "name": "Sociology",
+      "code": "SOS152",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/sociology/3451247"
+    },
+    {
+      "name": "Sociology 1b",
+      "code": "SOC1BB1",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/sociology-1b/7056390"
+    },
+    {
+      "name": "software design",
+      "code": "BCIS1623",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/software-design/6340779"
+    },
+    {
+      "name": "Software design",
+      "code": "CSIS2664",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/software-design/7685608"
+    },
+    {
+      "name": "Software Development",
+      "code": "CSIQ3784",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/software-development/7469419"
+    },
+    {
+      "name": "software engineering",
+      "code": "csis3724",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/software-engineering/5326282"
+    },
+    {
+      "name": "soil classification",
+      "code": "soil 2614",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/soil-classification/5139089"
+    },
+    {
+      "name": "Soil classification, evaluation and land-use planning",
+      "code": "SOIL3714",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/soil-classification-evaluation-and-land-use-planning/6585640"
+    },
+    {
+      "name": "Soil classification, evaluation and land-use planning",
+      "code": "SOIL3774",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/soil-classification-evaluation-and-land-use-planning/6767147"
+    },
+    {
+      "name": "Soil Contaminants and Management",
+      "code": "SOIL3724/3764",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/soil-contaminants-and-management/6587514"
+    },
+    {
+      "name": "soil contamination",
+      "code": "soil3724",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/soil-contamination/5759278"
+    },
+    {
+      "name": "Soil Fertility and Fertilization",
+      "code": "SOIL3714/3734",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/soil-fertility-and-fertilization/5341148"
+    },
+    {
+      "name": "Soil Sciences",
+      "code": "SOIL 2624",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/soil-sciences/4549942"
+    },
+    {
+      "name": "Soil Sciences",
+      "code": "Soil2674",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/soil-sciences/6210043"
+    },
+    {
+      "name": "Soil, Crop and Climate Science",
+      "code": "SCCS1624",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/soil-crop-and-climate-science/5147182"
+    },
+    {
+      "name": "Solid State Physics",
+      "code": "PHYS 3724",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/solid-state-physics/5438152"
+    },
+    {
+      "name": "South Africa sign language",
+      "code": "SASL3714",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/south-africa-sign-language/5326385"
+    },
+    {
+      "name": "South African Education",
+      "code": "SAE2601",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/south-african-education/4922150"
+    },
+    {
+      "name": "Sport Management and Biokinetics Practice",
+      "code": "BIKM2624",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/sport-management-and-biokinetics-practice/3451149"
+    },
+    {
+      "name": "Sport Management and Health Care Ethics",
+      "code": "BIKM2614",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/sport-management-and-health-care-ethics/3451141"
+    },
+    {
+      "name": "Statistical Physics",
+      "code": "Phys3742",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/statistical-physics/6465095"
+    },
+    {
+      "name": "Statistical Programming",
+      "code": "STSM 2634",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/statistical-programming/6812657"
+    },
+    {
+      "name": "Statistics",
+      "code": "STSA3716",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/statistics/4296594"
+    },
+    {
+      "name": "Statistics",
+      "code": "EBCS1514",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/statistics/4329559"
+    },
+    {
+      "name": "Statistics",
+      "code": "EFBC 2514",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/statistics/4330699"
+    },
+    {
+      "name": "Statistics for Economics",
+      "code": "EECM3724",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/statistics-for-economics/5339349"
+    },
+    {
+      "name": "Statistics in Regression Analysis",
+      "code": "STSA2616",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/statistics-in-regression-analysis/6067473"
+    },
+    {
+      "name": "statistics Regression analysis",
+      "code": "STSA2626",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/statistics-regression-analysis/6204035"
+    },
+    {
+      "name": "Statistics Thesis",
+      "code": "STSA9100",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/statistics-thesis/5908369"
+    },
+    {
+      "name": "Statistics Thesis chapter",
+      "code": "STSA9100",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/statistics-thesis-chapter/5908422"
+    },
+    {
+      "name": "Statistiek",
+      "code": "2015030526",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/statistiek/1614497"
+    },
+    {
+      "name": "Strategic and Change Management",
+      "code": "SMAN1511",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/strategic-and-change-management/3451134"
+    },
+    {
+      "name": "Strategic Entrepreneurial Management",
+      "code": "ESEM6814",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/strategic-entrepreneurial-management/3451481"
+    },
+    {
+      "name": "Strategic Management",
+      "code": "EBUS2715",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/strategic-management/3617131"
+    },
+    {
+      "name": "strategic management",
+      "code": "agma 3744",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/strategic-management/4273686"
+    },
+    {
+      "name": "Strategic Marketing",
+      "code": "EBMA3715",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/strategic-marketing/5412031"
+    },
+    {
+      "name": "Stratigraphy",
+      "code": "GLGY1624",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/stratigraphy/7438270"
+    },
+    {
+      "name": "Student Central Network Services",
+      "code": "SCNS",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/student-central-network-services/6374493"
+    },
+    {
+      "name": "Studies in Research Methodology in Theology",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/studies-in-research-methodology-in-theology/3451542"
+    },
+    {
+      "name": "Studies in Systematic Theology and Studies in the Exegesis, Theology and Hermeneutics of the New Testament",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/studies-in-systematic-theology-and-studies-in-the-exegesis-theology-and-hermeneutics-of-the-new-testament/3451543"
+    },
+    {
+      "name": "Studies in the Ethics and Values of Religion",
+      "code": "TRLS1714",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/studies-in-the-ethics-and-values-of-religion/3451541"
+    },
+    {
+      "name": "Study of Systematic Theology",
+      "code": "TSYS2622",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/study-of-systematic-theology/3451556"
+    },
+    {
+      "name": "Study of the New Testament",
+      "code": "TNTT2623",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/study-of-the-new-testament/3451555"
+    },
+    {
+      "name": "Study of the Old Testament",
+      "code": "TOTT2613",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/study-of-the-old-testament/3451552"
+    },
+    {
+      "name": "summer grain, oil and protein rich crops",
+      "code": "CROP3714",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/summer-grain-oil-and-protein-rich-crops/5358058"
+    },
+    {
+      "name": "Supply Chain Management",
+      "code": "ESCM2724",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/supply-chain-management/5467678"
+    },
+    {
+      "name": "Supply Chain Management",
+      "code": "ESCM2714",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/supply-chain-management/7422624"
+    },
+    {
+      "name": "Support for Physical education",
+      "code": "LSPT4705",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/support-for-physical-education/6352305"
+    },
+    {
+      "name": "Sustainable food systems and development",
+      "code": "SFNH1523",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/sustainable-food-systems-and-development/7187767"
+    },
+    {
+      "name": "Sustainable Soil and Water Management",
+      "code": "SCCS2684",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/sustainable-soil-and-water-management/5622890"
+    },
+    {
+      "name": "System Analysis and design",
+      "code": "BCIS 2614",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/system-analysis-and-design/6732949"
+    },
+    {
+      "name": "Systems Analysis & Design",
+      "code": "BCIS2614",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/systems-analysis-design/5332340"
+    },
+    {
+      "name": "Systems Infrastructure & Integration",
+      "code": "BCIS2624",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/systems-infrastructure-integration/4528499"
+    },
+    {
+      "name": "Tax Law",
+      "code": "LTAX3714",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/tax-law/3451467"
+    },
+    {
+      "name": "Taxation",
+      "code": "EBEL5808",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/taxation/3451474"
+    },
+    {
+      "name": "Taxation (Honours/PGDip/BAcc3)",
+      "code": "ETXN6808",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/taxation-honourspgdipbacc3/7583807"
+    },
+    {
+      "name": "Taxation 2",
+      "code": "ETXN2708",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/taxation-2/4538929"
+    },
+    {
+      "name": "Teaching and Learning in an Inclusive Environment",
+      "code": "PEDF 2613",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/teaching-and-learning-in-an-inclusive-environment/4375266"
+    },
+    {
+      "name": "Teaching practicals",
+      "code": "TPRI1502",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/teaching-practicals/3610722"
+    },
+    {
+      "name": "Teaching practice",
+      "code": "TPRV2502",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/teaching-practice/5780676"
+    },
+    {
+      "name": "Teaching Practice",
+      "code": "WILI 3606",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/teaching-practice/6455583"
+    },
+    {
+      "name": "Teaching practice",
+      "code": "WILI4700",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/teaching-practice/7033539"
+    },
+    {
+      "name": "Technology and Activity",
+      "code": "OCTA1504",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/technology-and-activity/3451165"
+    },
+    {
+      "name": "the Bible in Africa",
+      "code": "TPIP1514",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/the-bible-in-africa/3451533"
+    },
+    {
+      "name": "The Christian Religion",
+      "code": "TRCR2614",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/the-christian-religion/3451561"
+    },
+    {
+      "name": "The Population-EnvironmentDevelopment Interface",
+      "code": "SOCP2624",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/the-population-environmentdevelopment-interface/3451341"
+    },
+    {
+      "name": "The Rise of Nationalism in South Africa and the resistance to it",
+      "code": "HIST2614",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/the-rise-of-nationalism-in-south-africa-and-the-resistance-to-it/3451305"
+    },
+    {
+      "name": "The Sociology Of Developing Societies",
+      "code": "SOCD2614",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/the-sociology-of-developing-societies/3451339"
+    },
+    {
+      "name": "The Sociology of Family And Domestic Life",
+      "code": "SOCF 2614",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/the-sociology-of-family-and-domestic-life/4359872"
+    },
+    {
+      "name": "The sociology of Social Movements",
+      "code": "SOCS2614",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/the-sociology-of-social-movements/6966188"
+    },
+    {
+      "name": "Theory of Animal Breeding",
+      "code": "ANIB 3714",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/theory-of-animal-breeding/4409950"
+    },
+    {
+      "name": "Theory of Architecture",
+      "code": "TAR224",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/theory-of-architecture/6070545"
+    },
+    {
+      "name": "Therapeutic Nutrition",
+      "code": "TNUT2724",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/therapeutic-nutrition/3451179"
+    },
+    {
+      "name": "Therapeutic Psychology",
+      "code": "PSHT6814",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/therapeutic-psychology/3558274"
+    },
+    {
+      "name": "Time Series Analysis",
+      "code": "STSM 3744",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/time-series-analysis/7676585"
+    },
+    {
+      "name": "Tourism and Local Development in South Africa",
+      "code": "GEOT 3744",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/tourism-and-local-development-in-south-africa/3451302"
+    },
+    {
+      "name": "Tourism Cultural Studies 16",
+      "code": "GEOT 3734",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/tourism-cultural-studies-16/3451296"
+    },
+    {
+      "name": "Tourism Development and Policy 16",
+      "code": "GEOT 3714",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/tourism-development-and-policy-16/3451295"
+    },
+    {
+      "name": "Tourism Geography 16",
+      "code": "GEOT 1624",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/tourism-geography-16/3451283"
+    },
+    {
+      "name": "trace evidence",
+      "code": "FORS 3714",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/trace-evidence/5365445"
+    },
+    {
+      "name": "Training Management",
+      "code": "ETRM 3714",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/training-management/3451380"
+    },
+    {
+      "name": "Twentieth Century and Modern Literature",
+      "code": "ENGL2724",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/twentieth-century-and-modern-literature/3451278"
+    },
+    {
+      "name": "Twentieth century and modernist literature",
+      "code": "ENGL 2724",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/twentieth-century-and-modernist-literature/5721989"
+    },
+    {
+      "name": "Twentieth century global clashes 16",
+      "code": "HIST2624",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/twentieth-century-global-clashes-16/3451306"
+    },
+    {
+      "name": "Twentieth century world history 16",
+      "code": "HIST1624",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/twentieth-century-world-history-16/3451304"
+    },
+    {
+      "name": "ufs introduction",
+      "code": "ufss1504",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/ufs-introduction/5000909"
+    },
+    {
+      "name": "Understanding Child justice",
+      "code": "CRIM3724",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/understanding-child-justice/6519081"
+    },
+    {
+      "name": "University mathematics",
+      "code": "MATD 1564",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/university-mathematics/7061155"
+    },
+    {
+      "name": "University mathematics",
+      "code": "MATD 1544",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/university-mathematics/7186132"
+    },
+    {
+      "name": "Urban Development Studies 16",
+      "code": "GEOG 2634",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/urban-development-studies-16/3451284"
+    },
+    {
+      "name": "Urban geography",
+      "code": "GEOH2614",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/urban-geography/7585757"
+    },
+    {
+      "name": "Vector Analysis",
+      "code": "MATM2614",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/vector-analysis/6760210"
+    },
+    {
+      "name": "Vector Analysis/Calculus",
+      "code": "MATM2614",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/vector-analysiscalculus/6747474"
+    },
+    {
+      "name": "Vegetable Production",
+      "code": "Hort 3754",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/vegetable-production/6128495"
+    },
+    {
+      "name": "Vibtations 3",
+      "code": "MEC3456",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/vibtations-3/6771214"
+    },
+    {
+      "name": "Victimology",
+      "code": "CRIM 2724",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/victimology/4331973"
+    },
+    {
+      "name": "Visual basic for applications",
+      "code": "CSIS1683",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/visual-basic-for-applications/7675911"
+    },
+    {
+      "name": "Weather Analysis and Forecasting",
+      "code": "CLIM4844/6844",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/weather-analysis-and-forecasting/5478981"
+    },
+    {
+      "name": "Welfare law",
+      "code": "1612",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/welfare-law/7666070"
+    },
+    {
+      "name": "Wildlife management",
+      "code": "WDMT 3714",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/wildlife-management/5463640"
+    },
+    {
+      "name": "Wildlife nutrition",
+      "code": "Wild3764",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/wildlife-nutrition/5419318"
+    },
+    {
+      "name": "Wills & Estates",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/wills-estates/7694800"
+    },
+    {
+      "name": "Winter Grain, Industrial and Diverse Crops",
+      "code": "CROP3764",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/winter-grain-industrial-and-diverse-crops/7195161"
+    },
+    {
+      "name": "Wiskunde",
+      "code": "MTTF4705",
+      "url": "https://www.studocu.com/en-za/course/university-of-the-free-state/wiskunde/4365271"
+    }
+  ]
+}

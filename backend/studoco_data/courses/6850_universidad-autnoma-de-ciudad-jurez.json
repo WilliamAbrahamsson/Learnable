@@ -1,0 +1,4271 @@
+{
+  "university_id": "6850",
+  "university_name": "Universidad Autónoma de Ciudad Juárez",
+  "courses": [
+    {
+      "name": "Abastecimiento de Agua Potable y Alcantarillado",
+      "code": "ICA",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/abastecimiento-de-agua-potable-y-alcantarillado/3524754"
+    },
+    {
+      "name": "Actividad Física y Salud",
+      "code": "BAS982900",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/actividad-fisica-y-salud/3524711"
+    },
+    {
+      "name": "Actores e Instituciones Políticas",
+      "code": "MCS 0056-00",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/actores-e-instituciones-politicas/3524474"
+    },
+    {
+      "name": "Administracion de consultorios",
+      "code": "Cirujano Dentista",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/administracion-de-consultorios/3477521"
+    },
+    {
+      "name": "Administracion de riesgos",
+      "code": "CIA982300",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/administracion-de-riesgos/3524421"
+    },
+    {
+      "name": "Administración Bancaria",
+      "code": "CIA1634",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/administracion-bancaria/3524348"
+    },
+    {
+      "name": "Administración de Grupos de Trabajo",
+      "code": "CIA1208",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/administracion-de-grupos-de-trabajo/3524342"
+    },
+    {
+      "name": "Administración de la cadena de suministros",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/administracion-de-la-cadena-de-suministros/3526876"
+    },
+    {
+      "name": "Administración de la Calidad",
+      "code": "CIA1607",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/administracion-de-la-calidad/3524325"
+    },
+    {
+      "name": "Administración de pequeños negocios",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/administracion-de-pequenos-negocios/3526881"
+    },
+    {
+      "name": "Administración de proyectos e innovación tecnológica",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/administracion-de-proyectos-e-innovacion-tecnologica/3526865"
+    },
+    {
+      "name": "Administración de Sistemas",
+      "code": "CIA1403",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/administracion-de-sistemas/3524344"
+    },
+    {
+      "name": "Administración de Sueldos y Comp.",
+      "code": "CIA1603",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/administracion-de-sueldos-y-comp/3524335"
+    },
+    {
+      "name": "Administración de Ventas",
+      "code": "CIA1605",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/administracion-de-ventas/3524336"
+    },
+    {
+      "name": "Administración del Sector Público",
+      "code": "CIA1626",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/administracion-del-sector-publico/3524347"
+    },
+    {
+      "name": "Administración Estratégica de Empresas Turísticas",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/administracion-estrategica-de-empresas-turisticas/3526858"
+    },
+    {
+      "name": "Administración y Evaluación de Proyectos",
+      "code": "ICA",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/administracion-y-evaluacion-de-proyectos/3524759"
+    },
+    {
+      "name": "Algebra Lineal",
+      "code": "BAS981500",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/algebra-lineal/3524538"
+    },
+    {
+      "name": "Alimentación Animal",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/alimentacion-animal/6741636"
+    },
+    {
+      "name": "Alternativas Para el Cuidado",
+      "code": "MED993817",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/alternativas-para-el-cuidado/3524620"
+    },
+    {
+      "name": "Analisis Quimicos I",
+      "code": "BAS985714",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/analisis-quimicos-i/3524545"
+    },
+    {
+      "name": "Analisis Quimicos II",
+      "code": "BAS985514",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/analisis-quimicos-ii/3524548"
+    },
+    {
+      "name": "Analisis Quimicos III",
+      "code": "BAS985814",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/analisis-quimicos-iii/3524555"
+    },
+    {
+      "name": "Anatomia humana 1",
+      "code": "BAS000194",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/anatomia-humana-1/3220731"
+    },
+    {
+      "name": "ANATOMIA Y DISECCIONES VETERINARIA",
+      "code": "PEC007800",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/anatomia-y-disecciones-veterinaria/3220636"
+    },
+    {
+      "name": "Anatomía",
+      "code": "BAS130103",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/anatomia/3524590"
+    },
+    {
+      "name": "Anatomía Dental",
+      "code": "Anatomía",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/anatomia-dental/5473975"
+    },
+    {
+      "name": "Anatomía Humana II",
+      "code": "BAS000494",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/anatomia-humana-ii/6718223"
+    },
+    {
+      "name": "Anatomía por imagen",
+      "code": "MED983100",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/anatomia-por-imagen/5475805"
+    },
+    {
+      "name": "ANGIOLOGIA",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/angiologia/3223242"
+    },
+    {
+      "name": "antibioticoterapia",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/antibioticoterapia/4551840"
+    },
+    {
+      "name": "Antropologia Social",
+      "code": "CIS160095",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/antropologia-social/3524432"
+    },
+    {
+      "name": "Antropología",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/antropologia/3224847"
+    },
+    {
+      "name": "Antropología para el diseño",
+      "code": "DIS-9185-00",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/antropologia-para-el-diseno/7752185"
+    },
+    {
+      "name": "Análisis Cualitativos para la Intervención Social",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/analisis-cualitativos-para-la-intervencion-social/3526968"
+    },
+    {
+      "name": "Análisis Cuantitativa para la Intervención Social​",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/analisis-cuantitativa-para-la-intervencion-social/3526965"
+    },
+    {
+      "name": "Análisis Cuantitativo de los Negocios",
+      "code": "CIA9837",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/analisis-cuantitativo-de-los-negocios/3524316"
+    },
+    {
+      "name": "Análisis de la Educación en México",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/analisis-de-la-educacion-en-mexico/3527050"
+    },
+    {
+      "name": "Análisis Estructural I",
+      "code": "ICA210496",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/analisis-estructural-i/3524750"
+    },
+    {
+      "name": "Análisis Estructural II",
+      "code": "ICA210596",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/analisis-estructural-ii/3524756"
+    },
+    {
+      "name": "Análisis Institucional",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/analisis-institucional/3527048"
+    },
+    {
+      "name": "Análisis Instrumental",
+      "code": "CQB-0023-18",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/analisis-instrumental/3524493"
+    },
+    {
+      "name": "Análisis Matemático",
+      "code": "CBE",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/analisis-matematico/3524696"
+    },
+    {
+      "name": "Análisis Numérico",
+      "code": "CBE100896",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/analisis-numerico/3524739"
+    },
+    {
+      "name": "Análisis químicos II",
+      "code": "BAS210805",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/analisis-quimicos-ii/5792507"
+    },
+    {
+      "name": "Análisis y Diseño de Algoritmos",
+      "code": "IEC986416",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/analisis-y-diseno-de-algoritmos/7617426"
+    },
+    {
+      "name": "Aplicaciones Computacionales I",
+      "code": "CBE140106",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/aplicaciones-computacionales-i/3524661"
+    },
+    {
+      "name": "Aplicación y evaluación de políticas públicas en materia de seguridad",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/aplicacion-y-evaluacion-de-politicas-publicas-en-materia-de-seguridad/3238051"
+    },
+    {
+      "name": "Aprendezaje y Memoria",
+      "code": "CIS361895",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/aprendezaje-y-memoria/3236265"
+    },
+    {
+      "name": "Archivística",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/archivistica/3527078"
+    },
+    {
+      "name": "Argumentación Jurídica",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/argumentacion-juridica/3526914"
+    },
+    {
+      "name": "Arquitectura Latinoamericana Contemporanea",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/arquitectura-latinoamericana-contemporanea/7727830"
+    },
+    {
+      "name": "Arte y cultura de Juarez",
+      "code": "ART-2226-01",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/arte-y-cultura-de-juarez/7584493"
+    },
+    {
+      "name": "Artrópodos",
+      "code": "BAS-2428-08",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/artropodos/3524504"
+    },
+    {
+      "name": "Aspectos Jurídicos del Comercio Internacional",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/aspectos-juridicos-del-comercio-internacional/3526928"
+    },
+    {
+      "name": "Auditoria Administrativa",
+      "code": "CIA1401",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/auditoria-administrativa/3524328"
+    },
+    {
+      "name": "Auditoria en Comercio Exterior",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/auditoria-en-comercio-exterior/3526893"
+    },
+    {
+      "name": "Álgebra",
+      "code": "CBE122396",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/algebra/3524637"
+    },
+    {
+      "name": "Álgebra Lineal I",
+      "code": "CBE225606",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/algebra-lineal-i/3524688"
+    },
+    {
+      "name": "Álgebra Moderna I",
+      "code": "CBE226406",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/algebra-moderna-i/3524701"
+    },
+    {
+      "name": "Bacteriología y Micología Veterinaria",
+      "code": "PEC-0092-00",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/bacteriologia-y-micologia-veterinaria/7555160"
+    },
+    {
+      "name": "Bas110705 Quimica Organica I",
+      "code": "BAS244508",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/bas110705-quimica-organica-i/3524541"
+    },
+    {
+      "name": "Bas244508 Estadistica",
+      "code": "BAS110105",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/bas244508-estadistica/3524542"
+    },
+    {
+      "name": "Bas315108 Inmunologia",
+      "code": "BAS210705",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/bas315108-inmunologia/3524551"
+    },
+    {
+      "name": "BAS983814 Lab. Fisicoquímica I",
+      "code": "BAS981500",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/bas983814-lab-fisicoquimica-i/3524544"
+    },
+    {
+      "name": "Bases Biológicas de la Conducta",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/bases-biologicas-de-la-conducta/3526978"
+    },
+    {
+      "name": "Bases de la Nutricion",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/bases-de-la-nutricion/4093257"
+    },
+    {
+      "name": "Bio Estadística",
+      "code": "MED992317",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/bio-estadistica/3524619"
+    },
+    {
+      "name": "Bioetica",
+      "code": "HUM121905",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/bioetica/3524560"
+    },
+    {
+      "name": "Biofísica",
+      "code": "CQB-0006-18",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/biofisica/3524485"
+    },
+    {
+      "name": "Biogeografía",
+      "code": "CQB-0037-18",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/biogeografia/3524523"
+    },
+    {
+      "name": "Biologia celular",
+      "code": "123456",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/biologia-celular/5962821"
+    },
+    {
+      "name": "Biologia Celular",
+      "code": "BAS221399",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/biologia-celular/3524577"
+    },
+    {
+      "name": "Biología Celular",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/biologia-celular/3221738"
+    },
+    {
+      "name": "Biología Celular y Molecular",
+      "code": "MED-9889-14",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/biologia-celular-y-molecular/5333422"
+    },
+    {
+      "name": "Biología Celular y Molecular",
+      "code": "BAS323905",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/biologia-celular-y-molecular/4617127"
+    },
+    {
+      "name": "Biología de Campo",
+      "code": "BAS-1901-99",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/biologia-de-campo/3524495"
+    },
+    {
+      "name": "Biología de Cordados",
+      "code": "CQB-0035-18",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/biologia-de-cordados/3524500"
+    },
+    {
+      "name": "Biología de Cordados",
+      "code": "CQB003518",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/biologia-de-cordados/3223472"
+    },
+    {
+      "name": "Biología de Invertebrados",
+      "code": "CQB-0036-18",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/biologia-de-invertebrados/3524503"
+    },
+    {
+      "name": "Biología del Desarrollo",
+      "code": "BAS-2438-08",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/biologia-del-desarrollo/3524513"
+    },
+    {
+      "name": "Biología Molecular",
+      "code": "CQB-0033-18",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/biologia-molecular/3524517"
+    },
+    {
+      "name": "Biomateriales",
+      "code": "CBE500205",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/biomateriales/3524722"
+    },
+    {
+      "name": "Biomoléculas",
+      "code": "CQB-0004-18",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/biomoleculas/3524487"
+    },
+    {
+      "name": "Bioquimica",
+      "code": "cqb003218",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/bioquimica/3223499"
+    },
+    {
+      "name": "Bioquimica de Alimentos",
+      "code": "BAS985914",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/bioquimica-de-alimentos/3524583"
+    },
+    {
+      "name": "Bioquimica General",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/bioquimica-general/3221175"
+    },
+    {
+      "name": "Bioquimica II",
+      "code": "BAS986314",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/bioquimica-ii/3524553"
+    },
+    {
+      "name": "BIOQUIMICA MEDICA",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/bioquimica-medica/3223190"
+    },
+    {
+      "name": "Bioquímica",
+      "code": "CQB-0032-18",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/bioquimica/3524497"
+    },
+    {
+      "name": "Bioquímica",
+      "code": "BAS120903",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/bioquimica/3524595"
+    },
+    {
+      "name": "Bioquímica clínica QFB",
+      "code": "BAS982400",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/bioquimica-clinica-qfb/5733099"
+    },
+    {
+      "name": "Bioquímica Veterinaria",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/bioquimica-veterinaria/4392390"
+    },
+    {
+      "name": "Biotecnologia",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/biotecnologia/4830297"
+    },
+    {
+      "name": "BIOÉTICA APLICADA AL ENTORNO ECOLÓGICO Y MÉDICO",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/bioetica-aplicada-al-entorno-ecologico-y-medico/3223506"
+    },
+    {
+      "name": "Bioética y Deontología en Enfermería",
+      "code": "MED993217",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/bioetica-y-deontologia-en-enfermeria/3524608"
+    },
+    {
+      "name": "bromatología de los alimentos",
+      "code": "Bromatología",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/bromatologia-de-los-alimentos/6682835"
+    },
+    {
+      "name": "Cabeza y Cuello",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/cabeza-y-cuello/6874767"
+    },
+    {
+      "name": "Calculo Diferencial e Integral",
+      "code": "BAS984614",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/calculo-diferencial-e-integral/3524543"
+    },
+    {
+      "name": "Calculo III",
+      "code": "CBE100496",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/calculo-iii/3524737"
+    },
+    {
+      "name": "Calculo lll",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/calculo-lll/3236587"
+    },
+    {
+      "name": "CARDIOLOGIA",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/cardiologia/3223220"
+    },
+    {
+      "name": "Cardiología",
+      "code": "Cardiología 1",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/cardiologia/7566898"
+    },
+    {
+      "name": "Cerámicos",
+      "code": "CBE532105",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/ceramicos/3524716"
+    },
+    {
+      "name": "Ciencias de la Tierra y de la Atmosfera",
+      "code": "CQB-0030-18",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/ciencias-de-la-tierra-y-de-la-atmosfera/3524489"
+    },
+    {
+      "name": "Cimentaciones",
+      "code": "ICA360496",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/cimentaciones/3524767"
+    },
+    {
+      "name": "Circuitos Digitales",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/circuitos-digitales/5289320"
+    },
+    {
+      "name": "Circuitos Eléctricos I",
+      "code": "IEC270196",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/circuitos-electricos-i/3524662"
+    },
+    {
+      "name": "Cirugía General",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/cirugia-general/3221206"
+    },
+    {
+      "name": "Citología",
+      "code": "CQB000118",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/citologia/7248764"
+    },
+    {
+      "name": "Citología",
+      "code": "CQB-0001-18",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/citologia/3524490"
+    },
+    {
+      "name": "Clasificación Arancelaria",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/clasificacion-arancelaria/7162850"
+    },
+    {
+      "name": "CLINICA DE ANESTESIOLOGIA",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/clinica-de-anestesiologia/3222594"
+    },
+    {
+      "name": "CLINICA DE DIGESTIVO",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/clinica-de-digestivo/3223209"
+    },
+    {
+      "name": "CLINICA DE RENAL",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/clinica-de-renal/3223219"
+    },
+    {
+      "name": "Clinica del Dolor",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/clinica-del-dolor/3222697"
+    },
+    {
+      "name": "CLINICA RESPIRATORIO",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/clinica-respiratorio/3223210"
+    },
+    {
+      "name": "Clínica Cuidado Niño y Adolescente",
+      "code": "MED992717",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/clinica-cuidado-nino-y-adolescente/3524630"
+    },
+    {
+      "name": "Clínica cuidados de la mujer y del recién nacido",
+      "code": "Enfermería",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/clinica-cuidados-de-la-mujer-y-del-recien-nacido/7438921"
+    },
+    {
+      "name": "Clínica Cuidados Mujer y Rec.nac",
+      "code": "MED992417",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/clinica-cuidados-mujer-y-recnac/3524622"
+    },
+    {
+      "name": "Clínica Cuidados Primarios",
+      "code": "MED992017",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/clinica-cuidados-primarios/3524624"
+    },
+    {
+      "name": "Clínica de Cuidados al Adulto",
+      "code": "MED993117",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/clinica-de-cuidados-al-adulto/3524628"
+    },
+    {
+      "name": "Color en la Moda",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/color-en-la-moda/6867567"
+    },
+    {
+      "name": "Combinatoria",
+      "code": "CBE",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/combinatoria/3524705"
+    },
+    {
+      "name": "Comercialización de productos",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/comercializacion-de-productos/3526877"
+    },
+    {
+      "name": "Comp. Organizacional",
+      "code": "CIS3600",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/comp-organizacional/3524395"
+    },
+    {
+      "name": "Comp. Para el Desarrollo Humano",
+      "code": "HUM2157",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/comp-para-el-desarrollo-humano/3524406"
+    },
+    {
+      "name": "Competencia Económica",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/competencia-economica/3526901"
+    },
+    {
+      "name": "Competencias Ciudadanas",
+      "code": "HUM215800",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/competencias-ciudadanas/3524633"
+    },
+    {
+      "name": "Competencias Comunicativas",
+      "code": "HUM215600",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/competencias-comunicativas/3524576"
+    },
+    {
+      "name": "Competencias Comunicativas",
+      "code": "HUM2156",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/competencias-comunicativas/3524308"
+    },
+    {
+      "name": "Competencias Comunicativas con Enfoque de Genero",
+      "code": "HUM-2156-00",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/competencias-comunicativas-con-enfoque-de-genero/3524492"
+    },
+    {
+      "name": "COMPETENCIAS COMUNICATIVAS CON ENFOQUE DE GENERO",
+      "code": "HUM215600",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/competencias-comunicativas-con-enfoque-de-genero/3235879"
+    },
+    {
+      "name": "Competencias del Ejercicio de Ciudadanía",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/competencias-del-ejercicio-de-ciudadania/3526888"
+    },
+    {
+      "name": "Competencias Desarrollo Humano",
+      "code": "HUM215700",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/competencias-desarrollo-humano/3524626"
+    },
+    {
+      "name": "Competencias en Desarrollo Humano Sustentable",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/competencias-en-desarrollo-humano-sustentable/3526988"
+    },
+    {
+      "name": "Competencias para el Desarrollo Humano Sustentable",
+      "code": "HUM215700",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/competencias-para-el-desarrollo-humano-sustentable/3524656"
+    },
+    {
+      "name": "Competencias Para El Desarrollo Humano Sustentable Con Enfoque  De Genero",
+      "code": "HUM-2157-00",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/competencias-para-el-desarrollo-humano-sustentable-con-enfoque-de-genero/3524498"
+    },
+    {
+      "name": "Competencias para el Ejercicio de la Ciud.",
+      "code": "HUM218",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/competencias-para-el-ejercicio-de-la-ciud/3524334"
+    },
+    {
+      "name": "Competencias para el ejercicio de la Ciudadania",
+      "code": "HUM215800",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/competencias-para-el-ejercicio-de-la-ciudadania/3524580"
+    },
+    {
+      "name": "Competencias para el ejercicio de la ciudadanía con enfoque de género",
+      "code": "hum215800av",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/competencias-para-el-ejercicio-de-la-ciudadania-con-enfoque-de-genero/6555731"
+    },
+    {
+      "name": "Competencias para el ejercicio de la ciudadanía con enfoque de género",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/competencias-para-el-ejercicio-de-la-ciudadania-con-enfoque-de-genero/7110204"
+    },
+    {
+      "name": "Competencias para el Ejercicio de la Ciudadanía con Enfoque de Género",
+      "code": "HUM-2158-00",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/competencias-para-el-ejercicio-de-la-ciudadania-con-enfoque-de-genero/3524515"
+    },
+    {
+      "name": "Competencias para la ciudadanía con enfoque de género",
+      "code": "_U_EnLinea_180812",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/competencias-para-la-ciudadania-con-enfoque-de-genero/3221504"
+    },
+    {
+      "name": "Comportamiento del Consumidor",
+      "code": "CIA1612",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/comportamiento-del-consumidor/3524337"
+    },
+    {
+      "name": "Comportamiento Organizacional",
+      "code": "CIS3600",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/comportamiento-organizacional/3524349"
+    },
+    {
+      "name": "Composición y Gestalt",
+      "code": "Diseño urbano y del",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/composicion-y-gestalt/5623253"
+    },
+    {
+      "name": "Compra Venta Internacional de Mercaderías",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/compra-venta-internacional-de-mercaderias/3526887"
+    },
+    {
+      "name": "Compt.  Comunicativas",
+      "code": "HUM 2156",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/compt-comunicativas/3524355"
+    },
+    {
+      "name": "Compt. Desarrollo Humano",
+      "code": "HUM2157",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/compt-desarrollo-humano/3524367"
+    },
+    {
+      "name": "Compt. p/el ejercicio de la Ciud.",
+      "code": "HUM2158",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/compt-pel-ejercicio-de-la-ciud/3524384"
+    },
+    {
+      "name": "Comunicación Organizacional",
+      "code": "ADM2203",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/comunicacion-organizacional/3524340"
+    },
+    {
+      "name": "Comunicación y Estudios de la Cultura",
+      "code": "CS 0055-00",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/comunicacion-y-estudios-de-la-cultura/3524480"
+    },
+    {
+      "name": "Comunidad, Actores e Instituciones",
+      "code": "CS 0071-02",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/comunidad-actores-e-instituciones/3524476"
+    },
+    {
+      "name": "Comunidades humanas",
+      "code": "Arquitectura",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/comunidades-humanas/7538352"
+    },
+    {
+      "name": "Construcción I",
+      "code": "ICA220496",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/construccion-i/3524748"
+    },
+    {
+      "name": "Construcción II",
+      "code": "ICA220596",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/construccion-ii/3524753"
+    },
+    {
+      "name": "Conta. Gubernamental y Emp. No Lucrativas",
+      "code": "CIA3606",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/conta-gubernamental-y-emp-no-lucrativas/3524394"
+    },
+    {
+      "name": "Contabilidad  Financiera",
+      "code": "CIA3000",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/contabilidad-financiera/3526842"
+    },
+    {
+      "name": "Contabilidad Administrativa",
+      "code": "CIA3003",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/contabilidad-administrativa/3524299"
+    },
+    {
+      "name": "Contabilidad Administrativa",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/contabilidad-administrativa/3224556"
+    },
+    {
+      "name": "Contabilidad de costos",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/contabilidad-de-costos/3227547"
+    },
+    {
+      "name": "Contabilidad de Costos",
+      "code": "CIA3004",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/contabilidad-de-costos/3524298"
+    },
+    {
+      "name": "Contabilidad de Costos I",
+      "code": "CIA3005",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/contabilidad-de-costos-i/3524359"
+    },
+    {
+      "name": "Contabilidad de Costos II",
+      "code": "CIA3202",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/contabilidad-de-costos-ii/3524364"
+    },
+    {
+      "name": "Contabilidad de Sociedades",
+      "code": "CIA3201",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/contabilidad-de-sociedades/3524366"
+    },
+    {
+      "name": "CONTABILIDAD FINANCIERA",
+      "code": "CIA-3001-95",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/contabilidad-financiera/3170388"
+    },
+    {
+      "name": "Contabilidad Financiera I",
+      "code": "CIA3001",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/contabilidad-financiera-i/3524297"
+    },
+    {
+      "name": "Contabilidad Financiera II",
+      "code": "CIA3002",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/contabilidad-financiera-ii/3524354"
+    },
+    {
+      "name": "Contabilidad General",
+      "code": "IIM250196",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/contabilidad-general/3524741"
+    },
+    {
+      "name": "Contabilidad Intermedia",
+      "code": "CIA3200",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/contabilidad-intermedia/3524363"
+    },
+    {
+      "name": "Contabilidad Internacional",
+      "code": "CIA3405",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/contabilidad-internacional/3524387"
+    },
+    {
+      "name": "Contratos Mercantiles",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/contratos-mercantiles/3526922"
+    },
+    {
+      "name": "Control de Calidad",
+      "code": "BAS986114",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/control-de-calidad/3524552"
+    },
+    {
+      "name": "CONTROL I",
+      "code": "IIM370496",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/control-i/3222290"
+    },
+    {
+      "name": "Corrientes Contemporáneas de la Psicología",
+      "code": "CIS361695",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/corrientes-contemporaneas-de-la-psicologia/3236209"
+    },
+    {
+      "name": "Corrientes Pedagógicas Contemporáneas",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/corrientes-pedagogicas-contemporaneas/3527034"
+    },
+    {
+      "name": "Corrosión a alta temperatura",
+      "code": "CBE532305",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/corrosion-a-alta-temperatura/3524720"
+    },
+    {
+      "name": "Corrosión a baja temperatura",
+      "code": "CBE531705",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/corrosion-a-baja-temperatura/3524717"
+    },
+    {
+      "name": "Creación y Desarrollo de Empresas",
+      "code": "CIA1600",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/creacion-y-desarrollo-de-empresas/3524330"
+    },
+    {
+      "name": "Crecimiento Económico",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/crecimiento-economico/3526940"
+    },
+    {
+      "name": "Cuidado del Adulto",
+      "code": "MED992617",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/cuidado-del-adulto/3524607"
+    },
+    {
+      "name": "Cuidado del Adulto en Edo. Crítico",
+      "code": "MED993017",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/cuidado-del-adulto-en-edo-critico/3524604"
+    },
+    {
+      "name": "Cuidado del Niño y Adolescente",
+      "code": "MED992117",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/cuidado-del-nino-y-adolescente/3524600"
+    },
+    {
+      "name": "Cuidados de Mujer y Recién",
+      "code": "MED991717",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/cuidados-de-mujer-y-recien/3524601"
+    },
+    {
+      "name": "Cuidados en la Vejez",
+      "code": "MED992917",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/cuidados-en-la-vejez/3524605"
+    },
+    {
+      "name": "Cuidados Situación Urg. y Desastres",
+      "code": "MED992517",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/cuidados-situacion-urg-y-desastres/3524602"
+    },
+    {
+      "name": "cultura de la legalidad y la transparencia",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/cultura-de-la-legalidad-y-la-transparencia/5307583"
+    },
+    {
+      "name": "Cultura y personalidad",
+      "code": "CIS363495",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/cultura-y-personalidad/3224441"
+    },
+    {
+      "name": "Cultura y Sociedad Mexicana",
+      "code": "251680",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/cultura-y-sociedad-mexicana/7501649"
+    },
+    {
+      "name": "Cultura y Sociedad Mexicana",
+      "code": "CIS101195",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/cultura-y-sociedad-mexicana/3220526"
+    },
+    {
+      "name": "Curso de Introduccion al Modelo Educativo",
+      "code": "BAS-0000-00",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/curso-de-introduccion-al-modelo-educativo/7768590"
+    },
+    {
+      "name": "Cálculo 2",
+      "code": "CBE100396",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/calculo-2/3222851"
+    },
+    {
+      "name": "Cálculo I",
+      "code": "CBE100296",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/calculo-i/3524636"
+    },
+    {
+      "name": "Cálculo II",
+      "code": "CBE100396",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/calculo-ii/3524641"
+    },
+    {
+      "name": "Cálculo Multivariable",
+      "code": "CBE",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/calculo-multivariable/3524647"
+    },
+    {
+      "name": "Cálculo Vectorial",
+      "code": "CBE",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/calculo-vectorial/3524653"
+    },
+    {
+      "name": "Cálculos Financieros",
+      "code": "UMA1003",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/calculos-financieros/3524304"
+    },
+    {
+      "name": "Derecho Administrativo I",
+      "code": "JUR1210",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/derecho-administrativo-i/3524408"
+    },
+    {
+      "name": "Derecho Agrario",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/derecho-agrario/3240087"
+    },
+    {
+      "name": "Derecho Bancario",
+      "code": "JUR161095",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/derecho-bancario/3524425"
+    },
+    {
+      "name": "Derecho Civil I",
+      "code": "JUR1010",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/derecho-civil-i/3526844"
+    },
+    {
+      "name": "Derecho Civil II",
+      "code": "JUR1200",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/derecho-civil-ii/3526845"
+    },
+    {
+      "name": "Derecho Civil III",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/derecho-civil-iii/3526909"
+    },
+    {
+      "name": "Derecho Civil IV",
+      "code": "JUR1213",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/derecho-civil-iv/3221735"
+    },
+    {
+      "name": "Derecho Comparado",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/derecho-comparado/3526898"
+    },
+    {
+      "name": "Derecho Conflictual",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/derecho-conflictual/3526896"
+    },
+    {
+      "name": "Derecho Constitucional",
+      "code": "JUR2612",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/derecho-constitucional/3362355"
+    },
+    {
+      "name": "Derecho Corporativo",
+      "code": "JUR1621",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/derecho-corporativo/3524411"
+    },
+    {
+      "name": "Derecho de Amparo",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/derecho-de-amparo/3526919"
+    },
+    {
+      "name": "derecho de amparo",
+      "code": "derecho de amparo 1",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/derecho-de-amparo/5824755"
+    },
+    {
+      "name": "Derecho de Familia​​",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/derecho-de-familia/3526904"
+    },
+    {
+      "name": "Derecho electoral",
+      "code": "JUR1647",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/derecho-electoral/3171991"
+    },
+    {
+      "name": "DERECHO FAMILIAR",
+      "code": "JUR-1007-95",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/derecho-familiar/3224299"
+    },
+    {
+      "name": "Derecho Financiero",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/derecho-financiero/3526924"
+    },
+    {
+      "name": "Derecho Fiscal",
+      "code": "JUR1405",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/derecho-fiscal/3524365"
+    },
+    {
+      "name": "Derecho Fiscal Empresarial",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/derecho-fiscal-empresarial/3526933"
+    },
+    {
+      "name": "Derecho Internacional Público",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/derecho-internacional-publico/3240089"
+    },
+    {
+      "name": "Derecho Laboral",
+      "code": "JUR1211",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/derecho-laboral/3524317"
+    },
+    {
+      "name": "Derecho Laboral",
+      "code": "CBE230896",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/derecho-laboral/3524770"
+    },
+    {
+      "name": "Derecho Mercantil I",
+      "code": "JUR1204",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/derecho-mercantil-i/3524303"
+    },
+    {
+      "name": "Derecho Mercantil I",
+      "code": "JUR 1204",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/derecho-mercantil-i/3524357"
+    },
+    {
+      "name": "Derecho Penal I",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/derecho-penal-i/3526882"
+    },
+    {
+      "name": "Derecho Penal II",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/derecho-penal-ii/3526908"
+    },
+    {
+      "name": "Derecho Procesal Fiscal y Aduanero",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/derecho-procesal-fiscal-y-aduanero/3526886"
+    },
+    {
+      "name": "Derecho Procesal Laboral",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/derecho-procesal-laboral/3526912"
+    },
+    {
+      "name": "Derecho Procesal Penal​",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/derecho-procesal-penal/3526910"
+    },
+    {
+      "name": "Derivados I",
+      "code": "CIA987100",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/derivados-i/3524418"
+    },
+    {
+      "name": "Derivados II",
+      "code": "CIA987200",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/derivados-ii/3524420"
+    },
+    {
+      "name": "Dermatologia",
+      "code": "dermatologia",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/dermatologia/3209875"
+    },
+    {
+      "name": "Desarrollo de Alimentos",
+      "code": "BAS342505",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/desarrollo-de-alimentos/3524574"
+    },
+    {
+      "name": "Desarrollo de aplicaciones móviles",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/desarrollo-de-aplicaciones-moviles/6429537"
+    },
+    {
+      "name": "Desarrollo Económico",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/desarrollo-economico/3526953"
+    },
+    {
+      "name": "Desarrollo Empresarial",
+      "code": "IIM340396",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/desarrollo-empresarial/3524683"
+    },
+    {
+      "name": "Desarrollo Psicológico",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/desarrollo-psicologico/3526984"
+    },
+    {
+      "name": "Desarrollo y Estrategias de Aprendizaje",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/desarrollo-y-estrategias-de-aprendizaje/3527077"
+    },
+    {
+      "name": "Despacho Aduanero",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/despacho-aduanero/3526891"
+    },
+    {
+      "name": "Dibujo Industrial Asistido por Computadora",
+      "code": "IIM983500",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/dibujo-industrial-asistido-por-computadora/3524639"
+    },
+    {
+      "name": "Dibujo Técnico",
+      "code": "ICA",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/dibujo-tecnico/3524732"
+    },
+    {
+      "name": "Dictámenes de Auditoría",
+      "code": "CIA3629",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/dictamenes-de-auditoria/3524379"
+    },
+    {
+      "name": "Didáctica de la Educ​ación Superior",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/didactica-de-la-educacion-superior/3527046"
+    },
+    {
+      "name": "Didáctica de las Matemáticas",
+      "code": "CBE225506",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/didactica-de-las-matematicas/3524698"
+    },
+    {
+      "name": "Didáctica I",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/didactica-i/3527035"
+    },
+    {
+      "name": "Didáctica II",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/didactica-ii/3527036"
+    },
+    {
+      "name": "Dinámicas y Técnicas de Grupo",
+      "code": "CIS240395",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/dinamicas-y-tecnicas-de-grupo/3224808"
+    },
+    {
+      "name": "Dirección de las operaciones",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/direccion-de-las-operaciones/3526867"
+    },
+    {
+      "name": "Diseño de Elementos de Acero",
+      "code": "ICA",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/diseno-de-elementos-de-acero/3524762"
+    },
+    {
+      "name": "Diseño de Elementos de Concreto",
+      "code": "ICA",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/diseno-de-elementos-de-concreto/3524763"
+    },
+    {
+      "name": "Diseño Experimental",
+      "code": "BAS-2110-05",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/diseno-experimental/3524510"
+    },
+    {
+      "name": "Diseño I",
+      "code": "DIS200400",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/diseno-i/3223575"
+    },
+    {
+      "name": "Diseño Integral de Estructuras",
+      "code": "ICA",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/diseno-integral-de-estructuras/3524766"
+    },
+    {
+      "name": "Diseño mecanico",
+      "code": "IIM-3602-96",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/diseno-mecanico/5195971"
+    },
+    {
+      "name": "Diseño y Evaluación Curricular",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/diseno-y-evaluacion-curricular/3527044"
+    },
+    {
+      "name": "Ecología",
+      "code": "CQB-0031-18",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/ecologia/3524496"
+    },
+    {
+      "name": "Ecología de la Salud",
+      "code": "MED990917",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/ecologia-de-la-salud/3524591"
+    },
+    {
+      "name": "Econometría",
+      "code": "ECO121600",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/econometria/3224287"
+    },
+    {
+      "name": "Econometría I",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/econometria-i/3526948"
+    },
+    {
+      "name": "Economía Ambiental",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/economia-ambiental/3527015"
+    },
+    {
+      "name": "Economía de la Educación",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/economia-de-la-educacion/3527053"
+    },
+    {
+      "name": "Economía de la Empresa",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/economia-de-la-empresa/3526943"
+    },
+    {
+      "name": "Economía del Sector Agropecuario y Desarrollo Rural",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/economia-del-sector-agropecuario-y-desarrollo-rural/3527012"
+    },
+    {
+      "name": "Economía Espacial",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/economia-espacial/3527011"
+    },
+    {
+      "name": "Economía Industrial",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/economia-industrial/3526944"
+    },
+    {
+      "name": "Economía Internacional​",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/economia-internacional/3526947"
+    },
+    {
+      "name": "Economía Política I",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/economia-politica-i/3526938"
+    },
+    {
+      "name": "Economía Pública",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/economia-publica/3527002"
+    },
+    {
+      "name": "Economía Sectorial y Competitividad",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/economia-sectorial-y-competitividad/3527014"
+    },
+    {
+      "name": "Ecuaciones Diferenciales I",
+      "code": "CBE100796",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/ecuaciones-diferenciales-i/3524738"
+    },
+    {
+      "name": "Ecuaciones Diferenciales Parciales",
+      "code": "CBE328206",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/ecuaciones-diferenciales-parciales/3524706"
+    },
+    {
+      "name": "Educación Comunitaria",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/educacion-comunitaria/3527049"
+    },
+    {
+      "name": "Educación para la Paz",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/educacion-para-la-paz/3527018"
+    },
+    {
+      "name": "Educación Para la Salud",
+      "code": "MED991517",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/educacion-para-la-salud/3524616"
+    },
+    {
+      "name": "EGEL Medicina",
+      "code": "4511",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/egel-medicina/7318008"
+    },
+    {
+      "name": "Elaboración de Documentos Académicos",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/elaboracion-de-documentos-academicos/3526957"
+    },
+    {
+      "name": "Elaboración de Productos Lácteos",
+      "code": "PEC-0132",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/elaboracion-de-productos-lacteos/6713882"
+    },
+    {
+      "name": "Elaboración de Proyectos Sociales",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/elaboracion-de-proyectos-sociales/3526955"
+    },
+    {
+      "name": "Elaboración y Uso de Recursos Didácticos",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/elaboracion-y-uso-de-recursos-didacticos/3527037"
+    },
+    {
+      "name": "Electrometría",
+      "code": "IEC250996",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/electrometria/3524655"
+    },
+    {
+      "name": "Electrónica I",
+      "code": "ICE270396",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/electronica-i/3524669"
+    },
+    {
+      "name": "Electrónica l",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/electronica-l/3224788"
+    },
+    {
+      "name": "EMBRIOLOGIA HUMANA",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/embriologia-humana/3223183"
+    },
+    {
+      "name": "ENDOCRINOLOGIA",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/endocrinologia/3222460"
+    },
+    {
+      "name": "Enfermería Comunitaria",
+      "code": "MED991917",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/enfermeria-comunitaria/3524617"
+    },
+    {
+      "name": "Enfermería en Salud Mental",
+      "code": "MED363803",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/enfermeria-en-salud-mental/3524625"
+    },
+    {
+      "name": "Enfermería Familiar",
+      "code": "MED991417",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/enfermeria-familiar/3524615"
+    },
+    {
+      "name": "Enfermería Fundamental",
+      "code": "MED991217",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/enfermeria-fundamental/3524593"
+    },
+    {
+      "name": "Enfermería Laboral",
+      "code": "MED993417",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/enfermeria-laboral/3524609"
+    },
+    {
+      "name": "Enfermería Quirúrgica",
+      "code": "MED994117",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/enfermeria-quirurgica/3524599"
+    },
+    {
+      "name": "Enfoques Teóricos de Enfermería",
+      "code": "MED991317",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/enfoques-teoricos-de-enfermeria/3524592"
+    },
+    {
+      "name": "Entrenamiento Deportivo",
+      "code": "BAS2021",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/entrenamiento-deportivo/5115491"
+    },
+    {
+      "name": "Entrevista Psicológica",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/entrevista-psicologica/3526991"
+    },
+    {
+      "name": "EPIDEMIOLOGIA",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/epidemiologia/3222520"
+    },
+    {
+      "name": "Epistemología de la Educación",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/epistemologia-de-la-educacion/3527039"
+    },
+    {
+      "name": "Epistemología de las Ciencias Sociales",
+      "code": "MCS 0030-00",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/epistemologia-de-las-ciencias-sociales/3524463"
+    },
+    {
+      "name": "Epistemología de las Ciencias Sociales",
+      "code": "CIS167000",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/epistemologia-de-las-ciencias-sociales/3524462"
+    },
+    {
+      "name": "Epistemología del Trabajo Social",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/epistemologia-del-trabajo-social/3526961"
+    },
+    {
+      "name": "Equidad de Género y Mod. Interv. T. Soc.",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/equidad-de-genero-y-mod-interv-t-soc/3526973"
+    },
+    {
+      "name": "Espacio y Estructura",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/espacio-y-estructura/3222559"
+    },
+    {
+      "name": "Especialidad en Endodoncia",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/especialidad-en-endodoncia/5811694"
+    },
+    {
+      "name": "Espermatofitas",
+      "code": "BAS-2433-08",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/espermatofitas/3524502"
+    },
+    {
+      "name": "Est. y Análisis de los Imp.",
+      "code": "CIA1601",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/est-y-analisis-de-los-imp/3524390"
+    },
+    {
+      "name": "Estadistica",
+      "code": "MED091329",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/estadistica/3224928"
+    },
+    {
+      "name": "Estadistica II",
+      "code": "UMA120595",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/estadistica-ii/3524413"
+    },
+    {
+      "name": "Estadística",
+      "code": "CBE300396",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/estadistica/3524704"
+    },
+    {
+      "name": "Estadística",
+      "code": "BAS-2445-08",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/estadistica/3524509"
+    },
+    {
+      "name": "Estadística Descriptiva",
+      "code": "UMA1001",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/estadistica-descriptiva/3524301"
+    },
+    {
+      "name": "Estadística Inferencial",
+      "code": "UMA1002",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/estadistica-inferencial/3524315"
+    },
+    {
+      "name": "Estimulación temprana",
+      "code": "CIS604002",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/estimulacion-temprana/3236229"
+    },
+    {
+      "name": "Estrategias de Costos",
+      "code": "CIA3605",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/estrategias-de-costos/3524423"
+    },
+    {
+      "name": "Estrategias del Cambio Organizacional",
+      "code": "CIA1402",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/estrategias-del-cambio-organizacional/3524329"
+    },
+    {
+      "name": "Estrategias Gerenciales",
+      "code": "CIA1400",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/estrategias-gerenciales/3524343"
+    },
+    {
+      "name": "Estructuras de datos",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/estructuras-de-datos/6552400"
+    },
+    {
+      "name": "Estudios de Género",
+      "code": "CIS101095",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/estudios-de-genero/3524456"
+    },
+    {
+      "name": "Estudios de vida cotidiana",
+      "code": "MCS 0072-02",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/estudios-de-vida-cotidiana/3524479"
+    },
+    {
+      "name": "Estudios Sociales Contemporáneos",
+      "code": "MCS 0031-00",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/estudios-sociales-contemporaneos/3524464"
+    },
+    {
+      "name": "ETICA DE LA MEDICINA",
+      "code": "MED986414",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/etica-de-la-medicina/3224410"
+    },
+    {
+      "name": "Etica Financiera",
+      "code": "CIA982000",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/etica-financiera/3524424"
+    },
+    {
+      "name": "etologia veterinaria",
+      "code": "#141205",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/etologia-veterinaria/5815569"
+    },
+    {
+      "name": "Eumicota",
+      "code": "BAS-2427-08",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/eumicota/3524506"
+    },
+    {
+      "name": "Evaluación de impacto ambiental",
+      "code": "ICA-1000-00",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/evaluacion-de-impacto-ambiental/6698372"
+    },
+    {
+      "name": "Evaluación Educativa",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/evaluacion-educativa/3527051"
+    },
+    {
+      "name": "Evolución",
+      "code": "BAS-3912-99",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/evolucion/3524534"
+    },
+    {
+      "name": "Examen de admisión guía",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/examen-de-admision-guia/6341777"
+    },
+    {
+      "name": "Ética del Cuidado",
+      "code": "MED991117",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/etica-del-cuidado/3524614"
+    },
+    {
+      "name": "Ética del Ejercicio Profesional",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/etica-del-ejercicio-profesional/3526895"
+    },
+    {
+      "name": "Ética profesional",
+      "code": "CIS163495",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/etica-profesional/3236219"
+    },
+    {
+      "name": "farmacia",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/farmacia/4498020"
+    },
+    {
+      "name": "Farmacia 1",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/farmacia-1/5484023"
+    },
+    {
+      "name": "Farmacología",
+      "code": "BAS990518",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/farmacologia/3524618"
+    },
+    {
+      "name": "Farmacología",
+      "code": "MED982900",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/farmacologia/3220510"
+    },
+    {
+      "name": "Farmacología Clínica",
+      "code": "BAS983300",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/farmacologia-clinica/5796931"
+    },
+    {
+      "name": "Filosofía de la Educación",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/filosofia-de-la-educacion/3527042"
+    },
+    {
+      "name": "Filosofía de la Historia",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/filosofia-de-la-historia/3527066"
+    },
+    {
+      "name": "Filosofía del arte",
+      "code": "Arte",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/filosofia-del-arte/7157098"
+    },
+    {
+      "name": "Filosofía del Derecho",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/filosofia-del-derecho/3526917"
+    },
+    {
+      "name": "FINANZAS",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/finanzas/3224548"
+    },
+    {
+      "name": "Finanzas Corporativas",
+      "code": "CIA9817",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/finanzas-corporativas/3524409"
+    },
+    {
+      "name": "Finanzas I",
+      "code": "CIA3204",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/finanzas-i/3524318"
+    },
+    {
+      "name": "Finanzas II",
+      "code": "CIA3400",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/finanzas-ii/3524319"
+    },
+    {
+      "name": "Finanzas III",
+      "code": "CIA986514",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/finanzas-iii/3524369"
+    },
+    {
+      "name": "Finanzas internacionales",
+      "code": "CIA3401",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/finanzas-internacionales/3524386"
+    },
+    {
+      "name": "Fis. y Bio. de Microorg",
+      "code": "BAS986914",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/fis-y-bio-de-microorg/3524554"
+    },
+    {
+      "name": "Fisica",
+      "code": "IFB120199",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/fisica/3524537"
+    },
+    {
+      "name": "Fisicoquimica I",
+      "code": "BAS983714",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/fisicoquimica-i/3524559"
+    },
+    {
+      "name": "Fisicoquimica II",
+      "code": "BAS983914",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/fisicoquimica-ii/3524578"
+    },
+    {
+      "name": "Fisicoquímica",
+      "code": "CQB-0000-18",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/fisicoquimica/3524488"
+    },
+    {
+      "name": "Fisicoquímica",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/fisicoquimica/3221722"
+    },
+    {
+      "name": "Fisicoquímica Farmacéutica",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/fisicoquimica-farmaceutica/4515952"
+    },
+    {
+      "name": "Fisicoquímica III",
+      "code": "BAS985414",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/fisicoquimica-iii/3524587"
+    },
+    {
+      "name": "Fisiologia",
+      "code": "Bas10452",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/fisiologia/2890224"
+    },
+    {
+      "name": "FISIOLOGIA HUMANA 1",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/fisiologia-humana-1/3223191"
+    },
+    {
+      "name": "FISIOLOGIA HUMANA 2",
+      "code": "BAS982100",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/fisiologia-humana-2/3221194"
+    },
+    {
+      "name": "Fisiología",
+      "code": "BAS140503",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/fisiologia/3524594"
+    },
+    {
+      "name": "Fisiología Celular y Biofísica",
+      "code": "PEC-0079-00",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/fisiologia-celular-y-biofisica/3223298"
+    },
+    {
+      "name": "Fisiología general y biofisica",
+      "code": "BAS0003-94",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/fisiologia-general-y-biofisica/4032109"
+    },
+    {
+      "name": "Fisiología veterinaria",
+      "code": "Fisiología vet",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/fisiologia-veterinaria/6381163"
+    },
+    {
+      "name": "Fisiopatología",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/fisiopatologia/7380132"
+    },
+    {
+      "name": "Form. y Eval. De Proy. Inv.",
+      "code": "ECO1207",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/form-y-eval-de-proy-inv/3524373"
+    },
+    {
+      "name": "Formación del Estado",
+      "code": "CIS167700",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/formacion-del-estado/3524434"
+    },
+    {
+      "name": "Formación Emprendedores",
+      "code": "MED993717",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/formacion-emprendedores/3524621"
+    },
+    {
+      "name": "Formación Integral En Arte Y Cultura",
+      "code": "CBE",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/formacion-integral-en-arte-y-cultura/3524651"
+    },
+    {
+      "name": "Formación y Evaluación de Proyectos de Inv.",
+      "code": "ECO1207",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/formacion-y-evaluacion-de-proyectos-de-inv/3524327"
+    },
+    {
+      "name": "Formulación y Evaluación de Proyectos de Inversión",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/formulacion-y-evaluacion-de-proyectos-de-inversion/3526863"
+    },
+    {
+      "name": "Fund. De Teo. Economica",
+      "code": "ECO1000",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/fund-de-teo-economica/3524402"
+    },
+    {
+      "name": "Fund. de Teoría Económica",
+      "code": "ECO1000",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/fund-de-teoria-economica/3524306"
+    },
+    {
+      "name": "Fundamentos Básicos de Admón.",
+      "code": "CIA9831",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/fundamentos-basicos-de-admon/3524294"
+    },
+    {
+      "name": "Fundamentos Básicos de Admón.",
+      "code": "CIA983114",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/fundamentos-basicos-de-admon/3524350"
+    },
+    {
+      "name": "Fundamentos Básicos de la Administración",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/fundamentos-basicos-de-la-administracion/3526849"
+    },
+    {
+      "name": "Fundamentos de Educación Especial",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/fundamentos-de-educacion-especial/3527041"
+    },
+    {
+      "name": "Fundamentos de Ingeniería de Software",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/fundamentos-de-ingenieria-de-software/7160921"
+    },
+    {
+      "name": "Fundamentos de programación",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/fundamentos-de-programacion/4527484"
+    },
+    {
+      "name": "Fundamentos de Teoría Económica",
+      "code": "ECO100095",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/fundamentos-de-teoria-economica/3524429"
+    },
+    {
+      "name": "Fundamentos de Teoría Económica",
+      "code": "ECO 1000",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/fundamentos-de-teoria-economica/3524353"
+    },
+    {
+      "name": "Fundamentos Moleculares",
+      "code": "CQB-0002-18",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/fundamentos-moleculares/3524486"
+    },
+    {
+      "name": "Fundamentos Teóricos de la Historia",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/fundamentos-teoricos-de-la-historia/3527065"
+    },
+    {
+      "name": "Física Aplicada",
+      "code": "CBE312306",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/fisica-aplicada/3524673"
+    },
+    {
+      "name": "Física Conceptual",
+      "code": "CBE111906",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/fisica-conceptual/3524635"
+    },
+    {
+      "name": "Física del Estado Sólido",
+      "code": "CBE312606",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/fisica-del-estado-solido/3524681"
+    },
+    {
+      "name": "Física General I",
+      "code": "CBE112306",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/fisica-general-i/3524640"
+    },
+    {
+      "name": "Física General II",
+      "code": "CBE112206",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/fisica-general-ii/3524646"
+    },
+    {
+      "name": "Física General III",
+      "code": "CBE282906",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/fisica-general-iii/3524652"
+    },
+    {
+      "name": "Física I",
+      "code": "CBE120196",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/fisica-i/3524731"
+    },
+    {
+      "name": "Física II",
+      "code": "CBE120296",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/fisica-ii/3524734"
+    },
+    {
+      "name": "Física III",
+      "code": "CBE120396",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/fisica-iii/3524744"
+    },
+    {
+      "name": "Física Moderna",
+      "code": "CBE283406",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/fisica-moderna/3524672"
+    },
+    {
+      "name": "Físico-Química",
+      "code": "MED986614",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/fisico-quimica/4617114"
+    },
+    {
+      "name": "Gastroenterología",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/gastroenterologia/3222562"
+    },
+    {
+      "name": "Genetica",
+      "code": "BAS321899",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/genetica/3524546"
+    },
+    {
+      "name": "Genética",
+      "code": "CQB-0007-18",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/genetica/3524521"
+    },
+    {
+      "name": "Genética",
+      "code": "MED982200",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/genetica/3140974"
+    },
+    {
+      "name": "Genética de Poblaciones",
+      "code": "CQB-0041-18",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/genetica-de-poblaciones/3524535"
+    },
+    {
+      "name": "Geografía Económica",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/geografia-economica/3526939"
+    },
+    {
+      "name": "Geografía Turística Internacional",
+      "code": "CIA9842-14",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/geografia-turistica-internacional/6910467"
+    },
+    {
+      "name": "Geografía y Cartografía",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/geografia-y-cartografia/3527059"
+    },
+    {
+      "name": "Geología",
+      "code": "ICA",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/geologia/3524735"
+    },
+    {
+      "name": "Geometría Analítica",
+      "code": "CBE",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/geometria-analitica/3524684"
+    },
+    {
+      "name": "Gerencia en Servicios de Enfermería",
+      "code": "MED993617",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/gerencia-en-servicios-de-enfermeria/3524611"
+    },
+    {
+      "name": "Gerencia Social y Trabajo Social​​",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/gerencia-social-y-trabajo-social/3526971"
+    },
+    {
+      "name": "Geriatría",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/geriatria/3223528"
+    },
+    {
+      "name": "Gestión del Cuidado",
+      "code": "MED992817",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/gestion-del-cuidado/3524606"
+    },
+    {
+      "name": "Gestión estratégica del capital humano",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/gestion-estrategica-del-capital-humano/3526869"
+    },
+    {
+      "name": "Gestión Hotelera",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/gestion-hotelera/3526854"
+    },
+    {
+      "name": "Gestión y estrategias financieras",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/gestion-y-estrategias-financieras/3526868"
+    },
+    {
+      "name": "GINECOLOGIA",
+      "code": "GINE",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/ginecologia/3170587"
+    },
+    {
+      "name": "Globalización y Sistema Mundo",
+      "code": "CIS167800",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/globalizacion-y-sistema-mundo/3524435"
+    },
+    {
+      "name": "Habilidades médico quirúrgicas",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/habilidades-medico-quirurgicas/7448001"
+    },
+    {
+      "name": "Habilidades médico quirúrgicas",
+      "code": "MED990814",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/habilidades-medico-quirurgicas/3220521"
+    },
+    {
+      "name": "HEMATOLOGIA",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/hematologia/3221214"
+    },
+    {
+      "name": "Hidrología Superficial",
+      "code": "ICA",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/hidrologia-superficial/3524755"
+    },
+    {
+      "name": "Hidráulica de Canales",
+      "code": "ICA",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/hidraulica-de-canales/3524760"
+    },
+    {
+      "name": "Hig. y Legis. de Alimentos",
+      "code": "BAS312105",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/hig-y-legis-de-alimentos/3524575"
+    },
+    {
+      "name": "HISTOLOGIA",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/histologia/3223583"
+    },
+    {
+      "name": "HISTOLOGIA MEDICA",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/histologia-medica/3222479"
+    },
+    {
+      "name": "HISTOLOGIA Y EMBRIOLOGIA VETERINARIA",
+      "code": "PEC008600",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/histologia-y-embriologia-veterinaria/3220608"
+    },
+    {
+      "name": "HISTOPATOLOGIA",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/histopatologia/3223200"
+    },
+    {
+      "name": "Historia Crítica I",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/historia-critica-i/3222556"
+    },
+    {
+      "name": "Historia de Culturas Antiguas Hemisferio Norte de América",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/historia-de-culturas-antiguas-hemisferio-norte-de-america/3527057"
+    },
+    {
+      "name": "Historia de Estados Unidos",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/historia-de-estados-unidos/3527083"
+    },
+    {
+      "name": "Historia de la Educación",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/historia-de-la-educacion/3527038"
+    },
+    {
+      "name": "Historia del Arte",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/historia-del-arte/3222555"
+    },
+    {
+      "name": "HISTORIA DEL DERECHO",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/historia-del-derecho/3223207"
+    },
+    {
+      "name": "Historia del siglo XIX en México",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/historia-del-siglo-xix-en-mexico/3527069"
+    },
+    {
+      "name": "Historia latinoamericana moderna y contemporánea",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/historia-latinoamericana-moderna-y-contemporanea/3527073"
+    },
+    {
+      "name": "Historia Mundial, Moderna y Contemporánea",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/historia-mundial-moderna-y-contemporanea/3527070"
+    },
+    {
+      "name": "Historia Regional I: Formación del norte de México 1848 a la actualidad.",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/historia-regional-i-formacion-del-norte-de-mexico-1848-a-la-actualidad/3527068"
+    },
+    {
+      "name": "Historia regional II: Frontera Norte de México 1848 a la actualidad.",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/historia-regional-ii-frontera-norte-de-mexico-1848-a-la-actualidad/3527072"
+    },
+    {
+      "name": "Historia urbana",
+      "code": "Diseño urbano",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/historia-urbana/5623301"
+    },
+    {
+      "name": "Historia y Filosofía del Cuidado",
+      "code": "MED991017",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/historia-y-filosofia-del-cuidado/3524613"
+    },
+    {
+      "name": "Historia y género",
+      "code": "HUM 214104",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/historia-y-genero/5194407"
+    },
+    {
+      "name": "Historiografía Mexicana hasta el Siglo XIX",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/historiografia-mexicana-hasta-el-siglo-xix/3527063"
+    },
+    {
+      "name": "Imagenologia veterinaria",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/imagenologia-veterinaria/7495608"
+    },
+    {
+      "name": "Impacto Amb. y Anal. de Riesgo",
+      "code": "BAS244408",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/impacto-amb-y-anal-de-riesgo/3524562"
+    },
+    {
+      "name": "Impacto Ambiental y Análisis de Riesgo",
+      "code": "BAS-2444-08",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/impacto-ambiental-y-analisis-de-riesgo/3524531"
+    },
+    {
+      "name": "implantologia",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/implantologia/6591074"
+    },
+    {
+      "name": "Impuestos  I",
+      "code": "CIA3630",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/impuestos-i/3524370"
+    },
+    {
+      "name": "Impuestos III",
+      "code": "CIA3632",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/impuestos-iii/3524381"
+    },
+    {
+      "name": "Inducción a las Prácticas III",
+      "code": "CIS169400",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/induccion-a-las-practicas-iii/3524441"
+    },
+    {
+      "name": "Infectologia",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/infectologia/4445037"
+    },
+    {
+      "name": "Informatica Financiera",
+      "code": "CIA987000",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/informatica-financiera/3524401"
+    },
+    {
+      "name": "Informática",
+      "code": "UCO1012",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/informatica/3524305"
+    },
+    {
+      "name": "Infracciones y Delitos Aduaneros",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/infracciones-y-delitos-aduaneros/3526892"
+    },
+    {
+      "name": "Ingeneria de metodos",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/ingeneria-de-metodos/5987774"
+    },
+    {
+      "name": "Ingenieria Aeronáutica",
+      "code": "IIM-9849-17",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/ingenieria-aeronautica/6875346"
+    },
+    {
+      "name": "Ingenieria de Procesos",
+      "code": "BAS986514",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/ingenieria-de-procesos/3524589"
+    },
+    {
+      "name": "ingenieria en riego",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/ingenieria-en-riego/6612607"
+    },
+    {
+      "name": "Ingeniería de requisitos, análisis y diseño de sistemas",
+      "code": "IEC986516B",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/ingenieria-de-requisitos-analisis-y-diseno-de-sistemas/5537958"
+    },
+    {
+      "name": "Ingeniería de Sistemas",
+      "code": "ICA220396",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/ingenieria-de-sistemas/3524743"
+    },
+    {
+      "name": "Ingeniería Económica",
+      "code": "IIM340196",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/ingenieria-economica/3524747"
+    },
+    {
+      "name": "Ingeniería Eléctrica",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/ingenieria-electrica/5445244"
+    },
+    {
+      "name": "Ingeniería Sanitaria",
+      "code": "ICA",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/ingenieria-sanitaria/3524761"
+    },
+    {
+      "name": "Ingles Comunicativo (Avanzado)",
+      "code": "HUM-9938-14",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/ingles-comunicativo-avanzado/3524533"
+    },
+    {
+      "name": "Ingles Comunicativo (Intermedio)",
+      "code": "HUM-9937-14",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/ingles-comunicativo-intermedio/3524511"
+    },
+    {
+      "name": "Ingles Comunicativo (Principiante)",
+      "code": "HUM-9936-14",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/ingles-comunicativo-principiante/3524494"
+    },
+    {
+      "name": "Inglés Comunicativo  Basico",
+      "code": "CE-01",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/ingles-comunicativo-basico/3524351"
+    },
+    {
+      "name": "Inglés comunicativo (Avanzado)",
+      "code": "HUM9938",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/ingles-comunicativo-avanzado/3524322"
+    },
+    {
+      "name": "Inglés comunicativo (Intermedio)",
+      "code": "HUM9937",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/ingles-comunicativo-intermedio/3524321"
+    },
+    {
+      "name": "Inglés Comunicativo (Princ.)",
+      "code": "HUM9936",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/ingles-comunicativo-princ/3524307"
+    },
+    {
+      "name": "Inglés Comunicativo Avanz.",
+      "code": "CE-03",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/ingles-comunicativo-avanz/3524360"
+    },
+    {
+      "name": "Inglés Comunicativo Avanzado",
+      "code": "CE-03",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/ingles-comunicativo-avanzado/3524407"
+    },
+    {
+      "name": "Inglés Comunicativo Básico",
+      "code": "CE-01",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/ingles-comunicativo-basico/3524399"
+    },
+    {
+      "name": "Inglés Comunicativo I",
+      "code": "HUM993614",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/ingles-comunicativo-i/3524629"
+    },
+    {
+      "name": "Inglés Comunicativo II",
+      "code": "HUM993714",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/ingles-comunicativo-ii/3524632"
+    },
+    {
+      "name": "Inglés Comunicativo III",
+      "code": "HUM993814",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/ingles-comunicativo-iii/3524610"
+    },
+    {
+      "name": "Inglés Comunicativo Intermedio",
+      "code": "HUN993714",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/ingles-comunicativo-intermedio/3524710"
+    },
+    {
+      "name": "Inglés Comunicativo Intermedio",
+      "code": "HUM993714",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/ingles-comunicativo-intermedio/3524663"
+    },
+    {
+      "name": "Inglés Comunicativo Intermedio",
+      "code": "CE-02",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/ingles-comunicativo-intermedio/3524356"
+    },
+    {
+      "name": "Inglés Comunicativo Principiante",
+      "code": "HUM993614",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/ingles-comunicativo-principiante/3524657"
+    },
+    {
+      "name": "Inglés Comunicativo principiante",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/ingles-comunicativo-principiante/3221763"
+    },
+    {
+      "name": "Inmunologia",
+      "code": "Inmunologia",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/inmunologia/3222333"
+    },
+    {
+      "name": "Inmunoquimica",
+      "code": "BAS312005",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/inmunoquimica/3524567"
+    },
+    {
+      "name": "Innovación y emprendimiento",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/innovacion-y-emprendimiento/3526880"
+    },
+    {
+      "name": "instrumentacion virtual",
+      "code": "instvirtual",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/instrumentacion-virtual/5829184"
+    },
+    {
+      "name": "Instrumentos de Representación de Maquetas",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/instrumentos-de-representacion-de-maquetas/3222557"
+    },
+    {
+      "name": "Integración de estudios psicológicos",
+      "code": "CIS363295",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/integracion-de-estudios-psicologicos/3236852"
+    },
+    {
+      "name": "Inteligencia Artificial",
+      "code": "IEC986716",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/inteligencia-artificial/5482857"
+    },
+    {
+      "name": "Interacción humano computadora",
+      "code": "IEC-9868-16",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/interaccion-humano-computadora/6015110"
+    },
+    {
+      "name": "Internad medico",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/internad-medico/7297320"
+    },
+    {
+      "name": "Intervención de Trabajo Social en Familia",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/intervencion-de-trabajo-social-en-familia/3526962"
+    },
+    {
+      "name": "Intr. al Estudio del Derecho",
+      "code": "JUR1000",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/intr-al-estudio-del-derecho/3524302"
+    },
+    {
+      "name": "Introduccion a las Finanzas",
+      "code": "FZ101",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/introduccion-a-las-finanzas/7094448"
+    },
+    {
+      "name": "Introducción a la Auditoría",
+      "code": "CIA3607",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/introduccion-a-la-auditoria/3524368"
+    },
+    {
+      "name": "Introducción a la Física de Materiales",
+      "code": "CBE312106",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/introduccion-a-la-fisica-de-materiales/3524671"
+    },
+    {
+      "name": "Introducción a la Mecatronica",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/introduccion-a-la-mecatronica/4499545"
+    },
+    {
+      "name": "Introducción a la Metabolómica",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/introduccion-a-la-metabolomica/5840816"
+    },
+    {
+      "name": "Introducción a la Sociología​​​​​",
+      "code": "CIS100195",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/introduccion-a-la-sociologia/3524426"
+    },
+    {
+      "name": "Introducción a la teoría del conocimiento",
+      "code": "CIS100095",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/introduccion-a-la-teoria-del-conocimiento/3524427"
+    },
+    {
+      "name": "Introducción a la Teoría e Historia de la Arquitectura",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/introduccion-a-la-teoria-e-historia-de-la-arquitectura/3222552"
+    },
+    {
+      "name": "Introducción a la Terapia física",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/introduccion-a-la-terapia-fisica/6405707"
+    },
+    {
+      "name": "Introducción a las teorías del conocimiento",
+      "code": "CIS100095",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/introduccion-a-las-teorias-del-conocimiento/3236212"
+    },
+    {
+      "name": "Introducción a las TIC",
+      "code": "IEC-9808-00",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/introduccion-a-las-tic/6405368"
+    },
+    {
+      "name": "Introducción al Análisis",
+      "code": "CBE",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/introduccion-al-analisis/3524690"
+    },
+    {
+      "name": "Introducción al Comercio Exterior",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/introduccion-al-comercio-exterior/3526884"
+    },
+    {
+      "name": "Introducción al Estudio de Derecho",
+      "code": "JUR1000",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/introduccion-al-estudio-de-derecho/3526839"
+    },
+    {
+      "name": "Introducción Al Estudio del Derecho",
+      "code": "JUR 1000",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/introduccion-al-estudio-del-derecho/3524352"
+    },
+    {
+      "name": "Introducción Al Estudio del Turismo",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/introduccion-al-estudio-del-turismo/3526848"
+    },
+    {
+      "name": "Introducción al Laboratorio de Física",
+      "code": "CBE",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/introduccion-al-laboratorio-de-fisica/3524638"
+    },
+    {
+      "name": "Introducción al Trabajo Social​",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/introduccion-al-trabajo-social/3526956"
+    },
+    {
+      "name": "Introducción la Teoría del Conocimiento.",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/introduccion-la-teoria-del-conocimiento/3526977"
+    },
+    {
+      "name": "Investigacion I",
+      "code": "BAS311205",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/investigacion-i/3524556"
+    },
+    {
+      "name": "Investigacion II",
+      "code": "BAS311405",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/investigacion-ii/3524557"
+    },
+    {
+      "name": "Investigacion III",
+      "code": "BAS311605",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/investigacion-iii/3524558"
+    },
+    {
+      "name": "Investigación de Mercados",
+      "code": "CIA1205",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/investigacion-de-mercados/3524310"
+    },
+    {
+      "name": "Investigación de mercados",
+      "code": "2728",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/investigacion-de-mercados/3222601"
+    },
+    {
+      "name": "investigación de operaciones",
+      "code": "Procesos",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/investigacion-de-operaciones/5276727"
+    },
+    {
+      "name": "Investigación Educativa",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/investigacion-educativa/3527047"
+    },
+    {
+      "name": "Investigación Enfermería I",
+      "code": "MED363003",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/investigacion-enfermeria-i/3524627"
+    },
+    {
+      "name": "Investigación I",
+      "code": "BAS-3112-05",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/investigacion-i/3524508"
+    },
+    {
+      "name": "Investigación II",
+      "code": "BAS-3114-05",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/investigacion-ii/3524527"
+    },
+    {
+      "name": "Lab. Analisis Ambiental I",
+      "code": "BAS315908",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/lab-analisis-ambiental-i/3524568"
+    },
+    {
+      "name": "Lab. Análisis Instrumental",
+      "code": "BAS315908",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/lab-analisis-instrumental/3524579"
+    },
+    {
+      "name": "Lab. FISICOQUIMICA II",
+      "code": "BAS985114",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/lab-fisicoquimica-ii/3524547"
+    },
+    {
+      "name": "Lab. Quimica Inorganica",
+      "code": "BAS985614",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/lab-quimica-inorganica/3524588"
+    },
+    {
+      "name": "Lab. Química Análitica I",
+      "code": "BAS987114",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/lab-quimica-analitica-i/3524582"
+    },
+    {
+      "name": "Laboratorio de Física I",
+      "code": "CBE",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/laboratorio-de-fisica-i/3524644"
+    },
+    {
+      "name": "Laboratorio De Física II",
+      "code": "CBE",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/laboratorio-de-fisica-ii/3524650"
+    },
+    {
+      "name": "Laboratorio de Materiales",
+      "code": "ICA",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/laboratorio-de-materiales/3524733"
+    },
+    {
+      "name": "Laboratorio microbiologia I",
+      "code": "micro 1",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/laboratorio-microbiologia-i/4495681"
+    },
+    {
+      "name": "Lectura y Redacción",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/lectura-y-redaccion/3526903"
+    },
+    {
+      "name": "Legislación sobre Inversión Extranjera",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/legislacion-sobre-inversion-extranjera/3526897"
+    },
+    {
+      "name": "Lengua de Señas",
+      "code": "LSM1",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/lengua-de-senas/4365567"
+    },
+    {
+      "name": "Lenguaje Matemático",
+      "code": "CBE",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/lenguaje-matematico/3524687"
+    },
+    {
+      "name": "Licenciatura en Humanidades",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/licenciatura-en-humanidades/7694549"
+    },
+    {
+      "name": "Licenciatura en Sagrada teología seminario san pablo campus Juárez",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/licenciatura-en-sagrada-teologia-seminario-san-pablo-campus-juarez/6361349"
+    },
+    {
+      "name": "Liderazgo y comportamiento organizacional (LCO)",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/liderazgo-y-comportamiento-organizacional-lco/3526879"
+    },
+    {
+      "name": "Liderazgo y Dirección de Equipo",
+      "code": "CIA9836",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/liderazgo-y-direccion-de-equipo/3524314"
+    },
+    {
+      "name": "Liderazgo y Emprendedurismo",
+      "code": "CQB-0027-18",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/liderazgo-y-emprendedurismo/3524529"
+    },
+    {
+      "name": "Literatura española de los siglos de oro",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/literatura-espanola-de-los-siglos-de-oro/4375408"
+    },
+    {
+      "name": "Literatura Infantil y Juvenil",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/literatura-infantil-y-juvenil/4374451"
+    },
+    {
+      "name": "Literatura Latinoamericana",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/literatura-latinoamericana/4374453"
+    },
+    {
+      "name": "Logística internacional",
+      "code": "logistica",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/logistica-internacional/5413029"
+    },
+    {
+      "name": "Ludoterapia y ergoterapia",
+      "code": "CIS260295",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/ludoterapia-y-ergoterapia/3236855"
+    },
+    {
+      "name": "Líneas de Generación y Aplicación del Conocimiento (LGAC):",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/lineas-de-generacion-y-aplicacion-del-conocimiento-lgac/3527023"
+    },
+    {
+      "name": "Lógica Jurídica",
+      "code": "JUR1006",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/logica-juridica/3526840"
+    },
+    {
+      "name": "Macroeconomia II",
+      "code": "ECO1005",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/macroeconomia-ii/3524419"
+    },
+    {
+      "name": "Macroeconomía Abierta",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/macroeconomia-abierta/3527004"
+    },
+    {
+      "name": "Macroeconomía I",
+      "code": "ECO1004",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/macroeconomia-i/3524362"
+    },
+    {
+      "name": "Macroeconomía I Proba. Y Estad. Matemáticas",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/macroeconomia-i-proba-y-estad-matematicas/3526997"
+    },
+    {
+      "name": "Manejo tx y Disp. de Residuos",
+      "code": "BAS312705",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/manejo-tx-y-disp-de-residuos/3524566"
+    },
+    {
+      "name": "Marxismo y Teoria Crítica",
+      "code": "CIS167400",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/marxismo-y-teoria-critica/3524437"
+    },
+    {
+      "name": "Matemáticas Aplicadas",
+      "code": "CQB-0003-18",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/matematicas-aplicadas/3524484"
+    },
+    {
+      "name": "Matemáticas Básicas",
+      "code": "UMA1000",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/matematicas-basicas/3524300"
+    },
+    {
+      "name": "Matemáticas Financieras",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/matematicas-financieras/3526941"
+    },
+    {
+      "name": "Materiales Compuestos",
+      "code": "CBE531305",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/materiales-compuestos/3524714"
+    },
+    {
+      "name": "Materiales Magnéticos",
+      "code": "CBE532705",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/materiales-magneticos/3524718"
+    },
+    {
+      "name": "Mecánica Avanzada de Materiales",
+      "code": "CBE531505",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/mecanica-avanzada-de-materiales/3524715"
+    },
+    {
+      "name": "Mecánica Clásica",
+      "code": "CBE283106",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/mecanica-clasica/3524665"
+    },
+    {
+      "name": "Mecánica Cuántica I",
+      "code": "CBE283606",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/mecanica-cuantica-i/3524676"
+    },
+    {
+      "name": "Mecánica de Fluidos",
+      "code": "ICA",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/mecanica-de-fluidos/3524749"
+    },
+    {
+      "name": "Mecánica de Suelos I",
+      "code": "ICA230496",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/mecanica-de-suelos-i/3524746"
+    },
+    {
+      "name": "Mecánica de Suelos II",
+      "code": "ICA230596",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/mecanica-de-suelos-ii/3524751"
+    },
+    {
+      "name": "Mecánica del Medio Continuo",
+      "code": "ICA",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/mecanica-del-medio-continuo/3524740"
+    },
+    {
+      "name": "Mecánica ll",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/mecanica-ll/3235936"
+    },
+    {
+      "name": "Medicina Basada en Evidencias",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/medicina-basada-en-evidencias/5321629"
+    },
+    {
+      "name": "Medicina comunitaria",
+      "code": "MED988114",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/medicina-comunitaria/7671955"
+    },
+    {
+      "name": "MEDICINA LEGAL",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/medicina-legal/3223241"
+    },
+    {
+      "name": "medicina y zootecnia cunicula",
+      "code": "132645",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/medicina-y-zootecnia-cunicula/6924592"
+    },
+    {
+      "name": "Medición en Psicología I",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/medicion-en-psicologia-i/3526979"
+    },
+    {
+      "name": "Medición en Psicología II",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/medicion-en-psicologia-ii/3526983"
+    },
+    {
+      "name": "Medición en Psicología III",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/medicion-en-psicologia-iii/3526987"
+    },
+    {
+      "name": "Medios de Impugnación en Materia Fiscal",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/medios-de-impugnacion-en-materia-fiscal/3526900"
+    },
+    {
+      "name": "Mercados Financieros",
+      "code": "CIA981800",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/mercados-financieros/3524410"
+    },
+    {
+      "name": "Mercadotecnia",
+      "code": "CIA1207",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/mercadotecnia/3524309"
+    },
+    {
+      "name": "Mercadotecnia",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/mercadotecnia/3224554"
+    },
+    {
+      "name": "Mercadotecnia Internacional",
+      "code": "CIA1616",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/mercadotecnia-internacional/3524338"
+    },
+    {
+      "name": "Metodologia de la Investigacion",
+      "code": "BAS242208",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/metodologia-de-la-investigacion/3524540"
+    },
+    {
+      "name": "Metodología de la Investigación",
+      "code": "BAS-2422-08",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/metodologia-de-la-investigacion/3524491"
+    },
+    {
+      "name": "Metodología de la investigación",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/metodologia-de-la-investigacion/3221767"
+    },
+    {
+      "name": "Metodología de las Ciencias Sociales",
+      "code": "CIS100795",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/metodologia-de-las-ciencias-sociales/3524438"
+    },
+    {
+      "name": "Metodología del Derecho",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/metodologia-del-derecho/3526906"
+    },
+    {
+      "name": "Metodología y Practica de Trabajo Social de Comunidad I",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/metodologia-y-practica-de-trabajo-social-de-comunidad-i/3526967"
+    },
+    {
+      "name": "Metodología y Practica de Trabajo Social De Comunidad II",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/metodologia-y-practica-de-trabajo-social-de-comunidad-ii/3526969"
+    },
+    {
+      "name": "Metodología y Practica de Trabajo Social de Grupo",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/metodologia-y-practica-de-trabajo-social-de-grupo/3526964"
+    },
+    {
+      "name": "Metodología y Practicas de Trabajo Social Individual Y Familiar",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/metodologia-y-practicas-de-trabajo-social-individual-y-familiar/3526974"
+    },
+    {
+      "name": "Metricas de software",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/metricas-de-software/7490070"
+    },
+    {
+      "name": "Microbioligia 2",
+      "code": "blaw22100",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/microbioligia-2/5953750"
+    },
+    {
+      "name": "Microbiologia",
+      "code": "IAN001009",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/microbiologia/3169384"
+    },
+    {
+      "name": "MICROBIOLOGIA 2",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/microbiologia-2/3223177"
+    },
+    {
+      "name": "Microbiologia Ambiental",
+      "code": "BAS323305",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/microbiologia-ambiental/3524571"
+    },
+    {
+      "name": "Microbiologia de Alimentos",
+      "code": "BAS342105",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/microbiologia-de-alimentos/3524570"
+    },
+    {
+      "name": "Microbiologia II",
+      "code": "BAS982500",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/microbiologia-ii/3524585"
+    },
+    {
+      "name": "Microbiologia III",
+      "code": "BAS984414",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/microbiologia-iii/3524586"
+    },
+    {
+      "name": "Microbiología I",
+      "code": "BAS001094",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/microbiologia-i/5386348"
+    },
+    {
+      "name": "Microbiología I",
+      "code": "BAS1094",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/microbiologia-i/4361409"
+    },
+    {
+      "name": "Microeconomia II",
+      "code": "ECO1003",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/microeconomia-ii/3524405"
+    },
+    {
+      "name": "Microeconomía I",
+      "code": "ECO 1002",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/microeconomia-i/3524358"
+    },
+    {
+      "name": "Microeconomía I",
+      "code": "ECO1002",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/microeconomia-i/3524403"
+    },
+    {
+      "name": "Modelación y Simulación de Materiales",
+      "code": "CBE530105",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/modelacion-y-simulacion-de-materiales/3524713"
+    },
+    {
+      "name": "Modelos Economicos",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/modelos-economicos/5137694"
+    },
+    {
+      "name": "Modificación de Conducta",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/modificacion-de-conducta/3526995"
+    },
+    {
+      "name": "Monera",
+      "code": "BAS-2434-08",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/monera/3524505"
+    },
+    {
+      "name": "Morfofisiología Vegetal",
+      "code": "CQB-0034-18",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/morfofisiologia-vegetal/3524499"
+    },
+    {
+      "name": "Motivación y Emoción",
+      "code": "CIS361495",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/motivacion-y-emocion/3236223"
+    },
+    {
+      "name": "Motores y controladores",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/motores-y-controladores/7096475"
+    },
+    {
+      "name": "Método del Elemento Finito",
+      "code": "1234",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/metodo-del-elemento-finito/4399093"
+    },
+    {
+      "name": "Métodos de intervención social",
+      "code": "CIS120695",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/metodos-de-intervencion-social/3236230"
+    },
+    {
+      "name": "Métodos de Investigación Cualitativa",
+      "code": "CS 0027-00",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/metodos-de-investigacion-cualitativa/3524470"
+    },
+    {
+      "name": "Métodos de investigación Cuantitativa",
+      "code": "MCS 0070-02",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/metodos-de-investigacion-cuantitativa/3524471"
+    },
+    {
+      "name": "Métodos de Solución de Conflictos en Materia de Comercio Exterior.",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/metodos-de-solucion-de-conflictos-en-materia-de-comercio-exterior/3526899"
+    },
+    {
+      "name": "Métodos Electrónicos y Ambientes de Aprendizaje",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/metodos-electronicos-y-ambientes-de-aprendizaje/3527043"
+    },
+    {
+      "name": "Métodos matemáticos para la administración",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/metodos-matematicos-para-la-administracion/3526866"
+    },
+    {
+      "name": "México en el Siglo XX",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/mexico-en-el-siglo-xx/3527079"
+    },
+    {
+      "name": "Música de Cámara I",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/musica-de-camara-i/7674159"
+    },
+    {
+      "name": "Narrativa y Guionismo Para Videojuegos",
+      "code": "DIS-9878-17",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/narrativa-y-guionismo-para-videojuegos/6189464"
+    },
+    {
+      "name": "Nefrologia",
+      "code": "Nefrologia",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/nefrologia/3221426"
+    },
+    {
+      "name": "Negociación y Mediación",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/negociacion-y-mediacion/3527021"
+    },
+    {
+      "name": "Negociación y resolución de conflictos",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/negociacion-y-resolucion-de-conflictos/3526878"
+    },
+    {
+      "name": "NEUMOLOGIA",
+      "code": "MED987314",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/neumologia/3224360"
+    },
+    {
+      "name": "Neuroanatomía",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/neuroanatomia/3526976"
+    },
+    {
+      "name": "Neurologia",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/neurologia/3222608"
+    },
+    {
+      "name": "Nivel Intermedio",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/nivel-intermedio/3526942"
+    },
+    {
+      "name": "Nomenclatura I",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/nomenclatura-i/3526883"
+    },
+    {
+      "name": "Nomenclatura médica",
+      "code": "MED986214",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/nomenclatura-medica/4617110"
+    },
+    {
+      "name": "Nutrición Clínica",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/nutricion-clinica/3222580"
+    },
+    {
+      "name": "Nutrición y Dietoterapia",
+      "code": "BAS240103",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/nutricion-y-dietoterapia/3524603"
+    },
+    {
+      "name": "Obras Hidráulicas",
+      "code": "ICA340796",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/obras-hidraulicas/3524764"
+    },
+    {
+      "name": "OBSTETRICIA",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/obstetricia/3223215"
+    },
+    {
+      "name": "Oclusion",
+      "code": "Estomatologia",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/oclusion/7415782"
+    },
+    {
+      "name": "OFTALMOLOGIA",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/oftalmologia/3223245"
+    },
+    {
+      "name": "Oncología",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/oncologia/4785055"
+    },
+    {
+      "name": "Operación de Hoteles",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/operacion-de-hoteles/3526851"
+    },
+    {
+      "name": "Operación y Gestión de Bares",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/operacion-y-gestion-de-bares/3526853"
+    },
+    {
+      "name": "Operación y Gestión de Restaurantes",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/operacion-y-gestion-de-restaurantes/3526850"
+    },
+    {
+      "name": "Operar el equipo de Computo",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/operar-el-equipo-de-computo/3222988"
+    },
+    {
+      "name": "Organización",
+      "code": "CIA1200",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/organizacion/3524313"
+    },
+    {
+      "name": "Organización",
+      "code": "31850",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/organizacion/3222020"
+    },
+    {
+      "name": "Organización Contable",
+      "code": "CIA3404",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/organizacion-contable/3524378"
+    },
+    {
+      "name": "Orientación Vocacional",
+      "code": "CIS6001",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/orientacion-vocacional/3236207"
+    },
+    {
+      "name": "ortodoncia",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/ortodoncia/5438056"
+    },
+    {
+      "name": "ORTOPEDIA",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/ortopedia/3223216"
+    },
+    {
+      "name": "OTORRINOLARINGOLOGIA",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/otorrinolaringologia/3223247"
+    },
+    {
+      "name": "Óptica",
+      "code": "CBE",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/optica/3524658"
+    },
+    {
+      "name": "PARASITOLOGIA",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/parasitologia/3223197"
+    },
+    {
+      "name": "Patología",
+      "code": "PEC10050",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/patologia/3738283"
+    },
+    {
+      "name": "Pedagogía I",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/pedagogia-i/3527032"
+    },
+    {
+      "name": "Pedagogía II",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/pedagogia-ii/3527033"
+    },
+    {
+      "name": "Pediatria",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/pediatria/3222707"
+    },
+    {
+      "name": "Pens. Social Latinoamericano Contemporáneo",
+      "code": "CIS168300",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/pens-social-latinoamericano-contemporaneo/3524454"
+    },
+    {
+      "name": "Pensadores de Occidente",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/pensadores-de-occidente/6534831"
+    },
+    {
+      "name": "Pensamiento Crítico y Creativo",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/pensamiento-critico-y-creativo/3526989"
+    },
+    {
+      "name": "Pensamiento y Lenguaje",
+      "code": "CIS362295",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/pensamiento-y-lenguaje/3224437"
+    },
+    {
+      "name": "Pensamiento y Sociedad en Norteamerica",
+      "code": "CIS261195",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/pensamiento-y-sociedad-en-norteamerica/3524450"
+    },
+    {
+      "name": "Periodoncia",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/periodoncia/6861400"
+    },
+    {
+      "name": "Perspectiva de Género y Ciencias Sociales",
+      "code": "MCS 0038-00",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/perspectiva-de-genero-y-ciencias-sociales/3524465"
+    },
+    {
+      "name": "Planeación Educativa",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/planeacion-educativa/3527052"
+    },
+    {
+      "name": "Planeación y Control",
+      "code": "CIA1002",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/planeacion-y-control/3524295"
+    },
+    {
+      "name": "Planeación y Evaluación de la Capacitación",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/planeacion-y-evaluacion-de-la-capacitacion/3527045"
+    },
+    {
+      "name": "Planificación Turístic​​a (En Ingles)",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/planificacion-turistica-en-ingles/3526862"
+    },
+    {
+      "name": "Política y Planificación Soc.",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/politica-y-planificacion-soc/3526970"
+    },
+    {
+      "name": "Políticas Públicas MCS 0018-00",
+      "code": "MCS 0018-00",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/politicas-publicas-mcs-0018-00/3524468"
+    },
+    {
+      "name": "Previsión y Seguridad Social",
+      "code": "CIA1617",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/prevision-y-seguridad-social/3524371"
+    },
+    {
+      "name": "primeros auxilios",
+      "code": "medicina",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/primeros-auxilios/6996280"
+    },
+    {
+      "name": "Principios Básicos de Administración",
+      "code": "CIA1000",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/principios-basicos-de-administracion/3526843"
+    },
+    {
+      "name": "Principles of Operations Management",
+      "code": "CIA9833",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/principles-of-operations-management/3524311"
+    },
+    {
+      "name": "Probabilidad",
+      "code": "CBE",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/probabilidad/3524700"
+    },
+    {
+      "name": "Probabilidad y Estadística",
+      "code": "CBE100696",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/probabilidad-y-estadistica/3524643"
+    },
+    {
+      "name": "Problemas de Desarrollo Regional",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/problemas-de-desarrollo-regional/3526966"
+    },
+    {
+      "name": "Problemas de la frontera norte",
+      "code": "CIS100995",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/problemas-de-la-frontera-norte/3224432"
+    },
+    {
+      "name": "Problemas Económicos y Sit. Actual de México",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/problemas-economicos-y-sit-actual-de-mexico/3526951"
+    },
+    {
+      "name": "Procesamiento de imágenes médicas",
+      "code": "250812",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/procesamiento-de-imagenes-medicas/7764456"
+    },
+    {
+      "name": "Procesamiento de señales",
+      "code": "PS101",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/procesamiento-de-senales/6713873"
+    },
+    {
+      "name": "Proceso de Enfermería",
+      "code": "MED991817",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/proceso-de-enfermeria/3524597"
+    },
+    {
+      "name": "Proceso Duelo y Tanatología",
+      "code": "MED993317",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/proceso-duelo-y-tanatologia/3524612"
+    },
+    {
+      "name": "Proceso y Supervisión individual                                                                           ​",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/proceso-y-supervision-individual/3527020"
+    },
+    {
+      "name": "Procesos Avanzados de la construcción",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/procesos-avanzados-de-la-construccion/7154378"
+    },
+    {
+      "name": "Procesos de manufactura",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/procesos-de-manufactura/3224786"
+    },
+    {
+      "name": "Procesos De Manufactura I",
+      "code": "IIM231096",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/procesos-de-manufactura-i/3524675"
+    },
+    {
+      "name": "Procesos del Aprendizaje",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/procesos-del-aprendizaje/3526985"
+    },
+    {
+      "name": "Procesos Patológicos",
+      "code": "MED992217",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/procesos-patologicos/3524598"
+    },
+    {
+      "name": "Procesos Psicológicos",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/procesos-psicologicos/3527029"
+    },
+    {
+      "name": "produccion mas limpia",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/produccion-mas-limpia/6407646"
+    },
+    {
+      "name": "Programacion Orientada a Objetos",
+      "code": "IEC986616",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/programacion-orientada-a-objetos/6713975"
+    },
+    {
+      "name": "Programación y Algoritmos",
+      "code": "CBE",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/programacion-y-algoritmos/3524689"
+    },
+    {
+      "name": "Programas e Instrumentos de Fomento al Comercio Exterior",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/programas-e-instrumentos-de-fomento-al-comercio-exterior/3526890"
+    },
+    {
+      "name": "PROPEDEUTICA MEDICA",
+      "code": "MED986314",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/propedeutica-medica/3221165"
+    },
+    {
+      "name": "Propiedad Industrial",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/propiedad-industrial/3526925"
+    },
+    {
+      "name": "Protesis Parcial, Fija y Removible",
+      "code": "PPFR23",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/protesis-parcial-fija-y-removible/6026303"
+    },
+    {
+      "name": "Protoctistas",
+      "code": "BAS-2431-08",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/protoctistas/3524507"
+    },
+    {
+      "name": "Proyecto de Titulación I",
+      "code": "CBE300306",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/proyecto-de-titulacion-i/3524680"
+    },
+    {
+      "name": "Proyecto de Titulación I",
+      "code": "ICA",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/proyecto-de-titulacion-i/3524769"
+    },
+    {
+      "name": "Proyecto de Titulación II",
+      "code": "ICA",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/proyecto-de-titulacion-ii/3524771"
+    },
+    {
+      "name": "Prácticas profesionales",
+      "code": "CIA9826",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/practicas-profesionales/3524331"
+    },
+    {
+      "name": "Prácticas Profesionales",
+      "code": "CBE",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/practicas-profesionales/3524679"
+    },
+    {
+      "name": "Prácticas Profesionales",
+      "code": "ICA480500",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/practicas-profesionales/3524765"
+    },
+    {
+      "name": "Prácticas Profesionales I",
+      "code": "CIA982600",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/practicas-profesionales-i/3524375"
+    },
+    {
+      "name": "Prácticas Profesionales II",
+      "code": "CIS169500",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/practicas-profesionales-ii/3524458"
+    },
+    {
+      "name": "Psicología Clínica",
+      "code": "CIS361795",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/psicologia-clinica/3236276"
+    },
+    {
+      "name": "Psicología Comunitaria",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/psicologia-comunitaria/3526996"
+    },
+    {
+      "name": "Psicología del deporte",
+      "code": "BAS1524-99",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/psicologia-del-deporte/4883272"
+    },
+    {
+      "name": "Psicología Educativa",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/psicologia-educativa/3526992"
+    },
+    {
+      "name": "Psicología Experimental",
+      "code": "CIS362495",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/psicologia-experimental/3236238"
+    },
+    {
+      "name": "Psicología General I",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/psicologia-general-i/3527028"
+    },
+    {
+      "name": "Psicología General​",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/psicologia-general/3526975"
+    },
+    {
+      "name": "Psicología Infantil",
+      "code": "CIS366095",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/psicologia-infantil/3236216"
+    },
+    {
+      "name": "Psicología jurídica y forense",
+      "code": "CIS981600",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/psicologia-juridica-y-forense/5033840"
+    },
+    {
+      "name": "Psicología Médica",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/psicologia-medica/6176861"
+    },
+    {
+      "name": "Psicología Organizacional",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/psicologia-organizacional/3526993"
+    },
+    {
+      "name": "Psicología Social",
+      "code": "CIS360795",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/psicologia-social/3236187"
+    },
+    {
+      "name": "Psicología Transcultural",
+      "code": "CIS362895",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/psicologia-transcultural/3236215"
+    },
+    {
+      "name": "Psicometría",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/psicometria/3526990"
+    },
+    {
+      "name": "Psicomotricidad II",
+      "code": "Entrenamient",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/psicomotricidad-ii/7573683"
+    },
+    {
+      "name": "Psicopatología",
+      "code": "CIS362095",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/psicopatologia/3224443"
+    },
+    {
+      "name": "Psicopatología y Psicodiagnóstico",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/psicopatologia-y-psicodiagnostico/3527016"
+    },
+    {
+      "name": "Psicopedagogía",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/psicopedagogia/3527030"
+    },
+    {
+      "name": "Psicoterapia",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/psicoterapia/3526994"
+    },
+    {
+      "name": "PSIQUIATRIA",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/psiquiatria/3223248"
+    },
+    {
+      "name": "Publicacidad y Ventas",
+      "code": "CIA1629",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/publicacidad-y-ventas/3524339"
+    },
+    {
+      "name": "Qimica",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/qimica/5708528"
+    },
+    {
+      "name": "Quimica Ambiental",
+      "code": "BAS310105",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/quimica-ambiental/3524564"
+    },
+    {
+      "name": "Quimica Computacional",
+      "code": "BAS314608",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/quimica-computacional/3524539"
+    },
+    {
+      "name": "Quimica de Alimentos",
+      "code": "BAS310905",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/quimica-de-alimentos/3524565"
+    },
+    {
+      "name": "Quimica General",
+      "code": "BAS110105",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/quimica-general/3524536"
+    },
+    {
+      "name": "Quimica organica",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/quimica-organica/3222170"
+    },
+    {
+      "name": "Quimica Organica II",
+      "code": "BAS210705",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/quimica-organica-ii/3524549"
+    },
+    {
+      "name": "Quimica Organica III",
+      "code": "BAS985114",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/quimica-organica-iii/3524550"
+    },
+    {
+      "name": "Química",
+      "code": "CBE150196",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/quimica/3524642"
+    },
+    {
+      "name": "Química Inorganica II",
+      "code": "BAS985314",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/quimica-inorganica-ii/3524584"
+    },
+    {
+      "name": "Química Inorgánica",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/quimica-inorganica/3224927"
+    },
+    {
+      "name": "RADIOLOGIA",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/radiologia/3223172"
+    },
+    {
+      "name": "Razonamiento Matemático",
+      "code": "CBE",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/razonamiento-matematico/3524685"
+    },
+    {
+      "name": "recursos humanos",
+      "code": "campusvirtual",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/recursos-humanos/6247966"
+    },
+    {
+      "name": "Recursos Humanos",
+      "code": "CIA1201",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/recursos-humanos/3524398"
+    },
+    {
+      "name": "Recursos Humanos",
+      "code": "1234",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/recursos-humanos/3224543"
+    },
+    {
+      "name": "Redes de computadoras I",
+      "code": "IEC240196",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/redes-de-computadoras-i/5293026"
+    },
+    {
+      "name": "Redes Industriales",
+      "code": "Automatizacion-23",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/redes-industriales/5462103"
+    },
+    {
+      "name": "Región Sustentabilidad y Desarrollo",
+      "code": "MCS 0057-02",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/region-sustentabilidad-y-desarrollo/3524483"
+    },
+    {
+      "name": "Reglas de Origen y Procedimientos Aduaneros",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/reglas-de-origen-y-procedimientos-aduaneros/3526885"
+    },
+    {
+      "name": "regulaciones arancelarias",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/regulaciones-arancelarias/6509351"
+    },
+    {
+      "name": "Regulación Jurídica Ambiental de la Empresa",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/regulacion-juridica-ambiental-de-la-empresa/3526931"
+    },
+    {
+      "name": "Regulación Jurídica de la Industria Maquiladora de Exportación",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/regulacion-juridica-de-la-industria-maquiladora-de-exportacion/3526930"
+    },
+    {
+      "name": "Relaciones Publicas",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/relaciones-publicas/3526859"
+    },
+    {
+      "name": "Resistencia de Materiales",
+      "code": "ICA140200",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/resistencia-de-materiales/3524745"
+    },
+    {
+      "name": "Responsabilidad social y desarrollo sustentable",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/responsabilidad-social-y-desarrollo-sustentable/7088353"
+    },
+    {
+      "name": "Respuesta sexual humana",
+      "code": "CIS366295",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/respuesta-sexual-humana/3236273"
+    },
+    {
+      "name": "REUMATOLOGIA",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/reumatologia/3223243"
+    },
+    {
+      "name": "Robotica",
+      "code": "RBC1",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/robotica/4421705"
+    },
+    {
+      "name": "Salud Comunitaria I",
+      "code": "MED982100",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/salud-comunitaria-i/3176137"
+    },
+    {
+      "name": "SALUD COMUNITARIA II",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/salud-comunitaria-ii/3223180"
+    },
+    {
+      "name": "Salud Mental",
+      "code": "MED994217",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/salud-mental/3524623"
+    },
+    {
+      "name": "Salud Reproductiva",
+      "code": "MED991617",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/salud-reproductiva/3524596"
+    },
+    {
+      "name": "Seguridad de computo",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/seguridad-de-computo/6429544"
+    },
+    {
+      "name": "Seguridad de la Información II",
+      "code": "IEC982100",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/seguridad-de-la-informacion-ii/4469919"
+    },
+    {
+      "name": "seguridad industrial",
+      "code": "IIM-2103-96",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/seguridad-industrial/4371699"
+    },
+    {
+      "name": "Seguridad informática",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/seguridad-informatica/3238052"
+    },
+    {
+      "name": "Seguridad nacional",
+      "code": "JUR311909",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/seguridad-nacional/3236729"
+    },
+    {
+      "name": "Seminario de Administración (Sel. por Comp.)",
+      "code": "CIA1623",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/seminario-de-administracion-sel-por-comp/3524346"
+    },
+    {
+      "name": "Seminario de administración estratégica",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/seminario-de-administracion-estrategica/3526871"
+    },
+    {
+      "name": "Seminario de Costos",
+      "code": "CIA1648",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/seminario-de-costos/3524393"
+    },
+    {
+      "name": "Seminario de Estudios de la Vida Cotidiana",
+      "code": "CIS168700",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/seminario-de-estudios-de-la-vida-cotidiana/3524461"
+    },
+    {
+      "name": "Seminario de Investigación I",
+      "code": "CIA1209",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/seminario-de-investigacion-i/3524332"
+    },
+    {
+      "name": "Seminario de investigación I",
+      "code": "CIA986814",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/seminario-de-investigacion-i/3524382"
+    },
+    {
+      "name": "Seminario de Investigación II",
+      "code": "CIA1210",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/seminario-de-investigacion-ii/3524333"
+    },
+    {
+      "name": "Seminario de Proyectos de investigación 1: El Horizonte Multidisciplinario",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/seminario-de-proyectos-de-investigacion-1-el-horizonte-multidisciplinario/3527074"
+    },
+    {
+      "name": "Seminario de Relaciones Laborales",
+      "code": "CIA1620",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/seminario-de-relaciones-laborales/3524341"
+    },
+    {
+      "name": "Sensopercepción",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/sensopercepcion/3526980"
+    },
+    {
+      "name": "Servicio Social",
+      "code": "ICA",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/servicio-social/3524758"
+    },
+    {
+      "name": "Servicio Social",
+      "code": "CIA9801",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/servicio-social/3524324"
+    },
+    {
+      "name": "Servicio Social",
+      "code": "CBE",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/servicio-social/3524664"
+    },
+    {
+      "name": "Servicio Social (SATCA)",
+      "code": "CIA980108",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/servicio-social-satca/3524361"
+    },
+    {
+      "name": "Servicios de Viajes",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/servicios-de-viajes/3526852"
+    },
+    {
+      "name": "Sexualidad Humana",
+      "code": "MED-240704",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/sexualidad-humana/6553468"
+    },
+    {
+      "name": "Sindrome de burnout",
+      "code": "13MM8196",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/sindrome-de-burnout/4820257"
+    },
+    {
+      "name": "Sintesis Organica",
+      "code": "BAS316308",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/sintesis-organica/3524563"
+    },
+    {
+      "name": "Sistema de Bienestar y Políticas Sociales",
+      "code": "MCS 0075-02",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/sistema-de-bienestar-y-politicas-sociales/3524477"
+    },
+    {
+      "name": "Sistema financiero Internacional",
+      "code": "CIA981900",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/sistema-financiero-internacional/3524412"
+    },
+    {
+      "name": "Sistema Financiero Mexicano",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/sistema-financiero-mexicano/3526864"
+    },
+    {
+      "name": "Sistemas computacionales",
+      "code": "BAS-0099-94",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/sistemas-computacionales/4069119"
+    },
+    {
+      "name": "Sistemas de Adquisición De Datos",
+      "code": "IEC330996",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/sistemas-de-adquisicion-de-datos/3524674"
+    },
+    {
+      "name": "Sistemas de Información Geográfica",
+      "code": "ICA",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/sistemas-de-informacion-geografica/3524742"
+    },
+    {
+      "name": "Sistemas de planeación",
+      "code": "230812",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/sistemas-de-planeacion/6493493"
+    },
+    {
+      "name": "Sistemas Digitales",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/sistemas-digitales/4365610"
+    },
+    {
+      "name": "Sistemas dinámicos",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/sistemas-dinamicos/3224791"
+    },
+    {
+      "name": "Sistemas lineales",
+      "code": "IEC224309",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/sistemas-lineales/3220983"
+    },
+    {
+      "name": "Sistemas mecánicos",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/sistemas-mecanicos/3224789"
+    },
+    {
+      "name": "Sistemas Micro-Electromecánicos",
+      "code": "CBE532505",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/sistemas-micro-electromecanicos/3524721"
+    },
+    {
+      "name": "Sistemas Web II",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/sistemas-web-ii/6429539"
+    },
+    {
+      "name": "Sistematización en el Trabajo Social",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/sistematizacion-en-el-trabajo-social/3526972"
+    },
+    {
+      "name": "Sistemática y Taxonomía",
+      "code": "BAS-3900-99",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/sistematica-y-taxonomia/3524525"
+    },
+    {
+      "name": "Sociedad y Desarrollo",
+      "code": "MCS 0047-00",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/sociedad-y-desarrollo/3524482"
+    },
+    {
+      "name": "Sociologia de la Población",
+      "code": "CIS161995",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/sociologia-de-la-poblacion/3524452"
+    },
+    {
+      "name": "Sociología de la cultura",
+      "code": "MCS 0069-02",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/sociologia-de-la-cultura/3524478"
+    },
+    {
+      "name": "Sociología de la Educación",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/sociologia-de-la-educacion/3527040"
+    },
+    {
+      "name": "Sociología del Derecho",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/sociologia-del-derecho/3526907"
+    },
+    {
+      "name": "Sociología del Trabajo",
+      "code": "CIS120295",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/sociologia-del-trabajo/3524451"
+    },
+    {
+      "name": "Sociología Urbana",
+      "code": "CIS140395",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/sociologia-urbana/3524440"
+    },
+    {
+      "name": "Sustentabilidad de las organizaciones",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/sustentabilidad-de-las-organizaciones/3526873"
+    },
+    {
+      "name": "T. de Análisis de la Real. Pol. y Eco. de Mex.",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/t-de-analisis-de-la-real-pol-y-eco-de-mex/3526963"
+    },
+    {
+      "name": "Taller de análisis y creación",
+      "code": "ART346308",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/taller-de-analisis-y-creacion/6717521"
+    },
+    {
+      "name": "Taller de Arquitectura 1",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/taller-de-arquitectura-1/6052115"
+    },
+    {
+      "name": "Taller de Arquitectura 5",
+      "code": "Proyecto",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/taller-de-arquitectura-5/6376243"
+    },
+    {
+      "name": "Taller de Construcción II",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/taller-de-construccion-ii/7772327"
+    },
+    {
+      "name": "Taller de Escritura",
+      "code": "CIS167100",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/taller-de-escritura/3524428"
+    },
+    {
+      "name": "taller de guión",
+      "code": "0023",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/taller-de-guion/6385858"
+    },
+    {
+      "name": "Taller de Historia Oral",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/taller-de-historia-oral/3527076"
+    },
+    {
+      "name": "Taller de Inglés para negocios",
+      "code": "CIA9835",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/taller-de-ingles-para-negocios/3524320"
+    },
+    {
+      "name": "TALLER DE INTEGRACIÓN",
+      "code": "MED988514",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/taller-de-integracion/3224408"
+    },
+    {
+      "name": "Taller de Investigación Sociológica II",
+      "code": "CIS168500",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/taller-de-investigacion-sociologica-ii/3524459"
+    },
+    {
+      "name": "Taller de Lectura y Redacción de Textos Históricos",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/taller-de-lectura-y-redaccion-de-textos-historicos/3527055"
+    },
+    {
+      "name": "Taller de Matemática Educativa",
+      "code": "CBE",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/taller-de-matematica-educativa/3524707"
+    },
+    {
+      "name": "Taller de Paleografía y Diplomática",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/taller-de-paleografia-y-diplomatica/3527081"
+    },
+    {
+      "name": "Taller de Recursos Informáticos",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/taller-de-recursos-informaticos/3527058"
+    },
+    {
+      "name": "Tec. de Alimentos",
+      "code": "BAS986714",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/tec-de-alimentos/3524569"
+    },
+    {
+      "name": "Tecnologia farmaceutica",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/tecnologia-farmaceutica/4999578"
+    },
+    {
+      "name": "Tecnología de los Polímeros",
+      "code": "CBE530705",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/tecnologia-de-los-polimeros/3524712"
+    },
+    {
+      "name": "Tecnología de Materiales Avanzados",
+      "code": "CBE530305",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/tecnologia-de-materiales-avanzados/3524730"
+    },
+    {
+      "name": "Teoria de la administración",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/teoria-de-la-administracion/3227528"
+    },
+    {
+      "name": "Teoria de la computacion",
+      "code": "240812",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/teoria-de-la-computacion/7096821"
+    },
+    {
+      "name": "Teoría de la Administración",
+      "code": "CIA9832",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/teoria-de-la-administracion/3524296"
+    },
+    {
+      "name": "Teoría del Aprendizaje",
+      "code": "CIS366402",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/teoria-del-aprendizaje/3224813"
+    },
+    {
+      "name": "Teoría General del Derecho",
+      "code": "JUR1002",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/teoria-general-del-derecho/3526841"
+    },
+    {
+      "name": "Teoría General del Estado",
+      "code": "JUR1008",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/teoria-general-del-estado/3526847"
+    },
+    {
+      "name": "Teoría General del Proceso",
+      "code": "JUR1201",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/teoria-general-del-proceso/3526846"
+    },
+    {
+      "name": "Teoría Gral. de la Tributación",
+      "code": "CIA 4028",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/teoria-gral-de-la-tributacion/3524389"
+    },
+    {
+      "name": "Teoría Política Contemporánea",
+      "code": "MCS 0036-00",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/teoria-politica-contemporanea/3524472"
+    },
+    {
+      "name": "Teoría Social e Intervención Comunitaria",
+      "code": "MCS 0034-00",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/teoria-social-e-intervencion-comunitaria/3524475"
+    },
+    {
+      "name": "Teoría y Modelos del Desarrollo Humano y Social",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/teoria-y-modelos-del-desarrollo-humano-y-social/3526958"
+    },
+    {
+      "name": "Teoría y técnica de la entrevista",
+      "code": "CIS362395",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/teoria-y-tecnica-de-la-entrevista/3224800"
+    },
+    {
+      "name": "Teorías de la personalidad",
+      "code": "CIS362795",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/teorias-de-la-personalidad/3224804"
+    },
+    {
+      "name": "TERAPEUTICA",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/terapeutica/3221650"
+    },
+    {
+      "name": "Terapia neurológica",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/terapia-neurologica/7132094"
+    },
+    {
+      "name": "Termodinámica",
+      "code": "CBE220396",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/termodinamica/3524649"
+    },
+    {
+      "name": "TIC'S aplicadas a las ciencias de la salud",
+      "code": "MED989014",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/tics-aplicadas-a-las-ciencias-de-la-salud/4456076"
+    },
+    {
+      "name": "Toma de decisiones multicriterio",
+      "code": "20230812 IIM-9853-17",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/toma-de-decisiones-multicriterio/6541830"
+    },
+    {
+      "name": "Topicos Selectos",
+      "code": "Psicologia",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/topicos-selectos/6928359"
+    },
+    {
+      "name": "Topografía",
+      "code": "ICA120296",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/topografia/3524736"
+    },
+    {
+      "name": "toxicologia  de alimentos",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/toxicologia-de-alimentos/5312503"
+    },
+    {
+      "name": "Toxicología Ambiental",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/toxicologia-ambiental/4375509"
+    },
+    {
+      "name": "Trabajo Social Empresarial",
+      "code": "Trabajo Social",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/trabajo-social-empresarial/6174223"
+    },
+    {
+      "name": "Trabajo Social Institucional",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/trabajo-social-institucional/3526959"
+    },
+    {
+      "name": "Trabajo Social y Derechos Humanos",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/trabajo-social-y-derechos-humanos/4824321"
+    },
+    {
+      "name": "Transferencia de Calor",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/transferencia-de-calor/7227922"
+    },
+    {
+      "name": "Transporte",
+      "code": "ICA380200",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/transporte/3524752"
+    },
+    {
+      "name": "Trastorno de Estrés Postraumático Adicciones y Terapia Familiar",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/trastorno-de-estres-postraumatico-adicciones-y-terapia-familiar/3527019"
+    },
+    {
+      "name": "Tratados y Acuerdos de Libre Comercio",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/tratados-y-acuerdos-de-libre-comercio/3526894"
+    },
+    {
+      "name": "Tratamientos de Agua",
+      "code": "BAS986414",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/tratamientos-de-agua/3524572"
+    },
+    {
+      "name": "Turismo y Medio Ambiente",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/turismo-y-medio-ambiente/3526857"
+    },
+    {
+      "name": "Técnicas de Biología Molecular y Genética",
+      "code": "CQB-0040-18",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/tecnicas-de-biologia-molecular-y-genetica/3524532"
+    },
+    {
+      "name": "Técnicas de Evaluación y Diagnóstico",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/tecnicas-de-evaluacion-y-diagnostico/6403914"
+    },
+    {
+      "name": "Técnicas de expresión oral y escrita",
+      "code": "1234",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/tecnicas-de-expresion-oral-y-escrita/5930622"
+    },
+    {
+      "name": "Técnicas de Inv. Documental",
+      "code": "CIS100395",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/tecnicas-de-inv-documental/3524433"
+    },
+    {
+      "name": "Técnicas de investigación documental",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/tecnicas-de-investigacion-documental/3223648"
+    },
+    {
+      "name": "Técnicas de Investigación Histórica",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/tecnicas-de-investigacion-historica/3527060"
+    },
+    {
+      "name": "Técnicas de la Investigación Jurídica",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/tecnicas-de-la-investigacion-juridica/3526921"
+    },
+    {
+      "name": "Técnicas y Recolección de Datos Cualitativos y Cuantitativos",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/tecnicas-y-recoleccion-de-datos-cualitativos-y-cuantitativos/3526960"
+    },
+    {
+      "name": "Urgencias",
+      "code": "Urgencias",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/urgencias/3222341"
+    },
+    {
+      "name": "UROLOGIA",
+      "code": "MED987614",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/urologia/3224393"
+    },
+    {
+      "name": "Valores en el Ejercicio Profesional",
+      "code": "CIA9838",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/valores-en-el-ejercicio-profesional/3524326"
+    },
+    {
+      "name": "valucion inmobiliaria",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/valucion-inmobiliaria/6373197"
+    },
+    {
+      "name": "Value and Supply Chain Management",
+      "code": "CIA9834",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/value-and-supply-chain-management/3524312"
+    },
+    {
+      "name": "Variable Compleja",
+      "code": "CBE226006",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/variable-compleja/3524659"
+    },
+    {
+      "name": "Virologia y Enfermedades virales de los animales",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/virologia-y-enfermedades-virales-de-los-animales/4519236"
+    },
+    {
+      "name": "Vitimologia",
+      "code": "JUR986516",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/vitimologia/3236724"
+    },
+    {
+      "name": "Vías Terrestres",
+      "code": "ICA330696",
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/vias-terrestres/3524757"
+    },
+    {
+      "name": "​Introducción al Estudio de la Historia",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-autonoma-de-ciudad-juarez/introduccion-al-estudio-de-la-historia/3527054"
+    }
+  ]
+}

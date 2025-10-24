@@ -1,0 +1,876 @@
+{
+  "university_id": "9995",
+  "university_name": "Cambridge College",
+  "courses": [
+    {
+      "name": "A course in field thheory",
+      "code": "PHYS 1234",
+      "url": "https://www.studocu.com/en-us/course/cambridge-college/a-course-in-field-thheory/6257314"
+    },
+    {
+      "name": "A Level Business",
+      "code": "9609",
+      "url": "https://www.studocu.com/en-us/course/cambridge-college/a-level-business/5034659"
+    },
+    {
+      "name": "A Level Chemistry",
+      "code": "9701",
+      "url": "https://www.studocu.com/en-us/course/cambridge-college/a-level-chemistry/3290257"
+    },
+    {
+      "name": "A Level Economics",
+      "code": "9708",
+      "url": "https://www.studocu.com/en-us/course/cambridge-college/a-level-economics/5934301"
+    },
+    {
+      "name": "A level IT",
+      "code": "9626",
+      "url": "https://www.studocu.com/en-us/course/cambridge-college/a-level-it/4339138"
+    },
+    {
+      "name": "A Levels Accounting",
+      "code": "9706",
+      "url": "https://www.studocu.com/en-us/course/cambridge-college/a-levels-accounting/6174925"
+    },
+    {
+      "name": "A levels Economics",
+      "code": "9708",
+      "url": "https://www.studocu.com/en-us/course/cambridge-college/a-levels-economics/5933001"
+    },
+    {
+      "name": "A-Level law",
+      "code": "9084",
+      "url": "https://www.studocu.com/en-us/course/cambridge-college/a-level-law/4803116"
+    },
+    {
+      "name": "A-LEVEL mathematics",
+      "code": "MSM112",
+      "url": "https://www.studocu.com/en-us/course/cambridge-college/a-level-mathematics/6065332"
+    },
+    {
+      "name": "Advanced C1",
+      "code": "010101",
+      "url": "https://www.studocu.com/en-us/course/cambridge-college/advanced-c1/4360262"
+    },
+    {
+      "name": "AICE Environmet",
+      "code": "SLA 201",
+      "url": "https://www.studocu.com/en-us/course/cambridge-college/aice-environmet/6908687"
+    },
+    {
+      "name": "Aice us history",
+      "code": "history9489",
+      "url": "https://www.studocu.com/en-us/course/cambridge-college/aice-us-history/5713157"
+    },
+    {
+      "name": "Alergología",
+      "code": null,
+      "url": "https://www.studocu.com/en-us/course/cambridge-college/alergologia/7678315"
+    },
+    {
+      "name": "anatomy and physiology",
+      "code": "MAN112",
+      "url": "https://www.studocu.com/en-us/course/cambridge-college/anatomy-and-physiology/6064736"
+    },
+    {
+      "name": "Applied econometrics",
+      "code": "MAT02",
+      "url": "https://www.studocu.com/en-us/course/cambridge-college/applied-econometrics/6597247"
+    },
+    {
+      "name": "Applied Mathematics",
+      "code": "MAT 635",
+      "url": "https://www.studocu.com/en-us/course/cambridge-college/applied-mathematics/6143411"
+    },
+    {
+      "name": "APTIS",
+      "code": "APT2",
+      "url": "https://www.studocu.com/en-us/course/cambridge-college/aptis/5278682"
+    },
+    {
+      "name": "Arena animation",
+      "code": "1233",
+      "url": "https://www.studocu.com/en-us/course/cambridge-college/arena-animation/5412625"
+    },
+    {
+      "name": "Array of strings",
+      "code": "IT2345",
+      "url": "https://www.studocu.com/en-us/course/cambridge-college/array-of-strings/4323944"
+    },
+    {
+      "name": "Arts and Humanities",
+      "code": "150000326",
+      "url": "https://www.studocu.com/en-us/course/cambridge-college/arts-and-humanities/3229960"
+    },
+    {
+      "name": "Associates Degree in Nursing",
+      "code": "RNSG1301",
+      "url": "https://www.studocu.com/en-us/course/cambridge-college/associates-degree-in-nursing/5736387"
+    },
+    {
+      "name": "Auditing and Assurance",
+      "code": "BBAC601",
+      "url": "https://www.studocu.com/en-us/course/cambridge-college/auditing-and-assurance/4742398"
+    },
+    {
+      "name": "authentic practice tests",
+      "code": "B1-PFS",
+      "url": "https://www.studocu.com/en-us/course/cambridge-college/authentic-practice-tests/6187207"
+    },
+    {
+      "name": "Biological Sciences",
+      "code": "Bio 201",
+      "url": "https://www.studocu.com/en-us/course/cambridge-college/biological-sciences/5482889"
+    },
+    {
+      "name": "Biology",
+      "code": "0610",
+      "url": "https://www.studocu.com/en-us/course/cambridge-college/biology/6175108"
+    },
+    {
+      "name": "botany",
+      "code": "bot201",
+      "url": "https://www.studocu.com/en-us/course/cambridge-college/botany/7718749"
+    },
+    {
+      "name": "business administration",
+      "code": "BBA1",
+      "url": "https://www.studocu.com/en-us/course/cambridge-college/business-administration/4378925"
+    },
+    {
+      "name": "Business MGT",
+      "code": "MGT 3000",
+      "url": "https://www.studocu.com/en-us/course/cambridge-college/business-mgt/7352280"
+    },
+    {
+      "name": "Business Studies",
+      "code": null,
+      "url": "https://www.studocu.com/en-us/course/cambridge-college/business-studies/5494708"
+    },
+    {
+      "name": "Calculus I",
+      "code": "MAT 611",
+      "url": "https://www.studocu.com/en-us/course/cambridge-college/calculus-i/7396710"
+    },
+    {
+      "name": "Cambridge",
+      "code": "Cambridge, English",
+      "url": "https://www.studocu.com/en-us/course/cambridge-college/cambridge/7683006"
+    },
+    {
+      "name": "Cambridge English Language Assessment",
+      "code": "UCLES 2017",
+      "url": "https://www.studocu.com/en-us/course/cambridge-college/cambridge-english-language-assessment/5716789"
+    },
+    {
+      "name": "Cambridge O Level",
+      "code": "Economics 2281",
+      "url": "https://www.studocu.com/en-us/course/cambridge-college/cambridge-o-level/4069173"
+    },
+    {
+      "name": "Cardology",
+      "code": "32222",
+      "url": "https://www.studocu.com/en-us/course/cambridge-college/cardology/7661333"
+    },
+    {
+      "name": "Child protection and care",
+      "code": "CPC100",
+      "url": "https://www.studocu.com/en-us/course/cambridge-college/child-protection-and-care/6373812"
+    },
+    {
+      "name": "college algebra",
+      "code": "mat 607",
+      "url": "https://www.studocu.com/en-us/course/cambridge-college/college-algebra/3953803"
+    },
+    {
+      "name": "Company law",
+      "code": null,
+      "url": "https://www.studocu.com/en-us/course/cambridge-college/company-law/1942738"
+    },
+    {
+      "name": "Component 1 history notes",
+      "code": "HIST1001",
+      "url": "https://www.studocu.com/en-us/course/cambridge-college/component-1-history-notes/4410002"
+    },
+    {
+      "name": "Computational Thinking: Data Structures and\n Algorithms",
+      "code": "SCI 634",
+      "url": "https://www.studocu.com/en-us/course/cambridge-college/computational-thinking-data-structures-and-algorithms/6643174"
+    },
+    {
+      "name": "Computer Programming",
+      "code": "PROG101",
+      "url": "https://www.studocu.com/en-us/course/cambridge-college/computer-programming/4134233"
+    },
+    {
+      "name": "Computer science",
+      "code": "0478",
+      "url": "https://www.studocu.com/en-us/course/cambridge-college/computer-science/5033689"
+    },
+    {
+      "name": "Computer Science Applicatio s",
+      "code": "CSA 2001",
+      "url": "https://www.studocu.com/en-us/course/cambridge-college/computer-science-applicatio-s/7491580"
+    },
+    {
+      "name": "Conformal FT",
+      "code": "CFT01",
+      "url": "https://www.studocu.com/en-us/course/cambridge-college/conformal-ft/6643065"
+    },
+    {
+      "name": "Contabildiad",
+      "code": "02",
+      "url": "https://www.studocu.com/en-us/course/cambridge-college/contabildiad/7587127"
+    },
+    {
+      "name": "cooking arts",
+      "code": "cook 65",
+      "url": "https://www.studocu.com/en-us/course/cambridge-college/cooking-arts/7561891"
+    },
+    {
+      "name": "Coordinated Sciences",
+      "code": "0654",
+      "url": "https://www.studocu.com/en-us/course/cambridge-college/coordinated-sciences/5178584"
+    },
+    {
+      "name": "corporate law",
+      "code": "adea125",
+      "url": "https://www.studocu.com/en-us/course/cambridge-college/corporate-law/5886026"
+    },
+    {
+      "name": "Corporate Law",
+      "code": "LAW 2121",
+      "url": "https://www.studocu.com/en-us/course/cambridge-college/corporate-law/7314003"
+    },
+    {
+      "name": "data scince",
+      "code": "data 201",
+      "url": "https://www.studocu.com/en-us/course/cambridge-college/data-scince/6441970"
+    },
+    {
+      "name": "Database",
+      "code": "data101",
+      "url": "https://www.studocu.com/en-us/course/cambridge-college/database/7505834"
+    },
+    {
+      "name": "Derecho",
+      "code": "3",
+      "url": "https://www.studocu.com/en-us/course/cambridge-college/derecho/7587130"
+    },
+    {
+      "name": "Desarrollo personal y lidera",
+      "code": "Dopcc2",
+      "url": "https://www.studocu.com/en-us/course/cambridge-college/desarrollo-personal-y-lidera/7569079"
+    },
+    {
+      "name": "design",
+      "code": "dkv001",
+      "url": "https://www.studocu.com/en-us/course/cambridge-college/design/5905121"
+    },
+    {
+      "name": "Didáctica del Aprendizaje",
+      "code": "Didactics 5126",
+      "url": "https://www.studocu.com/en-us/course/cambridge-college/didactica-del-aprendizaje/5330710"
+    },
+    {
+      "name": "Discrete Mathematics",
+      "code": "MAT 613",
+      "url": "https://www.studocu.com/en-us/course/cambridge-college/discrete-mathematics/5931313"
+    },
+    {
+      "name": "Edexcel Physics Unit 2",
+      "code": "WPH12",
+      "url": "https://www.studocu.com/en-us/course/cambridge-college/edexcel-physics-unit-2/6063932"
+    },
+    {
+      "name": "Ekologi",
+      "code": "Ecology1",
+      "url": "https://www.studocu.com/en-us/course/cambridge-college/ekologi/6050418"
+    },
+    {
+      "name": "Electronic Health Information",
+      "code": "MED 200",
+      "url": "https://www.studocu.com/en-us/course/cambridge-college/electronic-health-information/7208356"
+    },
+    {
+      "name": "English",
+      "code": "CAE",
+      "url": "https://www.studocu.com/en-us/course/cambridge-college/english/3227707"
+    },
+    {
+      "name": "English (Language Studies)",
+      "code": "EngL 01",
+      "url": "https://www.studocu.com/en-us/course/cambridge-college/english-language-studies/6153865"
+    },
+    {
+      "name": "English for YLE",
+      "code": "EFY001",
+      "url": "https://www.studocu.com/en-us/course/cambridge-college/english-for-yle/6325318"
+    },
+    {
+      "name": "Filosofia",
+      "code": "181818",
+      "url": "https://www.studocu.com/en-us/course/cambridge-college/filosofia/3239971"
+    },
+    {
+      "name": "Financial accounting theory",
+      "code": "BBAC 502",
+      "url": "https://www.studocu.com/en-us/course/cambridge-college/financial-accounting-theory/1754878"
+    },
+    {
+      "name": "Financial Markets",
+      "code": "MSF 500",
+      "url": "https://www.studocu.com/en-us/course/cambridge-college/financial-markets/5138767"
+    },
+    {
+      "name": "Fire Science",
+      "code": "BLAW 2001, PSYC 241",
+      "url": "https://www.studocu.com/en-us/course/cambridge-college/fire-science/5398750"
+    },
+    {
+      "name": "French",
+      "code": "LAngueages",
+      "url": "https://www.studocu.com/en-us/course/cambridge-college/french/7508470"
+    },
+    {
+      "name": "General Biology I",
+      "code": "SCI 203",
+      "url": "https://www.studocu.com/en-us/course/cambridge-college/general-biology-i/5830414"
+    },
+    {
+      "name": "Geography",
+      "code": "-",
+      "url": "https://www.studocu.com/en-us/course/cambridge-college/geography/4524163"
+    },
+    {
+      "name": "Geology",
+      "code": "250253",
+      "url": "https://www.studocu.com/en-us/course/cambridge-college/geology/1717457"
+    },
+    {
+      "name": "Grammar",
+      "code": "GRAM461",
+      "url": "https://www.studocu.com/en-us/course/cambridge-college/grammar/5720866"
+    },
+    {
+      "name": "History",
+      "code": "0470",
+      "url": "https://www.studocu.com/en-us/course/cambridge-college/history/5277098"
+    },
+    {
+      "name": "Human development",
+      "code": "hfst-1500",
+      "url": "https://www.studocu.com/en-us/course/cambridge-college/human-development/3534882"
+    },
+    {
+      "name": "Human Development Across the Lifespan",
+      "code": null,
+      "url": "https://www.studocu.com/en-us/course/cambridge-college/human-development-across-the-lifespan/6482048"
+    },
+    {
+      "name": "Human Resource Management and Law",
+      "code": "MGT 412",
+      "url": "https://www.studocu.com/en-us/course/cambridge-college/human-resource-management-and-law/5797563"
+    },
+    {
+      "name": "Human Resources",
+      "code": "HR 01",
+      "url": "https://www.studocu.com/en-us/course/cambridge-college/human-resources/6134077"
+    },
+    {
+      "name": "Human Rights Law",
+      "code": "Paper 39",
+      "url": "https://www.studocu.com/en-us/course/cambridge-college/human-rights-law/5473422"
+    },
+    {
+      "name": "Ideas and Research Papers",
+      "code": "Idea-Resech-1",
+      "url": "https://www.studocu.com/en-us/course/cambridge-college/ideas-and-research-papers/6031246"
+    },
+    {
+      "name": "IELTS Academic",
+      "code": "ielts123",
+      "url": "https://www.studocu.com/en-us/course/cambridge-college/ielts-academic/5212184"
+    },
+    {
+      "name": "Igcse",
+      "code": "PE010",
+      "url": "https://www.studocu.com/en-us/course/cambridge-college/igcse/5810413"
+    },
+    {
+      "name": "igcse",
+      "code": "001",
+      "url": "https://www.studocu.com/en-us/course/cambridge-college/igcse/5356216"
+    },
+    {
+      "name": "Iinformation and communicatio technology",
+      "code": "ICT 0417",
+      "url": "https://www.studocu.com/en-us/course/cambridge-college/iinformation-and-communicatio-technology/4440135"
+    },
+    {
+      "name": "Impuestos",
+      "code": "1",
+      "url": "https://www.studocu.com/en-us/course/cambridge-college/impuestos/7587125"
+    },
+    {
+      "name": "Information technology",
+      "code": "IT1254",
+      "url": "https://www.studocu.com/en-us/course/cambridge-college/information-technology/3567424"
+    },
+    {
+      "name": "ingles",
+      "code": "1422",
+      "url": "https://www.studocu.com/en-us/course/cambridge-college/ingles/5020151"
+    },
+    {
+      "name": "Intermediate Accounting 1",
+      "code": "InnAcc 1",
+      "url": "https://www.studocu.com/en-us/course/cambridge-college/intermediate-accounting-1/5471929"
+    },
+    {
+      "name": "International Baccelerate",
+      "code": "IB001",
+      "url": "https://www.studocu.com/en-us/course/cambridge-college/international-baccelerate/6256663"
+    },
+    {
+      "name": "International General Certificate of Secondary Education",
+      "code": "0620",
+      "url": "https://www.studocu.com/en-us/course/cambridge-college/international-general-certificate-of-secondary-education/5390390"
+    },
+    {
+      "name": "International General Certificate of Secondary Education",
+      "code": "0448",
+      "url": "https://www.studocu.com/en-us/course/cambridge-college/international-general-certificate-of-secondary-education/5847775"
+    },
+    {
+      "name": "International General Certificate of Secondary Education",
+      "code": "Year 9",
+      "url": "https://www.studocu.com/en-us/course/cambridge-college/international-general-certificate-of-secondary-education/6325653"
+    },
+    {
+      "name": "International General Certificate of Secondary Education",
+      "code": "0610",
+      "url": "https://www.studocu.com/en-us/course/cambridge-college/international-general-certificate-of-secondary-education/5386666"
+    },
+    {
+      "name": "International Marketing",
+      "code": "BA05101",
+      "url": "https://www.studocu.com/en-us/course/cambridge-college/international-marketing/6491279"
+    },
+    {
+      "name": "international relations",
+      "code": "ir1234",
+      "url": "https://www.studocu.com/en-us/course/cambridge-college/international-relations/5209946"
+    },
+    {
+      "name": "Interpretation of Principles Based on Thematic",
+      "code": "ipbt",
+      "url": "https://www.studocu.com/en-us/course/cambridge-college/interpretation-of-principles-based-on-thematic/6031249"
+    },
+    {
+      "name": "Intro to Computers",
+      "code": "CMP112",
+      "url": "https://www.studocu.com/en-us/course/cambridge-college/intro-to-computers/4370039"
+    },
+    {
+      "name": "Introduction to Business",
+      "code": "BSM 200",
+      "url": "https://www.studocu.com/en-us/course/cambridge-college/introduction-to-business/6569882"
+    },
+    {
+      "name": "Introduction to C++",
+      "code": "6.096",
+      "url": "https://www.studocu.com/en-us/course/cambridge-college/introduction-to-c/4323943"
+    },
+    {
+      "name": "Introduction to Project Management",
+      "code": "PJM210",
+      "url": "https://www.studocu.com/en-us/course/cambridge-college/introduction-to-project-management/5539679"
+    },
+    {
+      "name": "Introduction to Statistics",
+      "code": "MAT 201",
+      "url": "https://www.studocu.com/en-us/course/cambridge-college/introduction-to-statistics/5920507"
+    },
+    {
+      "name": "Islamic Law rules and concepts",
+      "code": "ilc",
+      "url": "https://www.studocu.com/en-us/course/cambridge-college/islamic-law-rules-and-concepts/6031259"
+    },
+    {
+      "name": "JAmin",
+      "code": "09kss",
+      "url": "https://www.studocu.com/en-us/course/cambridge-college/jamin/3234741"
+    },
+    {
+      "name": "Key English for School",
+      "code": "KET 1",
+      "url": "https://www.studocu.com/en-us/course/cambridge-college/key-english-for-school/6215522"
+    },
+    {
+      "name": "Language and Society Introductionto Linguistic Anthropology",
+      "code": "SOC 215",
+      "url": "https://www.studocu.com/en-us/course/cambridge-college/language-and-society-introductionto-linguistic-anthropology/5698403"
+    },
+    {
+      "name": "Laputitaquetepario Pagina del orto",
+      "code": "Bioquimica",
+      "url": "https://www.studocu.com/en-us/course/cambridge-college/laputitaquetepario-pagina-del-orto/5307437"
+    },
+    {
+      "name": "Law of Tort",
+      "code": "LLBM2022",
+      "url": "https://www.studocu.com/en-us/course/cambridge-college/law-of-tort/6674003"
+    },
+    {
+      "name": "Law universal",
+      "code": "ULAW243",
+      "url": "https://www.studocu.com/en-us/course/cambridge-college/law-universal/6094898"
+    },
+    {
+      "name": "LAW- European Union",
+      "code": "LAWEU1",
+      "url": "https://www.studocu.com/en-us/course/cambridge-college/law-european-union/4854092"
+    },
+    {
+      "name": "Literature",
+      "code": "-",
+      "url": "https://www.studocu.com/en-us/course/cambridge-college/literature/4501216"
+    },
+    {
+      "name": "Macroeconomics",
+      "code": "ECO 201",
+      "url": "https://www.studocu.com/en-us/course/cambridge-college/macroeconomics/5996243"
+    },
+    {
+      "name": "Management Advisory Service",
+      "code": "MAS 1",
+      "url": "https://www.studocu.com/en-us/course/cambridge-college/management-advisory-service/7698124"
+    },
+    {
+      "name": "Mathematics",
+      "code": "0580",
+      "url": "https://www.studocu.com/en-us/course/cambridge-college/mathematics/6315783"
+    },
+    {
+      "name": "Mathematics For Indonesian Junior High Schools",
+      "code": "MJHS111",
+      "url": "https://www.studocu.com/en-us/course/cambridge-college/mathematics-for-indonesian-junior-high-schools/5981970"
+    },
+    {
+      "name": "mathematics, pure 2 and 3",
+      "code": "9709, P2 AND 3",
+      "url": "https://www.studocu.com/en-us/course/cambridge-college/mathematics-pure-2-and-3/5707606"
+    },
+    {
+      "name": "Measures, Integrals & Martingales",
+      "code": "mat001",
+      "url": "https://www.studocu.com/en-us/course/cambridge-college/measures-integrals-martingales/7486510"
+    },
+    {
+      "name": "Mechanics P4",
+      "code": "9709",
+      "url": "https://www.studocu.com/en-us/course/cambridge-college/mechanics-p4/6453595"
+    },
+    {
+      "name": "Mechatronics engineering",
+      "code": "Mech 1",
+      "url": "https://www.studocu.com/en-us/course/cambridge-college/mechatronics-engineering/3465166"
+    },
+    {
+      "name": "Med-Surg 2",
+      "code": "NUR 208",
+      "url": "https://www.studocu.com/en-us/course/cambridge-college/med-surg-2/5840839"
+    },
+    {
+      "name": "Mental Health Counseling",
+      "code": "CCP 669",
+      "url": "https://www.studocu.com/en-us/course/cambridge-college/mental-health-counseling/6241951"
+    },
+    {
+      "name": "Microbiology",
+      "code": "BIOL 251",
+      "url": "https://www.studocu.com/en-us/course/cambridge-college/microbiology/6612549"
+    },
+    {
+      "name": "Middle School Semester Final Test",
+      "code": "MSFT111",
+      "url": "https://www.studocu.com/en-us/course/cambridge-college/middle-school-semester-final-test/5980504"
+    },
+    {
+      "name": "Mother Baby",
+      "code": "NUR220",
+      "url": "https://www.studocu.com/en-us/course/cambridge-college/mother-baby/4370034"
+    },
+    {
+      "name": "Natural Science",
+      "code": "SCI-100 R6647",
+      "url": "https://www.studocu.com/en-us/course/cambridge-college/natural-science/6321683"
+    },
+    {
+      "name": "network optimization",
+      "code": "mat304",
+      "url": "https://www.studocu.com/en-us/course/cambridge-college/network-optimization/6574358"
+    },
+    {
+      "name": "NFHS Baseball",
+      "code": "001",
+      "url": "https://www.studocu.com/en-us/course/cambridge-college/nfhs-baseball/7192539"
+    },
+    {
+      "name": "Nursing",
+      "code": "0001",
+      "url": "https://www.studocu.com/en-us/course/cambridge-college/nursing/3179510"
+    },
+    {
+      "name": "O level mathematics",
+      "code": "4024",
+      "url": "https://www.studocu.com/en-us/course/cambridge-college/o-level-mathematics/4495153"
+    },
+    {
+      "name": "organic chemistry",
+      "code": "Chem120",
+      "url": "https://www.studocu.com/en-us/course/cambridge-college/organic-chemistry/5796682"
+    },
+    {
+      "name": "organizational behavior",
+      "code": "HS 320",
+      "url": "https://www.studocu.com/en-us/course/cambridge-college/organizational-behavior/6211944"
+    },
+    {
+      "name": "parallel computing",
+      "code": "comp403",
+      "url": "https://www.studocu.com/en-us/course/cambridge-college/parallel-computing/6502842"
+    },
+    {
+      "name": "Patho",
+      "code": "NPG211",
+      "url": "https://www.studocu.com/en-us/course/cambridge-college/patho/7589067"
+    },
+    {
+      "name": "Pharmacology",
+      "code": null,
+      "url": "https://www.studocu.com/en-us/course/cambridge-college/pharmacology/3269016"
+    },
+    {
+      "name": "Physics",
+      "code": "9702",
+      "url": "https://www.studocu.com/en-us/course/cambridge-college/physics/6175178"
+    },
+    {
+      "name": "Physics",
+      "code": "0625",
+      "url": "https://www.studocu.com/en-us/course/cambridge-college/physics/5823451"
+    },
+    {
+      "name": "pháp luật đại cương",
+      "code": "pldc111",
+      "url": "https://www.studocu.com/en-us/course/cambridge-college/phap-luat-dai-cuong/6569591"
+    },
+    {
+      "name": "Phép biện chứng về mối liên hệ phổ biến và vận dụng phân tích mối liên hệ giữa tăng trưởng kinh tế với bảo vệ môi trường sinh thái",
+      "code": "zxczxcasdzxczxc",
+      "url": "https://www.studocu.com/en-us/course/cambridge-college/phep-bien-chung-ve-moi-lien-he-pho-bien-va-van-dung-phan-tich-moi-lien-he-giua-tang-truong-kinh-te-voi-bao-ve-moi-truong-sinh-thai/5161330"
+    },
+    {
+      "name": "Portuguese",
+      "code": null,
+      "url": "https://www.studocu.com/en-us/course/cambridge-college/portuguese/5843875"
+    },
+    {
+      "name": "Preparation Material",
+      "code": "B2-FT",
+      "url": "https://www.studocu.com/en-us/course/cambridge-college/preparation-material/6243969"
+    },
+    {
+      "name": "Principle of Marketing",
+      "code": "Bus 201",
+      "url": "https://www.studocu.com/en-us/course/cambridge-college/principle-of-marketing/4449164"
+    },
+    {
+      "name": "Principles of Engineering",
+      "code": "SCI 308",
+      "url": "https://www.studocu.com/en-us/course/cambridge-college/principles-of-engineering/6525662"
+    },
+    {
+      "name": "protectia consumatorului",
+      "code": "fsaf5f",
+      "url": "https://www.studocu.com/en-us/course/cambridge-college/protectia-consumatorului/4831210"
+    },
+    {
+      "name": "Psychology",
+      "code": "CMP112",
+      "url": "https://www.studocu.com/en-us/course/cambridge-college/psychology/6182346"
+    },
+    {
+      "name": "Psychology",
+      "code": "203",
+      "url": "https://www.studocu.com/en-us/course/cambridge-college/psychology/3221024"
+    },
+    {
+      "name": "Public health",
+      "code": "Health",
+      "url": "https://www.studocu.com/en-us/course/cambridge-college/public-health/6024567"
+    },
+    {
+      "name": "Química orgánica",
+      "code": "GHETP12",
+      "url": "https://www.studocu.com/en-us/course/cambridge-college/quimica-organica/5291377"
+    },
+    {
+      "name": "Relevance of World Ideology to Science and Charity",
+      "code": "RWS-1",
+      "url": "https://www.studocu.com/en-us/course/cambridge-college/relevance-of-world-ideology-to-science-and-charity/6031299"
+    },
+    {
+      "name": "Review of the Draft Articles of Association",
+      "code": "RDA-1",
+      "url": "https://www.studocu.com/en-us/course/cambridge-college/review-of-the-draft-articles-of-association/6031301"
+    },
+    {
+      "name": "road journal",
+      "code": "MGMT90026",
+      "url": "https://www.studocu.com/en-us/course/cambridge-college/road-journal/6569883"
+    },
+    {
+      "name": "seguridad industrial",
+      "code": "seguridad",
+      "url": "https://www.studocu.com/en-us/course/cambridge-college/seguridad-industrial/4497451"
+    },
+    {
+      "name": "Silver Oak Universal School",
+      "code": "1233",
+      "url": "https://www.studocu.com/en-us/course/cambridge-college/silver-oak-universal-school/5409538"
+    },
+    {
+      "name": "Situacion de Emergencia y Seguridad",
+      "code": null,
+      "url": "https://www.studocu.com/en-us/course/cambridge-college/situacion-de-emergencia-y-seguridad/7643916"
+    },
+    {
+      "name": "Social Advertising Management",
+      "code": null,
+      "url": "https://www.studocu.com/en-us/course/cambridge-college/social-advertising-management/1948168"
+    },
+    {
+      "name": "Social Psychology",
+      "code": "Social Psy",
+      "url": "https://www.studocu.com/en-us/course/cambridge-college/social-psychology/5541671"
+    },
+    {
+      "name": "social work",
+      "code": "mame001",
+      "url": "https://www.studocu.com/en-us/course/cambridge-college/social-work/7754197"
+    },
+    {
+      "name": "Social work and community development",
+      "code": "Csw 107",
+      "url": "https://www.studocu.com/en-us/course/cambridge-college/social-work-and-community-development/5917928"
+    },
+    {
+      "name": "Sociology",
+      "code": "9699",
+      "url": "https://www.studocu.com/en-us/course/cambridge-college/sociology/6407592"
+    },
+    {
+      "name": "Soft Matter",
+      "code": "sex123",
+      "url": "https://www.studocu.com/en-us/course/cambridge-college/soft-matter/5475983"
+    },
+    {
+      "name": "Solid state",
+      "code": "PHYS 407",
+      "url": "https://www.studocu.com/en-us/course/cambridge-college/solid-state/5285797"
+    },
+    {
+      "name": "Spanish",
+      "code": "BHS 125",
+      "url": "https://www.studocu.com/en-us/course/cambridge-college/spanish/5783182"
+    },
+    {
+      "name": "Storyfun",
+      "code": "SRF123",
+      "url": "https://www.studocu.com/en-us/course/cambridge-college/storyfun/7701497"
+    },
+    {
+      "name": "Strategy",
+      "code": "STRAT101",
+      "url": "https://www.studocu.com/en-us/course/cambridge-college/strategy/5096079"
+    },
+    {
+      "name": "strucutre and function",
+      "code": "vn100",
+      "url": "https://www.studocu.com/en-us/course/cambridge-college/strucutre-and-function/6848546"
+    },
+    {
+      "name": "Sách giáo khoa 4",
+      "code": "Grade4",
+      "url": "https://www.studocu.com/en-us/course/cambridge-college/sach-giao-khoa-4/6896132"
+    },
+    {
+      "name": "Taxation law",
+      "code": null,
+      "url": "https://www.studocu.com/en-us/course/cambridge-college/taxation-law/1942739"
+    },
+    {
+      "name": "Teaching English to Speakers of Other Languages",
+      "code": "TESOL 2024",
+      "url": "https://www.studocu.com/en-us/course/cambridge-college/teaching-english-to-speakers-of-other-languages/7166566"
+    },
+    {
+      "name": "Technical analysis",
+      "code": "BLAW-2342",
+      "url": "https://www.studocu.com/en-us/course/cambridge-college/technical-analysis/5251797"
+    },
+    {
+      "name": "The Fark Matter",
+      "code": "SYNC 341",
+      "url": "https://www.studocu.com/en-us/course/cambridge-college/the-fark-matter/5992613"
+    },
+    {
+      "name": "Thinking skills",
+      "code": "Thnk1201",
+      "url": "https://www.studocu.com/en-us/course/cambridge-college/thinking-skills/5180042"
+    },
+    {
+      "name": "Tieu Luan triet hoc",
+      "code": "asdasdaasdasdxcvxcvx",
+      "url": "https://www.studocu.com/en-us/course/cambridge-college/tieu-luan-triet-hoc/5161329"
+    },
+    {
+      "name": "Topic 7 Global Sourcing",
+      "code": "-",
+      "url": "https://www.studocu.com/en-us/course/cambridge-college/topic-7-global-sourcing/4510146"
+    },
+    {
+      "name": "Trabajo Integrador",
+      "code": "Adultos2000",
+      "url": "https://www.studocu.com/en-us/course/cambridge-college/trabajo-integrador/5935752"
+    },
+    {
+      "name": "Transition into leadership",
+      "code": "NR351",
+      "url": "https://www.studocu.com/en-us/course/cambridge-college/transition-into-leadership/5412430"
+    },
+    {
+      "name": "U.S. History and Constitutional Government I",
+      "code": "HIS201",
+      "url": "https://www.studocu.com/en-us/course/cambridge-college/us-history-and-constitutional-government-i/7564763"
+    },
+    {
+      "name": "Uniformed services",
+      "code": "12112",
+      "url": "https://www.studocu.com/en-us/course/cambridge-college/uniformed-services/3240811"
+    },
+    {
+      "name": "Western political philosophy",
+      "code": "4534-pol-508",
+      "url": "https://www.studocu.com/en-us/course/cambridge-college/western-political-philosophy/5131079"
+    },
+    {
+      "name": "Writing academic ielts",
+      "code": "IAW29",
+      "url": "https://www.studocu.com/en-us/course/cambridge-college/writing-academic-ielts/5367552"
+    }
+  ]
+}

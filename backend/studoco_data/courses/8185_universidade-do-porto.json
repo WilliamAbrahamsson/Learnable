@@ -1,0 +1,5156 @@
+{
+  "university_id": "8185",
+  "university_name": "Universidade do Porto",
+  "courses": [
+    {
+      "name": "Ada+sa 2017/2018",
+      "code": "FCUP-CC3007",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/adasa-20172018/2676521"
+    },
+    {
+      "name": "Administração de Redes",
+      "code": "FCUP-CC3018",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/administracao-de-redes/2676525"
+    },
+    {
+      "name": "Adoção e Institucionalização",
+      "code": null,
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/adocao-e-institucionalizacao/4922771"
+    },
+    {
+      "name": "Agricultura II",
+      "code": "CAGR1002",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/agricultura-ii/5380063"
+    },
+    {
+      "name": "Alemão A1.1",
+      "code": "FLUP-LLC001",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/alemao-a11/2677248"
+    },
+    {
+      "name": "Alemão A1.2",
+      "code": "FLUP-LLC002",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/alemao-a12/2677249"
+    },
+    {
+      "name": "Alemão A2.2",
+      "code": "FLUP-LLC004",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/alemao-a22/2677251"
+    },
+    {
+      "name": "Algoritmos e Estruturas de Dados",
+      "code": "FEUP-EIC0013",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/algoritmos-e-estruturas-de-dados/2676871"
+    },
+    {
+      "name": "Alimentação Humana",
+      "code": "FCNAUP-CN31001",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/alimentacao-humana/2676452"
+    },
+    {
+      "name": "Alimentação Humana I",
+      "code": "FFUP-MI073123",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/alimentacao-humana-i/2677103"
+    },
+    {
+      "name": "Analise Numérica",
+      "code": "EEC0016",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/analise-numerica/5187741"
+    },
+    {
+      "name": "Anatomia",
+      "code": null,
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/anatomia/4377575"
+    },
+    {
+      "name": "Anatomia Clínica",
+      "code": "ICBAS-MV221",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/anatomia-clinica/2959341"
+    },
+    {
+      "name": "Anatomia do Sistema Nervoso",
+      "code": null,
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/anatomia-do-sistema-nervoso/4367545"
+    },
+    {
+      "name": "Anatomia e Fisiologia I",
+      "code": null,
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/anatomia-e-fisiologia-i/5342732"
+    },
+    {
+      "name": "Anatomia e Histologia",
+      "code": "FFUP-MI071206",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/anatomia-e-histologia/2677093"
+    },
+    {
+      "name": "Anatomia Humana I",
+      "code": "FCNAUP-CN11001",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/anatomia-humana-i/2952600"
+    },
+    {
+      "name": "Anatomia Humana II",
+      "code": "FCNAUP-CN12001",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/anatomia-humana-ii/2676440"
+    },
+    {
+      "name": "Anatomia Sistemática I",
+      "code": "ICBAS-MIM121",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/anatomia-sistematica-i/2959338"
+    },
+    {
+      "name": "Ano Probatório",
+      "code": "ICBAS-ENF01",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/ano-probatorio/2677561"
+    },
+    {
+      "name": "Análise",
+      "code": "FCUP-M1019",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/analise/2676617"
+    },
+    {
+      "name": "Análise Avançada de Estruturas",
+      "code": "FEUP-EC0049",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/analise-avancada-de-estruturas/5158972"
+    },
+    {
+      "name": "Análise de Dados",
+      "code": "FADEUP-PAFS202",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/analise-de-dados/2676387"
+    },
+    {
+      "name": "Análise de Materiais I",
+      "code": "ARQU001",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/analise-de-materiais-i/6628470"
+    },
+    {
+      "name": "Análise de Sistemas de Informação",
+      "code": "FEUP-CINF044",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/analise-de-sistemas-de-informacao/2676765"
+    },
+    {
+      "name": "Análise e Gestão de Riscos Naturais",
+      "code": "FLUP-GEOGR005",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/analise-e-gestao-de-riscos-naturais/2677208"
+    },
+    {
+      "name": "Análise e Modelação de Processos",
+      "code": "FEUP-EIG0070",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/analise-e-modelacao-de-processos/2676929"
+    },
+    {
+      "name": "Análise e Visualização de Dados",
+      "code": "FEUP-MCI0023",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/analise-e-visualizacao-de-dados/2677002"
+    },
+    {
+      "name": "Análise Económica e Financeira",
+      "code": null,
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/analise-economica-e-financeira/4953006"
+    },
+    {
+      "name": "Análise Financeira - MCCG",
+      "code": null,
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/analise-financeira-mccg/6348248"
+    },
+    {
+      "name": "Análise II",
+      "code": "FCUP-M1015",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/analise-ii/2676615"
+    },
+    {
+      "name": "Análise Matemática 1",
+      "code": "FEUP-EC0001",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/analise-matematica-1/2676802"
+    },
+    {
+      "name": "Análise Matemática 2",
+      "code": "FEUP-EC0006",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/analise-matematica-2/2676805"
+    },
+    {
+      "name": "Análise Matemática 3",
+      "code": "FEUP-EC0011",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/analise-matematica-3/2676806"
+    },
+    {
+      "name": "Análise Matemática I",
+      "code": "FEUP-L.EIC002",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/analise-matematica-i/6286766"
+    },
+    {
+      "name": "Análise Matemática II",
+      "code": "FEUP-EMG0007",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/analise-matematica-ii/2676952"
+    },
+    {
+      "name": "Análise Matemática II",
+      "code": "FEUP-L.EIC007",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/analise-matematica-ii/6286778"
+    },
+    {
+      "name": "Análise Matemática III",
+      "code": "FEUP-EIG0045",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/analise-matematica-iii/2676922"
+    },
+    {
+      "name": "Análise Real I",
+      "code": "FCUP-M1011",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/analise-real-i/2676614"
+    },
+    {
+      "name": "Análise Real II",
+      "code": "FCUP-M1016",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/analise-real-ii/2676616"
+    },
+    {
+      "name": "Análise Real III",
+      "code": "FCUP-M2010",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/analise-real-iii/2676625"
+    },
+    {
+      "name": "Aprendizagem Computacional",
+      "code": "APC",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/aprendizagem-computacional/6120738"
+    },
+    {
+      "name": "Aprendizagem Motora",
+      "code": "FADEUP-314",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/aprendizagem-motora/2676365"
+    },
+    {
+      "name": "Argumento e Estruturas Narrativas",
+      "code": "FLUP-CC002",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/argumento-e-estruturas-narrativas/2677152"
+    },
+    {
+      "name": "Arqueologia Clássica I",
+      "code": "ARQU008",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/arqueologia-classica-i/6639210"
+    },
+    {
+      "name": "Arqueologia da Alimentação",
+      "code": "AA 2ARQU01",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/arqueologia-da-alimentacao/7296520"
+    },
+    {
+      "name": "Arqueologia e Gestão do Património",
+      "code": "2ARQU01",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/arqueologia-e-gestao-do-patrimonio/7277153"
+    },
+    {
+      "name": "Arqueologia Medieval II",
+      "code": "ARQME2 2ARQU01",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/arqueologia-medieval-ii/7277161"
+    },
+    {
+      "name": "Arquitectura e Organização de Computadores",
+      "code": "FEUP-EIC0083",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/arquitectura-e-organizacao-de-computadores/2676891"
+    },
+    {
+      "name": "Arquitetura de Computadores",
+      "code": "FEUP-L.EIC006",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/arquitetura-de-computadores/6286773"
+    },
+    {
+      "name": "Arquiteturas de Computação Industrial",
+      "code": "FEUP-EEC0145",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/arquiteturas-de-computacao-industrial/2676862"
+    },
+    {
+      "name": "Arte Contemporânea",
+      "code": "FBAUP-AC102",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/arte-contemporanea/2676400"
+    },
+    {
+      "name": "Arte e Mercado na Sociedade Contemporânea",
+      "code": "HART001",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/arte-e-mercado-na-sociedade-contemporanea/5961468"
+    },
+    {
+      "name": "Astronomia para o Ensino",
+      "code": "FCUP-F4037",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/astronomia-para-o-ensino/2676592"
+    },
+    {
+      "name": "Auditoria",
+      "code": "Auditoria 172",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/auditoria/5166172"
+    },
+    {
+      "name": "Autenticidade e Normalização",
+      "code": null,
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/autenticidade-e-normalizacao/5878548"
+    },
+    {
+      "name": "Automação",
+      "code": "FEUP-EEC0143",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/automacao/2676861"
+    },
+    {
+      "name": "Avaliação de Projetos",
+      "code": "FEP-1EC306",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/avaliacao-de-projetos/2960410"
+    },
+    {
+      "name": "Avaliação de Riscos e Emergência",
+      "code": "FEUP-MESHO0009",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/avaliacao-de-riscos-e-emergencia/2677025"
+    },
+    {
+      "name": "Avaliação do Estado Nutricional de Indivíduos",
+      "code": "FCNAUP-LCN2101",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/avaliacao-do-estado-nutricional-de-individuos/6614421"
+    },
+    {
+      "name": "Avaliação Psicológica I",
+      "code": "FPCEUP-P509",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/avaliacao-psicologica-i/2677545"
+    },
+    {
+      "name": "Avaliação Psicológica II",
+      "code": "FPCEUP-P609",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/avaliacao-psicologica-ii/2959486"
+    },
+    {
+      "name": "Álgebra",
+      "code": "FEUP-EC0002",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/algebra/2676803"
+    },
+    {
+      "name": "Álgebra Aplicada",
+      "code": "FCUP-M3001",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/algebra-aplicada/2676633"
+    },
+    {
+      "name": "Álgebra Fundamental",
+      "code": "FCUP-M501",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/algebra-fundamental/2676657"
+    },
+    {
+      "name": "Álgebra Linear e Geometria Analítica",
+      "code": "FCUP-M1002",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/algebra-linear-e-geometria-analitica/2676611"
+    },
+    {
+      "name": "Álgebra Linear e Geometria Analítica I",
+      "code": "FCUP-M1010",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/algebra-linear-e-geometria-analitica-i/2676613"
+    },
+    {
+      "name": "Álgebra Linear e Geometria Analítica II",
+      "code": "FCUP-M1026",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/algebra-linear-e-geometria-analitica-ii/2676622"
+    },
+    {
+      "name": "Bacteriologia",
+      "code": "FFUP-MI073122",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/bacteriologia/2677102"
+    },
+    {
+      "name": "Bases de Análise Gramatical*",
+      "code": "FLUP-CL003",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/bases-de-analise-gramatical/2677185"
+    },
+    {
+      "name": "Bases de Dados",
+      "code": "FEUP-CINF005",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/bases-de-dados/2676757"
+    },
+    {
+      "name": "Bases de Dados Relacionais",
+      "code": "FLUP-MSIGOT025",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/bases-de-dados-relacionais/2677331"
+    },
+    {
+      "name": "Bases e Análise da Gramática",
+      "code": null,
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/bases-e-analise-da-gramatica/5538449"
+    },
+    {
+      "name": "Biochemistry",
+      "code": "bioq",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/biochemistry/2276523"
+    },
+    {
+      "name": "Bioestatística",
+      "code": "FCUP-M1023",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/bioestatistica/2959382"
+    },
+    {
+      "name": "Bioestatística I",
+      "code": "BIOEST FCNAUP",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/bioestatistica-i/7509199"
+    },
+    {
+      "name": "Biofarmácia e Farmacocinética",
+      "code": "FFUP-MI074256",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/biofarmacia-e-farmacocinetica/2677120"
+    },
+    {
+      "name": "Biofísica",
+      "code": "FMDUP-MD1202",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/biofisica/2677362"
+    },
+    {
+      "name": "Biofísica",
+      "code": "ICBAS-MIM112",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/biofisica/2959330"
+    },
+    {
+      "name": "Biofísica I",
+      "code": "FCUP-FIS1009",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/biofisica-i/2959362"
+    },
+    {
+      "name": "Biofísica II",
+      "code": "FCUP-FIS2005",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/biofisica-ii/2959369"
+    },
+    {
+      "name": "Biogeografia",
+      "code": "FCUP-BIOL2011",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/biogeografia/2676495"
+    },
+    {
+      "name": "Biogeografia e Macroecologia",
+      "code": "FCUP-BIOL3002",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/biogeografia-e-macroecologia/2676496"
+    },
+    {
+      "name": "Biologia Celular",
+      "code": "FFUP-MI071102",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/biologia-celular/2677091"
+    },
+    {
+      "name": "Biologia Celular",
+      "code": "FCUP-BIOL1016",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/biologia-celular/2959366"
+    },
+    {
+      "name": "Biologia Celular",
+      "code": "ICBAS-MIM113",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/biologia-celular/2959360"
+    },
+    {
+      "name": "Biologia Celular e Molecular",
+      "code": null,
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/biologia-celular-e-molecular/5730430"
+    },
+    {
+      "name": "Biologia Celular e Molecular",
+      "code": "FCNAUP-CN11007",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/biologia-celular-e-molecular/2676439"
+    },
+    {
+      "name": "Biologia Celular e Molecular I",
+      "code": "FMUP-MI103",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/biologia-celular-e-molecular-i/2960208"
+    },
+    {
+      "name": "Biologia Complementar",
+      "code": "FCUP-BIOL4021",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/biologia-complementar/2676499"
+    },
+    {
+      "name": "Biologia de Algas e Fungos",
+      "code": "FCUP-BIOL1012",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/biologia-de-algas-e-fungos/2950997"
+    },
+    {
+      "name": "Biologia do Desenvolvimento",
+      "code": "BIOL3007",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/biologia-do-desenvolvimento/4536136"
+    },
+    {
+      "name": "Biologia dos Invertebrados",
+      "code": "FCUP-BIOL1018",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/biologia-dos-invertebrados/2676494"
+    },
+    {
+      "name": "Biologia dos Vertebrados",
+      "code": "FCUP-BIOL1015",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/biologia-dos-vertebrados/2676493"
+    },
+    {
+      "name": "Biologia e geologia",
+      "code": "702",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/biologia-e-geologia/5393232"
+    },
+    {
+      "name": "Biologia Humana",
+      "code": "FCUP-BIOL2003",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/biologia-humana/2959901"
+    },
+    {
+      "name": "Biologia Molecular",
+      "code": "FMUP-PGM02",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/biologia-molecular/2677524"
+    },
+    {
+      "name": "Biologia Molecular",
+      "code": "ICBAS-MA222",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/biologia-molecular/2959747"
+    },
+    {
+      "name": "Biologia Molecular",
+      "code": "FCUP-BIOL1011",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/biologia-molecular/2950915"
+    },
+    {
+      "name": "Biologia Molecular de Plantas*",
+      "code": "FCUP-B4009",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/biologia-molecular-de-plantas/2676485"
+    },
+    {
+      "name": "Biologia Vegetal",
+      "code": "BIOL1003",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/biologia-vegetal/4930653"
+    },
+    {
+      "name": "Biomateriais",
+      "code": "FEUP-EBE0118",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/biomateriais/2676784"
+    },
+    {
+      "name": "Bioquimica II",
+      "code": "FCUP-Q3024",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/bioquimica-ii/2959381"
+    },
+    {
+      "name": "Bioquímica",
+      "code": "BQ702",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/bioquimica/5383226"
+    },
+    {
+      "name": "Bioquímica I",
+      "code": "FCUP-Q2014",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/bioquimica-i/2959372"
+    },
+    {
+      "name": "Bioquímica I",
+      "code": "FFUP-MI071210",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/bioquimica-i/2677094"
+    },
+    {
+      "name": "Bioquímica II",
+      "code": "FCNAUP-CN21001",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/bioquimica-ii/2676442"
+    },
+    {
+      "name": "Bioquímica II - icbas",
+      "code": null,
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/bioquimica-ii-icbas/5358324"
+    },
+    {
+      "name": "Bioquímica Industrial",
+      "code": "FCUP Q4004",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/bioquimica-industrial/4534220"
+    },
+    {
+      "name": "Biotecnologia Ambiental",
+      "code": "FCUP-BIOL/AMB4010",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/biotecnologia-ambiental/2676489"
+    },
+    {
+      "name": "Biotecnologia Farmacêutica",
+      "code": "FFUP-TF07007",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/biotecnologia-farmaceutica/2677148"
+    },
+    {
+      "name": "Biónica e Robótica Médica",
+      "code": "FEUP-EBE0191",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/bionica-e-robotica-medica/2676792"
+    },
+    {
+      "name": "Botânica",
+      "code": "FCUP-EB142",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/botanica/2676561"
+    },
+    {
+      "name": "Bromatologia",
+      "code": "FCNAUP-CN31003",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/bromatologia/2676453"
+    },
+    {
+      "name": "Cardiologia",
+      "code": null,
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/cardiologia/4548401"
+    },
+    {
+      "name": "Cartografia e Sistemas de Informação Geográfica",
+      "code": "FLUP-MSIGOT008",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/cartografia-e-sistemas-de-informacao-geografica/2677328"
+    },
+    {
+      "name": "Cartografia, SIG e Arqueologia",
+      "code": "FLUP-MARQ002",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/cartografia-sig-e-arqueologia/2677265"
+    },
+    {
+      "name": "Cartografia, Topografia e SIG",
+      "code": "FEUP-EMG0016",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/cartografia-topografia-e-sig/2676956"
+    },
+    {
+      "name": "CFAC",
+      "code": "CFAC1",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/cfac/5164521"
+    },
+    {
+      "name": "Cidades e Metrópoles",
+      "code": "FLUP-GEOGR081",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/cidades-e-metropoles/2677226"
+    },
+    {
+      "name": "Ciencia Politica",
+      "code": "FDUP CP",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/ciencia-politica/3428434"
+    },
+    {
+      "name": "ciencias biomedicas",
+      "code": "441",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/ciencias-biomedicas/6656827"
+    },
+    {
+      "name": "Ciencias da Educação",
+      "code": null,
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/ciencias-da-educacao/4417912"
+    },
+    {
+      "name": "Circuitos 1",
+      "code": "FEUP-EEC0157",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/circuitos-1/2676866"
+    },
+    {
+      "name": "Cirurgia Oral II",
+      "code": "FMDUP-MD4702",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/cirurgia-oral-ii/2987111"
+    },
+    {
+      "name": "Civilizações Antigas",
+      "code": "FLUP-HISTO001",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/civilizacoes-antigas/2959318"
+    },
+    {
+      "name": "Ciência do comportamento desviante",
+      "code": "C106",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/ciencia-do-comportamento-desviante/4821572"
+    },
+    {
+      "name": "Ciência dos Materiais",
+      "code": "FEUP-EMM0028",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/ciencia-dos-materiais/2676976"
+    },
+    {
+      "name": "Ciência Politica",
+      "code": "FLUP-MECC002",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/ciencia-politica/2677271"
+    },
+    {
+      "name": "Ciência Política",
+      "code": "FLUP-CC007",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/ciencia-politica/2677153"
+    },
+    {
+      "name": "Ciência Política",
+      "code": "FEP-1OP03",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/ciencia-politica/2960406"
+    },
+    {
+      "name": "Ciências da Comunicação",
+      "code": "9023",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/ciencias-da-comunicacao/6526024"
+    },
+    {
+      "name": "Ciências dos Materiais em Bioengenharia",
+      "code": "FEUP-EBE0127",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/ciencias-dos-materiais-em-bioengenharia/2676785"
+    },
+    {
+      "name": "ciências farmacêuticas",
+      "code": null,
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/ciencias-farmaceuticas/4522152"
+    },
+    {
+      "name": "Ciências Forenses I",
+      "code": "C308",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/ciencias-forenses-i/2959582"
+    },
+    {
+      "name": "Ciências Forenses II",
+      "code": "C309",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/ciencias-forenses-ii/2959584"
+    },
+    {
+      "name": "Ciências Jurídicas e Criminologia",
+      "code": "FMUP-MCF13",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/ciencias-juridicas-e-criminologia/2677413"
+    },
+    {
+      "name": "Clínica em Endodontia II",
+      "code": "FMDUP-EENDO06",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/clinica-em-endodontia-ii/2677357"
+    },
+    {
+      "name": "Clínica Pediátrica",
+      "code": "FMUP-MI526",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/clinica-pediatrica/2677463"
+    },
+    {
+      "name": "Competências Transversais para Engenharia: Publicação e Escrita Científicas",
+      "code": "FEUP-PEC01",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/competencias-transversais-para-engenharia-publicacao-e-escrita-cientificas/2677071"
+    },
+    {
+      "name": "Comportamento Mecânico de Materiais",
+      "code": "FEUP-EMM0023",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/comportamento-mecanico-de-materiais/2676973"
+    },
+    {
+      "name": "Comportamento Organizacional",
+      "code": "FEP-1GE108",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/comportamento-organizacional/2960206"
+    },
+    {
+      "name": "Computação Gráfica",
+      "code": "FCUP-CC4009",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/computacao-grafica/2676526"
+    },
+    {
+      "name": "Comunicação Empresarial",
+      "code": "FLUP-CC010",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/comunicacao-empresarial/2677154"
+    },
+    {
+      "name": "Comércio Eletrónico e Marketing Digital",
+      "code": "FLUP-CC062",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/comercio-eletronico-e-marketing-digital/2677171"
+    },
+    {
+      "name": "Comércio Internacional",
+      "code": "1GE401",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/comercio-internacional/7102382"
+    },
+    {
+      "name": "Comércio Internacional",
+      "code": "FEP-2EGI02",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/comercio-internacional/2676736"
+    },
+    {
+      "name": "Conceção e Gestão de Projetos",
+      "code": null,
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/concecao-e-gestao-de-projetos/4427826"
+    },
+    {
+      "name": "Contabilidade",
+      "code": "FEUP-EIG0027",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/contabilidade/2676916"
+    },
+    {
+      "name": "Contabilidade de Gestão",
+      "code": "2CCG01",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/contabilidade-de-gestao/4433683"
+    },
+    {
+      "name": "Contabilidade e Controlo de Gestão",
+      "code": "FEP-1EC207",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/contabilidade-e-controlo-de-gestao/2960397"
+    },
+    {
+      "name": "Contabilidade e Relato Financeiro",
+      "code": "FEP-1EC106",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/contabilidade-e-relato-financeiro/2960388"
+    },
+    {
+      "name": "Contabilidade Financeira I",
+      "code": "FEP-2CCG02",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/contabilidade-financeira-i/2676729"
+    },
+    {
+      "name": "Contabilidade Financeira III",
+      "code": "FEP-2CCG09",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/contabilidade-financeira-iii/2676730"
+    },
+    {
+      "name": "Contecioso Administrativo e Tributário",
+      "code": null,
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/contecioso-administrativo-e-tributario/2974768"
+    },
+    {
+      "name": "Contratos Privados",
+      "code": null,
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/contratos-privados/2974766"
+    },
+    {
+      "name": "Contratos Públicos",
+      "code": null,
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/contratos-publicos/2974762"
+    },
+    {
+      "name": "Controlo Automático",
+      "code": "FCUP-M3005",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/controlo-automatico/2676634"
+    },
+    {
+      "name": "Controlo de Autoridade e Indexação",
+      "code": "FLUP-CINF041",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/controlo-de-autoridade-e-indexacao/2677181"
+    },
+    {
+      "name": "Controlo Químico",
+      "code": "FFUP-CQ07014",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/controlo-quimico/2677088"
+    },
+    {
+      "name": "Crescimento Económico",
+      "code": "FEP-1EC301",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/crescimento-economico/2960407"
+    },
+    {
+      "name": "Criminologia Clínica",
+      "code": "C205",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/criminologia-clinica/2959591"
+    },
+    {
+      "name": "Cultura Espanhola Contemporânea",
+      "code": "FLUP-LA004",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/cultura-espanhola-contemporanea/2677238"
+    },
+    {
+      "name": "Cultura Francesa Contemporânea",
+      "code": "FLUP-LA005",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/cultura-francesa-contemporanea/2677239"
+    },
+    {
+      "name": "Cultura Grega",
+      "code": null,
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/cultura-grega/5294447"
+    },
+    {
+      "name": "Culturas Herbáceas Extensivas",
+      "code": "CAGR2009",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/culturas-herbaceas-extensivas/4343930"
+    },
+    {
+      "name": "Curso de Língua Portuguesa - A2",
+      "code": "FLUP-LPEUE02",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/curso-de-lingua-portuguesa-a2/2677260"
+    },
+    {
+      "name": "Curso Intensivo de Português para Estrangeiros",
+      "code": "FLUP-CIPEFE01",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/curso-intensivo-de-portugues-para-estrangeiros/2677183"
+    },
+    {
+      "name": "Cálculo",
+      "code": "Cálculo",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/calculo/2959416"
+    },
+    {
+      "name": "Cálculo Financeiro",
+      "code": "FEP-1GE101",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/calculo-financeiro/2960189"
+    },
+    {
+      "name": "Cálculo II",
+      "code": "FCUP-M1003",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/calculo-ii/2676612"
+    },
+    {
+      "name": "Data Mining I",
+      "code": "FCUP-CC4018",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/data-mining-i/2676527"
+    },
+    {
+      "name": "Data Mining II",
+      "code": "FCUP-CC4024",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/data-mining-ii/2676529"
+    },
+    {
+      "name": "Delinquência Juvenil e justiça de menores",
+      "code": null,
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/delinquencia-juvenil-e-justica-de-menores/4767793"
+    },
+    {
+      "name": "Dentisteria Operatória II",
+      "code": "FMDUP-MD4703",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/dentisteria-operatoria-ii/2677380"
+    },
+    {
+      "name": "Dentisteria Operatória IV",
+      "code": "FMDUP-MD5902",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/dentisteria-operatoria-iv/2677395"
+    },
+    {
+      "name": "Dermatologia",
+      "code": null,
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/dermatologia/5831707"
+    },
+    {
+      "name": "Dermofarmácia e Cosmética",
+      "code": "FFUP-MI074266",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/dermofarmacia-e-cosmetica/2677124"
+    },
+    {
+      "name": "Descrição, Armazenamento e Pesquisa de Informação",
+      "code": "FEUP-EIC0108",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/descricao-armazenamento-e-pesquisa-de-informacao/2676905"
+    },
+    {
+      "name": "Desenho e Ilustração",
+      "code": "FBAUP-DI211",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/desenho-e-ilustracao/2676406"
+    },
+    {
+      "name": "Desenho e Projecto",
+      "code": "FBAUP-DP211",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/desenho-e-projecto/2676411"
+    },
+    {
+      "name": "Desenho II",
+      "code": "FBAUP-D201",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/desenho-ii/2676404"
+    },
+    {
+      "name": "Desenvolvimento Curricular em Educação Física",
+      "code": "FADEUP-EEF48",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/desenvolvimento-curricular-em-educacao-fisica/2676381"
+    },
+    {
+      "name": "Desenvolvimento do Pensamento Matemático em Crianças",
+      "code": "FPCEUP-P740",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/desenvolvimento-do-pensamento-matematico-em-criancas/2959350"
+    },
+    {
+      "name": "Desenvolvimento e Desenho de Serviços",
+      "code": "FEUP-ESG0019",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/desenvolvimento-e-desenho-de-servicos/2676992"
+    },
+    {
+      "name": "Design da Imagem",
+      "code": "FBAUP-DI401",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/design-da-imagem/2959288"
+    },
+    {
+      "name": "Design e Comunicação Visual",
+      "code": "FLUP-CC014",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/design-e-comunicacao-visual/2677156"
+    },
+    {
+      "name": "Design e Sustentabilidade",
+      "code": null,
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/design-e-sustentabilidade/4912766"
+    },
+    {
+      "name": "Design Multimédia",
+      "code": "FBAUP-DM302",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/design-multimedia/2676410"
+    },
+    {
+      "name": "Determinantes e prevenção da violência",
+      "code": "FMUP-ES04",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/determinantes-e-prevencao-da-violencia/2677405"
+    },
+    {
+      "name": "Deteção Remota",
+      "code": "EGEO3007",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/detecao-remota/4350213"
+    },
+    {
+      "name": "Development Economics",
+      "code": "2ECON24",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/development-economics/4398976"
+    },
+    {
+      "name": "Diagnóstico Assistido por Computador",
+      "code": "FEUP-EBE0149",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/diagnostico-assistido-por-computador/2676786"
+    },
+    {
+      "name": "Diagramas de Processo",
+      "code": "FEUP-MEMG0002",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/diagramas-de-processo/2677013"
+    },
+    {
+      "name": "Didática da Física I",
+      "code": "FCUP-DID4005",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/didatica-da-fisica-i/2676541"
+    },
+    {
+      "name": "Didática da Geografia",
+      "code": "FLUP-MEG002",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/didatica-da-geografia/2677279"
+    },
+    {
+      "name": "Didática da Química II",
+      "code": "FCUP-DID4020",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/didatica-da-quimica-ii/2676550"
+    },
+    {
+      "name": "Didática do Desporto - Ginástica",
+      "code": null,
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/didatica-do-desporto-ginastica/6179922"
+    },
+    {
+      "name": "Didática do Espanhol I",
+      "code": "FLUP-MEIEFA003",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/didatica-do-espanhol-i/2677292"
+    },
+    {
+      "name": "Didática do Inglês*",
+      "code": "FLUP-MEBI008",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/didatica-do-ingles/2677269"
+    },
+    {
+      "name": "Didática do Português como Língua Segunda",
+      "code": "DPLS1",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/didatica-do-portugues-como-lingua-segunda/5819788"
+    },
+    {
+      "name": "Didática Específica do Desporto II - Natação",
+      "code": "FADEUP-EEF59",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/didatica-especifica-do-desporto-ii-natacao/2676384"
+    },
+    {
+      "name": "Didática Geral do Desporto",
+      "code": "FADEUP-EEF25",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/didatica-geral-do-desporto/2676380"
+    },
+    {
+      "name": "Digital MBA",
+      "code": null,
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/digital-mba/5828143"
+    },
+    {
+      "name": "Dimensionamento de Estruturas de Betão",
+      "code": "DEB1",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/dimensionamento-de-estruturas-de-betao/7464213"
+    },
+    {
+      "name": "Dinâmica de Grupo",
+      "code": "FPCEUP-P306",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/dinamica-de-grupo/2677541"
+    },
+    {
+      "name": "Dinâmicas do Espaço Sacro",
+      "code": "FLUP-MHAPCV004",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/dinamicas-do-espaco-sacro/2677309"
+    },
+    {
+      "name": "Diplomacia na politica externa",
+      "code": "LRI025",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/diplomacia-na-politica-externa/6664115"
+    },
+    {
+      "name": "Direito",
+      "code": "FDUP",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/direito/2947217"
+    },
+    {
+      "name": "Direito Administrativo",
+      "code": "FLUP-CINF009",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/direito-administrativo/2677177"
+    },
+    {
+      "name": "Direito Administrativo",
+      "code": "D220",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/direito-administrativo/2959773"
+    },
+    {
+      "name": "Direito Bancário",
+      "code": null,
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/direito-bancario/2974775"
+    },
+    {
+      "name": "Direito Comercial",
+      "code": "D430",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/direito-comercial/2959779"
+    },
+    {
+      "name": "Direito Comercial II",
+      "code": "FDUP-D408 II",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/direito-comercial-ii/2959942"
+    },
+    {
+      "name": "Direito Comunitário",
+      "code": null,
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/direito-comunitario/2974771"
+    },
+    {
+      "name": "Direito Constitucional",
+      "code": "D140",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/direito-constitucional/2959784"
+    },
+    {
+      "name": "Direito da Família e das Sucessões",
+      "code": "D420",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/direito-da-familia-e-das-sucessoes/2959777"
+    },
+    {
+      "name": "Direito da Informação",
+      "code": "FEUP-MCI0009",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/direito-da-informacao/2676999"
+    },
+    {
+      "name": "Direito da uniao europeia",
+      "code": null,
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/direito-da-uniao-europeia/4501662"
+    },
+    {
+      "name": "Direito das contraordenações",
+      "code": "direito 2023",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/direito-das-contraordenacoes/6211427"
+    },
+    {
+      "name": "Direito das Obrigações",
+      "code": "D320",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/direito-das-obrigacoes/2959785"
+    },
+    {
+      "name": "Direito de Informática",
+      "code": "Direito 341",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/direito-de-informatica/6635403"
+    },
+    {
+      "name": "Direito do Arrendamento",
+      "code": null,
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/direito-do-arrendamento/5015515"
+    },
+    {
+      "name": "Direito do Trabalho",
+      "code": "D301 I",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/direito-do-trabalho/2959783"
+    },
+    {
+      "name": "Direito do Urbanismo",
+      "code": null,
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/direito-do-urbanismo/6832694"
+    },
+    {
+      "name": "Direito dos Contratos e das Sociedades",
+      "code": "FEP-1GE102",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/direito-dos-contratos-e-das-sociedades/2960190"
+    },
+    {
+      "name": "Direito dos Contratos e das Sociedades",
+      "code": "FEP-1EC205",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/direito-dos-contratos-e-das-sociedades/2960393"
+    },
+    {
+      "name": "Direito dos valores mobiliários",
+      "code": null,
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/direito-dos-valores-mobiliarios/6745458"
+    },
+    {
+      "name": "Direito Económico",
+      "code": null,
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/direito-economico/6283755"
+    },
+    {
+      "name": "Direito Executivo",
+      "code": null,
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/direito-executivo/2974769"
+    },
+    {
+      "name": "Direito Fiscal",
+      "code": "D211",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/direito-fiscal/2959774"
+    },
+    {
+      "name": "Direito Internacional",
+      "code": "FLUP-LRI003",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/direito-internacional/2677261"
+    },
+    {
+      "name": "Direito Internacional Privado",
+      "code": "FDUP-D402 I",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/direito-internacional-privado/2959764"
+    },
+    {
+      "name": "Direito Internacional Privado I",
+      "code": "D402 I",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/direito-internacional-privado-i/2959781"
+    },
+    {
+      "name": "Direito Internacional Público",
+      "code": "D109",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/direito-internacional-publico/2959767"
+    },
+    {
+      "name": "Direito Marítimo",
+      "code": null,
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/direito-maritimo/4366551"
+    },
+    {
+      "name": "Direito Penal",
+      "code": "D240",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/direito-penal/2959772"
+    },
+    {
+      "name": "Direito Penal Especial",
+      "code": null,
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/direito-penal-especial/7240169"
+    },
+    {
+      "name": "Direito Penal I",
+      "code": "C104",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/direito-penal-i/2959597"
+    },
+    {
+      "name": "Direito Penal II",
+      "code": "C105",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/direito-penal-ii/2959594"
+    },
+    {
+      "name": "Direito Processual Civil",
+      "code": "D330",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/direito-processual-civil/2959782"
+    },
+    {
+      "name": "Direito Processual Civil III",
+      "code": "D405 III",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/direito-processual-civil-iii/4344471"
+    },
+    {
+      "name": "Direito Processual Penal I",
+      "code": "D310 I",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/direito-processual-penal-i/2959768"
+    },
+    {
+      "name": "Direito Processual Penal II",
+      "code": "FDUP-DO404 II",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/direito-processual-penal-ii/2959940"
+    },
+    {
+      "name": "Direito Público",
+      "code": null,
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/direito-publico/6189502"
+    },
+    {
+      "name": "Direitos Fundamentais",
+      "code": "D206",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/direitos-fundamentais/2959770"
+    },
+    {
+      "name": "Direitos Reais",
+      "code": "D309",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/direitos-reais/2959769"
+    },
+    {
+      "name": "Dislexia e Discalculia",
+      "code": "FPCEUP-P829",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/dislexia-e-discalculia/2677549"
+    },
+    {
+      "name": "Dissertação / Projeto / Estágio",
+      "code": "FEP-2EGA11",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/dissertacao-projeto-estagio/2676735"
+    },
+    {
+      "name": "Dissertação/Projeto",
+      "code": "ICBAS-ONC200",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/dissertacaoprojeto/2677592"
+    },
+    {
+      "name": "Diversidade das Plantas",
+      "code": "FCUP-BIOL1008",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/diversidade-das-plantas/2676492"
+    },
+    {
+      "name": "Divulgação Científica",
+      "code": "FCUP-DC603",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/divulgacao-cientifica/2676539"
+    },
+    {
+      "name": "Doenças Oncológicas e Hematológicas",
+      "code": "FMUP-MI523",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/doencas-oncologicas-e-hematologicas/2677460"
+    },
+    {
+      "name": "Doenças Osteoarticulares e Musculares",
+      "code": "FMUP-MI422",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/doencas-osteoarticulares-e-musculares/2677449"
+    },
+    {
+      "name": "E-Learning no Ensino da Química",
+      "code": "FCUP-CE4004",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/e-learning-no-ensino-da-quimica/2676356"
+    },
+    {
+      "name": "Ecofisiologia Vegetal",
+      "code": "B210",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/ecofisiologia-vegetal/2933847"
+    },
+    {
+      "name": "Ecologia de Populações e Comunidades",
+      "code": "FCUP-BIOL4043",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/ecologia-de-populacoes-e-comunidades/2676501"
+    },
+    {
+      "name": "Ecologia geral",
+      "code": "B244",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/ecologia-geral/4516044"
+    },
+    {
+      "name": "Econometria",
+      "code": "LEC303",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/econometria/4549425"
+    },
+    {
+      "name": "Econometria",
+      "code": "FEP-1EC303",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/econometria/2960408"
+    },
+    {
+      "name": "Economia Computacional",
+      "code": "FEP-PhDEcon107",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/economia-computacional/2676755"
+    },
+    {
+      "name": "Economia da Empresa",
+      "code": null,
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/economia-da-empresa/4593608"
+    },
+    {
+      "name": "Economia da Inovação",
+      "code": "FEP- 1EC401",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/economia-da-inovacao/6807607"
+    },
+    {
+      "name": "Economia das Cidades",
+      "code": null,
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/economia-das-cidades/6664423"
+    },
+    {
+      "name": "Economia de Serviços",
+      "code": "FEP-2GS03",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/economia-de-servicos/2676742"
+    },
+    {
+      "name": "Economia do Trabalho II",
+      "code": "FEP-2EGRH05",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/economia-do-trabalho-ii/2989874"
+    },
+    {
+      "name": "Economia do Trabalhp",
+      "code": null,
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/economia-do-trabalhp/4593609"
+    },
+    {
+      "name": "Economia dos Media",
+      "code": "FEP-CC015",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/economia-dos-media/2960091"
+    },
+    {
+      "name": "Economia dos Recursos Humanos",
+      "code": "FEP-1EC405",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/economia-dos-recursos-humanos/2960412"
+    },
+    {
+      "name": "Economia e Finanças Públicas",
+      "code": "FEP-1EC206",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/economia-e-financas-publicas/2960394"
+    },
+    {
+      "name": "Economia e Gestão",
+      "code": "FEUP-EBE0199",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/economia-e-gestao/2676797"
+    },
+    {
+      "name": "Economia e Gestão de Empresas",
+      "code": "FEUP-MEMG0013",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/economia-e-gestao-de-empresas/2677021"
+    },
+    {
+      "name": "Economia e Organização Industrial",
+      "code": "FEP-1EC206",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/economia-e-organizacao-industrial/2960398"
+    },
+    {
+      "name": "Economia Internacional",
+      "code": "LRI004",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/economia-internacional/5470841"
+    },
+    {
+      "name": "Economia Monetária",
+      "code": "FEP-1EC302",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/economia-monetaria/2960409"
+    },
+    {
+      "name": "Economia Monetária Internacional",
+      "code": "FEP-1EC404",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/economia-monetaria-internacional/2960413"
+    },
+    {
+      "name": "Economia Política",
+      "code": null,
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/economia-politica/2974765"
+    },
+    {
+      "name": "Economia Portuguesa e Europeia",
+      "code": "FEP-1EC307",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/economia-portuguesa-e-europeia/2676726"
+    },
+    {
+      "name": "Educação Ambiental",
+      "code": "FCUP-BIOL/AMB4023",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/educacao-ambiental/2676490"
+    },
+    {
+      "name": "Educação Multimédia",
+      "code": "FEUP-MM0040",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/educacao-multimedia/2677053"
+    },
+    {
+      "name": "Educação para a Saúde",
+      "code": "FADEUP-320",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/educacao-para-a-saude/2676366"
+    },
+    {
+      "name": "Elaboração de artigo científico: da análise à publicação",
+      "code": "FMUP-BLICS3",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/elaboracao-de-artigo-cientifico-da-analise-a-publicacao/2677402"
+    },
+    {
+      "name": "Electromagnetismo",
+      "code": null,
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/electromagnetismo/6807537"
+    },
+    {
+      "name": "Electrónica 1",
+      "code": "FEUP-EEC0014",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/electronica-1/2676831"
+    },
+    {
+      "name": "Electrónica 2",
+      "code": "FEUP-EEC0027",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/electronica-2/2676833"
+    },
+    {
+      "name": "Electrónica 3",
+      "code": "FEUP-EEC0028",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/electronica-3/2676834"
+    },
+    {
+      "name": "Elementos de Engenharia Química I",
+      "code": "FEUP-EQ0060",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/elementos-de-engenharia-quimica-i/2676985"
+    },
+    {
+      "name": "Elementos de Estatística",
+      "code": "FCUP-M1022",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/elementos-de-estatistica/2676620"
+    },
+    {
+      "name": "Elementos de Geologia",
+      "code": "FCUP-G112",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/elementos-de-geologia/2959732"
+    },
+    {
+      "name": "Elementos de Matemática",
+      "code": "FCUP-M1021",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/elementos-de-matematica/2676619"
+    },
+    {
+      "name": "Eletricidade",
+      "code": "Eletricidade",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/eletricidade/2958167"
+    },
+    {
+      "name": "Eletricidade e Eletromagnetismo",
+      "code": "FEUP-EBE0166",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/eletricidade-e-eletromagnetismo/2676789"
+    },
+    {
+      "name": "Eletricidade e Magnetismo",
+      "code": "FCUP-EF202",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/eletricidade-e-magnetismo/2676570"
+    },
+    {
+      "name": "Eletromagnetismo II",
+      "code": "FCUP-FIS2006",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/eletromagnetismo-ii/2676600"
+    },
+    {
+      "name": "Eletrotécnica",
+      "code": null,
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/eletrotecnica/2651468"
+    },
+    {
+      "name": "Eletrónica Digital e Circuitos",
+      "code": "FCUP-F3001",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/eletronica-digital-e-circuitos/2676584"
+    },
+    {
+      "name": "Empreendedorismo e Inovação",
+      "code": "FEUP-EBE0197",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/empreendedorismo-e-inovacao/2676796"
+    },
+    {
+      "name": "Endocrinologia",
+      "code": "FFUP-MI074268",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/endocrinologia/2677125"
+    },
+    {
+      "name": "Endodontia IV",
+      "code": "FMDUP-MD5904",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/endodontia-iv/2677396"
+    },
+    {
+      "name": "Energia e Ambiente",
+      "code": "FCUP-AMB2001",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/energia-e-ambiente/2676462"
+    },
+    {
+      "name": "Energia nos Edifícios",
+      "code": "FEUP-PDSSE0024",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/energia-nos-edificios/2677070"
+    },
+    {
+      "name": "Engenharia Civil",
+      "code": null,
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/engenharia-civil/6357003"
+    },
+    {
+      "name": "Engenharia de Sistemas de Informação",
+      "code": "FEUP-EBE0061",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/engenharia-de-sistemas-de-informacao/2676782"
+    },
+    {
+      "name": "Engenharia de Software",
+      "code": "FEUP-EIC0024",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/engenharia-de-software/2676874"
+    },
+    {
+      "name": "Engenharia Eletrotécnica e de Computadores",
+      "code": "EEC1",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/engenharia-eletrotecnica-e-de-computadores/7652856"
+    },
+    {
+      "name": "Engenharia Física",
+      "code": null,
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/engenharia-fisica/4384522"
+    },
+    {
+      "name": "Engenharia Informática e Computação",
+      "code": null,
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/engenharia-informatica-e-computacao/7710189"
+    },
+    {
+      "name": "ENgenharia Mecânica",
+      "code": "9123",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/engenharia-mecanica/6861460"
+    },
+    {
+      "name": "Enologia",
+      "code": "FCUP-EAGR213",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/enologia/2959766"
+    },
+    {
+      "name": "Ensaios dos Materiais",
+      "code": "FEUP-EMM0018",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/ensaios-dos-materiais/2676969"
+    },
+    {
+      "name": "Ensino das Ciências",
+      "code": "FCUP-EC605",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/ensino-das-ciencias/2676562"
+    },
+    {
+      "name": "Ensino e Educação Geográfica",
+      "code": "FLUP-MEG004",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/ensino-e-educacao-geografica/2677280"
+    },
+    {
+      "name": "Epidemiologia",
+      "code": "FCNAUP-CN41006",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/epidemiologia/2676455"
+    },
+    {
+      "name": "Epidemiologia Clínica",
+      "code": "FMUP-MI425",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/epidemiologia-clinica/2677451"
+    },
+    {
+      "name": "Epidemiologia e Bioestatística II",
+      "code": "FMDUP-MD1205",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/epidemiologia-e-bioestatistica-ii/2677364"
+    },
+    {
+      "name": "Epistemologia e História da Psicologia",
+      "code": "FPCEUP-P109",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/epistemologia-e-historia-da-psicologia/2677537"
+    },
+    {
+      "name": "Equações Diferenciais",
+      "code": "FCUP-M2011",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/equacoes-diferenciais/2676626"
+    },
+    {
+      "name": "Ergodic theory",
+      "code": null,
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/ergodic-theory/6664445"
+    },
+    {
+      "name": "Ergonomia no Design de Interação",
+      "code": "FBAUP-DIPEDI",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/ergonomia-no-design-de-interacao/2676408"
+    },
+    {
+      "name": "Escrita e Ciência",
+      "code": "FPCEUP-P108",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/escrita-e-ciencia/2677536"
+    },
+    {
+      "name": "Espanhol B2.2",
+      "code": "FLUP-LLC032",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/espanhol-b22/2677253"
+    },
+    {
+      "name": "Espanhol I",
+      "code": "FLUP-MEIEFA014",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/espanhol-i/2677296"
+    },
+    {
+      "name": "Espanhol II",
+      "code": "FLUP-MEIEFA017",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/espanhol-ii/2677297"
+    },
+    {
+      "name": "Estatística",
+      "code": "FEUP-EC0030",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/estatistica/2676817"
+    },
+    {
+      "name": "Estatística Aplicada II",
+      "code": "FDUP-C208",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/estatistica-aplicada-ii/2676720"
+    },
+    {
+      "name": "Estatística Aplicada*",
+      "code": "FCUP-M2020",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/estatistica-aplicada/2676630"
+    },
+    {
+      "name": "Estatística I",
+      "code": "FEP-1EC203",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/estatistica-i/2676724"
+    },
+    {
+      "name": "Estatística I",
+      "code": "FPCEUP-P107",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/estatistica-i/2958234"
+    },
+    {
+      "name": "Estatística I",
+      "code": "FEUP-EIG0015",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/estatistica-i/2959321"
+    },
+    {
+      "name": "Estatística II",
+      "code": "FPCEUP-P207",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/estatistica-ii/2952635"
+    },
+    {
+      "name": "Estatística II",
+      "code": "FEUP-EIG0018",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/estatistica-ii/2959616"
+    },
+    {
+      "name": "Estatística II",
+      "code": "FEP-1EC209",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/estatistica-ii/2676725"
+    },
+    {
+      "name": "Estatística III",
+      "code": "FPCEUP-P406",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/estatistica-iii/2952637"
+    },
+    {
+      "name": "Estratigrafia e Paleontologia",
+      "code": "FCUP-G212",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/estratigrafia-e-paleontologia/2959759"
+    },
+    {
+      "name": "Estratigrafia e Paleontologia",
+      "code": "FCUP-GEOL2002",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/estratigrafia-e-paleontologia/2959328"
+    },
+    {
+      "name": "Estratégia de Comunicação",
+      "code": "FLUP-CC019",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/estrategia-de-comunicacao/2677158"
+    },
+    {
+      "name": "Estratégia Empresarial",
+      "code": "FEP-1GE306",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/estrategia-empresarial/2676727"
+    },
+    {
+      "name": "Estrutura Atómica e Molecular",
+      "code": "FCUP-Q2012",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/estrutura-atomica-e-molecular/2676678"
+    },
+    {
+      "name": "Estrutura de Dados",
+      "code": "FCUP-ECC114",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/estrutura-de-dados/2676564"
+    },
+    {
+      "name": "Estrutura e Evolução Estelar",
+      "code": "FCUP-AST4009",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/estrutura-e-evolucao-estelar/2676482"
+    },
+    {
+      "name": "Estrutura Molecular da Célula",
+      "code": "FMUP-MI110",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/estrutura-molecular-da-celula/2677423"
+    },
+    {
+      "name": "Estruturas Léxicas do Português",
+      "code": "FLUP-CL006",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/estruturas-lexicas-do-portugues/2677187"
+    },
+    {
+      "name": "Estruturas Pré-Esforçadas",
+      "code": "EPES01",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/estruturas-pre-esforcadas/6924200"
+    },
+    {
+      "name": "Estruturas Sintáticas e Semânticas do Português II",
+      "code": "FLUP-CL008",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/estruturas-sintaticas-e-semanticas-do-portugues-ii/2677188"
+    },
+    {
+      "name": "Estudos Culturais",
+      "code": "FLUP-MEAAM007",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/estudos-culturais/2677267"
+    },
+    {
+      "name": "Estudos de Arte Moderna e Contemporânea I",
+      "code": "FBAUP-EAMC301",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/estudos-de-arte-moderna-e-contemporanea-i/2676414"
+    },
+    {
+      "name": "Estudos de Design",
+      "code": "FBAUP-ED400",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/estudos-de-design/2676415"
+    },
+    {
+      "name": "Estudos de Jornalismo",
+      "code": "FLUP-MECC008",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/estudos-de-jornalismo/2677274"
+    },
+    {
+      "name": "Estudos e Práticas de Património",
+      "code": "FLUP-MHAPCV003",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/estudos-e-praticas-de-patrimonio/2677308"
+    },
+    {
+      "name": "Estudos Práticos",
+      "code": "FADEUP-AFS22",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/estudos-praticos/2676376"
+    },
+    {
+      "name": "Estudos Práticos de Exercício Físico e Desporto - Desportos da Natureza",
+      "code": "FADEUP-EEF65",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/estudos-praticos-de-exercicio-fisico-e-desporto-desportos-da-natureza/2676385"
+    },
+    {
+      "name": "Estudos Práticos I - Atletismo",
+      "code": "FADEUP-127",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/estudos-praticos-i-atletismo/2676360"
+    },
+    {
+      "name": "Estágio",
+      "code": "FFUP-MI075243",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/estagio/2677131"
+    },
+    {
+      "name": "Estágio/Projeto",
+      "code": "FCUP-EP302",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/estagioprojeto/2676576"
+    },
+    {
+      "name": "Estética I",
+      "code": "FBAUP-E201",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/estetica-i/2676412"
+    },
+    {
+      "name": "Estética II",
+      "code": "FBAUP-E202",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/estetica-ii/2676413"
+    },
+    {
+      "name": "Estética II",
+      "code": null,
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/estetica-ii/6950766"
+    },
+    {
+      "name": "Etologia",
+      "code": "ICBAS-MA117",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/etologia/2677564"
+    },
+    {
+      "name": "Etologia Geral e de Animais Aquáticos",
+      "code": "ICBAS-CMRM113",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/etologia-geral-e-de-animais-aquaticos/2677558"
+    },
+    {
+      "name": "Exame Filosofia",
+      "code": null,
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/exame-filosofia/7570725"
+    },
+    {
+      "name": "Executive MBA",
+      "code": null,
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/executive-mba/7353832"
+    },
+    {
+      "name": "Extração de Conhecimento de Dados I",
+      "code": "FEP-2MADSAD01",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/extracao-de-conhecimento-de-dados-i/2676744"
+    },
+    {
+      "name": "Ética e Deontologia em Psicologia",
+      "code": "FPCEUP-P404",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/etica-e-deontologia-em-psicologia/2677543"
+    },
+    {
+      "name": "Ética e Deontologia Profissional",
+      "code": "FLUP-CC020",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/etica-e-deontologia-profissional/2960086"
+    },
+    {
+      "name": "Ética e Filosofia da Ciência*",
+      "code": "FMUP-PDSP12",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/etica-e-filosofia-da-ciencia/2677522"
+    },
+    {
+      "name": "Ética e Responsabilidade Social",
+      "code": null,
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/etica-e-responsabilidade-social/4510163"
+    },
+    {
+      "name": "Farmacologia e Terapêutica II",
+      "code": "FMDUP-MD4805",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/farmacologia-e-terapeutica-ii/2677388"
+    },
+    {
+      "name": "Farmacologia I",
+      "code": "FFUP-MI073229",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/farmacologia-i/2677106"
+    },
+    {
+      "name": "Farmacologia II",
+      "code": "FFUP-MI074132",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/farmacologia-ii/2677113"
+    },
+    {
+      "name": "Farmacologia II*",
+      "code": "FMUP-MI307",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/farmacologia-ii/2677438"
+    },
+    {
+      "name": "Farmácia Industrial",
+      "code": "FFUP-MI075171",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/farmacia-industrial/2677129"
+    },
+    {
+      "name": "Fenómenos de Transferência",
+      "code": "FCUP-ECE222",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/fenomenos-de-transferencia/2676567"
+    },
+    {
+      "name": "Fenómenos de Transferência I",
+      "code": "FEUP-EQ0074",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/fenomenos-de-transferencia-i/2959479"
+    },
+    {
+      "name": "Filosofia Antiga II",
+      "code": "FLUP-FILO010",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/filosofia-antiga-ii/2677203"
+    },
+    {
+      "name": "Filosofia das ciencias politicas I",
+      "code": null,
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/filosofia-das-ciencias-politicas-i/5848730"
+    },
+    {
+      "name": "Filosofia das Ciências",
+      "code": "FILO034",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/filosofia-das-ciencias/5466278"
+    },
+    {
+      "name": "Filosofia do Conhecimento I",
+      "code": null,
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/filosofia-do-conhecimento-i/5365109"
+    },
+    {
+      "name": "Filosofia do Direito e Metodologia Jurídica",
+      "code": null,
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/filosofia-do-direito-e-metodologia-juridica/7581384"
+    },
+    {
+      "name": "Filosofia e História das Ciências",
+      "code": "FCUP-EC611",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/filosofia-e-historia-das-ciencias/2676563"
+    },
+    {
+      "name": "Filosofia Medieval I",
+      "code": "FLUP-FILO022",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/filosofia-medieval-i/2677204"
+    },
+    {
+      "name": "Filosofia Medieval II",
+      "code": "FLUP-FILO023",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/filosofia-medieval-ii/2677205"
+    },
+    {
+      "name": "Filosofia Moderna I",
+      "code": "FILO024",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/filosofia-moderna-i/5466274"
+    },
+    {
+      "name": "Finanças e Análise de Projetos de Investimento",
+      "code": "FEUP-MIET0024",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/financas-e-analise-de-projetos-de-investimento/2677049"
+    },
+    {
+      "name": "Finanças Empresariais",
+      "code": "FEP 1EC308",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/financas-empresariais/4550379"
+    },
+    {
+      "name": "Finanças Empresariais",
+      "code": "FEUP-1EC308",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/financas-empresariais/2960414"
+    },
+    {
+      "name": "Finanças Internacionais",
+      "code": null,
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/financas-internacionais/4345620"
+    },
+    {
+      "name": "Finanças Públicas",
+      "code": "D205",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/financas-publicas/2959775"
+    },
+    {
+      "name": "Finanças Públicas",
+      "code": "FDUP-D202",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/financas-publicas/2952670"
+    },
+    {
+      "name": "Fiscalidade",
+      "code": "FEP-1OP08",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/fiscalidade/2676728"
+    },
+    {
+      "name": "Fisiologia",
+      "code": "ICBAS-EBE0237",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/fisiologia/2959660"
+    },
+    {
+      "name": "Fisiologia",
+      "code": "FFUP-MI072115",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/fisiologia/2677096"
+    },
+    {
+      "name": "Fisiologia Animal I",
+      "code": "BIOL2007",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/fisiologia-animal-i/2952627"
+    },
+    {
+      "name": "Fisiologia I",
+      "code": "FCNAUP-CN21002",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/fisiologia-i/2676443"
+    },
+    {
+      "name": "Fisiologia II",
+      "code": "FCNAUP-CN22003",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/fisiologia-ii/2676447"
+    },
+    {
+      "name": "Fisiologia Vegetal",
+      "code": "FCUP-B0210",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/fisiologia-vegetal/2951978"
+    },
+    {
+      "name": "Fisiopatologia",
+      "code": "ICBAS-B/CMED3001",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/fisiopatologia/2677554"
+    },
+    {
+      "name": "Fisiopatologia e Farmacoterapia I",
+      "code": "FFUP-MI074236",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/fisiopatologia-e-farmacoterapia-i/2677118"
+    },
+    {
+      "name": "Fisiopatologia e Farmacoterapia II",
+      "code": "FFUP-MI075139",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/fisiopatologia-e-farmacoterapia-ii/2677127"
+    },
+    {
+      "name": "Fitoquímica e Farmacognosia I",
+      "code": "FFUP-MI072216",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/fitoquimica-e-farmacognosia-i/2677097"
+    },
+    {
+      "name": "Fitoquímica e Farmacognosia II",
+      "code": "MI073125",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/fitoquimica-e-farmacognosia-ii/5341316"
+    },
+    {
+      "name": "Fitoterapia",
+      "code": "FFUP-MI073259",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/fitoterapia/2677107"
+    },
+    {
+      "name": "Fluidos e Plasmas em Astrofísica",
+      "code": "FCUP-AST3005",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/fluidos-e-plasmas-em-astrofisica/2676476"
+    },
+    {
+      "name": "Fonologia I",
+      "code": "FLUP-MLIN02",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/fonologia-i/2677318"
+    },
+    {
+      "name": "Fontes de Informação e Serviços de Referência",
+      "code": "FEUP-CINF010",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/fontes-de-informacao-e-servicos-de-referencia/2676758"
+    },
+    {
+      "name": "Formação Complementar em Matemática I",
+      "code": "FCUP-M4011",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/formacao-complementar-em-matematica-i/2676641"
+    },
+    {
+      "name": "Francês C2.2",
+      "code": "FLUP-MTSL010",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/frances-c22/2677338"
+    },
+    {
+      "name": "Fruticultura Geral*",
+      "code": "FCUP-AGR3004",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/fruticultura-geral/2676460"
+    },
+    {
+      "name": "Fundamentos da Didática do Desporto",
+      "code": "FADEUP-634",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/fundamentos-da-didatica-do-desporto/2676371"
+    },
+    {
+      "name": "Fundamentos da Programação",
+      "code": "FEUP-EIC0005",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/fundamentos-da-programacao/2676868"
+    },
+    {
+      "name": "Fundamentos de Enfermagem",
+      "code": null,
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/fundamentos-de-enfermagem/6577930"
+    },
+    {
+      "name": "Fundamentos de estatística aplicados à saúde",
+      "code": "FMUP-ES21",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/fundamentos-de-estatistica-aplicados-a-saude/2677407"
+    },
+    {
+      "name": "Fundamentos de Informação Geográfica",
+      "code": "FCUP-EGEO1001",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/fundamentos-de-informacao-geografica/2955240"
+    },
+    {
+      "name": "Fundamentos de Matemática*",
+      "code": "FCUP-M1034",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/fundamentos-de-matematica/2676624"
+    },
+    {
+      "name": "Fundamentos de Química",
+      "code": "FCUP-Q102",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/fundamentos-de-quimica/2959753"
+    },
+    {
+      "name": "Fundamentos de Química I",
+      "code": "EQ0061",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/fundamentos-de-quimica-i/2933672"
+    },
+    {
+      "name": "Fundamentos de Química II",
+      "code": "FEUP-EQ0066",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/fundamentos-de-quimica-ii/2676986"
+    },
+    {
+      "name": "Fundamentos de Sistemas Computacionais",
+      "code": "FEUP-L.EIC004",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/fundamentos-de-sistemas-computacionais/6286768"
+    },
+    {
+      "name": "Física",
+      "code": "FEUP-EC0017",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/fisica/2676809"
+    },
+    {
+      "name": "Física da Matéria Condensada",
+      "code": "FCUP-FIS3005",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/fisica-da-materia-condensada/2676602"
+    },
+    {
+      "name": "Física das Construções",
+      "code": "FEUP-EC0022",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/fisica-das-construcoes/2676812"
+    },
+    {
+      "name": "Física dos Processos Biológicos",
+      "code": "FCUP-FIS1006",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/fisica-dos-processos-biologicos/2676596"
+    },
+    {
+      "name": "Física Estatística",
+      "code": "FCUP-FIS3008",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/fisica-estatistica/2676603"
+    },
+    {
+      "name": "Física I",
+      "code": "L.EIC008",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/fisica-i/7412314"
+    },
+    {
+      "name": "Física I*",
+      "code": "FCUP-FIS1007",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/fisica-i/2676597"
+    },
+    {
+      "name": "Física II",
+      "code": "FCUP-FIS1008",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/fisica-ii/2676598"
+    },
+    {
+      "name": "Física Não Linear",
+      "code": "FCUP-F4030",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/fisica-nao-linear/2676590"
+    },
+    {
+      "name": "Gastrenterologia Oncológica",
+      "code": "FMUP-OPT65",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/gastrenterologia-oncologica/2677503"
+    },
+    {
+      "name": "Gastrotecnia",
+      "code": "FCNAUP-CN21005",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/gastrotecnia/2676446"
+    },
+    {
+      "name": "Genética",
+      "code": "ICBAS-MA226",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/genetica/2959751"
+    },
+    {
+      "name": "Genética",
+      "code": "FCNAUP-CN22005",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/genetica/2958249"
+    },
+    {
+      "name": "Genética",
+      "code": "FCUP-EB264",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/genetica/2950932"
+    },
+    {
+      "name": "Genética Clínica",
+      "code": "FMUP-MI328",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/genetica-clinica/2677444"
+    },
+    {
+      "name": "Genética Formal e Populacional",
+      "code": "FCUP-BIOL2008",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/genetica-formal-e-populacional/2959851"
+    },
+    {
+      "name": "Genética Geral",
+      "code": "FCUP-B164",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/genetica-geral/2959455"
+    },
+    {
+      "name": "Genética Molecular",
+      "code": "ICBAS-MV124",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/genetica-molecular/4475812"
+    },
+    {
+      "name": "Genética Molecular",
+      "code": "FFUP-MI072111",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/genetica-molecular/2677095"
+    },
+    {
+      "name": "Genética Médica I",
+      "code": "FMDUP-MD2303",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/genetica-medica-i/2677366"
+    },
+    {
+      "name": "Genética na Infertilidade e Procriação Medicamente Assistida",
+      "code": "FMUP-OPT40",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/genetica-na-infertilidade-e-procriacao-medicamente-assistida/2677499"
+    },
+    {
+      "name": "Genética Orofacial",
+      "code": "FMDUP-MD51002",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/genetica-orofacial/2677392"
+    },
+    {
+      "name": "Geodinâmica",
+      "code": "FCUP-G111",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/geodinamica/2959757"
+    },
+    {
+      "name": "Geodinâmica",
+      "code": "FCUP-GEOL1001",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/geodinamica/2958222"
+    },
+    {
+      "name": "geografia",
+      "code": "420",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/geografia/5728513"
+    },
+    {
+      "name": "Geografia da Europa",
+      "code": "FLUP-GEOGR023",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/geografia-da-europa/2677211"
+    },
+    {
+      "name": "Geografia da População",
+      "code": "FLUP-GEOGR024",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/geografia-da-populacao/2677212"
+    },
+    {
+      "name": "Geografia Física de Portugal",
+      "code": "FLUP-GEOGR034",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/geografia-fisica-de-portugal/2677213"
+    },
+    {
+      "name": "Geologia Ambiental",
+      "code": "FEUP-EA0008",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/geologia-ambiental/2676767"
+    },
+    {
+      "name": "Geologia de Engenharia",
+      "code": "FCUP-G362",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/geologia-de-engenharia/2959762"
+    },
+    {
+      "name": "Geologia e Captagem",
+      "code": "FMUP-CH02",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/geologia-e-captagem/2677404"
+    },
+    {
+      "name": "Geologia Estrutural",
+      "code": "FCUP-GEOL2006",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/geologia-estrutural/2958224"
+    },
+    {
+      "name": "Geologia I",
+      "code": "FEUP-EMG0004",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/geologia-i/2676951"
+    },
+    {
+      "name": "Geologia II",
+      "code": "FEUP-EMG0019",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/geologia-ii/2676959"
+    },
+    {
+      "name": "Geometria",
+      "code": "FBAUP-G102",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/geometria/2676416"
+    },
+    {
+      "name": "Geometria Diferencial",
+      "code": "FCUP-M3007",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/geometria-diferencial/2676635"
+    },
+    {
+      "name": "Geometria e Arquitectura",
+      "code": "FAUP-100106",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/geometria-e-arquitectura/2676388"
+    },
+    {
+      "name": "Geomorfologia",
+      "code": "FCUP-G211",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/geomorfologia/2959761"
+    },
+    {
+      "name": "Geomorfologia do Litoral",
+      "code": "FLUP-GEOGR042",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/geomorfologia-do-litoral/2677214"
+    },
+    {
+      "name": "Geração de Superfícies",
+      "code": "FLUP-MSIGOT010",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/geracao-de-superficies/2677329"
+    },
+    {
+      "name": "Gestão Cultural e Patrimonial",
+      "code": "FLUP-MHAPCV008",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/gestao-cultural-e-patrimonial/2677310"
+    },
+    {
+      "name": "Gestão da Informação",
+      "code": "FEP-1EC107",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/gestao-da-informacao/2676722"
+    },
+    {
+      "name": "Gestão da Informação em Redes Sociais",
+      "code": "FEUP-MCI0030",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/gestao-da-informacao-em-redes-sociais/2677009"
+    },
+    {
+      "name": "Gestão da Informação para a Comunicação",
+      "code": "FLUP-CC022",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/gestao-da-informacao-para-a-comunicacao/2677159"
+    },
+    {
+      "name": "Gestão da Manutenção",
+      "code": "FEUP-EIG0033",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/gestao-da-manutencao/2676920"
+    },
+    {
+      "name": "Gestão da Marca e Comunicação de Marketing",
+      "code": "FEP-2MK04",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/gestao-da-marca-e-comunicacao-de-marketing/2676752"
+    },
+    {
+      "name": "Gestão da Produção",
+      "code": "FEUP-EIG0029",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/gestao-da-producao/2676918"
+    },
+    {
+      "name": "Gestão da Qualidade",
+      "code": "FEUP-EMM0031",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/gestao-da-qualidade/2676978"
+    },
+    {
+      "name": "Gestão da Qualidade Total",
+      "code": "FEUP-EIG0028",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/gestao-da-qualidade-total/2676917"
+    },
+    {
+      "name": "Gestão de Desenvolvimento de Produto",
+      "code": "FBAUP-DIPGDP",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/gestao-de-desenvolvimento-de-produto/2676409"
+    },
+    {
+      "name": "Gestão de Empresas",
+      "code": "FEUP-EIC0034",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/gestao-de-empresas/2676878"
+    },
+    {
+      "name": "Gestão de Energia e Ambiente",
+      "code": "L.EGI027",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/gestao-de-energia-e-ambiente/6041946"
+    },
+    {
+      "name": "Gestão de eventos críticos e trabalho em equipa",
+      "code": "FMUP-OPT130",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/gestao-de-eventos-criticos-e-trabalho-em-equipa/2677482"
+    },
+    {
+      "name": "Gestão de Obras e Segurança",
+      "code": "FEUP-EC0040",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/gestao-de-obras-e-seguranca/2676821"
+    },
+    {
+      "name": "Gestão de Operações",
+      "code": "FEUP-EEC0084",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/gestao-de-operacoes/2676849"
+    },
+    {
+      "name": "Gestão de Operações e Logística",
+      "code": "FEUP-EIC0091",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/gestao-de-operacoes-e-logistica/2676898"
+    },
+    {
+      "name": "Gestão de Pessoas",
+      "code": null,
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/gestao-de-pessoas/5128407"
+    },
+    {
+      "name": "Gestão de Processos",
+      "code": "FEUP-ENGPN02",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/gestao-de-processos/2676983"
+    },
+    {
+      "name": "Gestão de Projectos",
+      "code": "FEUP-EC0035",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/gestao-de-projectos/2676819"
+    },
+    {
+      "name": "Gestão de Projetos",
+      "code": "FEP-2GE14",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/gestao-de-projetos/2676739"
+    },
+    {
+      "name": "Gestão de Risco",
+      "code": null,
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/gestao-de-risco/7358257"
+    },
+    {
+      "name": "Gestão de Serviços",
+      "code": "FEUP-ESG0029",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/gestao-de-servicos/2676993"
+    },
+    {
+      "name": "Gestão do Património",
+      "code": "FLUP-ARQU058",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/gestao-do-patrimonio/2677151"
+    },
+    {
+      "name": "Gestão e Melhoria Contínua",
+      "code": "FEP-2GEC11",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/gestao-e-melhoria-continua/2676741"
+    },
+    {
+      "name": "Gestão e Negócios Internacionais",
+      "code": "FEP-2EAE20",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/gestao-e-negocios-internacionais/2676732"
+    },
+    {
+      "name": "Gestão Empresarial",
+      "code": "FEUP-EA0047",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/gestao-empresarial/2676775"
+    },
+    {
+      "name": "Gestão Financeira",
+      "code": "EIG0032",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/gestao-financeira/3607879"
+    },
+    {
+      "name": "Ginecologia",
+      "code": "ICBAS-MIM5M03P",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/ginecologia/2677573"
+    },
+    {
+      "name": "Ginecologia e Obstetrícia",
+      "code": null,
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/ginecologia-e-obstetricia/5313008"
+    },
+    {
+      "name": "Género e Desporto",
+      "code": "FADEUP-622",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/genero-e-desporto/2676370"
+    },
+    {
+      "name": "Hemostase",
+      "code": "TH-RE17",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/hemostase/3234327"
+    },
+    {
+      "name": "Hidrologia",
+      "code": "FLUP-GEOGR075",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/hidrologia/2677221"
+    },
+    {
+      "name": "Hidráulica Urbana e Ambiental",
+      "code": "FEUP-EC0033",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/hidraulica-urbana-e-ambiental/2676818"
+    },
+    {
+      "name": "Histologia",
+      "code": "FCNAUP-CN12003",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/histologia/2676441"
+    },
+    {
+      "name": "Histologia e Embriologia I",
+      "code": "FMDUP-MD2304",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/histologia-e-embriologia-i/2677367"
+    },
+    {
+      "name": "Histologia e Embriologia II",
+      "code": "FMDUP-MD2406",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/histologia-e-embriologia-ii/2677371"
+    },
+    {
+      "name": "Histologia Funcional",
+      "code": "ICBAS-BIOL1009",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/histologia-funcional/2677555"
+    },
+    {
+      "name": "Historia da arquitectura moderna",
+      "code": null,
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/historia-da-arquitectura-moderna/3252991"
+    },
+    {
+      "name": "Historia da arquitetura vernacular",
+      "code": null,
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/historia-da-arquitetura-vernacular/4351085"
+    },
+    {
+      "name": "História A",
+      "code": "HIST-10",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/historia-a/4819924"
+    },
+    {
+      "name": "História Contemporânea de Portugal",
+      "code": "CC023",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/historia-contemporanea-de-portugal/2952622"
+    },
+    {
+      "name": "História Contemporânea de Portugal",
+      "code": "FLUP-ARQU033",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/historia-contemporanea-de-portugal/2677150"
+    },
+    {
+      "name": "História Contemporânea de Portugal I",
+      "code": "FLUP-HISTO074",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/historia-contemporanea-de-portugal-i/2677234"
+    },
+    {
+      "name": "História Contemporânea de Portugal II",
+      "code": "FLUP-HISTO076",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/historia-contemporanea-de-portugal-ii/2677235"
+    },
+    {
+      "name": "História da Administração Pública",
+      "code": "FLUP-CINF014",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/historia-da-administracao-publica/2950927"
+    },
+    {
+      "name": "História da Alimentação",
+      "code": "LCN1106",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/historia-da-alimentacao/5941142"
+    },
+    {
+      "name": "História da Alta Idade Média em Portugal",
+      "code": "HISTO008",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/historia-da-alta-idade-media-em-portugal/6696020"
+    },
+    {
+      "name": "História da Arquitectura Antiga e Medieval",
+      "code": "FAUP-200202",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/historia-da-arquitectura-antiga-e-medieval/2676389"
+    },
+    {
+      "name": "História da Arquitetura da Época Contemporânea I",
+      "code": "HART010",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/historia-da-arquitetura-da-epoca-contemporanea-i/5961459"
+    },
+    {
+      "name": "História da Arquitetura da Época Moderna II",
+      "code": "HART014",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/historia-da-arquitetura-da-epoca-moderna-ii/5876231"
+    },
+    {
+      "name": "História da Arquitetura Paisagista",
+      "code": "FCUP AP-3001",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/historia-da-arquitetura-paisagista/3766097"
+    },
+    {
+      "name": "História da Arte",
+      "code": null,
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/historia-da-arte/6950772"
+    },
+    {
+      "name": "História da Arte",
+      "code": "FLUP-9182",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/historia-da-arte/2947117"
+    },
+    {
+      "name": "História da Arte da Época Contemporânea II",
+      "code": "HART058",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/historia-da-arte-da-epoca-contemporanea-ii/5961471"
+    },
+    {
+      "name": "História da Arte e Cultura da Época Medieval",
+      "code": "FLUP-HART019",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/historia-da-arte-e-cultura-da-epoca-medieval/2677227"
+    },
+    {
+      "name": "História da Arte I",
+      "code": "FBAUP-HA101",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/historia-da-arte-i/2676419"
+    },
+    {
+      "name": "História da Arte II",
+      "code": "FBAUP-HA102",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/historia-da-arte-ii/2676420"
+    },
+    {
+      "name": "História da Arte III",
+      "code": "FBAUP-HA201",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/historia-da-arte-iii/2676421"
+    },
+    {
+      "name": "História da Cidade do Porto",
+      "code": "FAUP-50131C5",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/historia-da-cidade-do-porto/2676399"
+    },
+    {
+      "name": "História da Criminologia",
+      "code": "C100",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/historia-da-criminologia/2959595"
+    },
+    {
+      "name": "História da Cultura",
+      "code": "FLUP-CINF015",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/historia-da-cultura/2979253"
+    },
+    {
+      "name": "História da Cultura Espanhola",
+      "code": "FLUP-LLC051",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/historia-da-cultura-espanhola/2677254"
+    },
+    {
+      "name": "História da Educação Contemporânea",
+      "code": "FPCEUP-E200",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/historia-da-educacao-contemporanea/2677529"
+    },
+    {
+      "name": "História da Fotografia",
+      "code": "FLUP-HART022",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/historia-da-fotografia/2677228"
+    },
+    {
+      "name": "História da Investigação em ciências do património",
+      "code": "HICPAT 1ARQU01",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/historia-da-investigacao-em-ciencias-do-patrimonio/6665238"
+    },
+    {
+      "name": "História da Matemática",
+      "code": "FCUP-M2021",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/historia-da-matematica/2676631"
+    },
+    {
+      "name": "História da Medicina",
+      "code": "ICBAS-MIM124",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/historia-da-medicina/2972445"
+    },
+    {
+      "name": "História das Relações Internacionais",
+      "code": "LRI007",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/historia-das-relacoes-internacionais/6670097"
+    },
+    {
+      "name": "História de Roma",
+      "code": "ARQU036",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/historia-de-roma/4383373"
+    },
+    {
+      "name": "História do Brasil",
+      "code": "FLUP-HISTO031",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/historia-do-brasil/2677231"
+    },
+    {
+      "name": "História do Direito",
+      "code": "D130",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/historia-do-direito/2959780"
+    },
+    {
+      "name": "História do Jornalismo",
+      "code": "FLUP-CC024",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/historia-do-jornalismo/2677160"
+    },
+    {
+      "name": "História do Mundo Contemporâneo",
+      "code": "FLUP-CC025",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/historia-do-mundo-contemporaneo/2950855"
+    },
+    {
+      "name": "História do Pensamento Económico",
+      "code": "FEP-1EC309",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/historia-do-pensamento-economico/2959846"
+    },
+    {
+      "name": "História dos Descobrimentos e da Expansão Portuguesa",
+      "code": "FLUP-HISTO039",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/historia-dos-descobrimentos-e-da-expansao-portuguesa/2959286"
+    },
+    {
+      "name": "História Económica",
+      "code": "FLUP-MEH009",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/historia-economica/2677286"
+    },
+    {
+      "name": "História económica e social",
+      "code": null,
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/historia-economica-e-social/6494603"
+    },
+    {
+      "name": "História Económica e Social na Época Contemporânea",
+      "code": "HISTO041",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/historia-economica-e-social-na-epoca-contemporanea/5876224"
+    },
+    {
+      "name": "História Económica e Social na Época Medieval",
+      "code": "FLUP-HISTO042",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/historia-economica-e-social-na-epoca-medieval/2677232"
+    },
+    {
+      "name": "História Política na Época Contemporânea",
+      "code": "FLUP-HISTO050",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/historia-politica-na-epoca-contemporanea/2677233"
+    },
+    {
+      "name": "História Política na Época Moderna",
+      "code": "FLUP-HISTO052",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/historia-politica-na-epoca-moderna/2959290"
+    },
+    {
+      "name": "história-7ºano",
+      "code": null,
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/historia-7oano/7075256"
+    },
+    {
+      "name": "Horticultura Geral*",
+      "code": "FCUP-EAGR211",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/horticultura-geral/2676559"
+    },
+    {
+      "name": "Humanidades em Medicina",
+      "code": "FMUP-MI113",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/humanidades-em-medicina/2677425"
+    },
+    {
+      "name": "Iconografia",
+      "code": "HART046",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/iconografia/6670962"
+    },
+    {
+      "name": "Imagem e Contexto I",
+      "code": "FLUP-MHAPCV002",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/imagem-e-contexto-i/2677307"
+    },
+    {
+      "name": "Imagiologia",
+      "code": "ICBAS-MV313",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/imagiologia/2677582"
+    },
+    {
+      "name": "Imagiologia Médica",
+      "code": null,
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/imagiologia-medica/4913268"
+    },
+    {
+      "name": "Impacto Ambiental Mineiro",
+      "code": "IAM1",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/impacto-ambiental-mineiro/6783311"
+    },
+    {
+      "name": "Imunohematologia",
+      "code": "IH-RE17",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/imunohematologia/3234326"
+    },
+    {
+      "name": "Imunologia",
+      "code": "ICBAS-MV224",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/imunologia/2959343"
+    },
+    {
+      "name": "Imunologia",
+      "code": "FCNAUP-CN22004",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/imunologia/2676448"
+    },
+    {
+      "name": "Imunologia Básica",
+      "code": "FMUP-MI231",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/imunologia-basica/2677437"
+    },
+    {
+      "name": "Imunologia Clínica",
+      "code": "FMUP-MI324",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/imunologia-clinica/2677441"
+    },
+    {
+      "name": "Informação para a Internet",
+      "code": "FEUP-CINF018",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/informacao-para-a-internet/2676759"
+    },
+    {
+      "name": "Informática Básica",
+      "code": "FEUP-CINF019",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/informatica-basica/2676760"
+    },
+    {
+      "name": "Informática e Novas Tecnologias em Medicina Dentária",
+      "code": "FMDUP-1003",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/informatica-e-novas-tecnologias-em-medicina-dentaria/2677355"
+    },
+    {
+      "name": "Ingles secundãrio",
+      "code": null,
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/ingles-secundario/6670135"
+    },
+    {
+      "name": "Inglês I",
+      "code": "FLUP-MEIEFA021",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/ingles-i/2677299"
+    },
+    {
+      "name": "Inglês II*",
+      "code": "FLUP-MEIEFA022-MEI010",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/ingles-ii/2677300"
+    },
+    {
+      "name": "Inglês III",
+      "code": "FLUP-MEI011",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/ingles-iii/2677289"
+    },
+    {
+      "name": "Inglês Técnico",
+      "code": "FLUP-CINF020",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/ingles-tecnico/2677178"
+    },
+    {
+      "name": "Iniciação à Prática Profissional",
+      "code": "FLUP-MEI012",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/iniciacao-a-pratica-profissional/2677290"
+    },
+    {
+      "name": "Innovation",
+      "code": null,
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/innovation/6788555"
+    },
+    {
+      "name": "Inovação em Segurança e Saúde Ocupacional",
+      "code": "DEMSSO013",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/inovacao-em-seguranca-e-saude-ocupacional/6755524"
+    },
+    {
+      "name": "Instrumentação Biomédica",
+      "code": "FEUP-EBE0179",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/instrumentacao-biomedica/2676791"
+    },
+    {
+      "name": "Instrumentação para Medição",
+      "code": "FEUP-EM0095",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/instrumentacao-para-medicao/2676942"
+    },
+    {
+      "name": "Instrumentos de Planeamento e Ordenamento do Território",
+      "code": "FLUP-MRCOT045",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/instrumentos-de-planeamento-e-ordenamento-do-territorio/2677325"
+    },
+    {
+      "name": "Integrativa - Anatomia",
+      "code": null,
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/integrativa-anatomia/4548856"
+    },
+    {
+      "name": "Integração de Sistemas de Informação",
+      "code": "FEUP-PRODEI005",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/integracao-de-sistemas-de-informacao/2677076"
+    },
+    {
+      "name": "Integração e Regulação Metabólica",
+      "code": "FCNAUP-LCN2103",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/integracao-e-regulacao-metabolica/6659634"
+    },
+    {
+      "name": "Inteligência Artificial",
+      "code": "FCUP-CC2006",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/inteligencia-artificial/2676518"
+    },
+    {
+      "name": "Interação",
+      "code": "FBAUP-MDII",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/interacao/2676427"
+    },
+    {
+      "name": "Interfaces Multimodais",
+      "code": "FEUP-MM0053",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/interfaces-multimodais/2677056"
+    },
+    {
+      "name": "Intervenção Clínica em Crianças e Adolescentes",
+      "code": "FPCEUP-P703",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/intervencao-clinica-em-criancas-e-adolescentes/2959947"
+    },
+    {
+      "name": "Introdução a gestão",
+      "code": null,
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/introducao-a-gestao/5327662"
+    },
+    {
+      "name": "Introdução ao Direito",
+      "code": "C103",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/introducao-ao-direito/2959593"
+    },
+    {
+      "name": "Introdução ao Empreendedorismo",
+      "code": "FEUP-MIET0004",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/introducao-ao-empreendedorismo/2677042"
+    },
+    {
+      "name": "Introdução ao Processo Analítico",
+      "code": "FCUP-Q2001",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/introducao-ao-processo-analitico/2676671"
+    },
+    {
+      "name": "Introdução ao projeto de arquitetura paisagista",
+      "code": "AP1002",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/introducao-ao-projeto-de-arquitetura-paisagista/5149406"
+    },
+    {
+      "name": "Introdução ao Projeto de Investigação I - MESG",
+      "code": "ESG0009",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/introducao-ao-projeto-de-investigacao-i-mesg/6650861"
+    },
+    {
+      "name": "Introdução aos Sistemas e Ciência da Informação",
+      "code": "FLUP-CINF038",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/introducao-aos-sistemas-e-ciencia-da-informacao/2677180"
+    },
+    {
+      "name": "Introdução à Análise Ambiental",
+      "code": "FCUP-AMB1001",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/introducao-a-analise-ambiental/2676461"
+    },
+    {
+      "name": "Introdução à Contabilidade",
+      "code": "FEP-1EC102",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/introducao-a-contabilidade/2676721"
+    },
+    {
+      "name": "Introdução à Contabilidade",
+      "code": "FEP-1GE106",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/introducao-a-contabilidade/2960204"
+    },
+    {
+      "name": "Introdução à Criminologia",
+      "code": null,
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/introducao-a-criminologia/5670335"
+    },
+    {
+      "name": "Introdução à Cultura e Literatura Inglesa",
+      "code": "LLC063",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/introducao-a-cultura-e-literatura-inglesa/7191646"
+    },
+    {
+      "name": "Introdução à Economia",
+      "code": "FLUP-CC028",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/introducao-a-economia/2960079"
+    },
+    {
+      "name": "Introdução à Engenharia do Ambiente",
+      "code": "FEUP-EA0009",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/introducao-a-engenharia-do-ambiente/2676768"
+    },
+    {
+      "name": "Introdução à Engenharia Mecânica",
+      "code": "FEUP-EM0091",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/introducao-a-engenharia-mecanica/2676941"
+    },
+    {
+      "name": "Introdução à Epidemiologia",
+      "code": "FMUP-MI224",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/introducao-a-epidemiologia/2677433"
+    },
+    {
+      "name": "Introdução à Genética Humana",
+      "code": "FPCEUP-P110",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/introducao-a-genetica-humana/2958227"
+    },
+    {
+      "name": "Introdução à História da Arte",
+      "code": "AP2003",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/introducao-a-historia-da-arte/2933836"
+    },
+    {
+      "name": "Introdução à Linguística",
+      "code": "FLUP-CL013",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/introducao-a-linguistica/2677191"
+    },
+    {
+      "name": "Introdução à Medicina",
+      "code": "FMDUP-MD1105",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/introducao-a-medicina/2677361"
+    },
+    {
+      "name": "Introdução à Programação",
+      "code": "FCUP-ECC101",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/introducao-a-programacao/2959319"
+    },
+    {
+      "name": "Introdução à Sexologia",
+      "code": "FPCEUP-P610",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/introducao-a-sexologia/2959363"
+    },
+    {
+      "name": "Introdução às Aplicações da Matemática",
+      "code": "FCUP-M1027",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/introducao-as-aplicacoes-da-matematica/2676623"
+    },
+    {
+      "name": "Introdução às Ciências Sociais",
+      "code": "FEP-1EC103",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/introducao-as-ciencias-sociais/2960383"
+    },
+    {
+      "name": "Introdução às Ciências Sociais",
+      "code": "FPCEUP-P100",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/introducao-as-ciencias-sociais/2950907"
+    },
+    {
+      "name": "Introdução às Ferramentas Digitais",
+      "code": "FBAUP-IFD101",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/introducao-as-ferramentas-digitais/2676423"
+    },
+    {
+      "name": "Introdução às Relações Internacionais",
+      "code": "FLUP-LRI013",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/introducao-as-relacoes-internacionais/2677262"
+    },
+    {
+      "name": "Introdução ás Ciências da Educação",
+      "code": "FPCEUPICE2019",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/introducao-as-ciencias-da-educacao/4343918"
+    },
+    {
+      "name": "Investigação e Prática Profissional",
+      "code": "FCUP-DID4021",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/investigacao-e-pratica-profissional/2676551"
+    },
+    {
+      "name": "Investigação Educacional",
+      "code": "FLUP-MEG006",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/investigacao-educacional/2677282"
+    },
+    {
+      "name": "Investigação em Educação",
+      "code": "FADEUP-EEF21",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/investigacao-em-educacao/2676377"
+    },
+    {
+      "name": "Investigação em Serviços de Saúde*",
+      "code": "FMUP-PDICSS013",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/investigacao-em-servicos-de-saude/2677518"
+    },
+    {
+      "name": "Investigação Operacional",
+      "code": "FEUP-EC0023",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/investigacao-operacional/2676813"
+    },
+    {
+      "name": "Investigação Operacional",
+      "code": "1GE208",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/investigacao-operacional/6618199"
+    },
+    {
+      "name": "Investigação Operacional I",
+      "code": "FEUP-EIG0022",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/investigacao-operacional-i/2960400"
+    },
+    {
+      "name": "Investigação-Ação em Educação",
+      "code": "FPCEUP-E603",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/investigacao-acao-em-educacao/2677530"
+    },
+    {
+      "name": "Investment Banking",
+      "code": null,
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/investment-banking/6510735"
+    },
+    {
+      "name": "Jornalismo Comparado",
+      "code": "FLUP-CC030",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/jornalismo-comparado/2677161"
+    },
+    {
+      "name": "Justiça Constitucional",
+      "code": "D9876543",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/justica-constitucional/7454655"
+    },
+    {
+      "name": "Laboratorio Multimedia e Educação",
+      "code": "E108",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/laboratorio-multimedia-e-educacao/5904043"
+    },
+    {
+      "name": "Laboratório de Bases de Dados e Aplicações Web",
+      "code": "FEUP-EIC0085",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/laboratorio-de-bases-de-dados-e-aplicacoes-web/2676893"
+    },
+    {
+      "name": "Laboratório de Biofísica/Bioquímica",
+      "code": "FCUP-Q/FIS1001",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/laboratorio-de-biofisicabioquimica/2959379"
+    },
+    {
+      "name": "Laboratório de Matemática",
+      "code": "FCUP-M1025",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/laboratorio-de-matematica/2676621"
+    },
+    {
+      "name": "Laboratório de Programação Orientada por Objectos",
+      "code": "FEUP-EIC0111",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/laboratorio-de-programacao-orientada-por-objectos/2676907"
+    },
+    {
+      "name": "Laboratório de Química Física Biológica",
+      "code": "FCUP-Q2016",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/laboratorio-de-quimica-fisica-biologica/2676681"
+    },
+    {
+      "name": "Laboratório de Química Geral",
+      "code": "FCUP-Q1005",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/laboratorio-de-quimica-geral/2676665"
+    },
+    {
+      "name": "Laboratório de Sistemas Digitais",
+      "code": "FEUP-EEC0006",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/laboratorio-de-sistemas-digitais/2676829"
+    },
+    {
+      "name": "laboratórios de ciências do ambiente 1",
+      "code": null,
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/laboratorios-de-ciencias-do-ambiente-1/5353926"
+    },
+    {
+      "name": "Laboratórios de Ciências do Ambiente II",
+      "code": "FEUP-EA0062",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/laboratorios-de-ciencias-do-ambiente-ii/2676777"
+    },
+    {
+      "name": "Laboratórios de Engenharia do Ambiente III",
+      "code": "FEUP-EA0040",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/laboratorios-de-engenharia-do-ambiente-iii/2676773"
+    },
+    {
+      "name": "Latim I",
+      "code": "FLUP-EPL015",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/latim-i/2677199"
+    },
+    {
+      "name": "Latim II",
+      "code": "FLUP-EPL016",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/latim-ii/2677200"
+    },
+    {
+      "name": "Licenciatura de Criminologia",
+      "code": "FDUP-9066",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/licenciatura-de-criminologia/2926180"
+    },
+    {
+      "name": "Linguagens e Tecnologias Web",
+      "code": "FEUP-EIC0112",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/linguagens-e-tecnologias-web/2676908"
+    },
+    {
+      "name": "Linguística de Texto",
+      "code": "FLUP-CL014",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/linguistica-de-texto/2677192"
+    },
+    {
+      "name": "Linguística Espanhola",
+      "code": "FLUP-LA018",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/linguistica-espanhola/2677240"
+    },
+    {
+      "name": "lit francesa contemporânea",
+      "code": "x0000",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/lit-francesa-contemporanea/6534247"
+    },
+    {
+      "name": "Literatura Brasileira",
+      "code": null,
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/literatura-brasileira/4329625"
+    },
+    {
+      "name": "Literatura Clássica",
+      "code": null,
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/literatura-classica/4329620"
+    },
+    {
+      "name": "Literatura Espanhola da Idade Média",
+      "code": "FLUP-LLC081",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/literatura-espanhola-da-idade-media/2677255"
+    },
+    {
+      "name": "Literatura Espanhola do Renascimento",
+      "code": "LLC083",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/literatura-espanhola-do-renascimento/7343867"
+    },
+    {
+      "name": "Literatura Francesa do Romantismo ao Simbolismo",
+      "code": "FLUP-LLC086",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/literatura-francesa-do-romantismo-ao-simbolismo/2677256"
+    },
+    {
+      "name": "Literatura Hispanoamericana Contemporânea",
+      "code": "FLUP-MELCI093",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/literatura-hispanoamericana-contemporanea/2677301"
+    },
+    {
+      "name": "Literatura Inglesa - Poesia do Século XX",
+      "code": "FLUP-LLC090",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/literatura-inglesa-poesia-do-seculo-xx/2677257"
+    },
+    {
+      "name": "Literatura Portuguesa do Barroco e Neoclacissismo",
+      "code": "FLUP-EPL028",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/literatura-portuguesa-do-barroco-e-neoclacissismo/2951169"
+    },
+    {
+      "name": "Literatura Portuguesa do Renascimento e Humanismo",
+      "code": "EPL029",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/literatura-portuguesa-do-renascimento-e-humanismo/7264479"
+    },
+    {
+      "name": "Literatura Portuguesa Medieval",
+      "code": "FLUP-EPL032",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/literatura-portuguesa-medieval/2677201"
+    },
+    {
+      "name": "Logística",
+      "code": "FEUP-EIG0030",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/logistica/2676919"
+    },
+    {
+      "name": "Logística e Gestão da Cadeia do Abastecimento",
+      "code": null,
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/logistica-e-gestao-da-cadeia-do-abastecimento/4955529"
+    },
+    {
+      "name": "Língua inglesa - Iniciação",
+      "code": "CLC_B2_LE_A",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/lingua-inglesa-iniciacao/7736364"
+    },
+    {
+      "name": "Língua Portuguesa Iniciação - A1.1",
+      "code": "FLUP-CIPLES01",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/lingua-portuguesa-iniciacao-a11/2677184"
+    },
+    {
+      "name": "Lógica Computacional",
+      "code": "CC2003",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/logica-computacional/7220482"
+    },
+    {
+      "name": "Macroeconomia",
+      "code": "FEUP-EIG0055",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/macroeconomia/2676924"
+    },
+    {
+      "name": "Macroeconomia I",
+      "code": "FEP-1EC204",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/macroeconomia-i/2960396"
+    },
+    {
+      "name": "Macroeconomia II",
+      "code": "FEP-1EC210",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/macroeconomia-ii/2960403"
+    },
+    {
+      "name": "Managment Thought",
+      "code": null,
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/managment-thought/4512596"
+    },
+    {
+      "name": "Manipulação Molecular e Biotecnologia*",
+      "code": "FCUP-ECE221",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/manipulacao-molecular-e-biotecnologia/2676566"
+    },
+    {
+      "name": "Marketing",
+      "code": "FLUP-CC032",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/marketing/2960082"
+    },
+    {
+      "name": "Marketing",
+      "code": "FEP-1EC201",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/marketing/2676723"
+    },
+    {
+      "name": "Marketing Cultural",
+      "code": "FLUP-MECC005",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/marketing-cultural/2677272"
+    },
+    {
+      "name": "Marketing de Serviços",
+      "code": "FEP-2MK07",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/marketing-de-servicos/2676753"
+    },
+    {
+      "name": "Marketing Internacional",
+      "code": "FEP-2EGI04",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/marketing-internacional/2676737"
+    },
+    {
+      "name": "Matematica 10",
+      "code": null,
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/matematica-10/6515026"
+    },
+    {
+      "name": "matemática 10",
+      "code": "matemática",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/matematica-10/6563951"
+    },
+    {
+      "name": "matemática 12",
+      "code": null,
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/matematica-12/7135930"
+    },
+    {
+      "name": "Matemática A",
+      "code": null,
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/matematica-a/7713202"
+    },
+    {
+      "name": "Matemática Aplicada à Engenharia Química",
+      "code": "FEUP-EQ0076",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/matematica-aplicada-a-engenharia-quimica/2676987"
+    },
+    {
+      "name": "Matemática Computacional",
+      "code": "FCUP-M3010",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/matematica-computacional/2676638"
+    },
+    {
+      "name": "Matemática Discreta",
+      "code": "FEUP-L.EIC005",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/matematica-discreta/6286772"
+    },
+    {
+      "name": "Matemática Discreta",
+      "code": "FEUP-EIC0011",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/matematica-discreta/2676869"
+    },
+    {
+      "name": "Matemática e Bioestatística",
+      "code": "FFUP-MI071104",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/matematica-e-bioestatistica/2677092"
+    },
+    {
+      "name": "Matemática Financeira",
+      "code": null,
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/matematica-financeira/5807247"
+    },
+    {
+      "name": "Matemática I",
+      "code": "FEP-1EC104",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/matematica-i/2960384"
+    },
+    {
+      "name": "Matemática I",
+      "code": "FEP-1E103",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/matematica-i/2960194"
+    },
+    {
+      "name": "Matemática I",
+      "code": "FCUP-EM191",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/matematica-i/2676571"
+    },
+    {
+      "name": "Matemática II",
+      "code": "FCUP-EM192",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/matematica-ii/2676572"
+    },
+    {
+      "name": "Matemática II",
+      "code": "FEP-1EC109",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/matematica-ii/2960389"
+    },
+    {
+      "name": "Materiais",
+      "code": "FEUP-EIG0061",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/materiais/2959621"
+    },
+    {
+      "name": "Materiais e Técnicas de Revestimentos Antigos",
+      "code": "FAUP-420904",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/materiais-e-tecnicas-de-revestimentos-antigos/2676395"
+    },
+    {
+      "name": "Materiais Metálicos",
+      "code": "FEUP-EMM0027",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/materiais-metalicos/2676975"
+    },
+    {
+      "name": "Mecânica",
+      "code": "FCUP-F1006",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/mecanica/2676583"
+    },
+    {
+      "name": "Mecânica 2",
+      "code": "FEUP-EC0013",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/mecanica-2/2676808"
+    },
+    {
+      "name": "Mecânica de Fluidos",
+      "code": "FEUP-EMG0022",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/mecanica-de-fluidos/2676961"
+    },
+    {
+      "name": "Mecânica de Fluidos I",
+      "code": "FEUP-EA0022",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/mecanica-de-fluidos-i/2676771"
+    },
+    {
+      "name": "Mecânica dos Fluidos",
+      "code": "EQ0070",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/mecanica-dos-fluidos/5212881"
+    },
+    {
+      "name": "Mecânica dos Fluidos",
+      "code": "CEFT3001",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/mecanica-dos-fluidos/3270457"
+    },
+    {
+      "name": "Mecânica dos Fluidos",
+      "code": "FEUP-EIG0024",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/mecanica-dos-fluidos/2676914"
+    },
+    {
+      "name": "Mecânica I",
+      "code": "FEUP-EM0014",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/mecanica-i/2956360"
+    },
+    {
+      "name": "Mecânica II",
+      "code": "FEUP-EIG0053",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/mecanica-ii/2676923"
+    },
+    {
+      "name": "Mecânica Quântica Avançada",
+      "code": "FCUP-F4034",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/mecanica-quantica-avancada/2676591"
+    },
+    {
+      "name": "Mecânica Quântica I",
+      "code": "FIS3003",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/mecanica-quantica-i/4507999"
+    },
+    {
+      "name": "Media e Sociedade",
+      "code": "FLUP-ICPD0029",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/media-e-sociedade/2677236"
+    },
+    {
+      "name": "Medicina",
+      "code": null,
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/medicina/2958185"
+    },
+    {
+      "name": "Medicina Dentaria Revalidação",
+      "code": null,
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/medicina-dentaria-revalidacao/7416869"
+    },
+    {
+      "name": "Medicina Dentária, Preventiva e Saúde Oral Comunitária I",
+      "code": "FMDUP-MD3505",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/medicina-dentaria-preventiva-e-saude-oral-comunitaria-i/2677374"
+    },
+    {
+      "name": "Medicina Dentária, Preventiva e Saúde Oral Comunitária II",
+      "code": "FMDUP-MD4706",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/medicina-dentaria-preventiva-e-saude-oral-comunitaria-ii/2677382"
+    },
+    {
+      "name": "Medicina Legal",
+      "code": "FMUP-MI509",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/medicina-legal/2677459"
+    },
+    {
+      "name": "Medicina Oral I",
+      "code": "FMDUP-MD3606",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/medicina-oral-i/2677377"
+    },
+    {
+      "name": "Medição, Sensores e Instrumentação",
+      "code": "FEUP-EEC0070",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/medicao-sensores-e-instrumentacao/2676846"
+    },
+    {
+      "name": "Melhoria de Processos",
+      "code": "FEUP-ENGPN03",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/melhoria-de-processos/2676984"
+    },
+    {
+      "name": "Mercados e Investimentos Financeiros",
+      "code": "FEP-1EC208",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/mercados-e-investimentos-financeiros/2960405"
+    },
+    {
+      "name": "Mestrado Integrado em Ciências Farmacêuticas",
+      "code": null,
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/mestrado-integrado-em-ciencias-farmaceuticas/2947121"
+    },
+    {
+      "name": "Mestrado Integrado em Engenharia e Gestão Industrial",
+      "code": "MIEGI",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/mestrado-integrado-em-engenharia-e-gestao-industrial/2958213"
+    },
+    {
+      "name": "Mestrado Integrado em Medicina",
+      "code": "MIM 9813",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/mestrado-integrado-em-medicina/5196344"
+    },
+    {
+      "name": "Metodologia da Investigação",
+      "code": "FCUP-CA4003",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/metodologia-da-investigacao/2676508"
+    },
+    {
+      "name": "Metodologia da Investigação em Filosofia I",
+      "code": "FLUP-MFIL046",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/metodologia-da-investigacao-em-filosofia-i/2677305"
+    },
+    {
+      "name": "Metodologia de Investigação",
+      "code": "FLUP-CC033",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/metodologia-de-investigacao/2955411"
+    },
+    {
+      "name": "Metodologia de Investigação em Ciências da Comunicação e da Informação",
+      "code": "FLUP-CGIC01",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/metodologia-de-investigacao-em-ciencias-da-comunicacao-e-da-informacao/2677175"
+    },
+    {
+      "name": "Metodologia do Desporto I - Exercício e Saúde",
+      "code": "FADEUP-216",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/metodologia-do-desporto-i-exercicio-e-saude/2676363"
+    },
+    {
+      "name": "Metodologia do Desporto I - Treino Desportivo - Atletismo",
+      "code": "223",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/metodologia-do-desporto-i-treino-desportivo-atletismo/7607915"
+    },
+    {
+      "name": "Metodologia do Desporto I -Treino Desportivo - Natação",
+      "code": "FADEUP-227",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/metodologia-do-desporto-i-treino-desportivo-natacao/2676364"
+    },
+    {
+      "name": "Metodologia do Desporto II -Treino Desportivo - Atletismo",
+      "code": "FADEUP-331",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/metodologia-do-desporto-ii-treino-desportivo-atletismo/2676368"
+    },
+    {
+      "name": "Metodologia/Métodos de Investigação *",
+      "code": "FADEUP-AFS21",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/metodologiametodos-de-investigacao/2676375"
+    },
+    {
+      "name": "Metodologias de Avaliação da Ingestão Alimentar",
+      "code": "FCNAUP-CN11006",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/metodologias-de-avaliacao-da-ingestao-alimentar/2951252"
+    },
+    {
+      "name": "Metodologias de Investigação",
+      "code": "FEUP-MM0056",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/metodologias-de-investigacao/2677057"
+    },
+    {
+      "name": "Microbiologia",
+      "code": "ICBAS-MA225",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/microbiologia/2959746"
+    },
+    {
+      "name": "Microbiologia",
+      "code": "BIOL1006",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/microbiologia/6481549"
+    },
+    {
+      "name": "Microbiologia Alimentar",
+      "code": "FCNAUP-CN22008",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/microbiologia-alimentar/2676451"
+    },
+    {
+      "name": "Microbiologia Alimentar",
+      "code": "FCUP-B330",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/microbiologia-alimentar/2950931"
+    },
+    {
+      "name": "Microbiologia Básica",
+      "code": "FCNAUP-CN21003",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/microbiologia-basica/2676444"
+    },
+    {
+      "name": "Microbiologia e Biologia dos Fungos",
+      "code": "FCUP-EB231",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/microbiologia-e-biologia-dos-fungos/2950920"
+    },
+    {
+      "name": "Microbiologia geral",
+      "code": "ICBAS-MV126",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/microbiologia-geral/2959339"
+    },
+    {
+      "name": "Microbiologia Geral",
+      "code": "FFUP-MI072217",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/microbiologia-geral/2677098"
+    },
+    {
+      "name": "Microbiologia I",
+      "code": "FMDUP-MD2307",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/microbiologia-i/2677368"
+    },
+    {
+      "name": "Microbiologia Médica I",
+      "code": "FMUP-MI229",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/microbiologia-medica-i/2677435"
+    },
+    {
+      "name": "Microbiologia Médica II",
+      "code": "FMUP-MI323",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/microbiologia-medica-ii/2677440"
+    },
+    {
+      "name": "Microeconomia",
+      "code": "FEUP-EIG0023",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/microeconomia/2676913"
+    },
+    {
+      "name": "Microeconomia I",
+      "code": "FEP-1EC105",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/microeconomia-i/2960195"
+    },
+    {
+      "name": "Microeconomia II",
+      "code": "FEP-1EC110",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/microeconomia-ii/2960392"
+    },
+    {
+      "name": "Mineralogia Ótica",
+      "code": "FCUP-GEOL1009",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/mineralogia-otica/2959347"
+    },
+    {
+      "name": "Mitologia Clássica",
+      "code": "LLC109",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/mitologia-classica/6180585"
+    },
+    {
+      "name": "Modelação de Bioestruturas",
+      "code": "FCUP-Q3009",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/modelacao-de-bioestruturas/2676691"
+    },
+    {
+      "name": "Modelação e Simulação Biomédica: Aplicações à Hemodinâmica",
+      "code": "FMUP-OPT23",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/modelacao-e-simulacao-biomedica-aplicacoes-a-hemodinamica/2677492"
+    },
+    {
+      "name": "Modelação Matemática",
+      "code": "FCUP-M4042",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/modelacao-matematica/2676646"
+    },
+    {
+      "name": "Modelos Comportamentalistas e Cognitivistas",
+      "code": "P410",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/modelos-comportamentalistas-e-cognitivistas/3736055"
+    },
+    {
+      "name": "Modelos Construtivistas e Sistémicos",
+      "code": "P502",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/modelos-construtivistas-e-sistemicos/4377668"
+    },
+    {
+      "name": "Modelos de Dinâmica Estocástica",
+      "code": "FEUP-PRODEC079",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/modelos-de-dinamica-estocastica/2677075"
+    },
+    {
+      "name": "Modelos e Processos de Negócios",
+      "code": "FEUP-EEC0089",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/modelos-e-processos-de-negocios/2676851"
+    },
+    {
+      "name": "Modelos Gráficos de Probabilidade",
+      "code": "FMUP-OPT24",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/modelos-graficos-de-probabilidade/2677493"
+    },
+    {
+      "name": "Modelos Psicanalíticos e Humanistas",
+      "code": "FPCEUP-P303",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/modelos-psicanaliticos-e-humanistas/2952042"
+    },
+    {
+      "name": "Monografia de Investigação ou Relatório de Atividade Clínica",
+      "code": "FMDUP-MD51008",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/monografia-de-investigacao-ou-relatorio-de-atividade-clinica/2677394"
+    },
+    {
+      "name": "Morfofisiologia Integrativa",
+      "code": "FMUP-MI228",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/morfofisiologia-integrativa/2677434"
+    },
+    {
+      "name": "Motricidade Humana",
+      "code": null,
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/motricidade-humana/5730649"
+    },
+    {
+      "name": "Multimédia no ensino da Química",
+      "code": "FCUP-CE4002",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/multimedia-no-ensino-da-quimica/2676355"
+    },
+    {
+      "name": "Multinacionais e Internacionalização",
+      "code": "FEP-2EGI01",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/multinacionais-e-internacionalizacao/3505489"
+    },
+    {
+      "name": "Métodos Computacionais em Engenharia",
+      "code": "FCUP-F4021",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/metodos-computacionais-em-engenharia/2676587"
+    },
+    {
+      "name": "Métodos de Análise da Qualidade Alimentar",
+      "code": "FCUP-Q4030",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/metodos-de-analise-da-qualidade-alimentar/2676716"
+    },
+    {
+      "name": "Métodos de Análise Estrutural",
+      "code": "FCUP-Q2013",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/metodos-de-analise-estrutural/2676679"
+    },
+    {
+      "name": "Métodos de apoio a decisão",
+      "code": null,
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/metodos-de-apoio-a-decisao/6588497"
+    },
+    {
+      "name": "Métodos de Investigação e Início da Preparação da Dissertação/Projeto/Estágio",
+      "code": "FEUP-MIET0025",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/metodos-de-investigacao-e-inicio-da-preparacao-da-dissertacaoprojetoestagio/2677050"
+    },
+    {
+      "name": "Métodos de Investigação em Psicologia",
+      "code": "FPCEUP-P102",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/metodos-de-investigacao-em-psicologia/2958236"
+    },
+    {
+      "name": "Métodos de Previsão e Séries Temporais",
+      "code": "FEP-2MADSAD09",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/metodos-de-previsao-e-series-temporais/2676751"
+    },
+    {
+      "name": "Métodos e Técnicas de Investigação em História da Arte",
+      "code": "FLUP-HART045",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/metodos-e-tecnicas-de-investigacao-em-historia-da-arte/2677230"
+    },
+    {
+      "name": "Métodos e Técnicas de Pesquisa",
+      "code": "FLUP-LLC108",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/metodos-e-tecnicas-de-pesquisa/2677258"
+    },
+    {
+      "name": "Métodos Estatísticos",
+      "code": "FEUP-EIC0105",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/metodos-estatisticos/2676903"
+    },
+    {
+      "name": "Métodos Estatísticos",
+      "code": "FCUP-EM171",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/metodos-estatisticos/2950924"
+    },
+    {
+      "name": "Métodos Instrumentais",
+      "code": "FCUP-Q3008",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/metodos-instrumentais/2676690"
+    },
+    {
+      "name": "Métodos Instrumentais de Análise",
+      "code": "FFUP-CQ07007",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/metodos-instrumentais-de-analise/2677087"
+    },
+    {
+      "name": "Métodos Instrumentais em Análises Clínicas",
+      "code": "FFUP-MAC07012",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/metodos-instrumentais-em-analises-clinicas/2677090"
+    },
+    {
+      "name": "Métodos Matemáticos em Ciência",
+      "code": "FCUP-M4017",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/metodos-matematicos-em-ciencia/2676644"
+    },
+    {
+      "name": "Métodos Numéricos",
+      "code": "FCUP-EM232",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/metodos-numericos/2676574"
+    },
+    {
+      "name": "Métodos Numéricos",
+      "code": "mnum2015",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/metodos-numericos/4355636"
+    },
+    {
+      "name": "Métodos Qualitativos",
+      "code": "C209",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/metodos-qualitativos/2959589"
+    },
+    {
+      "name": "Métodos Quantitativos",
+      "code": "FEUP-MIET0020",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/metodos-quantitativos/2677046"
+    },
+    {
+      "name": "Módulo 06 - Lidar com Emoções: Tristeza, Medo, Ira",
+      "code": "FMUP-CCC06",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/modulo-06-lidar-com-emocoes-tristeza-medo-ira/2677403"
+    },
+    {
+      "name": "Narrativa Hispano-Americana Contemporânea",
+      "code": "LLC126",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/narrativa-hispano-americana-contemporanea/7486400"
+    },
+    {
+      "name": "Nefrologia II",
+      "code": null,
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/nefrologia-ii/7089415"
+    },
+    {
+      "name": "Neuroanatomia",
+      "code": "ICBAS-MIM216",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/neuroanatomia/2677567"
+    },
+    {
+      "name": "Neurociência",
+      "code": "FFUP-MI174269",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/neurociencia/2677135"
+    },
+    {
+      "name": "Neurociência Cognitiva",
+      "code": "FMUP-OPT25",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/neurociencia-cognitiva/2677494"
+    },
+    {
+      "name": "Neurociências",
+      "code": "P103",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/neurociencias/2947057"
+    },
+    {
+      "name": "Neuropsicologia",
+      "code": "FPCEUP-P743",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/neuropsicologia/2677547"
+    },
+    {
+      "name": "Novos Media",
+      "code": "FLUP-MECC007",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/novos-media/2677273"
+    },
+    {
+      "name": "Nutrição Animal",
+      "code": "ICBAS-MV225",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/nutricao-animal/2959346"
+    },
+    {
+      "name": "Nutrição e actividade física na saúde",
+      "code": "FMUP-ES30",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/nutricao-e-actividade-fisica-na-saude/2677408"
+    },
+    {
+      "name": "Nutrição e Saúde Pública",
+      "code": null,
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/nutricao-e-saude-publica/4366982"
+    },
+    {
+      "name": "Nutrição Humana",
+      "code": "FCNAUP-CN21004",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/nutricao-humana/2676445"
+    },
+    {
+      "name": "Oclusão, ATM e Dor Orofacial II",
+      "code": "FMDUP-MD4807",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/oclusao-atm-e-dor-orofacial-ii/2677389"
+    },
+    {
+      "name": "Odontopediatria I",
+      "code": "FMDUP-MD3607",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/odontopediatria-i/2677378"
+    },
+    {
+      "name": "Oficina de Gramática de Língua Portuguesa",
+      "code": "FLUP-MEPLAT005",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/oficina-de-gramatica-de-lingua-portuguesa/2677303"
+    },
+    {
+      "name": "Oficina Matemática",
+      "code": "FCUP-M4072",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/oficina-matematica/2676652"
+    },
+    {
+      "name": "Oncobiologia",
+      "code": "FFUP-MI074260",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/oncobiologia/2677123"
+    },
+    {
+      "name": "Ondas e Meios Contínuos",
+      "code": "FIS2016",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/ondas-e-meios-continuos/6350277"
+    },
+    {
+      "name": "ondas guiadas",
+      "code": "FIS3013",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/ondas-guiadas/4445421"
+    },
+    {
+      "name": "Ontologia I",
+      "code": "FLUP-FILO030",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/ontologia-i/2677206"
+    },
+    {
+      "name": "Ontologia II",
+      "code": "FLUP-FILO031",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/ontologia-ii/2677207"
+    },
+    {
+      "name": "Organização e Administração Educacional",
+      "code": null,
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/organizacao-e-administracao-educacional/4427825"
+    },
+    {
+      "name": "Organização e Gestão da Empresa",
+      "code": "FEUP-EIG0034",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/organizacao-e-gestao-da-empresa/2676921"
+    },
+    {
+      "name": "Organização e Gestão de Empresas",
+      "code": "FEUP-CINF040",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/organizacao-e-gestao-de-empresas/2676763"
+    },
+    {
+      "name": "Organização Escolar",
+      "code": "FCUP-FEG4014",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/organizacao-escolar/2959331"
+    },
+    {
+      "name": "Ortodontia I",
+      "code": "FMDUP-MD3608",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/ortodontia-i/2677379"
+    },
+    {
+      "name": "Ortodontia III",
+      "code": "FMDUP-MD4809",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/ortodontia-iii/2677390"
+    },
+    {
+      "name": "Ótica",
+      "code": "FCUP-FIS3014",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/otica/2676604"
+    },
+    {
+      "name": "Parasitologia",
+      "code": "FFUP-MI074130",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/parasitologia/2677111"
+    },
+    {
+      "name": "Patologia Clínica e Medicina Laboratorial",
+      "code": "FMUP-OPT82",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/patologia-clinica-e-medicina-laboratorial/2677511"
+    },
+    {
+      "name": "Patologia e Dietoterapia I",
+      "code": null,
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/patologia-e-dietoterapia-i/7628115"
+    },
+    {
+      "name": "Patologia Geral",
+      "code": "ICBAS-MV227",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/patologia-geral/2677581"
+    },
+    {
+      "name": "Pediatria",
+      "code": "ICBAS-MIM5M07P",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/pediatria/2677574"
+    },
+    {
+      "name": "Pedologia e Hidrologia",
+      "code": "FCUP-G183",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/pedologia-e-hidrologia/2959739"
+    },
+    {
+      "name": "People Management",
+      "code": "FEP-2GE05",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/people-management/3505491"
+    },
+    {
+      "name": "Perceção e Atenção",
+      "code": "FPCEUP-P211",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/percecao-e-atencao/2958255"
+    },
+    {
+      "name": "Periodontologia II",
+      "code": "FMDUP-MD4709",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/periodontologia-ii/2677385"
+    },
+    {
+      "name": "Periodontologia III",
+      "code": "FMDUP-MD4810",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/periodontologia-iii/2989055"
+    },
+    {
+      "name": "Pescas",
+      "code": "FCUP-BIOL 4027",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/pescas/2676488"
+    },
+    {
+      "name": "Petrologia",
+      "code": "FEUP-EMG0014",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/petrologia/2676955"
+    },
+    {
+      "name": "Petrologia Sedimentar",
+      "code": "FCUP-GEOL2008",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/petrologia-sedimentar/2959485"
+    },
+    {
+      "name": "Petrologia Ígnea",
+      "code": "FCUP-GEOL1004",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/petrologia-ignea/2959355"
+    },
+    {
+      "name": "Physical Chemistry of Solid State",
+      "code": "FCUP-PCSS-1718",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/physical-chemistry-of-solid-state/2676662"
+    },
+    {
+      "name": "Planeamento e Ordenamento do Território",
+      "code": "FEUP-EA0076",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/planeamento-e-ordenamento-do-territorio/2676778"
+    },
+    {
+      "name": "Plasticidade Neuronial e Cognição",
+      "code": "FMUP-MeN04",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/plasticidade-neuronial-e-cognicao/2677418"
+    },
+    {
+      "name": "Políticas Urbanas e Metropolitanas",
+      "code": "MPPU002",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/politicas-urbanas-e-metropolitanas/4543176"
+    },
+    {
+      "name": "portugues",
+      "code": "pt801",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/portugues/4362369"
+    },
+    {
+      "name": "Português Língua Estrangeira",
+      "code": null,
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/portugues-lingua-estrangeira/6814914"
+    },
+    {
+      "name": "Preservação da Informação",
+      "code": "FLUP-CINF048",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/preservacao-da-informacao/2951927"
+    },
+    {
+      "name": "Primeiros Socorros",
+      "code": "FFUP-MI073285",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/primeiros-socorros/2677110"
+    },
+    {
+      "name": "Princípios e Paradigmas de Engenharia de Software",
+      "code": "FEUP-MESW0001",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/principios-e-paradigmas-de-engenharia-de-software/2677032"
+    },
+    {
+      "name": "Princípios e Técnicas de Gestão",
+      "code": "GESTÃO",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/principios-e-tecnicas-de-gestao/5128522"
+    },
+    {
+      "name": "Problemáticas de Política Internacional",
+      "code": "FLUP-MHRIC042",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/problematicas-de-politica-internacional/2677317"
+    },
+    {
+      "name": "Processamento Digital de Sinal",
+      "code": "FEUP-EEC0026",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/processamento-digital-de-sinal/2676832"
+    },
+    {
+      "name": "Processos de Fabrico II",
+      "code": "FEUP-EM0035",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/processos-de-fabrico-ii/2676935"
+    },
+    {
+      "name": "Produção de Materiais Didáticos em Português *",
+      "code": "FLUP-MEP002",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/producao-de-materiais-didaticos-em-portugues/2677302"
+    },
+    {
+      "name": "Produção e Revisão de Textos",
+      "code": "FLUP-MTSL048",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/producao-e-revisao-de-textos/2677348"
+    },
+    {
+      "name": "Produção Oral e Escrita de Alemão I",
+      "code": "FLUP-LLC113",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/producao-oral-e-escrita-de-alemao-i/2677259"
+    },
+    {
+      "name": "Profissionalidade Pedagógica",
+      "code": "FADEUP-EEF23",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/profissionalidade-pedagogica/2676379"
+    },
+    {
+      "name": "Programação",
+      "code": "FEUP-EIC0012",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/programacao/2676870"
+    },
+    {
+      "name": "Programação 1",
+      "code": "FEUP-EEC0005",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/programacao-1/2676828"
+    },
+    {
+      "name": "Programação e Métodos Numéricos",
+      "code": "FEUP-EQ0065",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/programacao-e-metodos-numericos/2933678"
+    },
+    {
+      "name": "Programação II",
+      "code": "FCUP-CC1022",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/programacao-ii/2676517"
+    },
+    {
+      "name": "Projecto 4",
+      "code": "FAUP-400401",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/projecto-4/2676392"
+    },
+    {
+      "name": "Projecto Mineiro Integrado",
+      "code": "FEUP-MEMG0008",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/projecto-mineiro-integrado/2677018"
+    },
+    {
+      "name": "Projeto",
+      "code": "FCUP-DID5000",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/projeto/2676552"
+    },
+    {
+      "name": "Projeto - Jornalismo",
+      "code": "FLUP-CC063",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/projeto-jornalismo/2677172"
+    },
+    {
+      "name": "Projeto - Técnicas de Construção",
+      "code": "FCUP-AP2002",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/projeto-tecnicas-de-construcao/2676472"
+    },
+    {
+      "name": "Projeto de Investigação",
+      "code": "FCNAUP-DCCAN04",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/projeto-de-investigacao/2676456"
+    },
+    {
+      "name": "Projeto de Sistemas de Telecomunicações",
+      "code": "FEUP-EEC0154",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/projeto-de-sistemas-de-telecomunicacoes/2676865"
+    },
+    {
+      "name": "Projeto de tese",
+      "code": "FMUP-PDCF52",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/projeto-de-tese/2677515"
+    },
+    {
+      "name": "Projeto em Segurança e Higiene Ocupacionais",
+      "code": "FEUP-MESHO0022",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/projeto-em-seguranca-e-higiene-ocupacionais/2677029"
+    },
+    {
+      "name": "Projeto FEUP",
+      "code": "FEUP-FEUP002",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/projeto-feup/2676994"
+    },
+    {
+      "name": "Projetos de Investimento",
+      "code": null,
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/projetos-de-investimento/6282178"
+    },
+    {
+      "name": "Propedêutica Médica I",
+      "code": "FMUP-MI322",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/propedeutica-medica-i/2677439"
+    },
+    {
+      "name": "Proteção das Culturas",
+      "code": "FCUP-CA4009",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/protecao-das-culturas/2676511"
+    },
+    {
+      "name": "Prova de Diagnóstico",
+      "code": "FLUP-PD01",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/prova-de-diagnostico/2677349"
+    },
+    {
+      "name": "Práticas Laboratoriais de Neuropsicofisiologia",
+      "code": "FPCEUP-P205",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/praticas-laboratoriais-de-neuropsicofisiologia/2959365"
+    },
+    {
+      "name": "Práticas Lúdicas na Infância",
+      "code": "FADEUP-640",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/praticas-ludicas-na-infancia/2676372"
+    },
+    {
+      "name": "Prótese Fixa I",
+      "code": "FMDUP-MD3507",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/protese-fixa-i/2959345"
+    },
+    {
+      "name": "Prótese Fixa II",
+      "code": "FMDUP-MD4710",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/protese-fixa-ii/2677386"
+    },
+    {
+      "name": "Prótese Fixa III",
+      "code": "FMDUP-MD4811",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/protese-fixa-iii/2677391"
+    },
+    {
+      "name": "Prótese Removível IV",
+      "code": "FMDUP-MD5911",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/protese-removivel-iv/2677399"
+    },
+    {
+      "name": "Psicofisiologia",
+      "code": "P200",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/psicofisiologia/2952642"
+    },
+    {
+      "name": "Psicologia Comunitária",
+      "code": "FPCEUP-P604",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/psicologia-comunitaria/2950849"
+    },
+    {
+      "name": "Psicologia da Aprendizagem",
+      "code": "FPCEUP-P104",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/psicologia-da-aprendizagem/2677535"
+    },
+    {
+      "name": "Psicologia da Educação",
+      "code": "FPCEUP-P601",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/psicologia-da-educacao/2959478"
+    },
+    {
+      "name": "Psicologia da Educação",
+      "code": "FLUP-MEG001",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/psicologia-da-educacao/2677278"
+    },
+    {
+      "name": "Psicologia da Linguagem",
+      "code": "FPCEUP-P400",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/psicologia-da-linguagem/2677542"
+    },
+    {
+      "name": "Psicologia da Memória",
+      "code": "FPCEUP-P201",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/psicologia-da-memoria/2677538"
+    },
+    {
+      "name": "Psicologia da Motivação",
+      "code": "FPCEUP-P402",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/psicologia-da-motivacao/2959358"
+    },
+    {
+      "name": "Psicologia das Organizações",
+      "code": "FPCEUP-P302",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/psicologia-das-organizacoes/2677540"
+    },
+    {
+      "name": "Psicologia Diferencial da Inteligência e da Personalidade",
+      "code": "FPCEUP-P203",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/psicologia-diferencial-da-inteligencia-e-da-personalidade/2958270"
+    },
+    {
+      "name": "Psicologia do Comportamento Desviante",
+      "code": "FPCEUP-P403",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/psicologia-do-comportamento-desviante/2959488"
+    },
+    {
+      "name": "Psicologia do Desenvolvimento",
+      "code": "FCUP-FEG4012",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/psicologia-do-desenvolvimento/2959336"
+    },
+    {
+      "name": "Psicologia do Desenvolvimento da Criança",
+      "code": "FPCEUP-P209",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/psicologia-do-desenvolvimento-da-crianca/2960180"
+    },
+    {
+      "name": "Psicologia do Desenvolvimento do Adolescente",
+      "code": "FPCEUP-P409",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/psicologia-do-desenvolvimento-do-adolescente/2958315"
+    },
+    {
+      "name": "Psicologia do Desenvolvimento do Adulto e do Idoso",
+      "code": "FPCEUP-P500",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/psicologia-do-desenvolvimento-do-adulto-e-do-idoso/2958384"
+    },
+    {
+      "name": "Psicologia do Pensamento",
+      "code": "FPCEUP-P300",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/psicologia-do-pensamento/2677539"
+    },
+    {
+      "name": "Psicologia do Trabalho",
+      "code": "FPCEUP-P501",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/psicologia-do-trabalho/2677544"
+    },
+    {
+      "name": "Psicologia e Diversidade Socio-Cultural",
+      "code": "P414",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/psicologia-e-diversidade-socio-cultural/2952638"
+    },
+    {
+      "name": "Psicologia e Emoções",
+      "code": "FPCEUP-P825",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/psicologia-e-emocoes/2677548"
+    },
+    {
+      "name": "Psicologia I",
+      "code": "FMDUP-MD2308",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/psicologia-i/2677369"
+    },
+    {
+      "name": "Psicologia II",
+      "code": "FMDUP-MD2409",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/psicologia-ii/2677373"
+    },
+    {
+      "name": "Psicologia Social",
+      "code": "FLUP-SOCI016",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/psicologia-social/2677352"
+    },
+    {
+      "name": "Psicologia Social",
+      "code": "P301",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/psicologia-social/2952639"
+    },
+    {
+      "name": "Psicologia Social Aplicada",
+      "code": "FPCEUP-P510",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/psicologia-social-aplicada/2959482"
+    },
+    {
+      "name": "Psicometria e Teoria da Avaliação Psicologica",
+      "code": "LPSI203",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/psicometria-e-teoria-da-avaliacao-psicologica/6513764"
+    },
+    {
+      "name": "Psicopatologia da Criança e do Adolescente",
+      "code": "FPCEUP-P503",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/psicopatologia-da-crianca-e-do-adolescente/2959481"
+    },
+    {
+      "name": "Psicopatologia do Adulto e do Idoso",
+      "code": "FPCEUP-P600",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/psicopatologia-do-adulto-e-do-idoso/2959489"
+    },
+    {
+      "name": "Psicossociologia, Comunicação e Formação",
+      "code": "FEUP-MESHO100",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/psicossociologia-comunicacao-e-formacao/2677030"
+    },
+    {
+      "name": "Psiquiatria e Saúde Mental",
+      "code": "FMUP-MI525",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/psiquiatria-e-saude-mental/2677462"
+    },
+    {
+      "name": "Psiquiatria e Saúde Mental*",
+      "code": "FMUP-MI504",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/psiquiatria-e-saude-mental/2677456"
+    },
+    {
+      "name": "Quadro Jurídico-Legal dos Direitos, Proteção das Vítimas e Prevenção da Violência Doméstica e de Género",
+      "code": "FPCEUP-OP125",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/quadro-juridico-legal-dos-direitos-protecao-das-vitimas-e-prevencao-da-violencia-domestica-e-de-genero/2677533"
+    },
+    {
+      "name": "Questions of contemporary sociological theory",
+      "code": null,
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/questions-of-contemporary-sociological-theory/5907638"
+    },
+    {
+      "name": "Questões de Linguística do Texto e do Discurso",
+      "code": "FLUP-MLIN14",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/questoes-de-linguistica-do-texto-e-do-discurso/2677322"
+    },
+    {
+      "name": "Questões de Segurança I",
+      "code": "C202",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/questoes-de-seguranca-i/2959587"
+    },
+    {
+      "name": "Questões de Segurança II",
+      "code": "C300",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/questoes-de-seguranca-ii/2959588"
+    },
+    {
+      "name": "Quimica Org",
+      "code": null,
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/quimica-org/4532409"
+    },
+    {
+      "name": "Quimica Orgânica I feup",
+      "code": null,
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/quimica-organica-i-feup/4532411"
+    },
+    {
+      "name": "Química",
+      "code": "FCUP-Q1007",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/quimica/2676667"
+    },
+    {
+      "name": "Química Ambiental I",
+      "code": "EA0007",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/quimica-ambiental-i/4594708"
+    },
+    {
+      "name": "Química Analítica",
+      "code": "FCUP-Q2019",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/quimica-analitica/2676683"
+    },
+    {
+      "name": "Química Analítica*",
+      "code": "FCUP-EQ253",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/quimica-analitica/2676581"
+    },
+    {
+      "name": "Química Bioanalítica",
+      "code": "FCUP-Q4009",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/quimica-bioanalitica/2676703"
+    },
+    {
+      "name": "Química Bioinorgânica",
+      "code": "FCUP-Q2017",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/quimica-bioinorganica/2676682"
+    },
+    {
+      "name": "Química Biológica",
+      "code": "FCUP-Q3002",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/quimica-biologica/2676685"
+    },
+    {
+      "name": "Química Biológica I",
+      "code": "ICBAS-MIM116",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/quimica-biologica-i/2960209"
+    },
+    {
+      "name": "Química Biológica II",
+      "code": "MV127",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/quimica-biologica-ii/4475780"
+    },
+    {
+      "name": "Química Computacional",
+      "code": "FCUP-Q4011",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/quimica-computacional/2676704"
+    },
+    {
+      "name": "Química dos Alimentos e Nutrição",
+      "code": "FCUP-Q2007",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/quimica-dos-alimentos-e-nutricao/2959380"
+    },
+    {
+      "name": "Química Farmacêutica I",
+      "code": "FFUP-MI072220",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/quimica-farmaceutica-i/2677100"
+    },
+    {
+      "name": "Química Farmacêutica II",
+      "code": "FFUP-MI073121",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/quimica-farmaceutica-ii/2677101"
+    },
+    {
+      "name": "Química Física",
+      "code": "FCUP-Q2009",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/quimica-fisica/2676676"
+    },
+    {
+      "name": "Química Física Aplicada",
+      "code": "FCUP-Q4012",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/quimica-fisica-aplicada/2676705"
+    },
+    {
+      "name": "Química Física Biológica*",
+      "code": "FCUP-Q2015",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/quimica-fisica-biologica/2676680"
+    },
+    {
+      "name": "Química I",
+      "code": "FCUP-Q1009",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/quimica-i/2676668"
+    },
+    {
+      "name": "Química II",
+      "code": "FCUP-Q1011",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/quimica-ii/2676670"
+    },
+    {
+      "name": "Química Inorgânica",
+      "code": "FCUP-Q2004",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/quimica-inorganica/2676673"
+    },
+    {
+      "name": "Química Nuclear e Radioquímica",
+      "code": "FCUP-Q3001",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/quimica-nuclear-e-radioquimica/2676684"
+    },
+    {
+      "name": "Química Orgânica",
+      "code": "FCUP-EQ243",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/quimica-organica/2676580"
+    },
+    {
+      "name": "Química Orgânica I",
+      "code": "MI071101",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/quimica-organica-i/6324401"
+    },
+    {
+      "name": "Química Orgânica I",
+      "code": "FCUP-Q1001",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/quimica-organica-i/2676663"
+    },
+    {
+      "name": "Química Orgânica II",
+      "code": "FCUP-Q2011",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/quimica-organica-ii/2676677"
+    },
+    {
+      "name": "Química Orgânica II",
+      "code": "FEUP-EQ0067",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/quimica-organica-ii/2947101"
+    },
+    {
+      "name": "Química Verde",
+      "code": "FCUP-AMB4009",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/quimica-verde/2676471"
+    },
+    {
+      "name": "Química, Materiais e Processos",
+      "code": "FEUP-EEC0141",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/quimica-materiais-e-processos/2676859"
+    },
+    {
+      "name": "Reabilitação de Edifícios",
+      "code": "FAUP-50119C5",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/reabilitacao-de-edificios/2676398"
+    },
+    {
+      "name": "Realidade Virtual e Aumentada",
+      "code": "FEUP-EIC0070",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/realidade-virtual-e-aumentada/2676887"
+    },
+    {
+      "name": "Recolha e Tratamento de Amostras",
+      "code": "FCUP-Q3005",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/recolha-e-tratamento-de-amostras/2676688"
+    },
+    {
+      "name": "Recursos Geológicos",
+      "code": "FCUP-GEOL3004",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/recursos-geologicos/2959337"
+    },
+    {
+      "name": "Recursos Informáticos e Métodos de Estudo",
+      "code": "FLUP-LA023",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/recursos-informaticos-e-metodos-de-estudo/2677241"
+    },
+    {
+      "name": "Redes de Computadores",
+      "code": "FEUP-EEC0033",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/redes-de-computadores/2676836"
+    },
+    {
+      "name": "Redes de Comunicação",
+      "code": "FCUP-CC3002",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/redes-de-comunicacao/2676519"
+    },
+    {
+      "name": "Redes de Transporte e Distribuição",
+      "code": "FEUP-EEC0104",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/redes-de-transporte-e-distribuicao/2970202"
+    },
+    {
+      "name": "Registos e Notariado",
+      "code": null,
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/registos-e-notariado/7489206"
+    },
+    {
+      "name": "Regulamentação de Medicamentos",
+      "code": "FFUP-TF07005",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/regulamentacao-de-medicamentos/2677146"
+    },
+    {
+      "name": "Relações Internacionais",
+      "code": "FLUP-CC040",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/relacoes-internacionais/2677162"
+    },
+    {
+      "name": "Relações Públicas",
+      "code": "FEP-CC041",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/relacoes-publicas/2960087"
+    },
+    {
+      "name": "Reparação e regeneração de tecidos",
+      "code": "M.BIO003",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/reparacao-e-regeneracao-de-tecidos/6035122"
+    },
+    {
+      "name": "Robótica Industrial",
+      "code": "FEUP-EM0106",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/robotica-industrial/2676945"
+    },
+    {
+      "name": "Robótica/Robótica Inteligente",
+      "code": "FEUP-EIC0071",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/roboticarobotica-inteligente/2676888"
+    },
+    {
+      "name": "Saúde Comunitária",
+      "code": "ICBAS",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/saude-comunitaria/2959340"
+    },
+    {
+      "name": "Segurança Contra Incêndios",
+      "code": "FEUP-MESHO0014",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/seguranca-contra-incendios/2677026"
+    },
+    {
+      "name": "Segurança e Higiene Ambiental",
+      "code": "FCUP-Q3017",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/seguranca-e-higiene-ambiental/2676694"
+    },
+    {
+      "name": "Segurança em Sistemas Informáticos",
+      "code": "FEUP-EIC0072",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/seguranca-em-sistemas-informaticos/2676889"
+    },
+    {
+      "name": "Seminário de Ciencias da Arte",
+      "code": "FBAUP-SCA411",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/seminario-de-ciencias-da-arte/2676434"
+    },
+    {
+      "name": "Seminário de Design I",
+      "code": "FBAUP-SDI211",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/seminario-de-design-i/2676435"
+    },
+    {
+      "name": "Seminário de Design II",
+      "code": "FBAUP-SDII211",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/seminario-de-design-ii/2676436"
+    },
+    {
+      "name": "Seminários",
+      "code": "FEP-2ECON06",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/seminarios/2676733"
+    },
+    {
+      "name": "Seminários conjuntos das UCs do 4º ano com a Anatomia Patológica",
+      "code": "FMUP-SeminarioAP",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/seminarios-conjuntos-das-ucs-do-4o-ano-com-a-anatomia-patologica/2677525"
+    },
+    {
+      "name": "Seminários de Higiene Ocupacional",
+      "code": "FEUP-MESHO0004",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/seminarios-de-higiene-ocupacional/2677023"
+    },
+    {
+      "name": "Seminários em Engenharia Biomédica",
+      "code": "FEUP-MEB0022",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/seminarios-em-engenharia-biomedica/2677010"
+    },
+    {
+      "name": "Semiologia Cirúrgica",
+      "code": "ICBAS-MV315",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/semiologia-cirurgica/2677583"
+    },
+    {
+      "name": "semiótica da comunicação",
+      "code": null,
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/semiotica-da-comunicacao/6666013"
+    },
+    {
+      "name": "Semântica Lexical",
+      "code": "FLUP-CL021",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/semantica-lexical/2677193"
+    },
+    {
+      "name": "Sensores e Atuadores",
+      "code": "FEUP-EIG0058",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/sensores-e-atuadores/2676925"
+    },
+    {
+      "name": "Sensores Químicos e Bioquímicos",
+      "code": "FCUP-Q3022",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/sensores-quimicos-e-bioquimicos/2676697"
+    },
+    {
+      "name": "Simulação Biomecânica",
+      "code": "FEUP-EBE0178",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/simulacao-biomecanica/2676790"
+    },
+    {
+      "name": "Simulação de Processos Tecnológicos",
+      "code": "FEUP-EM0078",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/simulacao-de-processos-tecnologicos/2676939"
+    },
+    {
+      "name": "Sinais e Eletrónica",
+      "code": "FEUP-EBE0016",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/sinais-e-eletronica/2676779"
+    },
+    {
+      "name": "Sinal e Imagem Médica*",
+      "code": "FMUP-IS14",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/sinal-e-imagem-medica/2677412"
+    },
+    {
+      "name": "Sistemas Computacionais e de Comunicação",
+      "code": "FEUP-CINF029",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/sistemas-computacionais-e-de-comunicacao/2676761"
+    },
+    {
+      "name": "Sistemas de Apoio à Decisão e Inteligência de Negócios",
+      "code": "FEP-2MADSAD08",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/sistemas-de-apoio-a-decisao-e-inteligencia-de-negocios/2676750"
+    },
+    {
+      "name": "Sistemas de Informação",
+      "code": "FEUP-EEC0076",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/sistemas-de-informacao/2676847"
+    },
+    {
+      "name": "Sistemas de Propulsão e Suspensão Automóvel",
+      "code": "FEUP-EM0081",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/sistemas-de-propulsao-e-suspensao-automovel/2676940"
+    },
+    {
+      "name": "Sistemas de Qualidade e Fiabilidade",
+      "code": "FEUP-EEC0090",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/sistemas-de-qualidade-e-fiabilidade/2676852"
+    },
+    {
+      "name": "Sistemas de Transportes",
+      "code": "FEUP-EC0087",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/sistemas-de-transportes/2676826"
+    },
+    {
+      "name": "Sistemas Dinâmicos e Optimização",
+      "code": "FEUP-EMG0017",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/sistemas-dinamicos-e-optimizacao/2676957"
+    },
+    {
+      "name": "Sistemas Distribuídos",
+      "code": "FEUP-EIC0036",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/sistemas-distribuidos/2676879"
+    },
+    {
+      "name": "Sistemas e Automação",
+      "code": "FEUP-EEC0136",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/sistemas-e-automacao/2676857"
+    },
+    {
+      "name": "Sistemas Eletromecânicos",
+      "code": "FEUP-EM0102",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/sistemas-eletromecanicos/2676943"
+    },
+    {
+      "name": "Sistemas Eletrónicos",
+      "code": "FEUP-EEC0152",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/sistemas-eletronicos/2676863"
+    },
+    {
+      "name": "Sistemas Estruturais",
+      "code": "FAUP-400404",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/sistemas-estruturais/2676393"
+    },
+    {
+      "name": "Sistemas Operativos",
+      "code": "FEUP-EEC0139",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/sistemas-operativos/2676858"
+    },
+    {
+      "name": "Sociedade da Informação",
+      "code": "FEUP-MCI0002",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/sociedade-da-informacao/2676997"
+    },
+    {
+      "name": "sociedade, genero e poder",
+      "code": "41105",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/sociedade-genero-e-poder/5670361"
+    },
+    {
+      "name": "Sociologia da Comunicação e dos Media",
+      "code": "FLUP-SOCI046",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/sociologia-da-comunicacao-e-dos-media/2677354"
+    },
+    {
+      "name": "Sociologia da Comunicação e dos Média",
+      "code": "FLUP0490",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/sociologia-da-comunicacao-e-dos-media/2933478"
+    },
+    {
+      "name": "Sociologia da Família e do Género",
+      "code": "FLUP-SOCI027",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/sociologia-da-familia-e-do-genero/2677353"
+    },
+    {
+      "name": "Sociologia das Organizações",
+      "code": "FEP-1GE103",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/sociologia-das-organizacoes/2960193"
+    },
+    {
+      "name": "Sociologia do Trabalho",
+      "code": "FLUP-SOCI037",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/sociologia-do-trabalho/2959352"
+    },
+    {
+      "name": "sociologia e demografia do env",
+      "code": null,
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/sociologia-e-demografia-do-env/6808798"
+    },
+    {
+      "name": "sociologia economica",
+      "code": null,
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/sociologia-economica/5739203"
+    },
+    {
+      "name": "Sociologia Médica",
+      "code": "ICBAS-MIM116",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/sociologia-medica/2960210"
+    },
+    {
+      "name": "Sociologia Urbana e Rural",
+      "code": null,
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/sociologia-urbana-e-rural/6212927"
+    },
+    {
+      "name": "Solicitadoria",
+      "code": null,
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/solicitadoria/6316647"
+    },
+    {
+      "name": "Tecnologia Farmacêutica I",
+      "code": "FFUP-MI072219",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/tecnologia-farmaceutica-i/2677099"
+    },
+    {
+      "name": "Tecnologia Farmacêutica II",
+      "code": "FFUP-MI073124",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/tecnologia-farmaceutica-ii/2677104"
+    },
+    {
+      "name": "Tecnologia Farmacêutica III",
+      "code": "FFUP-MI073228",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/tecnologia-farmaceutica-iii/2677105"
+    },
+    {
+      "name": "Tecnologia Multimédia",
+      "code": "FEUP-CINF034",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/tecnologia-multimedia/2676762"
+    },
+    {
+      "name": "Tecnologias da Informação e Comunicação",
+      "code": "FMDUP-MD1207",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/tecnologias-da-informacao-e-comunicacao/2677365"
+    },
+    {
+      "name": "Tecnologias de Informação e Comunicação",
+      "code": null,
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/tecnologias-de-informacao-e-comunicacao/4412031"
+    },
+    {
+      "name": "Tecnologias de Ligação",
+      "code": "FEUP-EMM0046",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/tecnologias-de-ligacao/2676980"
+    },
+    {
+      "name": "Tecnologias Web",
+      "code": "FEUP-MM0047",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/tecnologias-web/2677054"
+    },
+    {
+      "name": "Temas Actuais em Nutrição",
+      "code": "FCNAUP-NC1204",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/temas-actuais-em-nutricao/2676459"
+    },
+    {
+      "name": "Teoria",
+      "code": "T2020",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/teoria/4408955"
+    },
+    {
+      "name": "Teoria 2 de 3º ANO",
+      "code": "300303",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/teoria-2-de-3o-ano/4407602"
+    },
+    {
+      "name": "Teoria da Comunicação",
+      "code": "FEUP-PDMD004",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/teoria-da-comunicacao/2677068"
+    },
+    {
+      "name": "Teoria de Anéis e Aplicações",
+      "code": "FCUP-M2012",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/teoria-de-aneis-e-aplicacoes/2676627"
+    },
+    {
+      "name": "Teoria de Grupos",
+      "code": "FCUP-M2025",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/teoria-de-grupos/2676632"
+    },
+    {
+      "name": "Teoria de Números e Aplicações",
+      "code": "FCUP-M3015",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/teoria-de-numeros-e-aplicacoes/2676640"
+    },
+    {
+      "name": "Teoria e História de Género, Corpo e Violência",
+      "code": "FPCEUP-DE126",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/teoria-e-historia-de-genero-corpo-e-violencia/2677526"
+    },
+    {
+      "name": "Teoria e Metodologia da Ciência da Informação",
+      "code": "FLUP-CINF035",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/teoria-e-metodologia-da-ciencia-da-informacao/2677179"
+    },
+    {
+      "name": "Teoria e Prática da Pedagogia em Engenharia",
+      "code": "FEUP-TPPE01P",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/teoria-e-pratica-da-pedagogia-em-engenharia/2677084"
+    },
+    {
+      "name": "Teoria e Sistemas de Inovação",
+      "code": "2EGIN04",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/teoria-e-sistemas-de-inovacao/5924058"
+    },
+    {
+      "name": "Teoria e Tipologia das Fontes em História",
+      "code": null,
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/teoria-e-tipologia-das-fontes-em-historia/5133991"
+    },
+    {
+      "name": "Teoria Geral do Direito Civil",
+      "code": "D230",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/teoria-geral-do-direito-civil/2959776"
+    },
+    {
+      "name": "Teoria Quântica de Campo",
+      "code": "F4015",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/teoria-quantica-de-campo/4455980"
+    },
+    {
+      "name": "Teorias da Comunicação",
+      "code": "FLUP-CC050",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/teorias-da-comunicacao/2677163"
+    },
+    {
+      "name": "Terapia ocupacional",
+      "code": null,
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/terapia-ocupacional/7740552"
+    },
+    {
+      "name": "Teriogenologia I",
+      "code": "ICBAS-MV514",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/teriogenologia-i/2677587"
+    },
+    {
+      "name": "Termodinâmica",
+      "code": "FCUP-EQ223",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/termodinamica/2676579"
+    },
+    {
+      "name": "Termodinâmica",
+      "code": "FEUP-EIG0057",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/termodinamica/2958100"
+    },
+    {
+      "name": "Termodinâmica I",
+      "code": "FEUP-EM0019",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/termodinamica-i/2676930"
+    },
+    {
+      "name": "Território e Sociedade",
+      "code": "FLUP-GEOGR073",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/territorio-e-sociedade/2677220"
+    },
+    {
+      "name": "Tese de Doutoramento",
+      "code": "ICBAS-ENF02",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/tese-de-doutoramento/2677562"
+    },
+    {
+      "name": "Tese de Mestrado em Psicologia Clínica e da Saúde",
+      "code": null,
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/tese-de-mestrado-em-psicologia-clinica-e-da-saude/6543314"
+    },
+    {
+      "name": "Teste e Qualidade de Software",
+      "code": "FEUP-PRODEI013",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/teste-e-qualidade-de-software/2677078"
+    },
+    {
+      "name": "Texto Crítico",
+      "code": "FBAUP-MEATC",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/texto-critico/2676429"
+    },
+    {
+      "name": "Tic no Ensino da Geografia I",
+      "code": "FLUP-MEG014",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/tic-no-ensino-da-geografia-i/2677284"
+    },
+    {
+      "name": "Toxicologia e Análises Toxicológicas",
+      "code": "FFUP-MI075142",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/toxicologia-e-analises-toxicologicas/2677128"
+    },
+    {
+      "name": "Trabalho, Economia e Justiça Social",
+      "code": "FPCEUP-E607",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/trabalho-economia-e-justica-social/2677531"
+    },
+    {
+      "name": "Trabalhos Práticos",
+      "code": "FEUP-MEB0024",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/trabalhos-praticos/2677011"
+    },
+    {
+      "name": "Tradução Geral Português_Espanhol",
+      "code": "FLUP-LA034",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/traducao-geral-portugues-espanhol/2677246"
+    },
+    {
+      "name": "Transferência de Calor",
+      "code": "FEUP-EM0037",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/transferencia-de-calor/2676936"
+    },
+    {
+      "name": "tratamento de minerio e residuos",
+      "code": "TMR1",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/tratamento-de-minerio-e-residuos/6783308"
+    },
+    {
+      "name": "Tratamento de Águas e Efluentes",
+      "code": "ICBAS-MA324",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/tratamento-de-aguas-e-efluentes/2677566"
+    },
+    {
+      "name": "Traumatologia do desporto",
+      "code": "FMUP-MD13",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/traumatologia-do-desporto/2677415"
+    },
+    {
+      "name": "Tributação e Comércio Internacional",
+      "code": "MD145",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/tributacao-e-comercio-internacional/7279479"
+    },
+    {
+      "name": "Técnicas de Comunicação no Desenvolvimento de Práticas de Divulgação das Ciências",
+      "code": "FCUP-DC612",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/tecnicas-de-comunicacao-no-desenvolvimento-de-praticas-de-divulgacao-das-ciencias/2676540"
+    },
+    {
+      "name": "Técnicas de Expressão Jornalística I- Audiovisual",
+      "code": "FLUP-CC052",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/tecnicas-de-expressao-jornalistica-i-audiovisual/2677165"
+    },
+    {
+      "name": "Técnicas de Expressão Jornalística I- Online",
+      "code": "FLUP-CC054",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/tecnicas-de-expressao-jornalistica-i-online/2677166"
+    },
+    {
+      "name": "Técnicas de Expressão Jornalística II- Audiovisual",
+      "code": "FLUP-CC057",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/tecnicas-de-expressao-jornalistica-ii-audiovisual/2677168"
+    },
+    {
+      "name": "Técnicas de Gestão de Espaços Verdes",
+      "code": "FCUP-AP2005",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/tecnicas-de-gestao-de-espacos-verdes/2951130"
+    },
+    {
+      "name": "Técnicas de Promoção da Saúde",
+      "code": "FMUP-OPT154",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/tecnicas-de-promocao-da-saude/2677487"
+    },
+    {
+      "name": "Técnicas de Remediação de Solos",
+      "code": "FCUP-AMB4005",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/tecnicas-de-remediacao-de-solos/2676469"
+    },
+    {
+      "name": "Tópicos Avançados em Data Science",
+      "code": "FCUP-CC4049",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/topicos-avancados-em-data-science/2676534"
+    },
+    {
+      "name": "Tópicos de Análise Numérica",
+      "code": "FCUP-M6053",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/topicos-de-analise-numerica/2676659"
+    },
+    {
+      "name": "Tópicos de Matemática Aplicada",
+      "code": "FCUP-M4028",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/topicos-de-matematica-aplicada/2676645"
+    },
+    {
+      "name": "Unidade Clínica de Medicina Dentária Conservadora",
+      "code": "FMDUP-MD51005",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/unidade-clinica-de-medicina-dentaria-conservadora/2677393"
+    },
+    {
+      "name": "Unidade Clínica de Odontopediatria e Ortodontia",
+      "code": "FMDUP-MD51007",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/unidade-clinica-de-odontopediatria-e-ortodontia/3733785"
+    },
+    {
+      "name": "Unidade Clínica de Patologia e Cirurgia Oral",
+      "code": "FMDUP-MD51004",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/unidade-clinica-de-patologia-e-cirurgia-oral/3733784"
+    },
+    {
+      "name": "Unidade de Projeto",
+      "code": "FMDUP-EENDO11",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/unidade-de-projeto/2677359"
+    },
+    {
+      "name": "Urbanismo",
+      "code": null,
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/urbanismo/3730966"
+    },
+    {
+      "name": "Urbanística",
+      "code": "AP2001",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/urbanistica/2933838"
+    },
+    {
+      "name": "Virologia",
+      "code": "FFUP-MI074237",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/virologia/2677119"
+    },
+    {
+      "name": "Visão por Computador",
+      "code": "FEUP-EIC0104",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/visao-por-computador/2676902"
+    },
+    {
+      "name": "Vitimologia I",
+      "code": "C201",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/vitimologia-i/2959590"
+    },
+    {
+      "name": "Vídeo II",
+      "code": "FBAUP-VD502",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/video-ii/2955324"
+    },
+    {
+      "name": "Web Design I",
+      "code": "FBAUP-WD302",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/web-design-i/2676437"
+    },
+    {
+      "name": "Web Design II",
+      "code": "FBAUP-WD502",
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/web-design-ii/2676438"
+    },
+    {
+      "name": "zoologia",
+      "code": null,
+      "url": "https://www.studocu.com/pt/course/universidade-do-porto/zoologia/4473373"
+    }
+  ]
+}

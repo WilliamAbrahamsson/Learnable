@@ -1,0 +1,551 @@
+{
+  "university_id": "6950",
+  "university_name": "Universidad del Valle de Puebla",
+  "courses": [
+    {
+      "name": "Administración contemporanea",
+      "code": "Administración",
+      "url": "https://www.studocu.com/es-mx/course/universidad-del-valle-de-puebla/administracion-contemporanea/4509200"
+    },
+    {
+      "name": "Agentes Físicos",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-del-valle-de-puebla/agentes-fisicos/3265954"
+    },
+    {
+      "name": "Algebra Matricial",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-del-valle-de-puebla/algebra-matricial/6202608"
+    },
+    {
+      "name": "Anatomia",
+      "code": "Cirujano Dentista",
+      "url": "https://www.studocu.com/es-mx/course/universidad-del-valle-de-puebla/anatomia/3732501"
+    },
+    {
+      "name": "Anatomía y Fisiología",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-del-valle-de-puebla/anatomia-y-fisiologia/4912872"
+    },
+    {
+      "name": "Antropología de la alimentaciòn",
+      "code": "Nutrición",
+      "url": "https://www.studocu.com/es-mx/course/universidad-del-valle-de-puebla/antropologia-de-la-alimentacion/4330044"
+    },
+    {
+      "name": "antropología filosófica",
+      "code": "antropología",
+      "url": "https://www.studocu.com/es-mx/course/universidad-del-valle-de-puebla/antropologia-filosofica/5798703"
+    },
+    {
+      "name": "Análisis y Diseño de Contenidos",
+      "code": "Comunicación 123",
+      "url": "https://www.studocu.com/es-mx/course/universidad-del-valle-de-puebla/analisis-y-diseno-de-contenidos/5343305"
+    },
+    {
+      "name": "Arquitectura Mexicana",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-del-valle-de-puebla/arquitectura-mexicana/6438121"
+    },
+    {
+      "name": "Artes y Humanidades",
+      "code": "tipografía",
+      "url": "https://www.studocu.com/es-mx/course/universidad-del-valle-de-puebla/artes-y-humanidades/6804496"
+    },
+    {
+      "name": "Bases culinarias",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-del-valle-de-puebla/bases-culinarias/7112096"
+    },
+    {
+      "name": "Bioestadística",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-del-valle-de-puebla/bioestadistica/7693291"
+    },
+    {
+      "name": "biologia",
+      "code": "23err",
+      "url": "https://www.studocu.com/es-mx/course/universidad-del-valle-de-puebla/biologia/4742410"
+    },
+    {
+      "name": "Bioquímica.",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-del-valle-de-puebla/bioquimica/5726668"
+    },
+    {
+      "name": "Calculo dietetico",
+      "code": "122211",
+      "url": "https://www.studocu.com/es-mx/course/universidad-del-valle-de-puebla/calculo-dietetico/6511679"
+    },
+    {
+      "name": "Cardiologia",
+      "code": "Cardiologia I",
+      "url": "https://www.studocu.com/es-mx/course/universidad-del-valle-de-puebla/cardiologia/5419746"
+    },
+    {
+      "name": "Ciencias Políticas",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-del-valle-de-puebla/ciencias-politicas/3235204"
+    },
+    {
+      "name": "Cinematografía",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-del-valle-de-puebla/cinematografia/6389368"
+    },
+    {
+      "name": "competencias de la comunicación",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-del-valle-de-puebla/competencias-de-la-comunicacion/4470623"
+    },
+    {
+      "name": "competencias digitales",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-del-valle-de-puebla/competencias-digitales/6496663"
+    },
+    {
+      "name": "Comportamiento del Consumidor",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-del-valle-de-puebla/comportamiento-del-consumidor/5443860"
+    },
+    {
+      "name": "Comunicación Oral y Escrita",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-del-valle-de-puebla/comunicacion-oral-y-escrita/7483329"
+    },
+    {
+      "name": "contabilidad de costos",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-del-valle-de-puebla/contabilidad-de-costos/4824096"
+    },
+    {
+      "name": "Contabilidad financiera",
+      "code": "Contabilidad",
+      "url": "https://www.studocu.com/es-mx/course/universidad-del-valle-de-puebla/contabilidad-financiera/7630247"
+    },
+    {
+      "name": "Contratos",
+      "code": "Civil 2",
+      "url": "https://www.studocu.com/es-mx/course/universidad-del-valle-de-puebla/contratos/4737121"
+    },
+    {
+      "name": "Criminología Clínica",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-del-valle-de-puebla/criminologia-clinica/6989238"
+    },
+    {
+      "name": "Derecho administrativo",
+      "code": "Derecho laboral 1",
+      "url": "https://www.studocu.com/es-mx/course/universidad-del-valle-de-puebla/derecho-administrativo/5794316"
+    },
+    {
+      "name": "Derecho de amparo 1",
+      "code": "amparo",
+      "url": "https://www.studocu.com/es-mx/course/universidad-del-valle-de-puebla/derecho-de-amparo-1/6881666"
+    },
+    {
+      "name": "Derecho económico y financiero de México",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-del-valle-de-puebla/derecho-economico-y-financiero-de-mexico/4941361"
+    },
+    {
+      "name": "Derecho Mercantil",
+      "code": "Negocios, Mercantil",
+      "url": "https://www.studocu.com/es-mx/course/universidad-del-valle-de-puebla/derecho-mercantil/6218143"
+    },
+    {
+      "name": "Derecho Procesal Penal, Objeto del proceso",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-del-valle-de-puebla/derecho-procesal-penal-objeto-del-proceso/4941342"
+    },
+    {
+      "name": "dibujo tecnico",
+      "code": "ia1",
+      "url": "https://www.studocu.com/es-mx/course/universidad-del-valle-de-puebla/dibujo-tecnico/5729320"
+    },
+    {
+      "name": "Didáctica",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-del-valle-de-puebla/didactica/6494082"
+    },
+    {
+      "name": "Diseñar para compartir",
+      "code": "123",
+      "url": "https://www.studocu.com/es-mx/course/universidad-del-valle-de-puebla/disenar-para-compartir/6794249"
+    },
+    {
+      "name": "ecuaciones",
+      "code": "mti2023",
+      "url": "https://www.studocu.com/es-mx/course/universidad-del-valle-de-puebla/ecuaciones/6336403"
+    },
+    {
+      "name": "Ecuaciones diferenciales",
+      "code": "MAT-196",
+      "url": "https://www.studocu.com/es-mx/course/universidad-del-valle-de-puebla/ecuaciones-diferenciales/4509468"
+    },
+    {
+      "name": "Electricidad",
+      "code": "Electricidad máquina",
+      "url": "https://www.studocu.com/es-mx/course/universidad-del-valle-de-puebla/electricidad/7584615"
+    },
+    {
+      "name": "Embriología e Histología Orofacial",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-del-valle-de-puebla/embriologia-e-histologia-orofacial/5361758"
+    },
+    {
+      "name": "Empatia para resolver",
+      "code": "Psicología",
+      "url": "https://www.studocu.com/es-mx/course/universidad-del-valle-de-puebla/empatia-para-resolver/5293092"
+    },
+    {
+      "name": "enfermeria en urgencias",
+      "code": "2003",
+      "url": "https://www.studocu.com/es-mx/course/universidad-del-valle-de-puebla/enfermeria-en-urgencias/7631102"
+    },
+    {
+      "name": "Enfermería en el adolescente",
+      "code": "adolescencia",
+      "url": "https://www.studocu.com/es-mx/course/universidad-del-valle-de-puebla/enfermeria-en-el-adolescente/4767873"
+    },
+    {
+      "name": "Enfermería quirúrgica",
+      "code": "Quirúrgica",
+      "url": "https://www.studocu.com/es-mx/course/universidad-del-valle-de-puebla/enfermeria-quirurgica/4784948"
+    },
+    {
+      "name": "Entidades Administrativas en Materia Económica, Dcho Económico y Financiero",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-del-valle-de-puebla/entidades-administrativas-en-materia-economica-dcho-economico-y-financiero/4941343"
+    },
+    {
+      "name": "Estrategia de aprendizaje y habilidad virtual",
+      "code": "aprendizaje laboral",
+      "url": "https://www.studocu.com/es-mx/course/universidad-del-valle-de-puebla/estrategia-de-aprendizaje-y-habilidad-virtual/6627006"
+    },
+    {
+      "name": "Estrategias de Plaza y Distribución",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-del-valle-de-puebla/estrategias-de-plaza-y-distribucion/5843173"
+    },
+    {
+      "name": "Estudio particular del delito",
+      "code": "PnEPD2024",
+      "url": "https://www.studocu.com/es-mx/course/universidad-del-valle-de-puebla/estudio-particular-del-delito/6969282"
+    },
+    {
+      "name": "etica profecional",
+      "code": "ingenieria civil",
+      "url": "https://www.studocu.com/es-mx/course/universidad-del-valle-de-puebla/etica-profecional/5473150"
+    },
+    {
+      "name": "farmacología",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-del-valle-de-puebla/farmacologia/4548691"
+    },
+    {
+      "name": "Finanzas Internacionales",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-del-valle-de-puebla/finanzas-internacionales/6313416"
+    },
+    {
+      "name": "Fisiopatologia",
+      "code": "123",
+      "url": "https://www.studocu.com/es-mx/course/universidad-del-valle-de-puebla/fisiopatologia/7746275"
+    },
+    {
+      "name": "Fotografía Digital",
+      "code": "Foto 123",
+      "url": "https://www.studocu.com/es-mx/course/universidad-del-valle-de-puebla/fotografia-digital/5808945"
+    },
+    {
+      "name": "Fundamentos de enfermería",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-del-valle-de-puebla/fundamentos-de-enfermeria/4886890"
+    },
+    {
+      "name": "Física mecánica",
+      "code": "FM1",
+      "url": "https://www.studocu.com/es-mx/course/universidad-del-valle-de-puebla/fisica-mecanica/4394410"
+    },
+    {
+      "name": "Gestión de la Calidad en los Negocios",
+      "code": "532XO14A2401",
+      "url": "https://www.studocu.com/es-mx/course/universidad-del-valle-de-puebla/gestion-de-la-calidad-en-los-negocios/6897221"
+    },
+    {
+      "name": "Gestión de la innovación",
+      "code": "mv02025",
+      "url": "https://www.studocu.com/es-mx/course/universidad-del-valle-de-puebla/gestion-de-la-innovacion/7623730"
+    },
+    {
+      "name": "ginecología y obstetricia",
+      "code": "medicina",
+      "url": "https://www.studocu.com/es-mx/course/universidad-del-valle-de-puebla/ginecologia-y-obstetricia/4539181"
+    },
+    {
+      "name": "Guionismo",
+      "code": "CC027",
+      "url": "https://www.studocu.com/es-mx/course/universidad-del-valle-de-puebla/guionismo/6479139"
+    },
+    {
+      "name": "Habilidad Aprendizaje",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-del-valle-de-puebla/habilidad-aprendizaje/6118034"
+    },
+    {
+      "name": "Historia de la Gastronomia",
+      "code": "Gastronomia",
+      "url": "https://www.studocu.com/es-mx/course/universidad-del-valle-de-puebla/historia-de-la-gastronomia/6340723"
+    },
+    {
+      "name": "Ingenieria y diseno de menú",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-del-valle-de-puebla/ingenieria-y-diseno-de-menu/6407016"
+    },
+    {
+      "name": "Ingeniería En Sistemas y Tecnologías de la Información",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-del-valle-de-puebla/ingenieria-en-sistemas-y-tecnologias-de-la-informacion/6387815"
+    },
+    {
+      "name": "Inglés V",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-del-valle-de-puebla/ingles-v/6398607"
+    },
+    {
+      "name": "Introduccion al sistema de la MOda",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-del-valle-de-puebla/introduccion-al-sistema-de-la-moda/6118029"
+    },
+    {
+      "name": "laboratorio",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-del-valle-de-puebla/laboratorio/4490353"
+    },
+    {
+      "name": "lectura y escritura",
+      "code": "1225444",
+      "url": "https://www.studocu.com/es-mx/course/universidad-del-valle-de-puebla/lectura-y-escritura/5158186"
+    },
+    {
+      "name": "Manejo de Fauna",
+      "code": "MF01",
+      "url": "https://www.studocu.com/es-mx/course/universidad-del-valle-de-puebla/manejo-de-fauna/7043039"
+    },
+    {
+      "name": "mercadotecnia",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-del-valle-de-puebla/mercadotecnia/4824035"
+    },
+    {
+      "name": "Mercantil",
+      "code": "2028",
+      "url": "https://www.studocu.com/es-mx/course/universidad-del-valle-de-puebla/mercantil/3387323"
+    },
+    {
+      "name": "metodos de confeccion",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-del-valle-de-puebla/metodos-de-confeccion/6118032"
+    },
+    {
+      "name": "Microbiología General",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-del-valle-de-puebla/microbiologia-general/6476745"
+    },
+    {
+      "name": "Microbiología y Parasitología Sa",
+      "code": "EN060",
+      "url": "https://www.studocu.com/es-mx/course/universidad-del-valle-de-puebla/microbiologia-y-parasitologia-sa/6609364"
+    },
+    {
+      "name": "Modelado",
+      "code": "246986213",
+      "url": "https://www.studocu.com/es-mx/course/universidad-del-valle-de-puebla/modelado/7399154"
+    },
+    {
+      "name": "Neonatología",
+      "code": "Enfermería",
+      "url": "https://www.studocu.com/es-mx/course/universidad-del-valle-de-puebla/neonatologia/4767825"
+    },
+    {
+      "name": "Odontología comunitaria",
+      "code": "Odontología",
+      "url": "https://www.studocu.com/es-mx/course/universidad-del-valle-de-puebla/odontologia-comunitaria/5253065"
+    },
+    {
+      "name": "Operatoria dental",
+      "code": "Operatoria dental 1",
+      "url": "https://www.studocu.com/es-mx/course/universidad-del-valle-de-puebla/operatoria-dental/6404372"
+    },
+    {
+      "name": "Orgánica ll",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-del-valle-de-puebla/organica-ll/6392597"
+    },
+    {
+      "name": "Patología Médica",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-del-valle-de-puebla/patologia-medica/6536207"
+    },
+    {
+      "name": "pediatria",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-del-valle-de-puebla/pediatria/4490352"
+    },
+    {
+      "name": "Pensamiento enfermero",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-del-valle-de-puebla/pensamiento-enfermero/4376135"
+    },
+    {
+      "name": "Periodismo digital",
+      "code": "perio 123",
+      "url": "https://www.studocu.com/es-mx/course/universidad-del-valle-de-puebla/periodismo-digital/6179521"
+    },
+    {
+      "name": "Practica Integradora",
+      "code": "3",
+      "url": "https://www.studocu.com/es-mx/course/universidad-del-valle-de-puebla/practica-integradora/4524699"
+    },
+    {
+      "name": "Primeros Auxilios",
+      "code": "Fisioterapia",
+      "url": "https://www.studocu.com/es-mx/course/universidad-del-valle-de-puebla/primeros-auxilios/4138203"
+    },
+    {
+      "name": "Principios químicos",
+      "code": "Bioquímica skwnjsnan",
+      "url": "https://www.studocu.com/es-mx/course/universidad-del-valle-de-puebla/principios-quimicos/6564997"
+    },
+    {
+      "name": "Probabilidad y Estadistica",
+      "code": "Matematicas",
+      "url": "https://www.studocu.com/es-mx/course/universidad-del-valle-de-puebla/probabilidad-y-estadistica/4550624"
+    },
+    {
+      "name": "propiedad intelectual",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-del-valle-de-puebla/propiedad-intelectual/7598455"
+    },
+    {
+      "name": "Psicología disfuncional",
+      "code": "Psic Disfuncional",
+      "url": "https://www.studocu.com/es-mx/course/universidad-del-valle-de-puebla/psicologia-disfuncional/4384467"
+    },
+    {
+      "name": "Psicometria",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-del-valle-de-puebla/psicometria/5792771"
+    },
+    {
+      "name": "Psicopatologia",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-del-valle-de-puebla/psicopatologia/6989237"
+    },
+    {
+      "name": "Psicoterapia Cognitivo Conductual",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-del-valle-de-puebla/psicoterapia-cognitivo-conductual/6848749"
+    },
+    {
+      "name": "Psiquiatria en enfermeria",
+      "code": "Psiquiatria",
+      "url": "https://www.studocu.com/es-mx/course/universidad-del-valle-de-puebla/psiquiatria-en-enfermeria/5083555"
+    },
+    {
+      "name": "Química 2",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-del-valle-de-puebla/quimica-2/5467666"
+    },
+    {
+      "name": "Recursos Humanos",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-del-valle-de-puebla/recursos-humanos/6739425"
+    },
+    {
+      "name": "Redacción e Investigación Documental",
+      "code": "Investigación Docume",
+      "url": "https://www.studocu.com/es-mx/course/universidad-del-valle-de-puebla/redaccion-e-investigacion-documental/5412650"
+    },
+    {
+      "name": "Repostería Básica",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-del-valle-de-puebla/reposteria-basica/7041161"
+    },
+    {
+      "name": "Salud publica",
+      "code": "6nt1",
+      "url": "https://www.studocu.com/es-mx/course/universidad-del-valle-de-puebla/salud-publica/6916478"
+    },
+    {
+      "name": "Sistema Juridico Contemporaneo",
+      "code": "Sistema Juridico I",
+      "url": "https://www.studocu.com/es-mx/course/universidad-del-valle-de-puebla/sistema-juridico-contemporaneo/5537653"
+    },
+    {
+      "name": "Sistemas de abastecimiento de agua potable",
+      "code": "Ag pot1",
+      "url": "https://www.studocu.com/es-mx/course/universidad-del-valle-de-puebla/sistemas-de-abastecimiento-de-agua-potable/6628612"
+    },
+    {
+      "name": "Sistemas de suspensión y dirección",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-del-valle-de-puebla/sistemas-de-suspension-y-direccion/6256360"
+    },
+    {
+      "name": "Sociología de la Comunicación",
+      "code": "123",
+      "url": "https://www.studocu.com/es-mx/course/universidad-del-valle-de-puebla/sociologia-de-la-comunicacion/6979908"
+    },
+    {
+      "name": "Solucionar para cambiar",
+      "code": "UVM 001",
+      "url": "https://www.studocu.com/es-mx/course/universidad-del-valle-de-puebla/solucionar-para-cambiar/6579746"
+    },
+    {
+      "name": "tecnologia de materiales",
+      "code": "ingenieriacivil",
+      "url": "https://www.studocu.com/es-mx/course/universidad-del-valle-de-puebla/tecnologia-de-materiales/5019323"
+    },
+    {
+      "name": "Teoria y Manejo del Color",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-del-valle-de-puebla/teoria-y-manejo-del-color/6118031"
+    },
+    {
+      "name": "terapia infantil",
+      "code": "Pedagogía",
+      "url": "https://www.studocu.com/es-mx/course/universidad-del-valle-de-puebla/terapia-infantil/7689563"
+    },
+    {
+      "name": "topografia",
+      "code": "0000",
+      "url": "https://www.studocu.com/es-mx/course/universidad-del-valle-de-puebla/topografia/4393018"
+    },
+    {
+      "name": "Transformacion de productos",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-del-valle-de-puebla/transformacion-de-productos/7112095"
+    },
+    {
+      "name": "Transformar para impactar",
+      "code": "Trans 123",
+      "url": "https://www.studocu.com/es-mx/course/universidad-del-valle-de-puebla/transformar-para-impactar/6179526"
+    },
+    {
+      "name": "Turismo Sustentable",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-del-valle-de-puebla/turismo-sustentable/4353250"
+    },
+    {
+      "name": "Técnicas de expresión en medios",
+      "code": "Tec 123",
+      "url": "https://www.studocu.com/es-mx/course/universidad-del-valle-de-puebla/tecnicas-de-expresion-en-medios/6179523"
+    },
+    {
+      "name": "Urbanismo",
+      "code": null,
+      "url": "https://www.studocu.com/es-mx/course/universidad-del-valle-de-puebla/urbanismo/6390243"
+    }
+  ]
+}

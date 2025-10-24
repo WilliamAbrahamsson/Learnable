@@ -1,4 +1,4 @@
-import { Canvas as FabricCanvas, Rect, Textbox, Group, Shadow, Image } from 'fabric';
+import { Canvas as FabricCanvas, Rect, Textbox, Group, Shadow, Image, Line, Path } from 'fabric';
 import * as fabric from 'fabric';
 import { CardData } from '@/types/canvas';
 import { FALLBACK_IMAGE_DATA_URL } from '@/constants/cardDefaults';
@@ -80,14 +80,12 @@ export const createCard = (
   ) => void
 ): Promise<Group | null> => {
   return new Promise((resolve) => {
-    // 🔹 Prevent duplicate card creation
     const existingGroup = cardGroupsRef.current.get(card.id);
     if (existingGroup) {
       resolve(existingGroup);
       return;
     }
 
-    // 🔹 Remove any lingering duplicate from canvas
     const duplicate = canvas.getObjects().find(
       (obj: any) => (obj as any).cardId === card.id
     );
@@ -99,7 +97,6 @@ export const createCard = (
 
     const finalizeCard = (group: Group, cardWidth: number, cardHeight: number) => {
       (group as any).cardId = card.id;
-      // Store dimensions and padding so connection handle math stays accurate on move
       (group as any).cardWidth = cardWidth;
       (group as any).cardHeight = cardHeight;
       (group as any).hoverPadding = HOVER_PADDING;
@@ -117,7 +114,7 @@ export const createCard = (
         const cardWidth = card.width ?? CARD_WIDTH;
         const cardHeight = card.height ?? CARD_HEIGHT;
 
-        const scale = Math.min(
+        const imgScale = Math.min(
           cardWidth / (img.width || cardWidth),
           cardHeight / (img.height || cardHeight)
         );
@@ -127,8 +124,8 @@ export const createCard = (
           top: 0,
           originX: 'left',
           originY: 'top',
-          scaleX: scale,
-          scaleY: scale,
+          scaleX: imgScale,
+          scaleY: imgScale,
           selectable: false,
           evented: false,
         });
@@ -150,7 +147,6 @@ export const createCard = (
 
         const hoverArea = createHoverArea(cardWidth, cardHeight, HOVER_PADDING);
 
-        // Edit button (top-right)
         const btnSize = 22;
         const btnPad = 8;
         const editBg = new Rect({
@@ -180,7 +176,6 @@ export const createCard = (
         });
         (editGlyph as any).isEditGlyph = true;
 
-        // Fact Check button (bottom-right)
         const factH = 22;
         const factW = 110;
         const factBg = new Rect({
@@ -210,18 +205,25 @@ export const createCard = (
             ],
           }));
         } catch {}
-        const factGlyph = new Textbox('✨', {
+
+        const iconScale = 16 / 24;
+        const p1 = new Path(
+          'M9.937 15.5A2 2 0 0 0 8.5 14.063l-6.135-1.582a.5.5 0 0 1 0-.962L8.5 9.936A2 2 0 0 0 9.937 8.5l1.582-6.135a.5.5 0 0 1 .963 0L14.063 8.5A2 2 0 0 0 15.5 9.937l6.135 1.581a.5.5 0 0 1 0 .964L15.5 14.063a2 2 0 0 0-1.437 1.437l-1.582 6.135a.5.5 0 0 1-.963 0z',
+          { fill: 'none', stroke: '#FFFFFF', strokeWidth: 2, strokeLineCap: 'round', strokeLineJoin: 'round', selectable: false, evented: false }
+        );
+        p1.set({ scaleX: iconScale, scaleY: iconScale });
+        const p2 = new Path('M20 3v4', { fill: 'none', stroke: '#FFFFFF', strokeWidth: 2 });
+        const p3 = new Path('M22 5h-4', { fill: 'none', stroke: '#FFFFFF', strokeWidth: 2 });
+        const p4 = new Path('M4 17v2', { fill: 'none', stroke: '#FFFFFF', strokeWidth: 2 });
+        const p5 = new Path('M5 18H3', { fill: 'none', stroke: '#FFFFFF', strokeWidth: 2 });
+        [p2, p3, p4, p5].forEach(p => p.set({ scaleX: iconScale, scaleY: iconScale }));
+        const factGlyph = new Group([p1, p2, p3, p4, p5], {
           left: cardWidth - factW - btnPad + 8,
-          top: cardHeight - factH - btnPad + 2,
-          width: 16,
-          height: factH - 4,
-          fontSize: 14,
-          fill: '#FFFFFF',
+          top: cardHeight - factH - btnPad + 4,
           selectable: false,
           evented: false,
           visible: false,
         });
-        (factGlyph as any).isFactCheckGlyph = true;
         const factLabel = new Textbox('Fact Check', {
           left: cardWidth - factW - btnPad + 28,
           top: cardHeight - factH - btnPad + 3,
@@ -235,14 +237,11 @@ export const createCard = (
           evented: false,
           visible: false,
         });
-        (factLabel as any).isFactCheckLabel = true;
 
         const cardGroup = new Group(
           [hoverArea, background, img, editBg, editGlyph, factBg, factGlyph, factLabel],
           baseGroupOptions(defaultX, defaultY)
         );
-
-        // Resizing disabled — no scaling handlers
 
         finalizeCard(cardGroup, cardWidth, cardHeight);
       };
@@ -313,7 +312,6 @@ export const createCard = (
       splitByGrapheme: true,
     });
 
-    // Edit button (top-right)
     const btnSize = 22;
     const btnPad = 8;
     const editBg = new Rect({
@@ -330,7 +328,6 @@ export const createCard = (
       evented: true,
       hoverCursor: 'pointer',
     });
-    (editBg as any).isEditButton = true;
     const editGlyph = new Textbox('✎', {
       left: cardWidth - btnSize - btnPad + 5,
       top: btnPad + 2,
@@ -341,9 +338,7 @@ export const createCard = (
       selectable: false,
       evented: false,
     });
-    (editGlyph as any).isEditGlyph = true;
 
-    // Fact Check button (bottom-right)
     const factH = 22;
     const factW = 110;
     const factBg = new Rect({
@@ -361,7 +356,6 @@ export const createCard = (
       hoverCursor: 'pointer',
       visible: false,
     });
-    (factBg as any).isFactCheckButton = true;
     try {
       (factBg as any).set('fill', new (fabric as any).Gradient({
         type: 'linear',
@@ -373,18 +367,27 @@ export const createCard = (
         ],
       }));
     } catch {}
-    const factGlyph = new Textbox('✨', {
+
+    const iconScale = 16 / 24;
+    const p1 = new Path(
+      'M9.937 15.5A2 2 0 0 0 8.5 14.063l-6.135-1.582a.5.5 0 0 1 0-.962L8.5 9.936A2 2 0 0 0 9.937 8.5l1.582-6.135a.5.5 0 0 1 .963 0L14.063 8.5A2 2 0 0 0 15.5 9.937l6.135 1.581a.5.5 0 0 1 0 .964L15.5 14.063a2 2 0 0 0-1.437 1.437l-1.582 6.135a.5.5 0 0 1-.963 0z',
+      { fill: 'none', stroke: '#FFFFFF', strokeWidth: 2 }
+    );
+    p1.set({ scaleX: iconScale, scaleY: iconScale });
+    const p2 = new Path('M20 3v4', { fill: 'none', stroke: '#FFFFFF', strokeWidth: 2 });
+    const p3 = new Path('M22 5h-4', { fill: 'none', stroke: '#FFFFFF', strokeWidth: 2 });
+    const p4 = new Path('M4 17v2', { fill: 'none', stroke: '#FFFFFF', strokeWidth: 2 });
+    const p5 = new Path('M5 18H3', { fill: 'none', stroke: '#FFFFFF', strokeWidth: 2 });
+    [p2, p3, p4, p5].forEach(p => p.set({ scaleX: iconScale, scaleY: iconScale }));
+
+    const factGlyph = new Group([p1, p2, p3, p4, p5], {
       left: cardWidth - factW - btnPad + 8,
-      top: cardHeight - factH - btnPad + 2,
-      width: 16,
-      height: factH - 4,
-      fontSize: 14,
-      fill: '#FFFFFF',
+      top: cardHeight - factH - btnPad + 4,
       selectable: false,
       evented: false,
       visible: false,
     });
-    (factGlyph as any).isFactCheckGlyph = true;
+
     const factLabel = new Textbox('Fact Check', {
       left: cardWidth - factW - btnPad + 28,
       top: cardHeight - factH - btnPad + 3,
@@ -398,14 +401,11 @@ export const createCard = (
       evented: false,
       visible: false,
     });
-    (factLabel as any).isFactCheckLabel = true;
 
     const cardGroup = new Group(
       [hoverArea, background, titleText, descText, editBg, editGlyph, factBg, factGlyph, factLabel],
       baseGroupOptions(defaultX, defaultY)
     );
-
-    // Resizing disabled — no scaling handlers for text cards
 
     cardGroup.on('mousedblclick', (e) => {
       const clickedObject = e.subTargets?.[0];

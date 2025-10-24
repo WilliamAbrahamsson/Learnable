@@ -1,0 +1,366 @@
+{
+  "university_id": "1646",
+  "university_name": "Université de Douala",
+  "courses": [
+    {
+      "name": "Anatomie",
+      "code": "ANA 101",
+      "url": "https://www.studocu.com/row/course/universite-de-douala/anatomie/7306673"
+    },
+    {
+      "name": "Anatomie palpatoire",
+      "code": "ANAT 301",
+      "url": "https://www.studocu.com/row/course/universite-de-douala/anatomie-palpatoire/7316421"
+    },
+    {
+      "name": "Approche Juridique du Management",
+      "code": "AJM-01",
+      "url": "https://www.studocu.com/row/course/universite-de-douala/approche-juridique-du-management/3040993"
+    },
+    {
+      "name": "Biochimie",
+      "code": "331709",
+      "url": "https://www.studocu.com/row/course/universite-de-douala/biochimie/5160994"
+    },
+    {
+      "name": "biologie cellulaire",
+      "code": "bio111",
+      "url": "https://www.studocu.com/row/course/universite-de-douala/biologie-cellulaire/6906195"
+    },
+    {
+      "name": "biologie moleculaire",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/universite-de-douala/biologie-moleculaire/6780382"
+    },
+    {
+      "name": "Captage d'eau",
+      "code": "Capt 2020",
+      "url": "https://www.studocu.com/row/course/universite-de-douala/captage-deau/6627031"
+    },
+    {
+      "name": "Chimie",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/universite-de-douala/chimie/3945896"
+    },
+    {
+      "name": "condition de travail",
+      "code": "condition travail",
+      "url": "https://www.studocu.com/row/course/universite-de-douala/condition-de-travail/6975636"
+    },
+    {
+      "name": "Corporate law",
+      "code": "Bylaw 2001",
+      "url": "https://www.studocu.com/row/course/universite-de-douala/corporate-law/6590114"
+    },
+    {
+      "name": "Creation D’entreprise",
+      "code": "BUS 3341",
+      "url": "https://www.studocu.com/row/course/universite-de-douala/creation-dentreprise/4446265"
+    },
+    {
+      "name": "Cybersécurité",
+      "code": "MIA438",
+      "url": "https://www.studocu.com/row/course/universite-de-douala/cybersecurite/6984798"
+    },
+    {
+      "name": "Design graphique",
+      "code": "DEG 237",
+      "url": "https://www.studocu.com/row/course/universite-de-douala/design-graphique/7641079"
+    },
+    {
+      "name": "Digital Electronics",
+      "code": "ITDE001",
+      "url": "https://www.studocu.com/row/course/universite-de-douala/digital-electronics/5253425"
+    },
+    {
+      "name": "Droit des affaires",
+      "code": "Blaw200",
+      "url": "https://www.studocu.com/row/course/universite-de-douala/droit-des-affaires/6707740"
+    },
+    {
+      "name": "Droit des sociétés",
+      "code": "Blaw 2019",
+      "url": "https://www.studocu.com/row/course/universite-de-douala/droit-des-societes/7705375"
+    },
+    {
+      "name": "Droit du travail",
+      "code": "Drt 001",
+      "url": "https://www.studocu.com/row/course/universite-de-douala/droit-du-travail/6312400"
+    },
+    {
+      "name": "droit ohada",
+      "code": "CORPORATE LAW 01",
+      "url": "https://www.studocu.com/row/course/universite-de-douala/droit-ohada/5276876"
+    },
+    {
+      "name": "Droit ohada des affaires",
+      "code": "Blaw 209",
+      "url": "https://www.studocu.com/row/course/universite-de-douala/droit-ohada-des-affaires/6431797"
+    },
+    {
+      "name": "Défense nationale",
+      "code": "Spo 2231",
+      "url": "https://www.studocu.com/row/course/universite-de-douala/defense-nationale/6744025"
+    },
+    {
+      "name": "Enset de Douala-Cameroun",
+      "code": "1872",
+      "url": "https://www.studocu.com/row/course/universite-de-douala/enset-de-douala-cameroun/6012782"
+    },
+    {
+      "name": "enzymologie",
+      "code": "bch 315",
+      "url": "https://www.studocu.com/row/course/universite-de-douala/enzymologie/7348849"
+    },
+    {
+      "name": "économie de l'information",
+      "code": "ECI200",
+      "url": "https://www.studocu.com/row/course/universite-de-douala/economie-de-linformation/3624730"
+    },
+    {
+      "name": "Gestion des déchets",
+      "code": "HSE 236",
+      "url": "https://www.studocu.com/row/course/universite-de-douala/gestion-des-dechets/7567686"
+    },
+    {
+      "name": "Gestion fiscale",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/universite-de-douala/gestion-fiscale/3569624"
+    },
+    {
+      "name": "Génie génétique",
+      "code": "Bio 355",
+      "url": "https://www.studocu.com/row/course/universite-de-douala/genie-genetique/6493352"
+    },
+    {
+      "name": "Géologie et géomorphologie",
+      "code": "GIELM2",
+      "url": "https://www.studocu.com/row/course/universite-de-douala/geologie-et-geomorphologie/5783429"
+    },
+    {
+      "name": "Hematologie",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/universite-de-douala/hematologie/7691519"
+    },
+    {
+      "name": "immunologie",
+      "code": "bio 322",
+      "url": "https://www.studocu.com/row/course/universite-de-douala/immunologie/7691506"
+    },
+    {
+      "name": "Industrial Maintenance",
+      "code": "INS401",
+      "url": "https://www.studocu.com/row/course/universite-de-douala/industrial-maintenance/6727062"
+    },
+    {
+      "name": "Informatique",
+      "code": "INF-101",
+      "url": "https://www.studocu.com/row/course/universite-de-douala/informatique/4372619"
+    },
+    {
+      "name": "Initiation au Makerting",
+      "code": "MKT2022",
+      "url": "https://www.studocu.com/row/course/universite-de-douala/initiation-au-makerting/5360319"
+    },
+    {
+      "name": "Intelligence économique",
+      "code": "IE123",
+      "url": "https://www.studocu.com/row/course/universite-de-douala/intelligence-economique/6740061"
+    },
+    {
+      "name": "Machines Electriques",
+      "code": "EPD-GEL-4011",
+      "url": "https://www.studocu.com/row/course/universite-de-douala/machines-electriques/7623750"
+    },
+    {
+      "name": "Maintenance des accès utilisateurs",
+      "code": "GSI2",
+      "url": "https://www.studocu.com/row/course/universite-de-douala/maintenance-des-acces-utilisateurs/7338826"
+    },
+    {
+      "name": "Marchés financiers et gestion des portefeuilles",
+      "code": "711",
+      "url": "https://www.studocu.com/row/course/universite-de-douala/marches-financiers-et-gestion-des-portefeuilles/4819939"
+    },
+    {
+      "name": "Marine insurance",
+      "code": "Pcc 241",
+      "url": "https://www.studocu.com/row/course/universite-de-douala/marine-insurance/5023216"
+    },
+    {
+      "name": "Moteurs de Recherche et Production Scientifique",
+      "code": "UE6",
+      "url": "https://www.studocu.com/row/course/universite-de-douala/moteurs-de-recherche-et-production-scientifique/5951715"
+    },
+    {
+      "name": "Médias et médiations sociales",
+      "code": "COM 301",
+      "url": "https://www.studocu.com/row/course/universite-de-douala/medias-et-mediations-sociales/6200656"
+    },
+    {
+      "name": "Méthodologie de la recherche",
+      "code": "MRS401",
+      "url": "https://www.studocu.com/row/course/universite-de-douala/methodologie-de-la-recherche/6685538"
+    },
+    {
+      "name": "Métrologie",
+      "code": "-",
+      "url": "https://www.studocu.com/row/course/universite-de-douala/metrologie/3651861"
+    },
+    {
+      "name": "Neurophysiologie",
+      "code": "bio 326",
+      "url": "https://www.studocu.com/row/course/universite-de-douala/neurophysiologie/7691517"
+    },
+    {
+      "name": "Outils Communicationnels et Pratique : Le Braille",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/universite-de-douala/outils-communicationnels-et-pratique-le-braille/6580791"
+    },
+    {
+      "name": "Pharmacologie générale",
+      "code": "BHS 427",
+      "url": "https://www.studocu.com/row/course/universite-de-douala/pharmacologie-generale/6609403"
+    },
+    {
+      "name": "Physiologie cardiovasculaire",
+      "code": "Bio 324",
+      "url": "https://www.studocu.com/row/course/universite-de-douala/physiologie-cardiovasculaire/7691522"
+    },
+    {
+      "name": "physiologie de la digestion et de la respiration",
+      "code": "Bio 325",
+      "url": "https://www.studocu.com/row/course/universite-de-douala/physiologie-de-la-digestion-et-de-la-respiration/7691525"
+    },
+    {
+      "name": "Physiologie de la reprodiction et endocrinologie",
+      "code": "BIO 321",
+      "url": "https://www.studocu.com/row/course/universite-de-douala/physiologie-de-la-reprodiction-et-endocrinologie/7691501"
+    },
+    {
+      "name": "Physique",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/universite-de-douala/physique/3269705"
+    },
+    {
+      "name": "Production végétale",
+      "code": "Pv111",
+      "url": "https://www.studocu.com/row/course/universite-de-douala/production-vegetale/7214911"
+    },
+    {
+      "name": "Project appraisal class test",
+      "code": "UD01",
+      "url": "https://www.studocu.com/row/course/universite-de-douala/project-appraisal-class-test/4610800"
+    },
+    {
+      "name": "Psychologie",
+      "code": "Psyc24",
+      "url": "https://www.studocu.com/row/course/universite-de-douala/psychologie/7182756"
+    },
+    {
+      "name": "psycholopathologie développementale",
+      "code": "PSY 114",
+      "url": "https://www.studocu.com/row/course/universite-de-douala/psycholopathologie-developpementale/7055415"
+    },
+    {
+      "name": "Quality Assurance",
+      "code": "UD01",
+      "url": "https://www.studocu.com/row/course/universite-de-douala/quality-assurance/4547878"
+    },
+    {
+      "name": "Recherche opérationnelle",
+      "code": "Inf 316",
+      "url": "https://www.studocu.com/row/course/universite-de-douala/recherche-operationnelle/4843861"
+    },
+    {
+      "name": "Research In Nursing",
+      "code": "NUS2401,",
+      "url": "https://www.studocu.com/row/course/universite-de-douala/research-in-nursing/5697019"
+    },
+    {
+      "name": "Ressources Humaines",
+      "code": "RH30",
+      "url": "https://www.studocu.com/row/course/universite-de-douala/ressources-humaines/5303725"
+    },
+    {
+      "name": "Sciences de l'Education",
+      "code": "SCEDU 311",
+      "url": "https://www.studocu.com/row/course/universite-de-douala/sciences-de-leducation/6365466"
+    },
+    {
+      "name": "Sistemas de contabilidad pública",
+      "code": "16352",
+      "url": "https://www.studocu.com/row/course/universite-de-douala/sistemas-de-contabilidad-publica/7203982"
+    },
+    {
+      "name": "Sociologie des organisations",
+      "code": "Soca-d-4993",
+      "url": "https://www.studocu.com/row/course/universite-de-douala/sociologie-des-organisations/7423160"
+    },
+    {
+      "name": "Sociologie politique",
+      "code": "BLAW 2024, SOC, 14",
+      "url": "https://www.studocu.com/row/course/universite-de-douala/sociologie-politique/7010888"
+    },
+    {
+      "name": "Soins infirmiers",
+      "code": "sin130",
+      "url": "https://www.studocu.com/row/course/universite-de-douala/soins-infirmiers/7520148"
+    },
+    {
+      "name": "Statistique",
+      "code": "Mat531",
+      "url": "https://www.studocu.com/row/course/universite-de-douala/statistique/5290977"
+    },
+    {
+      "name": "statistiques et qualité",
+      "code": "BIS 301",
+      "url": "https://www.studocu.com/row/course/universite-de-douala/statistiques-et-qualite/7506935"
+    },
+    {
+      "name": "Statistiques et qualité",
+      "code": "BIS301",
+      "url": "https://www.studocu.com/row/course/universite-de-douala/statistiques-et-qualite/7506936"
+    },
+    {
+      "name": "Structure query language",
+      "code": "SQL-45",
+      "url": "https://www.studocu.com/row/course/universite-de-douala/structure-query-language/5023503"
+    },
+    {
+      "name": "Supervision des réseaux I",
+      "code": "GSI236-02",
+      "url": "https://www.studocu.com/row/course/universite-de-douala/supervision-des-reseaux-i/7475427"
+    },
+    {
+      "name": "Sélection et amélioration génétique des plantes",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/universite-de-douala/selection-et-amelioration-genetique-des-plantes/6799836"
+    },
+    {
+      "name": "Sémiologie",
+      "code": "SMLG2022",
+      "url": "https://www.studocu.com/row/course/universite-de-douala/semiologie/5170171"
+    },
+    {
+      "name": "Techniques bancaire",
+      "code": "TMB3",
+      "url": "https://www.studocu.com/row/course/universite-de-douala/techniques-bancaire/5396321"
+    },
+    {
+      "name": "Theorie des Organisations",
+      "code": "TH227",
+      "url": "https://www.studocu.com/row/course/universite-de-douala/theorie-des-organisations/6750307"
+    },
+    {
+      "name": "Therapies Cognitivo-Comportementales",
+      "code": "Psy 432",
+      "url": "https://www.studocu.com/row/course/universite-de-douala/therapies-cognitivo-comportementales/7045569"
+    },
+    {
+      "name": "Zoology",
+      "code": "-",
+      "url": "https://www.studocu.com/row/course/universite-de-douala/zoology/4342059"
+    }
+  ]
+}

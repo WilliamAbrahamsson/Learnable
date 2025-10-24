@@ -1,0 +1,906 @@
+{
+  "university_id": "3480",
+  "university_name": "Hochschule Bremen",
+  "courses": [
+    {
+      "name": "Advanced Economics",
+      "code": "10788",
+      "url": "https://www.studocu.com/de/course/hochschule-bremen/advanced-economics/4828891"
+    },
+    {
+      "name": "Aerodynamik und Flugmechanik",
+      "code": "AEFL",
+      "url": "https://www.studocu.com/de/course/hochschule-bremen/aerodynamik-und-flugmechanik/3505476"
+    },
+    {
+      "name": "Aktuelle Kapitel der Informatik: ITIL",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-bremen/aktuelle-kapitel-der-informatik-itil/3409274"
+    },
+    {
+      "name": "Arbeit, Recht und Schlüsselqualifikation",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-bremen/arbeit-recht-und-schlusselqualifikation/3409443"
+    },
+    {
+      "name": "Arbeitsund Sozialpolitik",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-bremen/arbeitsund-sozialpolitik/3409350"
+    },
+    {
+      "name": "Architekturtheorie",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-bremen/architekturtheorie/3409051"
+    },
+    {
+      "name": "Außenwirtschaft und Europäische Integration",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-bremen/aussenwirtschaft-und-europaische-integration/3409417"
+    },
+    {
+      "name": "Automatisierungstechnik / Handhabungstechnik",
+      "code": "AUTO",
+      "url": "https://www.studocu.com/de/course/hochschule-bremen/automatisierungstechnik-handhabungstechnik/3526473"
+    },
+    {
+      "name": "Bauen und Planen (bautechn. Englisch)",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-bremen/bauen-und-planen-bautechn-englisch/3409098"
+    },
+    {
+      "name": "Baukonstruktion I",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-bremen/baukonstruktion-i/3409053"
+    },
+    {
+      "name": "Baukonstruktion und Bauphysik",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-bremen/baukonstruktion-und-bauphysik/3409100"
+    },
+    {
+      "name": "Besonderes Verwaltungsrecht I - Sozialrecht I",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-bremen/besonderes-verwaltungsrecht-i-sozialrecht-i/3409488"
+    },
+    {
+      "name": "Besonderes Verwaltungsrecht II - Ordnungsrecht und Arbeitsrecht",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-bremen/besonderes-verwaltungsrecht-ii-ordnungsrecht-und-arbeitsrecht/3409479"
+    },
+    {
+      "name": "Besonderes Verwaltungsrecht III - Öffentliches Dienst- und Ausländerrecht",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-bremen/besonderes-verwaltungsrecht-iii-offentliches-dienst-und-auslanderrecht/3409482"
+    },
+    {
+      "name": "Besonderes Verwaltungsrecht V - Wirtschafts-verwaltungsrecht",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-bremen/besonderes-verwaltungsrecht-v-wirtschafts-verwaltungsrecht/3409489"
+    },
+    {
+      "name": "Betriebssysteme",
+      "code": "BS",
+      "url": "https://www.studocu.com/de/course/hochschule-bremen/betriebssysteme/5163613"
+    },
+    {
+      "name": "Biologie",
+      "code": "U1.2",
+      "url": "https://www.studocu.com/de/course/hochschule-bremen/biologie/3409358"
+    },
+    {
+      "name": "Business Ethics / Sustainable Development",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-bremen/business-ethics-sustainable-development/3409247"
+    },
+    {
+      "name": "BWL 1  Grundlagen",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-bremen/bwl-1-grundlagen/3409119"
+    },
+    {
+      "name": "BWL 2 - Produktion und Logistik",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-bremen/bwl-2-produktion-und-logistik/4866767"
+    },
+    {
+      "name": "BWL I",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-bremen/bwl-i/3409147"
+    },
+    {
+      "name": "BWL I: Grundlagen der BWL",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-bremen/bwl-i-grundlagen-der-bwl/3409231"
+    },
+    {
+      "name": "BWL II",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-bremen/bwl-ii/3409148"
+    },
+    {
+      "name": "Chemie",
+      "code": "U1.3",
+      "url": "https://www.studocu.com/de/course/hochschule-bremen/chemie/3409359"
+    },
+    {
+      "name": "Computer Vision",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-bremen/computer-vision/3409284"
+    },
+    {
+      "name": "Conflict Management and Negotiation (Mediation)",
+      "code": "ISPM 6.5",
+      "url": "https://www.studocu.com/de/course/hochschule-bremen/conflict-management-and-negotiation-mediation/4701708"
+    },
+    {
+      "name": "Controlling",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-bremen/controlling/3409165"
+    },
+    {
+      "name": "Corporate Finance",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-bremen/corporate-finance/3409185"
+    },
+    {
+      "name": "Cyber Security Lab (neu)",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-bremen/cyber-security-lab-neu/3409277"
+    },
+    {
+      "name": "Datenbanken",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-bremen/datenbanken/5724560"
+    },
+    {
+      "name": "Deskriptive Statistik und empirische Sozialforschung",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-bremen/deskriptive-statistik-und-empirische-sozialforschung/3409414"
+    },
+    {
+      "name": "Digit",
+      "code": "TI Digit",
+      "url": "https://www.studocu.com/de/course/hochschule-bremen/digit/4912725"
+    },
+    {
+      "name": "Einführung in die VWL",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-bremen/einfuhrung-in-die-vwl/3409434"
+    },
+    {
+      "name": "Elektrische/ magnetische Felder",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-bremen/elektrische-magnetische-felder/3409496"
+    },
+    {
+      "name": "Elektro- technik",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-bremen/elektro-technik/3409501"
+    },
+    {
+      "name": "Elektrotechnik",
+      "code": "ELEK",
+      "url": "https://www.studocu.com/de/course/hochschule-bremen/elektrotechnik/3526477"
+    },
+    {
+      "name": "Elektrotechnik für Automatisierer und Mechatroniker (ELMA)",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-bremen/elektrotechnik-fur-automatisierer-und-mechatroniker-elma/4882963"
+    },
+    {
+      "name": "Englisch I",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-bremen/englisch-i/3409337"
+    },
+    {
+      "name": "Englisch II",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-bremen/englisch-ii/3409342"
+    },
+    {
+      "name": "Entrepreneurship",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-bremen/entrepreneurship/3409230"
+    },
+    {
+      "name": "Entwurfs Konzeptionelles",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-bremen/entwurfs-konzeptionelles/3409063"
+    },
+    {
+      "name": "Europarecht II",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-bremen/europarecht-ii/3409477"
+    },
+    {
+      "name": "Europarecht und Europapolitik",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-bremen/europarecht-und-europapolitik/3409476"
+    },
+    {
+      "name": "Europäisches und Internationales Management",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-bremen/europaisches-und-internationales-management/3409145"
+    },
+    {
+      "name": "Eventmanagement",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-bremen/eventmanagement/4827133"
+    },
+    {
+      "name": "Externes Rechnungswesen",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-bremen/externes-rechnungswesen/5154074"
+    },
+    {
+      "name": "Fabrikplanung",
+      "code": "FAPL",
+      "url": "https://www.studocu.com/de/course/hochschule-bremen/fabrikplanung/3526479"
+    },
+    {
+      "name": "Faserverbundtechnik",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-bremen/faserverbundtechnik/4725454"
+    },
+    {
+      "name": "Finanzmanagement",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-bremen/finanzmanagement/3409432"
+    },
+    {
+      "name": "Finanzmanagement und Finanzdienstleistungsmanagement",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-bremen/finanzmanagement-und-finanzdienstleistungsmanagement/3409184"
+    },
+    {
+      "name": "Finanzwirtschaft",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-bremen/finanzwirtschaft/3409123"
+    },
+    {
+      "name": "Flugntriebe",
+      "code": "FLUA 2024",
+      "url": "https://www.studocu.com/de/course/hochschule-bremen/flugntriebe/7377428"
+    },
+    {
+      "name": "Fremd-sprache I",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-bremen/fremd-sprache-i/3409448"
+    },
+    {
+      "name": "Geotechnik M",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-bremen/geotechnik-m/3409110"
+    },
+    {
+      "name": "Gesellschaft der Zielregion III: Wirtschaft, Management und Geschäfts-kultur der Zielregion",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-bremen/gesellschaft-der-zielregion-iii-wirtschaft-management-und-geschafts-kultur-der-zielregion/3409405"
+    },
+    {
+      "name": "Global Marketing",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-bremen/global-marketing/3409254"
+    },
+    {
+      "name": "Globalisation Strategy Business Game",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-bremen/globalisation-strategy-business-game/4956786"
+    },
+    {
+      "name": "Grundlagen",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-bremen/grundlagen/3409120"
+    },
+    {
+      "name": "Grundlagen der Fertigung",
+      "code": "FERT",
+      "url": "https://www.studocu.com/de/course/hochschule-bremen/grundlagen-der-fertigung/3470040"
+    },
+    {
+      "name": "Grundlagen der Informatik",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-bremen/grundlagen-der-informatik/3446540"
+    },
+    {
+      "name": "Grundlagen der Mathematik",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-bremen/grundlagen-der-mathematik/3447583"
+    },
+    {
+      "name": "Grundlagen der Siedlungswasserwirtschaft und des Wasserbaus",
+      "code": "U3.7",
+      "url": "https://www.studocu.com/de/course/hochschule-bremen/grundlagen-der-siedlungswasserwirtschaft-und-des-wasserbaus/3409369"
+    },
+    {
+      "name": "Grundlagen Gestaltung",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-bremen/grundlagen-gestaltung/5388099"
+    },
+    {
+      "name": "Grundlagen internationaler Sozialpolitik",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-bremen/grundlagen-internationaler-sozialpolitik/3409386"
+    },
+    {
+      "name": "Haushaltsrecht",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-bremen/haushaltsrecht/3409491"
+    },
+    {
+      "name": "Informationssicherheit und sichere Softwareentwicklung",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-bremen/informationssicherheit-und-sichere-softwareentwicklung/3409285"
+    },
+    {
+      "name": "Innovation Management and Entrepreneurship",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-bremen/innovation-management-and-entrepreneurship/3409258"
+    },
+    {
+      "name": "International Accounting",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-bremen/international-accounting/3409222"
+    },
+    {
+      "name": "International Logistics",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-bremen/international-logistics/3409180"
+    },
+    {
+      "name": "International Marketing",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-bremen/international-marketing/3409179"
+    },
+    {
+      "name": "International Project Management",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-bremen/international-project-management/3409227"
+    },
+    {
+      "name": "International Tourism",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-bremen/international-tourism/3409228"
+    },
+    {
+      "name": "Internationale Finanzierung",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-bremen/internationale-finanzierung/3409235"
+    },
+    {
+      "name": "Internationale Wirtschaft (Logistik und Außenwirtschaft)",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-bremen/internationale-wirtschaft-logistik-und-aussenwirtschaft/3409144"
+    },
+    {
+      "name": "Internationales Marketing",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-bremen/internationales-marketing/3409129"
+    },
+    {
+      "name": "Internationales und Interkulturelles Management",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-bremen/internationales-und-interkulturelles-management/3409440"
+    },
+    {
+      "name": "Internationalstudiengang Wirtschaftingineurwesen",
+      "code": "ISWI1",
+      "url": "https://www.studocu.com/de/course/hochschule-bremen/internationalstudiengang-wirtschaftingineurwesen/7408365"
+    },
+    {
+      "name": "Internes Rechungswesen",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-bremen/internes-rechungswesen/3409128"
+    },
+    {
+      "name": "Introduction to International Business",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-bremen/introduction-to-international-business/3409131"
+    },
+    {
+      "name": "Investition, Finanzierung, Steuern & Bilanzierung",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-bremen/investition-finanzierung-steuern-bilanzierung/3409460"
+    },
+    {
+      "name": "Kommunikation und Rhetorik",
+      "code": "ISGM 1.4",
+      "url": "https://www.studocu.com/de/course/hochschule-bremen/kommunikation-und-rhetorik/4742225"
+    },
+    {
+      "name": "Komplexe Softwaresysteme",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-bremen/komplexe-softwaresysteme/3409281"
+    },
+    {
+      "name": "Konstruktion u. Technik im ökologischen Kontext",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-bremen/konstruktion-u-technik-im-okologischen-kontext/3409058"
+    },
+    {
+      "name": "Kosten- & Leistungsrechnung, Controlling",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-bremen/kosten-leistungsrechnung-controlling/3409457"
+    },
+    {
+      "name": "Kundenbindungsmanagement",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-bremen/kundenbindungsmanagement/3441585"
+    },
+    {
+      "name": "Lehreinheiten der Allgemeinwissenschaften",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-bremen/lehreinheiten-der-allgemeinwissenschaften/3409061"
+    },
+    {
+      "name": "Lehreinheiten des Entwerfens",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-bremen/lehreinheiten-des-entwerfens/3409059"
+    },
+    {
+      "name": "Leichtbaukonstruktions Projekt",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-bremen/leichtbaukonstruktions-projekt/7584943"
+    },
+    {
+      "name": "Logistics & Operations Management",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-bremen/logistics-operations-management/3409255"
+    },
+    {
+      "name": "Logistik und Supply Chain Management",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-bremen/logistik-und-supply-chain-management/3409229"
+    },
+    {
+      "name": "Logistische Systeme und Materialfluss",
+      "code": "LSMF",
+      "url": "https://www.studocu.com/de/course/hochschule-bremen/logistische-systeme-und-materialfluss/3526482"
+    },
+    {
+      "name": "Management",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-bremen/management/3409138"
+    },
+    {
+      "name": "Management Systems",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-bremen/management-systems/3409041"
+    },
+    {
+      "name": "Management und Controlling",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-bremen/management-und-controlling/3409234"
+    },
+    {
+      "name": "Management und Personal & Organisation (BWL III)",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-bremen/management-und-personal-organisation-bwl-iii/3409445"
+    },
+    {
+      "name": "Marketing (BWL V)",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-bremen/marketing-bwl-v/3409442"
+    },
+    {
+      "name": "Marketing Research",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-bremen/marketing-research/3409300"
+    },
+    {
+      "name": "Marketing, Personal, Finanzwirtschaft und Controlling oder Logistik",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-bremen/marketing-personal-finanzwirtschaft-und-controlling-oder-logistik/3409400"
+    },
+    {
+      "name": "Maschienendynamik",
+      "code": "MaDyn1",
+      "url": "https://www.studocu.com/de/course/hochschule-bremen/maschienendynamik/4910700"
+    },
+    {
+      "name": "Material Science",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-bremen/material-science/3409193"
+    },
+    {
+      "name": "Mathe",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-bremen/mathe/3253161"
+    },
+    {
+      "name": "Mathematik 2",
+      "code": "MATH",
+      "url": "https://www.studocu.com/de/course/hochschule-bremen/mathematik-2/3526485"
+    },
+    {
+      "name": "Mechanik 1",
+      "code": "MECH",
+      "url": "https://www.studocu.com/de/course/hochschule-bremen/mechanik-1/3526487"
+    },
+    {
+      "name": "Mechatronik",
+      "code": "MEIK",
+      "url": "https://www.studocu.com/de/course/hochschule-bremen/mechatronik/3499948"
+    },
+    {
+      "name": "Mensch-Computer-Interaktion",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-bremen/mensch-computer-interaktion/3409263"
+    },
+    {
+      "name": "Mess- technik",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-bremen/mess-technik/3409503"
+    },
+    {
+      "name": "Mikro- controler",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-bremen/mikro-controler/3409505"
+    },
+    {
+      "name": "Modul 6 Human Resource Management",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-bremen/modul-6-human-resource-management/3409175"
+    },
+    {
+      "name": "Modul 8 Wirtschafts und Arbeitsrecht",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-bremen/modul-8-wirtschafts-und-arbeitsrecht/3409177"
+    },
+    {
+      "name": "Nachhaltige Entwicklung, Ethik & Corporate Social Responsibility",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-bremen/nachhaltige-entwicklung-ethik-corporate-social-responsibility/3409462"
+    },
+    {
+      "name": "Nationales Wirtschaftsrecht",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-bremen/nationales-wirtschaftsrecht/3409486"
+    },
+    {
+      "name": "Personal und Organisation",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-bremen/personal-und-organisation/3409481"
+    },
+    {
+      "name": "Personalmanagemen",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-bremen/personalmanagemen/3409169"
+    },
+    {
+      "name": "Personalmanagement, Organisationsentwicklung & Besondere Kulturwissenschaften",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-bremen/personalmanagement-organisationsentwicklung-besondere-kulturwissenschaften/3409465"
+    },
+    {
+      "name": "Personalwirtschaft",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-bremen/personalwirtschaft/3409136"
+    },
+    {
+      "name": "Physik",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-bremen/physik/3409493"
+    },
+    {
+      "name": "Physik und Strömungslehre",
+      "code": "PHYS",
+      "url": "https://www.studocu.com/de/course/hochschule-bremen/physik-und-stromungslehre/3526492"
+    },
+    {
+      "name": "Politik und Verwaltung",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-bremen/politik-und-verwaltung/3409330"
+    },
+    {
+      "name": "Praxis",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-bremen/praxis/3409344"
+    },
+    {
+      "name": "Produktionsplanung und -steuerung",
+      "code": "PPS",
+      "url": "https://www.studocu.com/de/course/hochschule-bremen/produktionsplanung-und-steuerung/3526488"
+    },
+    {
+      "name": "Produktionssystematik",
+      "code": "PROS",
+      "url": "https://www.studocu.com/de/course/hochschule-bremen/produktionssystematik/3526489"
+    },
+    {
+      "name": "Programmieren 1",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-bremen/programmieren-1/3447592"
+    },
+    {
+      "name": "Project Management Concepts",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-bremen/project-management-concepts/3409302"
+    },
+    {
+      "name": "Projektmanagement",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-bremen/projektmanagement/3409146"
+    },
+    {
+      "name": "Projektmodul 5 Apparatus und Planet Engineering",
+      "code": "U5.6",
+      "url": "https://www.studocu.com/de/course/hochschule-bremen/projektmodul-5-apparatus-und-planet-engineering/3409382"
+    },
+    {
+      "name": "Prüftechnik und Schadensanalyse",
+      "code": "TSA",
+      "url": "https://www.studocu.com/de/course/hochschule-bremen/pruftechnik-und-schadensanalyse/7486157"
+    },
+    {
+      "name": "Psychologie, Rhetorik & Kommunikation",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-bremen/psychologie-rhetorik-kommunikation/3409454"
+    },
+    {
+      "name": "Qualitätsmanagement und Messtechnik",
+      "code": "BMAN",
+      "url": "https://www.studocu.com/de/course/hochschule-bremen/qualitatsmanagement-und-messtechnik/3470041"
+    },
+    {
+      "name": "Quantitative Methoden",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-bremen/quantitative-methoden/3409121"
+    },
+    {
+      "name": "Raumtransportsysteme und Raumfahrtantriebe",
+      "code": "RTSA",
+      "url": "https://www.studocu.com/de/course/hochschule-bremen/raumtransportsysteme-und-raumfahrtantriebe/6635604"
+    },
+    {
+      "name": "Rechnerarchitektur und Nerarchitektur und -Konfiguration",
+      "code": "EI-AI-121",
+      "url": "https://www.studocu.com/de/course/hochschule-bremen/rechnerarchitektur-und-nerarchitektur-und-konfiguration/5724570"
+    },
+    {
+      "name": "Rechnernetze",
+      "code": "RNETZE",
+      "url": "https://www.studocu.com/de/course/hochschule-bremen/rechnernetze/3447580"
+    },
+    {
+      "name": "Rechnungswesen",
+      "code": "001",
+      "url": "https://www.studocu.com/de/course/hochschule-bremen/rechnungswesen/2203890"
+    },
+    {
+      "name": "Recht Nationales & Internationales Wirtschaftsrecht",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-bremen/recht-nationales-internationales-wirtschaftsrecht/3409441"
+    },
+    {
+      "name": "Required 2: Advanced Aerospace Composite Design",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-bremen/required-2-advanced-aerospace-composite-design/3409029"
+    },
+    {
+      "name": "Schiffbau und Meerestechnik B. Eng",
+      "code": "2019_SuM_BA",
+      "url": "https://www.studocu.com/de/course/hochschule-bremen/schiffbau-und-meerestechnik-b-eng/5140967"
+    },
+    {
+      "name": "Shipping and Chartering",
+      "code": "ISSC",
+      "url": "https://www.studocu.com/de/course/hochschule-bremen/shipping-and-chartering/3209169"
+    },
+    {
+      "name": "Sichere Softwareentwicklung",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-bremen/sichere-softwareentwicklung/3409276"
+    },
+    {
+      "name": "Softwaretechnik 1",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-bremen/softwaretechnik-1/5724552"
+    },
+    {
+      "name": "Soscial Skills (inkl. Bewerbungstraining)",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-bremen/soscial-skills-inkl-bewerbungstraining/3409427"
+    },
+    {
+      "name": "Staats- und Verfassungsrecht",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-bremen/staats-und-verfassungsrecht/3409485"
+    },
+    {
+      "name": "Statik",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-bremen/statik/4354575"
+    },
+    {
+      "name": "Statistics",
+      "code": "1145",
+      "url": "https://www.studocu.com/de/course/hochschule-bremen/statistics/4239494"
+    },
+    {
+      "name": "Steuern",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-bremen/steuern/3409158"
+    },
+    {
+      "name": "Steuerrecht",
+      "code": "BIM",
+      "url": "https://www.studocu.com/de/course/hochschule-bremen/steuerrecht/3328970"
+    },
+    {
+      "name": "Strategisches Management",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-bremen/strategisches-management/3409187"
+    },
+    {
+      "name": "Systemsoftware",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-bremen/systemsoftware/5724581"
+    },
+    {
+      "name": "Thermodynamik",
+      "code": "2",
+      "url": "https://www.studocu.com/de/course/hochschule-bremen/thermodynamik/3177578"
+    },
+    {
+      "name": "Thermodynamik",
+      "code": "THER",
+      "url": "https://www.studocu.com/de/course/hochschule-bremen/thermodynamik/3526493"
+    },
+    {
+      "name": "Total Quality Management",
+      "code": "TQM",
+      "url": "https://www.studocu.com/de/course/hochschule-bremen/total-quality-management/3526495"
+    },
+    {
+      "name": "Tourism Economic and Industries",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-bremen/tourism-economic-and-industries/3409289"
+    },
+    {
+      "name": "Tourismuswirtschaft & Unternehmenskultur",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-bremen/tourismuswirtschaft-unternehmenskultur/3409467"
+    },
+    {
+      "name": "Trade Theory & Policy",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-bremen/trade-theory-policy/3409251"
+    },
+    {
+      "name": "Tragwerksplanung im Massivbau und Stahlbau",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-bremen/tragwerksplanung-im-massivbau-und-stahlbau/3409113"
+    },
+    {
+      "name": "Umformtechnik / Fügetechnik",
+      "code": "UMF",
+      "url": "https://www.studocu.com/de/course/hochschule-bremen/umformtechnik-fugetechnik/3526480"
+    },
+    {
+      "name": "Verwaltungsrecht I",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-bremen/verwaltungsrecht-i/3409483"
+    },
+    {
+      "name": "Verwaltungswissenschaften",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-bremen/verwaltungswissenschaften/3409475"
+    },
+    {
+      "name": "Vorbereitung auf Auslandsstudium und Praxissemester",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-bremen/vorbereitung-auf-auslandsstudium-und-praxissemester/3409233"
+    },
+    {
+      "name": "VWL 1",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-bremen/vwl-1/3409132"
+    },
+    {
+      "name": "VWL 2",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-bremen/vwl-2/3409134"
+    },
+    {
+      "name": "VWL I",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-bremen/vwl-i/3409154"
+    },
+    {
+      "name": "VWL II",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-bremen/vwl-ii/3409155"
+    },
+    {
+      "name": "Werkstoffkunde",
+      "code": "000",
+      "url": "https://www.studocu.com/de/course/hochschule-bremen/werkstoffkunde/2698599"
+    },
+    {
+      "name": "Werkstofftechnik",
+      "code": "U4.4",
+      "url": "https://www.studocu.com/de/course/hochschule-bremen/werkstofftechnik/3409375"
+    },
+    {
+      "name": "Werkzeugmaschinen, Fertigungssysteme",
+      "code": "WEFE",
+      "url": "https://www.studocu.com/de/course/hochschule-bremen/werkzeugmaschinen-fertigungssysteme/3526496"
+    },
+    {
+      "name": "Wirtschaft und Gesellschaft China III",
+      "code": "WuG III",
+      "url": "https://www.studocu.com/de/course/hochschule-bremen/wirtschaft-und-gesellschaft-china-iii/3287853"
+    },
+    {
+      "name": "Wirtschaft und Gesellschaft der Zielregion I: Geschichte und Wirtschafts-geografie",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-bremen/wirtschaft-und-gesellschaft-der-zielregion-i-geschichte-und-wirtschafts-geografie/3409411"
+    },
+    {
+      "name": "Wirtschafts-englisch",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-bremen/wirtschafts-englisch/3409409"
+    },
+    {
+      "name": "Wirtschafts-recht",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-bremen/wirtschafts-recht/3409404"
+    },
+    {
+      "name": "Wirtschaftsenglisch I",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-bremen/wirtschaftsenglisch-i/3409160"
+    },
+    {
+      "name": "Wirtschaftsenglisch II",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-bremen/wirtschaftsenglisch-ii/3409161"
+    },
+    {
+      "name": "Wirtschaftsinformatik",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-bremen/wirtschaftsinformatik/3409156"
+    },
+    {
+      "name": "Wirtschaftsmathematik",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-bremen/wirtschaftsmathematik/4671405"
+    },
+    {
+      "name": "Wirtschaftsrecht",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-bremen/wirtschaftsrecht/3409126"
+    },
+    {
+      "name": "Wirtschaftsrecht I",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-bremen/wirtschaftsrecht-i/3409162"
+    },
+    {
+      "name": "Wirtschaftsspanisch II",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-bremen/wirtschaftsspanisch-ii/4458639"
+    },
+    {
+      "name": "Wirtschaftsstatistik",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-bremen/wirtschaftsstatistik/3409151"
+    },
+    {
+      "name": "Wissenschaftliches Arbeiten: Einführung in das wissenschaftliche Arbeiten und Rhetorik/Kommunikation",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-bremen/wissenschaftliches-arbeiten-einfuhrung-in-das-wissenschaftliche-arbeiten-und-rhetorikkommunikation/3409444"
+    },
+    {
+      "name": "Wissenschaftstheorie",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-bremen/wissenschaftstheorie/3409115"
+    },
+    {
+      "name": "Zerspanungstechnik",
+      "code": "ZERS",
+      "url": "https://www.studocu.com/de/course/hochschule-bremen/zerspanungstechnik/3526498"
+    }
+  ]
+}

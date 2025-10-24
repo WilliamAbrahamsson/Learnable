@@ -1,0 +1,776 @@
+{
+  "university_id": "3888",
+  "university_name": "Pázmány Péter Katolikus Egyetem",
+  "courses": [
+    {
+      "name": "A Biblia világa",
+      "code": "BBNSF07000",
+      "url": "https://www.studocu.com/hu/course/pazmany-peter-katolikus-egyetem/a-biblia-vilaga/5343721"
+    },
+    {
+      "name": "A csecsemő- és kisgyermekkor fejlődéspszichológiája",
+      "code": "BBLPS17300",
+      "url": "https://www.studocu.com/hu/course/pazmany-peter-katolikus-egyetem/a-csecsemo-es-kisgyermekkor-fejlodespszichologiaja/6778681"
+    },
+    {
+      "name": "A holokauszt és emlékezete",
+      "code": "HXXOSO0020AX",
+      "url": "https://www.studocu.com/hu/course/pazmany-peter-katolikus-egyetem/a-holokauszt-es-emlekezete/4351144"
+    },
+    {
+      "name": "A nyugati normák és a keleti szokások találkozása a japán jogban",
+      "code": null,
+      "url": "https://www.studocu.com/hu/course/pazmany-peter-katolikus-egyetem/a-nyugati-normak-es-a-keleti-szokasok-talalkozasa-a-japan-jogban/6607826"
+    },
+    {
+      "name": "A pszichológia biológiai alapjai 2",
+      "code": "BBNPS11500",
+      "url": "https://www.studocu.com/hu/course/pazmany-peter-katolikus-egyetem/a-pszichologia-biologiai-alapjai-2/5367291"
+    },
+    {
+      "name": "A régi Kína története és kultúrája",
+      "code": "BBNNT14800",
+      "url": "https://www.studocu.com/hu/course/pazmany-peter-katolikus-egyetem/a-regi-kina-tortenete-es-kulturaja/5540639"
+    },
+    {
+      "name": "A személyiséglélektan fenomenológiai perspektívája",
+      "code": null,
+      "url": "https://www.studocu.com/hu/course/pazmany-peter-katolikus-egyetem/a-szemelyiseglelektan-fenomenologiai-perspektivaja/7126489"
+    },
+    {
+      "name": "Alapvető etika",
+      "code": null,
+      "url": "https://www.studocu.com/hu/course/pazmany-peter-katolikus-egyetem/alapveto-etika/4407405"
+    },
+    {
+      "name": "alkalmazott informatika",
+      "code": null,
+      "url": "https://www.studocu.com/hu/course/pazmany-peter-katolikus-egyetem/alkalmazott-informatika/7358903"
+    },
+    {
+      "name": "Alkalmazott pszichológia speciális kollégium",
+      "code": null,
+      "url": "https://www.studocu.com/hu/course/pazmany-peter-katolikus-egyetem/alkalmazott-pszichologia-specialis-kollegium/6889596"
+    },
+    {
+      "name": "Alkotmányjog",
+      "code": null,
+      "url": "https://www.studocu.com/hu/course/pazmany-peter-katolikus-egyetem/alkotmanyjog/4512585"
+    },
+    {
+      "name": "Alkotmányjog 1",
+      "code": "1.",
+      "url": "https://www.studocu.com/hu/course/pazmany-peter-katolikus-egyetem/alkotmanyjog-1/7745400"
+    },
+    {
+      "name": "angol irodalmak kulturája",
+      "code": null,
+      "url": "https://www.studocu.com/hu/course/pazmany-peter-katolikus-egyetem/angol-irodalmak-kulturaja/7253454"
+    },
+    {
+      "name": "Angol nyelvgyakorlat 2.",
+      "code": null,
+      "url": "https://www.studocu.com/hu/course/pazmany-peter-katolikus-egyetem/angol-nyelvgyakorlat-2/5783708"
+    },
+    {
+      "name": "Antik filozófia",
+      "code": "BBNSF15900",
+      "url": "https://www.studocu.com/hu/course/pazmany-peter-katolikus-egyetem/antik-filozofia/7150671"
+    },
+    {
+      "name": "Az egyház szerepvállalása a regionális és globális társadalmi problémák kezelésében",
+      "code": null,
+      "url": "https://www.studocu.com/hu/course/pazmany-peter-katolikus-egyetem/az-egyhaz-szerepvallalasa-a-regionalis-es-globalis-tarsadalmi-problemak-kezeleseben/6673830"
+    },
+    {
+      "name": "Az orosz kultúra",
+      "code": "(BBNSK30500)",
+      "url": "https://www.studocu.com/hu/course/pazmany-peter-katolikus-egyetem/az-orosz-kultura/6185196"
+    },
+    {
+      "name": "Államelmélet I",
+      "code": null,
+      "url": "https://www.studocu.com/hu/course/pazmany-peter-katolikus-egyetem/allamelmelet-i/4353874"
+    },
+    {
+      "name": "Állami egyházjog",
+      "code": "JOAJ302XCO",
+      "url": "https://www.studocu.com/hu/course/pazmany-peter-katolikus-egyetem/allami-egyhazjog/6055630"
+    },
+    {
+      "name": "Általános filozófiatörténet",
+      "code": "BBNSF00100",
+      "url": "https://www.studocu.com/hu/course/pazmany-peter-katolikus-egyetem/altalanos-filozofiatortenet/5137558"
+    },
+    {
+      "name": "Bevezetés a jogfogalmakba",
+      "code": null,
+      "url": "https://www.studocu.com/hu/course/pazmany-peter-katolikus-egyetem/bevezetes-a-jogfogalmakba/3737128"
+    },
+    {
+      "name": "Bevezetés a közgazdaságtanba",
+      "code": "bev2022",
+      "url": "https://www.studocu.com/hu/course/pazmany-peter-katolikus-egyetem/bevezetes-a-kozgazdasagtanba/5493889"
+    },
+    {
+      "name": "Bevezetés a méréstechnikába és jelfeldolgozásba",
+      "code": "P-ITEEA-0015",
+      "url": "https://www.studocu.com/hu/course/pazmany-peter-katolikus-egyetem/bevezetes-a-merestechnikaba-es-jelfeldolgozasba/5814733"
+    },
+    {
+      "name": "Bevezetés a nyomtatott és elektronikus újságírásba",
+      "code": null,
+      "url": "https://www.studocu.com/hu/course/pazmany-peter-katolikus-egyetem/bevezetes-a-nyomtatott-es-elektronikus-ujsagirasba/5835146"
+    },
+    {
+      "name": "Bevezetés a pszichológia főbb területeibe",
+      "code": "BBLPS11100",
+      "url": "https://www.studocu.com/hu/course/pazmany-peter-katolikus-egyetem/bevezetes-a-pszichologia-fobb-teruleteibe/7290025"
+    },
+    {
+      "name": "Bevezetés a történettudományba",
+      "code": null,
+      "url": "https://www.studocu.com/hu/course/pazmany-peter-katolikus-egyetem/bevezetes-a-tortenettudomanyba/5882805"
+    },
+    {
+      "name": "Bevjog",
+      "code": null,
+      "url": "https://www.studocu.com/hu/course/pazmany-peter-katolikus-egyetem/bevjog/6704070"
+    },
+    {
+      "name": "Bibliaismeret II.",
+      "code": null,
+      "url": "https://www.studocu.com/hu/course/pazmany-peter-katolikus-egyetem/bibliaismeret-ii/4419593"
+    },
+    {
+      "name": "Bírósági Végrehajtás",
+      "code": "JAPE201XX1",
+      "url": "https://www.studocu.com/hu/course/pazmany-peter-katolikus-egyetem/birosagi-vegrehajtas/6677630"
+    },
+    {
+      "name": "Bírósági és ügyészségi ügyvitel 1.",
+      "code": "JABJ203XX1",
+      "url": "https://www.studocu.com/hu/course/pazmany-peter-katolikus-egyetem/birosagi-es-ugyeszsegi-ugyvitel-1/6941836"
+    },
+    {
+      "name": "Büntetés végrehajtási jog",
+      "code": null,
+      "url": "https://www.studocu.com/hu/course/pazmany-peter-katolikus-egyetem/buntetes-vegrehajtasi-jog/6650035"
+    },
+    {
+      "name": "Büntetöeljárásjog",
+      "code": null,
+      "url": "https://www.studocu.com/hu/course/pazmany-peter-katolikus-egyetem/buntetoeljarasjog/5355519"
+    },
+    {
+      "name": "Büntetöjog",
+      "code": null,
+      "url": "https://www.studocu.com/hu/course/pazmany-peter-katolikus-egyetem/buntetojog/5355517"
+    },
+    {
+      "name": "Büntetőjog II.",
+      "code": null,
+      "url": "https://www.studocu.com/hu/course/pazmany-peter-katolikus-egyetem/buntetojog-ii/7520337"
+    },
+    {
+      "name": "Civilisation",
+      "code": null,
+      "url": "https://www.studocu.com/hu/course/pazmany-peter-katolikus-egyetem/civilisation/7153812"
+    },
+    {
+      "name": "Civilisztika",
+      "code": "00N",
+      "url": "https://www.studocu.com/hu/course/pazmany-peter-katolikus-egyetem/civilisztika/4317675"
+    },
+    {
+      "name": "Comparative Law szabvál",
+      "code": null,
+      "url": "https://www.studocu.com/hu/course/pazmany-peter-katolikus-egyetem/comparative-law-szabval/7369918"
+    },
+    {
+      "name": "Competition law",
+      "code": "Versenyjog",
+      "url": "https://www.studocu.com/hu/course/pazmany-peter-katolikus-egyetem/competition-law/7180691"
+    },
+    {
+      "name": "Cégszerkesztési gyakorlat",
+      "code": "JAPJ207XX1",
+      "url": "https://www.studocu.com/hu/course/pazmany-peter-katolikus-egyetem/cegszerkesztesi-gyakorlat/7209807"
+    },
+    {
+      "name": "Digitális transzformáció",
+      "code": "DT2024",
+      "url": "https://www.studocu.com/hu/course/pazmany-peter-katolikus-egyetem/digitalis-transzformacio/7311244"
+    },
+    {
+      "name": "Egyetemes állam és jogtudomány",
+      "code": "2020 tételek",
+      "url": "https://www.studocu.com/hu/course/pazmany-peter-katolikus-egyetem/egyetemes-allam-es-jogtudomany/4617697"
+    },
+    {
+      "name": "Egyetemes Állam és Jogtörénet",
+      "code": null,
+      "url": "https://www.studocu.com/hu/course/pazmany-peter-katolikus-egyetem/egyetemes-allam-es-jogtorenet/6025418"
+    },
+    {
+      "name": "Electrical Engineering",
+      "code": "ee-320-2",
+      "url": "https://www.studocu.com/hu/course/pazmany-peter-katolikus-egyetem/electrical-engineering/5401543"
+    },
+    {
+      "name": "electrical engineering",
+      "code": "ee320",
+      "url": "https://www.studocu.com/hu/course/pazmany-peter-katolikus-egyetem/electrical-engineering/6360089"
+    },
+    {
+      "name": "Energiajog",
+      "code": null,
+      "url": "https://www.studocu.com/hu/course/pazmany-peter-katolikus-egyetem/energiajog/7587180"
+    },
+    {
+      "name": "environmental law",
+      "code": null,
+      "url": "https://www.studocu.com/hu/course/pazmany-peter-katolikus-egyetem/environmental-law/7617262"
+    },
+    {
+      "name": "Etikett",
+      "code": "2021",
+      "url": "https://www.studocu.com/hu/course/pazmany-peter-katolikus-egyetem/etikett/7180558"
+    },
+    {
+      "name": "Etológia",
+      "code": "BBLPS22000",
+      "url": "https://www.studocu.com/hu/course/pazmany-peter-katolikus-egyetem/etologia/6518140"
+    },
+    {
+      "name": "EU Environmental Law",
+      "code": null,
+      "url": "https://www.studocu.com/hu/course/pazmany-peter-katolikus-egyetem/eu-environmental-law/7501664"
+    },
+    {
+      "name": "Európajog 1.",
+      "code": "EU208XX0",
+      "url": "https://www.studocu.com/hu/course/pazmany-peter-katolikus-egyetem/europajog-1/6932320"
+    },
+    {
+      "name": "Európajog 2",
+      "code": "EU1123",
+      "url": "https://www.studocu.com/hu/course/pazmany-peter-katolikus-egyetem/europajog-2/5792274"
+    },
+    {
+      "name": "Európajog 3",
+      "code": "205XX0",
+      "url": "https://www.studocu.com/hu/course/pazmany-peter-katolikus-egyetem/europajog-3/6552783"
+    },
+    {
+      "name": "értékrend és pluralizmus",
+      "code": "0000",
+      "url": "https://www.studocu.com/hu/course/pazmany-peter-katolikus-egyetem/ertekrend-es-pluralizmus/7614200"
+    },
+    {
+      "name": "Fizikai Alapismeretek",
+      "code": "EEEE 4321",
+      "url": "https://www.studocu.com/hu/course/pazmany-peter-katolikus-egyetem/fizikai-alapismeretek/6569021"
+    },
+    {
+      "name": "Gazdasági Társaságok Joggazdaságtana",
+      "code": null,
+      "url": "https://www.studocu.com/hu/course/pazmany-peter-katolikus-egyetem/gazdasagi-tarsasagok-joggazdasagtana/6640735"
+    },
+    {
+      "name": "Hogyan is történt 1-2",
+      "code": null,
+      "url": "https://www.studocu.com/hu/course/pazmany-peter-katolikus-egyetem/hogyan-is-tortent-1-2/7558949"
+    },
+    {
+      "name": "Humánerőforrás és szakpolitikák",
+      "code": null,
+      "url": "https://www.studocu.com/hu/course/pazmany-peter-katolikus-egyetem/humaneroforras-es-szakpolitikak/6913296"
+    },
+    {
+      "name": "Hátránycsökkentő pedagógiai módszerek",
+      "code": "BBNCP08400",
+      "url": "https://www.studocu.com/hu/course/pazmany-peter-katolikus-egyetem/hatranycsokkento-pedagogiai-modszerek/6491699"
+    },
+    {
+      "name": "international criminal jurisprudence",
+      "code": null,
+      "url": "https://www.studocu.com/hu/course/pazmany-peter-katolikus-egyetem/international-criminal-jurisprudence/7617264"
+    },
+    {
+      "name": "Iszlám civilizáció",
+      "code": null,
+      "url": "https://www.studocu.com/hu/course/pazmany-peter-katolikus-egyetem/iszlam-civilizacio/6872975"
+    },
+    {
+      "name": "Jogelmélet",
+      "code": null,
+      "url": "https://www.studocu.com/hu/course/pazmany-peter-katolikus-egyetem/jogelmelet/4575443"
+    },
+    {
+      "name": "Jogi alapismeretek",
+      "code": "BBNSZ01000",
+      "url": "https://www.studocu.com/hu/course/pazmany-peter-katolikus-egyetem/jogi-alapismeretek/6491690"
+    },
+    {
+      "name": "jogi informatika",
+      "code": "JG10389",
+      "url": "https://www.studocu.com/hu/course/pazmany-peter-katolikus-egyetem/jogi-informatika/6146628"
+    },
+    {
+      "name": "Jogszociológia",
+      "code": "JAJB209XX0",
+      "url": "https://www.studocu.com/hu/course/pazmany-peter-katolikus-egyetem/jogszociologia/6634401"
+    },
+    {
+      "name": "Jogtörténet",
+      "code": null,
+      "url": "https://www.studocu.com/hu/course/pazmany-peter-katolikus-egyetem/jogtortenet/6152689"
+    },
+    {
+      "name": "Jogászi etikai problémák",
+      "code": null,
+      "url": "https://www.studocu.com/hu/course/pazmany-peter-katolikus-egyetem/jogaszi-etikai-problemak/7608100"
+    },
+    {
+      "name": "jogászi érvelés, jogi retorika",
+      "code": "PPKE JAK JEJR",
+      "url": "https://www.studocu.com/hu/course/pazmany-peter-katolikus-egyetem/jogaszi-erveles-jogi-retorika/7408940"
+    },
+    {
+      "name": "Jóléti államok konfliktusai",
+      "code": null,
+      "url": "https://www.studocu.com/hu/course/pazmany-peter-katolikus-egyetem/joleti-allamok-konfliktusai/6913295"
+    },
+    {
+      "name": "Katolikus hit alapjai",
+      "code": null,
+      "url": "https://www.studocu.com/hu/course/pazmany-peter-katolikus-egyetem/katolikus-hit-alapjai/5885901"
+    },
+    {
+      "name": "Keresztény erkölcs és jogászi etika",
+      "code": "JORJ303XA0",
+      "url": "https://www.studocu.com/hu/course/pazmany-peter-katolikus-egyetem/kereszteny-erkolcs-es-jogaszi-etika/7308386"
+    },
+    {
+      "name": "Klasszikus magyar irodalom 2",
+      "code": "BBNMI05800",
+      "url": "https://www.studocu.com/hu/course/pazmany-peter-katolikus-egyetem/klasszikus-magyar-irodalom-2/5918046"
+    },
+    {
+      "name": "Komm.elméleti etalon vizsga",
+      "code": null,
+      "url": "https://www.studocu.com/hu/course/pazmany-peter-katolikus-egyetem/kommelmeleti-etalon-vizsga/7373712"
+    },
+    {
+      "name": "Koncepciós perek Magyarországon",
+      "code": "BBNPO14300\t1",
+      "url": "https://www.studocu.com/hu/course/pazmany-peter-katolikus-egyetem/koncepcios-perek-magyarorszagon/6982584"
+    },
+    {
+      "name": "Kriminalisztika",
+      "code": "JOBJ303XC0",
+      "url": "https://www.studocu.com/hu/course/pazmany-peter-katolikus-egyetem/kriminalisztika/7558765"
+    },
+    {
+      "name": "Kriminalisztika",
+      "code": null,
+      "url": "https://www.studocu.com/hu/course/pazmany-peter-katolikus-egyetem/kriminalisztika/7572297"
+    },
+    {
+      "name": "Kriminológia",
+      "code": null,
+      "url": "https://www.studocu.com/hu/course/pazmany-peter-katolikus-egyetem/kriminologia/6665906"
+    },
+    {
+      "name": "Kutatásmódszertan",
+      "code": null,
+      "url": "https://www.studocu.com/hu/course/pazmany-peter-katolikus-egyetem/kutatasmodszertan/7061464"
+    },
+    {
+      "name": "Kánonjog 2",
+      "code": "112",
+      "url": "https://www.studocu.com/hu/course/pazmany-peter-katolikus-egyetem/kanonjog-2/4573644"
+    },
+    {
+      "name": "Kánonjog 3.",
+      "code": null,
+      "url": "https://www.studocu.com/hu/course/pazmany-peter-katolikus-egyetem/kanonjog-3/7719561"
+    },
+    {
+      "name": "Kánonjog I",
+      "code": null,
+      "url": "https://www.studocu.com/hu/course/pazmany-peter-katolikus-egyetem/kanonjog-i/6186660"
+    },
+    {
+      "name": "Környezetgazdaságtan",
+      "code": "JOKG306XA0",
+      "url": "https://www.studocu.com/hu/course/pazmany-peter-katolikus-egyetem/kornyezetgazdasagtan/7564980"
+    },
+    {
+      "name": "Környezetvédelmi jog 1.",
+      "code": null,
+      "url": "https://www.studocu.com/hu/course/pazmany-peter-katolikus-egyetem/kornyezetvedelmi-jog-1/6676029"
+    },
+    {
+      "name": "Közigazgatási jog",
+      "code": null,
+      "url": "https://www.studocu.com/hu/course/pazmany-peter-katolikus-egyetem/kozigazgatasi-jog/5355524"
+    },
+    {
+      "name": "Közigazgatási jog 2",
+      "code": "Közig2",
+      "url": "https://www.studocu.com/hu/course/pazmany-peter-katolikus-egyetem/kozigazgatasi-jog-2/5806850"
+    },
+    {
+      "name": "Közigazgatási jog III",
+      "code": null,
+      "url": "https://www.studocu.com/hu/course/pazmany-peter-katolikus-egyetem/kozigazgatasi-jog-iii/7383412"
+    },
+    {
+      "name": "Közszolgálati jog",
+      "code": "JAMT203XX1",
+      "url": "https://www.studocu.com/hu/course/pazmany-peter-katolikus-egyetem/kozszolgalati-jog/7010723"
+    },
+    {
+      "name": "Labour law",
+      "code": null,
+      "url": "https://www.studocu.com/hu/course/pazmany-peter-katolikus-egyetem/labour-law/7196554"
+    },
+    {
+      "name": "Latin",
+      "code": null,
+      "url": "https://www.studocu.com/hu/course/pazmany-peter-katolikus-egyetem/latin/4361132"
+    },
+    {
+      "name": "Latin extra",
+      "code": null,
+      "url": "https://www.studocu.com/hu/course/pazmany-peter-katolikus-egyetem/latin-extra/7369916"
+    },
+    {
+      "name": "Law and literature",
+      "code": "JOJB441NA0",
+      "url": "https://www.studocu.com/hu/course/pazmany-peter-katolikus-egyetem/law-and-literature/7282369"
+    },
+    {
+      "name": "Legal terminology",
+      "code": null,
+      "url": "https://www.studocu.com/hu/course/pazmany-peter-katolikus-egyetem/legal-terminology/7570468"
+    },
+    {
+      "name": "Legal Theory",
+      "code": null,
+      "url": "https://www.studocu.com/hu/course/pazmany-peter-katolikus-egyetem/legal-theory/3434596"
+    },
+    {
+      "name": "Magyar alkotmánytörténet",
+      "code": null,
+      "url": "https://www.studocu.com/hu/course/pazmany-peter-katolikus-egyetem/magyar-alkotmanytortenet/5810860"
+    },
+    {
+      "name": "Magyar jogtörténet",
+      "code": "MÁJT2022",
+      "url": "https://www.studocu.com/hu/course/pazmany-peter-katolikus-egyetem/magyar-jogtortenet/6180323"
+    },
+    {
+      "name": "Magyar jogtörténet",
+      "code": "MÁJT  2024",
+      "url": "https://www.studocu.com/hu/course/pazmany-peter-katolikus-egyetem/magyar-jogtortenet/7266253"
+    },
+    {
+      "name": "Magyar politika és diplomáciatörténet",
+      "code": null,
+      "url": "https://www.studocu.com/hu/course/pazmany-peter-katolikus-egyetem/magyar-politika-es-diplomaciatortenet/6589997"
+    },
+    {
+      "name": "math principle",
+      "code": "math 1333",
+      "url": "https://www.studocu.com/hu/course/pazmany-peter-katolikus-egyetem/math-principle/4519276"
+    },
+    {
+      "name": "Metafizika",
+      "code": "BBNSF01100",
+      "url": "https://www.studocu.com/hu/course/pazmany-peter-katolikus-egyetem/metafizika/7364240"
+    },
+    {
+      "name": "Munkajog 1.",
+      "code": null,
+      "url": "https://www.studocu.com/hu/course/pazmany-peter-katolikus-egyetem/munkajog-1/6601213"
+    },
+    {
+      "name": "Munkajog 2.",
+      "code": null,
+      "url": "https://www.studocu.com/hu/course/pazmany-peter-katolikus-egyetem/munkajog-2/6256191"
+    },
+    {
+      "name": "Nemzeti és etnikai kisebbségek",
+      "code": null,
+      "url": "https://www.studocu.com/hu/course/pazmany-peter-katolikus-egyetem/nemzeti-es-etnikai-kisebbsegek/6476069"
+    },
+    {
+      "name": "Nemzetközi kapcsolatok",
+      "code": null,
+      "url": "https://www.studocu.com/hu/course/pazmany-peter-katolikus-egyetem/nemzetkozi-kapcsolatok/6872980"
+    },
+    {
+      "name": "Nemzetközi környezetjog",
+      "code": null,
+      "url": "https://www.studocu.com/hu/course/pazmany-peter-katolikus-egyetem/nemzetkozi-kornyezetjog/6970781"
+    },
+    {
+      "name": "nemzetközi közjog",
+      "code": null,
+      "url": "https://www.studocu.com/hu/course/pazmany-peter-katolikus-egyetem/nemzetkozi-kozjog/5845085"
+    },
+    {
+      "name": "Nemzetközi magánjog 1",
+      "code": null,
+      "url": "https://www.studocu.com/hu/course/pazmany-peter-katolikus-egyetem/nemzetkozi-maganjog-1/4572101"
+    },
+    {
+      "name": "nemzetközi magánjog 2",
+      "code": null,
+      "url": "https://www.studocu.com/hu/course/pazmany-peter-katolikus-egyetem/nemzetkozi-maganjog-2/7551763"
+    },
+    {
+      "name": "Nemzetközi Pénzügyek",
+      "code": null,
+      "url": "https://www.studocu.com/hu/course/pazmany-peter-katolikus-egyetem/nemzetkozi-penzugyek/6603239"
+    },
+    {
+      "name": "Neuroanatómia",
+      "code": null,
+      "url": "https://www.studocu.com/hu/course/pazmany-peter-katolikus-egyetem/neuroanatomia/7058091"
+    },
+    {
+      "name": "német nyelvgyakorlat",
+      "code": null,
+      "url": "https://www.studocu.com/hu/course/pazmany-peter-katolikus-egyetem/nemet-nyelvgyakorlat/7413595"
+    },
+    {
+      "name": "Oktatáselmélet",
+      "code": null,
+      "url": "https://www.studocu.com/hu/course/pazmany-peter-katolikus-egyetem/oktataselmelet/7249841"
+    },
+    {
+      "name": "Orvosi Jog",
+      "code": "JOPJ307XC0",
+      "url": "https://www.studocu.com/hu/course/pazmany-peter-katolikus-egyetem/orvosi-jog/6625891"
+    },
+    {
+      "name": "Óvodapedagógia",
+      "code": null,
+      "url": "https://www.studocu.com/hu/course/pazmany-peter-katolikus-egyetem/ovodapedagogia/6745440"
+    },
+    {
+      "name": "Összehasonlító közjog levelező",
+      "code": null,
+      "url": "https://www.studocu.com/hu/course/pazmany-peter-katolikus-egyetem/osszehasonlito-kozjog-levelezo/6634460"
+    },
+    {
+      "name": "Polgári eljárásjog 1.",
+      "code": "JOPE201XX0",
+      "url": "https://www.studocu.com/hu/course/pazmany-peter-katolikus-egyetem/polgari-eljarasjog-1/7348191"
+    },
+    {
+      "name": "Polgári eljárásjog 2",
+      "code": "Pp2",
+      "url": "https://www.studocu.com/hu/course/pazmany-peter-katolikus-egyetem/polgari-eljarasjog-2/7250224"
+    },
+    {
+      "name": "Polgári eljárásjog 3",
+      "code": null,
+      "url": "https://www.studocu.com/hu/course/pazmany-peter-katolikus-egyetem/polgari-eljarasjog-3/7585205"
+    },
+    {
+      "name": "Polgári jog",
+      "code": null,
+      "url": "https://www.studocu.com/hu/course/pazmany-peter-katolikus-egyetem/polgari-jog/6703795"
+    },
+    {
+      "name": "Polgári jog 1",
+      "code": "pj1",
+      "url": "https://www.studocu.com/hu/course/pazmany-peter-katolikus-egyetem/polgari-jog-1/5161559"
+    },
+    {
+      "name": "Polgári jog 2",
+      "code": null,
+      "url": "https://www.studocu.com/hu/course/pazmany-peter-katolikus-egyetem/polgari-jog-2/6548463"
+    },
+    {
+      "name": "polgári perjog 2",
+      "code": null,
+      "url": "https://www.studocu.com/hu/course/pazmany-peter-katolikus-egyetem/polgari-perjog-2/6316869"
+    },
+    {
+      "name": "Polgárjog 2",
+      "code": null,
+      "url": "https://www.studocu.com/hu/course/pazmany-peter-katolikus-egyetem/polgarjog-2/4886862"
+    },
+    {
+      "name": "Polgárjog 3",
+      "code": "PJ3",
+      "url": "https://www.studocu.com/hu/course/pazmany-peter-katolikus-egyetem/polgarjog-3/5806854"
+    },
+    {
+      "name": "Polgási perrendtartás 3",
+      "code": null,
+      "url": "https://www.studocu.com/hu/course/pazmany-peter-katolikus-egyetem/polgasi-perrendtartas-3/7228901"
+    },
+    {
+      "name": "Political Science",
+      "code": null,
+      "url": "https://www.studocu.com/hu/course/pazmany-peter-katolikus-egyetem/political-science/3434587"
+    },
+    {
+      "name": "Programming Methodology",
+      "code": "P-MIM_T4A",
+      "url": "https://www.studocu.com/hu/course/pazmany-peter-katolikus-egyetem/programming-methodology/5734531"
+    },
+    {
+      "name": "párbeszéd, beszédhelyzetek, interjú",
+      "code": null,
+      "url": "https://www.studocu.com/hu/course/pazmany-peter-katolikus-egyetem/parbeszed-beszedhelyzetek-interju/7286152"
+    },
+    {
+      "name": "Pénzügyi ismeretek és gazdaságpolitika",
+      "code": null,
+      "url": "https://www.studocu.com/hu/course/pazmany-peter-katolikus-egyetem/penzugyi-ismeretek-es-gazdasagpolitika/7416874"
+    },
+    {
+      "name": "Pénzügyi jog",
+      "code": null,
+      "url": "https://www.studocu.com/hu/course/pazmany-peter-katolikus-egyetem/penzugyi-jog/4552736"
+    },
+    {
+      "name": "Rorschach diagnosztika alapjai",
+      "code": null,
+      "url": "https://www.studocu.com/hu/course/pazmany-peter-katolikus-egyetem/rorschach-diagnosztika-alapjai/6950333"
+    },
+    {
+      "name": "Római Jog",
+      "code": null,
+      "url": "https://www.studocu.com/hu/course/pazmany-peter-katolikus-egyetem/romai-jog/5324115"
+    },
+    {
+      "name": "Sajátos nevelési igényű gyermekek pedagógiája",
+      "code": "BBNCP13200",
+      "url": "https://www.studocu.com/hu/course/pazmany-peter-katolikus-egyetem/sajatos-nevelesi-igenyu-gyermekek-pedagogiaja/6491695"
+    },
+    {
+      "name": "social psychology",
+      "code": null,
+      "url": "https://www.studocu.com/hu/course/pazmany-peter-katolikus-egyetem/social-psychology/5127170"
+    },
+    {
+      "name": "Specializációs etalon vizsga - Közkapcsolatok",
+      "code": "BBNKM06200",
+      "url": "https://www.studocu.com/hu/course/pazmany-peter-katolikus-egyetem/specializacios-etalon-vizsga-kozkapcsolatok/7210222"
+    },
+    {
+      "name": "Speciális kollégium - Szociálpszichológia blokk",
+      "code": "BBNPS19600",
+      "url": "https://www.studocu.com/hu/course/pazmany-peter-katolikus-egyetem/specialis-kollegium-szocialpszichologia-blokk/7175306"
+    },
+    {
+      "name": "sportjog",
+      "code": null,
+      "url": "https://www.studocu.com/hu/course/pazmany-peter-katolikus-egyetem/sportjog/5918295"
+    },
+    {
+      "name": "Statisztika",
+      "code": "JOKG302XA0",
+      "url": "https://www.studocu.com/hu/course/pazmany-peter-katolikus-egyetem/statisztika/6181459"
+    },
+    {
+      "name": "Stressz és coping",
+      "code": null,
+      "url": "https://www.studocu.com/hu/course/pazmany-peter-katolikus-egyetem/stressz-es-coping/7373644"
+    },
+    {
+      "name": "Személyiség dinamikus és tárgykapcsolati elméletei",
+      "code": "BBNPS18600",
+      "url": "https://www.studocu.com/hu/course/pazmany-peter-katolikus-egyetem/szemelyiseg-dinamikus-es-targykapcsolati-elmeletei/6988528"
+    },
+    {
+      "name": "Személyiségi jogok védelme és drónszabályozás",
+      "code": "JOPJ40EXA0",
+      "url": "https://www.studocu.com/hu/course/pazmany-peter-katolikus-egyetem/szemelyisegi-jogok-vedelme-es-dronszabalyozas/7696908"
+    },
+    {
+      "name": "Szentszék a nemzetközi jogban és válságkezelésben",
+      "code": "JOKJ465XA0",
+      "url": "https://www.studocu.com/hu/course/pazmany-peter-katolikus-egyetem/szentszek-a-nemzetkozi-jogban-es-valsagkezelesben/7724458"
+    },
+    {
+      "name": "Szenzoros megismerés és motiváció",
+      "code": "BBNPS17100",
+      "url": "https://www.studocu.com/hu/course/pazmany-peter-katolikus-egyetem/szenzoros-megismeres-es-motivacio/5137554"
+    },
+    {
+      "name": "Szociológia",
+      "code": null,
+      "url": "https://www.studocu.com/hu/course/pazmany-peter-katolikus-egyetem/szociologia/4410057"
+    },
+    {
+      "name": "Szociálpedagógia",
+      "code": null,
+      "url": "https://www.studocu.com/hu/course/pazmany-peter-katolikus-egyetem/szocialpedagogia/5844287"
+    },
+    {
+      "name": "Szt. Ágostoni teológia",
+      "code": "JOXX",
+      "url": "https://www.studocu.com/hu/course/pazmany-peter-katolikus-egyetem/szt-agostoni-teologia/6055623"
+    },
+    {
+      "name": "számvitel",
+      "code": null,
+      "url": "https://www.studocu.com/hu/course/pazmany-peter-katolikus-egyetem/szamvitel/7228713"
+    },
+    {
+      "name": "székely jog",
+      "code": null,
+      "url": "https://www.studocu.com/hu/course/pazmany-peter-katolikus-egyetem/szekely-jog/7154560"
+    },
+    {
+      "name": "Tb és szociális jog",
+      "code": null,
+      "url": "https://www.studocu.com/hu/course/pazmany-peter-katolikus-egyetem/tb-es-szocialis-jog/7228899"
+    },
+    {
+      "name": "Tárgyalástechnika",
+      "code": null,
+      "url": "https://www.studocu.com/hu/course/pazmany-peter-katolikus-egyetem/targyalastechnika/7471866"
+    },
+    {
+      "name": "Társadalometika",
+      "code": "111",
+      "url": "https://www.studocu.com/hu/course/pazmany-peter-katolikus-egyetem/tarsadalometika/4503509"
+    },
+    {
+      "name": "Történelem",
+      "code": null,
+      "url": "https://www.studocu.com/hu/course/pazmany-peter-katolikus-egyetem/tortenelem/5716365"
+    },
+    {
+      "name": "Törvényhozás Testközelből",
+      "code": null,
+      "url": "https://www.studocu.com/hu/course/pazmany-peter-katolikus-egyetem/torvenyhozas-testkozelbol/5838299"
+    },
+    {
+      "name": "Világgazdaságtan",
+      "code": null,
+      "url": "https://www.studocu.com/hu/course/pazmany-peter-katolikus-egyetem/vilaggazdasagtan/5847783"
+    },
+    {
+      "name": "Viselkedés diagnosztika",
+      "code": "BBNPS22800",
+      "url": "https://www.studocu.com/hu/course/pazmany-peter-katolikus-egyetem/viselkedes-diagnosztika/6232803"
+    },
+    {
+      "name": "Ügyvédi és közjegyzői jog",
+      "code": "JAPE203XX0",
+      "url": "https://www.studocu.com/hu/course/pazmany-peter-katolikus-egyetem/ugyvedi-es-kozjegyzoi-jog/7291229"
+    }
+  ]
+}

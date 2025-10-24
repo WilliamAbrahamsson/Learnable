@@ -1,0 +1,596 @@
+{
+  "university_id": "10684",
+  "university_name": "Southeastern University",
+  "courses": [
+    {
+      "name": "Abnormal Psychology",
+      "code": "PSYC 3003",
+      "url": "https://www.studocu.com/en-us/course/southeastern-university/abnormal-psychology/6173006"
+    },
+    {
+      "name": "Accounting Information Systems",
+      "code": "ACTG 3603",
+      "url": "https://www.studocu.com/en-us/course/southeastern-university/accounting-information-systems/4622836"
+    },
+    {
+      "name": "Adv Methods Of Teaching Health",
+      "code": "EDUC 5043",
+      "url": "https://www.studocu.com/en-us/course/southeastern-university/adv-methods-of-teaching-health/4623321"
+    },
+    {
+      "name": "Advanced Managerial Accounting",
+      "code": "BUSI 5313",
+      "url": "https://www.studocu.com/en-us/course/southeastern-university/advanced-managerial-accounting/4623017"
+    },
+    {
+      "name": "Advanced Speech",
+      "code": "COMM 3553",
+      "url": "https://www.studocu.com/en-us/course/southeastern-university/advanced-speech/4623135"
+    },
+    {
+      "name": "American History",
+      "code": "HIST 2023",
+      "url": "https://www.studocu.com/en-us/course/southeastern-university/american-history/4458744"
+    },
+    {
+      "name": "Applied Biomechanics",
+      "code": "KINS 3303",
+      "url": "https://www.studocu.com/en-us/course/southeastern-university/applied-biomechanics/4623254"
+    },
+    {
+      "name": "Applied Pharmacology",
+      "code": "NURS 3124",
+      "url": "https://www.studocu.com/en-us/course/southeastern-university/applied-pharmacology/5351066"
+    },
+    {
+      "name": "Biblical Hermeneutics",
+      "code": "BIBL 2623",
+      "url": "https://www.studocu.com/en-us/course/southeastern-university/biblical-hermeneutics/4622854"
+    },
+    {
+      "name": "Biochemistry",
+      "code": "CHEM 3353",
+      "url": "https://www.studocu.com/en-us/course/southeastern-university/biochemistry/5194469"
+    },
+    {
+      "name": "Biology I",
+      "code": "BIOL 1233",
+      "url": "https://www.studocu.com/en-us/course/southeastern-university/biology-i/4622916"
+    },
+    {
+      "name": "Biology I Lab",
+      "code": "BIOL 123L",
+      "url": "https://www.studocu.com/en-us/course/southeastern-university/biology-i-lab/4622907"
+    },
+    {
+      "name": "Biology II",
+      "code": "BIOL 1243",
+      "url": "https://www.studocu.com/en-us/course/southeastern-university/biology-ii/4622917"
+    },
+    {
+      "name": "Biology II Lab",
+      "code": "BIOL 124L",
+      "url": "https://www.studocu.com/en-us/course/southeastern-university/biology-ii-lab/4622908"
+    },
+    {
+      "name": "Business Communication",
+      "code": "BBUS 2113",
+      "url": "https://www.studocu.com/en-us/course/southeastern-university/business-communication/4622939"
+    },
+    {
+      "name": "Business Ethics",
+      "code": "BUSI 4113",
+      "url": "https://www.studocu.com/en-us/course/southeastern-university/business-ethics/4622984"
+    },
+    {
+      "name": "Business Law I",
+      "code": "BUSI 3403",
+      "url": "https://www.studocu.com/en-us/course/southeastern-university/business-law-i/4622974"
+    },
+    {
+      "name": "Cell & Molecular Biology",
+      "code": "BIOL 2633",
+      "url": "https://www.studocu.com/en-us/course/southeastern-university/cell-molecular-biology/4622923"
+    },
+    {
+      "name": "Children’S Literature",
+      "code": "ELED 3333",
+      "url": "https://www.studocu.com/en-us/course/southeastern-university/childrens-literature/4623384"
+    },
+    {
+      "name": "Children’s Literature And Development",
+      "code": "ELED 3003",
+      "url": "https://www.studocu.com/en-us/course/southeastern-university/childrens-literature-and-development/4623379"
+    },
+    {
+      "name": "Christian Spirituality",
+      "code": "PMIN 2123",
+      "url": "https://www.studocu.com/en-us/course/southeastern-university/christian-spirituality/5940884"
+    },
+    {
+      "name": "Cognitive Psychology",
+      "code": "PSYC 3043",
+      "url": "https://www.studocu.com/en-us/course/southeastern-university/cognitive-psychology/4687979"
+    },
+    {
+      "name": "College Algebra",
+      "code": "MATH 1213",
+      "url": "https://www.studocu.com/en-us/course/southeastern-university/college-algebra/5761321"
+    },
+    {
+      "name": "College and Christian Calling",
+      "code": "Core 1001",
+      "url": "https://www.studocu.com/en-us/course/southeastern-university/college-and-christian-calling/5880716"
+    },
+    {
+      "name": "Communicating Leadership",
+      "code": "COMM 3063",
+      "url": "https://www.studocu.com/en-us/course/southeastern-university/communicating-leadership/4623114"
+    },
+    {
+      "name": "Communication Ethics",
+      "code": "COMM 2733",
+      "url": "https://www.studocu.com/en-us/course/southeastern-university/communication-ethics/6202872"
+    },
+    {
+      "name": "Communications and Career In Psychology",
+      "code": "PSYC 2003",
+      "url": "https://www.studocu.com/en-us/course/southeastern-university/communications-and-career-in-psychology/6173004"
+    },
+    {
+      "name": "Criminal Justice System",
+      "code": "CRIM 3103",
+      "url": "https://www.studocu.com/en-us/course/southeastern-university/criminal-justice-system/4623190"
+    },
+    {
+      "name": "Critical Care",
+      "code": "4552",
+      "url": "https://www.studocu.com/en-us/course/southeastern-university/critical-care/4375443"
+    },
+    {
+      "name": "Crosscultural Leadership",
+      "code": "BPLE 3003",
+      "url": "https://www.studocu.com/en-us/course/southeastern-university/crosscultural-leadership/4623056"
+    },
+    {
+      "name": "Curriculum Theory, Concepts, And Design",
+      "code": "EDUC 8003",
+      "url": "https://www.studocu.com/en-us/course/southeastern-university/curriculum-theory-concepts-and-design/4623280"
+    },
+    {
+      "name": "data analytics",
+      "code": "acc 430",
+      "url": "https://www.studocu.com/en-us/course/southeastern-university/data-analytics/7612969"
+    },
+    {
+      "name": "Design/Content Personal Fitness And Weight Training",
+      "code": "KINS 4503",
+      "url": "https://www.studocu.com/en-us/course/southeastern-university/designcontent-personal-fitness-and-weight-training/4623263"
+    },
+    {
+      "name": "Education Seminar",
+      "code": "EDUC 1091",
+      "url": "https://www.studocu.com/en-us/course/southeastern-university/education-seminar/4623212"
+    },
+    {
+      "name": "English Comp I",
+      "code": "ENGL 1133",
+      "url": "https://www.studocu.com/en-us/course/southeastern-university/english-comp-i/5938080"
+    },
+    {
+      "name": "English Comp II",
+      "code": "ENGL-1233-03",
+      "url": "https://www.studocu.com/en-us/course/southeastern-university/english-comp-ii/4701473"
+    },
+    {
+      "name": "Essentials Of Human Anatomy & Physi",
+      "code": "BIOL 1333",
+      "url": "https://www.studocu.com/en-us/course/southeastern-university/essentials-of-human-anatomy-physi/4622918"
+    },
+    {
+      "name": "Evangelism and Mission",
+      "code": "PMIN 2223",
+      "url": "https://www.studocu.com/en-us/course/southeastern-university/evangelism-and-mission/5880726"
+    },
+    {
+      "name": "Faith Integration Capstone Seminar",
+      "code": "THEO 4933",
+      "url": "https://www.studocu.com/en-us/course/southeastern-university/faith-integration-capstone-seminar/4712518"
+    },
+    {
+      "name": "Federal Income Taxation I",
+      "code": "ACTG 4133",
+      "url": "https://www.studocu.com/en-us/course/southeastern-university/federal-income-taxation-i/4622842"
+    },
+    {
+      "name": "Financial Accounting",
+      "code": "BUSI 5063",
+      "url": "https://www.studocu.com/en-us/course/southeastern-university/financial-accounting/4623002"
+    },
+    {
+      "name": "Foundations Of Business Accounting",
+      "code": "BBUS 2133",
+      "url": "https://www.studocu.com/en-us/course/southeastern-university/foundations-of-business-accounting/4622940"
+    },
+    {
+      "name": "Fundamentals",
+      "code": "NUR 1023",
+      "url": "https://www.studocu.com/en-us/course/southeastern-university/fundamentals/4209042"
+    },
+    {
+      "name": "Fundamentals Of Speech",
+      "code": "COMM 1433",
+      "url": "https://www.studocu.com/en-us/course/southeastern-university/fundamentals-of-speech/4623072"
+    },
+    {
+      "name": "General Chemistry for Science Majors Lab 1",
+      "code": "CLAB 123",
+      "url": "https://www.studocu.com/en-us/course/southeastern-university/general-chemistry-for-science-majors-lab-1/4516638"
+    },
+    {
+      "name": "General Chemistry I",
+      "code": "CHEM 1533",
+      "url": "https://www.studocu.com/en-us/course/southeastern-university/general-chemistry-i/5720959"
+    },
+    {
+      "name": "General Chemistry II",
+      "code": "CHEM 1633",
+      "url": "https://www.studocu.com/en-us/course/southeastern-university/general-chemistry-ii/5876597"
+    },
+    {
+      "name": "General Genetics Lab",
+      "code": "BIOL 253L",
+      "url": "https://www.studocu.com/en-us/course/southeastern-university/general-genetics-lab/4622912"
+    },
+    {
+      "name": "Global Business Management",
+      "code": "BUSI 5333",
+      "url": "https://www.studocu.com/en-us/course/southeastern-university/global-business-management/4623019"
+    },
+    {
+      "name": "Graphic Design Elective",
+      "code": "ELECTIVE GRAPHIC DESIGN",
+      "url": "https://www.studocu.com/en-us/course/southeastern-university/graphic-design-elective/4623180"
+    },
+    {
+      "name": "Historical Geography And Archaeology Of Israel",
+      "code": "BIOT 3133",
+      "url": "https://www.studocu.com/en-us/course/southeastern-university/historical-geography-and-archaeology-of-israel/4622900"
+    },
+    {
+      "name": "Human Anatomy And Physiology I",
+      "code": "BIOL 2085",
+      "url": "https://www.studocu.com/en-us/course/southeastern-university/human-anatomy-and-physiology-i/4622919"
+    },
+    {
+      "name": "Human Anatomy And Physiology II",
+      "code": "BIOL 2185",
+      "url": "https://www.studocu.com/en-us/course/southeastern-university/human-anatomy-and-physiology-ii/4622921"
+    },
+    {
+      "name": "Human Behavior and Social Environment I",
+      "code": "SOWK 2053",
+      "url": "https://www.studocu.com/en-us/course/southeastern-university/human-behavior-and-social-environment-i/4911035"
+    },
+    {
+      "name": "Human Behavior and Social Environment II",
+      "code": "SOWK 2063",
+      "url": "https://www.studocu.com/en-us/course/southeastern-university/human-behavior-and-social-environment-ii/4910622"
+    },
+    {
+      "name": "I And II Corinthians",
+      "code": "BINT 3833",
+      "url": "https://www.studocu.com/en-us/course/southeastern-university/i-and-ii-corinthians/4622882"
+    },
+    {
+      "name": "Inrtoduction to Science and Technology",
+      "code": "NCSI 1023",
+      "url": "https://www.studocu.com/en-us/course/southeastern-university/inrtoduction-to-science-and-technology/6501794"
+    },
+    {
+      "name": "Intermediate Accounting I",
+      "code": "ACTG 3113",
+      "url": "https://www.studocu.com/en-us/course/southeastern-university/intermediate-accounting-i/4622832"
+    },
+    {
+      "name": "Intermediate Accounting II",
+      "code": "ACTG 3123",
+      "url": "https://www.studocu.com/en-us/course/southeastern-university/intermediate-accounting-ii/4622833"
+    },
+    {
+      "name": "intro to sociology",
+      "code": "link 270",
+      "url": "https://www.studocu.com/en-us/course/southeastern-university/intro-to-sociology/7104875"
+    },
+    {
+      "name": "Introduction To Business Concepts",
+      "code": "BBUS 1003",
+      "url": "https://www.studocu.com/en-us/course/southeastern-university/introduction-to-business-concepts/4622937"
+    },
+    {
+      "name": "Introduction To Economics",
+      "code": "BBUS 2203",
+      "url": "https://www.studocu.com/en-us/course/southeastern-university/introduction-to-economics/4622941"
+    },
+    {
+      "name": "Introduction to Ethics",
+      "code": "THEO 3123",
+      "url": "https://www.studocu.com/en-us/course/southeastern-university/introduction-to-ethics/4712513"
+    },
+    {
+      "name": "Introduction To Humanities",
+      "code": "HUMS 2233",
+      "url": "https://www.studocu.com/en-us/course/southeastern-university/introduction-to-humanities/5938149"
+    },
+    {
+      "name": "Introduction To Kinesiology",
+      "code": "KINS 2203",
+      "url": "https://www.studocu.com/en-us/course/southeastern-university/introduction-to-kinesiology/4623251"
+    },
+    {
+      "name": "Introduction to Psychology",
+      "code": "Psych 1133",
+      "url": "https://www.studocu.com/en-us/course/southeastern-university/introduction-to-psychology/5880682"
+    },
+    {
+      "name": "Introduction to Science and Technology",
+      "code": "NSCI 1023",
+      "url": "https://www.studocu.com/en-us/course/southeastern-university/introduction-to-science-and-technology/6501788"
+    },
+    {
+      "name": "Introduction To The Bible",
+      "code": "BIBL 1703",
+      "url": "https://www.studocu.com/en-us/course/southeastern-university/introduction-to-the-bible/4622851"
+    },
+    {
+      "name": "Leadership Philosophy",
+      "code": "LDRS 5213",
+      "url": "https://www.studocu.com/en-us/course/southeastern-university/leadership-philosophy/4623047"
+    },
+    {
+      "name": "Leading Across Cultures",
+      "code": "LDRS 5333",
+      "url": "https://www.studocu.com/en-us/course/southeastern-university/leading-across-cultures/4623049"
+    },
+    {
+      "name": "Learning And Cognition",
+      "code": "EDUC 6023",
+      "url": "https://www.studocu.com/en-us/course/southeastern-university/learning-and-cognition/4623270"
+    },
+    {
+      "name": "Life Of Christ",
+      "code": "BIBL 2213",
+      "url": "https://www.studocu.com/en-us/course/southeastern-university/life-of-christ/4622853"
+    },
+    {
+      "name": "Macroeconomics",
+      "code": "BUSI 2103",
+      "url": "https://www.studocu.com/en-us/course/southeastern-university/macroeconomics/4622959"
+    },
+    {
+      "name": "main transition",
+      "code": "ESED 5623",
+      "url": "https://www.studocu.com/en-us/course/southeastern-university/main-transition/5157759"
+    },
+    {
+      "name": "Management Information Systems",
+      "code": "BUSI 3853",
+      "url": "https://www.studocu.com/en-us/course/southeastern-university/management-information-systems/4622981"
+    },
+    {
+      "name": "Managerial Accounting",
+      "code": "BUSI 5083",
+      "url": "https://www.studocu.com/en-us/course/southeastern-university/managerial-accounting/4623004"
+    },
+    {
+      "name": "Marketing",
+      "code": "BUSI 3303",
+      "url": "https://www.studocu.com/en-us/course/southeastern-university/marketing/4622973"
+    },
+    {
+      "name": "Media Ministry Elective",
+      "code": "ELECTIVE MEDIA MINISTRY",
+      "url": "https://www.studocu.com/en-us/course/southeastern-university/media-ministry-elective/4623182"
+    },
+    {
+      "name": "Medical Surgical 1",
+      "code": "MURS_3144_01_UG_MAIN_MEDICAL-SURGICALNURSING1",
+      "url": "https://www.studocu.com/en-us/course/southeastern-university/medical-surgical-1/3329323"
+    },
+    {
+      "name": "Medical Terminology",
+      "code": "BIOL 3703",
+      "url": "https://www.studocu.com/en-us/course/southeastern-university/medical-terminology/4622927"
+    },
+    {
+      "name": "Methods Of Teaching Preschool Chldn",
+      "code": "ECED 2523",
+      "url": "https://www.studocu.com/en-us/course/southeastern-university/methods-of-teaching-preschool-chldn/4623201"
+    },
+    {
+      "name": "Microeconomics",
+      "code": "BUSI 2203",
+      "url": "https://www.studocu.com/en-us/course/southeastern-university/microeconomics/4622962"
+    },
+    {
+      "name": "New Testament Interpretation",
+      "code": "BINT 1533",
+      "url": "https://www.studocu.com/en-us/course/southeastern-university/new-testament-interpretation/5970140"
+    },
+    {
+      "name": "New Testament Introduction",
+      "code": "BINT 5053",
+      "url": "https://www.studocu.com/en-us/course/southeastern-university/new-testament-introduction/4622867"
+    },
+    {
+      "name": "New Testament Theology",
+      "code": "BIBL 5523",
+      "url": "https://www.studocu.com/en-us/course/southeastern-university/new-testament-theology/4622863"
+    },
+    {
+      "name": "Nutrition Science",
+      "code": "NSCI 1043",
+      "url": "https://www.studocu.com/en-us/course/southeastern-university/nutrition-science/5909007"
+    },
+    {
+      "name": "Old Testament Interpretation",
+      "code": "BIOT 1433",
+      "url": "https://www.studocu.com/en-us/course/southeastern-university/old-testament-interpretation/4910628"
+    },
+    {
+      "name": "Old Testament Survey",
+      "code": "BIOT 1133",
+      "url": "https://www.studocu.com/en-us/course/southeastern-university/old-testament-survey/4622894"
+    },
+    {
+      "name": "Organic chemistry 1",
+      "code": "Chem 2133",
+      "url": "https://www.studocu.com/en-us/course/southeastern-university/organic-chemistry-1/6462946"
+    },
+    {
+      "name": "Organizational Behavior",
+      "code": "BUSI 5213",
+      "url": "https://www.studocu.com/en-us/course/southeastern-university/organizational-behavior/3950332"
+    },
+    {
+      "name": "People, Planet, Profit",
+      "code": "QSO-321",
+      "url": "https://www.studocu.com/en-us/course/southeastern-university/people-planet-profit/7241934"
+    },
+    {
+      "name": "Personal Stewardship",
+      "code": "CORE 1503",
+      "url": "https://www.studocu.com/en-us/course/southeastern-university/personal-stewardship/5970142"
+    },
+    {
+      "name": "Photography",
+      "code": "COMM 2023",
+      "url": "https://www.studocu.com/en-us/course/southeastern-university/photography/4623079"
+    },
+    {
+      "name": "Physics",
+      "code": "PHYS 2533",
+      "url": "https://www.studocu.com/en-us/course/southeastern-university/physics/6471268"
+    },
+    {
+      "name": "Physiology Of Exercise",
+      "code": "KINS 4403",
+      "url": "https://www.studocu.com/en-us/course/southeastern-university/physiology-of-exercise/4623262"
+    },
+    {
+      "name": "Principles Of Finance",
+      "code": "BUSI 3103",
+      "url": "https://www.studocu.com/en-us/course/southeastern-university/principles-of-finance/4622970"
+    },
+    {
+      "name": "Principles Of Financial Accounting",
+      "code": "BUSI 2133",
+      "url": "https://www.studocu.com/en-us/course/southeastern-university/principles-of-financial-accounting/4622961"
+    },
+    {
+      "name": "Principles Of Management",
+      "code": "BUSI 3203",
+      "url": "https://www.studocu.com/en-us/course/southeastern-university/principles-of-management/4622971"
+    },
+    {
+      "name": "Principles Of Managerial Accounting",
+      "code": "BUSI 2233",
+      "url": "https://www.studocu.com/en-us/course/southeastern-university/principles-of-managerial-accounting/4622963"
+    },
+    {
+      "name": "Principles Of Marketing",
+      "code": "BBUS 3303",
+      "url": "https://www.studocu.com/en-us/course/southeastern-university/principles-of-marketing/4622947"
+    },
+    {
+      "name": "Professional Communications",
+      "code": "BPLE 2113",
+      "url": "https://www.studocu.com/en-us/course/southeastern-university/professional-communications/4623054"
+    },
+    {
+      "name": "Professional, Ethical, and Legal Issues",
+      "code": "PSYC 3633",
+      "url": "https://www.studocu.com/en-us/course/southeastern-university/professional-ethical-and-legal-issues/4687995"
+    },
+    {
+      "name": "Reading The Language Of Mathematics",
+      "code": "MAED 3373",
+      "url": "https://www.studocu.com/en-us/course/southeastern-university/reading-the-language-of-mathematics/4623266"
+    },
+    {
+      "name": "Research And Evaluation Of Curriculum",
+      "code": "EDUC 8023",
+      "url": "https://www.studocu.com/en-us/course/southeastern-university/research-and-evaluation-of-curriculum/4623282"
+    },
+    {
+      "name": "Risk Management And Governance In Sport",
+      "code": "SRMT 5203",
+      "url": "https://www.studocu.com/en-us/course/southeastern-university/risk-management-and-governance-in-sport/4623367"
+    },
+    {
+      "name": "SEU 102",
+      "code": "CORE-1222-01",
+      "url": "https://www.studocu.com/en-us/course/southeastern-university/seu-102/4701472"
+    },
+    {
+      "name": "Social Entrepreneurship",
+      "code": "INTL 3753",
+      "url": "https://www.studocu.com/en-us/course/southeastern-university/social-entrepreneurship/4622989"
+    },
+    {
+      "name": "Social Psychology",
+      "code": "PSYC 3733",
+      "url": "https://www.studocu.com/en-us/course/southeastern-university/social-psychology/4687999"
+    },
+    {
+      "name": "Special Topics In Business",
+      "code": "BUSI 4003",
+      "url": "https://www.studocu.com/en-us/course/southeastern-university/special-topics-in-business/4622982"
+    },
+    {
+      "name": "Spiritual Formation of Families",
+      "code": "PMIN 4153",
+      "url": "https://www.studocu.com/en-us/course/southeastern-university/spiritual-formation-of-families/4712517"
+    },
+    {
+      "name": "Teaching Language Arts And Fine Arts",
+      "code": "ELED 3213",
+      "url": "https://www.studocu.com/en-us/course/southeastern-university/teaching-language-arts-and-fine-arts/4623382"
+    },
+    {
+      "name": "Technology In The Mathematics Classroom",
+      "code": "MAED 3023",
+      "url": "https://www.studocu.com/en-us/course/southeastern-university/technology-in-the-mathematics-classroom/4623265"
+    },
+    {
+      "name": "Theatre Appreciation",
+      "code": "COMM 2033",
+      "url": "https://www.studocu.com/en-us/course/southeastern-university/theatre-appreciation/4623080"
+    },
+    {
+      "name": "Theology of Salvation, the Church, & Eschatology",
+      "code": "THEO 3133",
+      "url": "https://www.studocu.com/en-us/course/southeastern-university/theology-of-salvation-the-church-eschatology/4712512"
+    },
+    {
+      "name": "Theory And Criminal Justice",
+      "code": "CRIM 4203",
+      "url": "https://www.studocu.com/en-us/course/southeastern-university/theory-and-criminal-justice/4623196"
+    },
+    {
+      "name": "volunteer income tax",
+      "code": "acc 350",
+      "url": "https://www.studocu.com/en-us/course/southeastern-university/volunteer-income-tax/7730377"
+    },
+    {
+      "name": "Western Civ 1",
+      "code": "HIST 1013",
+      "url": "https://www.studocu.com/en-us/course/southeastern-university/western-civ-1/4665910"
+    },
+    {
+      "name": "World Civilizations",
+      "code": "HIST 1033",
+      "url": "https://www.studocu.com/en-us/course/southeastern-university/world-civilizations/5938133"
+    }
+  ]
+}

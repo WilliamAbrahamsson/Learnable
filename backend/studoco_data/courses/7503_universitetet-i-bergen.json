@@ -1,0 +1,3871 @@
+{
+  "university_id": "7503",
+  "university_name": "Universitetet i Bergen",
+  "courses": [
+    {
+      "name": "Advanced Field and Laboratory Methods Course",
+      "code": "ARK314",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/advanced-field-and-laboratory-methods-course/1360648"
+    },
+    {
+      "name": "Advanced Modelling",
+      "code": "INFO216",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/advanced-modelling/1360637"
+    },
+    {
+      "name": "Advanced Topics in Information Systems",
+      "code": "INFO310",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/advanced-topics-in-information-systems/1360661"
+    },
+    {
+      "name": "Advanced Topics in Software Engineering",
+      "code": "INFO331",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/advanced-topics-in-software-engineering/1360638"
+    },
+    {
+      "name": "advertising",
+      "code": "sales",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/advertising/6776398"
+    },
+    {
+      "name": "Affekt og kognisjon",
+      "code": "PSYK208",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/affekt-og-kognisjon/1360641"
+    },
+    {
+      "name": "AI Ethics",
+      "code": "AIKI210",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/ai-ethics/7282257"
+    },
+    {
+      "name": "Akademisk skriving",
+      "code": "BIO300A",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/akademisk-skriving/7414957"
+    },
+    {
+      "name": "Akvatisk geokjemi",
+      "code": "GEOV243",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/akvatisk-geokjemi/1360654"
+    },
+    {
+      "name": "Akvatisk matproduksjon",
+      "code": "BIO382",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/akvatisk-matproduksjon/1360659"
+    },
+    {
+      "name": "Algebra",
+      "code": "MAT220",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/algebra/1360658"
+    },
+    {
+      "name": "Algoritmar datastrukturar og programmering",
+      "code": "INF102",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/algoritmar-datastrukturar-og-programmering/1360670"
+    },
+    {
+      "name": "Algoritmer",
+      "code": "INF234",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/algoritmer/1360663"
+    },
+    {
+      "name": "Allmenn formuerett",
+      "code": "JUS243",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/allmenn-formuerett/1360664"
+    },
+    {
+      "name": "Allmenn litteraturvitskap mastergradsoppgåve",
+      "code": "ALLV350",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/allmenn-litteraturvitskap-mastergradsoppgave/1360666"
+    },
+    {
+      "name": "Allmenn litteraturvitskap: Eldre litteratur og poetikk frå mellomalder/renessanse til opplysingstida/romantikken",
+      "code": "allv112",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/allmenn-litteraturvitskap-eldre-litteratur-og-poetikk-fra-mellomalderrenessanse-til-opplysingstidaromantikken/7458997"
+    },
+    {
+      "name": "Allmenn litteraturvitskap: Moderne litteratur og poetikk frå opplysingstida/romantikken til i dag",
+      "code": "Allv113",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/allmenn-litteraturvitskap-moderne-litteratur-og-poetikk-fra-opplysingstidaromantikken-til-i-dag/7458993"
+    },
+    {
+      "name": "Allmennmedisin",
+      "code": "MEDALM",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/allmennmedisin/1360669"
+    },
+    {
+      "name": "American Government and Politics",
+      "code": "SAMPOL270",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/american-government-and-politics/1360705"
+    },
+    {
+      "name": "Amerikansk litteratur og kultur",
+      "code": "ENG122",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/amerikansk-litteratur-og-kultur/1360678"
+    },
+    {
+      "name": "An Introduction to the Norwegian Media System in a Global Context",
+      "code": "MEVI111",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/an-introduction-to-the-norwegian-media-system-in-a-global-context/1360680"
+    },
+    {
+      "name": "Analytisk kjemi",
+      "code": "KJEM250",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/analytisk-kjemi/1360683"
+    },
+    {
+      "name": "Analytisk kjemi",
+      "code": "FARM250",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/analytisk-kjemi/6824201"
+    },
+    {
+      "name": "Anatomi",
+      "code": "OD1ANA",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/anatomi/1360685"
+    },
+    {
+      "name": "Anatomi: Tannanatomi og generell anatomi",
+      "code": "TPBAANA",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/anatomi-tannanatomi-og-generell-anatomi/1360686"
+    },
+    {
+      "name": "Andrespråkslæring og -undervising",
+      "code": "NORAN104",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/andresprakslaering-og-undervising/1360687"
+    },
+    {
+      "name": "Antikkens litteratur",
+      "code": "ANT202",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/antikkens-litteratur/1360696"
+    },
+    {
+      "name": "Anvendelse av modeller for psykologisk behandling",
+      "code": "PROPSY312",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/anvendelse-av-modeller-for-psykologisk-behandling/1360697"
+    },
+    {
+      "name": "Anvendt arbeidsmarkedsøkonomi",
+      "code": "ECON329",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/anvendt-arbeidsmarkedsokonomi/1360698"
+    },
+    {
+      "name": "Anvendt bioinformatikk",
+      "code": "MOL204",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/anvendt-bioinformatikk/1360699"
+    },
+    {
+      "name": "Anvendt statistikk",
+      "code": "STAT200",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/anvendt-statistikk/1360703"
+    },
+    {
+      "name": "Anvendt økonometri",
+      "code": "Econ244",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/anvendt-okonometri/7249682"
+    },
+    {
+      "name": "Arbeid under kapitalismen",
+      "code": "SOS105",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/arbeid-under-kapitalismen/1360711"
+    },
+    {
+      "name": "Arbeids- og organisasjonspsykologi",
+      "code": "PSYK110",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/arbeids-og-organisasjonspsykologi/3171924"
+    },
+    {
+      "name": "Arbeidsrett fordypning",
+      "code": "JUS251-2-B",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/arbeidsrett-fordypning/1360714"
+    },
+    {
+      "name": "Artikkellesning",
+      "code": "PSYK206",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/artikkellesning/6805334"
+    },
+    {
+      "name": "Arve- og familierett",
+      "code": "JUS112",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/arve-og-familierett/1360723"
+    },
+    {
+      "name": "aspekt ved det engelske språksystemet",
+      "code": "eng120l",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/aspekt-ved-det-engelske-spraksystemet/7763795"
+    },
+    {
+      "name": "Autonomi og tvang i helse- og sosialsektoren",
+      "code": "JUS250-2-B",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/autonomi-og-tvang-i-helse-og-sosialsektoren/1360732"
+    },
+    {
+      "name": "Avansert programmering",
+      "code": "INFO233",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/avansert-programmering/1360734"
+    },
+    {
+      "name": "Avtalerett",
+      "code": "jus212",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/avtalerett/5174013"
+    },
+    {
+      "name": "Åtferd helse og ernæring",
+      "code": "PSYK140",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/atferd-helse-og-ernaering/1360727"
+    },
+    {
+      "name": "Bacheloroppgave med veiledning",
+      "code": "ECON290A",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/bacheloroppgave-med-veiledning/7752661"
+    },
+    {
+      "name": "Bacheloroppgåve i administrasjon og organisasjonsvitskap",
+      "code": "AORG250",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/bacheloroppgave-i-administrasjon-og-organisasjonsvitskap/1360741"
+    },
+    {
+      "name": "Bacheloroppgåve i film- og tv-produksjon",
+      "code": "MEVI250",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/bacheloroppgave-i-film-og-tv-produksjon/1360744"
+    },
+    {
+      "name": "Bacheloroppgåve i historie",
+      "code": "HIS250",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/bacheloroppgave-i-historie/1360749"
+    },
+    {
+      "name": "Bacheloroppgåve i Midtaustens historie",
+      "code": "HIM250",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/bacheloroppgave-i-midtaustens-historie/1360753"
+    },
+    {
+      "name": "Bacheloroppgåve i samanliknande politikk",
+      "code": "SAMPOL260",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/bacheloroppgave-i-samanliknande-politikk/1360776"
+    },
+    {
+      "name": "Bacheloroppgåve i sosiologi",
+      "code": "SOS202",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/bacheloroppgave-i-sosiologi/1360758"
+    },
+    {
+      "name": "Bacheloroppgåve i systematisk religionsvitskap",
+      "code": "RELVI250",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/bacheloroppgave-i-systematisk-religionsvitskap/1360759"
+    },
+    {
+      "name": "Barn og medier",
+      "code": "MEVI332",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/barn-og-medier/1360761"
+    },
+    {
+      "name": "Barnet som rettigheitsbærar i barnevernet",
+      "code": "MABARN311",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/barnet-som-rettigheitsbaerar-i-barnevernet/1360762"
+    },
+    {
+      "name": "Basal humanpatologi",
+      "code": "HUPAT301",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/basal-humanpatologi/1360778"
+    },
+    {
+      "name": "Basic Algorithms in Artificial Intelligence",
+      "code": "INFO283",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/basic-algorithms-in-artificial-intelligence/4340646"
+    },
+    {
+      "name": "Basics of Reservoir Simulation",
+      "code": "MATT255",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/basics-of-reservoir-simulation/4394815"
+    },
+    {
+      "name": "Bedriftsstrategi og konkurransepolitikk",
+      "code": "ECON160",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/bedriftsstrategi-og-konkurransepolitikk/1360768"
+    },
+    {
+      "name": "Bedriftsøkonomi for samfunnsøkonomer",
+      "code": "ECON263",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/bedriftsokonomi-for-samfunnsokonomer/4854703"
+    },
+    {
+      "name": "Behavioral Neuroscience",
+      "code": "MAPSYK319",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/behavioral-neuroscience/1360770"
+    },
+    {
+      "name": "Bevegelsesapparatet",
+      "code": "MED2",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/bevegelsesapparatet/4756460"
+    },
+    {
+      "name": "Bevegelseslære, anatomi, motorisk læring",
+      "code": "ID3-131",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/bevegelseslaere-anatomi-motorisk-laering/5118311"
+    },
+    {
+      "name": "Bildebehandling",
+      "code": "MAT262",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/bildebehandling/1360780"
+    },
+    {
+      "name": "Bioetikk",
+      "code": "MOL270",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/bioetikk/1360784"
+    },
+    {
+      "name": "Biofysikalsk kjemi",
+      "code": "KJEM217",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/biofysikalsk-kjemi/1360785"
+    },
+    {
+      "name": "Biokjemi",
+      "code": "FARM150",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/biokjemi/1360787"
+    },
+    {
+      "name": "Biologi 1",
+      "code": "REA3001",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/biologi-1/5196172"
+    },
+    {
+      "name": "Biologisk og kognitiv psykologi",
+      "code": "PSYK120",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/biologisk-og-kognitiv-psykologi/1360795"
+    },
+    {
+      "name": "Biologisk psykologi",
+      "code": "PROPSY303",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/biologisk-psykologi/1360796"
+    },
+    {
+      "name": "Biomedisinsk basalblokk",
+      "code": "BIOBAS",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/biomedisinsk-basalblokk/1360797"
+    },
+    {
+      "name": "Biomedisinske tema",
+      "code": "MED1BIOMED",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/biomedisinske-tema/1360804"
+    },
+    {
+      "name": "Biostatistikk",
+      "code": "STAT202",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/biostatistikk/1360808"
+    },
+    {
+      "name": "Brasilkunnskap med portugisisk språk",
+      "code": "BRA101",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/brasilkunnskap-med-portugisisk-sprak/1360812"
+    },
+    {
+      "name": "Britisk litteratur og kultur",
+      "code": "ENG125",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/britisk-litteratur-og-kultur/1360813"
+    },
+    {
+      "name": "Brukarkurs i matematikk I",
+      "code": "MAT101",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/brukarkurs-i-matematikk-i/1360844"
+    },
+    {
+      "name": "Brukarkurs i matematikk II",
+      "code": "MAT102",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/brukarkurs-i-matematikk-ii/1360814"
+    },
+    {
+      "name": "Buddhisme og jainisme",
+      "code": "RELV323",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/buddhisme-og-jainisme/1360815"
+    },
+    {
+      "name": "Celle- og utviklingsbiologi",
+      "code": "BIO370",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/celle-og-utviklingsbiologi/1360818"
+    },
+    {
+      "name": "Cellebiologi og genetikk",
+      "code": "BIO103",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/cellebiologi-og-genetikk/1360819"
+    },
+    {
+      "name": "challenges of global poverty",
+      "code": "econ217",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/challenges-of-global-poverty/5118739"
+    },
+    {
+      "name": "Childhood and Parenting in Diverse Contexts",
+      "code": "MABARN310",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/childhood-and-parenting-in-diverse-contexts/1360824"
+    },
+    {
+      "name": "Climate policy",
+      "code": "Gov109",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/climate-policy/7087845"
+    },
+    {
+      "name": "Climate Policy",
+      "code": "GOV108",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/climate-policy/7186878"
+    },
+    {
+      "name": "Clinical rotation",
+      "code": "HOSP-IKO",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/clinical-rotation/1360841"
+    },
+    {
+      "name": "Cognitive Psychology",
+      "code": "PSYCH305A",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/cognitive-psychology/1360829"
+    },
+    {
+      "name": "Communications and Ethics",
+      "code": "HEPRO301",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/communications-and-ethics/1360832"
+    },
+    {
+      "name": "Comparative Arctic Indigenous Governance",
+      "code": "SAMPOL203",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/comparative-arctic-indigenous-governance/4826018"
+    },
+    {
+      "name": "Comparative Private Law",
+      "code": "JUS278-2-A",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/comparative-private-law/1360836"
+    },
+    {
+      "name": "Competition Law",
+      "code": "JUS3509",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/competition-law/7312619"
+    },
+    {
+      "name": "Concurrent Programming",
+      "code": "INF214",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/concurrent-programming/7417274"
+    },
+    {
+      "name": "Constitution and Politics",
+      "code": "JUS286-2-A",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/constitution-and-politics/1360843"
+    },
+    {
+      "name": "Constitution-Making Democracy and Development: Africa Middle East and Comparative Perspectives",
+      "code": "SAMPOL206",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/constitution-making-democracy-and-development-africa-middle-east-and-comparative-perspectives/1360864"
+    },
+    {
+      "name": "Constitutions, courts and politics",
+      "code": "GOV216",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/constitutions-courts-and-politics/6957517"
+    },
+    {
+      "name": "Contemporary Challenges to Representative Government",
+      "code": "SAMPOL231",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/contemporary-challenges-to-representative-government/5180559"
+    },
+    {
+      "name": "Corporate Finance",
+      "code": "ECON364",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/corporate-finance/1360846"
+    },
+    {
+      "name": "Culture and Psycopathology - Mental Health in a Cross-Cultural Perspective",
+      "code": "INTH325",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/culture-and-psycopathology-mental-health-in-a-cross-cultural-perspective/1360848"
+    },
+    {
+      "name": "Culture Positive Development and Health",
+      "code": "PSYCH310A",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/culture-positive-development-and-health/1360849"
+    },
+    {
+      "name": "Data og demokrati",
+      "code": "Digi115",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/data-og-demokrati/6629591"
+    },
+    {
+      "name": "Data Science",
+      "code": "INF161",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/data-science/6626394"
+    },
+    {
+      "name": "Data, Privacy and Society",
+      "code": "DPS123",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/data-privacy-and-society/5881317"
+    },
+    {
+      "name": "Databaser og modellering",
+      "code": "INF115",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/databaser-og-modellering/5176294"
+    },
+    {
+      "name": "Datahåndtering",
+      "code": "INFO125",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/datahandtering/1360853"
+    },
+    {
+      "name": "Datalingvistisk modellering",
+      "code": "DASP303",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/datalingvistisk-modellering/1360966"
+    },
+    {
+      "name": "Datanett",
+      "code": "INF142",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/datanett/1360859"
+    },
+    {
+      "name": "Datasikkerhet",
+      "code": "INF140",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/datasikkerhet/4738632"
+    },
+    {
+      "name": "Datateknologi: Historie teori og praksis",
+      "code": "DIKULT104",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/datateknologi-historie-teori-og-praksis/1360862"
+    },
+    {
+      "name": "Democratic Transformations in Europe: Trends and Implications",
+      "code": "SAMPOL223",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/democratic-transformations-in-europe-trends-and-implications/5279813"
+    },
+    {
+      "name": "Demokrati og demokratisering",
+      "code": "SAMPOL115",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/demokrati-og-demokratisering/1360880"
+    },
+    {
+      "name": "Den faste jordas fysikk",
+      "code": "GEOV112",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/den-faste-jordas-fysikk/1360868"
+    },
+    {
+      "name": "Design for medieproduksjon",
+      "code": "MIX203",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/design-for-medieproduksjon/7195758"
+    },
+    {
+      "name": "Differensiallikningar I",
+      "code": "MAT131",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/differensiallikningar-i/1360875"
+    },
+    {
+      "name": "Digital medieestetikk",
+      "code": "DIKULT303",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/digital-medieestetikk/1360878"
+    },
+    {
+      "name": "Diskrete strukturar",
+      "code": "MNF130",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/diskrete-strukturar/1360883"
+    },
+    {
+      "name": "Diverse Societies and International Migration",
+      "code": "SOS 117",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/diverse-societies-and-international-migration/4820414"
+    },
+    {
+      "name": "Diversity in Organization",
+      "code": "SOS138",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/diversity-in-organization/7569364"
+    },
+    {
+      "name": "Education in a changing society",
+      "code": "PED200",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/education-in-a-changing-society/6559408"
+    },
+    {
+      "name": "Ekskursjoner og øvelser i geologi",
+      "code": "GEOV102",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/ekskursjoner-og-ovelser-i-geologi/1360891"
+    },
+    {
+      "name": "Eksperimentell molekylærbiologi",
+      "code": "MOL202",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/eksperimentell-molekylaerbiologi/1360907"
+    },
+    {
+      "name": "Eksperimentell molekylærbiologi",
+      "code": "MOL102",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/eksperimentell-molekylaerbiologi/7429847"
+    },
+    {
+      "name": "Eksperimentell molekylærbiologi I",
+      "code": "MOL221",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/eksperimentell-molekylaerbiologi-i/1360893"
+    },
+    {
+      "name": "Eksperimentell uorganisk kjemi",
+      "code": "Kjem123",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/eksperimentell-uorganisk-kjemi/5326250"
+    },
+    {
+      "name": "Eldre teaterhistorie",
+      "code": "TEAT111",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/eldre-teaterhistorie/1360906"
+    },
+    {
+      "name": "Elementær statistikk",
+      "code": "STAT101",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/elementaer-statistikk/1360910"
+    },
+    {
+      "name": "Embryologi for den odontologiske vidareutdanninga",
+      "code": "ODO-EMBR/06",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/embryologi-for-den-odontologiske-vidareutdanninga/1360921"
+    },
+    {
+      "name": "Endodonti + godkjent klinikk",
+      "code": "OD3END-K4",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/endodonti-godkjent-klinikk/1360915"
+    },
+    {
+      "name": "Energiressursar og -forbruk",
+      "code": "ENERGI200",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/energiressursar-og-forbruk/1360945"
+    },
+    {
+      "name": "Energy Law",
+      "code": "JUS271-2-A",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/energy-law/1360918"
+    },
+    {
+      "name": "Engelsk lingvistikk I",
+      "code": "ENG101",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/engelsk-lingvistikk-i/1360922"
+    },
+    {
+      "name": "Engelsk lingvistikk III",
+      "code": "ENG211",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/engelsk-lingvistikk-iii/1360924"
+    },
+    {
+      "name": "Engelsk språk",
+      "code": "ENGMAU641",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/engelsk-sprak/1360928"
+    },
+    {
+      "name": "Engelskspråkleg litteratur",
+      "code": "ENGMAU642",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/engelsksprakleg-litteratur/1360931"
+    },
+    {
+      "name": "English Grammar 1",
+      "code": "ENG114",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/english-grammar-1/3147523"
+    },
+    {
+      "name": "Environmental Psychology",
+      "code": "PSYK116",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/environmental-psychology/7490646"
+    },
+    {
+      "name": "Epidemiologi",
+      "code": "MEDEPI",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/epidemiologi/1360937"
+    },
+    {
+      "name": "Ernæring hos fisk",
+      "code": "BIO206",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/ernaering-hos-fisk/1360942"
+    },
+    {
+      "name": "Ernæringsbiokjemi",
+      "code": "NUTR115",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/ernaeringsbiokjemi/1360944"
+    },
+    {
+      "name": "Ernæringsfysiologi - mikronæringsstoffer",
+      "code": "NUTR204",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/ernaeringsfysiologi-mikronaeringsstoffer/7161747"
+    },
+    {
+      "name": "Erstatningsrett",
+      "code": "jus213",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/erstatningsrett/6249294"
+    },
+    {
+      "name": "EU and EEA Institutional Law and Policymaking",
+      "code": "JUS3500",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/eu-and-eea-institutional-law-and-policymaking/7185014"
+    },
+    {
+      "name": "EU and EEA Public Procurement Law",
+      "code": "JUS285-2-A",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/eu-and-eea-public-procurement-law/1360955"
+    },
+    {
+      "name": "EU and EEA State Aid Law",
+      "code": "JUS291-2-A",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/eu-and-eea-state-aid-law/1360956"
+    },
+    {
+      "name": "EU and International Organizations",
+      "code": "GOV 107",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/eu-and-international-organizations/6531664"
+    },
+    {
+      "name": "Europa etter 1945: Ressursar demografi økonomi",
+      "code": "EUR103",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/europa-etter-1945-ressursar-demografi-okonomi/1360958"
+    },
+    {
+      "name": "European Union Institutions and Politics",
+      "code": "EUR105",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/european-union-institutions-and-politics/1360960"
+    },
+    {
+      "name": "Evolusjonsbiologi",
+      "code": "BIO210",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/evolusjonsbiologi/1360962"
+    },
+    {
+      "name": "Examen facultatum - Grunnkurs i informasjonsvitskap",
+      "code": "INFO100",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/examen-facultatum-grunnkurs-i-informasjonsvitskap/1360971"
+    },
+    {
+      "name": "Examen facultatum - Innføring i administrasjon og organisasjonsvitskap",
+      "code": "AORG100",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/examen-facultatum-innforing-i-administrasjon-og-organisasjonsvitskap/1360967"
+    },
+    {
+      "name": "Examen facultatum - Innføring i politisk økonomi",
+      "code": "POLØK100",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/examen-facultatum-innforing-i-politisk-okonomi/1360968"
+    },
+    {
+      "name": "Examen facultatum - Innføring i samanliknande politikk",
+      "code": "SAMPOL100",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/examen-facultatum-innforing-i-samanliknande-politikk/1360969"
+    },
+    {
+      "name": "Examen facultatum - Innføring i samfunnsøkonomi",
+      "code": "ECON100",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/examen-facultatum-innforing-i-samfunnsokonomi/1360973"
+    },
+    {
+      "name": "Examen facultatum - Introduksjon til geografi: Globale utfordringer og lokale svar",
+      "code": "GEO100",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/examen-facultatum-introduksjon-til-geografi-globale-utfordringer-og-lokale-svar/1360975"
+    },
+    {
+      "name": "Examen facultatum - Introduksjon til media og kommunikasjon",
+      "code": "MEVI100",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/examen-facultatum-introduksjon-til-media-og-kommunikasjon/1360974"
+    },
+    {
+      "name": "Examen facultatum - Invitasjon til sosialantropologi",
+      "code": "SANT100",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/examen-facultatum-invitasjon-til-sosialantropologi/1360972"
+    },
+    {
+      "name": "Examen facultatum - Invitasjon til sosiologi",
+      "code": "SOS100",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/examen-facultatum-invitasjon-til-sosiologi/1362745"
+    },
+    {
+      "name": "Examen facultatum Akademisk skriving",
+      "code": "EXFAC00AS",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/examen-facultatum-akademisk-skriving/1360994"
+    },
+    {
+      "name": "Examen facultatum Psykologi",
+      "code": "EXFAC03P",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/examen-facultatum-psykologi/1360977"
+    },
+    {
+      "name": "Examen facultatum Språk og kommunikasjon",
+      "code": "EXFAC00SK",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/examen-facultatum-sprak-og-kommunikasjon/1360978"
+    },
+    {
+      "name": "Examen facultatum Tekst og kultur - eksamensmodellen",
+      "code": "EXFAC00TKEKS",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/examen-facultatum-tekst-og-kultur-eksamensmodellen/1360993"
+    },
+    {
+      "name": "Examen Philosophicum",
+      "code": "EXPHIL-MOSEM",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/examen-philosophicum/4756727"
+    },
+    {
+      "name": "Examen philosophicum - seminarmodell",
+      "code": "EXPHIL-SVSEM",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/examen-philosophicum-seminarmodell/1360980"
+    },
+    {
+      "name": "Examen philosophicum - seminarmodell",
+      "code": "EXPHIL-HFSEM",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/examen-philosophicum-seminarmodell/2958233"
+    },
+    {
+      "name": "Examen philosophicum - seminarmodell",
+      "code": "EXPHIL-PSSEM",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/examen-philosophicum-seminarmodell/4544987"
+    },
+    {
+      "name": "Examen philosophicum - seminarmodell",
+      "code": "EXPHIL-MNSEM",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/examen-philosophicum-seminarmodell/5966035"
+    },
+    {
+      "name": "Examen philosophicum - skuleeksamen",
+      "code": "EXPHIL-JUEKS",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/examen-philosophicum-skuleeksamen/1360982"
+    },
+    {
+      "name": "Examen philosophicum - skuleeksamen",
+      "code": "EXPHIL-PSEKS",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/examen-philosophicum-skuleeksamen/5821687"
+    },
+    {
+      "name": "Examen philosophicum- skuleeksamen",
+      "code": "EXPHIL-SVEKS",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/examen-philosophicum-skuleeksamen/1360987"
+    },
+    {
+      "name": "Exfac - Innføring I Juridisk Metode",
+      "code": "JUS100",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/exfac-innforing-i-juridisk-metode/7095316"
+    },
+    {
+      "name": "Experimental Economics",
+      "code": "ECON370",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/experimental-economics/1360985"
+    },
+    {
+      "name": "Exphil - filosofi for realister",
+      "code": "EXPHIL - MNEKS",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/exphil-filosofi-for-realister/4880141"
+    },
+    {
+      "name": "Fagdidaktikk i engelsk for integrert lærarutdanning",
+      "code": "ENGDI201",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/fagdidaktikk-i-engelsk-for-integrert-laerarutdanning/1360989"
+    },
+    {
+      "name": "Fagdidaktikk i spansk for integrert lærarutdanning",
+      "code": "SPANDI101",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/fagdidaktikk-i-spansk-for-integrert-laerarutdanning/1361001"
+    },
+    {
+      "name": "Fagdidaktikk i tysk for integrert lektorutdanning",
+      "code": "TYSDI201",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/fagdidaktikk-i-tysk-for-integrert-lektorutdanning/1361004"
+    },
+    {
+      "name": "Fagdidaktikk i tysk for integrert lektorutdanning 3",
+      "code": "TYSDI301",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/fagdidaktikk-i-tysk-for-integrert-lektorutdanning-3/1361005"
+    },
+    {
+      "name": "Faglege tilnærmingsmåtar og ideologiar i studiet politikk",
+      "code": "SAMPOL103",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/faglege-tilnaermingsmatar-og-ideologiar-i-studiet-politikk/4334775"
+    },
+    {
+      "name": "Familie- og arverett",
+      "code": "jus211",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/familie-og-arverett/5797186"
+    },
+    {
+      "name": "Familien i endring",
+      "code": "SOS111",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/familien-i-endring/1361010"
+    },
+    {
+      "name": "Fantastiske data",
+      "code": "Digi110",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/fantastiske-data/6740293"
+    },
+    {
+      "name": "Farmakognosi inklusive botanikk",
+      "code": "FARM238",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/farmakognosi-inklusive-botanikk/1361012"
+    },
+    {
+      "name": "Farmakologi",
+      "code": "TPBAFAR",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/farmakologi/1361013"
+    },
+    {
+      "name": "Farmakologi B-kull",
+      "code": "MEDFAR-B",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/farmakologi-b-kull/1361015"
+    },
+    {
+      "name": "Farmakologi semester I",
+      "code": "FARM290",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/farmakologi-semester-i/1361031"
+    },
+    {
+      "name": "Farmasøytisk mikrobiologi og immunologi",
+      "code": "FARM270",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/farmasoytisk-mikrobiologi-og-immunologi/1361019"
+    },
+    {
+      "name": "Faststoff-fysikk",
+      "code": "PHYS208",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/faststoff-fysikk/1361020"
+    },
+    {
+      "name": "Feltmetodikk: Politisk kartlegging i felt",
+      "code": "SAMPOL607",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/feltmetodikk-politisk-kartlegging-i-felt/1361032"
+    },
+    {
+      "name": "Ferdighetskurs",
+      "code": "TPBAFOR-PROP",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/ferdighetskurs/1361036"
+    },
+    {
+      "name": "Film historie og analyse",
+      "code": "MEVI213",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/film-historie-og-analyse/1361047"
+    },
+    {
+      "name": "Filosofihistoria frå antikken til opplysningstida",
+      "code": "FIL120",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/filosofihistoria-fra-antikken-til-opplysningstida/1361043"
+    },
+    {
+      "name": "Filosofihistoria frå opplysningstida til 1900-talet",
+      "code": "FIL121",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/filosofihistoria-fra-opplysningstida-til-1900-talet/1361044"
+    },
+    {
+      "name": "Filosofiske originaltekstar frå opplysningstida til 1900-talet",
+      "code": "FIL123",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/filosofiske-originaltekstar-fra-opplysningstida-til-1900-talet/1361051"
+    },
+    {
+      "name": "Financial Technology",
+      "code": "ECON264",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/financial-technology/5828482"
+    },
+    {
+      "name": "Financial Technology",
+      "code": "Itøk264",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/financial-technology/7209982"
+    },
+    {
+      "name": "Fiskebiologi I -Systematikk og anatomi",
+      "code": "BIO280",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/fiskebiologi-i-systematikk-og-anatomi/1361076"
+    },
+    {
+      "name": "Fiskebiologi II -Fysiologi",
+      "code": "BIO291",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/fiskebiologi-ii-fysiologi/1361052"
+    },
+    {
+      "name": "Fiskesjukdommar - farmakologi",
+      "code": "BIO274",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/fiskesjukdommar-farmakologi/1361058"
+    },
+    {
+      "name": "Fiskesjukdommar - fiskeimmunologi",
+      "code": "BIO273",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/fiskesjukdommar-fiskeimmunologi/1361060"
+    },
+    {
+      "name": "Fiskesjukdommar - parasittar",
+      "code": "BIO270",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/fiskesjukdommar-parasittar/1361099"
+    },
+    {
+      "name": "Fiskesjukdommar - virologi",
+      "code": "BIO271",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/fiskesjukdommar-virologi/1361063"
+    },
+    {
+      "name": "Folkehelse og helsefremjande arbeid",
+      "code": "HEMB110",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/folkehelse-og-helsefremjande-arbeid/1361073"
+    },
+    {
+      "name": "Fonologi",
+      "code": "LING121",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/fonologi/1361081"
+    },
+    {
+      "name": "Forbrukeratferd",
+      "code": "MRK3480",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/forbrukeratferd/5211644"
+    },
+    {
+      "name": "Fordjuping i eldre historie",
+      "code": "HIS114",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/fordjuping-i-eldre-historie/1361084"
+    },
+    {
+      "name": "Fordjuping i kjønnsstudium",
+      "code": "KVIK206",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/fordjuping-i-kjonnsstudium/1361091"
+    },
+    {
+      "name": "Fordjuping i Midtaustens historie",
+      "code": "HIM201",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/fordjuping-i-midtaustens-historie/1361095"
+    },
+    {
+      "name": "Fordjuping i nyare historie",
+      "code": "HIS116",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/fordjuping-i-nyare-historie/1361096"
+    },
+    {
+      "name": "Fordjuping i nyare historie",
+      "code": "HIS115",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/fordjuping-i-nyare-historie/3018349"
+    },
+    {
+      "name": "Fordjuping i tyskspråkleg litteratur semesteroppgåve",
+      "code": "TYS252",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/fordjuping-i-tysksprakleg-litteratur-semesteroppgave/1361108"
+    },
+    {
+      "name": "Fordjupingsoppgåve i historie",
+      "code": "HIS120",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/fordjupingsoppgave-i-historie/1361112"
+    },
+    {
+      "name": "Fordjupning i historie",
+      "code": "HIS307",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/fordjupning-i-historie/1361130"
+    },
+    {
+      "name": "Formelle metodar for informasjonsvitskap",
+      "code": "INFO102",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/formelle-metodar-for-informasjonsvitskap/1361133"
+    },
+    {
+      "name": "Formelle metoder",
+      "code": "Info104",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/formelle-metoder/4411088"
+    },
+    {
+      "name": "Forskningspraksis i biologi",
+      "code": "BIO199",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/forskningspraksis-i-biologi/1361151"
+    },
+    {
+      "name": "Forvaltingsrett II",
+      "code": "JUS123",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/forvaltingsrett-ii/1361153"
+    },
+    {
+      "name": "Forvaltningspolitikk - Medverknad styring og autonomi",
+      "code": "AORG607",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/forvaltningspolitikk-medverknad-styring-og-autonomi/1361154"
+    },
+    {
+      "name": "Forvaltningspolitikk - medvirkning, styring og autonomi",
+      "code": "GOV607",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/forvaltningspolitikk-medvirkning-styring-og-autonomi/7274952"
+    },
+    {
+      "name": "Forvaltningsrett",
+      "code": "REG303",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/forvaltningsrett/1361156"
+    },
+    {
+      "name": "Forvaltningsrett I",
+      "code": "JUS111",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/forvaltningsrett-i/1361200"
+    },
+    {
+      "name": "Fransk grammatikk",
+      "code": "FRAN101",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/fransk-grammatikk/1361162"
+    },
+    {
+      "name": "Fransk litteratur",
+      "code": "FRAN102",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/fransk-litteratur/1361164"
+    },
+    {
+      "name": "Fransk litterær analyse",
+      "code": "FRAN 123",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/fransk-litteraer-analyse/5177278"
+    },
+    {
+      "name": "Funksjonell programmering",
+      "code": "INF122",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/funksjonell-programmering/7743933"
+    },
+    {
+      "name": "Fysikk i medisinsk diagnostikk",
+      "code": "PHYS212",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/fysikk-i-medisinsk-diagnostikk/1361176"
+    },
+    {
+      "name": "Fysiologi",
+      "code": "MED1ORGFYS",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/fysiologi/1361178"
+    },
+    {
+      "name": "Fysiologi og ernæringslære",
+      "code": "TPBAFYS",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/fysiologi-og-ernaeringslaere/1361179"
+    },
+    {
+      "name": "Førebyggjande tannhelsearbeid; vaksentannpleie kull 3",
+      "code": "TPBAFOR-K3",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/forebyggjande-tannhelsearbeid-vaksentannpleie-kull-3/1361127"
+    },
+    {
+      "name": "Førsteordens logikk",
+      "code": "LOG111",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/forsteordens-logikk/1361152"
+    },
+    {
+      "name": "Game Theory",
+      "code": "ECON127",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/game-theory/6880301"
+    },
+    {
+      "name": "Generell patologi og immunologi",
+      "code": "OD2PATI",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/generell-patologi-og-immunologi/1361193"
+    },
+    {
+      "name": "Generell psykologi 1",
+      "code": "PSYK101",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/generell-psykologi-1/1361194"
+    },
+    {
+      "name": "Generell psykologi 2",
+      "code": "PSYK102",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/generell-psykologi-2/1361195"
+    },
+    {
+      "name": "Generell statistikk",
+      "code": "ODO-STAT1/06",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/generell-statistikk/1361197"
+    },
+    {
+      "name": "Genstruktur og funksjon",
+      "code": "MOL203",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/genstruktur-og-funksjon/1361201"
+    },
+    {
+      "name": "Genstruktur, -funksjon og applikasjonar",
+      "code": "MOL103",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/genstruktur-funksjon-og-applikasjonar/5708797"
+    },
+    {
+      "name": "Geofysiske metodar",
+      "code": "GEOV111",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/geofysiske-metodar/1361205"
+    },
+    {
+      "name": "Geografiske informasjonssystem: Teori og praksis",
+      "code": "GEO215",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/geografiske-informasjonssystem-teori-og-praksis/1361207"
+    },
+    {
+      "name": "Geografiske perspektiv på mat",
+      "code": "GEO326",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/geografiske-perspektiv-pa-mat/1361208"
+    },
+    {
+      "name": "Georessursar og miljø - vurdering i geofag",
+      "code": "GEOV623",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/georessursar-og-miljo-vurdering-i-geofag/1361219"
+    },
+    {
+      "name": "Global Cities: An Introduction to Urban Sociology for the 21st Century",
+      "code": "SOS119",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/global-cities-an-introduction-to-urban-sociology-for-the-21st-century/5796490"
+    },
+    {
+      "name": "Global Health",
+      "code": "GLOBALHEALTH",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/global-health/1361220"
+    },
+    {
+      "name": "Global Theory",
+      "code": "GLOBALTHEORY",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/global-theory/1361223"
+    },
+    {
+      "name": "Grunnkurs i matematikk I",
+      "code": "MAT111",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/grunnkurs-i-matematikk-i/1361256"
+    },
+    {
+      "name": "Grunnkurs i matematikk II",
+      "code": "MAT112",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/grunnkurs-i-matematikk-ii/1361257"
+    },
+    {
+      "name": "Grunnkurs i mekanikk og varmelære",
+      "code": "PHYS101",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/grunnkurs-i-mekanikk-og-varmelaere/1361259"
+    },
+    {
+      "name": "Grunnkurs i moderne standardarabisk I",
+      "code": "ARA111",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/grunnkurs-i-moderne-standardarabisk-i/1361260"
+    },
+    {
+      "name": "Grunnkurs i programmering",
+      "code": "INFO132",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/grunnkurs-i-programmering/1361265"
+    },
+    {
+      "name": "Grunnkurs i programmering (Programmering 1)",
+      "code": "INF100",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/grunnkurs-i-programmering-programmering-1/1361263"
+    },
+    {
+      "name": "Grunnkurs i statistikk",
+      "code": "STAT110",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/grunnkurs-i-statistikk/1361266"
+    },
+    {
+      "name": "Grunnleggande bioinformatikk",
+      "code": "BINF100",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/grunnleggande-bioinformatikk/6013512"
+    },
+    {
+      "name": "Grunnleggande selskapsrett",
+      "code": "JUS257-2-A",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/grunnleggande-selskapsrett/1361271"
+    },
+    {
+      "name": "Grunnleggende arbeidsrett",
+      "code": "JUS251-2-A",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/grunnleggende-arbeidsrett/1361272"
+    },
+    {
+      "name": "Grunnleggende sykepleie",
+      "code": null,
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/grunnleggende-sykepleie/4477307"
+    },
+    {
+      "name": "Grunnleggjande histologi",
+      "code": "BMED301",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/grunnleggjande-histologi/1361285"
+    },
+    {
+      "name": "Grunnleggjande kvantemekanikk",
+      "code": "KJEM221",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/grunnleggjande-kvantemekanikk/1361275"
+    },
+    {
+      "name": "Grunnstoffenes kjemi",
+      "code": "KJEM120",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/grunnstoffenes-kjemi/1362744"
+    },
+    {
+      "name": "Gynekologi og obstetrikk",
+      "code": "MEDFØD",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/gynekologi-og-obstetrikk/1361283"
+    },
+    {
+      "name": "Havbruksteknologi",
+      "code": "BIF200",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/havbruksteknologi/3566671"
+    },
+    {
+      "name": "Health and Human Rights in the Welfare State",
+      "code": "JUS250-2-C",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/health-and-human-rights-in-the-welfare-state/1361286"
+    },
+    {
+      "name": "Helse- og velferdspolitikk",
+      "code": "AORG 213",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/helse-og-velferdspolitikk/4854753"
+    },
+    {
+      "name": "Helse- og velferdspolitikk - Makt og innverknad",
+      "code": "GOV213",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/helse-og-velferdspolitikk-makt-og-innverknad/6129135"
+    },
+    {
+      "name": "Hinduisme",
+      "code": "RELV324",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/hinduisme/1361292"
+    },
+    {
+      "name": "Hinduisme",
+      "code": "RELV224",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/hinduisme/6734352"
+    },
+    {
+      "name": "Hinduismen buddhismen og andre asiatiske religionar",
+      "code": "RELV103",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/hinduismen-buddhismen-og-andre-asiatiske-religionar/1361293"
+    },
+    {
+      "name": "Hinduismen og buddhismen - Lektorutdanninga",
+      "code": "RELV103L",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/hinduismen-og-buddhismen-lektorutdanninga/1361294"
+    },
+    {
+      "name": "Historie mastergradsoppgåve",
+      "code": "HIS350",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/historie-mastergradsoppgave/1361295"
+    },
+    {
+      "name": "Historiedidaktikk for grunnskulen",
+      "code": "HIDID111",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/historiedidaktikk-for-grunnskulen/1361299"
+    },
+    {
+      "name": "Historiedidaktikk for vidaregåande skule",
+      "code": "HIDID112",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/historiedidaktikk-for-vidaregaande-skule/1361300"
+    },
+    {
+      "name": "Historiedidaktikk for videregående skole",
+      "code": "hidid111",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/historiedidaktikk-for-videregaende-skole/7574545"
+    },
+    {
+      "name": "Historieformidling",
+      "code": "HIS308",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/historieformidling/1361301"
+    },
+    {
+      "name": "Historiografi",
+      "code": "HIS302",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/historiografi/1361304"
+    },
+    {
+      "name": "Hovud- og mikronæringsstoff",
+      "code": "NUTR207",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/hovud-og-mikronaeringsstoff/1361314"
+    },
+    {
+      "name": "Human ernæring - Ernæringsfagleg metodikk",
+      "code": "NUTR310",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/human-ernaering-ernaeringsfagleg-metodikk/1361334"
+    },
+    {
+      "name": "Human Rights Law: Special Focus on Economic Social and Cultural Rights",
+      "code": "JUS276-2-A",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/human-rights-law-special-focus-on-economic-social-and-cultural-rights/1361339"
+    },
+    {
+      "name": "Hva er religionsvitenskap?",
+      "code": "RELV101",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/hva-er-religionsvitenskap/5173990"
+    },
+    {
+      "name": "IKT-sikkerhet",
+      "code": "DIGI112",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/ikt-sikkerhet/6909699"
+    },
+    {
+      "name": "Informasjon og kunnskap",
+      "code": "INFO103",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/informasjon-og-kunnskap/1361362"
+    },
+    {
+      "name": "Informasjonssystem",
+      "code": "INFO110",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/informasjonssystem/1361360"
+    },
+    {
+      "name": "Innføring i astrofysikk",
+      "code": "PHYS109",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/innforing-i-astrofysikk/1361365"
+    },
+    {
+      "name": "Innføring i eksogene prosesser og paleoklima",
+      "code": "GEOV110",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/innforing-i-eksogene-prosesser-og-paleoklima/7125096"
+    },
+    {
+      "name": "Innføring i ernæringsbehandling",
+      "code": "NUTR246",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/innforing-i-ernaeringsbehandling/7161805"
+    },
+    {
+      "name": "Innføring i europeisk historie og politikk",
+      "code": "EUR101",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/innforing-i-europeisk-historie-og-politikk/1361368"
+    },
+    {
+      "name": "Innføring i evolusjon og økologi",
+      "code": "BIO100",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/innforing-i-evolusjon-og-okologi/1361369"
+    },
+    {
+      "name": "Innføring i geokjemi",
+      "code": "GEOV109",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/innforing-i-geokjemi/1361370"
+    },
+    {
+      "name": "Innføring i geologi",
+      "code": "GEOV101",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/innforing-i-geologi/1361371"
+    },
+    {
+      "name": "Innføring i havbruk",
+      "code": "BIO203",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/innforing-i-havbruk/1361372"
+    },
+    {
+      "name": "Innføring i havbruk og akvakultur",
+      "code": "BIF100",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/innforing-i-havbruk-og-akvakultur/7284746"
+    },
+    {
+      "name": "Innføring i HCI",
+      "code": "INFO162",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/innforing-i-hci/5338686"
+    },
+    {
+      "name": "Innføring i historie",
+      "code": "HIS100",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/innforing-i-historie/2972683"
+    },
+    {
+      "name": "Innføring i interkulturell forståelse",
+      "code": "IKF 110",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/innforing-i-interkulturell-forstaelse/4820167"
+    },
+    {
+      "name": "Innføring i kinesisk språk 1",
+      "code": "KIN101",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/innforing-i-kinesisk-sprak-1/1361380"
+    },
+    {
+      "name": "Innføring i kjønnsstudium",
+      "code": "KVIK100",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/innforing-i-kjonnsstudium/1361392"
+    },
+    {
+      "name": "Innføring i kjønnsteori",
+      "code": "KVIK101",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/innforing-i-kjonnsteori/1361379"
+    },
+    {
+      "name": "Innføring i klinisk ernæring",
+      "code": "NUTR100",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/innforing-i-klinisk-ernaering/6062769"
+    },
+    {
+      "name": "Innføring i kunstig intelligens",
+      "code": "AIKI100",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/innforing-i-kunstig-intelligens/6624781"
+    },
+    {
+      "name": "Innføring i logopedi",
+      "code": "LOGO310",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/innforing-i-logopedi/1361390"
+    },
+    {
+      "name": "Innføring i metode",
+      "code": "PSYK113",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/innforing-i-metode/3247607"
+    },
+    {
+      "name": "Innføring i mineralogi og petrografi",
+      "code": "GEOV103",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/innforing-i-mineralogi-og-petrografi/1361389"
+    },
+    {
+      "name": "Innføring i moderne politisk teori",
+      "code": "FIL116",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/innforing-i-moderne-politisk-teori/1361416"
+    },
+    {
+      "name": "Innføring i molekylærbiologi",
+      "code": "MOL100",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/innforing-i-molekylaerbiologi/1361401"
+    },
+    {
+      "name": "Innføring i moralfilosofi",
+      "code": "FIL128",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/innforing-i-moralfilosofi/1361393"
+    },
+    {
+      "name": "Innføring i musikkterapi",
+      "code": "MUTP101",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/innforing-i-musikkterapi/1361394"
+    },
+    {
+      "name": "innføring i musikkvitenskap",
+      "code": "MVK100",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/innforing-i-musikkvitenskap/7198311"
+    },
+    {
+      "name": "Innføring i operativ psykologi og menneskelige faktorer i operative situasjoner",
+      "code": "psyk117",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/innforing-i-operativ-psykologi-og-menneskelige-faktorer-i-operative-situasjoner/3264531"
+    },
+    {
+      "name": "Innføring i pedagogikk",
+      "code": "PED110",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/innforing-i-pedagogikk/2951190"
+    },
+    {
+      "name": "Innføring i pedagogikk",
+      "code": "PEDA130",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/innforing-i-pedagogikk/7368210"
+    },
+    {
+      "name": "Innføring i pedagogikk og helsefremjande arbeid",
+      "code": "POH100",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/innforing-i-pedagogikk-og-helsefremjande-arbeid/1361397"
+    },
+    {
+      "name": "Innføring i politisk idéhistorie",
+      "code": "FIL107",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/innforing-i-politisk-idehistorie/1361398"
+    },
+    {
+      "name": "Innføring i programmering",
+      "code": "DATA110",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/innforing-i-programmering/6036468"
+    },
+    {
+      "name": "Innføring i psykologi",
+      "code": "PSYK100",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/innforing-i-psykologi/1361400"
+    },
+    {
+      "name": "Innføring i psykologi og psykologiens historie",
+      "code": "PSYK111",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/innforing-i-psykologi-og-psykologiens-historie/3160134"
+    },
+    {
+      "name": "Innføring i religionsvitskap",
+      "code": "RELV101",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/innforing-i-religionsvitskap/1361402"
+    },
+    {
+      "name": "Innføring i sinnsfilosofi",
+      "code": "FIL105",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/innforing-i-sinnsfilosofi/1361404"
+    },
+    {
+      "name": "Innføring i strukturgeologi og tektonikk",
+      "code": "GEOV104",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/innforing-i-strukturgeologi-og-tektonikk/1361406"
+    },
+    {
+      "name": "Innføring psykoanalyse",
+      "code": "PSANA101",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/innforing-psykoanalyse/1361407"
+    },
+    {
+      "name": "Innføringsemne i litteraturvitenskap",
+      "code": "ALLV100",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/innforingsemne-i-litteraturvitenskap/6791100"
+    },
+    {
+      "name": "Innføringskurs i arabisk språk og kultur",
+      "code": "ARA100",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/innforingskurs-i-arabisk-sprak-og-kultur/1361409"
+    },
+    {
+      "name": "Institusjonar og økonomi",
+      "code": "ECON322",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/institusjonar-og-okonomi/1361430"
+    },
+    {
+      "name": "Intensive Norwegian Language Course",
+      "code": "NOR-U1-INT",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/intensive-norwegian-language-course/1361420"
+    },
+    {
+      "name": "Interaction Design",
+      "code": "INFO262",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/interaction-design/1361419"
+    },
+    {
+      "name": "interaction design and prototyping",
+      "code": "info263",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/interaction-design-and-prototyping/6974150"
+    },
+    {
+      "name": "Intern klinisk-psykologisk praksis",
+      "code": "PROPSY314",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/intern-klinisk-psykologisk-praksis/1361422"
+    },
+    {
+      "name": "Internasjonal makroøkonomi",
+      "code": "ECON231",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/internasjonal-makrookonomi/1361424"
+    },
+    {
+      "name": "International Business Contracts: Structures Negotiation Conflict Avoidance and Resolution",
+      "code": "JUS282-2-A",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/international-business-contracts-structures-negotiation-conflict-avoidance-and-resolution/1361436"
+    },
+    {
+      "name": "International Criminal Law",
+      "code": "JUS288-2-A",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/international-criminal-law/1361432"
+    },
+    {
+      "name": "International Economics",
+      "code": "ECON335",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/international-economics/1361433"
+    },
+    {
+      "name": "Introducing Anthropology and its Subjects: History Poverty and Social Transformation",
+      "code": "SANT304",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/introducing-anthropology-and-its-subjects-history-poverty-and-social-transformation/1361434"
+    },
+    {
+      "name": "Introduction to Aquaculture",
+      "code": "BIO203",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/introduction-to-aquaculture/5943056"
+    },
+    {
+      "name": "Introduction to Copyright Law",
+      "code": "JUS277-2-A",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/introduction-to-copyright-law/1361435"
+    },
+    {
+      "name": "Introduction to Energy Resources and Consumption",
+      "code": "ENERGI101",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/introduction-to-energy-resources-and-consumption/6042424"
+    },
+    {
+      "name": "Introduction to English Studies",
+      "code": "ENG100",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/introduction-to-english-studies/6050034"
+    },
+    {
+      "name": "Introduksjon til formal logikk",
+      "code": "LOG110",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/introduksjon-til-formal-logikk/1361448"
+    },
+    {
+      "name": "Introduksjon til interaksjonsdesign",
+      "code": "MIX100",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/introduksjon-til-interaksjonsdesign/6638574"
+    },
+    {
+      "name": "Introduksjon til praktisk filosofi",
+      "code": "FIL124",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/introduksjon-til-praktisk-filosofi/1361447"
+    },
+    {
+      "name": "Introduksjon til språkfilosofi",
+      "code": "FIL126",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/introduksjon-til-sprakfilosofi/1361451"
+    },
+    {
+      "name": "Introduksjon til teoretisk filosofi",
+      "code": "FIL125",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/introduksjon-til-teoretisk-filosofi/1361449"
+    },
+    {
+      "name": "Introduksjon til tyskstudiet",
+      "code": "TYS100",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/introduksjon-til-tyskstudiet/1361453"
+    },
+    {
+      "name": "Investering og finansiering I",
+      "code": "ECON261",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/investering-og-finansiering-i/1361456"
+    },
+    {
+      "name": "Investering og finansiering II",
+      "code": "ECON361",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/investering-og-finansiering-ii/1361454"
+    },
+    {
+      "name": "Islam",
+      "code": "RELV325",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/islam/1361471"
+    },
+    {
+      "name": "Islam i Afrika: Midtøsthistorie",
+      "code": "HIM104",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/islam-i-afrika-midtosthistorie/6830021"
+    },
+    {
+      "name": "Islam og politikk",
+      "code": "HIM103",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/islam-og-politikk/1361457"
+    },
+    {
+      "name": "Islamsk religiøs tro og praksis",
+      "code": "RELV239",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/islamsk-religios-tro-og-praksis/6177593"
+    },
+    {
+      "name": "Italiensk grammatikk og omsetjing",
+      "code": "ITAL201",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/italiensk-grammatikk-og-omsetjing/1361467"
+    },
+    {
+      "name": "Italiensk litteratur",
+      "code": "ITAL112",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/italiensk-litteratur/1361462"
+    },
+    {
+      "name": "Italiensk språk I",
+      "code": "ITAL111",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/italiensk-sprak-i/1361465"
+    },
+    {
+      "name": "Italiensk språk II",
+      "code": "ITAL114",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/italiensk-sprak-ii/1361466"
+    },
+    {
+      "name": "Japansk Historie",
+      "code": "Jap100",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/japansk-historie/3247810"
+    },
+    {
+      "name": "Jorda i forandring - læringsteori benyttet på geofagundervisning",
+      "code": "GEOV624",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/jorda-i-forandring-laeringsteori-benyttet-pa-geofagundervisning/1361480"
+    },
+    {
+      "name": "Journalistiske felt",
+      "code": "MEVI317",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/journalistiske-felt/1361485"
+    },
+    {
+      "name": "Juridisk forprøve",
+      "code": "EXFAC",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/juridisk-forprove/1361488"
+    },
+    {
+      "name": "Juridisk metode",
+      "code": "JUS114",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/juridisk-metode/1361504"
+    },
+    {
+      "name": "Jurisdisk utredning",
+      "code": "jus391",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/jurisdisk-utredning/7729448"
+    },
+    {
+      "name": "Kariologi og endodonti",
+      "code": "TPBAKAR/END",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/kariologi-og-endodonti/1361518"
+    },
+    {
+      "name": "Karologi + godkjent klinikk fjerde studieår",
+      "code": "OD3KAR-K4",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/karologi-godkjent-klinikk-fjerde-studiear/1361492"
+    },
+    {
+      "name": "Kartografi og feltkartlegging",
+      "code": "GEO115",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/kartografi-og-feltkartlegging/1361495"
+    },
+    {
+      "name": "Kinesisk språk 2",
+      "code": "KIN102",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/kinesisk-sprak-2/5163404"
+    },
+    {
+      "name": "Kjemi",
+      "code": "110",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/kjemi/3235137"
+    },
+    {
+      "name": "Kjemi grunnkurs",
+      "code": "KJEM109",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/kjemi-grunnkurs/5985048"
+    },
+    {
+      "name": "Kjemi i naturen",
+      "code": "KJEM100",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/kjemi-i-naturen/1361506"
+    },
+    {
+      "name": "Kjemi og energi",
+      "code": "KJEM110",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/kjemi-og-energi/1361511"
+    },
+    {
+      "name": "Kjemididaktikk",
+      "code": "KJEMDID200",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/kjemididaktikk/1361509"
+    },
+    {
+      "name": "Kjemisk syntese og analyse",
+      "code": "KJEM124",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/kjemisk-syntese-og-analyse/6477447"
+    },
+    {
+      "name": "Kjemisk termodynamikk",
+      "code": "KJEM210",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/kjemisk-termodynamikk/1361512"
+    },
+    {
+      "name": "Kjenneteiknsrett",
+      "code": "JUS260-2-C",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/kjenneteiknsrett/1361519"
+    },
+    {
+      "name": "Kjeve- og slimhinnelidelser",
+      "code": "TPBAKOS",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/kjeve-og-slimhinnelidelser/1361571"
+    },
+    {
+      "name": "Kjeve- og slimhinnelidingar høst femte studiår",
+      "code": "OD3KOS-H5",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/kjeve-og-slimhinnelidingar-host-femte-studiar/1361521"
+    },
+    {
+      "name": "Kjeveortopedi",
+      "code": "TPBAKJE",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/kjeveortopedi/1361524"
+    },
+    {
+      "name": "Kjønn seksualitet kultur",
+      "code": "KUVI106",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/kjonn-seksualitet-kultur/1361526"
+    },
+    {
+      "name": "Kjønnsteori",
+      "code": "KVIK201",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/kjonnsteori/1361525"
+    },
+    {
+      "name": "Klasse og ulikhet",
+      "code": "SOS100A",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/klasse-og-ulikhet/7578233"
+    },
+    {
+      "name": "Klasse stratifikasjon og sosial mobilitet",
+      "code": "SOS116",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/klasse-stratifikasjon-og-sosial-mobilitet/1361527"
+    },
+    {
+      "name": "Klasse stratifikasjon og sosial mobilitet",
+      "code": "SOS136",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/klasse-stratifikasjon-og-sosial-mobilitet/7523700"
+    },
+    {
+      "name": "Klima, kriser og samfunnssikkerhet",
+      "code": "gov 212",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/klima-kriser-og-samfunnssikkerhet/6847195"
+    },
+    {
+      "name": "Klima, kriser og samfunnstryggleik.  Handtering av uregjerlege  samfunnsutfordringar",
+      "code": "AORG212",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/klima-kriser-og-samfunnstryggleik-handtering-av-uregjerlege-samfunnsutfordringar/5180563"
+    },
+    {
+      "name": "Klima, oseanografi og biogeografi",
+      "code": "GEO113",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/klima-oseanografi-og-biogeografi/6516989"
+    },
+    {
+      "name": "Klinisk ernæring del 3",
+      "code": "NUCLI353",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/klinisk-ernaering-del-3/1361534"
+    },
+    {
+      "name": "Klinisk farmakologi",
+      "code": "ODO-FARM/06",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/klinisk-farmakologi/1361535"
+    },
+    {
+      "name": "Klinisk innføringskurs",
+      "code": "OD2KLIFØR",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/klinisk-innforingskurs/1361538"
+    },
+    {
+      "name": "Klinisk innføringskurs del I og II",
+      "code": "TPBAFORI/II",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/klinisk-innforingskurs-del-i-og-ii/1361539"
+    },
+    {
+      "name": "Klinisk nevropsykologi",
+      "code": "PROPSY306",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/klinisk-nevropsykologi/1361541"
+    },
+    {
+      "name": "Klinisk praksis og seminar Endodonti 5. semester på spes. utd.",
+      "code": "ODO-KP-SEM5A",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/klinisk-praksis-og-seminar-endodonti-5-semester-pa-spes-utd/1361579"
+    },
+    {
+      "name": "Klinisk praksis og seminar Kirurgi 9. semester på spes. utd.",
+      "code": "ODO-KP-SEM9D",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/klinisk-praksis-og-seminar-kirurgi-9-semester-pa-spes-utd/1361557"
+    },
+    {
+      "name": "Knowledge Representation and Reasoning",
+      "code": "INFO282",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/knowledge-representation-and-reasoning/1361572"
+    },
+    {
+      "name": "Kognitiv nevrovitenskap",
+      "code": "PROPSY304",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/kognitiv-nevrovitenskap/1361574"
+    },
+    {
+      "name": "Kognitiv psykologi",
+      "code": "PROPSY305",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/kognitiv-psykologi/1361577"
+    },
+    {
+      "name": "Komparativ fysiologi",
+      "code": "BIO104",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/komparativ-fysiologi/1361581"
+    },
+    {
+      "name": "Komparativ regional etnografi",
+      "code": "SANT215",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/komparativ-regional-etnografi/1361583"
+    },
+    {
+      "name": "Kontraktsrett I",
+      "code": "JUS113",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/kontraktsrett-i/1361593"
+    },
+    {
+      "name": "Kontraktsrett II",
+      "code": "JUS131",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/kontraktsrett-ii/1361594"
+    },
+    {
+      "name": "Kreftforsking: etiske økonomiske og samfunnsmessige aspekt.",
+      "code": "CCBIO903",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/kreftforsking-etiske-okonomiske-og-samfunnsmessige-aspekt/1361609"
+    },
+    {
+      "name": "Kristendommen jødedommen og islam",
+      "code": "RELV102",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/kristendommen-jodedommen-og-islam/1361603"
+    },
+    {
+      "name": "Kultur helse og utvikling",
+      "code": "PROPSY310",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/kultur-helse-og-utvikling/1361614"
+    },
+    {
+      "name": "Kultur meining og kommunikasjon",
+      "code": "SANT104",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/kultur-meining-og-kommunikasjon/1361606"
+    },
+    {
+      "name": "Kultur og normer i informasjonssamfunnet",
+      "code": "DIKULT106",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/kultur-og-normer-i-informasjonssamfunnet/1361607"
+    },
+    {
+      "name": "Kultur språk og historie i Øst-Asia",
+      "code": "ASIA100",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/kultur-sprak-og-historie-i-ost-asia/1361611"
+    },
+    {
+      "name": "Kultur, historie og sammfunn i Kina",
+      "code": "KIN100",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/kultur-historie-og-sammfunn-i-kina/4355860"
+    },
+    {
+      "name": "Kulturlandskapets geografi",
+      "code": "GEO282",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/kulturlandskapets-geografi/1361641"
+    },
+    {
+      "name": "Kulturvitskaplege perspektiv og metodar",
+      "code": "KUVI101",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/kulturvitskaplege-perspektiv-og-metodar/1361624"
+    },
+    {
+      "name": "Kunnskapens institusjoner, ekspertise pg politikk",
+      "code": "AORG214",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/kunnskapens-institusjoner-ekspertise-pg-politikk/5367524"
+    },
+    {
+      "name": "Kunst, arkitektur og visuell kultur 1950-i dag",
+      "code": "KUN108",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/kunst-arkitektur-og-visuell-kultur-1950-i-dag/6803903"
+    },
+    {
+      "name": "Kunsthistorie (Blokk 3): Arkitektur fra antikk til postmodernisme",
+      "code": "KUN153-F",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/kunsthistorie-blokk-3-arkitektur-fra-antikk-til-postmodernisme/1361647"
+    },
+    {
+      "name": "Kunstige Agenter",
+      "code": "AIKI110",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/kunstige-agenter/7080968"
+    },
+    {
+      "name": "Kunstteori estetikk og historiografi",
+      "code": "KUN201",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/kunstteori-estetikk-og-historiografi/1361638"
+    },
+    {
+      "name": "Kurs i akuttmedisin",
+      "code": "AKU101",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/kurs-i-akuttmedisin/1361639"
+    },
+    {
+      "name": "Kurs i forsøksdyrlære",
+      "code": "LAS301",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/kurs-i-forsoksdyrlaere/5314915"
+    },
+    {
+      "name": "Kvalitativ analyse",
+      "code": "Geo206",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/kvalitativ-analyse/7579601"
+    },
+    {
+      "name": "kvalitative metoder",
+      "code": "SVMET1010",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/kvalitative-metoder/6925912"
+    },
+    {
+      "name": "Kvantitativ metode -1",
+      "code": "GEO204",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/kvantitativ-metode-1/1361668"
+    },
+    {
+      "name": "Kvantitativ metode som grunnlag for psykologisk kunnskap",
+      "code": "prpsykmet2",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/kvantitativ-metode-som-grunnlag-for-psykologisk-kunnskap/6517022"
+    },
+    {
+      "name": "Labour Market Policies in Comparative Perspective",
+      "code": "SAMPOL216",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/labour-market-policies-in-comparative-perspective/4306903"
+    },
+    {
+      "name": "Landformdannande prosessar",
+      "code": "GEO111",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/landformdannande-prosessar/1361685"
+    },
+    {
+      "name": "Latin elementærkurs",
+      "code": "LAT101",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/latin-elementaerkurs/1361686"
+    },
+    {
+      "name": "Latin valemne (masternivå)",
+      "code": "LAT303",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/latin-valemne-masterniva/1361689"
+    },
+    {
+      "name": "Latin: Romersk historieskriving med bacheloroppgåve",
+      "code": "LAT251",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/latin-romersk-historieskriving-med-bacheloroppgave/1361694"
+    },
+    {
+      "name": "Latin: Romersk poesi Catull og Ovid",
+      "code": "LAT104",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/latin-romersk-poesi-catull-og-ovid/1361696"
+    },
+    {
+      "name": "Latinamerikansk litteratur og kultur II",
+      "code": "SPLA118",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/latinamerikansk-litteratur-og-kultur-ii/5465685"
+    },
+    {
+      "name": "Law of the Sea and its Uses",
+      "code": "JUS293-2-A",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/law-of-the-sea-and-its-uses/5867225"
+    },
+    {
+      "name": "Leadership, management and Organization development",
+      "code": "HMAN 4210",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/leadership-management-and-organization-development/7559469"
+    },
+    {
+      "name": "Legal History and Comparative Law",
+      "code": "jus232",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/legal-history-and-comparative-law/7488128"
+    },
+    {
+      "name": "Legal Philosophy",
+      "code": "JUS273-2-A",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/legal-philosophy/1361712"
+    },
+    {
+      "name": "Leiingspsykologi",
+      "code": "PSYK200",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/leiingspsykologi/1361707"
+    },
+    {
+      "name": "likestilling og mangfold",
+      "code": "kvik102",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/likestilling-og-mangfold/4616799"
+    },
+    {
+      "name": "Lineær algebra",
+      "code": "MAT121",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/lineaer-algebra/1361709"
+    },
+    {
+      "name": "Litteratur frå antikken til mellomalder/renessanse",
+      "code": "ALLV111",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/litteratur-fra-antikken-til-mellomalderrenessanse/4118227"
+    },
+    {
+      "name": "Litteratur kjønn og kultur",
+      "code": "KVIK203",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/litteratur-kjonn-og-kultur/1361721"
+    },
+    {
+      "name": "Litteratur og tekst i eit andrespråksperspektiv",
+      "code": "NORAN115",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/litteratur-og-tekst-i-eit-andrespraksperspektiv/1361793"
+    },
+    {
+      "name": "Litteraturvitskapleg særemne I",
+      "code": "ALLV303",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/litteraturvitskapleg-saeremne-i/1361727"
+    },
+    {
+      "name": "Livskvalitet- sjukepleie i eit medisinsk perspektiv",
+      "code": "SYKVIT301",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/livskvalitet-sjukepleie-i-eit-medisinsk-perspektiv/1361736"
+    },
+    {
+      "name": "Lækjemiddelkjemi",
+      "code": "FARM236",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/laekjemiddelkjemi/1361680"
+    },
+    {
+      "name": "Læraren i klasserommet",
+      "code": "PEDA121",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/laeraren-i-klasserommet/7574549"
+    },
+    {
+      "name": "Lærarens profesjonsutvikling",
+      "code": "PEDA123",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/laerarens-profesjonsutvikling/7374974"
+    },
+    {
+      "name": "Læring i og for arbeidslivet",
+      "code": "PED113",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/laering-i-og-for-arbeidslivet/2951237"
+    },
+    {
+      "name": "Læring og atferdspsykologi",
+      "code": "PSYK207",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/laering-og-atferdspsykologi/1361681"
+    },
+    {
+      "name": "Læringsprosessens møtepunkt: Læring undervisning og vurdering",
+      "code": "PEDA112",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/laeringsprosessens-motepunkt-laering-undervisning-og-vurdering/1361691"
+    },
+    {
+      "name": "Machine Learning UIB",
+      "code": "INFO284",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/machine-learning-uib/7310421"
+    },
+    {
+      "name": "Makronæringsstoffer",
+      "code": "NUTR203",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/makronaeringsstoffer/6669716"
+    },
+    {
+      "name": "Makroøkonomi I",
+      "code": "ECON130",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/makrookonomi-i/1361748"
+    },
+    {
+      "name": "Makroøkonomi II",
+      "code": "ECON230",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/makrookonomi-ii/1361749"
+    },
+    {
+      "name": "Makt: uttrykk og løyning",
+      "code": "SANT105",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/makt-uttrykk-og-loyning/1361751"
+    },
+    {
+      "name": "Marin fauna",
+      "code": "BIO309B",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/marin-fauna/1361760"
+    },
+    {
+      "name": "Marin økologi",
+      "code": "BIO213",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/marin-okologi/1361764"
+    },
+    {
+      "name": "Marked og moral",
+      "code": "Econ150",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/marked-og-moral/5156038"
+    },
+    {
+      "name": "Marknadsføringsrett",
+      "code": "JUS260-2-D",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/marknadsforingsrett/1361770"
+    },
+    {
+      "name": "Master thesis in Quality in the Analytical Laboratory",
+      "code": "QAL399",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/master-thesis-in-quality-in-the-analytical-laboratory/1361773"
+    },
+    {
+      "name": "Masteremne i engelskspråkleg litteratur/kultur VI",
+      "code": "ENG337",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/masteremne-i-engelsksprakleg-litteraturkultur-vi/1361780"
+    },
+    {
+      "name": "Masteremne i engelskspråklig litteratur/kultur III",
+      "code": "ENG333",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/masteremne-i-engelskspraklig-litteraturkultur-iii/1361783"
+    },
+    {
+      "name": "Masteroppgåve i biologi",
+      "code": "BIO399",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/masteroppgave-i-biologi/1361814"
+    },
+    {
+      "name": "Masteroppgåve i helsefremjande arbeid og helsepsykologi",
+      "code": "HEFR395",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/masteroppgave-i-helsefremjande-arbeid-og-helsepsykologi/1361826"
+    },
+    {
+      "name": "Masteroppgåve i human ernæring",
+      "code": "NUHUM395",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/masteroppgave-i-human-ernaering/1361828"
+    },
+    {
+      "name": "Masteroppgåve i læring og undervisning",
+      "code": "UND350",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/masteroppgave-i-laering-og-undervisning/1361832"
+    },
+    {
+      "name": "Masteroppgåve i sjukepleievitskap",
+      "code": "SYKD395",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/masteroppgave-i-sjukepleievitskap/1361851"
+    },
+    {
+      "name": "Masteroppgåve i systemdynamikk",
+      "code": "GEO-SD360",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/masteroppgave-i-systemdynamikk/1361887"
+    },
+    {
+      "name": "Masterprogram i helsefag - fysioterapivitskap. Fagspesifikk deleksamen: Målemetodar og evalueringsformer.",
+      "code": "FYST331",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/masterprogram-i-helsefag-fysioterapivitskap-fagspesifikk-deleksamen-malemetodar-og-evalueringsformer/1361854"
+    },
+    {
+      "name": "Masterprogram i helsefag - genetisk rettleiing. Fagspesifikk studiedel (modul 2 og 3): Gen. rettl. - teori og praksis.",
+      "code": "GENV332",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/masterprogram-i-helsefag-genetisk-rettleiing-fagspesifikk-studiedel-modul-2-og-3-gen-rettl-teori-og-praksis/1361857"
+    },
+    {
+      "name": "Mat, miljø og berekraftig utvikling",
+      "code": "geo 131",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/mat-miljo-og-berekraftig-utvikling/4408716"
+    },
+    {
+      "name": "Matematikk for naturvitenskap",
+      "code": "MAT105",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/matematikk-for-naturvitenskap/4851364"
+    },
+    {
+      "name": "Matematikk for økonomer",
+      "code": "ECON140",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/matematikk-for-okonomer/1361874"
+    },
+    {
+      "name": "Materialitet: miljø stad og økonomi",
+      "code": "SANT103",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/materialitet-miljo-stad-og-okonomi/1361883"
+    },
+    {
+      "name": "Materiallære",
+      "code": "TPBAMAT",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/materiallaere/1361885"
+    },
+    {
+      "name": "Matvarekunnskap",
+      "code": "NUTR150",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/matvarekunnskap/1361904"
+    },
+    {
+      "name": "Medical Data Science",
+      "code": "DIGI116",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/medical-data-science/6961725"
+    },
+    {
+      "name": "Medienes publikum: mediebruk og meiningsdanning",
+      "code": "MEVI102",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/medienes-publikum-mediebruk-og-meiningsdanning/1361890"
+    },
+    {
+      "name": "Medier kommunikasjon og globalisering",
+      "code": "MEVI310",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/medier-kommunikasjon-og-globalisering/1361892"
+    },
+    {
+      "name": "Medier representasjon og identitet",
+      "code": "MEVI104",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/medier-representasjon-og-identitet/1361893"
+    },
+    {
+      "name": "Medier: institusjonar og historie",
+      "code": "MEVI101",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/medier-institusjonar-og-historie/1361894"
+    },
+    {
+      "name": "Medieretorikk",
+      "code": "MEVI203",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/medieretorikk/1361895"
+    },
+    {
+      "name": "Medietekster: teori og analyse",
+      "code": "MEVI103",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/medietekster-teori-og-analyse/1361896"
+    },
+    {
+      "name": "Medisin og samfunn",
+      "code": "SOS-1003",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/medisin-og-samfunn/6463783"
+    },
+    {
+      "name": "Medisinsk biokjemi",
+      "code": "MEDMBK",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/medisinsk-biokjemi/1361897"
+    },
+    {
+      "name": "Medisinsk genetikk",
+      "code": "MEDGEN",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/medisinsk-genetikk/1361899"
+    },
+    {
+      "name": "Medisinsk mikrobiologi og immunologi",
+      "code": "MEDMBI",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/medisinsk-mikrobiologi-og-immunologi/1361901"
+    },
+    {
+      "name": "Medisinsk nomenklaturlære",
+      "code": "NOM",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/medisinsk-nomenklaturlaere/1361902"
+    },
+    {
+      "name": "Medisinsk statistikk",
+      "code": "MEDSTA",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/medisinsk-statistikk/1361905"
+    },
+    {
+      "name": "Medisinsk Statistikk med Stata",
+      "code": "MEDSTATA",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/medisinsk-statistikk-med-stata/1361903"
+    },
+    {
+      "name": "Medisinsk teknologi",
+      "code": "MTEK100",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/medisinsk-teknologi/6399979"
+    },
+    {
+      "name": "Medisinstudiet 3 semester",
+      "code": "MED3",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/medisinstudiet-3-semester/3730380"
+    },
+    {
+      "name": "Medisinstudiet 4 semester",
+      "code": "MED4",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/medisinstudiet-4-semester/4068988"
+    },
+    {
+      "name": "Medisinstudiet 5 semester",
+      "code": "MED5",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/medisinstudiet-5-semester/4087325"
+    },
+    {
+      "name": "Medisinstudiet 7 semester",
+      "code": "MED7",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/medisinstudiet-7-semester/7635971"
+    },
+    {
+      "name": "Medisinstudiet andre semester",
+      "code": "MEDOD 2",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/medisinstudiet-andre-semester/4371508"
+    },
+    {
+      "name": "Medisinstudiet første semester",
+      "code": "MEDOD 1",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/medisinstudiet-forste-semester/4371509"
+    },
+    {
+      "name": "Mekanikk 1",
+      "code": "PHYS111",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/mekanikk-1/1361918"
+    },
+    {
+      "name": "Menneskets anatomi",
+      "code": "NUTRANA",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/menneskets-anatomi/1361907"
+    },
+    {
+      "name": "Menneskets fysiologi",
+      "code": "OD1FYS",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/menneskets-fysiologi/1361908"
+    },
+    {
+      "name": "Menneskets fysiologi",
+      "code": "FARM280",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/menneskets-fysiologi/7231559"
+    },
+    {
+      "name": "Metabolisme; reaksjonar regulering og kompartmentalisering",
+      "code": "MOL200",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/metabolisme-reaksjonar-regulering-og-kompartmentalisering/1361910"
+    },
+    {
+      "name": "Metafysikk",
+      "code": "FIL220",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/metafysikk/1361912"
+    },
+    {
+      "name": "Metode",
+      "code": "AORG321",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/metode/1361917"
+    },
+    {
+      "name": "Metoder i kunstig intelligens",
+      "code": "INFO180",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/metoder-i-kunstig-intelligens/5870359"
+    },
+    {
+      "name": "Midtaustens og Middelhavsområdets eldste religionshistorie og norrøn og samisk religion",
+      "code": "RELV105",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/midtaustens-og-middelhavsomradets-eldste-religionshistorie-og-norron-og-samisk-religion/1361927"
+    },
+    {
+      "name": "Migrasjon og ulikhet i mangfoldige samfunn",
+      "code": "SOS137",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/migrasjon-og-ulikhet-i-mangfoldige-samfunn/7507168"
+    },
+    {
+      "name": "Mikrobiologi",
+      "code": "OD2MIKR",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/mikrobiologi/1361935"
+    },
+    {
+      "name": "Mikrobiologi og hygiene",
+      "code": "TPBAMIKR",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/mikrobiologi-og-hygiene/1361937"
+    },
+    {
+      "name": "Mikroøkonomiske grunnomgrep og marknadsteori",
+      "code": "ECON110",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/mikrookonomiske-grunnomgrep-og-marknadsteori/1361939"
+    },
+    {
+      "name": "Miljø økonomi",
+      "code": "ECON 116",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/miljo-okonomi/6039016"
+    },
+    {
+      "name": "Miljø- og ressursøkonomi I",
+      "code": "ECON216",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/miljo-og-ressursokonomi-i/1361944"
+    },
+    {
+      "name": "Miljøetikk",
+      "code": "FIL236",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/miljoetikk/1361942"
+    },
+    {
+      "name": "Miljøforvaltning og planlegging",
+      "code": "GEO281",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/miljoforvaltning-og-planlegging/1361945"
+    },
+    {
+      "name": "Miljøkjemi",
+      "code": "KJEM202",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/miljokjemi/1361946"
+    },
+    {
+      "name": "Miljøoptikk og transport av lys og partikler",
+      "code": "PHYS264",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/miljooptikk-og-transport-av-lys-og-partikler/1361947"
+    },
+    {
+      "name": "Miljøpåverknad av oppdrett",
+      "code": "BIO208",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/miljopaverknad-av-oppdrett/1361948"
+    },
+    {
+      "name": "Miljøsosiologi",
+      "code": "SOS115",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/miljososiologi/1361949"
+    },
+    {
+      "name": "Modellering og optimering",
+      "code": "INF170",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/modellering-og-optimering/1361959"
+    },
+    {
+      "name": "Modern linguistics: Grammatical differences between British English and American English",
+      "code": "ENG227",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/modern-linguistics-grammatical-differences-between-british-english-and-american-english/7755458"
+    },
+    {
+      "name": "Moderne fysikk I",
+      "code": "PHYS118",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/moderne-fysikk-i/1361956"
+    },
+    {
+      "name": "Moderne litteratur og poetikk fra 1700 til i dag",
+      "code": "ALLV103",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/moderne-litteratur-og-poetikk-fra-1700-til-i-dag/1361968"
+    },
+    {
+      "name": "Moderne norsk",
+      "code": "NOAN101",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/moderne-norsk/5698247"
+    },
+    {
+      "name": "Molekylær cellebiologi",
+      "code": "MOL201",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/molekylaer-cellebiologi/1361965"
+    },
+    {
+      "name": "Molekylær cellebiologi",
+      "code": "FARM260",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/molekylaer-cellebiologi/4408850"
+    },
+    {
+      "name": "Molekylær fysikalsk kjemi",
+      "code": "KJEM140",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/molekylaer-fysikalsk-kjemi/1361966"
+    },
+    {
+      "name": "Moralfilosofi",
+      "code": "FIL228",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/moralfilosofi/1361971"
+    },
+    {
+      "name": "Mot ein historisk arkeologi: Yngre jernalder og mellomalder i Norden og Nord-Europa ca. 570 e.Kr. - 1500 e.Kr.",
+      "code": "ARK104",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/mot-ein-historisk-arkeologi-yngre-jernalder-og-mellomalder-i-norden-og-nord-europa-ca-570-ekr-1500-ekr/1361972"
+    },
+    {
+      "name": "Motivasjonspsykologi",
+      "code": "PSYK109",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/motivasjonspsykologi/1361973"
+    },
+    {
+      "name": "Multivariabel statistisk analyse",
+      "code": "STAT310",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/multivariabel-statistisk-analyse/1361975"
+    },
+    {
+      "name": "Music in World Cultures",
+      "code": "MUG105",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/music-in-world-cultures/1361980"
+    },
+    {
+      "name": "Musikk kultur samfunn",
+      "code": "MUF101",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/musikk-kultur-samfunn/1361985"
+    },
+    {
+      "name": "Musikk og hjerne",
+      "code": "MUTP111",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/musikk-og-hjerne/1361988"
+    },
+    {
+      "name": "Musikkproduksjon",
+      "code": "MVK101",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/musikkproduksjon/4048449"
+    },
+    {
+      "name": "Nanoetikk",
+      "code": "NANO310",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/nanoetikk/1362066"
+    },
+    {
+      "name": "Natural Resource and Environmental Economics",
+      "code": "ECON316",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/natural-resource-and-environmental-economics/1362025"
+    },
+    {
+      "name": "Natural Resources Management",
+      "code": "GEO-SD660",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/natural-resources-management/1362026"
+    },
+    {
+      "name": "Naturfagdidaktikk I",
+      "code": "NATDID201",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/naturfagdidaktikk-i/1362027"
+    },
+    {
+      "name": "Naturfagsdidaktikk 3",
+      "code": "NATDID203-P",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/naturfagsdidaktikk-3/1362032"
+    },
+    {
+      "name": "Naturkatastrofer - argumentasjon og rollespill i geofag",
+      "code": "GEOV622",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/naturkatastrofer-argumentasjon-og-rollespill-i-geofag/1362035"
+    },
+    {
+      "name": "Nettbasert kurs i norsk (bokmål) som andrespråk trinn 3",
+      "code": "NOR-U603",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/nettbasert-kurs-i-norsk-bokmal-som-andresprak-trinn-3/1362037"
+    },
+    {
+      "name": "Nevroestetikk",
+      "code": "NEU201",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/nevroestetikk/1362040"
+    },
+    {
+      "name": "Nevrologi",
+      "code": "MEDNEV",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/nevrologi/1362043"
+    },
+    {
+      "name": "Nonprofit Management: Practice and Theory",
+      "code": "PUBA 4704",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/nonprofit-management-practice-and-theory/4126598"
+    },
+    {
+      "name": "Nordisk sommarkurs i norsk språk og litteratur",
+      "code": "NORDKURS",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/nordisk-sommarkurs-i-norsk-sprak-og-litteratur/1362051"
+    },
+    {
+      "name": "Nordisk: Den eldre litteraturen",
+      "code": "NOLI103",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/nordisk-den-eldre-litteraturen/1362052"
+    },
+    {
+      "name": "Nordisk: Den eldre litteraturen for integrert lærarutdanning",
+      "code": "NOLI103-L",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/nordisk-den-eldre-litteraturen-for-integrert-laerarutdanning/1362054"
+    },
+    {
+      "name": "Nordisk: Litteratur etter 1900",
+      "code": "NOLI102",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/nordisk-litteratur-etter-1900/1362078"
+    },
+    {
+      "name": "Nordisk: Litteratur etter 1900 (Fjernord)",
+      "code": "NOLI102-F",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/nordisk-litteratur-etter-1900-fjernord/1362067"
+    },
+    {
+      "name": "Nordisk: Litterær analyse og teori",
+      "code": "NOLI250",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/nordisk-litteraer-analyse-og-teori/1362057"
+    },
+    {
+      "name": "Nordisk: Språkhistorie og talemål",
+      "code": "NOSP103",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/nordisk-sprakhistorie-og-talemal/1362097"
+    },
+    {
+      "name": "Nordisk: Språkhistorie og talemål for integrert lektorutdanning",
+      "code": "NOSP103-L",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/nordisk-sprakhistorie-og-talemal-for-integrert-lektorutdanning/1362081"
+    },
+    {
+      "name": "Norrøn mytologi",
+      "code": "NOFI106",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/norron-mytologi/1362099"
+    },
+    {
+      "name": "Norrønt språk",
+      "code": "NOFI101",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/norront-sprak/1362102"
+    },
+    {
+      "name": "Norsk fagdidaktikk",
+      "code": "NODI101",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/norsk-fagdidaktikk/4547424"
+    },
+    {
+      "name": "Norsk hovedmål",
+      "code": "NOR1211",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/norsk-hovedmal/4880181"
+    },
+    {
+      "name": "Norsk politikk",
+      "code": "GOV103",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/norsk-politikk/7273588"
+    },
+    {
+      "name": "Norsk politikk; strukturer, institusjoner og prosesser",
+      "code": "SAMPOL 240",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/norsk-politikk-strukturer-institusjoner-og-prosesser/5180565"
+    },
+    {
+      "name": "Norsk språk som andrespråk",
+      "code": "NORAN101",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/norsk-sprak-som-andresprak/1362112"
+    },
+    {
+      "name": "Norsk språk som andrespråk (fjernstudium)",
+      "code": "NORAN101-F",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/norsk-sprak-som-andresprak-fjernstudium/1362107"
+    },
+    {
+      "name": "Norske og internasjonale rettslege institusjonar",
+      "code": "JUS121",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/norske-og-internasjonale-rettslege-institusjonar/1362110"
+    },
+    {
+      "name": "Norwegian Language - Scandinavian Area Studies",
+      "code": "SAS1",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/norwegian-language-scandinavian-area-studies/1362200"
+    },
+    {
+      "name": "Nyreligiøsitet",
+      "code": "RELV321",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/nyreligiositet/1362123"
+    },
+    {
+      "name": "Næringsmiddeltoksikologi",
+      "code": "BIO307",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/naeringsmiddeltoksikologi/1362021"
+    },
+    {
+      "name": "Næringsstruktur og internasjonal handel",
+      "code": "ECON218",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/naeringsstruktur-og-internasjonal-handel/1362020"
+    },
+    {
+      "name": "Observasjon, kartlegging og tiltak i barnehagen",
+      "code": "SPED102",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/observasjon-kartlegging-og-tiltak-i-barnehagen/7266399"
+    },
+    {
+      "name": "Offentlig økonomi",
+      "code": "ECON324",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/offentlig-okonomi/1362128"
+    },
+    {
+      "name": "Omsorgsutøvelse barns utvikling og avgjerder i barnevernet",
+      "code": "MABARN301",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/omsorgsutovelse-barns-utvikling-og-avgjerder-i-barnevernet/1362139"
+    },
+    {
+      "name": "operative system",
+      "code": "inf113",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/operative-system/6849486"
+    },
+    {
+      "name": "Opphavsrett",
+      "code": "JUS260-2-B",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/opphavsrett/1362164"
+    },
+    {
+      "name": "Oral biologi",
+      "code": "ODBIO901",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/oral-biologi/1362150"
+    },
+    {
+      "name": "Oral biologi del 1",
+      "code": "OD1ORBI1",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/oral-biologi-del-1/1362151"
+    },
+    {
+      "name": "Oral biologi del 2",
+      "code": "OD1ORBI2",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/oral-biologi-del-2/1362152"
+    },
+    {
+      "name": "Organisasjon og politikk",
+      "code": "AORG320",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/organisasjon-og-politikk/1362158"
+    },
+    {
+      "name": "Organisasjons- og institusjonsanalyse for offentlig sektor",
+      "code": "AORG215",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/organisasjons-og-institusjonsanalyse-for-offentlig-sektor/4825557"
+    },
+    {
+      "name": "Organisasjons- og leiarutvikling",
+      "code": "MAPSYK321",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/organisasjons-og-leiarutvikling/1362159"
+    },
+    {
+      "name": "Organisasjonspsykologi",
+      "code": "PSYK374A",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/organisasjonspsykologi/1362160"
+    },
+    {
+      "name": "Organisasjonsteori",
+      "code": "AORG210",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/organisasjonsteori/1362161"
+    },
+    {
+      "name": "Organisasjonsteori",
+      "code": "AORG101",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/organisasjonsteori/1552617"
+    },
+    {
+      "name": "Organisering læring og endring",
+      "code": "AORG602",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/organisering-laering-og-endring/1362162"
+    },
+    {
+      "name": "Organisk kjemi",
+      "code": "KJEM130",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/organisk-kjemi/1362163"
+    },
+    {
+      "name": "Organisk syntese og analyse",
+      "code": "KJEM131",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/organisk-syntese-og-analyse/1362166"
+    },
+    {
+      "name": "Organismebiologi 1",
+      "code": "BIO101",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/organismebiologi-1/1362191"
+    },
+    {
+      "name": "Organismebiologi 2",
+      "code": "BIO102",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/organismebiologi-2/1362168"
+    },
+    {
+      "name": "Organismebiologi for fiskehelse og havbruk",
+      "code": "BIF101",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/organismebiologi-for-fiskehelse-og-havbruk/7178174"
+    },
+    {
+      "name": "Organization Theory",
+      "code": "GOV112",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/organization-theory/7408517"
+    },
+    {
+      "name": "Oversikt over kvinne- og kjønnshistorie",
+      "code": "HIS108",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/oversikt-over-kvinne-og-kjonnshistorie/1362175"
+    },
+    {
+      "name": "Oversikt over USA historie",
+      "code": "HIS111",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/oversikt-over-usa-historie/1362173"
+    },
+    {
+      "name": "Oversyn over eldre historie til 1750",
+      "code": "HIS101",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/oversyn-over-eldre-historie-til-1750/1362174"
+    },
+    {
+      "name": "Oversyn over kognitiv vitskap",
+      "code": "KOGVIT101",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/oversyn-over-kognitiv-vitskap/1362182"
+    },
+    {
+      "name": "Oversyn over Midtaustens historie",
+      "code": "HIM101",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/oversyn-over-midtaustens-historie/1362176"
+    },
+    {
+      "name": "Oversyn over nyare historie frå 1750",
+      "code": "HIS102",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/oversyn-over-nyare-historie-fra-1750/1362178"
+    },
+    {
+      "name": "Party Politics in Europe and Beyond",
+      "code": "SAMPOL230",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/party-politics-in-europe-and-beyond/5279815"
+    },
+    {
+      "name": "Pasientkontakt",
+      "code": "PASKON1",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/pasientkontakt/1362186"
+    },
+    {
+      "name": "Patologi",
+      "code": "MANT305A",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/patologi/1362189"
+    },
+    {
+      "name": "Patologi A-kull",
+      "code": "MEDPAT-A",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/patologi-a-kull/1362192"
+    },
+    {
+      "name": "Patologi generell",
+      "code": "TPBAPAT",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/patologi-generell/1362195"
+    },
+    {
+      "name": "Pedagogisk filosofi",
+      "code": "PED111",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/pedagogisk-filosofi/2951238"
+    },
+    {
+      "name": "Pedagogiske perspektiv på læring",
+      "code": "PED112",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/pedagogiske-perspektiv-pa-laering/1362201"
+    },
+    {
+      "name": "Pengekravsrett",
+      "code": "JUS132",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/pengekravsrett/1362206"
+    },
+    {
+      "name": "Periodonti",
+      "code": "TPBAPER",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/periodonti/1362207"
+    },
+    {
+      "name": "Periodonti + godkjent klinikk tredje studieår",
+      "code": "OD3PER-K3",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/periodonti-godkjent-klinikk-tredje-studiear/1362210"
+    },
+    {
+      "name": "Personalpsykologi",
+      "code": "PSYK106",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/personalpsykologi/1362217"
+    },
+    {
+      "name": "Personlighetspsykologi",
+      "code": "PROPSY308",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/personlighetspsykologi/1362219"
+    },
+    {
+      "name": "Perspektiv i fysikk",
+      "code": "PHYS110",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/perspektiv-i-fysikk/1362212"
+    },
+    {
+      "name": "Perspektiv i nanovitskap og -teknologi",
+      "code": "NANO100",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/perspektiv-i-nanovitskap-og-teknologi/1362213"
+    },
+    {
+      "name": "Perspektiv i psykologisk vitskap",
+      "code": "MAPSYK301",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/perspektiv-i-psykologisk-vitskap/1362214"
+    },
+    {
+      "name": "Perspektiv på bærekraftig utvikling",
+      "code": "SDG110",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/perspektiv-pa-baerekraftig-utvikling/4538334"
+    },
+    {
+      "name": "Planlegging av eksperiment og analyse av fleirvariable data",
+      "code": "KJEM225",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/planlegging-av-eksperiment-og-analyse-av-fleirvariable-data/1362245"
+    },
+    {
+      "name": "Planrett",
+      "code": "JUR640",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/planrett/1362223"
+    },
+    {
+      "name": "Political Economy",
+      "code": "SAMPOL214",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/political-economy/1362229"
+    },
+    {
+      "name": "Politikk og forvalting",
+      "code": "AORG103",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/politikk-og-forvalting/1362230"
+    },
+    {
+      "name": "Politikk og forvalting",
+      "code": "Gov100",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/politikk-og-forvalting/6518421"
+    },
+    {
+      "name": "politikk og forvaltning",
+      "code": "aorg103",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/politikk-og-forvaltning/5047323"
+    },
+    {
+      "name": "Politikk, incentiver og atferd",
+      "code": "econ122",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/politikk-incentiver-og-atferd/5930194"
+    },
+    {
+      "name": "Politirett",
+      "code": "JUS254-2-A",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/politirett/1362231"
+    },
+    {
+      "name": "Politisk mobilisering",
+      "code": "SAMPOL107",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/politisk-mobilisering/1362233"
+    },
+    {
+      "name": "Politisk styring og organisering",
+      "code": "AORG209",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/politisk-styring-og-organisering/1362238"
+    },
+    {
+      "name": "Politisk teori og styreformar",
+      "code": "AORG104",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/politisk-teori-og-styreformar/1362236"
+    },
+    {
+      "name": "Politisk teori og styreformer",
+      "code": "GOV104",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/politisk-teori-og-styreformer/6767711"
+    },
+    {
+      "name": "politisk teori og styreformer",
+      "code": "gov114",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/politisk-teori-og-styreformer/7752630"
+    },
+    {
+      "name": "Politisk økonomi - økonomiske perspektiver",
+      "code": "ECON225",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/politisk-okonomi-okonomiske-perspektiver/1362235"
+    },
+    {
+      "name": "Politiske institusjonar i etablerte demokrati",
+      "code": "SAMPOL106",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/politiske-institusjonar-i-etablerte-demokrati/1362237"
+    },
+    {
+      "name": "Populism",
+      "code": "Sampol 226",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/populism/5129476"
+    },
+    {
+      "name": "Populism and its Consequences for Liberal Democracy",
+      "code": "Sampol 226",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/populism-and-its-consequences-for-liberal-democracy/5320992"
+    },
+    {
+      "name": "Poverty Welfare and Marginalisation: An Ethnographic Approach to Modern Urban Life",
+      "code": "SANT240",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/poverty-welfare-and-marginalisation-an-ethnographic-approach-to-modern-urban-life/1362258"
+    },
+    {
+      "name": "Praksisperiode 1",
+      "code": "PPUPRA101",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/praksisperiode-1/1362747"
+    },
+    {
+      "name": "Praktisk pedagogikk - pedagogikk 1. semester",
+      "code": "PEDA101",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/praktisk-pedagogikk-pedagogikk-1-semester/1362263"
+    },
+    {
+      "name": "Praktisk pedagogikk - pedagogikk 2. semester",
+      "code": "PEDA102",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/praktisk-pedagogikk-pedagogikk-2-semester/1362264"
+    },
+    {
+      "name": "Principles of Dynamic Modeling and Policy Design",
+      "code": "GEO-SD201",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/principles-of-dynamic-modeling-and-policy-design/1362270"
+    },
+    {
+      "name": "Principles of learning",
+      "code": "Psyk207",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/principles-of-learning/4489077"
+    },
+    {
+      "name": "Production and Interpretation of Qualitative Data",
+      "code": "GEO901",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/production-and-interpretation-of-qualitative-data/1362271"
+    },
+    {
+      "name": "Profesjonsforberedelse",
+      "code": "PROPSY301",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/profesjonsforberedelse/1362274"
+    },
+    {
+      "name": "Profesjonsforberedelse 2",
+      "code": "PRPSYK301B",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/profesjonsforberedelse-2/5840193"
+    },
+    {
+      "name": "Profesjonsforberende - kommunikasjon og relasjonskompetanse",
+      "code": "PRPSYK301C",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/profesjonsforberende-kommunikasjon-og-relasjonskompetanse/6153021"
+    },
+    {
+      "name": "Profesjonsførebuande I Psykisk helse, behandling og fagetikk",
+      "code": "PRPSYK301A",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/profesjonsforebuande-i-psykisk-helse-behandling-og-fagetikk/5147855"
+    },
+    {
+      "name": "Programvaresikkerhet",
+      "code": "INF226",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/programvaresikkerhet/1362277"
+    },
+    {
+      "name": "Propedeutikk del 2: Protetikk",
+      "code": "OD2PROP2",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/propedeutikk-del-2-protetikk/1362280"
+    },
+    {
+      "name": "Protetikk + godkjent klinikk fjerde stud.år",
+      "code": "OD3PRO-K4",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/protetikk-godkjent-klinikk-fjerde-studar/1362297"
+    },
+    {
+      "name": "Protetikk og gerodontologi + godkjent klinikk",
+      "code": "TPBAPRO/GER",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/protetikk-og-gerodontologi-godkjent-klinikk/1362298"
+    },
+    {
+      "name": "Psykologi 2.avd.- teoretisk-tematisk kunnskap (8 dagers skriftleg eksamen)",
+      "code": "PSYK2S",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/psykologi-2avd-teoretisk-tematisk-kunnskap-8-dagers-skriftleg-eksamen/1362300"
+    },
+    {
+      "name": "Psykologi, org. og ledelse",
+      "code": "org3402",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/psykologi-org-og-ledelse/6541035"
+    },
+    {
+      "name": "Psykologi, organisasjon, ledelse",
+      "code": null,
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/psykologi-organisasjon-ledelse/5476483"
+    },
+    {
+      "name": "Psykologiens histore",
+      "code": "PRPSYK100",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/psykologiens-histore/7740428"
+    },
+    {
+      "name": "Psykologiens historie",
+      "code": "PSYK100",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/psykologiens-historie/5153932"
+    },
+    {
+      "name": "Psykologisk metode",
+      "code": "PSYK202",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/psykologisk-metode/6635562"
+    },
+    {
+      "name": "Psykologiske forskingsmetodar A",
+      "code": "PSYK202A",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/psykologiske-forskingsmetodar-a/1362306"
+    },
+    {
+      "name": "Psykologiske forskningsmetoder B",
+      "code": "PSYK202B",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/psykologiske-forskningsmetoder-b/1362304"
+    },
+    {
+      "name": "Psykologiske perspektiv på kulturelt mangfald i samfunns- og arbeidsliv",
+      "code": "MAPSYK313",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/psykologiske-perspektiv-pa-kulturelt-mangfald-i-samfunns-og-arbeidsliv/1362308"
+    },
+    {
+      "name": "Psykologstudiet - hovudoppgåve",
+      "code": "PSYK300",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/psykologstudiet-hovudoppgave/1362310"
+    },
+    {
+      "name": "Qualitative Methods for International Public Health",
+      "code": "INTH323A",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/qualitative-methods-for-international-public-health/1362320"
+    },
+    {
+      "name": "Radiologi",
+      "code": "MEDRAD",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/radiologi/1362331"
+    },
+    {
+      "name": "Regional utvikling",
+      "code": "GEO123",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/regional-utvikling/1362333"
+    },
+    {
+      "name": "Regional utvikling",
+      "code": "GEO124",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/regional-utvikling/2951277"
+    },
+    {
+      "name": "Regions Federalism and EU Integration",
+      "code": "SAMPOL205",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/regions-federalism-and-eu-integration/1362336"
+    },
+    {
+      "name": "Reinforcement Learning",
+      "code": "INF368",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/reinforcement-learning/6546852"
+    },
+    {
+      "name": "Reinforcement learning",
+      "code": "INF266",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/reinforcement-learning/7580843"
+    },
+    {
+      "name": "Religion and Politics",
+      "code": "RELV328",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/religion-and-politics/1362354"
+    },
+    {
+      "name": "Religion and Tourism",
+      "code": "RELV331",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/religion-and-tourism/1362344"
+    },
+    {
+      "name": "Religion og media",
+      "code": "RELV330",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/religion-og-media/1362346"
+    },
+    {
+      "name": "Religion og turisme",
+      "code": "RELV231",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/religion-og-turisme/1362348"
+    },
+    {
+      "name": "Religion, kultur og samfunn",
+      "code": "RELV100",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/religion-kultur-og-samfunn/5126983"
+    },
+    {
+      "name": "Religionar i antikken",
+      "code": "RELV322",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/religionar-i-antikken/1362351"
+    },
+    {
+      "name": "Religionsdidaktikk (Religion og etikk) for videregåande skule",
+      "code": "RELDI112",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/religionsdidaktikk-religion-og-etikk-for-videregaande-skule/1362352"
+    },
+    {
+      "name": "Religionsdidaktikk (RLE) for grunnskolen",
+      "code": "RELDI111",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/religionsdidaktikk-rle-for-grunnskolen/1362353"
+    },
+    {
+      "name": "Research Project in Biology",
+      "code": "BIO299",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/research-project-in-biology/1362366"
+    },
+    {
+      "name": "Reservoarteknikk I",
+      "code": "PTEK212",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/reservoarteknikk-i/1362372"
+    },
+    {
+      "name": "Ressursforvaltning og utvikling i Den tredje verden",
+      "code": "GEO131",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/ressursforvaltning-og-utvikling-i-den-tredje-verden/1362373"
+    },
+    {
+      "name": "Retorikk",
+      "code": "RET101",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/retorikk/1362374"
+    },
+    {
+      "name": "Rettargang",
+      "code": "JUS242",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/rettargang/1362375"
+    },
+    {
+      "name": "Rettshistorie og komparativ rett",
+      "code": "JUS134",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/rettshistorie-og-komparativ-rett/1362378"
+    },
+    {
+      "name": "Rettskjelde- og metodelære",
+      "code": "JUS133",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/rettskjelde-og-metodelaere/1362380"
+    },
+    {
+      "name": "Rettsstat og menneskerettar",
+      "code": "JUS135",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/rettsstat-og-menneskerettar/1362382"
+    },
+    {
+      "name": "Russisk Historie",
+      "code": "RUS1503",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/russisk-historie/7302111"
+    },
+    {
+      "name": "Røntgenologi",
+      "code": "TPBARØN",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/rontgenologi/1362390"
+    },
+    {
+      "name": "Rørslevitskap og treningslære",
+      "code": "MANT304A",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/rorslevitskap-og-treningslaere/1362391"
+    },
+    {
+      "name": "Samfunn og kultur",
+      "code": "PSYK354",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/samfunn-og-kultur/1362421"
+    },
+    {
+      "name": "Samfunnsfag",
+      "code": "SAF1001",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/samfunnsfag/6700258"
+    },
+    {
+      "name": "Samfunnsfarmasi I",
+      "code": "FARM103",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/samfunnsfarmasi-i/1362407"
+    },
+    {
+      "name": "Samfunnsstrukturer i endring",
+      "code": "SOS103",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/samfunnsstrukturer-i-endring/1362414"
+    },
+    {
+      "name": "Samfunnsvitenskapelig metode",
+      "code": "SVF-1050",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/samfunnsvitenskapelig-metode/6463794"
+    },
+    {
+      "name": "Samfunnsvitenskapelig metode",
+      "code": "MET103",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/samfunnsvitenskapelig-metode/7458970"
+    },
+    {
+      "name": "Samfunnsvitskapleg metode",
+      "code": "MET102",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/samfunnsvitskapleg-metode/1362415"
+    },
+    {
+      "name": "Samfunnsøkonomi 2",
+      "code": "SAM3026",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/samfunnsokonomi-2/7574482"
+    },
+    {
+      "name": "Samisk religion",
+      "code": "RELV308",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/samisk-religion/1362416"
+    },
+    {
+      "name": "Sammenliknende politikk",
+      "code": "SAMPOL100",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/sammenliknende-politikk/6619545"
+    },
+    {
+      "name": "Scandinavian Literature - 20th Century Scandinavian Area Studies",
+      "code": "SAS2B",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/scandinavian-literature-20th-century-scandinavian-area-studies/1362422"
+    },
+    {
+      "name": "Scandinavian Politics and Government",
+      "code": "SAMPOL120",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/scandinavian-politics-and-government/1362430"
+    },
+    {
+      "name": "Seksuelle overgrep",
+      "code": "PSYK374J",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/seksuelle-overgrep/1362427"
+    },
+    {
+      "name": "Selected Topic in English Linguistics III",
+      "code": "ENG343",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/selected-topic-in-english-linguistics-iii/7059412"
+    },
+    {
+      "name": "Selvvalgt idrett og fysisk aktivitet for alle",
+      "code": "KRO309",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/selvvalgt-idrett-og-fysisk-aktivitet-for-alle/4865367"
+    },
+    {
+      "name": "Semantic Technologies",
+      "code": "INFO116",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/semantic-technologies/1362429"
+    },
+    {
+      "name": "Sentrale spørsmål i forsking og samfunn: Klima: Hva vet vi? Hva bør vi gjøre?",
+      "code": "VIT212",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/sentrale-sporsmal-i-forsking-og-samfunn-klima-hva-vet-vi-hva-bor-vi-gjore/1362453"
+    },
+    {
+      "name": "Signal-og systemananalyse",
+      "code": "PHYS116",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/signal-og-systemananalyse/1362461"
+    },
+    {
+      "name": "Sinnsfilosofi",
+      "code": "FIL235",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/sinnsfilosofi/1362462"
+    },
+    {
+      "name": "Sjette semester av medisinstudiet",
+      "code": "MED6",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/sjette-semester-av-medisinstudiet/6903815"
+    },
+    {
+      "name": "Skadebot",
+      "code": "JUS122",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/skadebot/1362464"
+    },
+    {
+      "name": "Skatterett II",
+      "code": "JUS256-2-B",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/skatterett-ii/1362494"
+    },
+    {
+      "name": "Skole- og opplæringspsykologi",
+      "code": "PROPSY307",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/skole-og-opplaeringspsykologi/1362469"
+    },
+    {
+      "name": "Skolens læringsmiljø",
+      "code": "PED115",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/skolens-laeringsmiljo/6748694"
+    },
+    {
+      "name": "Skulen i samfunnet",
+      "code": "PEDA122",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/skulen-i-samfunnet/6118355"
+    },
+    {
+      "name": "Skulen og lærarrolla",
+      "code": "PEDA120",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/skulen-og-laerarrolla/1362475"
+    },
+    {
+      "name": "Skulen og lærarrolla i praksis",
+      "code": "KOPRA101",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/skulen-og-laerarrolla-i-praksis/1362476"
+    },
+    {
+      "name": "Sommarkurs i norsk språk og kultur trinn 2",
+      "code": "NORSKU-02",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/sommarkurs-i-norsk-sprak-og-kultur-trinn-2/1362482"
+    },
+    {
+      "name": "Sommarkurs i norsk språk og kultur trinn 3",
+      "code": "NORSKU-03",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/sommarkurs-i-norsk-sprak-og-kultur-trinn-3/1362483"
+    },
+    {
+      "name": "sos",
+      "code": null,
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/sos/4824724"
+    },
+    {
+      "name": "Sosial nettverksteori",
+      "code": "INFO207",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/sosial-nettverksteori/1362503"
+    },
+    {
+      "name": "Sosial og personlighetspsykologi",
+      "code": "psyk112",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/sosial-og-personlighetspsykologi/3193385"
+    },
+    {
+      "name": "Sosial ulikhet",
+      "code": null,
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/sosial-ulikhet/7192820"
+    },
+    {
+      "name": "Sosialantropologi",
+      "code": "SANT150",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/sosialantropologi/4802540"
+    },
+    {
+      "name": "sosialantropologi",
+      "code": "sant100",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/sosialantropologi/5022460"
+    },
+    {
+      "name": "Sosialpsykologi",
+      "code": "PROPSY309",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/sosialpsykologi/1362488"
+    },
+    {
+      "name": "Sosialt liv i globalt perspektiv",
+      "code": "SANT102",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/sosialt-liv-i-globalt-perspektiv/1362500"
+    },
+    {
+      "name": "Sosialt liv i globalt perspektiv",
+      "code": "Sant 102",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/sosialt-liv-i-globalt-perspektiv/5955097"
+    },
+    {
+      "name": "Sosiologisk forskning: Teori og metode",
+      "code": "SOS201",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/sosiologisk-forskning-teori-og-metode/4822469"
+    },
+    {
+      "name": "Sosiologisk teori: Klassiske perspektiv",
+      "code": "SOS101",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/sosiologisk-teori-klassiske-perspektiv/1362491"
+    },
+    {
+      "name": "Sosiologiske teoritradisjonar",
+      "code": "SOS302",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/sosiologiske-teoritradisjonar/1362493"
+    },
+    {
+      "name": "Sounds and Structures",
+      "code": "ENG110",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/sounds-and-structures/7574546"
+    },
+    {
+      "name": "Spansk II",
+      "code": "SPLA117",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/spansk-ii/5465725"
+    },
+    {
+      "name": "Spansk språk I",
+      "code": "SPLA101",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/spansk-sprak-i/1362498"
+    },
+    {
+      "name": "Spansk språk II",
+      "code": "SPLA105",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/spansk-sprak-ii/1362509"
+    },
+    {
+      "name": "Special Topics in System Dynamics Applications",
+      "code": "GEO-SD323",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/special-topics-in-system-dynamics-applications/1362505"
+    },
+    {
+      "name": "Special Topics in System Dynamics Methodology",
+      "code": "GEO-SD324",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/special-topics-in-system-dynamics-methodology/1362508"
+    },
+    {
+      "name": "Spesialeksamen i odontologi",
+      "code": "ODO-SPES.EKS",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/spesialeksamen-i-odontologi/1362514"
+    },
+    {
+      "name": "Spesialpedagogikk",
+      "code": "SPED2200",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/spesialpedagogikk/4823999"
+    },
+    {
+      "name": "spesialpedagogikk",
+      "code": "sped 100",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/spesialpedagogikk/6509466"
+    },
+    {
+      "name": "Spillteori",
+      "code": "ECON327",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/spillteori/1362515"
+    },
+    {
+      "name": "Språk og kognisjon",
+      "code": "LING122",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/sprak-og-kognisjon/1362518"
+    },
+    {
+      "name": "Språkkunnskap for erfaringsbasert master i undervisning",
+      "code": "NORMAU641",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/sprakkunnskap-for-erfaringsbasert-master-i-undervisning/1362521"
+    },
+    {
+      "name": "Språkutvikling",
+      "code": "SPED101",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/sprakutvikling/4547297"
+    },
+    {
+      "name": "Statistikk (SPSS)",
+      "code": "PSYK202C",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/statistikk-spss/1362530"
+    },
+    {
+      "name": "Statistikk og økonometri",
+      "code": "ECON240",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/statistikk-og-okonometri/1362533"
+    },
+    {
+      "name": "Statistisk metode",
+      "code": "DASP302",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/statistisk-metode/1362536"
+    },
+    {
+      "name": "Statistisk risikostyring",
+      "code": "STATRISK",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/statistisk-risikostyring/1362538"
+    },
+    {
+      "name": "Statistiske metodar",
+      "code": "STAT111",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/statistiske-metodar/1362537"
+    },
+    {
+      "name": "Stats- og nasjonsbygging",
+      "code": "SAMPOL105",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/stats-og-nasjonsbygging/1362550"
+    },
+    {
+      "name": "Strafferett",
+      "code": "JUS241",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/strafferett/1362543"
+    },
+    {
+      "name": "Strukturoppklaring av organiske molekyl",
+      "code": "KJEM235",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/strukturoppklaring-av-organiske-molekyl/6621628"
+    },
+    {
+      "name": "Sustainability in an Urbanising World",
+      "code": "Geo222",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/sustainability-in-an-urbanising-world/7612674"
+    },
+    {
+      "name": "Sustainable Development Goals",
+      "code": "SDG207",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/sustainable-development-goals/6719002"
+    },
+    {
+      "name": "Syntaks",
+      "code": "LING111",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/syntaks/1362553"
+    },
+    {
+      "name": "Systems of Governance and the Global Challenges of Energy and Climate",
+      "code": "AORG 109",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/systems-of-governance-and-the-global-challenges-of-energy-and-climate/3662717"
+    },
+    {
+      "name": "Systemutvikling",
+      "code": "INFO212",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/systemutvikling/1362561"
+    },
+    {
+      "name": "Særemne i norsk som andrespråk",
+      "code": "NORAN320",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/saeremne-i-norsk-som-andresprak/1362400"
+    },
+    {
+      "name": "Søking og maskinlæring",
+      "code": "INF280",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/soking-og-maskinlaering/1362481"
+    },
+    {
+      "name": "Søvn, døgnrytmer og adferd",
+      "code": "PSYK115",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/sovn-dognrytmer-og-adferd/3170014"
+    },
+    {
+      "name": "Teaterestetikk og teaterteori",
+      "code": "TEAT211",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/teaterestetikk-og-teaterteori/1362564"
+    },
+    {
+      "name": "Teoriar metodar og historiske kjelder",
+      "code": "HIS203",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/teoriar-metodar-og-historiske-kjelder/1362585"
+    },
+    {
+      "name": "Terrestriske klima- og miljøendringar",
+      "code": "GEO212",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/terrestriske-klima-og-miljoendringar/1362595"
+    },
+    {
+      "name": "The Commercialization of Security in Peace and Conflict",
+      "code": "SAMPOL208",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/the-commercialization-of-security-in-peace-and-conflict/1362598"
+    },
+    {
+      "name": "The Scandinavian Welfare Model and Gender Relations",
+      "code": "SOS109",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/the-scandinavian-welfare-model-and-gender-relations/1362604"
+    },
+    {
+      "name": "The Social Web",
+      "code": "INFO115",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/the-social-web/1362605"
+    },
+    {
+      "name": "Theory of Science and Ethics",
+      "code": "VITHFPHD",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/theory-of-science-and-ethics/1362626"
+    },
+    {
+      "name": "Tidleg musikk ensemble II",
+      "code": "MUV247",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/tidleg-musikk-ensemble-ii/1362614"
+    },
+    {
+      "name": "Tings og immaterialrett",
+      "code": "JUS 214",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/tings-og-immaterialrett/6987455"
+    },
+    {
+      "name": "Tingsrett",
+      "code": "JUS124",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/tingsrett/1362620"
+    },
+    {
+      "name": "Toksikologi",
+      "code": "BIO216",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/toksikologi/1362621"
+    },
+    {
+      "name": "Traumatic Stress: North and South Perspectives",
+      "code": "PSY201",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/traumatic-stress-north-and-south-perspectives/6718497"
+    },
+    {
+      "name": "Traumepsykologi",
+      "code": "PSYK374C",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/traumepsykologi/1362629"
+    },
+    {
+      "name": "Tro, livsmestring og etikk",
+      "code": "KRI1017",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/tro-livsmestring-og-etikk/5196170"
+    },
+    {
+      "name": "tverrfaglig om klimanarrativer",
+      "code": "KLIMA 200",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/tverrfaglig-om-klimanarrativer/7744145"
+    },
+    {
+      "name": "Tysk språk og tekstkunnskap",
+      "code": "TYS107",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/tysk-sprak-og-tekstkunnskap/4511222"
+    },
+    {
+      "name": "Tyskspråkleg kultur og historie",
+      "code": "TYS106",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/tysksprakleg-kultur-og-historie/4511216"
+    },
+    {
+      "name": "Tyskspråkleg litteratur for lærarstudentar",
+      "code": "TYS124",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/tysksprakleg-litteratur-for-laerarstudentar/1362649"
+    },
+    {
+      "name": "Ulike veier til læring",
+      "code": "PEDA121",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/ulike-veier-til-laering/4403153"
+    },
+    {
+      "name": "UN Sustainable Development Goal 15: Life on land",
+      "code": "SDG215",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/un-sustainable-development-goal-15-life-on-land/6927556"
+    },
+    {
+      "name": "Undersøkende Journalistikk",
+      "code": "UJO350",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/undersokende-journalistikk/7155944"
+    },
+    {
+      "name": "Urban Anthropology",
+      "code": "SANT230",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/urban-anthropology/1362652"
+    },
+    {
+      "name": "Utdanning og samfunn",
+      "code": "SOS108",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/utdanning-og-samfunn/1362655"
+    },
+    {
+      "name": "Utviklings-, kognitiv og biologisk psykologi",
+      "code": "PSYK114",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/utviklings-kognitiv-og-biologisk-psykologi/2933442"
+    },
+    {
+      "name": "Utviklingsgenetikk",
+      "code": "MOL213",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/utviklingsgenetikk/1362692"
+    },
+    {
+      "name": "Utviklingspsykologi",
+      "code": "PROPSY302",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/utviklingspsykologi/1362691"
+    },
+    {
+      "name": "Utviklingsøkonomi I",
+      "code": "ECON115",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/utviklingsokonomi-i/1362689"
+    },
+    {
+      "name": "Variantar av engelsk",
+      "code": "ENG109",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/variantar-av-engelsk/1362710"
+    },
+    {
+      "name": "Varieties of Political Regimes: Latin America in Comparative Perspective",
+      "code": "SAMPOL204",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/varieties-of-political-regimes-latin-america-in-comparative-perspective/1362694"
+    },
+    {
+      "name": "Vegetasjon klima og marin geografi",
+      "code": "GEO112",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/vegetasjon-klima-og-marin-geografi/1362696"
+    },
+    {
+      "name": "Velferd og ulikhet",
+      "code": "SOS113",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/velferd-og-ulikhet/1362698"
+    },
+    {
+      "name": "Velferd og økonomisk politikk",
+      "code": "ECON210",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/velferd-og-okonomisk-politikk/1362700"
+    },
+    {
+      "name": "Velferdsrett",
+      "code": "JUS250-2-A",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/velferdsrett/1362701"
+    },
+    {
+      "name": "Velferdsstatens økonomi",
+      "code": "ECON220",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/velferdsstatens-okonomi/1362702"
+    },
+    {
+      "name": "Vidaregåande organisk kjemi",
+      "code": "KJEM231",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/vidaregaande-organisk-kjemi/1362706"
+    },
+    {
+      "name": "Vidaregåande programmering (Programmering 2)",
+      "code": "INF101",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/vidaregaande-programmering-programmering-2/1362707"
+    },
+    {
+      "name": "Vidarekommande programmering",
+      "code": "INFO135",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/vidarekommande-programmering/4826750"
+    },
+    {
+      "name": "Videregående matematikk og optimering",
+      "code": "ECON243",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/videregaende-matematikk-og-optimering/1362717"
+    },
+    {
+      "name": "Vitenskapelige metoder",
+      "code": "PED 210",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/vitenskapelige-metoder/7574859"
+    },
+    {
+      "name": "Vitskapsteori Vestnorsk nettverk - forskarutdanninga 10 studiepoeng",
+      "code": "VIT411-10",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/vitskapsteori-vestnorsk-nettverk-forskarutdanninga-10-studiepoeng/1362733"
+    },
+    {
+      "name": "Vitskapsteori Vestnorsk nettverk - forskarutdanninga 75 studiepoeng",
+      "code": "VIT411-75",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/vitskapsteori-vestnorsk-nettverk-forskarutdanninga-75-studiepoeng/1362735"
+    },
+    {
+      "name": "Web Science",
+      "code": "Info215",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/web-science/6974148"
+    },
+    {
+      "name": "Webdesign I",
+      "code": "DIKULT105",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/webdesign-i/1362737"
+    },
+    {
+      "name": "Webutvikling",
+      "code": "MIX114",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/webutvikling/6896639"
+    },
+    {
+      "name": "Yrkespraksis i biologi",
+      "code": "BIO198",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/yrkespraksis-i-biologi/1362740"
+    },
+    {
+      "name": "Økologi",
+      "code": "BIO201",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/okologi/1362142"
+    },
+    {
+      "name": "Økonometri I",
+      "code": "ECON340",
+      "url": "https://www.studocu.com/no/course/universitetet-i-bergen/okonometri-i/1362130"
+    }
+  ]
+}

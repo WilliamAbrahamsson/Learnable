@@ -10,7 +10,6 @@ class Connection(db.Model):
     slot_1 = db.Column(db.Integer, nullable=False, default=0)
     slot_2 = db.Column(db.Integer, nullable=False, default=0)
     strength = db.Column(db.Float, default=1.0)
-
     created_at = db.Column(db.Integer, default=lambda: int(time()))
     updated_at = db.Column(db.Integer, default=lambda: int(time()), onupdate=lambda: int(time()))
 

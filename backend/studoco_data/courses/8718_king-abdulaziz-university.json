@@ -1,0 +1,3066 @@
+{
+  "university_id": "8718",
+  "university_name": "King Abdulaziz University",
+  "courses": [
+    {
+      "name": "Abstract Algebra I جبر تجريدي (1)",
+      "code": "MATH 342",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/abstract-algebra-i-jbr-tjrydy-1/3850610"
+    },
+    {
+      "name": "Academic Writing الكتابة الأكاديمية",
+      "code": "LAN 325",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/academic-writing-alktab%D8%A9-alakadymy%D8%A9/3850611"
+    },
+    {
+      "name": "Accounting I Unif.Sys.Of Accouمحاسبة1)ا?نظمة المحاسبيةالموحد",
+      "code": "HT 264",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/accounting-i-unifsysof-accoumhasb%D8%A91anthm%D8%A9-almhasby%D8%A9almohd/3850614"
+    },
+    {
+      "name": "Accounting Informat.System نظم المعلومات المحاسبية",
+      "code": "BIT 226",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/accounting-informatsystem-nthm-almaalomat-almhasby%D8%A9/3850616"
+    },
+    {
+      "name": "Accounting Theory نظريةالمحاسبة",
+      "code": "ACCT 601",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/accounting-theory-nthry%D8%A9almhasb%D8%A9/3850619"
+    },
+    {
+      "name": "Acct 312 محاسبة مالية متقدمة",
+      "code": "ACCT 312",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/acct-312-mhasb%D8%A9-maly%D8%A9-mtkdm%D8%A9/3850621"
+    },
+    {
+      "name": "Acct Information Systems نظم معلومات محاسبية",
+      "code": "ACCT 425",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/acct-information-systems-nthm-maalomat-mhasby%D8%A9/3130429"
+    },
+    {
+      "name": "Adv. Professional Selling البيع المحترف المتقدم",
+      "code": "BIT 162",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/adv-professional-selling-albyaa-almhtrf-almtkdm/3850647"
+    },
+    {
+      "name": "Adv.Bio-Inorganic Chemistry الكيمياءغيرالعضويةالحيوية",
+      "code": "CHEM 724",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/advbio-inorganic-chemistry-alkymya%D8%A1ghyralaadoy%D8%A9alhyoy%D8%A9/3850650"
+    },
+    {
+      "name": "Advan. Studies In Fanancial Acدراسات متقدمةفىالمحاسبةالمالية",
+      "code": "ACCT 603",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/advan-studies-in-fanancial-acdrasat-mtkdm%D8%A9f%D9%89almhasb%D8%A9almaly%D8%A9/3850664"
+    },
+    {
+      "name": "Advanced algorithms",
+      "code": "CS611",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/advanced-algorithms/7434058"
+    },
+    {
+      "name": "Advanced Astrophysics فيزياء فلكية متقدمة",
+      "code": "ASTR 620",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/advanced-astrophysics-fyzya%D8%A1-flky%D8%A9-mtkdm%D8%A9/3850669"
+    },
+    {
+      "name": "Advanced Financial Acct محاسبةماليةمتقدمة",
+      "code": "ACCT 413",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/advanced-financial-acct-mhasb%D8%A9maly%D8%A9mtkdm%D8%A9/3130491"
+    },
+    {
+      "name": "Advanced Hydrology",
+      "code": "CE 443",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/advanced-hydrology/3850680"
+    },
+    {
+      "name": "Advanced Man. Info.System نظم المعلومات الادارية المتقدم",
+      "code": "MISY 302",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/advanced-man-infosystem-nthm-almaalomat-aladary%D8%A9-almtkdm/3850686"
+    },
+    {
+      "name": "Advanced Manufacturing Technolتقنية التصنيع المتقدمة",
+      "code": "MENG 446",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/advanced-manufacturing-technoltkny%D8%A9-altsnyaa-almtkdm%D8%A9/3850687"
+    },
+    {
+      "name": "Advanced Pharmacology 1",
+      "code": "PHAM 800",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/advanced-pharmacology-1/4372849"
+    },
+    {
+      "name": "Advanced Physical Chemistry كيمياء عضوية فيزيائية متقدمة",
+      "code": "CHEM 631",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/advanced-physical-chemistry-kymya%D8%A1-aadoy%D8%A9-fyzyaey%D8%A9-mtkdm%D8%A9/3850698"
+    },
+    {
+      "name": "Advanced programming",
+      "code": "CPIT 305",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/advanced-programming/5882749"
+    },
+    {
+      "name": "Advanced Programming البرمجةالمتقدمة",
+      "code": "EE 364",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/advanced-programming-albrmj%D8%A9almtkdm%D8%A9/3850703"
+    },
+    {
+      "name": "Advanced Topics In Mis مواضيع متقدمة في نظم المعلومات",
+      "code": "BUS 458",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/advanced-topics-in-mis-moadyaa-mtkdm%D8%A9-fy-nthm-almaalomat/3850715"
+    },
+    {
+      "name": "Analysis And Job Design تحليل وتصميم الوظائف",
+      "code": "HR 303",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/analysis-and-job-design-thlyl-otsmym-alothaef/3850758"
+    },
+    {
+      "name": "Analytical Methods In Eng. الطرق التحليلية في الهندسة",
+      "code": "EE 300",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/analytical-methods-in-eng-altrk-althlyly%D8%A9-fy-alhnds%D8%A9/3850763"
+    },
+    {
+      "name": "Animal Eco-Physiology علم الفسيولوجي البيئي",
+      "code": "BIO 752",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/animal-eco-physiology-aalm-alfsyolojy-albyey/3850769"
+    },
+    {
+      "name": "Applied Heat Transfer تطبيقات انتقال الحرارة",
+      "code": "MEP 460",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/applied-heat-transfer-ttbykat-antkal-alhrar%D8%A9/3850792"
+    },
+    {
+      "name": "Applied Probability and random process",
+      "code": "STAT352",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/applied-probability-and-random-process/6201416"
+    },
+    {
+      "name": "Arab Syntax(5) النحو (5)",
+      "code": "ARAB 416",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/arab-syntax5-alnho-5/3850806"
+    },
+    {
+      "name": "Arabic Language Philology فقه اللغة",
+      "code": "ARAB 232",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/arabic-language-philology-fkh-allgh%D8%A9/3850809"
+    },
+    {
+      "name": "Arabic Linguistics Bara",
+      "code": "ARAB 461",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/arabic-linguistics-bara/3850810"
+    },
+    {
+      "name": "Arabic Rhetoric بلاغة عربي",
+      "code": "LAN 412",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/arabic-rhetoric-blagh%D8%A9-aarby/3850812"
+    },
+    {
+      "name": "Article of doctrine",
+      "code": "( 222 ) -  ISLS",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/article-of-doctrine/7017767"
+    },
+    {
+      "name": "Artificial Intelligence",
+      "code": "CPCS 331",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/artificial-intelligence/4555061"
+    },
+    {
+      "name": "Astronomical Algorithms خوارزميات العلوم الفلكية",
+      "code": "ASTR 604",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/astronomical-algorithms-khoarzmyat-alaalom-alflky%D8%A9/3850821"
+    },
+    {
+      "name": "Astrophysics الفيزياء الفلكية",
+      "code": "ASTR 601",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/astrophysics-alfyzya%D8%A1-alflky%D8%A9/3850823"
+    },
+    {
+      "name": "Atomic Physics I الفيزياء الذريه )1(",
+      "code": "PHYS 343",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/atomic-physics-i-alfyzya%D8%A1-althryh-1/3850830"
+    },
+    {
+      "name": "Auditing Theory نظريةالمراجعة",
+      "code": "ACCT 620",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/auditing-theory-nthry%D8%A9almrajaa%D8%A9/3850835"
+    },
+    {
+      "name": "Basic Design Of La Studio Ii Al",
+      "code": "LA 293",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/basic-design-of-la-studio-ii-al/3850846"
+    },
+    {
+      "name": "Basic Electrical Circuits اساسيات الدوائرالكهربائية",
+      "code": "EE 250",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/basic-electrical-circuits-asasyat-aldoaeralkhrbaey%D8%A9/3850847"
+    },
+    {
+      "name": "Basic Electrical Engineering اساسيات الهندسة الكهريائية",
+      "code": "EE 251",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/basic-electrical-engineering-asasyat-alhnds%D8%A9-alkhryaey%D8%A9/3850848"
+    },
+    {
+      "name": "Basics Of Financial Managementأساسيات الادارة المالية",
+      "code": "FINA 211",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/basics-of-financial-managementasasyat-aladar%D8%A9-almaly%D8%A9/3850851"
+    },
+    {
+      "name": "Bio 613 Oib",
+      "code": "BIO 613",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/bio-613-oib/3850859"
+    },
+    {
+      "name": "Bio 670 Oib",
+      "code": "BIO 670",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/bio-670-oib/3850860"
+    },
+    {
+      "name": "Biocontrol Of Pests التحكم الحيوي في الآفات",
+      "code": "BIO 977",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/biocontrol-of-pests-althkm-alhyoy-fy-alaafat/3850879"
+    },
+    {
+      "name": "Biomaterials I مواد طب الأسنان (1)",
+      "code": "CDS 233",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/biomaterials-i-moad-tb-alasnan-1/3850888"
+    },
+    {
+      "name": "Biomaterials مواد طب الا سنان",
+      "code": "CDS 333",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/biomaterials-moad-tb-ala-snan/3850889"
+    },
+    {
+      "name": "Biostatistics",
+      "code": "ECOM200",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/biostatistics/4348539"
+    },
+    {
+      "name": "Biostatistics الاحصاء الحيوي",
+      "code": "BIOC 604",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/biostatistics-alahsa%D8%A1-alhyoy/3850901"
+    },
+    {
+      "name": "Business Data Networks and Security",
+      "code": "MIS376",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/business-data-networks-and-security/6150510"
+    },
+    {
+      "name": "business intelligence",
+      "code": "MIS453",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/business-intelligence/4417976"
+    },
+    {
+      "name": "Business Intelligence",
+      "code": "MIS473",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/business-intelligence/6152096"
+    },
+    {
+      "name": "Business Intelligence System نظم ذكاء الأعمال",
+      "code": "MISY 412",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/business-intelligence-system-nthm-thka%D8%A1-alaaamal/3850913"
+    },
+    {
+      "name": "Business Law القانون التجاري",
+      "code": "BIT 216",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/business-law-alkanon-altjary/3850914"
+    },
+    {
+      "name": "Business Law قانون الاعمال",
+      "code": "BLA 201",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/business-law-kanon-alaaamal/3850915"
+    },
+    {
+      "name": "Business Mathematics رياضيات العلوم المالية",
+      "code": "ECON 204",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/business-mathematics-ryadyat-alaalom-almaly%D8%A9/3850917"
+    },
+    {
+      "name": "Business Process",
+      "code": "MIS471",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/business-process/5950945"
+    },
+    {
+      "name": "Business strategy",
+      "code": "BUS430",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/business-strategy/6152832"
+    },
+    {
+      "name": "Business To Business Marketin تسويق الأعمال",
+      "code": "MRK 304",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/business-to-business-marketin-tsoyk-alaaamal/3850920"
+    },
+    {
+      "name": "Calculus",
+      "code": "GBR",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/calculus/1939103"
+    },
+    {
+      "name": "Calculus I",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/calculus-i/6201403"
+    },
+    {
+      "name": "Capillary Electrophoresis الفصل بالهجرةالكهربائية",
+      "code": "CHEM 752",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/capillary-electrophoresis-alfsl-balhjr%D8%A9alkhrbaey%D8%A9/3850924"
+    },
+    {
+      "name": "Cell Biology بيولوجيا الخلية",
+      "code": "BIO 222",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/cell-biology-byolojya-alkhly%D8%A9/3850933"
+    },
+    {
+      "name": "Chapter 04: Examining Ethics in Nursing Research Grove: Understanding Nursing Research, 7th Edition",
+      "code": "nur 303",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/chapter-04-examining-ethics-in-nursing-research-grove-understanding-nursing-research-7th-edition/4377850"
+    },
+    {
+      "name": "Chemical Eng Calculatns.I مقدمة في الهندسة الكيميائية)1(",
+      "code": "CHE 201",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/chemical-eng-calculatnsi-mkdm%D8%A9-fy-alhnds%D8%A9-alkymyaey%D8%A91/3850938"
+    },
+    {
+      "name": "Chemical Kinetics الكيمياءالحركية",
+      "code": "CHEM 641",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/chemical-kinetics-alkymya%D8%A1alhrky%D8%A9/3850940"
+    },
+    {
+      "name": "City Management اذارةالمدن",
+      "code": "URP 580",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/city-management-athar%D8%A9almdn/3850949"
+    },
+    {
+      "name": "Civil engineering",
+      "code": "Cv-4530",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/civil-engineering/6702390"
+    },
+    {
+      "name": "Clinical Psychology علم النفس العيادي",
+      "code": "PSY 448",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/clinical-psychology-aalm-alnfs-alaayady/3130795"
+    },
+    {
+      "name": "Co-Op Training التدريب العملي",
+      "code": "HRM 380",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/co-op-training-altdryb-alaamly/3851060"
+    },
+    {
+      "name": "Commercial Bonds & Bankruptcy الأوراق التجارية والافلاس",
+      "code": "BL 314",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/commercial-bonds-bankruptcy-alaorak-altjary%D8%A9-oalaflas/3850978"
+    },
+    {
+      "name": "Commercial Insurauce التأمين التجاري",
+      "code": "INS 222",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/commercial-insurauce-altamyn-altjary/3850980"
+    },
+    {
+      "name": "Communication Skills",
+      "code": "IE200",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/communication-skills/3187721"
+    },
+    {
+      "name": "Communiction Skills مهارات الاتصال",
+      "code": "BUS 101",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/communiction-skills-mharat-alatsal/3850986"
+    },
+    {
+      "name": "Community Dental Practice تطبيقات ميدانية في صحة الاسنان",
+      "code": "PDS 633",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/community-dental-practice-ttbykat-mydany%D8%A9-fy-sh%D8%A9-alasnan/3130819"
+    },
+    {
+      "name": "Comp. Design Of Elect. Cts. تحليل وتصميم الدوائربلحاسب",
+      "code": "EE 414",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/comp-design-of-elect-cts-thlyl-otsmym-aldoaerblhasb/3850989"
+    },
+    {
+      "name": "Compensation And Benefits التعويضات والمنافع",
+      "code": "HRM 341",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/compensation-and-benefits-altaaoydat-oalmnafaa/3851005"
+    },
+    {
+      "name": "Complex Analysis I تحليل مركب",
+      "code": "MATH 312",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/complex-analysis-i-thlyl-mrkb/3851006"
+    },
+    {
+      "name": "Computer Aided Graphics الرسم الهندسي باستخدام الحاسب",
+      "code": "MENG 204",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/computer-aided-graphics-alrsm-alhndsy-bastkhdam-alhasb/3851013"
+    },
+    {
+      "name": "Computer Applic. In Biochem. ت. حاسوبية في الكيمياء الحيوية",
+      "code": "BIOC 392",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/computer-applic-in-biochem-t-hasoby%D8%A9-fy-alkymya%D8%A1-alhyoy%D8%A9/3851019"
+    },
+    {
+      "name": "Computer Applns In Ie. I",
+      "code": "IE 321",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/computer-applns-in-ie-i/3851029"
+    },
+    {
+      "name": "Computer Applns In Ie.Ii تطبيقات في الحاسب الآلي",
+      "code": "IE 323",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/computer-applns-in-ieii-ttbykat-fy-alhasb-alaaly/3130863"
+    },
+    {
+      "name": "Computer Architecture & Organiتنظيم وبنيان الحاسب",
+      "code": "ITCP 215",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/computer-architecture-organitnthym-obnyan-alhasb/3851030"
+    },
+    {
+      "name": "Computer Architecture تنظيم وبنيان الحاسب",
+      "code": "CPIT 210",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/computer-architecture-tnthym-obnyan-alhasb/3851031"
+    },
+    {
+      "name": "Computer Graphic",
+      "code": "cpcs391",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/computer-graphic/6201392"
+    },
+    {
+      "name": "computer network",
+      "code": "CPCS 371",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/computer-network/4418168"
+    },
+    {
+      "name": "Computer network",
+      "code": "cpcs372",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/computer-network/6201388"
+    },
+    {
+      "name": "Computer Networks شبكات الحاسب",
+      "code": "ITCP 322",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/computer-networks-shbkat-alhasb/3851034"
+    },
+    {
+      "name": "Computer Programming برمجة حاسب",
+      "code": "CE 201",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/computer-programming-brmj%D8%A9-hasb/3851036"
+    },
+    {
+      "name": "Computer Security",
+      "code": "MIS472",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/computer-security/6152104"
+    },
+    {
+      "name": "Computer Skills مهارات حاسب",
+      "code": "CPIT 100",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/computer-skills-mharat-hasb/3851037"
+    },
+    {
+      "name": "Computers For Env. Design الحاسوب لتصاميم البيئة",
+      "code": "URP 211",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/computers-for-env-design-alhasob-ltsamym-albye%D8%A9/3851039"
+    },
+    {
+      "name": "Construction Engg",
+      "code": "CE 471",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/construction-engg/3851043"
+    },
+    {
+      "name": "Construction Engineering هندسة تشييد",
+      "code": "CE 327",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/construction-engineering-hnds%D8%A9-tshyyd/3851045"
+    },
+    {
+      "name": "Consumer Behaviour سلوك مستهلك",
+      "code": "MRK 303",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/consumer-behaviour-slok-msthlk/3130883"
+    },
+    {
+      "name": "Contemporary Pol. Iss. & Prob.مشكلات سياسية معاصرة",
+      "code": "PSCI 310",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/contemporary-pol-iss-probmshklat-syasy%D8%A9-maaasr%D8%A9/3851058"
+    },
+    {
+      "name": "Coordination Behaviour التآزرالسلوكي",
+      "code": "BIO 881",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/coordination-behaviour-altaazralsloky/3851064"
+    },
+    {
+      "name": "Corporate Finance تمويل شركات",
+      "code": "BUS 603",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/corporate-finance-tmoyl-shrkat/3851068"
+    },
+    {
+      "name": "Cost & Mang.Acct. محاسبةاداريةوتكاليف",
+      "code": "ACCT 610",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/cost-mangacct-mhasb%D8%A9adary%D8%A9otkalyf/3851069"
+    },
+    {
+      "name": "Cost Accounting محاسبة تكاليف",
+      "code": "ACCT 351",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/cost-accounting-mhasb%D8%A9-tkalyf/3851071"
+    },
+    {
+      "name": "Cost Accounting محاسبةتكاليف",
+      "code": "ACCT 422",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/cost-accounting-mhasb%D8%A9tkalyf/3851072"
+    },
+    {
+      "name": "Counselling And Guidance (2) التوجيه والارشاد النفسي 2",
+      "code": "PSY 323",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/counselling-and-guidance-2-altojyh-oalarshad-alnfsy-2/3851074"
+    },
+    {
+      "name": "crystalography",
+      "code": "000",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/crystalography/5357995"
+    },
+    {
+      "name": "Data Base Systems نظم قواعد البيانات",
+      "code": "CS 424",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/data-base-systems-nthm-koaaad-albyanat/3851087"
+    },
+    {
+      "name": "Data Mining And Wharehousing مستودعات البيانات والتنقيب",
+      "code": "ITCP 244",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/data-mining-and-wharehousing-mstodaaat-albyanat-oaltnkyb/3851088"
+    },
+    {
+      "name": "Data Mining تنقيب البيانات",
+      "code": "STAT 450",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/data-mining-tnkyb-albyanat/3851089"
+    },
+    {
+      "name": "Data Structure",
+      "code": "CPCS204",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/data-structure/2350155"
+    },
+    {
+      "name": "data structure",
+      "code": "EE 367",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/data-structure/5834547"
+    },
+    {
+      "name": "Database Administration ادارة قواعد البيانات",
+      "code": "ITCP 321",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/database-administration-adar%D8%A9-koaaad-albyanat/3851093"
+    },
+    {
+      "name": "Database Management Systems",
+      "code": "CPIS 240",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/database-management-systems/5196654"
+    },
+    {
+      "name": "Database Management Systems",
+      "code": "MIS375",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/database-management-systems/6094370"
+    },
+    {
+      "name": "Decision Analysis",
+      "code": "IE 412",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/decision-analysis/3851098"
+    },
+    {
+      "name": "Decision Support System نظم دعم القرار",
+      "code": "MISY 413",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/decision-support-system-nthm-daam-alkrar/3851099"
+    },
+    {
+      "name": "Deserti. & Sand-Dune Faxation التصحر وتثبيت الكثبان الرملية",
+      "code": "AGR 452",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/deserti-sand-dune-faxation-altshr-otthbyt-alkthban-alrmly%D8%A9/3851107"
+    },
+    {
+      "name": "Design Of Ind.Experiments",
+      "code": "IE 432",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/design-of-indexperiments/3851109"
+    },
+    {
+      "name": "Detailed Dsgn. In La Studio Iv Al",
+      "code": "LA 395",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/detailed-dsgn-in-la-studio-iv-al/3851115"
+    },
+    {
+      "name": "Developmental Psychology علم نفس النمو",
+      "code": "PSY 241",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/developmental-psychology-aalm-nfs-alnmo/3851125"
+    },
+    {
+      "name": "Digital Computer Organization تنسيق الحاسبات الرقمية",
+      "code": "EE 361",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/digital-computer-organization-tnsyk-alhasbat-alrkmy%D8%A9/3851133"
+    },
+    {
+      "name": "Digital Electronics الكترونيات رقمية",
+      "code": "EE 411",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/digital-electronics-alktronyat-rkmy%D8%A9/3851134"
+    },
+    {
+      "name": "Digital Logic Design",
+      "code": "CPCS211",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/digital-logic-design/5780307"
+    },
+    {
+      "name": "Direct Selling&Customer Servicالبيع المباشر وخدمة العملاء",
+      "code": "HT 241",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/direct-sellingcustomer-servicalbyaa-almbashr-okhdm%D8%A9-alaamla%D8%A1/3851140"
+    },
+    {
+      "name": "Discrete structures",
+      "code": "CPIS222",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/discrete-structures/6201398"
+    },
+    {
+      "name": "Discrete Structures I تراكيب متقطعة 1",
+      "code": "CPCS 222",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/discrete-structures-i-trakyb-mtktaa%D8%A9-1/3131005"
+    },
+    {
+      "name": "Drug Info. & Lit. Evaluations تقييم المعلومات ومراجع دوائية",
+      "code": "CP 521",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/drug-info-lit-evaluations-tkyym-almaalomat-omrajaa-doaey%D8%A9/3851148"
+    },
+    {
+      "name": "Dynamic Forecasting التنبؤ الصناعي الديناميكي",
+      "code": "IE 436",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/dynamic-forecasting-altnboe-alsnaaay-aldynamyky/3851150"
+    },
+    {
+      "name": "Dynamic Product Food in the Soil",
+      "code": "AGR 760",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/dynamic-product-food-in-the-soil/6663265"
+    },
+    {
+      "name": "E-commerce",
+      "code": "MIS378",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/e-commerce/6172628"
+    },
+    {
+      "name": "E-Commerce التجارة الالكترونية",
+      "code": "BUS 652",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/e-commerce-altjar%D8%A9-alalktrony%D8%A9/3851165"
+    },
+    {
+      "name": "E-Commerce التجارة الاليكترونية",
+      "code": "BUS 457",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/e-commerce-altjar%D8%A9-alalyktrony%D8%A9/3851166"
+    },
+    {
+      "name": "Earthquake Engineering هندسه الزلازل",
+      "code": "EGP 372",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/earthquake-engineering-hndsh-alzlazl/3851157"
+    },
+    {
+      "name": "Econ اقتصاديات الصحة",
+      "code": "ECON 660",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/econ-aktsadyat-alsh%D8%A9/3851168"
+    },
+    {
+      "name": "Econometrics Noce",
+      "code": "ECON 412",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/econometrics-noce/3851176"
+    },
+    {
+      "name": "Econometrics اقتصاد قياسي",
+      "code": "ECON 582",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/econometrics-aktsad-kyasy/3851177"
+    },
+    {
+      "name": "Economic Resources موارد اقتصادية",
+      "code": "ECON 461",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/economic-resources-moard-aktsady%D8%A9/3851189"
+    },
+    {
+      "name": "Economics Of General Finance اقتصاديات المالية العامة",
+      "code": "ECON 307",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/economics-of-general-finance-aktsadyat-almaly%D8%A9-alaaam%D8%A9/3851190"
+    },
+    {
+      "name": "Economics Resources المواردالاقتصادية",
+      "code": "ECON 361",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/economics-resources-almoardalaktsady%D8%A9/3851193"
+    },
+    {
+      "name": "Economics مبادي اقتصاد",
+      "code": "ECON 100",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/economics-mbady-aktsad/3851194"
+    },
+    {
+      "name": "Effective Leadership القيادة الفعالة",
+      "code": "PAD 462",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/effective-leadership-alkyad%D8%A9-alfaaal%D8%A9/3851200"
+    },
+    {
+      "name": "Elect. Circuits And Systems الدوائر والنظم الكهربائية",
+      "code": "EE 301",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/elect-circuits-and-systems-aldoaer-oalnthm-alkhrbaey%D8%A9/3851204"
+    },
+    {
+      "name": "Electronic Circuits الدوائر الالكترونية",
+      "code": "EE 413",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/electronic-circuits-aldoaer-alalktrony%D8%A9/3131120"
+    },
+    {
+      "name": "Electronic Commerce تجارة الكترونية",
+      "code": "ITCP 465",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/electronic-commerce-tjar%D8%A9-alktrony%D8%A9/3851219"
+    },
+    {
+      "name": "Elementary Particles Phys Syhp",
+      "code": "PHYS 463",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/elementary-particles-phys-syhp/3851223"
+    },
+    {
+      "name": "Embryology علم الا جنة",
+      "code": "ANAT 809",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/embryology-aalm-ala-jn%D8%A9/3851225"
+    },
+    {
+      "name": "Energ Economics الطاقة",
+      "code": "ECON 646",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/energ-economics-altak%D8%A9/3851233"
+    },
+    {
+      "name": "Eng. Mechanics (Dynamics) ميكانيكا هندسية )علم الحركة(",
+      "code": "MENG 262",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/eng-mechanics-dynamics-mykanyka-hndsy%D8%A9-aalm-alhrk%D8%A9/3851241"
+    },
+    {
+      "name": "Engineering Cost Analysis",
+      "code": "IE 454",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/engineering-cost-analysis/3851245"
+    },
+    {
+      "name": "Engineering Economy الاقتصاد الهندسي",
+      "code": "IE 255",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/engineering-economy-alaktsad-alhndsy/3851247"
+    },
+    {
+      "name": "Engineering Geophysics Pge",
+      "code": "EGP 421",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/engineering-geophysics-pge/3851254"
+    },
+    {
+      "name": "Engineering Graphics الرسم الهندسي",
+      "code": "MENG 102",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/engineering-graphics-alrsm-alhndsy/3131171"
+    },
+    {
+      "name": "Engineering Management ادارة هندسية",
+      "code": "IE 256",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/engineering-management-adar%D8%A9-hndsy%D8%A9/3851256"
+    },
+    {
+      "name": "Engineering Mechanics",
+      "code": "MEN 225",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/engineering-mechanics/4358487"
+    },
+    {
+      "name": "Engineering Seismology___ Pge",
+      "code": "EGP 412",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/engineering-seismology-pge/3851260"
+    },
+    {
+      "name": "Engineering Statistics احصاء هندسي )2(",
+      "code": "IE 332",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/engineering-statistics-ahsa%D8%A1-hndsy-2/3131179"
+    },
+    {
+      "name": "English Language Center لغة انجليزية )1(",
+      "code": "ELC 101",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/english-language-center-lgh%D8%A9-anjlyzy%D8%A9-1/3851264"
+    },
+    {
+      "name": "English Language I لغة انجليزية 1",
+      "code": "ELI 101",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/english-language-i-lgh%D8%A9-anjlyzy%D8%A9-1/3851268"
+    },
+    {
+      "name": "English Language I لغة انجليزية1",
+      "code": "ELCD 101",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/english-language-i-lgh%D8%A9-anjlyzy%D8%A91/3851270"
+    },
+    {
+      "name": "English Language Ii (Art&Econ)لغة انجليزية 2 )آداب واقتصاد(",
+      "code": "ELCA 102",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/english-language-ii-arteconlgh%D8%A9-anjlyzy%D8%A9-2-aadab-oaktsad/3851274"
+    },
+    {
+      "name": "English language اللغة الإنجليزية",
+      "code": "ELIE 102",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/english-language-allgh%D8%A9-alenjlyzy%D8%A9/4817847"
+    },
+    {
+      "name": "English Language لغة انجليزية",
+      "code": "ELCA 100",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/english-language-lgh%D8%A9-anjlyzy%D8%A9/3131200"
+    },
+    {
+      "name": "Enterprise System",
+      "code": "COIS 482",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/enterprise-system/6151132"
+    },
+    {
+      "name": "Enterprises system",
+      "code": "MIS372",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/enterprises-system/6152092"
+    },
+    {
+      "name": "Entrepreneurship",
+      "code": "BUS-423",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/entrepreneurship/5494272"
+    },
+    {
+      "name": "Environmental Health صحية البيئة",
+      "code": "ENS 370",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/environmental-health-shy%D8%A9-albye%D8%A9/3851315"
+    },
+    {
+      "name": "Environmental Pollution تلوث البيئه",
+      "code": "BIO 471",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/environmental-pollution-tloth-albyeh/3851326"
+    },
+    {
+      "name": "Enzymology علم الانزيمات",
+      "code": "BIOC 621",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/enzymology-aalm-alanzymat/3851329"
+    },
+    {
+      "name": "Epid Of Communicable And Non Cعلم الوبائيات المتخصصة",
+      "code": "COM 705",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/epid-of-communicable-and-non-caalm-alobaeyat-almtkhss%D8%A9/3851331"
+    },
+    {
+      "name": "Essential of investment",
+      "code": "FIN331",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/essential-of-investment/6186606"
+    },
+    {
+      "name": "European Union الاتحاد الأوربي",
+      "code": "PS 432",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/european-union-alathad-alaorby/3131270"
+    },
+    {
+      "name": "Executive Procedures اجراءات التنفيذ",
+      "code": "BL 471",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/executive-procedures-ajra%D8%A1at-altnfyth/3851345"
+    },
+    {
+      "name": "Facilities Planning",
+      "code": "IE 453",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/facilities-planning/3851363"
+    },
+    {
+      "name": "Fiction أدب القصة",
+      "code": "LANE 342",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/fiction-adb-alks%D8%A9/3851374"
+    },
+    {
+      "name": "Finance essential",
+      "code": "FIN220",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/finance-essential/6172653"
+    },
+    {
+      "name": "Finance Markets and institutions",
+      "code": "FIN 432",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/finance-markets-and-institutions/6186604"
+    },
+    {
+      "name": "Financial Accounting أسس المحاسبة المالية",
+      "code": "BIT 151",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/financial-accounting-ass-almhasb%D8%A9-almaly%D8%A9/3851382"
+    },
+    {
+      "name": "Financial Institutions Managemادارة المؤسسات المالية",
+      "code": "BUS 447",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/financial-institutions-managemadar%D8%A9-almoessat-almaly%D8%A9/3851389"
+    },
+    {
+      "name": "financial instruments of islamic banking and finance",
+      "code": "FIN 431",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/financial-instruments-of-islamic-banking-and-finance/6186642"
+    },
+    {
+      "name": "Financial Management ادارة مالية",
+      "code": "BAD 241",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/financial-management-adar%D8%A9-maly%D8%A9/3851395"
+    },
+    {
+      "name": "Financial modelling",
+      "code": "FINE618",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/financial-modelling/5158199"
+    },
+    {
+      "name": "Fluid Mechanics ميكانيكا الموائع",
+      "code": "HWR 301",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/fluid-mechanics-mykanyka-almoaeaa/3851411"
+    },
+    {
+      "name": "Fluid Mechanics ميكانيكا الموانع",
+      "code": "MEP 290",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/fluid-mechanics-mykanyka-almoanaa/3131344"
+    },
+    {
+      "name": "Food & The Environment 433Sne",
+      "code": "ENS 334",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/food-the-environment-433sne/3851413"
+    },
+    {
+      "name": "Food Analysis تحاليل الأغذية",
+      "code": "CHEM 756",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/food-analysis-thalyl-alaghthy%D8%A9/3851415"
+    },
+    {
+      "name": "Food And Environment الغذاء و البيئة",
+      "code": "ENS 230",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/food-and-environment-alghtha%D8%A1-o-albye%D8%A9/3851417"
+    },
+    {
+      "name": "Food From Waste الغذاء من المخلفات",
+      "code": "ENS 346",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/food-from-waste-alghtha%D8%A1-mn-almkhlfat/3131353"
+    },
+    {
+      "name": "Fundamental Of Managerial Acc.مبادىء المحاسبة الادارية",
+      "code": "ACC 211",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/fundamental-of-managerial-accmbad%D9%89%D8%A1-almhasb%D8%A9-aladary%D8%A9/3851469"
+    },
+    {
+      "name": "Fundamentals Of Comp.Syst",
+      "code": "IE 322",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/fundamentals-of-compsyst/3851473"
+    },
+    {
+      "name": "Fundamentals Of Ecology أساسيات علم البيئة",
+      "code": "BIO 271",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/fundamentals-of-ecology-asasyat-aalm-albye%D8%A9/3851477"
+    },
+    {
+      "name": "Fundamentals Of Flight اساسيات الطيران 1",
+      "code": "AE 301",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/fundamentals-of-flight-asasyat-altyran-1/3851480"
+    },
+    {
+      "name": "Fundamentals of Management",
+      "code": "BUS 220",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/fundamentals-of-management/4385774"
+    },
+    {
+      "name": "Gas Turbines تربينات غازية",
+      "code": "MSE 587",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/gas-turbines-trbynat-ghazy%D8%A9/3851486"
+    },
+    {
+      "name": "General Biology (2) أحياء عامة )2(",
+      "code": "BIO 202",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/general-biology-2-ahya%D8%A1-aaam%D8%A9-2/3851498"
+    },
+    {
+      "name": "General Chemistry I كيمياء عامة )1(",
+      "code": "CHEM 101",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/general-chemistry-i-kymya%D8%A1-aaam%D8%A9-1/3851506"
+    },
+    {
+      "name": "General Mathematics (2) رياضيات عامة )2(",
+      "code": "MATH 201",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/general-mathematics-2-ryadyat-aaam%D8%A9-2/3851514"
+    },
+    {
+      "name": "General Pathology الا مراض العامة",
+      "code": "PATD 301",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/general-pathology-ala-mrad-alaaam%D8%A9/3851522"
+    },
+    {
+      "name": "General Physics (1) فيزياء عامة )1(",
+      "code": "PHYS 110",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/general-physics-1-fyzya%D8%A1-aaam%D8%A9-1/3851526"
+    },
+    {
+      "name": "General Physics (2) الفيزياءالعامة )2(",
+      "code": "PHYS 202",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/general-physics-2-alfyzya%D8%A1alaaam%D8%A9-2/3851528"
+    },
+    {
+      "name": "Genral Metabolism الايض العام",
+      "code": "BIOC 312",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/genral-metabolism-alayd-alaaam/3851538"
+    },
+    {
+      "name": "Geology Of Ore Deposits Rme",
+      "code": "EMR 332",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/geology-of-ore-deposits-rme/3851560"
+    },
+    {
+      "name": "Gis Database Management ادارة قواعد نظم المعلومات",
+      "code": "GEOM 221",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/gis-database-management-adar%D8%A9-koaaad-nthm-almaalomat/3851572"
+    },
+    {
+      "name": "Gis Fundamentals مبادىءنظم المعلومات الجغرافية",
+      "code": "GEOM 121",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/gis-fundamentals-mbad%D9%89%D8%A1nthm-almaalomat-aljghrafy%D8%A9/3851574"
+    },
+    {
+      "name": "Globalization العولمة",
+      "code": "PS 437",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/globalization-alaaolm%D8%A9/3851578"
+    },
+    {
+      "name": "Gover & Audit & Investigt مراجعةوفحص حكومي",
+      "code": "ACCT 443",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/gover-audit-investigt-mrajaa%D8%A9ofhs-hkomy/3851580"
+    },
+    {
+      "name": "Government Accounting محاسبة حكومية",
+      "code": "ACCT 231",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/government-accounting-mhasb%D8%A9-hkomy%D8%A9/3851582"
+    },
+    {
+      "name": "Grammar 1 قواعد اللغة 1",
+      "code": "LAN 221",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/grammar-1-koaaad-allgh%D8%A9-1/3851593"
+    },
+    {
+      "name": "Greek and Roman History",
+      "code": "HIST 1421",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/greek-and-roman-history/6646789"
+    },
+    {
+      "name": "Gross Anatomy I علم التشريح 1",
+      "code": "ANAT 801",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/gross-anatomy-i-aalm-altshryh-1/3851603"
+    },
+    {
+      "name": "Gross Anatomy التشريح العام",
+      "code": "ANTD 201",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/gross-anatomy-altshryh-alaaam/3851607"
+    },
+    {
+      "name": "H Microbiology احياء دقيقة",
+      "code": "BIO 201",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/h-microbiology-ahya%D8%A1-dkyk%D8%A9/3131595"
+    },
+    {
+      "name": "Health Education التثقيف الصحي",
+      "code": "ENS 374",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/health-education-altthkyf-alshy/3851631"
+    },
+    {
+      "name": "Health Policy سياسات الرعاية الصحية",
+      "code": "PAD 475",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/health-policy-syasat-alraaay%D8%A9-alshy%D8%A9/3851643"
+    },
+    {
+      "name": "Heat Transfer انتقال الحرارة",
+      "code": "MEP 360",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/heat-transfer-antkal-alhrar%D8%A9/3131625"
+    },
+    {
+      "name": "Hist 231 تاريخ اوربا في العصور الوسطى",
+      "code": "HIST 231",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/hist-231-tarykh-aorba-fy-alaasor-alost%D9%89/3131636"
+    },
+    {
+      "name": "Hist. Of Islamic Civilizationsتاريخ الحضارة الاسلامية",
+      "code": "HIST 426",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/hist-of-islamic-civilizationstarykh-alhdar%D8%A9-alaslamy%D8%A9/3851663"
+    },
+    {
+      "name": "Histology & Embryology علم الأنسجة والأجنه",
+      "code": "HIED 201",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/histology-embryology-aalm-alansj%D8%A9-oalajnh/3851673"
+    },
+    {
+      "name": "Historical Geology جيولوجيا تاريخية",
+      "code": "EPS 212",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/historical-geology-jyolojya-tarykhy%D8%A9/3851680"
+    },
+    {
+      "name": "History Of Econ Thought Noce",
+      "code": "ECON 303",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/history-of-econ-thought-noce/3851685"
+    },
+    {
+      "name": "History Of The Abbasid State الدولة العباسية",
+      "code": "HIST 324",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/history-of-the-abbasid-state-aldol%D8%A9-alaabasy%D8%A9/3851693"
+    },
+    {
+      "name": "History Of Usa تاريخ الولايات المتحدة",
+      "code": "HIST 451",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/history-of-usa-tarykh-alolayat-almthd%D8%A9/3851695"
+    },
+    {
+      "name": "Hospital Pharm & Pharm Admin صيدلية مستشفيات وادارة صيدلية",
+      "code": "CP 551",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/hospital-pharm-pharm-admin-sydly%D8%A9-mstshfyat-oadar%D8%A9-sydly%D8%A9/3851705"
+    },
+    {
+      "name": "Human Anatomy (2) تشريح )2(",
+      "code": "ANAT 202",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/human-anatomy-2-tshryh-2/3131686"
+    },
+    {
+      "name": "Human Behavior In Organizationالسلوك الانساني في المنظمات",
+      "code": "ITCP 264",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/human-behavior-in-organizationalslok-alansany-fy-almnthmat/3851715"
+    },
+    {
+      "name": "Human biology",
+      "code": "Bio 112",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/human-biology/5015484"
+    },
+    {
+      "name": "HUMAN EMBRYOLOGY(1) علم الأجنة )1(",
+      "code": "ANAT 221",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/human-embryology1-aalm-alajn%D8%A9-1/3131696"
+    },
+    {
+      "name": "Human Factors Engineering",
+      "code": "IE 342",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/human-factors-engineering/3131702"
+    },
+    {
+      "name": "Human Resou.Manag.Iii Trainingتدريب الموظفين",
+      "code": "HT 363",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/human-resoumanagiii-trainingtdryb-almothfyn/3851733"
+    },
+    {
+      "name": "Human resource management",
+      "code": "HRMA 430",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/human-resource-management/6186623"
+    },
+    {
+      "name": "Human resource management",
+      "code": "HRMA341",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/human-resource-management/6245420"
+    },
+    {
+      "name": "Human Resource Management ادارة الموارد البشرية",
+      "code": "ADS 303",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/human-resource-management-adar%D8%A9-almoard-albshry%D8%A9/3851739"
+    },
+    {
+      "name": "Human Resource Management ادارة موارد بشرية",
+      "code": "HR 322",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/human-resource-management-adar%D8%A9-moard-bshry%D8%A9/3851741"
+    },
+    {
+      "name": "Human Resources Development تنمية الموارد البشرية",
+      "code": "PAD 312",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/human-resources-development-tnmy%D8%A9-almoard-albshry%D8%A9/3851747"
+    },
+    {
+      "name": "Human-Computer Interaction",
+      "code": "CPIT 280",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/human-computer-interaction/6583946"
+    },
+    {
+      "name": "Hydr. & Water Resources In Ksaموارد المياه في المملكة",
+      "code": "HWR 302",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/hydr-water-resources-in-ksamoard-almyah-fy-almmlk%D8%A9/3851755"
+    },
+    {
+      "name": "Hydraulic Structures منشآت هيدروليكية",
+      "code": "HWR 422",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/hydraulic-structures-mnshaat-hydrolyky%D8%A9/3851757"
+    },
+    {
+      "name": "Ichthyology الأسماك",
+      "code": "BIO 453",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/ichthyology-alasmak/3851777"
+    },
+    {
+      "name": "Immunochem & Che Of Viruses Coib",
+      "code": "BIOC 631",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/immunochem-che-of-viruses-coib/3851785"
+    },
+    {
+      "name": "Implantology زراعة الأسنان",
+      "code": "OMR 521",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/implantology-zraaa%D8%A9-alasnan/3851797"
+    },
+    {
+      "name": "Incompressible Aerodynam.",
+      "code": "AE 311",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/incompressible-aerodynam/3851803"
+    },
+    {
+      "name": "Industrial Engg Practice التطبيق العلمي للهندسة الصناعي",
+      "code": "IE 456",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/industrial-engg-practice-alttbyk-alaalmy-llhnds%D8%A9-alsnaaay/3851819"
+    },
+    {
+      "name": "Industrial Informatn. Sys",
+      "code": "IE 421",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/industrial-informatn-sys/3851823"
+    },
+    {
+      "name": "Industrial Management",
+      "code": "IE 351",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/industrial-management/3851826"
+    },
+    {
+      "name": "Industrial Systems Simul.",
+      "code": "IE 422",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/industrial-systems-simul/3851840"
+    },
+    {
+      "name": "Industrl Quality Control",
+      "code": "IE 431",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/industrl-quality-control/3851845"
+    },
+    {
+      "name": "Information & Computer Security",
+      "code": "CPIS 312",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/information-computer-security/7211874"
+    },
+    {
+      "name": "Information Project Management",
+      "code": "MIS476",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/information-project-management/6172665"
+    },
+    {
+      "name": "Information security",
+      "code": "CPIS 410",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/information-security/6183069"
+    },
+    {
+      "name": "Information Security امن المعلومات",
+      "code": "ITCP 420",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/information-security-amn-almaalomat/3851849"
+    },
+    {
+      "name": "Information Technology تكنولوجيا المعلومات",
+      "code": "CIT 200",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/information-technology-tknolojya-almaalomat/3131832"
+    },
+    {
+      "name": "Inorganic C. For N-C. S. كيمياء غير عضويه لغير طلاب ك",
+      "code": "CHEM 220",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/inorganic-c-for-n-c-s-kymya%D8%A1-ghyr-aadoyh-lghyr-tlab-k/3851859"
+    },
+    {
+      "name": "Ins.Risk Assessm.& Surveying تقييم المخاطر",
+      "code": "INS 250",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/insrisk-assessm-surveying-tkyym-almkhatr/3851865"
+    },
+    {
+      "name": "Int. To Pharmacy مقدمة للصيدلة",
+      "code": "PH 101",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/int-to-pharmacy-mkdm%D8%A9-llsydl%D8%A9/3851903"
+    },
+    {
+      "name": "Interaction Human Computer",
+      "code": "MIS 373",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/interaction-human-computer/6151133"
+    },
+    {
+      "name": "Interaction Human Computer تفاعل الانسان و الحاسب",
+      "code": "ITCP 311",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/interaction-human-computer-tfaaal-alansan-o-alhasb/3851923"
+    },
+    {
+      "name": "Intermediate Accounting I المحاسبه المتوسطة1",
+      "code": "BIT 123",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/intermediate-accounting-i-almhasbh-almtost%D8%A91/3851927"
+    },
+    {
+      "name": "Intermediate Accounting Ii محاسبة متوسطة 2",
+      "code": "ACCT 372",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/intermediate-accounting-ii-mhasb%D8%A9-mtost%D8%A9-2/3851931"
+    },
+    {
+      "name": "Intermediate Accounting محاسبة متوسطة",
+      "code": "ACCT 271",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/intermediate-accounting-mhasb%D8%A9-mtost%D8%A9/3851933"
+    },
+    {
+      "name": "International Accounting محاسبةدولية",
+      "code": "ACCT 414",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/international-accounting-mhasb%D8%A9doly%D8%A9/3851939"
+    },
+    {
+      "name": "International Business Mangt ادارة الأعمال الدولية",
+      "code": "BUS 473",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/international-business-mangt-adar%D8%A9-alaaamal-aldoly%D8%A9/3851943"
+    },
+    {
+      "name": "International Business ادارة اعمال دولية",
+      "code": "BUS 608",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/international-business-adar%D8%A9-aaamal-doly%D8%A9/3851945"
+    },
+    {
+      "name": "International Economics اقتصاددولي",
+      "code": "ECON 220",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/international-economics-aktsaddoly/3851950"
+    },
+    {
+      "name": "International Finance التمويل الدولي",
+      "code": "ECON 422",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/international-finance-altmoyl-aldoly/3851952"
+    },
+    {
+      "name": "International Finance مالية دولية",
+      "code": "BUS 448",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/international-finance-maly%D8%A9-doly%D8%A9/3851954"
+    },
+    {
+      "name": "International Relations علاقات دولية",
+      "code": "PSCI 231",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/international-relations-aalakat-doly%D8%A9/3851981"
+    },
+    {
+      "name": "Internet Applications",
+      "code": "CPIT-405",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/internet-applications/7095309"
+    },
+    {
+      "name": "Internet Web Design تصميم مواقع الانترنت",
+      "code": "ITCP 269",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/internet-web-design-tsmym-moakaa-alantrnt/3851987"
+    },
+    {
+      "name": "Intr.To Informa.Technology مقدمه في تقنية المعلومات",
+      "code": "CIT 100",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/intrto-informatechnology-mkdmh-fy-tkny%D8%A9-almaalomat/3852004"
+    },
+    {
+      "name": "Intro To Comp With A.In H.S. اساسيات علم الكمبيوتر",
+      "code": "COM 704",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/intro-to-comp-with-ain-hs-asasyat-aalm-alkmbyotr/3852011"
+    },
+    {
+      "name": "Intro To Computer Science مدخل الى علوم الحاسبات",
+      "code": "CS 102",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/intro-to-computer-science-mdkhl-al%D9%89-aalom-alhasbat/3852013"
+    },
+    {
+      "name": "Intro To Computer Science مقدمةفي البرمجة العلمية",
+      "code": "CS 101",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/intro-to-computer-science-mkdm%D8%A9fy-albrmj%D8%A9-alaalmy%D8%A9/3852015"
+    },
+    {
+      "name": "Intro. To Medical Physics مقدمة في الفيزياء الطبية",
+      "code": "NE 370",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/intro-to-medical-physics-mkdm%D8%A9-fy-alfyzya%D8%A1-altby%D8%A9/3852043"
+    },
+    {
+      "name": "Introdu To Man.Info.System مقدمة في نظم .م.الادارية",
+      "code": "MISY 251",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/introdu-to-maninfosystem-mkdm%D8%A9-fy-nthm-maladary%D8%A9/3852066"
+    },
+    {
+      "name": "Introduction To Database مقدمة في قواعد البيانات",
+      "code": "CIT 176",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/introduction-to-database-mkdm%D8%A9-fy-koaaad-albyanat/3852078"
+    },
+    {
+      "name": "Introduction to E-Business Systems",
+      "code": "CPIS-380",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/introduction-to-e-business-systems/7095308"
+    },
+    {
+      "name": "Introduction To E-Business Tecمقدمة في تقنية الاعمال الالكتر",
+      "code": "ITCP 345",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/introduction-to-e-business-tecmkdm%D8%A9-fy-tkny%D8%A9-alaaamal-alalktr/3852080"
+    },
+    {
+      "name": "Introduction to insurance",
+      "code": "fin438",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/introduction-to-insurance/6186617"
+    },
+    {
+      "name": "Introduction to Managerial and Cost Accounting",
+      "code": "ACCT213",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/introduction-to-managerial-and-cost-accounting/7149036"
+    },
+    {
+      "name": "Introduction To Mar. Geophys. مقدمة جيوفيزياء بحرية",
+      "code": "MG 393",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/introduction-to-mar-geophys-mkdm%D8%A9-jyofyzya%D8%A1-bhry%D8%A9/3852104"
+    },
+    {
+      "name": "Introduction To Modern Manage.مقدمه في الادارة الحديثة",
+      "code": "BUS 230",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/introduction-to-modern-managemkdmh-fy-aladar%D8%A9-alhdyth%D8%A9/3852110"
+    },
+    {
+      "name": "Introduction To Nuclear Eng. مقدمة في الهندسة النووية",
+      "code": "NE 304",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/introduction-to-nuclear-eng-mkdm%D8%A9-fy-alhnds%D8%A9-alnooy%D8%A9/3132089"
+    },
+    {
+      "name": "Introduction To Social Work م. الرعاية والخدمة الاجتماعية",
+      "code": "SOC 361",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/introduction-to-social-work-m-alraaay%D8%A9-oalkhdm%D8%A9-alajtmaaay%D8%A9/3852122"
+    },
+    {
+      "name": "Introductions to software project management",
+      "code": "CPCS334",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/introductions-to-software-project-management/6201385"
+    },
+    {
+      "name": "Investment استثمار",
+      "code": "BUS 345",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/investment-astthmar/3852134"
+    },
+    {
+      "name": "IS Enterprise Architecture",
+      "code": "CPIS352",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/is-enterprise-architecture/5816983"
+    },
+    {
+      "name": "Is Strategies & Polices استراتيجيات و سياسات نظم المعل",
+      "code": "ITCP 344",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/is-strategies-polices-astratyjyat-o-syasat-nthm-almaal/3852138"
+    },
+    {
+      "name": "Islamic Art Tsih",
+      "code": "HIST 222",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/islamic-art-tsih/3852142"
+    },
+    {
+      "name": "Islamic Criminal Law القانون الجنائي الاسلامي",
+      "code": "BL 504",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/islamic-criminal-law-alkanon-aljnaey-alaslamy/3852146"
+    },
+    {
+      "name": "Islamic Culture (3) الثقافة الاسلامية )3(",
+      "code": "ISLS 301",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/islamic-culture-3-althkaf%D8%A9-alaslamy%D8%A9-3/3852152"
+    },
+    {
+      "name": "Islamic Culture (4) الثقافة الاسلامية )4(",
+      "code": "ISLS 401",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/islamic-culture-4-althkaf%D8%A9-alaslamy%D8%A9-4/3852154"
+    },
+    {
+      "name": "Issues in Computing Profession",
+      "code": "CPIS 428",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/issues-in-computing-profession/7283057"
+    },
+    {
+      "name": "Job Training Sne",
+      "code": "ENS 437",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/job-training-sne/3852171"
+    },
+    {
+      "name": "Laboratory Rotation دورات معملية",
+      "code": "BIOC 703",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/laboratory-rotation-dorat-maamly%D8%A9/3852183"
+    },
+    {
+      "name": "Labour Law & Soc Security Law نظام العمل والتآمينات",
+      "code": "BL 320",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/labour-law-soc-security-law-ntham-alaaml-oaltaamynat/3852184"
+    },
+    {
+      "name": "Legal Effects Of Obl & Evid احكام الالتزام والاثبات",
+      "code": "BL 203",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/legal-effects-of-obl-evid-ahkam-alaltzam-oalathbat/3852230"
+    },
+    {
+      "name": "Linear Algebra I جبر خطي )1(",
+      "code": "MATH 241",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/linear-algebra-i-jbr-khty-1/3852238"
+    },
+    {
+      "name": "Linear Algebra Ii جبر خطي )2(",
+      "code": "MATH 343",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/linear-algebra-ii-jbr-khty-2/3852240"
+    },
+    {
+      "name": "Linear Statistical Models النماذج الخطية",
+      "code": "STAT 622",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/linear-statistical-models-alnmathj-alkhty%D8%A9/3852244"
+    },
+    {
+      "name": "Linguistics علم اللغة",
+      "code": "ARAB 426",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/linguistics-aalm-allgh%D8%A9/3852251"
+    },
+    {
+      "name": "Listening & Speaking I الاستماع والتحدث (1)",
+      "code": "LANE 211",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/listening-speaking-i-alastmaaa-oalthdth-1/3852257"
+    },
+    {
+      "name": "Literary Criticism النقد الأدبي",
+      "code": "LANE 446",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/literary-criticism-alnkd-aladby/3852263"
+    },
+    {
+      "name": "Local Administration ادارة محلية",
+      "code": "PAD 341",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/local-administration-adar%D8%A9-mhly%D8%A9/3852269"
+    },
+    {
+      "name": "Logic Design التصميم المنطقي",
+      "code": "CIT 110",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/logic-design-altsmym-almntky/3852282"
+    },
+    {
+      "name": "Machin Elements Design تصميم اجزاء الماكينات",
+      "code": "MENG 310",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/machin-elements-design-tsmym-ajza%D8%A1-almakynat/3852290"
+    },
+    {
+      "name": "Machin Tool Desigm تصميم الات الورش",
+      "code": "MENG 418",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/machin-tool-desigm-tsmym-alat-alorsh/3852292"
+    },
+    {
+      "name": "Machine Design التصميم الميكانيكي",
+      "code": "MENG 410",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/machine-design-altsmym-almykanyky/3852294"
+    },
+    {
+      "name": "Macro Economic اقتصاد كلي",
+      "code": "ITCP 360",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/macro-economic-aktsad-kly/3852300"
+    },
+    {
+      "name": "Macroeconomics Theory نظرية اقتصاد كلية",
+      "code": "ECON 503",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/macroeconomics-theory-nthry%D8%A9-aktsad-kly%D8%A9/3852302"
+    },
+    {
+      "name": "Macroeconomics تحليل اقتصادي كلي",
+      "code": "ECON 203",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/macroeconomics-thlyl-aktsady-kly/3852303"
+    },
+    {
+      "name": "Maint & Replace. Policies",
+      "code": "IE 452",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/maint-replace-policies/3852306"
+    },
+    {
+      "name": "Mammology علم الثدييات",
+      "code": "BIO 757",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/mammology-aalm-althdyyat/3852312"
+    },
+    {
+      "name": "Man Machine Systems",
+      "code": "IE 441",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/man-machine-systems/3852314"
+    },
+    {
+      "name": "Management & Leadership الادارة والقيادة",
+      "code": "BIT 230",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/management-leadership-aladar%D8%A9-oalkyad%D8%A9/3852318"
+    },
+    {
+      "name": "Management (In English) ادارة الأعمال )بالا نجليزية(",
+      "code": "BUS 103",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/management-in-english-adar%D8%A9-alaaamal-bala-njlyzy%D8%A9/3852320"
+    },
+    {
+      "name": "Management and OB",
+      "code": "BUSE 601",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/management-and-ob/4730071"
+    },
+    {
+      "name": "Management And Quality Controlادارة وضبط الجودة",
+      "code": "ITCP 367",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/management-and-quality-controladar%D8%A9-odbt-aljod%D8%A9/3852322"
+    },
+    {
+      "name": "Management I-Cost Control ضبط التكاليف",
+      "code": "HT 225",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/management-i-cost-control-dbt-altkalyf/3852325"
+    },
+    {
+      "name": "Management Inform. Systems نظم معلومات ادارية",
+      "code": "BUS 351",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/management-inform-systems-nthm-maalomat-adary%D8%A9/3852331"
+    },
+    {
+      "name": "Management Information System نظم المعلومات الا دارية",
+      "code": "HRM 230",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/management-information-system-nthm-almaalomat-ala-dary%D8%A9/3852335"
+    },
+    {
+      "name": "Management Information System نظم المعلومات الادارية",
+      "code": "BIT 133",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/management-information-system-nthm-almaalomat-aladary%D8%A9/3852337"
+    },
+    {
+      "name": "Management Information Systems",
+      "code": "buse-604",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/management-information-systems/5980522"
+    },
+    {
+      "name": "Managerial Economics",
+      "code": "ECON675",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/managerial-economics/5341463"
+    },
+    {
+      "name": "Managerial Economics",
+      "code": "ECNE610",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/managerial-economics/5912834"
+    },
+    {
+      "name": "Managerial Economics Noce",
+      "code": "ECON 495",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/managerial-economics-noce/3852344"
+    },
+    {
+      "name": "Managerial Finance and Accounting",
+      "code": "FIN607",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/managerial-finance-and-accounting/6629556"
+    },
+    {
+      "name": "managment IS",
+      "code": "MIS 250",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/managment-is/4821385"
+    },
+    {
+      "name": "Mang. Spec. Organization ادارةمنشآت متخصصة",
+      "code": "BAD 494",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/mang-spec-organization-adar%D8%A9mnshaat-mtkhss%D8%A9/3852346"
+    },
+    {
+      "name": "Mangerial Information System نظم المعلومات الادارية",
+      "code": "BUS 602",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/mangerial-information-system-nthm-almaalomat-aladary%D8%A9/3852348"
+    },
+    {
+      "name": "Manufacturing Technology تقنية التصنيع",
+      "code": "MENG 332",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/manufacturing-technology-tkny%D8%A9-altsnyaa/3852356"
+    },
+    {
+      "name": "Maritime Law & Air Law القانون البحري والقانون الجوي",
+      "code": "BL 311",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/maritime-law-air-law-alkanon-albhry-oalkanon-aljoy/3852438"
+    },
+    {
+      "name": "Market Research بحوث تسويق",
+      "code": "MRK 301",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/market-research-bhoth-tsoyk/3852450"
+    },
+    {
+      "name": "Marketing",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/marketing/2334290"
+    },
+    {
+      "name": "Mass Spectroscopy مطياف الكتلة",
+      "code": "CHEM 755",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/mass-spectroscopy-mtyaf-alktl%D8%A9/3852452"
+    },
+    {
+      "name": "Mass Transfer انتقال الكتلة",
+      "code": "CHE 333",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/mass-transfer-antkal-alktl%D8%A9/3852454"
+    },
+    {
+      "name": "Materials Science علم المواد",
+      "code": "CHE 210",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/materials-science-aalm-almoad/3852464"
+    },
+    {
+      "name": "Mathematcial Tools أساليب رياضية",
+      "code": "MATH 610",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/mathematcial-tools-asalyb-ryady%D8%A9/3852468"
+    },
+    {
+      "name": "Mathematical Economics الاقتصاد الرياضي",
+      "code": "ECON 381",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/mathematical-economics-alaktsad-alryady/3852472"
+    },
+    {
+      "name": "Mathematical Physics Syhp",
+      "code": "PHYS 653",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/mathematical-physics-syhp/3852474"
+    },
+    {
+      "name": "Mathematics Htam",
+      "code": "MATH 100",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/mathematics-htam/3852489"
+    },
+    {
+      "name": "Mechanical Systems Modeling & نمذجةومحاكاة النظم الميكانيكية",
+      "code": "MENG 476",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/mechanical-systems-modeling-nmthj%D8%A9omhaka%D8%A9-alnthm-almykanyky%D8%A9/3852492"
+    },
+    {
+      "name": "Mechanical Vibrations الاهتزازات الميكانكية",
+      "code": "MENG 470",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/mechanical-vibrations-alahtzazat-almykanky%D8%A9/3852494"
+    },
+    {
+      "name": "Mechanics Of Engg. Soils Gee",
+      "code": "EEG 312",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/mechanics-of-engg-soils-gee/3852496"
+    },
+    {
+      "name": "Mechanics Of Materials ميكانيكا المواد",
+      "code": "MENG 270",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/mechanics-of-materials-mykanyka-almoad/3852501"
+    },
+    {
+      "name": "Mechanisms الاليات التركيية",
+      "code": "MENG 478",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/mechanisms-alalyat-altrkyy%D8%A9/3852502"
+    },
+    {
+      "name": "Medical & Phyarmacy Terminologعلم المصطلحات الطبيةوالصيد?نية",
+      "code": "HIT 110",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/medical-phyarmacy-terminologaalm-almstlhat-altby%D8%A9oalsydny%D8%A9/3852510"
+    },
+    {
+      "name": "Medical Biology العلوم الحيوية الطبية",
+      "code": "MBIO 001",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/medical-biology-alaalom-alhyoy%D8%A9-altby%D8%A9/3852512"
+    },
+    {
+      "name": "medical gasses and humidity",
+      "code": "rsth 251",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/medical-gasses-and-humidity/6519536"
+    },
+    {
+      "name": "Medical Genetics",
+      "code": "CLC211",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/medical-genetics/6071205"
+    },
+    {
+      "name": "Medical Microbiology",
+      "code": "BIO 434",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/medical-microbiology/4358094"
+    },
+    {
+      "name": "Medical Microbiology Oib",
+      "code": "BIO 634",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/medical-microbiology-oib/3852522"
+    },
+    {
+      "name": "Medical Pharmacology",
+      "code": "PHAM201",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/medical-pharmacology/4372848"
+    },
+    {
+      "name": "Medical Statistics Tats",
+      "code": "STAT 335",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/medical-statistics-tats/3852531"
+    },
+    {
+      "name": "Medical Statistics احصاء طبي",
+      "code": "STAT 436",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/medical-statistics-ahsa%D8%A1-tby/3852533"
+    },
+    {
+      "name": "Medical Virology فيروسات طبية",
+      "code": "BIO 930",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/medical-virology-fyrosat-tby%D8%A9/3852535"
+    },
+    {
+      "name": "Menu Planning&Menu Engineeringتخطيط وهندسة قائمة الطعام",
+      "code": "HT 326",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/menu-planningmenu-engineeringtkhtyt-ohnds%D8%A9-kaem%D8%A9-altaaam/3852545"
+    },
+    {
+      "name": "Merology And Quality Control القياسات وضبط الجودة",
+      "code": "MENG 436",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/merology-and-quality-control-alkyasat-odbt-aljod%D8%A9/3852547"
+    },
+    {
+      "name": "Micro.&Macro. Economics الا قتصاد الجزئي والكلي",
+      "code": "HT 266",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/micromacro-economics-ala-ktsad-aljzey-oalkly/3852569"
+    },
+    {
+      "name": "Microbial Antibiotics Oib",
+      "code": "BIO 638",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/microbial-antibiotics-oib/3852573"
+    },
+    {
+      "name": "Microbiology For Denstistry الا حياء المجهرية والمناعة",
+      "code": "MICD 301",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/microbiology-for-denstistry-ala-hya%D8%A1-almjhry%D8%A9-oalmnaaa%D8%A9/3852593"
+    },
+    {
+      "name": "Microeconomic",
+      "code": "ECON107",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/microeconomic/6184414"
+    },
+    {
+      "name": "Microeconomic اقتصاد جزئي",
+      "code": "ITCP 266",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/microeconomic-aktsad-jzey/3852599"
+    },
+    {
+      "name": "Mine Data Analysis",
+      "code": "MINE 404",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/mine-data-analysis/3852617"
+    },
+    {
+      "name": "Mine Laws & Management",
+      "code": "MINE 403",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/mine-laws-management/3852621"
+    },
+    {
+      "name": "Mining Methods",
+      "code": "MINE 323",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/mining-methods/3852645"
+    },
+    {
+      "name": "Modelling & Simulation النمذجةوالمحاكاة",
+      "code": "CHE 441",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/modelling-simulation-alnmthj%D8%A9oalmhaka%D8%A9/3132671"
+    },
+    {
+      "name": "Modern Literature Criticism النقد الأدبي الحديث",
+      "code": "ARAB 446",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/modern-literature-criticism-alnkd-aladby-alhdyth/3852666"
+    },
+    {
+      "name": "Modern Theories In Linguisticsنظريات حديثة فى اللغويات",
+      "code": "LAN 435",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/modern-theories-in-linguisticsnthryat-hdyth%D8%A9-f%D9%89-allghoyat/3852672"
+    },
+    {
+      "name": "Molecular Biology بيولوجيا جزيئية",
+      "code": "BIO 325",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/molecular-biology-byolojya-jzyey%D8%A9/3852680"
+    },
+    {
+      "name": "Monetary Theory نظريات وسياسات نقدية",
+      "code": "ECON 610",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/monetary-theory-nthryat-osyasat-nkdy%D8%A9/3852686"
+    },
+    {
+      "name": "Money And Banking نقود وبنوك",
+      "code": "ITCP 369",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/money-and-banking-nkod-obnok/3852689"
+    },
+    {
+      "name": "Natural Products المنتجات الطبيعية",
+      "code": "BIOC 342",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/natural-products-almntjat-altbyaay%D8%A9/3852707"
+    },
+    {
+      "name": "Network Analysis",
+      "code": "IE 413",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/network-analysis/3852727"
+    },
+    {
+      "name": "Networks Administration ادارة شبكات",
+      "code": "ITCP 422",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/networks-administration-adar%D8%A9-shbkat/3852729"
+    },
+    {
+      "name": "Neurophysiology فسيولوجيا الجهاز العصبي",
+      "code": "BIO 751",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/neurophysiology-fsyolojya-aljhaz-alaasby/3852735"
+    },
+    {
+      "name": "Nitrogen Fixation تثبيت النيتروجين الحيوي",
+      "code": "BIO 938",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/nitrogen-fixation-tthbyt-alnytrojyn-alhyoy/3852743"
+    },
+    {
+      "name": "Non-Parametric Methods طرق احصائية لا معلمية",
+      "code": "STAT 734",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/non-parametric-methods-trk-ahsaey%D8%A9-la-maalmy%D8%A9/3852752"
+    },
+    {
+      "name": "Nuclear Heat Transfer",
+      "code": "NE 321",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/nuclear-heat-transfer/3852772"
+    },
+    {
+      "name": "Nuclear medicine",
+      "code": "RAD251",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/nuclear-medicine/6801115"
+    },
+    {
+      "name": "Nuclear Medicine الطب النووي",
+      "code": "NE 472",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/nuclear-medicine-altb-alnooy/3852774"
+    },
+    {
+      "name": "Number Theory نظرية الأعداد",
+      "code": "MATH 444",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/number-theory-nthry%D8%A9-alaaadad/3852799"
+    },
+    {
+      "name": "Numerical Analysis تحليل عددي",
+      "code": "MATH 421",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/numerical-analysis-thlyl-aaddy/3852803"
+    },
+    {
+      "name": "Nursuries Of Horticulture مشاتل اكثار النباتات البستانية",
+      "code": "AGR 326",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/nursuries-of-horticulture-mshatl-akthar-alnbatat-albstany%D8%A9/3132824"
+    },
+    {
+      "name": "Object-Oriented Computer Prog.البرمجة الموجهة كينونيا",
+      "code": "EE 202",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/object-oriented-computer-progalbrmj%D8%A9-almojh%D8%A9-kynonya/3852809"
+    },
+    {
+      "name": "Obrbital Mechanics الميكانيكا المدارية",
+      "code": "ASTR 632",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/obrbital-mechanics-almykanyka-almdary%D8%A9/3852811"
+    },
+    {
+      "name": "Occupational Safety السلامة المهنية",
+      "code": "ENS 451",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/occupational-safety-alslam%D8%A9-almhny%D8%A9/3852832"
+    },
+    {
+      "name": "Oil & Gas Fields Of The M East Spe",
+      "code": "EPS 442",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/oil-gas-fields-of-the-m-east-spe/3132856"
+    },
+    {
+      "name": "Oil Policies سياسات نفط",
+      "code": "PS 438",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/oil-policies-syasat-nft/3852842"
+    },
+    {
+      "name": "Op Work Program برنامج العمل التعاوني",
+      "code": "EE 400",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/op-work-program-brnamj-alaaml-altaaaony/3852848"
+    },
+    {
+      "name": "Oper & Quality Mangt (In Engl)ادارةالعمليات والجودة)انجليزي(",
+      "code": "BUS 462",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/oper-quality-mangt-in-engladar%D8%A9alaamlyat-oaljod%D8%A9anjlyzy/3852852"
+    },
+    {
+      "name": "Operating system",
+      "code": "CPCS361",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/operating-system/6201386"
+    },
+    {
+      "name": "Operation Management ادارة العمليات",
+      "code": "MRK 211",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/operation-management-adar%D8%A9-alaamlyat/3852860"
+    },
+    {
+      "name": "Operation Researches بحوث عمليات",
+      "code": "ITCP 267",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/operation-researches-bhoth-aamlyat/3852864"
+    },
+    {
+      "name": "Operations Management",
+      "code": "BUSE 605",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/operations-management/4552163"
+    },
+    {
+      "name": "Operations Management ادارة العمليات",
+      "code": "BUS 221",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/operations-management-adar%D8%A9-alaamlyat/3132889"
+    },
+    {
+      "name": "Operations Research 2 بحوث عمليات 2",
+      "code": "STAT 362",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/operations-research-2-bhoth-aamlyat-2/3852870"
+    },
+    {
+      "name": "Operations Research I بحوث عمليات",
+      "code": "IE 311",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/operations-research-i-bhoth-aamlyat/3132894"
+    },
+    {
+      "name": "Operative Dentistry اصحاح الأسنان",
+      "code": "CDS 411",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/operative-dentistry-ashah-alasnan/3852880"
+    },
+    {
+      "name": "Optics ضوء",
+      "code": "PHYS 311",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/optics-do%D8%A1/3852890"
+    },
+    {
+      "name": "Oral Histology انسجة الفم",
+      "code": "OBCS 322",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/oral-histology-ansj%D8%A9-alfm/3852896"
+    },
+    {
+      "name": "Oral Presentation Skills مهارات العرض الشفهى",
+      "code": "LAN 427",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/oral-presentation-skills-mharat-alaard-alshfh%D9%89/3852902"
+    },
+    {
+      "name": "Ordinary Differential Eq. I معادلات تفاضليه عاديه )1(",
+      "code": "MATH 204",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/ordinary-differential-eq-i-maaadlat-tfadlyh-aaadyh-1/3852912"
+    },
+    {
+      "name": "Organic Chem For Non Chem كيمياء عضويه لغير ط الكيمياء",
+      "code": "CHEM 230",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/organic-chem-for-non-chem-kymya%D8%A1-aadoyh-lghyr-t-alkymya%D8%A1/3852919"
+    },
+    {
+      "name": "Organic Chemistry كيمياء عضوية",
+      "code": "CHMT 102",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/organic-chemistry-kymya%D8%A1-aadoy%D8%A9/3852924"
+    },
+    {
+      "name": "Organization Culture ثقافة المنظمة",
+      "code": "PAD 422",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/organization-culture-thkaf%D8%A9-almnthm%D8%A9/3852937"
+    },
+    {
+      "name": "Organization management",
+      "code": "BUS 232",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/organization-management/5983430"
+    },
+    {
+      "name": "Organizational Behavior السلوك الانساني في المنظمات",
+      "code": "BUS 102",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/organizational-behavior-alslok-alansany-fy-almnthmat/3852942"
+    },
+    {
+      "name": "organizational behavior سلوك تنظيمي",
+      "code": "bus 320",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/organizational-behavior-slok-tnthymy/5900295"
+    },
+    {
+      "name": "Organizational Development التطوير التظيمي",
+      "code": "HR 411",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/organizational-development-alttoyr-altthymy/3852945"
+    },
+    {
+      "name": "Organizational Theory نظرية التنظيم",
+      "code": "PAD 211",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/organizational-theory-nthry%D8%A9-altnthym/3852949"
+    },
+    {
+      "name": "Pathology",
+      "code": "PATM201",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/pathology/6078965"
+    },
+    {
+      "name": "pediatric PIR MCQ",
+      "code": "PIR2020",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/pediatric-pir-mcq/6760207"
+    },
+    {
+      "name": "Performance Management",
+      "code": "HRMA 445",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/performance-management/6186626"
+    },
+    {
+      "name": "Personal Insurance تأمينات الأشخاص",
+      "code": "ECON 444",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/personal-insurance-tamynat-alashkhas/3852995"
+    },
+    {
+      "name": "Ph.D Thesis رسالة الدكتوره",
+      "code": "CHEM 799",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/phd-thesis-rsal%D8%A9-aldktorh/3853031"
+    },
+    {
+      "name": "Pharmacology علم الأ دوية",
+      "code": "PT 311",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/pharmacology-aalm-ala-doy%D8%A9/3133081"
+    },
+    {
+      "name": "Pharmacy Law And Ethics قانون وأخلا قيات مهنة الصيدلة",
+      "code": "CP 561",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/pharmacy-law-and-ethics-kanon-oakhla-kyat-mhn%D8%A9-alsydl%D8%A9/3853057"
+    },
+    {
+      "name": "Pharmacy Seminars-I حلقات مناقشة صيدلية - 1",
+      "code": "CP 471",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/pharmacy-seminars-i-hlkat-mnaksh%D8%A9-sydly%D8%A9-1/3853063"
+    },
+    {
+      "name": "Physical Biochemistry كيمياء جيوية فيزيائية",
+      "code": "BIOC 702",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/physical-biochemistry-kymya%D8%A1-jyoy%D8%A9-fyzyaey%D8%A9/3853091"
+    },
+    {
+      "name": "Physical Chem Engineering كيمياء فيزيائيه",
+      "code": "CHEM 240",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/physical-chem-engineering-kymya%D8%A1-fyzyaeyh/3853093"
+    },
+    {
+      "name": "Physical Climatology المناخ الفيزيائي",
+      "code": "MET 322",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/physical-climatology-almnakh-alfyzyaey/3853098"
+    },
+    {
+      "name": "Physical Methods In Inorganic الطرق الفيزيائية في ك غير ع",
+      "code": "CHEM 720",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/physical-methods-in-inorganic-altrk-alfyzyaey%D8%A9-fy-k-ghyr-aa/3853104"
+    },
+    {
+      "name": "Physical Optics ضوء فيزيائي",
+      "code": "PHYS 312",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/physical-optics-do%D8%A1-fyzyaey/3853106"
+    },
+    {
+      "name": "Physiology & Anatomy وظائف اعضاء وتشريح",
+      "code": "PHYT 202",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/physiology-anatomy-othaef-aaada%D8%A1-otshryh/3853118"
+    },
+    {
+      "name": "Physiology I (Med) علم وظائف الأعضاء 1 )طب(",
+      "code": "PHYM 201",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/physiology-i-med-aalm-othaef-alaaada%D8%A1-1-tb/3133148"
+    },
+    {
+      "name": "Planned Maintenance صيانة مخططة",
+      "code": "MSE 586",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/planned-maintenance-syan%D8%A9-mkhtt%D8%A9/3853134"
+    },
+    {
+      "name": "Planning Process Pru",
+      "code": "URP 401",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/planning-process-pru/3853142"
+    },
+    {
+      "name": "Plants In La نباتات عمارةالبيئة",
+      "code": "LA 251",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/plants-in-la-nbatat-aamar%D8%A9albye%D8%A9/3853212"
+    },
+    {
+      "name": "Power Plants For Ele. Eng. Mep379",
+      "code": "MEP 379",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/power-plants-for-ele-eng-mep379/3853253"
+    },
+    {
+      "name": "Pr Of Information Systems مبادئ نظم المعلومات",
+      "code": "CPIS 220",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/pr-of-information-systems-mbade-nthm-almaalomat/3853257"
+    },
+    {
+      "name": "Practice Management ادارة العيادات",
+      "code": "PDS 435",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/practice-management-adar%D8%A9-alaayadat/3853261"
+    },
+    {
+      "name": "Pricing Strategy استراتيجيات التسعير",
+      "code": "MRK 412",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/pricing-strategy-astratyjyat-altsaayr/3853280"
+    },
+    {
+      "name": "Prin. Of Remote Sensing Rse",
+      "code": "ESR 421",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/prin-of-remote-sensing-rse/3853307"
+    },
+    {
+      "name": "Prin. Of Scientific Res. مبادىء البحث العلمي",
+      "code": "BUS 200",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/prin-of-scientific-res-mbad%D9%89%D8%A1-albhth-alaalmy/3853308"
+    },
+    {
+      "name": "Princ Of Phys Chem Ii كيمياءالكم و ميكانيكا أحصائيه",
+      "code": "CHEM 242",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/princ-of-phys-chem-ii-kymya%D8%A1alkm-o-mykanyka-ahsaeyh/3853321"
+    },
+    {
+      "name": "Principles of Accounting",
+      "code": "ACCT 117",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/principles-of-accounting/5223275"
+    },
+    {
+      "name": "Principles Of Accounting I مبادىء المحاسبة )1(",
+      "code": "BIT 120",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/principles-of-accounting-i-mbad%D9%89%D8%A1-almhasb%D8%A9-1/3853328"
+    },
+    {
+      "name": "Principles Of Administ.Since مبادىءالعلوم الادارية",
+      "code": "ADS 101",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/principles-of-administsince-mbad%D9%89%D8%A1alaalom-aladary%D8%A9/3853334"
+    },
+    {
+      "name": "Principles Of Automatic Controالاحتمالات والاحصاءالهندسي",
+      "code": "EE 331",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/principles-of-automatic-controalahtmalat-oalahsa%D8%A1alhndsy/3853340"
+    },
+    {
+      "name": "Principles Of Genetics أساسيات وراثه",
+      "code": "BIO 221",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/principles-of-genetics-asasyat-orathh/3853347"
+    },
+    {
+      "name": "Principles Of Management مبادىء الادارة",
+      "code": "BIT 130",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/principles-of-management-mbad%D9%89%D8%A1-aladar%D8%A9/3853363"
+    },
+    {
+      "name": "Principles Of Mathematics رياضيات عامة )1(",
+      "code": "MATH 101",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/principles-of-mathematics-ryadyat-aaam%D8%A9-1/3853365"
+    },
+    {
+      "name": "Principles Of Mathematics مبادئى الرياضيات",
+      "code": "MATH 110",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/principles-of-mathematics-mbade%D9%89-alryadyat/3853366"
+    },
+    {
+      "name": "Principles Of P.Health Care مبادىءالرعايةالصحيةواساسياتها",
+      "code": "COM 801",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/principles-of-phealth-care-mbad%D9%89%D8%A1alraaay%D8%A9alshy%D8%A9oasasyatha/3853372"
+    },
+    {
+      "name": "Principles Of Statistics مبادئى الاحصاء",
+      "code": "STAT 110",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/principles-of-statistics-mbade%D9%89-alahsa%D8%A1/3853387"
+    },
+    {
+      "name": "Principles Of Swimmin & Divingأسس سباحة وغوص",
+      "code": "MB 325",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/principles-of-swimmin-divingass-sbah%D8%A9-oghos/3853389"
+    },
+    {
+      "name": "Probability & Eng Statis. الاحتمالات والاحصاءالهندسي",
+      "code": "IE 331",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/probability-eng-statis-alahtmalat-oalahsa%D8%A1alhndsy/3133422"
+    },
+    {
+      "name": "Process Control Ehc",
+      "code": "CHE 412",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/process-control-ehc/3853401"
+    },
+    {
+      "name": "Process management",
+      "code": "BUS326",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/process-management/6183072"
+    },
+    {
+      "name": "Prod. Plang & Control Strtgy تخطيط ومراقبة انتاج",
+      "code": "BUS 321",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/prod-plang-control-strtgy-tkhtyt-omrakb%D8%A9-antaj/3853405"
+    },
+    {
+      "name": "Product Management ادارة السلع",
+      "code": "MRK 411",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/product-management-adar%D8%A9-alslaa/3853409"
+    },
+    {
+      "name": "Production Planning & Con",
+      "code": "IE 451",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/production-planning-con/3133443"
+    },
+    {
+      "name": "Professional Practice In Urp Pru",
+      "code": "URP 581",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/professional-practice-in-urp-pru/3853415"
+    },
+    {
+      "name": "Program language",
+      "code": "CPCS 206",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/program-language/6152797"
+    },
+    {
+      "name": "Programing language",
+      "code": "CPCS301",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/programing-language/6201379"
+    },
+    {
+      "name": "Programing language2",
+      "code": "cpcs302",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/programing-language2/6201381"
+    },
+    {
+      "name": "Programming 2 برمجه 2",
+      "code": "ITCP 212",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/programming-2-brmjh-2/3853417"
+    },
+    {
+      "name": "Programming I برمجه 1",
+      "code": "CPCS 202",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/programming-i-brmjh-1/3853419"
+    },
+    {
+      "name": "Programming Ii برمجه 2",
+      "code": "CPCS 203",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/programming-ii-brmjh-2/3853421"
+    },
+    {
+      "name": "Programming Languages لغات برامج",
+      "code": "CS 202",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/programming-languages-lghat-bramj/3853425"
+    },
+    {
+      "name": "Programming(1) برمجه1",
+      "code": "ITCP 210",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/programming1-brmjh1/3853427"
+    },
+    {
+      "name": "Project",
+      "code": "MINE 499",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/project/3853429"
+    },
+    {
+      "name": "Project Feasibility Studies دراسة الجدوى الاقتصادية",
+      "code": "ECON 696",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/project-feasibility-studies-dras%D8%A9-aljdo%D9%89-alaktsady%D8%A9/3853433"
+    },
+    {
+      "name": "Project For B.S.",
+      "code": "AE 499",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/project-for-bs/3853435"
+    },
+    {
+      "name": "Project Management ادارة المشروع",
+      "code": "BIT 238",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/project-management-adar%D8%A9-almshroaa/3853443"
+    },
+    {
+      "name": "Project Management ادارة مشاريع",
+      "code": "MRK 455",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/project-management-adar%D8%A9-msharyaa/3853445"
+    },
+    {
+      "name": "Proteomics, Genomics & Bioinfoالمعلوماتية وتركيب البروتينات",
+      "code": "BIOC 780",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/proteomics-genomics-bioinfoalmaalomaty%D8%A9-otrkyb-albrotynat/3853461"
+    },
+    {
+      "name": "Psychology Of Personality علم نفس الشخصية",
+      "code": "PSY 345",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/psychology-of-personality-aalm-nfs-alshkhsy%D8%A9/3853470"
+    },
+    {
+      "name": "Public Finance مالية عامة",
+      "code": "ECON 312",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/public-finance-maly%D8%A9-aaam%D8%A9/3853491"
+    },
+    {
+      "name": "Public Policy السياسة العامة",
+      "code": "PAD 281",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/public-policy-alsyas%D8%A9-alaaam%D8%A9/3853503"
+    },
+    {
+      "name": "Qualitative Data Analysis تحليل البيانات النوعيه",
+      "code": "STAT 406",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/qualitative-data-analysis-thlyl-albyanat-alnoaayh/3853519"
+    },
+    {
+      "name": "Quality Control مراقبه الجوده",
+      "code": "STAT 333",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/quality-control-mrakbh-aljodh/3853527"
+    },
+    {
+      "name": "Quality management",
+      "code": "BUS-434",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/quality-management/7080729"
+    },
+    {
+      "name": "Quantitative analysis",
+      "code": "BUS323",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/quantitative-analysis/4392717"
+    },
+    {
+      "name": "Range Ecology And Management بيئة و ادارة مراعي",
+      "code": "AGR 451",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/range-ecology-and-management-bye%D8%A9-o-adar%D8%A9-mraaay/3853590"
+    },
+    {
+      "name": "Reading Ii القراءة (2)",
+      "code": "LANE 215",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/reading-ii-alkra%D8%A1%D8%A9-2/3853606"
+    },
+    {
+      "name": "Real Estate Development تطويرالعقارات",
+      "code": "URP 471",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/real-estate-development-ttoyralaakarat/3853626"
+    },
+    {
+      "name": "Regression Analysis تحليل الانحدار",
+      "code": "STAT 403",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/regression-analysis-thlyl-alanhdar/3853656"
+    },
+    {
+      "name": "Reinforced Conc. Design Ii تصميم خرسانة مسلحة)2(",
+      "code": "CE 442",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/reinforced-conc-design-ii-tsmym-khrsan%D8%A9-mslh%D8%A92/3853660"
+    },
+    {
+      "name": "Res. Appr.&Quant.Anal.In Bus.Aمناهج بحث وتحليل كمي في ادارة",
+      "code": "BUS 694",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/res-apprquantanalin-busamnahj-bhth-othlyl-kmy-fy-adar%D8%A9/3853686"
+    },
+    {
+      "name": "Res. Methodology In Econ. مناهج البحث في الاقتصاد",
+      "code": "ECON 500",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/res-methodology-in-econ-mnahj-albhth-fy-alaktsad/3853687"
+    },
+    {
+      "name": "Research Course حلقة بحث",
+      "code": "HIST 483",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/research-course-hlk%D8%A9-bhth/3853692"
+    },
+    {
+      "name": "Research For business student",
+      "code": "buse 619",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/research-for-business-student/4739773"
+    },
+    {
+      "name": "Research Methodology طرق البحث",
+      "code": "ANAT 894",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/research-methodology-trk-albhth/3853696"
+    },
+    {
+      "name": "Research Methods and Quantitative Analysis",
+      "code": "BUSE-606",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/research-methods-and-quantitative-analysis/5923123"
+    },
+    {
+      "name": "Research Project مشروع بحثي",
+      "code": "ANAT 898",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/research-project-mshroaa-bhthy/3853706"
+    },
+    {
+      "name": "Research Report(1) بحث تقريري )1(",
+      "code": "BIO 902",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/research-report1-bhth-tkryry-1/3853712"
+    },
+    {
+      "name": "Research مشروع بحث",
+      "code": "CHEM 491",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/research-mshroaa-bhth/3853722"
+    },
+    {
+      "name": "Response Of Horticulture Cropsاستجابة المحاصيل البستانية للب",
+      "code": "AGR 424",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/response-of-horticulture-cropsastjab%D8%A9-almhasyl-albstany%D8%A9-llb/3853725"
+    },
+    {
+      "name": "Risk & Insurance الخطر والتأمين",
+      "code": "ECON 442",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/risk-insurance-alkhtr-oaltamyn/3853729"
+    },
+    {
+      "name": "Safety Engineering",
+      "code": "IE 442",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/safety-engineering/3853750"
+    },
+    {
+      "name": "Sales Negotiation Skills مهارات التفاوض في عمليات البيع",
+      "code": "BIT 164",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/sales-negotiation-skills-mharat-altfaod-fy-aamlyat-albyaa/3853758"
+    },
+    {
+      "name": "Sampling Techniiques طرق المعاينه",
+      "code": "STAT 351",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/sampling-techniiques-trk-almaaaynh/3853763"
+    },
+    {
+      "name": "Sanitary Chemistry",
+      "code": "CE 463",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/sanitary-chemistry/3853764"
+    },
+    {
+      "name": "Satellite Data In Meteorology بيانات الأقمار الصناعية في الأ",
+      "code": "MET 414",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/satellite-data-in-meteorology-byanat-alakmar-alsnaaay%D8%A9-fy-ala/3853770"
+    },
+    {
+      "name": "Saudi Literature الأدب السعودي",
+      "code": "ARAB 436",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/saudi-literature-aladb-alsaaody/3853784"
+    },
+    {
+      "name": "Seed Testing اختبارات البذور",
+      "code": "AGR 310",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/seed-testing-akhtbarat-albthor/3853805"
+    },
+    {
+      "name": "Selected Topics In It(1) مواضيع مختارة في تقنية .م.1",
+      "code": "ITCP 423",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/selected-topics-in-it1-moadyaa-mkhtar%D8%A9-fy-tkny%D8%A9-m1/3853828"
+    },
+    {
+      "name": "Selected Topics In Mech. Eng. موضوعات خاصة في الهندسة",
+      "code": "MEP 497",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/selected-topics-in-mech-eng-modoaaat-khas%D8%A9-fy-alhnds%D8%A9/3133873"
+    },
+    {
+      "name": "Selected Topics In Mis (1) مواضع مختارة في .ن.م.ادارية 1",
+      "code": "ITCP 468",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/selected-topics-in-mis-1-moadaa-mkhtar%D8%A9-fy-nmadary%D8%A9-1/3853830"
+    },
+    {
+      "name": "Selling And Sales Management ادارة مبيعات",
+      "code": "MRK 306",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/selling-and-sales-management-adar%D8%A9-mbyaaat/3853836"
+    },
+    {
+      "name": "Seminar In Linguistics حلقة بحث في اللغويات",
+      "code": "LANE 424",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/seminar-in-linguistics-hlk%D8%A9-bhth-fy-allghoyat/3853849"
+    },
+    {
+      "name": "Ship Construction بناء سفن",
+      "code": "MSN 244",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/ship-construction-bna%D8%A1-sfn/3853883"
+    },
+    {
+      "name": "Shipconstruction &Stability اتزان وبناء سفن",
+      "code": "MSN 545",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/shipconstruction-stability-atzan-obna%D8%A1-sfn/3853891"
+    },
+    {
+      "name": "Skills Of Teaching Technical Aمهارات تدريس التشريح التقني",
+      "code": "ANAT 808",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/skills-of-teaching-technical-amharat-tdrys-altshryh-altkny/3853908"
+    },
+    {
+      "name": "Small Business Management ادارة المشاريع الصغيرة",
+      "code": "BUS 401",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/small-business-management-adar%D8%A9-almsharyaa-alsghyr%D8%A9/3853909"
+    },
+    {
+      "name": "Social Psychology علم النفس الاجتماعي",
+      "code": "PSY 351",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/social-psychology-aalm-alnfs-alajtmaaay/3853911"
+    },
+    {
+      "name": "Social Work الخدمه الاجتماعيه",
+      "code": "SOC 211",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/social-work-alkhdmh-alajtmaaayh/3853913"
+    },
+    {
+      "name": "Software Design & Patterns نما ذج تصميم البرمجيات",
+      "code": "ITCP 224",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/software-design-patterns-nma-thj-tsmym-albrmjyat/3853917"
+    },
+    {
+      "name": "Software Design And Developmenتطوير وتصميم البرمجيات",
+      "code": "MISY 301",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/software-design-and-developmenttoyr-otsmym-albrmjyat/3853919"
+    },
+    {
+      "name": "Software Engineering( 1) هندسة البرمجيات 1",
+      "code": "ITCP 310",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/software-engineering-1-hnds%D8%A9-albrmjyat-1/3853923"
+    },
+    {
+      "name": "Software Quality & Testing مقدمة في جودةالبرمجيات واختبار",
+      "code": "ITCP 341",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/software-quality-testing-mkdm%D8%A9-fy-jod%D8%A9albrmjyat-oakhtbar/3853928"
+    },
+    {
+      "name": "Soil Science Of Arid L. Rga",
+      "code": "AGR 314",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/soil-science-of-arid-l-rga/3853945"
+    },
+    {
+      "name": "Solar System Physics فيزياء المجموعة الشمسية",
+      "code": "ASTR 371",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/solar-system-physics-fyzya%D8%A1-almjmoaa%D8%A9-alshmsy%D8%A9/3853951"
+    },
+    {
+      "name": "Space Vehicle Propulsion دفع المركبات الفضائية",
+      "code": "AE 473",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/space-vehicle-propulsion-dfaa-almrkbat-alfdaey%D8%A9/3853986"
+    },
+    {
+      "name": "Spatial Statistics الا حصاءات المكانية",
+      "code": "STAT 456",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/spatial-statistics-ala-hsa%D8%A1at-almkany%D8%A9/3853990"
+    },
+    {
+      "name": "Special Topics In Civil Eng. موضوعات خاصة في الهندسةالمدنية",
+      "code": "CE 497",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/special-topics-in-civil-eng-modoaaat-khas%D8%A9-fy-alhnds%D8%A9almdny%D8%A9/3854058"
+    },
+    {
+      "name": "Special Topics In Genetics مواضيع خاصة في الوراثة",
+      "code": "BIO 628",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/special-topics-in-genetics-moadyaa-khas%D8%A9-fy-alorath%D8%A9/3854066"
+    },
+    {
+      "name": "Special Topics In Industrial موضوع خاص في الهندسة الصناعية",
+      "code": "IE 490",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/special-topics-in-industrial-modoaa-khas-fy-alhnds%D8%A9-alsnaaay%D8%A9/3134116"
+    },
+    {
+      "name": "Special Topics In Mar. Chem. موضوعات خاصة في الكيمياء البحر",
+      "code": "MC 465",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/special-topics-in-mar-chem-modoaaat-khas%D8%A9-fy-alkymya%D8%A1-albhr/3854072"
+    },
+    {
+      "name": "Special Topics In Mining Eng. موضوعات خاصة في هندسة التعدين",
+      "code": "MINE 470",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/special-topics-in-mining-eng-modoaaat-khas%D8%A9-fy-hnds%D8%A9-altaadyn/3854078"
+    },
+    {
+      "name": "Special Topics In Physical Cheم.خ. في الكيمياءالفزيائية",
+      "code": "CHEM 796",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/special-topics-in-physical-chemkh-fy-alkymya%D8%A1alfzyaey%D8%A9/3854088"
+    },
+    {
+      "name": "Special Topics مواضيع مختارة",
+      "code": "STAT 480",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/special-topics-moadyaa-mkhtar%D8%A9/3854105"
+    },
+    {
+      "name": "Speical Topics In Biology مواضيع خاصة في الأحياء",
+      "code": "BIO 606",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/speical-topics-in-biology-moadyaa-khas%D8%A9-fy-alahya%D8%A1/3854119"
+    },
+    {
+      "name": "Staffing & Relations ادارة العلا قات والموظفين",
+      "code": "HT 362",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/staffing-relations-adar%D8%A9-alaala-kat-oalmothfyn/3854126"
+    },
+    {
+      "name": "Stat 405_________________ Tats",
+      "code": "STAT 405",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/stat-405-tats/3854128"
+    },
+    {
+      "name": "Stat Decision Theory نظرية اتخاذ القرارات",
+      "code": "STAT 633",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/stat-decision-theory-nthry%D8%A9-atkhath-alkrarat/3854130"
+    },
+    {
+      "name": "STATICS",
+      "code": "CE-201",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/statics/3260884"
+    },
+    {
+      "name": "Statistical Geology Ghe",
+      "code": "EHG 401",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/statistical-geology-ghe/3854136"
+    },
+    {
+      "name": "Statistical Inference (2) الاستدلال الاحصائي )2(",
+      "code": "STAT 632",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/statistical-inference-2-alastdlal-alahsaey-2/3854140"
+    },
+    {
+      "name": "Statistical Inference (I) الاستدلال الاحصائي )1(",
+      "code": "STAT 631",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/statistical-inference-i-alastdlal-alahsaey-1/3854142"
+    },
+    {
+      "name": "Statisticsal Finanace الا حصاء المالي",
+      "code": "STAT 337",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/statisticsal-finanace-ala-hsa%D8%A1-almaly/3854170"
+    },
+    {
+      "name": "Storage Transport & Trans. Oib",
+      "code": "BIO 746",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/storage-transport-trans-oib/3854184"
+    },
+    {
+      "name": "STRATEGIC MANAGEMENT ادارة استراتيجية",
+      "code": "BUS 607",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/strategic-management-adar%D8%A9-astratyjy%D8%A9/3134239"
+    },
+    {
+      "name": "Strategic Planning التخطيط الاستراتيجي",
+      "code": "PAD 332",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/strategic-planning-altkhtyt-alastratyjy/3854192"
+    },
+    {
+      "name": "Structural Analysis - I تحليل انشاءات )1(",
+      "code": "CE 340",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/structural-analysis-i-thlyl-ansha%D8%A1at-1/3854196"
+    },
+    {
+      "name": "Structural Analysis Ii تحليل انشاءات )2(",
+      "code": "CE 440",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/structural-analysis-ii-thlyl-ansha%D8%A1at-2/3854198"
+    },
+    {
+      "name": "supply chain management",
+      "code": "BUS 623",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/supply-chain-management/4797246"
+    },
+    {
+      "name": "Symbiosis In Plant Kingdom Oib",
+      "code": "BIO 649",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/symbiosis-in-plant-kingdom-oib/3854237"
+    },
+    {
+      "name": "System Analysis & Design",
+      "code": "IE 352",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/system-analysis-design/3854241"
+    },
+    {
+      "name": "System Analysis & Design تحليل النظم",
+      "code": "CS 455",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/system-analysis-design-thlyl-alnthm/3854243"
+    },
+    {
+      "name": "System Analysis And Design تحليل وتصميم النظم",
+      "code": "MISY 304",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/system-analysis-and-design-thlyl-otsmym-alnthm/3854247"
+    },
+    {
+      "name": "System design and anlysis",
+      "code": "MIS357",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/system-design-and-anlysis/6183073"
+    },
+    {
+      "name": "Tax Accounting محاسبةضريبية",
+      "code": "ACCT 341",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/tax-accounting-mhasb%D8%A9dryby%D8%A9/3854253"
+    },
+    {
+      "name": "The Celebes Of The I.And P. المناعة والتطفل",
+      "code": "BIO 858",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/the-celebes-of-the-iand-p-almnaaa%D8%A9-oalttfl/3854285"
+    },
+    {
+      "name": "Therapeutics-Iv علا جيات 4-",
+      "code": "CP 504",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/therapeutics-iv-aala-jyat-4/3854303"
+    },
+    {
+      "name": "Therm.Reac.Dynamics & Kin",
+      "code": "NE 411",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/thermreacdynamics-kin/3854305"
+    },
+    {
+      "name": "Thermodynamics I ديناميكية حرارية)1(",
+      "code": "MEP 261",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/thermodynamics-i-dynamyky%D8%A9-hrary%D8%A91/3854313"
+    },
+    {
+      "name": "Thermodynamics الديناميكا الحرارية",
+      "code": "PHYS 221",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/thermodynamics-aldynamyka-alhrary%D8%A9/3854317"
+    },
+    {
+      "name": "Thinking Skills مهارات تفكير",
+      "code": "IS 100",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/thinking-skills-mharat-tfkyr/3854325"
+    },
+    {
+      "name": "Topics In Algebra مواضيع في الجبر",
+      "code": "MATH 445",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/topics-in-algebra-moadyaa-fy-aljbr/3854337"
+    },
+    {
+      "name": "Total Quality Management ادارة الجودة الشاملة",
+      "code": "BUS 641",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/total-quality-management-adar%D8%A9-aljod%D8%A9-alshaml%D8%A9/3854341"
+    },
+    {
+      "name": "Trace Metals In Sea Water الفلزات النادرة في مياه البحر",
+      "code": "MC 476",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/trace-metals-in-sea-water-alflzat-alnadr%D8%A9-fy-myah-albhr/3854345"
+    },
+    {
+      "name": "Training & Research (Acc & Finبحث وتدريب )محاسبة وتمويل(",
+      "code": "ACCT 492",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/training-research-acc-finbhth-otdryb-mhasb%D8%A9-otmoyl/3134416"
+    },
+    {
+      "name": "Training & Research (Fin.) بحث وتدريب )مالية(",
+      "code": "BUS 497",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/training-research-fin-bhth-otdryb-maly%D8%A9/3854355"
+    },
+    {
+      "name": "Training & Research (Int Bus) بحث وتدريب )ادارة اعمال دولية(",
+      "code": "BUS 495",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/training-research-int-bus-bhth-otdryb-adar%D8%A9-aaamal-doly%D8%A9/3854364"
+    },
+    {
+      "name": "Training & Research (Marktng) بحث وتدريب )تسويق(",
+      "code": "BUS 491",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/training-research-marktng-bhth-otdryb-tsoyk/3854369"
+    },
+    {
+      "name": "Training & Research (Mis) بحث وتدريب )نظم معلومات(",
+      "code": "BUS 494",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/training-research-mis-bhth-otdryb-nthm-maalomat/3854371"
+    },
+    {
+      "name": "Training & Research (Sci Res) بحث وتدريب )بحث علمي(",
+      "code": "PS 494",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/training-research-sci-res-bhth-otdryb-bhth-aalmy/3134448"
+    },
+    {
+      "name": "Training In The Specialization تدريب تخصصي",
+      "code": "EHG 399",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/training-in-the-specialization-tdryb-tkhssy/3854389"
+    },
+    {
+      "name": "Transfer Operations",
+      "code": "CHE 311",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/transfer-operations/3854399"
+    },
+    {
+      "name": "Transportation Engg.",
+      "code": "CE 451",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/transportation-engg/3854424"
+    },
+    {
+      "name": "usoolul islam",
+      "code": "ISL4M",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/usoolul-islam/7698419"
+    },
+    {
+      "name": "Viscous Aerodynamics",
+      "code": "AE 413",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/viscous-aerodynamics/3854502"
+    },
+    {
+      "name": "Waste Water Recl. & Reuse",
+      "code": "CE 485",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/waste-water-recl-reuse/3854520"
+    },
+    {
+      "name": "Watch Keeping النوبه الملاحية",
+      "code": "MSN 544",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/watch-keeping-alnobh-almlahy%D8%A9/3854524"
+    },
+    {
+      "name": "Water And Mineral Meta Rtsa",
+      "code": "ASTR 321",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/water-and-mineral-meta-rtsa/3854526"
+    },
+    {
+      "name": "Water Quality And Treatment جودة ومعالجة المياه",
+      "code": "ENS 423",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/water-quality-and-treatment-jod%D8%A9-omaaalj%D8%A9-almyah/3854533"
+    },
+    {
+      "name": "Web Programming برمجة الشبكة",
+      "code": "CIT 220",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/web-programming-brmj%D8%A9-alshbk%D8%A9/3854553"
+    },
+    {
+      "name": "Wood Technology تقانة أخشاب",
+      "code": "AGR 455",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/wood-technology-tkan%D8%A9-akhshab/3854559"
+    },
+    {
+      "name": "Work Ethics أخلاقيات العمل",
+      "code": "ITCP 365",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/work-ethics-akhlakyat-alaaml/3854561"
+    },
+    {
+      "name": "Work Methods And Procedures أساليب وطرق العمل",
+      "code": "ADS 307",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/work-methods-and-procedures-asalyb-otrk-alaaml/3854565"
+    },
+    {
+      "name": "Work Study",
+      "code": "IE 341",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/work-study/3854569"
+    },
+    {
+      "name": "Yeat علم الخمائر",
+      "code": "BIO 834",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/yeat-aalm-alkhmaer/3854585"
+    },
+    {
+      "name": "Yemen And The Horn Of Africa اليمن والقرن الأفريقي",
+      "code": "HIST 448",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/yemen-and-the-horn-of-africa-alymn-oalkrn-alafryky/3854587"
+    },
+    {
+      "name": "Zakat Accounting محاسبة زكوية",
+      "code": "ACCT 442",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/zakat-accounting-mhasb%D8%A9-zkoy%D8%A9/3854591"
+    },
+    {
+      "name": "أحياء عامــة أدبي",
+      "code": "TBIO 100",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/ahya%D8%A1-aaam%D9%80%D9%80%D8%A9-adby/3855171"
+    },
+    {
+      "name": "أصول التربية الإسلامية",
+      "code": "FSE 241",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/asol-altrby%D8%A9-aleslamy%D8%A9/3855191"
+    },
+    {
+      "name": "أصول التربيـة العامــة",
+      "code": "TEDU 101",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/asol-altrby%D9%80%D8%A9-alaaam%D9%80%D9%80%D8%A9/3855192"
+    },
+    {
+      "name": "أصول الفقه 1",
+      "code": "أصول الفقه 1 41395",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/asol-alfkh-1/7341877"
+    },
+    {
+      "name": "اتجاهات حديثه في التعبير الفني",
+      "code": "DA 446",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/atjahat-hdythh-fy-altaabyr-alfny/3134670"
+    },
+    {
+      "name": "ادارة الحفلا ت والمؤتمرات",
+      "code": "HHM 426",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/adar%D8%A9-alhfla-t-oalmoetmrat/3854606"
+    },
+    {
+      "name": "ادارة المؤسسات الصحفية",
+      "code": "COM 433",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/adar%D8%A9-almoessat-alshfy%D8%A9/3854624"
+    },
+    {
+      "name": "اساسيات التمريض 1",
+      "code": "NUR 222",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/asasyat-altmryd-1/3854644"
+    },
+    {
+      "name": "اساسيات التمريض 2",
+      "code": "NUR 223",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/asasyat-altmryd-2/3854646"
+    },
+    {
+      "name": "اعداد الاطعمة",
+      "code": "FNU 212",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/aaadad-alataam%D8%A9/3854688"
+    },
+    {
+      "name": "الاحصاء المكاني",
+      "code": "GEOG 236",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/alahsa%D8%A1-almkany/3854725"
+    },
+    {
+      "name": "الاستدامة والعمارة الخضراء",
+      "code": "ID 373",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/alastdam%D8%A9-oalaamar%D8%A9-alkhdra%D8%A1/3854733"
+    },
+    {
+      "name": "الاعلام السعودي وتشريعاته",
+      "code": "COM 202",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/alaaalam-alsaaody-otshryaaath/3134808"
+    },
+    {
+      "name": "التجريد في الرسم والتصوير",
+      "code": "DA 343",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/altjryd-fy-alrsm-oaltsoyr/3854799"
+    },
+    {
+      "name": "التربية الخاصة",
+      "code": "TEDU 401",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/altrby%D8%A9-alkhas%D8%A9/3854814"
+    },
+    {
+      "name": "الرياضيات المحدودة",
+      "code": "TMAT 272",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/alryadyat-almhdod%D8%A9/3854943"
+    },
+    {
+      "name": "الزخارف التقليدية",
+      "code": "FD 341",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/alzkharf-altklydy%D8%A9/3854947"
+    },
+    {
+      "name": "الزخرفة الخزفية والطلاءات الزج",
+      "code": "IAE 432",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/alzkhrf%D8%A9-alkhzfy%D8%A9-oaltla%D8%A1at-alzj/3854949"
+    },
+    {
+      "name": "المفاهيم الاساسية في التمريض",
+      "code": "NUR 211",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/almfahym-alasasy%D8%A9-fy-altmryd/3855144"
+    },
+    {
+      "name": "تاريخ الفن 1",
+      "code": "DA 211",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/tarykh-alfn-1/3855209"
+    },
+    {
+      "name": "تطريز يدوي وحبك -تريكو وكروشيه",
+      "code": "CLT 410",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/ttryz-ydoy-ohbk-tryko-okroshyh/3855276"
+    },
+    {
+      "name": "تغذية متقدمة-1-",
+      "code": "FNU 326",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/tghthy%D8%A9-mtkdm%D8%A9-1/3855283"
+    },
+    {
+      "name": "تفاضل وتكامــل (3)",
+      "code": "TMAT 303",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/tfadl-otkam%D9%80%D9%80l-3/3855287"
+    },
+    {
+      "name": "تقنيات اظهار لوني -يدوي-",
+      "code": "ID 224",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/tknyat-athhar-lony-ydoy/3855292"
+    },
+    {
+      "name": "توليف خامات ومستهلكات",
+      "code": "DA 332",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/tolyf-khamat-omsthlkat/3855317"
+    },
+    {
+      "name": "ثقافة اسلاميـــة",
+      "code": "TISL 104",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/thkaf%D8%A9-aslamy%D9%80%D9%80%D9%80%D8%A9/3855318"
+    },
+    {
+      "name": "شبكات اتصالات الحاسبات",
+      "code": "EE462",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/shbkat-atsalat-alhasbat/5834546"
+    },
+    {
+      "name": "طرق التدريس -1-",
+      "code": "CHS 222",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/trk-altdrys-1/3855379"
+    },
+    {
+      "name": "علم الامراض",
+      "code": "PATN 211",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/aalm-alamrad/3855397"
+    },
+    {
+      "name": "فقه العقوبات",
+      "code": "ISLS 444",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/fkh-alaakobat/3855421"
+    },
+    {
+      "name": "فقه معاملات ومصارف اسلامية 2",
+      "code": "ISLS 436",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/fkh-maaamlat-omsarf-aslamy%D8%A9-2/3855423"
+    },
+    {
+      "name": "فن الطباعة بالشاشة الحريرية",
+      "code": "DA 485",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/fn-altbaaa%D8%A9-balshash%D8%A9-alhryry%D8%A9/3855429"
+    },
+    {
+      "name": "كتب الا طفال",
+      "code": "CHS 423",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/ktb-ala-tfal/3855448"
+    },
+    {
+      "name": "لغــة انجليــزيــة",
+      "code": "TENG 103",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/lgh%D9%80%D9%80%D8%A9-anjly%D9%80%D9%80zy%D9%80%D9%80%D8%A9/3855452"
+    },
+    {
+      "name": "مبادئ التسويق",
+      "code": "MRKT260",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/mbade-altsoyk/4756550"
+    },
+    {
+      "name": "مبادىء الاقتصاد الاسلامي",
+      "code": "TISL 105",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/mbad%D9%89%D8%A1-alaktsad-alaslamy/3855456"
+    },
+    {
+      "name": "محاسبة ادارية وتكاليف",
+      "code": "ACTE610",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/mhasb%D8%A9-adary%D8%A9-otkalyf/4503865"
+    },
+    {
+      "name": "مدخـل الى التربية الفنية",
+      "code": "TART 100",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/mdkh%D9%80l-al%D9%89-altrby%D8%A9-alfny%D8%A9/3855466"
+    },
+    {
+      "name": "مقدمة في التصميم الهندسي -2-",
+      "code": "IE 202",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/mkdm%D8%A9-fy-altsmym-alhndsy-2/3135800"
+    },
+    {
+      "name": "ممارسة المهنة والمواصفات واعدا",
+      "code": "ID 466",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/mmars%D8%A9-almhn%D8%A9-oalmoasfat-oaaada/3855497"
+    },
+    {
+      "name": "مناهج البحث العلمي",
+      "code": "ISFE 694",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/mnahj-albhth-alaalmy/3855498"
+    },
+    {
+      "name": "مهارات الاتصال -1-",
+      "code": "GRC 121",
+      "url": "https://www.studocu.com/row/course/king-abdulaziz-university/mharat-alatsal-1/3855505"
+    }
+  ]
+}

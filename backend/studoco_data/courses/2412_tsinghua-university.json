@@ -1,0 +1,596 @@
+{
+  "university_id": "2412",
+  "university_name": "Tsinghua University",
+  "courses": [
+    {
+      "name": "Advanced Chinese",
+      "code": "ADCH1001",
+      "url": "https://www.studocu.com/row/course/tsinghua-university/advanced-chinese/6813656"
+    },
+    {
+      "name": "algebra",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/tsinghua-university/algebra/4767246"
+    },
+    {
+      "name": "Algorithm Design",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/tsinghua-university/algorithm-design/5831236"
+    },
+    {
+      "name": "architecture professional practice",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/tsinghua-university/architecture-professional-practice/6583299"
+    },
+    {
+      "name": "Basic Concepts of International Arbitration",
+      "code": "80661832",
+      "url": "https://www.studocu.com/row/course/tsinghua-university/basic-concepts-of-international-arbitration/5083530"
+    },
+    {
+      "name": "basic number theory",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/tsinghua-university/basic-number-theory/7256834"
+    },
+    {
+      "name": "Behavioral Economics",
+      "code": "Beh. ECON",
+      "url": "https://www.studocu.com/row/course/tsinghua-university/behavioral-economics/5714149"
+    },
+    {
+      "name": "Building Materials",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/tsinghua-university/building-materials/7731008"
+    },
+    {
+      "name": "Business Law",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/tsinghua-university/business-law/4914670"
+    },
+    {
+      "name": "Calculus",
+      "code": "1",
+      "url": "https://www.studocu.com/row/course/tsinghua-university/calculus/7477011"
+    },
+    {
+      "name": "Calculus A(1)",
+      "code": "10421055",
+      "url": "https://www.studocu.com/row/course/tsinghua-university/calculus-a1/4363878"
+    },
+    {
+      "name": "Campbell Biology",
+      "code": "Campbell Biology 241",
+      "url": "https://www.studocu.com/row/course/tsinghua-university/campbell-biology/3618844"
+    },
+    {
+      "name": "Chemical biology",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/tsinghua-university/chemical-biology/7739192"
+    },
+    {
+      "name": "China Legal History",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/tsinghua-university/china-legal-history/1754989"
+    },
+    {
+      "name": "Communications and Networks",
+      "code": "30231034",
+      "url": "https://www.studocu.com/row/course/tsinghua-university/communications-and-networks/7337152"
+    },
+    {
+      "name": "Complex Analysis",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/tsinghua-university/complex-analysis/6079642"
+    },
+    {
+      "name": "Computer Architecture",
+      "code": "CS210001",
+      "url": "https://www.studocu.com/row/course/tsinghua-university/computer-architecture/3728876"
+    },
+    {
+      "name": "Computer Science",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/tsinghua-university/computer-science/4501301"
+    },
+    {
+      "name": "Computer System Architectures",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/tsinghua-university/computer-system-architectures/4194524"
+    },
+    {
+      "name": "Constitution Law",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/tsinghua-university/constitution-law/1754985"
+    },
+    {
+      "name": "Contract Law",
+      "code": "40661794",
+      "url": "https://www.studocu.com/row/course/tsinghua-university/contract-law/5481516"
+    },
+    {
+      "name": "convex optimization",
+      "code": "TH2019",
+      "url": "https://www.studocu.com/row/course/tsinghua-university/convex-optimization/4405606"
+    },
+    {
+      "name": "Corporate Finance",
+      "code": "805382940",
+      "url": "https://www.studocu.com/row/course/tsinghua-university/corporate-finance/2637779"
+    },
+    {
+      "name": "course siting",
+      "code": "ZZZ111",
+      "url": "https://www.studocu.com/row/course/tsinghua-university/course-siting/7545113"
+    },
+    {
+      "name": "data privacy",
+      "code": "LLAW3075",
+      "url": "https://www.studocu.com/row/course/tsinghua-university/data-privacy/7157684"
+    },
+    {
+      "name": "Database Systems",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/tsinghua-university/database-systems/7731007"
+    },
+    {
+      "name": "Deisgn of Experiment",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/tsinghua-university/deisgn-of-experiment/6665507"
+    },
+    {
+      "name": "design and anlalysis for applied software",
+      "code": "60250023",
+      "url": "https://www.studocu.com/row/course/tsinghua-university/design-and-anlalysis-for-applied-software/6336565"
+    },
+    {
+      "name": "Dictatorship and Oppression studies",
+      "code": "CCP8964",
+      "url": "https://www.studocu.com/row/course/tsinghua-university/dictatorship-and-oppression-studies/4502974"
+    },
+    {
+      "name": "Differential Geometry, Mathematics",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/tsinghua-university/differential-geometry-mathematics/6371159"
+    },
+    {
+      "name": "digital economic innovation",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/tsinghua-university/digital-economic-innovation/5872482"
+    },
+    {
+      "name": "Digital Integrated Circuits",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/tsinghua-university/digital-integrated-circuits/5873537"
+    },
+    {
+      "name": "Discrete Mathematics(2)",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/tsinghua-university/discrete-mathematics2/4503129"
+    },
+    {
+      "name": "Distributed Database System",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/tsinghua-university/distributed-database-system/6583897"
+    },
+    {
+      "name": "document learning",
+      "code": "baa2023",
+      "url": "https://www.studocu.com/row/course/tsinghua-university/document-learning/6379582"
+    },
+    {
+      "name": "E-C Translation",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/tsinghua-university/e-c-translation/6063280"
+    },
+    {
+      "name": "Econometrics 2",
+      "code": "40511133",
+      "url": "https://www.studocu.com/row/course/tsinghua-university/econometrics-2/3738986"
+    },
+    {
+      "name": "Economic Applications of Game Theory",
+      "code": "00510353-90",
+      "url": "https://www.studocu.com/row/course/tsinghua-university/economic-applications-of-game-theory/4905563"
+    },
+    {
+      "name": "Economic Cycle Analysis 经济周期分析",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/tsinghua-university/economic-cycle-analysis-%E7%BB%8F%E6%B5%8E%E5%91%A8%E6%9C%9F%E5%88%86%E6%9E%90/4512096"
+    },
+    {
+      "name": "Electrical and Electronic Engineering",
+      "code": "20220314",
+      "url": "https://www.studocu.com/row/course/tsinghua-university/electrical-and-electronic-engineering/5842320"
+    },
+    {
+      "name": "Engineering Graphics",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/tsinghua-university/engineering-graphics/4503127"
+    },
+    {
+      "name": "Engineering Mechanics",
+      "code": "CA2113",
+      "url": "https://www.studocu.com/row/course/tsinghua-university/engineering-mechanics/3177269"
+    },
+    {
+      "name": "English course",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/tsinghua-university/english-course/4523583"
+    },
+    {
+      "name": "English Writing",
+      "code": "EW101",
+      "url": "https://www.studocu.com/row/course/tsinghua-university/english-writing/6663172"
+    },
+    {
+      "name": "Enrolment",
+      "code": "XX001",
+      "url": "https://www.studocu.com/row/course/tsinghua-university/enrolment/5062297"
+    },
+    {
+      "name": "Environmental and Natural Resource Economics",
+      "code": "40511003",
+      "url": "https://www.studocu.com/row/course/tsinghua-university/environmental-and-natural-resource-economics/3268387"
+    },
+    {
+      "name": "EU law",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/tsinghua-university/eu-law/3732080"
+    },
+    {
+      "name": "exchange doc",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/tsinghua-university/exchange-doc/7729904"
+    },
+    {
+      "name": "Financial Accounting Libby 8th",
+      "code": "SEM 2023F",
+      "url": "https://www.studocu.com/row/course/tsinghua-university/financial-accounting-libby-8th/6475700"
+    },
+    {
+      "name": "Fluid Mechanics",
+      "code": "nope",
+      "url": "https://www.studocu.com/row/course/tsinghua-university/fluid-mechanics/3739763"
+    },
+    {
+      "name": "Geotechnical Engineering",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/tsinghua-university/geotechnical-engineering/4411587"
+    },
+    {
+      "name": "Global Climate Change",
+      "code": "PHSY 241",
+      "url": "https://www.studocu.com/row/course/tsinghua-university/global-climate-change/6521482"
+    },
+    {
+      "name": "Health communications",
+      "code": "Blaw2021",
+      "url": "https://www.studocu.com/row/course/tsinghua-university/health-communications/5150559"
+    },
+    {
+      "name": "History of Chinese Contemporary Literature",
+      "code": "30690613",
+      "url": "https://www.studocu.com/row/course/tsinghua-university/history-of-chinese-contemporary-literature/4381379"
+    },
+    {
+      "name": "Humanfactor",
+      "code": "024123",
+      "url": "https://www.studocu.com/row/course/tsinghua-university/humanfactor/5165606"
+    },
+    {
+      "name": "IB Economics P1",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/tsinghua-university/ib-economics-p1/7087763"
+    },
+    {
+      "name": "IC Design",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/tsinghua-university/ic-design/4825691"
+    },
+    {
+      "name": "Individual research",
+      "code": "Scdl2222",
+      "url": "https://www.studocu.com/row/course/tsinghua-university/individual-research/5700076"
+    },
+    {
+      "name": "Industry",
+      "code": "730-2002",
+      "url": "https://www.studocu.com/row/course/tsinghua-university/industry/4541377"
+    },
+    {
+      "name": "Information Query",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/tsinghua-university/information-query/6600542"
+    },
+    {
+      "name": "intellectual property",
+      "code": "LAW3025",
+      "url": "https://www.studocu.com/row/course/tsinghua-university/intellectual-property/5131037"
+    },
+    {
+      "name": "intermediate accounting",
+      "code": "40323123",
+      "url": "https://www.studocu.com/row/course/tsinghua-university/intermediate-accounting/4817690"
+    },
+    {
+      "name": "Intermediate Economics",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/tsinghua-university/intermediate-economics/3283152"
+    },
+    {
+      "name": "Intermediate Macroeconomics",
+      "code": "30510763",
+      "url": "https://www.studocu.com/row/course/tsinghua-university/intermediate-macroeconomics/7149325"
+    },
+    {
+      "name": "International Arbitration",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/tsinghua-university/international-arbitration/3732078"
+    },
+    {
+      "name": "International Economics",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/tsinghua-university/international-economics/6013307"
+    },
+    {
+      "name": "Introduction to Artificial Intelligence",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/tsinghua-university/introduction-to-artificial-intelligence/5740915"
+    },
+    {
+      "name": "introduction to asset pricing",
+      "code": "403124567",
+      "url": "https://www.studocu.com/row/course/tsinghua-university/introduction-to-asset-pricing/5164810"
+    },
+    {
+      "name": "Introduction to Computer Science",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/tsinghua-university/introduction-to-computer-science/6538735"
+    },
+    {
+      "name": "Introductory Psychology",
+      "code": "001",
+      "url": "https://www.studocu.com/row/course/tsinghua-university/introductory-psychology/6917821"
+    },
+    {
+      "name": "Investment",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/tsinghua-university/investment/4371588"
+    },
+    {
+      "name": "Japanese language",
+      "code": "HMJP033",
+      "url": "https://www.studocu.com/row/course/tsinghua-university/japanese-language/5140098"
+    },
+    {
+      "name": "Java Programming",
+      "code": "CS201202101",
+      "url": "https://www.studocu.com/row/course/tsinghua-university/java-programming/5335863"
+    },
+    {
+      "name": "Learning from data",
+      "code": "86000503-200",
+      "url": "https://www.studocu.com/row/course/tsinghua-university/learning-from-data/5806552"
+    },
+    {
+      "name": "Linear Algebra",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/tsinghua-university/linear-algebra/4549297"
+    },
+    {
+      "name": "Linear algebra",
+      "code": "LA123",
+      "url": "https://www.studocu.com/row/course/tsinghua-university/linear-algebra/5760501"
+    },
+    {
+      "name": "Linear Regression Analysis",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/tsinghua-university/linear-regression-analysis/5696364"
+    },
+    {
+      "name": "Machine Learning",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/tsinghua-university/machine-learning/5132086"
+    },
+    {
+      "name": "Management Thinking",
+      "code": "MT6231",
+      "url": "https://www.studocu.com/row/course/tsinghua-university/management-thinking/5316705"
+    },
+    {
+      "name": "Materials science",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/tsinghua-university/materials-science/3697903"
+    },
+    {
+      "name": "Mathematical Analysis",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/tsinghua-university/mathematical-analysis/4357060"
+    },
+    {
+      "name": "Measurement Technology",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/tsinghua-university/measurement-technology/4578287"
+    },
+    {
+      "name": "Medicine",
+      "code": "TM 2021",
+      "url": "https://www.studocu.com/row/course/tsinghua-university/medicine/7323689"
+    },
+    {
+      "name": "Microeconomics",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/tsinghua-university/microeconomics/5824359"
+    },
+    {
+      "name": "Model Recognization",
+      "code": "000",
+      "url": "https://www.studocu.com/row/course/tsinghua-university/model-recognization/4337919"
+    },
+    {
+      "name": "Modern Chinese Architecture & Urbanism",
+      "code": "NIL 0",
+      "url": "https://www.studocu.com/row/course/tsinghua-university/modern-chinese-architecture-urbanism/6591426"
+    },
+    {
+      "name": "Modern Control systems",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/tsinghua-university/modern-control-systems/4767245"
+    },
+    {
+      "name": "Money, Banking, and Financial Markets",
+      "code": "Fifth Edition 2017, McGraw-Hill Education International Edition",
+      "url": "https://www.studocu.com/row/course/tsinghua-university/money-banking-and-financial-markets/3732905"
+    },
+    {
+      "name": "Organic Chemistry",
+      "code": "00xx00x",
+      "url": "https://www.studocu.com/row/course/tsinghua-university/organic-chemistry/4455470"
+    },
+    {
+      "name": "Paper Submission",
+      "code": "Paper 2024",
+      "url": "https://www.studocu.com/row/course/tsinghua-university/paper-submission/7241447"
+    },
+    {
+      "name": "Perspectives on Communication",
+      "code": "COMM 4031",
+      "url": "https://www.studocu.com/row/course/tsinghua-university/perspectives-on-communication/6559034"
+    },
+    {
+      "name": "philosophy",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/tsinghua-university/philosophy/4338864"
+    },
+    {
+      "name": "Physical Experiment",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/tsinghua-university/physical-experiment/2917484"
+    },
+    {
+      "name": "Political Economics",
+      "code": "40700723",
+      "url": "https://www.studocu.com/row/course/tsinghua-university/political-economics/3220360"
+    },
+    {
+      "name": "Principles of Economics(1)",
+      "code": "3800",
+      "url": "https://www.studocu.com/row/course/tsinghua-university/principles-of-economics1/7386821"
+    },
+    {
+      "name": "Probability and Mathematical Statistics",
+      "code": "NULL",
+      "url": "https://www.studocu.com/row/course/tsinghua-university/probability-and-mathematical-statistics/3459120"
+    },
+    {
+      "name": "Process simulation",
+      "code": "CHE401",
+      "url": "https://www.studocu.com/row/course/tsinghua-university/process-simulation/5210598"
+    },
+    {
+      "name": "Projects Design- Humanoid Soccer Robot",
+      "code": "20120263",
+      "url": "https://www.studocu.com/row/course/tsinghua-university/projects-design-humanoid-soccer-robot/6615823"
+    },
+    {
+      "name": "Public Finance",
+      "code": "[30510073-2]",
+      "url": "https://www.studocu.com/row/course/tsinghua-university/public-finance/4311021"
+    },
+    {
+      "name": "qomso",
+      "code": "ECC2000",
+      "url": "https://www.studocu.com/row/course/tsinghua-university/qomso/4493295"
+    },
+    {
+      "name": "Quantum Information Theory",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/tsinghua-university/quantum-information-theory/6312153"
+    },
+    {
+      "name": "soil science",
+      "code": "1111111",
+      "url": "https://www.studocu.com/row/course/tsinghua-university/soil-science/6283762"
+    },
+    {
+      "name": "Statistical Mechanics",
+      "code": "SM1",
+      "url": "https://www.studocu.com/row/course/tsinghua-university/statistical-mechanics/4826054"
+    },
+    {
+      "name": "Steel Structures",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/tsinghua-university/steel-structures/7731011"
+    },
+    {
+      "name": "Strategy Management",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/tsinghua-university/strategy-management/4537768"
+    },
+    {
+      "name": "System Design Thinking in the Digital Era",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/tsinghua-university/system-design-thinking-in-the-digital-era/5151744"
+    },
+    {
+      "name": "Theory of International Relations",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/tsinghua-university/theory-of-international-relations/3488056"
+    },
+    {
+      "name": "Ultracold Atomic Physics",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/tsinghua-university/ultracold-atomic-physics/5852505"
+    },
+    {
+      "name": "University physics",
+      "code": "2021 A",
+      "url": "https://www.studocu.com/row/course/tsinghua-university/university-physics/5267643"
+    },
+    {
+      "name": "Urban Design Theory",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/tsinghua-university/urban-design-theory/6146043"
+    },
+    {
+      "name": "Value Based Leadership",
+      "code": "80974261-0",
+      "url": "https://www.studocu.com/row/course/tsinghua-university/value-based-leadership/6526240"
+    },
+    {
+      "name": "数值分析基础",
+      "code": "1003827",
+      "url": "https://www.studocu.com/row/course/tsinghua-university/%E6%95%B0%E5%80%BC%E5%88%86%E6%9E%90%E5%9F%BA%E7%A1%80/5140595"
+    },
+    {
+      "name": "物理实验",
+      "code": "0000",
+      "url": "https://www.studocu.com/row/course/tsinghua-university/%E7%89%A9%E7%90%86%E5%AE%9E%E9%AA%8C/5799141"
+    },
+    {
+      "name": "生物反应工程",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/tsinghua-university/%E7%94%9F%E7%89%A9%E5%8F%8D%E5%BA%94%E5%B7%A5%E7%A8%8B/4628422"
+    },
+    {
+      "name": "空气污染控制",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/tsinghua-university/%E7%A9%BA%E6%B0%94%E6%B1%A1%E6%9F%93%E6%8E%A7%E5%88%B6/4470611"
+    },
+    {
+      "name": "英语听说交流（a）",
+      "code": "14201092",
+      "url": "https://www.studocu.com/row/course/tsinghua-university/%E8%8B%B1%E8%AF%AD%E5%90%AC%E8%AF%B4%E4%BA%A4%E6%B5%81a/5272802"
+    },
+    {
+      "name": "金融学综合",
+      "code": "FIN",
+      "url": "https://www.studocu.com/row/course/tsinghua-university/%E9%87%91%E8%9E%8D%E5%AD%A6%E7%BB%BC%E5%90%88/7553252"
+    },
+    {
+      "name": "高分子物理实验",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/tsinghua-university/%E9%AB%98%E5%88%86%E5%AD%90%E7%89%A9%E7%90%86%E5%AE%9E%E9%AA%8C/6011527"
+    }
+  ]
+}

@@ -1,0 +1,4591 @@
+{
+  "university_id": "2891",
+  "university_name": "Universidad Central del Ecuador",
+  "courses": [
+    {
+      "name": "Ecología y Educación Ambiental",
+      "code": "ICM-ESPOL",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/ecologia-y-educacion-ambiental/1742182"
+    },
+    {
+      "name": "Acuicultura",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/acuicultura/7673403"
+    },
+    {
+      "name": "ADMINISTRACION DE EMPRESAS",
+      "code": "11605",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/administracion-de-empresas/3468184"
+    },
+    {
+      "name": "ADMINISTRACION FINANCIERA",
+      "code": "62607",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/administracion-financiera/3468084"
+    },
+    {
+      "name": "administracion pedagogica",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/administracion-pedagogica/5719317"
+    },
+    {
+      "name": "ADMINISTRACION Y GESTIàN DE LAS ORGANIZACIONES",
+      "code": "33303",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/administracion-y-gestian-de-las-organizaciones/3468062"
+    },
+    {
+      "name": "ADMINISTRACIÓN",
+      "code": "QBP092",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/administracion/3468254"
+    },
+    {
+      "name": "ADMINISTRACIÓN DE EMPRESAS",
+      "code": "2507",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/administracion-de-empresas/3467980"
+    },
+    {
+      "name": "Administración de Proyectos Arquitectónicos",
+      "code": "APA 01",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/administracion-de-proyectos-arquitectonicos/6967330"
+    },
+    {
+      "name": "administración pública",
+      "code": "DAP3-1",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/administracion-publica/5379756"
+    },
+    {
+      "name": "Administración Salarial I",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/administracion-salarial-i/3468362"
+    },
+    {
+      "name": "Administración Tributaria",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/administracion-tributaria/3738344"
+    },
+    {
+      "name": "Administración y Gestión de Proyectos Sociales I",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/administracion-y-gestion-de-proyectos-sociales-i/3468340"
+    },
+    {
+      "name": "Administración y Gestión de Proyectos Sociales II",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/administracion-y-gestion-de-proyectos-sociales-ii/3468355"
+    },
+    {
+      "name": "Agroecología",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/agroecologia/4494384"
+    },
+    {
+      "name": "Agronomia",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/agronomia/4976569"
+    },
+    {
+      "name": "Alcantarillado",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/alcantarillado/4633657"
+    },
+    {
+      "name": "ANALISIS CLINICOS II",
+      "code": "2803",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/analisis-clinicos-ii/3467996"
+    },
+    {
+      "name": "Analisis Matematico",
+      "code": "FICFM",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/analisis-matematico/3749783"
+    },
+    {
+      "name": "analisis multivariante",
+      "code": "multi1",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/analisis-multivariante/7060688"
+    },
+    {
+      "name": "Analisis numerico",
+      "code": "IQ- 405",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/analisis-numerico/3739447"
+    },
+    {
+      "name": "Analisis Numerico II",
+      "code": "A-05",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/analisis-numerico-ii/4820716"
+    },
+    {
+      "name": "Analisis Quimico",
+      "code": "FIQ- 303",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/analisis-quimico/3737732"
+    },
+    {
+      "name": "ANATOMIA E HISTOLOGÍA",
+      "code": "QBB021",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/anatomia-e-histologia/3468210"
+    },
+    {
+      "name": "Anatomia general y descriptiva del aparato locomotor",
+      "code": "3498",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/anatomia-general-y-descriptiva-del-aparato-locomotor/3169868"
+    },
+    {
+      "name": "Anatomia Humana",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/anatomia-humana/7649871"
+    },
+    {
+      "name": "Anatomia Humana",
+      "code": "AI009",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/anatomia-humana/3223237"
+    },
+    {
+      "name": "ANATOMÍA",
+      "code": "2204",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/anatomia/3467956"
+    },
+    {
+      "name": "Anatomía animal",
+      "code": "LAB.ANAT.GE.A1",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/anatomia-animal/4448803"
+    },
+    {
+      "name": "Anatomía Comparada",
+      "code": "1506",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/anatomia-comparada/3468025"
+    },
+    {
+      "name": "Anatomía Descriptiva I",
+      "code": "OOP01B01",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/anatomia-descriptiva-i/7052874"
+    },
+    {
+      "name": "Anestesiologia",
+      "code": "102",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/anestesiologia/5157185"
+    },
+    {
+      "name": "Angiologia",
+      "code": "104",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/angiologia/5157180"
+    },
+    {
+      "name": "Antropogogía",
+      "code": "FGP01BPP02",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/antropogogia/3737188"
+    },
+    {
+      "name": "ANTROPOLOGÍA",
+      "code": "33104",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/antropologia/3468098"
+    },
+    {
+      "name": "ANÁLISIS CLÍNICOS",
+      "code": "QBP072",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/analisis-clinicos/3468242"
+    },
+    {
+      "name": "ANÁLISIS CLÍNICOS I",
+      "code": "2705",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/analisis-clinicos-i/3467991"
+    },
+    {
+      "name": "Análisis Funcional",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/analisis-funcional/7233241"
+    },
+    {
+      "name": "Análisis matemático 1",
+      "code": "DI 1-001",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/analisis-matematico-1/6280256"
+    },
+    {
+      "name": "ANÁLISIS SOCIOECONÓMICO DE LA REALIDAD NACIONAL Y MUNDIAL",
+      "code": "33206",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/analisis-socioeconomico-de-la-realidad-nacional-y-mundial/3468108"
+    },
+    {
+      "name": "Argumentación Jurídica",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/argumentacion-juridica/3468410"
+    },
+    {
+      "name": "Arquitectura de computadores",
+      "code": "Ing. Informática",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/arquitectura-de-computadores/6924815"
+    },
+    {
+      "name": "Arte y moda",
+      "code": "Imagen personal",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/arte-y-moda/7429472"
+    },
+    {
+      "name": "Artes Escénicas",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/artes-escenicas/6241847"
+    },
+    {
+      "name": "Artistica",
+      "code": "1234",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/artistica/4823884"
+    },
+    {
+      "name": "ASEGURAMIENTO DE LA CALIDAD",
+      "code": "11805",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/aseguramiento-de-la-calidad/3468196"
+    },
+    {
+      "name": "ASEGURAMIENTO DE LA CALIDAD",
+      "code": "QBP102",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/aseguramiento-de-la-calidad/3468260"
+    },
+    {
+      "name": "ASEGURAMIENTO DE LA CALIDAD I",
+      "code": "2606",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/aseguramiento-de-la-calidad-i/3467986"
+    },
+    {
+      "name": "ASEGURAMIENTO DE LA CALIDAD II",
+      "code": "2707",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/aseguramiento-de-la-calidad-ii/3467993"
+    },
+    {
+      "name": "ASESORAMIENTO PSICOLÓGICO",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/asesoramiento-psicologico/3468317"
+    },
+    {
+      "name": "Atención Prehospitalaria del Trauma",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/atencion-prehospitalaria-del-trauma/5414077"
+    },
+    {
+      "name": "Atención y Percepción",
+      "code": "AYP1",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/atencion-y-percepcion/6391358"
+    },
+    {
+      "name": "Audiologia",
+      "code": "C512",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/audiologia/4989887"
+    },
+    {
+      "name": "AUDITORIA FINANCIERA",
+      "code": "72403",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/auditoria-financiera/3468086"
+    },
+    {
+      "name": "Auditoría Minera",
+      "code": "Auditoría, Minería",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/auditoria-minera/3749568"
+    },
+    {
+      "name": "Automatizacion en Mineria-IM",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/automatizacion-en-mineria-im/6680436"
+    },
+    {
+      "name": "Avances Tecnologicos",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/avances-tecnologicos/4416771"
+    },
+    {
+      "name": "Álgebra Lineal",
+      "code": "202",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/algebra-lineal/3736916"
+    },
+    {
+      "name": "Áreas Naturales",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/areas-naturales/3302243"
+    },
+    {
+      "name": "Bacteriología y micología",
+      "code": "B345",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/bacteriologia-y-micologia/3751353"
+    },
+    {
+      "name": "Balance de Materia y Energía",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/balance-de-materia-y-energia/4354060"
+    },
+    {
+      "name": "Banco de Sangre",
+      "code": "bq1",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/banco-de-sangre/5720835"
+    },
+    {
+      "name": "Base de Datos",
+      "code": "Base de Datos 2",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/base-de-datos/3737643"
+    },
+    {
+      "name": "Base de datos I",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/base-de-datos-i/6144778"
+    },
+    {
+      "name": "BASES BIOLÓGICAS DE LA PSICOLOGÍA",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/bases-biologicas-de-la-psicologia/3468309"
+    },
+    {
+      "name": "Bioestadística",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/bioestadistica/4409728"
+    },
+    {
+      "name": "BIOETICA",
+      "code": "QBB024",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/bioetica/3468213"
+    },
+    {
+      "name": "BIOFARMACIA Y FARMACOCINETICA",
+      "code": "QBP094",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/biofarmacia-y-farmacocinetica/3468256"
+    },
+    {
+      "name": "Biofísica",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/biofisica/3591719"
+    },
+    {
+      "name": "Biogeografía",
+      "code": "1403",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/biogeografia/3468040"
+    },
+    {
+      "name": "Biologia",
+      "code": "Bioquimica",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/biologia/7613952"
+    },
+    {
+      "name": "BIOLOGIA CELULAR",
+      "code": "2105",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/biologia-celular/3467950"
+    },
+    {
+      "name": "BIOLOGIA CELULAR",
+      "code": "QBB011",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/biologia-celular/3468204"
+    },
+    {
+      "name": "BIOLOGIA MOLECULAR",
+      "code": "QBP062",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/biologia-molecular/3468236"
+    },
+    {
+      "name": "Biología",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/biologia/6916957"
+    },
+    {
+      "name": "Biología Básica",
+      "code": "sfgshf",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/biologia-basica/3328771"
+    },
+    {
+      "name": "Biología molecular",
+      "code": "1111",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/biologia-molecular/3191982"
+    },
+    {
+      "name": "BIOLOGÍA MOLECULAR",
+      "code": "2807",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/biologia-molecular/3468000"
+    },
+    {
+      "name": "Biomateriales",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/biomateriales/6174870"
+    },
+    {
+      "name": "Biomecánica",
+      "code": "Biomecánica",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/biomecanica/3510512"
+    },
+    {
+      "name": "BIOQUIMICA",
+      "code": "11603",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/bioquimica/3468182"
+    },
+    {
+      "name": "BIOQUIMICA CLINICA I",
+      "code": "2703",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/bioquimica-clinica-i/3467989"
+    },
+    {
+      "name": "Bioquímica",
+      "code": "1402",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/bioquimica/3468031"
+    },
+    {
+      "name": "BIOQUÍMICA CLÍNICA",
+      "code": "QBP082",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/bioquimica-clinica/3468248"
+    },
+    {
+      "name": "BIOQUÍMICA CLÍNICA II",
+      "code": "2801",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/bioquimica-clinica-ii/3467994"
+    },
+    {
+      "name": "BIOQUÍMICA I",
+      "code": "QBP042",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/bioquimica-i/3468223"
+    },
+    {
+      "name": "BIOQUÍMICA I",
+      "code": "2503",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/bioquimica-i/3467976"
+    },
+    {
+      "name": "Bioquímica II",
+      "code": "1502",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/bioquimica-ii/3468032"
+    },
+    {
+      "name": "BIOQUÍMICA II",
+      "code": "2602",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/bioquimica-ii/3467982"
+    },
+    {
+      "name": "BIOQUÍMICA II",
+      "code": "QBP052",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/bioquimica-ii/3468229"
+    },
+    {
+      "name": "Biorremediación Ambiental",
+      "code": "1802",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/biorremediacion-ambiental/3468035"
+    },
+    {
+      "name": "Bioseguridad",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/bioseguridad/5275463"
+    },
+    {
+      "name": "Biotecnologia",
+      "code": "FIQ-504",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/biotecnologia/3737993"
+    },
+    {
+      "name": "BIOÉTICA Y DEONTOLOGÍA",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/bioetica-y-deontologia/3468327"
+    },
+    {
+      "name": "BOTANICA",
+      "code": "11204",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/botanica/3468159"
+    },
+    {
+      "name": "BOTANICA",
+      "code": "QBB041",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/botanica/3468222"
+    },
+    {
+      "name": "Botánica I",
+      "code": "1104",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/botanica-i/3468007"
+    },
+    {
+      "name": "Botánica II",
+      "code": "1204",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/botanica-ii/3468008"
+    },
+    {
+      "name": "Botánica V",
+      "code": "1505",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/botanica-v/3468018"
+    },
+    {
+      "name": "BROMATOLOGIA I",
+      "code": "QBP076",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/bromatologia-i/3468246"
+    },
+    {
+      "name": "BROMATOLOGIA II",
+      "code": "QBP086",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/bromatologia-ii/3468252"
+    },
+    {
+      "name": "Business Agility",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/business-agility/5933765"
+    },
+    {
+      "name": "Calculabilidad y Complejidad de Algoritmos",
+      "code": "S4",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/calculabilidad-y-complejidad-de-algoritmos/2733599"
+    },
+    {
+      "name": "Calculo basicos",
+      "code": "20174",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/calculo-basicos/3210590"
+    },
+    {
+      "name": "CALCULO DIFERENCIAL",
+      "code": "23202",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/calculo-diferencial/3468055"
+    },
+    {
+      "name": "Calculo Diferencial I",
+      "code": "Cálculo I",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/calculo-diferencial-i/5156097"
+    },
+    {
+      "name": "CALCULO DIFERENCIAL IngQuimica",
+      "code": "CALQ01",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/calculo-diferencial-ingquimica/6865765"
+    },
+    {
+      "name": "CALCULO I",
+      "code": "11101",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/calculo-i/3468150"
+    },
+    {
+      "name": "CALCULO I",
+      "code": "QBB012",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/calculo-i/3468205"
+    },
+    {
+      "name": "CALCULO I",
+      "code": "2101",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/calculo-i/3467946"
+    },
+    {
+      "name": "CALCULO II",
+      "code": "QBB022",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/calculo-ii/3468211"
+    },
+    {
+      "name": "CALCULO II",
+      "code": "2201",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/calculo-ii/3467953"
+    },
+    {
+      "name": "CALCULO II",
+      "code": "11201",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/calculo-ii/3468156"
+    },
+    {
+      "name": "CALCULO INTEGRAL",
+      "code": "33201",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/calculo-integral/3468059"
+    },
+    {
+      "name": "calculos basicos 1",
+      "code": "CBIIQ1",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/calculos-basicos-1/7341859"
+    },
+    {
+      "name": "Calidad y Productividad",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/calidad-y-productividad/4408989"
+    },
+    {
+      "name": "Cambio Climatico",
+      "code": "cc1",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/cambio-climatico/6954219"
+    },
+    {
+      "name": "Capacitación y Desarrollo I",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/capacitacion-y-desarrollo-i/3468346"
+    },
+    {
+      "name": "Capacitación y Desarrollo II",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/capacitacion-y-desarrollo-ii/3468347"
+    },
+    {
+      "name": "Cardiología",
+      "code": "Car.1",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/cardiologia/4417963"
+    },
+    {
+      "name": "Cariologia y Operatoria I",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/cariologia-y-operatoria-i/6391077"
+    },
+    {
+      "name": "Carreteras",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/carreteras/6623696"
+    },
+    {
+      "name": "Catedra",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/catedra/5135948"
+    },
+    {
+      "name": "CIENCIA Y SOCIEDAD",
+      "code": "2307",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/ciencia-y-sociedad/3467966"
+    },
+    {
+      "name": "CIENCIA Y SOCIEDAD",
+      "code": "11306",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/ciencia-y-sociedad/3468167"
+    },
+    {
+      "name": "Ciencias de la Tierra",
+      "code": "CienciasTierra01",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/ciencias-de-la-tierra/3769239"
+    },
+    {
+      "name": "Ciencias Naturales",
+      "code": "Diagnostico 8vo egb",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/ciencias-naturales/7154227"
+    },
+    {
+      "name": "Ciencias Penales y Criminología",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/ciencias-penales-y-criminologia/3468371"
+    },
+    {
+      "name": "Ciencias Políticas",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/ciencias-politicas/5360228"
+    },
+    {
+      "name": "Ciencias Políticas",
+      "code": "CP",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/ciencias-politicas/3021954"
+    },
+    {
+      "name": "Cinematica",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/cinematica/6186771"
+    },
+    {
+      "name": "CINETICA QUIMICA Y CATALISIS",
+      "code": "11704",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/cinetica-quimica-y-catalisis/3468189"
+    },
+    {
+      "name": "Cirugía General",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/cirugia-general/4538113"
+    },
+    {
+      "name": "Cirugía Oral",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/cirugia-oral/6363520"
+    },
+    {
+      "name": "CITOTECNOLOGÍA",
+      "code": "2902",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/citotecnologia/3468002"
+    },
+    {
+      "name": "Clasificación y Valoración de Puestos I",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/clasificacion-y-valoracion-de-puestos-i/3468350"
+    },
+    {
+      "name": "Clasificación y Valoración de Puestos II",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/clasificacion-y-valoracion-de-puestos-ii/3468352"
+    },
+    {
+      "name": "Climatología y Meteorología",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/climatologia-y-meteorologia/7424907"
+    },
+    {
+      "name": "Clínica jurídica",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/clinica-juridica/3468404"
+    },
+    {
+      "name": "Clínica jurídica (Constitucional)",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/clinica-juridica-constitucional/3468412"
+    },
+    {
+      "name": "Clínica y cirugía de pequeñas especies",
+      "code": "Medicina de pequeñas",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/clinica-y-cirugia-de-pequenas-especies/7607582"
+    },
+    {
+      "name": "COMERCIO EXTERIOR",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/comercio-exterior/3468293"
+    },
+    {
+      "name": "Comercio Exterior y Negocios Internacionales - Distancia",
+      "code": "DRAE7-1",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/comercio-exterior-y-negocios-internacionales-distancia/5933546"
+    },
+    {
+      "name": "Comportamiento Organizacional",
+      "code": "DED02BFT03",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/comportamiento-organizacional/3945308"
+    },
+    {
+      "name": "Computacion",
+      "code": "optativa",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/computacion/3764129"
+    },
+    {
+      "name": "COMUNICACION APLICADA",
+      "code": "23201",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/comunicacion-aplicada/3468054"
+    },
+    {
+      "name": "COMUNICACION ORAL Y ESCRITA",
+      "code": "11105",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/comunicacion-oral-y-escrita/3468154"
+    },
+    {
+      "name": "Comunicacion Social",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/comunicacion-social/3236243"
+    },
+    {
+      "name": "Comunicacion y derechos",
+      "code": "Com. 001",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/comunicacion-y-derechos/4466476"
+    },
+    {
+      "name": "Comunicación Humana",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/comunicacion-humana/4610630"
+    },
+    {
+      "name": "Comunicación Impresos",
+      "code": "IMPR02",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/comunicacion-impresos/5781140"
+    },
+    {
+      "name": "COMUNICACIÓN ORAL Y ESCRITA",
+      "code": "QBB014",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/comunicacion-oral-y-escrita/3468207"
+    },
+    {
+      "name": "COMUNICACIÓN ORAL Y ESCRITA",
+      "code": "2106",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/comunicacion-oral-y-escrita/3467951"
+    },
+    {
+      "name": "COMUNICACIÓN Y LENGUAJE",
+      "code": "33105",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/comunicacion-y-lenguaje/3468099"
+    },
+    {
+      "name": "Consejería Laboral",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/consejeria-laboral/3468361"
+    },
+    {
+      "name": "Construcciones I",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/construcciones-i/4473856"
+    },
+    {
+      "name": "Consultorios Jurídicos",
+      "code": "Consultorios Jurídicos",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/consultorios-juridicos/3737039"
+    },
+    {
+      "name": "Consultoría Empresarial",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/consultoria-empresarial/3468358"
+    },
+    {
+      "name": "Contabilidad de Costos (Rediseño)",
+      "code": "DED02BFT04",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/contabilidad-de-costos-rediseno/3945313"
+    },
+    {
+      "name": "Contabilidad General",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/contabilidad-general/7032693"
+    },
+    {
+      "name": "CONTABILIDAD GENERAL",
+      "code": "13307",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/contabilidad-general/3468051"
+    },
+    {
+      "name": "Contabilidad Gubernamental",
+      "code": "ContaGuber",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/contabilidad-gubernamental/4447356"
+    },
+    {
+      "name": "CONTABILIDAD INTERMEDIA",
+      "code": "22306",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/contabilidad-intermedia/3468052"
+    },
+    {
+      "name": "Contabilidad y Auditoría",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/contabilidad-y-auditoria/5930568"
+    },
+    {
+      "name": "Control Automático",
+      "code": "CTRL-01",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/control-automatico/6565196"
+    },
+    {
+      "name": "Control de Calidad",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/control-de-calidad/6267104"
+    },
+    {
+      "name": "Control de calidad y auditoría informatica",
+      "code": "604",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/control-de-calidad-y-auditoria-informatica/6144766"
+    },
+    {
+      "name": "CONTROL INTERNO",
+      "code": "62406",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/control-interno/3468082"
+    },
+    {
+      "name": "Control motor",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/control-motor/6965602"
+    },
+    {
+      "name": "Corrosion",
+      "code": "5001",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/corrosion/3734990"
+    },
+    {
+      "name": "COSTOS",
+      "code": "33306",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/costos/3468063"
+    },
+    {
+      "name": "Criminal Law",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/criminal-law/7650031"
+    },
+    {
+      "name": "CRITICA A LA ECONOMIA POLITICA",
+      "code": "52503",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/critica-a-la-economia-politica/3468077"
+    },
+    {
+      "name": "CRITICA DE LA ECONOMIA POLITICA",
+      "code": "42102",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/critica-de-la-economia-politica/3468065"
+    },
+    {
+      "name": "CRÍTICA A LA ECONOMÍA POLÍTICA I",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/critica-a-la-economia-politica-i/3468275"
+    },
+    {
+      "name": "CRÍTICA ECONOMÍA POLÍTICA II",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/critica-economia-politica-ii/3468283"
+    },
+    {
+      "name": "CUENTAS NACIONALES Y CUENTAS SATÉLITES",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/cuentas-nacionales-y-cuentas-satelites/3468287"
+    },
+    {
+      "name": "CUIDADOS PALIATIVOS EN ENFERMOS TERMINALES",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/cuidados-paliativos-en-enfermos-terminales/3468319"
+    },
+    {
+      "name": "Cultura y Clima Laboral",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/cultura-y-clima-laboral/3468357"
+    },
+    {
+      "name": "CÁLCULO DIFERENCIAL PARA CIENCIAS ECONÓMICA",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/calculo-diferencial-para-ciencias-economica/3468269"
+    },
+    {
+      "name": "Cálculo integral",
+      "code": "Matemática",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/calculo-integral/7747655"
+    },
+    {
+      "name": "CÁLCULO INTEGRAL PARA CIENCIAS ECONÓMICAS",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/calculo-integral-para-ciencias-economicas/3468272"
+    },
+    {
+      "name": "Cátedra Dual I Atletismo",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/catedra-dual-i-atletismo/6684209"
+    },
+    {
+      "name": "Código Orgánico de la Función Judicial",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/codigo-organico-de-la-funcion-judicial/3468396"
+    },
+    {
+      "name": "Danza",
+      "code": "UCE IE 2-2",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/danza/5466186"
+    },
+    {
+      "name": "DEMOGRAFIA",
+      "code": "42304",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/demografia/3468068"
+    },
+    {
+      "name": "Derecho Administrativo I",
+      "code": "A1C6A2",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/derecho-administrativo-i/5357485"
+    },
+    {
+      "name": "Derecho Administrativo I",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/derecho-administrativo-i/3468391"
+    },
+    {
+      "name": "Derecho Administrativo II",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/derecho-administrativo-ii/3468397"
+    },
+    {
+      "name": "Derecho Ambiental",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/derecho-ambiental/4611314"
+    },
+    {
+      "name": "Derecho Civil I",
+      "code": "Civil 1",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/derecho-civil-i/4489219"
+    },
+    {
+      "name": "Derecho Civil I: Personas y Familia",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/derecho-civil-i-personas-y-familia/3468368"
+    },
+    {
+      "name": "Derecho Civil II: Bienes",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/derecho-civil-ii-bienes/3468374"
+    },
+    {
+      "name": "Derecho Civil III: Sucesiones",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/derecho-civil-iii-sucesiones/3468380"
+    },
+    {
+      "name": "Derecho civil Obligaciones",
+      "code": "OBS1",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/derecho-civil-obligaciones/3281122"
+    },
+    {
+      "name": "Derecho Civil: Contratos y Obligaciones I",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/derecho-civil-contratos-y-obligaciones-i/3468386"
+    },
+    {
+      "name": "Derecho Civil: Contratos y Obligaciones II",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/derecho-civil-contratos-y-obligaciones-ii/3468393"
+    },
+    {
+      "name": "Derecho Constitucional I",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/derecho-constitucional-i/3468378"
+    },
+    {
+      "name": "Derecho Constitucional II",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/derecho-constitucional-ii/3468384"
+    },
+    {
+      "name": "Derecho de Integración",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/derecho-de-integracion/3468405"
+    },
+    {
+      "name": "Derecho de Producción",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/derecho-de-produccion/4945101"
+    },
+    {
+      "name": "Derecho de Propiedad Intelectual",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/derecho-de-propiedad-intelectual/3468407"
+    },
+    {
+      "name": "Derecho Financiero",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/derecho-financiero/3468376"
+    },
+    {
+      "name": "Derecho Informático",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/derecho-informatico/3468411"
+    },
+    {
+      "name": "Derecho Internacional Privado",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/derecho-internacional-privado/3468403"
+    },
+    {
+      "name": "Derecho Internacional Público",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/derecho-internacional-publico/3468377"
+    },
+    {
+      "name": "Derecho Laboral I",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/derecho-laboral-i/3468383"
+    },
+    {
+      "name": "Derecho Laboral II",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/derecho-laboral-ii/3468389"
+    },
+    {
+      "name": "Derecho Laboral y Normativa Pública I",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/derecho-laboral-y-normativa-publica-i/3468359"
+    },
+    {
+      "name": "Derecho Laboral y Normativa Pública II",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/derecho-laboral-y-normativa-publica-ii/3468363"
+    },
+    {
+      "name": "derecho leyes",
+      "code": "e.q.aogacia",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/derecho-leyes/6927193"
+    },
+    {
+      "name": "Derecho Mercantil",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/derecho-mercantil/3468392"
+    },
+    {
+      "name": "Derecho Minero y Petrolero",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/derecho-minero-y-petrolero/3468402"
+    },
+    {
+      "name": "Derecho Municipal",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/derecho-municipal/3468398"
+    },
+    {
+      "name": "Derecho Notarial",
+      "code": "0001",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/derecho-notarial/6045886"
+    },
+    {
+      "name": "Derecho Penal I",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/derecho-penal-i/3468379"
+    },
+    {
+      "name": "Derecho Penal II",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/derecho-penal-ii/3468385"
+    },
+    {
+      "name": "Derecho Procesal Civil I",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/derecho-procesal-civil-i/3468381"
+    },
+    {
+      "name": "Derecho Procesal Civil II",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/derecho-procesal-civil-ii/3468387"
+    },
+    {
+      "name": "Derecho Procesal Penal I",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/derecho-procesal-penal-i/3468388"
+    },
+    {
+      "name": "Derecho Procesal Penal II",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/derecho-procesal-penal-ii/3468395"
+    },
+    {
+      "name": "Derecho Societario",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/derecho-societario/3468400"
+    },
+    {
+      "name": "Derecho Tributario I",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/derecho-tributario-i/3468394"
+    },
+    {
+      "name": "Derecho Tributario II",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/derecho-tributario-ii/3468399"
+    },
+    {
+      "name": "Derechos",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/derechos/3468372"
+    },
+    {
+      "name": "Derechos Humanos",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/derechos-humanos/6117597"
+    },
+    {
+      "name": "Dermatología",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/dermatologia/5395850"
+    },
+    {
+      "name": "DESARROLLO DEL PENSAMIENTO",
+      "code": "33108",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/desarrollo-del-pensamiento/3468102"
+    },
+    {
+      "name": "Desarrollo del Pensamiento I",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/desarrollo-del-pensamiento-i/3468349"
+    },
+    {
+      "name": "Desarrollo del Pensamiento II",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/desarrollo-del-pensamiento-ii/3468351"
+    },
+    {
+      "name": "DESARROLLO ECONOMICO",
+      "code": "62601",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/desarrollo-economico/3468083"
+    },
+    {
+      "name": "DESARROLLO HUMANO",
+      "code": "11205",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/desarrollo-humano/3468160"
+    },
+    {
+      "name": "DESARROLLO HUMANO",
+      "code": "2207",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/desarrollo-humano/3467959"
+    },
+    {
+      "name": "Desarrollo productos y marcas",
+      "code": "1122",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/desarrollo-productos-y-marcas/5170466"
+    },
+    {
+      "name": "Desarrollo web",
+      "code": "2565",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/desarrollo-web/7755274"
+    },
+    {
+      "name": "Desarrollo y Evaluación de Proyectos",
+      "code": "1803",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/desarrollo-y-evaluacion-de-proyectos/3468044"
+    },
+    {
+      "name": "Diagnóstico de la personalidad",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/diagnostico-de-la-personalidad/4817489"
+    },
+    {
+      "name": "Diagnóstico y Semiología",
+      "code": "mvz009",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/diagnostico-y-semiologia/3766222"
+    },
+    {
+      "name": "dibujo tegnico",
+      "code": "nivelación",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/dibujo-tegnico/7640060"
+    },
+    {
+      "name": "Didáctica General",
+      "code": "Didáctica",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/didactica-general/3737196"
+    },
+    {
+      "name": "Dinámica",
+      "code": "B.203D",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/dinamica/3836015"
+    },
+    {
+      "name": "Dirección y Gestión Sanitaria",
+      "code": "12345",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/direccion-y-gestion-sanitaria/7550418"
+    },
+    {
+      "name": "diseño basico y creatividad",
+      "code": "diseño",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/diseno-basico-y-creatividad/6917212"
+    },
+    {
+      "name": "Diseño de Minas",
+      "code": "Diseño de Minas, Minería",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/diseno-de-minas/3766112"
+    },
+    {
+      "name": "diseño de procesos",
+      "code": "001",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/diseno-de-procesos/5390030"
+    },
+    {
+      "name": "DISEÑO DE PROYECTOS DE INVESTIGACIÓN",
+      "code": "33701",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/diseno-de-proyectos-de-investigacion/3468139"
+    },
+    {
+      "name": "DISEÑO EXPERIMENTAL",
+      "code": "QBT043",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/diseno-experimental/3468224"
+    },
+    {
+      "name": "DISEÑO EXPERIMENTAL",
+      "code": "11502",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/diseno-experimental/3468175"
+    },
+    {
+      "name": "DISEÑO EXPERIMENTAL",
+      "code": "2506",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/diseno-experimental/3467979"
+    },
+    {
+      "name": "Diseño Hidraulico II",
+      "code": "Diseño Hidraulico",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/diseno-hidraulico-ii/3784986"
+    },
+    {
+      "name": "Diseño Mecánico",
+      "code": "matemáticas",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/diseno-mecanico/6360306"
+    },
+    {
+      "name": "diseño sismo resistente",
+      "code": "DSISMO",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/diseno-sismo-resistente/5419280"
+    },
+    {
+      "name": "Diseño Urbano IV",
+      "code": "6608",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/diseno-urbano-iv/3751380"
+    },
+    {
+      "name": "DISEÑO Y EVALUACION DE PROYECTOS EMPRESARIALES",
+      "code": "82704",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/diseno-y-evaluacion-de-proyectos-empresariales/3468093"
+    },
+    {
+      "name": "Docencia",
+      "code": "1754",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/docencia/7633617"
+    },
+    {
+      "name": "e.g HISTORIA DE LA MEDICINA",
+      "code": "e.g salud publica",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/eg-historia-de-la-medicina/6900898"
+    },
+    {
+      "name": "Ecoarquitectura",
+      "code": "6643",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/ecoarquitectura/3738372"
+    },
+    {
+      "name": "Ecologia y Medio Ambiente",
+      "code": "3313",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/ecologia-y-medio-ambiente/3759281"
+    },
+    {
+      "name": "Ecología y Ambiente",
+      "code": "1203",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/ecologia-y-ambiente/3468038"
+    },
+    {
+      "name": "Ecología y Ambiente II",
+      "code": "1303",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/ecologia-y-ambiente-ii/3468039"
+    },
+    {
+      "name": "ECONOMETRÍA I",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/econometria-i/3468294"
+    },
+    {
+      "name": "Economia Agricola Ia",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/economia-agricola-ia/5941434"
+    },
+    {
+      "name": "ECONOMIA ECUATORIANA",
+      "code": "42101",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/economia-ecuatoriana/3468064"
+    },
+    {
+      "name": "Economia Minera",
+      "code": "Economia, Minería",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/economia-minera/3739278"
+    },
+    {
+      "name": "ECONOMÍA AGRÍCOLA",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/economia-agricola/3468297"
+    },
+    {
+      "name": "ECONOMÍA AMBIENTAL",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/economia-ambiental/3468298"
+    },
+    {
+      "name": "Economía Política",
+      "code": "Ciencias Políticas",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/economia-politica/5364085"
+    },
+    {
+      "name": "ECONOMÍA SOLIDARIA",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/economia-solidaria/3468296"
+    },
+    {
+      "name": "ECUACIONES DIFERENCIALES",
+      "code": "11301",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/ecuaciones-diferenciales/3468162"
+    },
+    {
+      "name": "ECUACIONES DIFERENCIALES",
+      "code": "2301",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/ecuaciones-diferenciales/3467960"
+    },
+    {
+      "name": "Edafología",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/edafologia/4065130"
+    },
+    {
+      "name": "Educacion Inicial",
+      "code": "MOTRICIDAD",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/educacion-inicial/7659740"
+    },
+    {
+      "name": "Educación básica",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/educacion-basica/6736556"
+    },
+    {
+      "name": "Educación Física",
+      "code": "Salud 1",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/educacion-fisica/6143113"
+    },
+    {
+      "name": "Educación Física",
+      "code": "EE.FF",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/educacion-fisica/6515943"
+    },
+    {
+      "name": "Educación Inclusiva",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/educacion-inclusiva/7242863"
+    },
+    {
+      "name": "Educación inicial",
+      "code": "2000",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/educacion-inicial/4910196"
+    },
+    {
+      "name": "Educación Maternal",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/educacion-maternal/5951815"
+    },
+    {
+      "name": "Educación prenatal",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/educacion-prenatal/6706924"
+    },
+    {
+      "name": "Electricidad",
+      "code": "Electricidad, infor",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/electricidad/4712591"
+    },
+    {
+      "name": "Electromagnetismo",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/electromagnetismo/6176162"
+    },
+    {
+      "name": "ELECTROQUIMICA",
+      "code": "11905",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/electroquimica/3468202"
+    },
+    {
+      "name": "Electrotecnia - P1",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/electrotecnia-p1/6677187"
+    },
+    {
+      "name": "Electrónica",
+      "code": "ELECTRO",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/electronica/4499079"
+    },
+    {
+      "name": "Embriologia",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/embriologia/5930056"
+    },
+    {
+      "name": "Embriología",
+      "code": "15",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/embriologia/2951176"
+    },
+    {
+      "name": "EMBRIOLOGÍA",
+      "code": "33504",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/embriologia/3468129"
+    },
+    {
+      "name": "Embriología e Histología Humana",
+      "code": "2125",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/embriologia-e-histologia-humana/5376541"
+    },
+    {
+      "name": "Emergencias Medicas",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/emergencias-medicas/7029909"
+    },
+    {
+      "name": "Emprendimiento",
+      "code": "EYG001",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/emprendimiento/3170902"
+    },
+    {
+      "name": "Endocrinologia",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/endocrinologia/4317686"
+    },
+    {
+      "name": "Endodoncia",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/endodoncia/4548298"
+    },
+    {
+      "name": "Enfermedades Infecciosas",
+      "code": "EIFMVZ",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/enfermedades-infecciosas/3766362"
+    },
+    {
+      "name": "Enfermedades Parasitarias. FMVZ",
+      "code": "EPFMVZ",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/enfermedades-parasitarias-fmvz/3739000"
+    },
+    {
+      "name": "Enfermeria",
+      "code": "enfermeria",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/enfermeria/3766215"
+    },
+    {
+      "name": "English A2",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/english-a2/5931523"
+    },
+    {
+      "name": "English as a Second Language",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/english-as-a-second-language/7530078"
+    },
+    {
+      "name": "English Cambridge",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/english-cambridge/6692152"
+    },
+    {
+      "name": "English Language Studies",
+      "code": "ELS 001",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/english-language-studies/6999438"
+    },
+    {
+      "name": "Ensayo de Materiales",
+      "code": "e.d.materiales",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/ensayo-de-materiales/3707775"
+    },
+    {
+      "name": "Entorno natural",
+      "code": "536",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/entorno-natural/6233059"
+    },
+    {
+      "name": "EPIDEMIOLOGÍA",
+      "code": "2806",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/epidemiologia/3467999"
+    },
+    {
+      "name": "EPIDEMIOLOGÍA Y SALUD PÚBLICA",
+      "code": "QBP101",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/epidemiologia-y-salud-publica/3468259"
+    },
+    {
+      "name": "EPISTEMOLOGÍA",
+      "code": "33501",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/epistemologia/3468126"
+    },
+    {
+      "name": "EPISTEMOLOGÍA",
+      "code": "QBB025",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/epistemologia/3468214"
+    },
+    {
+      "name": "Escritura Científica",
+      "code": "1415",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/escritura-cientifica/5808865"
+    },
+    {
+      "name": "ESTADISTICA",
+      "code": "11401",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/estadistica/3468168"
+    },
+    {
+      "name": "ESTADISTICA",
+      "code": "QBT033",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/estadistica/3468218"
+    },
+    {
+      "name": "ESTADISTICA",
+      "code": "2401",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/estadistica/3467967"
+    },
+    {
+      "name": "ESTADISTICA DESCRIPTIVA",
+      "code": "13205",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/estadistica-descriptiva/3468048"
+    },
+    {
+      "name": "ESTADISTICA PROBABILISTICA",
+      "code": "23204",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/estadistica-probabilistica/3468056"
+    },
+    {
+      "name": "ESTADISTICA PROBALISTICA II",
+      "code": "62403",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/estadistica-probalistica-ii/3468079"
+    },
+    {
+      "name": "Estadística",
+      "code": "BF03",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/estadistica/4988275"
+    },
+    {
+      "name": "Estadística General",
+      "code": "1406",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/estadistica-general/3468024"
+    },
+    {
+      "name": "ESTADÍSTICA II",
+      "code": "33702",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/estadistica-ii/3468140"
+    },
+    {
+      "name": "ESTADÍSTICA PROBABILÍSTICA II",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/estadistica-probabilistica-ii/3468292"
+    },
+    {
+      "name": "ESTADÍSTICAS DESCRIPTIVAS",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/estadisticas-descriptivas/3468265"
+    },
+    {
+      "name": "ESTRATEGIA FINANCIERA",
+      "code": "82705",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/estrategia-financiera/3468094"
+    },
+    {
+      "name": "Estructura de Datos",
+      "code": "FICFM-Ingeniería Informática",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/estructura-de-datos/3813777"
+    },
+    {
+      "name": "Estructura y Funcionamiento del Ser Humano",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/estructura-y-funcionamiento-del-ser-humano/7249290"
+    },
+    {
+      "name": "Estructuras Algebraicas",
+      "code": "S04-03",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/estructuras-algebraicas/3059306"
+    },
+    {
+      "name": "Estructuras I",
+      "code": "4406",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/estructuras-i/3737963"
+    },
+    {
+      "name": "Estructuras II",
+      "code": "5506",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/estructuras-ii/3739494"
+    },
+    {
+      "name": "Estudios Ambientales",
+      "code": "1704",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/estudios-ambientales/3468013"
+    },
+    {
+      "name": "Estática",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/estatica/4473481"
+    },
+    {
+      "name": "Etica de la Ingeniería",
+      "code": "Etica, Carrera de Minas",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/etica-de-la-ingenieria/3739286"
+    },
+    {
+      "name": "etica profesional",
+      "code": "Ética 1",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/etica-profesional/5152621"
+    },
+    {
+      "name": "Etica y Pensamiento Universitario",
+      "code": "EPU1",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/etica-y-pensamiento-universitario/3769245"
+    },
+    {
+      "name": "Etnobotánica",
+      "code": "1605",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/etnobotanica/3468019"
+    },
+    {
+      "name": "etologia y bienestar animal",
+      "code": "veterinaria",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/etologia-y-bienestar-animal/3784680"
+    },
+    {
+      "name": "Evaluación Educativa",
+      "code": "Psicología Educativa y Orientación",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/evaluacion-educativa/3737097"
+    },
+    {
+      "name": "Examen de Admisión",
+      "code": "2024",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/examen-de-admision/7062963"
+    },
+    {
+      "name": "Explotación a Cielo Abierto",
+      "code": "Explotación a Cielo Abierto II, Minería",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/explotacion-a-cielo-abierto/3749571"
+    },
+    {
+      "name": "Explotación a cielo abierto",
+      "code": "Explotación a Cielo Abierto I, Minería",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/explotacion-a-cielo-abierto/3765743"
+    },
+    {
+      "name": "Explotación de Depósitos Aluviales",
+      "code": "Explotación de Aluviales, Minería",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/explotacion-de-depositos-aluviales/3749565"
+    },
+    {
+      "name": "explotación subterránea",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/explotacion-subterranea/4511368"
+    },
+    {
+      "name": "Expresión Oral y Escrita",
+      "code": "123",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/expresion-oral-y-escrita/3192044"
+    },
+    {
+      "name": "Expresión Oral y Escrita",
+      "code": "1234",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/expresion-oral-y-escrita/3235774"
+    },
+    {
+      "name": "Expresión Oral y Redacción Jurídica",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/expresion-oral-y-redaccion-juridica/3468366"
+    },
+    {
+      "name": "Ética filosófica",
+      "code": "ICR002",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/etica-filosofica/5019667"
+    },
+    {
+      "name": "Ética Pública y Valores",
+      "code": "EPV001",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/etica-publica-y-valores/7403213"
+    },
+    {
+      "name": "Facilidades de Producción",
+      "code": "6341",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/facilidades-de-produccion/4076984"
+    },
+    {
+      "name": "FARMACIA",
+      "code": "QBP074",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/farmacia/3468244"
+    },
+    {
+      "name": "FARMACIA CLÍNICA Y ASISTENCIAL",
+      "code": "QBP085",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/farmacia-clinica-y-asistencial/3468251"
+    },
+    {
+      "name": "FARMACOGNOSIA",
+      "code": "QBP055",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/farmacognosia/3468232"
+    },
+    {
+      "name": "Farmacologia",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/farmacologia/3221917"
+    },
+    {
+      "name": "FARMACOLOGIA I",
+      "code": "QBP056",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/farmacologia-i/3468233"
+    },
+    {
+      "name": "FARMACOLOGIA II",
+      "code": "QBP065",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/farmacologia-ii/3468239"
+    },
+    {
+      "name": "FARMACOLOGÍA",
+      "code": "2605",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/farmacologia/3467985"
+    },
+    {
+      "name": "Fauna Ecuatoriana",
+      "code": "1606",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/fauna-ecuatoriana/3468026"
+    },
+    {
+      "name": "Fenomenos de Transporte",
+      "code": "FIQ-505",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/fenomenos-de-transporte/3737991"
+    },
+    {
+      "name": "Fenomenos de Transporte II",
+      "code": "FIQ-604",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/fenomenos-de-transporte-ii/3737994"
+    },
+    {
+      "name": "Filosofía",
+      "code": "Sociales, primero",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/filosofia/6024312"
+    },
+    {
+      "name": "Filosofía - Comsoc",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/filosofia-comsoc/5832988"
+    },
+    {
+      "name": "Filosofía de la Educación",
+      "code": "Filosofía",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/filosofia-de-la-educacion/3737190"
+    },
+    {
+      "name": "Filosofía del Derecho",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/filosofia-del-derecho/3468370"
+    },
+    {
+      "name": "FINANZAS BASICAS",
+      "code": "42306",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/finanzas-basicas/3468069"
+    },
+    {
+      "name": "FINANZAS CORPORATIVAS",
+      "code": "72705",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/finanzas-corporativas/3468089"
+    },
+    {
+      "name": "FINANZASINTERNACIONALES",
+      "code": "82702",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/finanzasinternacionales/3468091"
+    },
+    {
+      "name": "Fiscalizacion",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/fiscalizacion/4853481"
+    },
+    {
+      "name": "Fisica",
+      "code": "0001",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/fisica/5002476"
+    },
+    {
+      "name": "FISICA",
+      "code": "FISICA1-UCE",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/fisica/3223591"
+    },
+    {
+      "name": "Fisica 1 ing-quimica",
+      "code": "FS1IQ",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/fisica-1-ing-quimica/6651728"
+    },
+    {
+      "name": "Fisica 1 Practica 5 Uce",
+      "code": "Fisica1",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/fisica-1-practica-5-uce/5961443"
+    },
+    {
+      "name": "Fisica Aplicada-Grteran",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/fisica-aplicada-grteran/5935626"
+    },
+    {
+      "name": "FISICA I",
+      "code": "QBB016",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/fisica-i/3468209"
+    },
+    {
+      "name": "FISICA I",
+      "code": "11102",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/fisica-i/3468151"
+    },
+    {
+      "name": "FISICA I",
+      "code": "2102",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/fisica-i/3467947"
+    },
+    {
+      "name": "FISICA II",
+      "code": "11202",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/fisica-ii/3468157"
+    },
+    {
+      "name": "FISICA II 5",
+      "code": "QBB026",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/fisica-ii-5/3468215"
+    },
+    {
+      "name": "FISICA III",
+      "code": "11302",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/fisica-iii/3468163"
+    },
+    {
+      "name": "FISICOQUIMICA DE INTERFASES",
+      "code": "11601",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/fisicoquimica-de-interfases/3468180"
+    },
+    {
+      "name": "FISICOQUIMICA I",
+      "code": "11402",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/fisicoquimica-i/3468169"
+    },
+    {
+      "name": "FISICOQUIMICA I",
+      "code": "QBB046",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/fisicoquimica-i/3468227"
+    },
+    {
+      "name": "FISICOQUIMICA II",
+      "code": "11503",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/fisicoquimica-ii/3468176"
+    },
+    {
+      "name": "FISICOQUIMICA II",
+      "code": "QBP057",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/fisicoquimica-ii/3468234"
+    },
+    {
+      "name": "FISICOQUÍMICA I",
+      "code": "2405",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/fisicoquimica-i/3467971"
+    },
+    {
+      "name": "FISICOQUÍMICA II",
+      "code": "2502",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/fisicoquimica-ii/3467975"
+    },
+    {
+      "name": "FISIOLOGIA",
+      "code": "2305",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/fisiologia/3467964"
+    },
+    {
+      "name": "FISIOLOGÍA",
+      "code": "QBB031",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/fisiologia/3468216"
+    },
+    {
+      "name": "Fisiología vegetal",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/fisiologia-vegetal/4418157"
+    },
+    {
+      "name": "Fisiología Veternaria II",
+      "code": "4SEMESTRE",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/fisiologia-veternaria-ii/3738585"
+    },
+    {
+      "name": "FISIOPATOLOGÍA",
+      "code": "2805",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/fisiopatologia/3467998"
+    },
+    {
+      "name": "FISIOPATOLOGÍA E INTERPRETACIÓN CLÍNICA",
+      "code": "QBP091",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/fisiopatologia-e-interpretacion-clinica/3468253"
+    },
+    {
+      "name": "Fisioterapia Deportiva",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/fisioterapia-deportiva/6704072"
+    },
+    {
+      "name": "Fitopatología General",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/fitopatologia-general/3736688"
+    },
+    {
+      "name": "Flujo multifasico",
+      "code": "Flujo005",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/flujo-multifasico/6787947"
+    },
+    {
+      "name": "Fonoaudiología",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/fonoaudiologia/5413020"
+    },
+    {
+      "name": "Fonología Contrastiva",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/fonologia-contrastiva/5828576"
+    },
+    {
+      "name": "Formacion Social del Ecuador",
+      "code": "POL3241",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/formacion-social-del-ecuador/3224020"
+    },
+    {
+      "name": "Fotoperiodismo",
+      "code": "Periodismo",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/fotoperiodismo/7362611"
+    },
+    {
+      "name": "Franqueo de Minas",
+      "code": "Franqueo, Minería",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/franqueo-de-minas/3759291"
+    },
+    {
+      "name": "Fundaciones",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/fundaciones/3733010"
+    },
+    {
+      "name": "Fundamento del Derecho",
+      "code": "Derecho",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/fundamento-del-derecho/7578414"
+    },
+    {
+      "name": "Fundamentos de Economia",
+      "code": "001",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/fundamentos-de-economia/4733507"
+    },
+    {
+      "name": "Fundamentos de la investigación",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/fundamentos-de-la-investigacion/7217095"
+    },
+    {
+      "name": "Fundamentos de la medicina humana",
+      "code": "derechos historia",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/fundamentos-de-la-medicina-humana/6783061"
+    },
+    {
+      "name": "Fundamentos de la Medicina Veterinaria",
+      "code": "Fisiología",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/fundamentos-de-la-medicina-veterinaria/7501362"
+    },
+    {
+      "name": "Fundamentos de la pedagogía de la matemática",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/fundamentos-de-la-pedagogia-de-la-matematica/4572024"
+    },
+    {
+      "name": "Fundamentos de Matemática",
+      "code": "C2-001",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/fundamentos-de-matematica/5859414"
+    },
+    {
+      "name": "Física",
+      "code": "1106",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/fisica/3468021"
+    },
+    {
+      "name": "Física Aplicada",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/fisica-aplicada/3749766"
+    },
+    {
+      "name": "FÍSICA II",
+      "code": "2202",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/fisica-ii/3467954"
+    },
+    {
+      "name": "Física para Ciencias de la Computación",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/fisica-para-ciencias-de-la-computacion/4910348"
+    },
+    {
+      "name": "Física para la ciencia de la programacion",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/fisica-para-la-ciencia-de-la-programacion/6887835"
+    },
+    {
+      "name": "Gastroenterologia",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/gastroenterologia/6557869"
+    },
+    {
+      "name": "GENETICA",
+      "code": "QBP071",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/genetica/3468241"
+    },
+    {
+      "name": "GENÉTICA",
+      "code": "33402",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/genetica/3468120"
+    },
+    {
+      "name": "GENÉTICA",
+      "code": "2903",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/genetica/3468003"
+    },
+    {
+      "name": "Geografia Local I",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/geografia-local-i/6371369"
+    },
+    {
+      "name": "Geografía Física de Ámerica y Regiones Polares",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/geografia-fisica-de-america-y-regiones-polares/5379019"
+    },
+    {
+      "name": "Geografía Turística",
+      "code": "Geografía Turística I",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/geografia-turistica/3749876"
+    },
+    {
+      "name": "Geologia",
+      "code": "1223456",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/geologia/3041214"
+    },
+    {
+      "name": "Geologia del Ecuador",
+      "code": "1997",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/geologia-del-ecuador/3751442"
+    },
+    {
+      "name": "Geología Estructural",
+      "code": "Geología Estructural, Minería",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/geologia-estructural/3766132"
+    },
+    {
+      "name": "Geometria y Dibujo",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/geometria-y-dibujo/4633556"
+    },
+    {
+      "name": "Geometría Analítica tridimensional",
+      "code": "Geometría Analítica Tridimensional",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/geometria-analitica-tridimensional/3738013"
+    },
+    {
+      "name": "Geometría Solar",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/geometria-solar/7205822"
+    },
+    {
+      "name": "Geotecnia",
+      "code": "Geotecnia, Minería",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/geotecnia/3766133"
+    },
+    {
+      "name": "Gerencia de servicios",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/gerencia-de-servicios/6790038"
+    },
+    {
+      "name": "Geriatría",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/geriatria/5438704"
+    },
+    {
+      "name": "Gestión Ambiental 6",
+      "code": "1902",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/gestion-ambiental-6/3468036"
+    },
+    {
+      "name": "Gestión de distribución",
+      "code": "1123",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/gestion-de-distribucion/5170467"
+    },
+    {
+      "name": "Gestión de Proyectos",
+      "code": "Proyectos",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/gestion-de-proyectos/7068436"
+    },
+    {
+      "name": "Gestión en Fauna",
+      "code": "1706",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/gestion-en-fauna/3468027"
+    },
+    {
+      "name": "Gestión en Flora",
+      "code": "1705",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/gestion-en-flora/3468020"
+    },
+    {
+      "name": "Gestión Escolar",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/gestion-escolar/7249274"
+    },
+    {
+      "name": "GESTIÓN FARMACEUTICA",
+      "code": "QBP075",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/gestion-farmaceutica/3468245"
+    },
+    {
+      "name": "Gestión por procesos",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/gestion-por-procesos/3737836"
+    },
+    {
+      "name": "Gestión y Administración Educativa para la COnvivencia Escolar",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/gestion-y-administracion-educativa-para-la-convivencia-escolar/6484587"
+    },
+    {
+      "name": "Ginecología y obstetricia",
+      "code": "Gineco y Obstrecia",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/ginecologia-y-obstetricia/4461891"
+    },
+    {
+      "name": "Ginecólogia",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/ginecologia/7669470"
+    },
+    {
+      "name": "Gobernanza",
+      "code": "GOB4",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/gobernanza/7060474"
+    },
+    {
+      "name": "Gobierno Electronico",
+      "code": "AP8",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/gobierno-electronico/7556979"
+    },
+    {
+      "name": "HEMATOLOGÍA",
+      "code": "QBP063",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/hematologia/3468237"
+    },
+    {
+      "name": "Hidrología",
+      "code": "Hidrología",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/hidrologia/3784985"
+    },
+    {
+      "name": "Hidráulica",
+      "code": "Hidráulica 1",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/hidraulica/3765810"
+    },
+    {
+      "name": "HISTOLOGIA",
+      "code": "2205",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/histologia/3467957"
+    },
+    {
+      "name": "Historia arquitectónica y urbana I",
+      "code": "3311",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/historia-arquitectonica-y-urbana-i/3759288"
+    },
+    {
+      "name": "Historia de la Educación",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/historia-de-la-educacion/4610631"
+    },
+    {
+      "name": "Historia de la Medicina",
+      "code": "1999",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/historia-de-la-medicina/3239392"
+    },
+    {
+      "name": "Historia de las Formas Fílmicas",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/historia-de-las-formas-filmicas/3210076"
+    },
+    {
+      "name": "Historia del Derecho",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/historia-del-derecho/3468365"
+    },
+    {
+      "name": "Historia General",
+      "code": "HSTG1",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/historia-general/6023938"
+    },
+    {
+      "name": "Historia Local I",
+      "code": "HistoriaLocalI",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/historia-local-i/4456153"
+    },
+    {
+      "name": "historia mundial contemporanea",
+      "code": "comunicacion social",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/historia-mundial-contemporanea/3766448"
+    },
+    {
+      "name": "Historia Política de América Latina",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/historia-politica-de-america-latina/7671083"
+    },
+    {
+      "name": "Historia Universal.",
+      "code": "Ciencias Políticas.",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/historia-universal/5364093"
+    },
+    {
+      "name": "Hormigon Armado",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/hormigon-armado/4439416"
+    },
+    {
+      "name": "Humanidades",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/humanidades/4956261"
+    },
+    {
+      "name": "Humanos",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/humanos/3468373"
+    },
+    {
+      "name": "Idiomas",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/idiomas/6370625"
+    },
+    {
+      "name": "Imagenologia y radiologia",
+      "code": "Manuales",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/imagenologia-y-radiologia/4490367"
+    },
+    {
+      "name": "Imagenología",
+      "code": "0234554",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/imagenologia/5002307"
+    },
+    {
+      "name": "Indicadores Sociales y Económicos",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/indicadores-sociales-y-economicos/3765895"
+    },
+    {
+      "name": "INFERENCIA ESTADISTICA",
+      "code": "33204",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/inferencia-estadistica/3468060"
+    },
+    {
+      "name": "INFORMATICA",
+      "code": "INFO",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/informatica/3192437"
+    },
+    {
+      "name": "INFORMATICA APLICADA",
+      "code": "11506",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/informatica-aplicada/3468179"
+    },
+    {
+      "name": "Infraestructura de TI",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/infraestructura-de-ti/6144772"
+    },
+    {
+      "name": "Ing Civil, Liderazgo",
+      "code": "Liderazgo",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/ing-civil-liderazgo/4496430"
+    },
+    {
+      "name": "Ingenieria civil",
+      "code": "A04P06",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/ingenieria-civil/5946532"
+    },
+    {
+      "name": "Ingenieria Civil",
+      "code": "S3-P1-2021",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/ingenieria-civil/5118158"
+    },
+    {
+      "name": "Ingenieria de las Estrucutras 3",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/ingenieria-de-las-estrucutras-3/6593580"
+    },
+    {
+      "name": "Ingenieria economica",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/ingenieria-economica/4974725"
+    },
+    {
+      "name": "Ingenieria Informática, Contabilidad Financiera",
+      "code": "Contabilidad",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/ingenieria-informatica-contabilidad-financiera/3868854"
+    },
+    {
+      "name": "Ingeniería de la Contaminación",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/ingenieria-de-la-contaminacion/6230242"
+    },
+    {
+      "name": "Ingeniería de las Reacciones Químicas 1",
+      "code": "IQ 7022",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/ingenieria-de-las-reacciones-quimicas-1/3290280"
+    },
+    {
+      "name": "Ingeniería de Plantas Industriales",
+      "code": "IQ-903",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/ingenieria-de-plantas-industriales/4430679"
+    },
+    {
+      "name": "ingeniería química",
+      "code": "wayyy21",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/ingenieria-quimica/5720929"
+    },
+    {
+      "name": "Ingeniería y Calidad del Agua",
+      "code": "8350",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/ingenieria-y-calidad-del-agua/4420380"
+    },
+    {
+      "name": "ingles",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/ingles/4819654"
+    },
+    {
+      "name": "Inmunologia",
+      "code": "1234",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/inmunologia/2634248"
+    },
+    {
+      "name": "INMUNOLOGÍA",
+      "code": "QBP081",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/inmunologia/3468247"
+    },
+    {
+      "name": "INMUNOLOGÍA I",
+      "code": "2804",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/inmunologia-i/3467997"
+    },
+    {
+      "name": "INMUNOLOGÍA II",
+      "code": "2901",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/inmunologia-ii/3468001"
+    },
+    {
+      "name": "INOCUIDAD ALIMENTARIA",
+      "code": "QBP104",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/inocuidad-alimentaria/3468262"
+    },
+    {
+      "name": "Instalaciones Electricas",
+      "code": "Ins.Electricas",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/instalaciones-electricas/3749661"
+    },
+    {
+      "name": "Instalaciones sanitarias",
+      "code": "fuentes",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/instalaciones-sanitarias/3738350"
+    },
+    {
+      "name": "INSTRUMENTOS Y TECNICAS DE EVALUACIÓN I",
+      "code": "33307",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/instrumentos-y-tecnicas-de-evaluacion-i/3468118"
+    },
+    {
+      "name": "INSTRUMENTOS Y TÉCNICAS DE EVALUACIÓN II",
+      "code": "33406",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/instrumentos-y-tecnicas-de-evaluacion-ii/3468124"
+    },
+    {
+      "name": "interculturalidad",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/interculturalidad/7115102"
+    },
+    {
+      "name": "INTERPRETACIÓN CLÍNICA",
+      "code": "2904",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/interpretacion-clinica/3468004"
+    },
+    {
+      "name": "INTERVECIONES PSICOLÓGICAS EN CRISIS Y EMERGENCIAS",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/interveciones-psicologicas-en-crisis-y-emergencias/3468315"
+    },
+    {
+      "name": "Intervencion en NEE",
+      "code": "Psicología",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/intervencion-en-nee/7326829"
+    },
+    {
+      "name": "INTERVENCIONES PSICOLÓGICAS EN ADICCIONES",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/intervenciones-psicologicas-en-adicciones/3468320"
+    },
+    {
+      "name": "INTERVENCIÓN EN MALTRATO Y VIOLENCIA",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/intervencion-en-maltrato-y-violencia/3468321"
+    },
+    {
+      "name": "INTERVENCIÓN EN PSICOLOGÍA INFANTIL Y PSICORREHABILITACIÓN",
+      "code": "33705",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/intervencion-en-psicologia-infantil-y-psicorrehabilitacion/3468143"
+    },
+    {
+      "name": "INTERVENCIÓN, PROMOCIÓN Y ESTIMULACIÓN DEL DESARROLLO INFANTIL I",
+      "code": "33502",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/intervencion-promocion-y-estimulacion-del-desarrollo-infantil-i/3468127"
+    },
+    {
+      "name": "INTERVENCIÓN, PROMOCIÓN Y ESTIMULACIÓN DEL DESARROLLO INFANTIL II",
+      "code": "33601",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/intervencion-promocion-y-estimulacion-del-desarrollo-infantil-ii/3468133"
+    },
+    {
+      "name": "INTRODUCCION A LA ECONOMIA",
+      "code": "13104",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/introduccion-a-la-economia/3468047"
+    },
+    {
+      "name": "Introduccion a la Mineria",
+      "code": "Minas3",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/introduccion-a-la-mineria/6731871"
+    },
+    {
+      "name": "introduccion al arte",
+      "code": "artes plásticas II",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/introduccion-al-arte/4762738"
+    },
+    {
+      "name": "Introducción  a la Ciencia Política",
+      "code": "Ciencias Políticas",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/introduccion-a-la-ciencia-politica/5360248"
+    },
+    {
+      "name": "introducción a la agronomía",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/introduccion-a-la-agronomia/7596670"
+    },
+    {
+      "name": "Introducción a la Carrera",
+      "code": "PHCS-001",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/introduccion-a-la-carrera/4999852"
+    },
+    {
+      "name": "Introducción a la Carrerra",
+      "code": "PCEMF 002",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/introduccion-a-la-carrerra/5437326"
+    },
+    {
+      "name": "Introducción a la Ciencia Política",
+      "code": "Ciencias Políticas",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/introduccion-a-la-ciencia-politica/5360255"
+    },
+    {
+      "name": "Introducción a la Ciencia y a la filosofía",
+      "code": "Ciencias Políticas",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/introduccion-a-la-ciencia-y-a-la-filosofia/5446747"
+    },
+    {
+      "name": "INTRODUCCIÓN A LA DISCAPACIDAD",
+      "code": "33306",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/introduccion-a-la-discapacidad/3468117"
+    },
+    {
+      "name": "Introducción al Derecho",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/introduccion-al-derecho/3468364"
+    },
+    {
+      "name": "Inversión Tecnológica",
+      "code": "AE2-1",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/inversion-tecnologica/5015375"
+    },
+    {
+      "name": "INVESTIGACIàN DE OPERACIONES",
+      "code": "52404",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/investigacian-de-operaciones/3468072"
+    },
+    {
+      "name": "Investigación",
+      "code": "1206",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/investigacion/3468022"
+    },
+    {
+      "name": "INVESTIGACIÓN EN PSICOLOGÍA INFANTIL",
+      "code": "33802",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/investigacion-en-psicologia-infantil/3468146"
+    },
+    {
+      "name": "Investigación II",
+      "code": "1306",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/investigacion-ii/3468023"
+    },
+    {
+      "name": "Investigación Social",
+      "code": "Investigación Acción",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/investigacion-social/6934958"
+    },
+    {
+      "name": "Italiano",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/italiano/4578244"
+    },
+    {
+      "name": "Kinesiología",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/kinesiologia/4929575"
+    },
+    {
+      "name": "Labobratorio Integrador 1",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/labobratorio-integrador-1/5386380"
+    },
+    {
+      "name": "Laboratorio de física",
+      "code": "2003",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/laboratorio-de-fisica/6030482"
+    },
+    {
+      "name": "Lecto escritura.",
+      "code": "Ciencias Políticas.",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/lecto-escritura/5364091"
+    },
+    {
+      "name": "LEGISLACION ECONàMICA Y FINANCIERA",
+      "code": "62402",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/legislacion-econamica-y-financiera/3468078"
+    },
+    {
+      "name": "LEGISLACIàN Y PRµCTICA TRIBUTARIA",
+      "code": "52407",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/legislacian-y-pructica-tributaria/3468075"
+    },
+    {
+      "name": "LEGISLACIÓN",
+      "code": "QBP103",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/legislacion/3468261"
+    },
+    {
+      "name": "LEGISLACIÓN",
+      "code": "2905",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/legislacion/3468005"
+    },
+    {
+      "name": "Legislación Ambiental",
+      "code": "1604",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/legislacion-ambiental/3468012"
+    },
+    {
+      "name": "Legislación del Ecuador",
+      "code": "Legislación EC",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/legislacion-del-ecuador/5179689"
+    },
+    {
+      "name": "Legislación Laboral",
+      "code": "LELA001",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/legislacion-laboral/7403216"
+    },
+    {
+      "name": "Legislación Minera",
+      "code": "Legislación Minera, Minería",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/legislacion-minera/3766146"
+    },
+    {
+      "name": "Legislación Social I",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/legislacion-social-i/3468369"
+    },
+    {
+      "name": "Legislación Social II",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/legislacion-social-ii/3468375"
+    },
+    {
+      "name": "Lengua y Literatura",
+      "code": "1234",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/lengua-y-literatura/7646318"
+    },
+    {
+      "name": "Lengua y Literatura",
+      "code": "LL2056",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/lengua-y-literatura/7517820"
+    },
+    {
+      "name": "Lengua y Literatura",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/lengua-y-literatura/6625031"
+    },
+    {
+      "name": "LENGUAJE Y COMUNICACION",
+      "code": "12201",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/lenguaje-y-comunicacion/3468045"
+    },
+    {
+      "name": "Lenguaje y comunicación científica",
+      "code": "Biología",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/lenguaje-y-comunicacion-cientifica/3737077"
+    },
+    {
+      "name": "Lenguajes Documentales",
+      "code": "ING IC-001",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/lenguajes-documentales/6739093"
+    },
+    {
+      "name": "Lenguajes y Compiladores",
+      "code": "FICFM-Ingeniería Informática",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/lenguajes-y-compiladores/3813781"
+    },
+    {
+      "name": "Ley Orgánica de Contratación Pública",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/ley-organica-de-contratacion-publica/3468406"
+    },
+    {
+      "name": "Leyes Ecuatorianas",
+      "code": "2022",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/leyes-ecuatorianas/5858851"
+    },
+    {
+      "name": "Limnología",
+      "code": "1703",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/limnologia/3468043"
+    },
+    {
+      "name": "linguistica textual",
+      "code": "comunicacion social",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/linguistica-textual/3766449"
+    },
+    {
+      "name": "Literatura ecuatoriana",
+      "code": "realismo social",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/literatura-ecuatoriana/3739506"
+    },
+    {
+      "name": "Literatura universal",
+      "code": "simbolismo",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/literatura-universal/3247842"
+    },
+    {
+      "name": "Logística Internacional",
+      "code": "Ingeniería",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/logistica-internacional/5126826"
+    },
+    {
+      "name": "Lógica y Dialéctica Jurídica",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/logica-y-dialectica-juridica/3468367"
+    },
+    {
+      "name": "MACROECONOMIA",
+      "code": "23103",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/macroeconomia/3468053"
+    },
+    {
+      "name": "Manejo de Conflictos",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/manejo-de-conflictos/3468360"
+    },
+    {
+      "name": "Manejo Integrado de plagas",
+      "code": "Entomología",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/manejo-integrado-de-plagas/6031242"
+    },
+    {
+      "name": "Maquinaria Minera",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/maquinaria-minera/4712627"
+    },
+    {
+      "name": "Marketing",
+      "code": "mk.MarketingII",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/marketing/4393110"
+    },
+    {
+      "name": "Masoterapia",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/masoterapia/7355160"
+    },
+    {
+      "name": "mate nivelacion",
+      "code": "mate1",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/mate-nivelacion/5469372"
+    },
+    {
+      "name": "matematica actuarial",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/matematica-actuarial/4415165"
+    },
+    {
+      "name": "MATEMATICAS BASICAS",
+      "code": "12203",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/matematicas-basicas/3468046"
+    },
+    {
+      "name": "Matemtaicas",
+      "code": "23456",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/matemtaicas/5176033"
+    },
+    {
+      "name": "Matemática",
+      "code": "Básica",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/matematica/7460452"
+    },
+    {
+      "name": "MATEMÁTICA BÁSICA PARA CIENCIAS ECONÓMICAS",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/matematica-basica-para-ciencias-economicas/3468264"
+    },
+    {
+      "name": "Matemática Financiera",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/matematica-financiera/4594712"
+    },
+    {
+      "name": "Matemáticas",
+      "code": "6",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/matematicas/3311414"
+    },
+    {
+      "name": "Matemáticas Nivelación",
+      "code": "Mate",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/matematicas-nivelacion/6989343"
+    },
+    {
+      "name": "matemáticas superior",
+      "code": "matemáticas1",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/matematicas-superior/6756152"
+    },
+    {
+      "name": "MBA proyect",
+      "code": "a1",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/mba-proyect/6616624"
+    },
+    {
+      "name": "mecanica de fluidos",
+      "code": "mecanicafluidos1",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/mecanica-de-fluidos/5397068"
+    },
+    {
+      "name": "mecanica de fluidos",
+      "code": "fluidos1",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/mecanica-de-fluidos/5000125"
+    },
+    {
+      "name": "Mecanica de suelos",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/mecanica-de-suelos/4449705"
+    },
+    {
+      "name": "mecanica de suelos 3",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/mecanica-de-suelos-3/4496458"
+    },
+    {
+      "name": "Mecánica de Rocas",
+      "code": "Rocas1",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/mecanica-de-rocas/4486769"
+    },
+    {
+      "name": "Mecánica de suelos",
+      "code": "Suelos",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/mecanica-de-suelos/4446691"
+    },
+    {
+      "name": "Mediación y Arbitraje",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/mediacion-y-arbitraje/3468408"
+    },
+    {
+      "name": "Medicina",
+      "code": "t-o",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/medicina/2505612"
+    },
+    {
+      "name": "Medicina Familiar",
+      "code": "Medicina Comunitaria",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/medicina-familiar/6753682"
+    },
+    {
+      "name": "Medicina interna",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/medicina-interna/7000840"
+    },
+    {
+      "name": "Medicina Legal",
+      "code": "Medicina, Derecho",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/medicina-legal/6178089"
+    },
+    {
+      "name": "Medicina Tropical",
+      "code": "603",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/medicina-tropical/3749908"
+    },
+    {
+      "name": "MERCADO DE DINERO Y CAPITALES",
+      "code": "82703",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/mercado-de-dinero-y-capitales/3468092"
+    },
+    {
+      "name": "Metalmecanica",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/metalmecanica/7382627"
+    },
+    {
+      "name": "METODO Y TECNICAS DE INVESTIGACION",
+      "code": "13302",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/metodo-y-tecnicas-de-investigacion/3468050"
+    },
+    {
+      "name": "METODOLOGIA DE LA INVESTIGACION",
+      "code": "11206",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/metodologia-de-la-investigacion/3468161"
+    },
+    {
+      "name": "METODOLOGÍA DE INVESTIGACIÓN",
+      "code": "2206",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/metodologia-de-investigacion/3467958"
+    },
+    {
+      "name": "METODOLOGÍA DE LA INVESTIGACIÓN",
+      "code": "QBP093",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/metodologia-de-la-investigacion/3468255"
+    },
+    {
+      "name": "METODOLOGÍA DE LA INVESTIGACIÓN",
+      "code": "33602",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/metodologia-de-la-investigacion/3468134"
+    },
+    {
+      "name": "Metodología de la Investigación en Ciencias Sociales",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/metodologia-de-la-investigacion-en-ciencias-sociales/5120823"
+    },
+    {
+      "name": "MICOLOGÍA Y VIROLOGÍA",
+      "code": "2802",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/micologia-y-virologia/3467995"
+    },
+    {
+      "name": "Microbiologia",
+      "code": "microbiologia",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/microbiologia/3172552"
+    },
+    {
+      "name": "MICROBIOLOGIA APLICADA",
+      "code": "QBP061",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/microbiologia-aplicada/3468235"
+    },
+    {
+      "name": "MICROBIOLOGIA GENERAL",
+      "code": "QBP051",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/microbiologia-general/3468228"
+    },
+    {
+      "name": "Microbiología Ambiental",
+      "code": "1503",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/microbiologia-ambiental/3468041"
+    },
+    {
+      "name": "MICROBIOLOGÍA CLÍNICA II",
+      "code": "2704",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/microbiologia-clinica-ii/3467990"
+    },
+    {
+      "name": "MICROBIOLOGÍA GENERAL",
+      "code": "2504",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/microbiologia-general/3467977"
+    },
+    {
+      "name": "MICROECONOMIA",
+      "code": "33102",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/microeconomia/3468058"
+    },
+    {
+      "name": "Mineralurgia",
+      "code": "Mineralurgia, Minerí",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/mineralurgia/3766150"
+    },
+    {
+      "name": "Minería de Datos",
+      "code": "MDD9",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/mineria-de-datos/6671783"
+    },
+    {
+      "name": "Modelización y software minero",
+      "code": "Software aplicado",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/modelizacion-y-software-minero/3737649"
+    },
+    {
+      "name": "MODELOS DE SIMULACIàN FINANCIERA",
+      "code": "72706",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/modelos-de-simulacian-financiera/3468090"
+    },
+    {
+      "name": "Modelos Estocásticos",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/modelos-estocasticos/3765890"
+    },
+    {
+      "name": "Modelos y Técnicas",
+      "code": "Psicología",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/modelos-y-tecnicas/6951544"
+    },
+    {
+      "name": "Morfofunción",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/morfofuncion/4462839"
+    },
+    {
+      "name": "Morfología dental",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/morfologia-dental/7631090"
+    },
+    {
+      "name": "Motivación y Afectividad",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/motivacion-y-afectividad/6213374"
+    },
+    {
+      "name": "Motores",
+      "code": "Electromecánico",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/motores/7236094"
+    },
+    {
+      "name": "Métodos Multidimensionales",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/metodos-multidimensionales/3765889"
+    },
+    {
+      "name": "MÉTODOS Y TÉCNICAS DE INVESTIGACIÓN CIENTÍFICA",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/metodos-y-tecnicas-de-investigacion-cientifica/3468266"
+    },
+    {
+      "name": "Música",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/musica/7026953"
+    },
+    {
+      "name": "Nee y Pedagogia",
+      "code": "nee1234*",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/nee-y-pedagogia/6182785"
+    },
+    {
+      "name": "Nee y Pedagogia 2",
+      "code": "nee1234*",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/nee-y-pedagogia-2/6182786"
+    },
+    {
+      "name": "Nefrologia",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/nefrologia/6200215"
+    },
+    {
+      "name": "Neonatología",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/neonatologia/5311118"
+    },
+    {
+      "name": "Neumología",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/neumologia/5836102"
+    },
+    {
+      "name": "Neuroanatomia I",
+      "code": "106",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/neuroanatomia-i/3738351"
+    },
+    {
+      "name": "NEUROANATOMÍA Y NEUROFISIOLOGÍA I",
+      "code": "33103",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/neuroanatomia-y-neurofisiologia-i/3468097"
+    },
+    {
+      "name": "Neuroanatomía y Neurofisiología II",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/neuroanatomia-y-neurofisiologia-ii/3468332"
+    },
+    {
+      "name": "NEUROANATOMÍA Y NEUROFISIOLOGÍA  II",
+      "code": "33205",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/neuroanatomia-y-neurofisiologia-ii/3468107"
+    },
+    {
+      "name": "NEUROANATOMÍA Y NUEROFISIOLOGÍA III",
+      "code": "33304",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/neuroanatomia-y-nuerofisiologia-iii/3468115"
+    },
+    {
+      "name": "Neurobiologia",
+      "code": "Neuro1",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/neurobiologia/4449445"
+    },
+    {
+      "name": "Neurologia",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/neurologia/4386428"
+    },
+    {
+      "name": "Neuropedagogía",
+      "code": "Psicopedagogía",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/neuropedagogia/6359956"
+    },
+    {
+      "name": "NEUROPSICOLOGÍA CLÍNICA",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/neuropsicologia-clinica/3468318"
+    },
+    {
+      "name": "NEUROPSICOLOGÍA DEL DESARROLLO I",
+      "code": "33401",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/neuropsicologia-del-desarrollo-i/3468119"
+    },
+    {
+      "name": "NEUROPSICOLOGÍA DEL DESARROLLO II",
+      "code": "33503",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/neuropsicologia-del-desarrollo-ii/3468128"
+    },
+    {
+      "name": "nivelacion",
+      "code": "EPU1",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/nivelacion/5291513"
+    },
+    {
+      "name": "Nivelación Ingeniería Química",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/nivelacion-ingenieria-quimica/6033158"
+    },
+    {
+      "name": "Nivelación Sociedad y cultura",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/nivelacion-sociedad-y-cultura/5871816"
+    },
+    {
+      "name": "Norma Ecuatoriana de la Construcción",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/norma-ecuatoriana-de-la-construccion/5034024"
+    },
+    {
+      "name": "Normas APA",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/normas-apa/5988658"
+    },
+    {
+      "name": "Normatividad",
+      "code": "CA-002",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/normatividad/5286322"
+    },
+    {
+      "name": "NUTRICIÓN",
+      "code": "QBP096",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/nutricion/3468258"
+    },
+    {
+      "name": "Nutrición de plantas y fertilización de suelos",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/nutricion-de-plantas-y-fertilizacion-de-suelos/5151330"
+    },
+    {
+      "name": "Obras Civiles",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/obras-civiles/7005194"
+    },
+    {
+      "name": "Oclusión",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/oclusion/3784997"
+    },
+    {
+      "name": "octavo",
+      "code": "Oct23",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/octavo/5903759"
+    },
+    {
+      "name": "Odontología",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/odontologia/3736306"
+    },
+    {
+      "name": "Oftalmología",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/oftalmologia/5411197"
+    },
+    {
+      "name": "Operaciones",
+      "code": "53211",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/operaciones/3191663"
+    },
+    {
+      "name": "OPERACIONES BASICAS DE LABORATORIO",
+      "code": "11104",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/operaciones-basicas-de-laboratorio/3468153"
+    },
+    {
+      "name": "OPERACIONES BÁSICAS",
+      "code": "2104",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/operaciones-basicas/3467949"
+    },
+    {
+      "name": "Operaciones Unitarias I",
+      "code": "FIQ-605",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/operaciones-unitarias-i/3738008"
+    },
+    {
+      "name": "Operaciones Unitarias II",
+      "code": "FIQ-705",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/operaciones-unitarias-ii/3738011"
+    },
+    {
+      "name": "OPTATIVA (DESARROLLO DE LA INTELIGENCIA EMOCIONAL )",
+      "code": "33407",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/optativa-desarrollo-de-la-inteligencia-emocional/3468125"
+    },
+    {
+      "name": "Optativa (Diseño de escombreras y relaveras)",
+      "code": "Optativa (Diseño de escombreras y relaveras), Minería",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/optativa-diseno-de-escombreras-y-relaveras/3766157"
+    },
+    {
+      "name": "OPTATIVA (Lengua de señas)",
+      "code": "33706",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/optativa-lengua-de-senas/3468144"
+    },
+    {
+      "name": "OPTATIVA (Ubicación laboral en Situación de Discapacidad)",
+      "code": "33507",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/optativa-ubicacion-laboral-en-situacion-de-discapacidad/3468132"
+    },
+    {
+      "name": "Optometria",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/optometria/7639945"
+    },
+    {
+      "name": "Organización de eventos",
+      "code": "Organización de eventos",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/organizacion-de-eventos/3944912"
+    },
+    {
+      "name": "ORL",
+      "code": "MEDICINA",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/orl/7760202"
+    },
+    {
+      "name": "Oscilaciones",
+      "code": "fisica",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/oscilaciones/6318654"
+    },
+    {
+      "name": "Pae Morfofunction Ii-Ap",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/pae-morfofunction-ii-ap/5930061"
+    },
+    {
+      "name": "PARASITOLOGIA",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/parasitologia/3283394"
+    },
+    {
+      "name": "PARASITOLOGÍA",
+      "code": "2306",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/parasitologia/3467965"
+    },
+    {
+      "name": "PARASITOLOGÍA",
+      "code": "QBB032",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/parasitologia/3468217"
+    },
+    {
+      "name": "PARASITOLOGÍA CLÍNICA",
+      "code": "2406",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/parasitologia-clinica/3467972"
+    },
+    {
+      "name": "Pastos y Forrajes",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/pastos-y-forrajes/7034789"
+    },
+    {
+      "name": "patologia general",
+      "code": "veterinaria",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/patologia-general/3796625"
+    },
+    {
+      "name": "Patología general y estomatológica",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/patologia-general-y-estomatologica/5796732"
+    },
+    {
+      "name": "Patología I",
+      "code": "Patología; Medicina",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/patologia-i/5832678"
+    },
+    {
+      "name": "Patología Obstétrica",
+      "code": "Patología I",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/patologia-obstetrica/6788486"
+    },
+    {
+      "name": "Patología Veterinaria",
+      "code": "4SEMESTRE",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/patologia-veterinaria/3759289"
+    },
+    {
+      "name": "Patología Veterinaria II",
+      "code": "MVZ",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/patologia-veterinaria-ii/3785159"
+    },
+    {
+      "name": "Patrimonios Culturales",
+      "code": "Patrimonios Culturales  I",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/patrimonios-culturales/3749871"
+    },
+    {
+      "name": "Pauqtes Contables",
+      "code": "PAQ001",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/pauqtes-contables/6863619"
+    },
+    {
+      "name": "Pavimentos",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/pavimentos/4633663"
+    },
+    {
+      "name": "pedagogia matemática y física",
+      "code": "241",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/pedagogia-matematica-y-fisica/5959612"
+    },
+    {
+      "name": "PEDIATRIA",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/pediatria/3236183"
+    },
+    {
+      "name": "Pensamiento economico",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/pensamiento-economico/3286550"
+    },
+    {
+      "name": "PENSAMIENTO ECONàMICO",
+      "code": "52502",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/pensamiento-econamico/3468076"
+    },
+    {
+      "name": "pensamiento latinoamericano",
+      "code": "comunicacion social",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/pensamiento-latinoamericano/3766451"
+    },
+    {
+      "name": "Perforación y voladura I",
+      "code": "Perforación y voladura",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/perforacion-y-voladura-i/3737647"
+    },
+    {
+      "name": "periodismo cultural",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/periodismo-cultural/3766452"
+    },
+    {
+      "name": "periodismo II",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/periodismo-ii/3766454"
+    },
+    {
+      "name": "Periodoncia",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/periodoncia/5408716"
+    },
+    {
+      "name": "PERITAJE PSICOLOGICO",
+      "code": "33805",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/peritaje-psicologico/3468149"
+    },
+    {
+      "name": "PERITAJE PSICOLÓGICO II",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/peritaje-psicologico-ii/3468322"
+    },
+    {
+      "name": "Petrografía",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/petrografia/4552859"
+    },
+    {
+      "name": "Petrología Sedimentaria",
+      "code": "Geología-Petrologia",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/petrologia-sedimentaria/4990108"
+    },
+    {
+      "name": "PLANEACION FINANCIERA",
+      "code": "52405",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/planeacion-financiera/3468073"
+    },
+    {
+      "name": "Planeamiento Curricular",
+      "code": "FMP04PCE02",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/planeamiento-curricular/7107012"
+    },
+    {
+      "name": "PLANES DE NEGOCIOS Y MERCADOTECNIA",
+      "code": "62404",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/planes-de-negocios-y-mercadotecnia/3468080"
+    },
+    {
+      "name": "PLANIFICACION ESTRATEGICA",
+      "code": "42303",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/planificacion-estrategica/3468067"
+    },
+    {
+      "name": "Planificación del desarrollo",
+      "code": "PD0197",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/planificacion-del-desarrollo/3247482"
+    },
+    {
+      "name": "Planificación Estratégica y Gestión del Talento Humano por Competencias",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/planificacion-estrategica-y-gestion-del-talento-humano-por-competencias/3468348"
+    },
+    {
+      "name": "Planificación inicial",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/planificacion-inicial/4473931"
+    },
+    {
+      "name": "Pliegos",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/pliegos/6888981"
+    },
+    {
+      "name": "Pluralismo jurídico",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/pluralismo-juridico/4447159"
+    },
+    {
+      "name": "POLITICA ECONOMICA 2016",
+      "code": "72601",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/politica-economica-2016/3468087"
+    },
+    {
+      "name": "Porcinos",
+      "code": "CERD2345",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/porcinos/4854345"
+    },
+    {
+      "name": "PRESUPUESTOS EMPRESARIALES",
+      "code": "52406",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/presupuestos-empresariales/3468074"
+    },
+    {
+      "name": "PRESUPUESTOS PéBLICOS",
+      "code": "62405",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/presupuestos-peblicos/3468081"
+    },
+    {
+      "name": "Primeros Auxlios",
+      "code": "Primeros Auxilios",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/primeros-auxlios/4911022"
+    },
+    {
+      "name": "Principios de Administración",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/principios-de-administracion/3468329"
+    },
+    {
+      "name": "Principios éticos de la salud",
+      "code": "Etica90",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/principios-eticos-de-la-salud/7059773"
+    },
+    {
+      "name": "Principios éticos de la salud",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/principios-eticos-de-la-salud/5494210"
+    },
+    {
+      "name": "Probabilidades",
+      "code": "FICFM-Ingeniería Inf",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/probabilidades/3813780"
+    },
+    {
+      "name": "Procedimientos básicos",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/procedimientos-basicos/7644822"
+    },
+    {
+      "name": "Procesos de Manufactura",
+      "code": "Manufactura",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/procesos-de-manufactura/6363414"
+    },
+    {
+      "name": "Producción animal",
+      "code": "Producción animal I",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/produccion-animal/3749596"
+    },
+    {
+      "name": "PRODUCTOS NATURALES",
+      "code": "QBP066",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/productos-naturales/3468240"
+    },
+    {
+      "name": "Programación",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/programacion/3281605"
+    },
+    {
+      "name": "Programación Concurrente y Paralela",
+      "code": "Computación",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/programacion-concurrente-y-paralela/7665876"
+    },
+    {
+      "name": "Programación I",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/programacion-i/6144776"
+    },
+    {
+      "name": "PROGRAMACIÓN NEUROLINGÜÍSTICA",
+      "code": "33403",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/programacion-neurolinguistica/3468121"
+    },
+    {
+      "name": "PROMOCIÓN Y FOMENTO DE LA SALUD",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/promocion-y-fomento-de-la-salud/3468323"
+    },
+    {
+      "name": "PROTECCIÓN INTEGRAL",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/proteccion-integral/3468312"
+    },
+    {
+      "name": "Protección Radiológica",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/proteccion-radiologica/4496993"
+    },
+    {
+      "name": "Protocolos de Comunicación",
+      "code": "FICFM-Ingeniería Informática",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/protocolos-de-comunicacion/3813775"
+    },
+    {
+      "name": "Proyección Curricular",
+      "code": "P.C.2022",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/proyeccion-curricular/5400279"
+    },
+    {
+      "name": "PROYECTO DE INVESTIGACION",
+      "code": "11906",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/proyecto-de-investigacion/3468203"
+    },
+    {
+      "name": "PROYECTO DE INVESTIGACIÓN",
+      "code": "2906",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/proyecto-de-investigacion/3468006"
+    },
+    {
+      "name": "Proyecto Integrador de Saberes",
+      "code": "FCQ-1",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/proyecto-integrador-de-saberes/3749779"
+    },
+    {
+      "name": "PROYECTOS DE INVERSIÓN PRODUCTIVA",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/proyectos-de-inversion-productiva/3468295"
+    },
+    {
+      "name": "Proyectos Mineros",
+      "code": "Proyectos Mineros, Minería",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/proyectos-mineros/3766158"
+    },
+    {
+      "name": "Práctica Constitucional",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/practica-constitucional/3468390"
+    },
+    {
+      "name": "Práctica Prerpofecional Docente",
+      "code": "filisofia",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/practica-prerpofecional-docente/5365578"
+    },
+    {
+      "name": "Psic. discapacidad",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/psic-discapacidad/7383664"
+    },
+    {
+      "name": "PSICODIAGNÓSTICO",
+      "code": "33506",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/psicodiagnostico/3468131"
+    },
+    {
+      "name": "PSICOLINGÚISTICA",
+      "code": "33207",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/psicolinguistica/3468109"
+    },
+    {
+      "name": "PSICOLOGIA DEL APRENDIZAJE",
+      "code": "33303",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/psicologia-del-aprendizaje/3468114"
+    },
+    {
+      "name": "psicologia del consumidor",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/psicologia-del-consumidor/3739323"
+    },
+    {
+      "name": "Psicologia infantil",
+      "code": "404",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/psicologia-infantil/3223673"
+    },
+    {
+      "name": "Psicología",
+      "code": "PS",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/psicologia/1713095"
+    },
+    {
+      "name": "PSICOLOGÍA CLÍNICA DE LA ADULTEZ",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/psicologia-clinica-de-la-adultez/3468314"
+    },
+    {
+      "name": "PSICOLOGÍA CLÍNICA DE LA NIÑEZ Y ADOLESCENCIA",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/psicologia-clinica-de-la-ninez-y-adolescencia/3468313"
+    },
+    {
+      "name": "PSICOLOGÍA DE LA PERSONALIDAD",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/psicologia-de-la-personalidad/3468310"
+    },
+    {
+      "name": "PSICOLOGÍA DEL DESARROLLO I",
+      "code": "33202",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/psicologia-del-desarrollo-i/3468104"
+    },
+    {
+      "name": "PSICOLOGÍA DEL DESARROLLO II",
+      "code": "33301",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/psicologia-del-desarrollo-ii/3468112"
+    },
+    {
+      "name": "PSICOLOGÍA GENERAL I",
+      "code": "33101",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/psicologia-general-i/3468095"
+    },
+    {
+      "name": "PSICOLOGÍA GENERAL II",
+      "code": "33201",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/psicologia-general-ii/3468103"
+    },
+    {
+      "name": "Psicología Juridica y Psiquiatría Forense",
+      "code": "Psicología Juridica",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/psicologia-juridica-y-psiquiatria-forense/3735972"
+    },
+    {
+      "name": "Psicología Organizacional",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/psicologia-organizacional/3737081"
+    },
+    {
+      "name": "Psicología Organizacional II",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/psicologia-organizacional-ii/3737835"
+    },
+    {
+      "name": "PSICOLOGÍA SOCIAL I",
+      "code": "33203",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/psicologia-social-i/3468105"
+    },
+    {
+      "name": "PSICOLOGÍA SOCIAL II",
+      "code": "33302",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/psicologia-social-ii/3468113"
+    },
+    {
+      "name": "PSICOPATOLOGÍA I",
+      "code": "33305",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/psicopatologia-i/3468116"
+    },
+    {
+      "name": "PSICOPATOLOGÍA II",
+      "code": "33404",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/psicopatologia-ii/3468122"
+    },
+    {
+      "name": "Psicopedagogia",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/psicopedagogia/6609638"
+    },
+    {
+      "name": "Psicopedagogía",
+      "code": "CU3S",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/psicopedagogia/4352857"
+    },
+    {
+      "name": "PSICORREHABILITACIÓN EN SITUACIÓN DE DISCAPACIDAD EN LENGUAJE Y COMUNICACIÓN",
+      "code": "33605",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/psicorrehabilitacion-en-situacion-de-discapacidad-en-lenguaje-y-comunicacion/3468137"
+    },
+    {
+      "name": "PSICORREHABILITACIÓN EN SITUACIÓN DE DISCAPACIDAD FÍSICA, PSICOMOTORA Y SENSORIAL",
+      "code": "33405",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/psicorrehabilitacion-en-situacion-de-discapacidad-fisica-psicomotora-y-sensorial/3468123"
+    },
+    {
+      "name": "PSICORREHABILITACIÓN EN SITUACIÓN DE DISCAPACIDAD INTELECTUAL",
+      "code": "33505",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/psicorrehabilitacion-en-situacion-de-discapacidad-intelectual/3468130"
+    },
+    {
+      "name": "PSICORREHABILITACIÓN EN SITUACIÓN DE NECESIDADES EDUCATIVAS ESPECIALES",
+      "code": "33703",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/psicorrehabilitacion-en-situacion-de-necesidades-educativas-especiales/3468141"
+    },
+    {
+      "name": "PSICORREHABILITACIÓN PARA PERSONAS CON NECESIDADES EDUCATIVAS DEL COMPORTAMIENTO SOCIAL",
+      "code": "33804",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/psicorrehabilitacion-para-personas-con-necesidades-educativas-del-comportamiento-social/3468148"
+    },
+    {
+      "name": "PSICOTERAPIA EN ENFERMEDADES MÉDICAS",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/psicoterapia-en-enfermedades-medicas/3468326"
+    },
+    {
+      "name": "Psicoterapia Existencial",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/psicoterapia-existencial/6513453"
+    },
+    {
+      "name": "PSICOTERAPIA I",
+      "code": "33606",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/psicoterapia-i/3468138"
+    },
+    {
+      "name": "PSICOTERAPIA II",
+      "code": "33704",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/psicoterapia-ii/3468142"
+    },
+    {
+      "name": "Psiquiatría",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/psiquiatria/6462932"
+    },
+    {
+      "name": "Quimica",
+      "code": "353348987",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/quimica/5002451"
+    },
+    {
+      "name": "quimica",
+      "code": "DOAI3TRSALCEDO",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/quimica/7396276"
+    },
+    {
+      "name": "Quimica",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/quimica/2917720"
+    },
+    {
+      "name": "QUIMICA AGRICOLA",
+      "code": "11903",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/quimica-agricola/3468200"
+    },
+    {
+      "name": "Quimica Ambiental I",
+      "code": "1602",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/quimica-ambiental-i/3468033"
+    },
+    {
+      "name": "QUIMICA AMBIENTAL I",
+      "code": "11806",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/quimica-ambiental-i/3468197"
+    },
+    {
+      "name": "Quimica Ambiental II",
+      "code": "1702",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/quimica-ambiental-ii/3468034"
+    },
+    {
+      "name": "QUIMICA AMBIENTAL II",
+      "code": "11901",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/quimica-ambiental-ii/3468198"
+    },
+    {
+      "name": "QUIMICA ANALITICA CUALITATIVA",
+      "code": "11305",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/quimica-analitica-cualitativa/3468166"
+    },
+    {
+      "name": "QUIMICA ANALITICA CUALITATIVA",
+      "code": "2304",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/quimica-analitica-cualitativa/3467963"
+    },
+    {
+      "name": "QUIMICA ANALITICA CUANTITATIVA I",
+      "code": "2404",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/quimica-analitica-cuantitativa-i/3467970"
+    },
+    {
+      "name": "QUIMICA ANALITICA CUANTITATIVA I",
+      "code": "11405",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/quimica-analitica-cuantitativa-i/3468172"
+    },
+    {
+      "name": "QUIMICA ANALITICA CUANTITATIVA II",
+      "code": "11504",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/quimica-analitica-cuantitativa-ii/3468177"
+    },
+    {
+      "name": "QUIMICA ANALITICA CUANTITATIVA II",
+      "code": "2501",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/quimica-analitica-cuantitativa-ii/3467974"
+    },
+    {
+      "name": "QUIMICA ANALITICA I",
+      "code": "QBB034",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/quimica-analitica-i/3468219"
+    },
+    {
+      "name": "QUIMICA ANALITICA II",
+      "code": "QBP044",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/quimica-analitica-ii/3468225"
+    },
+    {
+      "name": "QUIMICA ANALITICA INSTRUMENTAL I",
+      "code": "QBP054",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/quimica-analitica-instrumental-i/3468231"
+    },
+    {
+      "name": "QUIMICA ANALITICA INSTRUMENTAL I",
+      "code": "11606",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/quimica-analitica-instrumental-i/3468185"
+    },
+    {
+      "name": "QUIMICA ANALITICA INSTRUMENTAL II",
+      "code": "QBP064",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/quimica-analitica-instrumental-ii/3468238"
+    },
+    {
+      "name": "QUIMICA ANALITICA INSTRUMENTAL III",
+      "code": "11801",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/quimica-analitica-instrumental-iii/3468192"
+    },
+    {
+      "name": "quimica de alimentos",
+      "code": "Bioquimica",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/quimica-de-alimentos/5268603"
+    },
+    {
+      "name": "QUIMICA DE COLOIDES",
+      "code": "11803",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/quimica-de-coloides/3468194"
+    },
+    {
+      "name": "QUIMICA DE COORDINACION",
+      "code": "11501",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/quimica-de-coordinacion/3468174"
+    },
+    {
+      "name": "QUIMICA DE LOS POLIMEROS",
+      "code": "11802",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/quimica-de-los-polimeros/3468193"
+    },
+    {
+      "name": "QUIMICA DE NUEVOS MATERIALES",
+      "code": "11804",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/quimica-de-nuevos-materiales/3468195"
+    },
+    {
+      "name": "QUIMICA DE PETROLEOS",
+      "code": "11702",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/quimica-de-petroleos/3468187"
+    },
+    {
+      "name": "QUIMICA DE PRODUCTOS NATURALES",
+      "code": "11706",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/quimica-de-productos-naturales/3468191"
+    },
+    {
+      "name": "QUIMICA DEL ESTADO SOLIDO",
+      "code": "11602",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/quimica-del-estado-solido/3468181"
+    },
+    {
+      "name": "Quimica General 1 Ingeniería Química",
+      "code": "QMG1",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/quimica-general-1-ingenieria-quimica/6385248"
+    },
+    {
+      "name": "QUIMICA GENERAL I",
+      "code": "2103",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/quimica-general-i/3467948"
+    },
+    {
+      "name": "QUIMICA GENERAL I",
+      "code": "11103",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/quimica-general-i/3468152"
+    },
+    {
+      "name": "QUIMICA GENERAL I",
+      "code": "QBB013",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/quimica-general-i/3468206"
+    },
+    {
+      "name": "QUIMICA GENERAL II",
+      "code": "11203",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/quimica-general-ii/3468158"
+    },
+    {
+      "name": "QUIMICA GENERAL II",
+      "code": "2203",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/quimica-general-ii/3467955"
+    },
+    {
+      "name": "QUIMICA GENERAL II",
+      "code": "QBB023",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/quimica-general-ii/3468212"
+    },
+    {
+      "name": "QUIMICA INORGANICA I",
+      "code": "11303",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/quimica-inorganica-i/3468164"
+    },
+    {
+      "name": "QUIMICA INORGANICA I",
+      "code": "QBB036",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/quimica-inorganica-i/3468221"
+    },
+    {
+      "name": "QUIMICA INORGANICA II",
+      "code": "11403",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/quimica-inorganica-ii/3468170"
+    },
+    {
+      "name": "QUIMICA INORGANICA INDUSTRIAL",
+      "code": "11904",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/quimica-inorganica-industrial/3468201"
+    },
+    {
+      "name": "QUIMICA METALURGICA",
+      "code": "11701",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/quimica-metalurgica/3468186"
+    },
+    {
+      "name": "QUIMICA ORGANICA I",
+      "code": "11304",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/quimica-organica-i/3468165"
+    },
+    {
+      "name": "QUIMICA ORGANICA I",
+      "code": "2303",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/quimica-organica-i/3467962"
+    },
+    {
+      "name": "QUIMICA ORGANICA I",
+      "code": "QBB035",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/quimica-organica-i/3468220"
+    },
+    {
+      "name": "QUIMICA ORGANICA II",
+      "code": "11404",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/quimica-organica-ii/3468171"
+    },
+    {
+      "name": "QUIMICA ORGANICA II",
+      "code": "QBP045",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/quimica-organica-ii/3468226"
+    },
+    {
+      "name": "QUIMICA ORGANICA III",
+      "code": "11505",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/quimica-organica-iii/3468178"
+    },
+    {
+      "name": "QUIMICA ORGANICA INDUSTRIAL",
+      "code": "11902",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/quimica-organica-industrial/3468199"
+    },
+    {
+      "name": "QUIMICA ORGANOMETALICA",
+      "code": "11604",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/quimica-organometalica/3468183"
+    },
+    {
+      "name": "Quimica Orgánica 1 Ingenieria Quimica",
+      "code": "QUIMICAORGANICA1",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/quimica-organica-1-ingenieria-quimica/6215010"
+    },
+    {
+      "name": "Quimiometría",
+      "code": "Química",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/quimiometria/5033526"
+    },
+    {
+      "name": "Química",
+      "code": "QUIMICA",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/quimica/5970323"
+    },
+    {
+      "name": "QUÍMICA AMBIENTAL",
+      "code": "2702",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/quimica-ambiental/3467988"
+    },
+    {
+      "name": "QUÍMICA FARMACEUTICA I",
+      "code": "QBP073",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/quimica-farmaceutica-i/3468243"
+    },
+    {
+      "name": "QUÍMICA FARMACEUTICA II",
+      "code": "QBP083",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/quimica-farmaceutica-ii/3468249"
+    },
+    {
+      "name": "Química inorgánica",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/quimica-inorganica/6617419"
+    },
+    {
+      "name": "Química Inorgánica",
+      "code": "1102",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/quimica-inorganica/3468028"
+    },
+    {
+      "name": "QUÍMICA INORGÁNICA I",
+      "code": "2302",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/quimica-inorganica-i/3467961"
+    },
+    {
+      "name": "QUÍMICA INORGÁNICA II",
+      "code": "2402",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/quimica-inorganica-ii/3467968"
+    },
+    {
+      "name": "QUÍMICA INSTRUMENTAL I",
+      "code": "2601",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/quimica-instrumental-i/3467981"
+    },
+    {
+      "name": "QUÍMICA INSTRUMENTAL II",
+      "code": "2701",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/quimica-instrumental-ii/3467987"
+    },
+    {
+      "name": "Química Orgánica",
+      "code": "1202",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/quimica-organica/3468029"
+    },
+    {
+      "name": "Química Orgánica II",
+      "code": "1302",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/quimica-organica-ii/3468030"
+    },
+    {
+      "name": "QUÍMICA ORGÁNICA II",
+      "code": "2403",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/quimica-organica-ii/3467969"
+    },
+    {
+      "name": "Razonamiento Lógico",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/razonamiento-logico/6248541"
+    },
+    {
+      "name": "Realidad Nacional",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/realidad-nacional/7668445"
+    },
+    {
+      "name": "REALIDAD SOCIOECONOMICA CULTURA Y",
+      "code": "2407",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/realidad-socioeconomica-cultura-y/3467973"
+    },
+    {
+      "name": "REALIDAD SOCIOECONOMICA CULTURAL Y ECOLOGICA",
+      "code": "11406",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/realidad-socioeconomica-cultural-y-ecologica/3468173"
+    },
+    {
+      "name": "REALIDAD SOCIOECONOMICA Y CULTURAL",
+      "code": "QBB015",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/realidad-socioeconomica-y-cultural/3468208"
+    },
+    {
+      "name": "RECREACIÓN INFANTIL Y DINÁMICAS",
+      "code": "33107",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/recreacion-infantil-y-dinamicas/3468101"
+    },
+    {
+      "name": "Recursos Naturales",
+      "code": "1103",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/recursos-naturales/3468037"
+    },
+    {
+      "name": "Redes y Protocolos",
+      "code": "Redes 2024",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/redes-y-protocolos/7029862"
+    },
+    {
+      "name": "REGIMEN CONSTITUCIONAL",
+      "code": "52401",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/regimen-constitucional/3468071"
+    },
+    {
+      "name": "Registros eléctricos",
+      "code": "Perforacion",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/registros-electricos/6387366"
+    },
+    {
+      "name": "relaciones comunitarias",
+      "code": "minas1",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/relaciones-comunitarias/4727121"
+    },
+    {
+      "name": "Resistencia de Materiales",
+      "code": "Resistencia de Materiales, Minería",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/resistencia-de-materiales/3749629"
+    },
+    {
+      "name": "resonancia magnética",
+      "code": "Imagenología",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/resonancia-magnetica/7024873"
+    },
+    {
+      "name": "Reumatologia",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/reumatologia/5002821"
+    },
+    {
+      "name": "Riego y Drenaje",
+      "code": "Ingenieria Civil",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/riego-y-drenaje/6282897"
+    },
+    {
+      "name": "RIESGOS Y SEGUROS",
+      "code": "72402",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/riesgos-y-seguros/3468085"
+    },
+    {
+      "name": "Rotación de Pediatría",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/rotacion-de-pediatria/6567765"
+    },
+    {
+      "name": "Saberes ancestrales",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/saberes-ancestrales/7130890"
+    },
+    {
+      "name": "Salud Mental",
+      "code": "Medicina 3",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/salud-mental/7489505"
+    },
+    {
+      "name": "Salud Ocupacional I",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/salud-ocupacional-i/3468344"
+    },
+    {
+      "name": "SALUD PÚBLICA",
+      "code": "2706",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/salud-publica/3467992"
+    },
+    {
+      "name": "SALUD PÚBLICA Y SALUD MENTAL",
+      "code": "33801",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/salud-publica-y-salud-mental/3468145"
+    },
+    {
+      "name": "SALUD SEXUAL Y REPRODUCTIVA I",
+      "code": "33106",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/salud-sexual-y-reproductiva-i/3468100"
+    },
+    {
+      "name": "SALUD SEXUAL Y REPRODUCTIVA II",
+      "code": "33208",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/salud-sexual-y-reproductiva-ii/3468110"
+    },
+    {
+      "name": "Saneamiento",
+      "code": "Saneamiento-ing. civ",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/saneamiento/3765853"
+    },
+    {
+      "name": "Second High school",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/second-high-school/7465931"
+    },
+    {
+      "name": "sector anterior",
+      "code": "odontologia",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/sector-anterior/6983696"
+    },
+    {
+      "name": "Seguridad y Salud Ocupacional II",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/seguridad-y-salud-ocupacional-ii/3468356"
+    },
+    {
+      "name": "Seleccion de personal II",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/seleccion-de-personal-ii/3739526"
+    },
+    {
+      "name": "Selección de personal I",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/seleccion-de-personal-i/3737837"
+    },
+    {
+      "name": "Semiología",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/semiologia/5008642"
+    },
+    {
+      "name": "Semántica y Pragmática",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/semantica-y-pragmatica/5828496"
+    },
+    {
+      "name": "Semántica y Pragmática",
+      "code": "CPINE-I",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/semantica-y-pragmatica/5828547"
+    },
+    {
+      "name": "servicio rural",
+      "code": "Rural0",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/servicio-rural/6056280"
+    },
+    {
+      "name": "Simulación Procesos",
+      "code": "Simulación",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/simulacion-procesos/7734826"
+    },
+    {
+      "name": "SISTEMA FINANCIERO",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/sistema-financiero/3468281"
+    },
+    {
+      "name": "SISTEMA NACIONAL DESCENTRALIZADO P.I.N.N.A",
+      "code": "33803",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/sistema-nacional-descentralizado-pinna/3468147"
+    },
+    {
+      "name": "Sistemas constructivos",
+      "code": "Sistemas constructivos I",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/sistemas-constructivos/3736904"
+    },
+    {
+      "name": "Sistemas constructivos",
+      "code": "Madera",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/sistemas-constructivos/3736295"
+    },
+    {
+      "name": "Sistemas Constructivos IV (aceros)",
+      "code": "5510",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/sistemas-constructivos-iv-aceros/3738985"
+    },
+    {
+      "name": "SISTEMAS CONTEMPORANEOS DE LA PSICOLOGIA II",
+      "code": "33204",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/sistemas-contemporaneos-de-la-psicologia-ii/3468106"
+    },
+    {
+      "name": "SISTEMAS CONTEMPORÁNEOS DE LA PSICOLOGÍA I",
+      "code": "33102",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/sistemas-contemporaneos-de-la-psicologia-i/3468096"
+    },
+    {
+      "name": "Sistemas Contemporáneos I",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/sistemas-contemporaneos-i/3468334"
+    },
+    {
+      "name": "SISTEMAS DE INFORMACION",
+      "code": "33205",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/sistemas-de-informacion/3468061"
+    },
+    {
+      "name": "SISTEMAS DE INFORMACION ESTRATEGICOS",
+      "code": "42205",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/sistemas-de-informacion-estrategicos/3468066"
+    },
+    {
+      "name": "Sistemas de Información Geográficos",
+      "code": "43308",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/sistemas-de-informacion-geograficos/3765881"
+    },
+    {
+      "name": "Sistemas Ecológicos",
+      "code": "1504",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/sistemas-ecologicos/3468011"
+    },
+    {
+      "name": "SISTEMAS FINANCIEROS",
+      "code": "42307",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/sistemas-financieros/3468070"
+    },
+    {
+      "name": "Sistemas Operativos",
+      "code": "Sistemas Operativos 1",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/sistemas-operativos/3749864"
+    },
+    {
+      "name": "Sistematizacion",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/sistematizacion/4956020"
+    },
+    {
+      "name": "sistemática no vasculares",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/sistematica-no-vasculares/5881947"
+    },
+    {
+      "name": "SISTESIS ORGANICA",
+      "code": "11703",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/sistesis-organica/3468188"
+    },
+    {
+      "name": "Sociologia patente",
+      "code": "as225",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/sociologia-patente/5350417"
+    },
+    {
+      "name": "Sociology",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/sociology/6628506"
+    },
+    {
+      "name": "SOCIOLOGÍA ECONÓMICA",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/sociologia-economica/3468288"
+    },
+    {
+      "name": "Sociología y Derecho Político",
+      "code": "110",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/sociologia-y-derecho-politico/3192736"
+    },
+    {
+      "name": "soporte vital",
+      "code": "soporte vital medico",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/soporte-vital/5878654"
+    },
+    {
+      "name": "Taller de proyectos arquitectónicos",
+      "code": "Arquitectura",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/taller-de-proyectos-arquitectonicos/5827527"
+    },
+    {
+      "name": "Taller de Urbanos",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/taller-de-urbanos/7611819"
+    },
+    {
+      "name": "TALLERES DE CRECIMIENTO PERSONAL",
+      "code": "33209",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/talleres-de-crecimiento-personal/3468111"
+    },
+    {
+      "name": "TALLERES DE DESARROLLO Y CRECIMIENTO PERSONAL",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/talleres-de-desarrollo-y-crecimiento-personal/3468316"
+    },
+    {
+      "name": "Talleres De Desarrollo Y Crecimiento Personal I",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/talleres-de-desarrollo-y-crecimiento-personal-i/3468335"
+    },
+    {
+      "name": "Talleres de Desarrollo y Crecimiento Personal II",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/talleres-de-desarrollo-y-crecimiento-personal-ii/3468333"
+    },
+    {
+      "name": "tarea",
+      "code": "semestre 2021",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/tarea/5178643"
+    },
+    {
+      "name": "Teaching culture",
+      "code": "101",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/teaching-culture/6660479"
+    },
+    {
+      "name": "TECNICAS DE ESTUDIO",
+      "code": "11106",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/tecnicas-de-estudio/3468155"
+    },
+    {
+      "name": "TECNICAS_DE_NEGOCIACION",
+      "code": "72704",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/tecnicas-de-negociacion/3468088"
+    },
+    {
+      "name": "TECNOLOGÍA FARMACEUTICA I",
+      "code": "QBP084",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/tecnologia-farmaceutica-i/3468250"
+    },
+    {
+      "name": "TECNOLOGÍA FARMACEUTICA II",
+      "code": "QBP095",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/tecnologia-farmaceutica-ii/3468257"
+    },
+    {
+      "name": "TECNOLOGÍAS DIGITALES AL SERVICIO DE LA PSICOLOGÍA",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/tecnologias-digitales-al-servicio-de-la-psicologia/3468325"
+    },
+    {
+      "name": "Teología",
+      "code": "T1111",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/teologia/7393772"
+    },
+    {
+      "name": "Teoria Arquitectónica y Urbana IV",
+      "code": "6612",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/teoria-arquitectonica-y-urbana-iv/3738374"
+    },
+    {
+      "name": "teoria de la imagen",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/teoria-de-la-imagen/3766455"
+    },
+    {
+      "name": "teorias de la comunicacion II",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/teorias-de-la-comunicacion-ii/3766456"
+    },
+    {
+      "name": "Teoría de Antenas",
+      "code": "ET501",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/teoria-de-antenas/6491220"
+    },
+    {
+      "name": "Teoría de la argumentación",
+      "code": "Economia",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/teoria-de-la-argumentacion/6399434"
+    },
+    {
+      "name": "Teoría de la educación",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/teoria-de-la-educacion/6966807"
+    },
+    {
+      "name": "Teoría de las restricciones",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/teoria-de-las-restricciones/5865685"
+    },
+    {
+      "name": "Teoría del turismo",
+      "code": "Turismo",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/teoria-del-turismo/3739190"
+    },
+    {
+      "name": "TEORÍA ECONÓMICA DE LAS DECISIONES",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/teoria-economica-de-las-decisiones/3468290"
+    },
+    {
+      "name": "TEORÍA ECONÓMICA NEOKEYNESIANA",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/teoria-economica-neokeynesiana/3468284"
+    },
+    {
+      "name": "TEORÍA ECONÓMICA PARA EL DESARROLLO",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/teoria-economica-para-el-desarrollo/3468285"
+    },
+    {
+      "name": "Teoría general del Estado",
+      "code": "TGE",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/teoria-general-del-estado/7680608"
+    },
+    {
+      "name": "Teoría y Crítica de la Arquitectura II",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/teoria-y-critica-de-la-arquitectura-ii/7613054"
+    },
+    {
+      "name": "TEORÍA Y POLÍTICA FISCAL",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/teoria-y-politica-fiscal/3468291"
+    },
+    {
+      "name": "Teorías Feministas",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/teorias-feministas/7324317"
+    },
+    {
+      "name": "Teorías Motivacionales I",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/teorias-motivacionales-i/3468328"
+    },
+    {
+      "name": "Teorías Motivacionales II",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/teorias-motivacionales-ii/3468342"
+    },
+    {
+      "name": "terapia miofuncional",
+      "code": "miofunción",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/terapia-miofuncional/7487534"
+    },
+    {
+      "name": "Terapia Ocupacional",
+      "code": "Salud",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/terapia-ocupacional/6335541"
+    },
+    {
+      "name": "Tercer generación",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/tercer-generacion/7317639"
+    },
+    {
+      "name": "Termodinamica",
+      "code": "111",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/termodinamica/1581874"
+    },
+    {
+      "name": "TICS 1",
+      "code": "13206",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/tics-1/3468049"
+    },
+    {
+      "name": "TICS 2",
+      "code": "23205",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/tics-2/3468057"
+    },
+    {
+      "name": "Tomografía Axial Computarizada",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/tomografia-axial-computarizada/4744619"
+    },
+    {
+      "name": "Topografía",
+      "code": "Ingeniería Civil",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/topografia/3739288"
+    },
+    {
+      "name": "Topología",
+      "code": "S05-01",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/topologia/3059307"
+    },
+    {
+      "name": "TOXICOLOGIA",
+      "code": "QBP053",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/toxicologia/3468230"
+    },
+    {
+      "name": "TOXICOLOGÍA I",
+      "code": "2505",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/toxicologia-i/3467978"
+    },
+    {
+      "name": "TOXICOLOGÍA II",
+      "code": "2604",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/toxicologia-ii/3467984"
+    },
+    {
+      "name": "trabajo grupal operativa",
+      "code": "derecho",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/trabajo-grupal-operativa/5196569"
+    },
+    {
+      "name": "Trabajo Social",
+      "code": "TSI",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/trabajo-social/3553802"
+    },
+    {
+      "name": "Trastornos del Habla",
+      "code": "Fonoaudiología",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/trastornos-del-habla/5883386"
+    },
+    {
+      "name": "TRASTORNOS GENERALIZADOS DEL DESARROLLO",
+      "code": "33604",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/trastornos-generalizados-del-desarrollo/3468136"
+    },
+    {
+      "name": "Traumatologia",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/traumatologia/6654841"
+    },
+    {
+      "name": "Trigonometría",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/trigonometria/4614982"
+    },
+    {
+      "name": "Técnicas de autopsia",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/tecnicas-de-autopsia/3813904"
+    },
+    {
+      "name": "Técnicas de Diagnóstico I",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/tecnicas-de-diagnostico-i/3468345"
+    },
+    {
+      "name": "Técnicas de Diagnóstico II",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/tecnicas-de-diagnostico-ii/3468343"
+    },
+    {
+      "name": "TÉCNICAS DE ESTUDIO",
+      "code": "2107",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/tecnicas-de-estudio/3467952"
+    },
+    {
+      "name": "Técnicas de la Comunicación",
+      "code": "22133",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/tecnicas-de-la-comunicacion/3763980"
+    },
+    {
+      "name": "Títulos Valor",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/titulos-valor/3468401"
+    },
+    {
+      "name": "urbanismo",
+      "code": "302",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/urbanismo/5095003"
+    },
+    {
+      "name": "urologia",
+      "code": "105",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/urologia/5157183"
+    },
+    {
+      "name": "Variable compleja",
+      "code": "Matemáticas",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/variable-compleja/7602432"
+    },
+    {
+      "name": "Yacimientos Minerales",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/yacimientos-minerales/4820962"
+    },
+    {
+      "name": "Zoología I",
+      "code": "1105",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/zoologia-i/3468014"
+    },
+    {
+      "name": "Zoología II",
+      "code": "1205",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/zoologia-ii/3468015"
+    },
+    {
+      "name": "Zoología III",
+      "code": "1305",
+      "url": "https://www.studocu.com/ec/course/universidad-central-del-ecuador/zoologia-iii/3468016"
+    }
+  ]
+}

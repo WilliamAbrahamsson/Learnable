@@ -1,0 +1,521 @@
+{
+  "university_id": "3442",
+  "university_name": "Hochschule Mainz",
+  "courses": [
+    {
+      "name": "Allgemeine Betriebswirtschaftslehre",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-mainz/allgemeine-betriebswirtschaftslehre/5960253"
+    },
+    {
+      "name": "Arbeitssicherheit",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-mainz/arbeitssicherheit/5397054"
+    },
+    {
+      "name": "Ausgleichungsrechnung",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-mainz/ausgleichungsrechnung/4786143"
+    },
+    {
+      "name": "Bau- Und Umweltrecht",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-mainz/bau-und-umweltrecht/4786156"
+    },
+    {
+      "name": "Baubetriebswirtschaft",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-mainz/baubetriebswirtschaft/4786146"
+    },
+    {
+      "name": "Bauchemie",
+      "code": "Chem1",
+      "url": "https://www.studocu.com/de/course/hochschule-mainz/bauchemie/6749051"
+    },
+    {
+      "name": "Baukonstruktion",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-mainz/baukonstruktion/4786168"
+    },
+    {
+      "name": "Baukoordination",
+      "code": "BaBim5",
+      "url": "https://www.studocu.com/de/course/hochschule-mainz/baukoordination/4723221"
+    },
+    {
+      "name": "Bauphysik",
+      "code": "2303",
+      "url": "https://www.studocu.com/de/course/hochschule-mainz/bauphysik/3245822"
+    },
+    {
+      "name": "Baustatik 1",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-mainz/baustatik-1/4786158"
+    },
+    {
+      "name": "Baustatik 2",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-mainz/baustatik-2/4786151"
+    },
+    {
+      "name": "Baustoffkunde",
+      "code": "0000",
+      "url": "https://www.studocu.com/de/course/hochschule-mainz/baustoffkunde/2997258"
+    },
+    {
+      "name": "Betriebliche ALtersvorsorge",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-mainz/betriebliche-altersvorsorge/5714484"
+    },
+    {
+      "name": "BIS Web Analytics",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-mainz/bis-web-analytics/3239991"
+    },
+    {
+      "name": "Buchführung",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-mainz/buchfuhrung/4542252"
+    },
+    {
+      "name": "Business Law & Compliance",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-mainz/business-law-compliance/5920177"
+    },
+    {
+      "name": "Bwl + Projektmanagement",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-mainz/bwl-projektmanagement/4786183"
+    },
+    {
+      "name": "BWL Basic",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-mainz/bwl-basic/5919724"
+    },
+    {
+      "name": "Computer-Vision",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-mainz/computer-vision/4786167"
+    },
+    {
+      "name": "Cybersecurity",
+      "code": "A1CY1",
+      "url": "https://www.studocu.com/de/course/hochschule-mainz/cybersecurity/6904836"
+    },
+    {
+      "name": "Datenbanken 1 (für Angewandte Informatik)",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-mainz/datenbanken-1-fur-angewandte-informatik/6685187"
+    },
+    {
+      "name": "Deutschkurs",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-mainz/deutschkurs/4474183"
+    },
+    {
+      "name": "Digital Wirtschaft",
+      "code": "2405",
+      "url": "https://www.studocu.com/de/course/hochschule-mainz/digital-wirtschaft/6094546"
+    },
+    {
+      "name": "Digitale Methodik",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-mainz/digitale-methodik/4786172"
+    },
+    {
+      "name": "English 1",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-mainz/english-1/4840057"
+    },
+    {
+      "name": "Europarecht",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-mainz/europarecht/4542405"
+    },
+    {
+      "name": "Export Managment",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-mainz/export-managment/7268954"
+    },
+    {
+      "name": "General Economics I",
+      "code": "132641",
+      "url": "https://www.studocu.com/de/course/hochschule-mainz/general-economics-i/3595351"
+    },
+    {
+      "name": "Genetik",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-mainz/genetik/3749771"
+    },
+    {
+      "name": "Geotechnik 1",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-mainz/geotechnik-1/4786204"
+    },
+    {
+      "name": "Geotechnik 2",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-mainz/geotechnik-2/4786188"
+    },
+    {
+      "name": "Geotechnik Für Wi",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-mainz/geotechnik-fur-wi/4786257"
+    },
+    {
+      "name": "Geschichte",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-mainz/geschichte/4786199"
+    },
+    {
+      "name": "Grundlagen Der Betriebswirtschaftslehre",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-mainz/grundlagen-der-betriebswirtschaftslehre/4786258"
+    },
+    {
+      "name": "Grundlagen Der Bwl",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-mainz/grundlagen-der-bwl/4786152"
+    },
+    {
+      "name": "Grundlagen der Informatik (für Angewandte Informatik)",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-mainz/grundlagen-der-informatik-fur-angewandte-informatik/6685191"
+    },
+    {
+      "name": "Grundlagen Der Volkswirtschaftslehre",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-mainz/grundlagen-der-volkswirtschaftslehre/4786163"
+    },
+    {
+      "name": "Grundlagen VWL",
+      "code": "626-1201",
+      "url": "https://www.studocu.com/de/course/hochschule-mainz/grundlagen-vwl/3749957"
+    },
+    {
+      "name": "Grundlagen Wirtschaftsinformatik",
+      "code": "626-1103",
+      "url": "https://www.studocu.com/de/course/hochschule-mainz/grundlagen-wirtschaftsinformatik/3749955"
+    },
+    {
+      "name": "Handelsrecht",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-mainz/handelsrecht/4542408"
+    },
+    {
+      "name": "Ingenieur- Mathematik",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-mainz/ingenieur-mathematik/4786210"
+    },
+    {
+      "name": "Inhalt: Grundlagen Wirtschaftsfranzösisch",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-mainz/inhalt-grundlagen-wirtschaftsfranzosisch/5899567"
+    },
+    {
+      "name": "International Project Management",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-mainz/international-project-management/4786205"
+    },
+    {
+      "name": "International Project Management 1",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-mainz/international-project-management-1/4786235"
+    },
+    {
+      "name": "Investition und Finanzierung",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-mainz/investition-und-finanzierung/5919747"
+    },
+    {
+      "name": "Investitions- Und Finanzwirtschaft",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-mainz/investitions-und-finanzwirtschaft/4786155"
+    },
+    {
+      "name": "IT-Sicherheit (für Angewandte Informatik)",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-mainz/it-sicherheit-fur-angewandte-informatik/7391746"
+    },
+    {
+      "name": "Jahresabschluss",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-mainz/jahresabschluss/3730767"
+    },
+    {
+      "name": "Komplexes Wissenschaftliches Immobilienprojekt",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-mainz/komplexes-wissenschaftliches-immobilienprojekt/4786238"
+    },
+    {
+      "name": "Kosten- Und Leistungsrechnung",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-mainz/kosten-und-leistungsrechnung/4786211"
+    },
+    {
+      "name": "Künstliche Intelligenz Und Machine Learning",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-mainz/kunstliche-intelligenz-und-machine-learning/4786185"
+    },
+    {
+      "name": "legal english",
+      "code": "swartz2",
+      "url": "https://www.studocu.com/de/course/hochschule-mainz/legal-english/4356771"
+    },
+    {
+      "name": "Makroökonomie",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-mainz/makrookonomie/4840074"
+    },
+    {
+      "name": "Management",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-mainz/management/4786208"
+    },
+    {
+      "name": "Marketing",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-mainz/marketing/4435323"
+    },
+    {
+      "name": "Massivbau 1",
+      "code": "BaB3",
+      "url": "https://www.studocu.com/de/course/hochschule-mainz/massivbau-1/4723223"
+    },
+    {
+      "name": "Massivbau 3",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-mainz/massivbau-3/5918577"
+    },
+    {
+      "name": "Material, Logistik und Produktion",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-mainz/material-logistik-und-produktion/4345719"
+    },
+    {
+      "name": "Mathe 1 Analysis",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-mainz/mathe-1-analysis/4376813"
+    },
+    {
+      "name": "Mathematik",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-mainz/mathematik/4786249"
+    },
+    {
+      "name": "Mathematik 1 (für Angewandte Informatik)",
+      "code": "2105",
+      "url": "https://www.studocu.com/de/course/hochschule-mainz/mathematik-1-fur-angewandte-informatik/7013970"
+    },
+    {
+      "name": "Mathematik 2",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-mainz/mathematik-2/4786236"
+    },
+    {
+      "name": "Mechanik 1",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-mainz/mechanik-1/4786259"
+    },
+    {
+      "name": "Mechanik 2",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-mainz/mechanik-2/4786233"
+    },
+    {
+      "name": "Mikroökonomie",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-mainz/mikrookonomie/3236394"
+    },
+    {
+      "name": "Option entrepreneurship",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-mainz/option-entrepreneurship/7635270"
+    },
+    {
+      "name": "Öffentliches Recht",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-mainz/offentliches-recht/4542245"
+    },
+    {
+      "name": "Personalmanagement",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-mainz/personalmanagement/4341054"
+    },
+    {
+      "name": "Personengesellschaftsrecht",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-mainz/personengesellschaftsrecht/4426103"
+    },
+    {
+      "name": "Physik",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-mainz/physik/4786232"
+    },
+    {
+      "name": "Programmieren 2",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-mainz/programmieren-2/4323518"
+    },
+    {
+      "name": "Projektmanagement",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-mainz/projektmanagement/4786289"
+    },
+    {
+      "name": "Quantitative analitics methods",
+      "code": "0001",
+      "url": "https://www.studocu.com/de/course/hochschule-mainz/quantitative-analitics-methods/5363503"
+    },
+    {
+      "name": "Rational Decision Making",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-mainz/rational-decision-making/4840051"
+    },
+    {
+      "name": "Rechnungs- Und Bilanzwesen",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-mainz/rechnungs-und-bilanzwesen/4786272"
+    },
+    {
+      "name": "Recht",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-mainz/recht/4786307"
+    },
+    {
+      "name": "Rechtswissenschaftliches Arbeiten",
+      "code": "Rewi1",
+      "url": "https://www.studocu.com/de/course/hochschule-mainz/rechtswissenschaftliches-arbeiten/4194680"
+    },
+    {
+      "name": "SAP TERP10",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-mainz/sap-terp10/3465458"
+    },
+    {
+      "name": "Schuldrecht",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-mainz/schuldrecht/4527283"
+    },
+    {
+      "name": "Siedlungs-Wasserwirtschaft 1",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-mainz/siedlungs-wasserwirtschaft-1/4786267"
+    },
+    {
+      "name": "Stadtraum",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-mainz/stadtraum/4786291"
+    },
+    {
+      "name": "Stahlbau 1",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-mainz/stahlbau-1/4786231"
+    },
+    {
+      "name": "Statistik",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-mainz/statistik/4408469"
+    },
+    {
+      "name": "Steuern",
+      "code": "Steuern",
+      "url": "https://www.studocu.com/de/course/hochschule-mainz/steuern/2991359"
+    },
+    {
+      "name": "Strafrecht",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-mainz/strafrecht/4372279"
+    },
+    {
+      "name": "Strategic Management",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-mainz/strategic-management/4840076"
+    },
+    {
+      "name": "Technisches Englisch",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-mainz/technisches-englisch/4786244"
+    },
+    {
+      "name": "Traffic Infrastructures",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-mainz/traffic-infrastructures/4786250"
+    },
+    {
+      "name": "Tragwerkslehre",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-mainz/tragwerkslehre/4786309"
+    },
+    {
+      "name": "Unternehmen und IT",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-mainz/unternehmen-und-it/2173193"
+    },
+    {
+      "name": "Unternehmensrecht I",
+      "code": "202",
+      "url": "https://www.studocu.com/de/course/hochschule-mainz/unternehmensrecht-i/3250544"
+    },
+    {
+      "name": "Unternehmensrecht II",
+      "code": "302",
+      "url": "https://www.studocu.com/de/course/hochschule-mainz/unternehmensrecht-ii/3250543"
+    },
+    {
+      "name": "Vergabe - Und Vertragswesen",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-mainz/vergabe-und-vertragswesen/4786263"
+    },
+    {
+      "name": "Verkehrswesen 1",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-mainz/verkehrswesen-1/4786273"
+    },
+    {
+      "name": "Verkehrswesen 2",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-mainz/verkehrswesen-2/4786216"
+    },
+    {
+      "name": "Vermessung 4",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-mainz/vermessung-4/4767267"
+    },
+    {
+      "name": "Wirtschafts- Und Arbeitsrecht",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-mainz/wirtschafts-und-arbeitsrecht/4786292"
+    },
+    {
+      "name": "Wirtschaftsmathematik Und Statistik",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-mainz/wirtschaftsmathematik-und-statistik/4786282"
+    },
+    {
+      "name": "Wirtschaftsprivatrecht",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-mainz/wirtschaftsprivatrecht/4542403"
+    },
+    {
+      "name": "Wirtschaftsstrafrecht",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-mainz/wirtschaftsstrafrecht/4542254"
+    },
+    {
+      "name": "Wissenschaftliches Arbeiten",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-mainz/wissenschaftliches-arbeiten/4786252"
+    },
+    {
+      "name": "Wohn-Psychologie",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-mainz/wohn-psychologie/4786311"
+    },
+    {
+      "name": "Wohn-Soziologie",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-mainz/wohn-soziologie/4786299"
+    }
+  ]
+}

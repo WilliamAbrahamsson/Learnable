@@ -1,0 +1,4166 @@
+{
+  "university_id": "9804",
+  "university_name": "University of Glasgow",
+  "courses": [
+    {
+      "name": "3H: Algebra",
+      "code": "MATHS4072",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/3h-algebra/2004582"
+    },
+    {
+      "name": "3H: Analysis of Differentiation and Integration",
+      "code": "MATHS4073",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/3h-analysis-of-differentiation-and-integration/2004583"
+    },
+    {
+      "name": "3H: Dynamical Systems",
+      "code": "MATHS4074",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/3h-dynamical-systems/2004584"
+    },
+    {
+      "name": "3H: Mathematical Methods",
+      "code": "MATHS4075",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/3h-mathematical-methods/2004585"
+    },
+    {
+      "name": "3H: Mechanics of Rigid and Deformable Bodies",
+      "code": "MATHS4078",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/3h-mechanics-of-rigid-and-deformable-bodies/2004586"
+    },
+    {
+      "name": "3H: Methods in Complex Analysis",
+      "code": "MATHS4076",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/3h-methods-in-complex-analysis/2004587"
+    },
+    {
+      "name": "3H: Writing and Presenting Mathematics",
+      "code": "MATHS4079",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/3h-writing-and-presenting-mathematics/2004589"
+    },
+    {
+      "name": "4H: Algebraic and Geometric Topology",
+      "code": "MATHS4112",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/4h-algebraic-and-geometric-topology/2004590"
+    },
+    {
+      "name": "4H: Continuum Mechanics and Elasticity",
+      "code": "MATHS4100",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/4h-continuum-mechanics-and-elasticity/2004591"
+    },
+    {
+      "name": "4H: Number Theory",
+      "code": "MATHS4108",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/4h-number-theory/2004599"
+    },
+    {
+      "name": "4H: Numerical Methods",
+      "code": "MATHS4109",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/4h-numerical-methods/2004600"
+    },
+    {
+      "name": "4H: Partial Differential Equations",
+      "code": "MATHS4110",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/4h-partial-differential-equations/2004601"
+    },
+    {
+      "name": "5E: Fluid Mechanics",
+      "code": "MATHS5068",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/5e-fluid-mechanics/2004606"
+    },
+    {
+      "name": "5M: Lie Groups, Lie Algebras and their Representations",
+      "code": "MATHS5049",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/5m-lie-groups-lie-algebras-and-their-representations/2004629"
+    },
+    {
+      "name": "Academic Writing Skills - Classes",
+      "code": "EDUC1078",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/academic-writing-skills-classes/2004645"
+    },
+    {
+      "name": "Access to Science, Engineering and Nursing: Mathematics",
+      "code": "ADED11412E",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/access-to-science-engineering-and-nursing-mathematics/2004660"
+    },
+    {
+      "name": "Accountancy Matters",
+      "code": "ACCFIN2021",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/accountancy-matters/2004667"
+    },
+    {
+      "name": "Accounting & Business Ethics",
+      "code": "ACCFIN5001",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/accounting-business-ethics/2004673"
+    },
+    {
+      "name": "Acoustics and Audio Technology 4",
+      "code": "ENG4001",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/acoustics-and-audio-technology-4/2004675"
+    },
+    {
+      "name": "Administrative Law",
+      "code": "LAW4052",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/administrative-law/2004681"
+    },
+    {
+      "name": "Advanced Aerodynamics 5",
+      "code": "ENG5278",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/advanced-aerodynamics-5/2004683"
+    },
+    {
+      "name": "Advanced Health and Social Care Practice",
+      "code": "NURSING5058",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/advanced-health-and-social-care-practice/2004708"
+    },
+    {
+      "name": "Advanced International Law",
+      "code": "LAW2031",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/advanced-international-law/2004717"
+    },
+    {
+      "name": "Advanced Introduction to Perception and Cognition",
+      "code": "PSYCH2014",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/advanced-introduction-to-perception-and-cognition/2004718"
+    },
+    {
+      "name": "Advanced Legal Methods 2: Jurisprudence of Concepts",
+      "code": "LAW5146",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/advanced-legal-methods-2-jurisprudence-of-concepts/2004726"
+    },
+    {
+      "name": "Advanced Manufacture",
+      "code": "ENG5096",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/advanced-manufacture/2004727"
+    },
+    {
+      "name": "Advanced Software Engineering Practices",
+      "code": "COMPSCI4071",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/advanced-software-engineering-practices/2004749"
+    },
+    {
+      "name": "Advanced Theory and Practice of Taxation",
+      "code": "ACCFIN4008",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/advanced-theory-and-practice-of-taxation/2004753"
+    },
+    {
+      "name": "Advances in Lower Limb Anatomy Option",
+      "code": "BIOL4272",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/advances-in-lower-limb-anatomy-option/2004761"
+    },
+    {
+      "name": "Aerodynamics and Fluid Mechanics 3",
+      "code": "ENG3001",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/aerodynamics-and-fluid-mechanics-3/2004766"
+    },
+    {
+      "name": "Aerospace Engineering 1",
+      "code": "ENG1002",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/aerospace-engineering-1/2004775"
+    },
+    {
+      "name": "Aerospace Propulsion 4",
+      "code": "ENG4194",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/aerospace-propulsion-4/2004776"
+    },
+    {
+      "name": "Aerospace Systems Team Design Project M",
+      "code": "ENG5012",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/aerospace-systems-team-design-project-m/2004780"
+    },
+    {
+      "name": "Aircraft Design 3",
+      "code": "ENG3006",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/aircraft-design-3/2004789"
+    },
+    {
+      "name": "Aircraft Structures and Materials 3",
+      "code": "ENG3081",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/aircraft-structures-and-materials-3/2004797"
+    },
+    {
+      "name": "Aircraft Vibration and Aeroelasticity 4",
+      "code": "ENG4023",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/aircraft-vibration-and-aeroelasticity-4/2004801"
+    },
+    {
+      "name": "Algorithmics I",
+      "code": "COMPSCI4009",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/algorithmics-i/2004804"
+    },
+    {
+      "name": "Algrithms 1",
+      "code": "ALGS1",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/algrithms-1/7513204"
+    },
+    {
+      "name": "American Landscape History",
+      "code": "HIST4002",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/american-landscape-history/2004817"
+    },
+    {
+      "name": "An Economic and Social History of Central and Eastern Europe",
+      "code": "CEES3021",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/an-economic-and-social-history-of-central-and-eastern-europe/2004825"
+    },
+    {
+      "name": "Analytical Marketing",
+      "code": "MGT5005",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/analytical-marketing/2004844"
+    },
+    {
+      "name": "Anatomy 3A",
+      "code": "BIOL4230",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/anatomy-3a/2004846"
+    },
+    {
+      "name": "Anatomy 3B",
+      "code": "BIOL4231",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/anatomy-3b/2004847"
+    },
+    {
+      "name": "Anatomy I",
+      "code": "MED1001",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/anatomy-i/2004849"
+    },
+    {
+      "name": "Animal Biology 3A",
+      "code": "BIOL3001",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/animal-biology-3a/2004864"
+    },
+    {
+      "name": "Animal Biology, Evolution and Ecology 2",
+      "code": "BIOL2041",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/animal-biology-evolution-and-ecology-2/2004866"
+    },
+    {
+      "name": "Anti-Discrimination Law in Practice",
+      "code": "LAW3017",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/anti-discrimination-law-in-practice/2004875"
+    },
+    {
+      "name": "Archaeological Theory and Interpretation",
+      "code": "ARCH5006",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/archaeological-theory-and-interpretation/2004929"
+    },
+    {
+      "name": "Archaeology 1A: the Archaeology of Scotland",
+      "code": "ARCH1001",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/archaeology-1a-the-archaeology-of-scotland/2004931"
+    },
+    {
+      "name": "Archaeology 1B: Archaeology in the Modern World",
+      "code": "ARCH1002",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/archaeology-1b-archaeology-in-the-modern-world/2004932"
+    },
+    {
+      "name": "Artificial Intelligence",
+      "code": "COMPSCI4004",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/artificial-intelligence/2004958"
+    },
+    {
+      "name": "Aspects of Quantitative and Qualitative Psychometrics",
+      "code": null,
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/aspects-of-quantitative-and-qualitative-psychometrics/6582839"
+    },
+    {
+      "name": "Atomic Systems",
+      "code": "PHYS4002",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/atomic-systems/2004979"
+    },
+    {
+      "name": "Auditing",
+      "code": "ACCFIN4009",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/auditing/2004985"
+    },
+    {
+      "name": "Bachelor of Veterinary Medicine and Surgery 1",
+      "code": "VETMED1023",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/bachelor-of-veterinary-medicine-and-surgery-1/2004996"
+    },
+    {
+      "name": "Bachelor of Veterinary Medicine and Surgery 2",
+      "code": "VETMED2023",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/bachelor-of-veterinary-medicine-and-surgery-2/2004997"
+    },
+    {
+      "name": "Barbarians in the Mediterranean: Italy and Spain C450-C.750 )",
+      "code": "HIST4046",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/barbarians-in-the-mediterranean-italy-and-spain-c450-c750/2005002"
+    },
+    {
+      "name": "Basic Econometrics",
+      "code": "ECON5002",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/basic-econometrics/2005004"
+    },
+    {
+      "name": "Bayesian Statistics",
+      "code": "STATS5014",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/bayesian-statistics/2005015"
+    },
+    {
+      "name": "BDS1",
+      "code": "DENT1003",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/bds1/2005020"
+    },
+    {
+      "name": "BDS3",
+      "code": "DENT3003",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/bds3/2005023"
+    },
+    {
+      "name": "BDS4",
+      "code": "DENT4003",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/bds4/2005024"
+    },
+    {
+      "name": "Behavioural Economics: Theory and Applications",
+      "code": "ECON4049",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/behavioural-economics-theory-and-applications/2005036"
+    },
+    {
+      "name": "Big Data: Systems, Programming, and Management",
+      "code": "COMPSCI4064",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/big-data-systems-programming-and-management/2005046"
+    },
+    {
+      "name": "Biochemistry 3B",
+      "code": "BIOL4010",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/biochemistry-3b/2005050"
+    },
+    {
+      "name": "Biogeography of Europe",
+      "code": "GEOG4101",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/biogeography-of-europe/2005054"
+    },
+    {
+      "name": "Biology 1A",
+      "code": "BIOL1001",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/biology-1a/2005061"
+    },
+    {
+      "name": "Biology 1B",
+      "code": "BIOL1002",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/biology-1b/2005062"
+    },
+    {
+      "name": "Biomechanics M",
+      "code": "ENG5287",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/biomechanics-m/2005068"
+    },
+    {
+      "name": "Biomolecular Science 1",
+      "code": "DENT1006",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/biomolecular-science-1/2005071"
+    },
+    {
+      "name": "Biomolecular Sciences 3A",
+      "code": "BIOL3005",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/biomolecular-sciences-3a/2005072"
+    },
+    {
+      "name": "Biostatistics",
+      "code": "STATS4066",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/biostatistics/2005080"
+    },
+    {
+      "name": "Biotechnology Applications",
+      "code": "BIOL5227",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/biotechnology-applications/2005081"
+    },
+    {
+      "name": "British Prime Ministers Since World War II",
+      "code": "POLITIC4002",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/british-prime-ministers-since-world-war-ii/2005094"
+    },
+    {
+      "name": "Bsc & Bsc Clin. Med. Specialist Course 4: Critical Care &Perioperative Medicine",
+      "code": "MED4035",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/bsc-bsc-clin-med-specialist-course-4-critical-care-perioperative-medicine/2005095"
+    },
+    {
+      "name": "Bsc & Bsc Clinical Medicine Core Course 4",
+      "code": "MED4039",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/bsc-bsc-clinical-medicine-core-course-4/2005096"
+    },
+    {
+      "name": "Bteched: Joint Project Honours",
+      "code": "EDUC4065P",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/bteched-joint-project-honours/2005112"
+    },
+    {
+      "name": "Burn Injury: Adults and Paediatrics",
+      "code": "NURSING3002",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/burn-injury-adults-and-paediatrics/2005117"
+    },
+    {
+      "name": "Business & Management Level 2B: Organizations & Management",
+      "code": "MGT2001",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/business-management-level-2b-organizations-management/2005118"
+    },
+    {
+      "name": "Business and Management Level 2A Operations & Financial Decision Management",
+      "code": "MGT2002",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/business-and-management-level-2a-operations-financial-decision-management/2005122"
+    },
+    {
+      "name": "Business Ethics",
+      "code": "ADED11255",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/business-ethics/2005127"
+    },
+    {
+      "name": "Business Finance",
+      "code": "MGT5177",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/business-finance/2005128"
+    },
+    {
+      "name": "Business Law",
+      "code": "LAW1001",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/business-law/1740011"
+    },
+    {
+      "name": "Business Organisations",
+      "code": "LAW2001",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/business-organisations/2005130"
+    },
+    {
+      "name": "Business Planning",
+      "code": "MGT5176",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/business-planning/2005131"
+    },
+    {
+      "name": "Business Strategic Management",
+      "code": "MGT5247",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/business-strategic-management/2005134"
+    },
+    {
+      "name": "Business to Business Relationship Management",
+      "code": "MGT5170",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/business-to-business-relationship-management/2005135"
+    },
+    {
+      "name": "Bvms5 Professional Phase",
+      "code": "VETMED5043",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/bvms5-professional-phase/2005136"
+    },
+    {
+      "name": "Calculus I",
+      "code": "UESTC1002",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/calculus-i/2005141"
+    },
+    {
+      "name": "Cardio-Metabolic Disease",
+      "code": "MED5401",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/cardio-metabolic-disease/2005145"
+    },
+    {
+      "name": "Cardiovascular Pharmacology and Therapeutics Option",
+      "code": "BIOL4024",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/cardiovascular-pharmacology-and-therapeutics-option/2005148"
+    },
+    {
+      "name": "Cardiovascular Science Option",
+      "code": "BIOL4025",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/cardiovascular-science-option/2005149"
+    },
+    {
+      "name": "Case Review & Interpretation",
+      "code": "MED5006",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/case-review-interpretation/2005155"
+    },
+    {
+      "name": "Catholic Teachers Certificate",
+      "code": "EDUC1004",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/catholic-teachers-certificate/2005163"
+    },
+    {
+      "name": "Cees 1A: Central and Eastern Europe in the Age of Stalin",
+      "code": "CEES1015",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/cees-1a-central-and-eastern-europe-in-the-age-of-stalin/2005169"
+    },
+    {
+      "name": "Cees 1B: Communism and Its Collapse",
+      "code": "CEES1016",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/cees-1b-communism-and-its-collapse/2005170"
+    },
+    {
+      "name": "chemical research skills",
+      "code": "chem5080",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/chemical-research-skills/6698369"
+    },
+    {
+      "name": "CHEMISTRY 1",
+      "code": "CHEM1001",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/chemistry-1/2005202"
+    },
+    {
+      "name": "Chemistry 2X",
+      "code": "CHEM2005",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/chemistry-2x/2005205"
+    },
+    {
+      "name": "Chemistry 2Y",
+      "code": "CHEM2006",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/chemistry-2y/2005208"
+    },
+    {
+      "name": "Chemistry 2Y Single",
+      "code": "CHEM2017",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/chemistry-2y-single/2005209"
+    },
+    {
+      "name": "China and the West: Intellectuals and Knowledge Dynamics",
+      "code": "MODLANG5012",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/china-and-the-west-intellectuals-and-knowledge-dynamics/2005236"
+    },
+    {
+      "name": "Christianising the West C700-C.950",
+      "code": "HIST4066",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/christianising-the-west-c700-c950/2005252"
+    },
+    {
+      "name": "Circuits & Systems",
+      "code": "PHYS4003",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/circuits-systems/2005261"
+    },
+    {
+      "name": "Civil Design Project M",
+      "code": "ENG5283",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/civil-design-project-m/2005268"
+    },
+    {
+      "name": "Civil Engineering 1",
+      "code": "ENG1061",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/civil-engineering-1/2005270"
+    },
+    {
+      "name": "Civil Litigation",
+      "code": "LAW5007",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/civil-litigation/2005272"
+    },
+    {
+      "name": "Classical Civilisation 1B: Republican Rome, 220-31 Bc",
+      "code": "CLASSIC1002",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/classical-civilisation-1b-republican-rome-220-31-bc/2005283"
+    },
+    {
+      "name": "Classical Greek Civilisation 1A",
+      "code": "ADED1217E",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/classical-greek-civilisation-1a/2005289"
+    },
+    {
+      "name": "Clinical Aspects of Cvd",
+      "code": "MED5385",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/clinical-aspects-of-cvd/2005300"
+    },
+    {
+      "name": "Clinical Medicine",
+      "code": "MED4012",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/clinical-medicine/2005308"
+    },
+    {
+      "name": "Cns Neurotransmitters and Drug Development Option",
+      "code": "BIOL4032",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/cns-neurotransmitters-and-drug-development-option/2005316"
+    },
+    {
+      "name": "Cognitive Neuroscience: Insights Into Brain Plasticity 4H",
+      "code": "PSYCH4018",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/cognitive-neuroscience-insights-into-brain-plasticity-4h/2005321"
+    },
+    {
+      "name": "Cognitive Psychology",
+      "code": "EDUC5954",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/cognitive-psychology/2005322"
+    },
+    {
+      "name": "COGNITIVE PSYCHOLOGY",
+      "code": "EDUC5838",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/cognitive-psychology/2005324"
+    },
+    {
+      "name": "Cognitive Psychology 3H",
+      "code": "PSYCH4002",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/cognitive-psychology-3h/2005325"
+    },
+    {
+      "name": "Commercial Contracts",
+      "code": "LAW5161",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/commercial-contracts/2005334"
+    },
+    {
+      "name": "Commercial Law",
+      "code": "LAW2002",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/commercial-law/2005336"
+    },
+    {
+      "name": "Commercial Law",
+      "code": "LAW4004",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/commercial-law/2005337"
+    },
+    {
+      "name": "Common Law, Systems and Methods",
+      "code": "law1040",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/common-law-systems-and-methods/6015930"
+    },
+    {
+      "name": "Communication Principles and Systems",
+      "code": "UESTC3018",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/communication-principles-and-systems/2005341"
+    },
+    {
+      "name": "Community Development Placement",
+      "code": "EDUC3049",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/community-development-placement/2005348"
+    },
+    {
+      "name": "Company Law",
+      "code": "LAW4005",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/company-law/2005354"
+    },
+    {
+      "name": "Comparative Constitutional Law",
+      "code": "LAW4129",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/comparative-constitutional-law/2005356"
+    },
+    {
+      "name": "Comparative European Politics",
+      "code": "POLITIC5077",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/comparative-european-politics/2005357"
+    },
+    {
+      "name": "Comparative Literature 1A - Heroes",
+      "code": "COMPLIT1001",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/comparative-literature-1a-heroes/2005358"
+    },
+    {
+      "name": "Comparative Public Opinion",
+      "code": "POLITIC4146",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/comparative-public-opinion/2005366"
+    },
+    {
+      "name": "Comparative Veterinary Anatomy 1.",
+      "code": "VETSCI1005",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/comparative-veterinary-anatomy-1/2005367"
+    },
+    {
+      "name": "Competition Law",
+      "code": "LAW4016",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/competition-law/2005368"
+    },
+    {
+      "name": "Composition, Digital and Creative Skills",
+      "code": "MUSIC5082",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/composition-digital-and-creative-skills/2005377"
+    },
+    {
+      "name": "Computer Communications M",
+      "code": "ENG5021",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/computer-communications-m/2005390"
+    },
+    {
+      "name": "Computer Vision Methods and Applications",
+      "code": "COMPSCI4066",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/computer-vision-methods-and-applications/2005393"
+    },
+    {
+      "name": "Computing Science",
+      "code": "CS 1CT",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/computing-science/1735719"
+    },
+    {
+      "name": "Computing Science - 1Ct Introduction to Computational Thinking",
+      "code": "COMPSCI1016",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/computing-science-1ct-introduction-to-computational-thinking/2009344"
+    },
+    {
+      "name": "Computing Science - 1Q",
+      "code": "COMPSCI1002",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/computing-science-1q/2009330"
+    },
+    {
+      "name": "Computing Science - 1S Systems",
+      "code": "COMPSCI1018",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/computing-science-1s-systems/2009331"
+    },
+    {
+      "name": "Computing Science 2P: Java Programming 2",
+      "code": "COMPSCI2001",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/computing-science-2p-java-programming-2/2009334"
+    },
+    {
+      "name": "Computing Science 2Q: Computing Fundamentals 2",
+      "code": "COMPSCI2002",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/computing-science-2q-computing-fundamentals-2/2009335"
+    },
+    {
+      "name": "Computing Science 2R: Algorithmic Foundations 2",
+      "code": "COMPSCI2003",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/computing-science-2r-algorithmic-foundations-2/2009336"
+    },
+    {
+      "name": "Computing Science 2T: Computer Systems 2",
+      "code": "COMPSCI2005",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/computing-science-2t-computer-systems-2/2009337"
+    },
+    {
+      "name": "Computing Science 2U: Web Application Development 2",
+      "code": "COMPSCI2021",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/computing-science-2u-web-application-development-2/2009338"
+    },
+    {
+      "name": "Computing Science 2X: Algorithms & Data Structures 2",
+      "code": "COMPSCI2007",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/computing-science-2x-algorithms-data-structures-2/2009339"
+    },
+    {
+      "name": "Computing Science 2Y: Object-Oriented Software Engineering 2",
+      "code": "COMPSCI2008",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/computing-science-2y-object-oriented-software-engineering-2/2009340"
+    },
+    {
+      "name": "Conceptualising Human Geography 2: Geographical Engagements",
+      "code": "GEOG5080",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/conceptualising-human-geography-2-geographical-engagements/2005399"
+    },
+    {
+      "name": "Consolidated Nursing Practice",
+      "code": "SIT4049",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/consolidated-nursing-practice/2005402"
+    },
+    {
+      "name": "Constitutional Law",
+      "code": "LAW4007",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/constitutional-law/2005404"
+    },
+    {
+      "name": "Constitutional Law 1",
+      "code": "LAW1023",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/constitutional-law-1/2005405"
+    },
+    {
+      "name": "Construction Management 3",
+      "code": "ENG3082",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/construction-management-3/2005410"
+    },
+    {
+      "name": "Consumer Behaviour",
+      "code": "MGT5184",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/consumer-behaviour/2005412"
+    },
+    {
+      "name": "Contemporary Employment Relations",
+      "code": "MGT4066",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/contemporary-employment-relations/2005416"
+    },
+    {
+      "name": "Contemporary Ethics",
+      "code": "PHIL5065",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/contemporary-ethics/2005417"
+    },
+    {
+      "name": "Contemporary Issues in Biology",
+      "code": "BIOL2040",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/contemporary-issues-in-biology/5155564"
+    },
+    {
+      "name": "Contemporary Planning Systems",
+      "code": "URBAN5081",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/contemporary-planning-systems/2005431"
+    },
+    {
+      "name": "Contemporary Political Philosophy",
+      "code": "ADED11256",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/contemporary-political-philosophy/2005434"
+    },
+    {
+      "name": "Contemporary Radical Theory: Marxisms and Post-Marxisms'",
+      "code": "POLITIC4133",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/contemporary-radical-theory-marxisms-and-post-marxisms/2005435"
+    },
+    {
+      "name": "Contemporary Scottish Public Law",
+      "code": "LAW5063",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/contemporary-scottish-public-law/2005438"
+    },
+    {
+      "name": "Contenting in a report",
+      "code": "0000",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/contenting-in-a-report/5783955"
+    },
+    {
+      "name": "Contract Law - Professor Stafford",
+      "code": "ULTCO-001",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/contract-law-professor-stafford/6107070"
+    },
+    {
+      "name": "Control 3",
+      "code": "SIT3044",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/control-3/2005445"
+    },
+    {
+      "name": "Control 3",
+      "code": "ENG3015",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/control-3/2005446"
+    },
+    {
+      "name": "Control 4",
+      "code": "ENG4042",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/control-4/2005448"
+    },
+    {
+      "name": "Conveyancing",
+      "code": "LAW5012",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/conveyancing/2005452"
+    },
+    {
+      "name": "Core Skills in Microbiology, Parasitology and Virology Option",
+      "code": "BIOL4033",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/core-skills-in-microbiology-parasitology-and-virology-option/2005461"
+    },
+    {
+      "name": "Corporate Finance",
+      "code": "ACCFIN5205",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/corporate-finance/2005466"
+    },
+    {
+      "name": "Corporate Finance and Investment",
+      "code": "ECON5066",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/corporate-finance-and-investment/2005467"
+    },
+    {
+      "name": "Corporate Governance",
+      "code": "LAW5015",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/corporate-governance/2005468"
+    },
+    {
+      "name": "Corporate Social Responsibility and the Law",
+      "code": "LAW5168",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/corporate-social-responsibility-and-the-law/2005471"
+    },
+    {
+      "name": "Cosmology",
+      "code": "ASTRO4006",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/cosmology/2005474"
+    },
+    {
+      "name": "Counselling Skills",
+      "code": "ADED11377",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/counselling-skills/2005478"
+    },
+    {
+      "name": "Courses Abroad",
+      "code": "LAW4059",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/courses-abroad/2005483"
+    },
+    {
+      "name": "CPD-Assessing in Moodle",
+      "code": "CPD7812",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/cpd-assessing-in-moodle/5333953"
+    },
+    {
+      "name": "Creative intervention for change",
+      "code": "BU42000",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/creative-intervention-for-change/4883293"
+    },
+    {
+      "name": "Criminal Justice",
+      "code": "LAW3018",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/criminal-justice/2005530"
+    },
+    {
+      "name": "Criminal Law and Evidence 1",
+      "code": "LAW1003",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/criminal-law-and-evidence-1/2005531"
+    },
+    {
+      "name": "Criminal Law of England and Wales",
+      "code": null,
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/criminal-law-of-england-and-wales/4360423"
+    },
+    {
+      "name": "Criminal Law: History and Theory",
+      "code": "LAW4010",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/criminal-law-history-and-theory/2005532"
+    },
+    {
+      "name": "Criminal Litigation",
+      "code": "LAW5074",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/criminal-litigation/2005533"
+    },
+    {
+      "name": "Criminological Perspectives On Security and Globalisation",
+      "code": "SOCIO5057",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/criminological-perspectives-on-security-and-globalisation/2005534"
+    },
+    {
+      "name": "Criminological Theory in Context",
+      "code": "SOCIO5032",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/criminological-theory-in-context/2005535"
+    },
+    {
+      "name": "Curriculum Enquiry",
+      "code": "EDUC 1111P",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/curriculum-enquiry/5438170"
+    },
+    {
+      "name": "Cv Sciences Dissertation",
+      "code": "MED5111P",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/cv-sciences-dissertation/2005586"
+    },
+    {
+      "name": "Cyber Security Fundamentals",
+      "code": "COMPSCI4062",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/cyber-security-fundamentals/2005588"
+    },
+    {
+      "name": "Danish Stage 1",
+      "code": "ADED1025E",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/danish-stage-1/2005607"
+    },
+    {
+      "name": "Data Analysis",
+      "code": "STATS5018",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/data-analysis/2005612"
+    },
+    {
+      "name": "Data Fundamentals",
+      "code": "COMPSCI4073",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/data-fundamentals/2005614"
+    },
+    {
+      "name": "Data Mining and Machine Learning I: Supervised and Unsupervised Learning",
+      "code": "STATS5074",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/data-mining-and-machine-learning-i-supervised-and-unsupervised-learning/2005617"
+    },
+    {
+      "name": "Database Systems",
+      "code": "COMPSCI4013",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/database-systems/2005618"
+    },
+    {
+      "name": "Database Theory and Application",
+      "code": "COMPSCI5076",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/database-theory-and-application/2005620"
+    },
+    {
+      "name": "De Facto States in the Post-Soviet Space",
+      "code": "CEES5068",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/de-facto-states-in-the-post-soviet-space/2005637"
+    },
+    {
+      "name": "Debt Finance and Security",
+      "code": "LAW5019",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/debt-finance-and-security/2005642"
+    },
+    {
+      "name": "Delivering Performance",
+      "code": "MGT5277",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/delivering-performance/2005654"
+    },
+    {
+      "name": "Derivative Securities",
+      "code": "ACCFIN4040",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/derivative-securities/2005661"
+    },
+    {
+      "name": "Design and Manufacture 1",
+      "code": "ENG1015",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/design-and-manufacture-1/2005667"
+    },
+    {
+      "name": "Design and Patent Law",
+      "code": "LAW5170",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/design-and-patent-law/2005671"
+    },
+    {
+      "name": "Developing Children's Thinking",
+      "code": "ADED11333",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/developing-childrens-thinking/2005690"
+    },
+    {
+      "name": "Development of International Business",
+      "code": "MGT4095",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/development-of-international-business/2005704"
+    },
+    {
+      "name": "Developmental Psychology",
+      "code": "EDUC5842",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/developmental-psychology/2005708"
+    },
+    {
+      "name": "Digital Marketing Strategy",
+      "code": "MGT4009",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/digital-marketing-strategy/2005727"
+    },
+    {
+      "name": "Digital Media and Information Studies 1B",
+      "code": "ARTMED1002",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/digital-media-and-information-studies-1b/2005729"
+    },
+    {
+      "name": "Digital Media Information Studies",
+      "code": "DMIS0011",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/digital-media-information-studies/5154775"
+    },
+    {
+      "name": "Directed Individual Research/Dissertation",
+      "code": "PHIL4007P",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/directed-individual-researchdissertation/2005739"
+    },
+    {
+      "name": "Diseases of the Nervous System Option",
+      "code": "BIOL4038",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/diseases-of-the-nervous-system-option/2005750"
+    },
+    {
+      "name": "Dissertation",
+      "code": "DUMF5078",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/dissertation/6521931"
+    },
+    {
+      "name": "Distributive Justice",
+      "code": "PHIL4054",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/distributive-justice/2005755"
+    },
+    {
+      "name": "Doctrine of God",
+      "code": "TRS4096",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/doctrine-of-god/2005758"
+    },
+    {
+      "name": "Drugs and Culture",
+      "code": "SOCIO4068",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/drugs-and-culture/2005775"
+    },
+    {
+      "name": "Dynamics 1",
+      "code": "ENG1062",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/dynamics-1/2005783"
+    },
+    {
+      "name": "Dynamics 2",
+      "code": "ENG2084",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/dynamics-2/2005784"
+    },
+    {
+      "name": "Dynamics 3",
+      "code": "ENG3039",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/dynamics-3/2005786"
+    },
+    {
+      "name": "E-Learning Developments and Communication",
+      "code": "EDUC2007",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/e-learning-developments-and-communication/2005913"
+    },
+    {
+      "name": "Eap 1 - Academic English and Skills for International Undergraduates",
+      "code": "LANGCTR1011",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/eap-1-academic-english-and-skills-for-international-undergraduates/2005798"
+    },
+    {
+      "name": "Eap 2 for Students in Mvls",
+      "code": "LANGCTR1056",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/eap-2-for-students-in-mvls/2005800"
+    },
+    {
+      "name": "Earth Futures: Thinking and Planning for the Anthropocene",
+      "code": "GEOG4103",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/earth-futures-thinking-and-planning-for-the-anthropocene/2005811"
+    },
+    {
+      "name": "Earth Science & the Environment 1X:Planet Earth",
+      "code": "EARTH1001",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/earth-science-the-environment-1xplanet-earth/2005812"
+    },
+    {
+      "name": "EARTH SCIENCE & THE ENVIRONMENT 1Y: TOWARDS A SUSTAINABLE FUTURE",
+      "code": "EARTH1002",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/earth-science-the-environment-1y-towards-a-sustainable-future/2276749"
+    },
+    {
+      "name": "Earth Science 2P: Solid Earth",
+      "code": "EARTH2001",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/earth-science-2p-solid-earth/2005814"
+    },
+    {
+      "name": "Earth Science 2R: Sediments and Stratigraphy",
+      "code": "EARTH2003",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/earth-science-2r-sediments-and-stratigraphy/2005816"
+    },
+    {
+      "name": "Earth Science 2U - Structure, Maps and Exploration",
+      "code": "EARTH2004",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/earth-science-2u-structure-maps-and-exploration/2005817"
+    },
+    {
+      "name": "Earth System Science",
+      "code": "DUMF1043",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/earth-system-science/2005821"
+    },
+    {
+      "name": "Econometrics",
+      "code": "ECON5079",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/econometrics/2005824"
+    },
+    {
+      "name": "Econometrics 1: Introduction to Econometrics",
+      "code": "ECON4083",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/econometrics-1-introduction-to-econometrics/2005827"
+    },
+    {
+      "name": "Economic & Social History 1A: Towards Globalisation, C1750-1914",
+      "code": "ESH1001",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/economic-social-history-1a-towards-globalisation-c1750-1914/2005829"
+    },
+    {
+      "name": "Economic & Social History 1B: Themes in Globalisation, 1914-C2008",
+      "code": "ESH1002",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/economic-social-history-1b-themes-in-globalisation-1914-c2008/2005830"
+    },
+    {
+      "name": "Economic & Social History 2A: Britain 1770-1914",
+      "code": "ESH2001",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/economic-social-history-2a-britain-1770-1914/2005831"
+    },
+    {
+      "name": "Economic & Social History 2B: Britain Since 1914",
+      "code": "ESH2002",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/economic-social-history-2b-britain-since-1914/2005832"
+    },
+    {
+      "name": "Economic & Social History 3: Research Methods in Econ & Social History A",
+      "code": "ESH3001",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/economic-social-history-3-research-methods-in-econ-social-history-a/2005833"
+    },
+    {
+      "name": "Economic Fundamentals and Financial Markets",
+      "code": "ECON5005",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/economic-fundamentals-and-financial-markets/2005839"
+    },
+    {
+      "name": "Economic Minerals",
+      "code": "EARTH4005",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/economic-minerals/2005843"
+    },
+    {
+      "name": "Economics 1A",
+      "code": "ECON1001",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/economics-1a/2005845"
+    },
+    {
+      "name": "Economics 1B",
+      "code": "ECON1002",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/economics-1b/2005846"
+    },
+    {
+      "name": "Economics 2A",
+      "code": "ECON2001",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/economics-2a/2005847"
+    },
+    {
+      "name": "Economics 2B",
+      "code": "ECON2002",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/economics-2b/2005848"
+    },
+    {
+      "name": "Economics 3: Economic Growth, Finance and Development",
+      "code": "ECON3020",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/economics-3-economic-growth-finance-and-development/2005849"
+    },
+    {
+      "name": "Economics 3: Economic History",
+      "code": "ECON3021",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/economics-3-economic-history/2005850"
+    },
+    {
+      "name": "Economics 3: Environmental Economics",
+      "code": "ECON3001",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/economics-3-environmental-economics/2005852"
+    },
+    {
+      "name": "Economics of Business 1: Contracts and Governance",
+      "code": "ECON4085",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/economics-of-business-1-contracts-and-governance/2005863"
+    },
+    {
+      "name": "Economics of Business 2: Regulation and Business Strategy",
+      "code": "ECON4008",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/economics-of-business-2-regulation-and-business-strategy/2005864"
+    },
+    {
+      "name": "Economics of Team Sport",
+      "code": "ECON4089",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/economics-of-team-sport/2005873"
+    },
+    {
+      "name": "Education In Practice",
+      "code": "EDUC 1109P",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/education-in-practice/5438178"
+    },
+    {
+      "name": "Educational Policy",
+      "code": "EDUC5073",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/educational-policy/2005906"
+    },
+    {
+      "name": "Electrical Energy Systems M",
+      "code": "ENG5029",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/electrical-energy-systems-m/2005916"
+    },
+    {
+      "name": "Electricity and Electronics T1",
+      "code": "EDUC1050",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/electricity-and-electronics-t1/2005917"
+    },
+    {
+      "name": "Electromagnetic Compatiblity 3S",
+      "code": "SIT3020",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/electromagnetic-compatiblity-3s/2005919"
+    },
+    {
+      "name": "Electronic Signals Transmission",
+      "code": "PHYS4005",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/electronic-signals-transmission/2005933"
+    },
+    {
+      "name": "Elements of Law for Engineers 1",
+      "code": "LAW1011",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/elements-of-law-for-engineers-1/2005941"
+    },
+    {
+      "name": "Embedded Processors 2",
+      "code": "ENG2029",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/embedded-processors-2/2005944"
+    },
+    {
+      "name": "Empirical Asset Pricing",
+      "code": "ECON5069",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/empirical-asset-pricing/2005954"
+    },
+    {
+      "name": "Energy Conversion Systems M",
+      "code": "ENG5250",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/energy-conversion-systems-m/2005962"
+    },
+    {
+      "name": "Engineering Career Skills",
+      "code": "UESTC2023",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/engineering-career-skills/2005969"
+    },
+    {
+      "name": "Engineering Hydraulics 3",
+      "code": "ENG3085",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/engineering-hydraulics-3/2005975"
+    },
+    {
+      "name": "Engineering Mathematics 1",
+      "code": "ENG1063",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/engineering-mathematics-1/2005977"
+    },
+    {
+      "name": "Engineering Mathematics 2",
+      "code": "ENG2086",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/engineering-mathematics-2/2005978"
+    },
+    {
+      "name": "Engineering Mechanics T2",
+      "code": "EDUC2070",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/engineering-mechanics-t2/2005979"
+    },
+    {
+      "name": "Engineering Skills 1",
+      "code": "ENG1026",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/engineering-skills-1/2005980"
+    },
+    {
+      "name": "English language",
+      "code": "9095",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/english-language/4329911"
+    },
+    {
+      "name": "English Language and Linguistics 1A",
+      "code": "ENGLANG1001",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/english-language-and-linguistics-1a/2006006"
+    },
+    {
+      "name": "English Language and Linguistics 2A",
+      "code": "ENGLANG2004",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/english-language-and-linguistics-2a/1735721"
+    },
+    {
+      "name": "English Literature 1B: the Novel & Narratology",
+      "code": "ENGLIT1010",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/english-literature-1b-the-novel-narratology/2006010"
+    },
+    {
+      "name": "English Literature 2A: Writing & Ideology",
+      "code": "ENGLIT2001",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/english-literature-2a-writing-ideology/2006011"
+    },
+    {
+      "name": "English Literature 2B: Writing & Text",
+      "code": "ENGLIT2002",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/english-literature-2b-writing-text/2006012"
+    },
+    {
+      "name": "Enquiry in Health and Social Policy 4.2",
+      "code": "DUMF4036",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/enquiry-in-health-and-social-policy-42/2006017"
+    },
+    {
+      "name": "Entrepreneurship 1A: Corporate Entrepreneurship and Innovation",
+      "code": "MGT1003",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/entrepreneurship-1a-corporate-entrepreneurship-and-innovation/2006025"
+    },
+    {
+      "name": "Entrepreneurship 1B: New Venture Planning",
+      "code": "MGT1004",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/entrepreneurship-1b-new-venture-planning/2006026"
+    },
+    {
+      "name": "Environmental Biology 1",
+      "code": "BIOL1010",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/environmental-biology-1/2006029"
+    },
+    {
+      "name": "Environmental Economics",
+      "code": "ECON5006",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/environmental-economics/2006032"
+    },
+    {
+      "name": "Environmental Law",
+      "code": "LAW2003",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/environmental-law/2006045"
+    },
+    {
+      "name": "Environmental Process Engineering 3",
+      "code": "ENG3080",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/environmental-process-engineering-3/2006050"
+    },
+    {
+      "name": "Epidemiology, Outcomes, and Therapy of Heart Failure",
+      "code": "MED5543",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/epidemiology-outcomes-and-therapy-of-heart-failure/4922500"
+    },
+    {
+      "name": "Equity and Trusts",
+      "code": null,
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/equity-and-trusts/5929021"
+    },
+    {
+      "name": "Equity, Social Justice and Change",
+      "code": "EDUC5910",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/equity-social-justice-and-change/2006066"
+    },
+    {
+      "name": "Essaying: Literary, Personal, and Radical",
+      "code": "CRWRT5032",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/essaying-literary-personal-and-radical/2006069"
+    },
+    {
+      "name": "Ethics and Business",
+      "code": "MGT4028",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/ethics-and-business/2006071"
+    },
+    {
+      "name": "Eu Trade Law",
+      "code": "LAW5080",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/eu-trade-law/2006075"
+    },
+    {
+      "name": "European Human Rights Law",
+      "code": "LAW3025",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/european-human-rights-law/2006081"
+    },
+    {
+      "name": "European Law 2",
+      "code": "LAW2004",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/european-law-2/2006083"
+    },
+    {
+      "name": "European Legal Culture",
+      "code": "LAW2034",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/european-legal-culture/2006084"
+    },
+    {
+      "name": "European Union Law",
+      "code": "LAW2005",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/european-union-law/2006090"
+    },
+    {
+      "name": "European Union Law",
+      "code": null,
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/european-union-law/7419043"
+    },
+    {
+      "name": "Exploring Key Themes in Academic Practice",
+      "code": "EDUC5801",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/exploring-key-themes-in-academic-practice/2006120"
+    },
+    {
+      "name": "Exploring the Cosmos 1X",
+      "code": "ASTRO1003",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/exploring-the-cosmos-1x/2006123"
+    },
+    {
+      "name": "Exploring the Cosmos 1Y",
+      "code": "ASTRO1004",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/exploring-the-cosmos-1y/2006124"
+    },
+    {
+      "name": "Extended Project",
+      "code": "FC701",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/extended-project/5140231"
+    },
+    {
+      "name": "Fake Course Dude",
+      "code": "FCD-1",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/fake-course-dude/4956337"
+    },
+    {
+      "name": "Family Law",
+      "code": "LAW1004",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/family-law/2006129"
+    },
+    {
+      "name": "Family Law",
+      "code": "LAW5025",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/family-law/2006130"
+    },
+    {
+      "name": "Festivals",
+      "code": "FTV5050",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/festivals/2006141"
+    },
+    {
+      "name": "Field School 1",
+      "code": "ADED1038",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/field-school-1/2006145"
+    },
+    {
+      "name": "Finance 1",
+      "code": "ACCFIN1003",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/finance-1/2006164"
+    },
+    {
+      "name": "Finance 2",
+      "code": "ACCFIN2002",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/finance-2/2006165"
+    },
+    {
+      "name": "Financial Accounting 1",
+      "code": "ACCFIN1004",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/financial-accounting-1/2006166"
+    },
+    {
+      "name": "Financial Accounting 2",
+      "code": "ACCFIN2003",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/financial-accounting-2/2006167"
+    },
+    {
+      "name": "Financial Analysis and Equity Valuation",
+      "code": "ACCFIN5200",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/financial-analysis-and-equity-valuation/2006169"
+    },
+    {
+      "name": "Financial Crises",
+      "code": "ECON4078",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/financial-crises/2006170"
+    },
+    {
+      "name": "Financial Derivatives",
+      "code": "ECON5007",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/financial-derivatives/2006172"
+    },
+    {
+      "name": "Financial Information Management",
+      "code": "MGT5028",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/financial-information-management/2006173"
+    },
+    {
+      "name": "Financial Law",
+      "code": "LAW4122",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/financial-law/2006175"
+    },
+    {
+      "name": "Financial Management",
+      "code": "MGT4005",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/financial-management/2006176"
+    },
+    {
+      "name": "Financial Markets & Financial Institutions",
+      "code": "ACCFIN4012",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/financial-markets-financial-institutions/2006180"
+    },
+    {
+      "name": "Financial Markets and Corporate Finance",
+      "code": "ECON4013",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/financial-markets-and-corporate-finance/2006182"
+    },
+    {
+      "name": "Financial Risk Analysis",
+      "code": "ECON5010",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/financial-risk-analysis/2006186"
+    },
+    {
+      "name": "Financial Risk Management",
+      "code": "ACCFIN5207",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/financial-risk-management/2006187"
+    },
+    {
+      "name": "Financial Services",
+      "code": "ECON5012",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/financial-services/2006189"
+    },
+    {
+      "name": "Financial Statement Analysis and Valuation",
+      "code": "ACCFIN4013",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/financial-statement-analysis-and-valuation/2006190"
+    },
+    {
+      "name": "Financial Statistics",
+      "code": "STATS5053",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/financial-statistics/2006191"
+    },
+    {
+      "name": "Finite Element Analysis 4",
+      "code": "ENG4025",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/finite-element-analysis-4/2006193"
+    },
+    {
+      "name": "Flexible Regression",
+      "code": "STATS5052",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/flexible-regression/2006198"
+    },
+    {
+      "name": "Flight Mechanics 3",
+      "code": "ENG3060",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/flight-mechanics-3/2006201"
+    },
+    {
+      "name": "Fmri in Biopsychology 4H",
+      "code": "PSYCH4023",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/fmri-in-biopsychology-4h/2006207"
+    },
+    {
+      "name": "Food Security Fundamentals - Food of Animal Origin",
+      "code": "BIOL5216",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/food-security-fundamentals-food-of-animal-origin/2006212"
+    },
+    {
+      "name": "Foreign Direct Investment and Multinational Firms in Developing Countries",
+      "code": "ECON4014",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/foreign-direct-investment-and-multinational-firms-in-developing-countries/2006216"
+    },
+    {
+      "name": "Forensic Investigation",
+      "code": "MED4054",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/forensic-investigation/2006219"
+    },
+    {
+      "name": "Formal Logic",
+      "code": "PHIL5068",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/formal-logic/2006224"
+    },
+    {
+      "name": "Foundation of Finance",
+      "code": "1026",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/foundation-of-finance/7437601"
+    },
+    {
+      "name": "Foundations of Evidence",
+      "code": "LAW2054",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/foundations-of-evidence/6015943"
+    },
+    {
+      "name": "Foundations of International Corporate Finance",
+      "code": "ACCFIN5203",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/foundations-of-international-corporate-finance/2006232"
+    },
+    {
+      "name": "Freedom, Security and Justice in the Eu",
+      "code": "LAW5027",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/freedom-security-and-justice-in-the-eu/2006242"
+    },
+    {
+      "name": "French 3 Language",
+      "code": "FRENCH3002",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/french-3-language/2006244"
+    },
+    {
+      "name": "French Culture 1",
+      "code": "FRENCH1004",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/french-culture-1/2006249"
+    },
+    {
+      "name": "French Language 2",
+      "code": "FRENCH2011",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/french-language-2/2006258"
+    },
+    {
+      "name": "From Pocahontas to Post-Feminism:Women in American History",
+      "code": "HIST4079",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/from-pocahontas-to-post-feminismwomen-in-american-history/2006279"
+    },
+    {
+      "name": "From the Beginnings to the Early Modern in Older Scots Literature",
+      "code": "SCOTLIT4031",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/from-the-beginnings-to-the-early-modern-in-older-scots-literature/2006280"
+    },
+    {
+      "name": "Functional Programming",
+      "code": "COMPSCI4021",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/functional-programming/2006295"
+    },
+    {
+      "name": "Fundamental Topics in Biology 2",
+      "code": "BIOL2039",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/fundamental-topics-in-biology-2/2006296"
+    },
+    {
+      "name": "Fundamentals of Education",
+      "code": "EDUC 1012",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/fundamentals-of-education/5438183"
+    },
+    {
+      "name": "Fundamentals of Human Resource Management",
+      "code": "MGT2011",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/fundamentals-of-human-resource-management/5804691"
+    },
+    {
+      "name": "Game Theory with Application in Economics and Finance",
+      "code": "ECON5076",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/game-theory-with-application-in-economics-and-finance/2006348"
+    },
+    {
+      "name": "Gender Relations",
+      "code": "SOCIO5084",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/gender-relations/2006354"
+    },
+    {
+      "name": "Gender, Crime and Criminal Justice",
+      "code": "SOCIO5079",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/gender-crime-and-criminal-justice/2006355"
+    },
+    {
+      "name": "Generalised Linear Models",
+      "code": "STATS5019",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/generalised-linear-models/2006366"
+    },
+    {
+      "name": "Genes, Molecules & Cells 2",
+      "code": "BIOL2042",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/genes-molecules-cells-2/2006368"
+    },
+    {
+      "name": "Genetics 3A",
+      "code": "BIOL4051",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/genetics-3a/2006378"
+    },
+    {
+      "name": "Geographies of Development",
+      "code": "GEOG4084",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/geographies-of-development/2006388"
+    },
+    {
+      "name": "Geographies of Solidarity and Internationalism",
+      "code": "GEOG4097",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/geographies-of-solidarity-and-internationalism/2006389"
+    },
+    {
+      "name": "GEOGRAPHY 1:  LIVING IN A CHANGING WORLD",
+      "code": "GEOG1001",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/geography-1-living-in-a-changing-world/2006390"
+    },
+    {
+      "name": "Geography 1: Living in a Changing World",
+      "code": "GEOG1007",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/geography-1-living-in-a-changing-world/2006391"
+    },
+    {
+      "name": "Geography 2",
+      "code": "GEOG2016",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/geography-2/2006393"
+    },
+    {
+      "name": "Geology for Civil Engineers 2",
+      "code": "ENG2080",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/geology-for-civil-engineers-2/2006395"
+    },
+    {
+      "name": "Geophysics",
+      "code": "EARTH4009",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/geophysics/2006399"
+    },
+    {
+      "name": "Geotechnical Engineering 3",
+      "code": "ENG3073",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/geotechnical-engineering-3/2006404"
+    },
+    {
+      "name": "German Culture 2",
+      "code": "GERMAN2010",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/german-culture-2/2006415"
+    },
+    {
+      "name": "German Language 1",
+      "code": "GERMAN1003",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/german-language-1/2006422"
+    },
+    {
+      "name": "Global Business Environment",
+      "code": "MGT5179",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/global-business-environment/2006447"
+    },
+    {
+      "name": "Global Consumer Behaviour",
+      "code": null,
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/global-consumer-behaviour/5277077"
+    },
+    {
+      "name": "Global Economy",
+      "code": "MGT5255",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/global-economy/2006453"
+    },
+    {
+      "name": "Global Energy Politics",
+      "code": "POLITIC4168",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/global-energy-politics/2006455"
+    },
+    {
+      "name": "Global Perspectives in Marketing Ethics",
+      "code": "MGT5229",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/global-perspectives-in-marketing-ethics/5468465"
+    },
+    {
+      "name": "Global South Asia",
+      "code": "ESH4087",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/global-south-asia/5836036"
+    },
+    {
+      "name": "Global South Asia",
+      "code": null,
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/global-south-asia/5836039"
+    },
+    {
+      "name": "Global Varieties of Capitalism",
+      "code": "SPS5038",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/global-varieties-of-capitalism/2006468"
+    },
+    {
+      "name": "Global Veterinary Medicine",
+      "code": "VETMED5006",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/global-veterinary-medicine/2006469"
+    },
+    {
+      "name": "Globalisation and Public Health",
+      "code": "MED5431",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/globalisation-and-public-health/2006472"
+    },
+    {
+      "name": "Globalisation of the World Economy",
+      "code": "SPS5020",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/globalisation-of-the-world-economy/2006474"
+    },
+    {
+      "name": "Globalisation, Justice and Human Rights",
+      "code": "LAW4013P",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/globalisation-justice-and-human-rights/4828082"
+    },
+    {
+      "name": "Gothic Art C.1200 - C.1500",
+      "code": "ADED11235",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/gothic-art-c1200-c1500/2006480"
+    },
+    {
+      "name": "Governance and Markets",
+      "code": "URBAN5085",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/governance-and-markets/2006482"
+    },
+    {
+      "name": "Governing Risk and Uncertainty",
+      "code": "ACCFIN5059",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/governing-risk-and-uncertainty/2006483"
+    },
+    {
+      "name": "Hallmarks of Cancer",
+      "code": "BIOL5225",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/hallmarks-of-cancer/2006526"
+    },
+    {
+      "name": "Head and Neck Surgery",
+      "code": "DENT5079",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/head-and-neck-surgery/2006528"
+    },
+    {
+      "name": "Health and Health Inequalities - a Policy Context",
+      "code": "PUBPOL4029",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/health-and-health-inequalities-a-policy-context/2006532"
+    },
+    {
+      "name": "Health Assessment & Clinical Reasoning",
+      "code": "SIT3035",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/health-assessment-clinical-reasoning/2006536"
+    },
+    {
+      "name": "Health Economics",
+      "code": "ECON4052",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/health-economics/2006538"
+    },
+    {
+      "name": "Health Psychology",
+      "code": "ADED11003E",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/health-psychology/2006545"
+    },
+    {
+      "name": "Hedge Fund Risk Management",
+      "code": "ECON5071",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/hedge-fund-risk-management/2006553"
+    },
+    {
+      "name": "Historiography of Music",
+      "code": "MUSIC4074",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/historiography-of-music/2006593"
+    },
+    {
+      "name": "History 1A: Scotland's Millennium: Kingdom, Union and Nation C 1000-1999",
+      "code": "HIST1008",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/history-1a-scotlands-millennium-kingdom-union-and-nation-c-1000-1999/2006594"
+    },
+    {
+      "name": "History 1B: Europe Rising. the Medieval World, 500-1500",
+      "code": "HIST1020",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/history-1b-europe-rising-the-medieval-world-500-1500/2006596"
+    },
+    {
+      "name": "History 2A: Social and Cultural History of Europe",
+      "code": "HIST2016",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/history-2a-social-and-cultural-history-of-europe/6594337"
+    },
+    {
+      "name": "History 2Am: Society, Culture & Politics in North America",
+      "code": "HIST2002",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/history-2am-society-culture-politics-in-north-america/2006598"
+    },
+    {
+      "name": "History 3 Am",
+      "code": "HIST3002",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/history-3-am/2006599"
+    },
+    {
+      "name": "History of Art 1A",
+      "code": "HISTART1002",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/history-of-art-1a/2006604"
+    },
+    {
+      "name": "History of Art 1B",
+      "code": "HISTART1003",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/history-of-art-1b/2006605"
+    },
+    {
+      "name": "History of Moral and Political Philosophy",
+      "code": "PHIL5070",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/history-of-moral-and-political-philosophy/2006614"
+    },
+    {
+      "name": "Honours Thesis for Bsc Nursing",
+      "code": "SIT4050P",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/honours-thesis-for-bsc-nursing/2006630"
+    },
+    {
+      "name": "Housing: Policy, Welfare and Markets",
+      "code": "PUBPOL4030",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/housing-policy-welfare-and-markets/2006636"
+    },
+    {
+      "name": "Human Biological Sciences 2",
+      "code": "BIOL2043",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/human-biological-sciences-2/2006640"
+    },
+    {
+      "name": "Human Biology 3A",
+      "code": "BIOL4228",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/human-biology-3a/2006641"
+    },
+    {
+      "name": "Human Biology Advanced Studies 4",
+      "code": "BIOL4227",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/human-biology-advanced-studies-4/2006643"
+    },
+    {
+      "name": "Human Development 3H",
+      "code": "PSYCH4006",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/human-development-3h/2006647"
+    },
+    {
+      "name": "Human Impacts on the Environment",
+      "code": "DUMF2070",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/human-impacts-on-the-environment/5139473"
+    },
+    {
+      "name": "Human Life Sciences 3A",
+      "code": "BIOL3027",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/human-life-sciences-3a/2006653"
+    },
+    {
+      "name": "Human Molecular Genetics Option",
+      "code": "BIOL4055",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/human-molecular-genetics-option/2006655"
+    },
+    {
+      "name": "Human Reproduction and the Law",
+      "code": "LAW4024",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/human-reproduction-and-the-law/2006659"
+    },
+    {
+      "name": "Human Resource Management",
+      "code": "MGT4006",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/human-resource-management/2006661"
+    },
+    {
+      "name": "Human Rights and Global Politics",
+      "code": "POLITIC5007",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/human-rights-and-global-politics/2006664"
+    },
+    {
+      "name": "Human Rights Law",
+      "code": "LAW5031",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/human-rights-law/2006666"
+    },
+    {
+      "name": "Human-Centred Security",
+      "code": "COMPSCI5060",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/human-centred-security/2006667"
+    },
+    {
+      "name": "Human-Computer Interaction",
+      "code": "COMPSCI4023",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/human-computer-interaction/2006668"
+    },
+    {
+      "name": "Igneous Petrology & Geochemistry",
+      "code": "EARTH4013",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/igneous-petrology-geochemistry/2006702"
+    },
+    {
+      "name": "Immigration and Asylum Law",
+      "code": "LAW4026",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/immigration-and-asylum-law/2006708"
+    },
+    {
+      "name": "Immunology 3A",
+      "code": "BIOL4056",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/immunology-3a/2006710"
+    },
+    {
+      "name": "Immunology 3B",
+      "code": "BIOL4057",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/immunology-3b/2006711"
+    },
+    {
+      "name": "Improving Access to Mental Health Care in the Global Context",
+      "code": "MED5447",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/improving-access-to-mental-health-care-in-the-global-context/2006718"
+    },
+    {
+      "name": "Individual Differences 3H",
+      "code": "PSYCH4039",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/individual-differences-3h/4828877"
+    },
+    {
+      "name": "Industrial and Environmental Microbiology Option",
+      "code": "BIOL5145",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/industrial-and-environmental-microbiology-option/2006725"
+    },
+    {
+      "name": "Industrial Organisation",
+      "code": "ECON5089",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/industrial-organisation/2006728"
+    },
+    {
+      "name": "Infection Biology 3A",
+      "code": "BIOL3010",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/infection-biology-3a/2006731"
+    },
+    {
+      "name": "Infection Biology 3B",
+      "code": "BIOL3011",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/infection-biology-3b/2006732"
+    },
+    {
+      "name": "Inference 3",
+      "code": "STATS4012",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/inference-3/2006736"
+    },
+    {
+      "name": "Information Retrieval",
+      "code": "COMPSCI4069",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/information-retrieval/2006742"
+    },
+    {
+      "name": "Information Technology 1",
+      "code": "EDUC1015",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/information-technology-1/2006744"
+    },
+    {
+      "name": "Innovation and Participation At Work",
+      "code": "MGT4033",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/innovation-and-participation-at-work/2006748"
+    },
+    {
+      "name": "Inorganic Chemistry 3",
+      "code": "CHEM3011",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/inorganic-chemistry-3/2006751"
+    },
+    {
+      "name": "Institutions and Judicial Control of the Eu",
+      "code": "LAW3019",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/institutions-and-judicial-control-of-the-eu/2006759"
+    },
+    {
+      "name": "Instrumentation and Data Systems 3",
+      "code": "ENG3034",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/instrumentation-and-data-systems-3/2006760"
+    },
+    {
+      "name": "Integrated Engineering Design",
+      "code": "ENG5043",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/integrated-engineering-design/2006766"
+    },
+    {
+      "name": "Intellectual Property Law",
+      "code": "LAW5033",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/intellectual-property-law/2006769"
+    },
+    {
+      "name": "Interaction and Communication 4H",
+      "code": "PSYCH4027",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/interaction-and-communication-4h/2006775"
+    },
+    {
+      "name": "Interactive Systems",
+      "code": "COMPSCI4014",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/interactive-systems/2006776"
+    },
+    {
+      "name": "International Banking and Financial Markets",
+      "code": "ACCFIN5014",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/international-banking-and-financial-markets/2006791"
+    },
+    {
+      "name": "International Capital Markets",
+      "code": "ACCFIN5017",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/international-capital-markets/2006794"
+    },
+    {
+      "name": "International Criminal Law",
+      "code": "LAW4029",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/international-criminal-law/3192016"
+    },
+    {
+      "name": "International Entrepreneurship and Innovation",
+      "code": "MGT5180",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/international-entrepreneurship-and-innovation/2006801"
+    },
+    {
+      "name": "International Finance",
+      "code": "ECON4017",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/international-finance/2006786"
+    },
+    {
+      "name": "International Financial Accounting",
+      "code": "ACCFIN4014",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/international-financial-accounting/2006805"
+    },
+    {
+      "name": "International Financial Accounting for Multi-National Companies",
+      "code": "ACCFIN5024",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/international-financial-accounting-for-multi-national-companies/2006806"
+    },
+    {
+      "name": "International Human Rights Law",
+      "code": "LAW5043",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/international-human-rights-law/2006812"
+    },
+    {
+      "name": "International Investment Law",
+      "code": "LAW5044",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/international-investment-law/2006813"
+    },
+    {
+      "name": "International Law of Global Security, Peace and Development",
+      "code": "LAW5189",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/international-law-of-global-security-peace-and-development/5137418"
+    },
+    {
+      "name": "International Political Economy: Issues and Debates",
+      "code": "POLITIC4160",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/international-political-economy-issues-and-debates/2006832"
+    },
+    {
+      "name": "International Private Law Level 2",
+      "code": "LAW2006",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/international-private-law-level-2/2006834"
+    },
+    {
+      "name": "International Relations Theory",
+      "code": "POLITIC5078",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/international-relations-theory/2006842"
+    },
+    {
+      "name": "International Security and International Relations",
+      "code": "POLITIC5069",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/international-security-and-international-relations/2006844"
+    },
+    {
+      "name": "International Security and Strategic Studies",
+      "code": "POLITIC5009",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/international-security-and-strategic-studies/2006845"
+    },
+    {
+      "name": "International Services Marketing",
+      "code": null,
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/international-services-marketing/5277076"
+    },
+    {
+      "name": "International Strategic Management",
+      "code": "MGT5182",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/international-strategic-management/2006846"
+    },
+    {
+      "name": "Internet Law",
+      "code": "LAW4131",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/internet-law/2006854"
+    },
+    {
+      "name": "Interview Tips",
+      "code": null,
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/interview-tips/6189534"
+    },
+    {
+      "name": "Introduction to Academic Writing - Dumfries",
+      "code": "DUMF1029",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/introduction-to-academic-writing-dumfries/2006863"
+    },
+    {
+      "name": "Introduction to Aerodynamics 2",
+      "code": "ENG2037",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/introduction-to-aerodynamics-2/2006865"
+    },
+    {
+      "name": "Introduction to Christian Ethics",
+      "code": "TRS4078",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/introduction-to-christian-ethics/2006878"
+    },
+    {
+      "name": "Introduction to Finance, Investments and Institutions",
+      "code": "ACCFIN1016",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/introduction-to-finance-investments-and-institutions/2006908"
+    },
+    {
+      "name": "Introduction to GnuLinux",
+      "code": "COMPSCI9001",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/introduction-to-gnulinux/6598035"
+    },
+    {
+      "name": "Introduction to Legal Study",
+      "code": "LAW1020",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/introduction-to-legal-study/2006915"
+    },
+    {
+      "name": "Introduction to Management Accounting and Control",
+      "code": "ACCFIN1006",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/introduction-to-management-accounting-and-control/2006916"
+    },
+    {
+      "name": "Introduction to Medical Sciences, Lifecycle, Development & Disease",
+      "code": "MED4052",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/introduction-to-medical-sciences-lifecycle-development-disease/2006919"
+    },
+    {
+      "name": "Introduction to R Programming",
+      "code": "STATS5020",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/introduction-to-r-programming/2006933"
+    },
+    {
+      "name": "Introduction to Scottish Culture Semester 1",
+      "code": "HIST1022",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/introduction-to-scottish-culture-semester-1/2006938"
+    },
+    {
+      "name": "Introductory Economics",
+      "code": "ECON1010",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/introductory-economics/2006962"
+    },
+    {
+      "name": "Investment, Finance and Asset Prices",
+      "code": "ECON5068",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/investment-finance-and-asset-prices/2006973"
+    },
+    {
+      "name": "Issues in British Politics",
+      "code": "POLITIC4009",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/issues-in-british-politics/2006980"
+    },
+    {
+      "name": "Italian Culture 1",
+      "code": "ITALIAN1003",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/italian-culture-1/2006998"
+    },
+    {
+      "name": "Jurisprudence",
+      "code": "LAW2007",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/jurisprudence/2007038"
+    },
+    {
+      "name": "Jurisprudence 2",
+      "code": "LAW2008",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/jurisprudence-2/2007039"
+    },
+    {
+      "name": "Key Issues and Debates in Childhood Practice B",
+      "code": "EDUC2097",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/key-issues-and-debates-in-childhood-practice-b/2007043"
+    },
+    {
+      "name": "Key Skills in Biology 2",
+      "code": "BIOL2040",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/key-skills-in-biology-2/2007046"
+    },
+    {
+      "name": "Laboratory Medicine",
+      "code": "MED3002",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/laboratory-medicine/2007051"
+    },
+    {
+      "name": "Laboratory Skills and Scientific Writing",
+      "code": "FC705",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/laboratory-skills-and-scientific-writing/5140274"
+    },
+    {
+      "name": "Labour Law",
+      "code": "LAW2009",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/labour-law/2007055"
+    },
+    {
+      "name": "Land Law",
+      "code": "LAW 2038",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/land-law/4317634"
+    },
+    {
+      "name": "Language Learning for Tesol",
+      "code": "EDUC5940",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/language-learning-for-tesol/2007069"
+    },
+    {
+      "name": "Latin 1A: Beginning Latin",
+      "code": "LATIN1001",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/latin-1a-beginning-latin/2007078"
+    },
+    {
+      "name": "Latin 1B: Reading Latin",
+      "code": "LATIN1002",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/latin-1b-reading-latin/2007079"
+    },
+    {
+      "name": "Latin 2A",
+      "code": "LATIN2001",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/latin-2a/2007080"
+    },
+    {
+      "name": "Latin American Development in the 20th Century",
+      "code": "ESH4078",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/latin-american-development-in-the-20th-century/4522883"
+    },
+    {
+      "name": "Latin American Politics",
+      "code": "POLITIC4013",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/latin-american-politics/2007084"
+    },
+    {
+      "name": "Law and Government",
+      "code": "LAW2010",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/law-and-government/2007092"
+    },
+    {
+      "name": "Law and the Political Economy",
+      "code": "LAW3015",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/law-and-the-political-economy/2007093"
+    },
+    {
+      "name": "Law in the Roman World",
+      "code": "LAW4084",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/law-in-the-roman-world/2007094"
+    },
+    {
+      "name": "Law level 3 guide",
+      "code": null,
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/law-level-3-guide/6428563"
+    },
+    {
+      "name": "Law of Contract",
+      "code": "1027",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/law-of-contract/5541153"
+    },
+    {
+      "name": "Law of Tort",
+      "code": "LAW1029",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/law-of-tort/6119704"
+    },
+    {
+      "name": "Law, Justice and Morality",
+      "code": "LAW4038",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/law-justice-and-morality/2007097"
+    },
+    {
+      "name": "Law, Legal Systems and Legal Methods: An Introduction",
+      "code": "ADED11381E",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/law-legal-systems-and-legal-methods-an-introduction/2007099"
+    },
+    {
+      "name": "Leadership & Change Management",
+      "code": "SIT4051",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/leadership-change-management/2007100"
+    },
+    {
+      "name": "Learning and Teaching in Inclusive Classrooms",
+      "code": "EDUC5363",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/learning-and-teaching-in-inclusive-classrooms/2007124"
+    },
+    {
+      "name": "Learning in Health Professions",
+      "code": "MED5392",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/learning-in-health-professions/2007128"
+    },
+    {
+      "name": "Legal Profession and Legal Ethics",
+      "code": "LAW2030",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/legal-profession-and-legal-ethics/2007135"
+    },
+    {
+      "name": "Legal Responses to Domestic and Honour Abuse",
+      "code": "LAW4165",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/legal-responses-to-domestic-and-honour-abuse/6962144"
+    },
+    {
+      "name": "Legal Theory",
+      "code": "LAW3021",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/legal-theory/2007136"
+    },
+    {
+      "name": "Legal Writing",
+      "code": "LW1004",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/legal-writing/5330847"
+    },
+    {
+      "name": "Level 4 Dissertation",
+      "code": "DUMF4001P",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/level-4-dissertation/2007143"
+    },
+    {
+      "name": "Life, the Universe and Everything! An Introduction to Philosophy",
+      "code": "ADED11259",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/life-the-universe-and-everything-an-introduction-to-philosophy/2007157"
+    },
+    {
+      "name": "Linear Algebra Summer School",
+      "code": "MATHS2031",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/linear-algebra-summer-school/2007160"
+    },
+    {
+      "name": "Linear Models 3",
+      "code": "STATS4015",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/linear-models-3/2007163"
+    },
+    {
+      "name": "Listening in Culture",
+      "code": "MUSIC1020",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/listening-in-culture/2007164"
+    },
+    {
+      "name": "Listening Through Analysis",
+      "code": "MUSIC1021",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/listening-through-analysis/2007165"
+    },
+    {
+      "name": "Llm Dissertation",
+      "code": "LAW5054P",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/llm-dissertation/2007187"
+    },
+    {
+      "name": "Local Anaesthesia, General Anaesthesia and Sedation",
+      "code": "DENT5074",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/local-anaesthesia-general-anaesthesia-and-sedation/2007188"
+    },
+    {
+      "name": "Machine Learning",
+      "code": "COMPSCI4061",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/machine-learning/2007198"
+    },
+    {
+      "name": "Macroeconomic Analysis: Inflation, Unemployment and Growth",
+      "code": "ECON4019",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/macroeconomic-analysis-inflation-unemployment-and-growth/2007200"
+    },
+    {
+      "name": "Macroeconomics",
+      "code": "ECON5019",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/macroeconomics/2007202"
+    },
+    {
+      "name": "Major Earth Processes",
+      "code": "EARTH4016",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/major-earth-processes/2007210"
+    },
+    {
+      "name": "Making Public Policy in the Real World",
+      "code": "PUBPOL4040",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/making-public-policy-in-the-real-world/2007213"
+    },
+    {
+      "name": "Management Accounting 1: a Business Decision Emphasis",
+      "code": "ACCFIN1007",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/management-accounting-1-a-business-decision-emphasis/2007216"
+    },
+    {
+      "name": "Management Accounting 2: Organisational Performance",
+      "code": "ACCFIN2005",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/management-accounting-2-organisational-performance/2007217"
+    },
+    {
+      "name": "Management Accounting and Control",
+      "code": "ACCFIN5036",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/management-accounting-and-control/2007218"
+    },
+    {
+      "name": "Managing Across Cultures and Comparative Management",
+      "code": "MGT5052",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/managing-across-cultures-and-comparative-management/2007231"
+    },
+    {
+      "name": "Managing Creativity and Innovation",
+      "code": "MGT5213",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/managing-creativity-and-innovation/2007238"
+    },
+    {
+      "name": "Managing Diversity",
+      "code": "MGT5348",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/managing-diversity/2007239"
+    },
+    {
+      "name": "Mandarin Advanced Translation and Language Study 1",
+      "code": "NANKAI5005",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/mandarin-advanced-translation-and-language-study-1/2007250"
+    },
+    {
+      "name": "Manging Creativity and Innovation",
+      "code": "MGT5302",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/manging-creativity-and-innovation/2007253"
+    },
+    {
+      "name": "Market Analysis",
+      "code": "MGT5259",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/market-analysis/2007260"
+    },
+    {
+      "name": "Marketing Campaign Development: Research and Tactics",
+      "code": "MGT3024",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/marketing-campaign-development-research-and-tactics/2007265"
+    },
+    {
+      "name": "Marketing Management",
+      "code": "MGT5274",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/marketing-management/2007270"
+    },
+    {
+      "name": "Marketing Research",
+      "code": "MGT5327",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/marketing-research/2007271"
+    },
+    {
+      "name": "Materials and Manufacturing 3N",
+      "code": "SIT3008",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/materials-and-manufacturing-3n/2007280"
+    },
+    {
+      "name": "Materials Engineering",
+      "code": "ENG5052",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/materials-engineering/2007281"
+    },
+    {
+      "name": "Materials Engineering 5",
+      "code": "ENG5300",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/materials-engineering-5/2007283"
+    },
+    {
+      "name": "Materials Engineering M4",
+      "code": "ENG4091",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/materials-engineering-m4/2007284"
+    },
+    {
+      "name": "Mathematical Finance",
+      "code": "ECON5020",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/mathematical-finance/2007285"
+    },
+    {
+      "name": "Mathematical Methods 1",
+      "code": "PHYS4011",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/mathematical-methods-1/2007286"
+    },
+    {
+      "name": "mathematics 1",
+      "code": "MATHS1017",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/mathematics-1/7564290"
+    },
+    {
+      "name": "Mathematics 1R",
+      "code": "MATHS1001",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/mathematics-1r/2007296"
+    },
+    {
+      "name": "Mathematics 1X",
+      "code": "MATHS1004",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/mathematics-1x/2007298"
+    },
+    {
+      "name": "Mathematics 1Y",
+      "code": "MATHS1005",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/mathematics-1y/2007299"
+    },
+    {
+      "name": "Mathematics 2A: Multivariable Calculus",
+      "code": "MATHS2001",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/mathematics-2a-multivariable-calculus/2007300"
+    },
+    {
+      "name": "Mathematics 2B: Linear Algebra",
+      "code": "MATHS2004",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/mathematics-2b-linear-algebra/2007301"
+    },
+    {
+      "name": "Mathematics 2C: Topics in Applied Mathematics",
+      "code": "MATHS2005",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/mathematics-2c-topics-in-applied-mathematics/2007302"
+    },
+    {
+      "name": "Mathematics 2D: Topics in Linear Algebra and Calculus",
+      "code": "MATHS2006",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/mathematics-2d-topics-in-linear-algebra-and-calculus/2007303"
+    },
+    {
+      "name": "Mathematics 2E: Introduction to Real Analysis",
+      "code": "MATHS2007",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/mathematics-2e-introduction-to-real-analysis/2007304"
+    },
+    {
+      "name": "Mathematics 2F: Foundations of Pure Mathematics",
+      "code": "MATHS2008",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/mathematics-2f-foundations-of-pure-mathematics/2007305"
+    },
+    {
+      "name": "Mathematics 3S: Mathematical Methods",
+      "code": "MATHS3019",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/mathematics-3s-mathematical-methods/2007310"
+    },
+    {
+      "name": "Mathematics Ae2X",
+      "code": "ENG2042",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/mathematics-ae2x/2007315"
+    },
+    {
+      "name": "Mathematics Msc Projects",
+      "code": "MATHS5030P",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/mathematics-msc-projects/2007317"
+    },
+    {
+      "name": "Mba Summer School",
+      "code": "MGT5129",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/mba-summer-school/2007323"
+    },
+    {
+      "name": "MBCHB 1st Year",
+      "code": "MED1003",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/mbchb-1st-year/2007324"
+    },
+    {
+      "name": "MBCHB 2nd Year",
+      "code": "MED2004",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/mbchb-2nd-year/2007325"
+    },
+    {
+      "name": "Mbchb 3 Coursework",
+      "code": "MED3003",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/mbchb-3-coursework/2007326"
+    },
+    {
+      "name": "MBCHB 3rd Year",
+      "code": "MED3004",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/mbchb-3rd-year/2007327"
+    },
+    {
+      "name": "Mbchb 5 Clinical Examination",
+      "code": "MED5033",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/mbchb-5-clinical-examination/2007328"
+    },
+    {
+      "name": "MBCHB Year 4",
+      "code": "MED4004",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/mbchb-year-4/2007330"
+    },
+    {
+      "name": "MBCHB Year 5",
+      "code": "MED5035",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/mbchb-year-5/2007331"
+    },
+    {
+      "name": "MBCHB1 Coursework",
+      "code": "MED1004",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/mbchb1-coursework/2007332"
+    },
+    {
+      "name": "Mbchb1 Written Paper",
+      "code": "MED1005",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/mbchb1-written-paper/2007333"
+    },
+    {
+      "name": "Mbchb2 Coursework",
+      "code": "MED2005",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/mbchb2-coursework/2007334"
+    },
+    {
+      "name": "Mbchb2 Written Paper",
+      "code": "MED2006",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/mbchb2-written-paper/2007335"
+    },
+    {
+      "name": "Mbchb4 Written Paper",
+      "code": "MED4050",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/mbchb4-written-paper/2007336"
+    },
+    {
+      "name": "Measure and Probability",
+      "code": "MATHS4116",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/measure-and-probability/4904442"
+    },
+    {
+      "name": "Mechanical Design 1",
+      "code": "ENG1016",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/mechanical-design-1/2007338"
+    },
+    {
+      "name": "Mechanical Design 4",
+      "code": "ENG4186",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/mechanical-design-4/2007341"
+    },
+    {
+      "name": "Mechanics of Structures 2A",
+      "code": "ENG2081",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/mechanics-of-structures-2a/2007348"
+    },
+    {
+      "name": "Mechanics of Structures 2a",
+      "code": "MS2A",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/mechanics-of-structures-2a/7742478"
+    },
+    {
+      "name": "Mechanics of Structures 2B",
+      "code": "ENG2082",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/mechanics-of-structures-2b/2007349"
+    },
+    {
+      "name": "Mechatronic Team Project 4",
+      "code": "ENG4153",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/mechatronic-team-project-4/2007352"
+    },
+    {
+      "name": "Media, Communications and Journalism: Criticism and Theory",
+      "code": "SOCIO5080",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/media-communications-and-journalism-criticism-and-theory/2007375"
+    },
+    {
+      "name": "Medical Imaging",
+      "code": "PHYS4013",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/medical-imaging/2007382"
+    },
+    {
+      "name": "Medical Ind Learning Exam",
+      "code": "MED1006",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/medical-ind-learning-exam/2007384"
+    },
+    {
+      "name": "Medical law",
+      "code": null,
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/medical-law/7585858"
+    },
+    {
+      "name": "Medicine",
+      "code": "a100",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/medicine/3210205"
+    },
+    {
+      "name": "Medicine & the State in Modern Britain",
+      "code": "ESH4076",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/medicine-the-state-in-modern-britain/2007403"
+    },
+    {
+      "name": "Medieval Ireland 800 - 1100",
+      "code": "CELTCIV4042",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/medieval-ireland-800-1100/2007412"
+    },
+    {
+      "name": "Memory, Trauma, and History in Contemporary Literature and Culture",
+      "code": "MODLANG4008",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/memory-trauma-and-history-in-contemporary-literature-and-culture/2007428"
+    },
+    {
+      "name": "Mental Health Promotion Across the Life-Span",
+      "code": "MED5449",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/mental-health-promotion-across-the-life-span/2007432"
+    },
+    {
+      "name": "Metamorphic Petrology",
+      "code": "EARTH4017",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/metamorphic-petrology/2007437"
+    },
+    {
+      "name": "Microbiology and Immunology 2",
+      "code": "BIOL2044",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/microbiology-and-immunology-2/2007452"
+    },
+    {
+      "name": "microeconomic analysis",
+      "code": "ECON4020",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/microeconomic-analysis/6741538"
+    },
+    {
+      "name": "Microeconomic Theory 1 and 2",
+      "code": "ECON5081",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/microeconomic-theory-1-and-2/2007455"
+    },
+    {
+      "name": "Microeconomics E1",
+      "code": "ECON1003",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/microeconomics-e1/2007456"
+    },
+    {
+      "name": "Microelectronics in Consumer Products P4",
+      "code": "ENG4098",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/microelectronics-in-consumer-products-p4/2007461"
+    },
+    {
+      "name": "Mobile Human-Computer Interaction",
+      "code": "COMPSCI4068",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/mobile-human-computer-interaction/2007482"
+    },
+    {
+      "name": "Modelling and Forecasting Financial Markets",
+      "code": "ECON5022",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/modelling-and-forecasting-financial-markets/2007484"
+    },
+    {
+      "name": "Modern Britain At War: From Rorke's Drift to Port Stanley",
+      "code": "HIST4186",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/modern-britain-at-war-from-rorkes-drift-to-port-stanley/2007488"
+    },
+    {
+      "name": "Modern Greek Stage 1",
+      "code": "ADED1074E",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/modern-greek-stage-1/2007497"
+    },
+    {
+      "name": "Modern Judaism: Aspects of Life and Literature Non Honours",
+      "code": "TRS3035",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/modern-judaism-aspects-of-life-and-literature-non-honours/2007504"
+    },
+    {
+      "name": "Molecular & Cellular Biology 3A",
+      "code": "BIOL4074",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/molecular-cellular-biology-3a/2007516"
+    },
+    {
+      "name": "Molecular Research Skills",
+      "code": "BIOL5229",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/molecular-research-skills/2007524"
+    },
+    {
+      "name": "Molecules and Medicine",
+      "code": "MED1007",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/molecules-and-medicine/2007527"
+    },
+    {
+      "name": "Moral Philosophy",
+      "code": "PHIL5074",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/moral-philosophy/2007537"
+    },
+    {
+      "name": "Msc Advanced Practice in Veterinary Nursing: Dissertation",
+      "code": "VETMED5060P",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/msc-advanced-practice-in-veterinary-nursing-dissertation/2007602"
+    },
+    {
+      "name": "Msc Biomedical Sciences Project",
+      "code": "BIOL5266P",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/msc-biomedical-sciences-project/2007604"
+    },
+    {
+      "name": "Msc Bioscience Research Project",
+      "code": "BIOL5316P",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/msc-bioscience-research-project/2007606"
+    },
+    {
+      "name": "Msc Dissertation in English Language & English Linguistics",
+      "code": "ENGLANG5084P",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/msc-dissertation-in-english-language-english-linguistics/2007609"
+    },
+    {
+      "name": "Msc in English Language and English Linguistics - Onomastics",
+      "code": "ENGLANG5081",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/msc-in-english-language-and-english-linguistics-onomastics/2007613"
+    },
+    {
+      "name": "Msci Research Proposal and Project",
+      "code": "COMPSCI5073P",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/msci-research-proposal-and-project/2007627"
+    },
+    {
+      "name": "Myths, Fictions, and Histories of Alexander the Great",
+      "code": "CLASSIC4003",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/myths-fictions-and-histories-of-alexander-the-great/2007664"
+    },
+    {
+      "name": "Navigation Systems 4",
+      "code": "ENG4184",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/navigation-systems-4/2007683"
+    },
+    {
+      "name": "Networks and Operating systems",
+      "code": "NOSE2",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/networks-and-operating-systems/7297258"
+    },
+    {
+      "name": "Neuroscience 3A",
+      "code": "BIOL4234",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/neuroscience-3a/2007695"
+    },
+    {
+      "name": "Neuroscience 3B",
+      "code": "BIOL4235",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/neuroscience-3b/2007696"
+    },
+    {
+      "name": "Neuroscience of Decision Making 4H",
+      "code": "PSYCH4064",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/neuroscience-of-decision-making-4h/2007699"
+    },
+    {
+      "name": "Nineteenth-Century French Literature and the Language of Race",
+      "code": "FRENCH4096",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/nineteenth-century-french-literature-and-the-language-of-race/2007711"
+    },
+    {
+      "name": "Nursing 3",
+      "code": "NURSING3024",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/nursing-3/2007731"
+    },
+    {
+      "name": "Obligations 1A",
+      "code": "LAW1021",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/obligations-1a/2007744"
+    },
+    {
+      "name": "Obligations 1B",
+      "code": "LAW1022",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/obligations-1b/2007745"
+    },
+    {
+      "name": "Obligations 1B",
+      "code": null,
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/obligations-1b/4518075"
+    },
+    {
+      "name": "Obstetrics and Gyn",
+      "code": null,
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/obstetrics-and-gyn/5293443"
+    },
+    {
+      "name": "Offending Lives: the Consequences of Criminal Justice",
+      "code": "SOCIO5022",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/offending-lives-the-consequences-of-criminal-justice/2007747"
+    },
+    {
+      "name": "Omic Analyses for the Biomedical Sciences: From Genomics to Metabolomic",
+      "code": "BIOL5197",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/omic-analyses-for-the-biomedical-sciences-from-genomics-to-metabolomic/2007754"
+    },
+    {
+      "name": "Operating Systems",
+      "code": "COMPSCI4011",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/operating-systems/2007761"
+    },
+    {
+      "name": "Operating Systems",
+      "code": "SIT4031",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/operating-systems/2007762"
+    },
+    {
+      "name": "Operational and Strategic Hrm",
+      "code": "MGT5350",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/operational-and-strategic-hrm/2007763"
+    },
+    {
+      "name": "Operations Management",
+      "code": "MGT5275",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/operations-management/2007764"
+    },
+    {
+      "name": "Optical Communications",
+      "code": "ENG5066",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/optical-communications/2007765"
+    },
+    {
+      "name": "Organic Chemistry 3",
+      "code": "CHEM3013",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/organic-chemistry-3/2007774"
+    },
+    {
+      "name": "Organisational Behaviour",
+      "code": "MGT1022",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/organisational-behaviour/2007784"
+    },
+    {
+      "name": "OSCE Example",
+      "code": null,
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/osce-example/5095904"
+    },
+    {
+      "name": "Paediatric Gastroenterology and Endocrinology",
+      "code": "MED5505",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/paediatric-gastroenterology-and-endocrinology/2007794"
+    },
+    {
+      "name": "Pastoral Theology",
+      "code": "TRS4079",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/pastoral-theology/2007812"
+    },
+    {
+      "name": "People, Things, Ideas: the Making of Modern Societies, 1500-2000",
+      "code": "HIST2011",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/people-things-ideas-the-making-of-modern-societies-1500-2000/2007826"
+    },
+    {
+      "name": "Pg Beginner Italian 1",
+      "code": "ITALIAN5008",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/pg-beginner-italian-1/2007859"
+    },
+    {
+      "name": "Pg Intermediate Italian",
+      "code": "ITALIAN5010",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/pg-intermediate-italian/2007875"
+    },
+    {
+      "name": "Pharmaceutical Medicine",
+      "code": "MED5165",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/pharmaceutical-medicine/2007886"
+    },
+    {
+      "name": "Pharmacogenomics & Molecular Medicine - Fundamentals of Molecular Medicine",
+      "code": "MED5381",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/pharmacogenomics-molecular-medicine-fundamentals-of-molecular-medicine/2007887"
+    },
+    {
+      "name": "Pharmacology",
+      "code": "MED2008",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/pharmacology/2007888"
+    },
+    {
+      "name": "Phase 3",
+      "code": "MBCHB3",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/phase-3/7221600"
+    },
+    {
+      "name": "Philosophy 1",
+      "code": "DUMF1064",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/philosophy-1/2007895"
+    },
+    {
+      "name": "Philosophy 1A",
+      "code": null,
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/philosophy-1a/5148073"
+    },
+    {
+      "name": "Philosophy 1K: Knowledge and the World",
+      "code": "PHIL1001",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/philosophy-1k-knowledge-and-the-world/1948002"
+    },
+    {
+      "name": "Philosophy 1M: Right and Wrong",
+      "code": "PHIL1002",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/philosophy-1m-right-and-wrong/2007896"
+    },
+    {
+      "name": "Philosophy 2K:Knowledge, Meaning & Inference",
+      "code": "PHIL2001",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/philosophy-2kknowledge-meaning-inference/2007897"
+    },
+    {
+      "name": "Philosophy 2M: Self & Society",
+      "code": "PHIL2002",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/philosophy-2m-self-society/2007898"
+    },
+    {
+      "name": "Philosophy Aos-1",
+      "code": "PHIL3002",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/philosophy-aos-1/2007902"
+    },
+    {
+      "name": "Photography and Modernism",
+      "code": "HISTART4035",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/photography-and-modernism/2007921"
+    },
+    {
+      "name": "Physical Chemistry 3",
+      "code": "CHEM3015",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/physical-chemistry-3/2007929"
+    },
+    {
+      "name": "Physical Oceanography",
+      "code": "GEOG4104",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/physical-oceanography/2007938"
+    },
+    {
+      "name": "Physics 1",
+      "code": "PHYS1001",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/physics-1/2007939"
+    },
+    {
+      "name": "Physics 2",
+      "code": "PHYS2001",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/physics-2/2007940"
+    },
+    {
+      "name": "Physics 2T: Programming Under Linux",
+      "code": "PHYS2003",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/physics-2t-programming-under-linux/2007941"
+    },
+    {
+      "name": "Physics I",
+      "code": "UESTC1009",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/physics-i/2007946"
+    },
+    {
+      "name": "Physics II",
+      "code": "UESTC2010",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/physics-ii/2007947"
+    },
+    {
+      "name": "Physics of Fluids 4",
+      "code": "ENG4102",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/physics-of-fluids-4/2007950"
+    },
+    {
+      "name": "Physiological Determinants of Performance Option",
+      "code": "BIOL4215",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/physiological-determinants-of-performance-option/2007957"
+    },
+    {
+      "name": "Physiological Psychology 3H",
+      "code": "PSYCH4065",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/physiological-psychology-3h/2007961"
+    },
+    {
+      "name": "Physiology 3A",
+      "code": "BIOL4238",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/physiology-3a/2007963"
+    },
+    {
+      "name": "Physiology and Sports Science 3B",
+      "code": "BIOL4108",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/physiology-and-sports-science-3b/2007967"
+    },
+    {
+      "name": "Political Philosophy",
+      "code": "PHIL5080",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/political-philosophy/2008009"
+    },
+    {
+      "name": "Political Theology",
+      "code": "TRS4099",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/political-theology/2008014"
+    },
+    {
+      "name": "Politics 1A: Introduction to Liberal Democracy",
+      "code": "POLITIC1001",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/politics-1a-introduction-to-liberal-democracy/2008015"
+    },
+    {
+      "name": "Politics 1B: Comparative Politics",
+      "code": "POLITIC1002",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/politics-1b-comparative-politics/2008016"
+    },
+    {
+      "name": "Politics 2A: History of Political Thought",
+      "code": "POLITIC2001",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/politics-2a-history-of-political-thought/2008017"
+    },
+    {
+      "name": "Politics 2B: International Relations",
+      "code": "POLITIC2002",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/politics-2b-international-relations/2008018"
+    },
+    {
+      "name": "Politics Dissertation",
+      "code": "POLITIC4017P",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/politics-dissertation/2008022"
+    },
+    {
+      "name": "Politics in Southern Europe",
+      "code": "POLITIC4152",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/politics-in-southern-europe/2008023"
+    },
+    {
+      "name": "Politics, Communication and Democracy",
+      "code": "POLITIC4102",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/politics-communication-and-democracy/2008027"
+    },
+    {
+      "name": "Portfolio Analysis and Investment",
+      "code": "ECON5027",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/portfolio-analysis-and-investment/2008040"
+    },
+    {
+      "name": "Postgraduate Dentistry, Core 40",
+      "code": "DENT5052",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/postgraduate-dentistry-core-40/2008065"
+    },
+    {
+      "name": "Postitional Astronomy",
+      "code": "Astro1001",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/postitional-astronomy/5805310"
+    },
+    {
+      "name": "Power and Empowerment",
+      "code": "EDUC2095",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/power-and-empowerment/2008071"
+    },
+    {
+      "name": "Power Engineering",
+      "code": "UESTC3005",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/power-engineering/2008078"
+    },
+    {
+      "name": "Power Systems 4",
+      "code": "ENG4104",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/power-systems-4/2008080"
+    },
+    {
+      "name": "Practical News Journalism",
+      "code": "SOCIO5081",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/practical-news-journalism/2008081"
+    },
+    {
+      "name": "Practice Placement",
+      "code": "EDUC5412",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/practice-placement/2008094"
+    },
+    {
+      "name": "Precision Diagnostics",
+      "code": "BIOL5357",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/precision-diagnostics/4738447"
+    },
+    {
+      "name": "Principles of Healthcare Law",
+      "code": "LAW3011",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/principles-of-healthcare-law/2008125"
+    },
+    {
+      "name": "Principles of Management",
+      "code": "MGT1023",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/principles-of-management/2008127"
+    },
+    {
+      "name": "Principles of Pharmacology",
+      "code": "MED5171",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/principles-of-pharmacology/2008128"
+    },
+    {
+      "name": "Principles of Probability and Statistics",
+      "code": "STATS5022",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/principles-of-probability-and-statistics/2008130"
+    },
+    {
+      "name": "Principles of Reconstructive Plastic Surgery and Burn Injury Care",
+      "code": "NURSING3028",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/principles-of-reconstructive-plastic-surgery-and-burn-injury-care/2008133"
+    },
+    {
+      "name": "Private Client",
+      "code": "LAW5061",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/private-client/2008137"
+    },
+    {
+      "name": "Probability",
+      "code": "STATS5024",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/probability/2008140"
+    },
+    {
+      "name": "Problems in Mammalian Reproduction Option",
+      "code": "BIOL4117",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/problems-in-mammalian-reproduction-option/2008146"
+    },
+    {
+      "name": "Professional Skills",
+      "code": "STATS5023",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/professional-skills/2008170"
+    },
+    {
+      "name": "Professional Skills and Issues",
+      "code": "COMPSCI4038",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/professional-skills-and-issues/2008173"
+    },
+    {
+      "name": "Professional Software Development",
+      "code": "COMPSCI4015",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/professional-software-development/2008176"
+    },
+    {
+      "name": "Professional Software Development",
+      "code": "SIT4032",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/professional-software-development/2008177"
+    },
+    {
+      "name": "Professional, Life, and Study Skills",
+      "code": "MED1016",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/professional-life-and-study-skills/2008181"
+    },
+    {
+      "name": "Programming",
+      "code": "COMPSCI4039",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/programming/2008182"
+    },
+    {
+      "name": "Programming Languages",
+      "code": "SIT4033",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/programming-languages/2008185"
+    },
+    {
+      "name": "Project Management",
+      "code": "MGT 4017",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/project-management/5684242"
+    },
+    {
+      "name": "Property Law",
+      "code": "LAW2011",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/property-law/2008188"
+    },
+    {
+      "name": "Propulsion & Turbomachinery 3",
+      "code": "ENG3042",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/propulsion-turbomachinery-3/2008190"
+    },
+    {
+      "name": "Psychology 1A",
+      "code": "Psych1001",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/psychology-1a/5960752"
+    },
+    {
+      "name": "Psychology 1A: Biological and Experimental",
+      "code": "PSYCH1001",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/psychology-1a-biological-and-experimental/2008197"
+    },
+    {
+      "name": "Psychology 1B: Social, Developmental, Health and Individual Differences",
+      "code": "PSYCH1002",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/psychology-1b-social-developmental-health-and-individual-differences/2008198"
+    },
+    {
+      "name": "Psychology 2A",
+      "code": "PSYCH2010",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/psychology-2a/2008199"
+    },
+    {
+      "name": "Psychology 2B",
+      "code": "PSYCH2011",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/psychology-2b/2008200"
+    },
+    {
+      "name": "Psychology and Financial Markets",
+      "code": "ACCFIN4063",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/psychology-and-financial-markets/2008203"
+    },
+    {
+      "name": "Psychology Dissertation",
+      "code": "PSYCH5040",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/psychology-dissertation/2008206"
+    },
+    {
+      "name": "Public Economics",
+      "code": "ECON4096",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/public-economics/2008217"
+    },
+    {
+      "name": "Public International Law",
+      "code": "LAW1006",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/public-international-law/2008222"
+    },
+    {
+      "name": "Punishment and In/Justice",
+      "code": "SOCIO5019",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/punishment-and-injustice/2008227"
+    },
+    {
+      "name": "Punishment, Internment and Containment: the History and Archaeology of Prisons and Camps",
+      "code": "HIST4204",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/punishment-internment-and-containment-the-history-and-archaeology-of-prisons-and-camps/2008229"
+    },
+    {
+      "name": "Qualitative Research Methods Mini Project 3H",
+      "code": "PSYCH4057",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/qualitative-research-methods-mini-project-3h/2008244"
+    },
+    {
+      "name": "Quantum Information",
+      "code": "PHYS5039",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/quantum-information/2008253"
+    },
+    {
+      "name": "R Programming",
+      "code": "STATS5078",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/r-programming/2008258"
+    },
+    {
+      "name": "Radar and Electro-Optic Systems 4",
+      "code": "ENG4185",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/radar-and-electro-optic-systems-4/2008262"
+    },
+    {
+      "name": "Radar and Electro-Optic Systems M",
+      "code": "ENG5072",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/radar-and-electro-optic-systems-m/2008264"
+    },
+    {
+      "name": "Radiotherapy Physics",
+      "code": "MED5302",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/radiotherapy-physics/2008267"
+    },
+    {
+      "name": "Realism and Fantasy in Victorian Literature",
+      "code": "ENGLIT4101",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/realism-and-fantasy-in-victorian-literature/2008292"
+    },
+    {
+      "name": "Recombinant Protein Expression",
+      "code": "BIOL5305",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/recombinant-protein-expression/2008299"
+    },
+    {
+      "name": "Recommender Systems",
+      "code": "COMPSCI4075",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/recommender-systems/6358327"
+    },
+    {
+      "name": "Records and Evidence",
+      "code": "ARTMED5028",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/records-and-evidence/2008301"
+    },
+    {
+      "name": "Regression Models",
+      "code": "STATS5025",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/regression-models/2008314"
+    },
+    {
+      "name": "Research Approaches in Health Care",
+      "code": "NURSING5066",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/research-approaches-in-health-care/2008350"
+    },
+    {
+      "name": "Research Design",
+      "code": "SPS5034",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/research-design/2008351"
+    },
+    {
+      "name": "Research Design and Method Selection",
+      "code": "SPS4003",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/research-design-and-method-selection/2008352"
+    },
+    {
+      "name": "Research Dissertation",
+      "code": "MED5368P",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/research-dissertation/2008354"
+    },
+    {
+      "name": "Research Methods",
+      "code": "MED5468",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/research-methods/2008365"
+    },
+    {
+      "name": "Research Methods",
+      "code": "PSYCH5075",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/research-methods/2008366"
+    },
+    {
+      "name": "Research Methods and Research Design",
+      "code": "ECON5082",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/research-methods-and-research-design/2008372"
+    },
+    {
+      "name": "Research Methods and Techniques",
+      "code": "COMPSCI4065",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/research-methods-and-techniques/2008374"
+    },
+    {
+      "name": "Research Methods for Environmental Scientists",
+      "code": "DUMF2024",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/research-methods-for-environmental-scientists/2008377"
+    },
+    {
+      "name": "Research Skills 2",
+      "code": "VETSCI2008",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/research-skills-2/2008397"
+    },
+    {
+      "name": "Research Training",
+      "code": "CLASSIC5034",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/research-training/2008403"
+    },
+    {
+      "name": "Robotics 4",
+      "code": "ENG4118",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/robotics-4/2008427"
+    },
+    {
+      "name": "Robotics Foundations",
+      "code": "COMPSCI4076",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/robotics-foundations/2008430"
+    },
+    {
+      "name": "Roman Law of Property & Obligations 1",
+      "code": "LAW1007",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/roman-law-of-property-obligations-1/2008441"
+    },
+    {
+      "name": "Russian Poetry, Drama & Shorter Prose",
+      "code": "RUSSIAN4005",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/russian-poetry-drama-shorter-prose/2008483"
+    },
+    {
+      "name": "Sales Management",
+      "code": "MGT5262",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/sales-management/2008491"
+    },
+    {
+      "name": "Science Fundamentals-1X",
+      "code": "CHEM1002",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/science-fundamentals-1x/2008500"
+    },
+    {
+      "name": "Science Fundamentals-1Y",
+      "code": "CHEM1003",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/science-fundamentals-1y/2008501"
+    },
+    {
+      "name": "Scottish Government",
+      "code": "POLITIC4022",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/scottish-government/2008519"
+    },
+    {
+      "name": "Scottish Literature 1A: Approaching Scottish Literature",
+      "code": "SCOTLIT1013",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/scottish-literature-1a-approaching-scottish-literature/2008524"
+    },
+    {
+      "name": "Scottish Literature: Theory and Criticism",
+      "code": "SCOTLIT4023",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/scottish-literature-theory-and-criticism/2008528"
+    },
+    {
+      "name": "Scottish Migration and the Scottish People C1770-C.1860",
+      "code": "HIST4123",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/scottish-migration-and-the-scottish-people-c1770-c1860/2008529"
+    },
+    {
+      "name": "Secured  Software Engineering  (M)",
+      "code": "COMPSCI5093",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/secured-software-engineering-m/5354328"
+    },
+    {
+      "name": "Semiconductor Physics",
+      "code": "PHYS4027",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/semiconductor-physics/2008556"
+    },
+    {
+      "name": "Senior Honours Reading Seminar",
+      "code": "PHIL4042",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/senior-honours-reading-seminar/2008559"
+    },
+    {
+      "name": "Service and Operations Management",
+      "code": "MGT2012",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/service-and-operations-management/5807526"
+    },
+    {
+      "name": "Sgilean Canain 4",
+      "code": "GAELIC4012",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/sgilean-canain-4/2008572"
+    },
+    {
+      "name": "Signals and Systems",
+      "code": "UESTC3007",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/signals-and-systems/2008583"
+    },
+    {
+      "name": "Simulation in Health Professions Education",
+      "code": "MED5395",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/simulation-in-health-professions-education/2008584"
+    },
+    {
+      "name": "Simulation of Engineering Systems 3S",
+      "code": "SIT3051",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/simulation-of-engineering-systems-3s/2008587"
+    },
+    {
+      "name": "Sleep & Circadian Timing",
+      "code": "PSYCH4076",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/sleep-circadian-timing/2008598"
+    },
+    {
+      "name": "Sleep and Circadian Timing 4H",
+      "code": "PSYCH4040",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/sleep-and-circadian-timing-4h/2008600"
+    },
+    {
+      "name": "Social and Community Entrepreneurship",
+      "code": "MGT4067",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/social-and-community-entrepreneurship/2008607"
+    },
+    {
+      "name": "Social and Cultural Contexts of Childhood",
+      "code": "EDUC3034",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/social-and-cultural-contexts-of-childhood/2008608"
+    },
+    {
+      "name": "Social and Public Policy 1A: Foundations of Welfare",
+      "code": "PUBPOL1010",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/social-and-public-policy-1a-foundations-of-welfare/2008611"
+    },
+    {
+      "name": "Social and Public Policy 1B: Understanding Glasgow in a Globalised World",
+      "code": "PUBPOL1011",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/social-and-public-policy-1b-understanding-glasgow-in-a-globalised-world/2008612"
+    },
+    {
+      "name": "Social History and Cultural Politics",
+      "code": "CEES4060",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/social-history-and-cultural-politics/2008617"
+    },
+    {
+      "name": "Social Psychology 3H",
+      "code": "PSYCH4036",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/social-psychology-3h/2008621"
+    },
+    {
+      "name": "Social Psychology_ Psych Studies",
+      "code": "PSYCH3008",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/social-psychology-psych-studies/2008623"
+    },
+    {
+      "name": "Social Security Law",
+      "code": "LAW4206",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/social-security-law/7461329"
+    },
+    {
+      "name": "Social Theory",
+      "code": "SOCIO4090",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/social-theory/2008625"
+    },
+    {
+      "name": "Sociology",
+      "code": "Sociology 2A",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/sociology/1942705"
+    },
+    {
+      "name": "Sociology 1A: Self and Society",
+      "code": "SOCIO1009",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/sociology-1a-self-and-society/2009349"
+    },
+    {
+      "name": "Sociology 1B: Critical Research in Contemporary Societies",
+      "code": "SOCIO1010",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/sociology-1b-critical-research-in-contemporary-societies/2009350"
+    },
+    {
+      "name": "Sociology 2A",
+      "code": "SOCIO2020",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/sociology-2a/2009351"
+    },
+    {
+      "name": "Sociology 2B",
+      "code": "SOCIO2021",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/sociology-2b/2009352"
+    },
+    {
+      "name": "Software Engineering 3N",
+      "code": "SIT3013",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/software-engineering-3n/2008635"
+    },
+    {
+      "name": "Soil Mechanics 2",
+      "code": "ENG2047",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/soil-mechanics-2/2008641"
+    },
+    {
+      "name": "Solid State Lighting",
+      "code": "UESTC2019",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/solid-state-lighting/2008643"
+    },
+    {
+      "name": "Solid State Physics",
+      "code": "PHYS4052",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/solid-state-physics/2008645"
+    },
+    {
+      "name": "Sonic Arts: Individual Creative Project",
+      "code": "MUSIC4083",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/sonic-arts-individual-creative-project/2008652"
+    },
+    {
+      "name": "South European Studies",
+      "code": null,
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/south-european-studies/5139051"
+    },
+    {
+      "name": "Southern Europe in International Affairs",
+      "code": "POLITIC5087",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/southern-europe-in-international-affairs/5139058"
+    },
+    {
+      "name": "Space Flight Dynamics 4",
+      "code": "ENG4121",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/space-flight-dynamics-4/2008660"
+    },
+    {
+      "name": "Spanish 1 Beginners",
+      "code": "HISP1012",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/spanish-1-beginners/2008667"
+    },
+    {
+      "name": "Spanish Spoken Language",
+      "code": "HISP4087",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/spanish-spoken-language/2008688"
+    },
+    {
+      "name": "Spanish Stage 1",
+      "code": "ADED1093E",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/spanish-stage-1/2008689"
+    },
+    {
+      "name": "Spanish Stage 2",
+      "code": "ADED1094E",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/spanish-stage-2/2008690"
+    },
+    {
+      "name": "Spatial Statistics",
+      "code": "STATS5012",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/spatial-statistics/2008697"
+    },
+    {
+      "name": "Sports Injuries: Clinical Sports Injuries",
+      "code": "MED5354",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/sports-injuries-clinical-sports-injuries/2008714"
+    },
+    {
+      "name": "Sports Science 3A",
+      "code": "BIOL3015",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/sports-science-3a/2008717"
+    },
+    {
+      "name": "Startup Growth Engineering (H)",
+      "code": "COMPSCI4087",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/startup-growth-engineering-h/5354329"
+    },
+    {
+      "name": "Statics 1",
+      "code": "ENG1065",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/statics-1/2008721"
+    },
+    {
+      "name": "Statistical Analysis and Methods",
+      "code": "ACCFIN2018",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/statistical-analysis-and-methods/2008722"
+    },
+    {
+      "name": "Statistical Genetics",
+      "code": "STATS5011",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/statistical-genetics/2008724"
+    },
+    {
+      "name": "Statistical Inference",
+      "code": "STATS5028",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/statistical-inference/2008725"
+    },
+    {
+      "name": "Statistical Methods, Models and Computing",
+      "code": "Statistics 2Y",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/statistical-methods-models-and-computing/7756697"
+    },
+    {
+      "name": "Statistics 1A: Applied Statistics",
+      "code": "STATS1010",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/statistics-1a-applied-statistics/2008732"
+    },
+    {
+      "name": "Statistics 2X: Probability II",
+      "code": "STATS2005",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/statistics-2x-probability-ii/2008738"
+    },
+    {
+      "name": "Statistics 3G: Generalised Linear Models",
+      "code": "STATS3014",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/statistics-3g-generalised-linear-models/2008742"
+    },
+    {
+      "name": "Statistics for Business Research",
+      "code": "ACCFIN5039",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/statistics-for-business-research/2008749"
+    },
+    {
+      "name": "Statistics Work Placement Year",
+      "code": "STATS4061P",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/statistics-work-placement-year/2008757"
+    },
+    {
+      "name": "Statsitics 3D: Design of Experiments",
+      "code": "STATS3013",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/statsitics-3d-design-of-experiments/2008759"
+    },
+    {
+      "name": "Strategic Management",
+      "code": "MGT5268",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/strategic-management/2008769"
+    },
+    {
+      "name": "Strategic Management",
+      "code": "MGT5285",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/strategic-management/2008770"
+    },
+    {
+      "name": "Strategic Management",
+      "code": "MGT4023",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/strategic-management/2276380"
+    },
+    {
+      "name": "Strategic Marketing Management",
+      "code": "MGT5043",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/strategic-marketing-management/2008775"
+    },
+    {
+      "name": "Stroke and Clinical Neuropsychology M7",
+      "code": "MED5201",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/stroke-and-clinical-neuropsychology-m7/2008778"
+    },
+    {
+      "name": "Structural Analysis 4",
+      "code": "ENG4122",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/structural-analysis-4/2008779"
+    },
+    {
+      "name": "Structural Concrete 5",
+      "code": "ENG5224",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/structural-concrete-5/2008780"
+    },
+    {
+      "name": "Structural Design 4",
+      "code": "ENG4124",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/structural-design-4/2008783"
+    },
+    {
+      "name": "Structural Geology",
+      "code": "EARTH4025",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/structural-geology/2008789"
+    },
+    {
+      "name": "Structural Mechanics 3",
+      "code": "ENG3047",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/structural-mechanics-3/2008790"
+    },
+    {
+      "name": "Student Selected Component 4",
+      "code": "MED4005",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/student-selected-component-4/2008796"
+    },
+    {
+      "name": "Studies in Early Church History and Theology Non Honours",
+      "code": "TRS3037",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/studies-in-early-church-history-and-theology-non-honours/2008798"
+    },
+    {
+      "name": "Subsidiary Russian Language",
+      "code": "RUSSIAN4006",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/subsidiary-russian-language/2008810"
+    },
+    {
+      "name": "Summer Research Project: Visiting International Students",
+      "code": "BIOL4226",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/summer-research-project-visiting-international-students/2008815"
+    },
+    {
+      "name": "Survey Sampling",
+      "code": "STATS4071",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/survey-sampling/2008820"
+    },
+    {
+      "name": "Symbolism and Secession: Aspects of Symbolism and the Vienna Secession",
+      "code": "HISTART4039",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/symbolism-and-secession-aspects-of-symbolism-and-the-vienna-secession/2008828"
+    },
+    {
+      "name": "Synthetic Biology: Concepts and Applications",
+      "code": "BIOL5230",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/synthetic-biology-concepts-and-applications/2008829"
+    },
+    {
+      "name": "Systems Programming",
+      "code": "COMPSCI 4081",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/systems-programming/5155659"
+    },
+    {
+      "name": "Tax Law",
+      "code": "LAW2032",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/tax-law/2008833"
+    },
+    {
+      "name": "Team Design Project EE3",
+      "code": "ENG3049",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/team-design-project-ee3/2008853"
+    },
+    {
+      "name": "Text As Data - An Introduction to Document Analytics",
+      "code": "COMPSCI4074",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/text-as-data-an-introduction-to-document-analytics/2008867"
+    },
+    {
+      "name": "The Atlantic Slave Trade, Abolition and Its Aftermath in Africa",
+      "code": "HIST4257",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/the-atlantic-slave-trade-abolition-and-its-aftermath-in-africa/2008892"
+    },
+    {
+      "name": "The Economics of Housing",
+      "code": "ECON4097",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/the-economics-of-housing/2008915"
+    },
+    {
+      "name": "The European Union and International Relations",
+      "code": "POLITIC4130",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/the-european-union-and-international-relations/2008921"
+    },
+    {
+      "name": "The Family & Family Relationships in Britain C1750-1914",
+      "code": "ESH4048",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/the-family-family-relationships-in-britain-c1750-1914/2008927"
+    },
+    {
+      "name": "The Global Burden of Mental Health Difficulties",
+      "code": "MED5452",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/the-global-burden-of-mental-health-difficulties/2008943"
+    },
+    {
+      "name": "The Global Criminal Economy",
+      "code": "SOCIO5056",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/the-global-criminal-economy/2008944"
+    },
+    {
+      "name": "The Highland Clearances",
+      "code": "HIST4149",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/the-highland-clearances/2008948"
+    },
+    {
+      "name": "The Jacobites From Convention to Culloden",
+      "code": "ADED11434",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/the-jacobites-from-convention-to-culloden/2008962"
+    },
+    {
+      "name": "The Laws of Armed Conflict",
+      "code": "LAW5154",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/the-laws-of-armed-conflict/2008967"
+    },
+    {
+      "name": "The Lost Empire: Byzantium and the Slavs, 800-1600",
+      "code": "HIST4032",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/the-lost-empire-byzantium-and-the-slavs-800-1600/2008971"
+    },
+    {
+      "name": "The Making of Strategy",
+      "code": "MGT5078",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/the-making-of-strategy/2008973"
+    },
+    {
+      "name": "The Mongols and the West, C.1200 - C.1500",
+      "code": "HIST4241",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/the-mongols-and-the-west-c1200-c1500/2008983"
+    },
+    {
+      "name": "The Norman Conquest 1042-1087",
+      "code": "HIST4252",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/the-norman-conquest-1042-1087/2008988"
+    },
+    {
+      "name": "The Politics of Labour Law",
+      "code": "LAW4095",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/the-politics-of-labour-law/2009012"
+    },
+    {
+      "name": "The Russian Novel in English Translation",
+      "code": "RUSSIAN4009",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/the-russian-novel-in-english-translation/2009035"
+    },
+    {
+      "name": "The Scottish Enlightenment",
+      "code": "SPS4001",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/the-scottish-enlightenment/2009040"
+    },
+    {
+      "name": "Theology and Religious Studies Dissertation",
+      "code": "TRS5056P",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/theology-and-religious-studies-dissertation/2009081"
+    },
+    {
+      "name": "Theories of Grammar",
+      "code": "ENGLANG4054",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/theories-of-grammar/2009089"
+    },
+    {
+      "name": "Thermodynamics 2",
+      "code": "ENG2053",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/thermodynamics-2/2009099"
+    },
+    {
+      "name": "Tissue and Cell Engineering Option",
+      "code": "BIOL4124",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/tissue-and-cell-engineering-option/2009106"
+    },
+    {
+      "name": "Topics in Therapeutics - Commonly Used Drugs",
+      "code": "MED5384",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/topics-in-therapeutics-commonly-used-drugs/2009122"
+    },
+    {
+      "name": "Topics in Therapeutics - General Topics and Cardiovascular Drugs",
+      "code": "MED5383",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/topics-in-therapeutics-general-topics-and-cardiovascular-drugs/2009123"
+    },
+    {
+      "name": "Tort Law",
+      "code": "T1011",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/tort-law/5303084"
+    },
+    {
+      "name": "Tourism Sustainability and Climate Change",
+      "code": "DUMF5019",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/tourism-sustainability-and-climate-change/2009130"
+    },
+    {
+      "name": "Transfer Policy",
+      "code": "000",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/transfer-policy/7626224"
+    },
+    {
+      "name": "Translation for French Erasmus Students - Semester 1",
+      "code": "FRENCH4103",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/translation-for-french-erasmus-students-semester-1/2009136"
+    },
+    {
+      "name": "Transnational Constructions of Gender",
+      "code": "MODLANG5009",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/transnational-constructions-of-gender/2009144"
+    },
+    {
+      "name": "Transportation Enginering 4",
+      "code": "ENG4183",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/transportation-enginering-4/7362160"
+    },
+    {
+      "name": "TRS 1: Creation to Apocalypse: Introduction to the Bible",
+      "code": "TRS1006",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/trs-1-creation-to-apocalypse-introduction-to-the-bible/2009158"
+    },
+    {
+      "name": "TRS 1: the God Question: Exploring Christianity",
+      "code": "TRS1007",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/trs-1-the-god-question-exploring-christianity/2009159"
+    },
+    {
+      "name": "Trs: Religion, Culture, and Controversy",
+      "code": "TRS2021",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/trs-religion-culture-and-controversy/2009165"
+    },
+    {
+      "name": "Understanding Financial Management Ilm Level 4 Unit 8605-407",
+      "code": "ADED11362",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/understanding-financial-management-ilm-level-4-unit-8605-407/2009180"
+    },
+    {
+      "name": "Understanding Public Policy",
+      "code": "URBAN5093",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/understanding-public-policy/2009187"
+    },
+    {
+      "name": "United Nations Law",
+      "code": "LAW4051",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/united-nations-law/2009192"
+    },
+    {
+      "name": "Urban Economy",
+      "code": "SPS3004",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/urban-economy/2009197"
+    },
+    {
+      "name": "Utopias: Welfare Theory and Social Policies for a 'Good Society'",
+      "code": "PUBPOL4035",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/utopias-welfare-theory-and-social-policies-for-a-good-society/2009204"
+    },
+    {
+      "name": "Veterinary Body Systems 2",
+      "code": "VETSCI2009",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/veterinary-body-systems-2/2009208"
+    },
+    {
+      "name": "Vibrations 4",
+      "code": "ENG4137",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/vibrations-4/6772693"
+    },
+    {
+      "name": "Victorian Popular Fiction",
+      "code": "ENGLIT4113",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/victorian-popular-fiction/2009218"
+    },
+    {
+      "name": "Visual Global Politics",
+      "code": "POLITIC4174",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/visual-global-politics/6566501"
+    },
+    {
+      "name": "Walks Around Glasgow 1",
+      "code": "ADED11437",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/walks-around-glasgow-1/2009236"
+    },
+    {
+      "name": "Walks Around Glasgow 7",
+      "code": "ADED11284",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/walks-around-glasgow-7/2009237"
+    },
+    {
+      "name": "Walks Around Glasgow 8",
+      "code": "ADED11285",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/walks-around-glasgow-8/2009238"
+    },
+    {
+      "name": "Walks Around Glasgow: Five Walks Revisited",
+      "code": "ADED11438",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/walks-around-glasgow-five-walks-revisited/2009241"
+    },
+    {
+      "name": "Warfare in Early Historic & Medieval Scotland: From Mons Graupius to Sauchieburn [S]",
+      "code": "HIST4192",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/warfare-in-early-historic-medieval-scotland-from-mons-graupius-to-sauchieburn-s/2009247"
+    },
+    {
+      "name": "Warfare in Post-Medieval Scotland: From Flodden to Culloden [S]",
+      "code": "HIST4193",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/warfare-in-post-medieval-scotland-from-flodden-to-culloden-s/2009248"
+    },
+    {
+      "name": "Water and Environment Design 5",
+      "code": "ENG5293",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/water-and-environment-design-5/2009249"
+    },
+    {
+      "name": "Web Science",
+      "code": "COMPSCI4077",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/web-science/2009253"
+    },
+    {
+      "name": "What Can Psychology Tell Us About Disability?",
+      "code": "ADED11102E",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/what-can-psychology-tell-us-about-disability/2009258"
+    },
+    {
+      "name": "What If.? Questioning Education",
+      "code": "EDUC2091",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/what-if-questioning-education/2009259"
+    },
+    {
+      "name": "What's the Point of Education? Constructing An Educational Mindset",
+      "code": "EDUC1083",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/whats-the-point-of-education-constructing-an-educational-mindset/2009261"
+    },
+    {
+      "name": "Which English? Language Teaching and Sociolinguistics",
+      "code": "EDUC5846",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/which-english-language-teaching-and-sociolinguistics/2009262"
+    },
+    {
+      "name": "White Supremacy and the Ku Klux Klan",
+      "code": "HIST4038",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/white-supremacy-and-the-ku-klux-klan/2009264"
+    },
+    {
+      "name": "Women and Drama in the English Renaissance Period",
+      "code": "THEATRE4054",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/women-and-drama-in-the-english-renaissance-period/2009275"
+    },
+    {
+      "name": "Women and Feminist Movements in Europe C 1789 - 1945",
+      "code": "HIST4177",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/women-and-feminist-movements-in-europe-c-1789-1945/2009276"
+    },
+    {
+      "name": "Women and Spanish Society, 1833-1931: From the Wars Over Female Succession to Women's Suffrage",
+      "code": "HISP4110",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/women-and-spanish-society-1833-1931-from-the-wars-over-female-succession-to-womens-suffrage/2009279"
+    },
+    {
+      "name": "Women, Art and Audience 1830-1914",
+      "code": "HISTART4044",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/women-art-and-audience-1830-1914/2009282"
+    },
+    {
+      "name": "Work & Labour in Britain Since 1940",
+      "code": "ESH4053",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/work-labour-in-britain-since-1940/2009285"
+    },
+    {
+      "name": "Work-Based Project",
+      "code": "EDUC1067",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/work-based-project/2009288"
+    },
+    {
+      "name": "Working with Trauma",
+      "code": "ADED11380",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/working-with-trauma/2009291"
+    },
+    {
+      "name": "Writing the Environment: Modern and Contemporary Nature Writing",
+      "code": "DUMF5080",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/writing-the-environment-modern-and-contemporary-nature-writing/2009314"
+    },
+    {
+      "name": "Written Paper",
+      "code": "MED3008",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/written-paper/2009316"
+    },
+    {
+      "name": "Youth & Social Change",
+      "code": "SOCIO4067",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/youth-social-change/2009319"
+    },
+    {
+      "name": "youth policy and welfare",
+      "code": null,
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/youth-policy-and-welfare/5386361"
+    },
+    {
+      "name": "Zoonoses and Infectious Disease",
+      "code": "VETMED5023",
+      "url": "https://www.studocu.com/en-gb/course/university-of-glasgow/zoonoses-and-infectious-disease/2009327"
+    }
+  ]
+}

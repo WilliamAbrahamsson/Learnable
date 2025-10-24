@@ -1,0 +1,596 @@
+{
+  "university_id": "9659",
+  "university_name": "Київський національний університет імені Тараса Шевченка",
+  "courses": [
+    {
+      "name": "Administrative law of Ukraine",
+      "code": "000000",
+      "url": "https://www.studocu.com/uk/course/kiivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-tarasa-shevchenka/administrative-law-of-ukraine/3172775"
+    },
+    {
+      "name": "Chemistry",
+      "code": "CHEM 101",
+      "url": "https://www.studocu.com/uk/course/kiivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-tarasa-shevchenka/chemistry/4853806"
+    },
+    {
+      "name": "Communication theory",
+      "code": "CT2022",
+      "url": "https://www.studocu.com/uk/course/kiivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-tarasa-shevchenka/communication-theory/5810268"
+    },
+    {
+      "name": "Criminal law",
+      "code": "LAW2022",
+      "url": "https://www.studocu.com/uk/course/kiivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-tarasa-shevchenka/criminal-law/5469251"
+    },
+    {
+      "name": "Cybersecurity",
+      "code": null,
+      "url": "https://www.studocu.com/uk/course/kiivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-tarasa-shevchenka/cybersecurity/3634033"
+    },
+    {
+      "name": "Deutsch",
+      "code": "2020",
+      "url": "https://www.studocu.com/uk/course/kiivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-tarasa-shevchenka/deutsch/4550408"
+    },
+    {
+      "name": "Economic History",
+      "code": "EH2023",
+      "url": "https://www.studocu.com/uk/course/kiivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-tarasa-shevchenka/economic-history/6803807"
+    },
+    {
+      "name": "Economics",
+      "code": "123",
+      "url": "https://www.studocu.com/uk/course/kiivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-tarasa-shevchenka/economics/5932336"
+    },
+    {
+      "name": "English Philology",
+      "code": "035.041",
+      "url": "https://www.studocu.com/uk/course/kiivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-tarasa-shevchenka/english-philology/6022804"
+    },
+    {
+      "name": "Germanistik",
+      "code": "2017",
+      "url": "https://www.studocu.com/uk/course/kiivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-tarasa-shevchenka/germanistik/5833884"
+    },
+    {
+      "name": "History",
+      "code": "CC2023",
+      "url": "https://www.studocu.com/uk/course/kiivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-tarasa-shevchenka/history/6729700"
+    },
+    {
+      "name": "Hotels and Catering",
+      "code": "6.140101",
+      "url": "https://www.studocu.com/uk/course/kiivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-tarasa-shevchenka/hotels-and-catering/3258272"
+    },
+    {
+      "name": "Indonesian Language",
+      "code": null,
+      "url": "https://www.studocu.com/uk/course/kiivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-tarasa-shevchenka/indonesian-language/3550365"
+    },
+    {
+      "name": "Legal English",
+      "code": "LE2084",
+      "url": "https://www.studocu.com/uk/course/kiivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-tarasa-shevchenka/legal-english/6515742"
+    },
+    {
+      "name": "Linear Algebra",
+      "code": null,
+      "url": "https://www.studocu.com/uk/course/kiivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-tarasa-shevchenka/linear-algebra/4335987"
+    },
+    {
+      "name": "literatura extranjera",
+      "code": "fsfa23",
+      "url": "https://www.studocu.com/uk/course/kiivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-tarasa-shevchenka/literatura-extranjera/5484437"
+    },
+    {
+      "name": "Marketing",
+      "code": "Blaw 2001",
+      "url": "https://www.studocu.com/uk/course/kiivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-tarasa-shevchenka/marketing/6466481"
+    },
+    {
+      "name": "Mathematics",
+      "code": "Math2021",
+      "url": "https://www.studocu.com/uk/course/kiivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-tarasa-shevchenka/mathematics/4522106"
+    },
+    {
+      "name": "Microbiology",
+      "code": null,
+      "url": "https://www.studocu.com/uk/course/kiivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-tarasa-shevchenka/microbiology/4292733"
+    },
+    {
+      "name": "Private international law",
+      "code": "099234",
+      "url": "https://www.studocu.com/uk/course/kiivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-tarasa-shevchenka/private-international-law/3172773"
+    },
+    {
+      "name": "Radiophysics",
+      "code": "nana1",
+      "url": "https://www.studocu.com/uk/course/kiivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-tarasa-shevchenka/radiophysics/7302263"
+    },
+    {
+      "name": "Social psychology",
+      "code": "Bjik 203, 2019",
+      "url": "https://www.studocu.com/uk/course/kiivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-tarasa-shevchenka/social-psychology/5365085"
+    },
+    {
+      "name": "Trends and Movements of Chinese Literature of the 20th Century",
+      "code": "ОК 04",
+      "url": "https://www.studocu.com/uk/course/kiivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-tarasa-shevchenka/trends-and-movements-of-chinese-literature-of-the-20th-century/6409496"
+    },
+    {
+      "name": "world literature",
+      "code": "SEIP 2022",
+      "url": "https://www.studocu.com/uk/course/kiivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-tarasa-shevchenka/world-literature/6174463"
+    },
+    {
+      "name": "інститут міжнародних відносин, міжнародний бізнес",
+      "code": "IIR1",
+      "url": "https://www.studocu.com/uk/course/kiivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-tarasa-shevchenka/institut-mizhnarodnikh-vidnosin-mizhnarodniy-biznes/4659746"
+    },
+    {
+      "name": "Інтелектуальна власність",
+      "code": null,
+      "url": "https://www.studocu.com/uk/course/kiivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-tarasa-shevchenka/intelektual%D1%8Cna-vlasnist%D1%8C/4153897"
+    },
+    {
+      "name": "Інфраструктура товарних ринків",
+      "code": "MA-0102",
+      "url": "https://www.studocu.com/uk/course/kiivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-tarasa-shevchenka/infrastruktura-tovarnikh-rinkiv/5730372"
+    },
+    {
+      "name": "Історія",
+      "code": null,
+      "url": "https://www.studocu.com/uk/course/kiivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-tarasa-shevchenka/istoriya/4153900"
+    },
+    {
+      "name": "Історія мистецтв",
+      "code": null,
+      "url": "https://www.studocu.com/uk/course/kiivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-tarasa-shevchenka/istoriya-mistetstv/4153901"
+    },
+    {
+      "name": "Історія України",
+      "code": null,
+      "url": "https://www.studocu.com/uk/course/kiivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-tarasa-shevchenka/istoriya-ukraini/4153902"
+    },
+    {
+      "name": "Історія України та культурна антропологія",
+      "code": null,
+      "url": "https://www.studocu.com/uk/course/kiivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-tarasa-shevchenka/istoriya-ukraini-ta-kul%D1%8Cturna-antropologiya/4153903"
+    },
+    {
+      "name": "Адвокатура в Україні",
+      "code": "0198763",
+      "url": "https://www.studocu.com/uk/course/kiivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-tarasa-shevchenka/advokatura-v-ukraini/1662368"
+    },
+    {
+      "name": "Архівознавство",
+      "code": null,
+      "url": "https://www.studocu.com/uk/course/kiivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-tarasa-shevchenka/arkhivoznavstvo/4153870"
+    },
+    {
+      "name": "Археологія",
+      "code": null,
+      "url": "https://www.studocu.com/uk/course/kiivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-tarasa-shevchenka/arkheologiya/4153868"
+    },
+    {
+      "name": "Археологія та преісторія",
+      "code": null,
+      "url": "https://www.studocu.com/uk/course/kiivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-tarasa-shevchenka/arkheologiya-ta-preistoriya/4153869"
+    },
+    {
+      "name": "Астрофізика",
+      "code": null,
+      "url": "https://www.studocu.com/uk/course/kiivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-tarasa-shevchenka/astrofizika/4153871"
+    },
+    {
+      "name": "Війський інститут КНУ Шевченка",
+      "code": "NLAW20",
+      "url": "https://www.studocu.com/uk/course/kiivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-tarasa-shevchenka/viys%D1%8Ckiy-institut-knu-shevchenka/6648900"
+    },
+    {
+      "name": "Військова історія",
+      "code": null,
+      "url": "https://www.studocu.com/uk/course/kiivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-tarasa-shevchenka/viys%D1%8Ckova-istoriya/4153872"
+    },
+    {
+      "name": "Вступ до університетських студій",
+      "code": "ОД.01",
+      "url": "https://www.studocu.com/uk/course/kiivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-tarasa-shevchenka/vstup-do-universitets%D1%8Ckikh-studiy/4929678"
+    },
+    {
+      "name": "Геоінформаційні системи та технології",
+      "code": null,
+      "url": "https://www.studocu.com/uk/course/kiivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-tarasa-shevchenka/geoinformatsiyni-sistemi-ta-tekhnologii/4153879"
+    },
+    {
+      "name": "Географічне країнознавство та геоглобалістика (мова навчання: українська/англійська)",
+      "code": null,
+      "url": "https://www.studocu.com/uk/course/kiivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-tarasa-shevchenka/geografichne-krainoznavstvo-ta-geoglobalistika-mova-navchannya-ukrains%D1%8Ckaangliys%D1%8Cka/4153874"
+    },
+    {
+      "name": "Геодезія та землеустрій",
+      "code": null,
+      "url": "https://www.studocu.com/uk/course/kiivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-tarasa-shevchenka/geodeziya-ta-zemleustriy/4153878"
+    },
+    {
+      "name": "Геоморфологія та палеографія",
+      "code": null,
+      "url": "https://www.studocu.com/uk/course/kiivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-tarasa-shevchenka/geomorfologiya-ta-paleografiya/4153880"
+    },
+    {
+      "name": "Грунтознавство, управління земельними ресурсами та територіальне планування",
+      "code": null,
+      "url": "https://www.studocu.com/uk/course/kiivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-tarasa-shevchenka/gruntoznavstvo-upravlinnya-zemel%D1%8Cnimi-resursami-ta-teritorial%D1%8Cne-planuvannya/4153884"
+    },
+    {
+      "name": "дані щодо проєкту",
+      "code": "ГБЕ 2024",
+      "url": "https://www.studocu.com/uk/course/kiivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-tarasa-shevchenka/dani-shchodo-proektu/7300006"
+    },
+    {
+      "name": "Екологічне підприємництво",
+      "code": null,
+      "url": "https://www.studocu.com/uk/course/kiivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-tarasa-shevchenka/ekologichne-pidpriemnitstvo/4153885"
+    },
+    {
+      "name": "Економіка (мова навчання: англійська)",
+      "code": null,
+      "url": "https://www.studocu.com/uk/course/kiivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-tarasa-shevchenka/ekonomika-mova-navchannya-angliys%D1%8Cka/4153886"
+    },
+    {
+      "name": "Економіка підприємства",
+      "code": null,
+      "url": "https://www.studocu.com/uk/course/kiivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-tarasa-shevchenka/ekonomika-pidpriemstva/4153887"
+    },
+    {
+      "name": "Економіка та економічна політика (на основі ОКР молодшого спеціаліста)",
+      "code": null,
+      "url": "https://www.studocu.com/uk/course/kiivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-tarasa-shevchenka/ekonomika-ta-ekonomichna-politika-na-osnovi-okr-molodshogo-spetsialista/4153888"
+    },
+    {
+      "name": "Економічна аналітика та статистика",
+      "code": null,
+      "url": "https://www.studocu.com/uk/course/kiivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-tarasa-shevchenka/ekonomichna-analitika-ta-statistika/4153889"
+    },
+    {
+      "name": "Економічна безпека підприємництва",
+      "code": null,
+      "url": "https://www.studocu.com/uk/course/kiivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-tarasa-shevchenka/ekonomichna-bezpeka-pidpriemnitstva/4153890"
+    },
+    {
+      "name": "Економічна кібернетика",
+      "code": null,
+      "url": "https://www.studocu.com/uk/course/kiivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-tarasa-shevchenka/ekonomichna-kibernetika/4153892"
+    },
+    {
+      "name": "Електронна комерція",
+      "code": null,
+      "url": "https://www.studocu.com/uk/course/kiivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-tarasa-shevchenka/elektronna-komertsiya/4153894"
+    },
+    {
+      "name": "Етнологія",
+      "code": null,
+      "url": "https://www.studocu.com/uk/course/kiivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-tarasa-shevchenka/etnologiya/4153895"
+    },
+    {
+      "name": "Картографія",
+      "code": null,
+      "url": "https://www.studocu.com/uk/course/kiivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-tarasa-shevchenka/kartografiya/4153904"
+    },
+    {
+      "name": "Картографія, географічні інформаційні системи, дистанційне зондування землі",
+      "code": null,
+      "url": "https://www.studocu.com/uk/course/kiivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-tarasa-shevchenka/kartografiya-geografichni-informatsiyni-sistemi-distantsiyne-zonduvannya-zemli/4153905"
+    },
+    {
+      "name": "Квантові комп’ютери, обчислення та інформація",
+      "code": null,
+      "url": "https://www.studocu.com/uk/course/kiivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-tarasa-shevchenka/kvantovi-kompyuteri-obchislennya-ta-informatsiya/4153907"
+    },
+    {
+      "name": "Квантова теорія поля",
+      "code": null,
+      "url": "https://www.studocu.com/uk/course/kiivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-tarasa-shevchenka/kvantova-teoriya-polya/4153906"
+    },
+    {
+      "name": "Китайська мова",
+      "code": "035.065",
+      "url": "https://www.studocu.com/uk/course/kiivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-tarasa-shevchenka/kitays%D1%8Cka-mova/7746519"
+    },
+    {
+      "name": "Конституційне право зарубіжних країн",
+      "code": "ЮФ-101",
+      "url": "https://www.studocu.com/uk/course/kiivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-tarasa-shevchenka/konstitutsiyne-pravo-zarubizhnikh-krain/7281846"
+    },
+    {
+      "name": "Корейська мова",
+      "code": "035.066",
+      "url": "https://www.studocu.com/uk/course/kiivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-tarasa-shevchenka/koreys%D1%8Cka-mova/6407908"
+    },
+    {
+      "name": "Корпоративні фінанси",
+      "code": null,
+      "url": "https://www.studocu.com/uk/course/kiivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-tarasa-shevchenka/korporativni-finansi/4153908"
+    },
+    {
+      "name": "Країнознавство",
+      "code": "KR1",
+      "url": "https://www.studocu.com/uk/course/kiivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-tarasa-shevchenka/krainoznavstvo/4659743"
+    },
+    {
+      "name": "кримінальне право",
+      "code": "К4556",
+      "url": "https://www.studocu.com/uk/course/kiivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-tarasa-shevchenka/kriminal%D1%8Cne-pravo/7139883"
+    },
+    {
+      "name": "Міжкультурна комунікація",
+      "code": "CC2023",
+      "url": "https://www.studocu.com/uk/course/kiivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-tarasa-shevchenka/mizhkul%D1%8Cturna-komunikatsiya/6606766"
+    },
+    {
+      "name": "Міжнаро́дні Відно́сини",
+      "code": "777",
+      "url": "https://www.studocu.com/uk/course/kiivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-tarasa-shevchenka/mizhnarodni-vidnosini/7373996"
+    },
+    {
+      "name": "Міжнародні відносини та світова політика",
+      "code": "МВСП2012",
+      "url": "https://www.studocu.com/uk/course/kiivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-tarasa-shevchenka/mizhnarodni-vidnosini-ta-svitova-politika/4929593"
+    },
+    {
+      "name": "Міжнародна економіка",
+      "code": null,
+      "url": "https://www.studocu.com/uk/course/kiivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-tarasa-shevchenka/mizhnarodna-ekonomika/4153915"
+    },
+    {
+      "name": "Математика в економіці",
+      "code": "me1",
+      "url": "https://www.studocu.com/uk/course/kiivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-tarasa-shevchenka/matematika-v-ekonomitsi/4659759"
+    },
+    {
+      "name": "Математичний аналіз",
+      "code": "ma01",
+      "url": "https://www.studocu.com/uk/course/kiivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-tarasa-shevchenka/matematichniy-analiz/5175300"
+    },
+    {
+      "name": "Медична фізика",
+      "code": null,
+      "url": "https://www.studocu.com/uk/course/kiivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-tarasa-shevchenka/medichna-fizika/4153909"
+    },
+    {
+      "name": "Менеджмент інноваційної діяльності",
+      "code": null,
+      "url": "https://www.studocu.com/uk/course/kiivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-tarasa-shevchenka/menedzhment-innovatsiynoi-diyal%D1%8Cnosti/4153911"
+    },
+    {
+      "name": "Менеджмент державних фінансів",
+      "code": null,
+      "url": "https://www.studocu.com/uk/course/kiivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-tarasa-shevchenka/menedzhment-derzhavnikh-finansiv/4153910"
+    },
+    {
+      "name": "Менеджмент організацій",
+      "code": null,
+      "url": "https://www.studocu.com/uk/course/kiivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-tarasa-shevchenka/menedzhment-organizatsiy/4153912"
+    },
+    {
+      "name": "Менеджмент організацій і адміністрування",
+      "code": null,
+      "url": "https://www.studocu.com/uk/course/kiivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-tarasa-shevchenka/menedzhment-organizatsiy-i-administruvannya/4153913"
+    },
+    {
+      "name": "Метеорологія",
+      "code": null,
+      "url": "https://www.studocu.com/uk/course/kiivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-tarasa-shevchenka/meteorologiya/4153914"
+    },
+    {
+      "name": "Облік і аудит",
+      "code": null,
+      "url": "https://www.studocu.com/uk/course/kiivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-tarasa-shevchenka/oblik-i-audit/4153916"
+    },
+    {
+      "name": "Основи програмної інженерії",
+      "code": "ОПІ",
+      "url": "https://www.studocu.com/uk/course/kiivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-tarasa-shevchenka/osnovi-programnoi-inzhenerii/4489032"
+    },
+    {
+      "name": "Оцінка бізнесу",
+      "code": "Економіка бізнесу",
+      "url": "https://www.studocu.com/uk/course/kiivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-tarasa-shevchenka/otsinka-biznesu/6971851"
+    },
+    {
+      "name": "Підприємництво та біржова діяльність (на основі ОКР молодшого спеціаліста)",
+      "code": null,
+      "url": "https://www.studocu.com/uk/course/kiivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-tarasa-shevchenka/pidpriemnitstvo-ta-birzhova-diyal%D1%8Cnist%D1%8C-na-osnovi-okr-molodshogo-spetsialista/4153918"
+    },
+    {
+      "name": "Подготовительный группа 31М",
+      "code": "RRT367",
+      "url": "https://www.studocu.com/uk/course/kiivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-tarasa-shevchenka/podgotovitel%D1%8Cnyy-gruppa-31m/6148669"
+    },
+    {
+      "name": "Політична географія та геополітика",
+      "code": null,
+      "url": "https://www.studocu.com/uk/course/kiivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-tarasa-shevchenka/politichna-geografiya-ta-geopolitika/4153919"
+    },
+    {
+      "name": "Право",
+      "code": null,
+      "url": "https://www.studocu.com/uk/course/kiivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-tarasa-shevchenka/pravo/4153920"
+    },
+    {
+      "name": "Практична (публічна) історія (з поглибленим вивченням іноземних мов)",
+      "code": null,
+      "url": "https://www.studocu.com/uk/course/kiivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-tarasa-shevchenka/praktichna-publichna-istoriya-z-pogliblenim-vivchennyam-inozemnikh-mov/4153921"
+    },
+    {
+      "name": "Прикладна фізика",
+      "code": "2008",
+      "url": "https://www.studocu.com/uk/course/kiivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-tarasa-shevchenka/prikladna-fizika/5129833"
+    },
+    {
+      "name": "Прикладна філософія",
+      "code": null,
+      "url": "https://www.studocu.com/uk/course/kiivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-tarasa-shevchenka/prikladna-filosofiya/4153923"
+    },
+    {
+      "name": "Проектный практикум",
+      "code": "2021",
+      "url": "https://www.studocu.com/uk/course/kiivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-tarasa-shevchenka/proektnyy-praktikum/4823034"
+    },
+    {
+      "name": "Ризик-менеджмент та страховий бізнес",
+      "code": null,
+      "url": "https://www.studocu.com/uk/course/kiivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-tarasa-shevchenka/rizik-menedzhment-ta-strakhoviy-biznes/4153925"
+    },
+    {
+      "name": "Світове українство в цивілізаційному поступі",
+      "code": null,
+      "url": "https://www.studocu.com/uk/course/kiivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-tarasa-shevchenka/svitove-ukrainstvo-v-tsivilizatsiynomu-postupi/4153926"
+    },
+    {
+      "name": "Соціальні технології",
+      "code": null,
+      "url": "https://www.studocu.com/uk/course/kiivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-tarasa-shevchenka/sotsial%D1%8Cni-tekhnologii/4153931"
+    },
+    {
+      "name": "Соціальна педагогіка",
+      "code": null,
+      "url": "https://www.studocu.com/uk/course/kiivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-tarasa-shevchenka/sotsial%D1%8Cna-pedagogika/4153928"
+    },
+    {
+      "name": "Соціальна робота",
+      "code": null,
+      "url": "https://www.studocu.com/uk/course/kiivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-tarasa-shevchenka/sotsial%D1%8Cna-robota/4153930"
+    },
+    {
+      "name": "Соціологія",
+      "code": null,
+      "url": "https://www.studocu.com/uk/course/kiivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-tarasa-shevchenka/sotsiologiya/4153932"
+    },
+    {
+      "name": "Східноєвропейські історичні студії",
+      "code": null,
+      "url": "https://www.studocu.com/uk/course/kiivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-tarasa-shevchenka/skhidnoevropeys%D1%8Cki-istorichni-studii/4153933"
+    },
+    {
+      "name": "Сходознавство",
+      "code": null,
+      "url": "https://www.studocu.com/uk/course/kiivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-tarasa-shevchenka/skhodoznavstvo/4153934"
+    },
+    {
+      "name": "Теорія і технологія перекладу",
+      "code": "OK 17",
+      "url": "https://www.studocu.com/uk/course/kiivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-tarasa-shevchenka/teoriya-i-tekhnologiya-perekladu/6528061"
+    },
+    {
+      "name": "Теорія міжнародних відносин",
+      "code": "МВ",
+      "url": "https://www.studocu.com/uk/course/kiivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-tarasa-shevchenka/teoriya-mizhnarodnikh-vidnosin/5814045"
+    },
+    {
+      "name": "Теорія та Практика Сучасної Дипломатії",
+      "code": null,
+      "url": "https://www.studocu.com/uk/course/kiivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-tarasa-shevchenka/teoriya-ta-praktika-suchasnoi-diplomatii/6374056"
+    },
+    {
+      "name": "Технології штучного інтелекту",
+      "code": null,
+      "url": "https://www.studocu.com/uk/course/kiivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-tarasa-shevchenka/tekhnologii-shtuchnogo-intelektu/4153935"
+    },
+    {
+      "name": "Торгівля, логістика та екологічне підприємництво",
+      "code": null,
+      "url": "https://www.studocu.com/uk/course/kiivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-tarasa-shevchenka/torgivlya-logistika-ta-ekologichne-pidpriemnitstvo/4153936"
+    },
+    {
+      "name": "Транскордонне екологічне співробітництво",
+      "code": null,
+      "url": "https://www.studocu.com/uk/course/kiivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-tarasa-shevchenka/transkordonne-ekologichne-spivrobitnitstvo/4153937"
+    },
+    {
+      "name": "Туризм",
+      "code": null,
+      "url": "https://www.studocu.com/uk/course/kiivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-tarasa-shevchenka/turizm/4153938"
+    },
+    {
+      "name": "Туризм (мова навчання: англійська)",
+      "code": null,
+      "url": "https://www.studocu.com/uk/course/kiivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-tarasa-shevchenka/turizm-mova-navchannya-angliys%D1%8Cka/4153939"
+    },
+    {
+      "name": "Українська правнича термінологія",
+      "code": "УПТ24",
+      "url": "https://www.studocu.com/uk/course/kiivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-tarasa-shevchenka/ukrains%D1%8Cka-pravnicha-terminologiya/7133277"
+    },
+    {
+      "name": "Українська та зарубіжна культура",
+      "code": "UTZK1",
+      "url": "https://www.studocu.com/uk/course/kiivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-tarasa-shevchenka/ukrains%D1%8Cka-ta-zarubizhna-kul%D1%8Ctura/6519244"
+    },
+    {
+      "name": "Українська філологія",
+      "code": "2020",
+      "url": "https://www.studocu.com/uk/course/kiivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-tarasa-shevchenka/ukrains%D1%8Cka-filologiya/4710560"
+    },
+    {
+      "name": "Управління проектами",
+      "code": null,
+      "url": "https://www.studocu.com/uk/course/kiivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-tarasa-shevchenka/upravlinnya-proektami/4153941"
+    },
+    {
+      "name": "Управляючі інформаційні системи",
+      "code": null,
+      "url": "https://www.studocu.com/uk/course/kiivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-tarasa-shevchenka/upravlyayuchi-informatsiyni-sistemi/4153942"
+    },
+    {
+      "name": "Філософія",
+      "code": null,
+      "url": "https://www.studocu.com/uk/course/kiivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-tarasa-shevchenka/filosofiya/4153947"
+    },
+    {
+      "name": "Фінанси і кредит",
+      "code": null,
+      "url": "https://www.studocu.com/uk/course/kiivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-tarasa-shevchenka/finansi-i-kredit/4153948"
+    },
+    {
+      "name": "Фінанси і кредит (мова навчання: російська)",
+      "code": null,
+      "url": "https://www.studocu.com/uk/course/kiivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-tarasa-shevchenka/finansi-i-kredit-mova-navchannya-rosiys%D1%8Cka/4153949"
+    },
+    {
+      "name": "Фінанси публічного сектору (Програма подвійного дипломування разом з Норд Університетом, Норвегія)",
+      "code": null,
+      "url": "https://www.studocu.com/uk/course/kiivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-tarasa-shevchenka/finansi-publichnogo-sektoru-programa-podviynogo-diplomuvannya-razom-z-nord-universitetom-norvegiya/4153951"
+    },
+    {
+      "name": "Фінансові послуги та фінансові інститути",
+      "code": null,
+      "url": "https://www.studocu.com/uk/course/kiivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-tarasa-shevchenka/finansovi-poslugi-ta-finansovi-instituti/4153953"
+    },
+    {
+      "name": "Фінансові ринки та ризик-менеджмент",
+      "code": null,
+      "url": "https://www.studocu.com/uk/course/kiivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-tarasa-shevchenka/finansovi-rinki-ta-rizik-menedzhment/4153954"
+    },
+    {
+      "name": "Фінансовий аналіз",
+      "code": "fin101",
+      "url": "https://www.studocu.com/uk/course/kiivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-tarasa-shevchenka/finansoviy-analiz/5175294"
+    },
+    {
+      "name": "Хмарні технології",
+      "code": "2021",
+      "url": "https://www.studocu.com/uk/course/kiivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-tarasa-shevchenka/khmarni-tekhnologii/4823036"
+    },
+    {
+      "name": "Чисельні методи",
+      "code": "ВК.4.07.03",
+      "url": "https://www.studocu.com/uk/course/kiivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-tarasa-shevchenka/chisel%D1%8Cni-metodi/7604698"
+    },
+    {
+      "name": "Ядерна енергетика",
+      "code": null,
+      "url": "https://www.studocu.com/uk/course/kiivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-tarasa-shevchenka/yaderna-energetika/4153955"
+    }
+  ]
+}

@@ -1,0 +1,3561 @@
+{
+  "university_id": "1274",
+  "university_name": "Hogeschool PXL",
+  "courses": [
+    {
+      "name": ".net advanced",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/net-advanced/7639767"
+    },
+    {
+      "name": ".Net Essentials",
+      "code": "41TIN1140",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/net-essentials/4358113"
+    },
+    {
+      "name": "2.1a toepassing ergotherapeutisch handelen: evidence based practice",
+      "code": "PBERG-22ERG1070",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/21a-toepassing-ergotherapeutisch-handelen-evidence-based-practice/6964885"
+    },
+    {
+      "name": "2.4b praktijk",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/24b-praktijk/6959789"
+    },
+    {
+      "name": "aardrijkskunde 1a",
+      "code": "61LSO2145",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/aardrijkskunde-1a/4476911"
+    },
+    {
+      "name": "accounting 1",
+      "code": "1ACF",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/accounting-1/4996911"
+    },
+    {
+      "name": "accounting 2 acf",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/accounting-2-acf/4521025"
+    },
+    {
+      "name": "Accounting 3",
+      "code": "3 ACF",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/accounting-3/5211539"
+    },
+    {
+      "name": "Actuele Topics in de Toegepaste Psychologie",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/actuele-topics-in-de-toegepaste-psychologie/7322900"
+    },
+    {
+      "name": "Acute zorg",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/acute-zorg/7273713"
+    },
+    {
+      "name": "Administratiebeheer",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/administratiebeheer/4342308"
+    },
+    {
+      "name": "Administratief recht",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/administratief-recht/3722177"
+    },
+    {
+      "name": "Advanced marketing",
+      "code": "32MAR3060",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/advanced-marketing/4536404"
+    },
+    {
+      "name": "algemene aansprakelijkheidsverzekeringen",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/algemene-aansprakelijkheidsverzekeringen/4475379"
+    },
+    {
+      "name": "Algemene aansprakelijkheidsverzekeringen",
+      "code": "31FIV3380",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/algemene-aansprakelijkheidsverzekeringen/5170216"
+    },
+    {
+      "name": "Algemene boekhouding",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/algemene-boekhouding/1665364"
+    },
+    {
+      "name": "Algemene microbiologie",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/algemene-microbiologie/6057068"
+    },
+    {
+      "name": "Algemene Psychologie",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/algemene-psychologie/5353626"
+    },
+    {
+      "name": "anatomie en fysiologie",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/anatomie-en-fysiologie/7265924"
+    },
+    {
+      "name": "Applied marked research",
+      "code": "2BDM",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/applied-marked-research/4701219"
+    },
+    {
+      "name": "Arbeidsmarkt vraag en aanbod",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/arbeidsmarkt-vraag-en-aanbod/2184897"
+    },
+    {
+      "name": "Arbeidsongevallenverzekeringen",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/arbeidsongevallenverzekeringen/4350825"
+    },
+    {
+      "name": "Audit",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/audit/3209177"
+    },
+    {
+      "name": "Automatiserings Processen",
+      "code": "Auto1",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/automatiserings-processen/5116095"
+    },
+    {
+      "name": "B2B marketing",
+      "code": "B2B",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/b2b-marketing/1742583"
+    },
+    {
+      "name": "Bachelorproef",
+      "code": "83CCO3010",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/bachelorproef/5000627"
+    },
+    {
+      "name": "basiselektriciteit",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/basiselektriciteit/6934203"
+    },
+    {
+      "name": "Basisprincipes marketing en communicatie",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/basisprincipes-marketing-en-communicatie/6026231"
+    },
+    {
+      "name": "basisvaardigheden",
+      "code": "34563",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/basisvaardigheden/5175643"
+    },
+    {
+      "name": "bedrijfs-en procesanalyse",
+      "code": "3BDM",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/bedrijfs-en-procesanalyse/7700176"
+    },
+    {
+      "name": "Bedrijfsadministratie",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/bedrijfsadministratie/3444904"
+    },
+    {
+      "name": "Bedrijfsbeleid",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/bedrijfsbeleid/3236996"
+    },
+    {
+      "name": "Bedrijfsbeleid in het toerisme 1",
+      "code": "81TRM1001",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/bedrijfsbeleid-in-het-toerisme-1/4431975"
+    },
+    {
+      "name": "Bedrijfsbeleid in het toerisme 2",
+      "code": "82TRM1100",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/bedrijfsbeleid-in-het-toerisme-2/4434732"
+    },
+    {
+      "name": "Bedrijfsmanagement",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/bedrijfsmanagement/1736734"
+    },
+    {
+      "name": "Bedrijfsorganisatie",
+      "code": "31TLO1030",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/bedrijfsorganisatie/4551673"
+    },
+    {
+      "name": "Bedrijfssoftware",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/bedrijfssoftware/7232009"
+    },
+    {
+      "name": "Beeld (video)",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/beeld-video/4360650"
+    },
+    {
+      "name": "Beurs & beleggen",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/beurs-beleggen/3248996"
+    },
+    {
+      "name": "Bewegingsanalyse",
+      "code": "ergo",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/bewegingsanalyse/3144167"
+    },
+    {
+      "name": "bewegingsgezinde basisschool",
+      "code": "LLW1090",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/bewegingsgezinde-basisschool/7135568"
+    },
+    {
+      "name": "Bewegingsrecreatie 1",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/bewegingsrecreatie-1/4316778"
+    },
+    {
+      "name": "Big Data",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/big-data/3736513"
+    },
+    {
+      "name": "Bijzondere overeenkomsten",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/bijzondere-overeenkomsten/2124967"
+    },
+    {
+      "name": "Bijzondere topics van het vastgoed",
+      "code": "33VAG4010",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/bijzondere-topics-van-het-vastgoed/6535574"
+    },
+    {
+      "name": "Binnenvaart en maritiem transport",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/binnenvaart-en-maritiem-transport/3270157"
+    },
+    {
+      "name": "Bio-informatica",
+      "code": "onbekend",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/bio-informatica/3238108"
+    },
+    {
+      "name": "Biologie",
+      "code": "Bio",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/biologie/1734365"
+    },
+    {
+      "name": "Biomechanica 2B",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/biomechanica-2b/4316779"
+    },
+    {
+      "name": "Biopsychologie",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/biopsychologie/6949187"
+    },
+    {
+      "name": "Bloeddrukregulatie",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/bloeddrukregulatie/7326158"
+    },
+    {
+      "name": "Blok 1.1",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/blok-11/3265995"
+    },
+    {
+      "name": "Blok 1.2",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/blok-12/3332875"
+    },
+    {
+      "name": "Blok 1.3",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/blok-13/1741884"
+    },
+    {
+      "name": "Blok 1.4 ouderen",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/blok-14-ouderen/4351164"
+    },
+    {
+      "name": "Blok 1.5",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/blok-15/4051619"
+    },
+    {
+      "name": "Blok 2.1b toepassing ergotherapeutisch handelen",
+      "code": "22ERG1140",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/blok-21b-toepassing-ergotherapeutisch-handelen/6539132"
+    },
+    {
+      "name": "Blok 2.2a",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/blok-22a/4616975"
+    },
+    {
+      "name": "blok 2.2b",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/blok-22b/6706998"
+    },
+    {
+      "name": "Blok 2.4a",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/blok-24a/4477513"
+    },
+    {
+      "name": "blok gezin en kind",
+      "code": "onderwijs groep",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/blok-gezin-en-kind/5881440"
+    },
+    {
+      "name": "Blok1.2",
+      "code": "ergo",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/blok12/3144165"
+    },
+    {
+      "name": "Blok1.4",
+      "code": "ergo",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/blok14/3144166"
+    },
+    {
+      "name": "Blok2.1a",
+      "code": "ergo",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/blok21a/3144168"
+    },
+    {
+      "name": "Blok2.2a",
+      "code": "ergo",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/blok22a/3144169"
+    },
+    {
+      "name": "Blok2.4a",
+      "code": "ergo",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/blok24a/3144170"
+    },
+    {
+      "name": "boekhouden",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/boekhouden/4417503"
+    },
+    {
+      "name": "bouwechnieken gebouwen 1",
+      "code": "BTG 1",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/bouwechnieken-gebouwen-1/6769821"
+    },
+    {
+      "name": "Bouworganisatie 1",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/bouworganisatie-1/6052423"
+    },
+    {
+      "name": "Bouworganisatie 2",
+      "code": "12BOU1130",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/bouworganisatie-2/2185231"
+    },
+    {
+      "name": "Bouworganisatie 3",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/bouworganisatie-3/5911504"
+    },
+    {
+      "name": "Bouworganisatie Gebouwen",
+      "code": "13BOU2049",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/bouworganisatie-gebouwen/2185226"
+    },
+    {
+      "name": "bouwtechnieken gebouwen 2",
+      "code": "1 BTE",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/bouwtechnieken-gebouwen-2/7603887"
+    },
+    {
+      "name": "Bouwtechnieken wegen",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/bouwtechnieken-wegen/6692882"
+    },
+    {
+      "name": "BTW",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/btw/1740986"
+    },
+    {
+      "name": "Budgetteren",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/budgetteren/3209170"
+    },
+    {
+      "name": "Building Automation",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/building-automation/5365248"
+    },
+    {
+      "name": "Building Automation [BA]",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/building-automation-ba/5365249"
+    },
+    {
+      "name": "Burgerlijk recht",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/burgerlijk-recht/1736610"
+    },
+    {
+      "name": "Burgerlijprocesrecht",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/burgerlijprocesrecht/4909149"
+    },
+    {
+      "name": "Business Essentials",
+      "code": "41TIN1180",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/business-essentials/4348602"
+    },
+    {
+      "name": "Business Intelligence for Marketeers",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/business-intelligence-for-marketeers/6400403"
+    },
+    {
+      "name": "business management",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/business-management/6702158"
+    },
+    {
+      "name": "Business-to-business marketing",
+      "code": "33BDM1100",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/business-to-business-marketing/6699967"
+    },
+    {
+      "name": "case studies",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/case-studies/7474626"
+    },
+    {
+      "name": "cel als eenheid van leven",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/cel-als-eenheid-van-leven/5466585"
+    },
+    {
+      "name": "Cel- en weefselkweek",
+      "code": "13CGT4150",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/cel-en-weefselkweek/7046993"
+    },
+    {
+      "name": "Certificering",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/certificering/4930196"
+    },
+    {
+      "name": "chemie",
+      "code": "CHE1",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/chemie/6811655"
+    },
+    {
+      "name": "Coaching",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/coaching/6951718"
+    },
+    {
+      "name": "Coaching en leelringbegeleiding",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/coaching-en-leelringbegeleiding/5724027"
+    },
+    {
+      "name": "Coaching en leerlingbegeleiding",
+      "code": "62LSO1320",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/coaching-en-leerlingbegeleiding/6953963"
+    },
+    {
+      "name": "Coaching en leerlingbegeleiding voor LO studenten",
+      "code": "62LSO1350",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/coaching-en-leerlingbegeleiding-voor-lo-studenten/4909518"
+    },
+    {
+      "name": "communicatie & onderzoek 2",
+      "code": "11BOU1160",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/communicatie-onderzoek-2/6972480"
+    },
+    {
+      "name": "Communicatiemanagement",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/communicatiemanagement/1665678"
+    },
+    {
+      "name": "Communicatietechnieken",
+      "code": "32CSU3010",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/communicatietechnieken/5164134"
+    },
+    {
+      "name": "Communication Professionnelle",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/communication-professionnelle/4347562"
+    },
+    {
+      "name": "communication skills",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/communication-skills/6573011"
+    },
+    {
+      "name": "Communication Tools  1",
+      "code": "31MCS1160",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/communication-tools-1/5357857"
+    },
+    {
+      "name": "Communication tools 2",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/communication-tools-2/6978604"
+    },
+    {
+      "name": "Communicative English for retail",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/communicative-english-for-retail/6520174"
+    },
+    {
+      "name": "communiceren en rapporteren",
+      "code": "TPS 2025",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/communiceren-en-rapporteren/7701777"
+    },
+    {
+      "name": "Compliance And Fintech",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/compliance-and-fintech/4361115"
+    },
+    {
+      "name": "Configureren 2",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/configureren-2/6564262"
+    },
+    {
+      "name": "Consolidatie en IFRS",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/consolidatie-en-ifrs/3238373"
+    },
+    {
+      "name": "Consumenten psychologie",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/consumenten-psychologie/3691345"
+    },
+    {
+      "name": "Consumentengedrag",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/consumentengedrag/1735371"
+    },
+    {
+      "name": "Consumentenpsychologie",
+      "code": "81CMA1030",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/consumentenpsychologie/4349327"
+    },
+    {
+      "name": "Consumer First",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/consumer-first/6705734"
+    },
+    {
+      "name": "Contentmarketing",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/contentmarketing/3331864"
+    },
+    {
+      "name": "Contextueel werken",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/contextueel-werken/7608157"
+    },
+    {
+      "name": "Conversation management",
+      "code": "9786/1032/1718/1/77",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/conversation-management/3286443"
+    },
+    {
+      "name": "COPD",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/copd/3299113"
+    },
+    {
+      "name": "Copywriting",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/copywriting/4329302"
+    },
+    {
+      "name": "corporate communication",
+      "code": "2BNL",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/corporate-communication/6679728"
+    },
+    {
+      "name": "Cost Accounting",
+      "code": "17/18",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/cost-accounting/3145253"
+    },
+    {
+      "name": "Creditmanagement",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/creditmanagement/1755635"
+    },
+    {
+      "name": "CRM en Direct Marketing",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/crm-en-direct-marketing/6520176"
+    },
+    {
+      "name": "Cultuur",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/cultuur/3243319"
+    },
+    {
+      "name": "cultuureducatie",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/cultuureducatie/5064976"
+    },
+    {
+      "name": "Cultuurgeschiedenis 1",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/cultuurgeschiedenis-1/1667900"
+    },
+    {
+      "name": "Cultuurgeschiedenis 2",
+      "code": "82TRM1026",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/cultuurgeschiedenis-2/4434734"
+    },
+    {
+      "name": "Customer Relationship  Management",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/customer-relationship-management/4409990"
+    },
+    {
+      "name": "Data Advanced",
+      "code": "41TIN1360",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/data-advanced/7055379"
+    },
+    {
+      "name": "Data analyse",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/data-analyse/6974811"
+    },
+    {
+      "name": "Data driven communication",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/data-driven-communication/5131937"
+    },
+    {
+      "name": "data essentials",
+      "code": "14tin1320",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/data-essentials/4348607"
+    },
+    {
+      "name": "Data Mining",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/data-mining/6454895"
+    },
+    {
+      "name": "De burger en het recht",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/de-burger-en-het-recht/5339550"
+    },
+    {
+      "name": "Deontologie en arbeidsattitude",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/deontologie-en-arbeidsattitude/5126399"
+    },
+    {
+      "name": "Deontologisch handelen",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/deontologisch-handelen/7616699"
+    },
+    {
+      "name": "Destinations 1",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/destinations-1/4382664"
+    },
+    {
+      "name": "Destinations 2",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/destinations-2/3692048"
+    },
+    {
+      "name": "Destinations 3",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/destinations-3/3732237"
+    },
+    {
+      "name": "Destinations 4",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/destinations-4/3732287"
+    },
+    {
+      "name": "Destinations 5",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/destinations-5/4349504"
+    },
+    {
+      "name": "Diabetes voet",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/diabetes-voet/7133760"
+    },
+    {
+      "name": "Didactische basis",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/didactische-basis/4395400"
+    },
+    {
+      "name": "Digital Exploration",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/digital-exploration/7744333"
+    },
+    {
+      "name": "Digital Marketing",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/digital-marketing/2572974"
+    },
+    {
+      "name": "Digital Marketing Essentials",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/digital-marketing-essentials/5918342"
+    },
+    {
+      "name": "Digital organisation",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/digital-organisation/7366863"
+    },
+    {
+      "name": "Digital Skills",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/digital-skills/2037368"
+    },
+    {
+      "name": "Digital Strategies",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/digital-strategies/4347356"
+    },
+    {
+      "name": "Digital Tools in Accounting 2",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/digital-tools-in-accounting-2/6965216"
+    },
+    {
+      "name": "digitale transformatie",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/digitale-transformatie/7121976"
+    },
+    {
+      "name": "directe belasting",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/directe-belasting/6198670"
+    },
+    {
+      "name": "Distributielogistiek",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/distributielogistiek/4882758"
+    },
+    {
+      "name": "diversiteit en klasmanagement",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/diversiteit-en-klasmanagement/5508382"
+    },
+    {
+      "name": "DNA-technologie",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/dna-technologie/5434327"
+    },
+    {
+      "name": "Doing business with new markets",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/doing-business-with-new-markets/4401713"
+    },
+    {
+      "name": "Douane- en accijnswetgeving",
+      "code": "22023",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/douane-en-accijnswetgeving/5485870"
+    },
+    {
+      "name": "Duits",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/duits/2676325"
+    },
+    {
+      "name": "Duurzaam leven en wonen",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/duurzaam-leven-en-wonen/5832368"
+    },
+    {
+      "name": "Duurzaam ondernemen",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/duurzaam-ondernemen/6847690"
+    },
+    {
+      "name": "Duurzaamheid MVO en veiligheid",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/duurzaamheid-mvo-en-veiligheid/6520177"
+    },
+    {
+      "name": "Economie",
+      "code": "2A",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/economie/1553104"
+    },
+    {
+      "name": "Economie",
+      "code": "1FIV",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/economie/5933390"
+    },
+    {
+      "name": "Economie 1a",
+      "code": "ECO1A",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/economie-1a/5901836"
+    },
+    {
+      "name": "Economie 2 ACF",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/economie-2-acf/5940323"
+    },
+    {
+      "name": "Economie 2B",
+      "code": "62LSO2116",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/economie-2b/7609520"
+    },
+    {
+      "name": "Economie van vandaag",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/economie-van-vandaag/4522667"
+    },
+    {
+      "name": "economisch perspectief",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/economisch-perspectief/5120242"
+    },
+    {
+      "name": "Economisch recht",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/economisch-recht/6690752"
+    },
+    {
+      "name": "Economische actualiteit",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/economische-actualiteit/3237601"
+    },
+    {
+      "name": "Economische Actualiteit",
+      "code": "31BDM1100",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/economische-actualiteit/5759122"
+    },
+    {
+      "name": "Economische perspectieven",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/economische-perspectieven/7612657"
+    },
+    {
+      "name": "Ecosysteemdiensten",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/ecosysteemdiensten/7685079"
+    },
+    {
+      "name": "Elektriciteitstechnologie",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/elektriciteitstechnologie/5154257"
+    },
+    {
+      "name": "elektronische systemen",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/elektronische-systemen/6564266"
+    },
+    {
+      "name": "Employer branding",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/employer-branding/5871412"
+    },
+    {
+      "name": "Enabling occupation",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/enabling-occupation/5725872"
+    },
+    {
+      "name": "Energie 1",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/energie-1/4337199"
+    },
+    {
+      "name": "energie 2",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/energie-2/4343828"
+    },
+    {
+      "name": "Energie 3",
+      "code": "12BOU1080",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/energie-3/6972483"
+    },
+    {
+      "name": "Energie 4",
+      "code": "13BOU2052",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/energie-4/2173026"
+    },
+    {
+      "name": "Engels 1",
+      "code": "31RPR3150",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/engels-1/4401751"
+    },
+    {
+      "name": "Engels 1A",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/engels-1a/1734323"
+    },
+    {
+      "name": "Engels 1B",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/engels-1b/1734324"
+    },
+    {
+      "name": "Engels 1HMA",
+      "code": "31HMA3100",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/engels-1hma/6762881"
+    },
+    {
+      "name": "Engels 2",
+      "code": "32FIV3130",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/engels-2/2194017"
+    },
+    {
+      "name": "Engels 2A",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/engels-2a/1734326"
+    },
+    {
+      "name": "Engels 2acf",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/engels-2acf/4407820"
+    },
+    {
+      "name": "Engels 2B",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/engels-2b/1734328"
+    },
+    {
+      "name": "engels 2JAO",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/engels-2jao/4663149"
+    },
+    {
+      "name": "Engels 3",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/engels-3/1734329"
+    },
+    {
+      "name": "Engels 3 FIV",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/engels-3-fiv/5101651"
+    },
+    {
+      "name": "Engels2",
+      "code": "ENG",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/engels2/1734294"
+    },
+    {
+      "name": "Enterprise Quality Management",
+      "code": "EPM 2019",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/enterprise-quality-management/5176243"
+    },
+    {
+      "name": "Erfgoed",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/erfgoed/3275628"
+    },
+    {
+      "name": "Erfrecht",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/erfrecht/4399456"
+    },
+    {
+      "name": "Ergonomie",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/ergonomie/2269057"
+    },
+    {
+      "name": "Ergotherapie",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/ergotherapie/1713069"
+    },
+    {
+      "name": "ergotherapie 1..2.05",
+      "code": "jaar 1 blok 2 OG 5",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/ergotherapie-1205/5155862"
+    },
+    {
+      "name": "ergotherapie blok 1.1",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/ergotherapie-blok-11/5137379"
+    },
+    {
+      "name": "Ergotherapie Blok 1.5",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/ergotherapie-blok-15/7556160"
+    },
+    {
+      "name": "Ergotherapie blok 2.3",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/ergotherapie-blok-23/4855100"
+    },
+    {
+      "name": "Ethiek",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/ethiek/7342639"
+    },
+    {
+      "name": "European Law",
+      "code": "Rechten",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/european-law/2194133"
+    },
+    {
+      "name": "eventmanagement",
+      "code": "32EVM4030",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/eventmanagement/5178386"
+    },
+    {
+      "name": "Evolutie",
+      "code": "PDE1",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/evolutie/5167891"
+    },
+    {
+      "name": "excel",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/excel/6576097"
+    },
+    {
+      "name": "expertise uren",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/expertise-uren/7348077"
+    },
+    {
+      "name": "Familiaal vermogensrecht",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/familiaal-vermogensrecht/4623388"
+    },
+    {
+      "name": "Financial accounting 1",
+      "code": "1FIV",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/financial-accounting-1/3191874"
+    },
+    {
+      "name": "Financial Accounting 1",
+      "code": "1 BDM",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/financial-accounting-1/5377646"
+    },
+    {
+      "name": "Financial Accounting 2",
+      "code": "31FIV3420",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/financial-accounting-2/3260622"
+    },
+    {
+      "name": "financial accounting 2",
+      "code": "1BDM",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/financial-accounting-2/5188457"
+    },
+    {
+      "name": "Financie-en verzekeringswezen",
+      "code": "Investments",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/financie-en-verzekeringswezen/3329232"
+    },
+    {
+      "name": "Financieel Landschap",
+      "code": "31FIV3400",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/financieel-landschap/3302219"
+    },
+    {
+      "name": "Financieel management",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/financieel-management/3345253"
+    },
+    {
+      "name": "financiele producten",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/financiele-producten/6960035"
+    },
+    {
+      "name": "Financiële Algebra",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/financiele-algebra/4884062"
+    },
+    {
+      "name": "Financiële analyse",
+      "code": "32FIV3040",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/financiele-analyse/2191078"
+    },
+    {
+      "name": "financiële analyse",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/financiele-analyse/6668162"
+    },
+    {
+      "name": "Financiële Management",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/financiele-management/5781935"
+    },
+    {
+      "name": "Financiële Rekentechnieken",
+      "code": "1BDM",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/financiele-rekentechnieken/4317100"
+    },
+    {
+      "name": "Financiële stromen",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/financiele-stromen/2951324"
+    },
+    {
+      "name": "Fiscaal practicum",
+      "code": "33FIV3040",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/fiscaal-practicum/3727933"
+    },
+    {
+      "name": "Fiscaal recht",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/fiscaal-recht/4409549"
+    },
+    {
+      "name": "Fiscale aspecten van het vastgoed",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/fiscale-aspecten-van-het-vastgoed/3273855"
+    },
+    {
+      "name": "Fiscale Procedurewetgeving",
+      "code": "32ACF4010",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/fiscale-procedurewetgeving/3314253"
+    },
+    {
+      "name": "Fiscaliteit",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/fiscaliteit/4404657"
+    },
+    {
+      "name": "Fiscaliteit",
+      "code": "2BDM",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/fiscaliteit/5885672"
+    },
+    {
+      "name": "fitness",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/fitness/4537192"
+    },
+    {
+      "name": "Fobieën",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/fobieen/1755142"
+    },
+    {
+      "name": "Frans 1",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/frans-1/7054105"
+    },
+    {
+      "name": "Frans 2",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/frans-2/7362330"
+    },
+    {
+      "name": "Frans 3",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/frans-3/5783584"
+    },
+    {
+      "name": "Français 1a",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/francais-1a/7386220"
+    },
+    {
+      "name": "Front & back office",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/front-back-office/4410148"
+    },
+    {
+      "name": "Functionele anatomie 1b",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/functionele-anatomie-1b/6686582"
+    },
+    {
+      "name": "Fundament voor deverpleegkunde (praktijk)",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/fundament-voor-deverpleegkunde-praktijk/7215126"
+    },
+    {
+      "name": "Fundamentals UX Design",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/fundamentals-ux-design/6678255"
+    },
+    {
+      "name": "fundamenten van de verpleegkunde",
+      "code": "21vpl1130",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/fundamenten-van-de-verpleegkunde/6547846"
+    },
+    {
+      "name": "Fvv Pin",
+      "code": "VPL1140",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/fvv-pin/4538424"
+    },
+    {
+      "name": "Fysica 2a Electrostatica",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/fysica-2a-electrostatica/5423722"
+    },
+    {
+      "name": "Fysica 2a Optica",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/fysica-2a-optica/5398698"
+    },
+    {
+      "name": "Fysiologie bevalling",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/fysiologie-bevalling/2276336"
+    },
+    {
+      "name": "Fysiologie LO 1A",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/fysiologie-lo-1a/6190107"
+    },
+    {
+      "name": "Gebouwen 1",
+      "code": "11BOU1070",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/gebouwen-1/2185228"
+    },
+    {
+      "name": "Gebouwen 2",
+      "code": "11BOU1080",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/gebouwen-2/2185229"
+    },
+    {
+      "name": "Gebouwen 3",
+      "code": "12BOU1070",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/gebouwen-3/4343830"
+    },
+    {
+      "name": "Gebouwen 4",
+      "code": "13BOU2053",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/gebouwen-4/2185225"
+    },
+    {
+      "name": "Gedrag, cognitie en emotie",
+      "code": "GCE",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/gedrag-cognitie-en-emotie/7225553"
+    },
+    {
+      "name": "gedrag, cognitie en emotie: diagnostiek en begeleiding",
+      "code": "92KPS3110",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/gedrag-cognitie-en-emotie-diagnostiek-en-begeleiding/7264710"
+    },
+    {
+      "name": "Gerechtelijk recht",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/gerechtelijk-recht/4375757"
+    },
+    {
+      "name": "Gerechtelijke procedure",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/gerechtelijke-procedure/4318572"
+    },
+    {
+      "name": "Geschiedenis & Actualiteit",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/geschiedenis-actualiteit/2137662"
+    },
+    {
+      "name": "Geschiedenis 1a",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/geschiedenis-1a/7160306"
+    },
+    {
+      "name": "Gespecialiseerde Toegepaste Farmacologie",
+      "code": "22VRK1460",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/gespecialiseerde-toegepaste-farmacologie/7426592"
+    },
+    {
+      "name": "Gesprekstechnieken",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/gesprekstechnieken/1948045"
+    },
+    {
+      "name": "Getallenleer 1",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/getallenleer-1/6780916"
+    },
+    {
+      "name": "Gezien en kind",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/gezien-en-kind/5585787"
+    },
+    {
+      "name": "Gezin en kind",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/gezin-en-kind/7271378"
+    },
+    {
+      "name": "Gezinnen in transitie",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/gezinnen-in-transitie/6616004"
+    },
+    {
+      "name": "gezondheidsopvoeding",
+      "code": "LSO1",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/gezondheidsopvoeding/5177639"
+    },
+    {
+      "name": "Geïntegreerd practicum",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/geintegreerd-practicum/3518245"
+    },
+    {
+      "name": "GGZ (geestelijke gezondheidszorg)",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/ggz-geestelijke-gezondheidszorg/6852024"
+    },
+    {
+      "name": "Global Cultures",
+      "code": "UGC 13",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/global-cultures/7286076"
+    },
+    {
+      "name": "goederenrecht",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/goederenrecht/5359948"
+    },
+    {
+      "name": "Good Practices LO3",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/good-practices-lo3/5930584"
+    },
+    {
+      "name": "Grieks",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/grieks/7171662"
+    },
+    {
+      "name": "Grondwettelijk recht",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/grondwettelijk-recht/4362285"
+    },
+    {
+      "name": "Groot worden",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/groot-worden/5846467"
+    },
+    {
+      "name": "Handelingsvaardigheden A",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/handelingsvaardigheden-a/3290158"
+    },
+    {
+      "name": "Handelingsvaardigheden B",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/handelingsvaardigheden-b/6013407"
+    },
+    {
+      "name": "Handelingsvaardigheden Integratie",
+      "code": "HV I 1.5",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/handelingsvaardigheden-integratie/5329722"
+    },
+    {
+      "name": "Handelsrecht",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/handelsrecht/1740984"
+    },
+    {
+      "name": "HC3 Easteology",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/hc3-easteology/5710873"
+    },
+    {
+      "name": "Het onderwijs, de kleuter en ik",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/het-onderwijs-de-kleuter-en-ik/5804416"
+    },
+    {
+      "name": "Hoorcollega Boeckaert DNA",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/hoorcollega-boeckaert-dna/3220795"
+    },
+    {
+      "name": "Hoorvollege",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/hoorvollege/5138971"
+    },
+    {
+      "name": "HPO",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/hpo/3289074"
+    },
+    {
+      "name": "HR Essentials",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/hr-essentials/3600924"
+    },
+    {
+      "name": "Human Resource",
+      "code": "91SWA1014",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/human-resource/1942886"
+    },
+    {
+      "name": "Humane wetenschappen",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/humane-wetenschappen/2698559"
+    },
+    {
+      "name": "Hygiëne en EHBO",
+      "code": "32HMA3010",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/hygiene-en-ehbo/6720803"
+    },
+    {
+      "name": "Iconologie",
+      "code": "M1BKU1090",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/iconologie/1712127"
+    },
+    {
+      "name": "ICT",
+      "code": "ICT",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/ict/2915680"
+    },
+    {
+      "name": "ICT 2",
+      "code": "ICT2",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/ict-2/2129084"
+    },
+    {
+      "name": "Immunologie en hematologie",
+      "code": "12BTL3050",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/immunologie-en-hematologie/5158102"
+    },
+    {
+      "name": "IMMW",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/immw/1734703"
+    },
+    {
+      "name": "Implementatie",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/implementatie/7644659"
+    },
+    {
+      "name": "In- en outboundlogistiek",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/in-en-outboundlogistiek/7597639"
+    },
+    {
+      "name": "Indesign",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/indesign/4353774"
+    },
+    {
+      "name": "Infectie",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/infectie/7458532"
+    },
+    {
+      "name": "Informatica 1a",
+      "code": "61LSO2362",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/informatica-1a/5761596"
+    },
+    {
+      "name": "Informatica 3",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/informatica-3/1755141"
+    },
+    {
+      "name": "Informatie en onderzoeksvaardigheden",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/informatie-en-onderzoeksvaardigheden/5353634"
+    },
+    {
+      "name": "Informatieverwerking",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/informatieverwerking/1755145"
+    },
+    {
+      "name": "Infrastructuur 1",
+      "code": "11BOU1060",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/infrastructuur-1/2185233"
+    },
+    {
+      "name": "Infrastructuur 2",
+      "code": "12BOU1110",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/infrastructuur-2/5903794"
+    },
+    {
+      "name": "infrastructuur 4",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/infrastructuur-4/4701334"
+    },
+    {
+      "name": "Inkooplogistiek en voorraadbeheer",
+      "code": "32BDM1140",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/inkooplogistiek-en-voorraadbeheer/3732462"
+    },
+    {
+      "name": "Inleiding fiscaliteit",
+      "code": "31FIV3370",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/inleiding-fiscaliteit/3639192"
+    },
+    {
+      "name": "Inleiding praktijk gericht onderzoek",
+      "code": "91TPS1150",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/inleiding-praktijk-gericht-onderzoek/6962246"
+    },
+    {
+      "name": "inleiding tot de psychodiagnostiek",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/inleiding-tot-de-psychodiagnostiek/6683501"
+    },
+    {
+      "name": "Inleiding tot het financiewezen",
+      "code": "31FIV3360",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/inleiding-tot-het-financiewezen/1741705"
+    },
+    {
+      "name": "Inleiding tot het recht",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/inleiding-tot-het-recht/1733778"
+    },
+    {
+      "name": "Inleiding tot toerisme",
+      "code": "INL22",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/inleiding-tot-toerisme/5845366"
+    },
+    {
+      "name": "Inleiding verzekeringen",
+      "code": "31FIV3130",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/inleiding-verzekeringen/5170213"
+    },
+    {
+      "name": "Insolventierecht",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/insolventierecht/4354149"
+    },
+    {
+      "name": "Instructie vpk rekenen",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/instructie-vpk-rekenen/6436677"
+    },
+    {
+      "name": "Integraal Sociaal Werk",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/integraal-sociaal-werk/2184987"
+    },
+    {
+      "name": "integraal sociaal werk 1: exploratie",
+      "code": "91SMW3010",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/integraal-sociaal-werk-1-exploratie/7189380"
+    },
+    {
+      "name": "Integratie Milieucoördinatie",
+      "code": "13OMT4100",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/integratie-milieucoordinatie/5900956"
+    },
+    {
+      "name": "Integratieproject: de kleine onderneming",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/integratieproject-de-kleine-onderneming/4410066"
+    },
+    {
+      "name": "interdiciplinair blok",
+      "code": "IDEZ",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/interdiciplinair-blok/5845107"
+    },
+    {
+      "name": "Interdisciplinaire eerstelijnszorg",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/interdisciplinaire-eerstelijnszorg/5485976"
+    },
+    {
+      "name": "internationaal ondernemen",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/internationaal-ondernemen/7602283"
+    },
+    {
+      "name": "Internationaal recht",
+      "code": "32BDM1110",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/internationaal-recht/6669739"
+    },
+    {
+      "name": "International Law",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/international-law/3283199"
+    },
+    {
+      "name": "International marketing topics",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/international-marketing-topics/5979525"
+    },
+    {
+      "name": "International Media Landscape",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/international-media-landscape/4295455"
+    },
+    {
+      "name": "international project",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/international-project/7337956"
+    },
+    {
+      "name": "Internationale Handel",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/internationale-handel/3283198"
+    },
+    {
+      "name": "Interne controle",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/interne-controle/3732687"
+    },
+    {
+      "name": "Internet of things",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/internet-of-things/4519649"
+    },
+    {
+      "name": "Internet Of Things",
+      "code": "IoT 2022-2023",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/internet-of-things/6564265"
+    },
+    {
+      "name": "Introductie in de bouw",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/introductie-in-de-bouw/7347961"
+    },
+    {
+      "name": "Introductie tot de metaverse",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/introductie-tot-de-metaverse/6963112"
+    },
+    {
+      "name": "Introductie tot wetenschappelijk werk",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/introductie-tot-wetenschappelijk-werk/5722315"
+    },
+    {
+      "name": "Inzicht in het handelen van ouderen",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/inzicht-in-het-handelen-van-ouderen/3258266"
+    },
+    {
+      "name": "IT Essentials",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/it-essentials/5816290"
+    },
+    {
+      "name": "IT Management",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/it-management/7292348"
+    },
+    {
+      "name": "IT Organisation",
+      "code": "SNE 2020-2021",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/it-organisation/4557444"
+    },
+    {
+      "name": "Java Essentials",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/java-essentials/4567790"
+    },
+    {
+      "name": "Journalistiek en Onderzoek",
+      "code": "/////",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/journalistiek-en-onderzoek/5131160"
+    },
+    {
+      "name": "Juridische aspecten HR",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/juridische-aspecten-hr/6816442"
+    },
+    {
+      "name": "juridische aspecten van het vastgoed",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/juridische-aspecten-van-het-vastgoed/5150583"
+    },
+    {
+      "name": "Juridische beginselen",
+      "code": "31FIV3320",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/juridische-beginselen/3237600"
+    },
+    {
+      "name": "Juridische bronnenstudie",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/juridische-bronnenstudie/4366147"
+    },
+    {
+      "name": "Juridische vorming",
+      "code": "31BNL3030",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/juridische-vorming/4882439"
+    },
+    {
+      "name": "justiteel welzijnwerk",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/justiteel-welzijnwerk/7291870"
+    },
+    {
+      "name": "Keuzevak: Filosoferen met jongeren",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/keuzevak-filosoferen-met-jongeren/5901969"
+    },
+    {
+      "name": "keuzevak: kritieke patiënt",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/keuzevak-kritieke-patient/6129026"
+    },
+    {
+      "name": "Kinderen",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/kinderen/3428449"
+    },
+    {
+      "name": "Kleuterdidactiek",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/kleuterdidactiek/5931108"
+    },
+    {
+      "name": "Kleuteronderwijs",
+      "code": "/",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/kleuteronderwijs/3181360"
+    },
+    {
+      "name": "klinisch redeneren",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/klinisch-redeneren/5071724"
+    },
+    {
+      "name": "Klinische zorgtrajecten 1",
+      "code": "KZT1",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/klinische-zorgtrajecten-1/6560954"
+    },
+    {
+      "name": "Klinische zorgtrajecten 2",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/klinische-zorgtrajecten-2/5272768"
+    },
+    {
+      "name": "klionische zorgtrajecten 1",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/klionische-zorgtrajecten-1/6489805"
+    },
+    {
+      "name": "kmo financiering en waardering",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/kmo-financiering-en-waardering/4344456"
+    },
+    {
+      "name": "Kraamzorg vroedkunde",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/kraamzorg-vroedkunde/2268893"
+    },
+    {
+      "name": "krachtige leeromgeving",
+      "code": "KLO 21-22",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/krachtige-leeromgeving/5170546"
+    },
+    {
+      "name": "Kredieten",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/kredieten/2917843"
+    },
+    {
+      "name": "Kredieten en zekerheden",
+      "code": "32FIV3060",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/kredieten-en-zekerheden/5339712"
+    },
+    {
+      "name": "kritisch in de samenleving",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/kritisch-in-de-samenleving/5064970"
+    },
+    {
+      "name": "Kunst Wijzer",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/kunst-wijzer/7128375"
+    },
+    {
+      "name": "Kunstactualiteit",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/kunstactualiteit/1712123"
+    },
+    {
+      "name": "Kunstgeschiedenis",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/kunstgeschiedenis/7602823"
+    },
+    {
+      "name": "Kwaliteitsmanagement",
+      "code": "13BTL3030",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/kwaliteitsmanagement/4538351"
+    },
+    {
+      "name": "L.o Theorie - fysiologie 2b",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/lo-theorie-fysiologie-2b/4309960"
+    },
+    {
+      "name": "Labomanagement",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/labomanagement/3268925"
+    },
+    {
+      "name": "Labovaardigheden 1",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/labovaardigheden-1/6026658"
+    },
+    {
+      "name": "Last mile en verse keten logistiek",
+      "code": "31SCM3170",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/last-mile-en-verse-keten-logistiek/7615014"
+    },
+    {
+      "name": "Law for business",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/law-for-business/7476775"
+    },
+    {
+      "name": "law for healthcare",
+      "code": "31HMA3030",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/law-for-healthcare/6557590"
+    },
+    {
+      "name": "Le français de la vente 2",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/le-francais-de-la-vente-2/6520175"
+    },
+    {
+      "name": "Leerlingbegeleiding",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/leerlingbegeleiding/4550596"
+    },
+    {
+      "name": "legal innovation",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/legal-innovation/7576874"
+    },
+    {
+      "name": "Lerarenopleiding Geschiedenis",
+      "code": "GESCH",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/lerarenopleiding-geschiedenis/1553109"
+    },
+    {
+      "name": "Leren onderwijzen",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/leren-onderwijzen/2263482"
+    },
+    {
+      "name": "Lesgeven in buitengewoon secundair onderwijs",
+      "code": "63EDU1260",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/lesgeven-in-buitengewoon-secundair-onderwijs/7329406"
+    },
+    {
+      "name": "Levenslooppsychologie",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/levenslooppsychologie/6513510"
+    },
+    {
+      "name": "Lichamelijke opvoeding",
+      "code": "LO.2017",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/lichamelijke-opvoeding/4332567"
+    },
+    {
+      "name": "Lichamelijke opvoeding",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/lichamelijke-opvoeding/4537191"
+    },
+    {
+      "name": "linux essentials",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/linux-essentials/4343877"
+    },
+    {
+      "name": "LO & mens",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/lo-mens/3273658"
+    },
+    {
+      "name": "Logistiek",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/logistiek/3732996"
+    },
+    {
+      "name": "Logistieke ICT 3",
+      "code": "LOGICT3",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/logistieke-ict-3/5178062"
+    },
+    {
+      "name": "LSO- Geschiedenis 3",
+      "code": "Geen",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/lso-geschiedenis-3/1948640"
+    },
+    {
+      "name": "Luchtvracht, spoor- en wegvervoer",
+      "code": "32LOG3110",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/luchtvracht-spoor-en-wegvervoer/4349847"
+    },
+    {
+      "name": "Maatschappelijke Issues",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/maatschappelijke-issues/6510079"
+    },
+    {
+      "name": "Magazijnbeheer",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/magazijnbeheer/7426313"
+    },
+    {
+      "name": "Magazijninrichting",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/magazijninrichting/7426314"
+    },
+    {
+      "name": "Magazijnlogistiek",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/magazijnlogistiek/4882760"
+    },
+    {
+      "name": "Management accounting",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/management-accounting/3209171"
+    },
+    {
+      "name": "Management and finance in Healthcare",
+      "code": "31HMA3020",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/management-and-finance-in-healthcare/7452954"
+    },
+    {
+      "name": "Management Skills",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/management-skills/3271715"
+    },
+    {
+      "name": "Management van sportinfrastructuur",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/management-van-sportinfrastructuur/3305346"
+    },
+    {
+      "name": "Managment Skills",
+      "code": "2BDM",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/managment-skills/5885681"
+    },
+    {
+      "name": "Marketing",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/marketing/2960068"
+    },
+    {
+      "name": "Marketing Essentials",
+      "code": "31MAR3060",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/marketing-essentials/4415379"
+    },
+    {
+      "name": "marketing essentials",
+      "code": "1BDM",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/marketing-essentials/5178400"
+    },
+    {
+      "name": "Marketing essentials",
+      "code": "1marB",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/marketing-essentials/7379012"
+    },
+    {
+      "name": "marketing management",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/marketing-management/6672978"
+    },
+    {
+      "name": "Marketing tools 1",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/marketing-tools-1/5881338"
+    },
+    {
+      "name": "Marketing toolsl 2",
+      "code": "31MCS1150",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/marketing-toolsl-2/6696003"
+    },
+    {
+      "name": "Marketingcommunicatie",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/marketingcommunicatie/6058514"
+    },
+    {
+      "name": "Marketingcommunicatie & PR",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/marketingcommunicatie-pr/5903526"
+    },
+    {
+      "name": "Marketingmanagement 2",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/marketingmanagement-2/6520178"
+    },
+    {
+      "name": "Marketingtechnieken",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/marketingtechnieken/7391963"
+    },
+    {
+      "name": "Marktanalyse",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/marktanalyse/7325677"
+    },
+    {
+      "name": "Marktonderzoek theorie",
+      "code": "2MAR",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/marktonderzoek-theorie/1755584"
+    },
+    {
+      "name": "materials management",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/materials-management/6706886"
+    },
+    {
+      "name": "Mechanica1",
+      "code": "11EMA1040",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/mechanica1/1735434"
+    },
+    {
+      "name": "Mechanische machines",
+      "code": "11HEN1080",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/mechanische-machines/7013732"
+    },
+    {
+      "name": "Media in Belgium",
+      "code": "MIB 2023",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/media-in-belgium/6870706"
+    },
+    {
+      "name": "Mediabedrijf en mediakennis",
+      "code": "1CMA1003",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/mediabedrijf-en-mediakennis/4345800"
+    },
+    {
+      "name": "Mediakennis en -markt",
+      "code": "81JOU1029",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/mediakennis-en-markt/5873034"
+    },
+    {
+      "name": "Medialeer",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/medialeer/3268863"
+    },
+    {
+      "name": "Mediarecht en deontologie",
+      "code": "81JOU1028",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/mediarecht-en-deontologie/5927423"
+    },
+    {
+      "name": "Mediawijsheid",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/mediawijsheid/5718267"
+    },
+    {
+      "name": "medisch terminologie",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/medisch-terminologie/5276974"
+    },
+    {
+      "name": "Meet the business 1",
+      "code": "MTB1",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/meet-the-business-1/7210485"
+    },
+    {
+      "name": "Meet the Business II",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/meet-the-business-ii/6989114"
+    },
+    {
+      "name": "Mens & Gezondheid",
+      "code": "MG2014",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/mens-gezondheid/4141700"
+    },
+    {
+      "name": "Mens & maatschappij",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/mens-maatschappij/3273000"
+    },
+    {
+      "name": "Mens en organisatie",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/mens-en-organisatie/5136962"
+    },
+    {
+      "name": "menselijk functioneren 1",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/menselijk-functioneren-1/4840282"
+    },
+    {
+      "name": "Menselijk functioneren 2",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/menselijk-functioneren-2/6181795"
+    },
+    {
+      "name": "menselijk functioneren 3",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/menselijk-functioneren-3/7545875"
+    },
+    {
+      "name": "Menswetenschappen",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/menswetenschappen/3287644"
+    },
+    {
+      "name": "Meten",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/meten/7450090"
+    },
+    {
+      "name": "Migratie en intercultureel werken",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/migratie-en-intercultureel-werken/6893355"
+    },
+    {
+      "name": "Mijn persoonlijke identiteit",
+      "code": "MPI",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/mijn-persoonlijke-identiteit/3218697"
+    },
+    {
+      "name": "Mijn professionele identiteit",
+      "code": "MPI",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/mijn-professionele-identiteit/3218700"
+    },
+    {
+      "name": "milieubeheerssystemen en MVO",
+      "code": "13OMT4090",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/milieubeheerssystemen-en-mvo/6045786"
+    },
+    {
+      "name": "MIS Power BI",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/mis-power-bi/4887279"
+    },
+    {
+      "name": "Motivatiepsychologie",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/motivatiepsychologie/4824750"
+    },
+    {
+      "name": "Motorrijtuigenverzekeringen",
+      "code": "32FIV3270",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/motorrijtuigenverzekeringen/5170205"
+    },
+    {
+      "name": "muziek",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/muziek/5126128"
+    },
+    {
+      "name": "Muziekgeschiedenis- en Kritiek 1",
+      "code": "71PRM1010",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/muziekgeschiedenis-en-kritiek-1/5293399"
+    },
+    {
+      "name": "Muzieksociologie",
+      "code": "72PRM1120",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/muzieksociologie/5293402"
+    },
+    {
+      "name": "Muziektechnologische oriëntatie",
+      "code": "71PRM3010",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/muziektechnologische-orientatie/5293405"
+    },
+    {
+      "name": "Muzische vorming",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/muzische-vorming/5342720"
+    },
+    {
+      "name": "Muzische vorming 1b",
+      "code": "media",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/muzische-vorming-1b/5976085"
+    },
+    {
+      "name": "Muzische vorming 1b beeld",
+      "code": "LKO1140",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/muzische-vorming-1b-beeld/6196174"
+    },
+    {
+      "name": "Natuurkunde",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/natuurkunde/5126676"
+    },
+    {
+      "name": "Natuurwetenschappen 1",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/natuurwetenschappen-1/5828608"
+    },
+    {
+      "name": "Nederlands",
+      "code": "Nederlands schrijven",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/nederlands/3257446"
+    },
+    {
+      "name": "Nederlands 1A",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/nederlands-1a/1734327"
+    },
+    {
+      "name": "Nederlands 1b",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/nederlands-1b/4898855"
+    },
+    {
+      "name": "Nederlands 2A",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/nederlands-2a/1734330"
+    },
+    {
+      "name": "Nederlands 3",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/nederlands-3/2157534"
+    },
+    {
+      "name": "Nederlands Lezen",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/nederlands-lezen/5378964"
+    },
+    {
+      "name": "Nederlands Spreken en Luisteren",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/nederlands-spreken-en-luisteren/4756217"
+    },
+    {
+      "name": "Netwerken - Systemen & Netwerken",
+      "code": "2019-20-GRSNE",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/netwerken-systemen-netwerken/4348576"
+    },
+    {
+      "name": "network essentials",
+      "code": "41TIN1230",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/network-essentials/4913417"
+    },
+    {
+      "name": "Neural Networks",
+      "code": "43AIN3070",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/neural-networks/6454899"
+    },
+    {
+      "name": "neurologie",
+      "code": "BLAW1001",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/neurologie/4910231"
+    },
+    {
+      "name": "Neuropsychologie: Diagnostiek en Begeleiding 4",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/neuropsychologie-diagnostiek-en-begeleiding-4/7612733"
+    },
+    {
+      "name": "Niet-confessionele zedenleer",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/niet-confessionele-zedenleer/3735418"
+    },
+    {
+      "name": "Observeren & Communiceren",
+      "code": "TPS1",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/observeren-communiceren/6653688"
+    },
+    {
+      "name": "Off- en online reclame",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/off-en-online-reclame/4533568"
+    },
+    {
+      "name": "Office textlab",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/office-textlab/7556013"
+    },
+    {
+      "name": "OG",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/og/3218696"
+    },
+    {
+      "name": "Omgevingsrecht",
+      "code": "32RPR4040",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/omgevingsrecht/4295428"
+    },
+    {
+      "name": "Omgevingswetenschappen",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/omgevingswetenschappen/4513929"
+    },
+    {
+      "name": "Omnichannel retail",
+      "code": "31DMI4030",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/omnichannel-retail/7241717"
+    },
+    {
+      "name": "Ondernemingsproject",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/ondernemingsproject/4378484"
+    },
+    {
+      "name": "Ondernemingsrecht",
+      "code": "31BDM1130/31ACF3060",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/ondernemingsrecht/3705164"
+    },
+    {
+      "name": "Onderwijsgroepen",
+      "code": "OG",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/onderwijsgroepen/3192899"
+    },
+    {
+      "name": "Onderzoek",
+      "code": "82CMA1170",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/onderzoek/4419990"
+    },
+    {
+      "name": "Onderzoekstechnieken",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/onderzoekstechnieken/5132581"
+    },
+    {
+      "name": "online trading",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/online-trading/7037669"
+    },
+    {
+      "name": "Ontluikende geletterdheid",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/ontluikende-geletterdheid/3735479"
+    },
+    {
+      "name": "Ontwerp",
+      "code": "Ontw 2005",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/ontwerp/7083269"
+    },
+    {
+      "name": "Ontwikkelingspsychologie",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/ontwikkelingspsychologie/3266288"
+    },
+    {
+      "name": "Opvoedkunde 1A",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/opvoedkunde-1a/1734319"
+    },
+    {
+      "name": "Opvoedkunde 1B",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/opvoedkunde-1b/1734320"
+    },
+    {
+      "name": "Opvoedkunde 2a",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/opvoedkunde-2a/4316780"
+    },
+    {
+      "name": "Opvoedkunde 2b",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/opvoedkunde-2b/1734321"
+    },
+    {
+      "name": "Opvoedkunde 3",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/opvoedkunde-3/3264604"
+    },
+    {
+      "name": "Organisatie",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/organisatie/1740994"
+    },
+    {
+      "name": "organisatie en leiderschapsstijlen",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/organisatie-en-leiderschapsstijlen/5093562"
+    },
+    {
+      "name": "organisatie psychologie",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/organisatie-psychologie/7049411"
+    },
+    {
+      "name": "Oriëntatie beroepspraktijk",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/orientatie-beroepspraktijk/6658427"
+    },
+    {
+      "name": "Orthopedagogie",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/orthopedagogie/2300917"
+    },
+    {
+      "name": "Orthopedagogie 1",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/orthopedagogie-1/7621304"
+    },
+    {
+      "name": "Orthopedagogisch handel",
+      "code": "GRORT1",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/orthopedagogisch-handel/5064695"
+    },
+    {
+      "name": "Orthopedagogisch handelen",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/orthopedagogisch-handelen/5353632"
+    },
+    {
+      "name": "orthopedagogisch werkveld",
+      "code": "91ORT1030",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/orthopedagogisch-werkveld/6703685"
+    },
+    {
+      "name": "Ouderenzorg",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/ouderenzorg/5976022"
+    },
+    {
+      "name": "overheid in de praktijk",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/overheid-in-de-praktijk/7613642"
+    },
+    {
+      "name": "Overheidscommunicatie",
+      "code": "82CMA1250",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/overheidscommunicatie/3239481"
+    },
+    {
+      "name": "Partners binnen en buiten de school",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/partners-binnen-en-buiten-de-school/7322385"
+    },
+    {
+      "name": "Passieve Technieken",
+      "code": "11HEN1070",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/passieve-technieken/5836499"
+    },
+    {
+      "name": "pathologie",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/pathologie/4359001"
+    },
+    {
+      "name": "Pedagogie",
+      "code": "46610052",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/pedagogie/4450481"
+    },
+    {
+      "name": "Pedagogisch didactisch kader",
+      "code": "PDK",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/pedagogisch-didactisch-kader/3273901"
+    },
+    {
+      "name": "Pedagogische basis",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/pedagogische-basis/4413847"
+    },
+    {
+      "name": "Pedagogische Didactische Basis",
+      "code": "PDB1",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/pedagogische-didactische-basis/4910571"
+    },
+    {
+      "name": "pedagogische professionaliteit",
+      "code": "PB",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/pedagogische-professionaliteit/6247712"
+    },
+    {
+      "name": "Perceptieleer",
+      "code": "MAD1",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/perceptieleer/4354703"
+    },
+    {
+      "name": "personal branding",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/personal-branding/5019876"
+    },
+    {
+      "name": "Personen en familierecht",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/personen-en-familierecht/5321786"
+    },
+    {
+      "name": "Personenbelasting",
+      "code": "1ACF",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/personenbelasting/3251784"
+    },
+    {
+      "name": "Personenbelasting",
+      "code": "32RPR3280",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/personenbelasting/7355924"
+    },
+    {
+      "name": "Personenbelasting 2",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/personenbelasting-2/6583086"
+    },
+    {
+      "name": "Personenrecht",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/personenrecht/2844808"
+    },
+    {
+      "name": "persoonlijke en professionele ontwikkeling",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/persoonlijke-en-professionele-ontwikkeling/7683513"
+    },
+    {
+      "name": "persoonlijke ontwikkeling",
+      "code": "14851/1579/2021/1/89",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/persoonlijke-ontwikkeling/5157101"
+    },
+    {
+      "name": "persoonlijkheidspsychologie",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/persoonlijkheidspsychologie/7579802"
+    },
+    {
+      "name": "Persoonsverzekering niet leven",
+      "code": "32FIV3300",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/persoonsverzekering-niet-leven/3128239"
+    },
+    {
+      "name": "Persoonsverzekeringen leven",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/persoonsverzekeringen-leven/4805898"
+    },
+    {
+      "name": "PIN 2e Leerjaar Verpleegkunde",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/pin-2e-leerjaar-verpleegkunde/4659898"
+    },
+    {
+      "name": "PIN CVK en PICC",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/pin-cvk-en-picc/7748517"
+    },
+    {
+      "name": "Pin theorie MF2",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/pin-theorie-mf2/7073451"
+    },
+    {
+      "name": "Pintheorie  MF1",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/pintheorie-mf1/6854957"
+    },
+    {
+      "name": "Plant en bodem",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/plant-en-bodem/7685095"
+    },
+    {
+      "name": "Plant en Dier",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/plant-en-dier/7522151"
+    },
+    {
+      "name": "Plastische opvoeding",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/plastische-opvoeding/6200756"
+    },
+    {
+      "name": "poef 1e jaar verpleegkunde",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/poef-1e-jaar-verpleegkunde/5325802"
+    },
+    {
+      "name": "POEF 2e leerjaar Verpleegkunde",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/poef-2e-leerjaar-verpleegkunde/4659901"
+    },
+    {
+      "name": "Politieke Thema's",
+      "code": "14857/1579/2021/1/02",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/politieke-themas/5157099"
+    },
+    {
+      "name": "POP communicatie",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/pop-communicatie/5359743"
+    },
+    {
+      "name": "Postgraduaat Bosbeheer",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/postgraduaat-bosbeheer/4535509"
+    },
+    {
+      "name": "postgraduaat openbare besturen",
+      "code": "93OBE1030",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/postgraduaat-openbare-besturen/5307191"
+    },
+    {
+      "name": "Postgraduaat Vastgoed",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/postgraduaat-vastgoed/6631714"
+    },
+    {
+      "name": "PR en Eventmarketing",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/pr-en-eventmarketing/3734601"
+    },
+    {
+      "name": "Practicum btw",
+      "code": "32ACF3270",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/practicum-btw/5580941"
+    },
+    {
+      "name": "practicum personenbelasting",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/practicum-personenbelasting/6009763"
+    },
+    {
+      "name": "Praktijkgericht Onderzoek 1",
+      "code": "91SWA1070",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/praktijkgericht-onderzoek-1/4909136"
+    },
+    {
+      "name": "Praktijkgerichtonderzoek 2",
+      "code": "92SWA1020",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/praktijkgerichtonderzoek-2/5361459"
+    },
+    {
+      "name": "Praktijkondersteuning",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/praktijkondersteuning/4909949"
+    },
+    {
+      "name": "Praktisch privaat procesrecht en AGR",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/praktisch-privaat-procesrecht-en-agr/6917845"
+    },
+    {
+      "name": "Praktische Actua Sessie",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/praktische-actua-sessie/7263869"
+    },
+    {
+      "name": "Preconceptionele zorg",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/preconceptionele-zorg/2267481"
+    },
+    {
+      "name": "Prentenboeken in beeld",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/prentenboeken-in-beeld/5908878"
+    },
+    {
+      "name": "Privaatrecht",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/privaatrecht/4349490"
+    },
+    {
+      "name": "Probleemoplossend denken",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/probleemoplossend-denken/5971979"
+    },
+    {
+      "name": "Procestechnologie",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/procestechnologie/3220186"
+    },
+    {
+      "name": "Productielogistiek",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/productielogistiek/1948322"
+    },
+    {
+      "name": "professional identity",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/professional-identity/6367667"
+    },
+    {
+      "name": "professionele communicatie 1",
+      "code": "31FIV3150",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/professionele-communicatie-1/7373593"
+    },
+    {
+      "name": "Professionele communicatie 2",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/professionele-communicatie-2/7583495"
+    },
+    {
+      "name": "professionele context",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/professionele-context/5362426"
+    },
+    {
+      "name": "Professionele Context",
+      "code": "63LSO1190",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/professionele-context/7609526"
+    },
+    {
+      "name": "Professionele topics",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/professionele-topics/4512571"
+    },
+    {
+      "name": "Programming Advanced",
+      "code": "42TIN2010",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/programming-advanced/7634872"
+    },
+    {
+      "name": "Project algemene vakken",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/project-algemene-vakken/4487871"
+    },
+    {
+      "name": "Project branding",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/project-branding/6700309"
+    },
+    {
+      "name": "Project Infrastructuur 2",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/project-infrastructuur-2/6900366"
+    },
+    {
+      "name": "Project KMO-management",
+      "code": "32BDM1070",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/project-kmo-management/5162189"
+    },
+    {
+      "name": "Project kunstvakken",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/project-kunstvakken/5705263"
+    },
+    {
+      "name": "Project Marktonderzoek",
+      "code": "32MAR3110",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/project-marktonderzoek/4618425"
+    },
+    {
+      "name": "Project ondernemen full",
+      "code": "12BOU1140",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/project-ondernemen-full/7696222"
+    },
+    {
+      "name": "Project vastgoed",
+      "code": "32VAG4010",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/project-vastgoed/5339714"
+    },
+    {
+      "name": "Project Vastgoedmakelaar",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/project-vastgoedmakelaar/5992498"
+    },
+    {
+      "name": "Psychodiagnostiek",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/psychodiagnostiek/6679614"
+    },
+    {
+      "name": "Psychologie",
+      "code": "2.3a",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/psychologie/3245238"
+    },
+    {
+      "name": "Psychologisch Perspectief",
+      "code": "91SWA1060",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/psychologisch-perspectief/4909137"
+    },
+    {
+      "name": "Psychologisch perspectief 2",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/psychologisch-perspectief-2/4887186"
+    },
+    {
+      "name": "Psychopathologie",
+      "code": "PP",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/psychopathologie/2255010"
+    },
+    {
+      "name": "Psychopathologisch Perspectief 1",
+      "code": "92SMW3070",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/psychopathologisch-perspectief-1/7345136"
+    },
+    {
+      "name": "Public Relations",
+      "code": "82CMA1190",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/public-relations/4455396"
+    },
+    {
+      "name": "Public relations",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/public-relations/5697159"
+    },
+    {
+      "name": "Publiek Recht",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/publiek-recht/6685705"
+    },
+    {
+      "name": "Publiekrecht",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/publiekrecht/4342307"
+    },
+    {
+      "name": "Recht",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/recht/1734780"
+    },
+    {
+      "name": "recht en deontologie",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/recht-en-deontologie/7001229"
+    },
+    {
+      "name": "Reclame",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/reclame/4517355"
+    },
+    {
+      "name": "Redactie beeld 1a",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/redactie-beeld-1a/7612659"
+    },
+    {
+      "name": "Regionale en lokale belastingen",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/regionale-en-lokale-belastingen/5319976"
+    },
+    {
+      "name": "registratie- en erfbelasting",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/registratie-en-erfbelasting/7558822"
+    },
+    {
+      "name": "Registratierecht",
+      "code": "fiscaal",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/registratierecht/1553105"
+    },
+    {
+      "name": "Religie, zingeving en levensbeschouwing",
+      "code": "RZL1",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/religie-zingeving-en-levensbeschouwing/4910454"
+    },
+    {
+      "name": "Renovatie & Afbraak",
+      "code": "R&A2",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/renovatie-afbraak/7603962"
+    },
+    {
+      "name": "Residentieel en commercieel vastgoed",
+      "code": "31VAG4020",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/residentieel-en-commercieel-vastgoed/6196552"
+    },
+    {
+      "name": "retail- en actiecommunicatie",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/retail-en-actiecommunicatie/4349412"
+    },
+    {
+      "name": "Reumatoïde artritis",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/reumatoide-artritis/3299097"
+    },
+    {
+      "name": "Risico-management en controle",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/risico-management-en-controle/5727482"
+    },
+    {
+      "name": "Risk Management & Control",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/risk-management-control/3271722"
+    },
+    {
+      "name": "roomskatholiek godsdienst",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/roomskatholiek-godsdienst/6044579"
+    },
+    {
+      "name": "Sales management",
+      "code": "33MAR3260",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/sales-management/5120319"
+    },
+    {
+      "name": "samenleving en diversiteit",
+      "code": "2Orth",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/samenleving-en-diversiteit/6673710"
+    },
+    {
+      "name": "Samenvatting PPT Hoorcolleges",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/samenvatting-ppt-hoorcolleges/4549336"
+    },
+    {
+      "name": "Scheiding en detectie van biomoleculen",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/scheiding-en-detectie-van-biomoleculen/3435856"
+    },
+    {
+      "name": "scheidings- en detectietechnieken",
+      "code": "12BTL3040",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/scheidings-en-detectietechnieken/6206785"
+    },
+    {
+      "name": "School en pedagogische psychologie",
+      "code": "92KPS3000",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/school-en-pedagogische-psychologie/6656877"
+    },
+    {
+      "name": "Security Essentials",
+      "code": "41TIN1350",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/security-essentials/7055359"
+    },
+    {
+      "name": "Server OS Essentials - Windows",
+      "code": "42TIN1260",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/server-os-essentials-windows/5240036"
+    },
+    {
+      "name": "Skillslab: communiceren en observeren",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/skillslab-communiceren-en-observeren/7677468"
+    },
+    {
+      "name": "skillslab: e-mental health",
+      "code": "92KPS3090",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/skillslab-e-mental-health/7619354"
+    },
+    {
+      "name": "smw hr",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/smw-hr/6825163"
+    },
+    {
+      "name": "smw procesmoddelen",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/smw-procesmoddelen/5847458"
+    },
+    {
+      "name": "SMW verdiepen en verbreden",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/smw-verdiepen-en-verbreden/7141731"
+    },
+    {
+      "name": "SMW Verdiepen en verbreden 1",
+      "code": "92SMW3030",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/smw-verdiepen-en-verbreden-1/7218522"
+    },
+    {
+      "name": "Sociaal methodisch werk",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/sociaal-methodisch-werk/2181226"
+    },
+    {
+      "name": "Sociaal recht",
+      "code": "32RPR3100",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/sociaal-recht/5375538"
+    },
+    {
+      "name": "Sociaal recht 1",
+      "code": "92SWA1031",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/sociaal-recht-1/5361456"
+    },
+    {
+      "name": "Sociaal recht 2",
+      "code": "92SWA1024",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/sociaal-recht-2/5361458"
+    },
+    {
+      "name": "Sociaal werk in internationaal perspectief",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/sociaal-werk-in-internationaal-perspectief/4763275"
+    },
+    {
+      "name": "Sociaal Zekerheidsrecht",
+      "code": "Sociaal recht,",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/sociaal-zekerheidsrecht/1553106"
+    },
+    {
+      "name": "Sociaal-economisch perspectief",
+      "code": "92SWA1110",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/sociaal-economisch-perspectief/7585158"
+    },
+    {
+      "name": "social skills",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/social-skills/7619593"
+    },
+    {
+      "name": "Sociale psychologie",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/sociale-psychologie/6900259"
+    },
+    {
+      "name": "Sociale wetgeving",
+      "code": "33ACF3240",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/sociale-wetgeving/4513918"
+    },
+    {
+      "name": "Sociale wetgeving",
+      "code": "32FIV3230",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/sociale-wetgeving/5170206"
+    },
+    {
+      "name": "Sociale Wetgeving",
+      "code": "32BDM1080",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/sociale-wetgeving/5759112"
+    },
+    {
+      "name": "Sociale Wetgeving",
+      "code": "1FIV",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/sociale-wetgeving/5933389"
+    },
+    {
+      "name": "Sociale wetgeving",
+      "code": "1ACF",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/sociale-wetgeving/6716884"
+    },
+    {
+      "name": "Sociologie",
+      "code": "S210",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/sociologie/1581446"
+    },
+    {
+      "name": "sociologisch perspectief",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/sociologisch-perspectief/4344142"
+    },
+    {
+      "name": "soft skills",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/soft-skills/5996112"
+    },
+    {
+      "name": "Software",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/software/6610079"
+    },
+    {
+      "name": "Software Engineering",
+      "code": "SE 2020",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/software-engineering/5538470"
+    },
+    {
+      "name": "Software Quality Management",
+      "code": "SQM 2020",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/software-quality-management/5176244"
+    },
+    {
+      "name": "spaans",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/spaans/5478444"
+    },
+    {
+      "name": "Specifieke Lerarenopleiding",
+      "code": "-",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/specifieke-lerarenopleiding/1553108"
+    },
+    {
+      "name": "Spelers op de markt van de sport 1",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/spelers-op-de-markt-van-de-sport-1/4913469"
+    },
+    {
+      "name": "Sportbeleid",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/sportbeleid/2184958"
+    },
+    {
+      "name": "Sportlandschap",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/sportlandschap/4769069"
+    },
+    {
+      "name": "Stabiliteit 1",
+      "code": "11BOU1110",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/stabiliteit-1/2185234"
+    },
+    {
+      "name": "Stabiliteit 2",
+      "code": "11BOU1120",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/stabiliteit-2/2185235"
+    },
+    {
+      "name": "Stabiliteit 3",
+      "code": "12BOU1120",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/stabiliteit-3/6663718"
+    },
+    {
+      "name": "Stabiliteit 4",
+      "code": "12BOU1150",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/stabiliteit-4/7217553"
+    },
+    {
+      "name": "Stage",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/stage/5671169"
+    },
+    {
+      "name": "Stage 1",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/stage-1/6067658"
+    },
+    {
+      "name": "stage 3",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/stage-3/5881360"
+    },
+    {
+      "name": "stage jaar 2",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/stage-jaar-2/6578557"
+    },
+    {
+      "name": "Statica",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/statica/7234645"
+    },
+    {
+      "name": "Statistiek",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/statistiek/3735874"
+    },
+    {
+      "name": "Stem en spraak",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/stem-en-spraak/5926414"
+    },
+    {
+      "name": "Strafrecht",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/strafrecht/3732964"
+    },
+    {
+      "name": "strategisch management",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/strategisch-management/6868396"
+    },
+    {
+      "name": "strategisch winkelmanagement deel 1",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/strategisch-winkelmanagement-deel-1/4344350"
+    },
+    {
+      "name": "strategische marketing",
+      "code": "32MAR3060",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/strategische-marketing/6960174"
+    },
+    {
+      "name": "Structuur van de organisatie",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/structuur-van-de-organisatie/4663150"
+    },
+    {
+      "name": "Student start-up",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/student-start-up/6698352"
+    },
+    {
+      "name": "supply chain management",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/supply-chain-management/4333096"
+    },
+    {
+      "name": "Survival Dutch",
+      "code": "80ERA9031",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/survival-dutch/6683749"
+    },
+    {
+      "name": "sustainable technology",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/sustainable-technology/6851673"
+    },
+    {
+      "name": "system essentials",
+      "code": "41TIN1240",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/system-essentials/5155197"
+    },
+    {
+      "name": "Taal",
+      "code": "T2a",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/taal/1553103"
+    },
+    {
+      "name": "taal en communicatie",
+      "code": "61LSO1290",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/taal-en-communicatie/4347635"
+    },
+    {
+      "name": "Taal en onderzoek",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/taal-en-onderzoek/4756218"
+    },
+    {
+      "name": "Taal: Taal 1",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/taal-taal-1/6661822"
+    },
+    {
+      "name": "Taalinitiatie Frans",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/taalinitiatie-frans/6966359"
+    },
+    {
+      "name": "Techniek 1a",
+      "code": "61LSO2323",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/techniek-1a/6978396"
+    },
+    {
+      "name": "Techniek 1B",
+      "code": "61LSO2324",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/techniek-1b/6978398"
+    },
+    {
+      "name": "Techniek 2A",
+      "code": "62LSO2368",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/techniek-2a/6978399"
+    },
+    {
+      "name": "Technische Aspecten van het vastgoed",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/technische-aspecten-van-het-vastgoed/4839888"
+    },
+    {
+      "name": "Toegepast marktonderzoek",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/toegepast-marktonderzoek/2947152"
+    },
+    {
+      "name": "toegepaste biotechnologie",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/toegepaste-biotechnologie/6471072"
+    },
+    {
+      "name": "toegepaste psychologie",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/toegepaste-psychologie/6513507"
+    },
+    {
+      "name": "Toeristisch beleid",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/toeristisch-beleid/4349500"
+    },
+    {
+      "name": "Toeristische Geografie 1",
+      "code": "81TRM1005",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/toeristische-geografie-1/4432099"
+    },
+    {
+      "name": "Toeristische Geografie 3",
+      "code": "GEO 3",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/toeristische-geografie-3/4079605"
+    },
+    {
+      "name": "Toeristische Organisatie & Technieken 1",
+      "code": "2",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/toeristische-organisatie-technieken-1/1755340"
+    },
+    {
+      "name": "Toeristische Organisatie & Technieken 2",
+      "code": "8TRM1037",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/toeristische-organisatie-technieken-2/4376905"
+    },
+    {
+      "name": "Toeristische Organisatie & Technieken 3",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/toeristische-organisatie-technieken-3/3732242"
+    },
+    {
+      "name": "Tourism Research",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/tourism-research/3737357"
+    },
+    {
+      "name": "Tourism Talent, Professionals, Experts",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/tourism-talent-professionals-experts/3732167"
+    },
+    {
+      "name": "Tourism Talents 1",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/tourism-talents-1/5846716"
+    },
+    {
+      "name": "Transportgeografie",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/transportgeografie/3259594"
+    },
+    {
+      "name": "Transportmodi",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/transportmodi/4914673"
+    },
+    {
+      "name": "Transportverzekeringen",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/transportverzekeringen/2056580"
+    },
+    {
+      "name": "trends moleculaire technieken",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/trends-moleculaire-technieken/5881690"
+    },
+    {
+      "name": "Understanding Global Cultures",
+      "code": "32MAR",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/understanding-global-cultures/4411342"
+    },
+    {
+      "name": "vakdidactiek",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/vakdidactiek/5867385"
+    },
+    {
+      "name": "Vakoverschrijdend werken",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/vakoverschrijdend-werken/7632181"
+    },
+    {
+      "name": "Vakoverschrijdende Eindcompetenties 2",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/vakoverschrijdende-eindcompetenties-2/1734325"
+    },
+    {
+      "name": "Van pers tot publiek",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/van-pers-tot-publiek/7382641"
+    },
+    {
+      "name": "Vastgoed",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/vastgoed/3547457"
+    },
+    {
+      "name": "Vastgoed 2 (Project)",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/vastgoed-2-project/4407817"
+    },
+    {
+      "name": "Vastgoeddossier",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/vastgoeddossier/7616579"
+    },
+    {
+      "name": "veiligheid toxicologie en regelgeving",
+      "code": "vtr2020",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/veiligheid-toxicologie-en-regelgeving/4671950"
+    },
+    {
+      "name": "Vennootschapsbelasting",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/vennootschapsbelasting/3274673"
+    },
+    {
+      "name": "Vennootschapsboekhouden",
+      "code": "2ACF",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/vennootschapsboekhouden/4098023"
+    },
+    {
+      "name": "Vennootschapsrecht",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/vennootschapsrecht/1735051"
+    },
+    {
+      "name": "Venootschapswetgeving A",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/venootschapswetgeving-a/3288928"
+    },
+    {
+      "name": "Verbintenissenrecht",
+      "code": "Recht",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/verbintenissenrecht/1553107"
+    },
+    {
+      "name": "Verkennen van het werkveld",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/verkennen-van-het-werkveld/1948211"
+    },
+    {
+      "name": "Verkenning van de vastgoedwereld",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/verkenning-van-de-vastgoedwereld/4532330"
+    },
+    {
+      "name": "Verkoopmanagment",
+      "code": "3MARVERM",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/verkoopmanagment/2172784"
+    },
+    {
+      "name": "Verpleegkunde",
+      "code": "verpleegkunde",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/verpleegkunde/1624507"
+    },
+    {
+      "name": "Verpleegkunde gekaderd",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/verpleegkunde-gekaderd/6474901"
+    },
+    {
+      "name": "Verpleegkundige Visie",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/verpleegkundige-visie/4554591"
+    },
+    {
+      "name": "verzekeringen",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/verzekeringen/4623075"
+    },
+    {
+      "name": "Verzekeringsrecht",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/verzekeringsrecht/2037238"
+    },
+    {
+      "name": "Verzorging van het Gebit",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/verzorging-van-het-gebit/5324302"
+    },
+    {
+      "name": "viertalige correspondentie",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/viertalige-correspondentie/5154854"
+    },
+    {
+      "name": "voeding en dieetleer",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/voeding-en-dieetleer/6436679"
+    },
+    {
+      "name": "Voeding voor moeder en kind",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/voeding-voor-moeder-en-kind/5783653"
+    },
+    {
+      "name": "Voedingsleer en voedingsanalyse",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/voedingsleer-en-voedingsanalyse/5727385"
+    },
+    {
+      "name": "Voedingsmiddelentechnologie",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/voedingsmiddelentechnologie/5881322"
+    },
+    {
+      "name": "Voedselveiligheid",
+      "code": "12BTL3140",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/voedselveiligheid/5159732"
+    },
+    {
+      "name": "Vroedkunde",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/vroedkunde/2933790"
+    },
+    {
+      "name": "Vroedkunde at risk",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/vroedkunde-at-risk/3737854"
+    },
+    {
+      "name": "Waardig oud worden",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/waardig-oud-worden/6705636"
+    },
+    {
+      "name": "Warmteleer",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/warmteleer/4654390"
+    },
+    {
+      "name": "WC huidkanke",
+      "code": "Werkcollege",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/wc-huidkanke/5923708"
+    },
+    {
+      "name": "Web Essentials",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/web-essentials/6699209"
+    },
+    {
+      "name": "Webscripting",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/webscripting/6964755"
+    },
+    {
+      "name": "Weefsel leer",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/weefsel-leer/3221574"
+    },
+    {
+      "name": "werkcollege",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/werkcollege/4553028"
+    },
+    {
+      "name": "Werkplekleren",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/werkplekleren/6095032"
+    },
+    {
+      "name": "Wetenschappen & techniek",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/wetenschappen-techniek/3273004"
+    },
+    {
+      "name": "Wetgeving",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/wetgeving/1736722"
+    },
+    {
+      "name": "Wetgeving in Toerisme",
+      "code": "81TRM1002",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/wetgeving-in-toerisme/4432063"
+    },
+    {
+      "name": "Wetgeving voor marketeers",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/wetgeving-voor-marketeers/5946485"
+    },
+    {
+      "name": "Wetgeving voor marketeers 1",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/wetgeving-voor-marketeers-1/4334764"
+    },
+    {
+      "name": "Windows client OS",
+      "code": "A1",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/windows-client-os/3235357"
+    },
+    {
+      "name": "Windows Essentials",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/windows-essentials/5941779"
+    },
+    {
+      "name": "Wiskunde",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/wiskunde/2056502"
+    },
+    {
+      "name": "Wiskunde 2.1",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/wiskunde-21/6652140"
+    },
+    {
+      "name": "Xlarge rechtspraktijk",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/xlarge-rechtspraktijk/4417405"
+    },
+    {
+      "name": "Zaakverzekering",
+      "code": "33FIV3200",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/zaakverzekering/3128240"
+    },
+    {
+      "name": "Zakelijke Aspecten van de muziekindustrie 2",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/zakelijke-aspecten-van-de-muziekindustrie-2/5293396"
+    },
+    {
+      "name": "Zakelijke communicatie",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/zakelijke-communicatie/3219395"
+    },
+    {
+      "name": "Zakelijke en Juridische Aspecten van de Muziekindustrie",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/zakelijke-en-juridische-aspecten-van-de-muziekindustrie/5293388"
+    },
+    {
+      "name": "Zakenrecht",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/zakenrecht/1667987"
+    },
+    {
+      "name": "Zorg en gezondheid",
+      "code": "3MW",
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/zorg-en-gezondheid/5119460"
+    },
+    {
+      "name": "Zorg in de klas",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/zorg-in-de-klas/3735480"
+    },
+    {
+      "name": "Zorgmanagement",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/zorgmanagement/4079561"
+    },
+    {
+      "name": "zorgplan",
+      "code": null,
+      "url": "https://www.studocu.com/nl-be/course/hogeschool-pxl/zorgplan/5129163"
+    }
+  ]
+}

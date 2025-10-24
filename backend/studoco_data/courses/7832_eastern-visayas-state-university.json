@@ -1,0 +1,776 @@
+{
+  "university_id": "7832",
+  "university_name": "Eastern Visayas State University",
+  "courses": [
+    {
+      "name": "Advanced English Grammar",
+      "code": "Eng 113",
+      "url": "https://www.studocu.com/ph/course/eastern-visayas-state-university/advanced-english-grammar/6055261"
+    },
+    {
+      "name": "Agriculture",
+      "code": "Agri1",
+      "url": "https://www.studocu.com/ph/course/eastern-visayas-state-university/agriculture/6029219"
+    },
+    {
+      "name": "Analytical Chemistry",
+      "code": "Chem 224",
+      "url": "https://www.studocu.com/ph/course/eastern-visayas-state-university/analytical-chemistry/6433876"
+    },
+    {
+      "name": "Architectural Design 5",
+      "code": "DES 05",
+      "url": "https://www.studocu.com/ph/course/eastern-visayas-state-university/architectural-design-5/5482545"
+    },
+    {
+      "name": "Architecture",
+      "code": "ARCH213",
+      "url": "https://www.studocu.com/ph/course/eastern-visayas-state-university/architecture/4974543"
+    },
+    {
+      "name": "Architecture Prof Prac",
+      "code": "Arch 383",
+      "url": "https://www.studocu.com/ph/course/eastern-visayas-state-university/architecture-prof-prac/7749703"
+    },
+    {
+      "name": "Architecure",
+      "code": "ARCH 483",
+      "url": "https://www.studocu.com/ph/course/eastern-visayas-state-university/architecure/7593450"
+    },
+    {
+      "name": "Arts Appreciation",
+      "code": "ARTS 1",
+      "url": "https://www.studocu.com/ph/course/eastern-visayas-state-university/arts-appreciation/5722655"
+    },
+    {
+      "name": "Assessment in Learning 1",
+      "code": "333",
+      "url": "https://www.studocu.com/ph/course/eastern-visayas-state-university/assessment-in-learning-1/5594485"
+    },
+    {
+      "name": "Assessment in Learning I",
+      "code": "Prof Ed 233",
+      "url": "https://www.studocu.com/ph/course/eastern-visayas-state-university/assessment-in-learning-i/7183643"
+    },
+    {
+      "name": "Bachelor if Secondary Education Major in Biology",
+      "code": "BIOLOGY",
+      "url": "https://www.studocu.com/ph/course/eastern-visayas-state-university/bachelor-if-secondary-education-major-in-biology/6727749"
+    },
+    {
+      "name": "Bachelor of Elementary Education",
+      "code": null,
+      "url": "https://www.studocu.com/ph/course/eastern-visayas-state-university/bachelor-of-elementary-education/6636670"
+    },
+    {
+      "name": "Bachelor of Physical Education",
+      "code": "BPED",
+      "url": "https://www.studocu.com/ph/course/eastern-visayas-state-university/bachelor-of-physical-education/6042599"
+    },
+    {
+      "name": "Bachelor of Science in Entrepreneurship",
+      "code": "ENCC 313",
+      "url": "https://www.studocu.com/ph/course/eastern-visayas-state-university/bachelor-of-science-in-entrepreneurship/6617945"
+    },
+    {
+      "name": "Bachelor of Science in Hospitality Management",
+      "code": "HMC 1",
+      "url": "https://www.studocu.com/ph/course/eastern-visayas-state-university/bachelor-of-science-in-hospitality-management/5695388"
+    },
+    {
+      "name": "Bachelor of Science in Information Technology",
+      "code": "ZGE 1102",
+      "url": "https://www.studocu.com/ph/course/eastern-visayas-state-university/bachelor-of-science-in-information-technology/5270110"
+    },
+    {
+      "name": "Bachelor of Science in Office Administration",
+      "code": "OMC13",
+      "url": "https://www.studocu.com/ph/course/eastern-visayas-state-university/bachelor-of-science-in-office-administration/7432594"
+    },
+    {
+      "name": "Bachelor of secondary education",
+      "code": "FS 001",
+      "url": "https://www.studocu.com/ph/course/eastern-visayas-state-university/bachelor-of-secondary-education/6665595"
+    },
+    {
+      "name": "Bachelor of Technology and Livelihood Education Major In Industrial Arts",
+      "code": null,
+      "url": "https://www.studocu.com/ph/course/eastern-visayas-state-university/bachelor-of-technology-and-livelihood-education-major-in-industrial-arts/6390037"
+    },
+    {
+      "name": "Basic Foods 1",
+      "code": null,
+      "url": "https://www.studocu.com/ph/course/eastern-visayas-state-university/basic-foods-1/7568039"
+    },
+    {
+      "name": "Basic Occupational Health and Safety",
+      "code": "EE363",
+      "url": "https://www.studocu.com/ph/course/eastern-visayas-state-university/basic-occupational-health-and-safety/6740657"
+    },
+    {
+      "name": "Batsilyer ng Sining sa Filipino",
+      "code": null,
+      "url": "https://www.studocu.com/ph/course/eastern-visayas-state-university/batsilyer-ng-sining-sa-filipino/6000418"
+    },
+    {
+      "name": "Biological Science",
+      "code": "BIO 112",
+      "url": "https://www.studocu.com/ph/course/eastern-visayas-state-university/biological-science/6566384"
+    },
+    {
+      "name": "BS Accountancy  3",
+      "code": "BSACC3",
+      "url": "https://www.studocu.com/ph/course/eastern-visayas-state-university/bs-accountancy-3/6699698"
+    },
+    {
+      "name": "BS accountancy 2",
+      "code": null,
+      "url": "https://www.studocu.com/ph/course/eastern-visayas-state-university/bs-accountancy-2/6751404"
+    },
+    {
+      "name": "BS Criminology",
+      "code": null,
+      "url": "https://www.studocu.com/ph/course/eastern-visayas-state-university/bs-criminology/5816981"
+    },
+    {
+      "name": "BS Electrical Engineering",
+      "code": null,
+      "url": "https://www.studocu.com/ph/course/eastern-visayas-state-university/bs-electrical-engineering/6490077"
+    },
+    {
+      "name": "BS entrepreneurship",
+      "code": "Mgt 333",
+      "url": "https://www.studocu.com/ph/course/eastern-visayas-state-university/bs-entrepreneurship/4192075"
+    },
+    {
+      "name": "BS Envi-Sci",
+      "code": "'24",
+      "url": "https://www.studocu.com/ph/course/eastern-visayas-state-university/bs-envi-sci/7205681"
+    },
+    {
+      "name": "BS Environmental Science",
+      "code": "BSES 2022",
+      "url": "https://www.studocu.com/ph/course/eastern-visayas-state-university/bs-environmental-science/6528501"
+    },
+    {
+      "name": "BS in Electrical Engineering",
+      "code": "BSEE 101",
+      "url": "https://www.studocu.com/ph/course/eastern-visayas-state-university/bs-in-electrical-engineering/6629539"
+    },
+    {
+      "name": "BS Industrial Technology",
+      "code": "332",
+      "url": "https://www.studocu.com/ph/course/eastern-visayas-state-university/bs-industrial-technology/6927385"
+    },
+    {
+      "name": "BS Interior Design",
+      "code": "BSID-04",
+      "url": "https://www.studocu.com/ph/course/eastern-visayas-state-university/bs-interior-design/6179540"
+    },
+    {
+      "name": "BS Office Administration",
+      "code": null,
+      "url": "https://www.studocu.com/ph/course/eastern-visayas-state-university/bs-office-administration/6532986"
+    },
+    {
+      "name": "BSA Accountancy",
+      "code": "AEA223",
+      "url": "https://www.studocu.com/ph/course/eastern-visayas-state-university/bsa-accountancy/7400396"
+    },
+    {
+      "name": "BSED - Science",
+      "code": "Sci 255",
+      "url": "https://www.studocu.com/ph/course/eastern-visayas-state-university/bsed-science/5855265"
+    },
+    {
+      "name": "Bsed Engligh",
+      "code": "english",
+      "url": "https://www.studocu.com/ph/course/eastern-visayas-state-university/bsed-engligh/5321561"
+    },
+    {
+      "name": "BTLED Major in home economics",
+      "code": null,
+      "url": "https://www.studocu.com/ph/course/eastern-visayas-state-university/btled-major-in-home-economics/6827545"
+    },
+    {
+      "name": "Building Information Technology",
+      "code": "CADD323",
+      "url": "https://www.studocu.com/ph/course/eastern-visayas-state-university/building-information-technology/6728893"
+    },
+    {
+      "name": "Building systems design",
+      "code": "CE 393",
+      "url": "https://www.studocu.com/ph/course/eastern-visayas-state-university/building-systems-design/7126093"
+    },
+    {
+      "name": "Building Technology 1",
+      "code": "ARCH 143",
+      "url": "https://www.studocu.com/ph/course/eastern-visayas-state-university/building-technology-1/6786282"
+    },
+    {
+      "name": "Business Administration",
+      "code": "BSBA3",
+      "url": "https://www.studocu.com/ph/course/eastern-visayas-state-university/business-administration/7302584"
+    },
+    {
+      "name": "Business law",
+      "code": "AE 202",
+      "url": "https://www.studocu.com/ph/course/eastern-visayas-state-university/business-law/5062699"
+    },
+    {
+      "name": "Calculus",
+      "code": "Math 560",
+      "url": "https://www.studocu.com/ph/course/eastern-visayas-state-university/calculus/6067162"
+    },
+    {
+      "name": "Campus Journalism",
+      "code": "GSMLIS101",
+      "url": "https://www.studocu.com/ph/course/eastern-visayas-state-university/campus-journalism/6342885"
+    },
+    {
+      "name": "CE Correlation Course 1",
+      "code": "CE 413",
+      "url": "https://www.studocu.com/ph/course/eastern-visayas-state-university/ce-correlation-course-1/6279096"
+    },
+    {
+      "name": "CE Technopreneurship",
+      "code": "TECHNO 11",
+      "url": "https://www.studocu.com/ph/course/eastern-visayas-state-university/ce-technopreneurship/6896661"
+    },
+    {
+      "name": "Chemical engineering",
+      "code": "110899",
+      "url": "https://www.studocu.com/ph/course/eastern-visayas-state-university/chemical-engineering/4317495"
+    },
+    {
+      "name": "Chemistry for Engineers",
+      "code": "Chem114",
+      "url": "https://www.studocu.com/ph/course/eastern-visayas-state-university/chemistry-for-engineers/6645423"
+    },
+    {
+      "name": "child and adolescent",
+      "code": null,
+      "url": "https://www.studocu.com/ph/course/eastern-visayas-state-university/child-and-adolescent/5128409"
+    },
+    {
+      "name": "Civil Engineering",
+      "code": "CE 001",
+      "url": "https://www.studocu.com/ph/course/eastern-visayas-state-university/civil-engineering/4354380"
+    },
+    {
+      "name": "College Algebra and Trigonometry",
+      "code": "Math Enhance 1",
+      "url": "https://www.studocu.com/ph/course/eastern-visayas-state-university/college-algebra-and-trigonometry/7272640"
+    },
+    {
+      "name": "Computer Systems Servicing",
+      "code": null,
+      "url": "https://www.studocu.com/ph/course/eastern-visayas-state-university/computer-systems-servicing/5713114"
+    },
+    {
+      "name": "Computer-Aided Design",
+      "code": "CAD 11",
+      "url": "https://www.studocu.com/ph/course/eastern-visayas-state-university/computer-aided-design/6951387"
+    },
+    {
+      "name": "computer-aided design and drafting",
+      "code": "cadd 313",
+      "url": "https://www.studocu.com/ph/course/eastern-visayas-state-university/computer-aided-design-and-drafting/6466978"
+    },
+    {
+      "name": "Construction Management",
+      "code": "ARCH 513",
+      "url": "https://www.studocu.com/ph/course/eastern-visayas-state-university/construction-management/6728882"
+    },
+    {
+      "name": "Contemporary Arts in Various Contexts",
+      "code": "BCAED 243",
+      "url": "https://www.studocu.com/ph/course/eastern-visayas-state-university/contemporary-arts-in-various-contexts/7183635"
+    },
+    {
+      "name": "Contemporary World for IE",
+      "code": "GEN ED 007",
+      "url": "https://www.studocu.com/ph/course/eastern-visayas-state-university/contemporary-world-for-ie/6737801"
+    },
+    {
+      "name": "Culinary arts",
+      "code": "BSCA 2001",
+      "url": "https://www.studocu.com/ph/course/eastern-visayas-state-university/culinary-arts/5269708"
+    },
+    {
+      "name": "Curriculum Development in PE",
+      "code": "PhyEd_202",
+      "url": "https://www.studocu.com/ph/course/eastern-visayas-state-university/curriculum-development-in-pe/6395317"
+    },
+    {
+      "name": "Diploma in Teaching Secondary",
+      "code": "DTS1",
+      "url": "https://www.studocu.com/ph/course/eastern-visayas-state-university/diploma-in-teaching-secondary/6747123"
+    },
+    {
+      "name": "Disaster Risk Reduction",
+      "code": "DRR 123",
+      "url": "https://www.studocu.com/ph/course/eastern-visayas-state-university/disaster-risk-reduction/6957019"
+    },
+    {
+      "name": "Drug Awareness",
+      "code": "GE EL 003",
+      "url": "https://www.studocu.com/ph/course/eastern-visayas-state-university/drug-awareness/6911282"
+    },
+    {
+      "name": "Dynamics of Rigid Bodies",
+      "code": "MECH 313",
+      "url": "https://www.studocu.com/ph/course/eastern-visayas-state-university/dynamics-of-rigid-bodies/7752824"
+    },
+    {
+      "name": "Electrical System Design",
+      "code": "EE 502",
+      "url": "https://www.studocu.com/ph/course/eastern-visayas-state-university/electrical-system-design/3945904"
+    },
+    {
+      "name": "Electronics Engineering Misc",
+      "code": "ECE101",
+      "url": "https://www.studocu.com/ph/course/eastern-visayas-state-university/electronics-engineering-misc/6892500"
+    },
+    {
+      "name": "ELT Methods and Approaches",
+      "code": "ELS 323",
+      "url": "https://www.studocu.com/ph/course/eastern-visayas-state-university/elt-methods-and-approaches/6810233"
+    },
+    {
+      "name": "Engineering Data Analysis",
+      "code": "EDA 001",
+      "url": "https://www.studocu.com/ph/course/eastern-visayas-state-university/engineering-data-analysis/4317332"
+    },
+    {
+      "name": "Engineering economy",
+      "code": "Econ 101",
+      "url": "https://www.studocu.com/ph/course/eastern-visayas-state-university/engineering-economy/3169417"
+    },
+    {
+      "name": "Engineering Surveys",
+      "code": "GE 214",
+      "url": "https://www.studocu.com/ph/course/eastern-visayas-state-university/engineering-surveys/4354904"
+    },
+    {
+      "name": "Engineering Utilities II",
+      "code": "CE 203",
+      "url": "https://www.studocu.com/ph/course/eastern-visayas-state-university/engineering-utilities-ii/6953261"
+    },
+    {
+      "name": "Entrepreneurial Marketing",
+      "code": "CBMEC 1",
+      "url": "https://www.studocu.com/ph/course/eastern-visayas-state-university/entrepreneurial-marketing/7121889"
+    },
+    {
+      "name": "Environmental Science",
+      "code": "Impact Assessment 41",
+      "url": "https://www.studocu.com/ph/course/eastern-visayas-state-university/environmental-science/6813129"
+    },
+    {
+      "name": "Ethics",
+      "code": "Gen Ed 006",
+      "url": "https://www.studocu.com/ph/course/eastern-visayas-state-university/ethics/6667051"
+    },
+    {
+      "name": "facilitating learning child and adolescent development",
+      "code": null,
+      "url": "https://www.studocu.com/ph/course/eastern-visayas-state-university/facilitating-learning-child-and-adolescent-development/5128402"
+    },
+    {
+      "name": "Field Studies 2",
+      "code": "Prof. Ed. 593",
+      "url": "https://www.studocu.com/ph/course/eastern-visayas-state-university/field-studies-2/6633366"
+    },
+    {
+      "name": "Financial Accounting",
+      "code": "FA1",
+      "url": "https://www.studocu.com/ph/course/eastern-visayas-state-university/financial-accounting/4489957"
+    },
+    {
+      "name": "Fisheries",
+      "code": null,
+      "url": "https://www.studocu.com/ph/course/eastern-visayas-state-university/fisheries/7583065"
+    },
+    {
+      "name": "Food Technology",
+      "code": "Food101",
+      "url": "https://www.studocu.com/ph/course/eastern-visayas-state-university/food-technology/6029210"
+    },
+    {
+      "name": "Forensic Science",
+      "code": "CDI 211",
+      "url": "https://www.studocu.com/ph/course/eastern-visayas-state-university/forensic-science/7676780"
+    },
+    {
+      "name": "Foundations of Dance",
+      "code": "BCAEd 213",
+      "url": "https://www.studocu.com/ph/course/eastern-visayas-state-university/foundations-of-dance/7183634"
+    },
+    {
+      "name": "General Surveying",
+      "code": "GE 214",
+      "url": "https://www.studocu.com/ph/course/eastern-visayas-state-university/general-surveying/5537577"
+    },
+    {
+      "name": "Geodetic Engineering",
+      "code": "ge122",
+      "url": "https://www.studocu.com/ph/course/eastern-visayas-state-university/geodetic-engineering/7758300"
+    },
+    {
+      "name": "Highway and Railroad",
+      "code": "CE 353",
+      "url": "https://www.studocu.com/ph/course/eastern-visayas-state-university/highway-and-railroad/7168562"
+    },
+    {
+      "name": "Human Computer Interaction",
+      "code": "IT 123",
+      "url": "https://www.studocu.com/ph/course/eastern-visayas-state-university/human-computer-interaction/4361381"
+    },
+    {
+      "name": "IE Industry Immersion and Field Trip/Educational Tours",
+      "code": "IE 302",
+      "url": "https://www.studocu.com/ph/course/eastern-visayas-state-university/ie-industry-immersion-and-field-tripeducational-tours/6319421"
+    },
+    {
+      "name": "Income Taxation",
+      "code": "TAX101",
+      "url": "https://www.studocu.com/ph/course/eastern-visayas-state-university/income-taxation/4356101"
+    },
+    {
+      "name": "Indigenous creative crafts",
+      "code": "Gen Elec 001",
+      "url": "https://www.studocu.com/ph/course/eastern-visayas-state-university/indigenous-creative-crafts/6030291"
+    },
+    {
+      "name": "industrial engineering",
+      "code": "gen ed 007",
+      "url": "https://www.studocu.com/ph/course/eastern-visayas-state-university/industrial-engineering/4375894"
+    },
+    {
+      "name": "Integrative Programming",
+      "code": null,
+      "url": "https://www.studocu.com/ph/course/eastern-visayas-state-university/integrative-programming/7600799"
+    },
+    {
+      "name": "Introductory Economics",
+      "code": "ECON 113",
+      "url": "https://www.studocu.com/ph/course/eastern-visayas-state-university/introductory-economics/7575474"
+    },
+    {
+      "name": "Introdution to World Religion",
+      "code": null,
+      "url": "https://www.studocu.com/ph/course/eastern-visayas-state-university/introdution-to-world-religion/7664327"
+    },
+    {
+      "name": "Juris Doctor",
+      "code": "JD",
+      "url": "https://www.studocu.com/ph/course/eastern-visayas-state-university/juris-doctor/5210231"
+    },
+    {
+      "name": "Land Use Planning",
+      "code": "GE 412",
+      "url": "https://www.studocu.com/ph/course/eastern-visayas-state-university/land-use-planning/6540338"
+    },
+    {
+      "name": "Life and Works of Rizal",
+      "code": null,
+      "url": "https://www.studocu.com/ph/course/eastern-visayas-state-university/life-and-works-of-rizal/6898115"
+    },
+    {
+      "name": "Literature",
+      "code": "ENG383",
+      "url": "https://www.studocu.com/ph/course/eastern-visayas-state-university/literature/5153879"
+    },
+    {
+      "name": "Machine Design 1",
+      "code": "ME 414",
+      "url": "https://www.studocu.com/ph/course/eastern-visayas-state-university/machine-design-1/5341588"
+    },
+    {
+      "name": "Machine Elements",
+      "code": "MEng 101",
+      "url": "https://www.studocu.com/ph/course/eastern-visayas-state-university/machine-elements/7585654"
+    },
+    {
+      "name": "Major in food service management",
+      "code": "BTVTED-FSM",
+      "url": "https://www.studocu.com/ph/course/eastern-visayas-state-university/major-in-food-service-management/6802483"
+    },
+    {
+      "name": "Mapeh",
+      "code": null,
+      "url": "https://www.studocu.com/ph/course/eastern-visayas-state-university/mapeh/7694231"
+    },
+    {
+      "name": "Marketing",
+      "code": null,
+      "url": "https://www.studocu.com/ph/course/eastern-visayas-state-university/marketing/7617818"
+    },
+    {
+      "name": "Masters in Public Resource Management",
+      "code": null,
+      "url": "https://www.studocu.com/ph/course/eastern-visayas-state-university/masters-in-public-resource-management/4946748"
+    },
+    {
+      "name": "Mathematics in the Modern World",
+      "code": null,
+      "url": "https://www.studocu.com/ph/course/eastern-visayas-state-university/mathematics-in-the-modern-world/6544822"
+    },
+    {
+      "name": "mathematics of investment",
+      "code": "MATH 253",
+      "url": "https://www.studocu.com/ph/course/eastern-visayas-state-university/mathematics-of-investment/5522206"
+    },
+    {
+      "name": "mathematics statistics",
+      "code": "math 001",
+      "url": "https://www.studocu.com/ph/course/eastern-visayas-state-university/mathematics-statistics/6841074"
+    },
+    {
+      "name": "Mechanical Engineering",
+      "code": "BSME 2020",
+      "url": "https://www.studocu.com/ph/course/eastern-visayas-state-university/mechanical-engineering/4514859"
+    },
+    {
+      "name": "Methods of Research",
+      "code": "Educ 502",
+      "url": "https://www.studocu.com/ph/course/eastern-visayas-state-university/methods-of-research/6700950"
+    },
+    {
+      "name": "National Service Training Program 1",
+      "code": "NSTP 113",
+      "url": "https://www.studocu.com/ph/course/eastern-visayas-state-university/national-service-training-program-1/4118318"
+    },
+    {
+      "name": "Number theory",
+      "code": null,
+      "url": "https://www.studocu.com/ph/course/eastern-visayas-state-university/number-theory/7599951"
+    },
+    {
+      "name": "Nursing",
+      "code": null,
+      "url": "https://www.studocu.com/ph/course/eastern-visayas-state-university/nursing/7484111"
+    },
+    {
+      "name": "Nutrition Care Process",
+      "code": "ND 263",
+      "url": "https://www.studocu.com/ph/course/eastern-visayas-state-university/nutrition-care-process/6976907"
+    },
+    {
+      "name": "Open Channel Hydraulics",
+      "code": "MEP 312",
+      "url": "https://www.studocu.com/ph/course/eastern-visayas-state-university/open-channel-hydraulics/6811730"
+    },
+    {
+      "name": "Pagbasa at Pagsulatr sa Iba't-ibang Disiplina",
+      "code": "Fil 002",
+      "url": "https://www.studocu.com/ph/course/eastern-visayas-state-university/pagbasa-at-pagsulatr-sa-ibat-ibang-disiplina/4999935"
+    },
+    {
+      "name": "Pathfit",
+      "code": "PE 122",
+      "url": "https://www.studocu.com/ph/course/eastern-visayas-state-university/pathfit/5062791"
+    },
+    {
+      "name": "People and the Earths Ecosystems",
+      "code": "GEN EL 001",
+      "url": "https://www.studocu.com/ph/course/eastern-visayas-state-university/people-and-the-earths-ecosystems/7088017"
+    },
+    {
+      "name": "PhD-EPM",
+      "code": "101",
+      "url": "https://www.studocu.com/ph/course/eastern-visayas-state-university/phd-epm/4884136"
+    },
+    {
+      "name": "Philippine Indigenous Communities",
+      "code": "GEN EL 006",
+      "url": "https://www.studocu.com/ph/course/eastern-visayas-state-university/philippine-indigenous-communities/6736931"
+    },
+    {
+      "name": "Philosophy of Law",
+      "code": "Phil 101",
+      "url": "https://www.studocu.com/ph/course/eastern-visayas-state-university/philosophy-of-law/5708709"
+    },
+    {
+      "name": "Ports and Harbor",
+      "code": "CE 553",
+      "url": "https://www.studocu.com/ph/course/eastern-visayas-state-university/ports-and-harbor/5151741"
+    },
+    {
+      "name": "Psychological Foundations of Education",
+      "code": "Educ_504",
+      "url": "https://www.studocu.com/ph/course/eastern-visayas-state-university/psychological-foundations-of-education/5342869"
+    },
+    {
+      "name": "Purposive Communication",
+      "code": "GEd 106",
+      "url": "https://www.studocu.com/ph/course/eastern-visayas-state-university/purposive-communication/6962617"
+    },
+    {
+      "name": "Quantitative Methods",
+      "code": "IT 243",
+      "url": "https://www.studocu.com/ph/course/eastern-visayas-state-university/quantitative-methods/6782141"
+    },
+    {
+      "name": "Qupal Kinangina",
+      "code": "QPAL",
+      "url": "https://www.studocu.com/ph/course/eastern-visayas-state-university/qupal-kinangina/7632064"
+    },
+    {
+      "name": "Reading Philippines History",
+      "code": "Geel09",
+      "url": "https://www.studocu.com/ph/course/eastern-visayas-state-university/reading-philippines-history/6900623"
+    },
+    {
+      "name": "Research Practicum",
+      "code": "Educ 505",
+      "url": "https://www.studocu.com/ph/course/eastern-visayas-state-university/research-practicum/4357231"
+    },
+    {
+      "name": "Safety Management",
+      "code": "MGT 121",
+      "url": "https://www.studocu.com/ph/course/eastern-visayas-state-university/safety-management/6060926"
+    },
+    {
+      "name": "Safety Management",
+      "code": "MGT 411",
+      "url": "https://www.studocu.com/ph/course/eastern-visayas-state-university/safety-management/6487180"
+    },
+    {
+      "name": "Science, Technology, Engineering, and Mathematics",
+      "code": "LSD G11",
+      "url": "https://www.studocu.com/ph/course/eastern-visayas-state-university/science-technology-engineering-and-mathematics/5341683"
+    },
+    {
+      "name": "Secodary Education",
+      "code": "Prof. Ed 333",
+      "url": "https://www.studocu.com/ph/course/eastern-visayas-state-university/secodary-education/4999025"
+    },
+    {
+      "name": "Secondary education",
+      "code": "bio sci",
+      "url": "https://www.studocu.com/ph/course/eastern-visayas-state-university/secondary-education/3736025"
+    },
+    {
+      "name": "Secondary Education Math",
+      "code": "Gen Ed 003",
+      "url": "https://www.studocu.com/ph/course/eastern-visayas-state-university/secondary-education-math/5116288"
+    },
+    {
+      "name": "Social Psychology",
+      "code": "Psych 180",
+      "url": "https://www.studocu.com/ph/course/eastern-visayas-state-university/social-psychology/7144850"
+    },
+    {
+      "name": "Social Psychology",
+      "code": "Ed 203",
+      "url": "https://www.studocu.com/ph/course/eastern-visayas-state-university/social-psychology/3580695"
+    },
+    {
+      "name": "Social Science",
+      "code": null,
+      "url": "https://www.studocu.com/ph/course/eastern-visayas-state-university/social-science/7020215"
+    },
+    {
+      "name": "Soil Mechanics 1",
+      "code": "CE 344",
+      "url": "https://www.studocu.com/ph/course/eastern-visayas-state-university/soil-mechanics-1/6205846"
+    },
+    {
+      "name": "Static Of Rigid Bodies",
+      "code": "Mech 213",
+      "url": "https://www.studocu.com/ph/course/eastern-visayas-state-university/static-of-rigid-bodies/4161511"
+    },
+    {
+      "name": "Statistics and Probability",
+      "code": "Stat 11",
+      "url": "https://www.studocu.com/ph/course/eastern-visayas-state-university/statistics-and-probability/6727810"
+    },
+    {
+      "name": "Structural Analysis",
+      "code": "ST1",
+      "url": "https://www.studocu.com/ph/course/eastern-visayas-state-university/structural-analysis/3268352"
+    },
+    {
+      "name": "Structural Design (Steel & Timber)",
+      "code": "CE 535",
+      "url": "https://www.studocu.com/ph/course/eastern-visayas-state-university/structural-design-steel-timber/5151740"
+    },
+    {
+      "name": "Structure of English",
+      "code": "LIN 003",
+      "url": "https://www.studocu.com/ph/course/eastern-visayas-state-university/structure-of-english/6376603"
+    },
+    {
+      "name": "Teaching English in the Elementary Grades ( Language Arts)",
+      "code": "ENG 353",
+      "url": "https://www.studocu.com/ph/course/eastern-visayas-state-university/teaching-english-in-the-elementary-grades-language-arts/6532162"
+    },
+    {
+      "name": "Teaching Internship",
+      "code": "PROF ED 423",
+      "url": "https://www.studocu.com/ph/course/eastern-visayas-state-university/teaching-internship/6726060"
+    },
+    {
+      "name": "Technology for Teaching and Learning I",
+      "code": "PROF ED 313",
+      "url": "https://www.studocu.com/ph/course/eastern-visayas-state-university/technology-for-teaching-and-learning-i/7183632"
+    },
+    {
+      "name": "Technology in Teaching and Learning",
+      "code": "MATH 353",
+      "url": "https://www.studocu.com/ph/course/eastern-visayas-state-university/technology-in-teaching-and-learning/6821185"
+    },
+    {
+      "name": "Technology in Teaching and Learning 2",
+      "code": "MATH 353",
+      "url": "https://www.studocu.com/ph/course/eastern-visayas-state-university/technology-in-teaching-and-learning-2/6821187"
+    },
+    {
+      "name": "Technology Livelihood Education",
+      "code": "TLE1",
+      "url": "https://www.studocu.com/ph/course/eastern-visayas-state-university/technology-livelihood-education/6029213"
+    },
+    {
+      "name": "The teaching of Science",
+      "code": "Science 353",
+      "url": "https://www.studocu.com/ph/course/eastern-visayas-state-university/the-teaching-of-science/6045779"
+    },
+    {
+      "name": "The Teaching Profession",
+      "code": "Prod Ed",
+      "url": "https://www.studocu.com/ph/course/eastern-visayas-state-university/the-teaching-profession/7207462"
+    },
+    {
+      "name": "Theories and Practices of Administration and Supervision",
+      "code": "EDUC_532.1",
+      "url": "https://www.studocu.com/ph/course/eastern-visayas-state-university/theories-and-practices-of-administration-and-supervision/5342874"
+    },
+    {
+      "name": "Theory of Architecture",
+      "code": "ARCH 142",
+      "url": "https://www.studocu.com/ph/course/eastern-visayas-state-university/theory-of-architecture/7353922"
+    },
+    {
+      "name": "Ultimate Frisbee Syllabus",
+      "code": "PE 212",
+      "url": "https://www.studocu.com/ph/course/eastern-visayas-state-university/ultimate-frisbee-syllabus/7696557"
+    },
+    {
+      "name": "Understanding The Self",
+      "code": "Gen Ed 002",
+      "url": "https://www.studocu.com/ph/course/eastern-visayas-state-university/understanding-the-self/4758538"
+    },
+    {
+      "name": "Urban Drainage",
+      "code": null,
+      "url": "https://www.studocu.com/ph/course/eastern-visayas-state-university/urban-drainage/6976908"
+    },
+    {
+      "name": "Web System and Technologies",
+      "code": "IT273",
+      "url": "https://www.studocu.com/ph/course/eastern-visayas-state-university/web-system-and-technologies/4508758"
+    }
+  ]
+}

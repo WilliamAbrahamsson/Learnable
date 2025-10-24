@@ -1,0 +1,531 @@
+{
+  "university_id": "6086",
+  "university_name": "German Jordanian University",
+  "courses": [
+    {
+      "name": "accounting",
+      "code": "ACC101",
+      "url": "https://www.studocu.com/row/course/german-jordanian-university/accounting/4404997"
+    },
+    {
+      "name": "Accounting Theory",
+      "code": "ACC421",
+      "url": "https://www.studocu.com/row/course/german-jordanian-university/accounting-theory/4913434"
+    },
+    {
+      "name": "Advanced Finance",
+      "code": "finc  712",
+      "url": "https://www.studocu.com/row/course/german-jordanian-university/advanced-finance/5143053"
+    },
+    {
+      "name": "Anatomy and Physiology",
+      "code": "BM211",
+      "url": "https://www.studocu.com/row/course/german-jordanian-university/anatomy-and-physiology/6610106"
+    },
+    {
+      "name": "Arabic",
+      "code": "ARB100",
+      "url": "https://www.studocu.com/row/course/german-jordanian-university/arabic/6202652"
+    },
+    {
+      "name": "architecture",
+      "code": "arch 001",
+      "url": "https://www.studocu.com/row/course/german-jordanian-university/architecture/5286834"
+    },
+    {
+      "name": "Artificial Organs and Limbs",
+      "code": "BM563",
+      "url": "https://www.studocu.com/row/course/german-jordanian-university/artificial-organs-and-limbs/4323513"
+    },
+    {
+      "name": "automatic control",
+      "code": "BM325",
+      "url": "https://www.studocu.com/row/course/german-jordanian-university/automatic-control/6895836"
+    },
+    {
+      "name": "Biochemistry Laboratory",
+      "code": "PCE381",
+      "url": "https://www.studocu.com/row/course/german-jordanian-university/biochemistry-laboratory/6444036"
+    },
+    {
+      "name": "Biomedical Engineering",
+      "code": "BM",
+      "url": "https://www.studocu.com/row/course/german-jordanian-university/biomedical-engineering/3209236"
+    },
+    {
+      "name": "Biomedical Sensors and Transducers Lab",
+      "code": "BM358",
+      "url": "https://www.studocu.com/row/course/german-jordanian-university/biomedical-sensors-and-transducers-lab/4325813"
+    },
+    {
+      "name": "business law",
+      "code": "mgt315",
+      "url": "https://www.studocu.com/row/course/german-jordanian-university/business-law/5585765"
+    },
+    {
+      "name": "Business Statistics",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/german-jordanian-university/business-statistics/4392778"
+    },
+    {
+      "name": "Calculus1",
+      "code": "math101",
+      "url": "https://www.studocu.com/row/course/german-jordanian-university/calculus1/2998472"
+    },
+    {
+      "name": "Certified SOC Analyst",
+      "code": "11181",
+      "url": "https://www.studocu.com/row/course/german-jordanian-university/certified-soc-analyst/6601092"
+    },
+    {
+      "name": "communication systems",
+      "code": "ECE321",
+      "url": "https://www.studocu.com/row/course/german-jordanian-university/communication-systems/6566968"
+    },
+    {
+      "name": "Computer Networks",
+      "code": "CE351",
+      "url": "https://www.studocu.com/row/course/german-jordanian-university/computer-networks/6908332"
+    },
+    {
+      "name": "Computing fundamentals",
+      "code": "CS116",
+      "url": "https://www.studocu.com/row/course/german-jordanian-university/computing-fundamentals/6688398"
+    },
+    {
+      "name": "Contemporary Issues in Logistics",
+      "code": "LOGS460",
+      "url": "https://www.studocu.com/row/course/german-jordanian-university/contemporary-issues-in-logistics/5900517"
+    },
+    {
+      "name": "Corporate finance",
+      "code": "MBA704",
+      "url": "https://www.studocu.com/row/course/german-jordanian-university/corporate-finance/3408157"
+    },
+    {
+      "name": "Corporate Strategies and Policies",
+      "code": "MGT324",
+      "url": "https://www.studocu.com/row/course/german-jordanian-university/corporate-strategies-and-policies/5157169"
+    },
+    {
+      "name": "Creative practice",
+      "code": "gebc331",
+      "url": "https://www.studocu.com/row/course/german-jordanian-university/creative-practice/6396313"
+    },
+    {
+      "name": "Customer Relationship Management",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/german-jordanian-university/customer-relationship-management/4392772"
+    },
+    {
+      "name": "D&v",
+      "code": "tme214",
+      "url": "https://www.studocu.com/row/course/german-jordanian-university/dv/3558293"
+    },
+    {
+      "name": "Data structures",
+      "code": "CS223",
+      "url": "https://www.studocu.com/row/course/german-jordanian-university/data-structures/4557761"
+    },
+    {
+      "name": "Differential equations",
+      "code": "Math205",
+      "url": "https://www.studocu.com/row/course/german-jordanian-university/differential-equations/3458937"
+    },
+    {
+      "name": "Digital electronics",
+      "code": "ECE 343",
+      "url": "https://www.studocu.com/row/course/german-jordanian-university/digital-electronics/4092677"
+    },
+    {
+      "name": "Digital systems",
+      "code": "BM353",
+      "url": "https://www.studocu.com/row/course/german-jordanian-university/digital-systems/3019642"
+    },
+    {
+      "name": "Discrete Structures",
+      "code": "CS201",
+      "url": "https://www.studocu.com/row/course/german-jordanian-university/discrete-structures/7455565"
+    },
+    {
+      "name": "DYNAMICS AND VIBRATION",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/german-jordanian-university/dynamics-and-vibration/3472842"
+    },
+    {
+      "name": "Electric Circuits I",
+      "code": "ENE211",
+      "url": "https://www.studocu.com/row/course/german-jordanian-university/electric-circuits-i/3208904"
+    },
+    {
+      "name": "Electrical Circuits II",
+      "code": "wqss",
+      "url": "https://www.studocu.com/row/course/german-jordanian-university/electrical-circuits-ii/2633967"
+    },
+    {
+      "name": "Electrical Circuits Lab",
+      "code": "ENE213",
+      "url": "https://www.studocu.com/row/course/german-jordanian-university/electrical-circuits-lab/7042084"
+    },
+    {
+      "name": "Electrical Machines",
+      "code": "ENE311",
+      "url": "https://www.studocu.com/row/course/german-jordanian-university/electrical-machines/3945655"
+    },
+    {
+      "name": "Engineering Economics",
+      "code": "IE371",
+      "url": "https://www.studocu.com/row/course/german-jordanian-university/engineering-economics/6591776"
+    },
+    {
+      "name": "English",
+      "code": "ENGL 202",
+      "url": "https://www.studocu.com/row/course/german-jordanian-university/english/5408446"
+    },
+    {
+      "name": "Financial institutions",
+      "code": "Acc256",
+      "url": "https://www.studocu.com/row/course/german-jordanian-university/financial-institutions/4840109"
+    },
+    {
+      "name": "Fluid Mechanics",
+      "code": "TME222",
+      "url": "https://www.studocu.com/row/course/german-jordanian-university/fluid-mechanics/3223192"
+    },
+    {
+      "name": "Fundamentals of Business Databases",
+      "code": "BIDA131",
+      "url": "https://www.studocu.com/row/course/german-jordanian-university/fundamentals-of-business-databases/6559566"
+    },
+    {
+      "name": "fundamentals of business intelligence",
+      "code": "BIDA111",
+      "url": "https://www.studocu.com/row/course/german-jordanian-university/fundamentals-of-business-intelligence/6613954"
+    },
+    {
+      "name": "Fundamentals of Finance",
+      "code": "ACC251",
+      "url": "https://www.studocu.com/row/course/german-jordanian-university/fundamentals-of-finance/4840510"
+    },
+    {
+      "name": "Fundamentals of Microeconomics",
+      "code": "MGT 126",
+      "url": "https://www.studocu.com/row/course/german-jordanian-university/fundamentals-of-microeconomics/4329309"
+    },
+    {
+      "name": "German III B1-TRACK",
+      "code": "GERL201B1",
+      "url": "https://www.studocu.com/row/course/german-jordanian-university/german-iii-b1-track/6204402"
+    },
+    {
+      "name": "German IV B1-TRACK",
+      "code": "GERL202B1",
+      "url": "https://www.studocu.com/row/course/german-jordanian-university/german-iv-b1-track/6204559"
+    },
+    {
+      "name": "German Language",
+      "code": "GERL101",
+      "url": "https://www.studocu.com/row/course/german-jordanian-university/german-language/4576418"
+    },
+    {
+      "name": "German Language",
+      "code": "GERL102",
+      "url": "https://www.studocu.com/row/course/german-jordanian-university/german-language/4840514"
+    },
+    {
+      "name": "German V B1-TRACK",
+      "code": "GERL301B1",
+      "url": "https://www.studocu.com/row/course/german-jordanian-university/german-v-b1-track/6204385"
+    },
+    {
+      "name": "governmental accounting",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/german-jordanian-university/governmental-accounting/5844120"
+    },
+    {
+      "name": "Heat Transfer",
+      "code": "ENE321",
+      "url": "https://www.studocu.com/row/course/german-jordanian-university/heat-transfer/3510239"
+    },
+    {
+      "name": "Human Resources pratice in Jordan and MENA",
+      "code": "102",
+      "url": "https://www.studocu.com/row/course/german-jordanian-university/human-resources-pratice-in-jordan-and-mena/4131327"
+    },
+    {
+      "name": "hydraulics lab",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/german-jordanian-university/hydraulics-lab/4369629"
+    },
+    {
+      "name": "InterCultural Communication",
+      "code": "EI101",
+      "url": "https://www.studocu.com/row/course/german-jordanian-university/intercultural-communication/6642259"
+    },
+    {
+      "name": "Intercultural communications",
+      "code": "IC101",
+      "url": "https://www.studocu.com/row/course/german-jordanian-university/intercultural-communications/4306466"
+    },
+    {
+      "name": "Intermediate Accounting I",
+      "code": "ACC213",
+      "url": "https://www.studocu.com/row/course/german-jordanian-university/intermediate-accounting-i/5125353"
+    },
+    {
+      "name": "Intermediate Accounting II",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/german-jordanian-university/intermediate-accounting-ii/5019912"
+    },
+    {
+      "name": "International business",
+      "code": "MGT316",
+      "url": "https://www.studocu.com/row/course/german-jordanian-university/international-business/3100018"
+    },
+    {
+      "name": "international taxation",
+      "code": "ACC231",
+      "url": "https://www.studocu.com/row/course/german-jordanian-university/international-taxation/5354533"
+    },
+    {
+      "name": "Introduction to E-Business",
+      "code": "BIDA140",
+      "url": "https://www.studocu.com/row/course/german-jordanian-university/introduction-to-e-business/6513196"
+    },
+    {
+      "name": "Introduction to Logistics",
+      "code": "LOGS101",
+      "url": "https://www.studocu.com/row/course/german-jordanian-university/introduction-to-logistics/4521833"
+    },
+    {
+      "name": "Introduction to Supply Chain Management",
+      "code": "LOGS121",
+      "url": "https://www.studocu.com/row/course/german-jordanian-university/introduction-to-supply-chain-management/5408449"
+    },
+    {
+      "name": "Islamic Finance and Accounting",
+      "code": "ACC455",
+      "url": "https://www.studocu.com/row/course/german-jordanian-university/islamic-finance-and-accounting/6204383"
+    },
+    {
+      "name": "Leadership and Emotional Intelligence",
+      "code": "EI101",
+      "url": "https://www.studocu.com/row/course/german-jordanian-university/leadership-and-emotional-intelligence/6286830"
+    },
+    {
+      "name": "leadership and management development",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/german-jordanian-university/leadership-and-management-development/4973978"
+    },
+    {
+      "name": "Machine Design",
+      "code": "TME 332",
+      "url": "https://www.studocu.com/row/course/german-jordanian-university/machine-design/3172429"
+    },
+    {
+      "name": "Management Accounting",
+      "code": "ACC332",
+      "url": "https://www.studocu.com/row/course/german-jordanian-university/management-accounting/5125358"
+    },
+    {
+      "name": "management information system",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/german-jordanian-university/management-information-system/4347604"
+    },
+    {
+      "name": "managerial economics",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/german-jordanian-university/managerial-economics/6332593"
+    },
+    {
+      "name": "Manufacturing",
+      "code": "ie325",
+      "url": "https://www.studocu.com/row/course/german-jordanian-university/manufacturing/3222927"
+    },
+    {
+      "name": "marketing management",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/german-jordanian-university/marketing-management/4974807"
+    },
+    {
+      "name": "Materials science",
+      "code": "IE223",
+      "url": "https://www.studocu.com/row/course/german-jordanian-university/materials-science/3970458"
+    },
+    {
+      "name": "Mechanical Vibrations",
+      "code": "MECH0531",
+      "url": "https://www.studocu.com/row/course/german-jordanian-university/mechanical-vibrations/7382617"
+    },
+    {
+      "name": "mechanics of materials",
+      "code": "mech0215",
+      "url": "https://www.studocu.com/row/course/german-jordanian-university/mechanics-of-materials/6212731"
+    },
+    {
+      "name": "medical signal processing",
+      "code": "BM326",
+      "url": "https://www.studocu.com/row/course/german-jordanian-university/medical-signal-processing/4678573"
+    },
+    {
+      "name": "medicinal chemistry",
+      "code": "PCE541",
+      "url": "https://www.studocu.com/row/course/german-jordanian-university/medicinal-chemistry/6724263"
+    },
+    {
+      "name": "Microcontrollers and IOT",
+      "code": "ME0312",
+      "url": "https://www.studocu.com/row/course/german-jordanian-university/microcontrollers-and-iot/5797455"
+    },
+    {
+      "name": "Military science",
+      "code": "MILS100",
+      "url": "https://www.studocu.com/row/course/german-jordanian-university/military-science/5330725"
+    },
+    {
+      "name": "National Education",
+      "code": "NE101",
+      "url": "https://www.studocu.com/row/course/german-jordanian-university/national-education/3621159"
+    },
+    {
+      "name": "Operations management",
+      "code": "978-1260575712",
+      "url": "https://www.studocu.com/row/course/german-jordanian-university/operations-management/6215190"
+    },
+    {
+      "name": "Organizational Behavior",
+      "code": "MGT211",
+      "url": "https://www.studocu.com/row/course/german-jordanian-university/organizational-behavior/5408452"
+    },
+    {
+      "name": "Organizational behavoir",
+      "code": "Mba740",
+      "url": "https://www.studocu.com/row/course/german-jordanian-university/organizational-behavoir/4545014"
+    },
+    {
+      "name": "pharmaceutical packaging",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/german-jordanian-university/pharmaceutical-packaging/6341646"
+    },
+    {
+      "name": "Physics 1",
+      "code": "PHYS01",
+      "url": "https://www.studocu.com/row/course/german-jordanian-university/physics-1/4051058"
+    },
+    {
+      "name": "Physics I",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/german-jordanian-university/physics-i/6688396"
+    },
+    {
+      "name": "Physics2",
+      "code": "PHYS104",
+      "url": "https://www.studocu.com/row/course/german-jordanian-university/physics2/3742452"
+    },
+    {
+      "name": "plant design",
+      "code": "(PCE543)",
+      "url": "https://www.studocu.com/row/course/german-jordanian-university/plant-design/6660013"
+    },
+    {
+      "name": "portfolio management",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/german-jordanian-university/portfolio-management/4851316"
+    },
+    {
+      "name": "Power electronics",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/german-jordanian-university/power-electronics/3442503"
+    },
+    {
+      "name": "Power system",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/german-jordanian-university/power-system/3731373"
+    },
+    {
+      "name": "Principles of communication",
+      "code": "GEBC152",
+      "url": "https://www.studocu.com/row/course/german-jordanian-university/principles-of-communication/5153552"
+    },
+    {
+      "name": "principles of management",
+      "code": "MGT101",
+      "url": "https://www.studocu.com/row/course/german-jordanian-university/principles-of-management/4540628"
+    },
+    {
+      "name": "Principles of Marketing",
+      "code": "MGT124",
+      "url": "https://www.studocu.com/row/course/german-jordanian-university/principles-of-marketing/3444406"
+    },
+    {
+      "name": "probability and statistics for engineering and the sciences",
+      "code": "IE221",
+      "url": "https://www.studocu.com/row/course/german-jordanian-university/probability-and-statistics-for-engineering-and-the-sciences/3963644"
+    },
+    {
+      "name": "Procurement",
+      "code": "LOGS223",
+      "url": "https://www.studocu.com/row/course/german-jordanian-university/procurement/4988212"
+    },
+    {
+      "name": "Quality Management",
+      "code": "MGT418",
+      "url": "https://www.studocu.com/row/course/german-jordanian-university/quality-management/5161572"
+    },
+    {
+      "name": "Renewable Energy Lab",
+      "code": "ENE4360",
+      "url": "https://www.studocu.com/row/course/german-jordanian-university/renewable-energy-lab/5290133"
+    },
+    {
+      "name": "Research Methods",
+      "code": "MGT213",
+      "url": "https://www.studocu.com/row/course/german-jordanian-university/research-methods/6944900"
+    },
+    {
+      "name": "Sensors",
+      "code": "ME0348",
+      "url": "https://www.studocu.com/row/course/german-jordanian-university/sensors/6592080"
+    },
+    {
+      "name": "separation process lab",
+      "code": "PCE562",
+      "url": "https://www.studocu.com/row/course/german-jordanian-university/separation-process-lab/6685638"
+    },
+    {
+      "name": "signal & systems",
+      "code": "CE 331",
+      "url": "https://www.studocu.com/row/course/german-jordanian-university/signal-systems/5379250"
+    },
+    {
+      "name": "Softskills",
+      "code": "SFT201",
+      "url": "https://www.studocu.com/row/course/german-jordanian-university/softskills/3100039"
+    },
+    {
+      "name": "Static",
+      "code": "CVE212",
+      "url": "https://www.studocu.com/row/course/german-jordanian-university/static/3451022"
+    },
+    {
+      "name": "Statistical and Numerical Methods for Energy Engineers",
+      "code": "ENE302",
+      "url": "https://www.studocu.com/row/course/german-jordanian-university/statistical-and-numerical-methods-for-energy-engineers/6975637"
+    },
+    {
+      "name": "Technical drafting",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/german-jordanian-university/technical-drafting/6578915"
+    },
+    {
+      "name": "Thermodynamics",
+      "code": "TME221",
+      "url": "https://www.studocu.com/row/course/german-jordanian-university/thermodynamics/5876381"
+    },
+    {
+      "name": "work measurement",
+      "code": "IE261",
+      "url": "https://www.studocu.com/row/course/german-jordanian-university/work-measurement/4448863"
+    }
+  ]
+}

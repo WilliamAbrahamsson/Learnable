@@ -1,0 +1,806 @@
+{
+  "university_id": "9576",
+  "university_name": "Львівський національний університет імені Івана Франка",
+  "courses": [
+    {
+      "name": "Business English",
+      "code": null,
+      "url": "https://www.studocu.com/uk/course/l%D1%8Cvivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-ivana-franka/business-english/5478289"
+    },
+    {
+      "name": "computer science",
+      "code": "cs2024",
+      "url": "https://www.studocu.com/uk/course/l%D1%8Cvivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-ivana-franka/computer-science/6992820"
+    },
+    {
+      "name": "Criminal law",
+      "code": "00001",
+      "url": "https://www.studocu.com/uk/course/l%D1%8Cvivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-ivana-franka/criminal-law/4416004"
+    },
+    {
+      "name": "English Philology",
+      "code": "35",
+      "url": "https://www.studocu.com/uk/course/l%D1%8Cvivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-ivana-franka/english-philology/5735295"
+    },
+    {
+      "name": "English Philology",
+      "code": "35.05",
+      "url": "https://www.studocu.com/uk/course/l%D1%8Cvivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-ivana-franka/english-philology/6035784"
+    },
+    {
+      "name": "Finantial Law",
+      "code": "FL123",
+      "url": "https://www.studocu.com/uk/course/l%D1%8Cvivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-ivana-franka/finantial-law/6489624"
+    },
+    {
+      "name": "International marketing",
+      "code": "IM2020",
+      "url": "https://www.studocu.com/uk/course/l%D1%8Cvivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-ivana-franka/international-marketing/4527209"
+    },
+    {
+      "name": "International Property Law",
+      "code": "IPL123",
+      "url": "https://www.studocu.com/uk/course/l%D1%8Cvivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-ivana-franka/international-property-law/6489618"
+    },
+    {
+      "name": "Legal theory",
+      "code": "LegTh 01",
+      "url": "https://www.studocu.com/uk/course/l%D1%8Cvivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-ivana-franka/legal-theory/3362247"
+    },
+    {
+      "name": "Methodology",
+      "code": null,
+      "url": "https://www.studocu.com/uk/course/l%D1%8Cvivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-ivana-franka/methodology/6472830"
+    },
+    {
+      "name": "Professional Ethics of a Lawyer",
+      "code": null,
+      "url": "https://www.studocu.com/uk/course/l%D1%8Cvivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-ivana-franka/professional-ethics-of-a-lawyer/6434102"
+    },
+    {
+      "name": "Project Management",
+      "code": "PM101",
+      "url": "https://www.studocu.com/uk/course/l%D1%8Cvivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-ivana-franka/project-management/5558468"
+    },
+    {
+      "name": "Statistics",
+      "code": "335",
+      "url": "https://www.studocu.com/uk/course/l%D1%8Cvivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-ivana-franka/statistics/1665101"
+    },
+    {
+      "name": "Sustainable Development",
+      "code": "ECON-51",
+      "url": "https://www.studocu.com/uk/course/l%D1%8Cvivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-ivana-franka/sustainable-development/3234343"
+    },
+    {
+      "name": "World literature",
+      "code": "Philology",
+      "url": "https://www.studocu.com/uk/course/l%D1%8Cvivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-ivana-franka/world-literature/6758703"
+    },
+    {
+      "name": "Іван Франко і методика викладання української літератури",
+      "code": null,
+      "url": "https://www.studocu.com/uk/course/l%D1%8Cvivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-ivana-franka/ivan-franko-i-metodika-vikladannya-ukrains%D1%8Ckoi-literaturi/4151513"
+    },
+    {
+      "name": "Іноземні мови",
+      "code": "ГСЕ1.1.01",
+      "url": "https://www.studocu.com/uk/course/l%D1%8Cvivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-ivana-franka/inozemni-movi/4151434"
+    },
+    {
+      "name": "Іноземні мови (нім.)",
+      "code": "ГСЕ1.1.01",
+      "url": "https://www.studocu.com/uk/course/l%D1%8Cvivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-ivana-franka/inozemni-movi-nim/4151435"
+    },
+    {
+      "name": "Іноземна мова",
+      "code": "ОК 4",
+      "url": "https://www.studocu.com/uk/course/l%D1%8Cvivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-ivana-franka/inozemna-mova/4151167"
+    },
+    {
+      "name": "Інтелектуальна власність",
+      "code": null,
+      "url": "https://www.studocu.com/uk/course/l%D1%8Cvivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-ivana-franka/intelektual%D1%8Cna-vlasnist%D1%8C/4151515"
+    },
+    {
+      "name": "Інформатика",
+      "code": "ПП 1.2.01",
+      "url": "https://www.studocu.com/uk/course/l%D1%8Cvivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-ivana-franka/informatika/4151241"
+    },
+    {
+      "name": "Інформатика з основами геоінформатики",
+      "code": "ПП 01.04",
+      "url": "https://www.studocu.com/uk/course/l%D1%8Cvivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-ivana-franka/informatika-z-osnovami-geoinformatiki/4151349"
+    },
+    {
+      "name": "Історія  української журналістики",
+      "code": "ПП 1.2.02",
+      "url": "https://www.studocu.com/uk/course/l%D1%8Cvivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-ivana-franka/istoriya-ukrains%D1%8Ckoi-zhurnalistiki/4151454"
+    },
+    {
+      "name": "Історія Північної Америки",
+      "code": "HistofAmerica",
+      "url": "https://www.studocu.com/uk/course/l%D1%8Cvivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-ivana-franka/istoriya-pivnichnoi-ameriki/6656901"
+    },
+    {
+      "name": "Історія світової літератури",
+      "code": null,
+      "url": "https://www.studocu.com/uk/course/l%D1%8Cvivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-ivana-franka/istoriya-svitovoi-literaturi/4151521"
+    },
+    {
+      "name": "Історія середніх віків",
+      "code": "12-15 ст",
+      "url": "https://www.studocu.com/uk/course/l%D1%8Cvivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-ivana-franka/istoriya-serednikh-vikiv/6218214"
+    },
+    {
+      "name": "Історія слов'янської літературної критики",
+      "code": null,
+      "url": "https://www.studocu.com/uk/course/l%D1%8Cvivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-ivana-franka/istoriya-slovyans%D1%8Ckoi-literaturnoi-kritiki/4151528"
+    },
+    {
+      "name": "Історія України",
+      "code": "ОК 2",
+      "url": "https://www.studocu.com/uk/course/l%D1%8Cvivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-ivana-franka/istoriya-ukraini/4151165"
+    },
+    {
+      "name": "Історія України",
+      "code": "ГСЕ 01.02",
+      "url": "https://www.studocu.com/uk/course/l%D1%8Cvivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-ivana-franka/istoriya-ukraini/4151201"
+    },
+    {
+      "name": "Історія української культури",
+      "code": "ГСЕ1.1.04",
+      "url": "https://www.studocu.com/uk/course/l%D1%8Cvivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-ivana-franka/istoriya-ukrains%D1%8Ckoi-kul%D1%8Cturi/4151438"
+    },
+    {
+      "name": "Історія української літератури",
+      "code": null,
+      "url": "https://www.studocu.com/uk/course/l%D1%8Cvivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-ivana-franka/istoriya-ukrains%D1%8Ckoi-literaturi/4151678"
+    },
+    {
+      "name": "Історія філософії",
+      "code": "ПП1.2.16",
+      "url": "https://www.studocu.com/uk/course/l%D1%8Cvivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-ivana-franka/istoriya-filosofii/4151447"
+    },
+    {
+      "name": "Історія чеської літератури",
+      "code": null,
+      "url": "https://www.studocu.com/uk/course/l%D1%8Cvivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-ivana-franka/istoriya-ches%D1%8Ckoi-literaturi/4151532"
+    },
+    {
+      "name": "Історія чеської мови",
+      "code": null,
+      "url": "https://www.studocu.com/uk/course/l%D1%8Cvivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-ivana-franka/istoriya-ches%D1%8Ckoi-movi/4151533"
+    },
+    {
+      "name": "Історична геологія",
+      "code": "ПП 01.12",
+      "url": "https://www.studocu.com/uk/course/l%D1%8Cvivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-ivana-franka/istorichna-geologiya/4151216"
+    },
+    {
+      "name": "Адмін. Процес",
+      "code": "Law2025",
+      "url": "https://www.studocu.com/uk/course/l%D1%8Cvivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-ivana-franka/admin-protses/7292158"
+    },
+    {
+      "name": "Адміністративне Право України",
+      "code": null,
+      "url": "https://www.studocu.com/uk/course/l%D1%8Cvivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-ivana-franka/administrativne-pravo-ukraini/5830108"
+    },
+    {
+      "name": "Аналітична геометрія",
+      "code": "ОК 9",
+      "url": "https://www.studocu.com/uk/course/l%D1%8Cvivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-ivana-franka/analitichna-geometriya/4151172"
+    },
+    {
+      "name": "Аналітична економіка",
+      "code": "л865463",
+      "url": "https://www.studocu.com/uk/course/l%D1%8Cvivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-ivana-franka/analitichna-ekonomika/6944996"
+    },
+    {
+      "name": "Аналітична механіка",
+      "code": null,
+      "url": "https://www.studocu.com/uk/course/l%D1%8Cvivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-ivana-franka/analitichna-mekhanika/4151680"
+    },
+    {
+      "name": "англійська мова",
+      "code": "223",
+      "url": "https://www.studocu.com/uk/course/l%D1%8Cvivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-ivana-franka/angliys%D1%8Cka-mova/5168735"
+    },
+    {
+      "name": "Біологічні основи інфекційних процесів",
+      "code": null,
+      "url": "https://www.studocu.com/uk/course/l%D1%8Cvivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-ivana-franka/biologichni-osnovi-infektsiynikh-protsesiv/4151479"
+    },
+    {
+      "name": "Безпека життєдіяльності",
+      "code": "ПП 01.10",
+      "url": "https://www.studocu.com/uk/course/l%D1%8Cvivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-ivana-franka/bezpeka-zhittediyal%D1%8Cnosti/4151214"
+    },
+    {
+      "name": "Безпека життєдіяльності (безпека життєдіяльності, цивільний захист та сестринська справа)",
+      "code": "ПП 01.06",
+      "url": "https://www.studocu.com/uk/course/l%D1%8Cvivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-ivana-franka/bezpeka-zhittediyal%D1%8Cnosti-bezpeka-zhittediyal%D1%8Cnosti-tsivil%D1%8Cniy-zakhist-ta-sestrins%D1%8Cka-sprava/4151350"
+    },
+    {
+      "name": "Безпека життєдіяльності роботи журналіста та цивільний захист",
+      "code": "ПП1.2.14",
+      "url": "https://www.studocu.com/uk/course/l%D1%8Cvivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-ivana-franka/bezpeka-zhittediyal%D1%8Cnosti-roboti-zhurnalista-ta-tsivil%D1%8Cniy-zakhist/4151445"
+    },
+    {
+      "name": "Болгарська мова",
+      "code": null,
+      "url": "https://www.studocu.com/uk/course/l%D1%8Cvivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-ivana-franka/bolgars%D1%8Cka-mova/4151486"
+    },
+    {
+      "name": "бухгалтерський облік",
+      "code": "екомн 071",
+      "url": "https://www.studocu.com/uk/course/l%D1%8Cvivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-ivana-franka/bukhgalters%D1%8Ckiy-oblik/6013360"
+    },
+    {
+      "name": "Вища математика",
+      "code": "ПП 01.03",
+      "url": "https://www.studocu.com/uk/course/l%D1%8Cvivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-ivana-franka/vishcha-matematika/4151207"
+    },
+    {
+      "name": "Вступ до когнітивної лінгвістики",
+      "code": null,
+      "url": "https://www.studocu.com/uk/course/l%D1%8Cvivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-ivana-franka/vstup-do-kognitivnoi-lingvistiki/4151488"
+    },
+    {
+      "name": "Вступ до комп'ютерної лінгвістики",
+      "code": null,
+      "url": "https://www.studocu.com/uk/course/l%D1%8Cvivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-ivana-franka/vstup-do-kompyuternoi-lingvistiki/4151489"
+    },
+    {
+      "name": "Вступ до ЛФМЛ",
+      "code": "VDL1",
+      "url": "https://www.studocu.com/uk/course/l%D1%8Cvivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-ivana-franka/vstup-do-lfml/6558732"
+    },
+    {
+      "name": "Вступ до мовознавства",
+      "code": null,
+      "url": "https://www.studocu.com/uk/course/l%D1%8Cvivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-ivana-franka/vstup-do-movoznavstva/4151490"
+    },
+    {
+      "name": "Вступ до слов'янської філології",
+      "code": null,
+      "url": "https://www.studocu.com/uk/course/l%D1%8Cvivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-ivana-franka/vstup-do-slovyans%D1%8Ckoi-filologii/4151491"
+    },
+    {
+      "name": "Вчення про підземні води",
+      "code": "ПП 1.5.03",
+      "url": "https://www.studocu.com/uk/course/l%D1%8Cvivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-ivana-franka/vchennya-pro-pidzemni-vodi/4151264"
+    },
+    {
+      "name": "Генетика людини",
+      "code": null,
+      "url": "https://www.studocu.com/uk/course/l%D1%8Cvivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-ivana-franka/genetika-lyudini/4151494"
+    },
+    {
+      "name": "Геологічна інтерпретація геофізичних даних",
+      "code": "ПП 02.58",
+      "url": "https://www.studocu.com/uk/course/l%D1%8Cvivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-ivana-franka/geologichna-interpretatsiya-geofizichnikh-danikh/4151328"
+    },
+    {
+      "name": "Геологія золота і алмазу",
+      "code": "ПП 02.44",
+      "url": "https://www.studocu.com/uk/course/l%D1%8Cvivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-ivana-franka/geologiya-zolota-i-almazu/4151312"
+    },
+    {
+      "name": "Геофізика в гідрогеології",
+      "code": "ПП 02.38",
+      "url": "https://www.studocu.com/uk/course/l%D1%8Cvivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-ivana-franka/geofizika-v-gidrogeologii/4151306"
+    },
+    {
+      "name": "Геофізичні методи в нафтовій геології",
+      "code": "ПП 1.3.04",
+      "url": "https://www.studocu.com/uk/course/l%D1%8Cvivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-ivana-franka/geofizichni-metodi-v-naftoviy-geologii/4151251"
+    },
+    {
+      "name": "Геохімія довкілля",
+      "code": "ПП 02.56",
+      "url": "https://www.studocu.com/uk/course/l%D1%8Cvivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-ivana-franka/geokhimiya-dovkillya/4151326"
+    },
+    {
+      "name": "Джерелознавча практика",
+      "code": null,
+      "url": "https://www.studocu.com/uk/course/l%D1%8Cvivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-ivana-franka/dzhereloznavcha-praktika/4151498"
+    },
+    {
+      "name": "Дисципліни вільного вибору",
+      "code": "ГСЕ 2.1.1.01",
+      "url": "https://www.studocu.com/uk/course/l%D1%8Cvivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-ivana-franka/distsiplini-vil%D1%8Cnogo-viboru/4151448"
+    },
+    {
+      "name": "Диференціальні та інтегральні рівняння",
+      "code": "ОК 12",
+      "url": "https://www.studocu.com/uk/course/l%D1%8Cvivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-ivana-franka/diferentsial%D1%8Cni-ta-integral%D1%8Cni-rivnyannya/4151175"
+    },
+    {
+      "name": "Екологічний менеджмент і аудит",
+      "code": null,
+      "url": "https://www.studocu.com/uk/course/l%D1%8Cvivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-ivana-franka/ekologichniy-menedzhment-i-audit/4151504"
+    },
+    {
+      "name": "Екологія, раціональне використання та охорона тварин",
+      "code": null,
+      "url": "https://www.studocu.com/uk/course/l%D1%8Cvivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-ivana-franka/ekologiya-ratsional%D1%8Cne-vikoristannya-ta-okhorona-tvarin/4151505"
+    },
+    {
+      "name": "Електромагнітне поле у вакуумі",
+      "code": null,
+      "url": "https://www.studocu.com/uk/course/l%D1%8Cvivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-ivana-franka/elektromagnitne-pole-u-vakuumi/4151507"
+    },
+    {
+      "name": "Енергетичне Право Єс",
+      "code": null,
+      "url": "https://www.studocu.com/uk/course/l%D1%8Cvivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-ivana-franka/energetichne-pravo-es/5830103"
+    },
+    {
+      "name": "Етнолінгвістика",
+      "code": null,
+      "url": "https://www.studocu.com/uk/course/l%D1%8Cvivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-ivana-franka/etnolingvistika/4151509"
+    },
+    {
+      "name": "журналістська майстерність",
+      "code": "НД 1.4.01.07",
+      "url": "https://www.studocu.com/uk/course/l%D1%8Cvivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-ivana-franka/zhurnalists%D1%8Cka-maysternist%D1%8C/4151459"
+    },
+    {
+      "name": "Квантова статистика",
+      "code": "ОК 33",
+      "url": "https://www.studocu.com/uk/course/l%D1%8Cvivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-ivana-franka/kvantova-statistika/4151196"
+    },
+    {
+      "name": "Київська школа та поезія 1980–1990 років",
+      "code": null,
+      "url": "https://www.studocu.com/uk/course/l%D1%8Cvivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-ivana-franka/kiivs%D1%8Cka-shkola-ta-poeziya-19801990-rokiv/4151534"
+    },
+    {
+      "name": "Комп'ютерні методи дешифрування супутникових даних",
+      "code": "ПП.79",
+      "url": "https://www.studocu.com/uk/course/l%D1%8Cvivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-ivana-franka/kompyuterni-metodi-deshifruvannya-suputnikovikh-danikh/4151424"
+    },
+    {
+      "name": "Комп'ютерна обробка геологічних даних",
+      "code": "ПП 02.66",
+      "url": "https://www.studocu.com/uk/course/l%D1%8Cvivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-ivana-franka/kompyuterna-obrobka-geologichnikh-danikh/4151336"
+    },
+    {
+      "name": "Комунікативна лінгвістика",
+      "code": null,
+      "url": "https://www.studocu.com/uk/course/l%D1%8Cvivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-ivana-franka/komunikativna-lingvistika/4151535"
+    },
+    {
+      "name": "Конституційне Право України",
+      "code": null,
+      "url": "https://www.studocu.com/uk/course/l%D1%8Cvivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-ivana-franka/konstitutsiyne-pravo-ukraini/5927075"
+    },
+    {
+      "name": "Криміналістика",
+      "code": "Право2024",
+      "url": "https://www.studocu.com/uk/course/l%D1%8Cvivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-ivana-franka/kriminalistika/7277370"
+    },
+    {
+      "name": "Кримінальне право",
+      "code": "081",
+      "url": "https://www.studocu.com/uk/course/l%D1%8Cvivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-ivana-franka/kriminal%D1%8Cne-pravo/7548232"
+    },
+    {
+      "name": "Кримінальне Процесуальне Право України",
+      "code": null,
+      "url": "https://www.studocu.com/uk/course/l%D1%8Cvivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-ivana-franka/kriminal%D1%8Cne-protsesual%D1%8Cne-pravo-ukraini/5830106"
+    },
+    {
+      "name": "Кристалографія",
+      "code": "ПП 01.10",
+      "url": "https://www.studocu.com/uk/course/l%D1%8Cvivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-ivana-franka/kristalografiya/4151354"
+    },
+    {
+      "name": "Критика нових медій",
+      "code": "НД 1.4.08.03",
+      "url": "https://www.studocu.com/uk/course/l%D1%8Cvivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-ivana-franka/kritika-novikh-mediy/4151460"
+    },
+    {
+      "name": "Культура наукового мовлення",
+      "code": null,
+      "url": "https://www.studocu.com/uk/course/l%D1%8Cvivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-ivana-franka/kul%D1%8Ctura-naukovogo-movlennya/4151536"
+    },
+    {
+      "name": "Курсова робота",
+      "code": null,
+      "url": "https://www.studocu.com/uk/course/l%D1%8Cvivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-ivana-franka/kursova-robota/4151539"
+    },
+    {
+      "name": "Курсова робота на кафедрі екологічної та інженерної геології і гідрогеології",
+      "code": "ПП 02.77",
+      "url": "https://www.studocu.com/uk/course/l%D1%8Cvivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-ivana-franka/kursova-robota-na-kafedri-ekologichnoi-ta-inzhenernoi-geologii-i-gidrogeologii/4151347"
+    },
+    {
+      "name": "Курсова робота на кафедрі петрографії",
+      "code": "ПП 02.72",
+      "url": "https://www.studocu.com/uk/course/l%D1%8Cvivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-ivana-franka/kursova-robota-na-kafedri-petrografii/4151342"
+    },
+    {
+      "name": "Лінгвістика реклами",
+      "code": null,
+      "url": "https://www.studocu.com/uk/course/l%D1%8Cvivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-ivana-franka/lingvistika-reklami/4151540"
+    },
+    {
+      "name": "Літодинамічні типи осадових порід",
+      "code": "ПП 02.59",
+      "url": "https://www.studocu.com/uk/course/l%D1%8Cvivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-ivana-franka/litodinamichni-tipi-osadovikh-porid/4151329"
+    },
+    {
+      "name": "Міжнародні Економічні Відносини",
+      "code": "292",
+      "url": "https://www.studocu.com/uk/course/l%D1%8Cvivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-ivana-franka/mizhnarodni-ekonomichni-vidnosini/5830109"
+    },
+    {
+      "name": "Міжнародне приватне право",
+      "code": "Право 081",
+      "url": "https://www.studocu.com/uk/course/l%D1%8Cvivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-ivana-franka/mizhnarodne-privatne-pravo/6730851"
+    },
+    {
+      "name": "Міжнародний захист прав людини",
+      "code": "МЗПЛ1",
+      "url": "https://www.studocu.com/uk/course/l%D1%8Cvivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-ivana-franka/mizhnarodniy-zakhist-prav-lyudini/6654666"
+    },
+    {
+      "name": "Матаналіз",
+      "code": "ОК 8",
+      "url": "https://www.studocu.com/uk/course/l%D1%8Cvivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-ivana-franka/matanaliz/4151171"
+    },
+    {
+      "name": "Матаналіз",
+      "code": "ОК 30",
+      "url": "https://www.studocu.com/uk/course/l%D1%8Cvivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-ivana-franka/matanaliz/4151193"
+    },
+    {
+      "name": "Математична статистика та обробка геологічної інформації",
+      "code": "ПП 01.22",
+      "url": "https://www.studocu.com/uk/course/l%D1%8Cvivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-ivana-franka/matematichna-statistika-ta-obrobka-geologichnoi-informatsii/4151366"
+    },
+    {
+      "name": "международная экономика",
+      "code": "екр22",
+      "url": "https://www.studocu.com/uk/course/l%D1%8Cvivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-ivana-franka/mezhdunarodnaya-ekonomika/5362342"
+    },
+    {
+      "name": "Методика викладання української літератури у вищій школі",
+      "code": null,
+      "url": "https://www.studocu.com/uk/course/l%D1%8Cvivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-ivana-franka/metodika-vikladannya-ukrains%D1%8Ckoi-literaturi-u-vishchiy-shkoli/4151557"
+    },
+    {
+      "name": "Методика викладання фахових дисциплін у середній школі (освіта)",
+      "code": null,
+      "url": "https://www.studocu.com/uk/course/l%D1%8Cvivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-ivana-franka/metodika-vikladannya-fakhovikh-distsiplin-u-seredniy-shkoli-osvita/4151562"
+    },
+    {
+      "name": "Методологія дослідження соціальних комунікацій",
+      "code": "НД 1.3",
+      "url": "https://www.studocu.com/uk/course/l%D1%8Cvivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-ivana-franka/metodologiya-doslidzhennya-sotsial%D1%8Cnikh-komunikatsiy/4151455"
+    },
+    {
+      "name": "Механіка",
+      "code": "ОК 13",
+      "url": "https://www.studocu.com/uk/course/l%D1%8Cvivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-ivana-franka/mekhanika/4151176"
+    },
+    {
+      "name": "Митне Право",
+      "code": "81",
+      "url": "https://www.studocu.com/uk/course/l%D1%8Cvivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-ivana-franka/mitne-pravo/6744522"
+    },
+    {
+      "name": "Молекулярні механізми міжклітинної комунікації",
+      "code": null,
+      "url": "https://www.studocu.com/uk/course/l%D1%8Cvivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-ivana-franka/molekulyarni-mekhanizmi-mizhklitinnoi-komunikatsii/4151580"
+    },
+    {
+      "name": "Молекулярна мікробіологія",
+      "code": null,
+      "url": "https://www.studocu.com/uk/course/l%D1%8Cvivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-ivana-franka/molekulyarna-mikrobiologiya/4151579"
+    },
+    {
+      "name": "Молекулярна фізика",
+      "code": "ОК 14",
+      "url": "https://www.studocu.com/uk/course/l%D1%8Cvivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-ivana-franka/molekulyarna-fizika/4151177"
+    },
+    {
+      "name": "Музейно-архівна практика (україністи)",
+      "code": null,
+      "url": "https://www.studocu.com/uk/course/l%D1%8Cvivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-ivana-franka/muzeyno-arkhivna-praktika-ukrainisti/4151584"
+    },
+    {
+      "name": "Муніципальне Право України",
+      "code": null,
+      "url": "https://www.studocu.com/uk/course/l%D1%8Cvivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-ivana-franka/munitsipal%D1%8Cne-pravo-ukraini/6730853"
+    },
+    {
+      "name": "Наукова-дослідна практика",
+      "code": null,
+      "url": "https://www.studocu.com/uk/course/l%D1%8Cvivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-ivana-franka/naukova-doslidna-praktika/4151585"
+    },
+    {
+      "name": "Науковий семінар",
+      "code": null,
+      "url": "https://www.studocu.com/uk/course/l%D1%8Cvivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-ivana-franka/naukoviy-seminar/4151586"
+    },
+    {
+      "name": "Національні ресурси сучасної європейської культури",
+      "code": "НД 1.4.06.05",
+      "url": "https://www.studocu.com/uk/course/l%D1%8Cvivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-ivana-franka/natsional%D1%8Cni-resursi-suchasnoi-evropeys%D1%8Ckoi-kul%D1%8Cturi/4151466"
+    },
+    {
+      "name": "Новаторство лірики Івана Франка",
+      "code": null,
+      "url": "https://www.studocu.com/uk/course/l%D1%8Cvivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-ivana-franka/novatorstvo-liriki-ivana-franka/4151590"
+    },
+    {
+      "name": "Організація роботи в ЗМІ",
+      "code": "ПП1.2.04",
+      "url": "https://www.studocu.com/uk/course/l%D1%8Cvivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-ivana-franka/organizatsiya-roboti-v-zmi/4151442"
+    },
+    {
+      "name": "Освітній менеджмент",
+      "code": null,
+      "url": "https://www.studocu.com/uk/course/l%D1%8Cvivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-ivana-franka/osvitniy-menedzhment/4151595"
+    },
+    {
+      "name": "Основи геофізики",
+      "code": "ПП 01.13",
+      "url": "https://www.studocu.com/uk/course/l%D1%8Cvivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-ivana-franka/osnovi-geofiziki/4151357"
+    },
+    {
+      "name": "Основи міжкультурної комунікації",
+      "code": null,
+      "url": "https://www.studocu.com/uk/course/l%D1%8Cvivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-ivana-franka/osnovi-mizhkul%D1%8Cturnoi-komunikatsii/4151597"
+    },
+    {
+      "name": "Основи наукових досліджень",
+      "code": "ПП 1.2.01",
+      "url": "https://www.studocu.com/uk/course/l%D1%8Cvivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-ivana-franka/osnovi-naukovikh-doslidzhen%D1%8C/4151450"
+    },
+    {
+      "name": "Основи наукового філологічного дослідження",
+      "code": null,
+      "url": "https://www.studocu.com/uk/course/l%D1%8Cvivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-ivana-franka/osnovi-naukovogo-filologichnogo-doslidzhennya/4151599"
+    },
+    {
+      "name": "Основи права ЄС",
+      "code": "Law of EU 123",
+      "url": "https://www.studocu.com/uk/course/l%D1%8Cvivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-ivana-franka/osnovi-prava-es/6776763"
+    },
+    {
+      "name": "Охорона праці (основи охорони праці та охорона праці в галузі)",
+      "code": "ПП 01.07",
+      "url": "https://www.studocu.com/uk/course/l%D1%8Cvivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-ivana-franka/okhorona-pratsi-osnovi-okhoroni-pratsi-ta-okhorona-pratsi-v-galuzi/4151351"
+    },
+    {
+      "name": "Педагогіка і психологія вищої школи",
+      "code": null,
+      "url": "https://www.studocu.com/uk/course/l%D1%8Cvivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-ivana-franka/pedagogika-i-psikhologiya-vishchoi-shkoli/4151603"
+    },
+    {
+      "name": "Педагогічна практика",
+      "code": null,
+      "url": "https://www.studocu.com/uk/course/l%D1%8Cvivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-ivana-franka/pedagogichna-praktika/4151605"
+    },
+    {
+      "name": "Податкове Адміністрування і Контроль",
+      "code": "Law 2024",
+      "url": "https://www.studocu.com/uk/course/l%D1%8Cvivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-ivana-franka/podatkove-administruvannya-i-kontrol%D1%8C/7190525"
+    },
+    {
+      "name": "Політологія",
+      "code": "ГСЕ 01.05",
+      "url": "https://www.studocu.com/uk/course/l%D1%8Cvivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-ivana-franka/politologiya/4151204"
+    },
+    {
+      "name": "Політологія",
+      "code": "ОК 6",
+      "url": "https://www.studocu.com/uk/course/l%D1%8Cvivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-ivana-franka/politologiya/4151169"
+    },
+    {
+      "name": "Популяційна екологія",
+      "code": null,
+      "url": "https://www.studocu.com/uk/course/l%D1%8Cvivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-ivana-franka/populyatsiyna-ekologiya/4151609"
+    },
+    {
+      "name": "Порівняльна граматика слов'янських мов",
+      "code": null,
+      "url": "https://www.studocu.com/uk/course/l%D1%8Cvivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-ivana-franka/porivnyal%D1%8Cna-gramatika-slovyans%D1%8Ckikh-mov/4151610"
+    },
+    {
+      "name": "Право довкілля",
+      "code": "environmental law",
+      "url": "https://www.studocu.com/uk/course/l%D1%8Cvivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-ivana-franka/pravo-dovkillya/7145252"
+    },
+    {
+      "name": "Практична астрофізика",
+      "code": "ОК 31",
+      "url": "https://www.studocu.com/uk/course/l%D1%8Cvivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-ivana-franka/praktichna-astrofizika/4151194"
+    },
+    {
+      "name": "Предпринимательство; Право И Управление",
+      "code": null,
+      "url": "https://www.studocu.com/uk/course/l%D1%8Cvivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-ivana-franka/predprinimatel%D1%8Cstvo-pravo-i-upravlenie/5732504"
+    },
+    {
+      "name": "Проблемні питання сучасної біології",
+      "code": null,
+      "url": "https://www.studocu.com/uk/course/l%D1%8Cvivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-ivana-franka/problemni-pitannya-suchasnoi-biologii/4151617"
+    },
+    {
+      "name": "Програмування",
+      "code": "ОК 10",
+      "url": "https://www.studocu.com/uk/course/l%D1%8Cvivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-ivana-franka/programuvannya/4151173"
+    },
+    {
+      "name": "Процесуальне право Ради Європи",
+      "code": "ППРЄ1",
+      "url": "https://www.studocu.com/uk/course/l%D1%8Cvivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-ivana-franka/protsesual%D1%8Cne-pravo-radi-evropi/7651837"
+    },
+    {
+      "name": "психологія особистості злочинця",
+      "code": "psyc333",
+      "url": "https://www.studocu.com/uk/course/l%D1%8Cvivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-ivana-franka/psikhologiya-osobistosti-zlochintsya/7135970"
+    },
+    {
+      "name": "Римське право",
+      "code": "Право",
+      "url": "https://www.studocu.com/uk/course/l%D1%8Cvivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-ivana-franka/rims%D1%8Cke-pravo/5722920"
+    },
+    {
+      "name": "Римське приватне право",
+      "code": "Рпп 1",
+      "url": "https://www.studocu.com/uk/course/l%D1%8Cvivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-ivana-franka/rims%D1%8Cke-privatne-pravo/5361814"
+    },
+    {
+      "name": "Сімейне право України",
+      "code": "123",
+      "url": "https://www.studocu.com/uk/course/l%D1%8Cvivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-ivana-franka/simeyne-pravo-ukraini/7539065"
+    },
+    {
+      "name": "Системи автоматизації",
+      "code": "СА-123",
+      "url": "https://www.studocu.com/uk/course/l%D1%8Cvivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-ivana-franka/sistemi-avtomatizatsii/6515890"
+    },
+    {
+      "name": "Спектроскопія атомів молекул і кристалів  Залвк",
+      "code": "ОК 34",
+      "url": "https://www.studocu.com/uk/course/l%D1%8Cvivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-ivana-franka/spektroskopiya-atomiv-molekul-i-kristaliv-zalvk/4151197"
+    },
+    {
+      "name": "Спортивне Право",
+      "code": "СПр",
+      "url": "https://www.studocu.com/uk/course/l%D1%8Cvivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-ivana-franka/sportivne-pravo/7198965"
+    },
+    {
+      "name": "Сратег. стал. розв.",
+      "code": null,
+      "url": "https://www.studocu.com/uk/course/l%D1%8Cvivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-ivana-franka/srateg-stal-rozv/4151631"
+    },
+    {
+      "name": "Сучасна українська літературна мова",
+      "code": null,
+      "url": "https://www.studocu.com/uk/course/l%D1%8Cvivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-ivana-franka/suchasna-ukrains%D1%8Cka-literaturna-mova/4151634"
+    },
+    {
+      "name": "Теорія і практика перекладу",
+      "code": null,
+      "url": "https://www.studocu.com/uk/course/l%D1%8Cvivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-ivana-franka/teoriya-i-praktika-perekladu/4151640"
+    },
+    {
+      "name": "Теорія та історія української літератури",
+      "code": "ПП 1.2.03",
+      "url": "https://www.studocu.com/uk/course/l%D1%8Cvivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-ivana-franka/teoriya-ta-istoriya-ukrains%D1%8Ckoi-literaturi/4151451"
+    },
+    {
+      "name": "Теорія та Філософія Права",
+      "code": null,
+      "url": "https://www.studocu.com/uk/course/l%D1%8Cvivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-ivana-franka/teoriya-ta-filosofiya-prava/6488519"
+    },
+    {
+      "name": "Техніка і методи спектрального аналізу",
+      "code": "ОК 28",
+      "url": "https://www.studocu.com/uk/course/l%D1%8Cvivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-ivana-franka/tekhnika-i-metodi-spektral%D1%8Cnogo-analizu/4151191"
+    },
+    {
+      "name": "Трудове право",
+      "code": "апн125",
+      "url": "https://www.studocu.com/uk/course/l%D1%8Cvivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-ivana-franka/trudove-pravo/7315714"
+    },
+    {
+      "name": "ТФКЗ",
+      "code": null,
+      "url": "https://www.studocu.com/uk/course/l%D1%8Cvivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-ivana-franka/tfkz/4151643"
+    },
+    {
+      "name": "Українська військово-політична думка",
+      "code": "НД 1.4.03.05",
+      "url": "https://www.studocu.com/uk/course/l%D1%8Cvivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-ivana-franka/ukrains%D1%8Cka-viys%D1%8Ckovo-politichna-dumka/4151464"
+    },
+    {
+      "name": "Українська лінгвогеографія",
+      "code": null,
+      "url": "https://www.studocu.com/uk/course/l%D1%8Cvivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-ivana-franka/ukrains%D1%8Cka-lingvogeografiya/4151645"
+    },
+    {
+      "name": "Українська мова в ЗМІ (за професійним спрямуванням)",
+      "code": "ПП 1.2.11",
+      "url": "https://www.studocu.com/uk/course/l%D1%8Cvivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-ivana-franka/ukrains%D1%8Cka-mova-v-zmi-za-profesiynim-spryamuvannyam/4151453"
+    },
+    {
+      "name": "Українська мова в середній школі (освіта)",
+      "code": null,
+      "url": "https://www.studocu.com/uk/course/l%D1%8Cvivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-ivana-franka/ukrains%D1%8Cka-mova-v-seredniy-shkoli-osvita/4151647"
+    },
+    {
+      "name": "Український мовленнєвий етикет",
+      "code": null,
+      "url": "https://www.studocu.com/uk/course/l%D1%8Cvivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-ivana-franka/ukrains%D1%8Ckiy-movlenneviy-etiket/4151657"
+    },
+    {
+      "name": "Управління Людськими Ресурсами",
+      "code": null,
+      "url": "https://www.studocu.com/uk/course/l%D1%8Cvivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-ivana-franka/upravlinnya-lyuds%D1%8Ckimi-resursami/5327785"
+    },
+    {
+      "name": "Усне мовлення в системі гуманістичних цінностей",
+      "code": "НД 1.4.05.06",
+      "url": "https://www.studocu.com/uk/course/l%D1%8Cvivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-ivana-franka/usne-movlennya-v-sistemi-gumanistichnikh-tsinnostey/4151463"
+    },
+    {
+      "name": "Фізика",
+      "code": "ПП 01.01",
+      "url": "https://www.studocu.com/uk/course/l%D1%8Cvivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-ivana-franka/fizika/4151205"
+    },
+    {
+      "name": "Філогенія та еволюція рослин",
+      "code": null,
+      "url": "https://www.studocu.com/uk/course/l%D1%8Cvivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-ivana-franka/filogeniya-ta-evolyutsiya-roslin/4151663"
+    },
+    {
+      "name": "Філософія",
+      "code": "ГСЕ 01.04",
+      "url": "https://www.studocu.com/uk/course/l%D1%8Cvivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-ivana-franka/filosofiya/4151203"
+    },
+    {
+      "name": "Філософія",
+      "code": "ГСЕ1.1.03",
+      "url": "https://www.studocu.com/uk/course/l%D1%8Cvivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-ivana-franka/filosofiya/4151449"
+    },
+    {
+      "name": "Філософія мови",
+      "code": null,
+      "url": "https://www.studocu.com/uk/course/l%D1%8Cvivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-ivana-franka/filosofiya-movi/4151679"
+    },
+    {
+      "name": "Фінанси",
+      "code": "ФІН 2211",
+      "url": "https://www.studocu.com/uk/course/l%D1%8Cvivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-ivana-franka/finansi/5032498"
+    },
+    {
+      "name": "Хімія",
+      "code": "ПП 01.02",
+      "url": "https://www.studocu.com/uk/course/l%D1%8Cvivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-ivana-franka/khimiya/4151206"
+    },
+    {
+      "name": "Хорватська мова",
+      "code": null,
+      "url": "https://www.studocu.com/uk/course/l%D1%8Cvivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-ivana-franka/khorvats%D1%8Cka-mova/4151668"
+    },
+    {
+      "name": "Художня парадигма сучасної слов’янської прози",
+      "code": null,
+      "url": "https://www.studocu.com/uk/course/l%D1%8Cvivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-ivana-franka/khudozhnya-paradigma-suchasnoi-slovyans%D1%8Ckoi-prozi/4151670"
+    },
+    {
+      "name": "Цивільне Право України",
+      "code": null,
+      "url": "https://www.studocu.com/uk/course/l%D1%8Cvivs%D1%8Ckiy-natsional%D1%8Cniy-universitet-imeni-ivana-franka/tsivil%D1%8Cne-pravo-ukraini/5830111"
+    }
+  ]
+}

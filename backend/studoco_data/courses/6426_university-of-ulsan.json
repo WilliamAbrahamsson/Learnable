@@ -1,0 +1,841 @@
+{
+  "university_id": "6426",
+  "university_name": "University of Ulsan",
+  "courses": [
+    {
+      "name": "19세기영국소설",
+      "code": "B01797",
+      "url": "https://www.studocu.com/ko/course/university-of-ulsan/19%EC%84%B8%EA%B8%B0%EC%98%81%EA%B5%AD%EC%86%8C%EC%84%A4/3691430"
+    },
+    {
+      "name": "객체지향프로그래밍및실험",
+      "code": "G01147",
+      "url": "https://www.studocu.com/ko/course/university-of-ulsan/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%EB%B0%8F%EC%8B%A4%ED%97%98/5131829"
+    },
+    {
+      "name": "결혼과가족",
+      "code": "A00125",
+      "url": "https://www.studocu.com/ko/course/university-of-ulsan/%EA%B2%B0%ED%98%BC%EA%B3%BC%EA%B0%80%EC%A1%B1/4544899"
+    },
+    {
+      "name": "경영정보시스템",
+      "code": "M00207",
+      "url": "https://www.studocu.com/ko/course/university-of-ulsan/%EA%B2%BD%EC%98%81%EC%A0%95%EB%B3%B4%EC%8B%9C%EC%8A%A4%ED%85%9C/3691758"
+    },
+    {
+      "name": "경영학원론",
+      "code": "M00193",
+      "url": "https://www.studocu.com/ko/course/university-of-ulsan/%EA%B2%BD%EC%98%81%ED%95%99%EC%9B%90%EB%A1%A0/3691752"
+    },
+    {
+      "name": "경제성공학",
+      "code": null,
+      "url": "https://www.studocu.com/ko/course/university-of-ulsan/%EA%B2%BD%EC%A0%9C%EC%84%B1%EA%B3%B5%ED%95%99/4520101"
+    },
+    {
+      "name": "경제학원론",
+      "code": "M00227",
+      "url": "https://www.studocu.com/ko/course/university-of-ulsan/%EA%B2%BD%EC%A0%9C%ED%95%99%EC%9B%90%EB%A1%A0/3691772"
+    },
+    {
+      "name": "계량경영학",
+      "code": "M00195",
+      "url": "https://www.studocu.com/ko/course/university-of-ulsan/%EA%B3%84%EB%9F%89%EA%B2%BD%EC%98%81%ED%95%99/3691754"
+    },
+    {
+      "name": "계량경영학",
+      "code": "D00003",
+      "url": "https://www.studocu.com/ko/course/university-of-ulsan/%EA%B3%84%EB%9F%89%EA%B2%BD%EC%98%81%ED%95%99/3691515"
+    },
+    {
+      "name": "고분자화학",
+      "code": "G01636",
+      "url": "https://www.studocu.com/ko/course/university-of-ulsan/%EA%B3%A0%EB%B6%84%EC%9E%90%ED%99%94%ED%95%99/3691714"
+    },
+    {
+      "name": "공업교과교재연구및지도법",
+      "code": "A01160",
+      "url": "https://www.studocu.com/ko/course/university-of-ulsan/%EA%B3%B5%EC%97%85%EA%B5%90%EA%B3%BC%EA%B5%90%EC%9E%AC%EC%97%B0%EA%B5%AC%EB%B0%8F%EC%A7%80%EB%8F%84%EB%B2%95/3691354"
+    },
+    {
+      "name": "공업수학",
+      "code": "G02856",
+      "url": "https://www.studocu.com/ko/course/university-of-ulsan/%EA%B3%B5%EC%97%85%EC%88%98%ED%95%99/3691721"
+    },
+    {
+      "name": "공업수학",
+      "code": "g02852-04",
+      "url": "https://www.studocu.com/ko/course/university-of-ulsan/%EA%B3%B5%EC%97%85%EC%88%98%ED%95%99/4500995"
+    },
+    {
+      "name": "공학프로그래밍",
+      "code": "G03724",
+      "url": "https://www.studocu.com/ko/course/university-of-ulsan/%EA%B3%B5%ED%95%99%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/7342223"
+    },
+    {
+      "name": "국제경영",
+      "code": "D00014",
+      "url": "https://www.studocu.com/ko/course/university-of-ulsan/%EA%B5%AD%EC%A0%9C%EA%B2%BD%EC%98%81/5675407"
+    },
+    {
+      "name": "국제경영론",
+      "code": "M00202",
+      "url": "https://www.studocu.com/ko/course/university-of-ulsan/%EA%B5%AD%EC%A0%9C%EA%B2%BD%EC%98%81%EB%A1%A0/3691756"
+    },
+    {
+      "name": "국제금융론",
+      "code": "C00028",
+      "url": "https://www.studocu.com/ko/course/university-of-ulsan/%EA%B5%AD%EC%A0%9C%EA%B8%88%EC%9C%B5%EB%A1%A0/3691446"
+    },
+    {
+      "name": "국제기구론",
+      "code": "C01035",
+      "url": "https://www.studocu.com/ko/course/university-of-ulsan/%EA%B5%AD%EC%A0%9C%EA%B8%B0%EA%B5%AC%EB%A1%A0/3691481"
+    },
+    {
+      "name": "국제무역론",
+      "code": "C00079",
+      "url": "https://www.studocu.com/ko/course/university-of-ulsan/%EA%B5%AD%EC%A0%9C%EB%AC%B4%EC%97%AD%EB%A1%A0/3691458"
+    },
+    {
+      "name": "금융 및 증권 시장 이론",
+      "code": "D00019",
+      "url": "https://www.studocu.com/ko/course/university-of-ulsan/%EA%B8%88%EC%9C%B5-%EB%B0%8F-%EC%A6%9D%EA%B6%8C-%EC%8B%9C%EC%9E%A5-%EC%9D%B4%EB%A1%A0/5675434"
+    },
+    {
+      "name": "금융실무론",
+      "code": "C01087",
+      "url": "https://www.studocu.com/ko/course/university-of-ulsan/%EA%B8%88%EC%9C%B5%EC%8B%A4%EB%AC%B4%EB%A1%A0/3691494"
+    },
+    {
+      "name": "기계요소설계",
+      "code": "nsha1324",
+      "url": "https://www.studocu.com/ko/course/university-of-ulsan/%EA%B8%B0%EA%B3%84%EC%9A%94%EC%86%8C%EC%84%A4%EA%B3%84/4373185"
+    },
+    {
+      "name": "기계진동학",
+      "code": null,
+      "url": "https://www.studocu.com/ko/course/university-of-ulsan/%EA%B8%B0%EA%B3%84%EC%A7%84%EB%8F%99%ED%95%99/4577706"
+    },
+    {
+      "name": "기체 구조 설계",
+      "code": "G03117",
+      "url": "https://www.studocu.com/ko/course/university-of-ulsan/%EA%B8%B0%EC%B2%B4-%EA%B5%AC%EC%A1%B0-%EC%84%A4%EA%B3%84/5675558"
+    },
+    {
+      "name": "기초과학영어",
+      "code": "A01112",
+      "url": "https://www.studocu.com/ko/course/university-of-ulsan/%EA%B8%B0%EC%B4%88%EA%B3%BC%ED%95%99%EC%98%81%EC%96%B4/3691350"
+    },
+    {
+      "name": "기초중국어",
+      "code": "A01175",
+      "url": "https://www.studocu.com/ko/course/university-of-ulsan/%EA%B8%B0%EC%B4%88%EC%A4%91%EA%B5%AD%EC%96%B4/3691355"
+    },
+    {
+      "name": "노동기본권연구",
+      "code": "WA2588",
+      "url": "https://www.studocu.com/ko/course/university-of-ulsan/%EB%85%B8%EB%8F%99%EA%B8%B0%EB%B3%B8%EA%B6%8C%EC%97%B0%EA%B5%AC/3691813"
+    },
+    {
+      "name": "노인 건강 운동",
+      "code": "E01717",
+      "url": "https://www.studocu.com/ko/course/university-of-ulsan/%EB%85%B8%EC%9D%B8-%EA%B1%B4%EA%B0%95-%EC%9A%B4%EB%8F%99/5675507"
+    },
+    {
+      "name": "대기오염제어공학",
+      "code": "G01668",
+      "url": "https://www.studocu.com/ko/course/university-of-ulsan/%EB%8C%80%EA%B8%B0%EC%98%A4%EC%97%BC%EC%A0%9C%EC%96%B4%EA%B3%B5%ED%95%99/3691715"
+    },
+    {
+      "name": "대수학I",
+      "code": "E00074",
+      "url": "https://www.studocu.com/ko/course/university-of-ulsan/%EB%8C%80%EC%88%98%ED%95%99i/3691551"
+    },
+    {
+      "name": "대학생활과자기계발",
+      "code": "C01121",
+      "url": "https://www.studocu.com/ko/course/university-of-ulsan/%EB%8C%80%ED%95%99%EC%83%9D%ED%99%9C%EA%B3%BC%EC%9E%90%EA%B8%B0%EA%B3%84%EB%B0%9C/3691500"
+    },
+    {
+      "name": "데이터 통신",
+      "code": "G01058",
+      "url": "https://www.studocu.com/ko/course/university-of-ulsan/%EB%8D%B0%EC%9D%B4%ED%84%B0-%ED%86%B5%EC%8B%A0/5675270"
+    },
+    {
+      "name": "동북아지역론",
+      "code": "C00995",
+      "url": "https://www.studocu.com/ko/course/university-of-ulsan/%EB%8F%99%EB%B6%81%EC%95%84%EC%A7%80%EC%97%AD%EB%A1%A0/3691478"
+    },
+    {
+      "name": "디지털회로",
+      "code": null,
+      "url": "https://www.studocu.com/ko/course/university-of-ulsan/%EB%94%94%EC%A7%80%ED%84%B8%ED%9A%8C%EB%A1%9C/7707817"
+    },
+    {
+      "name": "마케팅",
+      "code": "D00034",
+      "url": "https://www.studocu.com/ko/course/university-of-ulsan/%EB%A7%88%EC%BC%80%ED%8C%85/3691518"
+    },
+    {
+      "name": "무기화학I",
+      "code": "E00280",
+      "url": "https://www.studocu.com/ko/course/university-of-ulsan/%EB%AC%B4%EA%B8%B0%ED%99%94%ED%95%99i/3691586"
+    },
+    {
+      "name": "무기화학실험",
+      "code": null,
+      "url": "https://www.studocu.com/ko/course/university-of-ulsan/%EB%AC%B4%EA%B8%B0%ED%99%94%ED%95%99%EC%8B%A4%ED%97%98/4552854"
+    },
+    {
+      "name": "문학의세계",
+      "code": "B01221",
+      "url": "https://www.studocu.com/ko/course/university-of-ulsan/%EB%AC%B8%ED%95%99%EC%9D%98%EC%84%B8%EA%B3%84/3691356"
+    },
+    {
+      "name": "물리수학I",
+      "code": "E01434",
+      "url": "https://www.studocu.com/ko/course/university-of-ulsan/%EB%AC%BC%EB%A6%AC%EC%88%98%ED%95%99i/3691629"
+    },
+    {
+      "name": "물리화학",
+      "code": "G03082",
+      "url": "https://www.studocu.com/ko/course/university-of-ulsan/%EB%AC%BC%EB%A6%AC%ED%99%94%ED%95%99/3691730"
+    },
+    {
+      "name": "물리화학I",
+      "code": "E00267",
+      "url": "https://www.studocu.com/ko/course/university-of-ulsan/%EB%AC%BC%EB%A6%AC%ED%99%94%ED%95%99i/3691579"
+    },
+    {
+      "name": "물리화학ii",
+      "code": "E00268",
+      "url": "https://www.studocu.com/ko/course/university-of-ulsan/%EB%AC%BC%EB%A6%AC%ED%99%94%ED%95%99ii/3691580"
+    },
+    {
+      "name": "물리화학실험",
+      "code": "E00269",
+      "url": "https://www.studocu.com/ko/course/university-of-ulsan/%EB%AC%BC%EB%A6%AC%ED%99%94%ED%95%99%EC%8B%A4%ED%97%98/3691581"
+    },
+    {
+      "name": "물질전달",
+      "code": "G03075",
+      "url": "https://www.studocu.com/ko/course/university-of-ulsan/%EB%AC%BC%EC%A7%88%EC%A0%84%EB%8B%AC/3691725"
+    },
+    {
+      "name": "미생물학I",
+      "code": "E01636",
+      "url": "https://www.studocu.com/ko/course/university-of-ulsan/%EB%AF%B8%EC%83%9D%EB%AC%BC%ED%95%99i/3691652"
+    },
+    {
+      "name": "미시경제학",
+      "code": "C00011",
+      "url": "https://www.studocu.com/ko/course/university-of-ulsan/%EB%AF%B8%EC%8B%9C%EA%B2%BD%EC%A0%9C%ED%95%99/3691442"
+    },
+    {
+      "name": "미적분학연습i",
+      "code": "G03531",
+      "url": "https://www.studocu.com/ko/course/university-of-ulsan/%EB%AF%B8%EC%A0%81%EB%B6%84%ED%95%99%EC%97%B0%EC%8A%B5i/3691742"
+    },
+    {
+      "name": "민법 일반 이론",
+      "code": "WA2569",
+      "url": "https://www.studocu.com/ko/course/university-of-ulsan/%EB%AF%BC%EB%B2%95-%EC%9D%BC%EB%B0%98-%EC%9D%B4%EB%A1%A0/5675319"
+    },
+    {
+      "name": "민사소송법특수연구",
+      "code": "WA2574",
+      "url": "https://www.studocu.com/ko/course/university-of-ulsan/%EB%AF%BC%EC%82%AC%EC%86%8C%EC%86%A1%EB%B2%95%ED%8A%B9%EC%88%98%EC%97%B0%EA%B5%AC/5675324"
+    },
+    {
+      "name": "반도체개론",
+      "code": "ams10102",
+      "url": "https://www.studocu.com/ko/course/university-of-ulsan/%EB%B0%98%EB%8F%84%EC%B2%B4%EA%B0%9C%EB%A1%A0/4419058"
+    },
+    {
+      "name": "반도체소자물리",
+      "code": "E01665",
+      "url": "https://www.studocu.com/ko/course/university-of-ulsan/%EB%B0%98%EB%8F%84%EC%B2%B4%EC%86%8C%EC%9E%90%EB%AC%BC%EB%A6%AC/3691666"
+    },
+    {
+      "name": "법철학기본이론",
+      "code": "WA2561",
+      "url": "https://www.studocu.com/ko/course/university-of-ulsan/%EB%B2%95%EC%B2%A0%ED%95%99%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%A1%A0/3691786"
+    },
+    {
+      "name": "분석화학I",
+      "code": "E01755",
+      "url": "https://www.studocu.com/ko/course/university-of-ulsan/%EB%B6%84%EC%84%9D%ED%99%94%ED%95%99i/3691702"
+    },
+    {
+      "name": "분석화학실험",
+      "code": "E00324",
+      "url": "https://www.studocu.com/ko/course/university-of-ulsan/%EB%B6%84%EC%84%9D%ED%99%94%ED%95%99%EC%8B%A4%ED%97%98/3691590"
+    },
+    {
+      "name": "비즈니스 글쓰기",
+      "code": "B01763",
+      "url": "https://www.studocu.com/ko/course/university-of-ulsan/%EB%B9%84%EC%A6%88%EB%8B%88%EC%8A%A4-%EA%B8%80%EC%93%B0%EA%B8%B0/5675175"
+    },
+    {
+      "name": "비즈니스영어",
+      "code": "D00958",
+      "url": "https://www.studocu.com/ko/course/university-of-ulsan/%EB%B9%84%EC%A6%88%EB%8B%88%EC%8A%A4%EC%98%81%EC%96%B4/3691541"
+    },
+    {
+      "name": "사회심리학",
+      "code": "BLAW 2001",
+      "url": "https://www.studocu.com/ko/course/university-of-ulsan/%EC%82%AC%ED%9A%8C%EC%8B%AC%EB%A6%AC%ED%95%99/4370791"
+    },
+    {
+      "name": "산업복지론",
+      "code": "C00467",
+      "url": "https://www.studocu.com/ko/course/university-of-ulsan/%EC%82%B0%EC%97%85%EB%B3%B5%EC%A7%80%EB%A1%A0/5675300"
+    },
+    {
+      "name": "산업조직론 연구",
+      "code": "WA2389",
+      "url": "https://www.studocu.com/ko/course/university-of-ulsan/%EC%82%B0%EC%97%85%EC%A1%B0%EC%A7%81%EB%A1%A0-%EC%97%B0%EA%B5%AC/5675261"
+    },
+    {
+      "name": "생리학I",
+      "code": "E01684",
+      "url": "https://www.studocu.com/ko/course/university-of-ulsan/%EC%83%9D%EB%A6%AC%ED%95%99i/3691668"
+    },
+    {
+      "name": "생산관리",
+      "code": "M00215",
+      "url": "https://www.studocu.com/ko/course/university-of-ulsan/%EC%83%9D%EC%82%B0%EA%B4%80%EB%A6%AC/3691766"
+    },
+    {
+      "name": "선형대수학ii",
+      "code": "E00065",
+      "url": "https://www.studocu.com/ko/course/university-of-ulsan/%EC%84%A0%ED%98%95%EB%8C%80%EC%88%98%ED%95%99ii/3691547"
+    },
+    {
+      "name": "세포생물학ii",
+      "code": "E00975",
+      "url": "https://www.studocu.com/ko/course/university-of-ulsan/%EC%84%B8%ED%8F%AC%EC%83%9D%EB%AC%BC%ED%95%99ii/3691603"
+    },
+    {
+      "name": "수리통계학ii",
+      "code": "E00095",
+      "url": "https://www.studocu.com/ko/course/university-of-ulsan/%EC%88%98%EB%A6%AC%ED%86%B5%EA%B3%84%ED%95%99ii/3691558"
+    },
+    {
+      "name": "수치해석",
+      "code": "G02873",
+      "url": "https://www.studocu.com/ko/course/university-of-ulsan/%EC%88%98%EC%B9%98%ED%95%B4%EC%84%9D/3691722"
+    },
+    {
+      "name": "숲과인간생활",
+      "code": "Y00597",
+      "url": "https://www.studocu.com/ko/course/university-of-ulsan/%EC%88%B2%EA%B3%BC%EC%9D%B8%EA%B0%84%EC%83%9D%ED%99%9C/4544903"
+    },
+    {
+      "name": "스포츠와 역사",
+      "code": "E01800",
+      "url": "https://www.studocu.com/ko/course/university-of-ulsan/%EC%8A%A4%ED%8F%AC%EC%B8%A0%EC%99%80-%EC%97%AD%EC%82%AC/5675512"
+    },
+    {
+      "name": "에너지와 생활",
+      "code": "Y00431",
+      "url": "https://www.studocu.com/ko/course/university-of-ulsan/%EC%97%90%EB%84%88%EC%A7%80%EC%99%80-%EC%83%9D%ED%99%9C/4544904"
+    },
+    {
+      "name": "역학I",
+      "code": "E00217",
+      "url": "https://www.studocu.com/ko/course/university-of-ulsan/%EC%97%AD%ED%95%99i/3691570"
+    },
+    {
+      "name": "역학II",
+      "code": "E00218",
+      "url": "https://www.studocu.com/ko/course/university-of-ulsan/%EC%97%AD%ED%95%99ii/3691571"
+    },
+    {
+      "name": "열전달",
+      "code": "G01634",
+      "url": "https://www.studocu.com/ko/course/university-of-ulsan/%EC%97%B4%EC%A0%84%EB%8B%AC/3691712"
+    },
+    {
+      "name": "영어 과목 논리 및 에세이",
+      "code": "B01593",
+      "url": "https://www.studocu.com/ko/course/university-of-ulsan/%EC%98%81%EC%96%B4-%EA%B3%BC%EB%AA%A9-%EB%85%BC%EB%A6%AC-%EB%B0%8F-%EC%97%90%EC%84%B8%EC%9D%B4/5675174"
+    },
+    {
+      "name": "영어 프레젠테이션",
+      "code": "A01283",
+      "url": "https://www.studocu.com/ko/course/university-of-ulsan/%EC%98%81%EC%96%B4-%ED%94%84%EB%A0%88%EC%A0%A0%ED%85%8C%EC%9D%B4%EC%85%98/5675470"
+    },
+    {
+      "name": "영어교과교육론",
+      "code": "B01588",
+      "url": "https://www.studocu.com/ko/course/university-of-ulsan/%EC%98%81%EC%96%B4%EA%B5%90%EA%B3%BC%EA%B5%90%EC%9C%A1%EB%A1%A0/3691373"
+    },
+    {
+      "name": "영어로 배우기 위한 의사결정",
+      "code": "B01903",
+      "url": "https://www.studocu.com/ko/course/university-of-ulsan/%EC%98%81%EC%96%B4%EB%A1%9C-%EB%B0%B0%EC%9A%B0%EA%B8%B0-%EC%9C%84%ED%95%9C-%EC%9D%98%EC%82%AC%EA%B2%B0%EC%A0%95/5675178"
+    },
+    {
+      "name": "영어학개론",
+      "code": "B01802",
+      "url": "https://www.studocu.com/ko/course/university-of-ulsan/%EC%98%81%EC%96%B4%ED%95%99%EA%B0%9C%EB%A1%A0/3691435"
+    },
+    {
+      "name": "유체역학",
+      "code": "G03312",
+      "url": "https://www.studocu.com/ko/course/university-of-ulsan/%EC%9C%A0%EC%B2%B4%EC%97%AD%ED%95%99/3691735"
+    },
+    {
+      "name": "응용유기화학",
+      "code": "E00331",
+      "url": "https://www.studocu.com/ko/course/university-of-ulsan/%EC%9D%91%EC%9A%A9%EC%9C%A0%EA%B8%B0%ED%99%94%ED%95%99/3691591"
+    },
+    {
+      "name": "이산수학",
+      "code": "E00142",
+      "url": "https://www.studocu.com/ko/course/university-of-ulsan/%EC%9D%B4%EC%82%B0%EC%88%98%ED%95%99/3691562"
+    },
+    {
+      "name": "이상심리학 연구",
+      "code": "WA5080",
+      "url": "https://www.studocu.com/ko/course/university-of-ulsan/%EC%9D%B4%EC%83%81%EC%8B%AC%EB%A6%AC%ED%95%99-%EC%97%B0%EA%B5%AC/5675396"
+    },
+    {
+      "name": "인문대 기초통계학",
+      "code": "B01949",
+      "url": "https://www.studocu.com/ko/course/university-of-ulsan/%EC%9D%B8%EB%AC%B8%EB%8C%80-%EA%B8%B0%EC%B4%88%ED%86%B5%EA%B3%84%ED%95%99/5675169"
+    },
+    {
+      "name": "인적자원관리",
+      "code": "M00235",
+      "url": "https://www.studocu.com/ko/course/university-of-ulsan/%EC%9D%B8%EC%A0%81%EC%9E%90%EC%9B%90%EA%B4%80%EB%A6%AC/3691778"
+    },
+    {
+      "name": "인체 해부학",
+      "code": "E01415",
+      "url": "https://www.studocu.com/ko/course/university-of-ulsan/%EC%9D%B8%EC%B2%B4-%ED%95%B4%EB%B6%80%ED%95%99/5675483"
+    },
+    {
+      "name": "인체안의 전쟁",
+      "code": null,
+      "url": "https://www.studocu.com/ko/course/university-of-ulsan/%EC%9D%B8%EC%B2%B4%EC%95%88%EC%9D%98-%EC%A0%84%EC%9F%81/6885930"
+    },
+    {
+      "name": "일반 화학",
+      "code": "e0116106",
+      "url": "https://www.studocu.com/ko/course/university-of-ulsan/%EC%9D%BC%EB%B0%98-%ED%99%94%ED%95%99/4393719"
+    },
+    {
+      "name": "일반물리학1",
+      "code": null,
+      "url": "https://www.studocu.com/ko/course/university-of-ulsan/%EC%9D%BC%EB%B0%98%EB%AC%BC%EB%A6%AC%ED%95%991/5071643"
+    },
+    {
+      "name": "일반물리학연습i",
+      "code": "G03534",
+      "url": "https://www.studocu.com/ko/course/university-of-ulsan/%EC%9D%BC%EB%B0%98%EB%AC%BC%EB%A6%AC%ED%95%99%EC%97%B0%EC%8A%B5i/3691745"
+    },
+    {
+      "name": "일반물리학연습ii",
+      "code": "G03533",
+      "url": "https://www.studocu.com/ko/course/university-of-ulsan/%EC%9D%BC%EB%B0%98%EB%AC%BC%EB%A6%AC%ED%95%99%EC%97%B0%EC%8A%B5ii/3691744"
+    },
+    {
+      "name": "일반언어학의이해",
+      "code": "B01222",
+      "url": "https://www.studocu.com/ko/course/university-of-ulsan/%EC%9D%BC%EB%B0%98%EC%96%B8%EC%96%B4%ED%95%99%EC%9D%98%EC%9D%B4%ED%95%B4/3691357"
+    },
+    {
+      "name": "일반전지전자공학",
+      "code": "G02964 - 01",
+      "url": "https://www.studocu.com/ko/course/university-of-ulsan/%EC%9D%BC%EB%B0%98%EC%A0%84%EC%A7%80%EC%A0%84%EC%9E%90%EA%B3%B5%ED%95%99/4866324"
+    },
+    {
+      "name": "일본 열도 여행",
+      "code": "B01950",
+      "url": "https://www.studocu.com/ko/course/university-of-ulsan/%EC%9D%BC%EB%B3%B8-%EC%97%B4%EB%8F%84-%EC%97%AC%ED%96%89/5675092"
+    },
+    {
+      "name": "자동제어자동제어",
+      "code": null,
+      "url": "https://www.studocu.com/ko/course/university-of-ulsan/%EC%9E%90%EB%8F%99%EC%A0%9C%EC%96%B4%EC%9E%90%EB%8F%99%EC%A0%9C%EC%96%B4/4523843"
+    },
+    {
+      "name": "재료과학재료과학",
+      "code": "G00108-03",
+      "url": "https://www.studocu.com/ko/course/university-of-ulsan/%EC%9E%AC%EB%A3%8C%EA%B3%BC%ED%95%99%EC%9E%AC%EB%A3%8C%EA%B3%BC%ED%95%99/4491960"
+    },
+    {
+      "name": "재료역학 및 정역학",
+      "code": null,
+      "url": "https://www.studocu.com/ko/course/university-of-ulsan/%EC%9E%AC%EB%A3%8C%EC%97%AD%ED%95%99-%EB%B0%8F-%EC%A0%95%EC%97%AD%ED%95%99/4496052"
+    },
+    {
+      "name": "재무 관리",
+      "code": "D00036",
+      "url": "https://www.studocu.com/ko/course/university-of-ulsan/%EC%9E%AC%EB%AC%B4-%EA%B4%80%EB%A6%AC/5675420"
+    },
+    {
+      "name": "재무제표분석",
+      "code": "D00101",
+      "url": "https://www.studocu.com/ko/course/university-of-ulsan/%EC%9E%AC%EB%AC%B4%EC%A0%9C%ED%91%9C%EB%B6%84%EC%84%9D/3691530"
+    },
+    {
+      "name": "전기 및 전자 회로",
+      "code": "G03377",
+      "url": "https://www.studocu.com/ko/course/university-of-ulsan/%EC%A0%84%EA%B8%B0-%EB%B0%8F-%EC%A0%84%EC%9E%90-%ED%9A%8C%EB%A1%9C/5675276"
+    },
+    {
+      "name": "전기에너지변환공학",
+      "code": null,
+      "url": "https://www.studocu.com/ko/course/university-of-ulsan/%EC%A0%84%EA%B8%B0%EC%97%90%EB%84%88%EC%A7%80%EB%B3%80%ED%99%98%EA%B3%B5%ED%95%99/4408472"
+    },
+    {
+      "name": "전기전자회로 실험",
+      "code": "G03378",
+      "url": "https://www.studocu.com/ko/course/university-of-ulsan/%EC%A0%84%EA%B8%B0%EC%A0%84%EC%9E%90%ED%9A%8C%EB%A1%9C-%EC%8B%A4%ED%97%98/5675277"
+    },
+    {
+      "name": "전산프로그래밍및실습",
+      "code": "G01677",
+      "url": "https://www.studocu.com/ko/course/university-of-ulsan/%EC%A0%84%EC%82%B0%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%EB%B0%8F%EC%8B%A4%EC%8A%B5/3691717"
+    },
+    {
+      "name": "전자기학I",
+      "code": "E00227",
+      "url": "https://www.studocu.com/ko/course/university-of-ulsan/%EC%A0%84%EC%9E%90%EA%B8%B0%ED%95%99i/3691572"
+    },
+    {
+      "name": "전자기학ii",
+      "code": "E00228",
+      "url": "https://www.studocu.com/ko/course/university-of-ulsan/%EC%A0%84%EC%9E%90%EA%B8%B0%ED%95%99ii/3691573"
+    },
+    {
+      "name": "전자의 기학",
+      "code": "1111",
+      "url": "https://www.studocu.com/ko/course/university-of-ulsan/%EC%A0%84%EC%9E%90%EC%9D%98-%EA%B8%B0%ED%95%99/4827052"
+    },
+    {
+      "name": "전자회로실험",
+      "code": "E01438",
+      "url": "https://www.studocu.com/ko/course/university-of-ulsan/%EC%A0%84%EC%9E%90%ED%9A%8C%EB%A1%9C%EC%8B%A4%ED%97%98/3691632"
+    },
+    {
+      "name": "조선의 선비 사상",
+      "code": "B01108",
+      "url": "https://www.studocu.com/ko/course/university-of-ulsan/%EC%A1%B0%EC%84%A0%EC%9D%98-%EC%84%A0%EB%B9%84-%EC%82%AC%EC%83%81/5675229"
+    },
+    {
+      "name": "조직행동론",
+      "code": "D00002",
+      "url": "https://www.studocu.com/ko/course/university-of-ulsan/%EC%A1%B0%EC%A7%81%ED%96%89%EB%8F%99%EB%A1%A0/3691513"
+    },
+    {
+      "name": "조직행동론",
+      "code": "M00194",
+      "url": "https://www.studocu.com/ko/course/university-of-ulsan/%EC%A1%B0%EC%A7%81%ED%96%89%EB%8F%99%EB%A1%A0/3691753"
+    },
+    {
+      "name": "창의적 공학 설계",
+      "code": "UK0012",
+      "url": "https://www.studocu.com/ko/course/university-of-ulsan/%EC%B0%BD%EC%9D%98%EC%A0%81-%EA%B3%B5%ED%95%99-%EC%84%A4%EA%B3%84/4793716"
+    },
+    {
+      "name": "철학의 이해",
+      "code": "a45651",
+      "url": "https://www.studocu.com/ko/course/university-of-ulsan/%EC%B2%A0%ED%95%99%EC%9D%98-%EC%9D%B4%ED%95%B4/4420155"
+    },
+    {
+      "name": "캡스톤 디자인",
+      "code": "E01743",
+      "url": "https://www.studocu.com/ko/course/university-of-ulsan/%EC%BA%A1%EC%8A%A4%ED%86%A4-%EB%94%94%EC%9E%90%EC%9D%B8/5675539"
+    },
+    {
+      "name": "컴퓨터프로그래밍",
+      "code": "E01435",
+      "url": "https://www.studocu.com/ko/course/university-of-ulsan/%EC%BB%B4%ED%93%A8%ED%84%B0%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/3691630"
+    },
+    {
+      "name": "컴퓨터활용능력",
+      "code": "blwk200",
+      "url": "https://www.studocu.com/ko/course/university-of-ulsan/%EC%BB%B4%ED%93%A8%ED%84%B0%ED%99%9C%EC%9A%A9%EB%8A%A5%EB%A0%A5/5287340"
+    },
+    {
+      "name": "태스크 세미나 Vi(캡스톤 디자인)",
+      "code": "B01879",
+      "url": "https://www.studocu.com/ko/course/university-of-ulsan/%ED%83%9C%EC%8A%A4%ED%81%AC-%EC%84%B8%EB%AF%B8%EB%82%98-vi%EC%BA%A1%EC%8A%A4%ED%86%A4-%EB%94%94%EC%9E%90%EC%9D%B8/5675109"
+    },
+    {
+      "name": "투자론",
+      "code": "D00012",
+      "url": "https://www.studocu.com/ko/course/university-of-ulsan/%ED%88%AC%EC%9E%90%EB%A1%A0/3691516"
+    },
+    {
+      "name": "투자론",
+      "code": "M00201",
+      "url": "https://www.studocu.com/ko/course/university-of-ulsan/%ED%88%AC%EC%9E%90%EB%A1%A0/3691755"
+    },
+    {
+      "name": "품질경영",
+      "code": "M00391",
+      "url": "https://www.studocu.com/ko/course/university-of-ulsan/%ED%92%88%EC%A7%88%EA%B2%BD%EC%98%81/3691785"
+    },
+    {
+      "name": "프로젝트Lab II",
+      "code": "E01738",
+      "url": "https://www.studocu.com/ko/course/university-of-ulsan/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8lab-ii/3691688"
+    },
+    {
+      "name": "프로젝트Lab IV",
+      "code": "E01739",
+      "url": "https://www.studocu.com/ko/course/university-of-ulsan/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8lab-iv/3691689"
+    },
+    {
+      "name": "한국 전통 가옥과 건축",
+      "code": "B01968",
+      "url": "https://www.studocu.com/ko/course/university-of-ulsan/%ED%95%9C%EA%B5%AD-%EC%A0%84%ED%86%B5-%EA%B0%80%EC%98%A5%EA%B3%BC-%EA%B1%B4%EC%B6%95/5675149"
+    },
+    {
+      "name": "한국문화론",
+      "code": "B01615",
+      "url": "https://www.studocu.com/ko/course/university-of-ulsan/%ED%95%9C%EA%B5%AD%EB%AC%B8%ED%99%94%EB%A1%A0/3691379"
+    },
+    {
+      "name": "항공우주공학실험ⅱ",
+      "code": "G02684",
+      "url": "https://www.studocu.com/ko/course/university-of-ulsan/%ED%95%AD%EA%B3%B5%EC%9A%B0%EC%A3%BC%EA%B3%B5%ED%95%99%EC%8B%A4%ED%97%98%E2%85%B1/5675556"
+    },
+    {
+      "name": "해석개론ii",
+      "code": "E00067",
+      "url": "https://www.studocu.com/ko/course/university-of-ulsan/%ED%95%B4%EC%84%9D%EA%B0%9C%EB%A1%A0ii/3691549"
+    },
+    {
+      "name": "해석학",
+      "code": "E00143",
+      "url": "https://www.studocu.com/ko/course/university-of-ulsan/%ED%95%B4%EC%84%9D%ED%95%99/3691563"
+    },
+    {
+      "name": "행정법 일반 이론",
+      "code": "WA2594",
+      "url": "https://www.studocu.com/ko/course/university-of-ulsan/%ED%96%89%EC%A0%95%EB%B2%95-%EC%9D%BC%EB%B0%98-%EC%9D%B4%EB%A1%A0/5675341"
+    },
+    {
+      "name": "현대 한국의 정치와 사회",
+      "code": "B01390",
+      "url": "https://www.studocu.com/ko/course/university-of-ulsan/%ED%98%84%EB%8C%80-%ED%95%9C%EA%B5%AD%EC%9D%98-%EC%A0%95%EC%B9%98%EC%99%80-%EC%82%AC%ED%9A%8C/5675144"
+    },
+    {
+      "name": "현대물리실험",
+      "code": "E00231",
+      "url": "https://www.studocu.com/ko/course/university-of-ulsan/%ED%98%84%EB%8C%80%EB%AC%BC%EB%A6%AC%EC%8B%A4%ED%97%98/3691574"
+    },
+    {
+      "name": "현대물리학Ⅱ",
+      "code": "E00161",
+      "url": "https://www.studocu.com/ko/course/university-of-ulsan/%ED%98%84%EB%8C%80%EB%AC%BC%EB%A6%AC%ED%95%99%E2%85%B1/5675491"
+    },
+    {
+      "name": "현대사회와시사영어",
+      "code": "C00936-01",
+      "url": "https://www.studocu.com/ko/course/university-of-ulsan/%ED%98%84%EB%8C%80%EC%82%AC%ED%9A%8C%EC%99%80%EC%8B%9C%EC%82%AC%EC%98%81%EC%96%B4/4816740"
+    },
+    {
+      "name": "호르몬과질병",
+      "code": "E01726",
+      "url": "https://www.studocu.com/ko/course/university-of-ulsan/%ED%98%B8%EB%A5%B4%EB%AA%AC%EA%B3%BC%EC%A7%88%EB%B3%91/3691681"
+    },
+    {
+      "name": "화공기초실험",
+      "code": "G01680",
+      "url": "https://www.studocu.com/ko/course/university-of-ulsan/%ED%99%94%EA%B3%B5%EA%B8%B0%EC%B4%88%EC%8B%A4%ED%97%98/3691718"
+    },
+    {
+      "name": "화공안전공학",
+      "code": "G03078",
+      "url": "https://www.studocu.com/ko/course/university-of-ulsan/%ED%99%94%EA%B3%B5%EC%95%88%EC%A0%84%EA%B3%B5%ED%95%99/3691728"
+    },
+    {
+      "name": "화공열역학i",
+      "code": "G01563",
+      "url": "https://www.studocu.com/ko/course/university-of-ulsan/%ED%99%94%EA%B3%B5%EC%97%B4%EC%97%AD%ED%95%99i/3691707"
+    },
+    {
+      "name": "화공장치설계",
+      "code": "G03130",
+      "url": "https://www.studocu.com/ko/course/university-of-ulsan/%ED%99%94%EA%B3%B5%EC%9E%A5%EC%B9%98%EC%84%A4%EA%B3%84/3691732"
+    },
+    {
+      "name": "화학공장설계ii",
+      "code": "G01600",
+      "url": "https://www.studocu.com/ko/course/university-of-ulsan/%ED%99%94%ED%95%99%EA%B3%B5%EC%9E%A5%EC%84%A4%EA%B3%84ii/3691708"
+    },
+    {
+      "name": "화학공정계산",
+      "code": null,
+      "url": "https://www.studocu.com/ko/course/university-of-ulsan/%ED%99%94%ED%95%99%EA%B3%B5%EC%A0%95%EA%B3%84%EC%82%B0/5120239"
+    },
+    {
+      "name": "환경 경제학",
+      "code": "WA2396",
+      "url": "https://www.studocu.com/ko/course/university-of-ulsan/%ED%99%98%EA%B2%BD-%EA%B2%BD%EC%A0%9C%ED%95%99/5675263"
+    },
+    {
+      "name": "회로의이론",
+      "code": "ASDF1234",
+      "url": "https://www.studocu.com/ko/course/university-of-ulsan/%ED%9A%8C%EB%A1%9C%EC%9D%98%EC%9D%B4%EB%A1%A0/4546300"
+    },
+    {
+      "name": "Aerospace engineering",
+      "code": "Idontknow",
+      "url": "https://www.studocu.com/ko/course/university-of-ulsan/aerospace-engineering/3209471"
+    },
+    {
+      "name": "Applied Linear Algebra",
+      "code": "MTH203",
+      "url": "https://www.studocu.com/ko/course/university-of-ulsan/applied-linear-algebra/4617982"
+    },
+    {
+      "name": "architecture law",
+      "code": null,
+      "url": "https://www.studocu.com/ko/course/university-of-ulsan/architecture-law/6191307"
+    },
+    {
+      "name": "Biology",
+      "code": "G003",
+      "url": "https://www.studocu.com/ko/course/university-of-ulsan/biology/7383622"
+    },
+    {
+      "name": "Capstone Design II (중국 시장 개척 사례)",
+      "code": "B01729",
+      "url": "https://www.studocu.com/ko/course/university-of-ulsan/capstone-design-ii-%EC%A4%91%EA%B5%AD-%EC%8B%9C%EC%9E%A5-%EA%B0%9C%EC%B2%99-%EC%82%AC%EB%A1%80/5675198"
+    },
+    {
+      "name": "Civil and environmental engneering",
+      "code": null,
+      "url": "https://www.studocu.com/ko/course/university-of-ulsan/civil-and-environmental-engneering/2951858"
+    },
+    {
+      "name": "drawing",
+      "code": null,
+      "url": "https://www.studocu.com/ko/course/university-of-ulsan/drawing/5056702"
+    },
+    {
+      "name": "Dynamics",
+      "code": null,
+      "url": "https://www.studocu.com/ko/course/university-of-ulsan/dynamics/5708892"
+    },
+    {
+      "name": "em bonding",
+      "code": "asdf123",
+      "url": "https://www.studocu.com/ko/course/university-of-ulsan/em-bonding/5120221"
+    },
+    {
+      "name": "filosofia",
+      "code": "F26",
+      "url": "https://www.studocu.com/ko/course/university-of-ulsan/filosofia/5115675"
+    },
+    {
+      "name": "Financial Management",
+      "code": "FIN206",
+      "url": "https://www.studocu.com/ko/course/university-of-ulsan/financial-management/6452489"
+    },
+    {
+      "name": "Human Resource Management",
+      "code": "MGT30993",
+      "url": "https://www.studocu.com/ko/course/university-of-ulsan/human-resource-management/6445765"
+    },
+    {
+      "name": "Industrial engineering, CEO",
+      "code": "IE01",
+      "url": "https://www.studocu.com/ko/course/university-of-ulsan/industrial-engineering-ceo/4548833"
+    },
+    {
+      "name": "It 취업 및 경력 특강",
+      "code": "G03629",
+      "url": "https://www.studocu.com/ko/course/university-of-ulsan/it-%EC%B7%A8%EC%97%85-%EB%B0%8F-%EA%B2%BD%EB%A0%A5-%ED%8A%B9%EA%B0%95/5675288"
+    },
+    {
+      "name": "It융합개론",
+      "code": "G03654",
+      "url": "https://www.studocu.com/ko/course/university-of-ulsan/it%EC%9C%B5%ED%95%A9%EA%B0%9C%EB%A1%A0/5675269"
+    },
+    {
+      "name": "Linear Systems Theory",
+      "code": "WA1864",
+      "url": "https://www.studocu.com/ko/course/university-of-ulsan/linear-systems-theory/6954861"
+    },
+    {
+      "name": "macroeconomics",
+      "code": null,
+      "url": "https://www.studocu.com/ko/course/university-of-ulsan/macroeconomics/6214726"
+    },
+    {
+      "name": "Master in Economics",
+      "code": "WA2356-01",
+      "url": "https://www.studocu.com/ko/course/university-of-ulsan/master-in-economics/1415785"
+    },
+    {
+      "name": "Microelectronic Circuits",
+      "code": "G03050-01",
+      "url": "https://www.studocu.com/ko/course/university-of-ulsan/microelectronic-circuits/4399118"
+    },
+    {
+      "name": "microelectronics circuit",
+      "code": "EEE20501",
+      "url": "https://www.studocu.com/ko/course/university-of-ulsan/microelectronics-circuit/7171395"
+    },
+    {
+      "name": "Politica de costos",
+      "code": null,
+      "url": "https://www.studocu.com/ko/course/university-of-ulsan/politica-de-costos/5126632"
+    },
+    {
+      "name": "power system",
+      "code": null,
+      "url": "https://www.studocu.com/ko/course/university-of-ulsan/power-system/4508340"
+    },
+    {
+      "name": "Quantum Mechanics",
+      "code": "PHYSICS10",
+      "url": "https://www.studocu.com/ko/course/university-of-ulsan/quantum-mechanics/4508872"
+    },
+    {
+      "name": "Russian fiction",
+      "code": "Ahs045",
+      "url": "https://www.studocu.com/ko/course/university-of-ulsan/russian-fiction/6913622"
+    },
+    {
+      "name": "Social Psychology",
+      "code": null,
+      "url": "https://www.studocu.com/ko/course/university-of-ulsan/social-psychology/5796872"
+    },
+    {
+      "name": "Statics and mechanics of material",
+      "code": null,
+      "url": "https://www.studocu.com/ko/course/university-of-ulsan/statics-and-mechanics-of-material/2951863"
+    },
+    {
+      "name": "test bank for strategic management of technological innovation",
+      "code": null,
+      "url": "https://www.studocu.com/ko/course/university-of-ulsan/test-bank-for-strategic-management-of-technological-innovation/4509708"
+    },
+    {
+      "name": "test method",
+      "code": "KSTM 0000",
+      "url": "https://www.studocu.com/ko/course/university-of-ulsan/test-method/7645442"
+    },
+    {
+      "name": "test method Air PFAS",
+      "code": "OTM 45",
+      "url": "https://www.studocu.com/ko/course/university-of-ulsan/test-method-air-pfas/7645437"
+    },
+    {
+      "name": "test method pfas",
+      "code": "OTM 50",
+      "url": "https://www.studocu.com/ko/course/university-of-ulsan/test-method-pfas/7645440"
+    }
+  ]
+}

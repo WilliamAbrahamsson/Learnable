@@ -1,0 +1,621 @@
+{
+  "university_id": "2782",
+  "university_name": "Mendelova univerzita v Brně",
+  "courses": [
+    {
+      "name": "Akademické psaní",
+      "code": "AKAP2021",
+      "url": "https://www.studocu.com/cs/course/mendelova-univerzita-v-brne/akademicke-psani/5761527"
+    },
+    {
+      "name": "Anatomie A Histologie Zvířat",
+      "code": "AHIZ-VS",
+      "url": "https://www.studocu.com/cs/course/mendelova-univerzita-v-brne/anatomie-a-histologie-zvirat/4160250"
+    },
+    {
+      "name": "Anatomie A Morfologie Rostlin",
+      "code": "AMOR",
+      "url": "https://www.studocu.com/cs/course/mendelova-univerzita-v-brne/anatomie-a-morfologie-rostlin/4160203"
+    },
+    {
+      "name": "Angličtina , Ei",
+      "code": "JE1",
+      "url": "https://www.studocu.com/cs/course/mendelova-univerzita-v-brne/anglictina-ei/4160674"
+    },
+    {
+      "name": "Architektura",
+      "code": "ARCH1",
+      "url": "https://www.studocu.com/cs/course/mendelova-univerzita-v-brne/architektura/5798346"
+    },
+    {
+      "name": "Bakalářská Práce",
+      "code": "BP",
+      "url": "https://www.studocu.com/cs/course/mendelova-univerzita-v-brne/bakalarska-prace/4160235"
+    },
+    {
+      "name": "Bankovnictví I",
+      "code": "BA1",
+      "url": "https://www.studocu.com/cs/course/mendelova-univerzita-v-brne/bankovnictvi-i/4160714"
+    },
+    {
+      "name": "Bioklimatologie",
+      "code": "BIOKL",
+      "url": "https://www.studocu.com/cs/course/mendelova-univerzita-v-brne/bioklimatologie/4160221"
+    },
+    {
+      "name": "Biologie",
+      "code": "BIOL",
+      "url": "https://www.studocu.com/cs/course/mendelova-univerzita-v-brne/biologie/4160345"
+    },
+    {
+      "name": "Business Economics",
+      "code": "EKO",
+      "url": "https://www.studocu.com/cs/course/mendelova-univerzita-v-brne/business-economics/3350408"
+    },
+    {
+      "name": "Cad Pro Závěrečné Práce",
+      "code": "CADZP",
+      "url": "https://www.studocu.com/cs/course/mendelova-univerzita-v-brne/cad-pro-zaverecne-prace/4160545"
+    },
+    {
+      "name": "Chemie",
+      "code": "CHE-C",
+      "url": "https://www.studocu.com/cs/course/mendelova-univerzita-v-brne/chemie/4160375"
+    },
+    {
+      "name": "chemie obecná",
+      "code": "CHOB",
+      "url": "https://www.studocu.com/cs/course/mendelova-univerzita-v-brne/chemie-obecna/6050627"
+    },
+    {
+      "name": "Chemie Potravin",
+      "code": "CPO-C",
+      "url": "https://www.studocu.com/cs/course/mendelova-univerzita-v-brne/chemie-potravin/4160315"
+    },
+    {
+      "name": "Chemistry",
+      "code": "CHMO-B",
+      "url": "https://www.studocu.com/cs/course/mendelova-univerzita-v-brne/chemistry/4823179"
+    },
+    {
+      "name": "Chov Hospodárských Zvírat",
+      "code": "CHZ-F4",
+      "url": "https://www.studocu.com/cs/course/mendelova-univerzita-v-brne/chov-hospodarskych-zvirat/4160284"
+    },
+    {
+      "name": "Daňová Soustava",
+      "code": "DS",
+      "url": "https://www.studocu.com/cs/course/mendelova-univerzita-v-brne/danova-soustava/4160606"
+    },
+    {
+      "name": "Dendrologie II",
+      "code": "DE2",
+      "url": "https://www.studocu.com/cs/course/mendelova-univerzita-v-brne/dendrologie-ii/4160531"
+    },
+    {
+      "name": "Dendrologie IIi",
+      "code": "DE3",
+      "url": "https://www.studocu.com/cs/course/mendelova-univerzita-v-brne/dendrologie-iii/4160538"
+    },
+    {
+      "name": "Ekologie",
+      "code": "EKOL",
+      "url": "https://www.studocu.com/cs/course/mendelova-univerzita-v-brne/ekologie/4160287"
+    },
+    {
+      "name": "Ekonometrie I",
+      "code": "EKM1",
+      "url": "https://www.studocu.com/cs/course/mendelova-univerzita-v-brne/ekonometrie-i/4160633"
+    },
+    {
+      "name": "Ekonomicko Matematické Metody",
+      "code": "EMM",
+      "url": "https://www.studocu.com/cs/course/mendelova-univerzita-v-brne/ekonomicko-matematicke-metody/4160659"
+    },
+    {
+      "name": "Ekonomická Geografie",
+      "code": "EGO",
+      "url": "https://www.studocu.com/cs/course/mendelova-univerzita-v-brne/ekonomicka-geografie/4160490"
+    },
+    {
+      "name": "Ekonomika A Politika Evropského Agrárního Sektoru",
+      "code": "EPEAS",
+      "url": "https://www.studocu.com/cs/course/mendelova-univerzita-v-brne/ekonomika-a-politika-evropskeho-agrarniho-sektoru/4160468"
+    },
+    {
+      "name": "Ekonomika evropské integrace",
+      "code": "EKEI",
+      "url": "https://www.studocu.com/cs/course/mendelova-univerzita-v-brne/ekonomika-evropske-integrace/6996355"
+    },
+    {
+      "name": "Energetické vlastnosti budov",
+      "code": "EVBD1",
+      "url": "https://www.studocu.com/cs/course/mendelova-univerzita-v-brne/energeticke-vlastnosti-budov/5798366"
+    },
+    {
+      "name": "Energy and Environment",
+      "code": "MEBn5015",
+      "url": "https://www.studocu.com/cs/course/mendelova-univerzita-v-brne/energy-and-environment/5859805"
+    },
+    {
+      "name": "Environmentalistika",
+      "code": "ENVIR",
+      "url": "https://www.studocu.com/cs/course/mendelova-univerzita-v-brne/environmentalistika/4160394"
+    },
+    {
+      "name": "Environmentální plánování územního rozvoje",
+      "code": "EPUR",
+      "url": "https://www.studocu.com/cs/course/mendelova-univerzita-v-brne/environmentalni-planovani-uzemniho-rozvoje/7720756"
+    },
+    {
+      "name": "Financování Regionálního Rozvoje",
+      "code": "FRR",
+      "url": "https://www.studocu.com/cs/course/mendelova-univerzita-v-brne/financovani-regionalniho-rozvoje/4160649"
+    },
+    {
+      "name": "Finanční management",
+      "code": "FIM",
+      "url": "https://www.studocu.com/cs/course/mendelova-univerzita-v-brne/financni-management/7720754"
+    },
+    {
+      "name": "Finanční Trhy",
+      "code": "FT",
+      "url": "https://www.studocu.com/cs/course/mendelova-univerzita-v-brne/financni-trhy/4160614"
+    },
+    {
+      "name": "Finanční Účetnictví I",
+      "code": "FU1",
+      "url": "https://www.studocu.com/cs/course/mendelova-univerzita-v-brne/financni-ucetnictvi-i/4160621"
+    },
+    {
+      "name": "Fytocenologie",
+      "code": "FYC",
+      "url": "https://www.studocu.com/cs/course/mendelova-univerzita-v-brne/fytocenologie/4160382"
+    },
+    {
+      "name": "Fyzika",
+      "code": "FYZ",
+      "url": "https://www.studocu.com/cs/course/mendelova-univerzita-v-brne/fyzika/4160309"
+    },
+    {
+      "name": "Fyzikální vlastnosti dřeva",
+      "code": "FVDR",
+      "url": "https://www.studocu.com/cs/course/mendelova-univerzita-v-brne/fyzikalni-vlastnosti-dreva/3126729"
+    },
+    {
+      "name": "Fyzikální Základy Techniky",
+      "code": "FZTT",
+      "url": "https://www.studocu.com/cs/course/mendelova-univerzita-v-brne/fyzikalni-zaklady-techniky/4160577"
+    },
+    {
+      "name": "Genetika Z",
+      "code": "GENZ",
+      "url": "https://www.studocu.com/cs/course/mendelova-univerzita-v-brne/genetika-z/4160473"
+    },
+    {
+      "name": "Genetika Člověka",
+      "code": "GECL",
+      "url": "https://www.studocu.com/cs/course/mendelova-univerzita-v-brne/genetika-cloveka/4160271"
+    },
+    {
+      "name": "Geodezie",
+      "code": "GEOD2",
+      "url": "https://www.studocu.com/cs/course/mendelova-univerzita-v-brne/geodezie/4160434"
+    },
+    {
+      "name": "Geoinformační Systémy",
+      "code": "GIS",
+      "url": "https://www.studocu.com/cs/course/mendelova-univerzita-v-brne/geoinformacni-systemy/4160548"
+    },
+    {
+      "name": "Geologie",
+      "code": "GEOL",
+      "url": "https://www.studocu.com/cs/course/mendelova-univerzita-v-brne/geologie/4160374"
+    },
+    {
+      "name": "Geologie A Pedologie",
+      "code": "GPAR",
+      "url": "https://www.studocu.com/cs/course/mendelova-univerzita-v-brne/geologie-a-pedologie/4160517"
+    },
+    {
+      "name": "Historický a institucionální vývoj EU",
+      "code": "HVEU",
+      "url": "https://www.studocu.com/cs/course/mendelova-univerzita-v-brne/historicky-a-institucionalni-vyvoj-eu/6781585"
+    },
+    {
+      "name": "Historie Aultura V Cestovním Ruchu",
+      "code": "HKC",
+      "url": "https://www.studocu.com/cs/course/mendelova-univerzita-v-brne/historie-aultura-v-cestovnim-ruchu/4160650"
+    },
+    {
+      "name": "Hodnocení výrobků",
+      "code": "HODVY1",
+      "url": "https://www.studocu.com/cs/course/mendelova-univerzita-v-brne/hodnoceni-vyrobku/5798374"
+    },
+    {
+      "name": "Hospodářská Politika I",
+      "code": "HPO1",
+      "url": "https://www.studocu.com/cs/course/mendelova-univerzita-v-brne/hospodarska-politika-i/4160715"
+    },
+    {
+      "name": "Human Resources",
+      "code": null,
+      "url": "https://www.studocu.com/cs/course/mendelova-univerzita-v-brne/human-resources/5842467"
+    },
+    {
+      "name": "Hydrologie A Hydraulika",
+      "code": "HYDH1",
+      "url": "https://www.studocu.com/cs/course/mendelova-univerzita-v-brne/hydrologie-a-hydraulika/4160377"
+    },
+    {
+      "name": "Informatika Pro Ekonomy II",
+      "code": "IE2",
+      "url": "https://www.studocu.com/cs/course/mendelova-univerzita-v-brne/informatika-pro-ekonomy-ii/4160622"
+    },
+    {
+      "name": "Informační Systémy A Technologie",
+      "code": "IT",
+      "url": "https://www.studocu.com/cs/course/mendelova-univerzita-v-brne/informacni-systemy-a-technologie/4160698"
+    },
+    {
+      "name": "Integrační procesy agrárního sektoru",
+      "code": "RRIPAS",
+      "url": "https://www.studocu.com/cs/course/mendelova-univerzita-v-brne/integracni-procesy-agrarniho-sektoru/7453744"
+    },
+    {
+      "name": "Konstruování V Cad",
+      "code": "KCAD",
+      "url": "https://www.studocu.com/cs/course/mendelova-univerzita-v-brne/konstruovani-v-cad/4160428"
+    },
+    {
+      "name": "Krajinná Ekologie",
+      "code": "KREKO",
+      "url": "https://www.studocu.com/cs/course/mendelova-univerzita-v-brne/krajinna-ekologie/4160243"
+    },
+    {
+      "name": "Kvalita živočišných produktů",
+      "code": "KVAZP",
+      "url": "https://www.studocu.com/cs/course/mendelova-univerzita-v-brne/kvalita-zivocisnych-produktu/6805288"
+    },
+    {
+      "name": "Kvalita, Hygiena A Jakost Potravin",
+      "code": "KHJP",
+      "url": "https://www.studocu.com/cs/course/mendelova-univerzita-v-brne/kvalita-hygiena-a-jakost-potravin/4160470"
+    },
+    {
+      "name": "Lesnická botanika obecná",
+      "code": "LBOTO",
+      "url": "https://www.studocu.com/cs/course/mendelova-univerzita-v-brne/lesnicka-botanika-obecna/6701535"
+    },
+    {
+      "name": "Lesnická Botanika Speciální",
+      "code": "LBOTA",
+      "url": "https://www.studocu.com/cs/course/mendelova-univerzita-v-brne/lesnicka-botanika-specialni/4160551"
+    },
+    {
+      "name": "Lesnická zoologie",
+      "code": "LZE",
+      "url": "https://www.studocu.com/cs/course/mendelova-univerzita-v-brne/lesnicka-zoologie/6701538"
+    },
+    {
+      "name": "Likvidace Pojistných Událostí",
+      "code": "LPZT",
+      "url": "https://www.studocu.com/cs/course/mendelova-univerzita-v-brne/likvidace-pojistnych-udalosti/4160602"
+    },
+    {
+      "name": "Makroekonomie",
+      "code": "RRMAE",
+      "url": "https://www.studocu.com/cs/course/mendelova-univerzita-v-brne/makroekonomie/4160485"
+    },
+    {
+      "name": "Makroekonomie I",
+      "code": "MA1",
+      "url": "https://www.studocu.com/cs/course/mendelova-univerzita-v-brne/makroekonomie-i/4160616"
+    },
+    {
+      "name": "Management",
+      "code": "MAN",
+      "url": "https://www.studocu.com/cs/course/mendelova-univerzita-v-brne/management/4160465"
+    },
+    {
+      "name": "Management V Regionálním Rozvoji",
+      "code": "RRMAN",
+      "url": "https://www.studocu.com/cs/course/mendelova-univerzita-v-brne/management-v-regionalnim-rozvoji/4160497"
+    },
+    {
+      "name": "manažerská ekonomika",
+      "code": null,
+      "url": "https://www.studocu.com/cs/course/mendelova-univerzita-v-brne/manazerska-ekonomika/4554531"
+    },
+    {
+      "name": "Manažerská Psychologie",
+      "code": "MPS",
+      "url": "https://www.studocu.com/cs/course/mendelova-univerzita-v-brne/manazerska-psychologie/4160651"
+    },
+    {
+      "name": "Marketing I",
+      "code": "MAR",
+      "url": "https://www.studocu.com/cs/course/mendelova-univerzita-v-brne/marketing-i/4160623"
+    },
+    {
+      "name": "Marketingováomunikace",
+      "code": "MKV",
+      "url": "https://www.studocu.com/cs/course/mendelova-univerzita-v-brne/marketingovaomunikace/4160653"
+    },
+    {
+      "name": "Matematika",
+      "code": "MT",
+      "url": "https://www.studocu.com/cs/course/mendelova-univerzita-v-brne/matematika/4160306"
+    },
+    {
+      "name": "Matematika Seminář",
+      "code": "MTS",
+      "url": "https://www.studocu.com/cs/course/mendelova-univerzita-v-brne/matematika-seminar/4160272"
+    },
+    {
+      "name": "Mechanizace Živocišné Výroby",
+      "code": "MEZVK",
+      "url": "https://www.studocu.com/cs/course/mendelova-univerzita-v-brne/mechanizace-zivocisne-vyroby/4160296"
+    },
+    {
+      "name": "Metody Molekulární Biologie Proteinů",
+      "code": "MMBP",
+      "url": "https://www.studocu.com/cs/course/mendelova-univerzita-v-brne/metody-molekularni-biologie-proteinu/4160257"
+    },
+    {
+      "name": "Mikroekonomie",
+      "code": "RRMIE",
+      "url": "https://www.studocu.com/cs/course/mendelova-univerzita-v-brne/mikroekonomie/4160498"
+    },
+    {
+      "name": "Mikroekonomie I",
+      "code": "MI1",
+      "url": "https://www.studocu.com/cs/course/mendelova-univerzita-v-brne/mikroekonomie-i/4160608"
+    },
+    {
+      "name": "Modifikované dřevo pro stavby",
+      "code": "MDPS1",
+      "url": "https://www.studocu.com/cs/course/mendelova-univerzita-v-brne/modifikovane-drevo-pro-stavby/5798369"
+    },
+    {
+      "name": "Morfologie A Fyziologie Hospodářských Zvířat",
+      "code": "MFYHZ",
+      "url": "https://www.studocu.com/cs/course/mendelova-univerzita-v-brne/morfologie-a-fyziologie-hospodarskych-zvirat/4160307"
+    },
+    {
+      "name": "Myslivost",
+      "code": "Mys01",
+      "url": "https://www.studocu.com/cs/course/mendelova-univerzita-v-brne/myslivost/5811007"
+    },
+    {
+      "name": "Měřicí Systémy I",
+      "code": "MS1",
+      "url": "https://www.studocu.com/cs/course/mendelova-univerzita-v-brne/merici-systemy-i/4160684"
+    },
+    {
+      "name": "Nauka O Materiálu",
+      "code": "NOM",
+      "url": "https://www.studocu.com/cs/course/mendelova-univerzita-v-brne/nauka-o-materialu/4160406"
+    },
+    {
+      "name": "Navrhování a projektování konstrukcí ze dřeva",
+      "code": "NPKD 1",
+      "url": "https://www.studocu.com/cs/course/mendelova-univerzita-v-brne/navrhovani-a-projektovani-konstrukci-ze-dreva/5798351"
+    },
+    {
+      "name": "Obecná Hygiena Potravin",
+      "code": "OHYGP",
+      "url": "https://www.studocu.com/cs/course/mendelova-univerzita-v-brne/obecna-hygiena-potravin/4160324"
+    },
+    {
+      "name": "Ochrana Vodních Zdroju",
+      "code": "OVZ",
+      "url": "https://www.studocu.com/cs/course/mendelova-univerzita-v-brne/ochrana-vodnich-zdroju/4160401"
+    },
+    {
+      "name": "Odborný Seminář Obchod",
+      "code": "OSOB",
+      "url": "https://www.studocu.com/cs/course/mendelova-univerzita-v-brne/odborny-seminar-obchod/4160646"
+    },
+    {
+      "name": "Operační Management",
+      "code": "OMA",
+      "url": "https://www.studocu.com/cs/course/mendelova-univerzita-v-brne/operacni-management/4160660"
+    },
+    {
+      "name": "Pedologie A Výživa Rostlin",
+      "code": "PEVR",
+      "url": "https://www.studocu.com/cs/course/mendelova-univerzita-v-brne/pedologie-a-vyziva-rostlin/4160450"
+    },
+    {
+      "name": "Personalistika",
+      "code": "PER",
+      "url": "https://www.studocu.com/cs/course/mendelova-univerzita-v-brne/personalistika/4160658"
+    },
+    {
+      "name": "Podniková Ekonomika",
+      "code": "EKO",
+      "url": "https://www.studocu.com/cs/course/mendelova-univerzita-v-brne/podnikova-ekonomika/4160231"
+    },
+    {
+      "name": "Politiky Evropské unie",
+      "code": "RRPOEU",
+      "url": "https://www.studocu.com/cs/course/mendelova-univerzita-v-brne/politiky-evropske-unie/7373829"
+    },
+    {
+      "name": "Politologie",
+      "code": "POL",
+      "url": "https://www.studocu.com/cs/course/mendelova-univerzita-v-brne/politologie/4160721"
+    },
+    {
+      "name": "Potravinářská Mikrobiologie I",
+      "code": "POMI1",
+      "url": "https://www.studocu.com/cs/course/mendelova-univerzita-v-brne/potravinarska-mikrobiologie-i/4160312"
+    },
+    {
+      "name": "Počítačová Podpora Projektování",
+      "code": "PCDS",
+      "url": "https://www.studocu.com/cs/course/mendelova-univerzita-v-brne/pocitacova-podpora-projektovani/4160554"
+    },
+    {
+      "name": "Požadavky na stavebně truhlářské výrobky",
+      "code": "PSTR1",
+      "url": "https://www.studocu.com/cs/course/mendelova-univerzita-v-brne/pozadavky-na-stavebne-truhlarske-vyrobky/5798384"
+    },
+    {
+      "name": "Požární bezpečnost staveb",
+      "code": "PBST1",
+      "url": "https://www.studocu.com/cs/course/mendelova-univerzita-v-brne/pozarni-bezpecnost-staveb/5798389"
+    },
+    {
+      "name": "project management",
+      "code": null,
+      "url": "https://www.studocu.com/cs/course/mendelova-univerzita-v-brne/project-management/4039782"
+    },
+    {
+      "name": "Protierozní Ochrana Pudy",
+      "code": "PROOP",
+      "url": "https://www.studocu.com/cs/course/mendelova-univerzita-v-brne/protierozni-ochrana-pudy/4160384"
+    },
+    {
+      "name": "Právo",
+      "code": "PRA",
+      "url": "https://www.studocu.com/cs/course/mendelova-univerzita-v-brne/pravo/4160455"
+    },
+    {
+      "name": "Právo Eu",
+      "code": "KP",
+      "url": "https://www.studocu.com/cs/course/mendelova-univerzita-v-brne/pravo-eu/4160666"
+    },
+    {
+      "name": "Rozvojové problémy afriky",
+      "code": null,
+      "url": "https://www.studocu.com/cs/course/mendelova-univerzita-v-brne/rozvojove-problemy-afriky/6148279"
+    },
+    {
+      "name": "Řízení ICT v podniku",
+      "code": "RIP",
+      "url": "https://www.studocu.com/cs/course/mendelova-univerzita-v-brne/rizeni-ict-v-podniku/6976538"
+    },
+    {
+      "name": "Servis Aomerce V Oh",
+      "code": "SKTOH",
+      "url": "https://www.studocu.com/cs/course/mendelova-univerzita-v-brne/servis-aomerce-v-oh/4160369"
+    },
+    {
+      "name": "Socioekonomická demografie",
+      "code": "SOD",
+      "url": "https://www.studocu.com/cs/course/mendelova-univerzita-v-brne/socioekonomicka-demografie/7720760"
+    },
+    {
+      "name": "Speciální a nové materiály pro dřevostavby",
+      "code": "SPCM1",
+      "url": "https://www.studocu.com/cs/course/mendelova-univerzita-v-brne/specialni-a-nove-materialy-pro-drevostavby/5798387"
+    },
+    {
+      "name": "Statistické analýzy",
+      "code": "STAN",
+      "url": "https://www.studocu.com/cs/course/mendelova-univerzita-v-brne/statisticke-analyzy/6996350"
+    },
+    {
+      "name": "Statistika",
+      "code": "ST1",
+      "url": "https://www.studocu.com/cs/course/mendelova-univerzita-v-brne/statistika/4160624"
+    },
+    {
+      "name": "Stavby",
+      "code": "STVT",
+      "url": "https://www.studocu.com/cs/course/mendelova-univerzita-v-brne/stavby/4160595"
+    },
+    {
+      "name": "Státnicové otázky",
+      "code": "Státnicové otázky 22",
+      "url": "https://www.studocu.com/cs/course/mendelova-univerzita-v-brne/statnicove-otazky/6596794"
+    },
+    {
+      "name": "Světový Jazyk Angličtina Pokročilí",
+      "code": "AJP1",
+      "url": "https://www.studocu.com/cs/course/mendelova-univerzita-v-brne/svetovy-jazyk-anglictina-pokrocili/4160213"
+    },
+    {
+      "name": "Světový Jazyk Angličtina Středně Pokročilí",
+      "code": "AJSP1",
+      "url": "https://www.studocu.com/cs/course/mendelova-univerzita-v-brne/svetovy-jazyk-anglictina-stredne-pokrocili/4160214"
+    },
+    {
+      "name": "Sídelní Struktury",
+      "code": "SIS",
+      "url": "https://www.studocu.com/cs/course/mendelova-univerzita-v-brne/sidelni-struktury/4160504"
+    },
+    {
+      "name": "Tvorba A Ochranarajiny",
+      "code": "RRTVOK",
+      "url": "https://www.studocu.com/cs/course/mendelova-univerzita-v-brne/tvorba-a-ochranarajiny/4160492"
+    },
+    {
+      "name": "Velkoplošné materiály pro dřevostavby",
+      "code": "VMD1",
+      "url": "https://www.studocu.com/cs/course/mendelova-univerzita-v-brne/velkoplosne-materialy-pro-drevostavby/6857320"
+    },
+    {
+      "name": "Veřejné Finance",
+      "code": "VF",
+      "url": "https://www.studocu.com/cs/course/mendelova-univerzita-v-brne/verejne-finance/4160718"
+    },
+    {
+      "name": "Vnitřní prostředí pobytových místností",
+      "code": "VPPM",
+      "url": "https://www.studocu.com/cs/course/mendelova-univerzita-v-brne/vnitrni-prostredi-pobytovych-mistnosti/6962504"
+    },
+    {
+      "name": "Vzdělávací politika a strategie",
+      "code": null,
+      "url": "https://www.studocu.com/cs/course/mendelova-univerzita-v-brne/vzdelavaci-politika-a-strategie/7007046"
+    },
+    {
+      "name": "Vědy o zemi I",
+      "code": "VEZE 1",
+      "url": "https://www.studocu.com/cs/course/mendelova-univerzita-v-brne/vedy-o-zemi-i/7581578"
+    },
+    {
+      "name": "Zemědělská Mikrobiologie Zoo",
+      "code": "ZEMIZO",
+      "url": "https://www.studocu.com/cs/course/mendelova-univerzita-v-brne/zemedelska-mikrobiologie-zoo/4160472"
+    },
+    {
+      "name": "Zoologie",
+      "code": "ZOOL",
+      "url": "https://www.studocu.com/cs/course/mendelova-univerzita-v-brne/zoologie/4160207"
+    },
+    {
+      "name": "Základy Lesnictví",
+      "code": "ZLES",
+      "url": "https://www.studocu.com/cs/course/mendelova-univerzita-v-brne/zaklady-lesnictvi/4160566"
+    },
+    {
+      "name": "Základy Projektového Řízení",
+      "code": "RRZPR",
+      "url": "https://www.studocu.com/cs/course/mendelova-univerzita-v-brne/zaklady-projektoveho-rizeni/4160488"
+    },
+    {
+      "name": "Základy Práva I",
+      "code": "ZVS",
+      "url": "https://www.studocu.com/cs/course/mendelova-univerzita-v-brne/zaklady-prava-i/4160620"
+    },
+    {
+      "name": "Základy Senzorické Analýzy",
+      "code": "ZSENAN",
+      "url": "https://www.studocu.com/cs/course/mendelova-univerzita-v-brne/zaklady-senzoricke-analyzy/4160330"
+    },
+    {
+      "name": "Základy Světové A Evropské Integrace",
+      "code": "ZSE",
+      "url": "https://www.studocu.com/cs/course/mendelova-univerzita-v-brne/zaklady-svetove-a-evropske-integrace/4160625"
+    },
+    {
+      "name": "Základy techniky",
+      "code": "ZKLT1",
+      "url": "https://www.studocu.com/cs/course/mendelova-univerzita-v-brne/zaklady-techniky/5902654"
+    }
+  ]
+}

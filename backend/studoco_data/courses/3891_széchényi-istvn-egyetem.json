@@ -1,0 +1,611 @@
+{
+  "university_id": "3891",
+  "university_name": "Széchényi István Egyetem",
+  "courses": [
+    {
+      "name": "1 hetes gyakorlat",
+      "code": "AKLB_GPTM034",
+      "url": "https://www.studocu.com/hu/course/szechenyi-istvan-egyetem/1-hetes-gyakorlat/5157871"
+    },
+    {
+      "name": "3D tervezés",
+      "code": "GKNB_0987",
+      "url": "https://www.studocu.com/hu/course/szechenyi-istvan-egyetem/3d-tervezes/6626193"
+    },
+    {
+      "name": "A felnőttkori tanulás és felnőttképzés módszertana",
+      "code": "AKNB_TTTM203",
+      "url": "https://www.studocu.com/hu/course/szechenyi-istvan-egyetem/a-felnottkori-tanulas-es-felnottkepzes-modszertana/7470936"
+    },
+    {
+      "name": "A gyermekkép- és gyermekfelfogás múltja és jelene,",
+      "code": "TTTM015",
+      "url": "https://www.studocu.com/hu/course/szechenyi-istvan-egyetem/a-gyermekkep-es-gyermekfelfogas-multja-es-jelene/6147067"
+    },
+    {
+      "name": "A gyógypedagógiai oktatás elméleti alapjai",
+      "code": "AKLB_GPTM003",
+      "url": "https://www.studocu.com/hu/course/szechenyi-istvan-egyetem/a-gyogypedagogiai-oktatas-elmeleti-alapjai/5833406"
+    },
+    {
+      "name": "A pedagógiai és gyógypedagógiai kutatások módszertana",
+      "code": "AKLB_TPTM033",
+      "url": "https://www.studocu.com/hu/course/szechenyi-istvan-egyetem/a-pedagogiai-es-gyogypedagogiai-kutatasok-modszertana/6762964"
+    },
+    {
+      "name": "Agrárjog",
+      "code": "Ag-Rar69420",
+      "url": "https://www.studocu.com/hu/course/szechenyi-istvan-egyetem/agrarjog/7304413"
+    },
+    {
+      "name": "Alkotmányjog 1.",
+      "code": "DKLOAPTM020",
+      "url": "https://www.studocu.com/hu/course/szechenyi-istvan-egyetem/alkotmanyjog-1/7570874"
+    },
+    {
+      "name": "Alkotmányjog 2.",
+      "code": "DKNO_APTM021",
+      "url": "https://www.studocu.com/hu/course/szechenyi-istvan-egyetem/alkotmanyjog-2/7758602"
+    },
+    {
+      "name": "Alkotmánytörténelem",
+      "code": ".....",
+      "url": "https://www.studocu.com/hu/course/szechenyi-istvan-egyetem/alkotmanytortenelem/7332146"
+    },
+    {
+      "name": "Anyagismeret",
+      "code": null,
+      "url": "https://www.studocu.com/hu/course/szechenyi-istvan-egyetem/anyagismeret/6154080"
+    },
+    {
+      "name": "Anyanyelv és humán tárgyak tantárgypedagógiái gyógypedagógusoknak",
+      "code": "AKLB_TTTM114",
+      "url": "https://www.studocu.com/hu/course/szechenyi-istvan-egyetem/anyanyelv-es-human-targyak-tantargypedagogiai-gyogypedagogusoknak/6517992"
+    },
+    {
+      "name": "Arts and crafts",
+      "code": "JHKM 123",
+      "url": "https://www.studocu.com/hu/course/szechenyi-istvan-egyetem/arts-and-crafts/5813713"
+    },
+    {
+      "name": "Autóipari termékfejlesztés",
+      "code": "GKNB_KVTM029",
+      "url": "https://www.studocu.com/hu/course/szechenyi-istvan-egyetem/autoipari-termekfejlesztes/6688621"
+    },
+    {
+      "name": "Általános és alkalmazott fonetika",
+      "code": "AKLB_GPTM018",
+      "url": "https://www.studocu.com/hu/course/szechenyi-istvan-egyetem/altalanos-es-alkalmazott-fonetika/6878511"
+    },
+    {
+      "name": "Általános- és nevelészociológia",
+      "code": "AKNB_GPTM010",
+      "url": "https://www.studocu.com/hu/course/szechenyi-istvan-egyetem/altalanos-es-neveleszociologia/6668194"
+    },
+    {
+      "name": "Áramlástan",
+      "code": "JFTM027",
+      "url": "https://www.studocu.com/hu/course/szechenyi-istvan-egyetem/aramlastan/7371035"
+    },
+    {
+      "name": "Belsőégésű motorok 2",
+      "code": "BM2",
+      "url": "https://www.studocu.com/hu/course/szechenyi-istvan-egyetem/belsoegesu-motorok-2/7615845"
+    },
+    {
+      "name": "Belsőégésű motorok mérése és vizsgálata",
+      "code": "BMM01",
+      "url": "https://www.studocu.com/hu/course/szechenyi-istvan-egyetem/belsoegesu-motorok-merese-es-vizsgalata/7615846"
+    },
+    {
+      "name": "Beszerzés",
+      "code": "KGNM_MMTM051",
+      "url": "https://www.studocu.com/hu/course/szechenyi-istvan-egyetem/beszerzes/5843553"
+    },
+    {
+      "name": "Beszédművelés, hangtan és helyesírás",
+      "code": "AKNB_TTTM033",
+      "url": "https://www.studocu.com/hu/course/szechenyi-istvan-egyetem/beszedmuveles-hangtan-es-helyesiras/6668206"
+    },
+    {
+      "name": "Beszédsérültek kórtana és orvosi rehabilitációja",
+      "code": "AKLB_GPTM014",
+      "url": "https://www.studocu.com/hu/course/szechenyi-istvan-egyetem/beszedserultek-kortana-es-orvosi-rehabilitacioja/7553087"
+    },
+    {
+      "name": "Bevezetés a gyógypedagógiába",
+      "code": "(AKNB_GPTM001)",
+      "url": "https://www.studocu.com/hu/course/szechenyi-istvan-egyetem/bevezetes-a-gyogypedagogiaba/6668205"
+    },
+    {
+      "name": "Bevezetés a logopédiába",
+      "code": "AKNB_GPTM012",
+      "url": "https://www.studocu.com/hu/course/szechenyi-istvan-egyetem/bevezetes-a-logopediaba/6936715"
+    },
+    {
+      "name": "Büntetőjog 1.",
+      "code": "DKLO_BTTM006",
+      "url": "https://www.studocu.com/hu/course/szechenyi-istvan-egyetem/buntetojog-1/7370877"
+    },
+    {
+      "name": "Deviancia szociológia",
+      "code": "angypbQPQQ",
+      "url": "https://www.studocu.com/hu/course/szechenyi-istvan-egyetem/deviancia-szociologia/3127791"
+    },
+    {
+      "name": "Dietetika",
+      "code": "231",
+      "url": "https://www.studocu.com/hu/course/szechenyi-istvan-egyetem/dietetika/7305871"
+    },
+    {
+      "name": "Diszkalkulia megsegítésének lehetőségei",
+      "code": "angypa1421",
+      "url": "https://www.studocu.com/hu/course/szechenyi-istvan-egyetem/diszkalkulia-megsegitesenek-lehetosegei/4292672"
+    },
+    {
+      "name": "Document Management Systems",
+      "code": "GKNM_INTA071",
+      "url": "https://www.studocu.com/hu/course/szechenyi-istvan-egyetem/document-management-systems/6034295"
+    },
+    {
+      "name": "Egyetemes állam- és jogtörténet 2.",
+      "code": "JTTM004",
+      "url": "https://www.studocu.com/hu/course/szechenyi-istvan-egyetem/egyetemes-allam-es-jogtortenet-2/7104739"
+    },
+    {
+      "name": "Együttnevelés",
+      "code": "GPTM038",
+      "url": "https://www.studocu.com/hu/course/szechenyi-istvan-egyetem/egyuttneveles/4412619"
+    },
+    {
+      "name": "Electrical Engineer",
+      "code": "BSC 2021",
+      "url": "https://www.studocu.com/hu/course/szechenyi-istvan-egyetem/electrical-engineer/4823661"
+    },
+    {
+      "name": "Elektrotechnika",
+      "code": null,
+      "url": "https://www.studocu.com/hu/course/szechenyi-istvan-egyetem/elektrotechnika/6154078"
+    },
+    {
+      "name": "Előítélet",
+      "code": "SSTM113",
+      "url": "https://www.studocu.com/hu/course/szechenyi-istvan-egyetem/eloitelet/6147069"
+    },
+    {
+      "name": "EU tanulmányok",
+      "code": "KGNB_NETM021",
+      "url": "https://www.studocu.com/hu/course/szechenyi-istvan-egyetem/eu-tanulmanyok/7294089"
+    },
+    {
+      "name": "Európai közjog és politika",
+      "code": "DKNB_NJTM009",
+      "url": "https://www.studocu.com/hu/course/szechenyi-istvan-egyetem/europai-kozjog-es-politika/7758610"
+    },
+    {
+      "name": "Fejlődésneurológia",
+      "code": "ANGYPA1111",
+      "url": "https://www.studocu.com/hu/course/szechenyi-istvan-egyetem/fejlodesneurologia/3127794"
+    },
+    {
+      "name": "Geodézia",
+      "code": null,
+      "url": "https://www.studocu.com/hu/course/szechenyi-istvan-egyetem/geodezia/6179875"
+    },
+    {
+      "name": "Gyermekvédelmi alapismeretek",
+      "code": "AKNB_GPTM007",
+      "url": "https://www.studocu.com/hu/course/szechenyi-istvan-egyetem/gyermekvedelmi-alapismeretek/6860645"
+    },
+    {
+      "name": "Gyógypedagógiai pszichológia és pszichodiagnosztika",
+      "code": "AKLB_GPTM015",
+      "url": "https://www.studocu.com/hu/course/szechenyi-istvan-egyetem/gyogypedagogiai-pszichologia-es-pszichodiagnosztika/5157872"
+    },
+    {
+      "name": "Gyógypedagógiai tanácsadás és etika",
+      "code": "AKNB_GPTM004",
+      "url": "https://www.studocu.com/hu/course/szechenyi-istvan-egyetem/gyogypedagogiai-tanacsadas-es-etika/6860634"
+    },
+    {
+      "name": "Gépek üzemtana",
+      "code": "GKNBMGTM004",
+      "url": "https://www.studocu.com/hu/course/szechenyi-istvan-egyetem/gepek-uzemtana/6154081"
+    },
+    {
+      "name": "Gépipari automatizálás",
+      "code": "AJNB_JGTM001",
+      "url": "https://www.studocu.com/hu/course/szechenyi-istvan-egyetem/gepipari-automatizalas/7447709"
+    },
+    {
+      "name": "Gépszerkezetek számítógépes tervezése",
+      "code": "LGM_AG001_1",
+      "url": "https://www.studocu.com/hu/course/szechenyi-istvan-egyetem/gepszerkezetek-szamitogepes-tervezese/3268776"
+    },
+    {
+      "name": "Géptervezés 2.",
+      "code": "GKNB_MGTM090",
+      "url": "https://www.studocu.com/hu/course/szechenyi-istvan-egyetem/geptervezes-2/7447708"
+    },
+    {
+      "name": "Haladó makroökonómia",
+      "code": "KGNM_NETM054",
+      "url": "https://www.studocu.com/hu/course/szechenyi-istvan-egyetem/halado-makrookonomia/5843555"
+    },
+    {
+      "name": "Honvédelmi alapismeretek",
+      "code": "GKNB_FKTM036",
+      "url": "https://www.studocu.com/hu/course/szechenyi-istvan-egyetem/honvedelmi-alapismeretek/6154084"
+    },
+    {
+      "name": "HR trainig",
+      "code": "SZi345",
+      "url": "https://www.studocu.com/hu/course/szechenyi-istvan-egyetem/hr-trainig/5032370"
+    },
+    {
+      "name": "Hő- és áramlástan",
+      "code": "GKNBMGTM003",
+      "url": "https://www.studocu.com/hu/course/szechenyi-istvan-egyetem/ho-es-aramlastan/6154082"
+    },
+    {
+      "name": "Hős és áramlástan",
+      "code": "NGB_AG004_1",
+      "url": "https://www.studocu.com/hu/course/szechenyi-istvan-egyetem/hos-es-aramlastan/7447711"
+    },
+    {
+      "name": "Igazságügyi igazgatási",
+      "code": "AJIL_BIG",
+      "url": "https://www.studocu.com/hu/course/szechenyi-istvan-egyetem/igazsagugyi-igazgatasi/6662035"
+    },
+    {
+      "name": "International Economy and Business",
+      "code": "INT",
+      "url": "https://www.studocu.com/hu/course/szechenyi-istvan-egyetem/international-economy-and-business/4398931"
+    },
+    {
+      "name": "Irányítástechnika",
+      "code": null,
+      "url": "https://www.studocu.com/hu/course/szechenyi-istvan-egyetem/iranyitastechnika/6154086"
+    },
+    {
+      "name": "Jog- és Társadalomfilozófia 2.",
+      "code": "DKNO_JETM005",
+      "url": "https://www.studocu.com/hu/course/szechenyi-istvan-egyetem/jog-es-tarsadalomfilozofia-2/6914140"
+    },
+    {
+      "name": "Jogi alaptan",
+      "code": "NGB_JE006_1",
+      "url": "https://www.studocu.com/hu/course/szechenyi-istvan-egyetem/jogi-alaptan/6703780"
+    },
+    {
+      "name": "Jogi ismeretek",
+      "code": "DKLB_JETM001",
+      "url": "https://www.studocu.com/hu/course/szechenyi-istvan-egyetem/jogi-ismeretek/7297650"
+    },
+    {
+      "name": "Jogász",
+      "code": "AJIL_JOG",
+      "url": "https://www.studocu.com/hu/course/szechenyi-istvan-egyetem/jogasz/4426031"
+    },
+    {
+      "name": "Járműszerkezetek II.",
+      "code": "GKNB-KVTM010",
+      "url": "https://www.studocu.com/hu/course/szechenyi-istvan-egyetem/jarmuszerkezetek-ii/6995758"
+    },
+    {
+      "name": "Kognitív képességek fejlesztésének módszertana",
+      "code": "AKNBGPTM013",
+      "url": "https://www.studocu.com/hu/course/szechenyi-istvan-egyetem/kognitiv-kepessegek-fejlesztesenek-modszertana/7612444"
+    },
+    {
+      "name": "Kommunikációs ismeretek",
+      "code": "COMM007",
+      "url": "https://www.studocu.com/hu/course/szechenyi-istvan-egyetem/kommunikacios-ismeretek/4519513"
+    },
+    {
+      "name": "Kommunikációs képességek feljesztése",
+      "code": "AKLB_GPTM039",
+      "url": "https://www.studocu.com/hu/course/szechenyi-istvan-egyetem/kommunikacios-kepessegek-feljesztese/6870820"
+    },
+    {
+      "name": "Komplex tanulási zavarok elmélete és terápiája",
+      "code": "AKLB_GPTM051",
+      "url": "https://www.studocu.com/hu/course/szechenyi-istvan-egyetem/komplex-tanulasi-zavarok-elmelete-es-terapiaja/6481242"
+    },
+    {
+      "name": "Komplex tanulási zavarok elmélete és terápiája",
+      "code": "AKNB_GPTM051",
+      "url": "https://www.studocu.com/hu/course/szechenyi-istvan-egyetem/komplex-tanulasi-zavarok-elmelete-es-terapiaja/6860640"
+    },
+    {
+      "name": "Korai fejlesztés elmélete és gyakorlata",
+      "code": "AKNB_GPTM040",
+      "url": "https://www.studocu.com/hu/course/szechenyi-istvan-egyetem/korai-fejlesztes-elmelete-es-gyakorlata/6860641"
+    },
+    {
+      "name": "Kriminológia I.",
+      "code": null,
+      "url": "https://www.studocu.com/hu/course/szechenyi-istvan-egyetem/kriminologia-i/5832398"
+    },
+    {
+      "name": "Kriminológia II.",
+      "code": "222222",
+      "url": "https://www.studocu.com/hu/course/szechenyi-istvan-egyetem/kriminologia-ii/6642473"
+    },
+    {
+      "name": "Kutatásmódszertan és jogi adatbázisok kezelése",
+      "code": "DKLO JETM003",
+      "url": "https://www.studocu.com/hu/course/szechenyi-istvan-egyetem/kutatasmodszertan-es-jogi-adatbazisok-kezelese/7549251"
+    },
+    {
+      "name": "Környezetkémiai alapismeretek",
+      "code": "GKNB_FKTM034",
+      "url": "https://www.studocu.com/hu/course/szechenyi-istvan-egyetem/kornyezetkemiai-alapismeretek/7312717"
+    },
+    {
+      "name": "Környezetmérnök szak",
+      "code": "LGB_KM002_",
+      "url": "https://www.studocu.com/hu/course/szechenyi-istvan-egyetem/kornyezetmernok-szak/4617600"
+    },
+    {
+      "name": "Környezetvédelmi",
+      "code": null,
+      "url": "https://www.studocu.com/hu/course/szechenyi-istvan-egyetem/kornyezetvedelmi/6154076"
+    },
+    {
+      "name": "Közgazdaságtan",
+      "code": "-",
+      "url": "https://www.studocu.com/hu/course/szechenyi-istvan-egyetem/kozgazdasagtan/3665942"
+    },
+    {
+      "name": "Közigazgatás",
+      "code": "0000",
+      "url": "https://www.studocu.com/hu/course/szechenyi-istvan-egyetem/kozigazgatas/6977140"
+    },
+    {
+      "name": "Közszolgálati munkajog",
+      "code": "DKLB_KATM039",
+      "url": "https://www.studocu.com/hu/course/szechenyi-istvan-egyetem/kozszolgalati-munkajog/7453698"
+    },
+    {
+      "name": "Közösségi tervezés és technikái",
+      "code": "KGLB_GETM031",
+      "url": "https://www.studocu.com/hu/course/szechenyi-istvan-egyetem/kozossegi-tervezes-es-technikai/6754877"
+    },
+    {
+      "name": "Latin nyelv",
+      "code": "DKLO_JTTM002",
+      "url": "https://www.studocu.com/hu/course/szechenyi-istvan-egyetem/latin-nyelv/5838862"
+    },
+    {
+      "name": "lawlaw",
+      "code": "law22",
+      "url": "https://www.studocu.com/hu/course/szechenyi-istvan-egyetem/lawlaw/5858828"
+    },
+    {
+      "name": "Logisztika",
+      "code": "AJNM_LSTM024",
+      "url": "https://www.studocu.com/hu/course/szechenyi-istvan-egyetem/logisztika/5843564"
+    },
+    {
+      "name": "Logisztikai gépek és berendezések",
+      "code": "AJNM_LSTM002",
+      "url": "https://www.studocu.com/hu/course/szechenyi-istvan-egyetem/logisztikai-gepek-es-berendezesek/5843559"
+    },
+    {
+      "name": "Logisztikai szimulációs programok",
+      "code": "AJNM_LSTM006",
+      "url": "https://www.studocu.com/hu/course/szechenyi-istvan-egyetem/logisztikai-szimulacios-programok/5843556"
+    },
+    {
+      "name": "Logopédiai diagnosztika",
+      "code": "AKNB_GPTM024",
+      "url": "https://www.studocu.com/hu/course/szechenyi-istvan-egyetem/logopediai-diagnosztika/7291915"
+    },
+    {
+      "name": "Magasépítés 1",
+      "code": "(EKNB_EETM021)",
+      "url": "https://www.studocu.com/hu/course/szechenyi-istvan-egyetem/magasepites-1/6679347"
+    },
+    {
+      "name": "Magyar Jogtörténet",
+      "code": "DKNO_JTTM007",
+      "url": "https://www.studocu.com/hu/course/szechenyi-istvan-egyetem/magyar-jogtortenet/5864601"
+    },
+    {
+      "name": "Magyar állam és jogtörténetet",
+      "code": "Law 2020, májt",
+      "url": "https://www.studocu.com/hu/course/szechenyi-istvan-egyetem/magyar-allam-es-jogtortenetet/7213567"
+    },
+    {
+      "name": "Marketing",
+      "code": "-",
+      "url": "https://www.studocu.com/hu/course/szechenyi-istvan-egyetem/marketing/3665944"
+    },
+    {
+      "name": "Marketingmenedzsment",
+      "code": "KGNM_MMTM009",
+      "url": "https://www.studocu.com/hu/course/szechenyi-istvan-egyetem/marketingmenedzsment/5843563"
+    },
+    {
+      "name": "Matematika",
+      "code": "bala021",
+      "url": "https://www.studocu.com/hu/course/szechenyi-istvan-egyetem/matematika/7361573"
+    },
+    {
+      "name": "Mechatronika alapjai",
+      "code": "Mgtm44",
+      "url": "https://www.studocu.com/hu/course/szechenyi-istvan-egyetem/mechatronika-alapjai/6500381"
+    },
+    {
+      "name": "Medecine",
+      "code": "VNO123",
+      "url": "https://www.studocu.com/hu/course/szechenyi-istvan-egyetem/medecine/7606935"
+    },
+    {
+      "name": "Megmunkálási technológiák",
+      "code": "(NGB_AJ003_1)",
+      "url": "https://www.studocu.com/hu/course/szechenyi-istvan-egyetem/megmunkalasi-technologiak/7424404"
+    },
+    {
+      "name": "Mikroökonómia",
+      "code": "KGNB_NETM016",
+      "url": "https://www.studocu.com/hu/course/szechenyi-istvan-egyetem/mikrookonomia/7488164"
+    },
+    {
+      "name": "Motoros képességfejlesztés módszertana",
+      "code": "AKLB_GPTM026",
+      "url": "https://www.studocu.com/hu/course/szechenyi-istvan-egyetem/motoros-kepessegfejlesztes-modszertana/5157870"
+    },
+    {
+      "name": "Mozgástan",
+      "code": "GKNB_AMTM004",
+      "url": "https://www.studocu.com/hu/course/szechenyi-istvan-egyetem/mozgastan/7447712"
+    },
+    {
+      "name": "Multikulturális nevelés",
+      "code": "AKLB_GPTM059",
+      "url": "https://www.studocu.com/hu/course/szechenyi-istvan-egyetem/multikulturalis-neveles/5157869"
+    },
+    {
+      "name": "Műszaki fizika alapjai",
+      "code": "GKNB_FKTM001",
+      "url": "https://www.studocu.com/hu/course/szechenyi-istvan-egyetem/muszaki-fizika-alapjai/5789484"
+    },
+    {
+      "name": "Műszaki Kémia",
+      "code": "GKNB_FKTM014",
+      "url": "https://www.studocu.com/hu/course/szechenyi-istvan-egyetem/muszaki-kemia/7305239"
+    },
+    {
+      "name": "műszaki ábrázolás",
+      "code": "idk001",
+      "url": "https://www.studocu.com/hu/course/szechenyi-istvan-egyetem/muszaki-abrazolas/6848268"
+    },
+    {
+      "name": "Nemzetközi gazdaságtan",
+      "code": "KGLB_NETM017",
+      "url": "https://www.studocu.com/hu/course/szechenyi-istvan-egyetem/nemzetkozi-gazdasagtan/7237291"
+    },
+    {
+      "name": "Non-profit gazdaságtan",
+      "code": "KGLB_GETM030",
+      "url": "https://www.studocu.com/hu/course/szechenyi-istvan-egyetem/non-profit-gazdasagtan/7701227"
+    },
+    {
+      "name": "Operációs Rendszerek",
+      "code": "INTM115",
+      "url": "https://www.studocu.com/hu/course/szechenyi-istvan-egyetem/operacios-rendszerek/7543250"
+    },
+    {
+      "name": "Pedagógiai alapismeretek",
+      "code": "GYP14",
+      "url": "https://www.studocu.com/hu/course/szechenyi-istvan-egyetem/pedagogiai-alapismeretek/5483775"
+    },
+    {
+      "name": "Polgári jog 1. (Általános tanok és személyek joga)",
+      "code": "DKLO_PETM030",
+      "url": "https://www.studocu.com/hu/course/szechenyi-istvan-egyetem/polgari-jog-1-altalanos-tanok-es-szemelyek-joga/6682003"
+    },
+    {
+      "name": "Polgári jog 3. (Kötelmi jog általános rész)",
+      "code": "DKNO_PETM011",
+      "url": "https://www.studocu.com/hu/course/szechenyi-istvan-egyetem/polgari-jog-3-kotelmi-jog-altalanos-resz/7143705"
+    },
+    {
+      "name": "Politológia",
+      "code": "DKNO APTM017",
+      "url": "https://www.studocu.com/hu/course/szechenyi-istvan-egyetem/politologia/5843931"
+    },
+    {
+      "name": "Propedeutika",
+      "code": "DKLO_JTTM016",
+      "url": "https://www.studocu.com/hu/course/szechenyi-istvan-egyetem/propedeutika/5838870"
+    },
+    {
+      "name": "Pénzügy",
+      "code": null,
+      "url": "https://www.studocu.com/hu/course/szechenyi-istvan-egyetem/penzugy/6176180"
+    },
+    {
+      "name": "Rendszerek modellezése szimulációja",
+      "code": "GKNB_AUTM058",
+      "url": "https://www.studocu.com/hu/course/szechenyi-istvan-egyetem/rendszerek-modellezese-szimulacioja/7447707"
+    },
+    {
+      "name": "Római jog 1",
+      "code": "Róma1",
+      "url": "https://www.studocu.com/hu/course/szechenyi-istvan-egyetem/romai-jog-1/7317298"
+    },
+    {
+      "name": "Statika",
+      "code": "GETM004",
+      "url": "https://www.studocu.com/hu/course/szechenyi-istvan-egyetem/statika/5334628"
+    },
+    {
+      "name": "Statiszika",
+      "code": "LGS_RT013_1_M",
+      "url": "https://www.studocu.com/hu/course/szechenyi-istvan-egyetem/statiszika/7174673"
+    },
+    {
+      "name": "sváb szebasztian",
+      "code": "szebasztian",
+      "url": "https://www.studocu.com/hu/course/szechenyi-istvan-egyetem/svab-szebasztian/7531092"
+    },
+    {
+      "name": "Szamitogep arch",
+      "code": "GKNB_INTM110",
+      "url": "https://www.studocu.com/hu/course/szechenyi-istvan-egyetem/szamitogep-arch/6466523"
+    },
+    {
+      "name": "Személyiség- és szociálpszichológia",
+      "code": "ANPEXA1041",
+      "url": "https://www.studocu.com/hu/course/szechenyi-istvan-egyetem/szemelyiseg-es-szocialpszichologia/6024588"
+    },
+    {
+      "name": "Szoftvertechnológia 2.",
+      "code": "GKNB_INTM122",
+      "url": "https://www.studocu.com/hu/course/szechenyi-istvan-egyetem/szoftvertechnologia-2/7753528"
+    },
+    {
+      "name": "Számítógép hálozatok",
+      "code": "GKNB_INTM018",
+      "url": "https://www.studocu.com/hu/course/szechenyi-istvan-egyetem/szamitogep-halozatok/6993153"
+    },
+    {
+      "name": "Tanulás-támogatás informatikai eszközökkel",
+      "code": "ALGYGB2431",
+      "url": "https://www.studocu.com/hu/course/szechenyi-istvan-egyetem/tanulas-tamogatas-informatikai-eszkozokkel/7080890"
+    },
+    {
+      "name": "Termelési logisztika",
+      "code": "AJNB_LSTM028",
+      "url": "https://www.studocu.com/hu/course/szechenyi-istvan-egyetem/termelesi-logisztika/6043458"
+    },
+    {
+      "name": "térítési juttatási szabályzat",
+      "code": "nemt002",
+      "url": "https://www.studocu.com/hu/course/szechenyi-istvan-egyetem/teritesi-juttatasi-szabalyzat/6848272"
+    },
+    {
+      "name": "Tűz és munkavédelem",
+      "code": "GKLB_MGTM005",
+      "url": "https://www.studocu.com/hu/course/szechenyi-istvan-egyetem/tuz-es-munkavedelem/7593379"
+    },
+    {
+      "name": "Vezetési ismeretek",
+      "code": "KGNB_MMTM050",
+      "url": "https://www.studocu.com/hu/course/szechenyi-istvan-egyetem/vezetesi-ismeretek/7701258"
+    },
+    {
+      "name": "Vállalati Gazdaságtan",
+      "code": "KGLS_GETM055",
+      "url": "https://www.studocu.com/hu/course/szechenyi-istvan-egyetem/vallalati-gazdasagtan/7174675"
+    },
+    {
+      "name": "Vállalatirányítási rendszerek",
+      "code": "GKNM_INTM061",
+      "url": "https://www.studocu.com/hu/course/szechenyi-istvan-egyetem/vallalatiranyitasi-rendszerek/5843567"
+    }
+  ]
+}

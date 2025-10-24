@@ -1,0 +1,566 @@
+{
+  "university_id": "9497",
+  "university_name": "Yıldız Teknik Üniversitesi",
+  "courses": [
+    {
+      "name": "aircraft maintenance",
+      "code": "8001",
+      "url": "https://www.studocu.com/row/course/yildiz-teknik-universitesi/aircraft-maintenance/7152716"
+    },
+    {
+      "name": "Algorithms Analysis",
+      "code": "BLM245",
+      "url": "https://www.studocu.com/row/course/yildiz-teknik-universitesi/algorithms-analysis/4286379"
+    },
+    {
+      "name": "Almanca",
+      "code": "Deutsch 1001",
+      "url": "https://www.studocu.com/row/course/yildiz-teknik-universitesi/almanca/7303489"
+    },
+    {
+      "name": "Analog Electronics",
+      "code": "MKT2141",
+      "url": "https://www.studocu.com/row/course/yildiz-teknik-universitesi/analog-electronics/4540585"
+    },
+    {
+      "name": "Applied data analytics",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/yildiz-teknik-universitesi/applied-data-analytics/6870659"
+    },
+    {
+      "name": "Automatic contol",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/yildiz-teknik-universitesi/automatic-contol/5875437"
+    },
+    {
+      "name": "behavioral sciences",
+      "code": "ısl1111",
+      "url": "https://www.studocu.com/row/course/yildiz-teknik-universitesi/behavioral-sciences/6959970"
+    },
+    {
+      "name": "biochemistry",
+      "code": "BME2901",
+      "url": "https://www.studocu.com/row/course/yildiz-teknik-universitesi/biochemistry/5153976"
+    },
+    {
+      "name": "Bioengineering Laboratory",
+      "code": "BE402",
+      "url": "https://www.studocu.com/row/course/yildiz-teknik-universitesi/bioengineering-laboratory/5164694"
+    },
+    {
+      "name": "Cancer",
+      "code": "LAW 404",
+      "url": "https://www.studocu.com/row/course/yildiz-teknik-universitesi/cancer/7631426"
+    },
+    {
+      "name": "Civil Engineering",
+      "code": "CVL101",
+      "url": "https://www.studocu.com/row/course/yildiz-teknik-universitesi/civil-engineering/5148099"
+    },
+    {
+      "name": "Computation theory",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/yildiz-teknik-universitesi/computation-theory/6871322"
+    },
+    {
+      "name": "cost accounting",
+      "code": "1001",
+      "url": "https://www.studocu.com/row/course/yildiz-teknik-universitesi/cost-accounting/6959484"
+    },
+    {
+      "name": "çevre ve ekoloji",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/yildiz-teknik-universitesi/cevre-ve-ekoloji/7269021"
+    },
+    {
+      "name": "DataStructures_and_Algorithms",
+      "code": "BLM2512",
+      "url": "https://www.studocu.com/row/course/yildiz-teknik-universitesi/datastructures-and-algorithms/5168538"
+    },
+    {
+      "name": "Dif denklemler",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/yildiz-teknik-universitesi/dif-denklemler/6610666"
+    },
+    {
+      "name": "differantial equations",
+      "code": "mat2411",
+      "url": "https://www.studocu.com/row/course/yildiz-teknik-universitesi/differantial-equations/7624512"
+    },
+    {
+      "name": "dinamik",
+      "code": "ME530",
+      "url": "https://www.studocu.com/row/course/yildiz-teknik-universitesi/dinamik/5306692"
+    },
+    {
+      "name": "Dünyada ve Türkiyede Kültür Politikaları Gelişimi",
+      "code": "SAN5308",
+      "url": "https://www.studocu.com/row/course/yildiz-teknik-universitesi/dunyada-ve-turkiyede-kultur-politikalari-gelisimi/6590074"
+    },
+    {
+      "name": "Econometrics",
+      "code": "IKT200",
+      "url": "https://www.studocu.com/row/course/yildiz-teknik-universitesi/econometrics/3565981"
+    },
+    {
+      "name": "Economics of Regulation and Competition",
+      "code": "IKT3551",
+      "url": "https://www.studocu.com/row/course/yildiz-teknik-universitesi/economics-of-regulation-and-competition/2505636"
+    },
+    {
+      "name": "economy history",
+      "code": "111111",
+      "url": "https://www.studocu.com/row/course/yildiz-teknik-universitesi/economy-history/6044474"
+    },
+    {
+      "name": "Electrical Machine",
+      "code": "KOM3761",
+      "url": "https://www.studocu.com/row/course/yildiz-teknik-universitesi/electrical-machine/4540101"
+    },
+    {
+      "name": "Electromechanical energy conversion",
+      "code": "MKT3832",
+      "url": "https://www.studocu.com/row/course/yildiz-teknik-universitesi/electromechanical-energy-conversion/4368478"
+    },
+    {
+      "name": "Emed",
+      "code": "ELM2050",
+      "url": "https://www.studocu.com/row/course/yildiz-teknik-universitesi/emed/3624511"
+    },
+    {
+      "name": "Energy",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/yildiz-teknik-universitesi/energy/3510389"
+    },
+    {
+      "name": "English",
+      "code": "Eng000",
+      "url": "https://www.studocu.com/row/course/yildiz-teknik-universitesi/english/6128449"
+    },
+    {
+      "name": "Environmental Engineering",
+      "code": "CEV2231",
+      "url": "https://www.studocu.com/row/course/yildiz-teknik-universitesi/environmental-engineering/6643171"
+    },
+    {
+      "name": "Ergonomi",
+      "code": "end2179",
+      "url": "https://www.studocu.com/row/course/yildiz-teknik-universitesi/ergonomi/3220960"
+    },
+    {
+      "name": "Felsefeye Giriş",
+      "code": "ITB3020",
+      "url": "https://www.studocu.com/row/course/yildiz-teknik-universitesi/felsefeye-giris/6021362"
+    },
+    {
+      "name": "Financial Management",
+      "code": "EASC346",
+      "url": "https://www.studocu.com/row/course/yildiz-teknik-universitesi/financial-management/6954196"
+    },
+    {
+      "name": "financial statement analysis",
+      "code": "fc201",
+      "url": "https://www.studocu.com/row/course/yildiz-teknik-universitesi/financial-statement-analysis/6605935"
+    },
+    {
+      "name": "Fizik",
+      "code": "FIZ1001",
+      "url": "https://www.studocu.com/row/course/yildiz-teknik-universitesi/fizik/3739508"
+    },
+    {
+      "name": "Fluid Mechanics",
+      "code": "MAK1003",
+      "url": "https://www.studocu.com/row/course/yildiz-teknik-universitesi/fluid-mechanics/2350326"
+    },
+    {
+      "name": "Fluid Mechanics and Heat Transfer",
+      "code": "MKT3831",
+      "url": "https://www.studocu.com/row/course/yildiz-teknik-universitesi/fluid-mechanics-and-heat-transfer/4513779"
+    },
+    {
+      "name": "Fluid Mechanics I",
+      "code": "MAK2112",
+      "url": "https://www.studocu.com/row/course/yildiz-teknik-universitesi/fluid-mechanics-i/4349489"
+    },
+    {
+      "name": "Fundamentals of Electric Circuits",
+      "code": "KOM2721",
+      "url": "https://www.studocu.com/row/course/yildiz-teknik-universitesi/fundamentals-of-electric-circuits/3228030"
+    },
+    {
+      "name": "Genel Kimya Ders Notları",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/yildiz-teknik-universitesi/genel-kimya-ders-notlari/5125627"
+    },
+    {
+      "name": "Haberleşme 1",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/yildiz-teknik-universitesi/haberlesme-1/7341597"
+    },
+    {
+      "name": "Heat transfer",
+      "code": "kmm3521",
+      "url": "https://www.studocu.com/row/course/yildiz-teknik-universitesi/heat-transfer/3219918"
+    },
+    {
+      "name": "heat transfer",
+      "code": "GMI3531",
+      "url": "https://www.studocu.com/row/course/yildiz-teknik-universitesi/heat-transfer/4338844"
+    },
+    {
+      "name": "ib edebiyat",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/yildiz-teknik-universitesi/ib-edebiyat/7743665"
+    },
+    {
+      "name": "Implementation of Database Systems",
+      "code": "BLM3780",
+      "url": "https://www.studocu.com/row/course/yildiz-teknik-universitesi/implementation-of-database-systems/5798067"
+    },
+    {
+      "name": "Industrial Engineering",
+      "code": "end1991",
+      "url": "https://www.studocu.com/row/course/yildiz-teknik-universitesi/industrial-engineering/4206623"
+    },
+    {
+      "name": "Inorganic Chemistry",
+      "code": "KIM2521",
+      "url": "https://www.studocu.com/row/course/yildiz-teknik-universitesi/inorganic-chemistry/5874395"
+    },
+    {
+      "name": "International Baccalaureate",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/yildiz-teknik-universitesi/international-baccalaureate/7743664"
+    },
+    {
+      "name": "Introduction to Artificial Intelligence",
+      "code": "MKT4811",
+      "url": "https://www.studocu.com/row/course/yildiz-teknik-universitesi/introduction-to-artificial-intelligence/5911162"
+    },
+    {
+      "name": "introduction to business",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/yildiz-teknik-universitesi/introduction-to-business/5849148"
+    },
+    {
+      "name": "Introduction to Computer Science",
+      "code": "BLM1011",
+      "url": "https://www.studocu.com/row/course/yildiz-teknik-universitesi/introduction-to-computer-science/7695952"
+    },
+    {
+      "name": "Introduction to Economics",
+      "code": "IKT1101",
+      "url": "https://www.studocu.com/row/course/yildiz-teknik-universitesi/introduction-to-economics/4515735"
+    },
+    {
+      "name": "İktisadi Düşünce Tarihi",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/yildiz-teknik-universitesi/iktisadi-dusunce-tarihi/4250224"
+    },
+    {
+      "name": "İmalat Yöntemleri",
+      "code": "MP 2022",
+      "url": "https://www.studocu.com/row/course/yildiz-teknik-universitesi/imalat-yontemleri/6488013"
+    },
+    {
+      "name": "İngilizce Öğretiminde Ders İçeriği Geliştirme",
+      "code": "ING4311",
+      "url": "https://www.studocu.com/row/course/yildiz-teknik-universitesi/ingilizce-ogretiminde-ders-icerigi-gelistirme/5872329"
+    },
+    {
+      "name": "kalkülüs",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/yildiz-teknik-universitesi/kalkulus/4531247"
+    },
+    {
+      "name": "Language acquisition",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/yildiz-teknik-universitesi/language-acquisition/3526033"
+    },
+    {
+      "name": "Linear Algebra",
+      "code": "MAT1320",
+      "url": "https://www.studocu.com/row/course/yildiz-teknik-universitesi/linear-algebra/4882611"
+    },
+    {
+      "name": "Lojik Devreler",
+      "code": "EHM2141",
+      "url": "https://www.studocu.com/row/course/yildiz-teknik-universitesi/lojik-devreler/6613460"
+    },
+    {
+      "name": "Machine elements",
+      "code": "3821",
+      "url": "https://www.studocu.com/row/course/yildiz-teknik-universitesi/machine-elements/3323940"
+    },
+    {
+      "name": "Machine Elements",
+      "code": "MKT3821",
+      "url": "https://www.studocu.com/row/course/yildiz-teknik-universitesi/machine-elements/6891831"
+    },
+    {
+      "name": "Macro Economi̇c Question Set",
+      "code": "IKT2202",
+      "url": "https://www.studocu.com/row/course/yildiz-teknik-universitesi/macro-economic-question-set/3662659"
+    },
+    {
+      "name": "Matematik",
+      "code": "MAT101",
+      "url": "https://www.studocu.com/row/course/yildiz-teknik-universitesi/matematik/4550015"
+    },
+    {
+      "name": "Matematik I",
+      "code": "MAT1071",
+      "url": "https://www.studocu.com/row/course/yildiz-teknik-universitesi/matematik-i/6589433"
+    },
+    {
+      "name": "Materials science",
+      "code": "MKT1122",
+      "url": "https://www.studocu.com/row/course/yildiz-teknik-universitesi/materials-science/3220193"
+    },
+    {
+      "name": "Mathematical Economic Analysis",
+      "code": "IKT5211",
+      "url": "https://www.studocu.com/row/course/yildiz-teknik-universitesi/mathematical-economic-analysis/2543731"
+    },
+    {
+      "name": "Mechanics of materials",
+      "code": "MKT2222",
+      "url": "https://www.studocu.com/row/course/yildiz-teknik-universitesi/mechanics-of-materials/2917553"
+    },
+    {
+      "name": "mechatronics",
+      "code": "KOM3510",
+      "url": "https://www.studocu.com/row/course/yildiz-teknik-universitesi/mechatronics/6668645"
+    },
+    {
+      "name": "Microeconomics",
+      "code": "EC2001",
+      "url": "https://www.studocu.com/row/course/yildiz-teknik-universitesi/microeconomics/4103161"
+    },
+    {
+      "name": "Microprocessor Systems",
+      "code": "AVE3141",
+      "url": "https://www.studocu.com/row/course/yildiz-teknik-universitesi/microprocessor-systems/6772314"
+    },
+    {
+      "name": "Microwave Radar Systems",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/yildiz-teknik-universitesi/microwave-radar-systems/6666448"
+    },
+    {
+      "name": "Mikrodalga Lab",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/yildiz-teknik-universitesi/mikrodalga-lab/6750959"
+    },
+    {
+      "name": "Monetary Economics",
+      "code": "IKT5217",
+      "url": "https://www.studocu.com/row/course/yildiz-teknik-universitesi/monetary-economics/7287560"
+    },
+    {
+      "name": "mukavemet",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/yildiz-teknik-universitesi/mukavemet/4539634"
+    },
+    {
+      "name": "Mühendislik Matematiği",
+      "code": "MAK5515",
+      "url": "https://www.studocu.com/row/course/yildiz-teknik-universitesi/muhendislik-matematigi/6378169"
+    },
+    {
+      "name": "Mühendislik Mekaniği I",
+      "code": "MKT2161",
+      "url": "https://www.studocu.com/row/course/yildiz-teknik-universitesi/muhendislik-mekanigi-i/6592335"
+    },
+    {
+      "name": "Numerical methods",
+      "code": "mkt3841",
+      "url": "https://www.studocu.com/row/course/yildiz-teknik-universitesi/numerical-methods/7508474"
+    },
+    {
+      "name": "Numerik analiz",
+      "code": "inm400",
+      "url": "https://www.studocu.com/row/course/yildiz-teknik-universitesi/numerik-analiz/6038270"
+    },
+    {
+      "name": "operation research 2",
+      "code": "OR2",
+      "url": "https://www.studocu.com/row/course/yildiz-teknik-universitesi/operation-research-2/5156785"
+    },
+    {
+      "name": "organic chemistry",
+      "code": "KIM3442",
+      "url": "https://www.studocu.com/row/course/yildiz-teknik-universitesi/organic-chemistry/4838171"
+    },
+    {
+      "name": "Otomatik Kontrol 1",
+      "code": "MAK4391",
+      "url": "https://www.studocu.com/row/course/yildiz-teknik-universitesi/otomatik-kontrol-1/7264229"
+    },
+    {
+      "name": "particle filter",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/yildiz-teknik-universitesi/particle-filter/6587069"
+    },
+    {
+      "name": "pazarlama ve satış yönetimi",
+      "code": "END4450",
+      "url": "https://www.studocu.com/row/course/yildiz-teknik-universitesi/pazarlama-ve-satis-yonetimi/5316847"
+    },
+    {
+      "name": "Physics",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/yildiz-teknik-universitesi/physics/5925504"
+    },
+    {
+      "name": "Physics Laboratary 3",
+      "code": "FIZ2282",
+      "url": "https://www.studocu.com/row/course/yildiz-teknik-universitesi/physics-laboratary-3/3784543"
+    },
+    {
+      "name": "PIC C coding",
+      "code": "5667",
+      "url": "https://www.studocu.com/row/course/yildiz-teknik-universitesi/pic-c-coding/6515626"
+    },
+    {
+      "name": "Probability and Statistics",
+      "code": "BLM2011",
+      "url": "https://www.studocu.com/row/course/yildiz-teknik-universitesi/probability-and-statistics/4531929"
+    },
+    {
+      "name": "Probability and statistics for engineers",
+      "code": "MKT3802",
+      "url": "https://www.studocu.com/row/course/yildiz-teknik-universitesi/probability-and-statistics-for-engineers/3421065"
+    },
+    {
+      "name": "Process Design 2",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/yildiz-teknik-universitesi/process-design-2/6911113"
+    },
+    {
+      "name": "process technologies",
+      "code": "mkt3871",
+      "url": "https://www.studocu.com/row/course/yildiz-teknik-universitesi/process-technologies/6979695"
+    },
+    {
+      "name": "Production Management",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/yildiz-teknik-universitesi/production-management/6764945"
+    },
+    {
+      "name": "Programming using python",
+      "code": "mkt5000",
+      "url": "https://www.studocu.com/row/course/yildiz-teknik-universitesi/programming-using-python/6242156"
+    },
+    {
+      "name": "Project Management",
+      "code": "1.040/1.041",
+      "url": "https://www.studocu.com/row/course/yildiz-teknik-universitesi/project-management/3191902"
+    },
+    {
+      "name": "Quality",
+      "code": "End1",
+      "url": "https://www.studocu.com/row/course/yildiz-teknik-universitesi/quality/7510171"
+    },
+    {
+      "name": "Real Time Control",
+      "code": "KOM4620",
+      "url": "https://www.studocu.com/row/course/yildiz-teknik-universitesi/real-time-control/4410983"
+    },
+    {
+      "name": "Robotic Engineering",
+      "code": "MKT4141",
+      "url": "https://www.studocu.com/row/course/yildiz-teknik-universitesi/robotic-engineering/3220024"
+    },
+    {
+      "name": "Semiconductor Physics",
+      "code": "EHM2151",
+      "url": "https://www.studocu.com/row/course/yildiz-teknik-universitesi/semiconductor-physics/4540507"
+    },
+    {
+      "name": "sistem analizi ve tasarımı",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/yildiz-teknik-universitesi/sistem-analizi-ve-tasarimi/6978623"
+    },
+    {
+      "name": "Social psycology",
+      "code": "PSYC201",
+      "url": "https://www.studocu.com/row/course/yildiz-teknik-universitesi/social-psycology/6526189"
+    },
+    {
+      "name": "Soil Mechanics",
+      "code": "INS3121",
+      "url": "https://www.studocu.com/row/course/yildiz-teknik-universitesi/soil-mechanics/6863486"
+    },
+    {
+      "name": "Solar Energy",
+      "code": "MKM345",
+      "url": "https://www.studocu.com/row/course/yildiz-teknik-universitesi/solar-energy/5963131"
+    },
+    {
+      "name": "Sonlu Elemanlar Yöntemi",
+      "code": "MAK2132",
+      "url": "https://www.studocu.com/row/course/yildiz-teknik-universitesi/sonlu-elemanlar-yontemi/3220047"
+    },
+    {
+      "name": "Statik",
+      "code": "MAK1072",
+      "url": "https://www.studocu.com/row/course/yildiz-teknik-universitesi/statik/4349664"
+    },
+    {
+      "name": "Supply Chain and Logistic Management",
+      "code": "END3942",
+      "url": "https://www.studocu.com/row/course/yildiz-teknik-universitesi/supply-chain-and-logistic-management/6871768"
+    },
+    {
+      "name": "System Dynamics",
+      "code": "MKT3801",
+      "url": "https://www.studocu.com/row/course/yildiz-teknik-universitesi/system-dynamics/5824133"
+    },
+    {
+      "name": "system dynamics",
+      "code": "KOM2712",
+      "url": "https://www.studocu.com/row/course/yildiz-teknik-universitesi/system-dynamics/6851605"
+    },
+    {
+      "name": "Şimdiki Zaman Eki",
+      "code": "TDE101",
+      "url": "https://www.studocu.com/row/course/yildiz-teknik-universitesi/simdiki-zaman-eki/7541655"
+    },
+    {
+      "name": "teknik resim 2",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/yildiz-teknik-universitesi/teknik-resim-2/6651115"
+    },
+    {
+      "name": "Temel Bilgisayar Bilimleri",
+      "code": "GIM1032",
+      "url": "https://www.studocu.com/row/course/yildiz-teknik-universitesi/temel-bilgisayar-bilimleri/4532386"
+    },
+    {
+      "name": "Thermodynamics",
+      "code": "MAK2142",
+      "url": "https://www.studocu.com/row/course/yildiz-teknik-universitesi/thermodynamics/3220046"
+    },
+    {
+      "name": "vernacular architecture",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/yildiz-teknik-universitesi/vernacular-architecture/4946873"
+    },
+    {
+      "name": "Wave Theory",
+      "code": "EHM2142",
+      "url": "https://www.studocu.com/row/course/yildiz-teknik-universitesi/wave-theory/4413792"
+    },
+    {
+      "name": "Work and Measurement",
+      "code": "End 3401",
+      "url": "https://www.studocu.com/row/course/yildiz-teknik-universitesi/work-and-measurement/6907812"
+    },
+    {
+      "name": "YKS Çalışma Rehberi",
+      "code": "YKS101",
+      "url": "https://www.studocu.com/row/course/yildiz-teknik-universitesi/yks-calisma-rehberi/7541653"
+    }
+  ]
+}

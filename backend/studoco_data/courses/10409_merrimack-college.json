@@ -1,0 +1,426 @@
+{
+  "university_id": "10409",
+  "university_name": "Merrimack College",
+  "courses": [
+    {
+      "name": "Abnormal Psychology",
+      "code": "PSY 2460",
+      "url": "https://www.studocu.com/en-us/course/merrimack-college/abnormal-psychology/6293310"
+    },
+    {
+      "name": "ADVANCE STRENGTH AND CONDITIONING",
+      "code": "HSC6300",
+      "url": "https://www.studocu.com/en-us/course/merrimack-college/advance-strength-and-conditioning/3505668"
+    },
+    {
+      "name": "Advanced Human Resource Management",
+      "code": "MGT 3450",
+      "url": "https://www.studocu.com/en-us/course/merrimack-college/advanced-human-resource-management/6292632"
+    },
+    {
+      "name": "Anatomy and Physiology I with Integrated Lab",
+      "code": "HSC 1122",
+      "url": "https://www.studocu.com/en-us/course/merrimack-college/anatomy-and-physiology-i-with-integrated-lab/6292744"
+    },
+    {
+      "name": "Anatomy and Physiology II with Integrated Lab",
+      "code": "HSC 1123",
+      "url": "https://www.studocu.com/en-us/course/merrimack-college/anatomy-and-physiology-ii-with-integrated-lab/6292745"
+    },
+    {
+      "name": "Applied Anatomy and Physiology",
+      "code": "HSC 1100",
+      "url": "https://www.studocu.com/en-us/course/merrimack-college/applied-anatomy-and-physiology/6292742"
+    },
+    {
+      "name": "Art/Art History Internship",
+      "code": "ART 4920",
+      "url": "https://www.studocu.com/en-us/course/merrimack-college/artart-history-internship/6292938"
+    },
+    {
+      "name": "Arts Management",
+      "code": "VPA 2590",
+      "url": "https://www.studocu.com/en-us/course/merrimack-college/arts-management/6292825"
+    },
+    {
+      "name": "Beginner’s Spanish I",
+      "code": "SPA 1010",
+      "url": "https://www.studocu.com/en-us/course/merrimack-college/beginners-spanish-i/6292501"
+    },
+    {
+      "name": "Behavioral Neuroscience",
+      "code": "PSY 3150",
+      "url": "https://www.studocu.com/en-us/course/merrimack-college/behavioral-neuroscience/6293316"
+    },
+    {
+      "name": "Bioethics & Healthcare: Theological Approaches",
+      "code": "RTS 2820",
+      "url": "https://www.studocu.com/en-us/course/merrimack-college/bioethics-healthcare-theological-approaches/6293350"
+    },
+    {
+      "name": "Biological Bases of Abnormal Behavior",
+      "code": "PSY 3450",
+      "url": "https://www.studocu.com/en-us/course/merrimack-college/biological-bases-of-abnormal-behavior/6293320"
+    },
+    {
+      "name": "biophysical chemistry",
+      "code": "CHM 3570W",
+      "url": "https://www.studocu.com/en-us/course/merrimack-college/biophysical-chemistry/4363511"
+    },
+    {
+      "name": "Calculus I",
+      "code": "MTH 1217",
+      "url": "https://www.studocu.com/en-us/course/merrimack-college/calculus-i/6292671"
+    },
+    {
+      "name": "Capstone Synthesis",
+      "code": "NUR4500",
+      "url": "https://www.studocu.com/en-us/course/merrimack-college/capstone-synthesis/6757904"
+    },
+    {
+      "name": "Care Considerations for the Older Adult with Chronic Conditions",
+      "code": "NUR 2550",
+      "url": "https://www.studocu.com/en-us/course/merrimack-college/care-considerations-for-the-older-adult-with-chronic-conditions/6292577"
+    },
+    {
+      "name": "Cellular Biochemistry",
+      "code": "BIO3037",
+      "url": "https://www.studocu.com/en-us/course/merrimack-college/cellular-biochemistry/5907504"
+    },
+    {
+      "name": "Communication and Nonprofit Organizing",
+      "code": "COM 3742",
+      "url": "https://www.studocu.com/en-us/course/merrimack-college/communication-and-nonprofit-organizing/6293230"
+    },
+    {
+      "name": "Comparative Politics",
+      "code": "POL 1500",
+      "url": "https://www.studocu.com/en-us/course/merrimack-college/comparative-politics/6293461"
+    },
+    {
+      "name": "Construction Planning and Management",
+      "code": "CEN 4050",
+      "url": "https://www.studocu.com/en-us/course/merrimack-college/construction-planning-and-management/6292437"
+    },
+    {
+      "name": "Criminological Theory",
+      "code": "CRM 5000",
+      "url": "https://www.studocu.com/en-us/course/merrimack-college/criminological-theory/4351405"
+    },
+    {
+      "name": "Critical Care Nursing",
+      "code": "NUR 4000",
+      "url": "https://www.studocu.com/en-us/course/merrimack-college/critical-care-nursing/6292585"
+    },
+    {
+      "name": "Data Science Programming Using Python",
+      "code": "CSC 1600",
+      "url": "https://www.studocu.com/en-us/course/merrimack-college/data-science-programming-using-python/6293097"
+    },
+    {
+      "name": "Data Structures",
+      "code": "CSC 2820",
+      "url": "https://www.studocu.com/en-us/course/merrimack-college/data-structures/6293102"
+    },
+    {
+      "name": "Digital Fundamentals",
+      "code": "EEN 1200",
+      "url": "https://www.studocu.com/en-us/course/merrimack-college/digital-fundamentals/6293001"
+    },
+    {
+      "name": "Diversity, Social Justice, & Ethics",
+      "code": "HDE 2130",
+      "url": "https://www.studocu.com/en-us/course/merrimack-college/diversity-social-justice-ethics/6292877"
+    },
+    {
+      "name": "Earth Sciences",
+      "code": null,
+      "url": "https://www.studocu.com/en-us/course/merrimack-college/earth-sciences/6107281"
+    },
+    {
+      "name": "Ecological Economics",
+      "code": "ECO 3305",
+      "url": "https://www.studocu.com/en-us/course/merrimack-college/ecological-economics/6293143"
+    },
+    {
+      "name": "Ecology",
+      "code": "BIO 2010",
+      "url": "https://www.studocu.com/en-us/course/merrimack-college/ecology/6292386"
+    },
+    {
+      "name": "Exercise Physiology",
+      "code": "EXS3111",
+      "url": "https://www.studocu.com/en-us/course/merrimack-college/exercise-physiology/5267842"
+    },
+    {
+      "name": "Field Work in Financial and Mental Wellness Coaching",
+      "code": "PSY 4500",
+      "url": "https://www.studocu.com/en-us/course/merrimack-college/field-work-in-financial-and-mental-wellness-coaching/6293322"
+    },
+    {
+      "name": "Financial Management, Planning and Accountability in Programs for Children and Families",
+      "code": "CFC 4510C",
+      "url": "https://www.studocu.com/en-us/course/merrimack-college/financial-management-planning-and-accountability-in-programs-for-children-and-families/6293155"
+    },
+    {
+      "name": "Financial Planning",
+      "code": "FIN 4435",
+      "url": "https://www.studocu.com/en-us/course/merrimack-college/financial-planning/6292841"
+    },
+    {
+      "name": "Foundations of Counseling Across Professions",
+      "code": "HDE 4260",
+      "url": "https://www.studocu.com/en-us/course/merrimack-college/foundations-of-counseling-across-professions/6292688"
+    },
+    {
+      "name": "General Chemistry",
+      "code": "CHM1110",
+      "url": "https://www.studocu.com/en-us/course/merrimack-college/general-chemistry/5798652"
+    },
+    {
+      "name": "Genetics",
+      "code": "BIO 2018",
+      "url": "https://www.studocu.com/en-us/course/merrimack-college/genetics/6292387"
+    },
+    {
+      "name": "Human Biology",
+      "code": "BIO 1106",
+      "url": "https://www.studocu.com/en-us/course/merrimack-college/human-biology/6292384"
+    },
+    {
+      "name": "Human Pathophysiology",
+      "code": "HSC 3336",
+      "url": "https://www.studocu.com/en-us/course/merrimack-college/human-pathophysiology/4339705"
+    },
+    {
+      "name": "Intro to business",
+      "code": "BUS501",
+      "url": "https://www.studocu.com/en-us/course/merrimack-college/intro-to-business/5970010"
+    },
+    {
+      "name": "Introduction to Communication",
+      "code": "COM 2801",
+      "url": "https://www.studocu.com/en-us/course/merrimack-college/introduction-to-communication/6293207"
+    },
+    {
+      "name": "Introduction to Criminology",
+      "code": "CRM 1000",
+      "url": "https://www.studocu.com/en-us/course/merrimack-college/introduction-to-criminology/6293257"
+    },
+    {
+      "name": "Introduction to Early Childhood Education",
+      "code": "EDU 2310",
+      "url": "https://www.studocu.com/en-us/course/merrimack-college/introduction-to-early-childhood-education/6293161"
+    },
+    {
+      "name": "Introduction to Human Development",
+      "code": "HDE 1000",
+      "url": "https://www.studocu.com/en-us/course/merrimack-college/introduction-to-human-development/6292874"
+    },
+    {
+      "name": "Introduction to Human Services",
+      "code": "HDE 1020",
+      "url": "https://www.studocu.com/en-us/course/merrimack-college/introduction-to-human-services/6292875"
+    },
+    {
+      "name": "Introduction to Nutritional Sciences",
+      "code": "HSC 2300",
+      "url": "https://www.studocu.com/en-us/course/merrimack-college/introduction-to-nutritional-sciences/6292750"
+    },
+    {
+      "name": "introduction to philosphy",
+      "code": "1000",
+      "url": "https://www.studocu.com/en-us/course/merrimack-college/introduction-to-philosphy/4754942"
+    },
+    {
+      "name": "Introduction to Professional Nursing",
+      "code": "NUR1550",
+      "url": "https://www.studocu.com/en-us/course/merrimack-college/introduction-to-professional-nursing/5719258"
+    },
+    {
+      "name": "Introduction to Psychology",
+      "code": "PSY1000A",
+      "url": "https://www.studocu.com/en-us/course/merrimack-college/introduction-to-psychology/5734402"
+    },
+    {
+      "name": "Introduction to Quantum Physics",
+      "code": "PHY 2241",
+      "url": "https://www.studocu.com/en-us/course/merrimack-college/introduction-to-quantum-physics/6293447"
+    },
+    {
+      "name": "Introduction to Social Justice (Theory & Practice)",
+      "code": "SOJ 1000",
+      "url": "https://www.studocu.com/en-us/course/merrimack-college/introduction-to-social-justice-theory-practice/6292498"
+    },
+    {
+      "name": "Marine Biology",
+      "code": "BIO 3064",
+      "url": "https://www.studocu.com/en-us/course/merrimack-college/marine-biology/6292401"
+    },
+    {
+      "name": "Marketing Seminar",
+      "code": "MKT4480",
+      "url": "https://www.studocu.com/en-us/course/merrimack-college/marketing-seminar/5196252"
+    },
+    {
+      "name": "Medical Surgical Nursing",
+      "code": "NUR30000",
+      "url": "https://www.studocu.com/en-us/course/merrimack-college/medical-surgical-nursing/5846085"
+    },
+    {
+      "name": "Medical Surgical Nursing",
+      "code": "NUR3000",
+      "url": "https://www.studocu.com/en-us/course/merrimack-college/medical-surgical-nursing/5846084"
+    },
+    {
+      "name": "Mental Health Nursing",
+      "code": "NUR 3650",
+      "url": "https://www.studocu.com/en-us/course/merrimack-college/mental-health-nursing/6292584"
+    },
+    {
+      "name": "Microbiology for Health Professions",
+      "code": "HSC3320",
+      "url": "https://www.studocu.com/en-us/course/merrimack-college/microbiology-for-health-professions/6147098"
+    },
+    {
+      "name": "Music History II: Classical to the 21st Century",
+      "code": "MUS 2302",
+      "url": "https://www.studocu.com/en-us/course/merrimack-college/music-history-ii-classical-to-the-21st-century/6292785"
+    },
+    {
+      "name": "Nursing Fundamental Health Assessment",
+      "code": "NUR2000",
+      "url": "https://www.studocu.com/en-us/course/merrimack-college/nursing-fundamental-health-assessment/5846081"
+    },
+    {
+      "name": "Obestrical and Newborn Nursing",
+      "code": "NUR3550",
+      "url": "https://www.studocu.com/en-us/course/merrimack-college/obestrical-and-newborn-nursing/5846073"
+    },
+    {
+      "name": "Organizational Behavior",
+      "code": "MGT 3120",
+      "url": "https://www.studocu.com/en-us/course/merrimack-college/organizational-behavior/6292623"
+    },
+    {
+      "name": "Pathopharmacology",
+      "code": "NUR2600",
+      "url": "https://www.studocu.com/en-us/course/merrimack-college/pathopharmacology/5846077"
+    },
+    {
+      "name": "Pathopharmacology 2",
+      "code": "NUR2600",
+      "url": "https://www.studocu.com/en-us/course/merrimack-college/pathopharmacology-2/5846075"
+    },
+    {
+      "name": "Police Culture",
+      "code": "CRM 2900",
+      "url": "https://www.studocu.com/en-us/course/merrimack-college/police-culture/6293270"
+    },
+    {
+      "name": "Precalculus",
+      "code": "MTH 1016",
+      "url": "https://www.studocu.com/en-us/course/merrimack-college/precalculus/6292665"
+    },
+    {
+      "name": "Principles of Biology",
+      "code": "BIO1028",
+      "url": "https://www.studocu.com/en-us/course/merrimack-college/principles-of-biology/5907493"
+    },
+    {
+      "name": "Principles of Biology I",
+      "code": "BIO 1027",
+      "url": "https://www.studocu.com/en-us/course/merrimack-college/principles-of-biology-i/6292382"
+    },
+    {
+      "name": "Principles of Marketing",
+      "code": "MKT 2205",
+      "url": "https://www.studocu.com/en-us/course/merrimack-college/principles-of-marketing/6292646"
+    },
+    {
+      "name": "Problem Solving with Java",
+      "code": "CSC 1610",
+      "url": "https://www.studocu.com/en-us/course/merrimack-college/problem-solving-with-java/6293098"
+    },
+    {
+      "name": "Public Service Summer Internship",
+      "code": "ENG 4851",
+      "url": "https://www.studocu.com/en-us/course/merrimack-college/public-service-summer-internship/6293067"
+    },
+    {
+      "name": "Renaissance, Reformation and Exploration",
+      "code": "HIS 3370",
+      "url": "https://www.studocu.com/en-us/course/merrimack-college/renaissance-reformation-and-exploration/6292711"
+    },
+    {
+      "name": "Special Topics in Electrical Engineering",
+      "code": "EEN 4715",
+      "url": "https://www.studocu.com/en-us/course/merrimack-college/special-topics-in-electrical-engineering/6293015"
+    },
+    {
+      "name": "Spirituality of Running",
+      "code": "RTS 2650",
+      "url": "https://www.studocu.com/en-us/course/merrimack-college/spirituality-of-running/6293346"
+    },
+    {
+      "name": "Sports Nutrition",
+      "code": "HSC 4200",
+      "url": "https://www.studocu.com/en-us/course/merrimack-college/sports-nutrition/6292770"
+    },
+    {
+      "name": "strategic analysis",
+      "code": "bus4402w",
+      "url": "https://www.studocu.com/en-us/course/merrimack-college/strategic-analysis/4854119"
+    },
+    {
+      "name": "Sustainable Development",
+      "code": "ECO 3303",
+      "url": "https://www.studocu.com/en-us/course/merrimack-college/sustainable-development/6293142"
+    },
+    {
+      "name": "Teaching Reading and Language Arts",
+      "code": "EDU 3310",
+      "url": "https://www.studocu.com/en-us/course/merrimack-college/teaching-reading-and-language-arts/6293168"
+    },
+    {
+      "name": "The Art of Ancient Egypt, Hither Asia, and the Aegean",
+      "code": "ART 2610",
+      "url": "https://www.studocu.com/en-us/course/merrimack-college/the-art-of-ancient-egypt-hither-asia-and-the-aegean/6292920"
+    },
+    {
+      "name": "The Criminal Justice System",
+      "code": "CRM 1100",
+      "url": "https://www.studocu.com/en-us/course/merrimack-college/the-criminal-justice-system/6293258"
+    },
+    {
+      "name": "The European Experience: Antiquity to the Reformation",
+      "code": "HIS 1119",
+      "url": "https://www.studocu.com/en-us/course/merrimack-college/the-european-experience-antiquity-to-the-reformation/6292694"
+    },
+    {
+      "name": "The Exceptional Learner",
+      "code": "EDU 2410",
+      "url": "https://www.studocu.com/en-us/course/merrimack-college/the-exceptional-learner/6293162"
+    },
+    {
+      "name": "Thermodynamics I",
+      "code": "MEN 3030",
+      "url": "https://www.studocu.com/en-us/course/merrimack-college/thermodynamics-i/6292602"
+    },
+    {
+      "name": "U.S. History: From Pre-Contact through the Civil War and Reconstruction",
+      "code": "HIS 1106",
+      "url": "https://www.studocu.com/en-us/course/merrimack-college/us-history-from-pre-contact-through-the-civil-war-and-reconstruction/6292692"
+    },
+    {
+      "name": "Values in a Technological Culture",
+      "code": "PHL 2090",
+      "url": "https://www.studocu.com/en-us/course/merrimack-college/values-in-a-technological-culture/6293406"
+    },
+    {
+      "name": "Web Development",
+      "code": "CSC 3950",
+      "url": "https://www.studocu.com/en-us/course/merrimack-college/web-development/6293118"
+    }
+  ]
+}

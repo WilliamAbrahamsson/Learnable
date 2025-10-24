@@ -71,12 +71,14 @@ export const createConnectionHandles = (
       canvas.requestRenderAll();
     });
 
-    // Handle mouse down - start dragging connection line
+    // Handle mouse down - start dragging connection line (left-click only)
     handle.on('mousedown', (e) => {
       if (!fabricCanvas) return;
       
       const event = e.e as MouseEvent;
       if (!event) return;
+      // Ignore non-left clicks so middle/right can be used for panning
+      if (event.button !== 0) return;
       
       // Prevent selection box from being drawn
       fabricCanvas.selection = false;

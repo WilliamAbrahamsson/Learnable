@@ -1,0 +1,456 @@
+{
+  "university_id": "2581",
+  "university_name": "Universidad CES",
+  "courses": [
+    {
+      "name": "administracion finanicera",
+      "code": null,
+      "url": "https://www.studocu.com/co/course/universidad-ces/administracion-finanicera/4502841"
+    },
+    {
+      "name": "ambiente fisico",
+      "code": "salud2",
+      "url": "https://www.studocu.com/co/course/universidad-ces/ambiente-fisico/6459524"
+    },
+    {
+      "name": "Anatomía Osteomuscular",
+      "code": null,
+      "url": "https://www.studocu.com/co/course/universidad-ces/anatomia-osteomuscular/7070387"
+    },
+    {
+      "name": "anestesia regional",
+      "code": "anestesia",
+      "url": "https://www.studocu.com/co/course/universidad-ces/anestesia-regional/7410688"
+    },
+    {
+      "name": "Antropología Forense",
+      "code": null,
+      "url": "https://www.studocu.com/co/course/universidad-ces/antropologia-forense/3702916"
+    },
+    {
+      "name": "Bioestadistica",
+      "code": null,
+      "url": "https://www.studocu.com/co/course/universidad-ces/bioestadistica/4280470"
+    },
+    {
+      "name": "Biofísica",
+      "code": null,
+      "url": "https://www.studocu.com/co/course/universidad-ces/biofisica/6815511"
+    },
+    {
+      "name": "Biologia Celular",
+      "code": "Ingenieria Biomedica",
+      "url": "https://www.studocu.com/co/course/universidad-ces/biologia-celular/6833216"
+    },
+    {
+      "name": "Biología Molecular",
+      "code": "CESBIO123M",
+      "url": "https://www.studocu.com/co/course/universidad-ces/biologia-molecular/3239596"
+    },
+    {
+      "name": "Bioquimica",
+      "code": null,
+      "url": "https://www.studocu.com/co/course/universidad-ces/bioquimica/7168176"
+    },
+    {
+      "name": "Bioética Clínica",
+      "code": null,
+      "url": "https://www.studocu.com/co/course/universidad-ces/bioetica-clinica/5806840"
+    },
+    {
+      "name": "Ciencias de la nutricion",
+      "code": null,
+      "url": "https://www.studocu.com/co/course/universidad-ces/ciencias-de-la-nutricion/3223175"
+    },
+    {
+      "name": "ciencias de la vision",
+      "code": "biologia",
+      "url": "https://www.studocu.com/co/course/universidad-ces/ciencias-de-la-vision/7663143"
+    },
+    {
+      "name": "cirugia general",
+      "code": null,
+      "url": "https://www.studocu.com/co/course/universidad-ces/cirugia-general/7180892"
+    },
+    {
+      "name": "Cirugía plástica",
+      "code": null,
+      "url": "https://www.studocu.com/co/course/universidad-ces/cirugia-plastica/7163283"
+    },
+    {
+      "name": "Civil y personas",
+      "code": "1012",
+      "url": "https://www.studocu.com/co/course/universidad-ces/civil-y-personas/3171258"
+    },
+    {
+      "name": "Clínica sistémica",
+      "code": null,
+      "url": "https://www.studocu.com/co/course/universidad-ces/clinica-sistemica/7502009"
+    },
+    {
+      "name": "Contratos Civiles y Mercantiles",
+      "code": "Derecho Privado",
+      "url": "https://www.studocu.com/co/course/universidad-ces/contratos-civiles-y-mercantiles/7387240"
+    },
+    {
+      "name": "Control calidad",
+      "code": null,
+      "url": "https://www.studocu.com/co/course/universidad-ces/control-calidad/7686465"
+    },
+    {
+      "name": "Cuidado de Enfermería a la mujer y gestante",
+      "code": "Enfermería VII",
+      "url": "https://www.studocu.com/co/course/universidad-ces/cuidado-de-enfermeria-a-la-mujer-y-gestante/6734502"
+    },
+    {
+      "name": "cultura",
+      "code": null,
+      "url": "https://www.studocu.com/co/course/universidad-ces/cultura/7035162"
+    },
+    {
+      "name": "Derecho de Seguros",
+      "code": "Seguridad Social",
+      "url": "https://www.studocu.com/co/course/universidad-ces/derecho-de-seguros/7387238"
+    },
+    {
+      "name": "Derecho procesal",
+      "code": null,
+      "url": "https://www.studocu.com/co/course/universidad-ces/derecho-procesal/3614355"
+    },
+    {
+      "name": "Derecho Procesal Penal",
+      "code": null,
+      "url": "https://www.studocu.com/co/course/universidad-ces/derecho-procesal-penal/4843284"
+    },
+    {
+      "name": "Embriologia",
+      "code": null,
+      "url": "https://www.studocu.com/co/course/universidad-ces/embriologia/3731902"
+    },
+    {
+      "name": "Epidemiología",
+      "code": null,
+      "url": "https://www.studocu.com/co/course/universidad-ces/epidemiologia/6699109"
+    },
+    {
+      "name": "Escuelas de la Pisología I",
+      "code": null,
+      "url": "https://www.studocu.com/co/course/universidad-ces/escuelas-de-la-pisologia-i/4239376"
+    },
+    {
+      "name": "examen fisico",
+      "code": "exafi-2",
+      "url": "https://www.studocu.com/co/course/universidad-ces/examen-fisico/4973848"
+    },
+    {
+      "name": "Éitca y filosofía",
+      "code": null,
+      "url": "https://www.studocu.com/co/course/universidad-ces/eitca-y-filosofia/3433766"
+    },
+    {
+      "name": "Farmacología I",
+      "code": null,
+      "url": "https://www.studocu.com/co/course/universidad-ces/farmacologia-i/6065194"
+    },
+    {
+      "name": "Fisiología II",
+      "code": null,
+      "url": "https://www.studocu.com/co/course/universidad-ces/fisiologia-ii/4406969"
+    },
+    {
+      "name": "Fisiología III",
+      "code": null,
+      "url": "https://www.studocu.com/co/course/universidad-ces/fisiologia-iii/6065191"
+    },
+    {
+      "name": "Fisiopatologia II",
+      "code": null,
+      "url": "https://www.studocu.com/co/course/universidad-ces/fisiopatologia-ii/3558098"
+    },
+    {
+      "name": "Fundamentos de la contabilidad",
+      "code": "contabilidad",
+      "url": "https://www.studocu.com/co/course/universidad-ces/fundamentos-de-la-contabilidad/3609149"
+    },
+    {
+      "name": "fundamentos de quimica",
+      "code": null,
+      "url": "https://www.studocu.com/co/course/universidad-ces/fundamentos-de-quimica/5392693"
+    },
+    {
+      "name": "Gerencia",
+      "code": null,
+      "url": "https://www.studocu.com/co/course/universidad-ces/gerencia/4304330"
+    },
+    {
+      "name": "Gestión de enfermería",
+      "code": null,
+      "url": "https://www.studocu.com/co/course/universidad-ces/gestion-de-enfermeria/6828679"
+    },
+    {
+      "name": "Gestión Operativa en Seguridad y Salud en el Trabajo",
+      "code": null,
+      "url": "https://www.studocu.com/co/course/universidad-ces/gestion-operativa-en-seguridad-y-salud-en-el-trabajo/7075486"
+    },
+    {
+      "name": "Ginecologia y obstetricia",
+      "code": "Ginecologia",
+      "url": "https://www.studocu.com/co/course/universidad-ces/ginecologia-y-obstetricia/7127683"
+    },
+    {
+      "name": "globalizacion",
+      "code": "23456",
+      "url": "https://www.studocu.com/co/course/universidad-ces/globalizacion/6973496"
+    },
+    {
+      "name": "Histoembriologia",
+      "code": null,
+      "url": "https://www.studocu.com/co/course/universidad-ces/histoembriologia/5093738"
+    },
+    {
+      "name": "Histología",
+      "code": null,
+      "url": "https://www.studocu.com/co/course/universidad-ces/histologia/6815507"
+    },
+    {
+      "name": "Informatica",
+      "code": "-",
+      "url": "https://www.studocu.com/co/course/universidad-ces/informatica/5798205"
+    },
+    {
+      "name": "Ingenieria de Tejidos",
+      "code": "123bb",
+      "url": "https://www.studocu.com/co/course/universidad-ces/ingenieria-de-tejidos/5485395"
+    },
+    {
+      "name": "Inmunología",
+      "code": null,
+      "url": "https://www.studocu.com/co/course/universidad-ces/inmunologia/5466298"
+    },
+    {
+      "name": "Instrumentos Cuantitativos",
+      "code": null,
+      "url": "https://www.studocu.com/co/course/universidad-ces/instrumentos-cuantitativos/4069151"
+    },
+    {
+      "name": "Introducción al derecho",
+      "code": "3337",
+      "url": "https://www.studocu.com/co/course/universidad-ces/introduccion-al-derecho/4093239"
+    },
+    {
+      "name": "Investugación cualitativa",
+      "code": "Teoría fjndamentada",
+      "url": "https://www.studocu.com/co/course/universidad-ces/investugacion-cualitativa/6562550"
+    },
+    {
+      "name": "Legislacion",
+      "code": null,
+      "url": "https://www.studocu.com/co/course/universidad-ces/legislacion/7686464"
+    },
+    {
+      "name": "lesioens deportivas",
+      "code": null,
+      "url": "https://www.studocu.com/co/course/universidad-ces/lesioens-deportivas/6972375"
+    },
+    {
+      "name": "Macroeconomia",
+      "code": "1234",
+      "url": "https://www.studocu.com/co/course/universidad-ces/macroeconomia/3221489"
+    },
+    {
+      "name": "Matematica",
+      "code": "125",
+      "url": "https://www.studocu.com/co/course/universidad-ces/matematica/3209910"
+    },
+    {
+      "name": "Medicina",
+      "code": "668",
+      "url": "https://www.studocu.com/co/course/universidad-ces/medicina/3222282"
+    },
+    {
+      "name": "Medicina Interna",
+      "code": null,
+      "url": "https://www.studocu.com/co/course/universidad-ces/medicina-interna/5943275"
+    },
+    {
+      "name": "Medicina veterinaria y zootecnia",
+      "code": "MVZ",
+      "url": "https://www.studocu.com/co/course/universidad-ces/medicina-veterinaria-y-zootecnia/3238140"
+    },
+    {
+      "name": "metodología de la investigación",
+      "code": null,
+      "url": "https://www.studocu.com/co/course/universidad-ces/metodologia-de-la-investigacion/5718926"
+    },
+    {
+      "name": "Microbiologia",
+      "code": "CES658978",
+      "url": "https://www.studocu.com/co/course/universidad-ces/microbiologia/3236282"
+    },
+    {
+      "name": "motricidad",
+      "code": null,
+      "url": "https://www.studocu.com/co/course/universidad-ces/motricidad/4500012"
+    },
+    {
+      "name": "Negociación Privada Internacional",
+      "code": "Derecho Privado",
+      "url": "https://www.studocu.com/co/course/universidad-ces/negociacion-privada-internacional/7387239"
+    },
+    {
+      "name": "Neurociencias",
+      "code": null,
+      "url": "https://www.studocu.com/co/course/universidad-ces/neurociencias/4977181"
+    },
+    {
+      "name": "Neurologia",
+      "code": null,
+      "url": "https://www.studocu.com/co/course/universidad-ces/neurologia/7180891"
+    },
+    {
+      "name": "Neuropsicología",
+      "code": null,
+      "url": "https://www.studocu.com/co/course/universidad-ces/neuropsicologia/5475604"
+    },
+    {
+      "name": "Odontologia geriatrica",
+      "code": "Odontologia",
+      "url": "https://www.studocu.com/co/course/universidad-ces/odontologia-geriatrica/7338891"
+    },
+    {
+      "name": "Odontología, crecimiento y desarrollo",
+      "code": null,
+      "url": "https://www.studocu.com/co/course/universidad-ces/odontologia-crecimiento-y-desarrollo/7463806"
+    },
+    {
+      "name": "Operador Terapeuta",
+      "code": "0009",
+      "url": "https://www.studocu.com/co/course/universidad-ces/operador-terapeuta/5805943"
+    },
+    {
+      "name": "Patología General",
+      "code": null,
+      "url": "https://www.studocu.com/co/course/universidad-ces/patologia-general/6386287"
+    },
+    {
+      "name": "Patología oral",
+      "code": "Odontologia",
+      "url": "https://www.studocu.com/co/course/universidad-ces/patologia-oral/5389992"
+    },
+    {
+      "name": "Pediatría",
+      "code": null,
+      "url": "https://www.studocu.com/co/course/universidad-ces/pediatria/6175982"
+    },
+    {
+      "name": "Periodo cis",
+      "code": null,
+      "url": "https://www.studocu.com/co/course/universidad-ces/periodo-cis/6839289"
+    },
+    {
+      "name": "Periodoncia",
+      "code": "Odontologia",
+      "url": "https://www.studocu.com/co/course/universidad-ces/periodoncia/7338894"
+    },
+    {
+      "name": "protocolos",
+      "code": null,
+      "url": "https://www.studocu.com/co/course/universidad-ces/protocolos/6733356"
+    },
+    {
+      "name": "Psicologia social",
+      "code": "123356",
+      "url": "https://www.studocu.com/co/course/universidad-ces/psicologia-social/3172687"
+    },
+    {
+      "name": "Psicología humanista",
+      "code": null,
+      "url": "https://www.studocu.com/co/course/universidad-ces/psicologia-humanista/4977178"
+    },
+    {
+      "name": "radiologia",
+      "code": null,
+      "url": "https://www.studocu.com/co/course/universidad-ces/radiologia/6938554"
+    },
+    {
+      "name": "Rehabilitación Cardíaca",
+      "code": null,
+      "url": "https://www.studocu.com/co/course/universidad-ces/rehabilitacion-cardiaca/6732155"
+    },
+    {
+      "name": "Rehabilitación oral III",
+      "code": "ROIII",
+      "url": "https://www.studocu.com/co/course/universidad-ces/rehabilitacion-oral-iii/5414110"
+    },
+    {
+      "name": "Responsabilidad Civil I",
+      "code": "Responsabilidad",
+      "url": "https://www.studocu.com/co/course/universidad-ces/responsabilidad-civil-i/7387236"
+    },
+    {
+      "name": "Responsabilidad Civil II",
+      "code": "Responsabilidad",
+      "url": "https://www.studocu.com/co/course/universidad-ces/responsabilidad-civil-ii/7387237"
+    },
+    {
+      "name": "salud  ocupacional",
+      "code": null,
+      "url": "https://www.studocu.com/co/course/universidad-ces/salud-ocupacional/7626990"
+    },
+    {
+      "name": "salud ambiental",
+      "code": "salud ambiental, salud.",
+      "url": "https://www.studocu.com/co/course/universidad-ces/salud-ambiental/3945310"
+    },
+    {
+      "name": "Salud mental",
+      "code": "Salud mental, psicología",
+      "url": "https://www.studocu.com/co/course/universidad-ces/salud-mental/3944872"
+    },
+    {
+      "name": "Salud Ocupacional",
+      "code": null,
+      "url": "https://www.studocu.com/co/course/universidad-ces/salud-ocupacional/6575886"
+    },
+    {
+      "name": "semiologia cardiovascular",
+      "code": "semio1",
+      "url": "https://www.studocu.com/co/course/universidad-ces/semiologia-cardiovascular/4528815"
+    },
+    {
+      "name": "Sistemas de Información Geográfica",
+      "code": null,
+      "url": "https://www.studocu.com/co/course/universidad-ces/sistemas-de-informacion-geografica/1732593"
+    },
+    {
+      "name": "Teoria Evolutiva",
+      "code": null,
+      "url": "https://www.studocu.com/co/course/universidad-ces/teoria-evolutiva/4977187"
+    },
+    {
+      "name": "Teoría de los grupos I",
+      "code": "Teoría de los grupos, psicología",
+      "url": "https://www.studocu.com/co/course/universidad-ces/teoria-de-los-grupos-i/3945404"
+    },
+    {
+      "name": "terapia",
+      "code": "salud0",
+      "url": "https://www.studocu.com/co/course/universidad-ces/terapia/4884204"
+    },
+    {
+      "name": "Tesis Final",
+      "code": "Criminologia, tesis",
+      "url": "https://www.studocu.com/co/course/universidad-ces/tesis-final/3645298"
+    },
+    {
+      "name": "urgencias",
+      "code": null,
+      "url": "https://www.studocu.com/co/course/universidad-ces/urgencias/5294679"
+    },
+    {
+      "name": "Zoología",
+      "code": null,
+      "url": "https://www.studocu.com/co/course/universidad-ces/zoologia/4521317"
+    }
+  ]
+}

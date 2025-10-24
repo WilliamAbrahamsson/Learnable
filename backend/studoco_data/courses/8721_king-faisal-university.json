@@ -1,0 +1,996 @@
+{
+  "university_id": "8721",
+  "university_name": "King Faisal University",
+  "courses": [
+    {
+      "name": "Accounting",
+      "code": "11221",
+      "url": "https://www.studocu.com/row/course/king-faisal-university/accounting/2658535"
+    },
+    {
+      "name": "Accounting For Governmental And NonProfit Organization",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/king-faisal-university/accounting-for-governmental-and-nonprofit-organization/5523636"
+    },
+    {
+      "name": "Advanced Clinical Diagnostic Techniques In Animal Medicine",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/king-faisal-university/advanced-clinical-diagnostic-techniques-in-animal-medicine/5523359"
+    },
+    {
+      "name": "Advanced Computer Architecture",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/king-faisal-university/advanced-computer-architecture/5526062"
+    },
+    {
+      "name": "Advanced Object Oriented Design And Development",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/king-faisal-university/advanced-object-oriented-design-and-development/5526207"
+    },
+    {
+      "name": "Advanced Software Engineering",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/king-faisal-university/advanced-software-engineering/5526067"
+    },
+    {
+      "name": "Anatomy And Histology 2",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/king-faisal-university/anatomy-and-histology-2/5525935"
+    },
+    {
+      "name": "Anatomy And Physiology",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/king-faisal-university/anatomy-and-physiology/5526840"
+    },
+    {
+      "name": "Arbitration Law, Practice and Procedure",
+      "code": "LLM228",
+      "url": "https://www.studocu.com/row/course/king-faisal-university/arbitration-law-practice-and-procedure/6714437"
+    },
+    {
+      "name": "Bacteriology",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/king-faisal-university/bacteriology/5523193"
+    },
+    {
+      "name": "Biochemistry 1",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/king-faisal-university/biochemistry-1/5525899"
+    },
+    {
+      "name": "Biomedical Data Processing Archiving And Communication",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/king-faisal-university/biomedical-data-processing-archiving-and-communication/5526834"
+    },
+    {
+      "name": "Biomedical Image Processing",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/king-faisal-university/biomedical-image-processing/5526848"
+    },
+    {
+      "name": "Biomedical Imaging Systems",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/king-faisal-university/biomedical-imaging-systems/5526844"
+    },
+    {
+      "name": "Business Research",
+      "code": "0602-1513",
+      "url": "https://www.studocu.com/row/course/king-faisal-university/business-research/4381208"
+    },
+    {
+      "name": "Calculus I",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/king-faisal-university/calculus-i/5526420"
+    },
+    {
+      "name": "Chemical Engineering Optimization",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/king-faisal-university/chemical-engineering-optimization/5526727"
+    },
+    {
+      "name": "Chemical Process Safety",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/king-faisal-university/chemical-process-safety/5526730"
+    },
+    {
+      "name": "Chemistry engineering",
+      "code": "217032333",
+      "url": "https://www.studocu.com/row/course/king-faisal-university/chemistry-engineering/3192385"
+    },
+    {
+      "name": "Clinical Pharmacology And Therapeutics",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/king-faisal-university/clinical-pharmacology-and-therapeutics/5523123"
+    },
+    {
+      "name": "Commercial Law",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/king-faisal-university/commercial-law/5523532"
+    },
+    {
+      "name": "Communication Skills",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/king-faisal-university/communication-skills/5526276"
+    },
+    {
+      "name": "Communication Systems Fundamentals",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/king-faisal-university/communication-systems-fundamentals/5526561"
+    },
+    {
+      "name": "Compiler Design And Construction",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/king-faisal-university/compiler-design-and-construction/5526108"
+    },
+    {
+      "name": "Computer Aided Design",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/king-faisal-university/computer-aided-design/5526818"
+    },
+    {
+      "name": "Concrete Materials",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/king-faisal-university/concrete-materials/5526874"
+    },
+    {
+      "name": "Control Systems",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/king-faisal-university/control-systems/5526820"
+    },
+    {
+      "name": "Corporate governance",
+      "code": "blw2011",
+      "url": "https://www.studocu.com/row/course/king-faisal-university/corporate-governance/4540958"
+    },
+    {
+      "name": "Corrosion Engineering",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/king-faisal-university/corrosion-engineering/5526735"
+    },
+    {
+      "name": "Cost Accounting Systems",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/king-faisal-university/cost-accounting-systems/5523566"
+    },
+    {
+      "name": "Decision Support Systems",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/king-faisal-university/decision-support-systems/5526251"
+    },
+    {
+      "name": "Dental Public Health Epidemiology And Biostatistics",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/king-faisal-university/dental-public-health-epidemiology-and-biostatistics/5526361"
+    },
+    {
+      "name": "Differential Geometry",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/king-faisal-university/differential-geometry/5525712"
+    },
+    {
+      "name": "Digital Logic Design",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/king-faisal-university/digital-logic-design/5526519"
+    },
+    {
+      "name": "Discrete Mathematics",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/king-faisal-university/discrete-mathematics/5525552"
+    },
+    {
+      "name": "EBusiness",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/king-faisal-university/ebusiness/5523797"
+    },
+    {
+      "name": "Economic Feasibility Studies",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/king-faisal-university/economic-feasibility-studies/5523960"
+    },
+    {
+      "name": "Economics And Politics In Islam",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/king-faisal-university/economics-and-politics-in-islam/5526777"
+    },
+    {
+      "name": "Electric Circuits Ii",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/king-faisal-university/electric-circuits-ii/5526537"
+    },
+    {
+      "name": "Electric Energy And Power Systems Lab",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/king-faisal-university/electric-energy-and-power-systems-lab/5526572"
+    },
+    {
+      "name": "Electronics I",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/king-faisal-university/electronics-i/5526541"
+    },
+    {
+      "name": "Energy Conversion",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/king-faisal-university/energy-conversion/5526815"
+    },
+    {
+      "name": "Engineering Computing And Skills",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/king-faisal-university/engineering-computing-and-skills/5526484"
+    },
+    {
+      "name": "Engineering Economics",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/king-faisal-university/engineering-economics/5526503"
+    },
+    {
+      "name": "engineering fluid mechanics",
+      "code": "me 311",
+      "url": "https://www.studocu.com/row/course/king-faisal-university/engineering-fluid-mechanics/5475662"
+    },
+    {
+      "name": "Engineering Mechanics Statics",
+      "code": "ce 103",
+      "url": "https://www.studocu.com/row/course/king-faisal-university/engineering-mechanics-statics/5475666"
+    },
+    {
+      "name": "Engineering Programming",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/king-faisal-university/engineering-programming/5526466"
+    },
+    {
+      "name": "English",
+      "code": "PYD218",
+      "url": "https://www.studocu.com/row/course/king-faisal-university/english/4520029"
+    },
+    {
+      "name": "English Composition I",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/king-faisal-university/english-composition-i/5526401"
+    },
+    {
+      "name": "English Composition Ii",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/king-faisal-university/english-composition-ii/5526405"
+    },
+    {
+      "name": "English Language 1",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/king-faisal-university/english-language-1/5523705"
+    },
+    {
+      "name": "English Language 4",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/king-faisal-university/english-language-4/5523723"
+    },
+    {
+      "name": "Enterprise Resource Planning",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/king-faisal-university/enterprise-resource-planning/5526227"
+    },
+    {
+      "name": "Ethical And Professional Practice Foundation Of Ethical Decision Making",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/king-faisal-university/ethical-and-professional-practice-foundation-of-ethical-decision-making/5526300"
+    },
+    {
+      "name": "Evidence Based Dental Practice",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/king-faisal-university/evidence-based-dental-practice/5526365"
+    },
+    {
+      "name": "Financial Institutions Accounting",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/king-faisal-university/financial-institutions-accounting/5523659"
+    },
+    {
+      "name": "Financial Management 2",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/king-faisal-university/financial-management-2/5523552"
+    },
+    {
+      "name": "Financial Mathematics",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/king-faisal-university/financial-mathematics/5525738"
+    },
+    {
+      "name": "Financial Policies",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/king-faisal-university/financial-policies/5524091"
+    },
+    {
+      "name": "Finite Element Method",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/king-faisal-university/finite-element-method/5526819"
+    },
+    {
+      "name": "Food Quality And Safety And Haccp Program",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/king-faisal-university/food-quality-and-safety-and-haccp-program/5523186"
+    },
+    {
+      "name": "Foundations Of Cybersecurity",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/king-faisal-university/foundations-of-cybersecurity/5525953"
+    },
+    {
+      "name": "Fundamentals Of Cost And Management Accounting",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/king-faisal-university/fundamentals-of-cost-and-management-accounting/5523793"
+    },
+    {
+      "name": "Fundamentals Of Mathematic and Statistics In Business",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/king-faisal-university/fundamentals-of-mathematic-and-statistics-in-business/5523987"
+    },
+    {
+      "name": "Fundamentals Of Mathematics And Statistics For Business",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/king-faisal-university/fundamentals-of-mathematics-and-statistics-for-business/5523468"
+    },
+    {
+      "name": "Fundamentals Of Speech Communication",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/king-faisal-university/fundamentals-of-speech-communication/5526413"
+    },
+    {
+      "name": "fundmental of networks",
+      "code": "cs121",
+      "url": "https://www.studocu.com/row/course/king-faisal-university/fundmental-of-networks/5334902"
+    },
+    {
+      "name": "General Biology",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/king-faisal-university/general-biology/5525025"
+    },
+    {
+      "name": "General Chemistry I",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/king-faisal-university/general-chemistry-i/5526453"
+    },
+    {
+      "name": "General Physics",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/king-faisal-university/general-physics/5525764"
+    },
+    {
+      "name": "General Physics I Lab",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/king-faisal-university/general-physics-i-lab/5526446"
+    },
+    {
+      "name": "general physics lab 2",
+      "code": "0814-145",
+      "url": "https://www.studocu.com/row/course/king-faisal-university/general-physics-lab-2/4370893"
+    },
+    {
+      "name": "Glass Science And Technology",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/king-faisal-university/glass-science-and-technology/5526872"
+    },
+    {
+      "name": "Hardware Security",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/king-faisal-university/hardware-security/5525986"
+    },
+    {
+      "name": "Health And Fitness",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/king-faisal-university/health-and-fitness/5523735"
+    },
+    {
+      "name": "Health Assessment",
+      "code": "NDR000",
+      "url": "https://www.studocu.com/row/course/king-faisal-university/health-assessment/4789857"
+    },
+    {
+      "name": "Heat and mass transfer",
+      "code": "ChE302",
+      "url": "https://www.studocu.com/row/course/king-faisal-university/heat-and-mass-transfer/5164524"
+    },
+    {
+      "name": "History Of Economic Thought",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/king-faisal-university/history-of-economic-thought/5523925"
+    },
+    {
+      "name": "Human Resource Management",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/king-faisal-university/human-resource-management/5523505"
+    },
+    {
+      "name": "Industrial Economics",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/king-faisal-university/industrial-economics/5523877"
+    },
+    {
+      "name": "Infectious Diseases Of Livestock",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/king-faisal-university/infectious-diseases-of-livestock/5523030"
+    },
+    {
+      "name": "Information Systems Audit And Control",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/king-faisal-university/information-systems-audit-and-control/5526231"
+    },
+    {
+      "name": "Information Technology For Biomedical Engineer",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/king-faisal-university/information-technology-for-biomedical-engineer/5526836"
+    },
+    {
+      "name": "Inorganic Chemistry Lab",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/king-faisal-university/inorganic-chemistry-lab/5525252"
+    },
+    {
+      "name": "Instrumental Analysis 1 Lab",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/king-faisal-university/instrumental-analysis-1-lab/5525240"
+    },
+    {
+      "name": "Intermediate Accounting 1",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/king-faisal-university/intermediate-accounting-1/5523559"
+    },
+    {
+      "name": "Intermediate Accounting 2",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/king-faisal-university/intermediate-accounting-2/5523586"
+    },
+    {
+      "name": "International Finance",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/king-faisal-university/international-finance/5524054"
+    },
+    {
+      "name": "Introduction to automata",
+      "code": "cs131",
+      "url": "https://www.studocu.com/row/course/king-faisal-university/introduction-to-automata/4358038"
+    },
+    {
+      "name": "Introduction To Computer Sciences",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/king-faisal-university/introduction-to-computer-sciences/5525442"
+    },
+    {
+      "name": "introduction to linguistics",
+      "code": "37492718",
+      "url": "https://www.studocu.com/row/course/king-faisal-university/introduction-to-linguistics/4654365"
+    },
+    {
+      "name": "Introduction to Psychiatry",
+      "code": "Psyc",
+      "url": "https://www.studocu.com/row/course/king-faisal-university/introduction-to-psychiatry/6762789"
+    },
+    {
+      "name": "Introduction To Statistics",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/king-faisal-university/introduction-to-statistics/5525074"
+    },
+    {
+      "name": "Islamic Creed And Contemporary Doctrines",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/king-faisal-university/islamic-creed-and-contemporary-doctrines/5526781"
+    },
+    {
+      "name": "Islamic Faith",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/king-faisal-university/islamic-faith/5525905"
+    },
+    {
+      "name": "Islamic Finance",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/king-faisal-university/islamic-finance/5524084"
+    },
+    {
+      "name": "Islamic Morals And Ethics",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/king-faisal-university/islamic-morals-and-ethics/5526393"
+    },
+    {
+      "name": "Islamic Social And Family Behavior",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/king-faisal-university/islamic-social-and-family-behavior/5526397"
+    },
+    {
+      "name": "It Infrastructure",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/king-faisal-university/it-infrastructure/5526204"
+    },
+    {
+      "name": "Jurisprudence Of Financial Transactions",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/king-faisal-university/jurisprudence-of-financial-transactions/5523652"
+    },
+    {
+      "name": "King Faisal University",
+      "code": "CHE 455",
+      "url": "https://www.studocu.com/row/course/king-faisal-university/king-faisal-university/7690572"
+    },
+    {
+      "name": "King Faisal University",
+      "code": "CHE 450",
+      "url": "https://www.studocu.com/row/course/king-faisal-university/king-faisal-university/7690573"
+    },
+    {
+      "name": "km&ir",
+      "code": "56876",
+      "url": "https://www.studocu.com/row/course/king-faisal-university/kmir/4557433"
+    },
+    {
+      "name": "Knowledge Management",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/king-faisal-university/knowledge-management/5526239"
+    },
+    {
+      "name": "Laboratory Diagnosis Of Avian Pathogens",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/king-faisal-university/laboratory-diagnosis-of-avian-pathogens/5523408"
+    },
+    {
+      "name": "Laboratory Management And Quality Control Assurance",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/king-faisal-university/laboratory-management-and-quality-control-assurance/5526261"
+    },
+    {
+      "name": "Linear Algebra",
+      "code": "MAT 212",
+      "url": "https://www.studocu.com/row/course/king-faisal-university/linear-algebra/4886924"
+    },
+    {
+      "name": "Linear Algebra",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/king-faisal-university/linear-algebra/5526783"
+    },
+    {
+      "name": "Literary Appreciation",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/king-faisal-university/literary-appreciation/5525089"
+    },
+    {
+      "name": "Management Of Healthcare Technology",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/king-faisal-university/management-of-healthcare-technology/5526835"
+    },
+    {
+      "name": "Managerial Economics",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/king-faisal-university/managerial-economics/5523871"
+    },
+    {
+      "name": "Managing Information Systems Functions",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/king-faisal-university/managing-information-systems-functions/5526235"
+    },
+    {
+      "name": "Marketing",
+      "code": "MKT 501",
+      "url": "https://www.studocu.com/row/course/king-faisal-university/marketing/1642666"
+    },
+    {
+      "name": "Marketing Management",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/king-faisal-university/marketing-management/5523525"
+    },
+    {
+      "name": "Mass Transfer",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/king-faisal-university/mass-transfer/5526691"
+    },
+    {
+      "name": "Material Science",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/king-faisal-university/material-science/5526655"
+    },
+    {
+      "name": "Materials Science",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/king-faisal-university/materials-science/5526491"
+    },
+    {
+      "name": "Maternal",
+      "code": "Mat119",
+      "url": "https://www.studocu.com/row/course/king-faisal-university/maternal/5294407"
+    },
+    {
+      "name": "Math For Ee",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/king-faisal-university/math-for-ee/5526426"
+    },
+    {
+      "name": "Mathematics 1",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/king-faisal-university/mathematics-1/5523747"
+    },
+    {
+      "name": "Mechanical Drawing I",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/king-faisal-university/mechanical-drawing-i/5526789"
+    },
+    {
+      "name": "Mechatronics",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/king-faisal-university/mechatronics/5526576"
+    },
+    {
+      "name": "Medical Bioethics",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/king-faisal-university/medical-bioethics/5526280"
+    },
+    {
+      "name": "Medical Device Innovation And Entrepreneurship",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/king-faisal-university/medical-device-innovation-and-entrepreneurship/5526849"
+    },
+    {
+      "name": "Medical Jurisprudence",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/king-faisal-university/medical-jurisprudence/5524939"
+    },
+    {
+      "name": "Medical Microbiology",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/king-faisal-university/medical-microbiology/5525858"
+    },
+    {
+      "name": "Medicine Type And Usage",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/king-faisal-university/medicine-type-and-usage/5524977"
+    },
+    {
+      "name": "Medicine Type And Use",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/king-faisal-university/medicine-type-and-use/5525484"
+    },
+    {
+      "name": "Microscopic Anatomy Histology",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/king-faisal-university/microscopic-anatomy-histology/5526312"
+    },
+    {
+      "name": "Molecular Biology And Genetics",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/king-faisal-university/molecular-biology-and-genetics/5526839"
+    },
+    {
+      "name": "Multivariate Calculus",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/king-faisal-university/multivariate-calculus/5526433"
+    },
+    {
+      "name": "Mycology",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/king-faisal-university/mycology/5523198"
+    },
+    {
+      "name": "Network Penetration Testing",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/king-faisal-university/network-penetration-testing/5526040"
+    },
+    {
+      "name": "Neurosurgery",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/king-faisal-university/neurosurgery/7080946"
+    },
+    {
+      "name": "New Trends In Computer Networks",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/king-faisal-university/new-trends-in-computer-networks/5526192"
+    },
+    {
+      "name": "Non Destructive Evaluation",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/king-faisal-university/non-destructive-evaluation/5526861"
+    },
+    {
+      "name": "Nuclear Chemistry",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/king-faisal-university/nuclear-chemistry/5525410"
+    },
+    {
+      "name": "Numerical Analysis 1",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/king-faisal-university/numerical-analysis-1/5525594"
+    },
+    {
+      "name": "Nursing",
+      "code": "POC5",
+      "url": "https://www.studocu.com/row/course/king-faisal-university/nursing/5919367"
+    },
+    {
+      "name": "Operations Management",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/king-faisal-university/operations-management/5523580"
+    },
+    {
+      "name": "Organic Chemistry",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/king-faisal-university/organic-chemistry/5526646"
+    },
+    {
+      "name": "Organic Chemistry 1 Lab",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/king-faisal-university/organic-chemistry-1-lab/5525142"
+    },
+    {
+      "name": "organizational BEHAVIOR",
+      "code": "1005",
+      "url": "https://www.studocu.com/row/course/king-faisal-university/organizational-behavior/6649594"
+    },
+    {
+      "name": "Petroleum Refining Engineering",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/king-faisal-university/petroleum-refining-engineering/5526743"
+    },
+    {
+      "name": "Pharmacology 1",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/king-faisal-university/pharmacology-1/5525947"
+    },
+    {
+      "name": "Phase Transformation And Kinetics",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/king-faisal-university/phase-transformation-and-kinetics/5526863"
+    },
+    {
+      "name": "Physical Chemistry",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/king-faisal-university/physical-chemistry/5526642"
+    },
+    {
+      "name": "Physical Chemistry 2",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/king-faisal-university/physical-chemistry-2/5525212"
+    },
+    {
+      "name": "Physical Chemistry 3",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/king-faisal-university/physical-chemistry-3/5525259"
+    },
+    {
+      "name": "Polymer Science And Technology",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/king-faisal-university/polymer-science-and-technology/5526864"
+    },
+    {
+      "name": "Power Electronics",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/king-faisal-university/power-electronics/5526598"
+    },
+    {
+      "name": "Practical Inorganic Synthesis Andcharacterization",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/king-faisal-university/practical-inorganic-synthesis-andcharacterization/5525462"
+    },
+    {
+      "name": "Preparation year",
+      "code": "22112",
+      "url": "https://www.studocu.com/row/course/king-faisal-university/preparation-year/4384605"
+    },
+    {
+      "name": "Principles Of Accounting I",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/king-faisal-university/principles-of-accounting-i/5523770"
+    },
+    {
+      "name": "Principles Of Econometrics",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/king-faisal-university/principles-of-econometrics/5524033"
+    },
+    {
+      "name": "Principles Of Law",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/king-faisal-university/principles-of-law/5523475"
+    },
+    {
+      "name": "Principles Of Macroeconomics",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/king-faisal-university/principles-of-macroeconomics/5523487"
+    },
+    {
+      "name": "product management",
+      "code": "cpm101",
+      "url": "https://www.studocu.com/row/course/king-faisal-university/product-management/4511828"
+    },
+    {
+      "name": "Professional Development And Practice Management Career Planning",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/king-faisal-university/professional-development-and-practice-management-career-planning/5526325"
+    },
+    {
+      "name": "Public Finance And Fiscal Policies",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/king-faisal-university/public-finance-and-fiscal-policies/5523904"
+    },
+    {
+      "name": "Quantum Chemistry",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/king-faisal-university/quantum-chemistry/5525307"
+    },
+    {
+      "name": "Radiological Technique",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/king-faisal-university/radiological-technique/5526349"
+    },
+    {
+      "name": "Renewable And Solar Energy",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/king-faisal-university/renewable-and-solar-energy/5526809"
+    },
+    {
+      "name": "Research Project In Finance",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/king-faisal-university/research-project-in-finance/5524076"
+    },
+    {
+      "name": "Risk Management",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/king-faisal-university/risk-management/5524062"
+    },
+    {
+      "name": "Robotics",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/king-faisal-university/robotics/5526821"
+    },
+    {
+      "name": "Scholarly inquiry",
+      "code": "3101350",
+      "url": "https://www.studocu.com/row/course/king-faisal-university/scholarly-inquiry/5858972"
+    },
+    {
+      "name": "Security In Iot And Wireless Networks",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/king-faisal-university/security-in-iot-and-wireless-networks/5526006"
+    },
+    {
+      "name": "Separation Processes I",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/king-faisal-university/separation-processes-i/5526683"
+    },
+    {
+      "name": "Separation Processes Iii",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/king-faisal-university/separation-processes-iii/5526711"
+    },
+    {
+      "name": "Signals and Systems",
+      "code": "BME 314",
+      "url": "https://www.studocu.com/row/course/king-faisal-university/signals-and-systems/3268537"
+    },
+    {
+      "name": "Social Systems In Islam",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/king-faisal-university/social-systems-in-islam/5523612"
+    },
+    {
+      "name": "Software Requirements Engineering",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/king-faisal-university/software-requirements-engineering/5526149"
+    },
+    {
+      "name": "Software Validation And Verification",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/king-faisal-university/software-validation-and-verification/5526114"
+    },
+    {
+      "name": "Solid State Physics 1",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/king-faisal-university/solid-state-physics-1/5524816"
+    },
+    {
+      "name": "Special Topics In Information Systems",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/king-faisal-university/special-topics-in-information-systems/5526258"
+    },
+    {
+      "name": "Standard Analytical Methods And Quality Control",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/king-faisal-university/standard-analytical-methods-and-quality-control/5525389"
+    },
+    {
+      "name": "Strategic management",
+      "code": "0602-304",
+      "url": "https://www.studocu.com/row/course/king-faisal-university/strategic-management/5482721"
+    },
+    {
+      "name": "Strategic Management and Business",
+      "code": "MGT600",
+      "url": "https://www.studocu.com/row/course/king-faisal-university/strategic-management-and-business/5361599"
+    },
+    {
+      "name": "Strength Of Materials Lab",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/king-faisal-university/strength-of-materials-lab/5526851"
+    },
+    {
+      "name": "System analysis and design",
+      "code": "SAD1",
+      "url": "https://www.studocu.com/row/course/king-faisal-university/system-analysis-and-design/5120750"
+    },
+    {
+      "name": "Technical Writing",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/king-faisal-university/technical-writing/5526409"
+    },
+    {
+      "name": "Technically reports",
+      "code": "Tec022",
+      "url": "https://www.studocu.com/row/course/king-faisal-university/technically-reports/5794159"
+    },
+    {
+      "name": "Theory Of Machines",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/king-faisal-university/theory-of-machines/5526785"
+    },
+    {
+      "name": "Thermodynamics Of Materials",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/king-faisal-university/thermodynamics-of-materials/5526852"
+    },
+    {
+      "name": "Turbomachinery",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/king-faisal-university/turbomachinery/5526817"
+    },
+    {
+      "name": "أساسيات البحث العلمي",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/king-faisal-university/asasyat-albhth-alaalmy/5524269"
+    },
+    {
+      "name": "إدارة المشاريع",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/king-faisal-university/edar%D8%A9-almsharyaa/5524352"
+    },
+    {
+      "name": "إدارة مالية 1",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/king-faisal-university/edar%D8%A9-maly%D8%A9-1/5524211"
+    },
+    {
+      "name": "الأساليب الكمية في الإدارة",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/king-faisal-university/alasalyb-alkmy%D8%A9-fy-aledar%D8%A9/5524240"
+    },
+    {
+      "name": "الاحصاء في الاعمال",
+      "code": "63855",
+      "url": "https://www.studocu.com/row/course/king-faisal-university/alahsa%D8%A1-fy-alaaamal/6660931"
+    },
+    {
+      "name": "بحوث الأعمال",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/king-faisal-university/bhoth-alaaamal/5524320"
+    },
+    {
+      "name": "تخطيط الموارد البشرية",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/king-faisal-university/tkhtyt-almoard-albshry%D8%A9/5524306"
+    },
+    {
+      "name": "تطبيقات في تحليلات الاعمال",
+      "code": "63834",
+      "url": "https://www.studocu.com/row/course/king-faisal-university/ttbykat-fy-thlylat-alaaamal/6660928"
+    },
+    {
+      "name": "مبادئ استرجاع البيانات",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/king-faisal-university/mbade-astrjaaa-albyanat/5524548"
+    },
+    {
+      "name": "مبادئ الاقتصاد الجزئي",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/king-faisal-university/mbade-alaktsad-aljzey/5524135"
+    },
+    {
+      "name": "نظام اجتماعي",
+      "code": "110",
+      "url": "https://www.studocu.com/row/course/king-faisal-university/ntham-ajtmaaay/4820015"
+    },
+    {
+      "name": "نظم المعلومات الإدارية",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/king-faisal-university/nthm-almaalomat-aledary%D8%A9/5524187"
+    }
+  ]
+}

@@ -1,0 +1,501 @@
+{
+  "university_id": "9200",
+  "university_name": "The University of Dodoma",
+  "courses": [
+    {
+      "name": "Administrative Law",
+      "code": "512",
+      "url": "https://www.studocu.com/row/course/the-university-of-dodoma/administrative-law/7398855"
+    },
+    {
+      "name": "algorithms",
+      "code": "IS 139",
+      "url": "https://www.studocu.com/row/course/the-university-of-dodoma/algorithms/5062732"
+    },
+    {
+      "name": "Android development",
+      "code": "CP 311",
+      "url": "https://www.studocu.com/row/course/the-university-of-dodoma/android-development/5167631"
+    },
+    {
+      "name": "aquaculture and aquatic science",
+      "code": "AAQ1",
+      "url": "https://www.studocu.com/row/course/the-university-of-dodoma/aquaculture-and-aquatic-science/5875226"
+    },
+    {
+      "name": "Arts in Economics",
+      "code": "DM027",
+      "url": "https://www.studocu.com/row/course/the-university-of-dodoma/arts-in-economics/5816853"
+    },
+    {
+      "name": "Bachelor of art un Cultural Heritage and Tourism Management",
+      "code": "TH221",
+      "url": "https://www.studocu.com/row/course/the-university-of-dodoma/bachelor-of-art-un-cultural-heritage-and-tourism-management/6243715"
+    },
+    {
+      "name": "Bachelor of science in chemistry",
+      "code": "CH3102",
+      "url": "https://www.studocu.com/row/course/the-university-of-dodoma/bachelor-of-science-in-chemistry/5195065"
+    },
+    {
+      "name": "Bachelor of science in clinical nutrition and dietetics",
+      "code": "BScCND",
+      "url": "https://www.studocu.com/row/course/the-university-of-dodoma/bachelor-of-science-in-clinical-nutrition-and-dietetics/6975679"
+    },
+    {
+      "name": "Bachelor of Science with ICT",
+      "code": "CH 2102",
+      "url": "https://www.studocu.com/row/course/the-university-of-dodoma/bachelor-of-science-with-ict/5165383"
+    },
+    {
+      "name": "Banking and Financial Management",
+      "code": "AF 315",
+      "url": "https://www.studocu.com/row/course/the-university-of-dodoma/banking-and-financial-management/3444418"
+    },
+    {
+      "name": "Blockchain Technology",
+      "code": "CG 321",
+      "url": "https://www.studocu.com/row/course/the-university-of-dodoma/blockchain-technology/6963142"
+    },
+    {
+      "name": "Business intelligence",
+      "code": "IM 312",
+      "url": "https://www.studocu.com/row/course/the-university-of-dodoma/business-intelligence/5212972"
+    },
+    {
+      "name": "Capital Market and securities Law",
+      "code": "LW 2123",
+      "url": "https://www.studocu.com/row/course/the-university-of-dodoma/capital-market-and-securities-law/6676241"
+    },
+    {
+      "name": "Cell biology and histology",
+      "code": "MD122",
+      "url": "https://www.studocu.com/row/course/the-university-of-dodoma/cell-biology-and-histology/5908554"
+    },
+    {
+      "name": "Chemical kinetics",
+      "code": "Ch 223",
+      "url": "https://www.studocu.com/row/course/the-university-of-dodoma/chemical-kinetics/3614629"
+    },
+    {
+      "name": "civil procedure",
+      "code": "llb 231",
+      "url": "https://www.studocu.com/row/course/the-university-of-dodoma/civil-procedure/5467553"
+    },
+    {
+      "name": "Communication skills",
+      "code": "MN 104",
+      "url": "https://www.studocu.com/row/course/the-university-of-dodoma/communication-skills/6469192"
+    },
+    {
+      "name": "Computer Networking",
+      "code": "CN 111",
+      "url": "https://www.studocu.com/row/course/the-university-of-dodoma/computer-networking/7108159"
+    },
+    {
+      "name": "Computer science",
+      "code": "IT111",
+      "url": "https://www.studocu.com/row/course/the-university-of-dodoma/computer-science/5875830"
+    },
+    {
+      "name": "Cost accounting",
+      "code": "ACC 232",
+      "url": "https://www.studocu.com/row/course/the-university-of-dodoma/cost-accounting/6500153"
+    },
+    {
+      "name": "Crime scene investigation",
+      "code": "FS 0115",
+      "url": "https://www.studocu.com/row/course/the-university-of-dodoma/crime-scene-investigation/3407788"
+    },
+    {
+      "name": "Criminal Law",
+      "code": "CL100",
+      "url": "https://www.studocu.com/row/course/the-university-of-dodoma/criminal-law/7267500"
+    },
+    {
+      "name": "Cyber Security and Digital Forensics Engineering",
+      "code": "CSDFE 1",
+      "url": "https://www.studocu.com/row/course/the-university-of-dodoma/cyber-security-and-digital-forensics-engineering/5858545"
+    },
+    {
+      "name": "Data Mining and Warehousing",
+      "code": "CP 322",
+      "url": "https://www.studocu.com/row/course/the-university-of-dodoma/data-mining-and-warehousing/6962954"
+    },
+    {
+      "name": "Database Management Systems",
+      "code": "CP 224",
+      "url": "https://www.studocu.com/row/course/the-university-of-dodoma/database-management-systems/6922010"
+    },
+    {
+      "name": "Deterioration of materials in service",
+      "code": "MN 3112",
+      "url": "https://www.studocu.com/row/course/the-university-of-dodoma/deterioration-of-materials-in-service/5327414"
+    },
+    {
+      "name": "Development studies",
+      "code": "DS 102",
+      "url": "https://www.studocu.com/row/course/the-university-of-dodoma/development-studies/6605496"
+    },
+    {
+      "name": "Developmental perspective",
+      "code": "Ds102",
+      "url": "https://www.studocu.com/row/course/the-university-of-dodoma/developmental-perspective/5865408"
+    },
+    {
+      "name": "digital image processing",
+      "code": "cs100",
+      "url": "https://www.studocu.com/row/course/the-university-of-dodoma/digital-image-processing/4345733"
+    },
+    {
+      "name": "Digital Signal Processing",
+      "code": "TN412",
+      "url": "https://www.studocu.com/row/course/the-university-of-dodoma/digital-signal-processing/4360395"
+    },
+    {
+      "name": "Diploma in pharmacy",
+      "code": "PST06",
+      "url": "https://www.studocu.com/row/course/the-university-of-dodoma/diploma-in-pharmacy/6834587"
+    },
+    {
+      "name": "Disability law",
+      "code": "LW 4105",
+      "url": "https://www.studocu.com/row/course/the-university-of-dodoma/disability-law/6862737"
+    },
+    {
+      "name": "Drilling engineering",
+      "code": "MN 325",
+      "url": "https://www.studocu.com/row/course/the-university-of-dodoma/drilling-engineering/6663294"
+    },
+    {
+      "name": "Driving",
+      "code": "BDC001",
+      "url": "https://www.studocu.com/row/course/the-university-of-dodoma/driving/7262607"
+    },
+    {
+      "name": "educatonal in arts",
+      "code": "beda 221",
+      "url": "https://www.studocu.com/row/course/the-university-of-dodoma/educatonal-in-arts/6072158"
+    },
+    {
+      "name": "engineering drawing",
+      "code": "CT111",
+      "url": "https://www.studocu.com/row/course/the-university-of-dodoma/engineering-drawing/4351520"
+    },
+    {
+      "name": "Enterprise",
+      "code": "Im 223",
+      "url": "https://www.studocu.com/row/course/the-university-of-dodoma/enterprise/4921852"
+    },
+    {
+      "name": "environmental law",
+      "code": "LW 228",
+      "url": "https://www.studocu.com/row/course/the-university-of-dodoma/environmental-law/6448075"
+    },
+    {
+      "name": "Epidemiology",
+      "code": "MD 215",
+      "url": "https://www.studocu.com/row/course/the-university-of-dodoma/epidemiology/7373869"
+    },
+    {
+      "name": "evidence",
+      "code": "316",
+      "url": "https://www.studocu.com/row/course/the-university-of-dodoma/evidence/4739592"
+    },
+    {
+      "name": "Financial Mathematics",
+      "code": "MT3205",
+      "url": "https://www.studocu.com/row/course/the-university-of-dodoma/financial-mathematics/7340267"
+    },
+    {
+      "name": "Gross and neuroanatomy",
+      "code": "MD111",
+      "url": "https://www.studocu.com/row/course/the-university-of-dodoma/gross-and-neuroanatomy/7063882"
+    },
+    {
+      "name": "Health Information Science",
+      "code": "DM062",
+      "url": "https://www.studocu.com/row/course/the-university-of-dodoma/health-information-science/7360425"
+    },
+    {
+      "name": "History of Africa",
+      "code": "HS 101",
+      "url": "https://www.studocu.com/row/course/the-university-of-dodoma/history-of-africa/5731475"
+    },
+    {
+      "name": "Human anatomy",
+      "code": "NS 111",
+      "url": "https://www.studocu.com/row/course/the-university-of-dodoma/human-anatomy/7327384"
+    },
+    {
+      "name": "Human right law",
+      "code": "LW 3204",
+      "url": "https://www.studocu.com/row/course/the-university-of-dodoma/human-right-law/7005541"
+    },
+    {
+      "name": "ICT Research Methods",
+      "code": "IS 220",
+      "url": "https://www.studocu.com/row/course/the-university-of-dodoma/ict-research-methods/7108162"
+    },
+    {
+      "name": "Industrial marketing",
+      "code": "MK 203",
+      "url": "https://www.studocu.com/row/course/the-university-of-dodoma/industrial-marketing/4369791"
+    },
+    {
+      "name": "Information System",
+      "code": "BsIS111",
+      "url": "https://www.studocu.com/row/course/the-university-of-dodoma/information-system/4739564"
+    },
+    {
+      "name": "Information Technology",
+      "code": "It",
+      "url": "https://www.studocu.com/row/course/the-university-of-dodoma/information-technology/7234279"
+    },
+    {
+      "name": "Instructional Design and Information Technology",
+      "code": "DM074",
+      "url": "https://www.studocu.com/row/course/the-university-of-dodoma/instructional-design-and-information-technology/7590493"
+    },
+    {
+      "name": "Insurance law",
+      "code": "LW472",
+      "url": "https://www.studocu.com/row/course/the-university-of-dodoma/insurance-law/6743337"
+    },
+    {
+      "name": "Intellectual property law",
+      "code": "LW 318",
+      "url": "https://www.studocu.com/row/course/the-university-of-dodoma/intellectual-property-law/2068568"
+    },
+    {
+      "name": "Intergrated water resources management",
+      "code": "GO 311",
+      "url": "https://www.studocu.com/row/course/the-university-of-dodoma/intergrated-water-resources-management/6698688"
+    },
+    {
+      "name": "International Business Finance",
+      "code": "AF 327",
+      "url": "https://www.studocu.com/row/course/the-university-of-dodoma/international-business-finance/5358812"
+    },
+    {
+      "name": "Internationalisation of Entrepreneurial Venture",
+      "code": "EME 314",
+      "url": "https://www.studocu.com/row/course/the-university-of-dodoma/internationalisation-of-entrepreneurial-venture/5167915"
+    },
+    {
+      "name": "Internet Programming",
+      "code": "Cp221",
+      "url": "https://www.studocu.com/row/course/the-university-of-dodoma/internet-programming/6178572"
+    },
+    {
+      "name": "Introduction to Database",
+      "code": "CP 121",
+      "url": "https://www.studocu.com/row/course/the-university-of-dodoma/introduction-to-database/6521198"
+    },
+    {
+      "name": "Introduction to microbiology",
+      "code": "BSC2018BI124",
+      "url": "https://www.studocu.com/row/course/the-university-of-dodoma/introduction-to-microbiology/3729734"
+    },
+    {
+      "name": "Investiment law",
+      "code": "215",
+      "url": "https://www.studocu.com/row/course/the-university-of-dodoma/investiment-law/3974906"
+    },
+    {
+      "name": "IT security",
+      "code": "IA 112",
+      "url": "https://www.studocu.com/row/course/the-university-of-dodoma/it-security/7422536"
+    },
+    {
+      "name": "Journalism and Public Relations",
+      "code": "BAJP 2024",
+      "url": "https://www.studocu.com/row/course/the-university-of-dodoma/journalism-and-public-relations/7384273"
+    },
+    {
+      "name": "Labor law",
+      "code": "Lw 3102",
+      "url": "https://www.studocu.com/row/course/the-university-of-dodoma/labor-law/5711864"
+    },
+    {
+      "name": "Land law",
+      "code": "Lw 2202",
+      "url": "https://www.studocu.com/row/course/the-university-of-dodoma/land-law/5000002"
+    },
+    {
+      "name": "Legal drafting and writing",
+      "code": "LW 4202",
+      "url": "https://www.studocu.com/row/course/the-university-of-dodoma/legal-drafting-and-writing/6946123"
+    },
+    {
+      "name": "Legal method",
+      "code": "LW 1104",
+      "url": "https://www.studocu.com/row/course/the-university-of-dodoma/legal-method/7570368"
+    },
+    {
+      "name": "legAL RESEARCH",
+      "code": "LW 314",
+      "url": "https://www.studocu.com/row/course/the-university-of-dodoma/legal-research/4739594"
+    },
+    {
+      "name": "Linux",
+      "code": "CP 211",
+      "url": "https://www.studocu.com/row/course/the-university-of-dodoma/linux/5212973"
+    },
+    {
+      "name": "LLM Coprorate Law",
+      "code": "LW 601",
+      "url": "https://www.studocu.com/row/course/the-university-of-dodoma/llm-coprorate-law/6728720"
+    },
+    {
+      "name": "Management Information Systems",
+      "code": "IM 325",
+      "url": "https://www.studocu.com/row/course/the-university-of-dodoma/management-information-systems/5878866"
+    },
+    {
+      "name": "Managerial Economics",
+      "code": "Ecu07001",
+      "url": "https://www.studocu.com/row/course/the-university-of-dodoma/managerial-economics/7400360"
+    },
+    {
+      "name": "Medical biochemistry",
+      "code": "MD112",
+      "url": "https://www.studocu.com/row/course/the-university-of-dodoma/medical-biochemistry/5908548"
+    },
+    {
+      "name": "Medical doctor",
+      "code": "MD222",
+      "url": "https://www.studocu.com/row/course/the-university-of-dodoma/medical-doctor/6997114"
+    },
+    {
+      "name": "Midwifery",
+      "code": "NS312",
+      "url": "https://www.studocu.com/row/course/the-university-of-dodoma/midwifery/7343944"
+    },
+    {
+      "name": "Mineral economics",
+      "code": "MN 41110",
+      "url": "https://www.studocu.com/row/course/the-university-of-dodoma/mineral-economics/5906404"
+    },
+    {
+      "name": "Nadharia za uhakiki",
+      "code": "KF210",
+      "url": "https://www.studocu.com/row/course/the-university-of-dodoma/nadharia-za-uhakiki/6232980"
+    },
+    {
+      "name": "Nursing leadership and management",
+      "code": "NS422",
+      "url": "https://www.studocu.com/row/course/the-university-of-dodoma/nursing-leadership-and-management/5405929"
+    },
+    {
+      "name": "Online Education Strategies",
+      "code": "UNIV 1001",
+      "url": "https://www.studocu.com/row/course/the-university-of-dodoma/online-education-strategies/6519258"
+    },
+    {
+      "name": "Operating System",
+      "code": "CP226",
+      "url": "https://www.studocu.com/row/course/the-university-of-dodoma/operating-system/6920728"
+    },
+    {
+      "name": "Organizational Behavior",
+      "code": "BS 6101",
+      "url": "https://www.studocu.com/row/course/the-university-of-dodoma/organizational-behavior/5871432"
+    },
+    {
+      "name": "Partials differential equation",
+      "code": "MT2202",
+      "url": "https://www.studocu.com/row/course/the-university-of-dodoma/partials-differential-equation/7340269"
+    },
+    {
+      "name": "Physiology",
+      "code": "-",
+      "url": "https://www.studocu.com/row/course/the-university-of-dodoma/physiology/3642438"
+    },
+    {
+      "name": "Political science and public administration",
+      "code": "Po312",
+      "url": "https://www.studocu.com/row/course/the-university-of-dodoma/political-science-and-public-administration/5866816"
+    },
+    {
+      "name": "Private International Law",
+      "code": "LW 4102",
+      "url": "https://www.studocu.com/row/course/the-university-of-dodoma/private-international-law/6767091"
+    },
+    {
+      "name": "Professional practice",
+      "code": "GI3105",
+      "url": "https://www.studocu.com/row/course/the-university-of-dodoma/professional-practice/7770668"
+    },
+    {
+      "name": "Programming in C",
+      "code": "OIT 13",
+      "url": "https://www.studocu.com/row/course/the-university-of-dodoma/programming-in-c/6866727"
+    },
+    {
+      "name": "Project Management",
+      "code": "BT 312",
+      "url": "https://www.studocu.com/row/course/the-university-of-dodoma/project-management/5212971"
+    },
+    {
+      "name": "Public International Law",
+      "code": "LW 3101",
+      "url": "https://www.studocu.com/row/course/the-university-of-dodoma/public-international-law/6767100"
+    },
+    {
+      "name": "Regional",
+      "code": "Pudr 20776",
+      "url": "https://www.studocu.com/row/course/the-university-of-dodoma/regional/5160372"
+    },
+    {
+      "name": "Research Project 1",
+      "code": "BB3101",
+      "url": "https://www.studocu.com/row/course/the-university-of-dodoma/research-project-1/6903240"
+    },
+    {
+      "name": "Rock Mechanics",
+      "code": "MN 312",
+      "url": "https://www.studocu.com/row/course/the-university-of-dodoma/rock-mechanics/5878458"
+    },
+    {
+      "name": "Sintaksia ya kiswahili",
+      "code": "Ks 311",
+      "url": "https://www.studocu.com/row/course/the-university-of-dodoma/sintaksia-ya-kiswahili/6639990"
+    },
+    {
+      "name": "Social psychology",
+      "code": "PSYCH 123",
+      "url": "https://www.studocu.com/row/course/the-university-of-dodoma/social-psychology/6509890"
+    },
+    {
+      "name": "sociology",
+      "code": "URP2021",
+      "url": "https://www.studocu.com/row/course/the-university-of-dodoma/sociology/5187853"
+    },
+    {
+      "name": "Surgical nursing 1",
+      "code": "Ns 225",
+      "url": "https://www.studocu.com/row/course/the-university-of-dodoma/surgical-nursing-1/7069198"
+    },
+    {
+      "name": "System Analysis and Design",
+      "code": "CP212",
+      "url": "https://www.studocu.com/row/course/the-university-of-dodoma/system-analysis-and-design/5988237"
+    },
+    {
+      "name": "Tax Law",
+      "code": "Lw 3105",
+      "url": "https://www.studocu.com/row/course/the-university-of-dodoma/tax-law/5170537"
+    },
+    {
+      "name": "Telecommunications engineering",
+      "code": "BSC-TE4",
+      "url": "https://www.studocu.com/row/course/the-university-of-dodoma/telecommunications-engineering/5942781"
+    },
+    {
+      "name": "Trends and Issues in Instructional Design",
+      "code": "MDDE 619",
+      "url": "https://www.studocu.com/row/course/the-university-of-dodoma/trends-and-issues-in-instructional-design/1519218"
+    }
+  ]
+}

@@ -1,19 +1,30 @@
 import { CanvasToolbar } from './card-canvas/CanvasToolbar';
 import { useCardCanvas } from './card-canvas/useCardCanvas';
-import { Dialog, DialogContent, DialogDescription, DialogFooter, DialogHeader, DialogTitle } from '@/components/ui/dialog';
+import {
+  Dialog,
+  DialogContent,
+  DialogDescription,
+  DialogFooter,
+  DialogHeader,
+  DialogTitle,
+} from '@/components/ui/dialog';
 import { Input } from '@/components/ui/input';
 import { Textarea } from '@/components/ui/textarea';
 import { Button } from '@/components/ui/button';
 import { useToast } from '@/hooks/use-toast';
 import { GitMerge } from 'lucide-react';
+import { useParams } from 'react-router-dom'; // ✅ Added for dynamic route parsing
 
 type Props = {
-  // Percentage of the container width occupied by the right overlay (chat)
   rightOffsetPercent?: number;
   graphId?: number | null;
 };
 
 export const CardCanvas = ({ rightOffsetPercent = 0, graphId = null }: Props) => {
+  // ✅ Extract graphId from URL (fallback to prop if provided)
+  const { graphId: graphIdParam } = useParams<{ graphId?: string }>();
+  const parsedGraphId = graphId ?? (graphIdParam ? parseInt(graphIdParam, 10) : null);
+
   const {
     canvasRef,
     containerRef,
@@ -26,7 +37,6 @@ export const CardCanvas = ({ rightOffsetPercent = 0, graphId = null }: Props) =>
     zoomOut,
     selectedCardIds,
     multiSelectAnchor,
-    // Editor
     editOpen,
     editId,
     editTitle,
@@ -41,7 +51,8 @@ export const CardCanvas = ({ rightOffsetPercent = 0, graphId = null }: Props) =>
     saveEdits,
     deleteEditedCard,
     editMode,
-  } = useCardCanvas(graphId);
+  } = useCardCanvas(parsedGraphId);
+
   const { toast } = useToast();
 
   return (
@@ -54,6 +65,7 @@ export const CardCanvas = ({ rightOffsetPercent = 0, graphId = null }: Props) =>
         backgroundPosition: '0 0',
       }}
     >
+      {/* ✅ Pass parsed graph ID to toolbar */}
       <CanvasToolbar
         rightOffsetPercent={rightOffsetPercent}
         isMenuOpen={isAddMenuOpen}
@@ -63,10 +75,12 @@ export const CardCanvas = ({ rightOffsetPercent = 0, graphId = null }: Props) =>
         onZoomOut={zoomOut}
         onAddText={handleAddTextCard}
         onAddImage={handleAddImageCard}
+        graphId={parsedGraphId ?? undefined}
       />
+
       <canvas ref={canvasRef} />
 
-      {/* Multi-select action popover */}
+      {/* Multi-select merge compatibility button */}
       {multiSelectAnchor && selectedCardIds.length >= 2 && (
         <div
           className="absolute z-20"
@@ -74,7 +88,7 @@ export const CardCanvas = ({ rightOffsetPercent = 0, graphId = null }: Props) =>
             left: (() => {
               const w = containerRef.current?.clientWidth ?? 0;
               const desired = multiSelectAnchor.left;
-              const maxLeft = Math.max(0, w - 240); // clamp so button stays inside
+              const maxLeft = Math.max(0, w - 240);
               return Math.min(desired, maxLeft);
             })(),
             top: Math.max(4, multiSelectAnchor.top),
@@ -84,8 +98,9 @@ export const CardCanvas = ({ rightOffsetPercent = 0, graphId = null }: Props) =>
             className="rounded-lg bg-[#2A2A28] hover:bg-[#33332F] text-[#C5C1BA] text-sm h-8 px-3 border border-[#3F3F3D] shadow"
             onClick={() => {
               const n = selectedCardIds.length;
-              toast({ description: `Checking merge compatibility for ${n} selected cards…` });
-              // Future: trigger real merge analysis here
+              toast({
+                description: `Checking merge compatibility for ${n} selected cards…`,
+              });
             }}
           >
             <span className="inline-flex items-center gap-1.5">
@@ -100,30 +115,60 @@ export const CardCanvas = ({ rightOffsetPercent = 0, graphId = null }: Props) =>
       <Dialog open={editOpen} onOpenChange={setEditOpen}>
         <DialogContent className="max-w-md bg-[#1C1C1C] text-[#C5C1BA] border border-[#272725]">
           <DialogHeader>
-            <DialogTitle className="text-[#E5E3DF]">{editMode === 'create' ? 'Create Card' : 'Edit Card'}</DialogTitle>
-            <DialogDescription className="text-[#76746F]">{editMode === 'create' ? 'Set title, description, and size.' : 'Update title, description, and size.'}</DialogDescription>
+            <DialogTitle className="text-[#E5E3DF]">
+              {editMode === 'create' ? 'Create Card' : 'Edit Card'}
+            </DialogTitle>
+            <DialogDescription className="text-[#76746F]">
+              {editMode === 'create'
+                ? 'Set title, description, and size.'
+                : 'Update title, description, and size.'}
+            </DialogDescription>
           </DialogHeader>
+
           <div className="space-y-3">
             <div>
               <div className="text-xs text-[#B5B2AC] mb-1">Title</div>
-              <Input value={editTitle} onChange={(e) => setEditTitle(e.target.value)} className="h-8 bg-transparent border-[#3F3F3D] text-[#C5C1BA]" />
+              <Input
+                value={editTitle}
+                onChange={(e) => setEditTitle(e.target.value)}
+                className="h-8 bg-transparent border-[#3F3F3D] text-[#C5C1BA]"
+              />
             </div>
             <div>
               <div className="text-xs text-[#B5B2AC] mb-1">Description</div>
-              <Textarea value={editDescription} onChange={(e) => setEditDescription(e.target.value)} className="bg-transparent border-[#3F3F3D] text-[#C5C1BA] min-h-[100px]" />
+              <Textarea
+                value={editDescription}
+                onChange={(e) => setEditDescription(e.target.value)}
+                className="bg-transparent border-[#3F3F3D] text-[#C5C1BA] min-h-[100px]"
+              />
             </div>
             <div className="grid grid-cols-2 gap-3">
               <div>
                 <div className="text-xs text-[#B5B2AC] mb-1">Width</div>
-                <Input type="number" value={editWidth} onChange={(e) => setEditWidth(Math.max(140, Number(e.target.value) || 0))} className="h-8 bg-transparent border-[#3F3F3D] text-[#C5C1BA]" />
+                <Input
+                  type="number"
+                  value={editWidth}
+                  onChange={(e) =>
+                    setEditWidth(Math.max(140, Number(e.target.value) || 0))
+                  }
+                  className="h-8 bg-transparent border-[#3F3F3D] text-[#C5C1BA]"
+                />
               </div>
               <div>
                 <div className="text-xs text-[#B5B2AC] mb-1">Height</div>
-                <Input type="number" value={editHeight} onChange={(e) => setEditHeight(Math.max(120, Number(e.target.value) || 0))} className="h-8 bg-transparent border-[#3F3F3D] text-[#C5C1BA]" />
+                <Input
+                  type="number"
+                  value={editHeight}
+                  onChange={(e) =>
+                    setEditHeight(Math.max(120, Number(e.target.value) || 0))
+                  }
+                  className="h-8 bg-transparent border-[#3F3F3D] text-[#C5C1BA]"
+                />
               </div>
             </div>
             <div className="text-[11px] text-[#76746F]">Card ID: {editId}</div>
           </div>
+
           <DialogFooter className="flex items-center justify-between gap-2">
             <Button
               className="h-8 px-3 bg-[#DC2626] hover:bg-[#DC2626]/90 text-white"
@@ -132,10 +177,17 @@ export const CardCanvas = ({ rightOffsetPercent = 0, graphId = null }: Props) =>
               Delete
             </Button>
             <div className="space-x-2">
-              <Button variant="ghost" className="h-8 px-3 text-[#C5C1BA] hover:text-white hover:bg-[#272725]" onClick={() => setEditOpen(false)}>
+              <Button
+                variant="ghost"
+                className="h-8 px-3 text-[#C5C1BA] hover:text-white hover:bg-[#272725]"
+                onClick={() => setEditOpen(false)}
+              >
                 Cancel
               </Button>
-              <Button className="h-8 px-3 bg-[#1E52F1] hover:bg-[#1E52F1]/90 text-white" onClick={() => saveEdits()}>
+              <Button
+                className="h-8 px-3 bg-[#1E52F1] hover:bg-[#1E52F1]/90 text-white"
+                onClick={() => saveEdits()}
+              >
                 {editMode === 'create' ? 'Create' : 'Save'}
               </Button>
             </div>

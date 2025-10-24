@@ -1,0 +1,741 @@
+{
+  "university_id": "9454",
+  "university_name": "Koç Üniversitesi",
+  "courses": [
+    {
+      "name": "abstract math",
+      "code": "MATH 103",
+      "url": "https://www.studocu.com/row/course/koc-universitesi/abstract-math/5726549"
+    },
+    {
+      "name": "Academic Writing",
+      "code": "ACWR 101",
+      "url": "https://www.studocu.com/row/course/koc-universitesi/academic-writing/3728716"
+    },
+    {
+      "name": "Adolescent Development",
+      "code": "PSYC 455",
+      "url": "https://www.studocu.com/row/course/koc-universitesi/adolescent-development/4363134"
+    },
+    {
+      "name": "Analytical Chemistry",
+      "code": "CHEM204",
+      "url": "https://www.studocu.com/row/course/koc-universitesi/analytical-chemistry/5829772"
+    },
+    {
+      "name": "art and innovation",
+      "code": "ASIU 104",
+      "url": "https://www.studocu.com/row/course/koc-universitesi/art-and-innovation/6599855"
+    },
+    {
+      "name": "Big Data for Business",
+      "code": "QMBU 420",
+      "url": "https://www.studocu.com/row/course/koc-universitesi/big-data-for-business/7508441"
+    },
+    {
+      "name": "Biochemistry",
+      "code": "CHBI 300",
+      "url": "https://www.studocu.com/row/course/koc-universitesi/biochemistry/4337368"
+    },
+    {
+      "name": "Brain and Behavior",
+      "code": "PSYC 220",
+      "url": "https://www.studocu.com/row/course/koc-universitesi/brain-and-behavior/3914576"
+    },
+    {
+      "name": "Business Law",
+      "code": "BLAW 201",
+      "url": "https://www.studocu.com/row/course/koc-universitesi/business-law/4546485"
+    },
+    {
+      "name": "Calculus 1",
+      "code": "MATH106",
+      "url": "https://www.studocu.com/row/course/koc-universitesi/calculus-1/2917867"
+    },
+    {
+      "name": "Capital Markets",
+      "code": "MFIN403",
+      "url": "https://www.studocu.com/row/course/koc-universitesi/capital-markets/7360859"
+    },
+    {
+      "name": "Ceza özel",
+      "code": "Law 202",
+      "url": "https://www.studocu.com/row/course/koc-universitesi/ceza-ozel/7213709"
+    },
+    {
+      "name": "Chemistry",
+      "code": "123",
+      "url": "https://www.studocu.com/row/course/koc-universitesi/chemistry/3222372"
+    },
+    {
+      "name": "Circuit analysis",
+      "code": "ELEC202",
+      "url": "https://www.studocu.com/row/course/koc-universitesi/circuit-analysis/4554553"
+    },
+    {
+      "name": "Clinical Psychology",
+      "code": "PSYC372",
+      "url": "https://www.studocu.com/row/course/koc-universitesi/clinical-psychology/6908037"
+    },
+    {
+      "name": "COding with python",
+      "code": "COMP125",
+      "url": "https://www.studocu.com/row/course/koc-universitesi/coding-with-python/7259628"
+    },
+    {
+      "name": "Comparative Politics",
+      "code": "INTL 204",
+      "url": "https://www.studocu.com/row/course/koc-universitesi/comparative-politics/5843009"
+    },
+    {
+      "name": "Computer Architecture",
+      "code": "Comp303",
+      "url": "https://www.studocu.com/row/course/koc-universitesi/computer-architecture/4343581"
+    },
+    {
+      "name": "Computer Proficiency",
+      "code": "CPAP100",
+      "url": "https://www.studocu.com/row/course/koc-universitesi/computer-proficiency/7041739"
+    },
+    {
+      "name": "Computer Vision with Deep Learning",
+      "code": "Comp 411",
+      "url": "https://www.studocu.com/row/course/koc-universitesi/computer-vision-with-deep-learning/6700779"
+    },
+    {
+      "name": "CONSTITUTIONAL LAW",
+      "code": "LAW103",
+      "url": "https://www.studocu.com/row/course/koc-universitesi/constitutional-law/3223467"
+    },
+    {
+      "name": "corporate social responsibility",
+      "code": "mktg432",
+      "url": "https://www.studocu.com/row/course/koc-universitesi/corporate-social-responsibility/7620221"
+    },
+    {
+      "name": "Data Structures and Algorithms",
+      "code": "COMP 202",
+      "url": "https://www.studocu.com/row/course/koc-universitesi/data-structures-and-algorithms/6623481"
+    },
+    {
+      "name": "Decision Analysis",
+      "code": "INDR 430",
+      "url": "https://www.studocu.com/row/course/koc-universitesi/decision-analysis/7237219"
+    },
+    {
+      "name": "Derecho Administration",
+      "code": "derecho administrati",
+      "url": "https://www.studocu.com/row/course/koc-universitesi/derecho-administration/4817393"
+    },
+    {
+      "name": "Deutsch",
+      "code": "Germ202",
+      "url": "https://www.studocu.com/row/course/koc-universitesi/deutsch/5239400"
+    },
+    {
+      "name": "developmental psychology",
+      "code": "PSYC 206",
+      "url": "https://www.studocu.com/row/course/koc-universitesi/developmental-psychology/6888449"
+    },
+    {
+      "name": "Digital Circuit Design",
+      "code": "ELEC205",
+      "url": "https://www.studocu.com/row/course/koc-universitesi/digital-circuit-design/7299554"
+    },
+    {
+      "name": "discrete math",
+      "code": "INDR201",
+      "url": "https://www.studocu.com/row/course/koc-universitesi/discrete-math/6698344"
+    },
+    {
+      "name": "Econometrics",
+      "code": "econ311",
+      "url": "https://www.studocu.com/row/course/koc-universitesi/econometrics/4412698"
+    },
+    {
+      "name": "Economic Development",
+      "code": "ECON 370",
+      "url": "https://www.studocu.com/row/course/koc-universitesi/economic-development/4345561"
+    },
+    {
+      "name": "Economics",
+      "code": "ECON 350",
+      "url": "https://www.studocu.com/row/course/koc-universitesi/economics/6630220"
+    },
+    {
+      "name": "Economy",
+      "code": "econ 102",
+      "url": "https://www.studocu.com/row/course/koc-universitesi/economy/3235105"
+    },
+    {
+      "name": "Edebiyat IB",
+      "code": "IBHL1",
+      "url": "https://www.studocu.com/row/course/koc-universitesi/edebiyat-ib/5480417"
+    },
+    {
+      "name": "elc reading",
+      "code": "read01",
+      "url": "https://www.studocu.com/row/course/koc-universitesi/elc-reading/4339667"
+    },
+    {
+      "name": "Electromagnetism 1",
+      "code": "PHYS 301",
+      "url": "https://www.studocu.com/row/course/koc-universitesi/electromagnetism-1/6506028"
+    },
+    {
+      "name": "Electronics",
+      "code": "4144",
+      "url": "https://www.studocu.com/row/course/koc-universitesi/electronics/7532284"
+    },
+    {
+      "name": "Endocrine Physiology",
+      "code": "HSMP509",
+      "url": "https://www.studocu.com/row/course/koc-universitesi/endocrine-physiology/5317280"
+    },
+    {
+      "name": "Enforcement law",
+      "code": "LAW408",
+      "url": "https://www.studocu.com/row/course/koc-universitesi/enforcement-law/6640830"
+    },
+    {
+      "name": "Engineering statics",
+      "code": "ME",
+      "url": "https://www.studocu.com/row/course/koc-universitesi/engineering-statics/4407459"
+    },
+    {
+      "name": "english literature",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/koc-universitesi/english-literature/5307974"
+    },
+    {
+      "name": "environmental and natural resources economy",
+      "code": "econ425",
+      "url": "https://www.studocu.com/row/course/koc-universitesi/environmental-and-natural-resources-economy/7334108"
+    },
+    {
+      "name": "Ethisch dillema",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/koc-universitesi/ethisch-dillema/5384637"
+    },
+    {
+      "name": "European Cinema",
+      "code": "MAVA335",
+      "url": "https://www.studocu.com/row/course/koc-universitesi/european-cinema/6176990"
+    },
+    {
+      "name": "European Foreign Policy",
+      "code": "INTL 447",
+      "url": "https://www.studocu.com/row/course/koc-universitesi/european-foreign-policy/5881614"
+    },
+    {
+      "name": "family business management",
+      "code": "mgmt445",
+      "url": "https://www.studocu.com/row/course/koc-universitesi/family-business-management/7334111"
+    },
+    {
+      "name": "Financial accounting",
+      "code": "Acct100",
+      "url": "https://www.studocu.com/row/course/koc-universitesi/financial-accounting/2268542"
+    },
+    {
+      "name": "Fluid Mechanics",
+      "code": "Mech 301",
+      "url": "https://www.studocu.com/row/course/koc-universitesi/fluid-mechanics/3434573"
+    },
+    {
+      "name": "Fluid Mechanics",
+      "code": "CHBI 301",
+      "url": "https://www.studocu.com/row/course/koc-universitesi/fluid-mechanics/7597517"
+    },
+    {
+      "name": "French 1",
+      "code": "Frenc 201",
+      "url": "https://www.studocu.com/row/course/koc-universitesi/french-1/4522274"
+    },
+    {
+      "name": "Game Theory",
+      "code": "ECON333",
+      "url": "https://www.studocu.com/row/course/koc-universitesi/game-theory/3239091"
+    },
+    {
+      "name": "Gene structure",
+      "code": "MBGE204",
+      "url": "https://www.studocu.com/row/course/koc-universitesi/gene-structure/5334764"
+    },
+    {
+      "name": "General Chemistry",
+      "code": "CHEM 103",
+      "url": "https://www.studocu.com/row/course/koc-universitesi/general-chemistry/6023355"
+    },
+    {
+      "name": "Global Business Strategy",
+      "code": "ECSA 220",
+      "url": "https://www.studocu.com/row/course/koc-universitesi/global-business-strategy/6473588"
+    },
+    {
+      "name": "Health Economics",
+      "code": "ECON 345",
+      "url": "https://www.studocu.com/row/course/koc-universitesi/health-economics/4400831"
+    },
+    {
+      "name": "Heat Transfer",
+      "code": "Mech 302",
+      "url": "https://www.studocu.com/row/course/koc-universitesi/heat-transfer/7430472"
+    },
+    {
+      "name": "Historical Political Thought",
+      "code": "Intl 308",
+      "url": "https://www.studocu.com/row/course/koc-universitesi/historical-political-thought/7014058"
+    },
+    {
+      "name": "history",
+      "code": "hist 300",
+      "url": "https://www.studocu.com/row/course/koc-universitesi/history/4827080"
+    },
+    {
+      "name": "human resource management",
+      "code": "201",
+      "url": "https://www.studocu.com/row/course/koc-universitesi/human-resource-management/5326125"
+    },
+    {
+      "name": "Imagining the other",
+      "code": "ASIU102",
+      "url": "https://www.studocu.com/row/course/koc-universitesi/imagining-the-other/5929310"
+    },
+    {
+      "name": "Industrial Topics",
+      "code": "INDR372",
+      "url": "https://www.studocu.com/row/course/koc-universitesi/industrial-topics/5355200"
+    },
+    {
+      "name": "Information Systems",
+      "code": "INDR 481",
+      "url": "https://www.studocu.com/row/course/koc-universitesi/information-systems/7237221"
+    },
+    {
+      "name": "Inheritence Law",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/koc-universitesi/inheritence-law/7399110"
+    },
+    {
+      "name": "Intermediate Macroeconomics",
+      "code": "ECON 202",
+      "url": "https://www.studocu.com/row/course/koc-universitesi/intermediate-macroeconomics/6230530"
+    },
+    {
+      "name": "Intermediate Microeconomics",
+      "code": "ECON201",
+      "url": "https://www.studocu.com/row/course/koc-universitesi/intermediate-microeconomics/4243653"
+    },
+    {
+      "name": "international business",
+      "code": "BUS1400",
+      "url": "https://www.studocu.com/row/course/koc-universitesi/international-business/4170485"
+    },
+    {
+      "name": "International Law II",
+      "code": "LAW222",
+      "url": "https://www.studocu.com/row/course/koc-universitesi/international-law-ii/3731619"
+    },
+    {
+      "name": "international relations",
+      "code": "intl313",
+      "url": "https://www.studocu.com/row/course/koc-universitesi/international-relations/5321554"
+    },
+    {
+      "name": "International Trade",
+      "code": "ECON321",
+      "url": "https://www.studocu.com/row/course/koc-universitesi/international-trade/2370035"
+    },
+    {
+      "name": "Intro to Cognitive Science",
+      "code": "PSYC 348",
+      "url": "https://www.studocu.com/row/course/koc-universitesi/intro-to-cognitive-science/7625380"
+    },
+    {
+      "name": "Introduction to Computing for Operations Research",
+      "code": "INDR220",
+      "url": "https://www.studocu.com/row/course/koc-universitesi/introduction-to-computing-for-operations-research/5791365"
+    },
+    {
+      "name": "Introduction to Ecology",
+      "code": "SCIE 102",
+      "url": "https://www.studocu.com/row/course/koc-universitesi/introduction-to-ecology/5830721"
+    },
+    {
+      "name": "Introduction to Economy",
+      "code": "ECON100",
+      "url": "https://www.studocu.com/row/course/koc-universitesi/introduction-to-economy/3730231"
+    },
+    {
+      "name": "Introduction to financial management",
+      "code": "MFIN202",
+      "url": "https://www.studocu.com/row/course/koc-universitesi/introduction-to-financial-management/5929314"
+    },
+    {
+      "name": "Introduction to Political Science",
+      "code": "INTL101",
+      "url": "https://www.studocu.com/row/course/koc-universitesi/introduction-to-political-science/4541966"
+    },
+    {
+      "name": "Introduction to Political Science",
+      "code": "POLS101",
+      "url": "https://www.studocu.com/row/course/koc-universitesi/introduction-to-political-science/2336927"
+    },
+    {
+      "name": "Introduction to Psychopathology",
+      "code": "PSYC 303",
+      "url": "https://www.studocu.com/row/course/koc-universitesi/introduction-to-psychopathology/7625371"
+    },
+    {
+      "name": "Investment management",
+      "code": "mfin304",
+      "url": "https://www.studocu.com/row/course/koc-universitesi/investment-management/3487806"
+    },
+    {
+      "name": "Issues in Psychology",
+      "code": "PSYC 210",
+      "url": "https://www.studocu.com/row/course/koc-universitesi/issues-in-psychology/2733514"
+    },
+    {
+      "name": "Italian",
+      "code": "ITAL201",
+      "url": "https://www.studocu.com/row/course/koc-universitesi/italian/5131061"
+    },
+    {
+      "name": "işletme için sayısal yöntemler",
+      "code": "QMBU301",
+      "url": "https://www.studocu.com/row/course/koc-universitesi/isletme-icin-sayisal-yontemler/4529967"
+    },
+    {
+      "name": "Koç University",
+      "code": "MAVA221",
+      "url": "https://www.studocu.com/row/course/koc-universitesi/koc-university/5845173"
+    },
+    {
+      "name": "Koç University",
+      "code": "MAVA307",
+      "url": "https://www.studocu.com/row/course/koc-universitesi/koc-university/5845178"
+    },
+    {
+      "name": "language",
+      "code": "260",
+      "url": "https://www.studocu.com/row/course/koc-universitesi/language/7261193"
+    },
+    {
+      "name": "Late Ottoman",
+      "code": "HIST 433",
+      "url": "https://www.studocu.com/row/course/koc-universitesi/late-ottoman/3728713"
+    },
+    {
+      "name": "Linear Algebra",
+      "code": "MATH200",
+      "url": "https://www.studocu.com/row/course/koc-universitesi/linear-algebra/4503395"
+    },
+    {
+      "name": "Li̇fe Sci̇ence",
+      "code": "SCİ103",
+      "url": "https://www.studocu.com/row/course/koc-universitesi/life-science/6968098"
+    },
+    {
+      "name": "Logistics Management",
+      "code": "INDR 484",
+      "url": "https://www.studocu.com/row/course/koc-universitesi/logistics-management/6948806"
+    },
+    {
+      "name": "Macroeconomics",
+      "code": "Econ 202",
+      "url": "https://www.studocu.com/row/course/koc-universitesi/macroeconomics/6176670"
+    },
+    {
+      "name": "Management Info Systems",
+      "code": "MGIS301",
+      "url": "https://www.studocu.com/row/course/koc-universitesi/management-info-systems/4343789"
+    },
+    {
+      "name": "Managerial Accounting",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/koc-universitesi/managerial-accounting/3534818"
+    },
+    {
+      "name": "marketing management",
+      "code": "mktg201",
+      "url": "https://www.studocu.com/row/course/koc-universitesi/marketing-management/4331292"
+    },
+    {
+      "name": "Material Science",
+      "code": "MASE 515",
+      "url": "https://www.studocu.com/row/course/koc-universitesi/material-science/4287950"
+    },
+    {
+      "name": "Math",
+      "code": "204",
+      "url": "https://www.studocu.com/row/course/koc-universitesi/math/3179367"
+    },
+    {
+      "name": "Math",
+      "code": "107",
+      "url": "https://www.studocu.com/row/course/koc-universitesi/math/3192259"
+    },
+    {
+      "name": "Mathematical Programming",
+      "code": "INDR363",
+      "url": "https://www.studocu.com/row/course/koc-universitesi/mathematical-programming/7413439"
+    },
+    {
+      "name": "Medeni̇ Hukuka Gi̇Ri̇Ş",
+      "code": "LAW 105",
+      "url": "https://www.studocu.com/row/course/koc-universitesi/medeni-hukuka-giris/6613738"
+    },
+    {
+      "name": "Media Research Methods",
+      "code": "MAVA 307",
+      "url": "https://www.studocu.com/row/course/koc-universitesi/media-research-methods/4345021"
+    },
+    {
+      "name": "Memory Psychology",
+      "code": "Psyc 341",
+      "url": "https://www.studocu.com/row/course/koc-universitesi/memory-psychology/6197663"
+    },
+    {
+      "name": "methodische vaardigheden",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/koc-universitesi/methodische-vaardigheden/4826648"
+    },
+    {
+      "name": "Migration and globalization",
+      "code": "SOSC105",
+      "url": "https://www.studocu.com/row/course/koc-universitesi/migration-and-globalization/4839694"
+    },
+    {
+      "name": "Mktg302",
+      "code": "302",
+      "url": "https://www.studocu.com/row/course/koc-universitesi/mktg302/3275382"
+    },
+    {
+      "name": "Modeling and Simulation",
+      "code": "INDR 344",
+      "url": "https://www.studocu.com/row/course/koc-universitesi/modeling-and-simulation/7237223"
+    },
+    {
+      "name": "Molecular and Cellular Foundations of Medicine",
+      "code": "MEDI 201",
+      "url": "https://www.studocu.com/row/course/koc-universitesi/molecular-and-cellular-foundations-of-medicine/6434807"
+    },
+    {
+      "name": "Molecular Biology",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/koc-universitesi/molecular-biology/5332860"
+    },
+    {
+      "name": "Neoplasia, Immunity, Hematology",
+      "code": "NEOP 302",
+      "url": "https://www.studocu.com/row/course/koc-universitesi/neoplasia-immunity-hematology/6590276"
+    },
+    {
+      "name": "network security",
+      "code": "comp434",
+      "url": "https://www.studocu.com/row/course/koc-universitesi/network-security/5900616"
+    },
+    {
+      "name": "Neurology",
+      "code": "NEUR 512",
+      "url": "https://www.studocu.com/row/course/koc-universitesi/neurology/6026072"
+    },
+    {
+      "name": "Numerical Methods",
+      "code": "MATH 304",
+      "url": "https://www.studocu.com/row/course/koc-universitesi/numerical-methods/4756133"
+    },
+    {
+      "name": "Operating Systems",
+      "code": "COMP 304",
+      "url": "https://www.studocu.com/row/course/koc-universitesi/operating-systems/7019725"
+    },
+    {
+      "name": "Organisational Economics",
+      "code": "ECON330",
+      "url": "https://www.studocu.com/row/course/koc-universitesi/organisational-economics/6207840"
+    },
+    {
+      "name": "Organization and Management",
+      "code": "MGMT2300",
+      "url": "https://www.studocu.com/row/course/koc-universitesi/organization-and-management/3210453"
+    },
+    {
+      "name": "pediatrics",
+      "code": "pedi 403",
+      "url": "https://www.studocu.com/row/course/koc-universitesi/pediatrics/5251730"
+    },
+    {
+      "name": "Philosophy",
+      "code": "PHLSP",
+      "url": "https://www.studocu.com/row/course/koc-universitesi/philosophy/7338102"
+    },
+    {
+      "name": "Photograph basics",
+      "code": "MAVA 210",
+      "url": "https://www.studocu.com/row/course/koc-universitesi/photograph-basics/6888454"
+    },
+    {
+      "name": "Physics",
+      "code": "101",
+      "url": "https://www.studocu.com/row/course/koc-universitesi/physics/1741690"
+    },
+    {
+      "name": "Political Economy of Türkiye",
+      "code": "INTL 410",
+      "url": "https://www.studocu.com/row/course/koc-universitesi/political-economy-of-turkiye/6750563"
+    },
+    {
+      "name": "Probability Theory",
+      "code": "Math 313",
+      "url": "https://www.studocu.com/row/course/koc-universitesi/probability-theory/5884167"
+    },
+    {
+      "name": "Procesmanagement",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/koc-universitesi/procesmanagement/3767969"
+    },
+    {
+      "name": "Programming Language Concepts",
+      "code": "COMP 301",
+      "url": "https://www.studocu.com/row/course/koc-universitesi/programming-language-concepts/7035807"
+    },
+    {
+      "name": "Pschology",
+      "code": "PSYC 100",
+      "url": "https://www.studocu.com/row/course/koc-universitesi/pschology/4522275"
+    },
+    {
+      "name": "Psychological Test",
+      "code": "PSK403",
+      "url": "https://www.studocu.com/row/course/koc-universitesi/psychological-test/6666625"
+    },
+    {
+      "name": "Psychological Testing and Measurement",
+      "code": "PSYC302",
+      "url": "https://www.studocu.com/row/course/koc-universitesi/psychological-testing-and-measurement/6908035"
+    },
+    {
+      "name": "Psychology of Learning and Cognition",
+      "code": "PSYC205",
+      "url": "https://www.studocu.com/row/course/koc-universitesi/psychology-of-learning-and-cognition/3722197"
+    },
+    {
+      "name": "Psychology of Motivation",
+      "code": "PSYC 307",
+      "url": "https://www.studocu.com/row/course/koc-universitesi/psychology-of-motivation/7625374"
+    },
+    {
+      "name": "Psychology of Well Being",
+      "code": "PSYC 359",
+      "url": "https://www.studocu.com/row/course/koc-universitesi/psychology-of-well-being/7625373"
+    },
+    {
+      "name": "Public Relationhip",
+      "code": "mava 316",
+      "url": "https://www.studocu.com/row/course/koc-universitesi/public-relationhip/6599861"
+    },
+    {
+      "name": "Quest for ethical foundation",
+      "code": "ethc 113",
+      "url": "https://www.studocu.com/row/course/koc-universitesi/quest-for-ethical-foundation/5278110"
+    },
+    {
+      "name": "Reactor Design",
+      "code": "Chbi502",
+      "url": "https://www.studocu.com/row/course/koc-universitesi/reactor-design/5986556"
+    },
+    {
+      "name": "Reinforcement Learning",
+      "code": "CENG441",
+      "url": "https://www.studocu.com/row/course/koc-universitesi/reinforcement-learning/6977913"
+    },
+    {
+      "name": "Research Methods in Psychology",
+      "code": "Psyc301",
+      "url": "https://www.studocu.com/row/course/koc-universitesi/research-methods-in-psychology/5188263"
+    },
+    {
+      "name": "Roman Law",
+      "code": "LAW111",
+      "url": "https://www.studocu.com/row/course/koc-universitesi/roman-law/5908508"
+    },
+    {
+      "name": "Russian",
+      "code": "russ201",
+      "url": "https://www.studocu.com/row/course/koc-universitesi/russian/7334113"
+    },
+    {
+      "name": "Signals and systems",
+      "code": "ELEC201",
+      "url": "https://www.studocu.com/row/course/koc-universitesi/signals-and-systems/6065296"
+    },
+    {
+      "name": "Social movements",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/koc-universitesi/social-movements/5853062"
+    },
+    {
+      "name": "Social Psychology",
+      "code": "PYSC204",
+      "url": "https://www.studocu.com/row/course/koc-universitesi/social-psychology/4364424"
+    },
+    {
+      "name": "Sociology",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/koc-universitesi/sociology/2268541"
+    },
+    {
+      "name": "Sociology of Migration",
+      "code": "SOCI411",
+      "url": "https://www.studocu.com/row/course/koc-universitesi/sociology-of-migration/6908038"
+    },
+    {
+      "name": "Soil mechanics",
+      "code": "CE371",
+      "url": "https://www.studocu.com/row/course/koc-universitesi/soil-mechanics/6623336"
+    },
+    {
+      "name": "State and Society of the Middle East",
+      "code": "HIST 309",
+      "url": "https://www.studocu.com/row/course/koc-universitesi/state-and-society-of-the-middle-east/5831292"
+    },
+    {
+      "name": "Statistical Physics",
+      "code": "Phys 301",
+      "url": "https://www.studocu.com/row/course/koc-universitesi/statistical-physics/6069609"
+    },
+    {
+      "name": "statistics for engineering",
+      "code": "engr201",
+      "url": "https://www.studocu.com/row/course/koc-universitesi/statistics-for-engineering/7329459"
+    },
+    {
+      "name": "statistics for social sciences",
+      "code": "math 202",
+      "url": "https://www.studocu.com/row/course/koc-universitesi/statistics-for-social-sciences/7027870"
+    },
+    {
+      "name": "Stockhastic model",
+      "code": "indr343",
+      "url": "https://www.studocu.com/row/course/koc-universitesi/stockhastic-model/3219538"
+    },
+    {
+      "name": "The History of Modern Diplomacy",
+      "code": "HIST 311",
+      "url": "https://www.studocu.com/row/course/koc-universitesi/the-history-of-modern-diplomacy/4345022"
+    },
+    {
+      "name": "Thermodynamics",
+      "code": "MECH 204",
+      "url": "https://www.studocu.com/row/course/koc-universitesi/thermodynamics/4344796"
+    },
+    {
+      "name": "world music",
+      "code": "musc202",
+      "url": "https://www.studocu.com/row/course/koc-universitesi/world-music/4370433"
+    }
+  ]
+}

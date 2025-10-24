@@ -1,0 +1,1441 @@
+{
+  "university_id": "8051",
+  "university_name": "Politechnika Opolska",
+  "courses": [
+    {
+      "name": "Algebra liniowa z geometrią analityczną",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/algebra-liniowa-z-geometria-analityczna/3650228"
+    },
+    {
+      "name": "Algorytmy i struktury danych",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/algorytmy-i-struktury-danych/3650240"
+    },
+    {
+      "name": "Analiza ekonomiczna",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/analiza-ekonomiczna/3946074"
+    },
+    {
+      "name": "Analiza matematyczna 1",
+      "code": "IBPs2",
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/analiza-matematyczna-1/3650416"
+    },
+    {
+      "name": "Analiza matematyczna I",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/analiza-matematyczna-i/3650227"
+    },
+    {
+      "name": "Analiza matematyczna II",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/analiza-matematyczna-ii/3650233"
+    },
+    {
+      "name": "Architektura komputerów",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/architektura-komputerow/3650242"
+    },
+    {
+      "name": "Automatyka zabezpieczeniowa",
+      "code": "AZWP:TEO.S.1",
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/automatyka-zabezpieczeniowa/6656295"
+    },
+    {
+      "name": "Automatyzacja i robotyzacja procesów produkcyjnych",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/automatyzacja-i-robotyzacja-procesow-produkcyjnych/4273477"
+    },
+    {
+      "name": "Bazy danych I",
+      "code": "K",
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/bazy-danych-i/3814101"
+    },
+    {
+      "name": "Bazy danych II",
+      "code": "K",
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/bazy-danych-ii/3814107"
+    },
+    {
+      "name": "Bezpieczne użytkowanie urządzeń e",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/bezpieczne-uzytkowanie-urzadzen-e/3650409"
+    },
+    {
+      "name": "BHP",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/bhp/3950326"
+    },
+    {
+      "name": "Bioetyka",
+      "code": "7.14",
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/bioetyka/3650556"
+    },
+    {
+      "name": "blank",
+      "code": "idk201",
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/blank/7159247"
+    },
+    {
+      "name": "Budownictwo komunikacyjne",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/budownictwo-komunikacyjne/3650178"
+    },
+    {
+      "name": "Budownictwo ogólne 1",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/budownictwo-ogolne-1/3650162"
+    },
+    {
+      "name": "Budownictwo ogólne 2",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/budownictwo-ogolne-2/3650170"
+    },
+    {
+      "name": "Budownictwo ogólne z materialoznawstwem I i rysunkiem technicznym",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/budownictwo-ogolne-z-materialoznawstwem-i-i-rysunkiem-technicznym/3650071"
+    },
+    {
+      "name": "Budownictwo ogólne z materialoznawstwem II",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/budownictwo-ogolne-z-materialoznawstwem-ii/3650078"
+    },
+    {
+      "name": "Budownictwo ogólne z materialoznawstwem III",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/budownictwo-ogolne-z-materialoznawstwem-iii/3650087"
+    },
+    {
+      "name": "Chemia dla inżynierów",
+      "code": "IBPs10",
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/chemia-dla-inzynierow/3650431"
+    },
+    {
+      "name": "Chemia dla inżynierów",
+      "code": "1.4",
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/chemia-dla-inzynierow/3650479"
+    },
+    {
+      "name": "Chemia materialów budowlanych",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/chemia-materialow-budowlanych/3650148"
+    },
+    {
+      "name": "computer ethics",
+      "code": "02",
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/computer-ethics/6618992"
+    },
+    {
+      "name": "Czujniki i przetworniki wielkości nieelektryczn",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/czujniki-i-przetworniki-wielkosci-nieelektryczn/3650267"
+    },
+    {
+      "name": "Dietetyka i Suplementacja",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/dietetyka-i-suplementacja/7379346"
+    },
+    {
+      "name": "Działania wizualne 2D - malarstwo",
+      "code": "3.9",
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/dzialania-wizualne-2d-malarstwo/3650573"
+    },
+    {
+      "name": "Ekologia",
+      "code": "IBPs13",
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/ekologia/3650420"
+    },
+    {
+      "name": "Ekonometria",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/ekonometria/3946141"
+    },
+    {
+      "name": "Ekonomia dla inżynierów (w mikrobiznesie)",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/ekonomia-dla-inzynierow-w-mikrobiznesie/3650498"
+    },
+    {
+      "name": "Ekonomika budownictwa",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/ekonomika-budownictwa/3650205"
+    },
+    {
+      "name": "Eksploatacja maszyn i urządzeń",
+      "code": "IBKs32_tsb",
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/eksploatacja-maszyn-i-urzadzen/3650475"
+    },
+    {
+      "name": "Eksploatacja systemów energetycznych",
+      "code": "6.4",
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/eksploatacja-systemow-energetycznych/3650529"
+    },
+    {
+      "name": "Elektronika I",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/elektronika-i/3650283"
+    },
+    {
+      "name": "Elektrotechnika dla informatyków",
+      "code": "EDI1",
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/elektrotechnika-dla-informatykow/6803737"
+    },
+    {
+      "name": "Elektrotechnika I",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/elektrotechnika-i/3650259"
+    },
+    {
+      "name": "Elektrotechnika II",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/elektrotechnika-ii/3650278"
+    },
+    {
+      "name": "Elektrotechnika II E",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/elektrotechnika-ii-e/3650311"
+    },
+    {
+      "name": "Elektrownie i elektrociepłownie zawodowe",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/elektrownie-i-elektrocieplownie-zawodowe/3650527"
+    },
+    {
+      "name": "Elementy elektroniczne",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/elementy-elektroniczne/3650330"
+    },
+    {
+      "name": "Elementy informatyki i podstaw programowania",
+      "code": "2.7",
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/elementy-informatyki-i-podstaw-programowania/3650491"
+    },
+    {
+      "name": "Energetyka jądrowa",
+      "code": "7.7",
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/energetyka-jadrowa/3650552"
+    },
+    {
+      "name": "Energetyka wodna i wiatrowa",
+      "code": "5.7",
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/energetyka-wodna-i-wiatrowa/3650509"
+    },
+    {
+      "name": "Energoelektronika",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/energoelektronika/3650292"
+    },
+    {
+      "name": "Ergonomia",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/ergonomia/3650079"
+    },
+    {
+      "name": "Ergonomia i fizjologia w bezpieczeństwie pracy",
+      "code": "IBKs20",
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/ergonomia-i-fizjologia-w-bezpieczenstwie-pracy/3650437"
+    },
+    {
+      "name": "Ergonomia oraz bezpieczeństwo i higiena pracy",
+      "code": "1.8",
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/ergonomia-oraz-bezpieczenstwo-i-higiena-pracy/3650483"
+    },
+    {
+      "name": "Finanse Publiczne",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/finanse-publiczne/3946092"
+    },
+    {
+      "name": "Fizyka",
+      "code": "IBPs6",
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/fizyka/3650417"
+    },
+    {
+      "name": "Fizyka budowli",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/fizyka-budowli/3650107"
+    },
+    {
+      "name": "Fizyka dla inżynierów",
+      "code": "IBPs7",
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/fizyka-dla-inzynierow/3650424"
+    },
+    {
+      "name": "Fizyka dla inżynierów",
+      "code": "2.4",
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/fizyka-dla-inzynierow/3650488"
+    },
+    {
+      "name": "Fizyka I",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/fizyka-i/3650226"
+    },
+    {
+      "name": "Fizyka II",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/fizyka-ii/3650236"
+    },
+    {
+      "name": "Fundamentowanie",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/fundamentowanie/3650179"
+    },
+    {
+      "name": "Geodezja",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/geodezja/3650155"
+    },
+    {
+      "name": "Geografia Polityczna",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/geografia-polityczna/3950792"
+    },
+    {
+      "name": "Geologia",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/geologia/3650149"
+    },
+    {
+      "name": "Geometria i grafika inżynierska",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/geometria-i-grafika-inzynierska/3650260"
+    },
+    {
+      "name": "Geometria wykreslna I",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/geometria-wykreslna-i/3650072"
+    },
+    {
+      "name": "Geometria wykreślna",
+      "code": "1.2",
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/geometria-wykreslna/3650477"
+    },
+    {
+      "name": "Gospodarka odpadami stałymi w inżynierii środowiska",
+      "code": "7.19",
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/gospodarka-odpadami-stalymi-w-inzynierii-srodowiska/3650561"
+    },
+    {
+      "name": "Gospodarka odpadami w energetyce",
+      "code": "7.9",
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/gospodarka-odpadami-w-energetyce/3650554"
+    },
+    {
+      "name": "Gospodarka remontowa w energetyce",
+      "code": "6.8",
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/gospodarka-remontowa-w-energetyce/3650533"
+    },
+    {
+      "name": "Gospodarka wodna i ochrona wód",
+      "code": "5.22",
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/gospodarka-wodna-i-ochrona-wod/3650524"
+    },
+    {
+      "name": "Gospodarka wodno-ściekowa w energetyce I ciepłownictwie",
+      "code": "6.6",
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/gospodarka-wodno-sciekowa-w-energetyce-i-cieplownictwie/3650531"
+    },
+    {
+      "name": "Grafika inżynierska",
+      "code": "IBPs17",
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/grafika-inzynierska/3650428"
+    },
+    {
+      "name": "Grafika komputerowa",
+      "code": "3.12",
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/grafika-komputerowa/3650576"
+    },
+    {
+      "name": "Grafika komputerowa I",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/grafika-komputerowa-i/3650245"
+    },
+    {
+      "name": "Handel i inwestycje",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/handel-i-inwestycje/3946103"
+    },
+    {
+      "name": "Historia architektury i urbanistyki I",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/historia-architektury-i-urbanistyki-i/3650073"
+    },
+    {
+      "name": "Historia architektury i urbanistyki II",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/historia-architektury-i-urbanistyki-ii/3650081"
+    },
+    {
+      "name": "Historia architektury i urbanistyki III",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/historia-architektury-i-urbanistyki-iii/3650088"
+    },
+    {
+      "name": "Historia architektury i urbanistyki IV",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/historia-architektury-i-urbanistyki-iv/3650096"
+    },
+    {
+      "name": "Historia wzornictwa",
+      "code": "3.4",
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/historia-wzornictwa/3650568"
+    },
+    {
+      "name": "Hydraulika i hydrologia",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/hydraulika-i-hydrologia/3650180"
+    },
+    {
+      "name": "Informatyka I",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/informatyka-i/3650230"
+    },
+    {
+      "name": "Informatyka i języki programowania",
+      "code": "IBPs15",
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/informatyka-i-jezyki-programowania/3650432"
+    },
+    {
+      "name": "Informatyka II",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/informatyka-ii/3650234"
+    },
+    {
+      "name": "Innowacje w biznesie",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/innowacje-w-biznesie/7362688"
+    },
+    {
+      "name": "Instalacje budowlane",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/instalacje-budowlane/3650124"
+    },
+    {
+      "name": "Integracja gospodarcza w Europie",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/integracja-gospodarcza-w-europie/3950327"
+    },
+    {
+      "name": "Inżynieria elektryczna",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/inzynieria-elektryczna/3650499"
+    },
+    {
+      "name": "Inżynieria materiałowa",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/inzynieria-materialowa/3650404"
+    },
+    {
+      "name": "Inżynieria oprogramowania I",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/inzynieria-oprogramowania-i/3650366"
+    },
+    {
+      "name": "Inżynieria oprogramowania II",
+      "code": "K",
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/inzynieria-oprogramowania-ii/3814103"
+    },
+    {
+      "name": "Jezyk obcy I",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/jezyk-obcy-i/3650089"
+    },
+    {
+      "name": "Jezyk obcy III",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/jezyk-obcy-iii/3650109"
+    },
+    {
+      "name": "Jezyk obcy IV",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/jezyk-obcy-iv/3650125"
+    },
+    {
+      "name": "Język Angielski",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/jezyk-angielski/5913777"
+    },
+    {
+      "name": "Język obcy",
+      "code": "3.3",
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/jezyk-obcy/3650567"
+    },
+    {
+      "name": "Kodowanie i dekodowanie sygnałów",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/kodowanie-i-dekodowanie-sygnalow/3650388"
+    },
+    {
+      "name": "Komputerowa analiza układów elektron.",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/komputerowa-analiza-ukladow-elektron/3650334"
+    },
+    {
+      "name": "Komunikacja społeczna i zarządzanie personelem",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/komunikacja-spoleczna-i-zarzadzanie-personelem/3650457"
+    },
+    {
+      "name": "Komunikacja w zespole",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/komunikacja-w-zespole/7627716"
+    },
+    {
+      "name": "Konserwacja i rewaloryzacja obiektów i zespolów historycznych",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/konserwacja-i-rewaloryzacja-obiektow-i-zespolow-historycznych/3650126"
+    },
+    {
+      "name": "Konstrukcja maszyn",
+      "code": "IBKs14",
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/konstrukcja-maszyn/3650435"
+    },
+    {
+      "name": "Konstrukcje betonowe 1",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/konstrukcje-betonowe-1/3650182"
+    },
+    {
+      "name": "Konstrukcje betonowe 2",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/konstrukcje-betonowe-2/3650188"
+    },
+    {
+      "name": "Konstrukcje budowlane",
+      "code": "5.21",
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/konstrukcje-budowlane/3650523"
+    },
+    {
+      "name": "Konstrukcje budowlane I",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/konstrukcje-budowlane-i/3650090"
+    },
+    {
+      "name": "Konstrukcje budowlane III",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/konstrukcje-budowlane-iii/3650110"
+    },
+    {
+      "name": "Konstrukcje drewniane",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/konstrukcje-drewniane/3650189"
+    },
+    {
+      "name": "Konstrukcje metalowe 1",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/konstrukcje-metalowe-1/3650183"
+    },
+    {
+      "name": "Konstrukcje zespolone",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/konstrukcje-zespolone/7501608"
+    },
+    {
+      "name": "Kotły energetyczne",
+      "code": "6.11",
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/kotly-energetyczne/3650536"
+    },
+    {
+      "name": "Laboratorium CAD",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/laboratorium-cad/3650500"
+    },
+    {
+      "name": "Laboratorium metrologii energetycznej",
+      "code": "6.7",
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/laboratorium-metrologii-energetycznej/3650532"
+    },
+    {
+      "name": "Logika i teoria mnogości",
+      "code": "LogTeoMN(2)",
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/logika-i-teoria-mnogosci/6189272"
+    },
+    {
+      "name": "Logistyka produkcji",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/logistyka-produkcji/4744512"
+    },
+    {
+      "name": "Makroekonomia",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/makroekonomia/3950329"
+    },
+    {
+      "name": "Marketing",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/marketing/3948590"
+    },
+    {
+      "name": "Maszynoznawstwo ogólne",
+      "code": "2.2",
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/maszynoznawstwo-ogolne/3650486"
+    },
+    {
+      "name": "Maszyny elektryczne I",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/maszyny-elektryczne-i/3650406"
+    },
+    {
+      "name": "Maszyny i instalacje przepływowe",
+      "code": "5.8",
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/maszyny-i-instalacje-przeplywowe/3650510"
+    },
+    {
+      "name": "Maszyny i urządzenia elektryczne",
+      "code": "5.6",
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/maszyny-i-urzadzenia-elektryczne/3650508"
+    },
+    {
+      "name": "Matematyka",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/matematyka/3650074"
+    },
+    {
+      "name": "Matematyka 2",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/matematyka-2/3650156"
+    },
+    {
+      "name": "Matematyka 3",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/matematyka-3/3650164"
+    },
+    {
+      "name": "Matematyka dyskretna",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/matematyka-dyskretna/3650239"
+    },
+    {
+      "name": "Matematyka I",
+      "code": "1.1",
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/matematyka-i/3650476"
+    },
+    {
+      "name": "Materialy budowlane",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/materialy-budowlane/3650157"
+    },
+    {
+      "name": "Materiałoznawstwo",
+      "code": "IBKs15",
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/materialoznawstwo/3650429"
+    },
+    {
+      "name": "Materiałoznawstwo",
+      "code": "1.3",
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/materialoznawstwo/3650478"
+    },
+    {
+      "name": "Materiały Konstrukcyjne",
+      "code": "MM-SI (MM00-SI-2(04)",
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/materialy-konstrukcyjne/5955014"
+    },
+    {
+      "name": "Materiały konstrukcyjne dla energetyki",
+      "code": "5.5",
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/materialy-konstrukcyjne-dla-energetyki/3650507"
+    },
+    {
+      "name": "Mechanika betonu",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/mechanika-betonu/3650172"
+    },
+    {
+      "name": "Mechanika budowli 1",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/mechanika-budowli-1/3650173"
+    },
+    {
+      "name": "Mechanika budowli 2",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/mechanika-budowli-2/3650184"
+    },
+    {
+      "name": "Mechanika budowli I",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/mechanika-budowli-i/3650082"
+    },
+    {
+      "name": "Mechanika gruntów",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/mechanika-gruntow/3650174"
+    },
+    {
+      "name": "Mechanika Ogólna",
+      "code": "MO-l:MiBM.N.1st",
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/mechanika-ogolna/5728481"
+    },
+    {
+      "name": "Mechanika płynów",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/mechanika-plynow/3650493"
+    },
+    {
+      "name": "Mechanika teoretyczna 1",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/mechanika-teoretyczna-1/3650158"
+    },
+    {
+      "name": "Metaloznactwo",
+      "code": "MQ/00-SI>",
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/metaloznactwo/4865361"
+    },
+    {
+      "name": "Meteorologia, hydrologia i klimatologia",
+      "code": "IBKs29_tsb",
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/meteorologia-hydrologia-i-klimatologia/3650467"
+    },
+    {
+      "name": "Metodologia badan naukowych",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/metodologia-badan-naukowych/3650191"
+    },
+    {
+      "name": "Metody komputerowe w inżynierii",
+      "code": "IBKs26_tsb",
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/metody-komputerowe-w-inzynierii/3650464"
+    },
+    {
+      "name": "Metody numeryczne",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/metody-numeryczne/3650329"
+    },
+    {
+      "name": "Metody statystyczne",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/metody-statystyczne/3650235"
+    },
+    {
+      "name": "Metrologia",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/metrologia/3650285"
+    },
+    {
+      "name": "Metrologia elektryczna",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/metrologia-elektryczna/3650282"
+    },
+    {
+      "name": "Miernictwo i planowanie eksperymantu",
+      "code": "2.8",
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/miernictwo-i-planowanie-eksperymantu/3650492"
+    },
+    {
+      "name": "Mikroekonomia",
+      "code": "IBPs8",
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/mikroekonomia/3650418"
+    },
+    {
+      "name": "Międzynarodowe Stosunki Gospodarcze",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/miedzynarodowe-stosunki-gospodarcze/3950330"
+    },
+    {
+      "name": "Narzędzia sztucznej inteligencji",
+      "code": "K",
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/narzedzia-sztucznej-inteligencji/3814108"
+    },
+    {
+      "name": "Normalizacja i zarządzanie jakością",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/normalizacja-i-zarzadzanie-jakoscia/4744513"
+    },
+    {
+      "name": "Nowoczesne materiały kompozytowe",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/nowoczesne-materialy-kompozytowe/7224216"
+    },
+    {
+      "name": "Obróbka Ubytkowa",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/obrobka-ubytkowa/6990096"
+    },
+    {
+      "name": "Ochrona własności intelektualnej",
+      "code": "2.6",
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/ochrona-wlasnosci-intelektualnej/3650490"
+    },
+    {
+      "name": "Ochrona środowiska",
+      "code": "5.13",
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/ochrona-srodowiska/3650515"
+    },
+    {
+      "name": "Oczyszczanie przemysłowych gazów odlotowych",
+      "code": "6.1",
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/oczyszczanie-przemyslowych-gazow-odlotowych/3650535"
+    },
+    {
+      "name": "Ogrzewnictwo i ciepłownictwo",
+      "code": "4.4",
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/ogrzewnictwo-i-cieplownictwo/3650503"
+    },
+    {
+      "name": "Operacje mechaniczne w energetyce",
+      "code": "5.9",
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/operacje-mechaniczne-w-energetyce/3650511"
+    },
+    {
+      "name": "Organizacja i ekonomika procesu inwestycyjnego",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/organizacja-i-ekonomika-procesu-inwestycyjnego/3650142"
+    },
+    {
+      "name": "Organizacyjno – techniczne warunki pracy",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/organizacyjno-techniczne-warunki-pracy/3650462"
+    },
+    {
+      "name": "Podstawy architektury i urbanisty",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/podstawy-architektury-i-urbanisty/3650152"
+    },
+    {
+      "name": "Podstawy automatyki",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/podstawy-automatyki/3650268"
+    },
+    {
+      "name": "Podstawy automatyki i technik sterowania",
+      "code": "4.5",
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/podstawy-automatyki-i-technik-sterowania/3650504"
+    },
+    {
+      "name": "Podstawy bezpieczeństwa pracy",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/podstawy-bezpieczenstwa-pracy/3650461"
+    },
+    {
+      "name": "Podstawy biotechnologii i biotechniki",
+      "code": "5.24",
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/podstawy-biotechnologii-i-biotechniki/3650526"
+    },
+    {
+      "name": "podstawy e-biznesu",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/podstawy-e-biznesu/3946082"
+    },
+    {
+      "name": "Podstawy ekologii",
+      "code": "1.7",
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/podstawy-ekologii/3650482"
+    },
+    {
+      "name": "Podstawy mechaniki",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/podstawy-mechaniki/3650279"
+    },
+    {
+      "name": "Podstawy mechaniki technicznej",
+      "code": "1.5",
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/podstawy-mechaniki-technicznej/3650480"
+    },
+    {
+      "name": "Podstawy metrologii",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/podstawy-metrologii/3650232"
+    },
+    {
+      "name": "Podstawy polityki społecznej",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/podstawy-polityki-spolecznej/3963710"
+    },
+    {
+      "name": "Podstawy prowadzenia mikroprzedsiębiorstw - przedmiot dodatkowy",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/podstawy-prowadzenia-mikroprzedsiebiorstw-przedmiot-dodatkowy/6680178"
+    },
+    {
+      "name": "Podstawy robotyki I",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/podstawy-robotyki-i/3650289"
+    },
+    {
+      "name": "Podstawy rysunku technicznego",
+      "code": "2.1",
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/podstawy-rysunku-technicznego/3650485"
+    },
+    {
+      "name": "Podstawy Systemu Podatkowego",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/podstawy-systemu-podatkowego/7635030"
+    },
+    {
+      "name": "Podstawy wytrzymałości elementów aparatury",
+      "code": "2.5",
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/podstawy-wytrzymalosci-elementow-aparatury/3650489"
+    },
+    {
+      "name": "Podstawy zarządzania",
+      "code": "IBPs12",
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/podstawy-zarzadzania/3650426"
+    },
+    {
+      "name": "Polityka Gospodarcza",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/polityka-gospodarcza/3946095"
+    },
+    {
+      "name": "Pompy ciepła i kolektory słoneczne",
+      "code": "6.3",
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/pompy-ciepla-i-kolektory-sloneczne/3650528"
+    },
+    {
+      "name": "Postawy finansów",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/postawy-finansow/6683760"
+    },
+    {
+      "name": "Postawy technik wizyjnych",
+      "code": "D.20",
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/postawy-technik-wizyjnych/7474881"
+    },
+    {
+      "name": "Praca dyplomowa",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/praca-dyplomowa/3650143"
+    },
+    {
+      "name": "Praca projektowa przejściowa",
+      "code": "6.9",
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/praca-projektowa-przejsciowa/3650534"
+    },
+    {
+      "name": "Prawo autorskie i gospodarcze",
+      "code": "O",
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/prawo-autorskie-i-gospodarcze/3814114"
+    },
+    {
+      "name": "Prawo gospodarcze",
+      "code": "IBPs11",
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/prawo-gospodarcze/3650419"
+    },
+    {
+      "name": "Prawo Gospodarczo - Handlowe",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/prawo-gospodarczo-handlowe/4340331"
+    },
+    {
+      "name": "prawo karne",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/prawo-karne/7322891"
+    },
+    {
+      "name": "Prawo przedsiębiorcze",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/prawo-przedsiebiorcze/4754762"
+    },
+    {
+      "name": "Prawo spolek angol",
+      "code": "BLAW 2001",
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/prawo-spolek-angol/7445404"
+    },
+    {
+      "name": "Private Pilot License",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/private-pilot-license/7556617"
+    },
+    {
+      "name": "Procesy informacyjne w zarzadzaniu",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/procesy-informacyjne-w-zarzadzaniu/6683768"
+    },
+    {
+      "name": "Procesy technologicznie uciążliwe dla środowiska",
+      "code": "IBKs31_tsb",
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/procesy-technologicznie-uciazliwe-dla-srodowiska/3650474"
+    },
+    {
+      "name": "Programowanie III",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/programowanie-iii/3650237"
+    },
+    {
+      "name": "Programowanie niskopoziomowe",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/programowanie-niskopoziomowe/3650243"
+    },
+    {
+      "name": "Programowanie Obrabiarek CNC",
+      "code": "MM-SI (MMTC-SI-3(05)",
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/programowanie-obrabiarek-cnc/5955004"
+    },
+    {
+      "name": "Programowanie systemowe",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/programowanie-systemowe/3650247"
+    },
+    {
+      "name": "Projektowanie architektoniczne I",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/projektowanie-architektoniczne-i/3650075"
+    },
+    {
+      "name": "Projektowanie architektoniczne VI - Projektowanie obiektów administracji i sportu",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/projektowanie-architektoniczne-vi-projektowanie-obiektow-administracji-i-sportu/3650132"
+    },
+    {
+      "name": "Projektowanie architektoniczne VI - Projektowanie obiektów kultury ry swieck iej i sakralnej",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/projektowanie-architektoniczne-vi-projektowanie-obiektow-kultury-ry-swieck-iej-i-sakralnej/3650133"
+    },
+    {
+      "name": "Projektowanie instala",
+      "code": "6.21",
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/projektowanie-instala/3650546"
+    },
+    {
+      "name": "Projektowanie instalacji wentylacyjnych I klimatyzacyjnych",
+      "code": "6.13",
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/projektowanie-instalacji-wentylacyjnych-i-klimatyzacyjnych/3650538"
+    },
+    {
+      "name": "Projektowanie mechatroniczne",
+      "code": "3.6",
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/projektowanie-mechatroniczne/3650570"
+    },
+    {
+      "name": "Projektowanie procesów technologicznych",
+      "code": "MM-SI (MM00-SI-2(5)",
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/projektowanie-procesow-technologicznych/5955114"
+    },
+    {
+      "name": "Projektowanie urbanistyczne III",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/projektowanie-urbanistyczne-iii/3650118"
+    },
+    {
+      "name": "Projektowanie urbanistyczne IV - Planowanie miejscowe na terenach wiejski ch",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/projektowanie-urbanistyczne-iv-planowanie-miejscowe-na-terenach-wiejski-ch/3650135"
+    },
+    {
+      "name": "Przedmiot fakultatywny I - Socjologia miasta",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/przedmiot-fakultatywny-i-socjologia-miasta/3650103"
+    },
+    {
+      "name": "Przedmiot fakultatywny III - Obiekty wielkoskalowe – estetyka a konstrukc ja",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/przedmiot-fakultatywny-iii-obiekty-wielkoskalowe-estetyka-a-konstrukc-ja/3650121"
+    },
+    {
+      "name": "Przedmiot humanistyczno-społeczny I",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/przedmiot-humanistyczno-spoleczny-i/3650231"
+    },
+    {
+      "name": "Przedmiot humanistycznospołeczny I",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/przedmiot-humanistycznospoleczny-i/3650252"
+    },
+    {
+      "name": "Przedmiot humanistyczny I",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/przedmiot-humanistyczny-i/3650301"
+    },
+    {
+      "name": "Przedmiot obieralny 1 - Ochrona srodowiska w budownictwie",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/przedmiot-obieralny-1-ochrona-srodowiska-w-budownictwie/3650166"
+    },
+    {
+      "name": "Przedmiot obieralny 1 - Teleinformatyka",
+      "code": "KW",
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/przedmiot-obieralny-1-teleinformatyka/3814100"
+    },
+    {
+      "name": "Przedmiot obieralny 10 - Podstawy komputerowych systemów zarządzania",
+      "code": "KW",
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/przedmiot-obieralny-10-podstawy-komputerowych-systemow-zarzadzania/3814113"
+    },
+    {
+      "name": "Przedmiot obieralny 2 - Betony wysokowartosciowe",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/przedmiot-obieralny-2-betony-wysokowartosciowe/3650175"
+    },
+    {
+      "name": "Przedmiot obieralny 2 - Prefabrykaty budowlane",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/przedmiot-obieralny-2-prefabrykaty-budowlane/3650176"
+    },
+    {
+      "name": "Przedmiot obieralny 2 - Transmisja danych",
+      "code": "KW",
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/przedmiot-obieralny-2-transmisja-danych/3814106"
+    },
+    {
+      "name": "Przedmiot obieralny 3 - Podstawy diagnostyki cieplnej budynków",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/przedmiot-obieralny-3-podstawy-diagnostyki-cieplnej-budynkow/3650194"
+    },
+    {
+      "name": "Przedmiot obieralny 3 - Wybrane zagadnienia z fizyki budowli",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/przedmiot-obieralny-3-wybrane-zagadnienia-z-fizyki-budowli/3650195"
+    },
+    {
+      "name": "Przedmiot obieralny 3: Ochrona danych w systemach i sieciach komputerowych",
+      "code": "KW",
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/przedmiot-obieralny-3-ochrona-danych-w-systemach-i-sieciach-komputerowych/3814174"
+    },
+    {
+      "name": "Przedmiot obieralny 4 - Komputerowe wspomaganie projektowania - projektowanie konstrukcji",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/przedmiot-obieralny-4-komputerowe-wspomaganie-projektowania-projektowanie-konstrukcji/3650208"
+    },
+    {
+      "name": "Przedmiot obieralny 5 - Budownictwo przemyslowe",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/przedmiot-obieralny-5-budownictwo-przemyslowe/3650196"
+    },
+    {
+      "name": "Przedmiot obieralny 5 - Konstrukcje inzynierskie",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/przedmiot-obieralny-5-konstrukcje-inzynierskie/3650197"
+    },
+    {
+      "name": "Przedmiot obieralny 5 - Zarządzanie projektami informatycznymi",
+      "code": "KW",
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/przedmiot-obieralny-5-zarzadzanie-projektami-informatycznymi/3814111"
+    },
+    {
+      "name": "Przedmiot obieralny 6 - Podstawy projektowanie dróg i mostów",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/przedmiot-obieralny-6-podstawy-projektowanie-drog-i-mostow/3650210"
+    },
+    {
+      "name": "Przedmiot obieralny 8 - Budownictwo ekologiczne",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/przedmiot-obieralny-8-budownictwo-ekologiczne/3650198"
+    },
+    {
+      "name": "Przedmiot obieralny 8 - Programowanie obliczen naukowo-technicznych",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/przedmiot-obieralny-8-programowanie-obliczen-naukowo-technicznych/3650202"
+    },
+    {
+      "name": "Przedmiot obieralny 9 - Konstrukcje zespolone z elementami CAD",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/przedmiot-obieralny-9-konstrukcje-zespolone-z-elementami-cad/3650215"
+    },
+    {
+      "name": "Przedmiot obieralny 9 - Projektowanie baz danych",
+      "code": "KW",
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/przedmiot-obieralny-9-projektowanie-baz-danych/3814115"
+    },
+    {
+      "name": "Przedmiot spoleczny obieralny - Innowacyjnosc i etyka zawodu inzyniera",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/przedmiot-spoleczny-obieralny-innowacyjnosc-i-etyka-zawodu-inzyniera/3650159"
+    },
+    {
+      "name": "Przedmiot spoleczny obieralny - Spoleczne aspekty planowania przestrzennego",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/przedmiot-spoleczny-obieralny-spoleczne-aspekty-planowania-przestrzennego/3650160"
+    },
+    {
+      "name": "Przetwarzanie sygnałów",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/przetwarzanie-sygnalow/3650389"
+    },
+    {
+      "name": "Psychologia",
+      "code": "IBKs1",
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/psychologia/3650441"
+    },
+    {
+      "name": "Psychologia angol",
+      "code": "BLAW 2002",
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/psychologia-angol/7445405"
+    },
+    {
+      "name": "Psyhologi angielska",
+      "code": "BLAW 2003",
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/psyhologi-angielska/7445409"
+    },
+    {
+      "name": "Rachunek różniczkowy i całkowy",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/rachunek-rozniczkowy-i-calkowy/3650494"
+    },
+    {
+      "name": "Rachunkowość finansowa",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/rachunkowosc-finansowa/3950779"
+    },
+    {
+      "name": "rachunkowość zarządcza",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/rachunkowosc-zarzadcza/4754744"
+    },
+    {
+      "name": "Racjonalne gospodarowanie energią",
+      "code": "6.5",
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/racjonalne-gospodarowanie-energia/3650530"
+    },
+    {
+      "name": "Rewitalizacja przestrzeni zurbanizowanej - Rewitalizacja terenów poprzemy slowych",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/rewitalizacja-przestrzeni-zurbanizowanej-rewitalizacja-terenow-poprzemy-slowych/3650146"
+    },
+    {
+      "name": "Rynek usług finansowych",
+      "code": "ZE/00-SL",
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/rynek-uslug-finansowych/6713504"
+    },
+    {
+      "name": "Rysunek odręczny",
+      "code": "3.11",
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/rysunek-odreczny/3650575"
+    },
+    {
+      "name": "Seminarium dyplomowe inżynierskie",
+      "code": "7.2",
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/seminarium-dyplomowe-inzynierskie/3650562"
+    },
+    {
+      "name": "Sieci komputerowe I",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/sieci-komputerowe-i/3650246"
+    },
+    {
+      "name": "Sieci komputerowe II",
+      "code": "K",
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/sieci-komputerowe-ii/3814104"
+    },
+    {
+      "name": "Silniki cieplne",
+      "code": "5.4",
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/silniki-cieplne/3650506"
+    },
+    {
+      "name": "Socjologia",
+      "code": "IBKs2",
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/socjologia/3650447"
+    },
+    {
+      "name": "Statystyka",
+      "code": "IBPs4",
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/statystyka/3650423"
+    },
+    {
+      "name": "Statystyka matematyczna",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/statystyka-matematyczna/3650238"
+    },
+    {
+      "name": "Systemy elektroenergetyczne",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/systemy-elektroenergetyczne/6596946"
+    },
+    {
+      "name": "Systemy informacji przestrzennej w energetyce i",
+      "code": "5.1",
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/systemy-informacji-przestrzennej-w-energetyce-i/3650512"
+    },
+    {
+      "name": "Systemy komputerowego wspomagania CAx",
+      "code": "IBKs17",
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/systemy-komputerowego-wspomagania-cax/3650455"
+    },
+    {
+      "name": "Systemy operacyjne",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/systemy-operacyjne/3650385"
+    },
+    {
+      "name": "Systemy operacyjne I",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/systemy-operacyjne-i/3650241"
+    },
+    {
+      "name": "Systemy operacyjne II",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/systemy-operacyjne-ii/3650244"
+    },
+    {
+      "name": "Technika mikrofalowa",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/technika-mikrofalowa/3650390"
+    },
+    {
+      "name": "Technika mikroprocesorowa",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/technika-mikroprocesorowa/3650293"
+    },
+    {
+      "name": "Technika wysokich napięć",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/technika-wysokich-napiec/3650407"
+    },
+    {
+      "name": "Techniki internetowe",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/techniki-internetowe/3739822"
+    },
+    {
+      "name": "Techniki pozyskiwania energii",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/techniki-pozyskiwania-energii/3650496"
+    },
+    {
+      "name": "Techniki spalania paliw",
+      "code": "5.3",
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/techniki-spalania-paliw/3650505"
+    },
+    {
+      "name": "Technologia betonu",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/technologia-betonu/3650168"
+    },
+    {
+      "name": "Technologia informacyjna",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/technologia-informacyjna/3650085"
+    },
+    {
+      "name": "Technologia robót budowlanych",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/technologia-robot-budowlanych/3650186"
+    },
+    {
+      "name": "Technologia tworzyw sztucznych",
+      "code": "IBKs18",
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/technologia-tworzyw-sztucznych/3650449"
+    },
+    {
+      "name": "Technologia wody",
+      "code": "7.22",
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/technologia-wody/3650564"
+    },
+    {
+      "name": "Technologia ścieków",
+      "code": "6.19",
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/technologia-sciekow/3650544"
+    },
+    {
+      "name": "Technologie i urządzenia przemysłowe",
+      "code": "1.9",
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/technologie-i-urzadzenia-przemyslowe/3650484"
+    },
+    {
+      "name": "Technologie informacyjne",
+      "code": "IBOs3",
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/technologie-informacyjne/3650412"
+    },
+    {
+      "name": "Teoretyczne podstawy informatyki",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/teoretyczne-podstawy-informatyki/3650360"
+    },
+    {
+      "name": "Teoria obwodów",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/teoria-obwodow/3650263"
+    },
+    {
+      "name": "Teoria pola elektromagnetycznego",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/teoria-pola-elektromagnetycznego/3650335"
+    },
+    {
+      "name": "Teoria sygnalów i systemów",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/teoria-sygnalow-i-systemow/3650290"
+    },
+    {
+      "name": "Termiczne przetwarzanie odpadów",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/termiczne-przetwarzanie-odpadow/7591658"
+    },
+    {
+      "name": "Termodynamika techniczna",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/termodynamika-techniczna/3650495"
+    },
+    {
+      "name": "Tresci humanistyczne I - Historia sztuki",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/tresci-humanistyczne-i-historia-sztuki/3650122"
+    },
+    {
+      "name": "Tresci humanistyczne I - Podstawy filozofii",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/tresci-humanistyczne-i-podstawy-filozofii/3650123"
+    },
+    {
+      "name": "Układy elektroniczne analogowe i cyfrowe I",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/uklady-elektroniczne-analogowe-i-cyfrowe-i/3650265"
+    },
+    {
+      "name": "Układy napędowe",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/uklady-napedowe/3650411"
+    },
+    {
+      "name": "Urządzenia chłodnicze i klimatyzacyjne",
+      "code": "5.12",
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/urzadzenia-chlodnicze-i-klimatyzacyjne/3650514"
+    },
+    {
+      "name": "Urządzenia elektryczne",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/urzadzenia-elektryczne/3650410"
+    },
+    {
+      "name": "Wybrane techniki i systemy pomiarowe",
+      "code": "MM-SI (MM00-SI-2(03)",
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/wybrane-techniki-i-systemy-pomiarowe/5955026"
+    },
+    {
+      "name": "Wychowanie fizyczne",
+      "code": "3.2",
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/wychowanie-fizyczne/3650566"
+    },
+    {
+      "name": "Wytrzymalosc materialów 1",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/wytrzymalosc-materialow-1/3650169"
+    },
+    {
+      "name": "Wytrzymalosc materialów 2",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/wytrzymalosc-materialow-2/3650177"
+    },
+    {
+      "name": "Właściwości płynów rzeczywistych",
+      "code": "5.23",
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/wlasciwosci-plynow-rzeczywistych/3650525"
+    },
+    {
+      "name": "Zagrożenia chemiczne",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/zagrozenia-chemiczne/3650458"
+    },
+    {
+      "name": "Zarządzanie bezpieczeństwem pracy",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/zarzadzanie-bezpieczenstwem-pracy/3650460"
+    },
+    {
+      "name": "Zarządzanie gospodarką regionalną",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/zarzadzanie-gospodarka-regionalna/3963687"
+    },
+    {
+      "name": "Zarządzanie zrównoważonym rozwojem regionalnym",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/zarzadzanie-zrownowazonym-rozwojem-regionalnym/3946100"
+    },
+    {
+      "name": "zastosowanie technik wirtualnych w inżynieri mechanicznej",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-opolska/zastosowanie-technik-wirtualnych-w-inzynieri-mechanicznej/7167213"
+    }
+  ]
+}

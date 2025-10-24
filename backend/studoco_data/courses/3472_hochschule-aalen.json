@@ -1,0 +1,891 @@
+{
+  "university_id": "3472",
+  "university_name": "Hochschule Aalen",
+  "courses": [
+    {
+      "name": "Accounting",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-aalen/accounting/4928036"
+    },
+    {
+      "name": "Advanced Actuators",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-aalen/advanced-actuators/4928039"
+    },
+    {
+      "name": "Advanced Materials",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-aalen/advanced-materials/4928044"
+    },
+    {
+      "name": "akustik",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-aalen/akustik/4298864"
+    },
+    {
+      "name": "Allgemein Psychologie",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-aalen/allgemein-psychologie/5918638"
+    },
+    {
+      "name": "Allgemeine Psychologie",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-aalen/allgemeine-psychologie/5917422"
+    },
+    {
+      "name": "Allgemeine Werkstoffe",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-aalen/allgemeine-werkstoffe/4928068"
+    },
+    {
+      "name": "Analysis",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-aalen/analysis/4928072"
+    },
+    {
+      "name": "Applied Analytics",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-aalen/applied-analytics/4928094"
+    },
+    {
+      "name": "Applied Materials And Manufacturing Technology I",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-aalen/applied-materials-and-manufacturing-technology-i/4928095"
+    },
+    {
+      "name": "audit",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-aalen/audit/4632442"
+    },
+    {
+      "name": "Aussagefähige Auftragsunterlagen",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-aalen/aussagefahige-auftragsunterlagen/4928117"
+    },
+    {
+      "name": "Außenwirtschaft",
+      "code": "67708",
+      "url": "https://www.studocu.com/de/course/hochschule-aalen/aussenwirtschaft/2271015"
+    },
+    {
+      "name": "Behavioral Economics and Management",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-aalen/behavioral-economics-and-management/6207957"
+    },
+    {
+      "name": "Betriebswirtschaftliche Anwendungssoftware",
+      "code": "67303",
+      "url": "https://www.studocu.com/de/course/hochschule-aalen/betriebswirtschaftliche-anwendungssoftware/2270980"
+    },
+    {
+      "name": "Bilanzierung und Jahresabschluss nach HGB",
+      "code": "67204",
+      "url": "https://www.studocu.com/de/course/hochschule-aalen/bilanzierung-und-jahresabschluss-nach-hgb/2270974"
+    },
+    {
+      "name": "Buchführung",
+      "code": "67105",
+      "url": "https://www.studocu.com/de/course/hochschule-aalen/buchfuhrung/2270973"
+    },
+    {
+      "name": "Buchführung Und Bilanzierung",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-aalen/buchfuhrung-und-bilanzierung/4928172"
+    },
+    {
+      "name": "Business Communication",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-aalen/business-communication/4928177"
+    },
+    {
+      "name": "Business Englisch (C1)",
+      "code": "67106",
+      "url": "https://www.studocu.com/de/course/hochschule-aalen/business-englisch-c1/2270975"
+    },
+    {
+      "name": "Business Plan",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-aalen/business-plan/4928184"
+    },
+    {
+      "name": "Capital Markets",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-aalen/capital-markets/4928195"
+    },
+    {
+      "name": "Ciencia de los materiales",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-aalen/ciencia-de-los-materiales/4545016"
+    },
+    {
+      "name": "Clinical Experience",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-aalen/clinical-experience/4928204"
+    },
+    {
+      "name": "Computergestützte Datenanalyse (Jamovi, R)",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-aalen/computergestutzte-datenanalyse-jamovi-r/5917435"
+    },
+    {
+      "name": "Controlling",
+      "code": "67408",
+      "url": "https://www.studocu.com/de/course/hochschule-aalen/controlling/2270998"
+    },
+    {
+      "name": "Controlling",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-aalen/controlling/4928227"
+    },
+    {
+      "name": "Corporate Finance",
+      "code": "67608",
+      "url": "https://www.studocu.com/de/course/hochschule-aalen/corporate-finance/2271009"
+    },
+    {
+      "name": "CRM Basics",
+      "code": "67605",
+      "url": "https://www.studocu.com/de/course/hochschule-aalen/crm-basics/2271004"
+    },
+    {
+      "name": "Datenbanken",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-aalen/datenbanken/4928245"
+    },
+    {
+      "name": "Diagnostik",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-aalen/diagnostik/5911407"
+    },
+    {
+      "name": "Dynamisches Verhalten Elektrischer Antriebe",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-aalen/dynamisches-verhalten-elektrischer-antriebe/4928287"
+    },
+    {
+      "name": "Einführung Bwl",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-aalen/einfuhrung-bwl/4928290"
+    },
+    {
+      "name": "Einführung in die allgemeine Volkswirtschaftslehre",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-aalen/einfuhrung-in-die-allgemeine-volkswirtschaftslehre/3855270"
+    },
+    {
+      "name": "Einführung in die internationale BWL",
+      "code": "67101",
+      "url": "https://www.studocu.com/de/course/hochschule-aalen/einfuhrung-in-die-internationale-bwl/2270212"
+    },
+    {
+      "name": "Einführung In Die Wirtschaftsinformatik",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-aalen/einfuhrung-in-die-wirtschaftsinformatik/4928302"
+    },
+    {
+      "name": "Englisch I",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-aalen/englisch-i/4928344"
+    },
+    {
+      "name": "Entwurf 46940 48911 {",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-aalen/entwurf-46940-48911/4928351"
+    },
+    {
+      "name": "Epidemiologie Und Medizinische Grundlagen",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-aalen/epidemiologie-und-medizinische-grundlagen/4928352"
+    },
+    {
+      "name": "Evaluation",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-aalen/evaluation/4928355"
+    },
+    {
+      "name": "Existenzgründung und strategische Planung",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-aalen/existenzgrundung-und-strategische-planung/5154475"
+    },
+    {
+      "name": "Experimentalphysik",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-aalen/experimentalphysik/4928358"
+    },
+    {
+      "name": "Fem",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-aalen/fem/4928374"
+    },
+    {
+      "name": "FEM und Maschinendynamik",
+      "code": "5548wd",
+      "url": "https://www.studocu.com/de/course/hochschule-aalen/fem-und-maschinendynamik/4455527"
+    },
+    {
+      "name": "Fertigungstechnik",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-aalen/fertigungstechnik/4928375"
+    },
+    {
+      "name": "Fertigungstechnik I",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-aalen/fertigungstechnik-i/4928377"
+    },
+    {
+      "name": "Festigkeitslehre",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-aalen/festigkeitslehre/4928380"
+    },
+    {
+      "name": "Financial Management",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-aalen/financial-management/4928384"
+    },
+    {
+      "name": "Finanzierung",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-aalen/finanzierung/4928386"
+    },
+    {
+      "name": "Finanzierung Und Investition",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-aalen/finanzierung-und-investition/4928387"
+    },
+    {
+      "name": "Finite Elemente (Fem)",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-aalen/finite-elemente-fem/4928388"
+    },
+    {
+      "name": "Forschungsprojekt / Wissenschaftliches Arbeiten",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-aalen/forschungsprojekt-wissenschaftliches-arbeiten/4928395"
+    },
+    {
+      "name": "Französisch",
+      "code": "0000",
+      "url": "https://www.studocu.com/de/course/hochschule-aalen/franzosisch/5127937"
+    },
+    {
+      "name": "Free Form Fabrication Technologies",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-aalen/free-form-fabrication-technologies/4928404"
+    },
+    {
+      "name": "General Chemisty 2",
+      "code": "GC2",
+      "url": "https://www.studocu.com/de/course/hochschule-aalen/general-chemisty-2/4405929"
+    },
+    {
+      "name": "Geschäftsideen Im Beschleuniger (Asap Bw)",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-aalen/geschaftsideen-im-beschleuniger-asap-bw/4928416"
+    },
+    {
+      "name": "Gesundheitssystem",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-aalen/gesundheitssystem/4928424"
+    },
+    {
+      "name": "Gesundheitswissenschaften",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-aalen/gesundheitswissenschaften/4928426"
+    },
+    {
+      "name": "Grundlagen Arbeits-, Organisations- und Personalpsychologie",
+      "code": "55013",
+      "url": "https://www.studocu.com/de/course/hochschule-aalen/grundlagen-arbeits-organisations-und-personalpsychologie/5911377"
+    },
+    {
+      "name": "Grundlagen Der Betriebswirtschaftslehre",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-aalen/grundlagen-der-betriebswirtschaftslehre/4928433"
+    },
+    {
+      "name": "Grundlagen Der Bwl",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-aalen/grundlagen-der-bwl/4928434"
+    },
+    {
+      "name": "Grundlagen Der Datenauswertung",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-aalen/grundlagen-der-datenauswertung/4928436"
+    },
+    {
+      "name": "Grundlagen Der Logistik",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-aalen/grundlagen-der-logistik/4928441"
+    },
+    {
+      "name": "Grundlagen der Mathematik",
+      "code": "63101/63108",
+      "url": "https://www.studocu.com/de/course/hochschule-aalen/grundlagen-der-mathematik/4497189"
+    },
+    {
+      "name": "Grundlagen der Physik",
+      "code": "Physik1",
+      "url": "https://www.studocu.com/de/course/hochschule-aalen/grundlagen-der-physik/3607860"
+    },
+    {
+      "name": "Grundlagen des Marketing",
+      "code": "67404",
+      "url": "https://www.studocu.com/de/course/hochschule-aalen/grundlagen-des-marketing/2270994"
+    },
+    {
+      "name": "Grundlagen Mathematik",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-aalen/grundlagen-mathematik/4928454"
+    },
+    {
+      "name": "Grundlagen Volkswirtschaftslehre",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-aalen/grundlagen-volkswirtschaftslehre/4928460"
+    },
+    {
+      "name": "Histology",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-aalen/histology/4928470"
+    },
+    {
+      "name": "Human Biology",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-aalen/human-biology/4928479"
+    },
+    {
+      "name": "Human- Und Neurophysiologie",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-aalen/human-und-neurophysiologie/4928480"
+    },
+    {
+      "name": "Informatik",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-aalen/informatik/4928490"
+    },
+    {
+      "name": "Informatik I",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-aalen/informatik-i/4928494"
+    },
+    {
+      "name": "Ingenieurwerkstoffe",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-aalen/ingenieurwerkstoffe/4928504"
+    },
+    {
+      "name": "Injection Molding",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-aalen/injection-molding/4551204"
+    },
+    {
+      "name": "Intercultural Management",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-aalen/intercultural-management/4928518"
+    },
+    {
+      "name": "International Leadership And Strategy",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-aalen/international-leadership-and-strategy/4928525"
+    },
+    {
+      "name": "International Marketing",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-aalen/international-marketing/4928527"
+    },
+    {
+      "name": "Internationales",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-aalen/internationales/4928549"
+    },
+    {
+      "name": "Internationales Marketing",
+      "code": "67604",
+      "url": "https://www.studocu.com/de/course/hochschule-aalen/internationales-marketing/2271003"
+    },
+    {
+      "name": "Internationales Wirtschaftsingenieurwesen IV",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-aalen/internationales-wirtschaftsingenieurwesen-iv/4928555"
+    },
+    {
+      "name": "Internationales Wirtschaftsingenieurwesen V",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-aalen/internationales-wirtschaftsingenieurwesen-v/4928556"
+    },
+    {
+      "name": "Internationales Wirtschaftsrecht",
+      "code": "67602",
+      "url": "https://www.studocu.com/de/course/hochschule-aalen/internationales-wirtschaftsrecht/2271000"
+    },
+    {
+      "name": "Investition und Finanzierung",
+      "code": "67302",
+      "url": "https://www.studocu.com/de/course/hochschule-aalen/investition-und-finanzierung/2270978"
+    },
+    {
+      "name": "Investition, Finanzierung Und Steuern",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-aalen/investition-finanzierung-und-steuern/4928563"
+    },
+    {
+      "name": "Investitionsrechnung",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-aalen/investitionsrechnung/4928566"
+    },
+    {
+      "name": "It-Management Und It-Service-Management",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-aalen/it-management-und-it-service-management/4928568"
+    },
+    {
+      "name": "Jahresabschluss Und Bilanzierung",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-aalen/jahresabschluss-und-bilanzierung/4928570"
+    },
+    {
+      "name": "Klinische Psychologie",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-aalen/klinische-psychologie/6207946"
+    },
+    {
+      "name": "Konzernrechnungslegung",
+      "code": "40001",
+      "url": "https://www.studocu.com/de/course/hochschule-aalen/konzernrechnungslegung/7284371"
+    },
+    {
+      "name": "Kosten- und Leistungsrechnung",
+      "code": "67301",
+      "url": "https://www.studocu.com/de/course/hochschule-aalen/kosten-und-leistungsrechnung/2270977"
+    },
+    {
+      "name": "Labor Digitale Fertigung",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-aalen/labor-digitale-fertigung/4928617"
+    },
+    {
+      "name": "Leadership Skills In Healthcare",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-aalen/leadership-skills-in-healthcare/4928646"
+    },
+    {
+      "name": "Lernpsychologie",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-aalen/lernpsychologie/4928655"
+    },
+    {
+      "name": "Logistik",
+      "code": "67406",
+      "url": "https://www.studocu.com/de/course/hochschule-aalen/logistik/2270996"
+    },
+    {
+      "name": "Logistik",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-aalen/logistik/4928658"
+    },
+    {
+      "name": "Machine Learning And Deep Learning",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-aalen/machine-learning-and-deep-learning/4928667"
+    },
+    {
+      "name": "Makroökonomik",
+      "code": "67601",
+      "url": "https://www.studocu.com/de/course/hochschule-aalen/makrookonomik/2270999"
+    },
+    {
+      "name": "Maschinendynamik",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-aalen/maschinendynamik/4928690"
+    },
+    {
+      "name": "Maschinenelemente",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-aalen/maschinenelemente/4928691"
+    },
+    {
+      "name": "mechan",
+      "code": "CHEM 800",
+      "url": "https://www.studocu.com/de/course/hochschule-aalen/mechan/4840294"
+    },
+    {
+      "name": "Mechanik",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-aalen/mechanik/4928717"
+    },
+    {
+      "name": "Mechatronik Und Automatisierung",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-aalen/mechatronik-und-automatisierung/4928719"
+    },
+    {
+      "name": "Messtechnik",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-aalen/messtechnik/4928741"
+    },
+    {
+      "name": "Mikroökonomik",
+      "code": "67201",
+      "url": "https://www.studocu.com/de/course/hochschule-aalen/mikrookonomik/2270213"
+    },
+    {
+      "name": "Modul Aus Dem Angebot Der Hs Aalen",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-aalen/modul-aus-dem-angebot-der-hs-aalen/4928769"
+    },
+    {
+      "name": "Modul Aus Dem Bachelorangebot Der Hs Aalen",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-aalen/modul-aus-dem-bachelorangebot-der-hs-aalen/4928770"
+    },
+    {
+      "name": "Mold Design",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-aalen/mold-design/4733593"
+    },
+    {
+      "name": "Nachhaltige Unternehmensführung",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-aalen/nachhaltige-unternehmensfuhrung/4928782"
+    },
+    {
+      "name": "Nationale und Internationale Steuerplanung Teil 2",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-aalen/nationale-und-internationale-steuerplanung-teil-2/5829143"
+    },
+    {
+      "name": "Numerische Mathematik",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-aalen/numerische-mathematik/4928796"
+    },
+    {
+      "name": "Objektorientierte Modellierung",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-aalen/objektorientierte-modellierung/4928800"
+    },
+    {
+      "name": "Operatives Vertriebsmanagement",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-aalen/operatives-vertriebsmanagement/4928808"
+    },
+    {
+      "name": "Organische Chemie Und Technische Chemie",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-aalen/organische-chemie-und-technische-chemie/4928840"
+    },
+    {
+      "name": "Organizational Behaviour",
+      "code": "67305",
+      "url": "https://www.studocu.com/de/course/hochschule-aalen/organizational-behaviour/2270986"
+    },
+    {
+      "name": "Organizational Structure",
+      "code": "67304",
+      "url": "https://www.studocu.com/de/course/hochschule-aalen/organizational-structure/2270987"
+    },
+    {
+      "name": "Personalmanagement",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-aalen/personalmanagement/4928853"
+    },
+    {
+      "name": "Personalmanagement I Und Arbeitsrecht",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-aalen/personalmanagement-i-und-arbeitsrecht/4928854"
+    },
+    {
+      "name": "Persuasion & Negotiation",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-aalen/persuasion-negotiation/4928856"
+    },
+    {
+      "name": "Persönlichkeitspsychologie",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-aalen/personlichkeitspsychologie/5911393"
+    },
+    {
+      "name": "Pharmacology",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-aalen/pharmacology/4928858"
+    },
+    {
+      "name": "Physik",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-aalen/physik/4928863"
+    },
+    {
+      "name": "Polymer Design And Mould Design",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-aalen/polymer-design-and-mould-design/4928886"
+    },
+    {
+      "name": "Polymer Processing - Injection Moulding",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-aalen/polymer-processing-injection-moulding/4928892"
+    },
+    {
+      "name": "Polymere Werkstoffe",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-aalen/polymere-werkstoffe/4928900"
+    },
+    {
+      "name": "Practical Business Software",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-aalen/practical-business-software/4928903"
+    },
+    {
+      "name": "Praktikum Physik",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-aalen/praktikum-physik/4928928"
+    },
+    {
+      "name": "Praktikum Zur Thermodynamik",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-aalen/praktikum-zur-thermodynamik/4928941"
+    },
+    {
+      "name": "Praktische Elektronik",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-aalen/praktische-elektronik/4928942"
+    },
+    {
+      "name": "Programmieren I",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-aalen/programmieren-i/4928969"
+    },
+    {
+      "name": "Projekt-Und Qualitätsmanagement",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-aalen/projekt-und-qualitatsmanagement/4928984"
+    },
+    {
+      "name": "Projektseminar Accounting/Finance/Tax/IT",
+      "code": "67607",
+      "url": "https://www.studocu.com/de/course/hochschule-aalen/projektseminar-accountingfinancetaxit/2271008"
+    },
+    {
+      "name": "Projektseminar Wissenschaftliches Arbeiten",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-aalen/projektseminar-wissenschaftliches-arbeiten/4928994"
+    },
+    {
+      "name": "Präsentation",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-aalen/prasentation/4928946"
+    },
+    {
+      "name": "Quantenphysik",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-aalen/quantenphysik/4929013"
+    },
+    {
+      "name": "Rechnerarchitektur",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-aalen/rechnerarchitektur/4898522"
+    },
+    {
+      "name": "Rechnernetze",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-aalen/rechnernetze/4929023"
+    },
+    {
+      "name": "Rechnungswesen",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-aalen/rechnungswesen/4929024"
+    },
+    {
+      "name": "Recht",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-aalen/recht/4929026"
+    },
+    {
+      "name": "Recht I / Einführung Recht",
+      "code": "67104",
+      "url": "https://www.studocu.com/de/course/hochschule-aalen/recht-i-einfuhrung-recht/2270971"
+    },
+    {
+      "name": "Recht II / Einführung Recht",
+      "code": "67203",
+      "url": "https://www.studocu.com/de/course/hochschule-aalen/recht-ii-einfuhrung-recht/2270972"
+    },
+    {
+      "name": "Recht Im Gesundheitswesen",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-aalen/recht-im-gesundheitswesen/4929027"
+    },
+    {
+      "name": "Regelungstechnik",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-aalen/regelungstechnik/4929035"
+    },
+    {
+      "name": "Requirements Engineering",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-aalen/requirements-engineering/4929043"
+    },
+    {
+      "name": "Servitization & Digitization",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-aalen/servitization-digitization/4929075"
+    },
+    {
+      "name": "Software Architecture",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-aalen/software-architecture/4929096"
+    },
+    {
+      "name": "Sozialpsychologie",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-aalen/sozialpsychologie/5150770"
+    },
+    {
+      "name": "Spanisch A1",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-aalen/spanisch-a1/5153006"
+    },
+    {
+      "name": "Spezielle Aspekte Der Wirtschaftsinformatik",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-aalen/spezielle-aspekte-der-wirtschaftsinformatik/4929112"
+    },
+    {
+      "name": "Sprachliche Gestaltung I",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-aalen/sprachliche-gestaltung-i/4929124"
+    },
+    {
+      "name": "Start-Up-Management",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-aalen/start-up-management/4929128"
+    },
+    {
+      "name": "Statistik",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-aalen/statistik/4929129"
+    },
+    {
+      "name": "Statistik I",
+      "code": "67103",
+      "url": "https://www.studocu.com/de/course/hochschule-aalen/statistik-i/2270968"
+    },
+    {
+      "name": "Statistik I Und R-Programmierung",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-aalen/statistik-i-und-r-programmierung/4929130"
+    },
+    {
+      "name": "Statistik II / Statistische & Empirische Methoden",
+      "code": "67202",
+      "url": "https://www.studocu.com/de/course/hochschule-aalen/statistik-ii-statistische-empirische-methoden/2270970"
+    },
+    {
+      "name": "Statistik: Grundlagen",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-aalen/statistik-grundlagen/4929134"
+    },
+    {
+      "name": "Statistik: Vertiefung",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-aalen/statistik-vertiefung/5917430"
+    },
+    {
+      "name": "Strukturierte Programmierung",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-aalen/strukturierte-programmierung/4929154"
+    },
+    {
+      "name": "Strömungslehre",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-aalen/stromungslehre/4929149"
+    },
+    {
+      "name": "Technische Mechanik",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-aalen/technische-mechanik/4929191"
+    },
+    {
+      "name": "Technische Mechanik II",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-aalen/technische-mechanik-ii/4929193"
+    },
+    {
+      "name": "Technische Mechanik Und Werkstoffkunde",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-aalen/technische-mechanik-und-werkstoffkunde/4929195"
+    },
+    {
+      "name": "Technologie, Beschaffung und Produktion",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-aalen/technologie-beschaffung-und-produktion/5153009"
+    },
+    {
+      "name": "Technologiemanagement",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-aalen/technologiemanagement/5154478"
+    },
+    {
+      "name": "Unternehmensbesteuerung",
+      "code": "67403",
+      "url": "https://www.studocu.com/de/course/hochschule-aalen/unternehmensbesteuerung/2270993"
+    },
+    {
+      "name": "Unternehmensorganisation",
+      "code": "90301",
+      "url": "https://www.studocu.com/de/course/hochschule-aalen/unternehmensorganisation/5167430"
+    },
+    {
+      "name": "Unternehmensstrategie und Fallstudien",
+      "code": "67701",
+      "url": "https://www.studocu.com/de/course/hochschule-aalen/unternehmensstrategie-und-fallstudien/2271002"
+    },
+    {
+      "name": "Usability Testing",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-aalen/usability-testing/7353008"
+    },
+    {
+      "name": "Vertiefung I: Arbeits-, Organisations- und Personalpsychologie",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-aalen/vertiefung-i-arbeits-organisations-und-personalpsychologie/6207952"
+    },
+    {
+      "name": "Vertiefung I: Konsumpsychologie",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-aalen/vertiefung-i-konsumpsychologie/6207967"
+    },
+    {
+      "name": "Vertiefung II: Arbeits- und Organisationspsychologie",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-aalen/vertiefung-ii-arbeits-und-organisationspsychologie/6718606"
+    },
+    {
+      "name": "Wirtschaftsinformatik",
+      "code": "67205",
+      "url": "https://www.studocu.com/de/course/hochschule-aalen/wirtschaftsinformatik/2270979"
+    },
+    {
+      "name": "Wirtschaftsmathematik",
+      "code": "67102",
+      "url": "https://www.studocu.com/de/course/hochschule-aalen/wirtschaftsmathematik/2270778"
+    },
+    {
+      "name": "Wirtschaftsprivatrecht",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/hochschule-aalen/wirtschaftsprivatrecht/4367557"
+    },
+    {
+      "name": "Wirtschaftsspanisch 1 (A2.1)",
+      "code": "67108",
+      "url": "https://www.studocu.com/de/course/hochschule-aalen/wirtschaftsspanisch-1-a21/2270983"
+    },
+    {
+      "name": "Wirtschaftsspanisch 2 (A2.2)",
+      "code": "67206",
+      "url": "https://www.studocu.com/de/course/hochschule-aalen/wirtschaftsspanisch-2-a22/2270985"
+    },
+    {
+      "name": "Wirtschaftsspanisch 4 (B1.2)",
+      "code": "67401",
+      "url": "https://www.studocu.com/de/course/hochschule-aalen/wirtschaftsspanisch-4-b12/2270991"
+    }
+  ]
+}

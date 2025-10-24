@@ -1,0 +1,896 @@
+{
+  "university_id": "6207",
+  "university_name": "Chuka University",
+  "courses": [
+    {
+      "name": "Actuarial science",
+      "code": "EB 13",
+      "url": "https://www.studocu.com/row/course/chuka-university/actuarial-science/6589225"
+    },
+    {
+      "name": "Administrative law",
+      "code": "BLAW 213",
+      "url": "https://www.studocu.com/row/course/chuka-university/administrative-law/6651467"
+    },
+    {
+      "name": "Advanced Population Dynamics",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/chuka-university/advanced-population-dynamics/5867351"
+    },
+    {
+      "name": "agricultural extension",
+      "code": "AGED 331",
+      "url": "https://www.studocu.com/row/course/chuka-university/agricultural-extension/6186746"
+    },
+    {
+      "name": "Agriculture Law",
+      "code": "BLAW 224",
+      "url": "https://www.studocu.com/row/course/chuka-university/agriculture-law/7473341"
+    },
+    {
+      "name": "Alternative Dispute Resolution",
+      "code": "BLAW 314",
+      "url": "https://www.studocu.com/row/course/chuka-university/alternative-dispute-resolution/6645646"
+    },
+    {
+      "name": "animal heath and production",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/chuka-university/animal-heath-and-production/6022695"
+    },
+    {
+      "name": "Animal zoology",
+      "code": "Zool 240",
+      "url": "https://www.studocu.com/row/course/chuka-university/animal-zoology/6774804"
+    },
+    {
+      "name": "applied computer science",
+      "code": "acsc 122",
+      "url": "https://www.studocu.com/row/course/chuka-university/applied-computer-science/7546984"
+    },
+    {
+      "name": "Applied Ethics in Healthcare, Life sciences and Business Practices",
+      "code": "PHIL 911",
+      "url": "https://www.studocu.com/row/course/chuka-university/applied-ethics-in-healthcare-life-sciences-and-business-practices/5846510"
+    },
+    {
+      "name": "Applied Maths",
+      "code": "MATHS:MATH215",
+      "url": "https://www.studocu.com/row/course/chuka-university/applied-maths/5867347"
+    },
+    {
+      "name": "Applied statistics",
+      "code": "EB18",
+      "url": "https://www.studocu.com/row/course/chuka-university/applied-statistics/5710153"
+    },
+    {
+      "name": "artisan in agriculture",
+      "code": "arga 200",
+      "url": "https://www.studocu.com/row/course/chuka-university/artisan-in-agriculture/5921526"
+    },
+    {
+      "name": "Bachelor of Laws",
+      "code": "BLAW 221",
+      "url": "https://www.studocu.com/row/course/chuka-university/bachelor-of-laws/5820747"
+    },
+    {
+      "name": "Bachelor of Laws",
+      "code": "BLAW426",
+      "url": "https://www.studocu.com/row/course/chuka-university/bachelor-of-laws/7370161"
+    },
+    {
+      "name": "Bachelor of science in Chemistry",
+      "code": "CHEM 323",
+      "url": "https://www.studocu.com/row/course/chuka-university/bachelor-of-science-in-chemistry/6718422"
+    },
+    {
+      "name": "Barchelar of arts in geography and kiswahili",
+      "code": "CB8/",
+      "url": "https://www.studocu.com/row/course/chuka-university/barchelar-of-arts-in-geography-and-kiswahili/7461218"
+    },
+    {
+      "name": "Basic Functions of Management",
+      "code": "CDEV 0140",
+      "url": "https://www.studocu.com/row/course/chuka-university/basic-functions-of-management/6350818"
+    },
+    {
+      "name": "basic mathematics",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/chuka-university/basic-mathematics/4352557"
+    },
+    {
+      "name": "Bed science",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/chuka-university/bed-science/6822736"
+    },
+    {
+      "name": "Biology of Hiv/Aids and Society",
+      "code": "AB3:ZOOL 143",
+      "url": "https://www.studocu.com/row/course/chuka-university/biology-of-hivaids-and-society/5855955"
+    },
+    {
+      "name": "Biosafety & biotechnology law",
+      "code": "BLAW 425",
+      "url": "https://www.studocu.com/row/course/chuka-university/biosafety-biotechnology-law/7542623"
+    },
+    {
+      "name": "Business Maths I",
+      "code": "BB1:BCOM 170",
+      "url": "https://www.studocu.com/row/course/chuka-university/business-maths-i/5867350"
+    },
+    {
+      "name": "Calculus 1",
+      "code": "Maths 121",
+      "url": "https://www.studocu.com/row/course/chuka-university/calculus-1/7392889"
+    },
+    {
+      "name": "Clinical medicine",
+      "code": "667b",
+      "url": "https://www.studocu.com/row/course/chuka-university/clinical-medicine/3691092"
+    },
+    {
+      "name": "Commerce, communication skills",
+      "code": "Comms 101",
+      "url": "https://www.studocu.com/row/course/chuka-university/commerce-communication-skills/4217790"
+    },
+    {
+      "name": "Communication for Development",
+      "code": "CDEV 422",
+      "url": "https://www.studocu.com/row/course/chuka-university/communication-for-development/6600440"
+    },
+    {
+      "name": "Communicative English",
+      "code": "COMM102",
+      "url": "https://www.studocu.com/row/course/chuka-university/communicative-english/7301752"
+    },
+    {
+      "name": "Community development",
+      "code": "BCOM 103",
+      "url": "https://www.studocu.com/row/course/chuka-university/community-development/7678339"
+    },
+    {
+      "name": "Community development and social work",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/chuka-university/community-development-and-social-work/7231217"
+    },
+    {
+      "name": "community participation",
+      "code": "cdev 0206",
+      "url": "https://www.studocu.com/row/course/chuka-university/community-participation/6650534"
+    },
+    {
+      "name": "computer application in Business",
+      "code": "cosc 105",
+      "url": "https://www.studocu.com/row/course/chuka-university/computer-application-in-business/4543672"
+    },
+    {
+      "name": "computer applications",
+      "code": "cosc 103",
+      "url": "https://www.studocu.com/row/course/chuka-university/computer-applications/4764268"
+    },
+    {
+      "name": "Computer Architecture",
+      "code": "EB1:COMP 100",
+      "url": "https://www.studocu.com/row/course/chuka-university/computer-architecture/5954669"
+    },
+    {
+      "name": "computer networks",
+      "code": "cosc 361",
+      "url": "https://www.studocu.com/row/course/chuka-university/computer-networks/7645770"
+    },
+    {
+      "name": "computer project proposal",
+      "code": "cosc 482",
+      "url": "https://www.studocu.com/row/course/chuka-university/computer-project-proposal/7288680"
+    },
+    {
+      "name": "Computer science",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/chuka-university/computer-science/3588175"
+    },
+    {
+      "name": "Computer Science",
+      "code": "Cosc451",
+      "url": "https://www.studocu.com/row/course/chuka-university/computer-science/4336167"
+    },
+    {
+      "name": "computer science",
+      "code": "cosc110",
+      "url": "https://www.studocu.com/row/course/chuka-university/computer-science/6545195"
+    },
+    {
+      "name": "computer science",
+      "code": "cosc 221",
+      "url": "https://www.studocu.com/row/course/chuka-university/computer-science/7599360"
+    },
+    {
+      "name": "computer science",
+      "code": "cosc 340",
+      "url": "https://www.studocu.com/row/course/chuka-university/computer-science/7645767"
+    },
+    {
+      "name": "computer science attachment report",
+      "code": "cosc385",
+      "url": "https://www.studocu.com/row/course/chuka-university/computer-science-attachment-report/7289854"
+    },
+    {
+      "name": "Constitutional law",
+      "code": "BLAW 121",
+      "url": "https://www.studocu.com/row/course/chuka-university/constitutional-law/7509521"
+    },
+    {
+      "name": "consumer protection law",
+      "code": "BLAW 426",
+      "url": "https://www.studocu.com/row/course/chuka-university/consumer-protection-law/7542634"
+    },
+    {
+      "name": "Contemporary Criminology theories",
+      "code": "ACD 2201",
+      "url": "https://www.studocu.com/row/course/chuka-university/contemporary-criminology-theories/5837866"
+    },
+    {
+      "name": "Contract law",
+      "code": "BLAW 212",
+      "url": "https://www.studocu.com/row/course/chuka-university/contract-law/7312381"
+    },
+    {
+      "name": "contribution of cooperative",
+      "code": "Bcop111",
+      "url": "https://www.studocu.com/row/course/chuka-university/contribution-of-cooperative/7419683"
+    },
+    {
+      "name": "Corporate Law",
+      "code": "BLAW 200",
+      "url": "https://www.studocu.com/row/course/chuka-university/corporate-law/4738561"
+    },
+    {
+      "name": "criminal investigation",
+      "code": "CRSS 0140",
+      "url": "https://www.studocu.com/row/course/chuka-university/criminal-investigation/5709573"
+    },
+    {
+      "name": "Criminal Investigation 1",
+      "code": "CRSS 240",
+      "url": "https://www.studocu.com/row/course/chuka-university/criminal-investigation-1/6029942"
+    },
+    {
+      "name": "Criminal Law",
+      "code": "BLAW 221",
+      "url": "https://www.studocu.com/row/course/chuka-university/criminal-law/7009420"
+    },
+    {
+      "name": "Criminology and Security Studies",
+      "code": "CRSS 200",
+      "url": "https://www.studocu.com/row/course/chuka-university/criminology-and-security-studies/6029938"
+    },
+    {
+      "name": "Database Design and Implementation",
+      "code": "Geo 205",
+      "url": "https://www.studocu.com/row/course/chuka-university/database-design-and-implementation/7619957"
+    },
+    {
+      "name": "Databases 2",
+      "code": "CS 3306",
+      "url": "https://www.studocu.com/row/course/chuka-university/databases-2/5407293"
+    },
+    {
+      "name": "Developmentalo Psychology",
+      "code": "AB1:EPSC 121",
+      "url": "https://www.studocu.com/row/course/chuka-university/developmentalo-psychology/5724178"
+    },
+    {
+      "name": "Digital Electronics",
+      "code": "COSC211",
+      "url": "https://www.studocu.com/row/course/chuka-university/digital-electronics/6621064"
+    },
+    {
+      "name": "Diplomacy",
+      "code": "COMM 471",
+      "url": "https://www.studocu.com/row/course/chuka-university/diplomacy/6032206"
+    },
+    {
+      "name": "Ecology",
+      "code": "Zool 210",
+      "url": "https://www.studocu.com/row/course/chuka-university/ecology/6774809"
+    },
+    {
+      "name": "Economics and statistics",
+      "code": "EconStat",
+      "url": "https://www.studocu.com/row/course/chuka-university/economics-and-statistics/5733328"
+    },
+    {
+      "name": "Economics and statistics",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/chuka-university/economics-and-statistics/7758480"
+    },
+    {
+      "name": "Education  Arts",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/chuka-university/education-arts/4232894"
+    },
+    {
+      "name": "Education science",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/chuka-university/education-science/7046803"
+    },
+    {
+      "name": "Education Sciences",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/chuka-university/education-sciences/7369794"
+    },
+    {
+      "name": "Electricity and Magnetism",
+      "code": "PHYS 211",
+      "url": "https://www.studocu.com/row/course/chuka-university/electricity-and-magnetism/5107033"
+    },
+    {
+      "name": "Emerging technologies in Computer Science",
+      "code": "COSC 475",
+      "url": "https://www.studocu.com/row/course/chuka-university/emerging-technologies-in-computer-science/6064722"
+    },
+    {
+      "name": "engineering",
+      "code": "200",
+      "url": "https://www.studocu.com/row/course/chuka-university/engineering/5291795"
+    },
+    {
+      "name": "English",
+      "code": "100",
+      "url": "https://www.studocu.com/row/course/chuka-university/english/5291794"
+    },
+    {
+      "name": "Environmental Economics",
+      "code": "BLAW 323",
+      "url": "https://www.studocu.com/row/course/chuka-university/environmental-economics/6543664"
+    },
+    {
+      "name": "Environmental physics",
+      "code": "Phys 485",
+      "url": "https://www.studocu.com/row/course/chuka-university/environmental-physics/7334352"
+    },
+    {
+      "name": "Environmetal Science",
+      "code": "ENV 101",
+      "url": "https://www.studocu.com/row/course/chuka-university/environmetal-science/5324442"
+    },
+    {
+      "name": "Epistemology",
+      "code": "NM20:MIHM 821",
+      "url": "https://www.studocu.com/row/course/chuka-university/epistemology/5737432"
+    },
+    {
+      "name": "Financial accounting 2",
+      "code": "BCA 202",
+      "url": "https://www.studocu.com/row/course/chuka-university/financial-accounting-2/5132245"
+    },
+    {
+      "name": "Fluid mechanics",
+      "code": "Math 325",
+      "url": "https://www.studocu.com/row/course/chuka-university/fluid-mechanics/5867353"
+    },
+    {
+      "name": "Forensic Investigation",
+      "code": "CRSS 442",
+      "url": "https://www.studocu.com/row/course/chuka-university/forensic-investigation/7037688"
+    },
+    {
+      "name": "General Mathematics",
+      "code": "AB1:MATH 100",
+      "url": "https://www.studocu.com/row/course/chuka-university/general-mathematics/5838920"
+    },
+    {
+      "name": "Geography and economics",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/chuka-university/geography-and-economics/7529410"
+    },
+    {
+      "name": "Geology",
+      "code": "222",
+      "url": "https://www.studocu.com/row/course/chuka-university/geology/5350192"
+    },
+    {
+      "name": "Health records and information management",
+      "code": "HRIM 151",
+      "url": "https://www.studocu.com/row/course/chuka-university/health-records-and-information-management/6856887"
+    },
+    {
+      "name": "Healthcare economics",
+      "code": "Nurs 111",
+      "url": "https://www.studocu.com/row/course/chuka-university/healthcare-economics/4519853"
+    },
+    {
+      "name": "Heat and Thermodynamics",
+      "code": "PHYS 161",
+      "url": "https://www.studocu.com/row/course/chuka-university/heat-and-thermodynamics/6667356"
+    },
+    {
+      "name": "Hematology",
+      "code": "NURS 222",
+      "url": "https://www.studocu.com/row/course/chuka-university/hematology/3691088"
+    },
+    {
+      "name": "High Energy Physics",
+      "code": "PHYS 427",
+      "url": "https://www.studocu.com/row/course/chuka-university/high-energy-physics/7177805"
+    },
+    {
+      "name": "Historia Na Maendeleo ya Kiswahil",
+      "code": "AB1:KISW 112",
+      "url": "https://www.studocu.com/row/course/chuka-university/historia-na-maendeleo-ya-kiswahil/5737132"
+    },
+    {
+      "name": "Historical and Comparative linguistics",
+      "code": "ENG 312",
+      "url": "https://www.studocu.com/row/course/chuka-university/historical-and-comparative-linguistics/7392005"
+    },
+    {
+      "name": "History",
+      "code": "HHIS 101",
+      "url": "https://www.studocu.com/row/course/chuka-university/history/7398897"
+    },
+    {
+      "name": "Histroy of Economic Thought II",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/chuka-university/histroy-of-economic-thought-ii/5324427"
+    },
+    {
+      "name": "Horticulture",
+      "code": "Hort401",
+      "url": "https://www.studocu.com/row/course/chuka-university/horticulture/6322496"
+    },
+    {
+      "name": "Hotel Management",
+      "code": "BCHM 111",
+      "url": "https://www.studocu.com/row/course/chuka-university/hotel-management/6778459"
+    },
+    {
+      "name": "Hotel Management",
+      "code": "BCHM 464",
+      "url": "https://www.studocu.com/row/course/chuka-university/hotel-management/7260971"
+    },
+    {
+      "name": "Human Anatomy",
+      "code": "NURS 111",
+      "url": "https://www.studocu.com/row/course/chuka-university/human-anatomy/6444506"
+    },
+    {
+      "name": "Human Morphology and Development Anatomy",
+      "code": "BMET 110",
+      "url": "https://www.studocu.com/row/course/chuka-university/human-morphology-and-development-anatomy/6072575"
+    },
+    {
+      "name": "Human Nutrition",
+      "code": "HNDS 212",
+      "url": "https://www.studocu.com/row/course/chuka-university/human-nutrition/7326110"
+    },
+    {
+      "name": "Human Physiology",
+      "code": "BMED 111",
+      "url": "https://www.studocu.com/row/course/chuka-university/human-physiology/5155523"
+    },
+    {
+      "name": "HUMAN RESOURCE MANAGEMENT",
+      "code": "1908",
+      "url": "https://www.studocu.com/row/course/chuka-university/human-resource-management/3220254"
+    },
+    {
+      "name": "Industrial chemistry",
+      "code": "BSC141",
+      "url": "https://www.studocu.com/row/course/chuka-university/industrial-chemistry/7734381"
+    },
+    {
+      "name": "information technology 1",
+      "code": "COMM 230",
+      "url": "https://www.studocu.com/row/course/chuka-university/information-technology-1/6148801"
+    },
+    {
+      "name": "INORGANIC chemistry",
+      "code": "Chem 110",
+      "url": "https://www.studocu.com/row/course/chuka-university/inorganic-chemistry/7312266"
+    },
+    {
+      "name": "International Human Rights Law",
+      "code": "BLAW 326",
+      "url": "https://www.studocu.com/row/course/chuka-university/international-human-rights-law/6723526"
+    },
+    {
+      "name": "International relations",
+      "code": "ITNR 201",
+      "url": "https://www.studocu.com/row/course/chuka-university/international-relations/5917954"
+    },
+    {
+      "name": "introduction to biochemistry and biodiversity",
+      "code": "BIOC 100",
+      "url": "https://www.studocu.com/row/course/chuka-university/introduction-to-biochemistry-and-biodiversity/4349268"
+    },
+    {
+      "name": "introduction to biomedical science and technology",
+      "code": "BMET 101",
+      "url": "https://www.studocu.com/row/course/chuka-university/introduction-to-biomedical-science-and-technology/6505142"
+    },
+    {
+      "name": "Introduction to communication",
+      "code": "COMM100",
+      "url": "https://www.studocu.com/row/course/chuka-university/introduction-to-communication/7301761"
+    },
+    {
+      "name": "Introduction to Criminology",
+      "code": "CRSS 100",
+      "url": "https://www.studocu.com/row/course/chuka-university/introduction-to-criminology/5154053"
+    },
+    {
+      "name": "Introduction to Language and Linguistics",
+      "code": "AB1:ENGL 111",
+      "url": "https://www.studocu.com/row/course/chuka-university/introduction-to-language-and-linguistics/5855959"
+    },
+    {
+      "name": "Introduction to Literature in Kiswahili",
+      "code": "AB1A:KISW 103",
+      "url": "https://www.studocu.com/row/course/chuka-university/introduction-to-literature-in-kiswahili/5867909"
+    },
+    {
+      "name": "Introduction to Psychology",
+      "code": "PSYC 121",
+      "url": "https://www.studocu.com/row/course/chuka-university/introduction-to-psychology/6512516"
+    },
+    {
+      "name": "introduction to sociology",
+      "code": "soci 101",
+      "url": "https://www.studocu.com/row/course/chuka-university/introduction-to-sociology/7365729"
+    },
+    {
+      "name": "Introduction to strategic management",
+      "code": "BCOM 403",
+      "url": "https://www.studocu.com/row/course/chuka-university/introduction-to-strategic-management/6646031"
+    },
+    {
+      "name": "Introduction to the Study of Religion",
+      "code": "RELI 100",
+      "url": "https://www.studocu.com/row/course/chuka-university/introduction-to-the-study-of-religion/7552745"
+    },
+    {
+      "name": "introduction to work plan",
+      "code": "SCH 2010",
+      "url": "https://www.studocu.com/row/course/chuka-university/introduction-to-work-plan/7751151"
+    },
+    {
+      "name": "Investigative journalism",
+      "code": "DJMC 0224",
+      "url": "https://www.studocu.com/row/course/chuka-university/investigative-journalism/5388032"
+    },
+    {
+      "name": "Kiswahili",
+      "code": "KSW101",
+      "url": "https://www.studocu.com/row/course/chuka-university/kiswahili/7303590"
+    },
+    {
+      "name": "Kiswahili teaching method",
+      "code": "EDCI 335",
+      "url": "https://www.studocu.com/row/course/chuka-university/kiswahili-teaching-method/7559268"
+    },
+    {
+      "name": "Law in education",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/chuka-university/law-in-education/7427102"
+    },
+    {
+      "name": "Law of business association 1",
+      "code": "Blaw 216",
+      "url": "https://www.studocu.com/row/course/chuka-university/law-of-business-association-1/7741904"
+    },
+    {
+      "name": "Law of Evidence",
+      "code": "BLAW 225",
+      "url": "https://www.studocu.com/row/course/chuka-university/law-of-evidence/7723912"
+    },
+    {
+      "name": "Legal and legislative drafting",
+      "code": "BLAW 123",
+      "url": "https://www.studocu.com/row/course/chuka-university/legal-and-legislative-drafting/7509522"
+    },
+    {
+      "name": "legal entrepreneurdhip",
+      "code": "BLAW 423",
+      "url": "https://www.studocu.com/row/course/chuka-university/legal-entrepreneurdhip/7542632"
+    },
+    {
+      "name": "Legal Systems And Methods",
+      "code": "Blaw111",
+      "url": "https://www.studocu.com/row/course/chuka-university/legal-systems-and-methods/5780877"
+    },
+    {
+      "name": "Linear algebra 2",
+      "code": "Math 301",
+      "url": "https://www.studocu.com/row/course/chuka-university/linear-algebra-2/5867359"
+    },
+    {
+      "name": "Linguistics and literature",
+      "code": "1105524",
+      "url": "https://www.studocu.com/row/course/chuka-university/linguistics-and-literature/6509721"
+    },
+    {
+      "name": "Linguistics and literature",
+      "code": "Engl 221",
+      "url": "https://www.studocu.com/row/course/chuka-university/linguistics-and-literature/7542173"
+    },
+    {
+      "name": "Lower invertebrates",
+      "code": "Zool 101",
+      "url": "https://www.studocu.com/row/course/chuka-university/lower-invertebrates/7083002"
+    },
+    {
+      "name": "Macro-economics",
+      "code": "ECON 240",
+      "url": "https://www.studocu.com/row/course/chuka-university/macro-economics/3621881"
+    },
+    {
+      "name": "management",
+      "code": "acsc184",
+      "url": "https://www.studocu.com/row/course/chuka-university/management/4536985"
+    },
+    {
+      "name": "Material Science",
+      "code": "PHYS 218",
+      "url": "https://www.studocu.com/row/course/chuka-university/material-science/5338459"
+    },
+    {
+      "name": "Medical Physiology",
+      "code": "NURS 112",
+      "url": "https://www.studocu.com/row/course/chuka-university/medical-physiology/4336190"
+    },
+    {
+      "name": "Melochupa",
+      "code": "1234",
+      "url": "https://www.studocu.com/row/course/chuka-university/melochupa/7704808"
+    },
+    {
+      "name": "MOFOLOJIA NA SINTAKSIA",
+      "code": "Kisw 311",
+      "url": "https://www.studocu.com/row/course/chuka-university/mofolojia-na-sintaksia/6070615"
+    },
+    {
+      "name": "money and banking",
+      "code": "ECON 345",
+      "url": "https://www.studocu.com/row/course/chuka-university/money-and-banking/6867030"
+    },
+    {
+      "name": "Mycology",
+      "code": "BOTA 233",
+      "url": "https://www.studocu.com/row/course/chuka-university/mycology/7444291"
+    },
+    {
+      "name": "natural resource law",
+      "code": "blaw211",
+      "url": "https://www.studocu.com/row/course/chuka-university/natural-resource-law/6651473"
+    },
+    {
+      "name": "news writing",
+      "code": "journalism",
+      "url": "https://www.studocu.com/row/course/chuka-university/news-writing/4793722"
+    },
+    {
+      "name": "nursing",
+      "code": "BSC 10",
+      "url": "https://www.studocu.com/row/course/chuka-university/nursing/7178079"
+    },
+    {
+      "name": "Nutrition And Dietetics",
+      "code": "NUD101",
+      "url": "https://www.studocu.com/row/course/chuka-university/nutrition-and-dietetics/6849499"
+    },
+    {
+      "name": "organic chemistry 1",
+      "code": "chem 130",
+      "url": "https://www.studocu.com/row/course/chuka-university/organic-chemistry-1/5398083"
+    },
+    {
+      "name": "organic chemistry 2",
+      "code": "chem 231",
+      "url": "https://www.studocu.com/row/course/chuka-university/organic-chemistry-2/5718514"
+    },
+    {
+      "name": "Philosophy",
+      "code": "Phil 104",
+      "url": "https://www.studocu.com/row/course/chuka-university/philosophy/5915260"
+    },
+    {
+      "name": "Philosophy of education",
+      "code": "EDFO",
+      "url": "https://www.studocu.com/row/course/chuka-university/philosophy-of-education/7163965"
+    },
+    {
+      "name": "Physical chemistry",
+      "code": "Chem 120",
+      "url": "https://www.studocu.com/row/course/chuka-university/physical-chemistry/7392894"
+    },
+    {
+      "name": "plant anatomy and morphology",
+      "code": "BOTA121",
+      "url": "https://www.studocu.com/row/course/chuka-university/plant-anatomy-and-morphology/6842936"
+    },
+    {
+      "name": "Plant science",
+      "code": "DB4",
+      "url": "https://www.studocu.com/row/course/chuka-university/plant-science/7677871"
+    },
+    {
+      "name": "Political Science",
+      "code": "P100",
+      "url": "https://www.studocu.com/row/course/chuka-university/political-science/5094786"
+    },
+    {
+      "name": "Post graduate in diploma of education",
+      "code": "ECT 3133",
+      "url": "https://www.studocu.com/row/course/chuka-university/post-graduate-in-diploma-of-education/7577593"
+    },
+    {
+      "name": "Principles of accounting 1",
+      "code": "Bcom 111",
+      "url": "https://www.studocu.com/row/course/chuka-university/principles-of-accounting-1/7062327"
+    },
+    {
+      "name": "Principles of entrepreneurship",
+      "code": "BEEM 111",
+      "url": "https://www.studocu.com/row/course/chuka-university/principles-of-entrepreneurship/7137156"
+    },
+    {
+      "name": "Principles of Legislation",
+      "code": "ABLE 1161",
+      "url": "https://www.studocu.com/row/course/chuka-university/principles-of-legislation/5881209"
+    },
+    {
+      "name": "Principles of macroeconomics",
+      "code": "121",
+      "url": "https://www.studocu.com/row/course/chuka-university/principles-of-macroeconomics/4542814"
+    },
+    {
+      "name": "Principles of management",
+      "code": "Bcom 103",
+      "url": "https://www.studocu.com/row/course/chuka-university/principles-of-management/7419690"
+    },
+    {
+      "name": "Principles of physics",
+      "code": "PHYS 0111",
+      "url": "https://www.studocu.com/row/course/chuka-university/principles-of-physics/6473449"
+    },
+    {
+      "name": "Procurement and Logistics Management",
+      "code": "BPLM 001",
+      "url": "https://www.studocu.com/row/course/chuka-university/procurement-and-logistics-management/5823774"
+    },
+    {
+      "name": "Procurement and Logistics management",
+      "code": "BPLM 302",
+      "url": "https://www.studocu.com/row/course/chuka-university/procurement-and-logistics-management/5875942"
+    },
+    {
+      "name": "Property law",
+      "code": "BLAW 223",
+      "url": "https://www.studocu.com/row/course/chuka-university/property-law/7543926"
+    },
+    {
+      "name": "psychology of criminal behaviour",
+      "code": "crss 201",
+      "url": "https://www.studocu.com/row/course/chuka-university/psychology-of-criminal-behaviour/6029947"
+    },
+    {
+      "name": "public healt",
+      "code": "nur 2200",
+      "url": "https://www.studocu.com/row/course/chuka-university/public-healt/6542866"
+    },
+    {
+      "name": "Public health",
+      "code": "HB3/75765/24",
+      "url": "https://www.studocu.com/row/course/chuka-university/public-health/7119742"
+    },
+    {
+      "name": "Public International Law",
+      "code": "BLAW 325",
+      "url": "https://www.studocu.com/row/course/chuka-university/public-international-law/6723528"
+    },
+    {
+      "name": "Research methodology",
+      "code": "NARE 852",
+      "url": "https://www.studocu.com/row/course/chuka-university/research-methodology/5854841"
+    },
+    {
+      "name": "Risk and insurance",
+      "code": "Bcom241",
+      "url": "https://www.studocu.com/row/course/chuka-university/risk-and-insurance/6491783"
+    },
+    {
+      "name": "Second Language Acquisition",
+      "code": "ENGL 322",
+      "url": "https://www.studocu.com/row/course/chuka-university/second-language-acquisition/6868572"
+    },
+    {
+      "name": "Semantics and pragmatics",
+      "code": "ENGL 442",
+      "url": "https://www.studocu.com/row/course/chuka-university/semantics-and-pragmatics/7272883"
+    },
+    {
+      "name": "seminars in computer science",
+      "code": "cosc 484",
+      "url": "https://www.studocu.com/row/course/chuka-university/seminars-in-computer-science/7289848"
+    },
+    {
+      "name": "Social Statistics",
+      "code": "AM18:SOCI 703",
+      "url": "https://www.studocu.com/row/course/chuka-university/social-statistics/5324443"
+    },
+    {
+      "name": "social structures of east african societies",
+      "code": "soci 233",
+      "url": "https://www.studocu.com/row/course/chuka-university/social-structures-of-east-african-societies/7184399"
+    },
+    {
+      "name": "Society and Humanitarian Law",
+      "code": "SIHL 100",
+      "url": "https://www.studocu.com/row/course/chuka-university/society-and-humanitarian-law/6588460"
+    },
+    {
+      "name": "Sociology",
+      "code": "Soci 251",
+      "url": "https://www.studocu.com/row/course/chuka-university/sociology/5413082"
+    },
+    {
+      "name": "Software Engineering I",
+      "code": "comp 306",
+      "url": "https://www.studocu.com/row/course/chuka-university/software-engineering-i/7086666"
+    },
+    {
+      "name": "Strategic Management",
+      "code": "BCOM 403",
+      "url": "https://www.studocu.com/row/course/chuka-university/strategic-management/5817518"
+    },
+    {
+      "name": "stuctured programming",
+      "code": "ict 2001",
+      "url": "https://www.studocu.com/row/course/chuka-university/stuctured-programming/6479730"
+    },
+    {
+      "name": "System and Security Administration",
+      "code": "CSC3412",
+      "url": "https://www.studocu.com/row/course/chuka-university/system-and-security-administration/5463681"
+    },
+    {
+      "name": "Systems Programming",
+      "code": "ICS 2400",
+      "url": "https://www.studocu.com/row/course/chuka-university/systems-programming/2987422"
+    },
+    {
+      "name": "theories of development",
+      "code": "CDEV 814",
+      "url": "https://www.studocu.com/row/course/chuka-university/theories-of-development/7528734"
+    },
+    {
+      "name": "Theory of Estimation",
+      "code": "Math 344",
+      "url": "https://www.studocu.com/row/course/chuka-university/theory-of-estimation/5413083"
+    },
+    {
+      "name": "Tourism management",
+      "code": "BTOM 111",
+      "url": "https://www.studocu.com/row/course/chuka-university/tourism-management/5790683"
+    },
+    {
+      "name": "Tsc recruitment jss 2025",
+      "code": "Tsc2025",
+      "url": "https://www.studocu.com/row/course/chuka-university/tsc-recruitment-jss-2025/7693812"
+    },
+    {
+      "name": "user interface design",
+      "code": "ASC 435",
+      "url": "https://www.studocu.com/row/course/chuka-university/user-interface-design/5537347"
+    },
+    {
+      "name": "Vector analysis",
+      "code": "MATH 222",
+      "url": "https://www.studocu.com/row/course/chuka-university/vector-analysis/6384294"
+    },
+    {
+      "name": "World Food Issues",
+      "code": "CDEV 417",
+      "url": "https://www.studocu.com/row/course/chuka-university/world-food-issues/7686322"
+    }
+  ]
+}

@@ -3,5 +3,35 @@
     "id": "694",
     "name": "Universidad Autónoma de Madrid",
     "reason": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://www.studocu.com/es/institution/universidad-autnoma-de-madrid/694\", waiting until \"domcontentloaded\"\n"
+  },
+  {
+    "id": "2833",
+    "name": "Danmarks Tekniske Universitet",
+    "reason": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://www.studocu.com/da/institution/danmarks-tekniske-universitet/2833\", waiting until \"domcontentloaded\"\n"
+  },
+  {
+    "id": "3671",
+    "name": "Universität Hohenheim",
+    "reason": "Page.goto: net::ERR_ABORTED at https://www.studocu.com/de/institution/universit%C3%A4t-hohenheim/3671\nCall log:\n  - navigating to \"https://www.studocu.com/de/institution/universit%C3%A4t-hohenheim/3671\", waiting until \"domcontentloaded\"\n"
+  },
+  {
+    "id": "7660",
+    "name": "University of Wah",
+    "reason": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://www.studocu.com/row/institution/university-of-wah/7660\", waiting until \"domcontentloaded\"\n"
+  },
+  {
+    "id": "8853",
+    "name": "Vaal University of Technology",
+    "reason": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://www.studocu.com/en-za/institution/vaal-university-of-technology/8853\", waiting until \"domcontentloaded\"\n"
+  },
+  {
+    "id": "9131",
+    "name": "National Tsing Hua University",
+    "reason": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://www.studocu.com/tw/institution/national-tsing-hua-university/9131\", waiting until \"domcontentloaded\"\n"
+  },
+  {
+    "id": "9787",
+    "name": "University of Aberdeen",
+    "reason": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://www.studocu.com/en-gb/institution/university-of-aberdeen/9787\", waiting until \"domcontentloaded\"\n"
   }
 ]

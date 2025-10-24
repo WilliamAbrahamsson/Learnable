@@ -1,0 +1,3026 @@
+{
+  "university_id": "1023",
+  "university_name": "Technische Universität Graz",
+  "courses": [
+    {
+      "name": "Abiotische Interaktionen",
+      "code": "PLA.104",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/abiotische-interaktionen/1579513"
+    },
+    {
+      "name": "Adaptive Systems",
+      "code": "442.011",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/adaptive-systems/1578154"
+    },
+    {
+      "name": "Advanced Processing Technologies",
+      "code": "335.002",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/advanced-processing-technologies/1577887"
+    },
+    {
+      "name": "Advanced quantum mechanics",
+      "code": "PHU.004UF",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/advanced-quantum-mechanics/5390522"
+    },
+    {
+      "name": "Advanced Solid State Physics",
+      "code": "PHT.307UF",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/advanced-solid-state-physics/6313070"
+    },
+    {
+      "name": "Advanced Topics in Artificial Intelligence",
+      "code": "716.095",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/advanced-topics-in-artificial-intelligence/1578808"
+    },
+    {
+      "name": "Aktuelle Entwicklungen im Bereich der Kunststoffe",
+      "code": "638.259",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/aktuelle-entwicklungen-im-bereich-der-kunststoffe/1578538"
+    },
+    {
+      "name": "Akustik für Motor und Fahrzeug",
+      "code": "313.094",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/akustik-fur-motor-und-fahrzeug/1577764"
+    },
+    {
+      "name": "Allgemeine Chemie",
+      "code": "UNT.040",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/allgemeine-chemie/1579612"
+    },
+    {
+      "name": "Allgemeine Chemie für Erdwissenschafter II",
+      "code": "633.902",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/allgemeine-chemie-fur-erdwissenschafter-ii/1578510"
+    },
+    {
+      "name": "Allgemeine Chemie für Studierende der Biologie (Teil I)",
+      "code": "MOL.107",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/allgemeine-chemie-fur-studierende-der-biologie-teil-i/1579351"
+    },
+    {
+      "name": "Allgemeine Chemie für Studierende der Biologie (Teil II)",
+      "code": "MOL.108",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/allgemeine-chemie-fur-studierende-der-biologie-teil-ii/1579352"
+    },
+    {
+      "name": "Allgemeine Geologie",
+      "code": "GEO.230",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/allgemeine-geologie/1579107"
+    },
+    {
+      "name": "Allgemeine Mineralogie",
+      "code": "GEO.260",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/allgemeine-mineralogie/1579109"
+    },
+    {
+      "name": "allgemeine Pädagogik",
+      "code": "401.600",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/allgemeine-padagogik/5167784"
+    },
+    {
+      "name": "Analog Integrated Circuit Design and Simulation 1",
+      "code": "439.218",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/analog-integrated-circuit-design-and-simulation-1/1578138"
+    },
+    {
+      "name": "Analog Integrated Circuit Design and Simulation 2",
+      "code": "439.208",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/analog-integrated-circuit-design-and-simulation-2/1578130"
+    },
+    {
+      "name": "Analyse von DNA- und Proteinsequenzen",
+      "code": "MOL.504_2",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/analyse-von-dna-und-proteinsequenzen/1579380"
+    },
+    {
+      "name": "Analysis 1",
+      "code": "MAT.101",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/analysis-1/1579248"
+    },
+    {
+      "name": "Analysis 1a",
+      "code": "501.447",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/analysis-1a/1578268"
+    },
+    {
+      "name": "Analysis 1b",
+      "code": "501.448",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/analysis-1b/1578269"
+    },
+    {
+      "name": "Analysis 2",
+      "code": "MAT.151",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/analysis-2/1579252"
+    },
+    {
+      "name": "Analysis 3",
+      "code": "MAT.201",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/analysis-3/1579256"
+    },
+    {
+      "name": "Analysis and Computational Number Theory",
+      "code": "501.041",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/analysis-and-computational-number-theory/1578254"
+    },
+    {
+      "name": "Analysis T1",
+      "code": "501.446",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/analysis-t1/1578267"
+    },
+    {
+      "name": "Analytische Chemie",
+      "code": "CHE.313",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/analytische-chemie/1578938"
+    },
+    {
+      "name": "Analytische Chemie für Studierende der Molekularbiologie",
+      "code": "MOL.302",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/analytische-chemie-fur-studierende-der-molekularbiologie/1579365"
+    },
+    {
+      "name": "Analytische Funktionen",
+      "code": "501.050",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/analytische-funktionen/1578257"
+    },
+    {
+      "name": "Angewandte Mineralogie",
+      "code": "GEO.435",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/angewandte-mineralogie/1579123"
+    },
+    {
+      "name": "Anlagenplanung, Materialflussrechnung und Logistik",
+      "code": "UNT.245",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/anlagenplanung-materialflussrechnung-und-logistik/1579647"
+    },
+    {
+      "name": "Anorganisch-chemische Technologie",
+      "code": "CHE.139",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/anorganisch-chemische-technologie/1578898"
+    },
+    {
+      "name": "Anorganische Chemie",
+      "code": "UNT.047",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/anorganische-chemie/1579616"
+    },
+    {
+      "name": "Anorganische Chemie I",
+      "code": "CHE.126",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/anorganische-chemie-i/1578890"
+    },
+    {
+      "name": "Anorganische Chemie II",
+      "code": "CHE.127",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/anorganische-chemie-ii/1578891"
+    },
+    {
+      "name": "Antibiotika und deren Wirkungsmechanismen",
+      "code": "MOL.403",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/antibiotika-und-deren-wirkungsmechanismen/1579373"
+    },
+    {
+      "name": "Antriebs- und Steuerungstechnik",
+      "code": "309.020",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/antriebs-und-steuerungstechnik/1577722"
+    },
+    {
+      "name": "Apparatebau Grundlagen",
+      "code": "669.100",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/apparatebau-grundlagen/1578654"
+    },
+    {
+      "name": "Applied Catalysis",
+      "code": "CHE.526",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/applied-catalysis/1578992"
+    },
+    {
+      "name": "Arbeitsrecht",
+      "code": "373.386",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/arbeitsrecht/1577946"
+    },
+    {
+      "name": "Architektur und Energie",
+      "code": "159.561",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/architektur-und-energie/1577422"
+    },
+    {
+      "name": "Architektur und Kunstgeschichte",
+      "code": "141.530",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/architektur-und-kunstgeschichte/1577357"
+    },
+    {
+      "name": "Architektur und Kunstgeschichte der Gegenwart",
+      "code": "141.518",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/architektur-und-kunstgeschichte-der-gegenwart/4495551"
+    },
+    {
+      "name": "Architektur verteilter Systeme",
+      "code": "448.010",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/architektur-verteilter-systeme/1578212"
+    },
+    {
+      "name": "Architektur- und Kunstgeschichte der Moderne",
+      "code": "141.517",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/architektur-und-kunstgeschichte-der-moderne/4701252"
+    },
+    {
+      "name": "Architekturgeschichte",
+      "code": "141.519",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/architekturgeschichte/4405161"
+    },
+    {
+      "name": "Architekturgeschichte 1",
+      "code": "141.532",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/architekturgeschichte-1/1577358"
+    },
+    {
+      "name": "Architekturgeschichte 2",
+      "code": "141.533",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/architekturgeschichte-2/1577359"
+    },
+    {
+      "name": "Architekturtechnologie",
+      "code": "149.700",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/architekturtechnologie/1577393"
+    },
+    {
+      "name": "Architekturtheorie",
+      "code": "143.576",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/architekturtheorie/1577371"
+    },
+    {
+      "name": "Architekturtheorie heute",
+      "code": "143.700",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/architekturtheorie-heute/1577372"
+    },
+    {
+      "name": "Atom, Kern- und Teilchenphysik",
+      "code": "SES.017",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/atom-kern-und-teilchenphysik/1579547"
+    },
+    {
+      "name": "Atom- und Molekülphysik",
+      "code": "511.130",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/atom-und-molekulphysik/1578347"
+    },
+    {
+      "name": "Atom-, Kern- und Teilchenphysik für USW",
+      "code": "UNT.073",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/atom-kern-und-teilchenphysik-fur-usw/1579623"
+    },
+    {
+      "name": "Ausgewählte Fossilgruppen",
+      "code": "GEO.450",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/ausgewahlte-fossilgruppen/1579126"
+    },
+    {
+      "name": "Ausgewählte Kapitel - Virtuelle Produktentwicklung",
+      "code": "331.000",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/ausgewahlte-kapitel-virtuelle-produktentwicklung/1577848"
+    },
+    {
+      "name": "Außereuropäische Baukulturen",
+      "code": "141.809",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/aussereuropaische-baukulturen/1577365"
+    },
+    {
+      "name": "außereuropäischer Baukulturen",
+      "code": "141.403",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/aussereuropaischer-baukulturen/1577355"
+    },
+    {
+      "name": "Automotive Elektronik",
+      "code": "439.080",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/automotive-elektronik/1578125"
+    },
+    {
+      "name": "AVA - Ausschreibung, Vergabe, Abrechnung",
+      "code": "149.816",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/ava-ausschreibung-vergabe-abrechnung/1577396"
+    },
+    {
+      "name": "AVA - Ausschreibung, Vergabe, Abrechnung",
+      "code": "149.907",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/ava-ausschreibung-vergabe-abrechnung/6709844"
+    },
+    {
+      "name": "Barrierefreies Bauen",
+      "code": "147.806",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/barrierefreies-bauen/1577388"
+    },
+    {
+      "name": "Batteries and Supercapacitor",
+      "code": "CHE.548",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/batteries-and-supercapacitor/1578997"
+    },
+    {
+      "name": "Bau- und Immobilienfinanzierung",
+      "code": "218.469",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/bau-und-immobilienfinanzierung/1577560"
+    },
+    {
+      "name": "Bauablaufplanung und Logistik",
+      "code": "218.472",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/bauablaufplanung-und-logistik/1577562"
+    },
+    {
+      "name": "Baubetriebliche Planungsmethoden",
+      "code": "218.605",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/baubetriebliche-planungsmethoden/1577572"
+    },
+    {
+      "name": "Baubetriebliches Rechnungswesen",
+      "code": "211.201",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/baubetriebliches-rechnungswesen/1577485"
+    },
+    {
+      "name": "Baubetriebslehre",
+      "code": "218.453",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/baubetriebslehre/1577552"
+    },
+    {
+      "name": "Bauchemie",
+      "code": "206.200",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/bauchemie/1577460"
+    },
+    {
+      "name": "Bauen im Denkmal",
+      "code": "141.805",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/bauen-im-denkmal/1577363"
+    },
+    {
+      "name": "Baukonstruktion - Forschungsseminar",
+      "code": "219.604",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/baukonstruktion-forschungsseminar/1577589"
+    },
+    {
+      "name": "Baumanagement",
+      "code": "317.221",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/baumanagement/1577802"
+    },
+    {
+      "name": "Baumanagement Grundlagen",
+      "code": "218.353",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/baumanagement-grundlagen/1577547"
+    },
+    {
+      "name": "Baumechanik 1",
+      "code": "261.101",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/baumechanik-1/1577621"
+    },
+    {
+      "name": "Baumechanik 2",
+      "code": "261.102",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/baumechanik-2/1577622"
+    },
+    {
+      "name": "Baumechanik 3",
+      "code": "261.205",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/baumechanik-3/1577625"
+    },
+    {
+      "name": "Bauphysik",
+      "code": "159.528",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/bauphysik/1577421"
+    },
+    {
+      "name": "Bauphysik 1 - Wärmeschutz und Feuchteschutz",
+      "code": "219.475",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/bauphysik-1-warmeschutz-und-feuchteschutz/1577582"
+    },
+    {
+      "name": "Bauphysik im Hochbau",
+      "code": "219.382",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/bauphysik-im-hochbau/1577575"
+    },
+    {
+      "name": "Bauprojektmanagement 1",
+      "code": "218.107",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/bauprojektmanagement-1/4738397"
+    },
+    {
+      "name": "Bauprojektmanagement 2",
+      "code": null,
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/bauprojektmanagement-2/6071320"
+    },
+    {
+      "name": "Baurecht",
+      "code": "149.529",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/baurecht/1577392"
+    },
+    {
+      "name": "Bauschäden und Instandsetzung im Bestand",
+      "code": "206.557",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/bauschaden-und-instandsetzung-im-bestand/6728811"
+    },
+    {
+      "name": "Baustatik 1",
+      "code": "202.201",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/baustatik-1/1577432"
+    },
+    {
+      "name": "Baustatik 2",
+      "code": "202.202",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/baustatik-2/1577433"
+    },
+    {
+      "name": "Baustoffe",
+      "code": "317.210",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/baustoffe/1577798"
+    },
+    {
+      "name": "Baustoffkunde",
+      "code": "149.528",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/baustoffkunde/1577391"
+    },
+    {
+      "name": "Baustofflehre Grundlagen",
+      "code": "206.250",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/baustofflehre-grundlagen/1577461"
+    },
+    {
+      "name": "Baustofflehre VA",
+      "code": "206.452",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/baustofflehre-va/1577464"
+    },
+    {
+      "name": "Bauunternehmensführung 1",
+      "code": "218.204",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/bauunternehmensfuhrung-1/5840163"
+    },
+    {
+      "name": "Bauverfahrenstechnik",
+      "code": "218.301",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/bauverfahrenstechnik/1577546"
+    },
+    {
+      "name": "Bauvertragswesen",
+      "code": "218.457",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/bauvertragswesen/1577555"
+    },
+    {
+      "name": "Bauwirtschaft",
+      "code": "218.602",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/bauwirtschaft/1577569"
+    },
+    {
+      "name": "Bauwirtschaft Grundlagen",
+      "code": "218.604",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/bauwirtschaft-grundlagen/1577571"
+    },
+    {
+      "name": "Bauwirtschaftslehre",
+      "code": "218.451",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/bauwirtschaftslehre/1577551"
+    },
+    {
+      "name": "Bauwirtschaftslehre 1",
+      "code": "218.105",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/bauwirtschaftslehre-1/4445965"
+    },
+    {
+      "name": "Bauwirtschaftsübungen",
+      "code": "218.456",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/bauwirtschaftsubungen/1577554"
+    },
+    {
+      "name": "Betonbau Grundlagen 1",
+      "code": "203.202",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/betonbau-grundlagen-1/1577443"
+    },
+    {
+      "name": "Betonbau Grundlagen 2",
+      "code": "203.313",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/betonbau-grundlagen-2/1577444"
+    },
+    {
+      "name": "Betonbrücken",
+      "code": "203.561",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/betonbrucken/1577451"
+    },
+    {
+      "name": "Betriebssoziologie",
+      "code": "373.314",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/betriebssoziologie/1577926"
+    },
+    {
+      "name": "Betriebssysteme",
+      "code": "705.302",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/betriebssysteme/1578694"
+    },
+    {
+      "name": "Betriebswirtschaftslehre",
+      "code": "373.334",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/betriebswirtschaftslehre/1577936"
+    },
+    {
+      "name": "Bildverarbeitung und Mustererkennung",
+      "code": "710.080",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/bildverarbeitung-und-mustererkennung/1578767"
+    },
+    {
+      "name": "Biochemie I",
+      "code": "CHE.147",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/biochemie-i/1578903"
+    },
+    {
+      "name": "Biochemie II",
+      "code": "CHE.155",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/biochemie-ii/1578908"
+    },
+    {
+      "name": "Biodiversität und angewandte Mikrobiologie",
+      "code": "MOL.731",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/biodiversitat-und-angewandte-mikrobiologie/1579395"
+    },
+    {
+      "name": "Bioinformatik",
+      "code": "MOL.934",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/bioinformatik/1579448"
+    },
+    {
+      "name": "Biophysik",
+      "code": "717.001",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/biophysik/1578831"
+    },
+    {
+      "name": "Bioprozesstechnik",
+      "code": "MOL.506",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/bioprozesstechnik/1579382"
+    },
+    {
+      "name": "Biostatistik",
+      "code": "MOL.824",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/biostatistik/1579408"
+    },
+    {
+      "name": "Bodenmechanik",
+      "code": "GEO.895",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/bodenmechanik/1579184"
+    },
+    {
+      "name": "Botanischer Naturschutz",
+      "code": "PLA.122",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/botanischer-naturschutz/1579524"
+    },
+    {
+      "name": "Brandschutz und Infrastruktur",
+      "code": "BI 203",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/brandschutz-und-infrastruktur/6693560"
+    },
+    {
+      "name": "Brandschutztechnik und Sicherheitsforschung",
+      "code": "219.478",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/brandschutztechnik-und-sicherheitsforschung/1577583"
+    },
+    {
+      "name": "Buchhaltung und Bilanzierung",
+      "code": "373.380",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/buchhaltung-und-bilanzierung/1577945"
+    },
+    {
+      "name": "Buchhaltung und Bilanzierung (SEW)",
+      "code": "373.322",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/buchhaltung-und-bilanzierung-sew/1577929"
+    },
+    {
+      "name": "Building Information Modelling",
+      "code": "218.392",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/building-information-modelling/1577550"
+    },
+    {
+      "name": "Business Economics",
+      "code": "CHE.862",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/business-economics/1579072"
+    },
+    {
+      "name": "Business Informatics",
+      "code": "374.016",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/business-informatics/1577953"
+    },
+    {
+      "name": "Bürgerliches Recht und Unternehmensrecht",
+      "code": "373.336",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/burgerliches-recht-und-unternehmensrecht/1577937"
+    },
+    {
+      "name": "Bürgerliches Recht und Unternehmensrecht WiMB",
+      "code": "373.339",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/burgerliches-recht-und-unternehmensrecht-wimb/1577938"
+    },
+    {
+      "name": "Career Management",
+      "code": "336.064",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/career-management/1577892"
+    },
+    {
+      "name": "CAx in Automotive and Engine Technology",
+      "code": "313.066",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/cax-in-automotive-and-engine-technology/1577755"
+    },
+    {
+      "name": "CFD in Turbomaschinen",
+      "code": "319.085",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/cfd-in-turbomaschinen/1577826"
+    },
+    {
+      "name": "Change Management",
+      "code": "336.167",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/change-management/1577898"
+    },
+    {
+      "name": "Chemie",
+      "code": null,
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/chemie/1734549"
+    },
+    {
+      "name": "Chemie der Naturstoffe",
+      "code": "CHE.146",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/chemie-der-naturstoffe/1578902"
+    },
+    {
+      "name": "Chemie und Technologie der Lebensmittel II",
+      "code": "MOL.961",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/chemie-und-technologie-der-lebensmittel-ii/1579452"
+    },
+    {
+      "name": "Chemische Übungen für Studierende der Biologie",
+      "code": "MOL.305_2",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/chemische-ubungen-fur-studierende-der-biologie/1579367"
+    },
+    {
+      "name": "Coevolution",
+      "code": "PLA.125",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/coevolution/1579527"
+    },
+    {
+      "name": "Communication Networks",
+      "code": "SES.219",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/communication-networks/1579583"
+    },
+    {
+      "name": "Computational Intelligence",
+      "code": "708.561",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/computational-intelligence/1578741"
+    },
+    {
+      "name": "Computer Grafik 2",
+      "code": null,
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/computer-grafik-2/3257910"
+    },
+    {
+      "name": "Computer Vision 1",
+      "code": "710.005",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/computer-vision-1/1578759"
+    },
+    {
+      "name": "Computer Vision 2",
+      "code": "710.006",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/computer-vision-2/1578760"
+    },
+    {
+      "name": "Computergestützte Berechnungsmethoden in der Konstruktion",
+      "code": "311.270",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/computergestutzte-berechnungsmethoden-in-der-konstruktion/1577744"
+    },
+    {
+      "name": "Computergrafik 1",
+      "code": "710.003",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/computergrafik-1/1578757"
+    },
+    {
+      "name": "Computerorientierte Physik",
+      "code": "PHY.J10",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/computerorientierte-physik/1579496"
+    },
+    {
+      "name": "Construction management and invitation and call for tenders",
+      "code": "218.199",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/construction-management-and-invitation-and-call-for-tenders/1577545"
+    },
+    {
+      "name": "Context-Aware Computing",
+      "code": "448.056",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/context-aware-computing/1578224"
+    },
+    {
+      "name": "Continuum Mechanics",
+      "code": "261.451",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/continuum-mechanics/1577627"
+    },
+    {
+      "name": "Control Systems 1",
+      "code": "443.504",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/control-systems-1/1578197"
+    },
+    {
+      "name": "Control Systems 2",
+      "code": "443.501",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/control-systems-2/1578196"
+    },
+    {
+      "name": "Controlling",
+      "code": "373.370",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/controlling/1577943"
+    },
+    {
+      "name": "Darstellende Geometrie",
+      "code": "507.544",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/darstellende-geometrie/1578335"
+    },
+    {
+      "name": "Darstellungsmethoden",
+      "code": "161.543",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/darstellungsmethoden/1577425"
+    },
+    {
+      "name": "Data management",
+      "code": "02018UF",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/data-management/4375823"
+    },
+    {
+      "name": "Datenbanken 1",
+      "code": "706.004",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/datenbanken-1/2959315"
+    },
+    {
+      "name": "Datenbanken 2",
+      "code": "707.030",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/datenbanken-2/1578724"
+    },
+    {
+      "name": "Datenstrukturen und Algorithmen",
+      "code": "MAT.209",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/datenstrukturen-und-algorithmen/1579260"
+    },
+    {
+      "name": "Denkmalpflege",
+      "code": "141.700",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/denkmalpflege/4367599"
+    },
+    {
+      "name": "Design of Digital Modems",
+      "code": null,
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/design-of-digital-modems/7307290"
+    },
+    {
+      "name": "Design Patterns",
+      "code": "448.058",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/design-patterns/1578225"
+    },
+    {
+      "name": "Differenzial- und Integralrechnung",
+      "code": "PHY.C30",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/differenzial-und-integralrechnung/1579485"
+    },
+    {
+      "name": "Digitale Darstellungsmethoden",
+      "code": "161.546",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/digitale-darstellungsmethoden/1577426"
+    },
+    {
+      "name": "Digitale Schaltungstechnik",
+      "code": "439.013",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/digitale-schaltungstechnik/1578117"
+    },
+    {
+      "name": "Diskrete Mathematik",
+      "code": "MAT.106",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/diskrete-mathematik/1579251"
+    },
+    {
+      "name": "Dynamische Systeme",
+      "code": "261.081",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/dynamische-systeme/1577620"
+    },
+    {
+      "name": "EDV Basiswissen",
+      "code": "MOL.104",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/edv-basiswissen/1579348"
+    },
+    {
+      "name": "Ein- und mehrdimensionale NMR-Spektroskopie (inkl. Heterokerne)",
+      "code": "CHE.371",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/ein-und-mehrdimensionale-nmr-spektroskopie-inkl-heterokerne/1578973"
+    },
+    {
+      "name": "Einführung in Biochemie",
+      "code": "MOL.306",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/einfuhrung-in-biochemie/1579368"
+    },
+    {
+      "name": "Einführung in Biotechnologie",
+      "code": "MOL.404",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/einfuhrung-in-biotechnologie/1579374"
+    },
+    {
+      "name": "Einführung in Botanik",
+      "code": "MOL.110",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/einfuhrung-in-botanik/1579354"
+    },
+    {
+      "name": "Einführung in das Bauwesen",
+      "code": "218.101",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/einfuhrung-in-das-bauwesen/1577543"
+    },
+    {
+      "name": "Einführung in das Chemiestudium",
+      "code": "CHE.111",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/einfuhrung-in-das-chemiestudium/1578885"
+    },
+    {
+      "name": "Einführung in das Studium der Informatik",
+      "code": "710.104",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/einfuhrung-in-das-studium-der-informatik/1578774"
+    },
+    {
+      "name": "Einführung in den Maschinenbau und Technikfolgenabschätzung",
+      "code": "313.068",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/einfuhrung-in-den-maschinenbau-und-technikfolgenabschatzung/1577756"
+    },
+    {
+      "name": "Einführung in die Algebra",
+      "code": "MAT.253",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/einfuhrung-in-die-algebra/1579262"
+    },
+    {
+      "name": "Einführung in die Biotechnologie",
+      "code": "CHE.156",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/einfuhrung-in-die-biotechnologie/1578909"
+    },
+    {
+      "name": "Einführung in die Chemie für Studierende der Physik",
+      "code": "PHY.A40",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/einfuhrung-in-die-chemie-fur-studierende-der-physik/1579479"
+    },
+    {
+      "name": "Einführung in die Funktionalanalysis",
+      "code": "MAT.257",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/einfuhrung-in-die-funktionalanalysis/1579264"
+    },
+    {
+      "name": "Einführung in die Informationssicherheit",
+      "code": "705.028",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/einfuhrung-in-die-informationssicherheit/1578685"
+    },
+    {
+      "name": "Einführung in die Informationssicherheit (Erweiterung)",
+      "code": "705.030",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/einfuhrung-in-die-informationssicherheit-erweiterung/1578686"
+    },
+    {
+      "name": "Einführung in die komplexe Analysis",
+      "code": "MAT.303",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/einfuhrung-in-die-komplexe-analysis/1579266"
+    },
+    {
+      "name": "Einführung in die Laboratoriumspraxis",
+      "code": "MOL.102",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/einfuhrung-in-die-laboratoriumspraxis/1579346"
+    },
+    {
+      "name": "Einführung in die Meteorologie und Klimaphysik",
+      "code": "PHY.K70",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/einfuhrung-in-die-meteorologie-und-klimaphysik/1579502"
+    },
+    {
+      "name": "Einführung in die Molekül- und Festkörperphysik für USW",
+      "code": "UNT.072",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/einfuhrung-in-die-molekul-und-festkorperphysik-fur-usw/1579622"
+    },
+    {
+      "name": "Einführung in die Mykologie",
+      "code": "MOL.507",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/einfuhrung-in-die-mykologie/1579383"
+    },
+    {
+      "name": "Einführung in die physikalischen Messmethoden",
+      "code": "UNT.032_2",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/einfuhrung-in-die-physikalischen-messmethoden/1579608"
+    },
+    {
+      "name": "Einführung in die strukturierte Programmierung",
+      "code": "INB.03001UF",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/einfuhrung-in-die-strukturierte-programmierung/1579246"
+    },
+    {
+      "name": "Einführung in die Verfahrenstechnik",
+      "code": "667.100",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/einfuhrung-in-die-verfahrenstechnik/1578625"
+    },
+    {
+      "name": "Einführung in die Wissenstechnologien",
+      "code": "707.040",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/einfuhrung-in-die-wissenstechnologien/1578728"
+    },
+    {
+      "name": "Einführung in Genetik",
+      "code": "MOL.208",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/einfuhrung-in-genetik/1579362"
+    },
+    {
+      "name": "Einführung in Information and Computer Engineering",
+      "code": "705.020",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/einfuhrung-in-information-and-computer-engineering/1578683"
+    },
+    {
+      "name": "Einführung in Molekular- und Mikrobiologie",
+      "code": "MOL.109",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/einfuhrung-in-molekular-und-mikrobiologie/1579353"
+    },
+    {
+      "name": "Einführung in Molekularbiologie",
+      "code": "MOL.401",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/einfuhrung-in-molekularbiologie/1579371"
+    },
+    {
+      "name": "Einführung in Physik",
+      "code": "MOL.105",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/einfuhrung-in-physik/1579349"
+    },
+    {
+      "name": "Einführung in Strukturbiologie",
+      "code": "MOL.402",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/einfuhrung-in-strukturbiologie/1579372"
+    },
+    {
+      "name": "Einführung in Zoologie",
+      "code": "MOL.111",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/einfuhrung-in-zoologie/1579355"
+    },
+    {
+      "name": "Einführung Maschinenbau",
+      "code": null,
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/einfuhrung-maschinenbau/1734497"
+    },
+    {
+      "name": "Einführung wissenschaftliches Arbeiten",
+      "code": null,
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/einfuhrung-wissenschaftliches-arbeiten/7588559"
+    },
+    {
+      "name": "Eisenbahnwesen Grundlagen 1",
+      "code": "211.301",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/eisenbahnwesen-grundlagen-1/1577486"
+    },
+    {
+      "name": "Elastizitätstheorie 1",
+      "code": "304.062",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/elastizitatstheorie-1/1577684"
+    },
+    {
+      "name": "Elektrische Antriebstechnik und Maschinen",
+      "code": "431.123",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/elektrische-antriebstechnik-und-maschinen/1577972"
+    },
+    {
+      "name": "Elektrische Energiesysteme 2",
+      "code": "432.003",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/elektrische-energiesysteme-2/1577983"
+    },
+    {
+      "name": "Elektrische Maschinen und Antriebe",
+      "code": "431.005",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/elektrische-maschinen-und-antriebe/1577965"
+    },
+    {
+      "name": "Elektrische Maschinen und Antriebe, Labor",
+      "code": "431.055",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/elektrische-maschinen-und-antriebe-labor/3510370"
+    },
+    {
+      "name": "Elektrische Netzwerke und Mehrtore",
+      "code": "437.205",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/elektrische-netzwerke-und-mehrtore/1578069"
+    },
+    {
+      "name": "Elektrizitätsmärkte",
+      "code": "434.334",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/elektrizitatsmarkte/1578040"
+    },
+    {
+      "name": "Elektrochemie und Elektroanalytik",
+      "code": "CHE.120",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/elektrochemie-und-elektroanalytik/1578888"
+    },
+    {
+      "name": "Elektrodynamik",
+      "code": "515.570",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/elektrodynamik/1578408"
+    },
+    {
+      "name": "Elektrodynamik Übung",
+      "code": null,
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/elektrodynamik-ubung/2959309"
+    },
+    {
+      "name": "Elektrodynamische Grundversuche",
+      "code": "437.141",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/elektrodynamische-grundversuche/1578057"
+    },
+    {
+      "name": "Elektromagnetische Verträglichkeit elektronischer Systeme",
+      "code": "439.096",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/elektromagnetische-vertraglichkeit-elektronischer-systeme/1578128"
+    },
+    {
+      "name": "Elektronik 1",
+      "code": "439.052",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/elektronik-1/1578121"
+    },
+    {
+      "name": "Elektronik und computerunterstützte Messtechnik",
+      "code": "PHY.M10",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/elektronik-und-computerunterstutzte-messtechnik/1579507"
+    },
+    {
+      "name": "Elektronik und Sensorik",
+      "code": "UNT.036",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/elektronik-und-sensorik/1579609"
+    },
+    {
+      "name": "Elektronische Schaltungstechnik",
+      "code": "439.007",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/elektronische-schaltungstechnik/1578114"
+    },
+    {
+      "name": "Elektronische Schaltungstechnik 1",
+      "code": "439.001",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/elektronische-schaltungstechnik-1/1578111"
+    },
+    {
+      "name": "Elektronische Schaltungstechnik 2",
+      "code": "439.002",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/elektronische-schaltungstechnik-2/1578112"
+    },
+    {
+      "name": "Elektrotechnik",
+      "code": "211.472",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/elektrotechnik/1577493"
+    },
+    {
+      "name": "Energie und Umwelt",
+      "code": "434.373",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/energie-und-umwelt/1578045"
+    },
+    {
+      "name": "Energie- und umwelttechn. Mess- und Versuchswesen",
+      "code": "307.015",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/energie-und-umwelttechn-mess-und-versuchswesen/1577703"
+    },
+    {
+      "name": "Energy Storage and Conversion",
+      "code": "CHE.524",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/energy-storage-and-conversion/1578990"
+    },
+    {
+      "name": "Engineering and Business Informatics",
+      "code": "374.018",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/engineering-and-business-informatics/1577954"
+    },
+    {
+      "name": "Engineering Geological Investigation",
+      "code": "GEO.708",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/engineering-geological-investigation/1579153"
+    },
+    {
+      "name": "Englisch für Techniker",
+      "code": null,
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/englisch-fur-techniker/6961542"
+    },
+    {
+      "name": "Entwerfen 1",
+      "code": "151.504",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/entwerfen-1/1577400"
+    },
+    {
+      "name": "Entwerfen 2",
+      "code": "157.505",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/entwerfen-2/1577415"
+    },
+    {
+      "name": "Entwerfen 4",
+      "code": "157.507",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/entwerfen-4/1577417"
+    },
+    {
+      "name": "Entwicklungsmethodik",
+      "code": "310.213",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/entwicklungsmethodik/1577738"
+    },
+    {
+      "name": "Entwurf und Analyse von Algorithmen",
+      "code": "MAT.319",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/entwurf-und-analyse-von-algorithmen/1579271"
+    },
+    {
+      "name": "Entwurfsaspekte Gebäudelehre",
+      "code": "147.700",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/entwurfsaspekte-gebaudelehre/1577387"
+    },
+    {
+      "name": "Environmental Chemistry and Technology",
+      "code": "CHE.510",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/environmental-chemistry-and-technology/1578979"
+    },
+    {
+      "name": "Environmental Records from Modern to Past",
+      "code": "UF 066 650",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/environmental-records-from-modern-to-past/5175678"
+    },
+    {
+      "name": "Enzyklopädie Betriebswirtschaftslehre",
+      "code": "373.316",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/enzyklopadie-betriebswirtschaftslehre/1577927"
+    },
+    {
+      "name": "Enzymtechnologie und Biokatalyse",
+      "code": "MOL.931",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/enzymtechnologie-und-biokatalyse/1579445"
+    },
+    {
+      "name": "Erdwissenschaftliche Geländemethoden",
+      "code": "GEO.270",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/erdwissenschaftliche-gelandemethoden/1579110"
+    },
+    {
+      "name": "Erdwissenschaftliche Labormethoden",
+      "code": "GEO.301",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/erdwissenschaftliche-labormethoden/1579111"
+    },
+    {
+      "name": "Evolution",
+      "code": "MOL.309",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/evolution/1579370"
+    },
+    {
+      "name": "Evolution und Biologie der Pilze",
+      "code": "PLA.119",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/evolution-und-biologie-der-pilze/1579523"
+    },
+    {
+      "name": "Experimentalphysik 1 (Mechanik, Wärme)",
+      "code": "PHY.B10",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/experimentalphysik-1-mechanik-warme/1579482"
+    },
+    {
+      "name": "Experimentalphysik 2 (Elektrizität, Magnetismus, Optik)",
+      "code": "PHY.B30",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/experimentalphysik-2-elektrizitat-magnetismus-optik/1579483"
+    },
+    {
+      "name": "Fabrikplanung",
+      "code": "309.025",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/fabrikplanung/1577723"
+    },
+    {
+      "name": "Facility Management",
+      "code": "233.472",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/facility-management/1577618"
+    },
+    {
+      "name": "Fahrzeugdynamik",
+      "code": "331.061",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/fahrzeugdynamik/1577859"
+    },
+    {
+      "name": "Fahrzeugtechnik Grundlagen für Elektrotechnik und Telematik",
+      "code": "331.191",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/fahrzeugtechnik-grundlagen-fur-elektrotechnik-und-telematik/1577872"
+    },
+    {
+      "name": "Fahrzeugtechnik und -sicherheit",
+      "code": "331.070",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/fahrzeugtechnik-und-sicherheit/1577860"
+    },
+    {
+      "name": "Felsmechanik und Tunnelbau",
+      "code": "GEO.891",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/felsmechanik-und-tunnelbau/1579181"
+    },
+    {
+      "name": "Fertigungstechnik",
+      "code": "301.003",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/fertigungstechnik/1577632"
+    },
+    {
+      "name": "Festigkeitslehre",
+      "code": "304.001",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/festigkeitslehre/1577678"
+    },
+    {
+      "name": "Finite Element Method",
+      "code": "202.463",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/finite-element-method/1577436"
+    },
+    {
+      "name": "Flexible Automation",
+      "code": "301.035",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/flexible-automation/1577641"
+    },
+    {
+      "name": "Fluidtechnik in Fahrzeugen",
+      "code": "310.216",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/fluidtechnik-in-fahrzeugen/1577739"
+    },
+    {
+      "name": "Fortgeschrittene Verfahrenstechnik",
+      "code": "UNT.043",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/fortgeschrittene-verfahrenstechnik/1579614"
+    },
+    {
+      "name": "Fundamentals of Grouting",
+      "code": "221.430",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/fundamentals-of-grouting/1577610"
+    },
+    {
+      "name": "Funktionalanalysis und partielle Differenzialgleichungen",
+      "code": "PHY.E30",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/funktionalanalysis-und-partielle-differenzialgleichungen/1579490"
+    },
+    {
+      "name": "Funktionelle Anatomie",
+      "code": "718.194",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/funktionelle-anatomie/1578873"
+    },
+    {
+      "name": "Fügetechnik",
+      "code": "303.151",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/fugetechnik/1577662"
+    },
+    {
+      "name": "Gasdynamik",
+      "code": "321.107",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/gasdynamik/1577846"
+    },
+    {
+      "name": "Gebäudelehre",
+      "code": "147.552",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/gebaudelehre/1577386"
+    },
+    {
+      "name": "Gebäudetechnik",
+      "code": "218.391",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/gebaudetechnik/1577549"
+    },
+    {
+      "name": "General Management and Organization",
+      "code": "372.247",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/general-management-and-organization/1577922"
+    },
+    {
+      "name": "Gentechnik",
+      "code": "MOL.602",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/gentechnik/1579386"
+    },
+    {
+      "name": "Geodätische Erdbeobachtung und Referenzsysteme",
+      "code": null,
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/geodatische-erdbeobachtung-und-referenzsysteme/7307284"
+    },
+    {
+      "name": "Geodätische Sensorik",
+      "code": "520.303",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/geodatische-sensorik/1578465"
+    },
+    {
+      "name": "Geografische Informationssysteme",
+      "code": "209.462",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/geografische-informationssysteme/1577478"
+    },
+    {
+      "name": "Geologie von Österreich",
+      "code": "GEO.330",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/geologie-von-osterreich/1579113"
+    },
+    {
+      "name": "Geology for Civil Engineers",
+      "code": "221.352",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/geology-for-civil-engineers/1577604"
+    },
+    {
+      "name": "Geometrie (Differentialgeometrie)",
+      "code": "507.260",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/geometrie-differentialgeometrie/1578327"
+    },
+    {
+      "name": "Geomorphology and Geology of the Quaternary",
+      "code": "GEO.801",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/geomorphology-and-geology-of-the-quaternary/1579159"
+    },
+    {
+      "name": "Geotechnik Grundlagen 1",
+      "code": "217.353",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/geotechnik-grundlagen-1/1577535"
+    },
+    {
+      "name": "Geotraverse",
+      "code": "GEO.864UF",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/geotraverse/3311075"
+    },
+    {
+      "name": "Geschichte der Stadt",
+      "code": "145.809",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/geschichte-der-stadt/1577383"
+    },
+    {
+      "name": "Gestalten und Entwerfen 1a",
+      "code": "163.000",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/gestalten-und-entwerfen-1a/1577427"
+    },
+    {
+      "name": "Gewässerökologie",
+      "code": "UNT.272",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/gewasserokologie/1579665"
+    },
+    {
+      "name": "Gewöhnliche Differenzialgleichungen",
+      "code": "PHY.C50",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/gewohnliche-differenzialgleichungen/1579486"
+    },
+    {
+      "name": "GIS und Fernerkundung",
+      "code": "GEO.733",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/gis-und-fernerkundung/1579155"
+    },
+    {
+      "name": "GIS-Labor 2",
+      "code": "GST.364",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/gis-labor-2/1579239"
+    },
+    {
+      "name": "GL Molekular- und Zellbiologie",
+      "code": "648.001",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/gl-molekular-und-zellbiologie/2987305"
+    },
+    {
+      "name": "Grundlagen der Analytischen Chemie",
+      "code": "CHE.123",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/grundlagen-der-analytischen-chemie/1578889"
+    },
+    {
+      "name": "Grundlagen der Betriebswirtschaftslehre",
+      "code": "373.326",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/grundlagen-der-betriebswirtschaftslehre/1577930"
+    },
+    {
+      "name": "Grundlagen der Biomedizinischen Technik",
+      "code": "717.101",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/grundlagen-der-biomedizinischen-technik/1578845"
+    },
+    {
+      "name": "Grundlagen der elektrischen Energiesysteme",
+      "code": "432.001",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/grundlagen-der-elektrischen-energiesysteme/1577981"
+    },
+    {
+      "name": "Grundlagen der Elektrotechnik",
+      "code": "UNT.060",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/grundlagen-der-elektrotechnik/1579620"
+    },
+    {
+      "name": "Grundlagen der Elektrotechnik ICE",
+      "code": "437.161",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/grundlagen-der-elektrotechnik-ice/1578059"
+    },
+    {
+      "name": "Grundlagen der Elektrotechnik Teil 1",
+      "code": "437.301",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/grundlagen-der-elektrotechnik-teil-1/1578075"
+    },
+    {
+      "name": "Grundlagen der Elektrotechnik, Labor",
+      "code": "437.203",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/grundlagen-der-elektrotechnik-labor/2890096"
+    },
+    {
+      "name": "Grundlagen der Energiewirtschaft",
+      "code": "434.007",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/grundlagen-der-energiewirtschaft/1578036"
+    },
+    {
+      "name": "Grundlagen der Hochfrequenztechnik",
+      "code": "451.100",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/grundlagen-der-hochfrequenztechnik/1578238"
+    },
+    {
+      "name": "Grundlagen der Hochspannungstechnik",
+      "code": "433.100",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/grundlagen-der-hochspannungstechnik/1578022"
+    },
+    {
+      "name": "Grundlagen der Industriebetriebslehre und Innovation",
+      "code": "371.201",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/grundlagen-der-industriebetriebslehre-und-innovation/4412207"
+    },
+    {
+      "name": "Grundlagen der Informatik",
+      "code": "INB.01234UF",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/grundlagen-der-informatik/1579244"
+    },
+    {
+      "name": "Grundlagen der Mikroelektronik",
+      "code": "439.004",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/grundlagen-der-mikroelektronik/1578113"
+    },
+    {
+      "name": "Grundlagen der Physik",
+      "code": "519.100",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/grundlagen-der-physik/1578456"
+    },
+    {
+      "name": "Grundlagen der Unternehmensführung und Organisation",
+      "code": "372.236",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/grundlagen-der-unternehmensfuhrung-und-organisation/3283322"
+    },
+    {
+      "name": "Grundlagen elektrischer Antriebe",
+      "code": "431.007",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/grundlagen-elektrischer-antriebe/1577966"
+    },
+    {
+      "name": "Grundlagen elektrischer Maschinen",
+      "code": "431.004",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/grundlagen-elektrischer-maschinen/1577964"
+    },
+    {
+      "name": "Grundlagen elektrischer Netzwerke",
+      "code": "437.167",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/grundlagen-elektrischer-netzwerke/1578061"
+    },
+    {
+      "name": "Grundlagen nichtlinearer Systeme",
+      "code": "443.103",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/grundlagen-nichtlinearer-systeme/1578189"
+    },
+    {
+      "name": "Grundlagen und Anwendungen der modernen Physik",
+      "code": "PHY.A20",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/grundlagen-und-anwendungen-der-modernen-physik/1579477"
+    },
+    {
+      "name": "Grundlagenlabor Werkstoffe",
+      "code": "638.700",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/grundlagenlabor-werkstoffe/1578540"
+    },
+    {
+      "name": "Hoch- und Industriebau",
+      "code": null,
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/hoch-und-industriebau/5782759"
+    },
+    {
+      "name": "Hochbaudetails",
+      "code": "219.456",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/hochbaudetails/1577577"
+    },
+    {
+      "name": "Hochbaukonstruktion Grundlagen 1",
+      "code": "219.252",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/hochbaukonstruktion-grundlagen-1/1577574"
+    },
+    {
+      "name": "Hochbaukonstruktion Grundlagen 2",
+      "code": "219.555",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/hochbaukonstruktion-grundlagen-2/1577586"
+    },
+    {
+      "name": "Hochspannungstechnik 1",
+      "code": "433.101",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/hochspannungstechnik-1/1578023"
+    },
+    {
+      "name": "Hochspannungstechnik 2, Labor",
+      "code": "433.131",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/hochspannungstechnik-2-labor/3496021"
+    },
+    {
+      "name": "Hochspannungstechnik und -systeme",
+      "code": "433.004",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/hochspannungstechnik-und-systeme/1578007"
+    },
+    {
+      "name": "Holzbau 1",
+      "code": "208.451",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/holzbau-1/1577468"
+    },
+    {
+      "name": "Holzbau 2",
+      "code": "208.452",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/holzbau-2/1577469"
+    },
+    {
+      "name": "Holzbau Grundlagen",
+      "code": "208.252",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/holzbau-grundlagen/1577466"
+    },
+    {
+      "name": "Human-Computer Interaction",
+      "code": "INB.06021UF",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/human-computer-interaction/2987504"
+    },
+    {
+      "name": "Hydraulic Engineering",
+      "code": "213.412",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/hydraulic-engineering/1577509"
+    },
+    {
+      "name": "Hydraulik Grundlagen",
+      "code": "213.110",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/hydraulik-grundlagen/1577505"
+    },
+    {
+      "name": "Hydraulische Strömungsmaschinen",
+      "code": "317.024",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/hydraulische-stromungsmaschinen/1577788"
+    },
+    {
+      "name": "Hydrologie",
+      "code": "215.303",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/hydrologie/1577528"
+    },
+    {
+      "name": "Hydrology",
+      "code": "215.401",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/hydrology/1577529"
+    },
+    {
+      "name": "Hydromechanik",
+      "code": "261.351",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/hydromechanik/1577626"
+    },
+    {
+      "name": "Höhere Festigkeitslehre und FE-Methoden",
+      "code": "304.006",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/hohere-festigkeitslehre-und-fe-methoden/1577680"
+    },
+    {
+      "name": "Höhere Strömungslehre und Wärmeübertragung",
+      "code": "321.106",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/hohere-stromungslehre-und-warmeubertragung/1577845"
+    },
+    {
+      "name": "Höhere Thermodynamik",
+      "code": "313.110",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/hohere-thermodynamik/1577766"
+    },
+    {
+      "name": "Immunologische Methoden",
+      "code": "MOL.406",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/immunologische-methoden/1579376"
+    },
+    {
+      "name": "Industrial Marketing",
+      "code": "373.344",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/industrial-marketing/7400220"
+    },
+    {
+      "name": "Industrial Software Development and Quality Management",
+      "code": "448.068",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/industrial-software-development-and-quality-management/1578229"
+    },
+    {
+      "name": "Industriebetriebslehre",
+      "code": "371.101",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/industriebetriebslehre/1577899"
+    },
+    {
+      "name": "Industrielle Automatisierungssysteme",
+      "code": "309.015",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/industrielle-automatisierungssysteme/1577721"
+    },
+    {
+      "name": "Industrielle Logistiksysteme",
+      "code": "UNT.241",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/industrielle-logistiksysteme/1579645"
+    },
+    {
+      "name": "Industrieminerale",
+      "code": "GEO.864",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/industrieminerale/1579171"
+    },
+    {
+      "name": "Informatik",
+      "code": "GST.376",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/informatik/1579242"
+    },
+    {
+      "name": "Informatik BW",
+      "code": "706.005",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/informatik-bw/4854493"
+    },
+    {
+      "name": "Informatik-EDV in der Produktionstechnik",
+      "code": "309.004",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/informatik-edv-in-der-produktionstechnik/1577717"
+    },
+    {
+      "name": "Informationsverarbeitung im Menschen",
+      "code": "709.012",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/informationsverarbeitung-im-menschen/1578745"
+    },
+    {
+      "name": "Ingenieurgeometrie",
+      "code": "507.099",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/ingenieurgeometrie/1578318"
+    },
+    {
+      "name": "Ingenieurinformatik I",
+      "code": "374.100",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/ingenieurinformatik-i/1577956"
+    },
+    {
+      "name": "Innovative Energietechnologien und Energieeffizienz",
+      "code": "434.402",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/innovative-energietechnologien-und-energieeffizienz/1578048"
+    },
+    {
+      "name": "Instrumentelle Analytik",
+      "code": "CHE.141",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/instrumentelle-analytik/1578899"
+    },
+    {
+      "name": "Integrale Landschaft",
+      "code": "153.700",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/integrale-landschaft/1577410"
+    },
+    {
+      "name": "Internationale Wirtschaftsbeziehungen",
+      "code": "373.333",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/internationale-wirtschaftsbeziehungen/1577935"
+    },
+    {
+      "name": "Introduction to Automotive Engineering",
+      "code": "331.088",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/introduction-to-automotive-engineering/1577864"
+    },
+    {
+      "name": "Introduction to Failure Analysis Methods of Integrated Circuits",
+      "code": "439.226",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/introduction-to-failure-analysis-methods-of-integrated-circuits/1578143"
+    },
+    {
+      "name": "Introduction to Satellite Geodesy",
+      "code": "SES.101",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/introduction-to-satellite-geodesy/1579556"
+    },
+    {
+      "name": "Introduction to Solar and Stellar Physics",
+      "code": "SES.001",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/introduction-to-solar-and-stellar-physics/1579536"
+    },
+    {
+      "name": "IT Security",
+      "code": "705.314",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/it-security/1578697"
+    },
+    {
+      "name": "Kabel und Freileitungen",
+      "code": "433.045",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/kabel-und-freileitungen/7031400"
+    },
+    {
+      "name": "Knowledge Discovery and Data Mining 1",
+      "code": "707.003",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/knowledge-discovery-and-data-mining-1/1578715"
+    },
+    {
+      "name": "Kolbenmaschinen",
+      "code": "313.005",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/kolbenmaschinen/1577746"
+    },
+    {
+      "name": "Kombinatorische Optimierung 1",
+      "code": "MAT.321",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/kombinatorische-optimierung-1/1579272"
+    },
+    {
+      "name": "Konstruieren 1",
+      "code": "163.527",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/konstruieren-1/5444051"
+    },
+    {
+      "name": "Konstruieren 1a",
+      "code": "163.598",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/konstruieren-1a/1577430"
+    },
+    {
+      "name": "Konstruieren 1b",
+      "code": "163.519",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/konstruieren-1b/1577428"
+    },
+    {
+      "name": "Konstruieren 2",
+      "code": "163.522",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/konstruieren-2/1577429"
+    },
+    {
+      "name": "Konstruieren 3",
+      "code": "149.524",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/konstruieren-3/1577389"
+    },
+    {
+      "name": "Konstruieren 4",
+      "code": "149.526",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/konstruieren-4/1577390"
+    },
+    {
+      "name": "Konstruktionen in Stahl",
+      "code": "205.459",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/konstruktionen-in-stahl/1577456"
+    },
+    {
+      "name": "Konstruktionsübungen",
+      "code": "669.200",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/konstruktionsubungen/1578659"
+    },
+    {
+      "name": "Konstruktiver Wasserbau Grundlagen 1",
+      "code": "213.112",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/konstruktiver-wasserbau-grundlagen-1/1577506"
+    },
+    {
+      "name": "Konstruktiver Wasserbau Grundlagen 2",
+      "code": "213.120",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/konstruktiver-wasserbau-grundlagen-2/1577507"
+    },
+    {
+      "name": "Kontinuums- und Fluidmechanik",
+      "code": "PHY.L50",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/kontinuums-und-fluidmechanik/1579506"
+    },
+    {
+      "name": "Kosten- und Erfolgsrechnung",
+      "code": "373.320",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/kosten-und-erfolgsrechnung/1577928"
+    },
+    {
+      "name": "Kraftfahrzeugtechnik I",
+      "code": "331.190",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/kraftfahrzeugtechnik-i/1577871"
+    },
+    {
+      "name": "Kristallographie",
+      "code": "221.208",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/kristallographie/1577601"
+    },
+    {
+      "name": "Kundenorientierte Pumpenauslegung",
+      "code": "317.019",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/kundenorientierte-pumpenauslegung/1577785"
+    },
+    {
+      "name": "Kunst- und Kulturwissenschaften",
+      "code": "143.534",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/kunst-und-kulturwissenschaften/1577370"
+    },
+    {
+      "name": "Kunstgeschichte Ostasiens (Architektur und Gartenkunst Japans)",
+      "code": "143.827",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/kunstgeschichte-ostasiens-architektur-und-gartenkunst-japans/1577374"
+    },
+    {
+      "name": "Kurs zur Ergänzungsprüfung Darstellende Geometrie",
+      "code": "507.104",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/kurs-zur-erganzungsprufung-darstellende-geometrie/1578320"
+    },
+    {
+      "name": "Labor Papier- und Zellstofftechnik",
+      "code": "661.101",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/labor-papier-und-zellstofftechnik/1578603"
+    },
+    {
+      "name": "Labor Reaktionstechnik I",
+      "code": "667.108",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/labor-reaktionstechnik-i/1578629"
+    },
+    {
+      "name": "Labor Stoffübertragung",
+      "code": "669.104",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/labor-stoffubertragung/1578656"
+    },
+    {
+      "name": "Laborübungen 1: Mechanik und Wärme",
+      "code": "PHY.D20_2",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/laborubungen-1-mechanik-und-warme/1579487"
+    },
+    {
+      "name": "Laborübungen Mechanik, Wärme, Elektrodynamik und Optik",
+      "code": "UNT.076_2",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/laborubungen-mechanik-warme-elektrodynamik-und-optik/1579625"
+    },
+    {
+      "name": "Lagerstätten und Rohstoffe",
+      "code": "GEO.603",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/lagerstatten-und-rohstoffe/1579144"
+    },
+    {
+      "name": "Landschaftsarchitektur",
+      "code": "153.562",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/landschaftsarchitektur/1577409"
+    },
+    {
+      "name": "Lebensmittelchemie und -technologie",
+      "code": "CHE.162",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/lebensmittelchemie-und-technologie/1578913"
+    },
+    {
+      "name": "Lernen und Lehren 2",
+      "code": "600.002",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/lernen-und-lehren-2/1578494"
+    },
+    {
+      "name": "Licht- und Farbtheorie",
+      "code": "151.811",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/licht-und-farbtheorie/1577404"
+    },
+    {
+      "name": "Lineare Algebra",
+      "code": "PHY.C10",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/lineare-algebra/1579484"
+    },
+    {
+      "name": "Lineare Algebra 2",
+      "code": "MAT.153",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/lineare-algebra-2/1579253"
+    },
+    {
+      "name": "Logik und Berechenbarkeit",
+      "code": "705.033",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/logik-und-berechenbarkeit/1578687"
+    },
+    {
+      "name": "LU aus Allgemeiner Chemie",
+      "code": "CHE.115_2",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/lu-aus-allgemeiner-chemie/1578886"
+    },
+    {
+      "name": "LU aus Analytischer Chemie",
+      "code": "CHE.341_2",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/lu-aus-analytischer-chemie/1578950"
+    },
+    {
+      "name": "LU aus Biochemie I",
+      "code": "CHE.154_2",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/lu-aus-biochemie-i/1578907"
+    },
+    {
+      "name": "LU aus Physikalischer Chemie",
+      "code": "CHE.339_2",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/lu-aus-physikalischer-chemie/1578949"
+    },
+    {
+      "name": "LU aus Technischer Chemie",
+      "code": "CHE.161",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/lu-aus-technischer-chemie/1578912"
+    },
+    {
+      "name": "Machine Learning",
+      "code": "708.063",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/machine-learning/1578729"
+    },
+    {
+      "name": "Makroökonomik",
+      "code": "UNT.225",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/makrookonomik/1579641"
+    },
+    {
+      "name": "Manufacturing and Supply Chain Network",
+      "code": "336.080",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/manufacturing-and-supply-chain-network/1577895"
+    },
+    {
+      "name": "Marketing Management",
+      "code": "373.341",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/marketing-management/1577939"
+    },
+    {
+      "name": "Maschinenbau- und Betriebsinformatik",
+      "code": "374.400",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/maschinenbau-und-betriebsinformatik/1577959"
+    },
+    {
+      "name": "Maschinendynamik I",
+      "code": "319.101",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/maschinendynamik-i/1577827"
+    },
+    {
+      "name": "Maschinendynamik II",
+      "code": "319.102",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/maschinendynamik-ii/1577828"
+    },
+    {
+      "name": "Maschinenelemente",
+      "code": "317.207",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/maschinenelemente/1577795"
+    },
+    {
+      "name": "Maschinenelemente I",
+      "code": "310.042",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/maschinenelemente-i/1577730"
+    },
+    {
+      "name": "Maschinengestaltung",
+      "code": "310.003",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/maschinengestaltung/1577728"
+    },
+    {
+      "name": "Maschinenzeichnen",
+      "code": "309.002",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/maschinenzeichnen/1577716"
+    },
+    {
+      "name": "Mass Transfer Unit Operations Laboratory",
+      "code": "CHE.812",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/mass-transfer-unit-operations-laboratory/1579047"
+    },
+    {
+      "name": "Masterkurs Produktion und Logistik",
+      "code": "UNT.246",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/masterkurs-produktion-und-logistik/1579648"
+    },
+    {
+      "name": "Materialflusstechnik",
+      "code": "309.001",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/materialflusstechnik/1577715"
+    },
+    {
+      "name": "Mathe-Fit",
+      "code": "502.999",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/mathe-fit/1578279"
+    },
+    {
+      "name": "Mathematical and physical foundations of Vector and Tensor Analysis I",
+      "code": "MAT.623",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/mathematical-and-physical-foundations-of-vector-and-tensor-analysis-i/1579321"
+    },
+    {
+      "name": "Mathematical statistics",
+      "code": "MAT.420",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/mathematical-statistics/1579291"
+    },
+    {
+      "name": "Mathematik 1",
+      "code": "501.151",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/mathematik-1/1578264"
+    },
+    {
+      "name": "Mathematik 2",
+      "code": "501.152",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/mathematik-2/1578265"
+    },
+    {
+      "name": "Mathematik 3",
+      "code": "209.003",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/mathematik-3/1577475"
+    },
+    {
+      "name": "Mathematik A",
+      "code": "503.044",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/mathematik-a/1578283"
+    },
+    {
+      "name": "Mathematik B",
+      "code": "503.053",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/mathematik-b/1578285"
+    },
+    {
+      "name": "Mathematik B für Elektrotechniker, Konversatorium",
+      "code": "503.056",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/mathematik-b-fur-elektrotechniker-konversatorium/1578287"
+    },
+    {
+      "name": "Mathematik C",
+      "code": "501.017",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/mathematik-c/1578252"
+    },
+    {
+      "name": "Mathematik für ChemikerInnen I",
+      "code": "CHE.106",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/mathematik-fur-chemikerinnen-i/1578882"
+    },
+    {
+      "name": "Mathematik für MolekularbiologInnen",
+      "code": "MOL.201",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/mathematik-fur-molekularbiologinnen/1579356"
+    },
+    {
+      "name": "Mathematik I",
+      "code": "501.011",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/mathematik-i/1578248"
+    },
+    {
+      "name": "Mathematik II",
+      "code": "501.014",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/mathematik-ii/1578250"
+    },
+    {
+      "name": "Mathematische Methoden der Theoretischen Physik",
+      "code": "515.497",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/mathematische-methoden-der-theoretischen-physik/1578401"
+    },
+    {
+      "name": "Mechanik",
+      "code": "GEO.310",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/mechanik/1579112"
+    },
+    {
+      "name": "Mechanik - Dynamik",
+      "code": "MAT.323",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/mechanik-dynamik/1579273"
+    },
+    {
+      "name": "Mechanik I",
+      "code": null,
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/mechanik-i/1734494"
+    },
+    {
+      "name": "Mechanik II",
+      "code": null,
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/mechanik-ii/1734493"
+    },
+    {
+      "name": "Mechanische Technologie",
+      "code": "301.001",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/mechanische-technologie/1577631"
+    },
+    {
+      "name": "Mechatronische Systeme",
+      "code": "305.055",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/mechatronische-systeme/1577697"
+    },
+    {
+      "name": "Medientechnologie 1",
+      "code": "706.302",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/medientechnologie-1/1578707"
+    },
+    {
+      "name": "Medizingerätesicherheit",
+      "code": "718.116",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/medizingeratesicherheit/1578865"
+    },
+    {
+      "name": "Medizinische Mikrobiologie",
+      "code": "MOL.604",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/medizinische-mikrobiologie/1579388"
+    },
+    {
+      "name": "Mess- und Regeltechnik VT",
+      "code": "443.702",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/mess-und-regeltechnik-vt/3252684"
+    },
+    {
+      "name": "Messsignalverarbeitung",
+      "code": "438.074",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/messsignalverarbeitung/1578096"
+    },
+    {
+      "name": "Messsysteme",
+      "code": "520.312",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/messsysteme/1578467"
+    },
+    {
+      "name": "Messtechnik",
+      "code": "520.310",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/messtechnik/1578466"
+    },
+    {
+      "name": "Messtechnik 1",
+      "code": "438.007",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/messtechnik-1/1578079"
+    },
+    {
+      "name": "Messtechnik 2",
+      "code": "438.013",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/messtechnik-2/1578081"
+    },
+    {
+      "name": "Microcontroller",
+      "code": "448.013",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/microcontroller/1578213"
+    },
+    {
+      "name": "Mikrobiologie",
+      "code": "CHE.151",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/mikrobiologie/1578904"
+    },
+    {
+      "name": "Mikrobiologie II",
+      "code": "MOL.503",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/mikrobiologie-ii/1579379"
+    },
+    {
+      "name": "Mikrobiologische Übungen",
+      "code": "MOL.209_2",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/mikrobiologische-ubungen/1579363"
+    },
+    {
+      "name": "Mikropaläontologie",
+      "code": "GEO.451",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/mikropalaontologie/1579127"
+    },
+    {
+      "name": "Mixed-Signal Processing Systems Design",
+      "code": "442.120",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/mixed-signal-processing-systems-design/1578164"
+    },
+    {
+      "name": "Modell und Bemessung",
+      "code": "205.203",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/modell-und-bemessung/1577454"
+    },
+    {
+      "name": "Modellierung",
+      "code": "MAT.383",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/modellierung/1579275"
+    },
+    {
+      "name": "Modellierung in der Siedlungswasserwirtschaft",
+      "code": "215.454",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/modellierung-in-der-siedlungswasserwirtschaft/1577530"
+    },
+    {
+      "name": "Modern topics in nuclear solid state physics 1",
+      "code": "517.251",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/modern-topics-in-nuclear-solid-state-physics-1/1578432"
+    },
+    {
+      "name": "Molekularbiologie der Genregulation",
+      "code": "MOL.821",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/molekularbiologie-der-genregulation/1579406"
+    },
+    {
+      "name": "Molekularbiologische Übungen I",
+      "code": "MOL.501_2",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/molekularbiologische-ubungen-i/1579377"
+    },
+    {
+      "name": "Molekulare Analytik",
+      "code": "MOL.502",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/molekulare-analytik/1579378"
+    },
+    {
+      "name": "Molekulare Analytik und Spektroskopie",
+      "code": "CHE.142",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/molekulare-analytik-und-spektroskopie/1578900"
+    },
+    {
+      "name": "Molekulare Physiologie",
+      "code": "MOL.855",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/molekulare-physiologie/1579412"
+    },
+    {
+      "name": "Molekulare Virologie",
+      "code": "MOL.603",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/molekulare-virologie/1579387"
+    },
+    {
+      "name": "Molekulare Zellbiologie",
+      "code": "MOL.505",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/molekulare-zellbiologie/1579381"
+    },
+    {
+      "name": "Molekulare Ökologie der Mikroorganismen",
+      "code": "MOL.307",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/molekulare-okologie-der-mikroorganismen/1579369"
+    },
+    {
+      "name": "Molekül- und Festkörperphysik",
+      "code": "PHY.F20",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/molekul-und-festkorperphysik/1579492"
+    },
+    {
+      "name": "Nachrichtentechnik",
+      "code": "SES.206",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/nachrichtentechnik/1579576"
+    },
+    {
+      "name": "Neue Informationssysteme",
+      "code": "706.002",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/neue-informationssysteme/1578699"
+    },
+    {
+      "name": "Neurophysiologie",
+      "code": "709.030",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/neurophysiologie/1578751"
+    },
+    {
+      "name": "Nichtlineare Schwingungen",
+      "code": "305.049",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/nichtlineare-schwingungen/1577696"
+    },
+    {
+      "name": "NMR - Strukturanalyse",
+      "code": "MOL.879",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/nmr-strukturanalyse/1579428"
+    },
+    {
+      "name": "Numerische Mathematik 1",
+      "code": "MAT.207",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/numerische-mathematik-1/1579259"
+    },
+    {
+      "name": "Numerische Verfahren in der Energietechnik",
+      "code": "307.021",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/numerische-verfahren-in-der-energietechnik/1577704"
+    },
+    {
+      "name": "Numerisches Rechnen und lineare Algebra",
+      "code": "501.072",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/numerisches-rechnen-und-lineare-algebra/1578259"
+    },
+    {
+      "name": "Nutzfahrzeugtechnik",
+      "code": "331.193",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/nutzfahrzeugtechnik/1577874"
+    },
+    {
+      "name": "Objektorientierte Analyse und Design",
+      "code": "716.068",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/objektorientierte-analyse-und-design/1578801"
+    },
+    {
+      "name": "Operating systems",
+      "code": null,
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/operating-systems/7690965"
+    },
+    {
+      "name": "Organic Semiconductors - Fundamentals and Applications",
+      "code": "513.141",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/organic-semiconductors-fundamentals-and-applications/1578370"
+    },
+    {
+      "name": "Organisch-chemische Technologie",
+      "code": "CHE.157",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/organisch-chemische-technologie/1578910"
+    },
+    {
+      "name": "Organische Chemie",
+      "code": "CHE.164",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/organische-chemie/1578915"
+    },
+    {
+      "name": "Organische Chemie für Studierende der Biologie (Teil I)",
+      "code": "MOL.203",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/organische-chemie-fur-studierende-der-biologie-teil-i/1579358"
+    },
+    {
+      "name": "Organische Chemie für Studierende der Biologie (Teil II)",
+      "code": "MOL.204",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/organische-chemie-fur-studierende-der-biologie-teil-ii/1579359"
+    },
+    {
+      "name": "Organische Chemie I",
+      "code": "CHE.165",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/organische-chemie-i/1578916"
+    },
+    {
+      "name": "Orientierungslehrveranstaltung Physik",
+      "code": "PHY.A10",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/orientierungslehrveranstaltung-physik/1579476"
+    },
+    {
+      "name": "Ökologie für Bauingenieure",
+      "code": "215.153",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/okologie-fur-bauingenieure/1577525"
+    },
+    {
+      "name": "Paläontologische Gelände-/Labormethoden",
+      "code": "GEO.870",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/palaontologische-gelande-labormethoden/1579173"
+    },
+    {
+      "name": "Particle Technology Laboratory I",
+      "code": "CHE.813",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/particle-technology-laboratory-i/1579048"
+    },
+    {
+      "name": "Partielle Differentialgleichungen und Numerik",
+      "code": "504.009",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/partielle-differentialgleichungen-und-numerik/1578296"
+    },
+    {
+      "name": "Patentrecht",
+      "code": "373.347",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/patentrecht/1577940"
+    },
+    {
+      "name": "Petrologische Untersuchungsmethoden",
+      "code": "GEO.541",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/petrologische-untersuchungsmethoden/1579138"
+    },
+    {
+      "name": "Petrology",
+      "code": "221.410",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/petrology/1577605"
+    },
+    {
+      "name": "Physik",
+      "code": "511.201",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/physik/1578351"
+    },
+    {
+      "name": "Physik der Halbleiterbauelemente",
+      "code": "513.221",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/physik-der-halbleiterbauelemente/1578381"
+    },
+    {
+      "name": "Physik für ChemikerInnen",
+      "code": "CHE.101",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/physik-fur-chemikerinnen/1578881"
+    },
+    {
+      "name": "Physik moderner Materialien",
+      "code": "UNT.253",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/physik-moderner-materialien/1579652"
+    },
+    {
+      "name": "Physikalische Chemie für Studierende der Molekularbiologie",
+      "code": "MOL.304",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/physikalische-chemie-fur-studierende-der-molekularbiologie/1579366"
+    },
+    {
+      "name": "Physikalische Chemie II",
+      "code": "CHE.135",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/physikalische-chemie-ii/1578896"
+    },
+    {
+      "name": "Physikalische Effekte für Sensoren",
+      "code": "438.042",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/physikalische-effekte-fur-sensoren/1578088"
+    },
+    {
+      "name": "Physikalische Geodäsie",
+      "code": "SES.119",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/physikalische-geodasie/1579565"
+    },
+    {
+      "name": "Practical Aspects of X-ray crystallography",
+      "code": "633.003",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/practical-aspects-of-x-ray-crystallography/1578495"
+    },
+    {
+      "name": "Process Simulation of Forming and Joining Technologies",
+      "code": "335.004",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/process-simulation-of-forming-and-joining-technologies/1577888"
+    },
+    {
+      "name": "Production Planning & Control",
+      "code": "374.023",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/production-planning-control/1577955"
+    },
+    {
+      "name": "Produktivität im Baubetrieb",
+      "code": null,
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/produktivitat-im-baubetrieb/3275652"
+    },
+    {
+      "name": "Professionelle CAD - Pakete",
+      "code": "507.317",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/professionelle-cad-pakete/1578332"
+    },
+    {
+      "name": "Programmieren in der Physik: C++ und MATHEMATICA",
+      "code": "PHY.A70",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/programmieren-in-der-physik-c-und-mathematica/1579481"
+    },
+    {
+      "name": "Programmieren in der Physik: MATLAB",
+      "code": "PHY.A50",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/programmieren-in-der-physik-matlab/1579480"
+    },
+    {
+      "name": "Project Laboratory Macromolecular Chemistry and Technology",
+      "code": "CHE.601_2",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/project-laboratory-macromolecular-chemistry-and-technology/1579024"
+    },
+    {
+      "name": "Projekt-Management",
+      "code": "433.381",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/projekt-management/1578033"
+    },
+    {
+      "name": "Projektentwicklung",
+      "code": "218.467",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/projektentwicklung/1577558"
+    },
+    {
+      "name": "Projektive Geometrie I",
+      "code": "DGD.01343UF",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/projektive-geometrie-i/1579096"
+    },
+    {
+      "name": "Projektmanagement",
+      "code": "372.215",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/projektmanagement/1577914"
+    },
+    {
+      "name": "Prozessautomatisierung",
+      "code": "443.080",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/prozessautomatisierung/1578185"
+    },
+    {
+      "name": "Prozessinstrumentierung",
+      "code": "438.015",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/prozessinstrumentierung/1578082"
+    },
+    {
+      "name": "Prozessmanagement",
+      "code": "372.250",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/prozessmanagement/1577923"
+    },
+    {
+      "name": "Qualitätsmanagement",
+      "code": "371.192",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/qualitatsmanagement/1577910"
+    },
+    {
+      "name": "Qualitätssicherung",
+      "code": "303.005",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/qualitatssicherung/1577642"
+    },
+    {
+      "name": "Quanten und Felder",
+      "code": "515.606",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/quanten-und-felder/1578410"
+    },
+    {
+      "name": "Quantenmechanik",
+      "code": "PHY.G30",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/quantenmechanik/1579494"
+    },
+    {
+      "name": "Quartärgeologie und Geomorphologie",
+      "code": "GEO.535",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/quartargeologie-und-geomorphologie/1579136"
+    },
+    {
+      "name": "Raumgestaltung",
+      "code": "151.540",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/raumgestaltung/1577401"
+    },
+    {
+      "name": "Raumplanung",
+      "code": "GST.031",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/raumplanung/1579215"
+    },
+    {
+      "name": "Rechenübungen aus Physikalischer Chemie II",
+      "code": "CHE.136",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/rechenubungen-aus-physikalischer-chemie-ii/1578897"
+    },
+    {
+      "name": "Rechner- und Kommunikationsnetze",
+      "code": "705.088",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/rechner-und-kommunikationsnetze/2686135"
+    },
+    {
+      "name": "Rechnernetze und -Organisation",
+      "code": "705.008",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/rechnernetze-und-organisation/3257459"
+    },
+    {
+      "name": "Rechnerorganisation",
+      "code": "705.037",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/rechnerorganisation/2906482"
+    },
+    {
+      "name": "Rechnungswesen für Informatikstudien",
+      "code": "373.385",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/rechnungswesen-fur-informatikstudien/6474801"
+    },
+    {
+      "name": "Rechtswissenschaftliche Grundlagen",
+      "code": "218.375",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/rechtswissenschaftliche-grundlagen/1577548"
+    },
+    {
+      "name": "Regelungstechnik",
+      "code": "443.077",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/regelungstechnik/1578184"
+    },
+    {
+      "name": "Regelungstechnik I",
+      "code": "443.772",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/regelungstechnik-i/1578204"
+    },
+    {
+      "name": "Regelungstechnik II",
+      "code": "443.773",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/regelungstechnik-ii/1578205"
+    },
+    {
+      "name": "Ringvorlesung der KFU, TU und KUG (Raum - Natur - Landschaft)",
+      "code": "143.900",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/ringvorlesung-der-kfu-tu-und-kug-raum-natur-landschaft/1577375"
+    },
+    {
+      "name": "Risiko und Sicherheit in der Chemie",
+      "code": "CHE.117",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/risiko-und-sicherheit-in-der-chemie/1578887"
+    },
+    {
+      "name": "Robot Vision",
+      "code": "710.088",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/robot-vision/1578769"
+    },
+    {
+      "name": "Rohrleitungsbau",
+      "code": "205.473",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/rohrleitungsbau/1577458"
+    },
+    {
+      "name": "Safety and Sustainability",
+      "code": "336.066",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/safety-and-sustainability/1577893"
+    },
+    {
+      "name": "Schaltungssimulation",
+      "code": "439.084",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/schaltungssimulation/1578126"
+    },
+    {
+      "name": "Schalungs- und Rüsttechnik",
+      "code": "218.471",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/schalungs-und-rusttechnik/1577561"
+    },
+    {
+      "name": "Schweißverfahren",
+      "code": "303.035",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/schweissverfahren/1577654"
+    },
+    {
+      "name": "Sicherheitstechnik und BauKG",
+      "code": "218.487",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/sicherheitstechnik-und-baukg/1577567"
+    },
+    {
+      "name": "Siedlungswasser- und Abfallwirtschaft",
+      "code": "UNT.270",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/siedlungswasser-und-abfallwirtschaft/1579663"
+    },
+    {
+      "name": "Siedlungswasserbau Grundlagen 1",
+      "code": "215.300",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/siedlungswasserbau-grundlagen-1/1577526"
+    },
+    {
+      "name": "Siedlungswasserbau Grundlagen 2",
+      "code": "215.302",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/siedlungswasserbau-grundlagen-2/1577527"
+    },
+    {
+      "name": "Signalanalyse",
+      "code": "438.039",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/signalanalyse/1578086"
+    },
+    {
+      "name": "Signaltransduktion",
+      "code": "MOL.853",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/signaltransduktion/1579411"
+    },
+    {
+      "name": "Signaltransformationen",
+      "code": "443.520",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/signaltransformationen/1578198"
+    },
+    {
+      "name": "Signalverarbeitung",
+      "code": "SES.208",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/signalverarbeitung/1579577"
+    },
+    {
+      "name": "Signalverarbeitung 1",
+      "code": "438.100",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/signalverarbeitung-1/1578099"
+    },
+    {
+      "name": "Simulationsverfahren für mechatronische Systeme",
+      "code": "437.223",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/simulationsverfahren-fur-mechatronische-systeme/1578070"
+    },
+    {
+      "name": "Smart Power and High Voltage Circuits",
+      "code": "439.220",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/smart-power-and-high-voltage-circuits/1578139"
+    },
+    {
+      "name": "Software Entwicklungsmethoden 2",
+      "code": "716.302",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/software-entwicklungsmethoden-2/1578818"
+    },
+    {
+      "name": "Softwarearchitektur",
+      "code": "707.023",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/softwarearchitektur/1578718"
+    },
+    {
+      "name": "Softwareentwicklung in Verteilten Umgebungen",
+      "code": "711.028",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/softwareentwicklung-in-verteilten-umgebungen/1578791"
+    },
+    {
+      "name": "Softwareentwicklung Praktikum",
+      "code": "INH.02007UF",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/softwareentwicklung-praktikum/2686138"
+    },
+    {
+      "name": "Sofwarebasierte Bauwerkmodellierung",
+      "code": null,
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/sofwarebasierte-bauwerkmodellierung/3766015"
+    },
+    {
+      "name": "Soziologie für Architekten",
+      "code": "145.808",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/soziologie-fur-architekten/1577382"
+    },
+    {
+      "name": "Spannbetonbau",
+      "code": "203.457",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/spannbetonbau/1577446"
+    },
+    {
+      "name": "Stadt und Landschaft VO",
+      "code": "145.613",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/stadt-und-landschaft-vo/5956779"
+    },
+    {
+      "name": "Stadtentwicklung",
+      "code": "145.700",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/stadtentwicklung/1577378"
+    },
+    {
+      "name": "Stadtforschung",
+      "code": "141.700",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/stadtforschung/1577360"
+    },
+    {
+      "name": "Stahlbau Grundlagen",
+      "code": "205.202",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/stahlbau-grundlagen/1577453"
+    },
+    {
+      "name": "Stahlbetonbau",
+      "code": "203.451",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/stahlbetonbau/1577445"
+    },
+    {
+      "name": "Statik und Festigkeitslehre",
+      "code": "304.090",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/statik-und-festigkeitslehre/1577687"
+    },
+    {
+      "name": "Statistik",
+      "code": "MAT.301",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/statistik/1579265"
+    },
+    {
+      "name": "Steuerrecht",
+      "code": "373.392",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/steuerrecht/1577947"
+    },
+    {
+      "name": "Stochastic Optimization",
+      "code": "437.501",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/stochastic-optimization/1578077"
+    },
+    {
+      "name": "Straßenwesen Grundlagen 1",
+      "code": "209.101",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/strassenwesen-grundlagen-1/1577476"
+    },
+    {
+      "name": "Straßenwesen Grundlagen 2",
+      "code": "209.112",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/strassenwesen-grundlagen-2/1577477"
+    },
+    {
+      "name": "Stromrichtertechnik",
+      "code": "431.122",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/stromrichtertechnik/1577971"
+    },
+    {
+      "name": "Structural Dynamics",
+      "code": "202.444",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/structural-dynamics/4412257"
+    },
+    {
+      "name": "Strömungslehre und Wärmeübertragung I",
+      "code": "321.100",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/stromungslehre-und-warmeubertragung-i/1577843"
+    },
+    {
+      "name": "Strömungsmaschinen Grundlagen",
+      "code": "319.019",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/stromungsmaschinen-grundlagen/1577816"
+    },
+    {
+      "name": "Städtebau",
+      "code": "145.553",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/stadtebau/1577377"
+    },
+    {
+      "name": "Stöchiometrie",
+      "code": "CHE.108_2",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/stochiometrie/1578884"
+    },
+    {
+      "name": "Switching in Electrical Power Systems",
+      "code": "432.051",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/switching-in-electrical-power-systems/6862822"
+    },
+    {
+      "name": "Systems Engineering and Project Management",
+      "code": "716.111",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/systems-engineering-and-project-management/1578812"
+    },
+    {
+      "name": "Systemtechnik",
+      "code": "443.046",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/systemtechnik/1578181"
+    },
+    {
+      "name": "Systemwissenschaften 1",
+      "code": "UNT.011",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/systemwissenschaften-1/1579601"
+    },
+    {
+      "name": "Technik und Ethik",
+      "code": "433.104",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/technik-und-ethik/1578024"
+    },
+    {
+      "name": "Technische Akustik",
+      "code": "442.162",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/technische-akustik/1578168"
+    },
+    {
+      "name": "Technische Informatik",
+      "code": "448.005",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/technische-informatik/1578210"
+    },
+    {
+      "name": "Technische Informatik 1",
+      "code": "448.001",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/technische-informatik-1/1578208"
+    },
+    {
+      "name": "Technische Informatik 2",
+      "code": "448.003",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/technische-informatik-2/1578209"
+    },
+    {
+      "name": "Technische Mechanik I",
+      "code": "305.001",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/technische-mechanik-i/1577688"
+    },
+    {
+      "name": "Technische Numerik",
+      "code": "504.028",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/technische-numerik/1578297"
+    },
+    {
+      "name": "Theoretische Chemie II",
+      "code": null,
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/theoretische-chemie-ii/5406658"
+    },
+    {
+      "name": "Theoretische Elektrodynamik",
+      "code": "PHY.H10",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/theoretische-elektrodynamik/1579495"
+    },
+    {
+      "name": "Theoretische Informatik 1",
+      "code": "MAT.387",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/theoretische-informatik-1/1579277"
+    },
+    {
+      "name": "Theoretische Informatik I",
+      "code": "708.243",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/theoretische-informatik-i/1578734"
+    },
+    {
+      "name": "Theoretische Mechanik",
+      "code": "PHY.G10",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/theoretische-mechanik/1579493"
+    },
+    {
+      "name": "Theory of Electrical Engineering",
+      "code": "437.252",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/theory-of-electrical-engineering/6862826"
+    },
+    {
+      "name": "Theory of Materials",
+      "code": "261.452",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/theory-of-materials/1577628"
+    },
+    {
+      "name": "Thermische Turbomaschinen",
+      "code": "319.023",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/thermische-turbomaschinen/1577817"
+    },
+    {
+      "name": "Thermodynamik",
+      "code": "SES.013",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/thermodynamik/1579545"
+    },
+    {
+      "name": "Thermodynamik 1",
+      "code": "313.166",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/thermodynamik-1/1577771"
+    },
+    {
+      "name": "Thermodynamik Übung",
+      "code": "313.103",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/thermodynamik-ubung/4335582"
+    },
+    {
+      "name": "Timber engineering",
+      "code": "TIMENG01",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/timber-engineering/5157432"
+    },
+    {
+      "name": "Tragwerksentwurf",
+      "code": "140.524",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/tragwerksentwurf/1577353"
+    },
+    {
+      "name": "Tragwerkslehre 1",
+      "code": "140.522",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/tragwerkslehre-1/1577351"
+    },
+    {
+      "name": "Tragwerkslehre 2",
+      "code": "140.523",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/tragwerkslehre-2/1577352"
+    },
+    {
+      "name": "Transiente Beanspruchung elektrischer Betriebsmittel",
+      "code": "433.034",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/transiente-beanspruchung-elektrischer-betriebsmittel/1578013"
+    },
+    {
+      "name": "Tutorium Algebra",
+      "code": "501.000",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/tutorium-algebra/1578246"
+    },
+    {
+      "name": "Tutorium Baumechanik 1",
+      "code": "261.105",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/tutorium-baumechanik-1/1577623"
+    },
+    {
+      "name": "Umformtechnik",
+      "code": "335.007",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/umformtechnik/1577889"
+    },
+    {
+      "name": "Unfallmechanik im Verkehrswesen",
+      "code": "333.036",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/unfallmechanik-im-verkehrswesen/1577878"
+    },
+    {
+      "name": "Vehicle Safety 1",
+      "code": "333.038",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/vehicle-safety-1/1577879"
+    },
+    {
+      "name": "Vektoranalysis",
+      "code": "PHY.E10",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/vektoranalysis/1579489"
+    },
+    {
+      "name": "Verbrennungskraftmaschinen VA",
+      "code": "313.008",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/verbrennungskraftmaschinen-va/1577747"
+    },
+    {
+      "name": "Verfahrenstechnik für ChemikerInnen",
+      "code": "CHE.163",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/verfahrenstechnik-fur-chemikerinnen/1578914"
+    },
+    {
+      "name": "Verkehrsplanung",
+      "code": "209.477",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/verkehrsplanung/1577482"
+    },
+    {
+      "name": "Vermessungskunde Messübungen",
+      "code": "520.203",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/vermessungskunde-messubungen/1578461"
+    },
+    {
+      "name": "Vermessungswesen",
+      "code": "520.158",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/vermessungswesen/1578459"
+    },
+    {
+      "name": "Volkswirtschaftslehre",
+      "code": "218.483",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/volkswirtschaftslehre/1577565"
+    },
+    {
+      "name": "Vorbereitungslehrgang zur Studienberechtigungs-Prüfung Darst.Geometrie",
+      "code": "507.058",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/vorbereitungslehrgang-zur-studienberechtigungs-prufung-darstgeometrie/1578317"
+    },
+    {
+      "name": "Wahrscheinlichkeitsrechnung und Stochastische Prozesse",
+      "code": "503.061",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/wahrscheinlichkeitsrechnung-und-stochastische-prozesse/1578288"
+    },
+    {
+      "name": "Wahrscheinlichkeitstheorie",
+      "code": "MAT.251",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/wahrscheinlichkeitstheorie/1579261"
+    },
+    {
+      "name": "Wahrscheinlichkeitstheorie für Informatikstudien",
+      "code": "506.000",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/wahrscheinlichkeitstheorie-fur-informatikstudien/1578308"
+    },
+    {
+      "name": "Wahrscheinlichkeitstheorie, Statistik und Datenanalyse",
+      "code": "PHY.E50",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/wahrscheinlichkeitstheorie-statistik-und-datenanalyse/1579491"
+    },
+    {
+      "name": "Warehouse Logistics",
+      "code": "336.053",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/warehouse-logistics/1577891"
+    },
+    {
+      "name": "Wasserkraftanlagen, Einführung",
+      "code": "213.040",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/wasserkraftanlagen-einfuhrung/1577503"
+    },
+    {
+      "name": "Werkstoffkunde",
+      "code": "303.010",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/werkstoffkunde/1577644"
+    },
+    {
+      "name": "Werkzeugmaschinen",
+      "code": "301.006",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/werkzeugmaschinen/1577633"
+    },
+    {
+      "name": "Wirtschaftsenglisch",
+      "code": "218.480",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/wirtschaftsenglisch/1577564"
+    },
+    {
+      "name": "Wissenschaftliche Arbeiten auf dem Gebiete der Werkstoff- und Schweißtechnik 2",
+      "code": "303.133",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/wissenschaftliche-arbeiten-auf-dem-gebiete-der-werkstoff-und-schweisstechnik-2/1577659"
+    },
+    {
+      "name": "Wissenschaftliches Arbeiten im Produktionsintegrierten Umweltschutz",
+      "code": "669.607",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/wissenschaftliches-arbeiten-im-produktionsintegrierten-umweltschutz/1578676"
+    },
+    {
+      "name": "Wissenschaftliches Arbeiten im Produktionsintegrierten Umweltschutz II",
+      "code": "669.608",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/wissenschaftliches-arbeiten-im-produktionsintegrierten-umweltschutz-ii/1578677"
+    },
+    {
+      "name": "Wohnbau",
+      "code": "157.555",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/wohnbau/1577418"
+    },
+    {
+      "name": "Wärmetechnik I",
+      "code": "307.001",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/warmetechnik-i/1577701"
+    },
+    {
+      "name": "Wärmetechnik II",
+      "code": "307.005",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/warmetechnik-ii/1577702"
+    },
+    {
+      "name": "Zellkultur",
+      "code": "MOL.508",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/zellkultur/1579384"
+    },
+    {
+      "name": "zivilgerichtliches verfahren",
+      "code": null,
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/zivilgerichtliches-verfahren/6257496"
+    },
+    {
+      "name": "Zivilrecht für Architekten",
+      "code": "149.815",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/zivilrecht-fur-architekten/1577395"
+    },
+    {
+      "name": "Zoologie - Verhalten, Neuro-, Sinnesphysiologie",
+      "code": "MOL.210",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/zoologie-verhalten-neuro-sinnesphysiologie/1579364"
+    },
+    {
+      "name": "Zweiradtechnik und Kleinmotoren",
+      "code": "313.075",
+      "url": "https://www.studocu.com/de-at/course/technische-universitat-graz/zweiradtechnik-und-kleinmotoren/1577757"
+    }
+  ]
+}

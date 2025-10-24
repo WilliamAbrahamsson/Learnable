@@ -1,0 +1,441 @@
+{
+  "university_id": "3779",
+  "university_name": "Πανεπιστήμιο Κρήτης",
+  "courses": [
+    {
+      "name": "Complex Analysis",
+      "code": "MATH 420",
+      "url": "https://www.studocu.com/gr/course/panepisthmio-krhths/complex-analysis/5333286"
+    },
+    {
+      "name": "intellectual rights",
+      "code": "INT 2024",
+      "url": "https://www.studocu.com/gr/course/panepisthmio-krhths/intellectual-rights/6968393"
+    },
+    {
+      "name": "International Trade",
+      "code": "EC3403",
+      "url": "https://www.studocu.com/gr/course/panepisthmio-krhths/international-trade/6675960"
+    },
+    {
+      "name": "Introduction to Psychology and Social Sciences",
+      "code": "ΨΑ-1701",
+      "url": "https://www.studocu.com/gr/course/panepisthmio-krhths/introduction-to-psychology-and-social-sciences/4340627"
+    },
+    {
+      "name": "Modern Greek Theatre (1900-2000)",
+      "code": "TNEF 260",
+      "url": "https://www.studocu.com/gr/course/panepisthmio-krhths/modern-greek-theatre-1900-2000/6681080"
+    },
+    {
+      "name": "Political Philosophy",
+      "code": "FS200",
+      "url": "https://www.studocu.com/gr/course/panepisthmio-krhths/political-philosophy/7245061"
+    },
+    {
+      "name": "Έφη Αβδελά",
+      "code": "INXA210",
+      "url": "https://www.studocu.com/gr/course/panepisthmio-krhths/efh-abdela/4342530"
+    },
+    {
+      "name": "Εθνογραφία του Ελλαδικού χώρου",
+      "code": "ΚΚΑ424",
+      "url": "https://www.studocu.com/gr/course/panepisthmio-krhths/eonografia-toy-elladikoy-xwroy/4339021"
+    },
+    {
+      "name": "Εισαγωγή στη Βιοϊατρική Μηχανική",
+      "code": "ΕΤΥ-494",
+      "url": "https://www.studocu.com/gr/course/panepisthmio-krhths/eisagwgh-sth-bioiatrikh-mhxanikh/3660875"
+    },
+    {
+      "name": "Εισαγωγή στη Θεωρητική Λογοτεχνία",
+      "code": "ΝΕΦΦ103",
+      "url": "https://www.studocu.com/gr/course/panepisthmio-krhths/eisagwgh-sth-oewrhtikh-logotexnia/4339015"
+    },
+    {
+      "name": "Εισαγωγή στη κοινωνιολογία",
+      "code": "ΚΚΑ100",
+      "url": "https://www.studocu.com/gr/course/panepisthmio-krhths/eisagwgh-sth-koinwniologia/4338612"
+    },
+    {
+      "name": "Εισαγωγή στη μεθοδολογία της έρευνας στις επιστήμες της Αγωγής",
+      "code": "Β06Π01",
+      "url": "https://www.studocu.com/gr/course/panepisthmio-krhths/eisagwgh-sth-meoodologia-ths-ereynas-stis-episthmes-ths-agwghs/3660498"
+    },
+    {
+      "name": "Εισαγωγή στη Μεθοδολογία των Κοινωνικών Επιστημών",
+      "code": "ΚΜΑ 250",
+      "url": "https://www.studocu.com/gr/course/panepisthmio-krhths/eisagwgh-sth-meoodologia-twn-koinwnikwn-episthmwn/4338631"
+    },
+    {
+      "name": "Εισαγωγή στη Νευροβιολογία - Γενετική",
+      "code": null,
+      "url": "https://www.studocu.com/gr/course/panepisthmio-krhths/eisagwgh-sth-neyrobiologia-genetikh/3660501"
+    },
+    {
+      "name": "Εισαγωγή στη Φιλοσοφία",
+      "code": "Δ02Π01",
+      "url": "https://www.studocu.com/gr/course/panepisthmio-krhths/eisagwgh-sth-filosofia/3660493"
+    },
+    {
+      "name": "Εισαγωγή στις Ημιαγωγικές Διατάξεις",
+      "code": "ΦΥΣ-273",
+      "url": "https://www.studocu.com/gr/course/panepisthmio-krhths/eisagwgh-stis-hmiagwgikes-diataxeis/3660861"
+    },
+    {
+      "name": "Εισαγωγη στη Κλασικη Φιλολογια",
+      "code": "ΑΕΦ100",
+      "url": "https://www.studocu.com/gr/course/panepisthmio-krhths/eisagwgh-sth-klasikh-filologia/4341371"
+    },
+    {
+      "name": "Εκλογική Κοινωνιολογία",
+      "code": "ΕΚΠΠ146",
+      "url": "https://www.studocu.com/gr/course/panepisthmio-krhths/eklogikh-koinwniologia/4338771"
+    },
+    {
+      "name": "Ενότητες από το πρόγραμμα των Μαθηματικών του ΔΣ",
+      "code": "E0108",
+      "url": "https://www.studocu.com/gr/course/panepisthmio-krhths/enothtes-apo-to-programma-twn-maohmatikwn-toy-ds/3660494"
+    },
+    {
+      "name": "Ενζυμική Βιοτεχνολογία",
+      "code": "ΒΙΟΛ-305 Μ",
+      "url": "https://www.studocu.com/gr/course/panepisthmio-krhths/enzymikh-biotexnologia/3163754"
+    },
+    {
+      "name": "Επιστημολογία της Ψυχολογίας (Epistemology of Psychology)",
+      "code": "Ψ-1105",
+      "url": "https://www.studocu.com/gr/course/panepisthmio-krhths/episthmologia-ths-psyxologias-epistemology-of-psychology/4340618"
+    },
+    {
+      "name": "Εργαστήριο Φυσικής ΙΙ – Ηλεκτρισμός",
+      "code": "Φ207",
+      "url": "https://www.studocu.com/gr/course/panepisthmio-krhths/ergasthrio-fysikhs-ii-hlektrismos/3660781"
+    },
+    {
+      "name": "Αγγλικά για πολιτικούς επιστήμονες 1",
+      "code": "ΑΓΓΠ010",
+      "url": "https://www.studocu.com/gr/course/panepisthmio-krhths/agglika-gia-politikoys-episthmones-1/4338774"
+    },
+    {
+      "name": "Αγλαΐα Κάσδαγλη",
+      "code": "ΙΜΧ250",
+      "url": "https://www.studocu.com/gr/course/panepisthmio-krhths/aglaia-kasdaglh/3660453"
+    },
+    {
+      "name": "Αισθητικό βιωμα",
+      "code": "ΦΒ350.11",
+      "url": "https://www.studocu.com/gr/course/panepisthmio-krhths/aisohtiko-biwma/4341724"
+    },
+    {
+      "name": "Ανάλυση Περιεχομένου / Ανάλυση Λόγου",
+      "code": "ΚΜΑ571",
+      "url": "https://www.studocu.com/gr/course/panepisthmio-krhths/analysh-periexomenoy-analysh-logoy/4342548"
+    },
+    {
+      "name": "Αναλυτική Χημεία ΙΙ",
+      "code": "ΧΗΜ-301",
+      "url": "https://www.studocu.com/gr/course/panepisthmio-krhths/analytikh-xhmeia-ii/4831306"
+    },
+    {
+      "name": "Αναπτυξιακή Ψυχολογία Ι",
+      "code": "ΚΨΒ053",
+      "url": "https://www.studocu.com/gr/course/panepisthmio-krhths/anaptyxiakh-psyxologia-i/4342572"
+    },
+    {
+      "name": "Ανθρωπολογία και Ψυχανάλυση",
+      "code": "ΚΚΑ425",
+      "url": "https://www.studocu.com/gr/course/panepisthmio-krhths/anorwpologia-kai-psyxanalysh/4342580"
+    },
+    {
+      "name": "Αστροφυσική ΙΙ",
+      "code": "ΦΥΣ-331",
+      "url": "https://www.studocu.com/gr/course/panepisthmio-krhths/astrofysikh-ii/3660863"
+    },
+    {
+      "name": "Βαρύτητα και Κοσμολογία",
+      "code": "Φ324",
+      "url": "https://www.studocu.com/gr/course/panepisthmio-krhths/barythta-kai-kosmologia/5284875"
+    },
+    {
+      "name": "Βια και ιερό",
+      "code": "ΑΝΘΚ239",
+      "url": "https://www.studocu.com/gr/course/panepisthmio-krhths/bia-kai-iero/7664068"
+    },
+    {
+      "name": "Γαλλικά Α'",
+      "code": "ΓΑΛΛ10",
+      "url": "https://www.studocu.com/gr/course/panepisthmio-krhths/gallika-a/7329332"
+    },
+    {
+      "name": "Γενετική Ανθρώπου",
+      "code": "ΒΙΟΛ-418",
+      "url": "https://www.studocu.com/gr/course/panepisthmio-krhths/genetikh-anorwpoy/3163752"
+    },
+    {
+      "name": "Γενική Φυσική Ι",
+      "code": "101",
+      "url": "https://www.studocu.com/gr/course/panepisthmio-krhths/genikh-fysikh-i/3660670"
+    },
+    {
+      "name": "Γερμανικά Επίπεδο Β΄",
+      "code": "ΓΕΡΚ020",
+      "url": "https://www.studocu.com/gr/course/panepisthmio-krhths/germanika-epipedo-b/3660552"
+    },
+    {
+      "name": "Γνωστική  Ψυχολογία",
+      "code": "Ψ 1102",
+      "url": "https://www.studocu.com/gr/course/panepisthmio-krhths/gnwstikh-psyxologia/7135659"
+    },
+    {
+      "name": "Γραμμική Άλγεβρα",
+      "code": "HY-119",
+      "url": "https://www.studocu.com/gr/course/panepisthmio-krhths/grammikh-algebra/3660805"
+    },
+    {
+      "name": "Διγλωσσία και διδασκαλία της Ελληνικής ως δεύτερης γλώσσας",
+      "code": "Α08Π01",
+      "url": "https://www.studocu.com/gr/course/panepisthmio-krhths/diglwssia-kai-didaskalia-ths-ellhnikhs-ws-deyterhs-glwssas/3660479"
+    },
+    {
+      "name": "Διδασκαλία του γλωσσικού μαθήματος",
+      "code": "Δ01Π06",
+      "url": "https://www.studocu.com/gr/course/panepisthmio-krhths/didaskalia-toy-glwssikoy-maohmatos/3660491"
+    },
+    {
+      "name": "Δομική και Χημική Ανάλυση Υλικών",
+      "code": "ΕΤΥ-248",
+      "url": "https://www.studocu.com/gr/course/panepisthmio-krhths/domikh-kai-xhmikh-analysh-ylikwn/3660977"
+    },
+    {
+      "name": "Ηλεκτρομαγνητισμός Ι",
+      "code": "Φ301",
+      "url": "https://www.studocu.com/gr/course/panepisthmio-krhths/hlektromagnhtismos-i/3660789"
+    },
+    {
+      "name": "Ηλεκτρονική Μικροσκοπία",
+      "code": "ΦΥΣ-277",
+      "url": "https://www.studocu.com/gr/course/panepisthmio-krhths/hlektronikh-mikroskopia/3660862"
+    },
+    {
+      "name": "Ηροδοτοσ",
+      "code": "ΑΕΦΦ186",
+      "url": "https://www.studocu.com/gr/course/panepisthmio-krhths/hrodotos/4338947"
+    },
+    {
+      "name": "Θέματα διαπολιτισμικής παιδαγωγικής και ιστορική παιδεία",
+      "code": "Α06Π02",
+      "url": "https://www.studocu.com/gr/course/panepisthmio-krhths/oemata-diapolitismikhs-paidagwgikhs-kai-istorikh-paideia/3660478"
+    },
+    {
+      "name": "θεμελια των μαθηματικων",
+      "code": "MEM103",
+      "url": "https://www.studocu.com/gr/course/panepisthmio-krhths/oemelia-twn-maohmatikwn/3172124"
+    },
+    {
+      "name": "Θερμοδυναμική και Στατιστική Φυσική",
+      "code": "Φ405",
+      "url": "https://www.studocu.com/gr/course/panepisthmio-krhths/oermodynamikh-kai-statistikh-fysikh/3660787"
+    },
+    {
+      "name": "Θεσμοί και Ιδεολογίες στις Κοινωνίες της Αρχαιότητας",
+      "code": "ΑΙΣΑ525",
+      "url": "https://www.studocu.com/gr/course/panepisthmio-krhths/oesmoi-kai-ideologies-stis-koinwnies-ths-arxaiothtas/4342207"
+    },
+    {
+      "name": "Θεωρία Αριθμών",
+      "code": "ΜΕΜ-204",
+      "url": "https://www.studocu.com/gr/course/panepisthmio-krhths/oewria-ariomwn/3660833"
+    },
+    {
+      "name": "Θεωρία πιθανοτήτων",
+      "code": "ΜΕΜ-261",
+      "url": "https://www.studocu.com/gr/course/panepisthmio-krhths/oewria-pioanothtwn/7699098"
+    },
+    {
+      "name": "Θεωρία Σωμάτων",
+      "code": "MEM-227",
+      "url": "https://www.studocu.com/gr/course/panepisthmio-krhths/oewria-swmatwn/7601954"
+    },
+    {
+      "name": "Θεωρίες Προσωπικότητας",
+      "code": null,
+      "url": "https://www.studocu.com/gr/course/panepisthmio-krhths/oewries-proswpikothtas/3660516"
+    },
+    {
+      "name": "Ιατρικά Αγγλικά Α΄ (Medical English I)",
+      "code": null,
+      "url": "https://www.studocu.com/gr/course/panepisthmio-krhths/iatrika-agglika-a-medical-english-i/4341001"
+    },
+    {
+      "name": "Ιστορία της Εκπαίδευσης",
+      "code": "ΚΠΑ030",
+      "url": "https://www.studocu.com/gr/course/panepisthmio-krhths/istoria-ths-ekpaideyshs/4338623"
+    },
+    {
+      "name": "Ιστορική Κοινωνιολογία",
+      "code": "ΚΚΓ140",
+      "url": "https://www.studocu.com/gr/course/panepisthmio-krhths/istorikh-koinwniologia/4338594"
+    },
+    {
+      "name": "Κ-Kυτταρική Bιολογία",
+      "code": "ΒΙΟΛ-150",
+      "url": "https://www.studocu.com/gr/course/panepisthmio-krhths/k-kyttarikh-biologia/3660707"
+    },
+    {
+      "name": "Κ- Μέθοδοι Λειτουργικής Ανάλυσης Βιολογικών  Μακρομορίων",
+      "code": "ΒΙΟΛ-251",
+      "url": "https://www.studocu.com/gr/course/panepisthmio-krhths/k-meoodoi-leitoyrgikhs-analyshs-biologikwn-makromoriwn/3660721"
+    },
+    {
+      "name": "Κ-Βιοποικιλότητα και Εξελικτική Οικολογία  Φυτών",
+      "code": "ΒΙΟΛ-257",
+      "url": "https://www.studocu.com/gr/course/panepisthmio-krhths/k-biopoikilothta-kai-exeliktikh-oikologia-fytwn/3660726"
+    },
+    {
+      "name": "Κ-Εισαγωγή στη Ζωολογία",
+      "code": "ΒΙΟΛ-101",
+      "url": "https://www.studocu.com/gr/course/panepisthmio-krhths/k-eisagwgh-sth-zwologia/3660767"
+    },
+    {
+      "name": "Κ-Μέθοδοι στην Οικολογία",
+      "code": "ΒΙΟΛ-204",
+      "url": "https://www.studocu.com/gr/course/panepisthmio-krhths/k-meoodoi-sthn-oikologia/3660716"
+    },
+    {
+      "name": "Κοινωνική Ιστορία",
+      "code": "ΙΣΤΚ120",
+      "url": "https://www.studocu.com/gr/course/panepisthmio-krhths/koinwnikh-istoria/3660529"
+    },
+    {
+      "name": "Κοινωνική και πολιτικη Φιλοσοφια",
+      "code": "ΦΑ150",
+      "url": "https://www.studocu.com/gr/course/panepisthmio-krhths/koinwnikh-kai-politikh-filosofia/4341585"
+    },
+    {
+      "name": "Κοινωνική Ψυχολογία Ι Εισαγωγή στην Κοινωνική Ψυχολογία",
+      "code": null,
+      "url": "https://www.studocu.com/gr/course/panepisthmio-krhths/koinwnikh-psyxologia-i-eisagwgh-sthn-koinwnikh-psyxologia/3660502"
+    },
+    {
+      "name": "Κων/νος Βλασόπουλος",
+      "code": "AIΣ345",
+      "url": "https://www.studocu.com/gr/course/panepisthmio-krhths/kwnnos-blasopoylos/3660448"
+    },
+    {
+      "name": "Λογική",
+      "code": "ΗΥ-180",
+      "url": "https://www.studocu.com/gr/course/panepisthmio-krhths/logikh/3660656"
+    },
+    {
+      "name": "λογοτεχνια και φιλοσοφια",
+      "code": "ΦΑ003.4",
+      "url": "https://www.studocu.com/gr/course/panepisthmio-krhths/logotexnia-kai-filosofia/4341589"
+    },
+    {
+      "name": "Μαθήματα Επιλογής άλλων Επιστημών",
+      "code": "Ε2",
+      "url": "https://www.studocu.com/gr/course/panepisthmio-krhths/maohmata-epiloghs-allwn-episthmwn/3660792"
+    },
+    {
+      "name": "Μεθοδολογία έρευνας",
+      "code": null,
+      "url": "https://www.studocu.com/gr/course/panepisthmio-krhths/meoodologia-ereynas/3733150"
+    },
+    {
+      "name": "Μεθοδολογία Επιστημονικής Έρευνας στις Κοινωνικές Επιστήμες Ι",
+      "code": null,
+      "url": "https://www.studocu.com/gr/course/panepisthmio-krhths/meoodologia-episthmonikhs-ereynas-stis-koinwnikes-episthmes-i/3660500"
+    },
+    {
+      "name": "Μεθοδολογία της διδασκαλίας των Φυσικών Επιστημών στο ΔΣ",
+      "code": "Ε0206",
+      "url": "https://www.studocu.com/gr/course/panepisthmio-krhths/meoodologia-ths-didaskalias-twn-fysikwn-episthmwn-sto-ds/3660497"
+    },
+    {
+      "name": "Μηχανικές και Θερμικές Ιδιότητες Υλικών",
+      "code": "ΕΤΥ-349",
+      "url": "https://www.studocu.com/gr/course/panepisthmio-krhths/mhxanikes-kai-oermikes-idiothtes-ylikwn/3660985"
+    },
+    {
+      "name": "Μικροοικονομική Θεωρία ΙΙ",
+      "code": "ΟΙΚ2002",
+      "url": "https://www.studocu.com/gr/course/panepisthmio-krhths/mikrooikonomikh-oewria-ii/3660583"
+    },
+    {
+      "name": "Μικροοικονομική ΙΙ",
+      "code": "ΟΙΚ2002",
+      "url": "https://www.studocu.com/gr/course/panepisthmio-krhths/mikrooikonomikh-ii/3518395"
+    },
+    {
+      "name": "Οικονομετρία Ι",
+      "code": "ΟΙΚ-2003",
+      "url": "https://www.studocu.com/gr/course/panepisthmio-krhths/oikonometria-i/3660880"
+    },
+    {
+      "name": "Ομάδες Συμφερόντων",
+      "code": "ΟΣΚΠ143",
+      "url": "https://www.studocu.com/gr/course/panepisthmio-krhths/omades-symferontwn/4338756"
+    },
+    {
+      "name": "Ορθολογισμός του 17ου",
+      "code": "ΦΑ300",
+      "url": "https://www.studocu.com/gr/course/panepisthmio-krhths/oroologismos-toy-17oy/4341719"
+    },
+    {
+      "name": "Πιθανότητες",
+      "code": "HY-217",
+      "url": "https://www.studocu.com/gr/course/panepisthmio-krhths/pioanothtes/3660812"
+    },
+    {
+      "name": "Πολιτικά κόμματα",
+      "code": "ΠΚΟΠ126",
+      "url": "https://www.studocu.com/gr/course/panepisthmio-krhths/politika-kommata/4338754"
+    },
+    {
+      "name": "Σύγχρονα Θέματα Υπολογιστικής Αντίληψης και Δράσης Ρομποτικών Συστημάτων",
+      "code": "HY-675",
+      "url": "https://www.studocu.com/gr/course/panepisthmio-krhths/sygxrona-oemata-ypologistikhs-antilhpshs-kai-drashs-rompotikwn-systhmatwn/3660964"
+    },
+    {
+      "name": "Σύγχρονη Φυσική ΙΙ",
+      "code": "ΕΤΥ-202",
+      "url": "https://www.studocu.com/gr/course/panepisthmio-krhths/sygxronh-fysikh-ii/3661008"
+    },
+    {
+      "name": "Σύγχρονη Φυσική με Αγγλικά",
+      "code": "φ-015",
+      "url": "https://www.studocu.com/gr/course/panepisthmio-krhths/sygxronh-fysikh-me-agglika/6406342"
+    },
+    {
+      "name": "Σωκράτης Πετμεζάς",
+      "code": "ΙΝΧ115",
+      "url": "https://www.studocu.com/gr/course/panepisthmio-krhths/swkraths-petmezas/3660457"
+    },
+    {
+      "name": "Τεχνολογική Καινοτομία και Επιχειρηματικότητα",
+      "code": "ΗΥ-408",
+      "url": "https://www.studocu.com/gr/course/panepisthmio-krhths/texnologikh-kainotomia-kai-epixeirhmatikothta/3660921"
+    },
+    {
+      "name": "Φασισμός και Νεολαία",
+      "code": "ΚΠΓ304",
+      "url": "https://www.studocu.com/gr/course/panepisthmio-krhths/fasismos-kai-neolaia/4338964"
+    },
+    {
+      "name": "Φασματοσκοπία",
+      "code": "ΕΤΥ-222",
+      "url": "https://www.studocu.com/gr/course/panepisthmio-krhths/fasmatoskopia/3660999"
+    },
+    {
+      "name": "Φυσιολογία Συμπεριφοράς II Κινητικά και Ρυθμιστικά Συστήματα",
+      "code": null,
+      "url": "https://www.studocu.com/gr/course/panepisthmio-krhths/fysiologia-symperiforas-ii-kinhtika-kai-ryomistika-systhmata/3660524"
+    },
+    {
+      "name": "Ψυχομετρία I Βασικές Αρχές Μέτρησης  και Κατασκευής Ψυχολογικών Εργαλείων",
+      "code": null,
+      "url": "https://www.studocu.com/gr/course/panepisthmio-krhths/psyxometria-i-basikes-arxes-metrhshs-kai-kataskeyhs-psyxologikwn-ergaleiwn/3660522"
+    }
+  ]
+}

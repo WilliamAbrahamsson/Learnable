@@ -1,0 +1,2066 @@
+{
+  "university_id": "8046",
+  "university_name": "Politechnika Gdanska",
+  "courses": [
+    {
+      "name": "ALGEBRA LINIOWA",
+      "code": "PG_00037109",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/algebra-liniowa/3597641"
+    },
+    {
+      "name": "Algorytmy i struktury danych",
+      "code": "AiSD",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/algorytmy-i-struktury-danych/4343713"
+    },
+    {
+      "name": "Analityka Procesowa",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/analityka-procesowa/4338720"
+    },
+    {
+      "name": "Analiza Finansowa",
+      "code": "PG_00037972",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/analiza-finansowa/3597954"
+    },
+    {
+      "name": "Analiza finansowa przedsiębiorstwa",
+      "code": "PG_00037646",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/analiza-finansowa-przedsiebiorstwa/3597806"
+    },
+    {
+      "name": "Analiza instrumentalna",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/analiza-instrumentalna/6857458"
+    },
+    {
+      "name": "ANALIZA MATEMATYCZNA",
+      "code": "PG_00037107",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/analiza-matematyczna/3597658"
+    },
+    {
+      "name": "ANALIZA TECHNICZNA",
+      "code": "PG_00037153",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/analiza-techniczna/3597694"
+    },
+    {
+      "name": "Analiza zmian przestrzennych",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/analiza-zmian-przestrzennych/5856275"
+    },
+    {
+      "name": "Analogowe uklady elektroniczne",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/analogowe-uklady-elektroniczne/3765874"
+    },
+    {
+      "name": "Anatomia",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/anatomia/7609183"
+    },
+    {
+      "name": "Anteny i propagacja fal",
+      "code": "PG_0045023",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/anteny-i-propagacja-fal/3738456"
+    },
+    {
+      "name": "Aparatura Biomedyczna",
+      "code": "PG_00040953",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/aparatura-biomedyczna/3597857"
+    },
+    {
+      "name": "Aparatura Chemiczna I Biotechnologiczna",
+      "code": "PG_00037487",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/aparatura-chemiczna-i-biotechnologiczna/3597752"
+    },
+    {
+      "name": "Architektura",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/architektura/4375459"
+    },
+    {
+      "name": "Architektura Komputerów",
+      "code": "AKO",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/architektura-komputerow/3764134"
+    },
+    {
+      "name": "Asembler",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/asembler/4122427"
+    },
+    {
+      "name": "Automatyka inteligentnych budynków",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/automatyka-inteligentnych-budynkow/4122428"
+    },
+    {
+      "name": "Automatyzacja statku",
+      "code": "O:092960",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/automatyzacja-statku/4087829"
+    },
+    {
+      "name": "BADANIA MARKETINGOWE",
+      "code": "PG_00037130",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/badania-marketingowe/3597663"
+    },
+    {
+      "name": "BADANIA OPERACYJNE",
+      "code": "PG_00037132",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/badania-operacyjne/3597672"
+    },
+    {
+      "name": "Badania operacyjne z elementami teorii grafów w transporcie",
+      "code": "O:093590",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/badania-operacyjne-z-elementami-teorii-grafow-w-transporcie/4103284"
+    },
+    {
+      "name": "Bankowość",
+      "code": "PG_00037636",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/bankowosc/3597798"
+    },
+    {
+      "name": "Barwniki i środki powierzchniowo-czynne",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/barwniki-i-srodki-powierzchniowo-czynne/4338725"
+    },
+    {
+      "name": "BAZY DANYCH",
+      "code": "PG_00037126",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/bazy-danych/3597665"
+    },
+    {
+      "name": "Bezpieczeństwo i niezawodność systemów transportowych",
+      "code": "O:093600",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/bezpieczenstwo-i-niezawodnosc-systemow-transportowych/4087566"
+    },
+    {
+      "name": "Biochemia",
+      "code": "PG_00037491",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/biochemia/3597759"
+    },
+    {
+      "name": "Biochemia",
+      "code": "PG_00037494",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/biochemia/3597769"
+    },
+    {
+      "name": "Biofizyka",
+      "code": "PG_00037488",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/biofizyka/3597758"
+    },
+    {
+      "name": "Bioinformatyka",
+      "code": "PG_00037406",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/bioinformatyka/3597757"
+    },
+    {
+      "name": "BIOLOGIA KOMÓRKI",
+      "code": "PG_00037480",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/biologia-komorki/3597736"
+    },
+    {
+      "name": "Biometria",
+      "code": "PG_00040952",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/biometria/3597856"
+    },
+    {
+      "name": "Bioreaktory",
+      "code": "PG_00036863",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/bioreaktory/3597776"
+    },
+    {
+      "name": "Biotechnologia Ogólna",
+      "code": "PG_00037495",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/biotechnologia-ogolna/3597765"
+    },
+    {
+      "name": "Budownictwo",
+      "code": "PG_00039877",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/budownictwo/3736110"
+    },
+    {
+      "name": "Budownictwo przemysłowe",
+      "code": "KOMIN2018",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/budownictwo-przemyslowe/4146812"
+    },
+    {
+      "name": "Budownictwo Wodne i Morskie",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/budownictwo-wodne-i-morskie/7556242"
+    },
+    {
+      "name": "Budynek wielorodzinny",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/budynek-wielorodzinny/5015503"
+    },
+    {
+      "name": "Budżetowanie w przedsiębiorstwach społecznych",
+      "code": "PG_00037831",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/budzetowanie-w-przedsiebiorstwach-spolecznych/3597821"
+    },
+    {
+      "name": "Business analysis",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/business-analysis/5376157"
+    },
+    {
+      "name": "BUSINESS LANGUAGE",
+      "code": "PG_M0000280",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/business-language/3597704"
+    },
+    {
+      "name": "Chemia",
+      "code": "PG_00041981",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/chemia/4402106"
+    },
+    {
+      "name": "Chemia Analityczna",
+      "code": "PG_00037483",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/chemia-analityczna/3597750"
+    },
+    {
+      "name": "Chemia Fizyczna",
+      "code": "PG_00037402",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/chemia-fizyczna/3597739"
+    },
+    {
+      "name": "Chemia krzemianów",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/chemia-krzemianow/4340051"
+    },
+    {
+      "name": "Chemia nieorganiczna",
+      "code": "PG_00036258",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/chemia-nieorganiczna/3597735"
+    },
+    {
+      "name": "Chemia nieorganiczna",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/chemia-nieorganiczna/4046706"
+    },
+    {
+      "name": "Chemia Organiczna",
+      "code": "PG_00037484",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/chemia-organiczna/3597748"
+    },
+    {
+      "name": "Chemia Związków Naturalnych",
+      "code": "PG_00037408",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/chemia-zwiazkow-naturalnych/3597761"
+    },
+    {
+      "name": "Civil enginering",
+      "code": "civil enginering",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/civil-enginering/3735702"
+    },
+    {
+      "name": "civil enineering",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/civil-enineering/5335603"
+    },
+    {
+      "name": "Corporate Finance",
+      "code": "PG_00037682",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/corporate-finance/3597927"
+    },
+    {
+      "name": "Cyfrowe przetwarzanie sygnałów",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/cyfrowe-przetwarzanie-sygnalow/4118293"
+    },
+    {
+      "name": "Decyzje w Procesie Zarządzania Bankiem Komercyjnym",
+      "code": "PG_00038012",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/decyzje-w-procesie-zarzadzania-bankiem-komercyjnym/3597978"
+    },
+    {
+      "name": "DEMOGRAPHY AND ECONOMY",
+      "code": "PG_00037057",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/demography-and-economy/3597712"
+    },
+    {
+      "name": "Detektory promieniowania",
+      "code": "PG_00040970",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/detektory-promieniowania/3597874"
+    },
+    {
+      "name": "Diagnostyka i budowa dróg szynowych",
+      "code": "2024",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/diagnostyka-i-budowa-drog-szynowych/6863567"
+    },
+    {
+      "name": "Dokumentacja i Systemy jakości",
+      "code": "PG_0043221",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/dokumentacja-i-systemy-jakosci/3738676"
+    },
+    {
+      "name": "Drogi szynowe",
+      "code": "SZYNY 2018",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/drogi-szynowe/4146814"
+    },
+    {
+      "name": "Echolokacja",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/echolokacja/4118296"
+    },
+    {
+      "name": "Ecology and environmental protection",
+      "code": "PG_00037605",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/ecology-and-environmental-protection/3735952"
+    },
+    {
+      "name": "Ekologia i zarządzanie środowiskiem",
+      "code": "PG_00033023",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/ekologia-i-zarzadzanie-srodowiskiem/3598033"
+    },
+    {
+      "name": "EKONOMETRIA",
+      "code": "PG_00044522",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/ekonometria/3597675"
+    },
+    {
+      "name": "Ekonometria",
+      "code": "PG_00044149",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/ekonometria/3597809"
+    },
+    {
+      "name": "Ekonomia I",
+      "code": "PG_00004980",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/ekonomia-i/3597990"
+    },
+    {
+      "name": "Ekonomia II",
+      "code": "PG_00004999",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/ekonomia-ii/3598006"
+    },
+    {
+      "name": "Ekonomika Transportu",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/ekonomika-transportu/4093095"
+    },
+    {
+      "name": "Eksploatacja portów i centrów logistycznych",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/eksploatacja-portow-i-centrow-logistycznych/4091815"
+    },
+    {
+      "name": "Elektrodynamika",
+      "code": "K:06005W0",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/elektrodynamika/4260577"
+    },
+    {
+      "name": "Elektroenergetyka",
+      "code": "PG_00038404",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/elektroenergetyka/4220112"
+    },
+    {
+      "name": "Elektronika",
+      "code": "K06026W0",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/elektronika/4260578"
+    },
+    {
+      "name": "ELEKTROTECHNIKA I ELEKTRONIKA DLA ZIiP",
+      "code": "PG_00023232",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/elektrotechnika-i-elektronika-dla-ziip/3598032"
+    },
+    {
+      "name": "Elements of Law",
+      "code": "PG_00037672",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/elements-of-law/3597915"
+    },
+    {
+      "name": "Elementy elektroniczne",
+      "code": "PG_0045123",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/elementy-elektroniczne/3738635"
+    },
+    {
+      "name": "Elementy Genetyki",
+      "code": "PG_00041708",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/elementy-genetyki/3597868"
+    },
+    {
+      "name": "ELEMENTY LOGIKI",
+      "code": "PG_00037800",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/elementy-logiki/3597640"
+    },
+    {
+      "name": "Elementy prawa",
+      "code": "PG_00037621",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/elementy-prawa/3597783"
+    },
+    {
+      "name": "Elementy układów mechatronicznych",
+      "code": "M:03507W0",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/elementy-ukladow-mechatronicznych/4161894"
+    },
+    {
+      "name": "Elementy wykonawcze automatyki",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/elementy-wykonawcze-automatyki/4122429"
+    },
+    {
+      "name": "Energetyka",
+      "code": "222434",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/energetyka/3260681"
+    },
+    {
+      "name": "Energoelektronika",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/energoelektronika/4122430"
+    },
+    {
+      "name": "English Language",
+      "code": "PG_M0000257",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/english-language/3597907"
+    },
+    {
+      "name": "Environmental biology",
+      "code": "PG_00037590",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/environmental-biology/3735955"
+    },
+    {
+      "name": "Ergonomia i ochrona pracy",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/ergonomia-i-ochrona-pracy/4034112"
+    },
+    {
+      "name": "ERGONOMIA PRACY UMYSŁOWEJ",
+      "code": "PG_00037136",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/ergonomia-pracy-umyslowej/3597681"
+    },
+    {
+      "name": "Essentials of Computer Science",
+      "code": "PG_00037686",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/essentials-of-computer-science/3597899"
+    },
+    {
+      "name": "Essentials of Finance",
+      "code": "PG_00037671",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/essentials-of-finance/3597911"
+    },
+    {
+      "name": "Essentials of Management",
+      "code": "PG_00037670",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/essentials-of-management/3597902"
+    },
+    {
+      "name": "Essentials of Statistics",
+      "code": "PG_00037669",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/essentials-of-statistics/3597928"
+    },
+    {
+      "name": "Farmakologia",
+      "code": "PG_00040960",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/farmakologia/3597891"
+    },
+    {
+      "name": "Filozofia",
+      "code": "PG_00037403",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/filozofia/3597740"
+    },
+    {
+      "name": "Filtry Cyfrowe",
+      "code": "PG_0046021",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/filtry-cyfrowe/3738677"
+    },
+    {
+      "name": "Finanse",
+      "code": "PG_00037635",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/finanse/3597797"
+    },
+    {
+      "name": "Finanse I Rachunkowość",
+      "code": "PG_00005038",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/finanse-i-rachunkowosc/3598029"
+    },
+    {
+      "name": "FINANSE ORGANIZACJI GOSPODARCZYCH",
+      "code": "PG_00037125",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/finanse-organizacji-gospodarczych/3597664"
+    },
+    {
+      "name": "Finanse publiczne",
+      "code": "PG_00037643",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/finanse-publiczne/3597808"
+    },
+    {
+      "name": "Finansowanie Działalności",
+      "code": "PG_00038029",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/finansowanie-dzialalnosci/3597964"
+    },
+    {
+      "name": "FIZYKA",
+      "code": "PG_00037477",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/fizyka/3597727"
+    },
+    {
+      "name": "FIZYKA",
+      "code": "PG_00037399",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/fizyka/3597733"
+    },
+    {
+      "name": "Fizyka",
+      "code": "K:07003W0",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/fizyka/4254811"
+    },
+    {
+      "name": "Fizyka I",
+      "code": "PG_00004829",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/fizyka-i/3597993"
+    },
+    {
+      "name": "Fizyka I",
+      "code": "M:31384W0",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/fizyka-i/4162634"
+    },
+    {
+      "name": "Fizyka II",
+      "code": "PG_00004835",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/fizyka-ii/3598002"
+    },
+    {
+      "name": "Fizyka molekularna",
+      "code": "PG_00040466",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/fizyka-molekularna/3597878"
+    },
+    {
+      "name": "Fizyka Techniczna",
+      "code": "PG_00044373",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/fizyka-techniczna/6591624"
+    },
+    {
+      "name": "Fizyka Współczesna",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/fizyka-wspolczesna/4355252"
+    },
+    {
+      "name": "Fizykochemia ciała stałego",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/fizykochemia-ciala-stalego/4341565"
+    },
+    {
+      "name": "Foreign Language Sem. 1",
+      "code": "PG_M0000253",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/foreign-language-sem-1/3597901"
+    },
+    {
+      "name": "Fotogrametria",
+      "code": "historia 2024",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/fotogrametria/7625764"
+    },
+    {
+      "name": "fundamentowanie",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/fundamentowanie/4365037"
+    },
+    {
+      "name": "Fundamenty Specjalne",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/fundamenty-specjalne/6883603"
+    },
+    {
+      "name": "Fundusze unijne dla przedsiębiorstw społecznych",
+      "code": "PG_00037832",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/fundusze-unijne-dla-przedsiebiorstw-spolecznych/3597820"
+    },
+    {
+      "name": "GENERAL GENETICS",
+      "code": "PG_00037397",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/general-genetics/3597737"
+    },
+    {
+      "name": "Geodezja i Kartografia",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/geodezja-i-kartografia/3944743"
+    },
+    {
+      "name": "Geografia Transportu",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/geografia-transportu/4088827"
+    },
+    {
+      "name": "Geologia",
+      "code": "PG_0002002",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/geologia/4110303"
+    },
+    {
+      "name": "Geometria Wykreślna",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/geometria-wykreslna/3945849"
+    },
+    {
+      "name": "Grafika Inżynierska I",
+      "code": "PG_00004981",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/grafika-inzynierska-i/3597992"
+    },
+    {
+      "name": "Historia gospodarcza świata",
+      "code": "PG_00037618",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/historia-gospodarcza-swiata/3597778"
+    },
+    {
+      "name": "HR Management",
+      "code": "PG_00037683",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/hr-management/3597932"
+    },
+    {
+      "name": "hybrydowe",
+      "code": "blaw222",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/hybrydowe/4883621"
+    },
+    {
+      "name": "Hydraulika i hydrologia",
+      "code": "PG_00044017",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/hydraulika-i-hydrologia/5168429"
+    },
+    {
+      "name": "Hydrologia",
+      "code": "Pg2018",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/hydrologia/3739110"
+    },
+    {
+      "name": "Identyfikacja procesów losowych",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/identyfikacja-procesow-losowych/4118295"
+    },
+    {
+      "name": "Informatyka I",
+      "code": "M:31391W0",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/informatyka-i/4165313"
+    },
+    {
+      "name": "Informatyka II",
+      "code": "M:03021W1",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/informatyka-ii/4162631"
+    },
+    {
+      "name": "Informatyka II",
+      "code": "K06001W9",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/informatyka-ii/4260580"
+    },
+    {
+      "name": "Infrastruktura portów i centrów logistycznych",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/infrastruktura-portow-i-centrow-logistycznych/4091816"
+    },
+    {
+      "name": "Infrastruktura transportu",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/infrastruktura-transportu/6958117"
+    },
+    {
+      "name": "Instalacje Elektryczne",
+      "code": "IEITO2020/2021",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/instalacje-elektryczne/5389455"
+    },
+    {
+      "name": "Interfejsy Systemów Elektronicznych",
+      "code": "PG_0054032",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/interfejsy-systemow-elektronicznych/3739794"
+    },
+    {
+      "name": "Internetowe Systemy Informacyjne",
+      "code": "PG_00019406",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/internetowe-systemy-informacyjne/3597865"
+    },
+    {
+      "name": "Introduction to Entrepreneurship",
+      "code": "PG_00037705",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/introduction-to-entrepreneurship/3597921"
+    },
+    {
+      "name": "Inżynieria Chemiczna I Bioprocesowa",
+      "code": "PG_00037411",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/inzynieria-chemiczna-i-bioprocesowa/3597764"
+    },
+    {
+      "name": "Inżynieria finansowa w zarządzaniu przedsiębiorstwem",
+      "code": "PG_00037851",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/inzynieria-finansowa-w-zarzadzaniu-przedsiebiorstwem/3597840"
+    },
+    {
+      "name": "Inżynieria materiałowa",
+      "code": "K06808W0",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/inzynieria-materialowa/4260582"
+    },
+    {
+      "name": "Inżynieria Materiałowa i Konstrukcja urządzeń",
+      "code": "PG_0043021",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/inzynieria-materialowa-i-konstrukcja-urzadzen/3737862"
+    },
+    {
+      "name": "Inżynieria Mikrofalowa",
+      "code": "PG_0054033",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/inzynieria-mikrofalowa/3739795"
+    },
+    {
+      "name": "Inżynieria Oprogramowania nst",
+      "code": "IO2022",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/inzynieria-oprogramowania-nst/5382289"
+    },
+    {
+      "name": "Inżynieria produkcji",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/inzynieria-produkcji/4034123"
+    },
+    {
+      "name": "Inżynieria ruchu",
+      "code": "O:092910",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/inzynieria-ruchu/4093320"
+    },
+    {
+      "name": "Inżynieria Systemów Dynamicznych",
+      "code": "PG_0045223",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/inzynieria-systemow-dynamicznych/3738636"
+    },
+    {
+      "name": "Inżynieria układów i systemów scalonych",
+      "code": "PG_0047021",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/inzynieria-ukladow-i-systemow-scalonych/3738678"
+    },
+    {
+      "name": "Inżynieria Układów Programowalnych",
+      "code": "PG_0052123",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/inzynieria-ukladow-programowalnych/3738662"
+    },
+    {
+      "name": "Jezyki modelowania i symulacji",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/jezyki-modelowania-i-symulacji/4122432"
+    },
+    {
+      "name": "JĘZYK ANGIELSKI",
+      "code": "PG_00037110",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/jezyk-angielski/3597642"
+    },
+    {
+      "name": "JĘZYK ANGIELSKI",
+      "code": "PG_00038503",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/jezyk-angielski/3597655"
+    },
+    {
+      "name": "JĘZYK ANGIELSKI",
+      "code": "PG_00038505",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/jezyk-angielski/3597673"
+    },
+    {
+      "name": "Język hiszpański",
+      "code": "PG_00025444",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/jezyk-hiszpanski/3598039"
+    },
+    {
+      "name": "Język Niemiecki",
+      "code": "PG_00011738",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/jezyk-niemiecki/3598023"
+    },
+    {
+      "name": "Język Niemiecki",
+      "code": "PG_00011731",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/jezyk-niemiecki/3598043"
+    },
+    {
+      "name": "Język Rosyjski",
+      "code": "PG_00016135",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/jezyk-rosyjski/3598041"
+    },
+    {
+      "name": "Język Włoski",
+      "code": "PG_00005451",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/jezyk-wloski/3598010"
+    },
+    {
+      "name": "Języki programowania HDL",
+      "code": "PG_0054034",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/jezyki-programowania-hdl/3739796"
+    },
+    {
+      "name": "Języki programowania wysokiego poziomu",
+      "code": "PG_0144123",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/jezyki-programowania-wysokiego-poziomu/3946042"
+    },
+    {
+      "name": "Kompatybilność Elektromagnetyczna",
+      "code": "PG_0054035",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/kompatybilnosc-elektromagnetyczna/3739797"
+    },
+    {
+      "name": "Kompozyty",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/kompozyty/7392086"
+    },
+    {
+      "name": "Komputerowa Nauka o Materiałach i Projektowanie Materiałów",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/komputerowa-nauka-o-materialach-i-projektowanie-materialow/4340053"
+    },
+    {
+      "name": "Komputerowe Systemy Automatyki",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/komputerowe-systemy-automatyki/5853090"
+    },
+    {
+      "name": "Konstrukcja okrętu",
+      "code": "PG_00041675",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/konstrukcja-okretu/4103266"
+    },
+    {
+      "name": "Konstrukcja turbin",
+      "code": "O:091570",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/konstrukcja-turbin/4250229"
+    },
+    {
+      "name": "Konstrukcje betonowe",
+      "code": "KBET 2018",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/konstrukcje-betonowe/4146789"
+    },
+    {
+      "name": "Konstrukcje betonowe",
+      "code": "KB2022",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/konstrukcje-betonowe/5384886"
+    },
+    {
+      "name": "Konstrukcje drewniane",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/konstrukcje-drewniane/7196485"
+    },
+    {
+      "name": "Konstrukcje Metalowe",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/konstrukcje-metalowe/4882551"
+    },
+    {
+      "name": "konstrukcje murowe",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/konstrukcje-murowe/4376767"
+    },
+    {
+      "name": "Konwencje i przepisy w transporcie",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/konwencje-i-przepisy-w-transporcie/4093071"
+    },
+    {
+      "name": "Konwertery Mocy",
+      "code": "PG_0054036",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/konwertery-mocy/3739798"
+    },
+    {
+      "name": "Korozja",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/korozja/4340056"
+    },
+    {
+      "name": "Kotły i wymienniki ciepła",
+      "code": "O:090280",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/kotly-i-wymienniki-ciepla/4236452"
+    },
+    {
+      "name": "Krystalografia",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/krystalografia/4248024"
+    },
+    {
+      "name": "Księgowość",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/ksiegowosc/7762476"
+    },
+    {
+      "name": "Kultury Tkankowe",
+      "code": "PG_00037414",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/kultury-tkankowe/3597767"
+    },
+    {
+      "name": "Laboratorium Chemii Fizycznej",
+      "code": "PG_00037392",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/laboratorium-chemii-fizycznej/3597749"
+    },
+    {
+      "name": "Laboratorium zakłóceń w układach elektroenergetycznych",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/laboratorium-zaklocen-w-ukladach-elektroenergetycznych/6740373"
+    },
+    {
+      "name": "Logika",
+      "code": "PG_00037616",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/logika/3597786"
+    },
+    {
+      "name": "Logistyka",
+      "code": "PG_00037973",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/logistyka/3597953"
+    },
+    {
+      "name": "Makroekonomia",
+      "code": "PG_00037629",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/makroekonomia/3597791"
+    },
+    {
+      "name": "MARKETING",
+      "code": "PG_00037127",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/marketing/3597639"
+    },
+    {
+      "name": "Marketing Research",
+      "code": "PG_00037678",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/marketing-research/3597923"
+    },
+    {
+      "name": "Maszynoznawstwo I Grafika Inżynierska",
+      "code": "PG_00037401",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/maszynoznawstwo-i-grafika-inzynierska/3597743"
+    },
+    {
+      "name": "Maszyny elektryczne",
+      "code": "K06810W0",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/maszyny-elektryczne/4260592"
+    },
+    {
+      "name": "MATEMATYKA",
+      "code": "PG_00037393",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/matematyka/3597726"
+    },
+    {
+      "name": "MATEMATYKA",
+      "code": "PG_00037396",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/matematyka/3597734"
+    },
+    {
+      "name": "Matematyka",
+      "code": "PG_00008230",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/matematyka/3597846"
+    },
+    {
+      "name": "Matematyka",
+      "code": "K:07801W3",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/matematyka/4254814"
+    },
+    {
+      "name": "Matematyka finansowa",
+      "code": "PG_00037627",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/matematyka-finansowa/3597788"
+    },
+    {
+      "name": "Matematyka II",
+      "code": "PG_00004823",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/matematyka-ii/3598005"
+    },
+    {
+      "name": "Matematyka III",
+      "code": "PG_00004798",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/matematyka-iii/3598015"
+    },
+    {
+      "name": "Matematyka Magisterka sem1",
+      "code": "MATMAG 1",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/matematyka-magisterka-sem1/6708572"
+    },
+    {
+      "name": "Materiałoznawstwo I",
+      "code": "PG_00004841",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/materialoznawstwo-i/3597995"
+    },
+    {
+      "name": "Materiałoznawstwo II",
+      "code": "PG_00004825",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/materialoznawstwo-ii/3598004"
+    },
+    {
+      "name": "Materiały budowlane",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/materialy-budowlane/4340058"
+    },
+    {
+      "name": "Materiały dla przyszłych studentów/licealistów",
+      "code": "STUD 4400",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/materialy-dla-przyszlych-studentowlicealistow/6838467"
+    },
+    {
+      "name": "Mathematics",
+      "code": "PG_00037667",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/mathematics/3597897"
+    },
+    {
+      "name": "Mechanika Eti",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/mechanika-eti/4122433"
+    },
+    {
+      "name": "Mechanika Gruntów",
+      "code": "PG_MG0",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/mechanika-gruntow/6447266"
+    },
+    {
+      "name": "Mechanika I",
+      "code": "PG_00004794",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/mechanika-i/3598007"
+    },
+    {
+      "name": "Mechanika i wytrzymałość materiałów",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/mechanika-i-wytrzymalosc-materialow/3796427"
+    },
+    {
+      "name": "Mechanika II",
+      "code": "PG_00004801",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/mechanika-ii/3598017"
+    },
+    {
+      "name": "Mechanika Kwantowa",
+      "code": "NAN1B0051",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/mechanika-kwantowa/3735211"
+    },
+    {
+      "name": "Mechanika Ruchu Okrętu",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/mechanika-ruchu-okretu/6893336"
+    },
+    {
+      "name": "Mechatronika",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/mechatronika/3945048"
+    },
+    {
+      "name": "metaloznawstwo",
+      "code": "PG:002",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/metaloznawstwo/4880583"
+    },
+    {
+      "name": "Metody elektrochemiczne w zastosowaniach biomedycznych",
+      "code": "PG_00041707",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/metody-elektrochemiczne-w-zastosowaniach-biomedycznych/3597867"
+    },
+    {
+      "name": "Metody Interakcji Człowiek Komputer",
+      "code": "PG_00040967",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/metody-interakcji-czlowiek-komputer/3597862"
+    },
+    {
+      "name": "Metody Numeryczne",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/metody-numeryczne/4358128"
+    },
+    {
+      "name": "Metody Numeryczne w Modelowaniu",
+      "code": "PG_00040485",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/metody-numeryczne-w-modelowaniu/3597848"
+    },
+    {
+      "name": "Metody Projektowania i Technika Realizacji",
+      "code": "PG_0044823",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/metody-projektowania-i-technika-realizacji/3738680"
+    },
+    {
+      "name": "Metody Przetwarzania Obrazów",
+      "code": "PG_0054037",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/metody-przetwarzania-obrazow/3739799"
+    },
+    {
+      "name": "Metrologia",
+      "code": "PG_00004806",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/metrologia/3598003"
+    },
+    {
+      "name": "Mikrobiologia Ogólna",
+      "code": "PG_00037400",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/mikrobiologia-ogolna/3597742"
+    },
+    {
+      "name": "MIKROEKONOMIA",
+      "code": "PG_00037118",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/mikroekonomia/3597661"
+    },
+    {
+      "name": "Mikroekonomia",
+      "code": "PG_00037615",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/mikroekonomia/3597781"
+    },
+    {
+      "name": "Mikroekonomia",
+      "code": "PG_00061316",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/mikroekonomia/6603607"
+    },
+    {
+      "name": "Mikrokontrolery i Mikrosystemy",
+      "code": "PG_0043063",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/mikrokontrolery-i-mikrosystemy/3738679"
+    },
+    {
+      "name": "Mikroprocesory i Mikrokontrolery",
+      "code": "PG_0046023",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/mikroprocesory-i-mikrokontrolery/3738666"
+    },
+    {
+      "name": "Międzynarodowe stosunki gospodarcze",
+      "code": "PG_00037639",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/miedzynarodowe-stosunki-gospodarcze/3597799"
+    },
+    {
+      "name": "Modelowanie i optymalizacja",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/modelowanie-i-optymalizacja/7164129"
+    },
+    {
+      "name": "Modelowanie Matematyczne",
+      "code": "O:10490",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/modelowanie-matematyczne/4229634"
+    },
+    {
+      "name": "Modelowanie Procesów Biznesowych",
+      "code": "PG_00037980",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/modelowanie-procesow-biznesowych/3597939"
+    },
+    {
+      "name": "Modelowanie układów biologicznych",
+      "code": "PG_00040972",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/modelowanie-ukladow-biologicznych/3597895"
+    },
+    {
+      "name": "MODERN MACROECONOMICS",
+      "code": "PG_00037053",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/modern-macroeconomics/3597709"
+    },
+    {
+      "name": "Moduł Ekonomiczny",
+      "code": "PG_M0000251",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/modul-ekonomiczny/3597836"
+    },
+    {
+      "name": "Moduł Politologiczno-administracyjny",
+      "code": "PG_M0000248",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/modul-politologiczno-administracyjny/3597810"
+    },
+    {
+      "name": "Moduł Zarządzanie Publiczne",
+      "code": "PG_M0000305",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/modul-zarzadzanie-publiczne/3597985"
+    },
+    {
+      "name": "Modyfikacja i recykling polimerów",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/modyfikacja-i-recykling-polimerow/4340061"
+    },
+    {
+      "name": "Mosty i Tunele",
+      "code": "MiT21/22",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/mosty-i-tunele/6715631"
+    },
+    {
+      "name": "Nanotechnologia",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/nanotechnologia/3735209"
+    },
+    {
+      "name": "NATIONAL ACCOUNTS",
+      "code": "PG_00037048",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/national-accounts/3597711"
+    },
+    {
+      "name": "Naturlane Zasoby Energetyczne",
+      "code": "ENE2024",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/naturlane-zasoby-energetyczne/6722697"
+    },
+    {
+      "name": "Nauka o materiałach niemetalowych",
+      "code": "O:092651",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/nauka-o-materialach-niemetalowych/4093251"
+    },
+    {
+      "name": "Nauki o organizacji",
+      "code": "PG_00044221",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/nauki-o-organizacji/6913408"
+    },
+    {
+      "name": "Nawigacja",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/nawigacja/4122434"
+    },
+    {
+      "name": "nieliniowa analiza konstrukcji",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/nieliniowa-analiza-konstrukcji/7286205"
+    },
+    {
+      "name": "Niezawodność i diagnostyka",
+      "code": "PG_0064123",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/niezawodnosc-i-diagnostyka/4194684"
+    },
+    {
+      "name": "Normalizacja",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/normalizacja/4092673"
+    },
+    {
+      "name": "Nowoczesne Metody I Aparatura w Mikrobiologii I Biotechnologii",
+      "code": "PG_00036745",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/nowoczesne-metody-i-aparatura-w-mikrobiologii-i-biotechnologii/3597754"
+    },
+    {
+      "name": "Nowoczesne systemy transportowe",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/nowoczesne-systemy-transportowe/6958121"
+    },
+    {
+      "name": "Nowoczesne techniki analityczne",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/nowoczesne-techniki-analityczne/4340060"
+    },
+    {
+      "name": "Nowoczesne techniki w transporcie",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/nowoczesne-techniki-w-transporcie/6245057"
+    },
+    {
+      "name": "Obróbka Skrawaniem I Obrabiarki",
+      "code": "PG_00004795",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/obrobka-skrawaniem-i-obrabiarki/3598000"
+    },
+    {
+      "name": "Obróbka skrawaniem i przetwórstwo tworzyw sztucznych",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/obrobka-skrawaniem-i-przetworstwo-tworzyw-sztucznych/7382392"
+    },
+    {
+      "name": "Obwody elektryczne II",
+      "code": "K06003W6",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/obwody-elektryczne-ii/4260556"
+    },
+    {
+      "name": "Obwody i Sygnały",
+      "code": "PG_0043023",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/obwody-i-sygnaly/3737871"
+    },
+    {
+      "name": "Ochrona przyrody",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/ochrona-przyrody/4069010"
+    },
+    {
+      "name": "OCHRONA WŁASNOŚCI INTELEKTUALNEJ",
+      "code": "PG_00037156",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/ochrona-wlasnosci-intelektualnej/3597678"
+    },
+    {
+      "name": "Ochrona środowiska w energetyce",
+      "code": "PG_00041984",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/ochrona-srodowiska-w-energetyce/4402107"
+    },
+    {
+      "name": "Ochrona środowiska w systemach transportowych",
+      "code": "O:093610",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/ochrona-srodowiska-w-systemach-transportowych/4103295"
+    },
+    {
+      "name": "Odnawialne Źródła Energii",
+      "code": "PG_00040452",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/odnawialne-zrodla-energii/3597858"
+    },
+    {
+      "name": "Optoelektronika",
+      "code": "PG_0053023",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/optoelektronika/3738663"
+    },
+    {
+      "name": "Optyczne Techniki Pomiarowe",
+      "code": "PG_0044323",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/optyczne-techniki-pomiarowe/3749609"
+    },
+    {
+      "name": "Organisation Science",
+      "code": "PG_00037673",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/organisation-science/3597898"
+    },
+    {
+      "name": "Organizacja i zarządzanie przedsiębiorstwem",
+      "code": "PG_00037845",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/organizacja-i-zarzadzanie-przedsiebiorstwem/3597814"
+    },
+    {
+      "name": "Organizacja procesów pracy",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/organizacja-procesow-pracy/4041182"
+    },
+    {
+      "name": "Organizacja systemów komputerowych",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/organizacja-systemow-komputerowych/4122436"
+    },
+    {
+      "name": "Physics",
+      "code": "PG_00037546",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/physics/3735957"
+    },
+    {
+      "name": "Pneumatyka i hydraulika",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/pneumatyka-i-hydraulika/4122437"
+    },
+    {
+      "name": "Podstawy automatyki",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/podstawy-automatyki/4122438"
+    },
+    {
+      "name": "Podstawy automatyki i robotyki",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/podstawy-automatyki-i-robotyki/3796421"
+    },
+    {
+      "name": "Podstawy Automatyki I Sterowania",
+      "code": "PG_00004927",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/podstawy-automatyki-i-sterowania/3598035"
+    },
+    {
+      "name": "PODSTAWY BIOLOGII",
+      "code": "PG_00037479",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/podstawy-biologii/3597730"
+    },
+    {
+      "name": "Podstawy Budowy Maszyn",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/podstawy-budowy-maszyn/6198759"
+    },
+    {
+      "name": "Podstawy Ekonomii",
+      "code": "PG_00037482",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/podstawy-ekonomii/3597744"
+    },
+    {
+      "name": "Podstawy eksploatacji maszyn i urządzeń",
+      "code": "O:092920",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/podstawy-eksploatacji-maszyn-i-urzadzen/4087826"
+    },
+    {
+      "name": "Podstawy ergonomii i BHP",
+      "code": "O:090590",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/podstawy-ergonomii-i-bhp/4092690"
+    },
+    {
+      "name": "Podstawy informatyki",
+      "code": "PG_00037622",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/podstawy-informatyki/3597784"
+    },
+    {
+      "name": "Podstawy Inżynierii Ruchu Telekomunikacyjnego",
+      "code": "PG_0344123",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/podstawy-inzynierii-ruchu-telekomunikacyjnego/3946045"
+    },
+    {
+      "name": "Podstawy Konstrukcji Maszyn I",
+      "code": "M:03017W0",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/podstawy-konstrukcji-maszyn-i/3813951"
+    },
+    {
+      "name": "Podstawy konstrukcji maszyn I",
+      "code": "O:090620",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/podstawy-konstrukcji-maszyn-i/4093402"
+    },
+    {
+      "name": "Podstawy Marketingu",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/podstawy-marketingu/4059585"
+    },
+    {
+      "name": "Podstawy Mechaniki Płynów OiO",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/podstawy-mechaniki-plynow-oio/4087821"
+    },
+    {
+      "name": "Podstawy Mikroelektroniki",
+      "code": "PG_0049023",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/podstawy-mikroelektroniki/3738681"
+    },
+    {
+      "name": "PODSTAWY OCHRONY ŚRODOWISKA",
+      "code": "PG_00037394",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/podstawy-ochrony-srodowiska/3597729"
+    },
+    {
+      "name": "PODSTAWY PROGNOZOWANIA GOSPODARCZEGO",
+      "code": "PG_00037129",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/podstawy-prognozowania-gospodarczego/3597667"
+    },
+    {
+      "name": "Podstawy Projektowania i Grafika Inżynierska",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/podstawy-projektowania-i-grafika-inzynierska/4356007"
+    },
+    {
+      "name": "Podstawy projektowania okrętów i jachtów",
+      "code": "O:090670",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/podstawy-projektowania-okretow-i-jachtow/4229631"
+    },
+    {
+      "name": "Podstawy przyrodnicze",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/podstawy-przyrodnicze/5952887"
+    },
+    {
+      "name": "Podstawy rachunkowości",
+      "code": "PG_00037637",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/podstawy-rachunkowosci/3597803"
+    },
+    {
+      "name": "Podstawy Socjologii",
+      "code": "M:31236W0",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/podstawy-socjologii/4162740"
+    },
+    {
+      "name": "PODSTAWY STATYSTYKI",
+      "code": "PG_00037123",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/podstawy-statystyki/3597647"
+    },
+    {
+      "name": "Podstawy systemów dyskretnych",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/podstawy-systemow-dyskretnych/4122439"
+    },
+    {
+      "name": "Podstawy systemów informacyjnych",
+      "code": "PG_0444123",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/podstawy-systemow-informacyjnych/3946046"
+    },
+    {
+      "name": "Podstawy Technologii Ogólnej",
+      "code": "PG_00037486",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/podstawy-technologii-ogolnej/3597747"
+    },
+    {
+      "name": "Podstawy Telekomunikacji",
+      "code": "PG_0045323",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/podstawy-telekomunikacji/3738639"
+    },
+    {
+      "name": "Podstawy Teorii Drgań",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/podstawy-teorii-drgan/4093096"
+    },
+    {
+      "name": "PODSTAWY ZARZĄDZANIA",
+      "code": "PG_00037120",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/podstawy-zarzadzania/3597645"
+    },
+    {
+      "name": "Pola i Fale Elektromagnetyczne",
+      "code": "PG_0044123",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/pola-i-fale-elektromagnetyczne/3738640"
+    },
+    {
+      "name": "Polimerowe materiały konstrukcyjne",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/polimerowe-materialy-konstrukcyjne/4340057"
+    },
+    {
+      "name": "Polimerowe modyfikatory materiałów budowlanych",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/polimerowe-modyfikatory-materialow-budowlanych/4341569"
+    },
+    {
+      "name": "Polimery",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/polimery/4338726"
+    },
+    {
+      "name": "Polimery w praktyce inżynierskiej",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/polimery-w-praktyce-inzynierskiej/4340063"
+    },
+    {
+      "name": "Polityka ekonomiczna",
+      "code": "PG_00037638",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/polityka-ekonomiczna/3597802"
+    },
+    {
+      "name": "Polityka Ekonomiczna",
+      "code": "PG_00037977",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/polityka-ekonomiczna/3597980"
+    },
+    {
+      "name": "Polityka fiskalna i monetarna UE",
+      "code": "PG_00037839",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/polityka-fiskalna-i-monetarna-ue/3597830"
+    },
+    {
+      "name": "Pomiary i kontrola jakości",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/pomiary-i-kontrola-jakosci/4103269"
+    },
+    {
+      "name": "Pomiary wielkości nieelektrycznych",
+      "code": "PG_0044923",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/pomiary-wielkosci-nieelektrycznych/3738682"
+    },
+    {
+      "name": "Porty i spedycja portowa",
+      "code": "O:093460",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/porty-i-spedycja-portowa/4093428"
+    },
+    {
+      "name": "Praca Dyplomowa",
+      "code": "PG_00037988",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/praca-dyplomowa/3597981"
+    },
+    {
+      "name": "Praca Dyplomowa Magisterska-ii",
+      "code": "PG_00017126",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/praca-dyplomowa-magisterska-ii/3597880"
+    },
+    {
+      "name": "Praktyka Funkcjonowania Biznesu",
+      "code": "PG_00038009",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/praktyka-funkcjonowania-biznesu/3597972"
+    },
+    {
+      "name": "Prawo Gospodarcze",
+      "code": "PG_00004868",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/prawo-gospodarcze/3598020"
+    },
+    {
+      "name": "Probabilistyka",
+      "code": "PG_0043027",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/probabilistyka/3738653"
+    },
+    {
+      "name": "Procesory Sygnałowe",
+      "code": "PG_0054038",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/procesory-sygnalowe/3739800"
+    },
+    {
+      "name": "Procesy Innowacyjne",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/procesy-innowacyjne/4059586"
+    },
+    {
+      "name": "Procesy losowe",
+      "code": "PG_0065123",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/procesy-losowe/4194685"
+    },
+    {
+      "name": "Production Management",
+      "code": "PG_00037706",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/production-management/3597918"
+    },
+    {
+      "name": "Prognozowanie gospodarcze",
+      "code": "PG_00037658",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/prognozowanie-gospodarcze/3597817"
+    },
+    {
+      "name": "Programowalne sterowniki logiczne i wizualizacja procesów",
+      "code": "PG_00047577",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/programowalne-sterowniki-logiczne-i-wizualizacja-procesow/7223297"
+    },
+    {
+      "name": "Prohektowanie Dróg i Autostrad",
+      "code": "PDIA 2022",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/prohektowanie-drog-i-autostrad/5465247"
+    },
+    {
+      "name": "Projekt Grupowy 1",
+      "code": "PG_00041702",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/projekt-grupowy-1/3597849"
+    },
+    {
+      "name": "Projekt Grupowy 2",
+      "code": "PG_00041703",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/projekt-grupowy-2/3597860"
+    },
+    {
+      "name": "Projekt z turbin",
+      "code": "O:091660",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/projekt-z-turbin/4238722"
+    },
+    {
+      "name": "Projektowanie Procesów Wytwarzania",
+      "code": "PG_00023230",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/projektowanie-procesow-wytwarzania/3598031"
+    },
+    {
+      "name": "Projektowanie Sieci Bezprzewodowych",
+      "code": "PG_0544123",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/projektowanie-sieci-bezprzewodowych/3946047"
+    },
+    {
+      "name": "Projektowanie układów elektronicznych",
+      "code": "PG_0044423",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/projektowanie-ukladow-elektronicznych/3749610"
+    },
+    {
+      "name": "Przedsiębiorczość i innowacje społeczne",
+      "code": "PG_00037828",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/przedsiebiorczosc-i-innowacje-spoleczne/3597822"
+    },
+    {
+      "name": "Przestrzenie Inteligentne",
+      "code": "PI 2022",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/przestrzenie-inteligentne/5179725"
+    },
+    {
+      "name": "Przetwarzanie dźwięków i obrazów",
+      "code": "PG_0644123",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/przetwarzanie-dzwiekow-i-obrazow/3946049"
+    },
+    {
+      "name": "Przetwarzanie Sygnałów",
+      "code": "PG_0044128",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/przetwarzanie-sygnalow/3738654"
+    },
+    {
+      "name": "Przyrządy półprzewodnikowe",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/przyrzady-polprzewodnikowe/4074187"
+    },
+    {
+      "name": "Psychologia Społeczna",
+      "code": "PG_00005415",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/psychologia-spoleczna/3597998"
+    },
+    {
+      "name": "RACHUNKOWOŚĆ FINANSOWA",
+      "code": "PG_00037122",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/rachunkowosc-finansowa/3597666"
+    },
+    {
+      "name": "RACHUNKOWOŚĆ PODATKOWA",
+      "code": "PG_00037152",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/rachunkowosc-podatkowa/3597695"
+    },
+    {
+      "name": "RYNKI FINANSOWE",
+      "code": "PG_00037151",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/rynki-finansowe/3597686"
+    },
+    {
+      "name": "Rysunek techniczny",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/rysunek-techniczny/6592069"
+    },
+    {
+      "name": "Seminarium Dyplomowe",
+      "code": "PG_00045173",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/seminarium-dyplomowe/3597962"
+    },
+    {
+      "name": "Sensory i Sieci Sensorowe",
+      "code": "PG_0063021",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/sensory-i-sieci-sensorowe/3738667"
+    },
+    {
+      "name": "Sieci Komputerowe",
+      "code": "PG_0744123",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/sieci-komputerowe/3946051"
+    },
+    {
+      "name": "Siłownie okrętowe ll",
+      "code": "O:091590",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/silownie-okretowe-ll/4231358"
+    },
+    {
+      "name": "SOCIO-HUMANISTIC SUBJECT",
+      "code": "PG_M0000261",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/socio-humanistic-subject/3597714"
+    },
+    {
+      "name": "Specyfika kontenerowego systemu transportu",
+      "code": "O:093620",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/specyfika-kontenerowego-systemu-transportu/4103292"
+    },
+    {
+      "name": "Statystyka I",
+      "code": "PG_00044148",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/statystyka-i/3597787"
+    },
+    {
+      "name": "Statystyka II",
+      "code": "PG_00037633",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/statystyka-ii/3597795"
+    },
+    {
+      "name": "Statystyka Medyczna",
+      "code": "PG_00040976",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/statystyka-medyczna/3597894"
+    },
+    {
+      "name": "Sterowanie analogowe",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/sterowanie-analogowe/4122440"
+    },
+    {
+      "name": "Sterowanie rozymte",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/sterowanie-rozymte/4118287"
+    },
+    {
+      "name": "Sygnały telekomunikacyjne",
+      "code": "PG_0744123",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/sygnaly-telekomunikacyjne/3946052"
+    },
+    {
+      "name": "System transportu pasażerskiego",
+      "code": "O:093640",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/system-transportu-pasazerskiego/4103299"
+    },
+    {
+      "name": "System transportu ładunków masowych: stałych, ciekłych i gazowych",
+      "code": "O:093630",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/system-transportu-ladunkow-masowych-stalych-cieklych-i-gazowych/4103293"
+    },
+    {
+      "name": "Systemy Automatyki Przemysłowej",
+      "code": "PG_00051511",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/systemy-automatyki-przemyslowej/5292519"
+    },
+    {
+      "name": "Systemy Dynamiczne",
+      "code": "SD2022/3",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/systemy-dynamiczne/6653967"
+    },
+    {
+      "name": "Systemy energetyczne w transporcie",
+      "code": "O:093480",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/systemy-energetyczne-w-transporcie/4093435"
+    },
+    {
+      "name": "Systemy i architektury NGN",
+      "code": "PG_0844123",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/systemy-i-architektury-ngn/3946053"
+    },
+    {
+      "name": "Systemy i Sieci Telekomunikacyjne",
+      "code": "PG_0054123",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/systemy-i-sieci-telekomunikacyjne/3738661"
+    },
+    {
+      "name": "Systemy informatyczne i telekomunikacyjne w transporcie",
+      "code": "(PG_00058655)",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/systemy-informatyczne-i-telekomunikacyjne-w-transporcie/5922942"
+    },
+    {
+      "name": "Systemy informatyczne przedsiębiorstw",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/systemy-informatyczne-przedsiebiorstw/4034122"
+    },
+    {
+      "name": "Systemy Operacyjne",
+      "code": "SO",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/systemy-operacyjne/3764138"
+    },
+    {
+      "name": "Systemy radiokomunikacyjne",
+      "code": "PG_0944123",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/systemy-radiokomunikacyjne/3946055"
+    },
+    {
+      "name": "Systemy transportu",
+      "code": "O:092680",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/systemy-transportu/4092693"
+    },
+    {
+      "name": "Systemy wizualizacji informacji",
+      "code": "PG_0054038",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/systemy-wizualizacji-informacji/3739801"
+    },
+    {
+      "name": "Systemy wizyjne",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/systemy-wizyjne/4122441"
+    },
+    {
+      "name": "Sztuczna inteligencja",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/sztuczna-inteligencja/4122442"
+    },
+    {
+      "name": "Środki transportowe",
+      "code": "O:092700",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/srodki-transportowe/4092694"
+    },
+    {
+      "name": "Technika antenowa",
+      "code": "PG_0054039",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/technika-antenowa/3739802"
+    },
+    {
+      "name": "Technika bardzo wysokich częstotliwości",
+      "code": "PG_0244123",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/technika-bardzo-wysokich-czestotliwosci/3946044"
+    },
+    {
+      "name": "Technika Bezprzewodowa",
+      "code": "E:35237W0",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/technika-bezprzewodowa/3737717"
+    },
+    {
+      "name": "Technika laserowa",
+      "code": "PG_0054139",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/technika-laserowa/3739803"
+    },
+    {
+      "name": "Technika rozbudowy systemów wbudowanych",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/technika-rozbudowy-systemow-wbudowanych/4118290"
+    },
+    {
+      "name": "Technika wysokich napięć",
+      "code": "K:06815W1",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/technika-wysokich-napiec/4264992"
+    },
+    {
+      "name": "Technika światłowodowa",
+      "code": "PG_0075023",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/technika-swiatlowodowa/3738683"
+    },
+    {
+      "name": "Technika światłowodowa i fotonika",
+      "code": "PG_0064223",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/technika-swiatlowodowa-i-fotonika/4194686"
+    },
+    {
+      "name": "Techniki bezprzewodowe",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/techniki-bezprzewodowe/4122443"
+    },
+    {
+      "name": "Techniki Rozdzielania Mieszanin",
+      "code": "PG_00037492",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/techniki-rozdzielania-mieszanin/3597772"
+    },
+    {
+      "name": "Techniki wytwarzania",
+      "code": "PG_00042005",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/techniki-wytwarzania/4402109"
+    },
+    {
+      "name": "Technologia i organizacja robót budowlanych",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/technologia-i-organizacja-robot-budowlanych/5375915"
+    },
+    {
+      "name": "TECHNOLOGIA INFORMACYJNA",
+      "code": "PG_00037108",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/technologia-informacyjna/3597649"
+    },
+    {
+      "name": "Technologia metali",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/technologia-metali/3945053"
+    },
+    {
+      "name": "Technologia Spajania",
+      "code": "PG_00004870",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/technologia-spajania/3598036"
+    },
+    {
+      "name": "Technologie Budowy Środków Transportu",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/technologie-budowy-srodkow-transportu/4093075"
+    },
+    {
+      "name": "Technologie Informacyjne",
+      "code": "PG_00004982",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/technologie-informacyjne/3597991"
+    },
+    {
+      "name": "Technologie informacyjne",
+      "code": "K:06203W0",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/technologie-informacyjne/4254817"
+    },
+    {
+      "name": "Technologie multimedialne",
+      "code": "PG_0044523",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/technologie-multimedialne/3738664"
+    },
+    {
+      "name": "Technologie Zespołów IT",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/technologie-zespolow-it/4059590"
+    },
+    {
+      "name": "Teoria informacji i kodowania",
+      "code": "PG_0064323",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/teoria-informacji-i-kodowania/4194688"
+    },
+    {
+      "name": "Teoria sprężystości i plastyczności",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/teoria-sprezystosci-i-plastycznosci/5343040"
+    },
+    {
+      "name": "Teoria sterowania systemów transportowych",
+      "code": "O:093490",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/teoria-sterowania-systemow-transportowych/4097996"
+    },
+    {
+      "name": "TERMODYNAMIKA DLA ZiIP",
+      "code": "PG_00021426",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/termodynamika-dla-ziip/3598018"
+    },
+    {
+      "name": "Termodynamika I",
+      "code": "Termodynamika I, O:090990",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/termodynamika-i/3739232"
+    },
+    {
+      "name": "Termodynamika MIBM",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/termodynamika-mibm/6655190"
+    },
+    {
+      "name": "Transport i towaroznawstwo produktów spożywczych",
+      "code": "O:093653",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/transport-i-towaroznawstwo-produktow-spozywczych/4087564"
+    },
+    {
+      "name": "Urządzenia okrętowe",
+      "code": "O:091590",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/urzadzenia-okretowe/4236193"
+    },
+    {
+      "name": "Walenie Gruchy",
+      "code": "HUJ69W",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/walenie-gruchy/4410116"
+    },
+    {
+      "name": "Wprowadzenie do mikro i makro ekonomii",
+      "code": "MIKR 111",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/wprowadzenie-do-mikro-i-makro-ekonomii/4339369"
+    },
+    {
+      "name": "Wprowadzenie do mikro i makroekonomii",
+      "code": "PG_00040554",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/wprowadzenie-do-mikro-i-makroekonomii/6507308"
+    },
+    {
+      "name": "Współczesne zastosowania technik spektroskopowych",
+      "code": "PG_00040974",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/wspolczesne-zastosowania-technik-spektroskopowych/3597896"
+    },
+    {
+      "name": "Wstęp do technologii betonu",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/wstep-do-technologii-betonu/7396316"
+    },
+    {
+      "name": "Wycena nieruchomości",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/wycena-nieruchomosci/7692177"
+    },
+    {
+      "name": "Wymiana ciepła",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/wymiana-ciepla/4091809"
+    },
+    {
+      "name": "Wytrzymałość materiałów",
+      "code": "O:091133",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/wytrzymalosc-materialow/4093270"
+    },
+    {
+      "name": "WYTRZYMAŁOŚĆ MATERIAŁÓW DLA ZiIP",
+      "code": "PG_00021427",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/wytrzymalosc-materialow-dla-ziip/3598016"
+    },
+    {
+      "name": "Wyznaczanie charakterystyki sprężyny śrubowej",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/wyznaczanie-charakterystyki-sprezyny-srubowej/6179713"
+    },
+    {
+      "name": "Zachowania organizacyjne",
+      "code": "PG_00037640",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/zachowania-organizacyjne/3597800"
+    },
+    {
+      "name": "Zachowania Organizacyjne",
+      "code": "PG_00037982",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/zachowania-organizacyjne/3597938"
+    },
+    {
+      "name": "Zamówienia publiczne",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/zamowienia-publiczne/6738528"
+    },
+    {
+      "name": "Zarządzanie",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/zarzadzanie/4059614"
+    },
+    {
+      "name": "Zarządzanie Bezpieczeństwem Informacji",
+      "code": "PG_00038007",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/zarzadzanie-bezpieczenstwem-informacji/3597971"
+    },
+    {
+      "name": "Zarządzanie Eksploatacją Systemów Technicznych",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/zarzadzanie-eksploatacja-systemow-technicznych/4034108"
+    },
+    {
+      "name": "Zarządzanie finansami przedsiębiorstwa",
+      "code": "PG_00037850",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/zarzadzanie-finansami-przedsiebiorstwa/3597827"
+    },
+    {
+      "name": "Zarządzanie firm transportowych",
+      "code": "O:093500",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/zarzadzanie-firm-transportowych/4098011"
+    },
+    {
+      "name": "Zarządzanie Jakością Produkcji",
+      "code": "PG_00037983",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/zarzadzanie-jakoscia-produkcji/3597936"
+    },
+    {
+      "name": "Zarządzanie międzynarodowe",
+      "code": "PG_00037838",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/zarzadzanie-miedzynarodowe/3597831"
+    },
+    {
+      "name": "Zarządzanie operacyjne w transporcie",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/zarzadzanie-operacyjne-w-transporcie/4091814"
+    },
+    {
+      "name": "Zarządzanie Produkcją",
+      "code": "PG_00037979",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/zarzadzanie-produkcja/3597941"
+    },
+    {
+      "name": "Zarządzanie Programami I Projektami Innowacyjnymi",
+      "code": "PG_00038019",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/zarzadzanie-programami-i-projektami-innowacyjnymi/3597967"
+    },
+    {
+      "name": "Zarządzanie Projektami Strategicznymi",
+      "code": "PG_00038008",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/zarzadzanie-projektami-strategicznymi/3597973"
+    },
+    {
+      "name": "Zarządzanie Ryzykiem I Bezpieczeństwem w Przedsiębiorstwie",
+      "code": "PG_00038021",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/zarzadzanie-ryzykiem-i-bezpieczenstwem-w-przedsiebiorstwie/3597968"
+    },
+    {
+      "name": "Zarządzanie Strategiczne",
+      "code": "PG_00037968",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/zarzadzanie-strategiczne/3597957"
+    },
+    {
+      "name": "Zarządzanie Zasobami Ludzkimi",
+      "code": "PG_00037984",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/zarzadzanie-zasobami-ludzkimi/3597940"
+    },
+    {
+      "name": "Zarządzanie zasobami ludzkimi w przedsiębiorstwach społecznych",
+      "code": "PG_00037829",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/zarzadzanie-zasobami-ludzkimi-w-przedsiebiorstwach-spolecznych/3597823"
+    },
+    {
+      "name": "Zarządzanie Zmianą I Wartością w Przedsiębiorstwie",
+      "code": "PG_00038006",
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/zarzadzanie-zmiana-i-wartoscia-w-przedsiebiorstwie/3597974"
+    },
+    {
+      "name": "Ładunkoznawstwo",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-gdanska/ladunkoznawstwo/4093091"
+    }
+  ]
+}

@@ -1,0 +1,2826 @@
+{
+  "university_id": "8972",
+  "university_name": "Chalmers tekniska högskola",
+  "courses": [
+    {
+      "name": "Advanced Algorithms",
+      "code": "DIT251",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/advanced-algorithms/7436436"
+    },
+    {
+      "name": "Advanced programming in Python",
+      "code": "DAT515",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/advanced-programming-in-python/6561604"
+    },
+    {
+      "name": "Advanced User Studies",
+      "code": "IMS015",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/advanced-user-studies/7640508"
+    },
+    {
+      "name": "Advanced wastewater engineering",
+      "code": "ACE040",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/advanced-wastewater-engineering/5176274"
+    },
+    {
+      "name": "Affärsdriven produktutveckling",
+      "code": "TEK265",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/affarsdriven-produktutveckling/1290229"
+    },
+    {
+      "name": "Affärsjuridik",
+      "code": "TEK520",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/affarsjuridik/4854593"
+    },
+    {
+      "name": "Affärsutveckling och entreprenörskap",
+      "code": "TEK575",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/affarsutveckling-och-entreprenorskap/5072129"
+    },
+    {
+      "name": "Agile development processes",
+      "code": "EDA397",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/agile-development-processes/1290248"
+    },
+    {
+      "name": "Agile software project management",
+      "code": "DAT257",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/agile-software-project-management/6669328"
+    },
+    {
+      "name": "Algorithms",
+      "code": "TIN093",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/algorithms/3450981"
+    },
+    {
+      "name": "Algorithms for machine learning and inference",
+      "code": "TDA231",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/algorithms-for-machine-learning-and-inference/1290256"
+    },
+    {
+      "name": "Algoritmer och datastrukturer",
+      "code": "LET375",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/algoritmer-och-datastrukturer/1290258"
+    },
+    {
+      "name": "Analys i flera variabler",
+      "code": "MVE600",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/analys-i-flera-variabler/5293225"
+    },
+    {
+      "name": "Analysera lärande",
+      "code": "MVE380",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/analysera-larande/1290290"
+    },
+    {
+      "name": "Antennteknik",
+      "code": "SSY100",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/antennteknik/1290278"
+    },
+    {
+      "name": "Applied object oriented programming",
+      "code": "EEN065",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/applied-object-oriented-programming/7048126"
+    },
+    {
+      "name": "Applied signal processing",
+      "code": "SSY130",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/applied-signal-processing/1290282"
+    },
+    {
+      "name": "Arkitektur historia",
+      "code": "ACE250",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/arkitektur-historia/7583584"
+    },
+    {
+      "name": "Arkitektur och stadsbyggande: En kulturhistorisk orientering",
+      "code": "ATH100",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/arkitektur-och-stadsbyggande-en-kulturhistorisk-orientering/1290303"
+    },
+    {
+      "name": "Arkitektur och teknikhistoria",
+      "code": "ARK201",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/arkitektur-och-teknikhistoria/1290309"
+    },
+    {
+      "name": "Arkitektur, miljö och hållbar utveckling",
+      "code": "ARK252",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/arkitektur-miljo-och-hallbar-utveckling/1290319"
+    },
+    {
+      "name": "Arkitekturhistoria",
+      "code": "ATH061",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/arkitekturhistoria/1290323"
+    },
+    {
+      "name": "Armerad och förspänd betong",
+      "code": "VBB072",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/armerad-och-forspand-betong/1290329"
+    },
+    {
+      "name": "Artificial neural networks",
+      "code": "FFR135",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/artificial-neural-networks/1290347"
+    },
+    {
+      "name": "Artificiell intelligens",
+      "code": "TIN172",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/artificiell-intelligens/1290333"
+    },
+    {
+      "name": "astighetsutvecklingens förutsättningar och spelregler",
+      "code": "ACE175",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/astighetsutvecklingens-forutsattningar-och-spelregler/6044749"
+    },
+    {
+      "name": "Astropartikelfysik",
+      "code": "FKA175",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/astropartikelfysik/1290335"
+    },
+    {
+      "name": "Automatic control",
+      "code": "SSY051",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/automatic-control/3408195"
+    },
+    {
+      "name": "Automatiseringsteknik",
+      "code": "LMT107",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/automatiseringsteknik/1290339"
+    },
+    {
+      "name": "Avancerad CAD",
+      "code": "PPU080",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/avancerad-cad/1290349"
+    },
+    {
+      "name": "Ändliga automater och formella språk",
+      "code": "TMV027",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/andliga-automater-och-formella-sprak/1290280"
+    },
+    {
+      "name": "Beräkningsmatematik",
+      "code": "BOM450",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/berakningsmatematik/4173346"
+    },
+    {
+      "name": "Beräkningsmatematik",
+      "code": "MVE450",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/berakningsmatematik/4400901"
+    },
+    {
+      "name": "Beräkningsmatematik fortsättningskurs",
+      "code": "MVE515",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/berakningsmatematik-fortsattningskurs/5161499"
+    },
+    {
+      "name": "Beräkningsmetoder inom strömningsmekanik (CFD)",
+      "code": "MTF072",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/berakningsmetoder-inom-stromningsmekanik-cfd/1290400"
+    },
+    {
+      "name": "Bildbehandling",
+      "code": "RRY025",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/bildbehandling/1290408"
+    },
+    {
+      "name": "Biochemistry and molecular biology",
+      "code": "KBB032",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/biochemistry-and-molecular-biology/1290412"
+    },
+    {
+      "name": "Biofysikalisk kemi",
+      "code": "KFK021",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/biofysikalisk-kemi/1290410"
+    },
+    {
+      "name": "Biokemisk miljövetenskap",
+      "code": "KKM080",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/biokemisk-miljovetenskap/1290414"
+    },
+    {
+      "name": "Biokemisk toxikologi",
+      "code": "KBB101",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/biokemisk-toxikologi/1290418"
+    },
+    {
+      "name": "Biologi 1",
+      "code": "BIOBIO01",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/biologi-1/5909337"
+    },
+    {
+      "name": "Bionanoteknik",
+      "code": "KFK181",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/bionanoteknik/1290426"
+    },
+    {
+      "name": "Bioreaktionsteknik",
+      "code": "KKR090",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/bioreaktionsteknik/1290434"
+    },
+    {
+      "name": "Business marketing and purchasing",
+      "code": "TEK261",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/business-marketing-and-purchasing/1290448"
+    },
+    {
+      "name": "Business strategy",
+      "code": null,
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/business-strategy/3235412"
+    },
+    {
+      "name": "Byggnad och Klimat",
+      "code": "ARK207",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/byggnad-och-klimat/4865374"
+    },
+    {
+      "name": "Byggnad och Struktur",
+      "code": "ARK218",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/byggnad-och-struktur/4865375"
+    },
+    {
+      "name": "Byggnaden som system",
+      "code": "ARK481",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/byggnaden-som-system/1290450"
+    },
+    {
+      "name": "Byggnaders funktioner och utformning",
+      "code": "BOM205",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/byggnaders-funktioner-och-utformning/4173341"
+    },
+    {
+      "name": "byggnadsfysik och byggnadsakustik",
+      "code": "BOM365",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/byggnadsfysik-och-byggnadsakustik/4499030"
+    },
+    {
+      "name": "Byggnadsfysik, inneklimat och tekniska system",
+      "code": "BOM101",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/byggnadsfysik-inneklimat-och-tekniska-system/1290460"
+    },
+    {
+      "name": "Byggnadsmaterial",
+      "code": "VBF056",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/byggnadsmaterial/1290472"
+    },
+    {
+      "name": "Byggnadsmaterial",
+      "code": "BOM195",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/byggnadsmaterial/4173343"
+    },
+    {
+      "name": "Byggnadsteknologi",
+      "code": "BOM265",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/byggnadsteknologi/3515811"
+    },
+    {
+      "name": "Byggproduktionsledning och logistik",
+      "code": "BOM295",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/byggproduktionsledning-och-logistik/7401681"
+    },
+    {
+      "name": "Byggteknik",
+      "code": "VHU501",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/byggteknik/1290468"
+    },
+    {
+      "name": "Bärande konstruktion",
+      "code": "BOM580",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/barande-konstruktion/4368541"
+    },
+    {
+      "name": "CAD för ytmodellering, avancerad kurs",
+      "code": "MPP020",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/cad-for-ytmodellering-avancerad-kurs/1290478"
+    },
+    {
+      "name": "Cell- och molekylärbiologi 2",
+      "code": "KMG050",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/cell-och-molekylarbiologi-2/1290500"
+    },
+    {
+      "name": "Chalmers formula student",
+      "code": "TME047",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/chalmers-formula-student/1290486"
+    },
+    {
+      "name": "Change Management & Improvement Processes",
+      "code": "TEK430",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/change-management-improvement-processes/1290482"
+    },
+    {
+      "name": "Cognitive ergonomics",
+      "code": "MPP036",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/cognitive-ergonomics/1290520"
+    },
+    {
+      "name": "compsience",
+      "code": "dd1351",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/compsience/6706927"
+    },
+    {
+      "name": "Computational fluid dynamics for engineers (CFD)",
+      "code": "KKR072",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/computational-fluid-dynamics-for-engineers-cfd/1290488"
+    },
+    {
+      "name": "Computational methods in bioinformatics",
+      "code": "TDA507",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/computational-methods-in-bioinformatics/1290490"
+    },
+    {
+      "name": "Computer Arcitechture",
+      "code": "DAT105",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/computer-arcitechture/4458726"
+    },
+    {
+      "name": "Computer Communication",
+      "code": "EDA344",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/computer-communication/4458754"
+    },
+    {
+      "name": "Computer security",
+      "code": "EDA263",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/computer-security/4458727"
+    },
+    {
+      "name": "Constraint Programming and Applied Optimization",
+      "code": "EEN025",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/constraint-programming-and-applied-optimization/7461273"
+    },
+    {
+      "name": "Construction Logistics and Supply Chain Management",
+      "code": "ACE130",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/construction-logistics-and-supply-chain-management/6434949"
+    },
+    {
+      "name": "Corporate finance",
+      "code": "TEK755",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/corporate-finance/5905572"
+    },
+    {
+      "name": "Creating new business",
+      "code": "TEK010",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/creating-new-business/1290502"
+    },
+    {
+      "name": "Customer Relationship Management",
+      "code": "TEK970",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/customer-relationship-management/6685372"
+    },
+    {
+      "name": "Customer Relationships",
+      "code": "TEK116",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/customer-relationships/1290510"
+    },
+    {
+      "name": "Data Communication",
+      "code": "EDA343",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/data-communication/4458763"
+    },
+    {
+      "name": "Databaser",
+      "code": "TDA357",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/databaser/1290508"
+    },
+    {
+      "name": "Datastrukturer",
+      "code": "DAT037",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/datastrukturer/1290549"
+    },
+    {
+      "name": "Datastrukturer och algoritmer",
+      "code": "TDA416",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/datastrukturer-och-algoritmer/1290524"
+    },
+    {
+      "name": "Datastrukturer och algoritmer",
+      "code": "TDA417",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/datastrukturer-och-algoritmer/6765814"
+    },
+    {
+      "name": "Datatekniskt projekt",
+      "code": "DAT290",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/datatekniskt-projekt/1290514"
+    },
+    {
+      "name": "Datorsystemteknik",
+      "code": "EDA331",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/datorsystemteknik/1290535"
+    },
+    {
+      "name": "Deep Foundations",
+      "code": "ACE060",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/deep-foundations/7705377"
+    },
+    {
+      "name": "Den byggda miljönsvärde",
+      "code": "ARK660",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/den-byggda-miljonsvarde/7355992"
+    },
+    {
+      "name": "Design and analysis of experiments",
+      "code": "KBT121",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/design-and-analysis-of-experiments/7210315"
+    },
+    {
+      "name": "Design and analysis of experiments",
+      "code": "KBT120",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/design-and-analysis-of-experiments/1290530"
+    },
+    {
+      "name": "Design av linjära reglersystem",
+      "code": "SSY285",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/design-av-linjara-reglersystem/1290547"
+    },
+    {
+      "name": "Design for extreme environments",
+      "code": "ARK271",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/design-for-extreme-environments/1290558"
+    },
+    {
+      "name": "Design for quality",
+      "code": "TEK161",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/design-for-quality/1290552"
+    },
+    {
+      "name": "Design management",
+      "code": "BOM180",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/design-management/1290560"
+    },
+    {
+      "name": "Design management",
+      "code": "BOM186",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/design-management/7078262"
+    },
+    {
+      "name": "Design och innovation",
+      "code": "TEK495",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/design-och-innovation/1290562"
+    },
+    {
+      "name": "Design och konstruktion av grafiska gränssnitt",
+      "code": "DAT216",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/design-och-konstruktion-av-grafiska-granssnitt/1290566"
+    },
+    {
+      "name": "Differentialevatkoner",
+      "code": "MVE680",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/differentialevatkoner/7391473"
+    },
+    {
+      "name": "Digital Design",
+      "code": "EDA322",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/digital-design/7492509"
+    },
+    {
+      "name": "Digital och datorteknik",
+      "code": "LEU431",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/digital-och-datorteknik/1290585"
+    },
+    {
+      "name": "Digital- och datorteknik",
+      "code": "EDA216",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/digital-och-datorteknik/1290583"
+    },
+    {
+      "name": "Digitala verktyg",
+      "code": "ARK092",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/digitala-verktyg/1290587"
+    },
+    {
+      "name": "Diskret matematik",
+      "code": "tmv200",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/diskret-matematik/6815084"
+    },
+    {
+      "name": "Distribution economy and structure",
+      "code": "TEK325",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/distribution-economy-and-structure/1290597"
+    },
+    {
+      "name": "Dricksvattenteknik",
+      "code": "BOM075",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/dricksvattenteknik/1290613"
+    },
+    {
+      "name": "Dynamiska system med reglerteknik",
+      "code": "LEU236",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/dynamiska-system-med-reglerteknik/1290617"
+    },
+    {
+      "name": "Economics of innovation",
+      "code": "TEK910",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/economics-of-innovation/5904974"
+    },
+    {
+      "name": "Effektiva byggproduktionsprocesser",
+      "code": "BOM025",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/effektiva-byggproduktionsprocesser/1290621"
+    },
+    {
+      "name": "Ekonomi & organisation",
+      "code": "LMU450",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/ekonomi-organisation/1290626"
+    },
+    {
+      "name": "Ekonomi och organisation i byggsektorn",
+      "code": "BOM225",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/ekonomi-och-organisation-i-byggsektorn/3515822"
+    },
+    {
+      "name": "Ekonomi och organisation i byggsektorn fortsättning",
+      "code": "TEK525",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/ekonomi-och-organisation-i-byggsektorn-fortsattning/4854595"
+    },
+    {
+      "name": "Ekonomi- och verksamhetsstyrning",
+      "code": "LBT431",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/ekonomi-och-verksamhetsstyrning/1290634"
+    },
+    {
+      "name": "Ekonomisk analys",
+      "code": "TEK375",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/ekonomisk-analys/5857171"
+    },
+    {
+      "name": "Ekonomisk analys 1: Ekonomisk kalkylering och styrning",
+      "code": "IDY023",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/ekonomisk-analys-1-ekonomisk-kalkylering-och-styrning/1290638"
+    },
+    {
+      "name": "Ekonomisk analys 2: Externanalys",
+      "code": "IDY029",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/ekonomisk-analys-2-externanalys/1290648"
+    },
+    {
+      "name": "Ekonomisk analys 3: Innovationsekonomi",
+      "code": "IOE011",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/ekonomisk-analys-3-innovationsekonomi/1290640"
+    },
+    {
+      "name": "Ekonomistyrning",
+      "code": "TEK396",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/ekonomistyrning/3518194"
+    },
+    {
+      "name": "Ekonomistyrning i byggsektorn",
+      "code": "BOM225",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/ekonomistyrning-i-byggsektorn/7271545"
+    },
+    {
+      "name": "El- och reglerteknik",
+      "code": "SSY295",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/el-och-reglerteknik/5947078"
+    },
+    {
+      "name": "Electrical Machines – Design and Analysis",
+      "code": "ENM056",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/electrical-machines-design-and-analysis/3458924"
+    },
+    {
+      "name": "Elektrisk mätteknik",
+      "code": "EOE055",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/elektrisk-matteknik/6519919"
+    },
+    {
+      "name": "Elektrisk mätteknik och vågfysik",
+      "code": "FFY616",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/elektrisk-matteknik-och-vagfysik/1290650"
+    },
+    {
+      "name": "Elektriska drivsystem och fält",
+      "code": "EEN155",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/elektriska-drivsystem-och-falt/6964869"
+    },
+    {
+      "name": "Elektriska kretsar",
+      "code": "SEE055",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/elektriska-kretsar/5270269"
+    },
+    {
+      "name": "Elektriska kretsar och fält",
+      "code": "EEM076",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/elektriska-kretsar-och-falt/1290660"
+    },
+    {
+      "name": "Elektriska mätsystem och mätmetoder",
+      "code": "LET271",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/elektriska-matsystem-och-matmetoder/1290666"
+    },
+    {
+      "name": "Elektromagnetiska beräkningar",
+      "code": "SSY200",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/elektromagnetiska-berakningar/1290674"
+    },
+    {
+      "name": "Elektromagnetiska fält",
+      "code": "EEM015",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/elektromagnetiska-falt/1290682"
+    },
+    {
+      "name": "Elektroniksystem",
+      "code": "SSY011",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/elektroniksystem/6713723"
+    },
+    {
+      "name": "Elinstallation med författningskunskap",
+      "code": "MTT060",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/elinstallation-med-forfattningskunskap/1290692"
+    },
+    {
+      "name": "Elkraftsteknik",
+      "code": "EEK565",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/elkraftsteknik/1290686"
+    },
+    {
+      "name": "Embedded Electronic",
+      "code": "IE1206",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/embedded-electronic/7086771"
+    },
+    {
+      "name": "Empirisk programvaruteknik",
+      "code": "DAT246",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/empirisk-programvaruteknik/1290696"
+    },
+    {
+      "name": "Energi och hållbar utveckling",
+      "code": "LMS893",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/energi-och-hallbar-utveckling/1290701"
+    },
+    {
+      "name": "Engelska för ingenjörsstudenter",
+      "code": "FSP046",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/engelska-for-ingenjorsstudenter/1290727"
+    },
+    {
+      "name": "Envariabelanalys",
+      "code": "MVE460",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/envariabelanalys/4854735"
+    },
+    {
+      "name": "Ergonomics design for all",
+      "code": "PPU185",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/ergonomics-design-for-all/1290739"
+    },
+    {
+      "name": "Examensarbete för sjöbefälsprogrammen",
+      "code": "SJOX07",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/examensarbete-for-sjobefalsprogrammen/1290741"
+    },
+    {
+      "name": "Examensarbete vid Arkitektur",
+      "code": "ARKX04",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/examensarbete-vid-arkitektur/1290743"
+    },
+    {
+      "name": "Examensarbete vid Bygg- och miljöteknik",
+      "code": "BOMX03",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/examensarbete-vid-bygg-och-miljoteknik/1290755"
+    },
+    {
+      "name": "Examensarbete vid Data- och informationsteknik",
+      "code": "LMTX38",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/examensarbete-vid-data-och-informationsteknik/1290749"
+    },
+    {
+      "name": "Examensarbete vid Kemi- och bioteknik",
+      "code": "KBTX09",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/examensarbete-vid-kemi-och-bioteknik/1290751"
+    },
+    {
+      "name": "Examensarbete vid Kemi- och bioteknik",
+      "code": "KBTX08",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/examensarbete-vid-kemi-och-bioteknik/1290753"
+    },
+    {
+      "name": "Examensarbete vid Produkt- och produktionsutveckling",
+      "code": "PPUX01",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/examensarbete-vid-produkt-och-produktionsutveckling/1290769"
+    },
+    {
+      "name": "Examensarbete vid Teknikens ekonomi och organisation",
+      "code": "TEKX01",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/examensarbete-vid-teknikens-ekonomi-och-organisation/1290767"
+    },
+    {
+      "name": "Experimentell fysik 1 - mätteknik",
+      "code": "TIF081",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/experimentell-fysik-1-matteknik/1290781"
+    },
+    {
+      "name": "Experimentell fysik 2 - bas",
+      "code": "TIF090",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/experimentell-fysik-2-bas/1290773"
+    },
+    {
+      "name": "Fartygs befraktning, operation och ship management",
+      "code": "LNC351",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/fartygs-befraktning-operation-och-ship-management/1290785"
+    },
+    {
+      "name": "Fasta tillståndets fysik",
+      "code": "FFY012",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/fasta-tillstandets-fysik/1290793"
+    },
+    {
+      "name": "Fastighets- och entreprenadjuridik",
+      "code": "LBT117",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/fastighets-och-entreprenadjuridik/1290801"
+    },
+    {
+      "name": "Fastighetsekonomi",
+      "code": "BOM135",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/fastighetsekonomi/1290795"
+    },
+    {
+      "name": "Fastighetsrätt och entreprenadjuridik",
+      "code": "ARK530",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/fastighetsratt-och-entreprenadjuridik/5705154"
+    },
+    {
+      "name": "Fastighetsutveckling",
+      "code": "LBT201",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/fastighetsutveckling/1290803"
+    },
+    {
+      "name": "Fastighetsutvecklingens förutsättningar och spelregler",
+      "code": "ACE280",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/fastighetsutvecklingens-forutsattningar-och-spelregler/7118463"
+    },
+    {
+      "name": "Finansiell analys",
+      "code": "TEK341",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/finansiell-analys/5927291"
+    },
+    {
+      "name": "Finansiell analys och företagsvärdering",
+      "code": "TEK730",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/finansiell-analys-och-foretagsvardering/4591492"
+    },
+    {
+      "name": "Finansiell analys och företagsvärdering",
+      "code": "TEK945",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/finansiell-analys-och-foretagsvardering/6030839"
+    },
+    {
+      "name": "Finansiell risk",
+      "code": "MVE220",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/finansiell-risk/1290817"
+    },
+    {
+      "name": "Finansiell styrning",
+      "code": "TEK950",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/finansiell-styrning/6030838"
+    },
+    {
+      "name": "Finit elementmetod (FEM)",
+      "code": "MHA021",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/finit-elementmetod-fem/1290815"
+    },
+    {
+      "name": "Flervariabelanalys",
+      "code": "TMA044",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/flervariabelanalys/4458690"
+    },
+    {
+      "name": "Flervariabelanalys",
+      "code": "MVE270",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/flervariabelanalys/5956048"
+    },
+    {
+      "name": "Flervariabelmatematik",
+      "code": "MVE041",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/flervariabelmatematik/1290843"
+    },
+    {
+      "name": "Form och teknik",
+      "code": "AFT077",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/form-och-teknik/1290876"
+    },
+    {
+      "name": "Fouriermetoder",
+      "code": "MVE290",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/fouriermetoder/1290892"
+    },
+    {
+      "name": "Freight transport systems",
+      "code": "TEK122",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/freight-transport-systems/1290912"
+    },
+    {
+      "name": "Fysik för basår",
+      "code": "LMA538",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/fysik-for-basar/4864900"
+    },
+    {
+      "name": "Fysik för ingenjörer",
+      "code": "TIF222",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/fysik-for-ingenjorer/6847247"
+    },
+    {
+      "name": "Fysik för ingenjörer 1: Fysik för hållbar utveckling",
+      "code": "TIF190",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/fysik-for-ingenjorer-1-fysik-for-hallbar-utveckling/1290921"
+    },
+    {
+      "name": "Fysik för ingenjörer 2: Elektromagnetism och modern fysik",
+      "code": "TIF220",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/fysik-for-ingenjorer-2-elektromagnetism-och-modern-fysik/1290923"
+    },
+    {
+      "name": "Fysikingenjörens verktyg",
+      "code": "TIF275",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/fysikingenjorens-verktyg/1290957"
+    },
+    {
+      "name": "Företagsekonomi: Redovisning",
+      "code": "SJO185",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/foretagsekonomi-redovisning/1290864"
+    },
+    {
+      "name": "Genus och teknik",
+      "code": "ITS065",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/genus-och-teknik/1290975"
+    },
+    {
+      "name": "Geografiska informationssystem (GIS)",
+      "code": "VVT105",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/geografiska-informationssystem-gis/1290959"
+    },
+    {
+      "name": "Geotechnics",
+      "code": "ACE235",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/geotechnics/7184927"
+    },
+    {
+      "name": "Geoteknik",
+      "code": "Bom365",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/geoteknik/5717828"
+    },
+    {
+      "name": "Geoteknik med grundläggning",
+      "code": "VGG022",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/geoteknik-med-grundlaggning/1290968"
+    },
+    {
+      "name": "Givare och don",
+      "code": "LEU029",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/givare-och-don/1290977"
+    },
+    {
+      "name": "Global chemical sustainability",
+      "code": "KBT140",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/global-chemical-sustainability/1290970"
+    },
+    {
+      "name": "Globala frågor inom hållbar utveckling",
+      "code": "BMT010",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/globala-fragor-inom-hallbar-utveckling/1290973"
+    },
+    {
+      "name": "Grundkurs i matematisk statistik och bioinformatik",
+      "code": "TMS145",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/grundkurs-i-matematisk-statistik-och-bioinformatik/1291026"
+    },
+    {
+      "name": "Grundkurs i projektledning",
+      "code": "TEK935",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/grundkurs-i-projektledning/5930141"
+    },
+    {
+      "name": "Grundläggande datorteknik",
+      "code": "EDA433",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/grundlaggande-datorteknik/5979342"
+    },
+    {
+      "name": "Grundläggande fastighetsrätt och entreprenadjuridik",
+      "code": "ARK545",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/grundlaggande-fastighetsratt-och-entreprenadjuridik/4744497"
+    },
+    {
+      "name": "grundläggande kemi, fysik och akustik",
+      "code": "BOM290",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/grundlaggande-kemi-fysik-och-akustik/4544833"
+    },
+    {
+      "name": "Grundläggande kemiteknik",
+      "code": "KAA146",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/grundlaggande-kemiteknik/1291001"
+    },
+    {
+      "name": "Grundläggande lasthantering och fartygsstabilitet",
+      "code": "SJO192",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/grundlaggande-lasthantering-och-fartygsstabilitet/1291007"
+    },
+    {
+      "name": "Grundläggande Logistik",
+      "code": "Tek707",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/grundlaggande-logistik/7722521"
+    },
+    {
+      "name": "Grundläggande programmeringsteknik",
+      "code": "TDA144",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/grundlaggande-programmeringsteknik/5981059"
+    },
+    {
+      "name": "grundläggande programvaruutveckling",
+      "code": "TDA548",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/grundlaggande-programvaruutveckling/4327813"
+    },
+    {
+      "name": "Grundläggande stokastiska processer",
+      "code": "MVE170",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/grundlaggande-stokastiska-processer/1291011"
+    },
+    {
+      "name": "Handelsrätt",
+      "code": "SJO150",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/handelsratt/1291060"
+    },
+    {
+      "name": "Hantering av Varumärkesidentiteter",
+      "code": "TEK211",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/hantering-av-varumarkesidentiteter/1291068"
+    },
+    {
+      "name": "Hydrogeology",
+      "code": "ACE080",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/hydrogeology/6658009"
+    },
+    {
+      "name": "Hydrogeology and Geotechnics",
+      "code": "BOM325",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/hydrogeology-and-geotechnics/5165392"
+    },
+    {
+      "name": "Hydrologi och dagvatten",
+      "code": "ace185",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/hydrologi-och-dagvatten/5354370"
+    },
+    {
+      "name": "Hållbar produktutveckling",
+      "code": "MEN126",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/hallbar-produktutveckling/1291023"
+    },
+    {
+      "name": "Hållbar utveckling",
+      "code": "BOM280",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/hallbar-utveckling/4373989"
+    },
+    {
+      "name": "Hållbar utveckling - kritiska perspektiv & möjliga lösningar",
+      "code": "FFR102",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/hallbar-utveckling-kritiska-perspektiv-mojliga-losningar/1291020"
+    },
+    {
+      "name": "Hållbar utveckling, etik och ingenjörens ansvar",
+      "code": "TEK336",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/hallbar-utveckling-etik-och-ingenjorens-ansvar/5927288"
+    },
+    {
+      "name": "Hållbarhetsomställning",
+      "code": "TEK940",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/hallbarhetsomstallning/7076293"
+    },
+    {
+      "name": "Hållfasthetslära",
+      "code": "MTM026",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/hallfasthetslara/7248449"
+    },
+    {
+      "name": "Hållfasthetslära",
+      "code": "TME300",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/hallfasthetslara/3515834"
+    },
+    {
+      "name": "Hållfasthetslära, fortsättningskurs",
+      "code": "LMU111",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/hallfasthetslara-fortsattningskurs/1291046"
+    },
+    {
+      "name": "Högspänningsteknik 1",
+      "code": "MTT035",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/hogspanningsteknik-1/1291070"
+    },
+    {
+      "name": "Högspänningsteknik 2",
+      "code": "MTT040",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/hogspanningsteknik-2/1291077"
+    },
+    {
+      "name": "Icke-jämviktsprocesser i fysik, kemi och biologi",
+      "code": "TIF106",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/icke-jamviktsprocesser-i-fysik-kemi-och-biologi/1291087"
+    },
+    {
+      "name": "ICT economics and policy",
+      "code": "TEK320",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/ict-economics-and-policy/1291118"
+    },
+    {
+      "name": "Image analysis",
+      "code": "SSY097",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/image-analysis/3408035"
+    },
+    {
+      "name": "Immaterialrättsliga strategier",
+      "code": "CIP058",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/immaterialrattsliga-strategier/1291093"
+    },
+    {
+      "name": "Inbyggda styrsystem",
+      "code": "SSY190",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/inbyggda-styrsystem/1291095"
+    },
+    {
+      "name": "Individual project in mathematics and mathematical statistics",
+      "code": "MVE405",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/individual-project-in-mathematics-and-mathematical-statistics/1291103"
+    },
+    {
+      "name": "Individuell kurs i systemteknik, reglerteknik och mekatronik 1",
+      "code": "SSY240",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/individuell-kurs-i-systemteknik-reglerteknik-och-mekatronik-1/1291112"
+    },
+    {
+      "name": "Industrial management",
+      "code": "TEK250",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/industrial-management/1291116"
+    },
+    {
+      "name": "Industriell Ekonomi",
+      "code": "TEK925",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/industriell-ekonomi/5313850"
+    },
+    {
+      "name": "Industriell ekonomi",
+      "code": "IEK 102",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/industriell-ekonomi/3412163"
+    },
+    {
+      "name": "Industriell ekonomi och organisation",
+      "code": "TEK720",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/industriell-ekonomi-och-organisation/6695199"
+    },
+    {
+      "name": "Industriell marknadsföring",
+      "code": "IMA044",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/industriell-marknadsforing/1291130"
+    },
+    {
+      "name": "Industriell matematik och statistik",
+      "code": "LMA136",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/industriell-matematik-och-statistik/1291134"
+    },
+    {
+      "name": "Industriell produktion och organisation",
+      "code": "TEK440",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/industriell-produktion-och-organisation/1291132"
+    },
+    {
+      "name": "Industriell verksamhet och organisation",
+      "code": "TEK690",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/industriell-verksamhet-och-organisation/6799723"
+    },
+    {
+      "name": "Industriell verksamhetsutveckling i teori och praktik",
+      "code": "TEK691",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/industriell-verksamhetsutveckling-i-teori-och-praktik/7402210"
+    },
+    {
+      "name": "Information theory, advanced level",
+      "code": "SSY210",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/information-theory-advanced-level/1291145"
+    },
+    {
+      "name": "Informationssystem",
+      "code": "IKA096",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/informationssystem/1291153"
+    },
+    {
+      "name": "Infrastruktur",
+      "code": "BOM360",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/infrastruktur/6916751"
+    },
+    {
+      "name": "Ingenjören och samhället",
+      "code": "TEK390",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/ingenjoren-och-samhallet/1291155"
+    },
+    {
+      "name": "Ingenjörsmetodik",
+      "code": "MMF 175",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/ingenjorsmetodik/3441770"
+    },
+    {
+      "name": "Ingenjörsmetodik CAD",
+      "code": "BOM240",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/ingenjorsmetodik-cad/7566313"
+    },
+    {
+      "name": "Ingenjörssmetodik",
+      "code": "TEK345",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/ingenjorssmetodik/1291172"
+    },
+    {
+      "name": "Inledanade matematik E",
+      "code": "TMV156",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/inledanade-matematik-e/4458689"
+    },
+    {
+      "name": "Inledande cell- och molekylärbiologi",
+      "code": "UCM010",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/inledande-cell-och-molekylarbiologi/1291165"
+    },
+    {
+      "name": "Inledande diskret matematik",
+      "code": "TMV210",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/inledande-diskret-matematik/1291167"
+    },
+    {
+      "name": "inledande matematik",
+      "code": "MVE 530",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/inledande-matematik/7358944"
+    },
+    {
+      "name": "Inledande matematik I",
+      "code": "MVE012",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/inledande-matematik-i/3407702"
+    },
+    {
+      "name": "Inledande matematisk analys",
+      "code": "MVE475",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/inledande-matematisk-analys/5993770"
+    },
+    {
+      "name": "Inledande matematisk analys",
+      "code": "TMA970",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/inledande-matematisk-analys/1291178"
+    },
+    {
+      "name": "Inledande matematisk analys",
+      "code": "MVE595",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/inledande-matematisk-analys/4370453"
+    },
+    {
+      "name": "Inledande teknisk kommunikation",
+      "code": "FKA150",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/inledande-teknisk-kommunikation/1291180"
+    },
+    {
+      "name": "Innovation and industry dynamics",
+      "code": "TEK911",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/innovation-and-industry-dynamics/7349330"
+    },
+    {
+      "name": "Innovation systems and sociotechnical change",
+      "code": "TEK665",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/innovation-systems-and-sociotechnical-change/5903239"
+    },
+    {
+      "name": "Innovationsekonomi",
+      "code": "IOE012",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/innovationsekonomi/5938389"
+    },
+    {
+      "name": "Instalationsteknik",
+      "code": "bom330",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/instalationsteknik/5870811"
+    },
+    {
+      "name": "Installationsteknik",
+      "code": "LBT053",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/installationsteknik/1291199"
+    },
+    {
+      "name": "Integrated product development",
+      "code": "TEK150",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/integrated-product-development/1291189"
+    },
+    {
+      "name": "Integrerad konstruktion & tillverkning",
+      "code": "PPU175",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/integrerad-konstruktion-tillverkning/1291212"
+    },
+    {
+      "name": "Integrerad produktionsorganisation",
+      "code": "TEK385",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/integrerad-produktionsorganisation/1291206"
+    },
+    {
+      "name": "Interkulturell kommunikation och ledarskap",
+      "code": "MMS035",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/interkulturell-kommunikation-och-ledarskap/7372576"
+    },
+    {
+      "name": "International Business Relationships",
+      "code": "TEK360",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/international-business-relationships/1291214"
+    },
+    {
+      "name": "International Economics",
+      "code": null,
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/international-economics/6729354"
+    },
+    {
+      "name": "Internationella projekt",
+      "code": "BOM055",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/internationella-projekt/1291216"
+    },
+    {
+      "name": "intro to probability and statistics",
+      "code": "MVE055",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/intro-to-probability-and-statistics/4510424"
+    },
+    {
+      "name": "introduction to data science and ai",
+      "code": null,
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/introduction-to-data-science-and-ai/5316770"
+    },
+    {
+      "name": "Introduction to Data Science and AI",
+      "code": "DAT565",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/introduction-to-data-science-and-ai/6732495"
+    },
+    {
+      "name": "Introduktion till automation och mekatronik",
+      "code": "MPP085",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/introduktion-till-automation-och-mekatronik/1291224"
+    },
+    {
+      "name": "Introduktion till elektroniksystemkonstruktion",
+      "code": "DAT093",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/introduktion-till-elektroniksystemkonstruktion/1291222"
+    },
+    {
+      "name": "Introduktion till funktionell programmering",
+      "code": "TDA555",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/introduktion-till-funktionell-programmering/1291228"
+    },
+    {
+      "name": "Introduktion till Industriell ekonomi",
+      "code": "TEK926",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/introduktion-till-industriell-ekonomi/6026168"
+    },
+    {
+      "name": "Introduktion till industriell ekonomi",
+      "code": "TEK927",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/introduktion-till-industriell-ekonomi/7198423"
+    },
+    {
+      "name": "Introduktion till logistik",
+      "code": "MMS140",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/introduktion-till-logistik/5031665"
+    },
+    {
+      "name": "Introduktion till maskininlärning",
+      "code": "EEN175",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/introduktion-till-maskininlarning/6575356"
+    },
+    {
+      "name": "Introduktion till maskinteknik",
+      "code": "PPU126",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/introduktion-till-maskinteknik/1291243"
+    },
+    {
+      "name": "Introduktion till programmering",
+      "code": "DAT645",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/introduktion-till-programmering/7282267"
+    },
+    {
+      "name": "Introduktionskurs industriell ekonomi",
+      "code": "TEK925",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/introduktionskurs-industriell-ekonomi/6030840"
+    },
+    {
+      "name": "Introduktionskurs: Industriell ekonomi och organisation",
+      "code": "TEK040",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/introduktionskurs-industriell-ekonomi-och-organisation/1291255"
+    },
+    {
+      "name": "Jorden som system",
+      "code": "SEE060",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/jorden-som-system/5964160"
+    },
+    {
+      "name": "Juridisk och ekonomisk översiktskurs",
+      "code": "SJO132",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/juridisk-och-ekonomisk-oversiktskurs/1291241"
+    },
+    {
+      "name": "Kandidatarbete i Arkitektur och teknik",
+      "code": "ARKX06",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/kandidatarbete-i-arkitektur-och-teknik/1291245"
+    },
+    {
+      "name": "Kandidatarbete vid Arkitektur",
+      "code": "ARKX05",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/kandidatarbete-vid-arkitektur/1291249"
+    },
+    {
+      "name": "Kandidatarbete vid Data- och informationsteknik",
+      "code": "DATX02",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/kandidatarbete-vid-data-och-informationsteknik/1291251"
+    },
+    {
+      "name": "Kandidatarbete vid Kemi- och bioteknik",
+      "code": "KBTX01",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/kandidatarbete-vid-kemi-och-bioteknik/1291257"
+    },
+    {
+      "name": "Kandidatarbete vid Produkt- och produktionsutveckling",
+      "code": "PPUX03",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/kandidatarbete-vid-produkt-och-produktionsutveckling/1291263"
+    },
+    {
+      "name": "Kandidatarbete vid Signaler och system",
+      "code": "SSYX02",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/kandidatarbete-vid-signaler-och-system/1291269"
+    },
+    {
+      "name": "Kandidatarbete vid Teknikens ekonomi och organisation",
+      "code": "TEKX04",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/kandidatarbete-vid-teknikens-ekonomi-och-organisation/1291271"
+    },
+    {
+      "name": "Kandidatarbete vid Tillämpad mekanik",
+      "code": "TMEX02",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/kandidatarbete-vid-tillampad-mekanik/1291287"
+    },
+    {
+      "name": "Kemi för basår",
+      "code": "LET923",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/kemi-for-basar/4905801"
+    },
+    {
+      "name": "Kemi för ingenjörer",
+      "code": "KTK111",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/kemi-for-ingenjorer/1291308"
+    },
+    {
+      "name": "Kemi med biokemi",
+      "code": "KBT260",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/kemi-med-biokemi/6633612"
+    },
+    {
+      "name": "Kemi och fysik",
+      "code": "BOM221",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/kemi-och-fysik/6848522"
+    },
+    {
+      "name": "Kemi och fysik för samhällsbyggare",
+      "code": "BOM221",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/kemi-och-fysik-for-samhallsbyggare/4179046"
+    },
+    {
+      "name": "Kemisk reaktionsteknik",
+      "code": "KKR100",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/kemisk-reaktionsteknik/1291298"
+    },
+    {
+      "name": "Klimatsystem",
+      "code": "ENM086",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/klimatsystem/1291331"
+    },
+    {
+      "name": "Kolloid- och ytkemi",
+      "code": "KFK176",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/kolloid-och-ytkemi/1291310"
+    },
+    {
+      "name": "Kommunikation och ingenjörskompetens",
+      "code": "LSP310",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/kommunikation-och-ingenjorskompetens/1291317"
+    },
+    {
+      "name": "Komplex analys",
+      "code": "MVE295",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/komplex-analys/1291323"
+    },
+    {
+      "name": "Komplex matematisk analys",
+      "code": "MVE025",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/komplex-matematisk-analys/1291325"
+    },
+    {
+      "name": "Konst- och geometrilaborationer",
+      "code": "ARK492",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/konst-och-geometrilaborationer/7502497"
+    },
+    {
+      "name": "Konstlaborationer",
+      "code": "ARK490",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/konstlaborationer/1291341"
+    },
+    {
+      "name": "Konstruktionsmetodik - en översikt",
+      "code": "PPU140",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/konstruktionsmetodik-en-oversikt/1291345"
+    },
+    {
+      "name": "Konstruktionsprojekt i inbyggda elektroniksystem",
+      "code": "DAT096",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/konstruktionsprojekt-i-inbyggda-elektroniksystem/1291369"
+    },
+    {
+      "name": "konstruktionsteknik",
+      "code": "bom340",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/konstruktionsteknik/4756477"
+    },
+    {
+      "name": "Kontinuum mekanik",
+      "code": "MMS259",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/kontinuum-mekanik/6518135"
+    },
+    {
+      "name": "Kontraktsrelationer i byggandet",
+      "code": "TEK140",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/kontraktsrelationer-i-byggandet/1291361"
+    },
+    {
+      "name": "Kraftelektroniska komponenter och deras tillämpningar",
+      "code": "ENM070",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/kraftelektroniska-komponenter-och-deras-tillampningar/1291379"
+    },
+    {
+      "name": "Kraftelektroniska omvandlare",
+      "code": "ENM060",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/kraftelektroniska-omvandlare/1291367"
+    },
+    {
+      "name": "Kretsanalys",
+      "code": "EMI084",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/kretsanalys/1291375"
+    },
+    {
+      "name": "Kvalitet och driftsäkerhet",
+      "code": "LMT991",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/kvalitet-och-driftsakerhet/3518196"
+    },
+    {
+      "name": "Kvalitetsutveckling",
+      "code": "IEK312",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/kvalitetsutveckling/1291387"
+    },
+    {
+      "name": "Kvantfysik",
+      "code": "FUF050",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/kvantfysik/4819396"
+    },
+    {
+      "name": "Kvantteknologi",
+      "code": "FKA132",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/kvantteknologi/1291391"
+    },
+    {
+      "name": "Kärnreaktorers fysik",
+      "code": "TIF210",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/karnreaktorers-fysik/1291285"
+    },
+    {
+      "name": "Laserteknik",
+      "code": "MCC052",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/laserteknik/1291409"
+    },
+    {
+      "name": "Lasthantering",
+      "code": "SJO512",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/lasthantering/1291418"
+    },
+    {
+      "name": "Leading in a digital world",
+      "code": "IKA097",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/leading-in-a-digital-world/5271422"
+    },
+    {
+      "name": "Lean Production",
+      "code": "TEK400",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/lean-production/3494541"
+    },
+    {
+      "name": "Ledarskap",
+      "code": "BOM260",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/ledarskap/7573137"
+    },
+    {
+      "name": "Ledarskap",
+      "code": "BOM380",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/ledarskap/4280658"
+    },
+    {
+      "name": "Ledarskap för hållbarhetsomställningar - förberedande kurs för Challenge Lab",
+      "code": "ENM145",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/ledarskap-for-hallbarhetsomstallningar-forberedande-kurs-for-challenge-lab/1291426"
+    },
+    {
+      "name": "Ledning och styrning av fysisk distribution",
+      "code": "ITR585",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/ledning-och-styrning-av-fysisk-distribution/1291432"
+    },
+    {
+      "name": "Linjär Algebra",
+      "code": "TMV143",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/linjar-algebra/7389792"
+    },
+    {
+      "name": "Linjär Algebra",
+      "code": "LMA212",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/linjar-algebra/4659994"
+    },
+    {
+      "name": "Linjär Algebra",
+      "code": "TMV206",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/linjar-algebra/5979331"
+    },
+    {
+      "name": "Linjär Algebra",
+      "code": "MVE481",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/linjar-algebra/7419116"
+    },
+    {
+      "name": "Linjär algebra",
+      "code": "MVE480",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/linjar-algebra/3402258"
+    },
+    {
+      "name": "linjär algebra 2",
+      "code": "mmg400",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/linjar-algebra-2/4515764"
+    },
+    {
+      "name": "Linjär algebra I",
+      "code": "MVE021",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/linjar-algebra-i/1291454"
+    },
+    {
+      "name": "Linjär algebra och analys fortsättning",
+      "code": "MVE465",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/linjar-algebra-och-analys-fortsattning/4854737"
+    },
+    {
+      "name": "Linjär och heltalsoptimering med tillämpningar",
+      "code": "MVE165",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/linjar-och-heltalsoptimering-med-tillampningar/1291458"
+    },
+    {
+      "name": "Linjära system",
+      "code": "SSY020",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/linjara-system/1291456"
+    },
+    {
+      "name": "Ljud och vibrationer",
+      "code": "BOM230",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/ljud-och-vibrationer/3515819"
+    },
+    {
+      "name": "Logic in computer science",
+      "code": "DAT060",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/logic-in-computer-science/1291470"
+    },
+    {
+      "name": "Logistics and supply chain management",
+      "code": "TEK285",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/logistics-and-supply-chain-management/1291472"
+    },
+    {
+      "name": "Logistik",
+      "code": "TEK125",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/logistik/3417326"
+    },
+    {
+      "name": "Logistik",
+      "code": "TEK380",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/logistik/3518192"
+    },
+    {
+      "name": "Logistik - Läran om effektiva materialflöden",
+      "code": "TEK380",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/logistik-laran-om-effektiva-materialfloden/6883737"
+    },
+    {
+      "name": "Logistik - Läran om materialflöden",
+      "code": "ITR234",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/logistik-laran-om-materialfloden/5759274"
+    },
+    {
+      "name": "Lärande och ledande i dysfunktionella organisationer",
+      "code": "TEK451",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/larande-och-ledande-i-dysfunktionella-organisationer/1291428"
+    },
+    {
+      "name": "Lönsamhetsanalys och styrning",
+      "code": "IDY024",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/lonsamhetsanalys-och-styrning/5791934"
+    },
+    {
+      "name": "Management of Innovation and R&D",
+      "code": "TEK745",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/management-of-innovation-and-rd/5137922"
+    },
+    {
+      "name": "management of physical distribution",
+      "code": "TEK620",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/management-of-physical-distribution/6769949"
+    },
+    {
+      "name": "Managing change in the construction industry",
+      "code": "tek660",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/managing-change-in-the-construction-industry/7725405"
+    },
+    {
+      "name": "Managing development projects",
+      "code": "IPR010",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/managing-development-projects/1291483"
+    },
+    {
+      "name": "Marin konstruktionsteknik",
+      "code": "MMA167",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/marin-konstruktionsteknik/1291499"
+    },
+    {
+      "name": "Market analysis project assignment",
+      "code": "IKA060",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/market-analysis-project-assignment/1291513"
+    },
+    {
+      "name": "Marketing and communication",
+      "code": "TEK630",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/marketing-and-communication/5927261"
+    },
+    {
+      "name": "Markndasföring",
+      "code": "TEK530",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/markndasforing/4854594"
+    },
+    {
+      "name": "Maskinelement",
+      "code": "LMU102",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/maskinelement/7169921"
+    },
+    {
+      "name": "Maskinelement",
+      "code": "PPU210",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/maskinelement/3421050"
+    },
+    {
+      "name": "Maskinkonstruktion",
+      "code": "MMF092",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/maskinkonstruktion/4622315"
+    },
+    {
+      "name": "Maskinorienterad programmering",
+      "code": "DAT017",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/maskinorienterad-programmering/6672960"
+    },
+    {
+      "name": "Maskinorienterad programmering",
+      "code": "LEU500",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/maskinorienterad-programmering/1291517"
+    },
+    {
+      "name": "Matematik A",
+      "code": "MVE425",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/matematik-a/3421089"
+    },
+    {
+      "name": "Matematik B",
+      "code": "MVE425",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/matematik-b/4905802"
+    },
+    {
+      "name": "Matematik C",
+      "code": "MVE425",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/matematik-c/4905803"
+    },
+    {
+      "name": "Matematik D",
+      "code": "MVE425",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/matematik-d/4905805"
+    },
+    {
+      "name": "Matematik och samhälle",
+      "code": "MVE370",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/matematik-och-samhalle/1291607"
+    },
+    {
+      "name": "Matematik, matematisk statistik med metoder",
+      "code": "MVE491",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/matematik-matematisk-statistik-med-metoder/6703767"
+    },
+    {
+      "name": "Matematisk analys",
+      "code": "TMV130",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/matematisk-analys/6694147"
+    },
+    {
+      "name": "Matematisk analys i en variabel",
+      "code": "MVE017",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/matematisk-analys-i-en-variabel/5364432"
+    },
+    {
+      "name": "Matematisk analys i flera variabler",
+      "code": "MVE255",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/matematisk-analys-i-flera-variabler/2917573"
+    },
+    {
+      "name": "Matematisk analys, fortsättning",
+      "code": "TMA976",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/matematisk-analys-fortsattning/1291642"
+    },
+    {
+      "name": "Matematisk fysik",
+      "code": "FTF131",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/matematisk-fysik/1291644"
+    },
+    {
+      "name": "Matematisk orientering",
+      "code": "MVE235",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/matematisk-orientering/1291648"
+    },
+    {
+      "name": "Matematisk programvara",
+      "code": "MVE230",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/matematisk-programvara/1291680"
+    },
+    {
+      "name": "Matematisk statistik",
+      "code": "MVE495",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/matematisk-statistik/5008577"
+    },
+    {
+      "name": "Matematisk statistik och signalbehandling",
+      "code": "ESS011",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/matematisk-statistik-och-signalbehandling/1291676"
+    },
+    {
+      "name": "Matematiskt skissande",
+      "code": "MVE400",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/matematiskt-skissande/1291682"
+    },
+    {
+      "name": "Material- och rumslaborationer",
+      "code": "ARK225",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/material-och-rumslaborationer/1291722"
+    },
+    {
+      "name": "Material- och tillverkningsteknik",
+      "code": "MPR095",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/material-och-tillverkningsteknik/1291699"
+    },
+    {
+      "name": "Material- och tillverkningsteknik",
+      "code": "IMS070",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/material-och-tillverkningsteknik/5927272"
+    },
+    {
+      "name": "Materiallära",
+      "code": "LKT280",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/materiallara/1291690"
+    },
+    {
+      "name": "Materialmekanik",
+      "code": "MHA042",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/materialmekanik/1291695"
+    },
+    {
+      "name": "Materialteknik, fortsättningskurs",
+      "code": "LMS586",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/materialteknik-fortsattningskurs/1291707"
+    },
+    {
+      "name": "Mattematik del B",
+      "code": "MVE426",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/mattematik-del-b/4865212"
+    },
+    {
+      "name": "Mechanics",
+      "code": "TME010",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/mechanics/3408184"
+    },
+    {
+      "name": "Medicinsk elektronik",
+      "code": "SSY091",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/medicinsk-elektronik/1291786"
+    },
+    {
+      "name": "Mekanik",
+      "code": "SEE080",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/mekanik/5964163"
+    },
+    {
+      "name": "Mekanik",
+      "code": "TME 275",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/mekanik/4537625"
+    },
+    {
+      "name": "Mekanik - dynamik",
+      "code": "TME031",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/mekanik-dynamik/1291766"
+    },
+    {
+      "name": "Mekanik 1",
+      "code": "FFM516",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/mekanik-1/1291760"
+    },
+    {
+      "name": "Mekanik 2",
+      "code": "FFM521",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/mekanik-2/1291762"
+    },
+    {
+      "name": "Mekatronik",
+      "code": "SSY060",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/mekatronik/1291774"
+    },
+    {
+      "name": "Metabolism och molekylär bioteknik",
+      "code": "BBT030",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/metabolism-och-molekylar-bioteknik/5905920"
+    },
+    {
+      "name": "Metabolism och teknisk mikrobiologi",
+      "code": "KMB041",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/metabolism-och-teknisk-mikrobiologi/1291782"
+    },
+    {
+      "name": "Metallbearbetning: gjutning, plåtformning och fogning",
+      "code": "MTT046",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/metallbearbetning-gjutning-platformning-och-fogning/1291818"
+    },
+    {
+      "name": "Methods and enquiry in organisations",
+      "code": "ACE120",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/methods-and-enquiry-in-organisations/7704536"
+    },
+    {
+      "name": "Microeconomics",
+      "code": null,
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/microeconomics/3272255"
+    },
+    {
+      "name": "Mikroelektronik",
+      "code": "MCC086",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/mikroelektronik/1291814"
+    },
+    {
+      "name": "Mikrovågsteknik",
+      "code": "MCC121",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/mikrovagsteknik/1291796"
+    },
+    {
+      "name": "Miljö- och resursanalys för hållbar samhällsbyggnad",
+      "code": "ENM165",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/miljo-och-resursanalys-for-hallbar-samhallsbyggnad/3515824"
+    },
+    {
+      "name": "Miljöfysik",
+      "code": "LFY230",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/miljofysik/7573038"
+    },
+    {
+      "name": "Miljömanagement",
+      "code": "VMI035",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/miljomanagement/1291816"
+    },
+    {
+      "name": "Model Based Development of Cyber Physical System",
+      "code": "SSY191",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/model-based-development-of-cyber-physical-system/6342750"
+    },
+    {
+      "name": "Model-driven engineering",
+      "code": "DAT240",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/model-driven-engineering/1291831"
+    },
+    {
+      "name": "Modellbyggnad och simuleringsmetodik",
+      "code": "ITR573",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/modellbyggnad-och-simuleringsmetodik/1291839"
+    },
+    {
+      "name": "Modellering och simulering",
+      "code": "ESS101",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/modellering-och-simulering/1291843"
+    },
+    {
+      "name": "Molekylär bioteknik",
+      "code": "KMB056",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/molekylar-bioteknik/1291863"
+    },
+    {
+      "name": "Mätteknik",
+      "code": "SEE100",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/matteknik/7151623"
+    },
+    {
+      "name": "Natural product chemistry",
+      "code": "KOK076",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/natural-product-chemistry/1291884"
+    },
+    {
+      "name": "Non-equilibrium processes in physics, chemistry and biology",
+      "code": "MCC011",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/non-equilibrium-processes-in-physics-chemistry-and-biology/1291912"
+    },
+    {
+      "name": "Numerisk linjär algebra",
+      "code": "TMA265",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/numerisk-linjar-algebra/1291904"
+    },
+    {
+      "name": "Nya medier: Teknik, mobilitet och samhällsförändring",
+      "code": "ITS070",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/nya-medier-teknik-mobilitet-och-samhallsforandring/1291908"
+    },
+    {
+      "name": "Objekt orienterad programmering",
+      "code": "DAT044",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/objekt-orienterad-programmering/6594701"
+    },
+    {
+      "name": "Objektorienterad Programmering och Design",
+      "code": "TDA551",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/objektorienterad-programmering-och-design/3450980"
+    },
+    {
+      "name": "Objektorienterad programmeringsteknik i Python",
+      "code": "DAT171",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/objektorienterad-programmeringsteknik-i-python/1291924"
+    },
+    {
+      "name": "Objektorienterad programvaruutveckling",
+      "code": "TDA545",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/objektorienterad-programvaruutveckling/1291918"
+    },
+    {
+      "name": "Objektorienterad programvaruutveckling, fortsättningskurs",
+      "code": "TDA550",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/objektorienterad-programvaruutveckling-fortsattningskurs/1291920"
+    },
+    {
+      "name": "Objektorienterat programmeringsprojekt",
+      "code": "TDA367",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/objektorienterat-programmeringsprojekt/1291946"
+    },
+    {
+      "name": "Olinjär optimering",
+      "code": "TMA947",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/olinjar-optimering/1291931"
+    },
+    {
+      "name": "Ombyggnad och underhåll",
+      "code": "LBT390",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/ombyggnad-och-underhall/1291937"
+    },
+    {
+      "name": "Oorganisk och organisk kemi",
+      "code": "KOK081",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/oorganisk-och-organisk-kemi/1291950"
+    },
+    {
+      "name": "Operationanalys",
+      "code": "TEK695",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/operationanalys/4520419"
+    },
+    {
+      "name": "Operations Management",
+      "code": "TEK930",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/operations-management/6551321"
+    },
+    {
+      "name": "Operations Management",
+      "code": "TEK545",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/operations-management/3551638"
+    },
+    {
+      "name": "operations manegement",
+      "code": "tek940",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/operations-manegement/5180597"
+    },
+    {
+      "name": "Operations planning and control",
+      "code": "TEK420",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/operations-planning-and-control/1291942"
+    },
+    {
+      "name": "Operations strategy",
+      "code": "TEK156",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/operations-strategy/1291944"
+    },
+    {
+      "name": "Operativsystem",
+      "code": "EDA092",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/operativsystem/1291956"
+    },
+    {
+      "name": "Optioner och matematik",
+      "code": "MVE095",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/optioner-och-matematik/1291965"
+    },
+    {
+      "name": "Ordinära differentialekvationer och matematisk modellering",
+      "code": "MVE161",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/ordinara-differentialekvationer-och-matematisk-modellering/1291952"
+    },
+    {
+      "name": "Ordning och oordning i fysikaliska system",
+      "code": "SEE065",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/ordning-och-oordning-i-fysikaliska-system/5964150"
+    },
+    {
+      "name": "Organisation och ledarskap",
+      "code": "SJO825",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/organisation-och-ledarskap/1291954"
+    },
+    {
+      "name": "Organising for Innovation",
+      "code": null,
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/organising-for-innovation/6955444"
+    },
+    {
+      "name": "Organisk kemi",
+      "code": "LKT105",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/organisk-kemi/1291971"
+    },
+    {
+      "name": "Organizational behavior",
+      "code": "TEK030",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/organizational-behavior/1291977"
+    },
+    {
+      "name": "Organizational behavior orientation",
+      "code": "TEK405",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/organizational-behavior-orientation/1291967"
+    },
+    {
+      "name": "Organizing for innovation",
+      "code": "TEK510",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/organizing-for-innovation/6950859"
+    },
+    {
+      "name": "Parallell programmering",
+      "code": "TDA383",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/parallell-programmering/1291981"
+    },
+    {
+      "name": "Parametrisk design",
+      "code": "ARK695",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/parametrisk-design/4865378"
+    },
+    {
+      "name": "Partiella differentialekvationer, grundkurs",
+      "code": "TMA372",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/partiella-differentialekvationer-grundkurs/1291990"
+    },
+    {
+      "name": "Platform development and modularization management",
+      "code": "TEK020",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/platform-development-and-modularization-management/1292010"
+    },
+    {
+      "name": "Polymerkemi och -fysik",
+      "code": "KBT025",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/polymerkemi-och-fysik/1292006"
+    },
+    {
+      "name": "Practical leadership and entrepreneurship",
+      "code": "TEK700",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/practical-leadership-and-entrepreneurship/5927263"
+    },
+    {
+      "name": "Principles of Concurrent Programming",
+      "code": "TDA384",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/principles-of-concurrent-programming/7526212"
+    },
+    {
+      "name": "Procurement and Supply management",
+      "code": "TEK416",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/procurement-and-supply-management/7166491"
+    },
+    {
+      "name": "Product Development Management",
+      "code": "IAR061",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/product-development-management/5381126"
+    },
+    {
+      "name": "Production and Product service systems",
+      "code": "PPU231",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/production-and-product-service-systems/3417331"
+    },
+    {
+      "name": "Production flow management",
+      "code": "TEK435",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/production-flow-management/1292038"
+    },
+    {
+      "name": "Production Management",
+      "code": "MTT096",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/production-management/7550498"
+    },
+    {
+      "name": "Produktionsergonomi och arbetsdesign",
+      "code": "MPP027",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/produktionsergonomi-och-arbetsdesign/1292030"
+    },
+    {
+      "name": "Produktionsledning",
+      "code": "IAR072",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/produktionsledning/3271626"
+    },
+    {
+      "name": "Produktionsstrategi",
+      "code": "TEK195",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/produktionsstrategi/1292050"
+    },
+    {
+      "name": "Produktionsutveckling",
+      "code": "TEK685",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/produktionsutveckling/7370336"
+    },
+    {
+      "name": "Produktutveckling - organisation, ledning och styrning",
+      "code": "IAR061",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/produktutveckling-organisation-ledning-och-styrning/1292036"
+    },
+    {
+      "name": "Professional English",
+      "code": "LSP127",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/professional-english/1292061"
+    },
+    {
+      "name": "Programmerade system",
+      "code": "TDA143",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/programmerade-system/1292047"
+    },
+    {
+      "name": "Programmering i matlab",
+      "code": "TME136",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/programmering-i-matlab/1292059"
+    },
+    {
+      "name": "Programmering och numeriska beräkningar med Matlab",
+      "code": "MVE355",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/programmering-och-numeriska-berakningar-med-matlab/1292064"
+    },
+    {
+      "name": "Programmeringsteknik i Python",
+      "code": "DAT555",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/programmeringsteknik-i-python/6030842"
+    },
+    {
+      "name": "Programming language technology",
+      "code": "DAT151",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/programming-language-technology/1292071"
+    },
+    {
+      "name": "Project in computer science",
+      "code": "DAT085",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/project-in-computer-science/1292083"
+    },
+    {
+      "name": "Project Management",
+      "code": "BOM017",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/project-management/3440641"
+    },
+    {
+      "name": "Project management in construction",
+      "code": "ACE115",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/project-management-in-construction/7185203"
+    },
+    {
+      "name": "Projekt i produktutveckling",
+      "code": "MPP126",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/projekt-i-produktutveckling/1292093"
+    },
+    {
+      "name": "Projektarbete i datateknik",
+      "code": "DAT010",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/projektarbete-i-datateknik/1292103"
+    },
+    {
+      "name": "Projekteringsmetodik",
+      "code": "ARK675",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/projekteringsmetodik/7289589"
+    },
+    {
+      "name": "Projekteringsmetodik Infrastruktur och  anläggning",
+      "code": "BOM315",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/projekteringsmetodik-infrastruktur-och-anlaggning/5165398"
+    },
+    {
+      "name": "Projektkurs i fysik",
+      "code": "MVE285",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/projektkurs-i-fysik/1292116"
+    },
+    {
+      "name": "Projektkurs i kemi",
+      "code": "KBT185",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/projektkurs-i-kemi/1292120"
+    },
+    {
+      "name": "Projektledning",
+      "code": "TEK371",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/projektledning/3518197"
+    },
+    {
+      "name": "Projektledning inom byggsektorn",
+      "code": "ACE225",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/projektledning-inom-byggsektorn/4521748"
+    },
+    {
+      "name": "Projektpsykologi",
+      "code": "LBT451",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/projektpsykologi/1292130"
+    },
+    {
+      "name": "Purchasing and supply management",
+      "code": "TEK416",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/purchasing-and-supply-management/7405890"
+    },
+    {
+      "name": "Purchasing and supply management I",
+      "code": "TEK415",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/purchasing-and-supply-management-i/1292139"
+    },
+    {
+      "name": "Quality and Operations Management",
+      "code": "TEK146",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/quality-and-operations-management/6626513"
+    },
+    {
+      "name": "Quality and operations management",
+      "code": "TEK145",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/quality-and-operations-management/1292157"
+    },
+    {
+      "name": "Quantum Field Theory",
+      "code": "FUF020",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/quantum-field-theory/6914099"
+    },
+    {
+      "name": "Quantum matter: Coherence and correlations",
+      "code": "FUF010",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/quantum-matter-coherence-and-correlations/1292143"
+    },
+    {
+      "name": "Radarsystem och tillämpningar",
+      "code": "RRY080",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/radarsystem-och-tillampningar/1292141"
+    },
+    {
+      "name": "Radiokommunikation, signalering och säkerhetsengelska",
+      "code": "SJO611",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/radiokommunikation-signalering-och-sakerhetsengelska/1292163"
+    },
+    {
+      "name": "Realtidssystem, grundkurs",
+      "code": "LET625",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/realtidssystem-grundkurs/1292159"
+    },
+    {
+      "name": "Reglerteknik",
+      "code": "ERE103",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/reglerteknik/7223348"
+    },
+    {
+      "name": "Reglerteknik",
+      "code": "ERE033",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/reglerteknik/1547005"
+    },
+    {
+      "name": "Research design and methods",
+      "code": "TEK190",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/research-design-and-methods/1292184"
+    },
+    {
+      "name": "Research methodology",
+      "code": "TEK290",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/research-methodology/1292198"
+    },
+    {
+      "name": "Resurser och innovationer i ett kemiskt och historiskt perspektiv",
+      "code": "KBT265",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/resurser-och-innovationer-i-ett-kemiskt-och-historiskt-perspektiv/1292190"
+    },
+    {
+      "name": "Riskbedömning och beslutsstöd",
+      "code": "BOM125",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/riskbedomning-och-beslutsstod/1292196"
+    },
+    {
+      "name": "Ritteknik: CAD för arkitekter",
+      "code": "ADM020",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/ritteknik-cad-for-arkitekter/1292192"
+    },
+    {
+      "name": "Robotteknik och automation",
+      "code": "MPR213",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/robotteknik-och-automation/1292213"
+    },
+    {
+      "name": "Rum och geometri",
+      "code": "ARK101",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/rum-och-geometri/1292202"
+    },
+    {
+      "name": "Rum och Människa",
+      "code": "ARK096",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/rum-och-manniska/4865372"
+    },
+    {
+      "name": "Rymdfysik och rymdteknik",
+      "code": "RRY016",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/rymdfysik-och-rymdteknik/1292204"
+    },
+    {
+      "name": "Samhället som system",
+      "code": "TEK915",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/samhallet-som-system/5727379"
+    },
+    {
+      "name": "Samhällsplanering - grunder och tillämpning",
+      "code": "ACE180",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/samhallsplanering-grunder-och-tillampning/5165394"
+    },
+    {
+      "name": "Sannolikhetsteori och statistik",
+      "code": "TMS137",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/sannolikhetsteori-och-statistik/5906671"
+    },
+    {
+      "name": "Sannolikhetsteorins grunder",
+      "code": "MVE140",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/sannolikhetsteorins-grunder/1292223"
+    },
+    {
+      "name": "Serier och derivator i flera variabler",
+      "code": "MVE500",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/serier-och-derivator-i-flera-variabler/3515829"
+    },
+    {
+      "name": "Service contract management",
+      "code": "ISM030",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/service-contract-management/1292251"
+    },
+    {
+      "name": "Ship resistance and Propulsion",
+      "code": "MMA163",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/ship-resistance-and-propulsion/5718442"
+    },
+    {
+      "name": "Signaler och system",
+      "code": "SSY042",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/signaler-och-system/1292245"
+    },
+    {
+      "name": "Simulering av produktionssystem",
+      "code": "MPR271",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/simulering-av-produktionssystem/1292255"
+    },
+    {
+      "name": "Simuleringsbaserad Mekanik och Hållfasthetslär",
+      "code": "IMS090",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/simuleringsbaserad-mekanik-och-hallfasthetslar/7495842"
+    },
+    {
+      "name": "Six sigma black belt",
+      "code": "TEK170",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/six-sigma-black-belt/1292249"
+    },
+    {
+      "name": "Sjöfartens marknader",
+      "code": "LNC342",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/sjofartens-marknader/1292274"
+    },
+    {
+      "name": "Sjöfartsekonomi: B-uppsats",
+      "code": "SJO590",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/sjofartsekonomi-b-uppsats/1292257"
+    },
+    {
+      "name": "Sjörätt",
+      "code": "mms120",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/sjoratt/7403742"
+    },
+    {
+      "name": "Skönlitteratur på engelska för ingenjörer",
+      "code": "LSP530",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/skonlitteratur-pa-engelska-for-ingenjorer/1292282"
+    },
+    {
+      "name": "Social Innovation and Social Entrepreneurship",
+      "code": "TEK237",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/social-innovation-and-social-entrepreneurship/7124744"
+    },
+    {
+      "name": "Software engineering project",
+      "code": "DAT255",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/software-engineering-project/1292292"
+    },
+    {
+      "name": "Software Quality",
+      "code": "DAT321",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/software-quality/4523820"
+    },
+    {
+      "name": "Solid mechanics and materials",
+      "code": "IMS080",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/solid-mechanics-and-materials/7110722"
+    },
+    {
+      "name": "Speciell relativitetsteori",
+      "code": "FUF045",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/speciell-relativitetsteori/1292304"
+    },
+    {
+      "name": "Språkbaserad datasäkerhet",
+      "code": "TDA602",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/sprakbaserad-datasakerhet/1292312"
+    },
+    {
+      "name": "Stadsbyggnad ur ett byggherreperspektiv",
+      "code": "ARK541",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/stadsbyggnad-ur-ett-byggherreperspektiv/7502597"
+    },
+    {
+      "name": "Statik och hållfasthetslära",
+      "code": "MTM021",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/statik-och-hallfasthetslara/1292324"
+    },
+    {
+      "name": "Statistik och sannolikhetslära",
+      "code": "LMA120",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/statistik-och-sannolikhetslara/1292322"
+    },
+    {
+      "name": "Statistisk bildbehandling",
+      "code": "TMS016",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/statistisk-bildbehandling/1292346"
+    },
+    {
+      "name": "Statistisk databehandling",
+      "code": "TMS150",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/statistisk-databehandling/1292356"
+    },
+    {
+      "name": "Statistisk slutledning",
+      "code": "MVE155",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/statistisk-slutledning/1292629"
+    },
+    {
+      "name": "Stochastic processes and Bayesian inference",
+      "code": "MVE550",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/stochastic-processes-and-bayesian-inference/7255912"
+    },
+    {
+      "name": "Strategic Management",
+      "code": "TEK017",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/strategic-management/2157576"
+    },
+    {
+      "name": "Strategic management and economics of intellectual property",
+      "code": "TEK315",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/strategic-management-and-economics-of-intellectual-property/1292362"
+    },
+    {
+      "name": "Strategiskt management",
+      "code": "BOM070",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/strategiskt-management/1292354"
+    },
+    {
+      "name": "Strategy",
+      "code": null,
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/strategy/1292360"
+    },
+    {
+      "name": "Strategy Creation and Change",
+      "code": "TEK280",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/strategy-creation-and-change/1292352"
+    },
+    {
+      "name": "Strength of mechanics, advanced course",
+      "code": "IMS094",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/strength-of-mechanics-advanced-course/7176845"
+    },
+    {
+      "name": "Strukturmekanik",
+      "code": "TME187",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/strukturmekanik/7274897"
+    },
+    {
+      "name": "Strukturmekanik",
+      "code": "TME185",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/strukturmekanik/1292368"
+    },
+    {
+      "name": "Strängteori",
+      "code": "FFM485",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/strangteori/1292350"
+    },
+    {
+      "name": "Strömnings- och energiteknik",
+      "code": "LKT340",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/stromnings-och-energiteknik/1292358"
+    },
+    {
+      "name": "Strömningsmekanik, fortsättningskurs",
+      "code": "TME225",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/stromningsmekanik-fortsattningskurs/1292366"
+    },
+    {
+      "name": "Supply Chain Analytics",
+      "code": "TEK615",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/supply-chain-analytics/7147221"
+    },
+    {
+      "name": "Supply chain management",
+      "code": "TEK410",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/supply-chain-management/1292384"
+    },
+    {
+      "name": "supply chain strategy",
+      "code": "TEk610",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/supply-chain-strategy/4989739"
+    },
+    {
+      "name": "Supraledning och lågtemperaturfysik",
+      "code": "FMI036",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/supraledning-och-lagtemperaturfysik/1292396"
+    },
+    {
+      "name": "Sustainable building",
+      "code": "ARK465",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/sustainable-building/1292406"
+    },
+    {
+      "name": "Symmetry",
+      "code": "FYM310",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/symmetry/5875930"
+    },
+    {
+      "name": "Systems and mechatronics for mobility engineering",
+      "code": "EEN130",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/systems-and-mechatronics-for-mobility-engineering/7486091"
+    },
+    {
+      "name": "Technological change & industrial transformation",
+      "code": "IDY040",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/technological-change-industrial-transformation/1292441"
+    },
+    {
+      "name": "Teknik och samhälle",
+      "code": "TEK225",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/teknik-och-samhalle/1292419"
+    },
+    {
+      "name": "Teknik- och företagshistoria",
+      "code": "TEK825",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/teknik-och-foretagshistoria/7277458"
+    },
+    {
+      "name": "Teknikbaserat entreprenörskap",
+      "code": "CIP017",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/teknikbaserat-entreprenorskap/1292420"
+    },
+    {
+      "name": "Teknikens Etik",
+      "code": "TEK571",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/teknikens-etik/7605209"
+    },
+    {
+      "name": "Teknikhistoria",
+      "code": "CTE031",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/teknikhistoria/1292424"
+    },
+    {
+      "name": "Teknisk geologi",
+      "code": "VGE370",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/teknisk-geologi/1292433"
+    },
+    {
+      "name": "Teknisk Geologi",
+      "code": "BOM200",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/teknisk-geologi/3515813"
+    },
+    {
+      "name": "Teknisk mikrobiologi",
+      "code": "BBT035",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/teknisk-mikrobiologi/5906538"
+    },
+    {
+      "name": "Teknisk rapportskrivning inom Datorer, Nätverk och System",
+      "code": "DAT147",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/teknisk-rapportskrivning-inom-datorer-natverk-och-system/1292449"
+    },
+    {
+      "name": "Teknisk samhällsplanering",
+      "code": "VMT043",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/teknisk-samhallsplanering/1292447"
+    },
+    {
+      "name": "Teknisk Samhällsplanering",
+      "code": "BOM575",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/teknisk-samhallsplanering/4373971"
+    },
+    {
+      "name": "Tekniska system för energi, material och information",
+      "code": "TEK920",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/tekniska-system-for-energi-material-och-information/5964152"
+    },
+    {
+      "name": "Telekommunikation",
+      "code": "RRY010",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/telekommunikation/1292463"
+    },
+    {
+      "name": "Termisk energiomvandling",
+      "code": "SEE020",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/termisk-energiomvandling/7264372"
+    },
+    {
+      "name": "Termodynamik",
+      "code": "KVM091",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/termodynamik/1292479"
+    },
+    {
+      "name": "Termodynamik med energiteknik",
+      "code": "MTF042",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/termodynamik-med-energiteknik/1292465"
+    },
+    {
+      "name": "Termodynamik och strömningsmekanik",
+      "code": "LMT834",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/termodynamik-och-stromningsmekanik/5935174"
+    },
+    {
+      "name": "Testning, felsökning och verifiering",
+      "code": "TDA567",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/testning-felsokning-och-verifiering/1292489"
+    },
+    {
+      "name": "The synthesis, properties and structures of solid state materials",
+      "code": "KOO092",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/the-synthesis-properties-and-structures-of-solid-state-materials/1292481"
+    },
+    {
+      "name": "Tillverkningsprocesser, fortsättningskurs",
+      "code": "MPR034",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/tillverkningsprocesser-fortsattningskurs/1292511"
+    },
+    {
+      "name": "Tillverkningsteknik",
+      "code": "IMS026",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/tillverkningsteknik/7391118"
+    },
+    {
+      "name": "Tillverkningsteknik",
+      "code": "LMU235",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/tillverkningsteknik/3419818"
+    },
+    {
+      "name": "Tillverkningsteknik, fortsättningskurs",
+      "code": "MTT115",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/tillverkningsteknik-fortsattningskurs/1292519"
+    },
+    {
+      "name": "Tillämpad industriell ekologi",
+      "code": "ENM021",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/tillampad-industriell-ekologi/1292483"
+    },
+    {
+      "name": "Tillämpad lasthantering",
+      "code": "SJO325",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/tillampad-lasthantering/1292487"
+    },
+    {
+      "name": "Tillämpad matematik",
+      "code": "TMA682",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/tillampad-matematik/1292493"
+    },
+    {
+      "name": "Tillämpad matematisk statistik",
+      "code": "LMA521",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/tillampad-matematisk-statistik/1292505"
+    },
+    {
+      "name": "Tillämpad mekatronik",
+      "code": "SSY300",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/tillampad-mekatronik/1292497"
+    },
+    {
+      "name": "Tillämpad optisk spektroskopi",
+      "code": "KFK150",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/tillampad-optisk-spektroskopi/1292499"
+    },
+    {
+      "name": "Tillämpade elektromagnetiska beräkningar",
+      "code": "EEK221",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/tillampade-elektromagnetiska-berakningar/1292521"
+    },
+    {
+      "name": "TMV166 Linjär algebra och system av linjära ekvationer",
+      "code": "TMV166",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/tmv166-linjar-algebra-och-system-av-linjara-ekvationer/6823879"
+    },
+    {
+      "name": "Transformer, Signaler och System",
+      "code": "SSY081",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/transformer-signaler-och-system/7135799"
+    },
+    {
+      "name": "Transport- och distributionsekonomi",
+      "code": "SJO681",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/transport-och-distributionsekonomi/1292538"
+    },
+    {
+      "name": "Transportation engineering and traffic analysis",
+      "code": "ACE050",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/transportation-engineering-and-traffic-analysis/7257187"
+    },
+    {
+      "name": "Transportprocesser",
+      "code": "KAA060",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/transportprocesser/1292550"
+    },
+    {
+      "name": "Träkonstruktioner",
+      "code": "VSM196",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/trakonstruktioner/1292531"
+    },
+    {
+      "name": "Tätorters funktioner och utformning",
+      "code": "BOM210",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/tatorters-funktioner-och-utformning/5993730"
+    },
+    {
+      "name": "Urban and architectural design 3",
+      "code": "ARK267",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/urban-and-architectural-design-3/1292578"
+    },
+    {
+      "name": "Urban Spaces and Functions",
+      "code": "BOM210",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/urban-spaces-and-functions/3515816"
+    },
+    {
+      "name": "Usability: metoder och verktyg",
+      "code": "MMT031",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/usability-metoder-och-verktyg/1292560"
+    },
+    {
+      "name": "Utveckling av tysta produkter",
+      "code": "VTA155",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/utveckling-av-tysta-produkter/1292556"
+    },
+    {
+      "name": "Vattenresurser och hydraulik",
+      "code": "BOM270",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/vattenresurser-och-hydraulik/4905729"
+    },
+    {
+      "name": "Vattenresurser och miljö",
+      "code": "BOM150",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/vattenresurser-och-miljo/1292582"
+    },
+    {
+      "name": "Vattenteknik & miljö",
+      "code": "BOM345",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/vattenteknik-miljo/4701823"
+    },
+    {
+      "name": "Verkstads/motorteknik",
+      "code": "LNB660",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/verkstadsmotorteknik/1292588"
+    },
+    {
+      "name": "Vetenskaplig visualisering",
+      "code": "MVE080",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/vetenskaplig-visualisering/1292609"
+    },
+    {
+      "name": "Virtuell produktion",
+      "code": "PPU055",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/virtuell-produktion/1292600"
+    },
+    {
+      "name": "Värme, ventilation och luftbehandlingsteknik",
+      "code": "ENM045",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/varme-ventilation-och-luftbehandlingsteknik/1292592"
+    },
+    {
+      "name": "Värmeöverföring",
+      "code": "MTF114",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/varmeoverforing/1292590"
+    },
+    {
+      "name": "Ytmodellering och solidmodellering",
+      "code": "LMU602",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/ytmodellering-och-solidmodellering/1292623"
+    },
+    {
+      "name": "Ytteknologi",
+      "code": "KPO040",
+      "url": "https://www.studocu.com/sv/course/chalmers-tekniska-hogskola/ytteknologi/1292627"
+    }
+  ]
+}

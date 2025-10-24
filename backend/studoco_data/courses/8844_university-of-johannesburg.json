@@ -1,0 +1,4786 @@
+{
+  "university_id": "8844",
+  "university_name": "University of Johannesburg",
+  "courses": [
+    {
+      "name": "1. Intro to Derivative Securities",
+      "code": "IDSX08",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/1-intro-to-derivative-securities/7583990"
+    },
+    {
+      "name": "4IR accounting",
+      "code": "221ACC41RA",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/4ir-accounting/5211658"
+    },
+    {
+      "name": "A cca study guide 2020 accountant in business",
+      "code": "comm100",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/a-cca-study-guide-2020-accountant-in-business/4350559"
+    },
+    {
+      "name": "Abnormal Psychology",
+      "code": "PSY 8X02",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/abnormal-psychology/5468913"
+    },
+    {
+      "name": "Abstract algebra",
+      "code": "MAT02B3",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/abstract-algebra/5721714"
+    },
+    {
+      "name": "Abstract Algebra",
+      "code": "MAT04B2",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/abstract-algebra/7458529"
+    },
+    {
+      "name": "Academic Lit for Edu",
+      "code": "ALE01",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/academic-lit-for-edu/6387075"
+    },
+    {
+      "name": "Academic proficiency in English for student teachers",
+      "code": "Est1501",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/academic-proficiency-in-english-for-student-teachers/6462339"
+    },
+    {
+      "name": "Accounting",
+      "code": "REK3AB",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/accounting/3210527"
+    },
+    {
+      "name": "Accounting 1.1",
+      "code": "ACC1CP1",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/accounting-11/5883964"
+    },
+    {
+      "name": "Accounting 12",
+      "code": "ACC2CP1",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/accounting-12/6864955"
+    },
+    {
+      "name": "Accounting 1A",
+      "code": "ACC0AA1",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/accounting-1a/5291882"
+    },
+    {
+      "name": "Accounting 1B",
+      "code": "ACC01B1/REK1B01",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/accounting-1b/4530055"
+    },
+    {
+      "name": "Accounting 200",
+      "code": "ACC200",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/accounting-200/3368248"
+    },
+    {
+      "name": "Accounting 2A",
+      "code": "ACC02A2",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/accounting-2a/5333962"
+    },
+    {
+      "name": "Accounting 2B",
+      "code": "ACT02B2",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/accounting-2b/4529637"
+    },
+    {
+      "name": "Accounting 300",
+      "code": "ACC 300",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/accounting-300/4854500"
+    },
+    {
+      "name": "Accounting 3AB",
+      "code": "ACC3AB",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/accounting-3ab/7436567"
+    },
+    {
+      "name": "Accounting A",
+      "code": "Acc001a",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/accounting-a/6885619"
+    },
+    {
+      "name": "Accounting B",
+      "code": "ACC0BB1",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/accounting-b/6400410"
+    },
+    {
+      "name": "Accounting Studies",
+      "code": "AST2A01",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/accounting-studies/3394657"
+    },
+    {
+      "name": "accounting100",
+      "code": "acc100",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/accounting100/5358850"
+    },
+    {
+      "name": "Actuarial Science 3B",
+      "code": "ACS03B3",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/actuarial-science-3b/7143731"
+    },
+    {
+      "name": "Acupuncture",
+      "code": "COPCMY 2",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/acupuncture/7046236"
+    },
+    {
+      "name": "Administrative law",
+      "code": "adl2601",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/administrative-law/4372224"
+    },
+    {
+      "name": "Administrative Law",
+      "code": "ADL41B0",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/administrative-law/4921205"
+    },
+    {
+      "name": "Advance Diploma in Financial Markets",
+      "code": "IFM2CP1",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/advance-diploma-in-financial-markets/6066117"
+    },
+    {
+      "name": "Advance Manufacturing Sytems 4A11",
+      "code": "MVS4A11",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/advance-manufacturing-sytems-4a11/3338646"
+    },
+    {
+      "name": "Advanced Database",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/advanced-database/3289652"
+    },
+    {
+      "name": "Advanced Engineering Mathematics and Computing",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/advanced-engineering-mathematics-and-computing/7613468"
+    },
+    {
+      "name": "Advanced Industrial Relations 4B",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/advanced-industrial-relations-4b/3289654"
+    },
+    {
+      "name": "Advanced Inorganic Chemistry",
+      "code": "CEM02A3",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/advanced-inorganic-chemistry/6195498"
+    },
+    {
+      "name": "Advanced Internal Audit",
+      "code": "AIA8X00",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/advanced-internal-audit/5356019"
+    },
+    {
+      "name": "Advanced IT Management 4",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/advanced-it-management-4/5337696"
+    },
+    {
+      "name": "Advanced Management Of Training 4A",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/advanced-management-of-training-4a/3289655"
+    },
+    {
+      "name": "Advanced Marketing Finance 4 A",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/advanced-marketing-finance-4-a/3289657"
+    },
+    {
+      "name": "Advanced Planning Theory 3B",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/advanced-planning-theory-3b/3289993"
+    },
+    {
+      "name": "Advanced Programming",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/advanced-programming/3289660"
+    },
+    {
+      "name": "Advanced Public Policy Management",
+      "code": "PMG8X03",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/advanced-public-policy-management/3421047"
+    },
+    {
+      "name": "Advanced tax",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/advanced-tax/7653132"
+    },
+    {
+      "name": "Advanced Taxation (CA)",
+      "code": "250TAX8X00",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/advanced-taxation-ca/7464192"
+    },
+    {
+      "name": "Africa & Sustainability: Governance Frameworks and Applications A",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/africa-sustainability-governance-frameworks-and-applications-a/3289908"
+    },
+    {
+      "name": "Africa & Sustainability: Governance Frameworks and Applications B",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/africa-sustainability-governance-frameworks-and-applications-b/3289910"
+    },
+    {
+      "name": "African Insights",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/african-insights/3289937"
+    },
+    {
+      "name": "African languages",
+      "code": "AFL1502",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/african-languages/6930633"
+    },
+    {
+      "name": "Afrikaans",
+      "code": "AFR 12",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/afrikaans/6066152"
+    },
+    {
+      "name": "Agriculture",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/agriculture/6094293"
+    },
+    {
+      "name": "Airlines and Airports",
+      "code": "TRE8X14",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/airlines-and-airports/5711544"
+    },
+    {
+      "name": "Algorithms/ Programming 1B",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/algorithms-programming-1b/3290009"
+    },
+    {
+      "name": "Algorithms/Programming 1A",
+      "code": "ALGELA1",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/algorithmsprogramming-1a/7175911"
+    },
+    {
+      "name": "alternative asset investment",
+      "code": "242aai8x02",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/alternative-asset-investment/7221479"
+    },
+    {
+      "name": "Analysis Of Prices And Estimating 3",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/analysis-of-prices-and-estimating-3/3289938"
+    },
+    {
+      "name": "Analytical Chemistry",
+      "code": "MAT1YE2",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/analytical-chemistry/3459302"
+    },
+    {
+      "name": "Analytical Chemistry",
+      "code": "CAET2BAA",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/analytical-chemistry/3419812"
+    },
+    {
+      "name": "Analytical Chemistry Practical",
+      "code": "CETAPA2",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/analytical-chemistry-practical/4830703"
+    },
+    {
+      "name": "analytical techniques",
+      "code": "ATE1A10",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/analytical-techniques/4828417"
+    },
+    {
+      "name": "analytical techniques 1A",
+      "code": "ATE01A1",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/analytical-techniques-1a/5291886"
+    },
+    {
+      "name": "Analytical techniques 1b",
+      "code": "ATE01B1",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/analytical-techniques-1b/7719345"
+    },
+    {
+      "name": "Analytical Techniques 2A",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/analytical-techniques-2a/3290075"
+    },
+    {
+      "name": "Anatomy 2",
+      "code": "ANTPHY2",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/anatomy-2/6364833"
+    },
+    {
+      "name": "Anatomy and physiology 2",
+      "code": "AAP01Y2",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/anatomy-and-physiology-2/3505473"
+    },
+    {
+      "name": "Anthropology",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/anthropology/3289875"
+    },
+    {
+      "name": "Anthropology 1A",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/anthropology-1a/3289889"
+    },
+    {
+      "name": "Anthropology 1B",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/anthropology-1b/3289899"
+    },
+    {
+      "name": "Anthropology 2A",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/anthropology-2a/3289894"
+    },
+    {
+      "name": "Anthropology 2B",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/anthropology-2b/3289902"
+    },
+    {
+      "name": "appilcations of calculas",
+      "code": "MAT01B1",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/appilcations-of-calculas/6774935"
+    },
+    {
+      "name": "Application of Corporate Events",
+      "code": "ACE1CP1",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/application-of-corporate-events/6364172"
+    },
+    {
+      "name": "Applied Accountancy Skills 1A",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/applied-accountancy-skills-1a/3289661"
+    },
+    {
+      "name": "Applied Accountancy Skills 1B",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/applied-accountancy-skills-1b/3289662"
+    },
+    {
+      "name": "Applied Business Communications Skills 1B",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/applied-business-communications-skills-1b/3289663"
+    },
+    {
+      "name": "Applied Econometric Techniques",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/applied-econometric-techniques/3290104"
+    },
+    {
+      "name": "Applied Econometrics",
+      "code": "APM8X01",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/applied-econometrics/6246401"
+    },
+    {
+      "name": "Applied Engineering and Enviromental Geology",
+      "code": "APGO2B2",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/applied-engineering-and-enviromental-geology/7555768"
+    },
+    {
+      "name": "Applied Information Systems",
+      "code": "SRM11A1",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/applied-information-systems/5321075"
+    },
+    {
+      "name": "Applied Legal Studies",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/applied-legal-studies/4910545"
+    },
+    {
+      "name": "Applied Mathematics",
+      "code": "1A10",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/applied-mathematics/3319498"
+    },
+    {
+      "name": "Applied Mathematics 1A",
+      "code": "APM01A1",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/applied-mathematics-1a/3365427"
+    },
+    {
+      "name": "Applied Mathematics 1B",
+      "code": "APM01B1",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/applied-mathematics-1b/4447830"
+    },
+    {
+      "name": "Applied Mathematics 2A10",
+      "code": "APM2A10",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/applied-mathematics-2a10/3323859"
+    },
+    {
+      "name": "Applied Mathematics 2B",
+      "code": "APM2B10",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/applied-mathematics-2b/3323882"
+    },
+    {
+      "name": "Applied Maths 2A",
+      "code": "APM02A2",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/applied-maths-2a/7081767"
+    },
+    {
+      "name": "applied strength of materials 2B",
+      "code": "ASMM1B2",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/applied-strength-of-materials-2b/6531843"
+    },
+    {
+      "name": "Applied Thermodynamics 2B",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/applied-thermodynamics-2b/3290060"
+    },
+    {
+      "name": "APT- assessment of prof",
+      "code": "APTH676",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/apt-assessment-of-prof/7756657"
+    },
+    {
+      "name": "Architural Design 1B",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/architural-design-1b/3289971"
+    },
+    {
+      "name": "Art And Design 1A",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/art-and-design-1a/3289668"
+    },
+    {
+      "name": "Art And Design 1B",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/art-and-design-1b/3289669"
+    },
+    {
+      "name": "Art And Design 2A",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/art-and-design-2a/3289670"
+    },
+    {
+      "name": "Art History and Theory 1A",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/art-history-and-theory-1a/3289863"
+    },
+    {
+      "name": "Art History and Theory 1B",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/art-history-and-theory-1b/3289864"
+    },
+    {
+      "name": "Attorneys Admission Exam",
+      "code": "AA1",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/attorneys-admission-exam/6359899"
+    },
+    {
+      "name": "Auditing 200",
+      "code": "AUD2B01",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/auditing-200/3368268"
+    },
+    {
+      "name": "Auditing 2B",
+      "code": "ODT2B01",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/auditing-2b/3329258"
+    },
+    {
+      "name": "Auditing 300",
+      "code": "AUD300",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/auditing-300/3357222"
+    },
+    {
+      "name": "auditing 32",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/auditing-32/7139789"
+    },
+    {
+      "name": "Auditing and Control 4",
+      "code": "AUC8X00",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/auditing-and-control-4/4830705"
+    },
+    {
+      "name": "Auditing and Ethics 200",
+      "code": "AAE200",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/auditing-and-ethics-200/6921285"
+    },
+    {
+      "name": "Auditing And Internal Control 2A",
+      "code": "251AIC22A2",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/auditing-and-internal-control-2a/7472315"
+    },
+    {
+      "name": "Auditing and Internal Control 2B",
+      "code": "AIC2B",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/auditing-and-internal-control-2b/7681471"
+    },
+    {
+      "name": "Auditing and Internal Control 3A",
+      "code": "AIC33A3",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/auditing-and-internal-control-3a/7469529"
+    },
+    {
+      "name": "Autocad 1B",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/autocad-1b/3290052"
+    },
+    {
+      "name": "Automatic Control 3B",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/automatic-control-3b/3290053"
+    },
+    {
+      "name": "Automation 3A",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/automation-3a/3290095"
+    },
+    {
+      "name": "b com international accounting",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/b-com-international-accounting/4396344"
+    },
+    {
+      "name": "Bachelor of Arts",
+      "code": "BA(General)",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/bachelor-of-arts/6014379"
+    },
+    {
+      "name": "Basic Maths and Application in Economics and Business",
+      "code": "MAEB01A",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/basic-maths-and-application-in-economics-and-business/5780359"
+    },
+    {
+      "name": "Basic Science - Applied Mechanics",
+      "code": "1A",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/basic-science-applied-mechanics/7497398"
+    },
+    {
+      "name": "Bcom Accounting",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/bcom-accounting/5717750"
+    },
+    {
+      "name": "BCom accounting extended",
+      "code": "LESA01",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/bcom-accounting-extended/7612040"
+    },
+    {
+      "name": "Becom Finance",
+      "code": "B3F17Q",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/becom-finance/4364310"
+    },
+    {
+      "name": "BEng Tech in Mining Engineering",
+      "code": "222MATM1B1",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/beng-tech-in-mining-engineering/5408389"
+    },
+    {
+      "name": "Beverage Studies",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/beverage-studies/3289672"
+    },
+    {
+      "name": "Biochemistry",
+      "code": "BICH1A1",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/biochemistry/3419831"
+    },
+    {
+      "name": "Biochemistry- Biochemical Techniques and Enzymology",
+      "code": "BIC02A2",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/biochemistry-biochemical-techniques-and-enzymology/6972388"
+    },
+    {
+      "name": "Biodiversity and conservation biology",
+      "code": "BDC222",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/biodiversity-and-conservation-biology/7063214"
+    },
+    {
+      "name": "Biotechnology",
+      "code": "DI1510",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/biotechnology/2997264"
+    },
+    {
+      "name": "Board exams",
+      "code": "LPAM101",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/board-exams/7446851"
+    },
+    {
+      "name": "Botany 1B",
+      "code": "Bot01B",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/botany-1b/6391828"
+    },
+    {
+      "name": "Brand Marketing",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/brand-marketing/3289673"
+    },
+    {
+      "name": "Building and structural construction N6",
+      "code": "BSC N6",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/building-and-structural-construction-n6/6374157"
+    },
+    {
+      "name": "Building Science 2",
+      "code": "BUQS3016A",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/building-science-2/6218184"
+    },
+    {
+      "name": "Building structural construction N5",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/building-structural-construction-n5/5730306"
+    },
+    {
+      "name": "Building Structures 2",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/building-structures-2/3289936"
+    },
+    {
+      "name": "Building Structures 3",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/building-structures-3/3289944"
+    },
+    {
+      "name": "Business & Administrative Comm. 1A",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/business-administrative-comm-1a/3289674"
+    },
+    {
+      "name": "Business & Administrative Comm. 1B",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/business-administrative-comm-1b/3289675"
+    },
+    {
+      "name": "Business Analysis 1A",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/business-analysis-1a/3289676"
+    },
+    {
+      "name": "Business Analysis 2A",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/business-analysis-2a/3289678"
+    },
+    {
+      "name": "Business Analysis 3.1",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/business-analysis-31/4368266"
+    },
+    {
+      "name": "Business Analysis 3B",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/business-analysis-3b/3289681"
+    },
+    {
+      "name": "Business Analysis II",
+      "code": "BAY22B2",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/business-analysis-ii/3417826"
+    },
+    {
+      "name": "Business Course",
+      "code": "BC.1",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/business-course/5485176"
+    },
+    {
+      "name": "Business enterprise law",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/business-enterprise-law/4802648"
+    },
+    {
+      "name": "Business Finance",
+      "code": "BUSE2000",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/business-finance/3722397"
+    },
+    {
+      "name": "Business Intelligence",
+      "code": "IMA8X01",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/business-intelligence/3417466"
+    },
+    {
+      "name": "Business law",
+      "code": "Bul41a1",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/business-law/7464224"
+    },
+    {
+      "name": "Business Law 1A",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/business-law-1a/3289682"
+    },
+    {
+      "name": "Business Law 1B",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/business-law-1b/3289683"
+    },
+    {
+      "name": "Business Literacy 1",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/business-literacy-1/3289684"
+    },
+    {
+      "name": "Business Literacy 2",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/business-literacy-2/3289685"
+    },
+    {
+      "name": "Business Management",
+      "code": "BMA3A01",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/business-management/3705812"
+    },
+    {
+      "name": "Business Management",
+      "code": "BUS 1101",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/business-management/6663260"
+    },
+    {
+      "name": "Business Management 1 Mod A (Ext)",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/business-management-1-mod-a-ext/3289686"
+    },
+    {
+      "name": "Business Management 1A",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/business-management-1a/3289688"
+    },
+    {
+      "name": "Business Management 1B",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/business-management-1b/3289689"
+    },
+    {
+      "name": "Business Management 2A",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/business-management-2a/3289690"
+    },
+    {
+      "name": "Business Management 2A",
+      "code": "BMG02A2",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/business-management-2a/7437620"
+    },
+    {
+      "name": "Business Management 2B",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/business-management-2b/3289691"
+    },
+    {
+      "name": "Business Management 2B",
+      "code": "BMG02B2",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/business-management-2b/7737990"
+    },
+    {
+      "name": "Business Management 3A",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/business-management-3a/3289692"
+    },
+    {
+      "name": "Business Management 3B",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/business-management-3b/3289693"
+    },
+    {
+      "name": "Business Mathematics 100",
+      "code": "MAT100",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/business-mathematics-100/6185601"
+    },
+    {
+      "name": "calculus 2b",
+      "code": "MAT2B10",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/calculus-2b/4910461"
+    },
+    {
+      "name": "Calculus of One-Variable Functions for Engineers",
+      "code": "MATENA 1",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/calculus-of-one-variable-functions-for-engineers/6323158"
+    },
+    {
+      "name": "Capita Selecta: Private Law A",
+      "code": "212CPA41B0",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/capita-selecta-private-law-a/5134622"
+    },
+    {
+      "name": "Cell Biology 1",
+      "code": "CLBHBB1",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/cell-biology-1/5928775"
+    },
+    {
+      "name": "CHEM",
+      "code": "3A10",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/chem/4802895"
+    },
+    {
+      "name": "Chemical Engineering Fundamentals 1B",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/chemical-engineering-fundamentals-1b/3290057"
+    },
+    {
+      "name": "Chemical Engineering Laboratory 2B",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/chemical-engineering-laboratory-2b/3290061"
+    },
+    {
+      "name": "Chemical Engineering Laboratory 3B",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/chemical-engineering-laboratory-3b/3290064"
+    },
+    {
+      "name": "Chemical Plant 3A",
+      "code": "ACPA 321",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/chemical-plant-3a/3419672"
+    },
+    {
+      "name": "Chemical Process technology 1A",
+      "code": "CPTCHA1",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/chemical-process-technology-1a/6068881"
+    },
+    {
+      "name": "Chemical Process Technology 1B",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/chemical-process-technology-1b/3290058"
+    },
+    {
+      "name": "Chemical Process Technology 1B",
+      "code": "CPTCHB1",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/chemical-process-technology-1b/7679333"
+    },
+    {
+      "name": "Chemical thermodynamics 2A",
+      "code": "CTDCHA2",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/chemical-thermodynamics-2a/6895373"
+    },
+    {
+      "name": "Chemistry 1A",
+      "code": "CEM1A01",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/chemistry-1a/3317501"
+    },
+    {
+      "name": "Chemistry X1",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/chemistry-x1/3290088"
+    },
+    {
+      "name": "Child and Family Psychology",
+      "code": "PSY3C11",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/child-and-family-psychology/4762736"
+    },
+    {
+      "name": "Chiropractic",
+      "code": "511-1",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/chiropractic/4361909"
+    },
+    {
+      "name": "Civil",
+      "code": "C2136",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/civil/7127204"
+    },
+    {
+      "name": "Civil engineering",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/civil-engineering/7207704"
+    },
+    {
+      "name": "Civil Engineering for Planner 1B",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/civil-engineering-for-planner-1b/3289973"
+    },
+    {
+      "name": "Civil Procedure",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/civil-procedure/6009778"
+    },
+    {
+      "name": "Classical Mechanics and Special Relativity",
+      "code": "PHY002A",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/classical-mechanics-and-special-relativity/6644601"
+    },
+    {
+      "name": "Clinical diagnostics",
+      "code": "CLDCMY3",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/clinical-diagnostics/6019261"
+    },
+    {
+      "name": "Clinical Legal Education",
+      "code": "Law 433",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/clinical-legal-education/6553334"
+    },
+    {
+      "name": "Cognitive Psychology",
+      "code": "PSYC3G",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/cognitive-psychology/6390496"
+    },
+    {
+      "name": "Colonial/Postcolonial Literature",
+      "code": "ENG8X04",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/colonialpostcolonial-literature/5391800"
+    },
+    {
+      "name": "Commerce 100",
+      "code": "Com100",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/commerce-100/4837712"
+    },
+    {
+      "name": "Commercial Law 100",
+      "code": "CML1B01",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/commercial-law-100/3368255"
+    },
+    {
+      "name": "COMMERCIAL LAW 1A",
+      "code": "KMR1A11/COL41A1",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/commercial-law-1a/3362357"
+    },
+    {
+      "name": "Commercial law 1B",
+      "code": "COL41B1",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/commercial-law-1b/5816607"
+    },
+    {
+      "name": "Communication",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/communication/3289876"
+    },
+    {
+      "name": "Communication 1A",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/communication-1a/3289695"
+    },
+    {
+      "name": "Communication 1B",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/communication-1b/3289696"
+    },
+    {
+      "name": "Communication 2B",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/communication-2b/3289697"
+    },
+    {
+      "name": "Communication and media",
+      "code": "CAM 3K",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/communication-and-media/7195772"
+    },
+    {
+      "name": "Communication law",
+      "code": "CML1501",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/communication-law/4356083"
+    },
+    {
+      "name": "Communication Management 2A",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/communication-management-2a/3289698"
+    },
+    {
+      "name": "Communication Management 3B",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/communication-management-3b/3289699"
+    },
+    {
+      "name": "Communication Networks 2A",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/communication-networks-2a/3289700"
+    },
+    {
+      "name": "Communication Networks 3A",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/communication-networks-3a/3289702"
+    },
+    {
+      "name": "Communication skills",
+      "code": "CUM1B",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/communication-skills/5413871"
+    },
+    {
+      "name": "Communications Skills 1A",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/communications-skills-1a/3289704"
+    },
+    {
+      "name": "Community psychology",
+      "code": "Psy3e",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/community-psychology/5923894"
+    },
+    {
+      "name": "company law",
+      "code": "CML9X1C",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/company-law/5740860"
+    },
+    {
+      "name": "Competitive Intelligence",
+      "code": "IMA8X03",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/competitive-intelligence/3417465"
+    },
+    {
+      "name": "Complementary Studies 3A",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/complementary-studies-3a/3290096"
+    },
+    {
+      "name": "Complex analysis",
+      "code": "MAT3B01",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/complex-analysis/5480277"
+    },
+    {
+      "name": "Computer Aided Design (Civil) Gp1 3B",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/computer-aided-design-civil-gp1-3b/3290032"
+    },
+    {
+      "name": "Computer Aided Drawing 1B",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/computer-aided-drawing-1b/3290018"
+    },
+    {
+      "name": "Computer Application: GIS 2A",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/computer-application-gis-2a/3289985"
+    },
+    {
+      "name": "Computer Applications",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/computer-applications/3290087"
+    },
+    {
+      "name": "Computer Science",
+      "code": "CSC1B",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/computer-science/5167818"
+    },
+    {
+      "name": "Computer Science",
+      "code": "CSC01A1",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/computer-science/5253188"
+    },
+    {
+      "name": "Computer Science 1",
+      "code": "Csc101",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/computer-science-1/3170806"
+    },
+    {
+      "name": "Computer Science 2A CSC2A",
+      "code": "CSC02A2",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/computer-science-2a-csc2a/6857620"
+    },
+    {
+      "name": "Computer Science 2B",
+      "code": "CSC02B2",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/computer-science-2b/6517452"
+    },
+    {
+      "name": "Computer Science 3",
+      "code": "CSC03A3",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/computer-science-3/6767402"
+    },
+    {
+      "name": "Computer Skills 1A",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/computer-skills-1a/3290038"
+    },
+    {
+      "name": "Constitutional law",
+      "code": "CLW41AO",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/constitutional-law/3387383"
+    },
+    {
+      "name": "Construction Contract law and administration",
+      "code": "CLA8X00",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/construction-contract-law-and-administration/6059040"
+    },
+    {
+      "name": "Construction Economics 3",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/construction-economics-3/3289939"
+    },
+    {
+      "name": "Construction Law 2B",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/construction-law-2b/3290006"
+    },
+    {
+      "name": "Construction Law 3A",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/construction-law-3a/3289940"
+    },
+    {
+      "name": "Construction Management 1A",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/construction-management-1a/3289929"
+    },
+    {
+      "name": "Construction Management 2",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/construction-management-2/3289933"
+    },
+    {
+      "name": "Construction Management 3",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/construction-management-3/3289941"
+    },
+    {
+      "name": "Construction Methods And Safety 1B",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/construction-methods-and-safety-1b/3290019"
+    },
+    {
+      "name": "Construction Science 1",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/construction-science-1/3289930"
+    },
+    {
+      "name": "Consumer Behaviour A",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/consumer-behaviour-a/3289705"
+    },
+    {
+      "name": "Consumer Behaviour B",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/consumer-behaviour-b/3289706"
+    },
+    {
+      "name": "contact lenses 1",
+      "code": "CTL00Y3",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/contact-lenses-1/4303972"
+    },
+    {
+      "name": "Contemporary Occupational Health Nursing",
+      "code": "GGB2077",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/contemporary-occupational-health-nursing/3419815"
+    },
+    {
+      "name": "Contemporary psychology",
+      "code": "Psyc212",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/contemporary-psychology/5780812"
+    },
+    {
+      "name": "Contemporary Retailing 1B",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/contemporary-retailing-1b/3289708"
+    },
+    {
+      "name": "Contract law",
+      "code": "Pvl3702",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/contract-law/4475721"
+    },
+    {
+      "name": "Control systems 3B",
+      "code": "CSTELB 3",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/control-systems-3b/4498329"
+    },
+    {
+      "name": "Control Systems 4B",
+      "code": "TKN3B21",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/control-systems-4b/5789190"
+    },
+    {
+      "name": "Corporate finance",
+      "code": "CFa1",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/corporate-finance/6869488"
+    },
+    {
+      "name": "Corporate Law 01",
+      "code": "MCL 5901",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/corporate-law-01/4839625"
+    },
+    {
+      "name": "Cost & Fin Mang For Non-Fin Specialists 4A",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/cost-fin-mang-for-non-fin-specialists-4a/3289709"
+    },
+    {
+      "name": "Cost and financial management",
+      "code": "CFM11B1",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/cost-and-financial-management/5791531"
+    },
+    {
+      "name": "Cost and Financial Management 2B",
+      "code": "CFM22B2",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/cost-and-financial-management-2b/6478798"
+    },
+    {
+      "name": "Cost and Management Accounting",
+      "code": "CMA02B2",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/cost-and-management-accounting/3402239"
+    },
+    {
+      "name": "Cost and Management Accounting",
+      "code": "CNA11A1",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/cost-and-management-accounting/6907123"
+    },
+    {
+      "name": "cost and management accounting 3a",
+      "code": "CNA33A3",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/cost-and-management-accounting-3a/6863832"
+    },
+    {
+      "name": "Costing And Estimating 1A",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/costing-and-estimating-1a/3289711"
+    },
+    {
+      "name": "Costing And Estimating 1B",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/costing-and-estimating-1b/3289712"
+    },
+    {
+      "name": "Criminal Law",
+      "code": "CRL41Y0",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/criminal-law/3294998"
+    },
+    {
+      "name": "Criminal law",
+      "code": "2602",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/criminal-law/4476451"
+    },
+    {
+      "name": "criminology and forensic studies",
+      "code": "cfsd 201",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/criminology-and-forensic-studies/6839005"
+    },
+    {
+      "name": "Culinary Studies And Nutrition 1A (Theory)",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/culinary-studies-and-nutrition-1a-theory/3289713"
+    },
+    {
+      "name": "Culinary Studies And Nutrition 1B (Practical)",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/culinary-studies-and-nutrition-1b-practical/3289714"
+    },
+    {
+      "name": "Culture In Tourism 1A",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/culture-in-tourism-1a/3289715"
+    },
+    {
+      "name": "Culture In Tourism 1B",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/culture-in-tourism-1b/3289716"
+    },
+    {
+      "name": "Cyber law",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/cyber-law/5336325"
+    },
+    {
+      "name": "Cyber security and cyber crimes",
+      "code": "CYB9X1C",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/cyber-security-and-cyber-crimes/6345014"
+    },
+    {
+      "name": "Daily Routines Elementary Course",
+      "code": "DR.1",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/daily-routines-elementary-course/5485180"
+    },
+    {
+      "name": "data structure",
+      "code": "scoa021",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/data-structure/4473444"
+    },
+    {
+      "name": "Dataship curo",
+      "code": "Arm4803",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/dataship-curo/7639688"
+    },
+    {
+      "name": "Demand Planning",
+      "code": "LMA8X11",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/demand-planning/5443585"
+    },
+    {
+      "name": "Descriptive Quantification",
+      "code": "DQUAED1",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/descriptive-quantification/4411887"
+    },
+    {
+      "name": "Descriptive Quantification 2",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/descriptive-quantification-2/3289934"
+    },
+    {
+      "name": "Descriptive Quantification 3",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/descriptive-quantification-3/3289943"
+    },
+    {
+      "name": "Destinations: Africa And Indian Ocean Islands",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/destinations-africa-and-indian-ocean-islands/3289719"
+    },
+    {
+      "name": "Development Software 1A",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/development-software-1a/3289723"
+    },
+    {
+      "name": "Development Software 1B",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/development-software-1b/3289724"
+    },
+    {
+      "name": "Development Software 2A",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/development-software-2a/3289725"
+    },
+    {
+      "name": "Development Software 2B",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/development-software-2b/3289726"
+    },
+    {
+      "name": "Development Studies 1A",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/development-studies-1a/3289871"
+    },
+    {
+      "name": "Development Studies 1B",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/development-studies-1b/3289872"
+    },
+    {
+      "name": "Development studies 3A",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/development-studies-3a/6958054"
+    },
+    {
+      "name": "Development Studies 3B",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/development-studies-3b/7269628"
+    },
+    {
+      "name": "Developmental Psychology 2A",
+      "code": "PSY2AA2",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/developmental-psychology-2a/7570012"
+    },
+    {
+      "name": "diagnostic practice",
+      "code": "dip01y2",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/diagnostic-practice/5139843"
+    },
+    {
+      "name": "Digital Technology 1B",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/digital-technology-1b/3290010"
+    },
+    {
+      "name": "Digital Technology 2B",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/digital-technology-2b/3290092"
+    },
+    {
+      "name": "diploma  in logistics",
+      "code": "MAR01A1",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/diploma-in-logistics/6195165"
+    },
+    {
+      "name": "Diploma in Accountancy",
+      "code": "D3A15Q",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/diploma-in-accountancy/4802777"
+    },
+    {
+      "name": "diploma in accountancy",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/diploma-in-accountancy/6036412"
+    },
+    {
+      "name": "Diploma in Transportation Management",
+      "code": "D1TRMQ",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/diploma-in-transportation-management/6339267"
+    },
+    {
+      "name": "Diploma of Law",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/diploma-of-law/5884115"
+    },
+    {
+      "name": "Discrete Mathematics",
+      "code": "MAT02A3",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/discrete-mathematics/6654603"
+    },
+    {
+      "name": "Documentation 2B",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/documentation-2b/3290025"
+    },
+    {
+      "name": "Drafting Commercial Contracts",
+      "code": "PRL5901",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/drafting-commercial-contracts/4839627"
+    },
+    {
+      "name": "Draughting for civil engineers",
+      "code": "DrGB1",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/draughting-for-civil-engineers/5791497"
+    },
+    {
+      "name": "Drawing 1",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/drawing-1/3289866"
+    },
+    {
+      "name": "Dynamic Analysis of Structures",
+      "code": "M6DYS29",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/dynamic-analysis-of-structures/4412185"
+    },
+    {
+      "name": "e-learning : concepts and principles",
+      "code": "INF4860",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/e-learning-concepts-and-principles/6191365"
+    },
+    {
+      "name": "Economertics 2 B",
+      "code": "ECN02B01",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/economertics-2-b/3220703"
+    },
+    {
+      "name": "ECONOMETRICS",
+      "code": "ekm3",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/econometrics/3348798"
+    },
+    {
+      "name": "Economics",
+      "code": "Eco2b",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/economics/7687000"
+    },
+    {
+      "name": "Economics 100",
+      "code": "Eco100",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/economics-100/4837711"
+    },
+    {
+      "name": "Economics 1A",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/economics-1a/3289932"
+    },
+    {
+      "name": "Economics 1B",
+      "code": "ECO1101",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/economics-1b/5463439"
+    },
+    {
+      "name": "Economics 2A",
+      "code": "EKN 2A",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/economics-2a/3348776"
+    },
+    {
+      "name": "Economics 2A",
+      "code": "EKN2B",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/economics-2a/3348777"
+    },
+    {
+      "name": "Economics 2b",
+      "code": "22ECO2BB2",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/economics-2b/5725649"
+    },
+    {
+      "name": "Economics 2c",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/economics-2c/6323056"
+    },
+    {
+      "name": "Economics 2D",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/economics-2d/6394515"
+    },
+    {
+      "name": "Economics 2E",
+      "code": "EKN2E",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/economics-2e/3348784"
+    },
+    {
+      "name": "Economics 2F",
+      "code": "ECO2FA2",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/economics-2f/5420684"
+    },
+    {
+      "name": "Economics 3A",
+      "code": "ECO33A3",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/economics-3a/5960457"
+    },
+    {
+      "name": "Economics 3B",
+      "code": "EKN3B",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/economics-3b/3348796"
+    },
+    {
+      "name": "Economics 3C",
+      "code": "ECO3CA3",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/economics-3c/6352567"
+    },
+    {
+      "name": "economics 3d",
+      "code": "ECO3D",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/economics-3d/5791731"
+    },
+    {
+      "name": "Economics and Business Environment/ EBE",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/economics-and-business-environment-ebe/4763278"
+    },
+    {
+      "name": "Economics for Planners 2A",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/economics-for-planners-2a/3289980"
+    },
+    {
+      "name": "Economics Principles",
+      "code": "AC1ECPR",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/economics-principles/6757000"
+    },
+    {
+      "name": "Education",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/education/3289878"
+    },
+    {
+      "name": "Education senior phase and FET",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/education-senior-phase-and-fet/5443401"
+    },
+    {
+      "name": "education studies",
+      "code": "EST 101A",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/education-studies/7196852"
+    },
+    {
+      "name": "Education Studies 1a",
+      "code": "(241EST10A1)",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/education-studies-1a/6786898"
+    },
+    {
+      "name": "Education studies 3A",
+      "code": "251EST10A3",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/education-studies-3a/7587214"
+    },
+    {
+      "name": "Electrical Engineering",
+      "code": "211sigsta2",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/electrical-engineering/4821718"
+    },
+    {
+      "name": "Electrical Machines 4B",
+      "code": "EMA4B21",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/electrical-machines-4b/5120981"
+    },
+    {
+      "name": "Electrical Project 2B",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/electrical-project-2b/3290091"
+    },
+    {
+      "name": "Electrical Project 3A",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/electrical-project-3a/3290097"
+    },
+    {
+      "name": "Electrical Project 3B",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/electrical-project-3b/3290015"
+    },
+    {
+      "name": "Electrochemistry for Water Treatment",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/electrochemistry-for-water-treatment/6060233"
+    },
+    {
+      "name": "Electronic Circuits 1B",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/electronic-circuits-1b/3290011"
+    },
+    {
+      "name": "Electronic Circuits 2A",
+      "code": "ELCELA2",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/electronic-circuits-2a/6970994"
+    },
+    {
+      "name": "Electronics 3B",
+      "code": "EKAEEB3",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/electronics-3b/7419209"
+    },
+    {
+      "name": "Electrotechnics 1B",
+      "code": "ENTEEB1",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/electrotechnics-1b/3362034"
+    },
+    {
+      "name": "Electrotechnics 2A",
+      "code": "ETBEEA2",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/electrotechnics-2a/6044720"
+    },
+    {
+      "name": "Electrotechnics 2B",
+      "code": "ETN2B",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/electrotechnics-2b/4097591"
+    },
+    {
+      "name": "Electrotechnology 1A",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/electrotechnology-1a/3290039"
+    },
+    {
+      "name": "Electrotechnology 1B",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/electrotechnology-1b/3290012"
+    },
+    {
+      "name": "Electrotechnology III",
+      "code": "ELT 312",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/electrotechnology-iii/3127719"
+    },
+    {
+      "name": "Emergency Care theory 2",
+      "code": "EMCTH22",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/emergency-care-theory-2/7081520"
+    },
+    {
+      "name": "Emergency Medical Care",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/emergency-medical-care/5355431"
+    },
+    {
+      "name": "Employment Law",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/employment-law/6526454"
+    },
+    {
+      "name": "Employment Relations 1A",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/employment-relations-1a/3289728"
+    },
+    {
+      "name": "Employment Relations 1B",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/employment-relations-1b/3289729"
+    },
+    {
+      "name": "End User Computing A",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/end-user-computing-a/3289730"
+    },
+    {
+      "name": "End-User Computing 1A",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/end-user-computing-1a/3289916"
+    },
+    {
+      "name": "Energy Physics",
+      "code": "PHE8X80",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/energy-physics/6893845"
+    },
+    {
+      "name": "Engineering Chemistry (Chemical) 1B",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/engineering-chemistry-chemical-1b/3290059"
+    },
+    {
+      "name": "Engineering Chemistry (Metallurgy) 1B",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/engineering-chemistry-metallurgy-1b/3290069"
+    },
+    {
+      "name": "Engineering communication skills",
+      "code": "ECS1A1",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/engineering-communication-skills/7441119"
+    },
+    {
+      "name": "Engineering Communication Skills 1A",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/engineering-communication-skills-1a/3289945"
+    },
+    {
+      "name": "Engineering Communication Skills 1B",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/engineering-communication-skills-1b/3289948"
+    },
+    {
+      "name": "Engineering Design",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/engineering-design/6505334"
+    },
+    {
+      "name": "Engineering Drawing 1",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/engineering-drawing-1/3290089"
+    },
+    {
+      "name": "Engineering Geology (Civil) 1B",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/engineering-geology-civil-1b/3290020"
+    },
+    {
+      "name": "Engineering Geology (Construction) 2B",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/engineering-geology-construction-2b/3290005"
+    },
+    {
+      "name": "Engineering Geology (Metallurgy) 2A",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/engineering-geology-metallurgy-2a/3290071"
+    },
+    {
+      "name": "Engineering Geology (Mining) 2A",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/engineering-geology-mining-2a/3289954"
+    },
+    {
+      "name": "Engineering Management (Mine) 2B",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/engineering-management-mine-2b/3289955"
+    },
+    {
+      "name": "Engineering Management (Mine) 3A",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/engineering-management-mine-3a/3289966"
+    },
+    {
+      "name": "Engineering Mathematics 0AA2",
+      "code": "MAT0AA2",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/engineering-mathematics-0aa2/3329238"
+    },
+    {
+      "name": "Engineering Mathematics 0AB2",
+      "code": "MAT0AB2",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/engineering-mathematics-0ab2/3335559"
+    },
+    {
+      "name": "Engineering Mathematics 1A",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/engineering-mathematics-1a/3289931"
+    },
+    {
+      "name": "Engineering Mathematics 1B",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/engineering-mathematics-1b/3290013"
+    },
+    {
+      "name": "Engineering Mathematics 2A2",
+      "code": "MATEAA2",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/engineering-mathematics-2a2/3393693"
+    },
+    {
+      "name": "Engineering Mathematics V 1B",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/engineering-mathematics-v-1b/3290070"
+    },
+    {
+      "name": "Engineering Multivariable and Vector Calculus",
+      "code": "MAT0CB2",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/engineering-multivariable-and-vector-calculus/3335566"
+    },
+    {
+      "name": "Engineering Physics 1A",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/engineering-physics-1a/3289946"
+    },
+    {
+      "name": "Engineering Physics 1B",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/engineering-physics-1b/3289949"
+    },
+    {
+      "name": "Engineering Physics Electrical 1B",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/engineering-physics-electrical-1b/3290014"
+    },
+    {
+      "name": "Engineering Physics X1B",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/engineering-physics-x1b/3290051"
+    },
+    {
+      "name": "Engineering Practice 3B",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/engineering-practice-3b/7161953"
+    },
+    {
+      "name": "Engineering Sequences, Series and Vector Calculus",
+      "code": "MAT0CA2",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/engineering-sequences-series-and-vector-calculus/3329233"
+    },
+    {
+      "name": "Engineering Statistics 1B",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/engineering-statistics-1b/3289950"
+    },
+    {
+      "name": "Engineering work study",
+      "code": "EWSMIB1",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/engineering-work-study/6488034"
+    },
+    {
+      "name": "English (Marketing Module A)",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/english-marketing-module-a/3289734"
+    },
+    {
+      "name": "English (Marketing Module B)",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/english-marketing-module-b/3289735"
+    },
+    {
+      "name": "English (Module A)",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/english-module-a/3289736"
+    },
+    {
+      "name": "English (Module B)",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/english-module-b/3289737"
+    },
+    {
+      "name": "English 1A",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/english-1a/3289869"
+    },
+    {
+      "name": "English 1B",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/english-1b/3289870"
+    },
+    {
+      "name": "English 1C",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/english-1c/3289890"
+    },
+    {
+      "name": "English 1D",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/english-1d/3289900"
+    },
+    {
+      "name": "English fal",
+      "code": "Eng1505",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/english-fal/7653215"
+    },
+    {
+      "name": "English for law",
+      "code": "EFL200y1",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/english-for-law/7110046"
+    },
+    {
+      "name": "English for the primary school 2A",
+      "code": "231EPS10A2",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/english-for-the-primary-school-2a/6018315"
+    },
+    {
+      "name": "English novels",
+      "code": "Eng41y0",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/english-novels/6835122"
+    },
+    {
+      "name": "entrepreneurship 02a",
+      "code": "ets02a",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/entrepreneurship-02a/7482495"
+    },
+    {
+      "name": "Entrepreneurship 1A",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/entrepreneurship-1a/3289738"
+    },
+    {
+      "name": "Entrepreneurship 2A",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/entrepreneurship-2a/3289739"
+    },
+    {
+      "name": "Entrepreneurship 2B",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/entrepreneurship-2b/3289740"
+    },
+    {
+      "name": "Entrepreneurship 3A",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/entrepreneurship-3a/3289741"
+    },
+    {
+      "name": "Entrepreneurship 3a",
+      "code": "ETS13A3",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/entrepreneurship-3a/7612421"
+    },
+    {
+      "name": "Entrepreneurship 3B",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/entrepreneurship-3b/3289742"
+    },
+    {
+      "name": "Environmental Engineering 3B",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/environmental-engineering-3b/3290065"
+    },
+    {
+      "name": "Environmental Engineering 3B",
+      "code": "ENVCHB3",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/environmental-engineering-3b/6385200"
+    },
+    {
+      "name": "Environmental law",
+      "code": "LCP4805",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/environmental-law/4927876"
+    },
+    {
+      "name": "Environmental Management 1A",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/environmental-management-1a/3289952"
+    },
+    {
+      "name": "Environmental Science & Management 3B",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/environmental-science-management-3b/3289997"
+    },
+    {
+      "name": "Estate Planning",
+      "code": "FPL 116D",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/estate-planning/6590732"
+    },
+    {
+      "name": "Ethical and Legal Aspects of IT",
+      "code": "IT28X47",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/ethical-and-legal-aspects-of-it/6725382"
+    },
+    {
+      "name": "ethical foundation to commerce",
+      "code": "efc2b",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/ethical-foundation-to-commerce/5425460"
+    },
+    {
+      "name": "Ethical leadership",
+      "code": "ELDX01",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/ethical-leadership/6811219"
+    },
+    {
+      "name": "Ethics And Community Studies 3B",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/ethics-and-community-studies-3b/3290036"
+    },
+    {
+      "name": "Facility Lay Out And Materials Handling 2B",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/facility-lay-out-and-materials-handling-2b/3290042"
+    },
+    {
+      "name": "Family law",
+      "code": "prw",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/family-law/3294137"
+    },
+    {
+      "name": "Ferrous Metallurgy 3A",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/ferrous-metallurgy-3a/3290079"
+    },
+    {
+      "name": "FET Mathematics",
+      "code": "MAFT3",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/fet-mathematics/6432298"
+    },
+    {
+      "name": "Financial  Accounting 1A",
+      "code": "FAC11A1",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/financial-accounting-1a/5319864"
+    },
+    {
+      "name": "Financial Accounting",
+      "code": "FAC33B3",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/financial-accounting/4930034"
+    },
+    {
+      "name": "Financial accounting",
+      "code": "FAC22B2",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/financial-accounting/6508980"
+    },
+    {
+      "name": "Financial Accounting 1b",
+      "code": "FAC11B1",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/financial-accounting-1b/7665637"
+    },
+    {
+      "name": "Financial accounting 2A",
+      "code": "FAC22A2",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/financial-accounting-2a/6242181"
+    },
+    {
+      "name": "Financial Accounting 3A",
+      "code": "FAC33A3",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/financial-accounting-3a/7597412"
+    },
+    {
+      "name": "Financial Accounting 4",
+      "code": "FAC8X00",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/financial-accounting-4/4830701"
+    },
+    {
+      "name": "Financial Economics",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/financial-economics/3290111"
+    },
+    {
+      "name": "Financial Literacy",
+      "code": "FLT41Y0",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/financial-literacy/7557607"
+    },
+    {
+      "name": "Financial Management",
+      "code": "FMA300",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/financial-management/3364530"
+    },
+    {
+      "name": "Financial Management",
+      "code": "CMA03A3",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/financial-management/3405857"
+    },
+    {
+      "name": "Financial Management 1B",
+      "code": "FNM1B01",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/financial-management-1b/6514633"
+    },
+    {
+      "name": "Financial Management 200",
+      "code": "FMA200",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/financial-management-200/3368262"
+    },
+    {
+      "name": "Financial Management 2A",
+      "code": "FNM02A2",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/financial-management-2a/6008344"
+    },
+    {
+      "name": "Financial Management 3B",
+      "code": "FNM03B",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/financial-management-3b/7257777"
+    },
+    {
+      "name": "Financial Management 4",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/financial-management-4/3289743"
+    },
+    {
+      "name": "Financial Management A",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/financial-management-a/3289744"
+    },
+    {
+      "name": "Financial Management B",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/financial-management-b/3289745"
+    },
+    {
+      "name": "Financial Management Component",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/financial-management-component/3289746"
+    },
+    {
+      "name": "Financial Markets",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/financial-markets/5537732"
+    },
+    {
+      "name": "Financial markets transactions",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/financial-markets-transactions/5019706"
+    },
+    {
+      "name": "Financial Planning 3A",
+      "code": "FPL3A011 1",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/financial-planning-3a/4059794"
+    },
+    {
+      "name": "Financial Planning 3B",
+      "code": "FPL03B3",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/financial-planning-3b/7257824"
+    },
+    {
+      "name": "Financial Principles in Operation 1A",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/financial-principles-in-operation-1a/3289925"
+    },
+    {
+      "name": "Financial Recording Analysis & Management (A)",
+      "code": "201FRAM0A1",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/financial-recording-analysis-management-a/4764169"
+    },
+    {
+      "name": "Fluid dynamics 3A",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/fluid-dynamics-3a/6361186"
+    },
+    {
+      "name": "Fluid Mechanics 2A",
+      "code": "FLMMIA 2",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/fluid-mechanics-2a/3396816"
+    },
+    {
+      "name": "Food & Beverage Financials 2",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/food-beverage-financials-2/3289748"
+    },
+    {
+      "name": "food and beverage service 2",
+      "code": "FBV02Y2",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/food-and-beverage-service-2/7719203"
+    },
+    {
+      "name": "Food safety and quality",
+      "code": "FTN2QA3",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/food-safety-and-quality/5350107"
+    },
+    {
+      "name": "Foundation in English Literary Studies",
+      "code": "ENG1501",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/foundation-in-english-literary-studies/5365749"
+    },
+    {
+      "name": "Fundamental Nursing Science",
+      "code": "FVK2A10",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/fundamental-nursing-science/3419820"
+    },
+    {
+      "name": "Fundamental Research Practice",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/fundamental-research-practice/3290090"
+    },
+    {
+      "name": "Fundamental Research Practice (Man) Ext.",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/fundamental-research-practice-man-ext/3289749"
+    },
+    {
+      "name": "Fundamentals Of Business Mathematics",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/fundamentals-of-business-mathematics/3289750"
+    },
+    {
+      "name": "Fundamentals of Metallurgy 1B",
+      "code": "METM1B1",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/fundamentals-of-metallurgy-1b/6600729"
+    },
+    {
+      "name": "fundation physics",
+      "code": "fype01",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/fundation-physics/5446334"
+    },
+    {
+      "name": "General Economics",
+      "code": "PHYS339",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/general-economics/5952634"
+    },
+    {
+      "name": "Geography 1B",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/geography-1b/7470461"
+    },
+    {
+      "name": "Geography 3B",
+      "code": "SOSG3B",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/geography-3b/5311309"
+    },
+    {
+      "name": "Geography for Planning 1A",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/geography-for-planning-1a/3289975"
+    },
+    {
+      "name": "Geology 3A",
+      "code": "GLG3A",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/geology-3a/6000508"
+    },
+    {
+      "name": "Geotechnical Engineering 2B",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/geotechnical-engineering-2b/3290026"
+    },
+    {
+      "name": "Geotechnical Engineering 3A",
+      "code": "GTG3A11",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/geotechnical-engineering-3a/3394828"
+    },
+    {
+      "name": "Global Communication",
+      "code": "CMS3B",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/global-communication/3307359"
+    },
+    {
+      "name": "Global Supply Chain Management",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/global-supply-chain-management/3289751"
+    },
+    {
+      "name": "Good Governance & Sustainability in Africa A",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/good-governance-sustainability-in-africa-a/3289911"
+    },
+    {
+      "name": "Governance & Control 3AB",
+      "code": "GAC03AB",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/governance-control-3ab/6558629"
+    },
+    {
+      "name": "Governance and Citizenship",
+      "code": "GOV2AB0",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/governance-and-citizenship/4489567"
+    },
+    {
+      "name": "Governance and Control",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/governance-and-control/4883031"
+    },
+    {
+      "name": "Governance and control",
+      "code": "GAC2B01",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/governance-and-control/5396758"
+    },
+    {
+      "name": "Health Management Systems",
+      "code": "HMS411",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/health-management-systems/3419825"
+    },
+    {
+      "name": "Health Management Systems",
+      "code": "HMS 411",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/health-management-systems/3419823"
+    },
+    {
+      "name": "Heat and Mass Transfer 2A",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/heat-and-mass-transfer-2a/3290072"
+    },
+    {
+      "name": "Heat Transfer 4a",
+      "code": "WAOMCA4",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/heat-transfer-4a/5286233"
+    },
+    {
+      "name": "Higher certificate in banking",
+      "code": "CBC1501",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/higher-certificate-in-banking/7511900"
+    },
+    {
+      "name": "Higher Certificate in Criminal Justice & Forensic Investigations",
+      "code": "Cjf00A1",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/higher-certificate-in-criminal-justice-forensic-investigations/5409100"
+    },
+    {
+      "name": "Historical Studies",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/historical-studies/3289879"
+    },
+    {
+      "name": "Historical Studies 1A",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/historical-studies-1a/3289873"
+    },
+    {
+      "name": "Historical Studies 1B",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/historical-studies-1b/3289874"
+    },
+    {
+      "name": "History and Principles of Planning 1A",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/history-and-principles-of-planning-1a/3289976"
+    },
+    {
+      "name": "History Methodology and Practicum",
+      "code": "HISTMETH",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/history-methodology-and-practicum/7397959"
+    },
+    {
+      "name": "Honours in Financial Management",
+      "code": "MAC8X00",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/honours-in-financial-management/7257861"
+    },
+    {
+      "name": "Hospitality Communication 1",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/hospitality-communication-1/3289753"
+    },
+    {
+      "name": "Housing Development 2B",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/housing-development-2b/3289987"
+    },
+    {
+      "name": "Human biochemistry",
+      "code": "HBDCMY 2",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/human-biochemistry/7046300"
+    },
+    {
+      "name": "human biology",
+      "code": "hub128",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/human-biology/7091454"
+    },
+    {
+      "name": "Human Computer Interface",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/human-computer-interface/3289752"
+    },
+    {
+      "name": "Human Recourse Management 1A",
+      "code": "HRM1AA1",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/human-recourse-management-1a/6860842"
+    },
+    {
+      "name": "Human resource management",
+      "code": "bem33a3",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/human-resource-management/2901107"
+    },
+    {
+      "name": "Human Resource Management",
+      "code": "HRM 2AA2",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/human-resource-management/4404148"
+    },
+    {
+      "name": "Human Resource Management 1B",
+      "code": "HRM21B1",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/human-resource-management-1b/3421095"
+    },
+    {
+      "name": "Human Resource Management 2B",
+      "code": "MHB2B01",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/human-resource-management-2b/6544548"
+    },
+    {
+      "name": "Human resource management 3",
+      "code": "HRM3CA1",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/human-resource-management-3/6373048"
+    },
+    {
+      "name": "Human Rights Law",
+      "code": "HRT41B0",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/human-rights-law/4332131"
+    },
+    {
+      "name": "Hydraulic machines",
+      "code": "HYMM2B",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/hydraulic-machines/5711675"
+    },
+    {
+      "name": "Hydrology 2B",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/hydrology-2b/3290027"
+    },
+    {
+      "name": "Hydrometallurgy 3A",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/hydrometallurgy-3a/3290078"
+    },
+    {
+      "name": "ICT management",
+      "code": "MIT 840",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/ict-management/3608399"
+    },
+    {
+      "name": "imaging technology",
+      "code": "imt01y1",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/imaging-technology/5158068"
+    },
+    {
+      "name": "Income Tax Planning",
+      "code": "ITN8X01",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/income-tax-planning/6246370"
+    },
+    {
+      "name": "Indigenous  law",
+      "code": "IDL41BO",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/indigenous-law/4356324"
+    },
+    {
+      "name": "Industrial Engineering",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/industrial-engineering/7160772"
+    },
+    {
+      "name": "Industrial Minerals 3B",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/industrial-minerals-3b/3290082"
+    },
+    {
+      "name": "Industrial Psychology",
+      "code": "IPS31B1",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/industrial-psychology/4512171"
+    },
+    {
+      "name": "Industrial psychology",
+      "code": "IPS22B2",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/industrial-psychology/4737457"
+    },
+    {
+      "name": "Industrial Psychology 1A",
+      "code": "IPS11A1",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/industrial-psychology-1a/7532313"
+    },
+    {
+      "name": "Industrial psychology 2A",
+      "code": "IPS22A2",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/industrial-psychology-2a/4737459"
+    },
+    {
+      "name": "Industrial psychology 3A",
+      "code": "211IPS13A3",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/industrial-psychology-3a/4762734"
+    },
+    {
+      "name": "Info about UJenius Club",
+      "code": "SMART",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/info-about-ujenius-club/6951011"
+    },
+    {
+      "name": "Informatics",
+      "code": "IFM100",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/informatics/4910590"
+    },
+    {
+      "name": "Informatics 1A",
+      "code": "IFM01A1",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/informatics-1a/5817397"
+    },
+    {
+      "name": "Informatics 1B",
+      "code": "IFM01B1",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/informatics-1b/7675581"
+    },
+    {
+      "name": "Informatics 2B",
+      "code": "IFM02B2",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/informatics-2b/6552647"
+    },
+    {
+      "name": "Informatics 3A – Introduction to Software Engineering",
+      "code": "IFM3A10",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/informatics-3a-introduction-to-software-engineering/3307872"
+    },
+    {
+      "name": "Informatics 3B- Advanced Software Engineering",
+      "code": "IFM3B10",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/informatics-3b-advanced-software-engineering/3305079"
+    },
+    {
+      "name": "Information Management",
+      "code": "IMA21B1",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/information-management/3925112"
+    },
+    {
+      "name": "Information Management",
+      "code": "IMA23B3",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/information-management/7019693"
+    },
+    {
+      "name": "Information management 2B",
+      "code": "ILKB2B",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/information-management-2b/4988985"
+    },
+    {
+      "name": "Information science",
+      "code": "ARM1502",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/information-science/4488317"
+    },
+    {
+      "name": "Information security governance supp",
+      "code": "IT28X80",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/information-security-governance-supp/6984187"
+    },
+    {
+      "name": "Information Systems 1A",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/information-systems-1a/3289754"
+    },
+    {
+      "name": "Information Systems 1B",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/information-systems-1b/3289755"
+    },
+    {
+      "name": "Information Systems 2A",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/information-systems-2a/3289756"
+    },
+    {
+      "name": "Information Systems 2B",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/information-systems-2b/3289757"
+    },
+    {
+      "name": "Information Systems 3A",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/information-systems-3a/3289758"
+    },
+    {
+      "name": "Information Systems 3B",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/information-systems-3b/3289759"
+    },
+    {
+      "name": "Information Systems 3B",
+      "code": "ILS3B01",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/information-systems-3b/6620708"
+    },
+    {
+      "name": "Information Technology 2A",
+      "code": "ITM2A",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/information-technology-2a/6874387"
+    },
+    {
+      "name": "Information Technology 2B",
+      "code": "ITB2B01",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/information-technology-2b/3305082"
+    },
+    {
+      "name": "Information Technology Management 3A",
+      "code": "ITB3A01",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/information-technology-management-3a/3420484"
+    },
+    {
+      "name": "Information Technology Management 3B",
+      "code": "ITB3B01",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/information-technology-management-3b/3421001"
+    },
+    {
+      "name": "Innovation and Entrepreneurial Skills 3B",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/innovation-and-entrepreneurial-skills-3b/3290066"
+    },
+    {
+      "name": "Instrumentation and Control 3A",
+      "code": "INCLA3",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/instrumentation-and-control-3a/7675597"
+    },
+    {
+      "name": "International Finance",
+      "code": "INFI9X2",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/international-finance/7103638"
+    },
+    {
+      "name": "International law",
+      "code": "INL41AO",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/international-law/3500383"
+    },
+    {
+      "name": "International law",
+      "code": "LCP4801",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/international-law/4844030"
+    },
+    {
+      "name": "International Management",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/international-management/3289760"
+    },
+    {
+      "name": "International Marketing",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/international-marketing/3289761"
+    },
+    {
+      "name": "International Trade Law",
+      "code": "ITL41BO",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/international-trade-law/6561223"
+    },
+    {
+      "name": "Internet Infrastructure",
+      "code": "ILK2307",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/internet-infrastructure/3417464"
+    },
+    {
+      "name": "Interpretation of Statutes",
+      "code": "222ULL0024",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/interpretation-of-statutes/5410266"
+    },
+    {
+      "name": "Interpretation of Statutes / Interpretation Theory",
+      "code": "ITH41B0",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/interpretation-of-statutes-interpretation-theory/4973728"
+    },
+    {
+      "name": "Intro to Land Surveying 1B",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/intro-to-land-surveying-1b/3289977"
+    },
+    {
+      "name": "Introduction to Advocacy",
+      "code": "ADV301",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/introduction-to-advocacy/5129089"
+    },
+    {
+      "name": "Introduction to calculus",
+      "code": "MAT01A1",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/introduction-to-calculus/6799719"
+    },
+    {
+      "name": "Introduction to Computer Studies 1A",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/introduction-to-computer-studies-1a/3289970"
+    },
+    {
+      "name": "Introduction to Engineering",
+      "code": "IIN1A11",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/introduction-to-engineering/3317449"
+    },
+    {
+      "name": "introduction to engineering design 1a",
+      "code": "iineea1",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/introduction-to-engineering-design-1a/6974952"
+    },
+    {
+      "name": "Introduction To Environmental Health",
+      "code": "ITENV01",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/introduction-to-environmental-health/3419821"
+    },
+    {
+      "name": "Introduction to finance",
+      "code": "ITF01B1",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/introduction-to-finance/7671729"
+    },
+    {
+      "name": "Introduction to law",
+      "code": "INL100",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/introduction-to-law/6896443"
+    },
+    {
+      "name": "Introduction to Law",
+      "code": "ILW1501",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/introduction-to-law/7755359"
+    },
+    {
+      "name": "Introduction to law 100",
+      "code": "INL100",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/introduction-to-law-100/3040740"
+    },
+    {
+      "name": "Introduction to legal studies",
+      "code": "LSK41Y0",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/introduction-to-legal-studies/3328768"
+    },
+    {
+      "name": "Introduction to legal studies",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/introduction-to-legal-studies/5323685"
+    },
+    {
+      "name": "Introduction to Numerical Analysis",
+      "code": "APM2B10",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/introduction-to-numerical-analysis/3323784"
+    },
+    {
+      "name": "Introduction to Reactor Design",
+      "code": "irdcha3",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/introduction-to-reactor-design/4367546"
+    },
+    {
+      "name": "introduction to statistics",
+      "code": "math 1820",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/introduction-to-statistics/6521839"
+    },
+    {
+      "name": "introductory  to mathematical analysis",
+      "code": "MAA00A1",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/introductory-to-mathematical-analysis/5376557"
+    },
+    {
+      "name": "introductory labour law",
+      "code": "ILL410",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/introductory-labour-law/7563375"
+    },
+    {
+      "name": "Inventory Management",
+      "code": "INMLMA",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/inventory-management/7580125"
+    },
+    {
+      "name": "Investigative Project 3B",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/investigative-project-3b/3290067"
+    },
+    {
+      "name": "Investment Management",
+      "code": "BLB3B01",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/investment-management/3107352"
+    },
+    {
+      "name": "Investment management 2A",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/investment-management-2a/3730744"
+    },
+    {
+      "name": "Investment Management 3A",
+      "code": "IVM03A3",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/investment-management-3a/7591962"
+    },
+    {
+      "name": "Investment Managment 3B",
+      "code": "IVM03B3",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/investment-managment-3b/7725392"
+    },
+    {
+      "name": "Investment Planning",
+      "code": "INP8X01",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/investment-planning/7549540"
+    },
+    {
+      "name": "IT Management 1A",
+      "code": "ITB1A01",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/it-management-1a/3420286"
+    },
+    {
+      "name": "IT Management for Business Competitiveness",
+      "code": "BMI9X01",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/it-management-for-business-competitiveness/3420999"
+    },
+    {
+      "name": "Japanese",
+      "code": "ppc204",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/japanese/7665611"
+    },
+    {
+      "name": "Job Application Form",
+      "code": "2024",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/job-application-form/6768562"
+    },
+    {
+      "name": "Jurisprudence",
+      "code": "Jur41Y0",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/jurisprudence/4956456"
+    },
+    {
+      "name": "Knowledge Economy",
+      "code": "IMK22B2",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/knowledge-economy/6495965"
+    },
+    {
+      "name": "Knowledge Management",
+      "code": "ILK2407",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/knowledge-management/3417462"
+    },
+    {
+      "name": "Labour Law",
+      "code": "CML4004S",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/labour-law/3649669"
+    },
+    {
+      "name": "Labour Market Issues",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/labour-market-issues/3290105"
+    },
+    {
+      "name": "Labour Relations And Law 3A",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/labour-relations-and-law-3a/3289763"
+    },
+    {
+      "name": "Language for science",
+      "code": "250LSS01Y1",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/language-for-science/7571155"
+    },
+    {
+      "name": "language practice",
+      "code": "LP1A",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/language-practice/6955912"
+    },
+    {
+      "name": "Law",
+      "code": "AFL1501",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/law/6815396"
+    },
+    {
+      "name": "Law civil law",
+      "code": "CVL002",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/law-civil-law/5408351"
+    },
+    {
+      "name": "Law of Ciminal Procedure",
+      "code": "CPR41A0 & SAR0011",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/law-of-ciminal-procedure/4864877"
+    },
+    {
+      "name": "Law of Civil Procedure",
+      "code": "CPR41Y0",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/law-of-civil-procedure/3352830"
+    },
+    {
+      "name": "Law of contract",
+      "code": "Lcy4yo",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/law-of-contract/3944720"
+    },
+    {
+      "name": "Law of Delict",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/law-of-delict/3674039"
+    },
+    {
+      "name": "Law of Evidence and Litigation Techniques",
+      "code": "LEL41Y0",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/law-of-evidence-and-litigation-techniques/4396381"
+    },
+    {
+      "name": "Law of Insolvency",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/law-of-insolvency/3978228"
+    },
+    {
+      "name": "Law of negotiable instruments and Banking law",
+      "code": "212LNI41B0",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/law-of-negotiable-instruments-and-banking-law/5134621"
+    },
+    {
+      "name": "Law of persons",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/law-of-persons/5323682"
+    },
+    {
+      "name": "Law of Persons and the Family",
+      "code": "PER0000, LPF41Y0",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/law-of-persons-and-the-family/3651424"
+    },
+    {
+      "name": "Law of succession",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/law-of-succession/4513900"
+    },
+    {
+      "name": "Leadership Principles, Traits and Skills",
+      "code": "PLG1B21",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/leadership-principles-traits-and-skills/3421037"
+    },
+    {
+      "name": "Legal Applications in the Engineering Practice 4B21",
+      "code": "RTI4B21",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/legal-applications-in-the-engineering-practice-4b21/3338662"
+    },
+    {
+      "name": "Legal Aspects of E-Commerce",
+      "code": "LML4810",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/legal-aspects-of-e-commerce/5363306"
+    },
+    {
+      "name": "Legal Principle Dev Control & Settlement Disputes 2B",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/legal-principle-dev-control-settlement-disputes-2b/3289989"
+    },
+    {
+      "name": "Legal Principles: Planning Law& Admin 2A",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/legal-principles-planning-law-admin-2a/3289981"
+    },
+    {
+      "name": "legal skills",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/legal-skills/4905213"
+    },
+    {
+      "name": "Legislative drafting",
+      "code": "232 LEGDRAF",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/legislative-drafting/6496555"
+    },
+    {
+      "name": "Life Orientation",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/life-orientation/7556470"
+    },
+    {
+      "name": "Life Sciences for fet Teachers",
+      "code": "LSFTOB1",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/life-sciences-for-fet-teachers/7038866"
+    },
+    {
+      "name": "Linear Algebra",
+      "code": "MAT02B2",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/linear-algebra/7677715"
+    },
+    {
+      "name": "Linear Algebra 2A",
+      "code": "MAT2A20",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/linear-algebra-2a/3405972"
+    },
+    {
+      "name": "Linear Algebra 2B",
+      "code": "MAT2B20",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/linear-algebra-2b/6528766"
+    },
+    {
+      "name": "Linear Models",
+      "code": "STA03A3",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/linear-models/7048420"
+    },
+    {
+      "name": "Linguistics",
+      "code": "Ling03",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/linguistics/5742049"
+    },
+    {
+      "name": "Linguistics 3B",
+      "code": "Lin3BB3",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/linguistics-3b/5759358"
+    },
+    {
+      "name": "Literature",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/literature/4364184"
+    },
+    {
+      "name": "Local Economic Development",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/local-economic-development/3290109"
+    },
+    {
+      "name": "Logistics 2A",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/logistics-2a/3289765"
+    },
+    {
+      "name": "Logistics 2B",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/logistics-2b/3289766"
+    },
+    {
+      "name": "Logistics 3A",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/logistics-3a/3289767"
+    },
+    {
+      "name": "Logistics 3B",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/logistics-3b/3289768"
+    },
+    {
+      "name": "Logistics Engineering 3B",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/logistics-engineering-3b/3290044"
+    },
+    {
+      "name": "Logistics Management 2A",
+      "code": "LMA12A2",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/logistics-management-2a/6905183"
+    },
+    {
+      "name": "Logistics Management 3A",
+      "code": "LMA13A3",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/logistics-management-3a/6201961"
+    },
+    {
+      "name": "Logistics Management Systems",
+      "code": "LMS23B3",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/logistics-management-systems/7280492"
+    },
+    {
+      "name": "Logistics Processes And Practices",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/logistics-processes-and-practices/3289770"
+    },
+    {
+      "name": "Logistics Research Project",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/logistics-research-project/3289771"
+    },
+    {
+      "name": "Machines 3A",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/machines-3a/3290098"
+    },
+    {
+      "name": "Macroeconomic Issues in Development",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/macroeconomic-issues-in-development/3290103"
+    },
+    {
+      "name": "Management 1B",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/management-1b/3290021"
+    },
+    {
+      "name": "Management Accounting Strategy",
+      "code": "MAS02B2",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/management-accounting-strategy/6458441"
+    },
+    {
+      "name": "Management Accounting Strategy 2A",
+      "code": "MAS02A2",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/management-accounting-strategy-2a/6956032"
+    },
+    {
+      "name": "Management And Human Resources",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/management-and-human-resources/3289785"
+    },
+    {
+      "name": "Management Economics 3",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/management-economics-3/3289790"
+    },
+    {
+      "name": "Management In Systems",
+      "code": "IT 304",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/management-in-systems/6409675"
+    },
+    {
+      "name": "Management Information Systems 2",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/management-information-systems-2/3289787"
+    },
+    {
+      "name": "Management Practice",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/management-practice/3289789"
+    },
+    {
+      "name": "Management Practice 4",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/management-practice-4/3289788"
+    },
+    {
+      "name": "Management Principles and Practice 3B",
+      "code": "EBP3B21",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/management-principles-and-practice-3b/3338659"
+    },
+    {
+      "name": "Management Services",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/management-services/3289922"
+    },
+    {
+      "name": "Marketing 1A",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/marketing-1a/3289774"
+    },
+    {
+      "name": "Marketing 1B",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/marketing-1b/3289775"
+    },
+    {
+      "name": "Marketing 2A",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/marketing-2a/3289776"
+    },
+    {
+      "name": "Marketing 2B",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/marketing-2b/3289777"
+    },
+    {
+      "name": "Marketing 3A",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/marketing-3a/3289778"
+    },
+    {
+      "name": "Marketing 3B",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/marketing-3b/3289779"
+    },
+    {
+      "name": "Marketing Communications A",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/marketing-communications-a/3289772"
+    },
+    {
+      "name": "Marketing Communications B",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/marketing-communications-b/3289773"
+    },
+    {
+      "name": "Marketing Management 3",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/marketing-management-3/3289786"
+    },
+    {
+      "name": "Marketing Research 3A",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/marketing-research-3a/3289780"
+    },
+    {
+      "name": "Marketing Research 3B",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/marketing-research-3b/3289781"
+    },
+    {
+      "name": "Materia medica",
+      "code": "HMMCMY3",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/materia-medica/6630614"
+    },
+    {
+      "name": "Material Science and Manufacturing 1B",
+      "code": "WKSMI1B",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/material-science-and-manufacturing-1b/6459848"
+    },
+    {
+      "name": "Materials and Processing Science",
+      "code": "CETMPA3",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/materials-and-processing-science/6361787"
+    },
+    {
+      "name": "Math and Stats for the Natural sciences",
+      "code": "MAT1DB2",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/math-and-stats-for-the-natural-sciences/4489126"
+    },
+    {
+      "name": "Mathematical Analysis B",
+      "code": "MAA00B1",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/mathematical-analysis-b/6545271"
+    },
+    {
+      "name": "Mathematical economics",
+      "code": "MAN8X01",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/mathematical-economics/6208012"
+    },
+    {
+      "name": "Mathematical Literacy",
+      "code": "MATLT",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/mathematical-literacy/5368328"
+    },
+    {
+      "name": "Mathematical Statistics",
+      "code": "STA1B01",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/mathematical-statistics/5812938"
+    },
+    {
+      "name": "Mathematics",
+      "code": "MAT02A2",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/mathematics/4391934"
+    },
+    {
+      "name": "Mathematics 1A",
+      "code": "MAT01A1",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/mathematics-1a/6215352"
+    },
+    {
+      "name": "Mathematics 1A2E",
+      "code": "MAT2EB1",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/mathematics-1a2e/7675583"
+    },
+    {
+      "name": "Mathematics 1B",
+      "code": "MATM1B1",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/mathematics-1b/7115913"
+    },
+    {
+      "name": "Mathematics 1B01",
+      "code": "MAT1B01",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/mathematics-1b01/4678748"
+    },
+    {
+      "name": "Mathematics 2b2",
+      "code": "Mat2b2",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/mathematics-2b2/6907017"
+    },
+    {
+      "name": "Mathematics and Statistics",
+      "code": "STA02A2",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/mathematics-and-statistics/6739133"
+    },
+    {
+      "name": "Mathematics for Finance and Business",
+      "code": "MATDCA1",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/mathematics-for-finance-and-business/6951828"
+    },
+    {
+      "name": "Mathematics for Food and Bio Technologists",
+      "code": "MAT1AE1",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/mathematics-for-food-and-bio-technologists/3419526"
+    },
+    {
+      "name": "Mathematics Precalculus",
+      "code": "MATH1EA1",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/mathematics-precalculus/6887257"
+    },
+    {
+      "name": "Mathematics: Chemical Engineering 3",
+      "code": "MAT1AE3",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/mathematics-chemical-engineering-3/3405843"
+    },
+    {
+      "name": "Maths 2B",
+      "code": "MAT01B2",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/maths-2b/7247096"
+    },
+    {
+      "name": "Maths for Teaching",
+      "code": "MATINA",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/maths-for-teaching/6876376"
+    },
+    {
+      "name": "Measurement Mathematics 1B",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/measurement-mathematics-1b/3289951"
+    },
+    {
+      "name": "Mechanical Engineering",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/mechanical-engineering/3222216"
+    },
+    {
+      "name": "Mechanical Engineering",
+      "code": "TRDMIA2",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/mechanical-engineering/6821806"
+    },
+    {
+      "name": "Mechanical Engineering",
+      "code": "wks mi2a",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/mechanical-engineering/6821820"
+    },
+    {
+      "name": "Mechanical Manufacturing And Workshop Practice 1B",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/mechanical-manufacturing-and-workshop-practice-1b/3290050"
+    },
+    {
+      "name": "Mechanics Of Machines 3A",
+      "code": "MEMMI3A",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/mechanics-of-machines-3a/6060262"
+    },
+    {
+      "name": "Mechatronics & Control 2B",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/mechatronics-control-2b/3290094"
+    },
+    {
+      "name": "Media 1A",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/media-1a/3289793"
+    },
+    {
+      "name": "Media 2B",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/media-2b/3289796"
+    },
+    {
+      "name": "Media 3A",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/media-3a/3289797"
+    },
+    {
+      "name": "Medical bioscience",
+      "code": "MBS121",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/medical-bioscience/7678170"
+    },
+    {
+      "name": "Mercantile Law",
+      "code": "HRA0021",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/mercantile-law/4048443"
+    },
+    {
+      "name": "Metallurgical Engineering Geology",
+      "code": "GMESCA2",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/metallurgical-engineering-geology/3419154"
+    },
+    {
+      "name": "Metallurgical Geology 3",
+      "code": "MGG32-2",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/metallurgical-geology-3/3418799"
+    },
+    {
+      "name": "Metallurgical Plant 2",
+      "code": "MTP21-1",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/metallurgical-plant-2/3418647"
+    },
+    {
+      "name": "Metallurgical Project 3B",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/metallurgical-project-3b/3290084"
+    },
+    {
+      "name": "Metallurgical Thermodynamics 2B",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/metallurgical-thermodynamics-2b/3290074"
+    },
+    {
+      "name": "Metallurgy Engineering Practice 1B",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/metallurgy-engineering-practice-1b/3290068"
+    },
+    {
+      "name": "Metallurgy mathematics  1A",
+      "code": "MATE1A1",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/metallurgy-mathematics-1a/6373836"
+    },
+    {
+      "name": "Microbiology 2B",
+      "code": "MCB2B01",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/microbiology-2b/5780528"
+    },
+    {
+      "name": "Microbiology B1",
+      "code": "MCB1XB1",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/microbiology-b1/7060237"
+    },
+    {
+      "name": "Microeconomic Issues in Development",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/microeconomic-issues-in-development/3290102"
+    },
+    {
+      "name": "Midwifery Nursing Science 1A",
+      "code": "MNS01A3",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/midwifery-nursing-science-1a/6039531"
+    },
+    {
+      "name": "Mine Design And Valuation Project 3B",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/mine-design-and-valuation-project-3b/3289967"
+    },
+    {
+      "name": "Mine Economics I",
+      "code": "MES41-1",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/mine-economics-i/3127718"
+    },
+    {
+      "name": "Mine Planning And Design 3A",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/mine-planning-and-design-3a/3289968"
+    },
+    {
+      "name": "Mine Surveying 2B",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/mine-surveying-2b/3289957"
+    },
+    {
+      "name": "Mine Surveying 3B",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/mine-surveying-3b/3289969"
+    },
+    {
+      "name": "Mineral Processing 2A",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/mineral-processing-2a/3290073"
+    },
+    {
+      "name": "Mining Surface 2A",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/mining-surface-2a/3289960"
+    },
+    {
+      "name": "Mining Technical Services 2B",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/mining-technical-services-2b/3289963"
+    },
+    {
+      "name": "Modelling 2A",
+      "code": "MODEEA2",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/modelling-2a/6986415"
+    },
+    {
+      "name": "molecular medicine",
+      "code": "MM2",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/molecular-medicine/6994305"
+    },
+    {
+      "name": "Monetary Theory a",
+      "code": "MTE8X01",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/monetary-theory-a/5274781"
+    },
+    {
+      "name": "money laundering control",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/money-laundering-control/6331384"
+    },
+    {
+      "name": "Multistage operations 3A",
+      "code": "MSOCHA3",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/multistage-operations-3a/6385205"
+    },
+    {
+      "name": "Multivariable Vector Calculus",
+      "code": "MAT02B1",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/multivariable-vector-calculus/6562037"
+    },
+    {
+      "name": "Network Information Security",
+      "code": "IT18X47",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/network-information-security/6396834"
+    },
+    {
+      "name": "Network Systems 2",
+      "code": "CNS211",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/network-systems-2/3356112"
+    },
+    {
+      "name": "Networks 2B",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/networks-2b/3290093"
+    },
+    {
+      "name": "Neuropsychology",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/neuropsychology/4142084"
+    },
+    {
+      "name": "New Media Studies 1A",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/new-media-studies-1a/3289867"
+    },
+    {
+      "name": "New Media Studies 1B",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/new-media-studies-1b/3289868"
+    },
+    {
+      "name": "Non-Ferrous Metallurgy 3A",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/non-ferrous-metallurgy-3a/3290076"
+    },
+    {
+      "name": "Northern Sotho for Senior phase & FET",
+      "code": "NSS1BB1",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/northern-sotho-for-senior-phase-fet/7485263"
+    },
+    {
+      "name": "Notarial Practice",
+      "code": "LPL4805",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/notarial-practice/5358961"
+    },
+    {
+      "name": "Occupational health and Security",
+      "code": "OHS",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/occupational-health-and-security/3419817"
+    },
+    {
+      "name": "Operational Research 2B",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/operational-research-2b/3290041"
+    },
+    {
+      "name": "Operations Management",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/operations-management/3289800"
+    },
+    {
+      "name": "Operations Management 1A",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/operations-management-1a/3289798"
+    },
+    {
+      "name": "Operations Management 1B",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/operations-management-1b/3289799"
+    },
+    {
+      "name": "Operations Management 2A",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/operations-management-2a/3289924"
+    },
+    {
+      "name": "Operations Management 3A",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/operations-management-3a/3289926"
+    },
+    {
+      "name": "Operations Management Techniques 2A",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/operations-management-techniques-2a/3289917"
+    },
+    {
+      "name": "Operations Management Techniques 3A",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/operations-management-techniques-3a/3289927"
+    },
+    {
+      "name": "Optics",
+      "code": "OPO00Y2",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/optics/6347470"
+    },
+    {
+      "name": "Optometry",
+      "code": "B Optom",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/optometry/3964909"
+    },
+    {
+      "name": "Organic Chemistry 2B",
+      "code": "CEM01B2",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/organic-chemistry-2b/6518316"
+    },
+    {
+      "name": "Organic chemistry Practical 3",
+      "code": "CETOPA3",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/organic-chemistry-practical-3/5311100"
+    },
+    {
+      "name": "Organisational Behaviour 4A",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/organisational-behaviour-4a/3289801"
+    },
+    {
+      "name": "Organisational Design and Development",
+      "code": "PMG3D21",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/organisational-design-and-development/3421036"
+    },
+    {
+      "name": "Organisational Effectiveness 1A",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/organisational-effectiveness-1a/3289914"
+    },
+    {
+      "name": "Organisational Effectiveness 2A",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/organisational-effectiveness-2a/3289918"
+    },
+    {
+      "name": "Organisational Effectiveness 3A",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/organisational-effectiveness-3a/3289920"
+    },
+    {
+      "name": "Organisational Wellness",
+      "code": "IPS8X06",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/organisational-wellness/7352187"
+    },
+    {
+      "name": "Paper 4 bookeeping",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/paper-4-bookeeping/7672687"
+    },
+    {
+      "name": "pathology",
+      "code": "prr01y2",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/pathology/5157035"
+    },
+    {
+      "name": "People Management",
+      "code": "PEM8X01",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/people-management/6391818"
+    },
+    {
+      "name": "People Management in the new world of work",
+      "code": "241PEM9X01",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/people-management-in-the-new-world-of-work/6866023"
+    },
+    {
+      "name": "Personal Selling 1A",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/personal-selling-1a/3289803"
+    },
+    {
+      "name": "Personnel Management",
+      "code": "BPB33B3",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/personnel-management/3421063"
+    },
+    {
+      "name": "Pharmacology 4",
+      "code": "PHMHBY4",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/pharmacology-4/6030943"
+    },
+    {
+      "name": "Philosophy",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/philosophy/3289880"
+    },
+    {
+      "name": "physical science 2A",
+      "code": "PHSC2A",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/physical-science-2a/7492154"
+    },
+    {
+      "name": "Physics",
+      "code": "PHYS10A1",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/physics/4409332"
+    },
+    {
+      "name": "Physics extended",
+      "code": "PHY1EA1",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/physics-extended/6016632"
+    },
+    {
+      "name": "Physiology  2",
+      "code": "PHYCMY 2",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/physiology-2/5313044"
+    },
+    {
+      "name": "Plan Design: Neighbourhood Design& Site Plan 2A",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/plan-design-neighbourhood-design-site-plan-2a/3289982"
+    },
+    {
+      "name": "Plan Design: Spatial Planning / 3A",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/plan-design-spatial-planning-3a/3290002"
+    },
+    {
+      "name": "Plan. Design Advance Strategic& Spatial Plan 3B",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/plan-design-advance-strategic-spatial-plan-3b/3289995"
+    },
+    {
+      "name": "Podiatric medicine",
+      "code": "hmna211",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/podiatric-medicine/6718855"
+    },
+    {
+      "name": "Policy Evaluation Theories, Systems and Processes A",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/policy-evaluation-theories-systems-and-processes-a/3289913"
+    },
+    {
+      "name": "Politics",
+      "code": "PTS2B21",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/politics/3221297"
+    },
+    {
+      "name": "Politics 2B",
+      "code": "POL2BB2",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/politics-2b/7194071"
+    },
+    {
+      "name": "Politics 3A",
+      "code": "POL3A",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/politics-3a/7460206"
+    },
+    {
+      "name": "Polymer Chemistry 3",
+      "code": "CETPCA3",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/polymer-chemistry-3/6842760"
+    },
+    {
+      "name": "Positive Psychology",
+      "code": "Psych2D",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/positive-psychology/5328756"
+    },
+    {
+      "name": "Post Graduate Diploma in Midwifery",
+      "code": "PGIDM2",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/post-graduate-diploma-in-midwifery/6540741"
+    },
+    {
+      "name": "postgraduate certificate in education",
+      "code": "pgce01",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/postgraduate-certificate-in-education/6625673"
+    },
+    {
+      "name": "pOWER SYSTEMS",
+      "code": "KRL4B",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/power-systems/6451149"
+    },
+    {
+      "name": "Power Technology 3A",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/power-technology-3a/3290099"
+    },
+    {
+      "name": "Power Technology 3B",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/power-technology-3b/3290016"
+    },
+    {
+      "name": "PPL9X07 Individual and organisational wellness",
+      "code": "PPL9X07",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/ppl9x07-individual-and-organisational-wellness/6618537"
+    },
+    {
+      "name": "Practical Psychometry",
+      "code": "UJ_101",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/practical-psychometry/7669448"
+    },
+    {
+      "name": "Pre-stressed Concrete Design Grp2 3B",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/pre-stressed-concrete-design-grp2-3b/3290037"
+    },
+    {
+      "name": "Principles and Practice of Environmental Health A",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/principles-and-practice-of-environmental-health-a/6057392"
+    },
+    {
+      "name": "principles of business 11",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/principles-of-business-11/6915633"
+    },
+    {
+      "name": "Principles of Management and Economics 3B",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/principles-of-management-and-economics-3b/3290085"
+    },
+    {
+      "name": "Private International Law",
+      "code": "PIL41A01",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/private-international-law/4962309"
+    },
+    {
+      "name": "private law",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/private-law/4503361"
+    },
+    {
+      "name": "Process Automation 3A",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/process-automation-3a/3290100"
+    },
+    {
+      "name": "Process Control (Metallurgy) 3B",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/process-control-metallurgy-3b/3290083"
+    },
+    {
+      "name": "Process control 2A",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/process-control-2a/7514438"
+    },
+    {
+      "name": "Process Control 2B",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/process-control-2b/3290062"
+    },
+    {
+      "name": "Process Design (Metallurgy) 3B",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/process-design-metallurgy-3b/3290081"
+    },
+    {
+      "name": "Process engineering 2B",
+      "code": "PRE2b",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/process-engineering-2b/7064483"
+    },
+    {
+      "name": "Procurement",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/procurement/3289804"
+    },
+    {
+      "name": "Production Planning And Control 1A",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/production-planning-and-control-1a/3289805"
+    },
+    {
+      "name": "Production Planning And Control 1B",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/production-planning-and-control-1b/3289806"
+    },
+    {
+      "name": "Production Technology 3A",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/production-technology-3a/3290045"
+    },
+    {
+      "name": "professional practice",
+      "code": "PRP01",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/professional-practice/6004314"
+    },
+    {
+      "name": "Professional Writing Skills 1A",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/professional-writing-skills-1a/3289807"
+    },
+    {
+      "name": "Professional Writing Skills 1B",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/professional-writing-skills-1b/3289808"
+    },
+    {
+      "name": "Project Change Management",
+      "code": "AC1PCMT",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/project-change-management/4510345"
+    },
+    {
+      "name": "Project Engineering 3A",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/project-engineering-3a/3290046"
+    },
+    {
+      "name": "Project Management",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/project-management/3289809"
+    },
+    {
+      "name": "project management",
+      "code": "pjb3b",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/project-management/6184483"
+    },
+    {
+      "name": "Project Management 4A",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/project-management-4a/3289810"
+    },
+    {
+      "name": "Project Planning and Management 3B",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/project-planning-and-management-3b/3290001"
+    },
+    {
+      "name": "Project Research 3A",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/project-research-3a/3290047"
+    },
+    {
+      "name": "Property law",
+      "code": "Lpy41yo",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/property-law/4346431"
+    },
+    {
+      "name": "Property Valuation and Management 2A",
+      "code": "PVM2A01",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/property-valuation-and-management-2a/7467952"
+    },
+    {
+      "name": "Property Valuation and Management 2B",
+      "code": "PVM02B2",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/property-valuation-and-management-2b/6394524"
+    },
+    {
+      "name": "Property Valuation and Management 3A",
+      "code": "PVM03A3",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/property-valuation-and-management-3a/7600692"
+    },
+    {
+      "name": "Property valuation and management 3B",
+      "code": "PVM3B",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/property-valuation-and-management-3b/5444909"
+    },
+    {
+      "name": "Protection of Information Assets",
+      "code": "PGD004",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/protection-of-information-assets/3420998"
+    },
+    {
+      "name": "Psychological assessment honours",
+      "code": "PSY8X07",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/psychological-assessment-honours/4828896"
+    },
+    {
+      "name": "Psychology",
+      "code": "101",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/psychology/5816785"
+    },
+    {
+      "name": "Psychology 1A",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/psychology-1a/3289886"
+    },
+    {
+      "name": "Psychology 1B",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/psychology-1b/3289887"
+    },
+    {
+      "name": "Psychology 2A",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/psychology-2a/3289891"
+    },
+    {
+      "name": "Psychology 2C",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/psychology-2c/3289892"
+    },
+    {
+      "name": "Psychology 2D",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/psychology-2d/3289883"
+    },
+    {
+      "name": "Psychology 2F",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/psychology-2f/3289884"
+    },
+    {
+      "name": "Psychology 2H",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/psychology-2h/3289885"
+    },
+    {
+      "name": "Psychology 3A",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/psychology-3a/3289895"
+    },
+    {
+      "name": "Psychology 3C",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/psychology-3c/3289896"
+    },
+    {
+      "name": "Psychology 3D",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/psychology-3d/3289903"
+    },
+    {
+      "name": "Psychology 3F",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/psychology-3f/3289904"
+    },
+    {
+      "name": "psychology counselling and memo",
+      "code": "Psy9x06",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/psychology-counselling-and-memo/6952735"
+    },
+    {
+      "name": "Psychology- Clinical individual approache",
+      "code": "PSY9X03",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/psychology-clinical-individual-approache/7027807"
+    },
+    {
+      "name": "Psychology- Health psychology",
+      "code": "PSY8X05",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/psychology-health-psychology/7027803"
+    },
+    {
+      "name": "Psychotherapy",
+      "code": "psy3F",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/psychotherapy/7562697"
+    },
+    {
+      "name": "Public Human Resource Management",
+      "code": "PMG3B21",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/public-human-resource-management/3421033"
+    },
+    {
+      "name": "Public Leadership and Local Governance",
+      "code": "PLG2B21",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/public-leadership-and-local-governance/3421032"
+    },
+    {
+      "name": "Public Management and Governance 1A",
+      "code": "PMG1A11",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/public-management-and-governance-1a/3417445"
+    },
+    {
+      "name": "Public Management and Governance 2B",
+      "code": "PMG2B21",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/public-management-and-governance-2b/3417444"
+    },
+    {
+      "name": "Public Management and Governance 3A",
+      "code": "PMG3AA3",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/public-management-and-governance-3a/7479265"
+    },
+    {
+      "name": "Public Relations 1A",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/public-relations-1a/3289811"
+    },
+    {
+      "name": "Public Relations 1B",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/public-relations-1b/3289812"
+    },
+    {
+      "name": "Public Relations 3B",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/public-relations-3b/3289816"
+    },
+    {
+      "name": "Purchasing 2A",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/purchasing-2a/3289817"
+    },
+    {
+      "name": "Purchasing 2B",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/purchasing-2b/3289818"
+    },
+    {
+      "name": "Purchasing 3A",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/purchasing-3a/3289819"
+    },
+    {
+      "name": "Pyrometallurgy 3A",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/pyrometallurgy-3a/3290077"
+    },
+    {
+      "name": "Quality Assurance 2A",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/quality-assurance-2a/3289919"
+    },
+    {
+      "name": "Quality Management Systems 3A",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/quality-management-systems-3a/3290048"
+    },
+    {
+      "name": "Quantitative Analysis",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/quantitative-analysis/3290112"
+    },
+    {
+      "name": "Quantitative Economics 2A",
+      "code": "QTE2A",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/quantitative-economics-2a/7522101"
+    },
+    {
+      "name": "Quantitative Economics 2B",
+      "code": "QTE2BB2",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/quantitative-economics-2b/5960463"
+    },
+    {
+      "name": "Quantitative Risk Management",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/quantitative-risk-management/7270857"
+    },
+    {
+      "name": "Quantitative Techniques",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/quantitative-techniques/3289824"
+    },
+    {
+      "name": "Quantitative Techniques 1A",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/quantitative-techniques-1a/3289915"
+    },
+    {
+      "name": "Quantitative Techniques B",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/quantitative-techniques-b/3289826"
+    },
+    {
+      "name": "quantity surveying",
+      "code": "ADQX800",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/quantity-surveying/4912380"
+    },
+    {
+      "name": "quantum mechanics",
+      "code": "CEM8X05",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/quantum-mechanics/5414343"
+    },
+    {
+      "name": "RE5 - Regulatory Exam",
+      "code": "RE5",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/re5-regulatory-exam/7361467"
+    },
+    {
+      "name": "Real Analysis",
+      "code": "MAT3A01",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/real-analysis/3418645"
+    },
+    {
+      "name": "Refractory Technology 3B",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/refractory-technology-3b/3290080"
+    },
+    {
+      "name": "Refrigeration And Air Conditioning 3B",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/refrigeration-and-air-conditioning-3b/3290054"
+    },
+    {
+      "name": "Regional Analysis & Development Planning 3A",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/regional-analysis-development-planning-3a/3289996"
+    },
+    {
+      "name": "Reliability Management",
+      "code": "222M6MRM29",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/reliability-management/5699817"
+    },
+    {
+      "name": "Religion",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/religion/3289881"
+    },
+    {
+      "name": "Research Design Methodology A",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/research-design-methodology-a/3289827"
+    },
+    {
+      "name": "Research Design Methodology B",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/research-design-methodology-b/3289828"
+    },
+    {
+      "name": "research methodology",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/research-methodology/6470735"
+    },
+    {
+      "name": "Research Methodology",
+      "code": "RMD41A0",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/research-methodology/6900066"
+    },
+    {
+      "name": "Research methodology : Engineering",
+      "code": "RMM8X01/RMI8X01",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/research-methodology-engineering/5361711"
+    },
+    {
+      "name": "Research Methodology of Public Management and Governance and Research Proposal A",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/research-methodology-of-public-management-and-governance-and-research-proposal-a/3289909"
+    },
+    {
+      "name": "Research Methodology of Public Management and Governance and Research Proposal B",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/research-methodology-of-public-management-and-governance-and-research-proposal-b/3289907"
+    },
+    {
+      "name": "Research Methodology: Economics",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/research-methodology-economics/3290110"
+    },
+    {
+      "name": "Research Methodology: Logistics",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/research-methodology-logistics/3289830"
+    },
+    {
+      "name": "Research Project (Hospitality Management)",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/research-project-hospitality-management/3289829"
+    },
+    {
+      "name": "Research Project: Civil Engineering",
+      "code": "220CRP8X00",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/research-project-civil-engineering/5730164"
+    },
+    {
+      "name": "Research Psychology",
+      "code": "PSY3AA3",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/research-psychology/6681431"
+    },
+    {
+      "name": "Retailing 2B",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/retailing-2b/3289833"
+    },
+    {
+      "name": "Retailing 3A",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/retailing-3a/3289834"
+    },
+    {
+      "name": "Retailing 3B",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/retailing-3b/3289835"
+    },
+    {
+      "name": "Risk Management",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/risk-management/3289836"
+    },
+    {
+      "name": "Rural Land Use and Development planning 2B",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/rural-land-use-and-development-planning-2b/3289990"
+    },
+    {
+      "name": "Sales Management 3A",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/sales-management-3a/3289837"
+    },
+    {
+      "name": "Sascastro",
+      "code": "Micro1018",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/sascastro/7611852"
+    },
+    {
+      "name": "School ICT 1a",
+      "code": "ICT 1A",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/school-ict-1a/6381511"
+    },
+    {
+      "name": "School ICT 2B",
+      "code": "ITS20B2",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/school-ict-2b/7663560"
+    },
+    {
+      "name": "Science (Fluid Mechanics) 1B",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/science-fluid-mechanics-1b/3290022"
+    },
+    {
+      "name": "Science of Materials 3A11",
+      "code": "MTK3A11",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/science-of-materials-3a11/3338614"
+    },
+    {
+      "name": "Sensor and Devices",
+      "code": "SENELA2",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/sensor-and-devices/6891707"
+    },
+    {
+      "name": "Sequence, series and vector calculus",
+      "code": "MAT2A10",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/sequence-series-and-vector-calculus/6664755"
+    },
+    {
+      "name": "Service Leadership",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/service-leadership/3289838"
+    },
+    {
+      "name": "Services Marketing",
+      "code": "MMA22B2",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/services-marketing/7380248"
+    },
+    {
+      "name": "Site Surveying 2A",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/site-surveying-2a/3289962"
+    },
+    {
+      "name": "Social Psychology",
+      "code": "PSYC4046",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/social-psychology/5790539"
+    },
+    {
+      "name": "Social Security Law",
+      "code": "SSL4140",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/social-security-law/6490731"
+    },
+    {
+      "name": "Social Work",
+      "code": "3AA3",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/social-work/6181703"
+    },
+    {
+      "name": "Social Work",
+      "code": "BSW3702",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/social-work/6441072"
+    },
+    {
+      "name": "Sociology",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/sociology/3289882"
+    },
+    {
+      "name": "Sociology",
+      "code": "SOC2A",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/sociology/5374454"
+    },
+    {
+      "name": "Sociology 1A",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/sociology-1a/3289888"
+    },
+    {
+      "name": "Sociology 1B",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/sociology-1b/3289898"
+    },
+    {
+      "name": "Sociology 2A",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/sociology-2a/3289893"
+    },
+    {
+      "name": "Sociology 2B",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/sociology-2b/3289901"
+    },
+    {
+      "name": "Sociology 3A",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/sociology-3a/3289897"
+    },
+    {
+      "name": "Sociology 3B",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/sociology-3b/3289905"
+    },
+    {
+      "name": "Software Project",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/software-project/3289839"
+    },
+    {
+      "name": "Software Requirements",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/software-requirements/3289840"
+    },
+    {
+      "name": "Software Testing",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/software-testing/3289841"
+    },
+    {
+      "name": "Soil Mechanics 2A",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/soil-mechanics-2a/3289935"
+    },
+    {
+      "name": "Sound engineering",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/sound-engineering/7175383"
+    },
+    {
+      "name": "sport management 1B",
+      "code": "242STM1BB1",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/sport-management-1b/7156464"
+    },
+    {
+      "name": "Sport psychology 3A",
+      "code": "SPS3AA3",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/sport-psychology-3a/6950546"
+    },
+    {
+      "name": "Static and Dynamic Electromagnetism",
+      "code": "PHYE02A2",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/static-and-dynamic-electromagnetism/4335511"
+    },
+    {
+      "name": "Statistical Inference",
+      "code": "Math 1821",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/statistical-inference/6722489"
+    },
+    {
+      "name": "Statistical inference and Distribution Theory",
+      "code": "STA02B2",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/statistical-inference-and-distribution-theory/6562051"
+    },
+    {
+      "name": "Statistics",
+      "code": "STA1EA1",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/statistics/7689447"
+    },
+    {
+      "name": "Statistics 1A",
+      "code": "STA01A1",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/statistics-1a/7664105"
+    },
+    {
+      "name": "Statistics 3A",
+      "code": "STA03A3",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/statistics-3a/7762359"
+    },
+    {
+      "name": "Statistics 3B",
+      "code": "STA03B3",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/statistics-3b/7762357"
+    },
+    {
+      "name": "Statistics for Engineers 3A01",
+      "code": "STE3A01",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/statistics-for-engineers-3a01/3338622"
+    },
+    {
+      "name": "Steam plant 2B",
+      "code": "SPLM1B2",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/steam-plant-2b/6471446"
+    },
+    {
+      "name": "Strategic Communications",
+      "code": "3DD3",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/strategic-communications/7684906"
+    },
+    {
+      "name": "Strategic Management",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/strategic-management/3289842"
+    },
+    {
+      "name": "Strategic Retailing 1B",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/strategic-retailing-1b/3289845"
+    },
+    {
+      "name": "Strategy Business Simulation",
+      "code": "STM8X15",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/strategy-business-simulation/6642565"
+    },
+    {
+      "name": "Strength Of Materials 1B",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/strength-of-materials-1b/3290049"
+    },
+    {
+      "name": "Strength of Materials 2B21",
+      "code": "SLR2B21",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/strength-of-materials-2b21/3338610"
+    },
+    {
+      "name": "Strength of Materials 3A",
+      "code": "STRMIA 3",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/strength-of-materials-3a/7553511"
+    },
+    {
+      "name": "Strength of Materials 3B21",
+      "code": "SLR3B21",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/strength-of-materials-3b21/3338640"
+    },
+    {
+      "name": "Strength of Materials 4A11",
+      "code": "SLR4A11",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/strength-of-materials-4a11/3338647"
+    },
+    {
+      "name": "Stress Analysis 3B",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/stress-analysis-3b/3290055"
+    },
+    {
+      "name": "Structural Analysis 2B",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/structural-analysis-2b/3290028"
+    },
+    {
+      "name": "Structural Analysis GRP2 3B",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/structural-analysis-grp2-3b/3290033"
+    },
+    {
+      "name": "Structural Engineering  4A11 (Reinforced Concrete Design)",
+      "code": "SUS4A11",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/structural-engineering-4a11-reinforced-concrete-design/3394699"
+    },
+    {
+      "name": "Structural Engineering 3A11",
+      "code": "SUS3A11",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/structural-engineering-3a11/3397692"
+    },
+    {
+      "name": "Structural Geology 2B",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/structural-geology-2b/3289964"
+    },
+    {
+      "name": "Structural Geology and Plate Tectonics",
+      "code": "GLG02B2",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/structural-geology-and-plate-tectonics/6974699"
+    },
+    {
+      "name": "Structural Steel Design 3A",
+      "code": "SSDCIA3",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/structural-steel-design-3a/6190564"
+    },
+    {
+      "name": "Surveying 1B",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/surveying-1b/3290023"
+    },
+    {
+      "name": "Surveying 3B21",
+      "code": "OPM3B21",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/surveying-3b21/3394704"
+    },
+    {
+      "name": "Sustainable Development and Ecology 1",
+      "code": "SDEEH01",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/sustainable-development-and-ecology-1/3459303"
+    },
+    {
+      "name": "System Dynamics 3B",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/system-dynamics-3b/3290043"
+    },
+    {
+      "name": "System Software 1B",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/system-software-1b/3289847"
+    },
+    {
+      "name": "Systems Analysis and Design 1A",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/systems-analysis-and-design-1a/3289921"
+    },
+    {
+      "name": "Systems Software 1A",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/systems-software-1a/3289846"
+    },
+    {
+      "name": "Tax Law",
+      "code": "TLW41A0",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/tax-law/6900063"
+    },
+    {
+      "name": "Tax Law 2",
+      "code": "240TAX001B1",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/tax-law-2/7342140"
+    },
+    {
+      "name": "Tax Law: Basic Principles",
+      "code": "TBP9X 0C",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/tax-law-basic-principles/3307463"
+    },
+    {
+      "name": "Taxation",
+      "code": "BEL3A01",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/taxation/3405856"
+    },
+    {
+      "name": "Taxation 200",
+      "code": "TAX2AB0",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/taxation-200/3368249"
+    },
+    {
+      "name": "taxation 2ab",
+      "code": "2ab",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/taxation-2ab/5335669"
+    },
+    {
+      "name": "TAXATION 300 / BCTA",
+      "code": "TAX300",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/taxation-300-bcta/3371662"
+    },
+    {
+      "name": "Taxation 3A",
+      "code": "Tax 3A",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/taxation-3a/7673776"
+    },
+    {
+      "name": "Taxation 3B",
+      "code": "TAX03B3",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/taxation-3b/6758804"
+    },
+    {
+      "name": "Taxation planning 2A",
+      "code": "TXP02A2",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/taxation-planning-2a/7572910"
+    },
+    {
+      "name": "Taxation Planning 2B",
+      "code": "TXP02B2",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/taxation-planning-2b/6394517"
+    },
+    {
+      "name": "Teacher As a Manager",
+      "code": "TAM2601",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/teacher-as-a-manager/5847746"
+    },
+    {
+      "name": "Teaching Methodology & Practicum: Fet Design Arts",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/teaching-methodology-practicum-fet-design-arts/3289848"
+    },
+    {
+      "name": "Teaching methodology and practicum",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/teaching-methodology-and-practicum/7046501"
+    },
+    {
+      "name": "Teaching studies",
+      "code": "BED4",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/teaching-studies/7049908"
+    },
+    {
+      "name": "Technical Graphics 1A",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/technical-graphics-1a/3290040"
+    },
+    {
+      "name": "Technology Management 3B",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/technology-management-3b/3290017"
+    },
+    {
+      "name": "Telecommunication4A",
+      "code": "TEL4A10",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/telecommunication4a/4515427"
+    },
+    {
+      "name": "The Economics of Financial Markets",
+      "code": "FNN421",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/the-economics-of-financial-markets/1501808"
+    },
+    {
+      "name": "The law of Delict",
+      "code": "INL41A0",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/the-law-of-delict/6765539"
+    },
+    {
+      "name": "Theoretical Computer Science",
+      "code": "COS3701",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/theoretical-computer-science/7590744"
+    },
+    {
+      "name": "Theory of Machines 3B21",
+      "code": "MKE3B21",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/theory-of-machines-3b21/3338637"
+    },
+    {
+      "name": "Theory Of Structures 1B",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/theory-of-structures-1b/3290024"
+    },
+    {
+      "name": "Therapeutic Psychology",
+      "code": "PSY8X08",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/therapeutic-psychology/6464446"
+    },
+    {
+      "name": "Therapeutic Psychology: Theory and Models",
+      "code": "PSY3FB3",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/therapeutic-psychology-theory-and-models/6394415"
+    },
+    {
+      "name": "Thermal Systems 4B21",
+      "code": "TML4B21",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/thermal-systems-4b21/3338664"
+    },
+    {
+      "name": "Thermodynamics 2A",
+      "code": "TRDMIA2",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/thermodynamics-2a/7608563"
+    },
+    {
+      "name": "Thermodynamics 2B21",
+      "code": "TRD2B21",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/thermodynamics-2b21/3338251"
+    },
+    {
+      "name": "Thermodynamics 3A",
+      "code": "TRDMIA3",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/thermodynamics-3a/6435273"
+    },
+    {
+      "name": "Thermofluids 3A11",
+      "code": "TMS3A11",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/thermofluids-3a11/3338627"
+    },
+    {
+      "name": "Thermomachines 4A11",
+      "code": "TRM4A11",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/thermomachines-4a11/3338655"
+    },
+    {
+      "name": "Timber and Masonry Design Grp2 3A",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/timber-and-masonry-design-grp2-3a/3290031"
+    },
+    {
+      "name": "Topics in Political Economy of Development",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/topics-in-political-economy-of-development/3290106"
+    },
+    {
+      "name": "Topics in Trade, Industrial and Competition Policy",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/topics-in-trade-industrial-and-competition-policy/3290108"
+    },
+    {
+      "name": "Tourism Development",
+      "code": "TOD44A4",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/tourism-development/3420996"
+    },
+    {
+      "name": "Tourism Development 1/ Tourism Systems",
+      "code": "TOW1A11",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/tourism-development-1-tourism-systems/3417454"
+    },
+    {
+      "name": "Tourism Development 1A",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/tourism-development-1a/3289849"
+    },
+    {
+      "name": "Tourism Development 1B",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/tourism-development-1b/3289850"
+    },
+    {
+      "name": "Tourism Development 2A",
+      "code": "TOW2A11",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/tourism-development-2a/3421101"
+    },
+    {
+      "name": "Tourism Development 3A",
+      "code": "TOW3A11",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/tourism-development-3a/3417452"
+    },
+    {
+      "name": "Tourism Development 3B",
+      "code": "TOW3B21",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/tourism-development-3b/3417459"
+    },
+    {
+      "name": "Tourism Planning/Tourism Development 2A",
+      "code": "TOD22A2",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/tourism-planningtourism-development-2a/3417441"
+    },
+    {
+      "name": "Transport Course",
+      "code": "TR.1",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/transport-course/5485184"
+    },
+    {
+      "name": "Transport economics 1B",
+      "code": "TRE21B1",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/transport-economics-1b/7692957"
+    },
+    {
+      "name": "Transport Economics 2A",
+      "code": "TRE12A1",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/transport-economics-2a/7602151"
+    },
+    {
+      "name": "Transport Operations And Costing",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/transport-operations-and-costing/3289855"
+    },
+    {
+      "name": "Transport Planning Management",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/transport-planning-management/3289852"
+    },
+    {
+      "name": "Transport Policy And Legislation",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/transport-policy-and-legislation/3289851"
+    },
+    {
+      "name": "Transport Research Project",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/transport-research-project/3289854"
+    },
+    {
+      "name": "Transportation 2A",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/transportation-2a/3289853"
+    },
+    {
+      "name": "Transportation Engineering 2B",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/transportation-engineering-2b/3290029"
+    },
+    {
+      "name": "Transportation Engineering 3B",
+      "code": "VVI3B21",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/transportation-engineering-3b/3405970"
+    },
+    {
+      "name": "Transportation management project",
+      "code": "RESTMY2",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/transportation-management-project/7617456"
+    },
+    {
+      "name": "Turbo Machines 3B",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/turbo-machines-3b/3290056"
+    },
+    {
+      "name": "Txataion cta",
+      "code": "TAX8X00",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/txataion-cta/7661142"
+    },
+    {
+      "name": "Ultrasound Practice",
+      "code": "240USP01Y4",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/ultrasound-practice/6972025"
+    },
+    {
+      "name": "Underground Mining Methods 2A",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/underground-mining-methods-2a/3289965"
+    },
+    {
+      "name": "Unit Operations 2B",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/unit-operations-2b/3290063"
+    },
+    {
+      "name": "Urban Development Studies 4A",
+      "code": "UDS4A11",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/urban-development-studies-4a/4464252"
+    },
+    {
+      "name": "Water & Waste Water Engineering Gp1 3B",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/water-waste-water-engineering-gp1-3b/3290035"
+    },
+    {
+      "name": "Wave & Signal Technology 3A",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/wave-signal-technology-3a/3290101"
+    },
+    {
+      "name": "Wines of the world",
+      "code": "WOWA1",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/wines-of-the-world/6536210"
+    },
+    {
+      "name": "Working With and for the Wider Community",
+      "code": "240 WWW CAYN1",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/working-with-and-for-the-wider-community/7163775"
+    },
+    {
+      "name": "Workplace Dynamics 1A",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/workplace-dynamics-1a/3289923"
+    },
+    {
+      "name": "Workplace preparation",
+      "code": "WPPED01",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/workplace-preparation/7684273"
+    },
+    {
+      "name": "Writing For Public Relations 2A",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/writing-for-public-relations-2a/3289861"
+    },
+    {
+      "name": "Zondo Commission",
+      "code": "Z1032",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/zondo-commission/6590255"
+    },
+    {
+      "name": "Zoology",
+      "code": "ZOO1XA1",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/zoology/3419830"
+    },
+    {
+      "name": "Zoology 2A",
+      "code": "ZOO22A2",
+      "url": "https://www.studocu.com/en-za/course/university-of-johannesburg/zoology-2a/7568329"
+    }
+  ]
+}

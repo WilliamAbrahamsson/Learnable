@@ -1,0 +1,566 @@
+{
+  "university_id": "9459",
+  "university_name": "Marmara Üniversitesi",
+  "courses": [
+    {
+      "name": "Adli Bilişim",
+      "code": "LAW 322",
+      "url": "https://www.studocu.com/row/course/marmara-universitesi/adli-bilisim/6856549"
+    },
+    {
+      "name": "AKV Examen",
+      "code": "BIG-2020",
+      "url": "https://www.studocu.com/row/course/marmara-universitesi/akv-examen/4600731"
+    },
+    {
+      "name": "Analysis 1",
+      "code": "MAT1011",
+      "url": "https://www.studocu.com/row/course/marmara-universitesi/analysis-1/7294893"
+    },
+    {
+      "name": "Analytical Chemistry",
+      "code": "CHEM 2009",
+      "url": "https://www.studocu.com/row/course/marmara-universitesi/analytical-chemistry/5761413"
+    },
+    {
+      "name": "Anayasa hukuku",
+      "code": "LAW1052",
+      "url": "https://www.studocu.com/row/course/marmara-universitesi/anayasa-hukuku/2947272"
+    },
+    {
+      "name": "Art history",
+      "code": "ARTH 001",
+      "url": "https://www.studocu.com/row/course/marmara-universitesi/art-history/6513567"
+    },
+    {
+      "name": "Banka Muhasebesi",
+      "code": "BM101",
+      "url": "https://www.studocu.com/row/course/marmara-universitesi/banka-muhasebesi/7612673"
+    },
+    {
+      "name": "Business Finance 2",
+      "code": "FNC2032",
+      "url": "https://www.studocu.com/row/course/marmara-universitesi/business-finance-2/4549289"
+    },
+    {
+      "name": "Business Management",
+      "code": "BUSI2011",
+      "url": "https://www.studocu.com/row/course/marmara-universitesi/business-management/4325720"
+    },
+    {
+      "name": "calculus 2",
+      "code": "math1002",
+      "url": "https://www.studocu.com/row/course/marmara-universitesi/calculus-2/4126727"
+    },
+    {
+      "name": "Chemical Engineering Thermodynamics",
+      "code": "CHE3082",
+      "url": "https://www.studocu.com/row/course/marmara-universitesi/chemical-engineering-thermodynamics/4401079"
+    },
+    {
+      "name": "classical mechanics",
+      "code": "PHYS 301",
+      "url": "https://www.studocu.com/row/course/marmara-universitesi/classical-mechanics/6587583"
+    },
+    {
+      "name": "Computational Fluid Dynamics",
+      "code": "ME 808",
+      "url": "https://www.studocu.com/row/course/marmara-universitesi/computational-fluid-dynamics/6909567"
+    },
+    {
+      "name": "Computer aided design techniques",
+      "code": "Me4041",
+      "url": "https://www.studocu.com/row/course/marmara-universitesi/computer-aided-design-techniques/7362271"
+    },
+    {
+      "name": "Consumer Behavior",
+      "code": "MRK3051",
+      "url": "https://www.studocu.com/row/course/marmara-universitesi/consumer-behavior/5915651"
+    },
+    {
+      "name": "Consumer Law",
+      "code": "LAW4062.1",
+      "url": "https://www.studocu.com/row/course/marmara-universitesi/consumer-law/5824160"
+    },
+    {
+      "name": "Corporate Law",
+      "code": "HUK3013",
+      "url": "https://www.studocu.com/row/course/marmara-universitesi/corporate-law/7228940"
+    },
+    {
+      "name": "cost accounting",
+      "code": "ACC3041.1",
+      "url": "https://www.studocu.com/row/course/marmara-universitesi/cost-accounting/5943020"
+    },
+    {
+      "name": "Culture and Communication",
+      "code": "OB1088",
+      "url": "https://www.studocu.com/row/course/marmara-universitesi/culture-and-communication/4678614"
+    },
+    {
+      "name": "Database Systems",
+      "code": "CSE3055",
+      "url": "https://www.studocu.com/row/course/marmara-universitesi/database-systems/6684554"
+    },
+    {
+      "name": "Decision Theory",
+      "code": "QTD4041",
+      "url": "https://www.studocu.com/row/course/marmara-universitesi/decision-theory/5309631"
+    },
+    {
+      "name": "Deniz HUKUKU",
+      "code": "DENİZ200",
+      "url": "https://www.studocu.com/row/course/marmara-universitesi/deniz-hukuku/6366433"
+    },
+    {
+      "name": "Development Economics",
+      "code": "ECON3070",
+      "url": "https://www.studocu.com/row/course/marmara-universitesi/development-economics/3526336"
+    },
+    {
+      "name": "Digital Design",
+      "code": "CSE3017",
+      "url": "https://www.studocu.com/row/course/marmara-universitesi/digital-design/4347496"
+    },
+    {
+      "name": "Discrete Mathematics",
+      "code": "CSE2023",
+      "url": "https://www.studocu.com/row/course/marmara-universitesi/discrete-mathematics/3219876"
+    },
+    {
+      "name": "Econometrics I",
+      "code": "ECON3009.1",
+      "url": "https://www.studocu.com/row/course/marmara-universitesi/econometrics-i/3222459"
+    },
+    {
+      "name": "economic course",
+      "code": "4072.1",
+      "url": "https://www.studocu.com/row/course/marmara-universitesi/economic-course/6971066"
+    },
+    {
+      "name": "Einführung in die Wirtschaftsinformatik",
+      "code": "WI1013",
+      "url": "https://www.studocu.com/row/course/marmara-universitesi/einfuhrung-in-die-wirtschaftsinformatik/5810791"
+    },
+    {
+      "name": "Electric Circuits",
+      "code": "EE2031.1",
+      "url": "https://www.studocu.com/row/course/marmara-universitesi/electric-circuits/6146751"
+    },
+    {
+      "name": "electric machine design",
+      "code": "EEM7004.1",
+      "url": "https://www.studocu.com/row/course/marmara-universitesi/electric-machine-design/4318528"
+    },
+    {
+      "name": "Electronics 2",
+      "code": "EE3011",
+      "url": "https://www.studocu.com/row/course/marmara-universitesi/electronics-2/4398796"
+    },
+    {
+      "name": "English Introduction",
+      "code": "ENG101",
+      "url": "https://www.studocu.com/row/course/marmara-universitesi/english-introduction/4396970"
+    },
+    {
+      "name": "European Integration",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/marmara-universitesi/european-integration/3727324"
+    },
+    {
+      "name": "Evolution of Management thought and Organization",
+      "code": "MGT8003",
+      "url": "https://www.studocu.com/row/course/marmara-universitesi/evolution-of-management-thought-and-organization/1716326"
+    },
+    {
+      "name": "Eğitim Psikolojisi",
+      "code": "PFEGT2006",
+      "url": "https://www.studocu.com/row/course/marmara-universitesi/egitim-psikolojisi/6596557"
+    },
+    {
+      "name": "Film STUDİES",
+      "code": "FİLM 202",
+      "url": "https://www.studocu.com/row/course/marmara-universitesi/film-studies/6677366"
+    },
+    {
+      "name": "Financial Markets and Institutions",
+      "code": "FNC4043",
+      "url": "https://www.studocu.com/row/course/marmara-universitesi/financial-markets-and-institutions/5175953"
+    },
+    {
+      "name": "fluid  mechanics",
+      "code": "ME3061",
+      "url": "https://www.studocu.com/row/course/marmara-universitesi/fluid-mechanics/5177134"
+    },
+    {
+      "name": "Fractional Calculus",
+      "code": "FRAC2023",
+      "url": "https://www.studocu.com/row/course/marmara-universitesi/fractional-calculus/6666471"
+    },
+    {
+      "name": "Fransızca Öğretmenliği",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/marmara-universitesi/fransizca-ogretmenligi/4311070"
+    },
+    {
+      "name": "Fundamentals of finance",
+      "code": "Fnce2003",
+      "url": "https://www.studocu.com/row/course/marmara-universitesi/fundamentals-of-finance/7261288"
+    },
+    {
+      "name": "General surgery",
+      "code": "A101",
+      "url": "https://www.studocu.com/row/course/marmara-universitesi/general-surgery/6492854"
+    },
+    {
+      "name": "Globalizasyon Süreci ve Ekonomik Politikalar Üzerindeki Etkileri",
+      "code": "FIN7005.1",
+      "url": "https://www.studocu.com/row/course/marmara-universitesi/globalizasyon-sureci-ve-ekonomik-politikalar-uzerindeki-etkileri/5163570"
+    },
+    {
+      "name": "Graphic Desing",
+      "code": "GP2022",
+      "url": "https://www.studocu.com/row/course/marmara-universitesi/graphic-desing/5836582"
+    },
+    {
+      "name": "Heat Transfer",
+      "code": "ME3071",
+      "url": "https://www.studocu.com/row/course/marmara-universitesi/heat-transfer/4921369"
+    },
+    {
+      "name": "histoire des philosophie politique",
+      "code": "SCPO2019",
+      "url": "https://www.studocu.com/row/course/marmara-universitesi/histoire-des-philosophie-politique/6650481"
+    },
+    {
+      "name": "histoire politique",
+      "code": "SCPO2997",
+      "url": "https://www.studocu.com/row/course/marmara-universitesi/histoire-politique/6650479"
+    },
+    {
+      "name": "Hukuk Felsefesi ve Sosyolojisi",
+      "code": "HUK1009",
+      "url": "https://www.studocu.com/row/course/marmara-universitesi/hukuk-felsefesi-ve-sosyolojisi/7028054"
+    },
+    {
+      "name": "hukuka giriş",
+      "code": "law1001",
+      "url": "https://www.studocu.com/row/course/marmara-universitesi/hukuka-giris/6205923"
+    },
+    {
+      "name": "Icra Hukuk",
+      "code": "icra01",
+      "url": "https://www.studocu.com/row/course/marmara-universitesi/icra-hukuk/7384560"
+    },
+    {
+      "name": "idare hukuku",
+      "code": "law200",
+      "url": "https://www.studocu.com/row/course/marmara-universitesi/idare-hukuku/7137459"
+    },
+    {
+      "name": "Individual Psychotherapy",
+      "code": "PDR 5050",
+      "url": "https://www.studocu.com/row/course/marmara-universitesi/individual-psychotherapy/4450766"
+    },
+    {
+      "name": "Integrated Teacher Education Programme",
+      "code": "Business",
+      "url": "https://www.studocu.com/row/course/marmara-universitesi/integrated-teacher-education-programme/7568695"
+    },
+    {
+      "name": "internal control",
+      "code": "int101",
+      "url": "https://www.studocu.com/row/course/marmara-universitesi/internal-control/6876781"
+    },
+    {
+      "name": "International Economics",
+      "code": "ITM 300.1",
+      "url": "https://www.studocu.com/row/course/marmara-universitesi/international-economics/5174975"
+    },
+    {
+      "name": "Introduction To Accounting",
+      "code": "ACC1005",
+      "url": "https://www.studocu.com/row/course/marmara-universitesi/introduction-to-accounting/6633859"
+    },
+    {
+      "name": "Introduction to Business",
+      "code": "BUS1002",
+      "url": "https://www.studocu.com/row/course/marmara-universitesi/introduction-to-business/5879831"
+    },
+    {
+      "name": "Introduction to Business Finance",
+      "code": "FIN100",
+      "url": "https://www.studocu.com/row/course/marmara-universitesi/introduction-to-business-finance/5363580"
+    },
+    {
+      "name": "introduction to economics",
+      "code": "ECON1001.1",
+      "url": "https://www.studocu.com/row/course/marmara-universitesi/introduction-to-economics/6863408"
+    },
+    {
+      "name": "Introduction to International Relations",
+      "code": "PSIR2005",
+      "url": "https://www.studocu.com/row/course/marmara-universitesi/introduction-to-international-relations/5412019"
+    },
+    {
+      "name": "Introduction to International Relations II",
+      "code": "PSIR2006",
+      "url": "https://www.studocu.com/row/course/marmara-universitesi/introduction-to-international-relations-ii/5412014"
+    },
+    {
+      "name": "introduction to latin",
+      "code": "TAR4043",
+      "url": "https://www.studocu.com/row/course/marmara-universitesi/introduction-to-latin/6650475"
+    },
+    {
+      "name": "Introduction to Law",
+      "code": "LAW1071",
+      "url": "https://www.studocu.com/row/course/marmara-universitesi/introduction-to-law/5412027"
+    },
+    {
+      "name": "Introduction to Political Science",
+      "code": "PSIR1001",
+      "url": "https://www.studocu.com/row/course/marmara-universitesi/introduction-to-political-science/5412023"
+    },
+    {
+      "name": "Investment Analysis and Portfolio Management",
+      "code": "FNCE3034",
+      "url": "https://www.studocu.com/row/course/marmara-universitesi/investment-analysis-and-portfolio-management/4350277"
+    },
+    {
+      "name": "iş hukuku",
+      "code": "150",
+      "url": "https://www.studocu.com/row/course/marmara-universitesi/is-hukuku/7019069"
+    },
+    {
+      "name": "İnsan Hakları",
+      "code": "Sc007",
+      "url": "https://www.studocu.com/row/course/marmara-universitesi/insan-haklari/6944759"
+    },
+    {
+      "name": "İtalian - Turkichs",
+      "code": "IT_TUR_22",
+      "url": "https://www.studocu.com/row/course/marmara-universitesi/italian-turkichs/7604924"
+    },
+    {
+      "name": "Lineer algebra",
+      "code": "MATH2056.3",
+      "url": "https://www.studocu.com/row/course/marmara-universitesi/lineer-algebra/3487859"
+    },
+    {
+      "name": "Machine Elements II",
+      "code": "ME304",
+      "url": "https://www.studocu.com/row/course/marmara-universitesi/machine-elements-ii/6186830"
+    },
+    {
+      "name": "Macroeconomics",
+      "code": "ECON 223",
+      "url": "https://www.studocu.com/row/course/marmara-universitesi/macroeconomics/4541502"
+    },
+    {
+      "name": "Management Information System",
+      "code": "MIS",
+      "url": "https://www.studocu.com/row/course/marmara-universitesi/management-information-system/1580666"
+    },
+    {
+      "name": "Manufacturing Process",
+      "code": "ME3013",
+      "url": "https://www.studocu.com/row/course/marmara-universitesi/manufacturing-process/5177133"
+    },
+    {
+      "name": "marketing management",
+      "code": "MRK2052",
+      "url": "https://www.studocu.com/row/course/marmara-universitesi/marketing-management/5309343"
+    },
+    {
+      "name": "Marketing Research",
+      "code": "MRK4051",
+      "url": "https://www.studocu.com/row/course/marmara-universitesi/marketing-research/4348211"
+    },
+    {
+      "name": "Material Science 1",
+      "code": "MSE 2101",
+      "url": "https://www.studocu.com/row/course/marmara-universitesi/material-science-1/7266808"
+    },
+    {
+      "name": "Material Selection and Design",
+      "code": "MSE4003",
+      "url": "https://www.studocu.com/row/course/marmara-universitesi/material-selection-and-design/4922837"
+    },
+    {
+      "name": "Mathematical Economics",
+      "code": "ECON3031.1",
+      "url": "https://www.studocu.com/row/course/marmara-universitesi/mathematical-economics/3222465"
+    },
+    {
+      "name": "Mechanics of Materials",
+      "code": "ME2072",
+      "url": "https://www.studocu.com/row/course/marmara-universitesi/mechanics-of-materials/6608867"
+    },
+    {
+      "name": "Medeni Hukuku Giriş",
+      "code": "MH 2023",
+      "url": "https://www.studocu.com/row/course/marmara-universitesi/medeni-hukuku-giris/6594115"
+    },
+    {
+      "name": "Modern Optik",
+      "code": "FZK4512",
+      "url": "https://www.studocu.com/row/course/marmara-universitesi/modern-optik/3251656"
+    },
+    {
+      "name": "Monetary",
+      "code": "Econ301",
+      "url": "https://www.studocu.com/row/course/marmara-universitesi/monetary/6703864"
+    },
+    {
+      "name": "movement and training",
+      "code": "SPORT2020",
+      "url": "https://www.studocu.com/row/course/marmara-universitesi/movement-and-training/5153144"
+    },
+    {
+      "name": "Okul Öncesi Öğretmenliği",
+      "code": "OKO1004",
+      "url": "https://www.studocu.com/row/course/marmara-universitesi/okul-oncesi-ogretmenligi/6587280"
+    },
+    {
+      "name": "Operations Management",
+      "code": "PROD3001",
+      "url": "https://www.studocu.com/row/course/marmara-universitesi/operations-management/5912235"
+    },
+    {
+      "name": "Organizational Behavior",
+      "code": "OB283.1",
+      "url": "https://www.studocu.com/row/course/marmara-universitesi/organizational-behavior/5876823"
+    },
+    {
+      "name": "Physics 2 Lab",
+      "code": "PHYS1104",
+      "url": "https://www.studocu.com/row/course/marmara-universitesi/physics-2-lab/6919781"
+    },
+    {
+      "name": "Physics I",
+      "code": "PHYS1111",
+      "url": "https://www.studocu.com/row/course/marmara-universitesi/physics-i/6698786"
+    },
+    {
+      "name": "Produktion-und Operationsmanagement",
+      "code": "PROD1006",
+      "url": "https://www.studocu.com/row/course/marmara-universitesi/produktion-und-operationsmanagement/7637233"
+    },
+    {
+      "name": "Professional Psy",
+      "code": "psy4011",
+      "url": "https://www.studocu.com/row/course/marmara-universitesi/professional-psy/6653537"
+    },
+    {
+      "name": "Psikolojiye Giriş",
+      "code": "PSK131",
+      "url": "https://www.studocu.com/row/course/marmara-universitesi/psikolojiye-giris/6629073"
+    },
+    {
+      "name": "Public Administration in Turkey",
+      "code": "PSIR4039",
+      "url": "https://www.studocu.com/row/course/marmara-universitesi/public-administration-in-turkey/5412025"
+    },
+    {
+      "name": "Reading Skills",
+      "code": "pspa1004",
+      "url": "https://www.studocu.com/row/course/marmara-universitesi/reading-skills/4866404"
+    },
+    {
+      "name": "Sınıf Yönetimi",
+      "code": "PFEGT3001",
+      "url": "https://www.studocu.com/row/course/marmara-universitesi/sinif-yonetimi/6596559"
+    },
+    {
+      "name": "Sociology of Secularization",
+      "code": "SOİ8037",
+      "url": "https://www.studocu.com/row/course/marmara-universitesi/sociology-of-secularization/7340184"
+    },
+    {
+      "name": "Software Engineering",
+      "code": "CSE3044",
+      "url": "https://www.studocu.com/row/course/marmara-universitesi/software-engineering/3592172"
+    },
+    {
+      "name": "Spanish",
+      "code": "-",
+      "url": "https://www.studocu.com/row/course/marmara-universitesi/spanish/4335724"
+    },
+    {
+      "name": "Special Functions",
+      "code": "MAT3021",
+      "url": "https://www.studocu.com/row/course/marmara-universitesi/special-functions/7294875"
+    },
+    {
+      "name": "Static",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/marmara-universitesi/static/3700787"
+    },
+    {
+      "name": "Statistics for Industrial Engineering",
+      "code": "IE2152.1",
+      "url": "https://www.studocu.com/row/course/marmara-universitesi/statistics-for-industrial-engineering/3756320"
+    },
+    {
+      "name": "Syrian Conflicts",
+      "code": "CONF1",
+      "url": "https://www.studocu.com/row/course/marmara-universitesi/syrian-conflicts/7357589"
+    },
+    {
+      "name": "System Dynamics and Control",
+      "code": "EE372",
+      "url": "https://www.studocu.com/row/course/marmara-universitesi/system-dynamics-and-control/5719748"
+    },
+    {
+      "name": "Sytem dynamics and control",
+      "code": "ME3021",
+      "url": "https://www.studocu.com/row/course/marmara-universitesi/sytem-dynamics-and-control/3591483"
+    },
+    {
+      "name": "Tax Accounting",
+      "code": "ACC4035",
+      "url": "https://www.studocu.com/row/course/marmara-universitesi/tax-accounting/4347310"
+    },
+    {
+      "name": "Temel Hukuk",
+      "code": "huk100",
+      "url": "https://www.studocu.com/row/course/marmara-universitesi/temel-hukuk/7612671"
+    },
+    {
+      "name": "Thermodynamics I",
+      "code": "ME2063.1",
+      "url": "https://www.studocu.com/row/course/marmara-universitesi/thermodynamics-i/3223417"
+    },
+    {
+      "name": "Turkish Foreign Policy",
+      "code": "PSIR4013",
+      "url": "https://www.studocu.com/row/course/marmara-universitesi/turkish-foreign-policy/5412015"
+    },
+    {
+      "name": "Turkish Politics",
+      "code": "PSIR3011",
+      "url": "https://www.studocu.com/row/course/marmara-universitesi/turkish-politics/5412026"
+    },
+    {
+      "name": "türk dili ve edebiyatı",
+      "code": "trd304",
+      "url": "https://www.studocu.com/row/course/marmara-universitesi/turk-dili-ve-edebiyati/5368233"
+    },
+    {
+      "name": "Türkiye'de Siyasal Hayat",
+      "code": "SBL481",
+      "url": "https://www.studocu.com/row/course/marmara-universitesi/turkiyede-siyasal-hayat/7257967"
+    },
+    {
+      "name": "Work Safety",
+      "code": "ISG0001",
+      "url": "https://www.studocu.com/row/course/marmara-universitesi/work-safety/3796458"
+    },
+    {
+      "name": "Yakınçağ Avrupa Siyasal Tarihi",
+      "code": "TAR 3076",
+      "url": "https://www.studocu.com/row/course/marmara-universitesi/yakincag-avrupa-siyasal-tarihi/6875578"
+    }
+  ]
+}

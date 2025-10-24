@@ -1,0 +1,2291 @@
+{
+  "university_id": "5200",
+  "university_name": "University of Galway",
+  "courses": [
+    {
+      "name": "19th Century British Literature",
+      "code": "ENG238",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/19th-century-british-literature/2651403"
+    },
+    {
+      "name": "Accountancy",
+      "code": "AY650",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/accountancy/2574611"
+    },
+    {
+      "name": "Accounting",
+      "code": "AY871",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/accounting/2574612"
+    },
+    {
+      "name": "Accounting",
+      "code": "AY120",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/accounting/2574613"
+    },
+    {
+      "name": "Admin law",
+      "code": "LW4104",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/admin-law/5130284"
+    },
+    {
+      "name": "Administrative Law 1",
+      "code": "LW337",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/administrative-law-1/6590391"
+    },
+    {
+      "name": "Advanced Biomaterials",
+      "code": "BME500",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/advanced-biomaterials/2574622"
+    },
+    {
+      "name": "Advanced Business Law",
+      "code": "LW423",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/advanced-business-law/7299085"
+    },
+    {
+      "name": "Advanced Cell Biology and Development",
+      "code": "AN437",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/advanced-cell-biology-and-development/2574623"
+    },
+    {
+      "name": "Advanced Chromosome Biology",
+      "code": "BI429",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/advanced-chromosome-biology/2574624"
+    },
+    {
+      "name": "Advanced Classical and Medieval Latin 1",
+      "code": "CCS311",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/advanced-classical-and-medieval-latin-1/2574625"
+    },
+    {
+      "name": "Advanced Clinical Practice",
+      "code": "MD504",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/advanced-clinical-practice/2651363"
+    },
+    {
+      "name": "Advanced Clinical Theory",
+      "code": "MD542",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/advanced-clinical-theory/2651355"
+    },
+    {
+      "name": "Advanced Corporate Finance",
+      "code": "AY5109",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/advanced-corporate-finance/2574628"
+    },
+    {
+      "name": "Advanced Financial Reporting and Auditing",
+      "code": "AY3100",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/advanced-financial-reporting-and-auditing/7325795"
+    },
+    {
+      "name": "Advanced Financial Reporting II",
+      "code": "AY5119",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/advanced-financial-reporting-ii/2574632"
+    },
+    {
+      "name": "Advanced Gross Anatomy 2",
+      "code": "AN439",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/advanced-gross-anatomy-2/2574635"
+    },
+    {
+      "name": "Advanced International Financial Reporting",
+      "code": "AY5113",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/advanced-international-financial-reporting/2574638"
+    },
+    {
+      "name": "Advanced Mechanical Analysis",
+      "code": "ME402",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/advanced-mechanical-analysis/5819524"
+    },
+    {
+      "name": "Advanced Neuroanatomy",
+      "code": "AN440",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/advanced-neuroanatomy/2574641"
+    },
+    {
+      "name": "Advanced Readings in Latin Literature 1",
+      "code": "CCS313",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/advanced-readings-in-latin-literature-1/2574645"
+    },
+    {
+      "name": "Advanced Structures",
+      "code": "CE509",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/advanced-structures/2574647"
+    },
+    {
+      "name": "Advanced Topics in Developmental Biology",
+      "code": "ZO413",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/advanced-topics-in-developmental-biology/4399741"
+    },
+    {
+      "name": "Advanced Topics in Machine Learning and Information Retrieval",
+      "code": "CT5107",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/advanced-topics-in-machine-learning-and-information-retrieval/2574652"
+    },
+    {
+      "name": "Advanced Toxicology",
+      "code": "PM311",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/advanced-toxicology/2792368"
+    },
+    {
+      "name": "Advanced Zoology Topics",
+      "code": "ZO414",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/advanced-zoology-topics/4399706"
+    },
+    {
+      "name": "Algorithms",
+      "code": "CT1120",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/algorithms/2574660"
+    },
+    {
+      "name": "Alternative Dispute resolution",
+      "code": "LW371",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/alternative-dispute-resolution/4329382"
+    },
+    {
+      "name": "Anaesthesia",
+      "code": "AE651",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/anaesthesia/2574677"
+    },
+    {
+      "name": "Anaesthetics",
+      "code": "AE650",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/anaesthetics/2574679"
+    },
+    {
+      "name": "Analogue Systems Design I",
+      "code": "EE219",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/analogue-systems-design-i/3011021"
+    },
+    {
+      "name": "Anatomy",
+      "code": "AN660",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/anatomy/2574684"
+    },
+    {
+      "name": "Anatomy / Physiology",
+      "code": "AP650",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/anatomy-physiology/2574687"
+    },
+    {
+      "name": "Anatomy 2 - Gross Anatomy",
+      "code": "AN506",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/anatomy-2-gross-anatomy/2574689"
+    },
+    {
+      "name": "Applications of Biomedical Science",
+      "code": "BM406",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/applications-of-biomedical-science/2574696"
+    },
+    {
+      "name": "applied behavioural analysis",
+      "code": "PS334",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/applied-behavioural-analysis/5152230"
+    },
+    {
+      "name": "Applied Biomedical Sciences",
+      "code": "BES5103",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/applied-biomedical-sciences/2574699"
+    },
+    {
+      "name": "Applied Ecology",
+      "code": "ZO315",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/applied-ecology/4399766"
+    },
+    {
+      "name": "Approaches to the Study of Literature",
+      "code": "EN1100",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/approaches-to-the-study-of-literature/4476530"
+    },
+    {
+      "name": "Auditing",
+      "code": "AY508",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/auditing/2574731"
+    },
+    {
+      "name": "Auditing &amp; Assurance I",
+      "code": "AY5110",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/auditing-amp-assurance-i/2574732"
+    },
+    {
+      "name": "Auditing I",
+      "code": "AY5116",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/auditing-i/2574734"
+    },
+    {
+      "name": "Auditing II",
+      "code": "AY5117",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/auditing-ii/2574735"
+    },
+    {
+      "name": "Bachelors of Commerce",
+      "code": "2BC1",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/bachelors-of-commerce/4413198"
+    },
+    {
+      "name": "Basics of Body Structure & Musculoskeletal System",
+      "code": "MD1101",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/basics-of-body-structure-musculoskeletal-system/4408913"
+    },
+    {
+      "name": "Beginning Latin Part 1",
+      "code": "CC230",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/beginning-latin-part-1/2574746"
+    },
+    {
+      "name": "Biochemistry",
+      "code": "BI650",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/biochemistry/2574751"
+    },
+    {
+      "name": "Biochemistry",
+      "code": "BI501",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/biochemistry/2574752"
+    },
+    {
+      "name": "Biochemistry Principles and Experimental Design",
+      "code": "BI452",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/biochemistry-principles-and-experimental-design/2574754"
+    },
+    {
+      "name": "Biochemistry Research Project",
+      "code": "BI453",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/biochemistry-research-project/2574756"
+    },
+    {
+      "name": "Biochemistry/Physiology",
+      "code": "BCP650",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/biochemistryphysiology/2574758"
+    },
+    {
+      "name": "Bioinformatics",
+      "code": "MA324",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/bioinformatics/2843564"
+    },
+    {
+      "name": "Biological Psychology",
+      "code": "PS403",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/biological-psychology/2733565"
+    },
+    {
+      "name": "Biology",
+      "code": "BO101",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/biology/2574768"
+    },
+    {
+      "name": "Biomechanics",
+      "code": "BME400",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/biomechanics/2574770"
+    },
+    {
+      "name": "Biomedical Design",
+      "code": "BME3126",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/biomedical-design/2574774"
+    },
+    {
+      "name": "Biomolecules",
+      "code": "BI445",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/biomolecules/2574791"
+    },
+    {
+      "name": "Biomolecules, Metabolism, and Energy",
+      "code": "MD138",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/biomolecules-metabolism-and-energy/6727756"
+    },
+    {
+      "name": "Biopharmaceutical Chemistry",
+      "code": "CH441",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/biopharmaceutical-chemistry/2574794"
+    },
+    {
+      "name": "Bioprocessors and Recombinant Protein Production",
+      "code": "MI442",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/bioprocessors-and-recombinant-protein-production/6880809"
+    },
+    {
+      "name": "Biostatistics",
+      "code": "BO650",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/biostatistics/2574798"
+    },
+    {
+      "name": "Biotechnology I",
+      "code": "BG110",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/biotechnology-i/2574801"
+    },
+    {
+      "name": "Biotechnology Skills with French/German",
+      "code": "BG111",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/biotechnology-skills-with-frenchgerman/2574805"
+    },
+    {
+      "name": "Biotechnology Skills with French/German II",
+      "code": "BG204",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/biotechnology-skills-with-frenchgerman-ii/2574806"
+    },
+    {
+      "name": "Biotransport",
+      "code": "BME4101",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/biotransport/2574808"
+    },
+    {
+      "name": "BO3101 Developmental Biology",
+      "code": "BO3101",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/bo3101-developmental-biology/2574809"
+    },
+    {
+      "name": "Brain and Behaviour",
+      "code": null,
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/brain-and-behaviour/4500460"
+    },
+    {
+      "name": "Brand Management",
+      "code": "MK341",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/brand-management/4455788"
+    },
+    {
+      "name": "Business",
+      "code": "DFS106",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/business/2574823"
+    },
+    {
+      "name": "Business Analytics Major Project",
+      "code": "5115",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/business-analytics-major-project/5287108"
+    },
+    {
+      "name": "Business Application Programming",
+      "code": "MS806",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/business-application-programming/4405089"
+    },
+    {
+      "name": "Business Finance",
+      "code": "AY221.2",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/business-finance/2574826"
+    },
+    {
+      "name": "Business Finance I",
+      "code": "AY208",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/business-finance-i/2574827"
+    },
+    {
+      "name": "Business Finance II",
+      "code": "AY314",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/business-finance-ii/2574828"
+    },
+    {
+      "name": "Business Information Analysis",
+      "code": "MS414",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/business-information-analysis/4500155"
+    },
+    {
+      "name": "Business Information Systems",
+      "code": "MS120",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/business-information-systems/4384318"
+    },
+    {
+      "name": "Business Law",
+      "code": "LW190",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/business-law/4392093"
+    },
+    {
+      "name": "Business modelling and analytics",
+      "code": "MS5107",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/business-modelling-and-analytics/5287107"
+    },
+    {
+      "name": "Business Strategy",
+      "code": "MG3103",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/business-strategy/4414301"
+    },
+    {
+      "name": "CAD Modelling",
+      "code": "BST121.I",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/cad-modelling/2574831"
+    },
+    {
+      "name": "Cardiovascular system",
+      "code": "MD121",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/cardiovascular-system/5970259"
+    },
+    {
+      "name": "Cell Biology",
+      "code": "BI309",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/cell-biology/2574845"
+    },
+    {
+      "name": "Cell Signalling",
+      "code": "BI313",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/cell-signalling/2574846"
+    },
+    {
+      "name": "Celtic Mythology, Religion and Folklore",
+      "code": "SG116 (A)",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/celtic-mythology-religion-and-folklore/4832814"
+    },
+    {
+      "name": "Chemistry",
+      "code": "CH501",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/chemistry/2574854"
+    },
+    {
+      "name": "Chemistry",
+      "code": "CH101",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/chemistry/2574855"
+    },
+    {
+      "name": "Chemistry",
+      "code": "DFS2",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/chemistry/2843546"
+    },
+    {
+      "name": "Chemistry/Physics",
+      "code": "CP102",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/chemistryphysics/2574856"
+    },
+    {
+      "name": "Chemistry: Molecular Science",
+      "code": "CH120",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/chemistry-molecular-science/2574857"
+    },
+    {
+      "name": "Chemistry: The World of the Molecule",
+      "code": "CH130",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/chemistry-the-world-of-the-molecule/2574858"
+    },
+    {
+      "name": "Civil Engineering",
+      "code": "CE6900",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/civil-engineering/2574875"
+    },
+    {
+      "name": "Civil Engineering",
+      "code": "CE650",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/civil-engineering/2574877"
+    },
+    {
+      "name": "Civil Law",
+      "code": "GY251",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/civil-law/3147573"
+    },
+    {
+      "name": "Classical Social Thought",
+      "code": "SP212",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/classical-social-thought/2675772"
+    },
+    {
+      "name": "Classics",
+      "code": "AC650",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/classics/2574890"
+    },
+    {
+      "name": "Clinical Oncology, Haematology",
+      "code": "BI461",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/clinical-oncology-haematology/2574899"
+    },
+    {
+      "name": "Clinical Psychology",
+      "code": null,
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/clinical-psychology/4500464"
+    },
+    {
+      "name": "Cognitive Psychology",
+      "code": "PS3122",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/cognitive-psychology/7688352"
+    },
+    {
+      "name": "Combustion Chemistry and Kinetics",
+      "code": "CH507",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/combustion-chemistry-and-kinetics/2574906"
+    },
+    {
+      "name": "Commercial law",
+      "code": "LW215",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/commercial-law/4403480"
+    },
+    {
+      "name": "Commercial Law",
+      "code": "LW 2000",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/commercial-law/5856494"
+    },
+    {
+      "name": "Company Law I",
+      "code": "LW229",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/company-law-i/4377926"
+    },
+    {
+      "name": "Company Law II",
+      "code": "LW231",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/company-law-ii/4414322"
+    },
+    {
+      "name": "Comparative Competition Law",
+      "code": "LW333",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/comparative-competition-law/6738751"
+    },
+    {
+      "name": "Computational Methods in Engineering Analysis",
+      "code": "BME6101",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/computational-methods-in-engineering-analysis/2574918"
+    },
+    {
+      "name": "Computational Methods in Engineering Analysis",
+      "code": "BME402",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/computational-methods-in-engineering-analysis/2574919"
+    },
+    {
+      "name": "Computer Communications",
+      "code": "CT866",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/computer-communications/2574922"
+    },
+    {
+      "name": "Computer Science",
+      "code": "CS204",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/computer-science/2574923"
+    },
+    {
+      "name": "Computer Science",
+      "code": "CS103",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/computer-science/2574924"
+    },
+    {
+      "name": "Computer Security and Forensic Computing",
+      "code": "CT437",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/computer-security-and-forensic-computing/2574928"
+    },
+    {
+      "name": "Computer Systems &amp; Organization",
+      "code": "CT213",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/computer-systems-amp-organization/2574931"
+    },
+    {
+      "name": "Concepts and Practices of Politics & Sociology",
+      "code": "SP159",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/concepts-and-practices-of-politics-sociology/2673139"
+    },
+    {
+      "name": "Concepts in Population and Community Ecology",
+      "code": "ZO320",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/concepts-in-population-and-community-ecology/4399738"
+    },
+    {
+      "name": "Constitutional Law",
+      "code": "LW117",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/constitutional-law/2844456"
+    },
+    {
+      "name": "Consumer Behaviour",
+      "code": "MK206",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/consumer-behaviour/6640480"
+    },
+    {
+      "name": "Contemporary American Politics",
+      "code": "sp3208",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/contemporary-american-politics/6625348"
+    },
+    {
+      "name": "Contemporary Irish Poetry",
+      "code": "EN404",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/contemporary-irish-poetry/2656212"
+    },
+    {
+      "name": "Contemporary Irish Writing",
+      "code": "en459",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/contemporary-irish-writing/4443027"
+    },
+    {
+      "name": "Contemporary Latin American Studies",
+      "code": "SH336",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/contemporary-latin-american-studies/4522290"
+    },
+    {
+      "name": "Contemporary Literature",
+      "code": "ENG304",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/contemporary-literature/2658309"
+    },
+    {
+      "name": "Contemporrary Social Thought",
+      "code": "SP405",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/contemporrary-social-thought/2686083"
+    },
+    {
+      "name": "Contract Law",
+      "code": "FE1",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/contract-law/6775589"
+    },
+    {
+      "name": "Contract Law",
+      "code": "Lw202",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/contract-law/2698758"
+    },
+    {
+      "name": "Corporate Finance",
+      "code": "AY5105",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/corporate-finance/2574940"
+    },
+    {
+      "name": "Corporate Social Responsability",
+      "code": "MG3104",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/corporate-social-responsability/4819062"
+    },
+    {
+      "name": "Course Design, Assessment &amp; Evaluation",
+      "code": "CEL261",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/course-design-assessment-amp-evaluation/2574943"
+    },
+    {
+      "name": "Creative Process/Theatre in Ireland",
+      "code": "AA815",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/creative-processtheatre-in-ireland/2574945"
+    },
+    {
+      "name": "Criminal Justice",
+      "code": "LW394",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/criminal-justice/5327885"
+    },
+    {
+      "name": "Criminal Law",
+      "code": "LW409",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/criminal-law/4380852"
+    },
+    {
+      "name": "Criminal Law I",
+      "code": "LW301",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/criminal-law-i/6852962"
+    },
+    {
+      "name": "Criminal Law II",
+      "code": "LW304",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/criminal-law-ii/6860924"
+    },
+    {
+      "name": "Criminal Law II",
+      "code": "LW413",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/criminal-law-ii/7528261"
+    },
+    {
+      "name": "criminology",
+      "code": "LW338",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/criminology/4386187"
+    },
+    {
+      "name": "Critical Thinking",
+      "code": "AL1111",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/critical-thinking/2574946"
+    },
+    {
+      "name": "Critical Thinking and Persuasive Writing",
+      "code": "PI1101",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/critical-thinking-and-persuasive-writing/2944068"
+    },
+    {
+      "name": "Culture &amp; Colonialism - Minor Dissertation",
+      "code": "CU552",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/culture-amp-colonialism-minor-dissertation/2574951"
+    },
+    {
+      "name": "Current Topics in Bioscience",
+      "code": "BI446",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/current-topics-in-bioscience/2574954"
+    },
+    {
+      "name": "Cybersecurity Risk Management",
+      "code": "MS5125",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/cybersecurity-risk-management/7537209"
+    },
+    {
+      "name": "Data Science and big data Analytics",
+      "code": "MS5106",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/data-science-and-big-data-analytics/2767017"
+    },
+    {
+      "name": "Data Visualisation",
+      "code": "CT5100",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/data-visualisation/2574962"
+    },
+    {
+      "name": "Database Administration",
+      "code": "CT615",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/database-administration/2574963"
+    },
+    {
+      "name": "Database systems",
+      "code": "MS805",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/database-systems/5287103"
+    },
+    {
+      "name": "Database Systems I",
+      "code": "CT230",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/database-systems-i/2574971"
+    },
+    {
+      "name": "Design of Sustainable Environmental Systems I",
+      "code": "CE464",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/design-of-sustainable-environmental-systems-i/2574989"
+    },
+    {
+      "name": "Designing Play - How to create &amp; deliver a workshop in creativity for Children",
+      "code": "CSS301",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/designing-play-how-to-create-amp-deliver-a-workshop-in-creativity-for-children/2574991"
+    },
+    {
+      "name": "Development and Change",
+      "code": "SP404",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/development-and-change/2688600"
+    },
+    {
+      "name": "Development Economics",
+      "code": "EC357",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/development-economics/7451738"
+    },
+    {
+      "name": "Developmental Psychology",
+      "code": "CSS203",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/developmental-psychology/2574995"
+    },
+    {
+      "name": "Discrete Mathematics",
+      "code": "MA284",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/discrete-mathematics/2885137"
+    },
+    {
+      "name": "Drama and Theatre Studies",
+      "code": "EN385.E",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/drama-and-theatre-studies/5927855"
+    },
+    {
+      "name": "Drug Design &amp; Drug Discovery",
+      "code": "CH332",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/drug-design-amp-drug-discovery/2575014"
+    },
+    {
+      "name": "Drugs and Disease",
+      "code": "MD204",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/drugs-and-disease/4377015"
+    },
+    {
+      "name": "Drugs and diseases",
+      "code": "PM310",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/drugs-and-diseases/2792363"
+    },
+    {
+      "name": "Dynamics of Microbial Gene Regulation",
+      "code": "MI440",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/dynamics-of-microbial-gene-regulation/2844018"
+    },
+    {
+      "name": "Economics and Philosophy",
+      "code": "EC3100",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/economics-and-philosophy/6052311"
+    },
+    {
+      "name": "Economics of Financial Markets",
+      "code": "EC362",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/economics-of-financial-markets/4455797"
+    },
+    {
+      "name": "Economics of Public Policy",
+      "code": "EC259",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/economics-of-public-policy/4377865"
+    },
+    {
+      "name": "Electrical Circuits and Systems",
+      "code": "EE230",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/electrical-circuits-and-systems/3011022"
+    },
+    {
+      "name": "Electronic Instrumentation and Sensors",
+      "code": "EE231",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/electronic-instrumentation-and-sensors/3271883"
+    },
+    {
+      "name": "Elements of Human Geography",
+      "code": "TI370",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/elements-of-human-geography/4379082"
+    },
+    {
+      "name": "Employment Relations",
+      "code": "MG325",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/employment-relations/4389035"
+    },
+    {
+      "name": "Engineering Analysis for Regulatory Approval",
+      "code": "BME4103",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/engineering-analysis-for-regulatory-approval/2575028"
+    },
+    {
+      "name": "Engineering Computing I",
+      "code": "CT1110",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/engineering-computing-i/2575031"
+    },
+    {
+      "name": "Engineering Computing II",
+      "code": "CT1111",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/engineering-computing-ii/2575032"
+    },
+    {
+      "name": "Engineering Mechanics",
+      "code": "BST123.I",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/engineering-mechanics/2575038"
+    },
+    {
+      "name": "Engineering Physics",
+      "code": "PH140",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/engineering-physics/3011018"
+    },
+    {
+      "name": "Enterprise Systems",
+      "code": "MS809",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/enterprise-systems/5287093"
+    },
+    {
+      "name": "Environmental Biotechnology",
+      "code": "MI4103",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/environmental-biotechnology/4498103"
+    },
+    {
+      "name": "Environmental Engineering",
+      "code": "CE336",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/environmental-engineering/2575045"
+    },
+    {
+      "name": "Environmental Law",
+      "code": "LW357",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/environmental-law/4526167"
+    },
+    {
+      "name": "Equality, Diversity, and Collective Action",
+      "code": "SP3195",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/equality-diversity-and-collective-action/7318901"
+    },
+    {
+      "name": "Equity 1",
+      "code": "LW263",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/equity-1/4462959"
+    },
+    {
+      "name": "Equity 2",
+      "code": "LW265",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/equity-2/4462961"
+    },
+    {
+      "name": "EU Law",
+      "code": "LW427",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/eu-law/4403829"
+    },
+    {
+      "name": "European human rights",
+      "code": "le385",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/european-human-rights/4369354"
+    },
+    {
+      "name": "European Politics",
+      "code": "SP216",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/european-politics/2944227"
+    },
+    {
+      "name": "European Union Law II",
+      "code": null,
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/european-union-law-ii/7499008"
+    },
+    {
+      "name": "Evidence I",
+      "code": null,
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/evidence-i/4369598"
+    },
+    {
+      "name": "Evidence II",
+      "code": null,
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/evidence-ii/6880136"
+    },
+    {
+      "name": "Evidence Law II",
+      "code": "LW514",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/evidence-law-ii/6882328"
+    },
+    {
+      "name": "Evidence Module I",
+      "code": "LW513",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/evidence-module-i/7294683"
+    },
+    {
+      "name": "Evolution and the Tree of Life",
+      "code": "BO202",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/evolution-and-the-tree-of-life/2575060"
+    },
+    {
+      "name": "Family Law",
+      "code": "LW127",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/family-law/5326214"
+    },
+    {
+      "name": "festival, ritual and commemoration",
+      "code": "IS2102",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/festival-ritual-and-commemoration/5094770"
+    },
+    {
+      "name": "Film Studies",
+      "code": "ENG213",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/film-studies/3192162"
+    },
+    {
+      "name": "Finance",
+      "code": "AY527",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/finance/2575077"
+    },
+    {
+      "name": "Financial Accounting III",
+      "code": "AY309",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/financial-accounting-iii/2575082"
+    },
+    {
+      "name": "Financial Management I",
+      "code": "AY872",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/financial-management-i/2575086"
+    },
+    {
+      "name": "Financial Management II",
+      "code": "AY875",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/financial-management-ii/2575087"
+    },
+    {
+      "name": "Fluid Dynamics",
+      "code": "ME301",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/fluid-dynamics/4395347"
+    },
+    {
+      "name": "Fluid Mechanics",
+      "code": "FM2013",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/fluid-mechanics/4338060"
+    },
+    {
+      "name": "Forensic Psychology",
+      "code": null,
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/forensic-psychology/4500469"
+    },
+    {
+      "name": "Foundation In Clinical Management",
+      "code": "MD313",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/foundation-in-clinical-management/2651369"
+    },
+    {
+      "name": "Foundations In Clinical Theory",
+      "code": "MD314",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/foundations-in-clinical-theory/2651366"
+    },
+    {
+      "name": "Foundations of Marketing Thought",
+      "code": "MK1100",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/foundations-of-marketing-thought/4379016"
+    },
+    {
+      "name": "French Language 6",
+      "code": "FR379",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/french-language-6/6118759"
+    },
+    {
+      "name": "French Literature and Culture 11",
+      "code": "FR3100",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/french-literature-and-culture-11/5927856"
+    },
+    {
+      "name": "Fundamentals of Engineering",
+      "code": "EI140",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/fundamentals-of-engineering/3011016"
+    },
+    {
+      "name": "Gastrointestinal system",
+      "code": "MD124",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/gastrointestinal-system/6331460"
+    },
+    {
+      "name": "Gene Technologies and Molecular Medicine",
+      "code": "BI206",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/gene-technologies-and-molecular-medicine/2575102"
+    },
+    {
+      "name": "general arts",
+      "code": "gy101",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/general-arts/4901091"
+    },
+    {
+      "name": "Genes, Gametes & Embryos",
+      "code": "MD210",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/genes-gametes-embryos/4409274"
+    },
+    {
+      "name": "Geomechanics and Geology",
+      "code": "CE3101",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/geomechanics-and-geology/2575108"
+    },
+    {
+      "name": "German",
+      "code": "GR141",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/german/4379154"
+    },
+    {
+      "name": "Global Business and HR in Context",
+      "code": "MG6101",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/global-business-and-hr-in-context/2843971"
+    },
+    {
+      "name": "Global Change",
+      "code": "EOS402",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/global-change/4399728"
+    },
+    {
+      "name": "Global Economics for International Managers",
+      "code": "EC5111",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/global-economics-for-international-managers/2843986"
+    },
+    {
+      "name": "Global History 1780-1945",
+      "code": "HI2125",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/global-history-1780-1945/4408342"
+    },
+    {
+      "name": "Global Marketing Management",
+      "code": "MK579",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/global-marketing-management/2843949"
+    },
+    {
+      "name": "Government and Politics",
+      "code": null,
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/government-and-politics/2575117"
+    },
+    {
+      "name": "Gross Anatomy II: Thoracic and Abdominal Cavities and Contents",
+      "code": "AN3106",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/gross-anatomy-ii-thoracic-and-abdominal-cavities-and-contents/2575122"
+    },
+    {
+      "name": "Head and Neck Practical",
+      "code": "AN327",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/head-and-neck-practical/2575128"
+    },
+    {
+      "name": "Health and Applied Biosciences II",
+      "code": "NU2200",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/health-and-applied-biosciences-ii/6183641"
+    },
+    {
+      "name": "Health and Disease 1",
+      "code": "MD201",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/health-and-disease-1/2651370"
+    },
+    {
+      "name": "health and safety law",
+      "code": "lw214",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/health-and-safety-law/6530663"
+    },
+    {
+      "name": "Health and Safety Systems",
+      "code": "BST102.I",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/health-and-safety-systems/2575129"
+    },
+    {
+      "name": "Health Econ",
+      "code": "ec345",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/health-econ/6725752"
+    },
+    {
+      "name": "Health Psychology",
+      "code": "PS322",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/health-psychology/2733556"
+    },
+    {
+      "name": "Histology of the Fundamental Tissues",
+      "code": "AN2102",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/histology-of-the-fundamental-tissues/2575132"
+    },
+    {
+      "name": "Historic Landscapes",
+      "code": "AR242",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/historic-landscapes/2575133"
+    },
+    {
+      "name": "Historical and Conceptual Issues in Psychology",
+      "code": null,
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/historical-and-conceptual-issues-in-psychology/4500452"
+    },
+    {
+      "name": "History of the English Language",
+      "code": "EN402",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/history-of-the-english-language/2688599"
+    },
+    {
+      "name": "Host Microbe Interactions",
+      "code": "MI4101",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/host-microbe-interactions/6880813"
+    },
+    {
+      "name": "HPC Technology &amp; Administration",
+      "code": "CT1104",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/hpc-technology-amp-administration/2575136"
+    },
+    {
+      "name": "HRM & Decent work",
+      "code": "MG3118",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/hrm-decent-work/6751293"
+    },
+    {
+      "name": "Human Body Structure",
+      "code": "AN230",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/human-body-structure/2575140"
+    },
+    {
+      "name": "Human Molecular Genetics",
+      "code": "BI317",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/human-molecular-genetics/2575144"
+    },
+    {
+      "name": "Human Nutrition",
+      "code": "BI318",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/human-nutrition/2575145"
+    },
+    {
+      "name": "Immunology and Recombinant Techniques",
+      "code": "MI324",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/immunology-and-recombinant-techniques/7558937"
+    },
+    {
+      "name": "Industrial And Intellectual Property Law",
+      "code": "CT552",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/industrial-and-intellectual-property-law/2575739"
+    },
+    {
+      "name": "Information Management for Business",
+      "code": "MS 1100",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/information-management-for-business/6853652"
+    },
+    {
+      "name": "Inorganic Chemistry",
+      "code": "CH204",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/inorganic-chemistry/2575183"
+    },
+    {
+      "name": "Insurance Law",
+      "code": "CML3323",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/insurance-law/6831517"
+    },
+    {
+      "name": "Integrative Zoology",
+      "code": "ZO416",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/integrative-zoology/4399708"
+    },
+    {
+      "name": "Intermediate International Financial Reporting",
+      "code": "AY5112",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/intermediate-international-financial-reporting/2575188"
+    },
+    {
+      "name": "International and Comparative Disability Law",
+      "code": "LW370",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/international-and-comparative-disability-law/4379035"
+    },
+    {
+      "name": "International Business",
+      "code": "MG323",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/international-business/2651446"
+    },
+    {
+      "name": "International Corporate Finance",
+      "code": "AY590",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/international-corporate-finance/2575193"
+    },
+    {
+      "name": "International Financial Reporting I",
+      "code": "AY209",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/international-financial-reporting-i/2575198"
+    },
+    {
+      "name": "International Financial Reporting II",
+      "code": "AY325",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/international-financial-reporting-ii/2575199"
+    },
+    {
+      "name": "International Financial Reporting III",
+      "code": "AY326",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/international-financial-reporting-iii/2575200"
+    },
+    {
+      "name": "International Human Rights",
+      "code": "GYL00",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/international-human-rights/3147603"
+    },
+    {
+      "name": "International Protection of Human Rights",
+      "code": "LW3127",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/international-protection-of-human-rights/6631287"
+    },
+    {
+      "name": "International Relations",
+      "code": "SP234",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/international-relations/2944281"
+    },
+    {
+      "name": "international trade law",
+      "code": "lw364",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/international-trade-law/4455263"
+    },
+    {
+      "name": "Intro to Management",
+      "code": "MG110",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/intro-to-management/4464318"
+    },
+    {
+      "name": "Introduction to Biomaterials",
+      "code": "BME200",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/introduction-to-biomaterials/2575212"
+    },
+    {
+      "name": "Introduction to Child Law",
+      "code": "CSS201",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/introduction-to-child-law/2575740"
+    },
+    {
+      "name": "Introduction to English 2",
+      "code": "EN125",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/introduction-to-english-2/4476531"
+    },
+    {
+      "name": "Introduction to English I",
+      "code": "EN124",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/introduction-to-english-i/2944059"
+    },
+    {
+      "name": "Introduction to Financial Accounting",
+      "code": "AY104",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/introduction-to-financial-accounting/2575221"
+    },
+    {
+      "name": "Introduction to Government",
+      "code": "SP1124",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/introduction-to-government/6117578"
+    },
+    {
+      "name": "Introduction to Management Accounting",
+      "code": "AY105",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/introduction-to-management-accounting/2575227"
+    },
+    {
+      "name": "Introduction to Marketing",
+      "code": "BST143.I",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/introduction-to-marketing/2575228"
+    },
+    {
+      "name": "Introduction to Mathamatics",
+      "code": null,
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/introduction-to-mathamatics/6780912"
+    },
+    {
+      "name": "Introduction to Medical Microbiology",
+      "code": "BR610",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/introduction-to-medical-microbiology/2575229"
+    },
+    {
+      "name": "Introduction to Modelling",
+      "code": "CT248",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/introduction-to-modelling/2575231"
+    },
+    {
+      "name": "Introduction to Pharmacology",
+      "code": "MD214",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/introduction-to-pharmacology/6687733"
+    },
+    {
+      "name": "Introduction to Physiology",
+      "code": "SI 295",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/introduction-to-physiology/2871999"
+    },
+    {
+      "name": "Introduction to politics",
+      "code": "SP1125",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/introduction-to-politics/7715024"
+    },
+    {
+      "name": "Introduction to Practical Ethics",
+      "code": "PI108",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/introduction-to-practical-ethics/2944065"
+    },
+    {
+      "name": "Introduction to sociology",
+      "code": "SP1126",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/introduction-to-sociology/7715026"
+    },
+    {
+      "name": "Introduction to Statistical Data and Probability",
+      "code": "ST237",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/introduction-to-statistical-data-and-probability/2885135"
+    },
+    {
+      "name": "Introduction to the Study of the Social Sciences",
+      "code": "BSS1101",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/introduction-to-the-study-of-the-social-sciences/2575239"
+    },
+    {
+      "name": "Ireland &amp; the Ancient World",
+      "code": "CCS307",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/ireland-amp-the-ancient-world/2575243"
+    },
+    {
+      "name": "Ireland and the Global Economy",
+      "code": "EC423",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/ireland-and-the-global-economy/4517300"
+    },
+    {
+      "name": "Irish Legal System",
+      "code": "LW108",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/irish-legal-system/2844352"
+    },
+    {
+      "name": "Irish Literature in English before 1900",
+      "code": "EN214",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/irish-literature-in-english-before-1900/2944086"
+    },
+    {
+      "name": "IT Law",
+      "code": null,
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/it-law/6144793"
+    },
+    {
+      "name": "Jane Austen",
+      "code": "EN410",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/jane-austen/4417995"
+    },
+    {
+      "name": "Jurisprudence",
+      "code": "LW3119",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/jurisprudence/4455267"
+    },
+    {
+      "name": "Key Themes in Irish Prehistoric Archaeology",
+      "code": "AR8103",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/key-themes-in-irish-prehistoric-archaeology/2575264"
+    },
+    {
+      "name": "Lab Skills in Microbiology I",
+      "code": "MI202",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/lab-skills-in-microbiology-i/4518699"
+    },
+    {
+      "name": "Lab Skillsin Microbiology 11",
+      "code": "mi203",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/lab-skillsin-microbiology-11/6095120"
+    },
+    {
+      "name": "Labour in Irish Society",
+      "code": "HI488",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/labour-in-irish-society/6870626"
+    },
+    {
+      "name": "Labour Law 1",
+      "code": "LW212",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/labour-law-1/6619054"
+    },
+    {
+      "name": "Labour Law 2",
+      "code": "LW216",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/labour-law-2/6028443"
+    },
+    {
+      "name": "Labour Radicalism in the Anglophone World",
+      "code": "HI3126",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/labour-radicalism-in-the-anglophone-world/4451489"
+    },
+    {
+      "name": "land law",
+      "code": "Lw225",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/land-law/6053351"
+    },
+    {
+      "name": "Latin &amp; Historical Linguistics Part 1",
+      "code": "CCS202",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/latin-amp-historical-linguistics-part-1/2575268"
+    },
+    {
+      "name": "Law",
+      "code": "LW",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/law/2255758"
+    },
+    {
+      "name": "legal and business ethics",
+      "code": "lw379",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/legal-and-business-ethics/4455258"
+    },
+    {
+      "name": "Legal Aspects of Working in Logistics",
+      "code": null,
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/legal-aspects-of-working-in-logistics/7504795"
+    },
+    {
+      "name": "legal french",
+      "code": "LW380",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/legal-french/6053347"
+    },
+    {
+      "name": "Legal Methods and Research",
+      "code": "LW2122",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/legal-methods-and-research/6247515"
+    },
+    {
+      "name": "Legal Skills",
+      "code": "LW126",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/legal-skills/4352647"
+    },
+    {
+      "name": "Linear Algebra",
+      "code": "MA203",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/linear-algebra/2885134"
+    },
+    {
+      "name": "Linear Control sytems",
+      "code": "EE352",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/linear-control-sytems/5143158"
+    },
+    {
+      "name": "Literature in the Digital Age",
+      "code": "EN3138",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/literature-in-the-digital-age/4363360"
+    },
+    {
+      "name": "Literature Review and Presentation",
+      "code": "BI447",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/literature-review-and-presentation/2575280"
+    },
+    {
+      "name": "Literature Review and Presentation",
+      "code": "ZO425",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/literature-review-and-presentation/4399718"
+    },
+    {
+      "name": "Litriocht na Gaeilge",
+      "code": "NG363",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/litriocht-na-gaeilge/4379079"
+    },
+    {
+      "name": "Litríocht na Gaeilge",
+      "code": "NG364",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/litriocht-na-gaeilge/2699126"
+    },
+    {
+      "name": "Machine Learning &amp; Data Mining",
+      "code": "CT475",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/machine-learning-amp-data-mining/2575284"
+    },
+    {
+      "name": "Macroeconomics",
+      "code": "EC141",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/macroeconomics/4403482"
+    },
+    {
+      "name": "Management",
+      "code": "MG524",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/management/4403870"
+    },
+    {
+      "name": "Management Accounting",
+      "code": "AY528",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/management-accounting/2575288"
+    },
+    {
+      "name": "Management Accounting I",
+      "code": "AY207",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/management-accounting-i/2575294"
+    },
+    {
+      "name": "Management Accounting II",
+      "code": "AY321",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/management-accounting-ii/2575295"
+    },
+    {
+      "name": "Management Accounting III",
+      "code": "AY322",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/management-accounting-iii/2575296"
+    },
+    {
+      "name": "Management and Enterprise",
+      "code": "MG1101",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/management-and-enterprise/4384319"
+    },
+    {
+      "name": "Management and Strategic Finance",
+      "code": "AC605",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/management-and-strategic-finance/4544908"
+    },
+    {
+      "name": "Management Information Systems",
+      "code": "BST105.I",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/management-information-systems/2575298"
+    },
+    {
+      "name": "Manufacturing Technology",
+      "code": "BST129.I",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/manufacturing-technology/2575301"
+    },
+    {
+      "name": "Marine and Coastal Ecology",
+      "code": "ZO417",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/marine-and-coastal-ecology/4399734"
+    },
+    {
+      "name": "Marketing Information",
+      "code": "BST144.I",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/marketing-information/2575304"
+    },
+    {
+      "name": "Materials 2",
+      "code": "ME4109",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/materials-2/4398710"
+    },
+    {
+      "name": "Materials, Science &amp; Biomaterials",
+      "code": "BES513",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/materials-science-amp-biomaterials/2575315"
+    },
+    {
+      "name": "Mathematical Methods for Engineers",
+      "code": "MM140",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/mathematical-methods-for-engineers/3011017"
+    },
+    {
+      "name": "Mathematics and Applied Mathematics",
+      "code": "MA2102",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/mathematics-and-applied-mathematics/3011019"
+    },
+    {
+      "name": "MBA",
+      "code": null,
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/mba/1947929"
+    },
+    {
+      "name": "Mechanics of Solids",
+      "code": "CE3114",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/mechanics-of-solids/2575320"
+    },
+    {
+      "name": "Media, Culture, Society",
+      "code": "EN2133/2134",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/media-culture-society/4832816"
+    },
+    {
+      "name": "medical genomics",
+      "code": "MA5106",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/medical-genomics/6771100"
+    },
+    {
+      "name": "Medical Implant and Device Design",
+      "code": "BME403",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/medical-implant-and-device-design/2575328"
+    },
+    {
+      "name": "Medical professionalism 1",
+      "code": "MD 139",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/medical-professionalism-1/4339056"
+    },
+    {
+      "name": "Medical Professionalism 2",
+      "code": "MD202",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/medical-professionalism-2/4409281"
+    },
+    {
+      "name": "Medicine",
+      "code": "GY501",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/medicine/3197101"
+    },
+    {
+      "name": "Medieval Literature",
+      "code": "EN264",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/medieval-literature/2698761"
+    },
+    {
+      "name": "Memory and cognition",
+      "code": "PS320",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/memory-and-cognition/5152232"
+    },
+    {
+      "name": "Metabolism and Cell Signalling",
+      "code": "BI207",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/metabolism-and-cell-signalling/2575332"
+    },
+    {
+      "name": "Metabolism, nutrition and health",
+      "code": "MD140",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/metabolism-nutrition-and-health/4501152"
+    },
+    {
+      "name": "Methods for Social and Political Science",
+      "code": null,
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/methods-for-social-and-political-science/7688338"
+    },
+    {
+      "name": "Microbes and the Environment",
+      "code": "MI204",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/microbes-and-the-environment/4461875"
+    },
+    {
+      "name": "Microbial Metabolic and Molecular Systems",
+      "code": "MI326",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/microbial-metabolic-and-molecular-systems/7408688"
+    },
+    {
+      "name": "Microbiology",
+      "code": "mi325",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/microbiology/6898590"
+    },
+    {
+      "name": "Microeconomics & Public Policy",
+      "code": "EC3101",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/microeconomics-public-policy/4382444"
+    },
+    {
+      "name": "Microprocessor Systems Engineering",
+      "code": "EE224",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/microprocessor-systems-engineering/3011020"
+    },
+    {
+      "name": "Microscopy and Imaging",
+      "code": "AN4103",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/microscopy-and-imaging/2575337"
+    },
+    {
+      "name": "Milton's Poetry",
+      "code": "EN278",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/miltons-poetry/2944081"
+    },
+    {
+      "name": "Miscellaneous",
+      "code": "LW001",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/miscellaneous/4360314"
+    },
+    {
+      "name": "Modern Biotechnologies",
+      "code": "BI448",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/modern-biotechnologies/2575341"
+    },
+    {
+      "name": "Modernism/Postmodernism",
+      "code": "ENG302",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/modernismpostmodernism/2688605"
+    },
+    {
+      "name": "Modernism/Postmodernism",
+      "code": "EN302",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/modernismpostmodernism/4394401"
+    },
+    {
+      "name": "Modheolaíochtaí Taighde / Research Methodology",
+      "code": "AT130",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/modheolaiochtai-taighde-research-methodology/2575344"
+    },
+    {
+      "name": "Molecular and Cellular Biology",
+      "code": "BI449",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/molecular-and-cellular-biology/2575349"
+    },
+    {
+      "name": "Molecular Biology",
+      "code": "BI319",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/molecular-biology/2575351"
+    },
+    {
+      "name": "Molecular pharmacology",
+      "code": "PM210",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/molecular-pharmacology/2885170"
+    },
+    {
+      "name": "Molecular pharmacology",
+      "code": "PM201",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/molecular-pharmacology/2885121"
+    },
+    {
+      "name": "Molecular Pharmacology & Therapeutics",
+      "code": "PM434",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/molecular-pharmacology-therapeutics/2792354"
+    },
+    {
+      "name": "Money & Banking",
+      "code": "EC369",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/money-banking/4455873"
+    },
+    {
+      "name": "Moot Court",
+      "code": "LW437",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/moot-court/6624822"
+    },
+    {
+      "name": "Multi-Media Development",
+      "code": "CT411",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/multi-media-development/2575359"
+    },
+    {
+      "name": "Myth &amp; Religion in the Ancient City",
+      "code": "CC108",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/myth-amp-religion-in-the-ancient-city/2575360"
+    },
+    {
+      "name": "Nazi Germany",
+      "code": "HI337",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/nazi-germany/4518173"
+    },
+    {
+      "name": "Networks and Data Communications 1",
+      "code": "CT2108",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/networks-and-data-communications-1/2575368"
+    },
+    {
+      "name": "Neuroanatomy",
+      "code": "AN326",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/neuroanatomy/2575371"
+    },
+    {
+      "name": "Next Generation Technologies II",
+      "code": "CT255",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/next-generation-technologies-ii/2575375"
+    },
+    {
+      "name": "North American Literature",
+      "code": "EN3141",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/north-american-literature/4446782"
+    },
+    {
+      "name": "Novelty, Conflict, Scandal: Reading Early Modernity",
+      "code": "EN2128",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/novelty-conflict-scandal-reading-early-modernity/4528295"
+    },
+    {
+      "name": "Object Oriented Programming",
+      "code": "CT619",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/object-oriented-programming/2575382"
+    },
+    {
+      "name": "Object Oriented Programming: Data Structures and Algorithms",
+      "code": "CT2109",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/object-oriented-programming-data-structures-and-algorithms/2575389"
+    },
+    {
+      "name": "Ocean and Marine Politics",
+      "code": "SP721",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/ocean-and-marine-politics/2699082"
+    },
+    {
+      "name": "Organ Failure",
+      "code": "Md209",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/organ-failure/6053672"
+    },
+    {
+      "name": "Organisational Psychology",
+      "code": "MG2100",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/organisational-psychology/4464327"
+    },
+    {
+      "name": "Palaeobotany and Climate Change",
+      "code": "BPS404",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/palaeobotany-and-climate-change/2575400"
+    },
+    {
+      "name": "Patterns In Early Irish Pre-History",
+      "code": "AR323",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/patterns-in-early-irish-pre-history/2575402"
+    },
+    {
+      "name": "Pharmacology summary",
+      "code": "MD124",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/pharmacology-summary/5293649"
+    },
+    {
+      "name": "Philosophy of art",
+      "code": "PI207",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/philosophy-of-art/6817381"
+    },
+    {
+      "name": "Phylogenetics and Conservation",
+      "code": "ZO418",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/phylogenetics-and-conservation/4399717"
+    },
+    {
+      "name": "Physical Anthropology",
+      "code": "AN441",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/physical-anthropology/2575409"
+    },
+    {
+      "name": "Physical Chemistry II",
+      "code": "CH432",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/physical-chemistry-ii/2575413"
+    },
+    {
+      "name": "Physics Laboratory and Problem Solving 1",
+      "code": "1920-PH2101",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/physics-laboratory-and-problem-solving-1/4515084"
+    },
+    {
+      "name": "physics of the environment",
+      "code": "ph329",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/physics-of-the-environment/6601865"
+    },
+    {
+      "name": "Plant and Agricultural Genetics",
+      "code": "BPS305",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/plant-and-agricultural-genetics/2575415"
+    },
+    {
+      "name": "Plant and Agricultural Genetics",
+      "code": "PAB3103",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/plant-and-agricultural-genetics/7519993"
+    },
+    {
+      "name": "Plant Diversity, Physiology &amp; Adaptation",
+      "code": "BPS203",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/plant-diversity-physiology-amp-adaptation/2575417"
+    },
+    {
+      "name": "Plant Ecology & Palaeoecology",
+      "code": "BT316-1",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/plant-ecology-palaeoecology/2871981"
+    },
+    {
+      "name": "Policy &amp; Scenarios for Climate Change Adaptation &amp; Mitigation",
+      "code": "BPS5103",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/policy-amp-scenarios-for-climate-change-adaptation-amp-mitigation/2575425"
+    },
+    {
+      "name": "policy seminar",
+      "code": "SP514",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/policy-seminar/4384566"
+    },
+    {
+      "name": "Primary Care and Mental Health",
+      "code": "MD420",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/primary-care-and-mental-health/2651359"
+    },
+    {
+      "name": "Principles of Microeconomics",
+      "code": "EC139",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/principles-of-microeconomics/4376543"
+    },
+    {
+      "name": "Principles of physiology",
+      "code": "MD 137",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/principles-of-physiology/4339054"
+    },
+    {
+      "name": "Principles of Political Theory",
+      "code": "SP406",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/principles-of-political-theory/2662593"
+    },
+    {
+      "name": "Programming for Data Analytics",
+      "code": "CT5102",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/programming-for-data-analytics/2575465"
+    },
+    {
+      "name": "Project proposal",
+      "code": null,
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/project-proposal/4536410"
+    },
+    {
+      "name": "Protein Biochemistry",
+      "code": "BI321",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/protein-biochemistry/2575481"
+    },
+    {
+      "name": "Protein Structure and Function",
+      "code": "BI208",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/protein-structure-and-function/2575482"
+    },
+    {
+      "name": "Protein Technology",
+      "code": "BG5104",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/protein-technology/2575483"
+    },
+    {
+      "name": "Psychiatry",
+      "code": "MD414",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/psychiatry/2698877"
+    },
+    {
+      "name": "Psychology of Learning",
+      "code": "PS220",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/psychology-of-learning/4422463"
+    },
+    {
+      "name": "Public Administation",
+      "code": "SP227",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/public-administation/6498059"
+    },
+    {
+      "name": "Purdue: Implantable Materials and Biological Response",
+      "code": "BME318",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/purdue-implantable-materials-and-biological-response/2575501"
+    },
+    {
+      "name": "Purdue: Probability and Statistics in Engineering",
+      "code": "BME304",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/purdue-probability-and-statistics-in-engineering/2575508"
+    },
+    {
+      "name": "Purdue: Simulating Health Care Systems",
+      "code": "BME306",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/purdue-simulating-health-care-systems/2575511"
+    },
+    {
+      "name": "Purdue: Thermodynamics 1",
+      "code": "BME324",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/purdue-thermodynamics-1/2575513"
+    },
+    {
+      "name": "Quantum Mechanics 1",
+      "code": "MP356",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/quantum-mechanics-1/6062961"
+    },
+    {
+      "name": "Real Time Systems",
+      "code": "CT420",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/real-time-systems/2575525"
+    },
+    {
+      "name": "Renal Physiology",
+      "code": "SI331",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/renal-physiology/5327551"
+    },
+    {
+      "name": "Renal System",
+      "code": "MD123",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/renal-system/4392434"
+    },
+    {
+      "name": "Research Methods Psychology",
+      "code": "PS137",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/research-methods-psychology/4376475"
+    },
+    {
+      "name": "Respiratory System",
+      "code": "MD122",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/respiratory-system/5140099"
+    },
+    {
+      "name": "Revenue Law I",
+      "code": "LW3156",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/revenue-law-i/6714789"
+    },
+    {
+      "name": "safety system design",
+      "code": "me2102",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/safety-system-design/6859170"
+    },
+    {
+      "name": "SAP",
+      "code": "MS5109",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/sap/2872024"
+    },
+    {
+      "name": "Science",
+      "code": "DFS103",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/science/2575540"
+    },
+    {
+      "name": "Science Fiction and Speculative Fiction",
+      "code": "en2150",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/science-fiction-and-speculative-fiction/4426477"
+    },
+    {
+      "name": "Science_Education",
+      "code": "DFS109",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/science-education/2575542"
+    },
+    {
+      "name": "Scientific Communication",
+      "code": "MI4104",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/scientific-communication/6880821"
+    },
+    {
+      "name": "Scientific Writing",
+      "code": "AN445",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/scientific-writing/2575545"
+    },
+    {
+      "name": "Second Year English",
+      "code": "ENG200",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/second-year-english/2698797"
+    },
+    {
+      "name": "Sediments and the Sedimentary Record",
+      "code": "EOS323",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/sediments-and-the-sedimentary-record/4399739"
+    },
+    {
+      "name": "Seduction, Sexuality, and Race: Early Modern Identities (CA)",
+      "code": "EN2167",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/seduction-sexuality-and-race-early-modern-identities-ca/5698560"
+    },
+    {
+      "name": "Self Study Essay",
+      "code": "MI406",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/self-study-essay/2844015"
+    },
+    {
+      "name": "Semantic Web",
+      "code": "DER510",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/semantic-web/2575554"
+    },
+    {
+      "name": "Shakespearean Comedies",
+      "code": "EN2117",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/shakespearean-comedies/4394860"
+    },
+    {
+      "name": "SmartGrid",
+      "code": "CT549",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/smartgrid/2575560"
+    },
+    {
+      "name": "SmartGrid",
+      "code": "CT474",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/smartgrid/2575561"
+    },
+    {
+      "name": "Social Policy",
+      "code": null,
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/social-policy/4409637"
+    },
+    {
+      "name": "Social Psychology",
+      "code": "PS428",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/social-psychology/4422895"
+    },
+    {
+      "name": "Software Engineering I",
+      "code": "CT216",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/software-engineering-i/2575571"
+    },
+    {
+      "name": "Spanish Language II",
+      "code": "SH224",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/spanish-language-ii/7368678"
+    },
+    {
+      "name": "statistical techniques for business analytics",
+      "code": "MS5105",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/statistical-techniques-for-business-analytics/5270466"
+    },
+    {
+      "name": "Stories told and retold",
+      "code": null,
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/stories-told-and-retold/6046161"
+    },
+    {
+      "name": "Strategic Management",
+      "code": "MG602",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/strategic-management/2844033"
+    },
+    {
+      "name": "Strategic Sales Management",
+      "code": null,
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/strategic-sales-management/2575588"
+    },
+    {
+      "name": "Strength of Materials",
+      "code": "CE227",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/strength-of-materials/2575589"
+    },
+    {
+      "name": "Studies in Modern Irish Literature",
+      "code": "EN388",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/studies-in-modern-irish-literature/2699068"
+    },
+    {
+      "name": "Studies in the Age of Shakespeare",
+      "code": "EN2123",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/studies-in-the-age-of-shakespeare/2699652"
+    },
+    {
+      "name": "Studio Research 1: Research Methods, Materiality &amp; the Land",
+      "code": "AE1518",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/studio-research-1-research-methods-materiality-amp-the-land/2575611"
+    },
+    {
+      "name": "Study Abroad for Journalists /Erasmus",
+      "code": "AJ306",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/study-abroad-for-journalists-erasmus/2575623"
+    },
+    {
+      "name": "Summer School: Audit and Accounting Analytics",
+      "code": "AY5114",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/summer-school-audit-and-accounting-analytics/2575624"
+    },
+    {
+      "name": "Summer School: Management of Organizational Performance",
+      "code": "AY5115",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/summer-school-management-of-organizational-performance/2575625"
+    },
+    {
+      "name": "Surgical and Medical Biodesign",
+      "code": "BME3102",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/surgical-and-medical-biodesign/2575627"
+    },
+    {
+      "name": "Systems Analysis &amp; Design",
+      "code": "CT2103",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/systems-analysis-amp-design/2575633"
+    },
+    {
+      "name": "Taxation I",
+      "code": "AY5100",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/taxation-i/2575640"
+    },
+    {
+      "name": "Taxation II",
+      "code": "AY5101",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/taxation-ii/2575642"
+    },
+    {
+      "name": "Taxation II",
+      "code": "AY319",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/taxation-ii/2575643"
+    },
+    {
+      "name": "Teanga na Nua-Ghaeilge II",
+      "code": "NG228",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/teanga-na-nua-ghaeilge-ii/4416803"
+    },
+    {
+      "name": "Technology Innovation and Entrepreneurship",
+      "code": "BST110.2",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/technology-innovation-and-entrepreneurship/2575654"
+    },
+    {
+      "name": "Teicneolaíochtaí na Meán",
+      "code": "CG2103",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/teicneolaiochtai-na-mean/2575659"
+    },
+    {
+      "name": "The Central Nervous System",
+      "code": "MD224",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/the-central-nervous-system/4408914"
+    },
+    {
+      "name": "The Child in Film",
+      "code": "CN1105",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/the-child-in-film/2575666"
+    },
+    {
+      "name": "The Marketing of Services",
+      "code": "MK311",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/the-marketing-of-services/4455883"
+    },
+    {
+      "name": "The MFA Exhibition",
+      "code": "Studio Research 4",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/the-mfa-exhibition/2575675"
+    },
+    {
+      "name": "Theories of Personality",
+      "code": "PS338",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/theories-of-personality/2733557"
+    },
+    {
+      "name": "Theory and Art and Ecology 3: The Dissertation",
+      "code": "AE2522",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/theory-and-art-and-ecology-3-the-dissertation/2575688"
+    },
+    {
+      "name": "Thermodynamics",
+      "code": "ME322",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/thermodynamics/4395354"
+    },
+    {
+      "name": "thermodynamics fluid mechanics",
+      "code": "me223",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/thermodynamics-fluid-mechanics/4341850"
+    },
+    {
+      "name": "Thinking Politically",
+      "code": "GY132",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/thinking-politically/6600764"
+    },
+    {
+      "name": "This is the News",
+      "code": "AJ102",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/this-is-the-news/2575690"
+    },
+    {
+      "name": "Tort law",
+      "code": "LW262",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/tort-law/4403473"
+    },
+    {
+      "name": "Urban Geography",
+      "code": "TI324",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/urban-geography/4451358"
+    },
+    {
+      "name": "User Centred Design",
+      "code": "CT534",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/user-centred-design/2575706"
+    },
+    {
+      "name": "Uversity Creative Project",
+      "code": "CP6100",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/uversity-creative-project/2575707"
+    },
+    {
+      "name": "Validation Enterprise",
+      "code": null,
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/validation-enterprise/2575708"
+    },
+    {
+      "name": "Vertebrate Zoology",
+      "code": "ZO209",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/vertebrate-zoology/4045032"
+    },
+    {
+      "name": "War & Representation: Spaces and Politics of the Media",
+      "code": "TI326",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/war-representation-spaces-and-politics-of-the-media/4451359"
+    },
+    {
+      "name": "Women's and Children's Health",
+      "code": "MD422",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/womens-and-childrens-health/2651365"
+    },
+    {
+      "name": "Work in a Global Context",
+      "code": "MG3102",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/work-in-a-global-context/4414577"
+    },
+    {
+      "name": "Work Placement",
+      "code": "CH4111",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/work-placement/2575722"
+    },
+    {
+      "name": "Working with Archaeology and Human Heritages",
+      "code": "AR1101",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/working-with-archaeology-and-human-heritages/2575726"
+    },
+    {
+      "name": "Writing Animals",
+      "code": "EN3128",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/writing-animals/2699077"
+    },
+    {
+      "name": "Writing for News",
+      "code": "DJ6116",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/writing-for-news/2575728"
+    },
+    {
+      "name": "XML Concepts for Database Development",
+      "code": "CT617.A",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/xml-concepts-for-database-development/2575731"
+    },
+    {
+      "name": "Youth and Society",
+      "code": "CD110",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/youth-and-society/2575736"
+    },
+    {
+      "name": "Youth and Society",
+      "code": "SP3137",
+      "url": "https://www.studocu.com/en-ie/course/university-of-galway/youth-and-society/6521306"
+    }
+  ]
+}

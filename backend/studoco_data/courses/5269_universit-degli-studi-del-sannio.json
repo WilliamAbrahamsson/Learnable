@@ -1,0 +1,876 @@
+{
+  "university_id": "5269",
+  "university_name": "Università degli Studi del Sannio",
+  "courses": [
+    {
+      "name": "Agrifood financing",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-degli-studi-del-sannio/agrifood-financing/6012005"
+    },
+    {
+      "name": "Algoritmi e strutture dati",
+      "code": "863110",
+      "url": "https://www.studocu.com/it/course/universita-degli-studi-del-sannio/algoritmi-e-strutture-dati/5023195"
+    },
+    {
+      "name": "Analisi multidimensionale dei dati",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-degli-studi-del-sannio/analisi-multidimensionale-dei-dati/5135820"
+    },
+    {
+      "name": "Anatomia",
+      "code": "ANATO2020",
+      "url": "https://www.studocu.com/it/course/universita-degli-studi-del-sannio/anatomia/4449811"
+    },
+    {
+      "name": "applicazioni di informatica",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-degli-studi-del-sannio/applicazioni-di-informatica/5857232"
+    },
+    {
+      "name": "Architettura dei calcolatori",
+      "code": "86310",
+      "url": "https://www.studocu.com/it/course/universita-degli-studi-del-sannio/architettura-dei-calcolatori/5023203"
+    },
+    {
+      "name": "Basi di dati",
+      "code": "86311",
+      "url": "https://www.studocu.com/it/course/universita-degli-studi-del-sannio/basi-di-dati/5023202"
+    },
+    {
+      "name": "Basi farmacologiche della terapia",
+      "code": "BIO/14",
+      "url": "https://www.studocu.com/it/course/universita-degli-studi-del-sannio/basi-farmacologiche-della-terapia/5101775"
+    },
+    {
+      "name": "Biochimica",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-degli-studi-del-sannio/biochimica/4541639"
+    },
+    {
+      "name": "biochimica clinica",
+      "code": "BIO/12",
+      "url": "https://www.studocu.com/it/course/universita-degli-studi-del-sannio/biochimica-clinica/5148424"
+    },
+    {
+      "name": "Biodiritto",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-degli-studi-del-sannio/biodiritto/3245933"
+    },
+    {
+      "name": "Bioinformatica",
+      "code": "INFO 2021",
+      "url": "https://www.studocu.com/it/course/universita-degli-studi-del-sannio/bioinformatica/4826694"
+    },
+    {
+      "name": "Biologia cellulare",
+      "code": "Bio/13",
+      "url": "https://www.studocu.com/it/course/universita-degli-studi-del-sannio/biologia-cellulare/2263386"
+    },
+    {
+      "name": "Biologia dello sviluppo",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-degli-studi-del-sannio/biologia-dello-sviluppo/4402735"
+    },
+    {
+      "name": "biologia e sistematica vegetale",
+      "code": "17212",
+      "url": "https://www.studocu.com/it/course/universita-degli-studi-del-sannio/biologia-e-sistematica-vegetale/5188246"
+    },
+    {
+      "name": "Biologica Molecolare",
+      "code": "17212",
+      "url": "https://www.studocu.com/it/course/universita-degli-studi-del-sannio/biologica-molecolare/4351653"
+    },
+    {
+      "name": "Biotecnologie applicate alle risorse alimentari",
+      "code": "VET/01",
+      "url": "https://www.studocu.com/it/course/universita-degli-studi-del-sannio/biotecnologie-applicate-alle-risorse-alimentari/5095799"
+    },
+    {
+      "name": "Botanica",
+      "code": "17617",
+      "url": "https://www.studocu.com/it/course/universita-degli-studi-del-sannio/botanica/7356987"
+    },
+    {
+      "name": "Business Plan",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-degli-studi-del-sannio/business-plan/3245718"
+    },
+    {
+      "name": "Chimica generale e inorganica con elementi di organica",
+      "code": "173105",
+      "url": "https://www.studocu.com/it/course/universita-degli-studi-del-sannio/chimica-generale-e-inorganica-con-elementi-di-organica/2173227"
+    },
+    {
+      "name": "Chimica organica",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-degli-studi-del-sannio/chimica-organica/4696990"
+    },
+    {
+      "name": "coltiviamo futuro",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-degli-studi-del-sannio/coltiviamo-futuro/7167412"
+    },
+    {
+      "name": "Contabilità e bilancio",
+      "code": "1",
+      "url": "https://www.studocu.com/it/course/universita-degli-studi-del-sannio/contabilita-e-bilancio/3145292"
+    },
+    {
+      "name": "Controlli Automatici",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-degli-studi-del-sannio/controlli-automatici/7015922"
+    },
+    {
+      "name": "Corporate Governance",
+      "code": "40311",
+      "url": "https://www.studocu.com/it/course/universita-degli-studi-del-sannio/corporate-governance/4521072"
+    },
+    {
+      "name": "Corporate strategy",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-degli-studi-del-sannio/corporate-strategy/4383366"
+    },
+    {
+      "name": "data science",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-degli-studi-del-sannio/data-science/6408974"
+    },
+    {
+      "name": "Demografia",
+      "code": "70967",
+      "url": "https://www.studocu.com/it/course/universita-degli-studi-del-sannio/demografia/6700746"
+    },
+    {
+      "name": "Diritto amministrativo",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-degli-studi-del-sannio/diritto-amministrativo/6381679"
+    },
+    {
+      "name": "Diritto Bancario",
+      "code": "260118",
+      "url": "https://www.studocu.com/it/course/universita-degli-studi-del-sannio/diritto-bancario/4818036"
+    },
+    {
+      "name": "Diritto civile",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-degli-studi-del-sannio/diritto-civile/3239421"
+    },
+    {
+      "name": "Diritto Commerciale",
+      "code": "012",
+      "url": "https://www.studocu.com/it/course/universita-degli-studi-del-sannio/diritto-commerciale/1742832"
+    },
+    {
+      "name": "Diritto comparato",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-degli-studi-del-sannio/diritto-comparato/3396807"
+    },
+    {
+      "name": "Diritto Costituzionale",
+      "code": "904501",
+      "url": "https://www.studocu.com/it/course/universita-degli-studi-del-sannio/diritto-costituzionale/4173838"
+    },
+    {
+      "name": "Diritto Costituzionale",
+      "code": "904662",
+      "url": "https://www.studocu.com/it/course/universita-degli-studi-del-sannio/diritto-costituzionale/5160893"
+    },
+    {
+      "name": "Diritto degli strumenti finanziari",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-degli-studi-del-sannio/diritto-degli-strumenti-finanziari/2906676"
+    },
+    {
+      "name": "diritto dei contratti",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-degli-studi-del-sannio/diritto-dei-contratti/4975553"
+    },
+    {
+      "name": "DIRITTO DEL LAVORO",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-degli-studi-del-sannio/diritto-del-lavoro/3251115"
+    },
+    {
+      "name": "diritto del turismo",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-degli-studi-del-sannio/diritto-del-turismo/5469036"
+    },
+    {
+      "name": "Diritto dell'unione europea",
+      "code": "904368",
+      "url": "https://www.studocu.com/it/course/universita-degli-studi-del-sannio/diritto-dellunione-europea/4826055"
+    },
+    {
+      "name": "diritto della navigazione",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-degli-studi-del-sannio/diritto-della-navigazione/4828525"
+    },
+    {
+      "name": "Diritto di famiglia",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-degli-studi-del-sannio/diritto-di-famiglia/3269609"
+    },
+    {
+      "name": "Diritto e Letteratura",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-degli-studi-del-sannio/diritto-e-letteratura/4383005"
+    },
+    {
+      "name": "Diritto e processo amministrativo",
+      "code": "904131",
+      "url": "https://www.studocu.com/it/course/universita-degli-studi-del-sannio/diritto-e-processo-amministrativo/2349214"
+    },
+    {
+      "name": "Diritto ecclesiastico e canonico",
+      "code": "1346085",
+      "url": "https://www.studocu.com/it/course/universita-degli-studi-del-sannio/diritto-ecclesiastico-e-canonico/4914525"
+    },
+    {
+      "name": "Diritto fallimentare",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-degli-studi-del-sannio/diritto-fallimentare/4828370"
+    },
+    {
+      "name": "Diritto internazionale",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-degli-studi-del-sannio/diritto-internazionale/1740595"
+    },
+    {
+      "name": "Diritto penale",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-degli-studi-del-sannio/diritto-penale/1741803"
+    },
+    {
+      "name": "Diritto penale 2",
+      "code": "904146",
+      "url": "https://www.studocu.com/it/course/universita-degli-studi-del-sannio/diritto-penale-2/2844962"
+    },
+    {
+      "name": "Diritto privato",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-degli-studi-del-sannio/diritto-privato/1742508"
+    },
+    {
+      "name": "Diritto processuale civile",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-degli-studi-del-sannio/diritto-processuale-civile/3219220"
+    },
+    {
+      "name": "Diritto processuale penale",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-degli-studi-del-sannio/diritto-processuale-penale/2276773"
+    },
+    {
+      "name": "Diritto Pubblico",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-degli-studi-del-sannio/diritto-pubblico/1742507"
+    },
+    {
+      "name": "Diritto sindacale",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-degli-studi-del-sannio/diritto-sindacale/3193377"
+    },
+    {
+      "name": "Diritto tributario",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-degli-studi-del-sannio/diritto-tributario/2015130"
+    },
+    {
+      "name": "Ecologia",
+      "code": "17216",
+      "url": "https://www.studocu.com/it/course/universita-degli-studi-del-sannio/ecologia/5740278"
+    },
+    {
+      "name": "Econometria",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-degli-studi-del-sannio/econometria/6039187"
+    },
+    {
+      "name": "Economia Agro-Alimentare",
+      "code": "SECS-P 09",
+      "url": "https://www.studocu.com/it/course/universita-degli-studi-del-sannio/economia-agro-alimentare/4514500"
+    },
+    {
+      "name": "Economia aziendale",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-degli-studi-del-sannio/economia-aziendale/3765717"
+    },
+    {
+      "name": "Economia degli intermediari finanziari",
+      "code": "261028",
+      "url": "https://www.studocu.com/it/course/universita-degli-studi-del-sannio/economia-degli-intermediari-finanziari/3360303"
+    },
+    {
+      "name": "Economia delle aziende di credito",
+      "code": "260125",
+      "url": "https://www.studocu.com/it/course/universita-degli-studi-del-sannio/economia-delle-aziende-di-credito/4817713"
+    },
+    {
+      "name": "Economia e gestione delle imprese",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-degli-studi-del-sannio/economia-e-gestione-delle-imprese/2255859"
+    },
+    {
+      "name": "Economia e politiche del territorio",
+      "code": "40337",
+      "url": "https://www.studocu.com/it/course/universita-degli-studi-del-sannio/economia-e-politiche-del-territorio/6734552"
+    },
+    {
+      "name": "Economia Internazionale",
+      "code": "261010",
+      "url": "https://www.studocu.com/it/course/universita-degli-studi-del-sannio/economia-internazionale/4519969"
+    },
+    {
+      "name": "Economia monetaria e creditizia",
+      "code": "260116",
+      "url": "https://www.studocu.com/it/course/universita-degli-studi-del-sannio/economia-monetaria-e-creditizia/4610783"
+    },
+    {
+      "name": "Elementi di diritto amministrativo e regolazione dei mercati",
+      "code": "260126",
+      "url": "https://www.studocu.com/it/course/universita-degli-studi-del-sannio/elementi-di-diritto-amministrativo-e-regolazione-dei-mercati/4817698"
+    },
+    {
+      "name": "Elementi di Informatica",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-degli-studi-del-sannio/elementi-di-informatica/2650923"
+    },
+    {
+      "name": "Elettronica Digitale",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-degli-studi-del-sannio/elettronica-digitale/7463521"
+    },
+    {
+      "name": "Elettrotecnica",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-degli-studi-del-sannio/elettrotecnica/3536444"
+    },
+    {
+      "name": "ematologia",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-degli-studi-del-sannio/ematologia/4865842"
+    },
+    {
+      "name": "Farmacologia",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-degli-studi-del-sannio/farmacologia/4179018"
+    },
+    {
+      "name": "Filosofia del diritto",
+      "code": "904477",
+      "url": "https://www.studocu.com/it/course/universita-degli-studi-del-sannio/filosofia-del-diritto/5001140"
+    },
+    {
+      "name": "Filosofia della Pace",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-degli-studi-del-sannio/filosofia-della-pace/7630947"
+    },
+    {
+      "name": "Finanza Aziendale",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-degli-studi-del-sannio/finanza-aziendale/4360626"
+    },
+    {
+      "name": "Finanza e società",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-degli-studi-del-sannio/finanza-e-societa/5069599"
+    },
+    {
+      "name": "Fisica Generale",
+      "code": "FIS/03",
+      "url": "https://www.studocu.com/it/course/universita-degli-studi-del-sannio/fisica-generale/2733688"
+    },
+    {
+      "name": "Fisica Tecnica",
+      "code": "ING-IND/11",
+      "url": "https://www.studocu.com/it/course/universita-degli-studi-del-sannio/fisica-tecnica/5134562"
+    },
+    {
+      "name": "Fisiologia",
+      "code": "BIO/09",
+      "url": "https://www.studocu.com/it/course/universita-degli-studi-del-sannio/fisiologia/5113865"
+    },
+    {
+      "name": "Fisiologia Generale",
+      "code": "171221",
+      "url": "https://www.studocu.com/it/course/universita-degli-studi-del-sannio/fisiologia-generale/6744168"
+    },
+    {
+      "name": "fisiologia vegetale",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-degli-studi-del-sannio/fisiologia-vegetale/4518422"
+    },
+    {
+      "name": "Fisiopatologia",
+      "code": "MED/04",
+      "url": "https://www.studocu.com/it/course/universita-degli-studi-del-sannio/fisiopatologia/5095773"
+    },
+    {
+      "name": "Fondamenti di Economia Politica",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-degli-studi-del-sannio/fondamenti-di-economia-politica/3209757"
+    },
+    {
+      "name": "genetica",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-degli-studi-del-sannio/genetica/4313900"
+    },
+    {
+      "name": "Genetica dei virus",
+      "code": "BIO/18",
+      "url": "https://www.studocu.com/it/course/universita-degli-studi-del-sannio/genetica-dei-virus/5095793"
+    },
+    {
+      "name": "Geografia del commercio internazionale",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-degli-studi-del-sannio/geografia-del-commercio-internazionale/2699635"
+    },
+    {
+      "name": "Geografia del Turismo",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-degli-studi-del-sannio/geografia-del-turismo/4913088"
+    },
+    {
+      "name": "Geografia economica e politica",
+      "code": "M-GGR/02",
+      "url": "https://www.studocu.com/it/course/universita-degli-studi-del-sannio/geografia-economica-e-politica/4909450"
+    },
+    {
+      "name": "Gestion administrativa",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-degli-studi-del-sannio/gestion-administrativa/5475988"
+    },
+    {
+      "name": "Gestione e controllo della qualità",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-degli-studi-del-sannio/gestione-e-controllo-della-qualita/4820546"
+    },
+    {
+      "name": "Giurisprudenza",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-degli-studi-del-sannio/giurisprudenza/4709140"
+    },
+    {
+      "name": "Giustizia amministrativa",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-degli-studi-del-sannio/giustizia-amministrativa/2334235"
+    },
+    {
+      "name": "Idraulica",
+      "code": "86113",
+      "url": "https://www.studocu.com/it/course/universita-degli-studi-del-sannio/idraulica/4340531"
+    },
+    {
+      "name": "Immunologia",
+      "code": "AA23-24",
+      "url": "https://www.studocu.com/it/course/universita-degli-studi-del-sannio/immunologia/7340589"
+    },
+    {
+      "name": "Informatica Giuidica",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-degli-studi-del-sannio/informatica-giuidica/2334257"
+    },
+    {
+      "name": "Ingegneria del software",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-degli-studi-del-sannio/ingegneria-del-software/4359935"
+    },
+    {
+      "name": "Istituzioni di diritto romano",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-degli-studi-del-sannio/istituzioni-di-diritto-romano/3640026"
+    },
+    {
+      "name": "istituzioni di economia e di politica agraria e forestale",
+      "code": "420009",
+      "url": "https://www.studocu.com/it/course/universita-degli-studi-del-sannio/istituzioni-di-economia-e-di-politica-agraria-e-forestale/4884200"
+    },
+    {
+      "name": "Istologia",
+      "code": "ISTO2020",
+      "url": "https://www.studocu.com/it/course/universita-degli-studi-del-sannio/istologia/4449813"
+    },
+    {
+      "name": "laboratorio",
+      "code": "vfd5",
+      "url": "https://www.studocu.com/it/course/universita-degli-studi-del-sannio/laboratorio/4355841"
+    },
+    {
+      "name": "legislazione del turismo",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-degli-studi-del-sannio/legislazione-del-turismo/5469030"
+    },
+    {
+      "name": "lingua francese",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-degli-studi-del-sannio/lingua-francese/5810600"
+    },
+    {
+      "name": "Lingua inglese 1",
+      "code": "904233",
+      "url": "https://www.studocu.com/it/course/universita-degli-studi-del-sannio/lingua-inglese-1/4392212"
+    },
+    {
+      "name": "Lingua latina",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-degli-studi-del-sannio/lingua-latina/6932138"
+    },
+    {
+      "name": "Lingua spagnola",
+      "code": "904486",
+      "url": "https://www.studocu.com/it/course/universita-degli-studi-del-sannio/lingua-spagnola/3722426"
+    },
+    {
+      "name": "macchine a fluido",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-degli-studi-del-sannio/macchine-a-fluido/4517938"
+    },
+    {
+      "name": "Management - Economia e Gestione delle imprese",
+      "code": "SECS-P/08",
+      "url": "https://www.studocu.com/it/course/universita-degli-studi-del-sannio/management-economia-e-gestione-delle-imprese/5397940"
+    },
+    {
+      "name": "Management della qualità",
+      "code": "SPS/13",
+      "url": "https://www.studocu.com/it/course/universita-degli-studi-del-sannio/management-della-qualita/4503140"
+    },
+    {
+      "name": "Managment 2.0",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-degli-studi-del-sannio/managment-20/4820549"
+    },
+    {
+      "name": "Marketing",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-degli-studi-del-sannio/marketing/1743111"
+    },
+    {
+      "name": "matematica 2",
+      "code": "86208",
+      "url": "https://www.studocu.com/it/course/universita-degli-studi-del-sannio/matematica-2/6464738"
+    },
+    {
+      "name": "matematica attuariale",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-degli-studi-del-sannio/matematica-attuariale/6007372"
+    },
+    {
+      "name": "Matematica finanziaria",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-degli-studi-del-sannio/matematica-finanziaria/1943381"
+    },
+    {
+      "name": "Matematica generale",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-degli-studi-del-sannio/matematica-generale/6895125"
+    },
+    {
+      "name": "Matematica per l'Ingegneria dell'Informazione",
+      "code": "86345",
+      "url": "https://www.studocu.com/it/course/universita-degli-studi-del-sannio/matematica-per-lingegneria-dellinformazione/4173825"
+    },
+    {
+      "name": "mechanics of materials",
+      "code": "bme 344",
+      "url": "https://www.studocu.com/it/course/universita-degli-studi-del-sannio/mechanics-of-materials/4409899"
+    },
+    {
+      "name": "Metodologie istologiche e istochimiche",
+      "code": "172126",
+      "url": "https://www.studocu.com/it/course/universita-degli-studi-del-sannio/metodologie-istologiche-e-istochimiche/7001364"
+    },
+    {
+      "name": "micro economia",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-degli-studi-del-sannio/micro-economia/7337515"
+    },
+    {
+      "name": "microbiologia",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-degli-studi-del-sannio/microbiologia/6607981"
+    },
+    {
+      "name": "Microeconomia",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-degli-studi-del-sannio/microeconomia/7337514"
+    },
+    {
+      "name": "Misure sulle reti",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-degli-studi-del-sannio/misure-sulle-reti/6686700"
+    },
+    {
+      "name": "Morfofisiologia Degli Animali Domestici",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-degli-studi-del-sannio/morfofisiologia-degli-animali-domestici/5835035"
+    },
+    {
+      "name": "Museologia",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-degli-studi-del-sannio/museologia/7225627"
+    },
+    {
+      "name": "Ordinamento giudiziario",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-degli-studi-del-sannio/ordinamento-giudiziario/4844027"
+    },
+    {
+      "name": "Organizzazione Aziendale",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-degli-studi-del-sannio/organizzazione-aziendale/4820548"
+    },
+    {
+      "name": "Organizzazione e gestione delle risorse umane",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-degli-studi-del-sannio/organizzazione-e-gestione-delle-risorse-umane/2157633"
+    },
+    {
+      "name": "Patologia Generale",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-degli-studi-del-sannio/patologia-generale/5726134"
+    },
+    {
+      "name": "Pedagogia Generale",
+      "code": "PED 01",
+      "url": "https://www.studocu.com/it/course/universita-degli-studi-del-sannio/pedagogia-generale/3171983"
+    },
+    {
+      "name": "Politica economica",
+      "code": "SECS-P/02",
+      "url": "https://www.studocu.com/it/course/universita-degli-studi-del-sannio/politica-economica/2998840"
+    },
+    {
+      "name": "Processi Stocastici per le assicurazioni e la finanza",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-degli-studi-del-sannio/processi-stocastici-per-le-assicurazioni-e-la-finanza/7352828"
+    },
+    {
+      "name": "Progetto di costruzioni idrauliche",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-degli-studi-del-sannio/progetto-di-costruzioni-idrauliche/4866802"
+    },
+    {
+      "name": "Progetto di strutture",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-degli-studi-del-sannio/progetto-di-strutture/4880210"
+    },
+    {
+      "name": "programmazione 1",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-degli-studi-del-sannio/programmazione-1/6387279"
+    },
+    {
+      "name": "Programmazione 2",
+      "code": "86308",
+      "url": "https://www.studocu.com/it/course/universita-degli-studi-del-sannio/programmazione-2/4063454"
+    },
+    {
+      "name": "Programmazione dei Sistemi in Rete",
+      "code": "86316",
+      "url": "https://www.studocu.com/it/course/universita-degli-studi-del-sannio/programmazione-dei-sistemi-in-rete/7504656"
+    },
+    {
+      "name": "Programmazione e controllo",
+      "code": "40302",
+      "url": "https://www.studocu.com/it/course/universita-degli-studi-del-sannio/programmazione-e-controllo/7263650"
+    },
+    {
+      "name": "Programmazione e Controllo dell'Amministrazione Pubblica",
+      "code": "26303",
+      "url": "https://www.studocu.com/it/course/universita-degli-studi-del-sannio/programmazione-e-controllo-dellamministrazione-pubblica/7313134"
+    },
+    {
+      "name": "proteomica",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-degli-studi-del-sannio/proteomica/7408790"
+    },
+    {
+      "name": "Psicologia applicata al contesto scolastico",
+      "code": "PF24002",
+      "url": "https://www.studocu.com/it/course/universita-degli-studi-del-sannio/psicologia-applicata-al-contesto-scolastico/4913713"
+    },
+    {
+      "name": "Psicologia dei processi comunicativi",
+      "code": "M-PSI/08",
+      "url": "https://www.studocu.com/it/course/universita-degli-studi-del-sannio/psicologia-dei-processi-comunicativi/4901319"
+    },
+    {
+      "name": "Ragioneria delle imprese turistiche",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-degli-studi-del-sannio/ragioneria-delle-imprese-turistiche/5138656"
+    },
+    {
+      "name": "Ragioneria generale 1",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-degli-studi-del-sannio/ragioneria-generale-1/3890195"
+    },
+    {
+      "name": "Ragioneria Generale ed Applicata 2",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-degli-studi-del-sannio/ragioneria-generale-ed-applicata-2/4118229"
+    },
+    {
+      "name": "Revisione Contabile, Ragioneria e Deontologia Professionale",
+      "code": "261071",
+      "url": "https://www.studocu.com/it/course/universita-degli-studi-del-sannio/revisione-contabile-ragioneria-e-deontologia-professionale/4769057"
+    },
+    {
+      "name": "Ricerca Operativa",
+      "code": "39904",
+      "url": "https://www.studocu.com/it/course/universita-degli-studi-del-sannio/ricerca-operativa/7386715"
+    },
+    {
+      "name": "Scienza e tecnologia dei materiali",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-degli-studi-del-sannio/scienza-e-tecnologia-dei-materiali/5877153"
+    },
+    {
+      "name": "scienze biologiche",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-degli-studi-del-sannio/scienze-biologiche/7225662"
+    },
+    {
+      "name": "Serie Storiche",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-degli-studi-del-sannio/serie-storiche/6622764"
+    },
+    {
+      "name": "sicurezza delle reti e dei sistemi software",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-degli-studi-del-sannio/sicurezza-delle-reti-e-dei-sistemi-software/6283202"
+    },
+    {
+      "name": "Sistemi di produzione",
+      "code": "86323",
+      "url": "https://www.studocu.com/it/course/universita-degli-studi-del-sannio/sistemi-di-produzione/7555203"
+    },
+    {
+      "name": "Sistemi dinamici",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-degli-studi-del-sannio/sistemi-dinamici/3192096"
+    },
+    {
+      "name": "Sistemi elettrici per l'energia",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-degli-studi-del-sannio/sistemi-elettrici-per-lenergia/7134530"
+    },
+    {
+      "name": "sistemi multiagente",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-degli-studi-del-sannio/sistemi-multiagente/6408972"
+    },
+    {
+      "name": "Sociologia",
+      "code": "SPS/07",
+      "url": "https://www.studocu.com/it/course/universita-degli-studi-del-sannio/sociologia/4510159"
+    },
+    {
+      "name": "Statistica",
+      "code": "261012",
+      "url": "https://www.studocu.com/it/course/universita-degli-studi-del-sannio/statistica/2998411"
+    },
+    {
+      "name": "Statistica",
+      "code": "261024",
+      "url": "https://www.studocu.com/it/course/universita-degli-studi-del-sannio/statistica/7574405"
+    },
+    {
+      "name": "Storia Contemporanea",
+      "code": "26301",
+      "url": "https://www.studocu.com/it/course/universita-degli-studi-del-sannio/storia-contemporanea/7453093"
+    },
+    {
+      "name": "Storia del Diritto Romano",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-degli-studi-del-sannio/storia-del-diritto-romano/3734245"
+    },
+    {
+      "name": "Storia dell'esperienza giuridica",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-degli-studi-del-sannio/storia-dellesperienza-giuridica/2844497"
+    },
+    {
+      "name": "Storia della finanza",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-degli-studi-del-sannio/storia-della-finanza/3651514"
+    },
+    {
+      "name": "Storia della moneta e della banca",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-degli-studi-del-sannio/storia-della-moneta-e-della-banca/4740787"
+    },
+    {
+      "name": "Storia delle dottrine politiche",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-degli-studi-del-sannio/storia-delle-dottrine-politiche/3729543"
+    },
+    {
+      "name": "Storia Economica",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-degli-studi-del-sannio/storia-economica/3218661"
+    },
+    {
+      "name": "storia generale",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-degli-studi-del-sannio/storia-generale/7249970"
+    },
+    {
+      "name": "Storia Medievale",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-degli-studi-del-sannio/storia-medievale/4499452"
+    },
+    {
+      "name": "strategia",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-degli-studi-del-sannio/strategia/5136142"
+    },
+    {
+      "name": "strumenti finanziari",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-degli-studi-del-sannio/strumenti-finanziari/5805734"
+    },
+    {
+      "name": "tecnica delle costruzioni",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-degli-studi-del-sannio/tecnica-delle-costruzioni/4390992"
+    },
+    {
+      "name": "Tecnologie didattiche per l'inclusione",
+      "code": "904602",
+      "url": "https://www.studocu.com/it/course/universita-degli-studi-del-sannio/tecnologie-didattiche-per-linclusione/3732944"
+    },
+    {
+      "name": "Telerilevamento",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-degli-studi-del-sannio/telerilevamento/7178406"
+    },
+    {
+      "name": "Teoria ed Elaborazione dei Segnali",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-degli-studi-del-sannio/teoria-ed-elaborazione-dei-segnali/6318143"
+    },
+    {
+      "name": "Teoria generale del diritto e dello stato",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-degli-studi-del-sannio/teoria-generale-del-diritto-e-dello-stato/3617285"
+    },
+    {
+      "name": "Theoretical Computer Science II",
+      "code": "COS2601",
+      "url": "https://www.studocu.com/it/course/universita-degli-studi-del-sannio/theoretical-computer-science-ii/5387602"
+    },
+    {
+      "name": "Trasmissioni numeriche",
+      "code": null,
+      "url": "https://www.studocu.com/it/course/universita-degli-studi-del-sannio/trasmissioni-numeriche/7589300"
+    },
+    {
+      "name": "zoologia",
+      "code": "17215",
+      "url": "https://www.studocu.com/it/course/universita-degli-studi-del-sannio/zoologia/5207565"
+    }
+  ]
+}

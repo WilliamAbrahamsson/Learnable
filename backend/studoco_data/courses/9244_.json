@@ -1,0 +1,536 @@
+{
+  "university_id": "9244",
+  "university_name": "มหาวิทยาลัยมหิดล",
+  "courses": [
+    {
+      "name": "Academic english",
+      "code": "Laen101",
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%A1%E0%B8%AB%E0%B8%94%E0%B8%A5/academic-english/5420739"
+    },
+    {
+      "name": "Academic Writing And Research I",
+      "code": "ICGC 101",
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%A1%E0%B8%AB%E0%B8%94%E0%B8%A5/academic-writing-and-research-i/5519287"
+    },
+    {
+      "name": "Accounting II",
+      "code": "icbe444",
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%A1%E0%B8%AB%E0%B8%94%E0%B8%A5/accounting-ii/1742026"
+    },
+    {
+      "name": "Administration for Public Health",
+      "code": "PHID717",
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%A1%E0%B8%AB%E0%B8%94%E0%B8%A5/administration-for-public-health/6478190"
+    },
+    {
+      "name": "Adolescent Medicine",
+      "code": "ADOL001",
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%A1%E0%B8%AB%E0%B8%94%E0%B8%A5/adolescent-medicine/6499648"
+    },
+    {
+      "name": "Analytical Chemistry A",
+      "code": "ICCH 200",
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%A1%E0%B8%AB%E0%B8%94%E0%B8%A5/analytical-chemistry-a/5521420"
+    },
+    {
+      "name": "Artificial Intelligence",
+      "code": "ITCS420",
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%A1%E0%B8%AB%E0%B8%94%E0%B8%A5/artificial-intelligence/6631426"
+    },
+    {
+      "name": "Basic Anatomy",
+      "code": "SCMA101",
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%A1%E0%B8%AB%E0%B8%94%E0%B8%A5/basic-anatomy/3477866"
+    },
+    {
+      "name": "Basic Pathology",
+      "code": "SCPA202",
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%A1%E0%B8%AB%E0%B8%94%E0%B8%A5/basic-pathology/6199173"
+    },
+    {
+      "name": "Biology",
+      "code": "ICBI 121",
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%A1%E0%B8%AB%E0%B8%94%E0%B8%A5/biology/5521412"
+    },
+    {
+      "name": "Biology",
+      "code": "BIOL 234",
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%A1%E0%B8%AB%E0%B8%94%E0%B8%A5/biology/3160499"
+    },
+    {
+      "name": "Body Fitness",
+      "code": "ICGP 104",
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%A1%E0%B8%AB%E0%B8%94%E0%B8%A5/body-fitness/5519362"
+    },
+    {
+      "name": "Business Ethics",
+      "code": "ICMB311",
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%A1%E0%B8%AB%E0%B8%94%E0%B8%A5/business-ethics/5737306"
+    },
+    {
+      "name": "Business ethics",
+      "code": "ICMB 311",
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%A1%E0%B8%AB%E0%B8%94%E0%B8%A5/business-ethics/6326630"
+    },
+    {
+      "name": "Business Finance For Entrepreneurs",
+      "code": "ICMB 215",
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%A1%E0%B8%AB%E0%B8%94%E0%B8%A5/business-finance-for-entrepreneurs/5519791"
+    },
+    {
+      "name": "Business Marketing And Selling Strategy",
+      "code": "ICMK 452",
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%A1%E0%B8%AB%E0%B8%94%E0%B8%A5/business-marketing-and-selling-strategy/5519873"
+    },
+    {
+      "name": "Business Mathematics",
+      "code": "ICMB 200",
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%A1%E0%B8%AB%E0%B8%94%E0%B8%A5/business-mathematics/5519778"
+    },
+    {
+      "name": "Business Statistics",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%A1%E0%B8%AB%E0%B8%94%E0%B8%A5/business-statistics/5521139"
+    },
+    {
+      "name": "Calculus II",
+      "code": "ICMA213",
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%A1%E0%B8%AB%E0%B8%94%E0%B8%A5/calculus-ii/6880016"
+    },
+    {
+      "name": "Career Preparation",
+      "code": "ICMB490",
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%A1%E0%B8%AB%E0%B8%94%E0%B8%A5/career-preparation/5739083"
+    },
+    {
+      "name": "Cell and molecular biology",
+      "code": "MTID 202",
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%A1%E0%B8%AB%E0%B8%94%E0%B8%A5/cell-and-molecular-biology/6199179"
+    },
+    {
+      "name": "Ceramic Technology",
+      "code": "SCME 556",
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%A1%E0%B8%AB%E0%B8%94%E0%B8%A5/ceramic-technology/5836708"
+    },
+    {
+      "name": "Chemistry Of Cosmetics And Dietary Supplements",
+      "code": "ICGN 120",
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%A1%E0%B8%AB%E0%B8%94%E0%B8%A5/chemistry-of-cosmetics-and-dietary-supplements/5519344"
+    },
+    {
+      "name": "Coastal Zone Management",
+      "code": "ICEN 462",
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%A1%E0%B8%AB%E0%B8%94%E0%B8%A5/coastal-zone-management/6026050"
+    },
+    {
+      "name": "Computer Essentials",
+      "code": "ICNS 141",
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%A1%E0%B8%AB%E0%B8%94%E0%B8%A5/computer-essentials/5521196"
+    },
+    {
+      "name": "Culinary management",
+      "code": "ICIH411",
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%A1%E0%B8%AB%E0%B8%94%E0%B8%A5/culinary-management/4209173"
+    },
+    {
+      "name": "Data Structures And Object-oriented Programming",
+      "code": "ICCS 204",
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%A1%E0%B8%AB%E0%B8%94%E0%B8%A5/data-structures-and-object-oriented-programming/5520576"
+    },
+    {
+      "name": "Digital Marketing",
+      "code": "ICTH 501",
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%A1%E0%B8%AB%E0%B8%94%E0%B8%A5/digital-marketing/5875121"
+    },
+    {
+      "name": "Discrete Mathematics",
+      "code": "ICCS 206",
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%A1%E0%B8%AB%E0%B8%94%E0%B8%A5/discrete-mathematics/5520579"
+    },
+    {
+      "name": "Egme",
+      "code": "12345",
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%A1%E0%B8%AB%E0%B8%94%E0%B8%A5/egme/2276778"
+    },
+    {
+      "name": "Electricity And Magnetism",
+      "code": "ICPY 322",
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%A1%E0%B8%AB%E0%B8%94%E0%B8%A5/electricity-and-magnetism/5520546"
+    },
+    {
+      "name": "electronic circuit analysis",
+      "code": "EGCI230",
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%A1%E0%B8%AB%E0%B8%94%E0%B8%A5/electronic-circuit-analysis/4374024"
+    },
+    {
+      "name": "Electronics",
+      "code": "ICPY 492",
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%A1%E0%B8%AB%E0%B8%94%E0%B8%A5/electronics/5520651"
+    },
+    {
+      "name": "Emergency Medicine",
+      "code": "Emer 2024",
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%A1%E0%B8%AB%E0%B8%94%E0%B8%A5/emergency-medicine/7070378"
+    },
+    {
+      "name": "English Resources Skills",
+      "code": "ICME100",
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%A1%E0%B8%AB%E0%B8%94%E0%B8%A5/english-resources-skills/4396177"
+    },
+    {
+      "name": "Entrepreneurship And Strategic Management For International Hospitality Management",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%A1%E0%B8%AB%E0%B8%94%E0%B8%A5/entrepreneurship-and-strategic-management-for-international-hospitality-management/5520821"
+    },
+    {
+      "name": "Event Planning And Operation",
+      "code": "ICTB 351",
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%A1%E0%B8%AB%E0%B8%94%E0%B8%A5/event-planning-and-operation/5520747"
+    },
+    {
+      "name": "Finance For International Hospitality Management",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%A1%E0%B8%AB%E0%B8%94%E0%B8%A5/finance-for-international-hospitality-management/5520815"
+    },
+    {
+      "name": "Financial Accounting",
+      "code": "ICMB 213",
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%A1%E0%B8%AB%E0%B8%94%E0%B8%A5/financial-accounting/5519784"
+    },
+    {
+      "name": "Financial Management",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%A1%E0%B8%AB%E0%B8%94%E0%B8%A5/financial-management/4079192"
+    },
+    {
+      "name": "Foundation Of Behavioral Economics",
+      "code": "ICCU 336",
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%A1%E0%B8%AB%E0%B8%94%E0%B8%A5/foundation-of-behavioral-economics/5521406"
+    },
+    {
+      "name": "Fundamental Biology",
+      "code": "ICNS 111",
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%A1%E0%B8%AB%E0%B8%94%E0%B8%A5/fundamental-biology/5521174"
+    },
+    {
+      "name": "Fundamental of Nursing",
+      "code": "FON166",
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%A1%E0%B8%AB%E0%B8%94%E0%B8%A5/fundamental-of-nursing/5873622"
+    },
+    {
+      "name": "Fundamental Physics",
+      "code": "ICNS 131",
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%A1%E0%B8%AB%E0%B8%94%E0%B8%A5/fundamental-physics/5521189"
+    },
+    {
+      "name": "Game Design And Development",
+      "code": "ITCT 331",
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%A1%E0%B8%AB%E0%B8%94%E0%B8%A5/game-design-and-development/5520197"
+    },
+    {
+      "name": "General Biochemistry For Food Science And Technology",
+      "code": "ICFS 216",
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%A1%E0%B8%AB%E0%B8%94%E0%B8%A5/general-biochemistry-for-food-science-and-technology/5521424"
+    },
+    {
+      "name": "General Chemistry II",
+      "code": "ICCH 102",
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%A1%E0%B8%AB%E0%B8%94%E0%B8%A5/general-chemistry-ii/5521416"
+    },
+    {
+      "name": "General Education",
+      "code": "MUGE100",
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%A1%E0%B8%AB%E0%B8%94%E0%B8%A5/general-education/6548265"
+    },
+    {
+      "name": "General Microbiology",
+      "code": "ICFS 231",
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%A1%E0%B8%AB%E0%B8%94%E0%B8%A5/general-microbiology/5521428"
+    },
+    {
+      "name": "Healthcare And Medical Business",
+      "code": "ICTB 363",
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%A1%E0%B8%AB%E0%B8%94%E0%B8%A5/healthcare-and-medical-business/5520769"
+    },
+    {
+      "name": "History Of Ideas II",
+      "code": "ICCU 205",
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%A1%E0%B8%AB%E0%B8%94%E0%B8%A5/history-of-ideas-ii/5521328"
+    },
+    {
+      "name": "Human Nutrition",
+      "code": "ICFS 215",
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%A1%E0%B8%AB%E0%B8%94%E0%B8%A5/human-nutrition/5521422"
+    },
+    {
+      "name": "Human Structure",
+      "code": "SCBM211",
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%A1%E0%B8%AB%E0%B8%94%E0%B8%A5/human-structure/6256645"
+    },
+    {
+      "name": "Information Retrieval",
+      "code": "ITCS451",
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%A1%E0%B8%AB%E0%B8%94%E0%B8%A5/information-retrieval/6495718"
+    },
+    {
+      "name": "Integrated Laboratory Techniques In Chemistry I",
+      "code": "ICCH 103",
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%A1%E0%B8%AB%E0%B8%94%E0%B8%A5/integrated-laboratory-techniques-in-chemistry-i/5521418"
+    },
+    {
+      "name": "International Development Studies",
+      "code": "ICIR 314",
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%A1%E0%B8%AB%E0%B8%94%E0%B8%A5/international-development-studies/7521610"
+    },
+    {
+      "name": "Introduction to Energy Materials",
+      "code": "CH444",
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%A1%E0%B8%AB%E0%B8%94%E0%B8%A5/introduction-to-energy-materials/7136777"
+    },
+    {
+      "name": "Introduction To Mathematics",
+      "code": "ICNS 101",
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%A1%E0%B8%AB%E0%B8%94%E0%B8%A5/introduction-to-mathematics/5521172"
+    },
+    {
+      "name": "Introduction To Psychology",
+      "code": "ICSS 112",
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%A1%E0%B8%AB%E0%B8%94%E0%B8%A5/introduction-to-psychology/5521261"
+    },
+    {
+      "name": "Judgment And Decision Making",
+      "code": "ICCU 305",
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%A1%E0%B8%AB%E0%B8%94%E0%B8%A5/judgment-and-decision-making/5521393"
+    },
+    {
+      "name": "Listening and Speaking for Communication",
+      "code": "LAEN 101",
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%A1%E0%B8%AB%E0%B8%94%E0%B8%A5/listening-and-speaking-for-communication/7146816"
+    },
+    {
+      "name": "Local Anaesthesia",
+      "code": "DTPM661",
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%A1%E0%B8%AB%E0%B8%94%E0%B8%A5/local-anaesthesia/4544808"
+    },
+    {
+      "name": "Macroeconomics",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%A1%E0%B8%AB%E0%B8%94%E0%B8%A5/macroeconomics/3890069"
+    },
+    {
+      "name": "Management",
+      "code": "ITID276",
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%A1%E0%B8%AB%E0%B8%94%E0%B8%A5/management/3619989"
+    },
+    {
+      "name": "Management Information Systems",
+      "code": "ITCS361",
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%A1%E0%B8%AB%E0%B8%94%E0%B8%A5/management-information-systems/6401862"
+    },
+    {
+      "name": "Management Of Business Information",
+      "code": "ICMB 201",
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%A1%E0%B8%AB%E0%B8%94%E0%B8%A5/management-of-business-information/5519782"
+    },
+    {
+      "name": "Managing Information System",
+      "code": "MGMG509",
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%A1%E0%B8%AB%E0%B8%94%E0%B8%A5/managing-information-system/4384679"
+    },
+    {
+      "name": "Materials Science and Engineering",
+      "code": "SCME 552",
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%A1%E0%B8%AB%E0%B8%94%E0%B8%A5/materials-science-and-engineering/5835445"
+    },
+    {
+      "name": "Materials Science and Engineering Characterization",
+      "code": "SCME 551",
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%A1%E0%B8%AB%E0%B8%94%E0%B8%A5/materials-science-and-engineering-characterization/5836701"
+    },
+    {
+      "name": "Mathematical Methods For Physics III",
+      "code": "ICPY 333",
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%A1%E0%B8%AB%E0%B8%94%E0%B8%A5/mathematical-methods-for-physics-iii/5520591"
+    },
+    {
+      "name": "Mathematics For Creative Technology I",
+      "code": "ICCT 101",
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%A1%E0%B8%AB%E0%B8%94%E0%B8%A5/mathematics-for-creative-technology-i/5520138"
+    },
+    {
+      "name": "Mechanics of materials",
+      "code": "EGME213",
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%A1%E0%B8%AB%E0%B8%94%E0%B8%A5/mechanics-of-materials/3729139"
+    },
+    {
+      "name": "Medical Bacteriology and Mycology",
+      "code": "MTMI320",
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%A1%E0%B8%AB%E0%B8%94%E0%B8%A5/medical-bacteriology-and-mycology/6152210"
+    },
+    {
+      "name": "Medical Imaging",
+      "code": "EGBI 401",
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%A1%E0%B8%AB%E0%B8%94%E0%B8%A5/medical-imaging/6410439"
+    },
+    {
+      "name": "Medical Parasitology",
+      "code": "MTMI 321",
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%A1%E0%B8%AB%E0%B8%94%E0%B8%A5/medical-parasitology/6185505"
+    },
+    {
+      "name": "medical physic",
+      "code": "MP2023",
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%A1%E0%B8%AB%E0%B8%94%E0%B8%A5/medical-physic/6469476"
+    },
+    {
+      "name": "Modern Physics",
+      "code": "ICPY 200",
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%A1%E0%B8%AB%E0%B8%94%E0%B8%A5/modern-physics/5520532"
+    },
+    {
+      "name": "Music Appreciation",
+      "code": "MSCT 212",
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%A1%E0%B8%AB%E0%B8%94%E0%B8%A5/music-appreciation/5520171"
+    },
+    {
+      "name": "Music Fundamentals And Keyboard Skills I",
+      "code": "MSCT 212",
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%A1%E0%B8%AB%E0%B8%94%E0%B8%A5/music-fundamentals-and-keyboard-skills-i/5520173"
+    },
+    {
+      "name": "Music Fundamentals And Keyboard Skills II",
+      "code": "MSCT 212",
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%A1%E0%B8%AB%E0%B8%94%E0%B8%A5/music-fundamentals-and-keyboard-skills-ii/5520176"
+    },
+    {
+      "name": "Nuclear Physics And Particle Physics",
+      "code": "ICPY 473",
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%A1%E0%B8%AB%E0%B8%94%E0%B8%A5/nuclear-physics-and-particle-physics/5520624"
+    },
+    {
+      "name": "Organic chemistry",
+      "code": "SCCH122",
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%A1%E0%B8%AB%E0%B8%94%E0%B8%A5/organic-chemistry/3445404"
+    },
+    {
+      "name": "Particle technology",
+      "code": "EGCH 380",
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%A1%E0%B8%AB%E0%B8%94%E0%B8%A5/particle-technology/6909041"
+    },
+    {
+      "name": "Perspectives On The Thai Past",
+      "code": "ICGS 113",
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%A1%E0%B8%AB%E0%B8%94%E0%B8%A5/perspectives-on-the-thai-past/5519691"
+    },
+    {
+      "name": "Physical Chemistry For Food Science And Technology",
+      "code": "ICFS 217",
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%A1%E0%B8%AB%E0%B8%94%E0%B8%A5/physical-chemistry-for-food-science-and-technology/5521426"
+    },
+    {
+      "name": "Popular Culture",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%A1%E0%B8%AB%E0%B8%94%E0%B8%A5/popular-culture/5521118"
+    },
+    {
+      "name": "Principle Of Food Science And Technology",
+      "code": "ICFS 112",
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%A1%E0%B8%AB%E0%B8%94%E0%B8%A5/principle-of-food-science-and-technology/5521432"
+    },
+    {
+      "name": "Principles Of Chemistry",
+      "code": "ICNS 122",
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%A1%E0%B8%AB%E0%B8%94%E0%B8%A5/principles-of-chemistry/5521187"
+    },
+    {
+      "name": "Psychological approaches to the personality",
+      "code": "ICSS254",
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%A1%E0%B8%AB%E0%B8%94%E0%B8%A5/psychological-approaches-to-the-personality/4372518"
+    },
+    {
+      "name": "Recurrent Topics In German Literature",
+      "code": "ICCU 311",
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%A1%E0%B8%AB%E0%B8%94%E0%B8%A5/recurrent-topics-in-german-literature/5521340"
+    },
+    {
+      "name": "Research Methodology",
+      "code": "SCME 560",
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%A1%E0%B8%AB%E0%B8%94%E0%B8%A5/research-methodology/5835457"
+    },
+    {
+      "name": "Saman Biology",
+      "code": "SAMAN64",
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%A1%E0%B8%AB%E0%B8%94%E0%B8%A5/saman-biology/5939384"
+    },
+    {
+      "name": "Science",
+      "code": "SCSC",
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%A1%E0%B8%AB%E0%B8%94%E0%B8%A5/science/6700074"
+    },
+    {
+      "name": "Science, Technology And Environment",
+      "code": "ICNS 154",
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%A1%E0%B8%AB%E0%B8%94%E0%B8%A5/science-technology-and-environment/5521208"
+    },
+    {
+      "name": "Sports psychology",
+      "code": "SPSS243",
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%A1%E0%B8%AB%E0%B8%94%E0%B8%A5/sports-psychology/5177596"
+    },
+    {
+      "name": "Stat2",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%A1%E0%B8%AB%E0%B8%94%E0%B8%A5/stat2/2263354"
+    },
+    {
+      "name": "Strategic Brand Management",
+      "code": "ICMK 362",
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%A1%E0%B8%AB%E0%B8%94%E0%B8%A5/strategic-brand-management/5519865"
+    },
+    {
+      "name": "Strategic Management",
+      "code": "ICMB 431",
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%A1%E0%B8%AB%E0%B8%94%E0%B8%A5/strategic-management/3323976"
+    },
+    {
+      "name": "Strength of materials",
+      "code": "BEER 2001,EGCE 2203",
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%A1%E0%B8%AB%E0%B8%94%E0%B8%A5/strength-of-materials/3283408"
+    },
+    {
+      "name": "Technology and Instrumentation",
+      "code": "MTID 322",
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%A1%E0%B8%AB%E0%B8%94%E0%B8%A5/technology-and-instrumentation/6185510"
+    },
+    {
+      "name": "Thai language in Everyday Conversation with Foreigners",
+      "code": "TFL1",
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%A1%E0%B8%AB%E0%B8%94%E0%B8%A5/thai-language-in-everyday-conversation-with-foreigners/5332178"
+    },
+    {
+      "name": "The Greeks Crucible Of Civilization",
+      "code": "ICGH 106",
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%A1%E0%B8%AB%E0%B8%94%E0%B8%A5/the-greeks-crucible-of-civilization/5519639"
+    },
+    {
+      "name": "The Science Of The Human Body",
+      "code": "ICNS 114",
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%A1%E0%B8%AB%E0%B8%94%E0%B8%A5/the-science-of-the-human-body/5521178"
+    },
+    {
+      "name": "The Scientific Approach And Society",
+      "code": "ICGN 114",
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%A1%E0%B8%AB%E0%B8%94%E0%B8%A5/the-scientific-approach-and-society/5519703"
+    },
+    {
+      "name": "theory of interest",
+      "code": "AS284",
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%A1%E0%B8%AB%E0%B8%94%E0%B8%A5/theory-of-interest/4470539"
+    },
+    {
+      "name": "Thesis Production",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%A1%E0%B8%AB%E0%B8%94%E0%B8%A5/thesis-production/5520106"
+    }
+  ]
+}

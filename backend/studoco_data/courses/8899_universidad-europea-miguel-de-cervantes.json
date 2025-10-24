@@ -1,0 +1,921 @@
+{
+  "university_id": "8899",
+  "university_name": "Universidad Europea Miguel de Cervantes",
+  "courses": [
+    {
+      "name": "3º criminología",
+      "code": null,
+      "url": "https://www.studocu.com/es/course/universidad-europea-miguel-de-cervantes/3o-criminologia/5274576"
+    },
+    {
+      "name": "Actividades de la vida diaria",
+      "code": null,
+      "url": "https://www.studocu.com/es/course/universidad-europea-miguel-de-cervantes/actividades-de-la-vida-diaria/4552181"
+    },
+    {
+      "name": "administrativo",
+      "code": "1011",
+      "url": "https://www.studocu.com/es/course/universidad-europea-miguel-de-cervantes/administrativo/6202973"
+    },
+    {
+      "name": "Alimentación y Cultura",
+      "code": null,
+      "url": "https://www.studocu.com/es/course/universidad-europea-miguel-de-cervantes/alimentacion-y-cultura/4309973"
+    },
+    {
+      "name": "Anatomía Humana",
+      "code": null,
+      "url": "https://www.studocu.com/es/course/universidad-europea-miguel-de-cervantes/anatomia-humana/6498494"
+    },
+    {
+      "name": "Antropologia Forense",
+      "code": "02891",
+      "url": "https://www.studocu.com/es/course/universidad-europea-miguel-de-cervantes/antropologia-forense/3191800"
+    },
+    {
+      "name": "Análisis clínicos",
+      "code": null,
+      "url": "https://www.studocu.com/es/course/universidad-europea-miguel-de-cervantes/analisis-clinicos/6757935"
+    },
+    {
+      "name": "Análisis de Datos I",
+      "code": "2110",
+      "url": "https://www.studocu.com/es/course/universidad-europea-miguel-de-cervantes/analisis-de-datos-i/4744607"
+    },
+    {
+      "name": "Análisis de Datos II",
+      "code": "2120",
+      "url": "https://www.studocu.com/es/course/universidad-europea-miguel-de-cervantes/analisis-de-datos-ii/4739243"
+    },
+    {
+      "name": "Análisis y Descripción de Puestos",
+      "code": "ADPT",
+      "url": "https://www.studocu.com/es/course/universidad-europea-miguel-de-cervantes/analisis-y-descripcion-de-puestos/3734836"
+    },
+    {
+      "name": "Asistencia y Comunicación Sanitaria Digital",
+      "code": "2615",
+      "url": "https://www.studocu.com/es/course/universidad-europea-miguel-de-cervantes/asistencia-y-comunicacion-sanitaria-digital/4930502"
+    },
+    {
+      "name": "Atención al paciente",
+      "code": null,
+      "url": "https://www.studocu.com/es/course/universidad-europea-miguel-de-cervantes/atencion-al-paciente/6201778"
+    },
+    {
+      "name": "Atención y Percepción",
+      "code": "2122",
+      "url": "https://www.studocu.com/es/course/universidad-europea-miguel-de-cervantes/atencion-y-percepcion/4742212"
+    },
+    {
+      "name": "biodinámica oclusal",
+      "code": null,
+      "url": "https://www.studocu.com/es/course/universidad-europea-miguel-de-cervantes/biodinamica-oclusal/5713185"
+    },
+    {
+      "name": "Bioestadística odontológica",
+      "code": "Bioestadística",
+      "url": "https://www.studocu.com/es/course/universidad-europea-miguel-de-cervantes/bioestadistica-odontologica/6745759"
+    },
+    {
+      "name": "Biología",
+      "code": null,
+      "url": "https://www.studocu.com/es/course/universidad-europea-miguel-de-cervantes/biologia/7530975"
+    },
+    {
+      "name": "Biomecánica",
+      "code": null,
+      "url": "https://www.studocu.com/es/course/universidad-europea-miguel-de-cervantes/biomecanica/6980101"
+    },
+    {
+      "name": "Cardiología",
+      "code": null,
+      "url": "https://www.studocu.com/es/course/universidad-europea-miguel-de-cervantes/cardiologia/5823500"
+    },
+    {
+      "name": "Construcción I",
+      "code": "1194",
+      "url": "https://www.studocu.com/es/course/universidad-europea-miguel-de-cervantes/construccion-i/4929446"
+    },
+    {
+      "name": "Contabilidad Financiera",
+      "code": "1380",
+      "url": "https://www.studocu.com/es/course/universidad-europea-miguel-de-cervantes/contabilidad-financiera/3100052"
+    },
+    {
+      "name": "contexto energético",
+      "code": "EERR1",
+      "url": "https://www.studocu.com/es/course/universidad-europea-miguel-de-cervantes/contexto-energetico/7286688"
+    },
+    {
+      "name": "Creación de Empresas",
+      "code": "1418",
+      "url": "https://www.studocu.com/es/course/universidad-europea-miguel-de-cervantes/creacion-de-empresas/3100053"
+    },
+    {
+      "name": "Criminalidad Siglo XXI",
+      "code": "CR14-223",
+      "url": "https://www.studocu.com/es/course/universidad-europea-miguel-de-cervantes/criminalidad-siglo-xxi/5844207"
+    },
+    {
+      "name": "Criminalística avanzada",
+      "code": null,
+      "url": "https://www.studocu.com/es/course/universidad-europea-miguel-de-cervantes/criminalistica-avanzada/7007433"
+    },
+    {
+      "name": "Criminologia",
+      "code": "0300",
+      "url": "https://www.studocu.com/es/course/universidad-europea-miguel-de-cervantes/criminologia/3191803"
+    },
+    {
+      "name": "Cuadro de mando Integral",
+      "code": "CMI1",
+      "url": "https://www.studocu.com/es/course/universidad-europea-miguel-de-cervantes/cuadro-de-mando-integral/7534743"
+    },
+    {
+      "name": "CUE Criminología",
+      "code": "CUECRIM",
+      "url": "https://www.studocu.com/es/course/universidad-europea-miguel-de-cervantes/cue-criminologia/5464915"
+    },
+    {
+      "name": "Derecho Civil",
+      "code": "dcho Civil test",
+      "url": "https://www.studocu.com/es/course/universidad-europea-miguel-de-cervantes/derecho-civil/4349871"
+    },
+    {
+      "name": "Derecho de las Obligaciones",
+      "code": "23073",
+      "url": "https://www.studocu.com/es/course/universidad-europea-miguel-de-cervantes/derecho-de-las-obligaciones/7510942"
+    },
+    {
+      "name": "Derecho de las obligaciones",
+      "code": null,
+      "url": "https://www.studocu.com/es/course/universidad-europea-miguel-de-cervantes/derecho-de-las-obligaciones/7596767"
+    },
+    {
+      "name": "Derecho del trabajo",
+      "code": null,
+      "url": "https://www.studocu.com/es/course/universidad-europea-miguel-de-cervantes/derecho-del-trabajo/7596761"
+    },
+    {
+      "name": "Derecho Fiscal",
+      "code": null,
+      "url": "https://www.studocu.com/es/course/universidad-europea-miguel-de-cervantes/derecho-fiscal/3100054"
+    },
+    {
+      "name": "Derecho Laboral",
+      "code": null,
+      "url": "https://www.studocu.com/es/course/universidad-europea-miguel-de-cervantes/derecho-laboral/3100055"
+    },
+    {
+      "name": "Derecho Mercantil",
+      "code": null,
+      "url": "https://www.studocu.com/es/course/universidad-europea-miguel-de-cervantes/derecho-mercantil/3100056"
+    },
+    {
+      "name": "Derecho Penal",
+      "code": null,
+      "url": "https://www.studocu.com/es/course/universidad-europea-miguel-de-cervantes/derecho-penal/4099609"
+    },
+    {
+      "name": "Derecho Procesal Penal",
+      "code": null,
+      "url": "https://www.studocu.com/es/course/universidad-europea-miguel-de-cervantes/derecho-procesal-penal/4552296"
+    },
+    {
+      "name": "Derecho Romano",
+      "code": "26003",
+      "url": "https://www.studocu.com/es/course/universidad-europea-miguel-de-cervantes/derecho-romano/7220974"
+    },
+    {
+      "name": "Diagnóstico Psicológico",
+      "code": "2135",
+      "url": "https://www.studocu.com/es/course/universidad-europea-miguel-de-cervantes/diagnostico-psicologico/4864898"
+    },
+    {
+      "name": "Didáctica",
+      "code": null,
+      "url": "https://www.studocu.com/es/course/universidad-europea-miguel-de-cervantes/didactica/4738681"
+    },
+    {
+      "name": "Dietoterapia",
+      "code": null,
+      "url": "https://www.studocu.com/es/course/universidad-europea-miguel-de-cervantes/dietoterapia/7124297"
+    },
+    {
+      "name": "Dirección Comercial",
+      "code": null,
+      "url": "https://www.studocu.com/es/course/universidad-europea-miguel-de-cervantes/direccion-comercial/3100057"
+    },
+    {
+      "name": "Dirección de comunicación corporativa",
+      "code": "1919",
+      "url": "https://www.studocu.com/es/course/universidad-europea-miguel-de-cervantes/direccion-de-comunicacion-corporativa/5730365"
+    },
+    {
+      "name": "Dirección Financiera",
+      "code": null,
+      "url": "https://www.studocu.com/es/course/universidad-europea-miguel-de-cervantes/direccion-financiera/3100058"
+    },
+    {
+      "name": "Dirección y liderazgo",
+      "code": null,
+      "url": "https://www.studocu.com/es/course/universidad-europea-miguel-de-cervantes/direccion-y-liderazgo/6389432"
+    },
+    {
+      "name": "Diseño Grafico",
+      "code": "PUB3-2122",
+      "url": "https://www.studocu.com/es/course/universidad-europea-miguel-de-cervantes/diseno-grafico/5705113"
+    },
+    {
+      "name": "Diseños experimentales (Metodología Experimental) en Psicología",
+      "code": "2131",
+      "url": "https://www.studocu.com/es/course/universidad-europea-miguel-de-cervantes/disenos-experimentales-metodologia-experimental-en-psicologia/4742209"
+    },
+    {
+      "name": "Documentacion",
+      "code": "PUB3-2122DOC",
+      "url": "https://www.studocu.com/es/course/universidad-europea-miguel-de-cervantes/documentacion/5837298"
+    },
+    {
+      "name": "Empresa Familiar",
+      "code": null,
+      "url": "https://www.studocu.com/es/course/universidad-europea-miguel-de-cervantes/empresa-familiar/3100059"
+    },
+    {
+      "name": "Empresa y Marketing",
+      "code": null,
+      "url": "https://www.studocu.com/es/course/universidad-europea-miguel-de-cervantes/empresa-y-marketing/5907068"
+    },
+    {
+      "name": "especialidad de higiene industrial",
+      "code": "2023",
+      "url": "https://www.studocu.com/es/course/universidad-europea-miguel-de-cervantes/especialidad-de-higiene-industrial/6537163"
+    },
+    {
+      "name": "Estadística 1",
+      "code": null,
+      "url": "https://www.studocu.com/es/course/universidad-europea-miguel-de-cervantes/estadistica-1/3100060"
+    },
+    {
+      "name": "Estadística Inferencial",
+      "code": null,
+      "url": "https://www.studocu.com/es/course/universidad-europea-miguel-de-cervantes/estadistica-inferencial/7020324"
+    },
+    {
+      "name": "Estrategia Empresarial",
+      "code": null,
+      "url": "https://www.studocu.com/es/course/universidad-europea-miguel-de-cervantes/estrategia-empresarial/3100061"
+    },
+    {
+      "name": "estrategias de publicidad",
+      "code": null,
+      "url": "https://www.studocu.com/es/course/universidad-europea-miguel-de-cervantes/estrategias-de-publicidad/7747837"
+    },
+    {
+      "name": "Estructura de la comunicación",
+      "code": "EC2022",
+      "url": "https://www.studocu.com/es/course/universidad-europea-miguel-de-cervantes/estructura-de-la-comunicacion/5925307"
+    },
+    {
+      "name": "Estructura Economica",
+      "code": null,
+      "url": "https://www.studocu.com/es/course/universidad-europea-miguel-de-cervantes/estructura-economica/3100062"
+    },
+    {
+      "name": "Estructuras de la Edificación I",
+      "code": "1206",
+      "url": "https://www.studocu.com/es/course/universidad-europea-miguel-de-cervantes/estructuras-de-la-edificacion-i/2334346"
+    },
+    {
+      "name": "Estructuras de la Edificación II",
+      "code": "1209",
+      "url": "https://www.studocu.com/es/course/universidad-europea-miguel-de-cervantes/estructuras-de-la-edificacion-ii/2137726"
+    },
+    {
+      "name": "Evaluación e Intervención en la Infancia y Adolescencia",
+      "code": "2640",
+      "url": "https://www.studocu.com/es/course/universidad-europea-miguel-de-cervantes/evaluacion-e-intervencion-en-la-infancia-y-adolescencia/6242693"
+    },
+    {
+      "name": "Evaluación e Intervención en la Vida Adulta y el Envejecimiento",
+      "code": "2641",
+      "url": "https://www.studocu.com/es/course/universidad-europea-miguel-de-cervantes/evaluacion-e-intervencion-en-la-vida-adulta-y-el-envejecimiento/6242694"
+    },
+    {
+      "name": "Evaluación Psicológica",
+      "code": "2121",
+      "url": "https://www.studocu.com/es/course/universidad-europea-miguel-de-cervantes/evaluacion-psicologica/4742201"
+    },
+    {
+      "name": "Evaluación y Rehabilitación Neuropsicológica",
+      "code": "2644",
+      "url": "https://www.studocu.com/es/course/universidad-europea-miguel-de-cervantes/evaluacion-y-rehabilitacion-neuropsicologica/6242707"
+    },
+    {
+      "name": "Ética y deontología",
+      "code": "PUB3-2122ETI",
+      "url": "https://www.studocu.com/es/course/universidad-europea-miguel-de-cervantes/etica-y-deontologia/5837297"
+    },
+    {
+      "name": "Farmacología en nutrición",
+      "code": null,
+      "url": "https://www.studocu.com/es/course/universidad-europea-miguel-de-cervantes/farmacologia-en-nutricion/6041905"
+    },
+    {
+      "name": "Financiación de empresas",
+      "code": "FEMP1",
+      "url": "https://www.studocu.com/es/course/universidad-europea-miguel-de-cervantes/financiacion-de-empresas/7618910"
+    },
+    {
+      "name": "Finanzas I",
+      "code": null,
+      "url": "https://www.studocu.com/es/course/universidad-europea-miguel-de-cervantes/finanzas-i/3100063"
+    },
+    {
+      "name": "Fisiología, Histología, Inmunología odontológica",
+      "code": "1797",
+      "url": "https://www.studocu.com/es/course/universidad-europea-miguel-de-cervantes/fisiologia-histologia-inmunologia-odontologica/3002433"
+    },
+    {
+      "name": "Fisiopatologia",
+      "code": null,
+      "url": "https://www.studocu.com/es/course/universidad-europea-miguel-de-cervantes/fisiopatologia/5382378"
+    },
+    {
+      "name": "Fisioterapia neurológica especializada",
+      "code": null,
+      "url": "https://www.studocu.com/es/course/universidad-europea-miguel-de-cervantes/fisioterapia-neurologica-especializada/6884233"
+    },
+    {
+      "name": "Fundamentos biologicos de la conducta",
+      "code": "Psicología I",
+      "url": "https://www.studocu.com/es/course/universidad-europea-miguel-de-cervantes/fundamentos-biologicos-de-la-conducta/4738459"
+    },
+    {
+      "name": "Fundamentos Científicos y Profesionales de la Psicología Sanitaria",
+      "code": "2639",
+      "url": "https://www.studocu.com/es/course/universidad-europea-miguel-de-cervantes/fundamentos-cientificos-y-profesionales-de-la-psicologia-sanitaria/6242696"
+    },
+    {
+      "name": "Fundamentos de la Programacion",
+      "code": null,
+      "url": "https://www.studocu.com/es/course/universidad-europea-miguel-de-cervantes/fundamentos-de-la-programacion/6549253"
+    },
+    {
+      "name": "Fundamentos de las Técnicas de Mejora de las Condiciones de Trabajo",
+      "code": "2391",
+      "url": "https://www.studocu.com/es/course/universidad-europea-miguel-de-cervantes/fundamentos-de-las-tecnicas-de-mejora-de-las-condiciones-de-trabajo/3285064"
+    },
+    {
+      "name": "fundamentos de los deportes",
+      "code": "judo1",
+      "url": "https://www.studocu.com/es/course/universidad-europea-miguel-de-cervantes/fundamentos-de-los-deportes/6176116"
+    },
+    {
+      "name": "Fundamentos de los deportes I",
+      "code": null,
+      "url": "https://www.studocu.com/es/course/universidad-europea-miguel-de-cervantes/fundamentos-de-los-deportes-i/6704553"
+    },
+    {
+      "name": "fundamentos de producción vegetal",
+      "code": null,
+      "url": "https://www.studocu.com/es/course/universidad-europea-miguel-de-cervantes/fundamentos-de-produccion-vegetal/7257168"
+    },
+    {
+      "name": "Fundamentos Jurídicos",
+      "code": "Derecho",
+      "url": "https://www.studocu.com/es/course/universidad-europea-miguel-de-cervantes/fundamentos-juridicos/5388600"
+    },
+    {
+      "name": "Física I",
+      "code": "1819",
+      "url": "https://www.studocu.com/es/course/universidad-europea-miguel-de-cervantes/fisica-i/3238276"
+    },
+    {
+      "name": "Gestion de Proyectos",
+      "code": "1411",
+      "url": "https://www.studocu.com/es/course/universidad-europea-miguel-de-cervantes/gestion-de-proyectos/3100065"
+    },
+    {
+      "name": "Gestión de Calidad",
+      "code": "1401",
+      "url": "https://www.studocu.com/es/course/universidad-europea-miguel-de-cervantes/gestion-de-calidad/3100064"
+    },
+    {
+      "name": "Gramática española",
+      "code": "GRAES2025",
+      "url": "https://www.studocu.com/es/course/universidad-europea-miguel-de-cervantes/gramatica-espanola/7349470"
+    },
+    {
+      "name": "Historia de la Psicología",
+      "code": "2106",
+      "url": "https://www.studocu.com/es/course/universidad-europea-miguel-de-cervantes/historia-de-la-psicologia/4739247"
+    },
+    {
+      "name": "Historia social y política",
+      "code": "PUB1-2122His",
+      "url": "https://www.studocu.com/es/course/universidad-europea-miguel-de-cervantes/historia-social-y-politica/5706376"
+    },
+    {
+      "name": "Identificación Personal",
+      "code": "Identificación",
+      "url": "https://www.studocu.com/es/course/universidad-europea-miguel-de-cervantes/identificacion-personal/5211201"
+    },
+    {
+      "name": "Igualdad y Violencia de Género",
+      "code": "2148",
+      "url": "https://www.studocu.com/es/course/universidad-europea-miguel-de-cervantes/igualdad-y-violencia-de-genero/5381885"
+    },
+    {
+      "name": "Impuesto sobre el Valor Añadido",
+      "code": null,
+      "url": "https://www.studocu.com/es/course/universidad-europea-miguel-de-cervantes/impuesto-sobre-el-valor-anadido/5904881"
+    },
+    {
+      "name": "Ingles 1",
+      "code": null,
+      "url": "https://www.studocu.com/es/course/universidad-europea-miguel-de-cervantes/ingles-1/4615155"
+    },
+    {
+      "name": "Innovacion Empresarial",
+      "code": null,
+      "url": "https://www.studocu.com/es/course/universidad-europea-miguel-de-cervantes/innovacion-empresarial/3100067"
+    },
+    {
+      "name": "Instalaciones",
+      "code": null,
+      "url": "https://www.studocu.com/es/course/universidad-europea-miguel-de-cervantes/instalaciones/6130360"
+    },
+    {
+      "name": "Instituciones Derecho Comunitario",
+      "code": "23627",
+      "url": "https://www.studocu.com/es/course/universidad-europea-miguel-de-cervantes/instituciones-derecho-comunitario/7510953"
+    },
+    {
+      "name": "Intervencion en Pluridiscapacidad",
+      "code": null,
+      "url": "https://www.studocu.com/es/course/universidad-europea-miguel-de-cervantes/intervencion-en-pluridiscapacidad/4565309"
+    },
+    {
+      "name": "Intervención Comunitaria y Salud Pública",
+      "code": "2643",
+      "url": "https://www.studocu.com/es/course/universidad-europea-miguel-de-cervantes/intervencion-comunitaria-y-salud-publica/6242701"
+    },
+    {
+      "name": "Intervención Psicosocial",
+      "code": "2138",
+      "url": "https://www.studocu.com/es/course/universidad-europea-miguel-de-cervantes/intervencion-psicosocial/5161922"
+    },
+    {
+      "name": "Introducción a la Biología",
+      "code": null,
+      "url": "https://www.studocu.com/es/course/universidad-europea-miguel-de-cervantes/introduccion-a-la-biologia/6548415"
+    },
+    {
+      "name": "Introducción a las urgencias y emergencias",
+      "code": "2611",
+      "url": "https://www.studocu.com/es/course/universidad-europea-miguel-de-cervantes/introduccion-a-las-urgencias-y-emergencias/4930320"
+    },
+    {
+      "name": "Introducción al Derecho Constitucional",
+      "code": null,
+      "url": "https://www.studocu.com/es/course/universidad-europea-miguel-de-cervantes/introduccion-al-derecho-constitucional/3100068"
+    },
+    {
+      "name": "Investigación de Mercados I",
+      "code": null,
+      "url": "https://www.studocu.com/es/course/universidad-europea-miguel-de-cervantes/investigacion-de-mercados-i/3100069"
+    },
+    {
+      "name": "La seguridad en el trabajo",
+      "code": null,
+      "url": "https://www.studocu.com/es/course/universidad-europea-miguel-de-cervantes/la-seguridad-en-el-trabajo/7158733"
+    },
+    {
+      "name": "Legislación Penal Menores",
+      "code": null,
+      "url": "https://www.studocu.com/es/course/universidad-europea-miguel-de-cervantes/legislacion-penal-menores/7111574"
+    },
+    {
+      "name": "Legislación Aplicable y Jurisdicción",
+      "code": null,
+      "url": "https://www.studocu.com/es/course/universidad-europea-miguel-de-cervantes/legislacion-aplicable-y-jurisdiccion/7000241"
+    },
+    {
+      "name": "Legislación Informática",
+      "code": null,
+      "url": "https://www.studocu.com/es/course/universidad-europea-miguel-de-cervantes/legislacion-informatica/7181154"
+    },
+    {
+      "name": "Libro Antiguo",
+      "code": null,
+      "url": "https://www.studocu.com/es/course/universidad-europea-miguel-de-cervantes/libro-antiguo/6598527"
+    },
+    {
+      "name": "Literatura",
+      "code": null,
+      "url": "https://www.studocu.com/es/course/universidad-europea-miguel-de-cervantes/literatura/6943949"
+    },
+    {
+      "name": "Macroeconomía",
+      "code": "Macroeconomñia, ADE",
+      "url": "https://www.studocu.com/es/course/universidad-europea-miguel-de-cervantes/macroeconomia/4369667"
+    },
+    {
+      "name": "Magister en Proyectos",
+      "code": null,
+      "url": "https://www.studocu.com/es/course/universidad-europea-miguel-de-cervantes/magister-en-proyectos/3100074"
+    },
+    {
+      "name": "Marketing",
+      "code": null,
+      "url": "https://www.studocu.com/es/course/universidad-europea-miguel-de-cervantes/marketing/3100070"
+    },
+    {
+      "name": "Matematicas I",
+      "code": null,
+      "url": "https://www.studocu.com/es/course/universidad-europea-miguel-de-cervantes/matematicas-i/3100075"
+    },
+    {
+      "name": "Matemática Aplicada a la Ingeniería",
+      "code": null,
+      "url": "https://www.studocu.com/es/course/universidad-europea-miguel-de-cervantes/matematica-aplicada-a-la-ingenieria/6553199"
+    },
+    {
+      "name": "Matemáticas II",
+      "code": null,
+      "url": "https://www.studocu.com/es/course/universidad-europea-miguel-de-cervantes/matematicas-ii/3100076"
+    },
+    {
+      "name": "Mediación Familiar",
+      "code": "Mediación",
+      "url": "https://www.studocu.com/es/course/universidad-europea-miguel-de-cervantes/mediacion-familiar/7722779"
+    },
+    {
+      "name": "Mediación y resolución alternativa de conflictos",
+      "code": null,
+      "url": "https://www.studocu.com/es/course/universidad-europea-miguel-de-cervantes/mediacion-y-resolucion-alternativa-de-conflictos/4827423"
+    },
+    {
+      "name": "Medicina Bucal",
+      "code": "Medicina, Odontologí",
+      "url": "https://www.studocu.com/es/course/universidad-europea-miguel-de-cervantes/medicina-bucal/6508196"
+    },
+    {
+      "name": "Medicina Legal y Forense",
+      "code": null,
+      "url": "https://www.studocu.com/es/course/universidad-europea-miguel-de-cervantes/medicina-legal-y-forense/4099613"
+    },
+    {
+      "name": "medio ambiente",
+      "code": null,
+      "url": "https://www.studocu.com/es/course/universidad-europea-miguel-de-cervantes/medio-ambiente/7501366"
+    },
+    {
+      "name": "Mercados",
+      "code": null,
+      "url": "https://www.studocu.com/es/course/universidad-europea-miguel-de-cervantes/mercados/3100071"
+    },
+    {
+      "name": "Microeconomia",
+      "code": null,
+      "url": "https://www.studocu.com/es/course/universidad-europea-miguel-de-cervantes/microeconomia/4615153"
+    },
+    {
+      "name": "Monitorización y cuidados generales",
+      "code": "2612",
+      "url": "https://www.studocu.com/es/course/universidad-europea-miguel-de-cervantes/monitorizacion-y-cuidados-generales/4930499"
+    },
+    {
+      "name": "Montaje Cinematográfico",
+      "code": "LENSM1",
+      "url": "https://www.studocu.com/es/course/universidad-europea-miguel-de-cervantes/montaje-cinematografico/7756356"
+    },
+    {
+      "name": "Motivación y Emoción",
+      "code": "2111",
+      "url": "https://www.studocu.com/es/course/universidad-europea-miguel-de-cervantes/motivacion-y-emocion/4739236"
+    },
+    {
+      "name": "neuroanatomia",
+      "code": null,
+      "url": "https://www.studocu.com/es/course/universidad-europea-miguel-de-cervantes/neuroanatomia/4552183"
+    },
+    {
+      "name": "Neuropsicología",
+      "code": "2132",
+      "url": "https://www.studocu.com/es/course/universidad-europea-miguel-de-cervantes/neuropsicologia/4974951"
+    },
+    {
+      "name": "Nutrición Comunitaria",
+      "code": "2442",
+      "url": "https://www.studocu.com/es/course/universidad-europea-miguel-de-cervantes/nutricion-comunitaria/4927983"
+    },
+    {
+      "name": "Nutrición I",
+      "code": null,
+      "url": "https://www.studocu.com/es/course/universidad-europea-miguel-de-cervantes/nutricion-i/6972743"
+    },
+    {
+      "name": "Nutrición oncológica",
+      "code": "Oncología",
+      "url": "https://www.studocu.com/es/course/universidad-europea-miguel-de-cervantes/nutricion-oncologica/5003297"
+    },
+    {
+      "name": "Organización de Empresas",
+      "code": "1384",
+      "url": "https://www.studocu.com/es/course/universidad-europea-miguel-de-cervantes/organizacion-de-empresas/3100072"
+    },
+    {
+      "name": "Organización de eventos y protocolo",
+      "code": "1745",
+      "url": "https://www.studocu.com/es/course/universidad-europea-miguel-de-cervantes/organizacion-de-eventos-y-protocolo/5730363"
+    },
+    {
+      "name": "Organización de Operaciones y Sistemas de Producción Industrial",
+      "code": null,
+      "url": "https://www.studocu.com/es/course/universidad-europea-miguel-de-cervantes/organizacion-de-operaciones-y-sistemas-de-produccion-industrial/7365776"
+    },
+    {
+      "name": "Otras patologías en cuidados intensivos",
+      "code": "2613",
+      "url": "https://www.studocu.com/es/course/universidad-europea-miguel-de-cervantes/otras-patologias-en-cuidados-intensivos/4930500"
+    },
+    {
+      "name": "Otras situaciones de urgencias",
+      "code": "0009",
+      "url": "https://www.studocu.com/es/course/universidad-europea-miguel-de-cervantes/otras-situaciones-de-urgencias/4930327"
+    },
+    {
+      "name": "Palpatoria",
+      "code": "bioquimica",
+      "url": "https://www.studocu.com/es/course/universidad-europea-miguel-de-cervantes/palpatoria/7519098"
+    },
+    {
+      "name": "Patologias",
+      "code": null,
+      "url": "https://www.studocu.com/es/course/universidad-europea-miguel-de-cervantes/patologias/4350956"
+    },
+    {
+      "name": "Planificación y Control del Entrenamiento",
+      "code": null,
+      "url": "https://www.studocu.com/es/course/universidad-europea-miguel-de-cervantes/planificacion-y-control-del-entrenamiento/6855494"
+    },
+    {
+      "name": "Política Alimentaria",
+      "code": null,
+      "url": "https://www.studocu.com/es/course/universidad-europea-miguel-de-cervantes/politica-alimentaria/4526576"
+    },
+    {
+      "name": "Produccion y Logistica",
+      "code": "2188",
+      "url": "https://www.studocu.com/es/course/universidad-europea-miguel-de-cervantes/produccion-y-logistica/3100073"
+    },
+    {
+      "name": "Psicofarmacología",
+      "code": "2133",
+      "url": "https://www.studocu.com/es/course/universidad-europea-miguel-de-cervantes/psicofarmacologia/4829978"
+    },
+    {
+      "name": "Psicologia Criminal",
+      "code": "00000",
+      "url": "https://www.studocu.com/es/course/universidad-europea-miguel-de-cervantes/psicologia-criminal/3191796"
+    },
+    {
+      "name": "psicologia de la educacion",
+      "code": null,
+      "url": "https://www.studocu.com/es/course/universidad-europea-miguel-de-cervantes/psicologia-de-la-educacion/4600737"
+    },
+    {
+      "name": "Psicologia del deporte",
+      "code": null,
+      "url": "https://www.studocu.com/es/course/universidad-europea-miguel-de-cervantes/psicologia-del-deporte/5813811"
+    },
+    {
+      "name": "Psicología de la Memoria",
+      "code": "2123",
+      "url": "https://www.studocu.com/es/course/universidad-europea-miguel-de-cervantes/psicologia-de-la-memoria/4742214"
+    },
+    {
+      "name": "Psicología de la nutrición",
+      "code": "Nutrición",
+      "url": "https://www.studocu.com/es/course/universidad-europea-miguel-de-cervantes/psicologia-de-la-nutricion/6201793"
+    },
+    {
+      "name": "Psicología de la Personalidad y Diferencias Individuales",
+      "code": "2115",
+      "url": "https://www.studocu.com/es/course/universidad-europea-miguel-de-cervantes/psicologia-de-la-personalidad-y-diferencias-individuales/4744616"
+    },
+    {
+      "name": "Psicología de la Salud",
+      "code": "2116",
+      "url": "https://www.studocu.com/es/course/universidad-europea-miguel-de-cervantes/psicologia-de-la-salud/4739237"
+    },
+    {
+      "name": "Psicología de la Sexualidad",
+      "code": "2140",
+      "url": "https://www.studocu.com/es/course/universidad-europea-miguel-de-cervantes/psicologia-de-la-sexualidad/5381882"
+    },
+    {
+      "name": "Psicología de la Vejez: Evaluación e Intervención",
+      "code": "2139",
+      "url": "https://www.studocu.com/es/course/universidad-europea-miguel-de-cervantes/psicologia-de-la-vejez-evaluacion-e-intervencion/5161924"
+    },
+    {
+      "name": "Psicología de las Adicciones",
+      "code": "2146",
+      "url": "https://www.studocu.com/es/course/universidad-europea-miguel-de-cervantes/psicologia-de-las-adicciones/5381888"
+    },
+    {
+      "name": "Psicología de los grupos",
+      "code": "2124",
+      "url": "https://www.studocu.com/es/course/universidad-europea-miguel-de-cervantes/psicologia-de-los-grupos/4742213"
+    },
+    {
+      "name": "Psicología del Aprendizaje",
+      "code": "2117",
+      "url": "https://www.studocu.com/es/course/universidad-europea-miguel-de-cervantes/psicologia-del-aprendizaje/4742202"
+    },
+    {
+      "name": "Psicología del Desarrollo Afectivo y Social",
+      "code": "2119",
+      "url": "https://www.studocu.com/es/course/universidad-europea-miguel-de-cervantes/psicologia-del-desarrollo-afectivo-y-social/3274395"
+    },
+    {
+      "name": "Psicología del desarrollo cognitivo y lingüística",
+      "code": "2114",
+      "url": "https://www.studocu.com/es/course/universidad-europea-miguel-de-cervantes/psicologia-del-desarrollo-cognitivo-y-linguistica/4742204"
+    },
+    {
+      "name": "Psicología del Envejecimiento",
+      "code": "2128",
+      "url": "https://www.studocu.com/es/course/universidad-europea-miguel-de-cervantes/psicologia-del-envejecimiento/4748140"
+    },
+    {
+      "name": "Psicología del Pensamiento y el Lenguaje",
+      "code": "2113",
+      "url": "https://www.studocu.com/es/course/universidad-europea-miguel-de-cervantes/psicologia-del-pensamiento-y-el-lenguaje/4744626"
+    },
+    {
+      "name": "Psicología del Trabajo y las Organizaciones",
+      "code": "2127",
+      "url": "https://www.studocu.com/es/course/universidad-europea-miguel-de-cervantes/psicologia-del-trabajo-y-las-organizaciones/4739244"
+    },
+    {
+      "name": "Psicología fisiológica",
+      "code": "2118",
+      "url": "https://www.studocu.com/es/course/universidad-europea-miguel-de-cervantes/psicologia-fisiologica/4742205"
+    },
+    {
+      "name": "Psicología jurídica",
+      "code": null,
+      "url": "https://www.studocu.com/es/course/universidad-europea-miguel-de-cervantes/psicologia-juridica/7166543"
+    },
+    {
+      "name": "Psicología Oncológica",
+      "code": "2648",
+      "url": "https://www.studocu.com/es/course/universidad-europea-miguel-de-cervantes/psicologia-oncologica/6242704"
+    },
+    {
+      "name": "Psicología Social",
+      "code": "2109",
+      "url": "https://www.studocu.com/es/course/universidad-europea-miguel-de-cervantes/psicologia-social/4739249"
+    },
+    {
+      "name": "Psicología: Ciencia y Profesión",
+      "code": "2107",
+      "url": "https://www.studocu.com/es/course/universidad-europea-miguel-de-cervantes/psicologia-ciencia-y-profesion/4744610"
+    },
+    {
+      "name": "Psicometría",
+      "code": null,
+      "url": "https://www.studocu.com/es/course/universidad-europea-miguel-de-cervantes/psicometria/4445581"
+    },
+    {
+      "name": "Psicopatología de la Infancia y la Adolescencia",
+      "code": "2130",
+      "url": "https://www.studocu.com/es/course/universidad-europea-miguel-de-cervantes/psicopatologia-de-la-infancia-y-la-adolescencia/4742216"
+    },
+    {
+      "name": "Psicopatología del Adulto",
+      "code": "2134",
+      "url": "https://www.studocu.com/es/course/universidad-europea-miguel-de-cervantes/psicopatologia-del-adulto/4829979"
+    },
+    {
+      "name": "Psicoterapias de Tercera Generación",
+      "code": "2646",
+      "url": "https://www.studocu.com/es/course/universidad-europea-miguel-de-cervantes/psicoterapias-de-tercera-generacion/6242706"
+    },
+    {
+      "name": "Psiquiatria Forense",
+      "code": null,
+      "url": "https://www.studocu.com/es/course/universidad-europea-miguel-de-cervantes/psiquiatria-forense/4099608"
+    },
+    {
+      "name": "Publicidad Digital",
+      "code": null,
+      "url": "https://www.studocu.com/es/course/universidad-europea-miguel-de-cervantes/publicidad-digital/4378303"
+    },
+    {
+      "name": "Química de la Ingeniería",
+      "code": null,
+      "url": "https://www.studocu.com/es/course/universidad-europea-miguel-de-cervantes/quimica-de-la-ingenieria/5357138"
+    },
+    {
+      "name": "Relaciones Internacionales",
+      "code": null,
+      "url": "https://www.studocu.com/es/course/universidad-europea-miguel-de-cervantes/relaciones-internacionales/5356198"
+    },
+    {
+      "name": "Retribución y reconocimiento",
+      "code": null,
+      "url": "https://www.studocu.com/es/course/universidad-europea-miguel-de-cervantes/retribucion-y-reconocimiento/7676383"
+    },
+    {
+      "name": "Seguridad alimentaria",
+      "code": "0007",
+      "url": "https://www.studocu.com/es/course/universidad-europea-miguel-de-cervantes/seguridad-alimentaria/4929443"
+    },
+    {
+      "name": "Selección de Personal",
+      "code": "RRHH",
+      "url": "https://www.studocu.com/es/course/universidad-europea-miguel-de-cervantes/seleccion-de-personal/3739195"
+    },
+    {
+      "name": "Sistemas operativos",
+      "code": "Informatica",
+      "url": "https://www.studocu.com/es/course/universidad-europea-miguel-de-cervantes/sistemas-operativos/5903055"
+    },
+    {
+      "name": "Sociologia",
+      "code": null,
+      "url": "https://www.studocu.com/es/course/universidad-europea-miguel-de-cervantes/sociologia/5134681"
+    },
+    {
+      "name": "Tecnologia electrica",
+      "code": null,
+      "url": "https://www.studocu.com/es/course/universidad-europea-miguel-de-cervantes/tecnologia-electrica/6389434"
+    },
+    {
+      "name": "Tecnología electrónica",
+      "code": null,
+      "url": "https://www.studocu.com/es/course/universidad-europea-miguel-de-cervantes/tecnologia-electronica/5867978"
+    },
+    {
+      "name": "Teoría de la Publicidad",
+      "code": null,
+      "url": "https://www.studocu.com/es/course/universidad-europea-miguel-de-cervantes/teoria-de-la-publicidad/4445727"
+    },
+    {
+      "name": "Terapia transpersonal",
+      "code": "Escuela transpersona",
+      "url": "https://www.studocu.com/es/course/universidad-europea-miguel-de-cervantes/terapia-transpersonal/6746912"
+    },
+    {
+      "name": "Termodinámica",
+      "code": "Termodinámica",
+      "url": "https://www.studocu.com/es/course/universidad-europea-miguel-de-cervantes/termodinamica/3475406"
+    },
+    {
+      "name": "Trabajo Fin de Grado",
+      "code": null,
+      "url": "https://www.studocu.com/es/course/universidad-europea-miguel-de-cervantes/trabajo-fin-de-grado/6069760"
+    },
+    {
+      "name": "Trastornos Alimentarios: Evaluación e Intervención",
+      "code": "2649",
+      "url": "https://www.studocu.com/es/course/universidad-europea-miguel-de-cervantes/trastornos-alimentarios-evaluacion-e-intervencion/6242709"
+    },
+    {
+      "name": "trastornos de la alimentación",
+      "code": null,
+      "url": "https://www.studocu.com/es/course/universidad-europea-miguel-de-cervantes/trastornos-de-la-alimentacion/4600738"
+    },
+    {
+      "name": "Trastornos de la Alimentación",
+      "code": "2145",
+      "url": "https://www.studocu.com/es/course/universidad-europea-miguel-de-cervantes/trastornos-de-la-alimentacion/5161925"
+    },
+    {
+      "name": "Técnicas de comunicación eficaz",
+      "code": null,
+      "url": "https://www.studocu.com/es/course/universidad-europea-miguel-de-cervantes/tecnicas-de-comunicacion-eficaz/6584378"
+    },
+    {
+      "name": "Técnicas de Intervención y Tratamiento Psicológico I",
+      "code": "2136",
+      "url": "https://www.studocu.com/es/course/universidad-europea-miguel-de-cervantes/tecnicas-de-intervencion-y-tratamiento-psicologico-i/4829980"
+    },
+    {
+      "name": "Urgencias generales",
+      "code": "0006",
+      "url": "https://www.studocu.com/es/course/universidad-europea-miguel-de-cervantes/urgencias-generales/4922700"
+    },
+    {
+      "name": "Victimologia",
+      "code": null,
+      "url": "https://www.studocu.com/es/course/universidad-europea-miguel-de-cervantes/victimologia/4099615"
+    }
+  ]
+}

@@ -1,0 +1,756 @@
+{
+  "university_id": "8257",
+  "university_name": "Universitatea HYPERION",
+  "courses": [
+    {
+      "name": "Algoritmi si Structuri de date",
+      "code": null,
+      "url": "https://www.studocu.com/ro/course/universitatea-hyperion/algoritmi-si-structuri-de-date/3666546"
+    },
+    {
+      "name": "Analiza matematica",
+      "code": null,
+      "url": "https://www.studocu.com/ro/course/universitatea-hyperion/analiza-matematica/3666526"
+    },
+    {
+      "name": "Analiză Economico - Financiară",
+      "code": null,
+      "url": "https://www.studocu.com/ro/course/universitatea-hyperion/analiza-economico-financiara/3666884"
+    },
+    {
+      "name": "Analiză Economico-Financiară",
+      "code": null,
+      "url": "https://www.studocu.com/ro/course/universitatea-hyperion/analiza-economico-financiara/3666889"
+    },
+    {
+      "name": "Asigurări Și Reasigurări",
+      "code": null,
+      "url": "https://www.studocu.com/ro/course/universitatea-hyperion/asigurari-si-reasigurari/3666847"
+    },
+    {
+      "name": "Audit Financiar",
+      "code": null,
+      "url": "https://www.studocu.com/ro/course/universitatea-hyperion/audit-financiar/3666900"
+    },
+    {
+      "name": "Automate programabile si microprogramare",
+      "code": null,
+      "url": "https://www.studocu.com/ro/course/universitatea-hyperion/automate-programabile-si-microprogramare/3666560"
+    },
+    {
+      "name": "Baze de date",
+      "code": null,
+      "url": "https://www.studocu.com/ro/course/universitatea-hyperion/baze-de-date/3666565"
+    },
+    {
+      "name": "Baze De Date Pentru Management",
+      "code": null,
+      "url": "https://www.studocu.com/ro/course/universitatea-hyperion/baze-de-date-pentru-management/3666869"
+    },
+    {
+      "name": "Baze De Date Si Limbaje De Programare",
+      "code": null,
+      "url": "https://www.studocu.com/ro/course/universitatea-hyperion/baze-de-date-si-limbaje-de-programare/3666840"
+    },
+    {
+      "name": "Bazele teoretice ale evaluării psihologice",
+      "code": null,
+      "url": "https://www.studocu.com/ro/course/universitatea-hyperion/bazele-teoretice-ale-evaluarii-psihologice/3666788"
+    },
+    {
+      "name": "Burse Internaționale De Mărfuri",
+      "code": null,
+      "url": "https://www.studocu.com/ro/course/universitatea-hyperion/burse-internationale-de-marfuri/3666876"
+    },
+    {
+      "name": "Ciminalistică I",
+      "code": "SD.IV.07.01",
+      "url": "https://www.studocu.com/ro/course/universitatea-hyperion/ciminalistica-i/3666771"
+    },
+    {
+      "name": "Comerț Internațional",
+      "code": null,
+      "url": "https://www.studocu.com/ro/course/universitatea-hyperion/comert-international/3666836"
+    },
+    {
+      "name": "Comunicare Şi Negociere În Afaceri",
+      "code": null,
+      "url": "https://www.studocu.com/ro/course/universitatea-hyperion/comunicare-si-negociere-in-afaceri/3666913"
+    },
+    {
+      "name": "Contabilitate Consolidată",
+      "code": null,
+      "url": "https://www.studocu.com/ro/course/universitatea-hyperion/contabilitate-consolidata/3666902"
+    },
+    {
+      "name": "Contabilitate Financiară",
+      "code": null,
+      "url": "https://www.studocu.com/ro/course/universitatea-hyperion/contabilitate-financiara/3666850"
+    },
+    {
+      "name": "Contabilitate Financiară Aplicată",
+      "code": null,
+      "url": "https://www.studocu.com/ro/course/universitatea-hyperion/contabilitate-financiara-aplicata/3666860"
+    },
+    {
+      "name": "Contabilitate Și Gestiune Fiscală",
+      "code": null,
+      "url": "https://www.studocu.com/ro/course/universitatea-hyperion/contabilitate-si-gestiune-fiscala/3666864"
+    },
+    {
+      "name": "Contabilitatea Instituţiilor Publice",
+      "code": null,
+      "url": "https://www.studocu.com/ro/course/universitatea-hyperion/contabilitatea-institutiilor-publice/3666859"
+    },
+    {
+      "name": "Control Financiar",
+      "code": null,
+      "url": "https://www.studocu.com/ro/course/universitatea-hyperion/control-financiar/3666882"
+    },
+    {
+      "name": "Corespondență Comercială În A Doua Limbă Straină - Germana",
+      "code": null,
+      "url": "https://www.studocu.com/ro/course/universitatea-hyperion/corespondenta-comerciala-in-a-doua-limba-straina-germana/3666880"
+    },
+    {
+      "name": "Criminalistică II",
+      "code": "SD.IV.08.06",
+      "url": "https://www.studocu.com/ro/course/universitatea-hyperion/criminalistica-ii/3666776"
+    },
+    {
+      "name": "Criminologie",
+      "code": "SD.II.03.05",
+      "url": "https://www.studocu.com/ro/course/universitatea-hyperion/criminologie/3666745"
+    },
+    {
+      "name": "Criptografie si Securitatea Informației",
+      "code": null,
+      "url": "https://www.studocu.com/ro/course/universitatea-hyperion/criptografie-si-securitatea-informatiei/5951071"
+    },
+    {
+      "name": "Defectologie si logopedie",
+      "code": null,
+      "url": "https://www.studocu.com/ro/course/universitatea-hyperion/defectologie-si-logopedie/3666807"
+    },
+    {
+      "name": "dezvoltarea abilităților antreprenoriale",
+      "code": "DAA 1",
+      "url": "https://www.studocu.com/ro/course/universitatea-hyperion/dezvoltarea-abilitatilor-antreprenoriale/6281752"
+    },
+    {
+      "name": "didactica specializarii",
+      "code": "DS1",
+      "url": "https://www.studocu.com/ro/course/universitatea-hyperion/didactica-specializarii/4642784"
+    },
+    {
+      "name": "Disciplina aleasa din pachetul 1",
+      "code": null,
+      "url": "https://www.studocu.com/ro/course/universitatea-hyperion/disciplina-aleasa-din-pachetul-1/3666570"
+    },
+    {
+      "name": "Doctrine juridice",
+      "code": "SD.II.02.16",
+      "url": "https://www.studocu.com/ro/course/universitatea-hyperion/doctrine-juridice/3666740"
+    },
+    {
+      "name": "Drept administrative I",
+      "code": "SD.II.03.03",
+      "url": "https://www.studocu.com/ro/course/universitatea-hyperion/drept-administrative-i/3666743"
+    },
+    {
+      "name": "Drept administrative II",
+      "code": "SD.II.04.09",
+      "url": "https://www.studocu.com/ro/course/universitatea-hyperion/drept-administrative-ii/3666749"
+    },
+    {
+      "name": "Drept civil (partea generală)",
+      "code": "SD.I.01.03",
+      "url": "https://www.studocu.com/ro/course/universitatea-hyperion/drept-civil-partea-generala/3666728"
+    },
+    {
+      "name": "Drept civil (persoana fizică şi juridică)",
+      "code": "SD.I.02.08",
+      "url": "https://www.studocu.com/ro/course/universitatea-hyperion/drept-civil-persoana-fizica-si-juridica/3666733"
+    },
+    {
+      "name": "Drept civil - drepturi reale",
+      "code": "SD.II.03.01",
+      "url": "https://www.studocu.com/ro/course/universitatea-hyperion/drept-civil-drepturi-reale/3666741"
+    },
+    {
+      "name": "Drept civil – contracte",
+      "code": "SD.III.05.01",
+      "url": "https://www.studocu.com/ro/course/universitatea-hyperion/drept-civil-contracte/3666754"
+    },
+    {
+      "name": "Drept civil – teoría generală a obligaţiilor",
+      "code": "SD.II.04.07",
+      "url": "https://www.studocu.com/ro/course/universitatea-hyperion/drept-civil-teoria-generala-a-obligatiilor/3666747"
+    },
+    {
+      "name": "Drept constituţional şi instituţii politice I",
+      "code": "SD.I.01.02",
+      "url": "https://www.studocu.com/ro/course/universitatea-hyperion/drept-constitutional-si-institutii-politice-i/3666727"
+    },
+    {
+      "name": "Drept financiar",
+      "code": "SD.III.06.13",
+      "url": "https://www.studocu.com/ro/course/universitatea-hyperion/drept-financiar/3666766"
+    },
+    {
+      "name": "Drept parlamentar",
+      "code": "SD.IV.08.13",
+      "url": "https://www.studocu.com/ro/course/universitatea-hyperion/drept-parlamentar/3666781"
+    },
+    {
+      "name": "Drept penal european",
+      "code": "SD.IV.07.03",
+      "url": "https://www.studocu.com/ro/course/universitatea-hyperion/drept-penal-european/3666773"
+    },
+    {
+      "name": "Drept penal general I",
+      "code": "SD.II.03.02",
+      "url": "https://www.studocu.com/ro/course/universitatea-hyperion/drept-penal-general-i/3666742"
+    },
+    {
+      "name": "Drept processual civil I",
+      "code": "SD.III.05.02",
+      "url": "https://www.studocu.com/ro/course/universitatea-hyperion/drept-processual-civil-i/3666755"
+    },
+    {
+      "name": "Drept procesual penal II",
+      "code": "SD.III.06.10",
+      "url": "https://www.studocu.com/ro/course/universitatea-hyperion/drept-procesual-penal-ii/3666763"
+    },
+    {
+      "name": "Drept roman I",
+      "code": "SD.I.01.04",
+      "url": "https://www.studocu.com/ro/course/universitatea-hyperion/drept-roman-i/3666729"
+    },
+    {
+      "name": "Drept roman II",
+      "code": "SD.I.02.09",
+      "url": "https://www.studocu.com/ro/course/universitatea-hyperion/drept-roman-ii/3666734"
+    },
+    {
+      "name": "Dreptul execuţional penal",
+      "code": "MST.PA.II.01.07",
+      "url": "https://www.studocu.com/ro/course/universitatea-hyperion/dreptul-executional-penal/3666723"
+    },
+    {
+      "name": "Dreptul mediului",
+      "code": "SD.II.03.06",
+      "url": "https://www.studocu.com/ro/course/universitatea-hyperion/dreptul-mediului/3666746"
+    },
+    {
+      "name": "Dreptul muncii şi securităţii sociale I",
+      "code": "SD.III.05.05",
+      "url": "https://www.studocu.com/ro/course/universitatea-hyperion/dreptul-muncii-si-securitatii-sociale-i/3666758"
+    },
+    {
+      "name": "Dreptul penal al afacerilor",
+      "code": "MST.PA.I.02.04",
+      "url": "https://www.studocu.com/ro/course/universitatea-hyperion/dreptul-penal-al-afacerilor/3666720"
+    },
+    {
+      "name": "Dreptul procesual penal",
+      "code": "MST.PA.I.02.05",
+      "url": "https://www.studocu.com/ro/course/universitatea-hyperion/dreptul-procesual-penal/3666721"
+    },
+    {
+      "name": "Econometrie",
+      "code": null,
+      "url": "https://www.studocu.com/ro/course/universitatea-hyperion/econometrie/3666879"
+    },
+    {
+      "name": "Economia Întreprinderii",
+      "code": null,
+      "url": "https://www.studocu.com/ro/course/universitatea-hyperion/economia-intreprinderii/3666844"
+    },
+    {
+      "name": "Economie Europeană",
+      "code": null,
+      "url": "https://www.studocu.com/ro/course/universitatea-hyperion/economie-europeana/3666857"
+    },
+    {
+      "name": "Economie Monetară",
+      "code": null,
+      "url": "https://www.studocu.com/ro/course/universitatea-hyperion/economie-monetara/3666841"
+    },
+    {
+      "name": "Economie politică",
+      "code": null,
+      "url": "https://www.studocu.com/ro/course/universitatea-hyperion/economie-politica/3666657"
+    },
+    {
+      "name": "Ed. Fizica 2",
+      "code": null,
+      "url": "https://www.studocu.com/ro/course/universitatea-hyperion/ed-fizica-2/3666598"
+    },
+    {
+      "name": "Editorialist",
+      "code": "245.108",
+      "url": "https://www.studocu.com/ro/course/universitatea-hyperion/editorialist/3666708"
+    },
+    {
+      "name": "Elaborarea lucrării de licenţă  II",
+      "code": null,
+      "url": "https://www.studocu.com/ro/course/universitatea-hyperion/elaborarea-lucrarii-de-licenta-ii/3666693"
+    },
+    {
+      "name": "Electricitate, magnetism si electrotehnica",
+      "code": null,
+      "url": "https://www.studocu.com/ro/course/universitatea-hyperion/electricitate-magnetism-si-electrotehnica/3666535"
+    },
+    {
+      "name": "Electronica digitala",
+      "code": null,
+      "url": "https://www.studocu.com/ro/course/universitatea-hyperion/electronica-digitala/3666543"
+    },
+    {
+      "name": "Etica În Afaceri",
+      "code": null,
+      "url": "https://www.studocu.com/ro/course/universitatea-hyperion/etica-in-afaceri/3666858"
+    },
+    {
+      "name": "Etică",
+      "code": null,
+      "url": "https://www.studocu.com/ro/course/universitatea-hyperion/etica/3666692"
+    },
+    {
+      "name": "Etică În Afaceri (Aplicată În Finanțe)",
+      "code": null,
+      "url": "https://www.studocu.com/ro/course/universitatea-hyperion/etica-in-afaceri-aplicata-in-finante/3666849"
+    },
+    {
+      "name": "Evaluarea Întreprinderii",
+      "code": null,
+      "url": "https://www.studocu.com/ro/course/universitatea-hyperion/evaluarea-intreprinderii/3666899"
+    },
+    {
+      "name": "Fiabilitatea sistemelor hardware si ftware",
+      "code": null,
+      "url": "https://www.studocu.com/ro/course/universitatea-hyperion/fiabilitatea-sistemelor-hardware-si-ftware/3666569"
+    },
+    {
+      "name": "Finanțe Publice",
+      "code": null,
+      "url": "https://www.studocu.com/ro/course/universitatea-hyperion/finante-publice/3666831"
+    },
+    {
+      "name": "Finanțele Instituțiilor Publice",
+      "code": null,
+      "url": "https://www.studocu.com/ro/course/universitatea-hyperion/finantele-institutiilor-publice/3666911"
+    },
+    {
+      "name": "Fundamentele Psihologiei I",
+      "code": "daf1",
+      "url": "https://www.studocu.com/ro/course/universitatea-hyperion/fundamentele-psihologiei-i/7293893"
+    },
+    {
+      "name": "Genetica comportamentului uman",
+      "code": null,
+      "url": "https://www.studocu.com/ro/course/universitatea-hyperion/genetica-comportamentului-uman/3666813"
+    },
+    {
+      "name": "Globalism şi globalizare",
+      "code": null,
+      "url": "https://www.studocu.com/ro/course/universitatea-hyperion/globalism-si-globalizare/3666676"
+    },
+    {
+      "name": "Informatica generală",
+      "code": null,
+      "url": "https://www.studocu.com/ro/course/universitatea-hyperion/informatica-generala/3666683"
+    },
+    {
+      "name": "Instituţii de drept penal. Partea generală",
+      "code": "MST.PA.I.01.01",
+      "url": "https://www.studocu.com/ro/course/universitatea-hyperion/institutii-de-drept-penal-partea-generala/3666717"
+    },
+    {
+      "name": "Inteligenţă emoţională şi optimizarea comportamentului",
+      "code": null,
+      "url": "https://www.studocu.com/ro/course/universitatea-hyperion/inteligenta-emotionala-si-optimizarea-comportamentului/3666794"
+    },
+    {
+      "name": "Investiţii Și Economia Ue",
+      "code": null,
+      "url": "https://www.studocu.com/ro/course/universitatea-hyperion/investitii-si-economia-ue/3666845"
+    },
+    {
+      "name": "Investiții Directe Și Finanțarea Lor",
+      "code": null,
+      "url": "https://www.studocu.com/ro/course/universitatea-hyperion/investitii-directe-si-finantarea-lor/3666908"
+    },
+    {
+      "name": "Investiții Internaționale",
+      "code": null,
+      "url": "https://www.studocu.com/ro/course/universitatea-hyperion/investitii-internationale/3666894"
+    },
+    {
+      "name": "Istoria dreptului românesc",
+      "code": "SD.I.02.11",
+      "url": "https://www.studocu.com/ro/course/universitatea-hyperion/istoria-dreptului-romanesc/3666735"
+    },
+    {
+      "name": "Istoria ideilor",
+      "code": null,
+      "url": "https://www.studocu.com/ro/course/universitatea-hyperion/istoria-ideilor/3666660"
+    },
+    {
+      "name": "Istoria psihologiei",
+      "code": null,
+      "url": "https://www.studocu.com/ro/course/universitatea-hyperion/istoria-psihologiei/3666786"
+    },
+    {
+      "name": "istorie europeana",
+      "code": "DESCE01",
+      "url": "https://www.studocu.com/ro/course/universitatea-hyperion/istorie-europeana/4404564"
+    },
+    {
+      "name": "Lab View",
+      "code": "2001",
+      "url": "https://www.studocu.com/ro/course/universitatea-hyperion/lab-view/7573233"
+    },
+    {
+      "name": "Lector de presa",
+      "code": "245.11",
+      "url": "https://www.studocu.com/ro/course/universitatea-hyperion/lector-de-presa/3666712"
+    },
+    {
+      "name": "Limba engleza",
+      "code": null,
+      "url": "https://www.studocu.com/ro/course/universitatea-hyperion/limba-engleza/3666537"
+    },
+    {
+      "name": "Limba engleza 1",
+      "code": null,
+      "url": "https://www.studocu.com/ro/course/universitatea-hyperion/limba-engleza-1/3666593"
+    },
+    {
+      "name": "Limba franceză",
+      "code": null,
+      "url": "https://www.studocu.com/ro/course/universitatea-hyperion/limba-franceza/3666681"
+    },
+    {
+      "name": "Limba moderna",
+      "code": null,
+      "url": "https://www.studocu.com/ro/course/universitatea-hyperion/limba-moderna/3666557"
+    },
+    {
+      "name": "Limba straină - engleză II",
+      "code": "SD.I.02.14",
+      "url": "https://www.studocu.com/ro/course/universitatea-hyperion/limba-straina-engleza-ii/3666738"
+    },
+    {
+      "name": "Logica computationala si inteligenta artificiala",
+      "code": null,
+      "url": "https://www.studocu.com/ro/course/universitatea-hyperion/logica-computationala-si-inteligenta-artificiala/3666576"
+    },
+    {
+      "name": "Logica computationala si inteligente artificiala",
+      "code": null,
+      "url": "https://www.studocu.com/ro/course/universitatea-hyperion/logica-computationala-si-inteligente-artificiala/3666607"
+    },
+    {
+      "name": "Logică juridică",
+      "code": "SD.III.06.07",
+      "url": "https://www.studocu.com/ro/course/universitatea-hyperion/logica-juridica/3666760"
+    },
+    {
+      "name": "Macroeconomie",
+      "code": null,
+      "url": "https://www.studocu.com/ro/course/universitatea-hyperion/macroeconomie/3666829"
+    },
+    {
+      "name": "Management Bancar",
+      "code": null,
+      "url": "https://www.studocu.com/ro/course/universitatea-hyperion/management-bancar/3666885"
+    },
+    {
+      "name": "Managementul Calității",
+      "code": null,
+      "url": "https://www.studocu.com/ro/course/universitatea-hyperion/managementul-calitatii/3666867"
+    },
+    {
+      "name": "Managementul proiectelor",
+      "code": null,
+      "url": "https://www.studocu.com/ro/course/universitatea-hyperion/managementul-proiectelor/3666574"
+    },
+    {
+      "name": "Managementul Resurselor Umane",
+      "code": null,
+      "url": "https://www.studocu.com/ro/course/universitatea-hyperion/managementul-resurselor-umane/3666890"
+    },
+    {
+      "name": "Marketing Internațional",
+      "code": null,
+      "url": "https://www.studocu.com/ro/course/universitatea-hyperion/marketing-international/3666898"
+    },
+    {
+      "name": "Masurari si traductoare",
+      "code": null,
+      "url": "https://www.studocu.com/ro/course/universitatea-hyperion/masurari-si-traductoare/3666558"
+    },
+    {
+      "name": "Matematică Aplicată În Economie",
+      "code": null,
+      "url": "https://www.studocu.com/ro/course/universitatea-hyperion/matematica-aplicata-in-economie/3666825"
+    },
+    {
+      "name": "Mecanica",
+      "code": null,
+      "url": "https://www.studocu.com/ro/course/universitatea-hyperion/mecanica/3666534"
+    },
+    {
+      "name": "Mecanisme psihice",
+      "code": null,
+      "url": "https://www.studocu.com/ro/course/universitatea-hyperion/mecanisme-psihice/3666785"
+    },
+    {
+      "name": "Mecatronica si robotica",
+      "code": null,
+      "url": "https://www.studocu.com/ro/course/universitatea-hyperion/mecatronica-si-robotica/3666539"
+    },
+    {
+      "name": "Metodologia cercetării ştiinţifice în psihologie",
+      "code": null,
+      "url": "https://www.studocu.com/ro/course/universitatea-hyperion/metodologia-cercetarii-stiintifice-in-psihologie/3666804"
+    },
+    {
+      "name": "Microeconomie",
+      "code": null,
+      "url": "https://www.studocu.com/ro/course/universitatea-hyperion/microeconomie/3666556"
+    },
+    {
+      "name": "Modelare si simulare",
+      "code": null,
+      "url": "https://www.studocu.com/ro/course/universitatea-hyperion/modelare-si-simulare/3666563"
+    },
+    {
+      "name": "Modelarea Deciziei Financiar - Monetare",
+      "code": null,
+      "url": "https://www.studocu.com/ro/course/universitatea-hyperion/modelarea-deciziei-financiar-monetare/3666886"
+    },
+    {
+      "name": "Neuropsihologie",
+      "code": null,
+      "url": "https://www.studocu.com/ro/course/universitatea-hyperion/neuropsihologie/3666784"
+    },
+    {
+      "name": "Organizator protocol",
+      "code": "241.909",
+      "url": "https://www.studocu.com/ro/course/universitatea-hyperion/organizator-protocol/3666711"
+    },
+    {
+      "name": "Politici comparate (teorii și metode)",
+      "code": null,
+      "url": "https://www.studocu.com/ro/course/universitatea-hyperion/politici-comparate-teorii-si-metode/3666672"
+    },
+    {
+      "name": "Politici regionale",
+      "code": null,
+      "url": "https://www.studocu.com/ro/course/universitatea-hyperion/politici-regionale/3666677"
+    },
+    {
+      "name": "Practică de specialitate",
+      "code": "SD.II.04.11",
+      "url": "https://www.studocu.com/ro/course/universitatea-hyperion/practica-de-specialitate/3666751"
+    },
+    {
+      "name": "Practică profesională",
+      "code": null,
+      "url": "https://www.studocu.com/ro/course/universitatea-hyperion/practica-profesionala/3666800"
+    },
+    {
+      "name": "Prețuri Și Concurență",
+      "code": null,
+      "url": "https://www.studocu.com/ro/course/universitatea-hyperion/preturi-si-concurenta/3666881"
+    },
+    {
+      "name": "Programarea calculatoarelor 1",
+      "code": null,
+      "url": "https://www.studocu.com/ro/course/universitatea-hyperion/programarea-calculatoarelor-1/3666531"
+    },
+    {
+      "name": "Proiect BD",
+      "code": null,
+      "url": "https://www.studocu.com/ro/course/universitatea-hyperion/proiect-bd/3666566"
+    },
+    {
+      "name": "Proiect SITI S P",
+      "code": null,
+      "url": "https://www.studocu.com/ro/course/universitatea-hyperion/proiect-siti-s-p/3666580"
+    },
+    {
+      "name": "Protecție Socială Și Pensii Private",
+      "code": null,
+      "url": "https://www.studocu.com/ro/course/universitatea-hyperion/protectie-sociala-si-pensii-private/3666887"
+    },
+    {
+      "name": "Psihodiagnoza personalităţii",
+      "code": null,
+      "url": "https://www.studocu.com/ro/course/universitatea-hyperion/psihodiagnoza-personalitatii/3666809"
+    },
+    {
+      "name": "Psihologia adicţiei",
+      "code": null,
+      "url": "https://www.studocu.com/ro/course/universitatea-hyperion/psihologia-adictiei/3666806"
+    },
+    {
+      "name": "Psihologia adultului şi a vârstnicului",
+      "code": null,
+      "url": "https://www.studocu.com/ro/course/universitatea-hyperion/psihologia-adultului-si-a-varstnicului/3666795"
+    },
+    {
+      "name": "Psihologia copilului şi adolescentului",
+      "code": null,
+      "url": "https://www.studocu.com/ro/course/universitatea-hyperion/psihologia-copilului-si-adolescentului/3666793"
+    },
+    {
+      "name": "Psihologia cuplului si a familiei",
+      "code": null,
+      "url": "https://www.studocu.com/ro/course/universitatea-hyperion/psihologia-cuplului-si-a-familiei/3666815"
+    },
+    {
+      "name": "Psihologia educaţiei",
+      "code": null,
+      "url": "https://www.studocu.com/ro/course/universitatea-hyperion/psihologia-educatiei/3666796"
+    },
+    {
+      "name": "psihologia sociala",
+      "code": "psyc 2441",
+      "url": "https://www.studocu.com/ro/course/universitatea-hyperion/psihologia-sociala/4518241"
+    },
+    {
+      "name": "Psihologia socială",
+      "code": null,
+      "url": "https://www.studocu.com/ro/course/universitatea-hyperion/psihologia-sociala/3666798"
+    },
+    {
+      "name": "Psihologie clinică",
+      "code": null,
+      "url": "https://www.studocu.com/ro/course/universitatea-hyperion/psihologie-clinica/3666801"
+    },
+    {
+      "name": "Psihologie generală",
+      "code": null,
+      "url": "https://www.studocu.com/ro/course/universitatea-hyperion/psihologie-generala/3666783"
+    },
+    {
+      "name": "Psihologie interculturală",
+      "code": null,
+      "url": "https://www.studocu.com/ro/course/universitatea-hyperion/psihologie-interculturala/3666817"
+    },
+    {
+      "name": "Psihologie judiciară",
+      "code": null,
+      "url": "https://www.studocu.com/ro/course/universitatea-hyperion/psihologie-judiciara/3666823"
+    },
+    {
+      "name": "Psihologie organizaţională şi managerială",
+      "code": null,
+      "url": "https://www.studocu.com/ro/course/universitatea-hyperion/psihologie-organizationala-si-manageriala/3666812"
+    },
+    {
+      "name": "Psihoterapie",
+      "code": null,
+      "url": "https://www.studocu.com/ro/course/universitatea-hyperion/psihoterapie/3666799"
+    },
+    {
+      "name": "Referent de specialitate (studii superioare)",
+      "code": "244.703",
+      "url": "https://www.studocu.com/ro/course/universitatea-hyperion/referent-de-specialitate-studii-superioare/3666716"
+    },
+    {
+      "name": "Reglementări în scopul prevenirii şi combaterii corupţiei în mediul de afaceri",
+      "code": "MST.PA.II.01.08",
+      "url": "https://www.studocu.com/ro/course/universitatea-hyperion/reglementari-in-scopul-prevenirii-si-combaterii-coruptiei-in-mediul-de-afaceri/3666724"
+    },
+    {
+      "name": "Retele de calculatoare",
+      "code": null,
+      "url": "https://www.studocu.com/ro/course/universitatea-hyperion/retele-de-calculatoare/3666577"
+    },
+    {
+      "name": "Retorică",
+      "code": "SD.II.02.15",
+      "url": "https://www.studocu.com/ro/course/universitatea-hyperion/retorica/3666739"
+    },
+    {
+      "name": "Secretar organizatie umanitara",
+      "code": "111.434",
+      "url": "https://www.studocu.com/ro/course/universitatea-hyperion/secretar-organizatie-umanitara/3666701"
+    },
+    {
+      "name": "Sef cancelarie",
+      "code": "112.03",
+      "url": "https://www.studocu.com/ro/course/universitatea-hyperion/sef-cancelarie/3666703"
+    },
+    {
+      "name": "Sisteme automate cu esantionare",
+      "code": null,
+      "url": "https://www.studocu.com/ro/course/universitatea-hyperion/sisteme-automate-cu-esantionare/3666567"
+    },
+    {
+      "name": "Sisteme informatice aplicate",
+      "code": null,
+      "url": "https://www.studocu.com/ro/course/universitatea-hyperion/sisteme-informatice-aplicate/3666573"
+    },
+    {
+      "name": "Sisteme Informatice De Asistare A Deciziilor",
+      "code": null,
+      "url": "https://www.studocu.com/ro/course/universitatea-hyperion/sisteme-informatice-de-asistare-a-deciziilor/3666883"
+    },
+    {
+      "name": "Sisteme Informatice De Gestiune",
+      "code": null,
+      "url": "https://www.studocu.com/ro/course/universitatea-hyperion/sisteme-informatice-de-gestiune/3666863"
+    },
+    {
+      "name": "Sisteme mecatronice avansate",
+      "code": null,
+      "url": "https://www.studocu.com/ro/course/universitatea-hyperion/sisteme-mecatronice-avansate/3666583"
+    },
+    {
+      "name": "Sociologie juridică",
+      "code": "SD.II.04.12",
+      "url": "https://www.studocu.com/ro/course/universitatea-hyperion/sociologie-juridica/3666752"
+    },
+    {
+      "name": "Statistică",
+      "code": null,
+      "url": "https://www.studocu.com/ro/course/universitatea-hyperion/statistica/3666827"
+    },
+    {
+      "name": "Tehnica Plăţilor Si Finanţărilor Tranzacţiilor Internaţionale",
+      "code": null,
+      "url": "https://www.studocu.com/ro/course/universitatea-hyperion/tehnica-platilor-si-finantarilor-tranzactiilor-internationale/3666877"
+    },
+    {
+      "name": "Tehnici de Diagnoză și Decizie",
+      "code": "TDD 2020",
+      "url": "https://www.studocu.com/ro/course/universitatea-hyperion/tehnici-de-diagnoza-si-decizie/4404779"
+    },
+    {
+      "name": "Teoria generală a dreptului",
+      "code": "SD.I.01.01",
+      "url": "https://www.studocu.com/ro/course/universitatea-hyperion/teoria-generala-a-dreptului/3666726"
+    },
+    {
+      "name": "Teorii politice feministe",
+      "code": null,
+      "url": "https://www.studocu.com/ro/course/universitatea-hyperion/teorii-politice-feministe/3666674"
+    },
+    {
+      "name": "Transporturi Internaţionale",
+      "code": null,
+      "url": "https://www.studocu.com/ro/course/universitatea-hyperion/transporturi-internationale/3666874"
+    },
+    {
+      "name": "Tranzacții Comerciale",
+      "code": null,
+      "url": "https://www.studocu.com/ro/course/universitatea-hyperion/tranzactii-comerciale/3666865"
+    }
+  ]
+}

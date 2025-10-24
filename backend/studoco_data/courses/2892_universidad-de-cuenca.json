@@ -1,0 +1,4261 @@
+{
+  "university_id": "2892",
+  "university_name": "Universidad de Cuenca",
+  "courses": [
+    {
+      "name": "Abastecimiento de agua potable",
+      "code": "AAP",
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/abastecimiento-de-agua-potable/4294688"
+    },
+    {
+      "name": "Administracion de Empresas de la Hospitalidad",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/administracion-de-empresas-de-la-hospitalidad/4129982"
+    },
+    {
+      "name": "Administracion de Empresas Turisticas",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/administracion-de-empresas-turisticas/4129983"
+    },
+    {
+      "name": "Administracion de la Produccion y Logistica",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/administracion-de-la-produccion-y-logistica/4129984"
+    },
+    {
+      "name": "Administracion de Proyectos",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/administracion-de-proyectos/4129985"
+    },
+    {
+      "name": "Administracion Financiera",
+      "code": "A F",
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/administracion-financiera/3722150"
+    },
+    {
+      "name": "Administracion Financiera I",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/administracion-financiera-i/4129990"
+    },
+    {
+      "name": "Administracion Financiera II",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/administracion-financiera-ii/4129991"
+    },
+    {
+      "name": "Administracion I",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/administracion-i/4129993"
+    },
+    {
+      "name": "Administracion II",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/administracion-ii/4129994"
+    },
+    {
+      "name": "Administración de Servicios de Alimentación y Nutrición",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/administracion-de-servicios-de-alimentacion-y-nutricion/4129986"
+    },
+    {
+      "name": "Administración de un Centro Fonoaudiológico",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/administracion-de-un-centro-fonoaudiologico/4129987"
+    },
+    {
+      "name": "Agricultura Alternativa",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/agricultura-alternativa/4129999"
+    },
+    {
+      "name": "Agricultura de Clima Frio",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/agricultura-de-clima-frio/4130000"
+    },
+    {
+      "name": "Agricultura General",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/agricultura-general/4130001"
+    },
+    {
+      "name": "Agroecologia",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/agroecologia/4130003"
+    },
+    {
+      "name": "Agroforesteria",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/agroforesteria/4130004"
+    },
+    {
+      "name": "Ajedrez",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/ajedrez/4130006"
+    },
+    {
+      "name": "Alcantarillado",
+      "code": "Alc",
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/alcantarillado/4294689"
+    },
+    {
+      "name": "Algebra lineal",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/algebra-lineal/3239530"
+    },
+    {
+      "name": "Alimentacion Masiva",
+      "code": "AlimMasiva",
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/alimentacion-masiva/3731424"
+    },
+    {
+      "name": "Analisis Biológico I",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/analisis-biologico-i/4130014"
+    },
+    {
+      "name": "Analisis de Alimentos",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/analisis-de-alimentos/4130016"
+    },
+    {
+      "name": "Analisis Financiero",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/analisis-financiero/4130020"
+    },
+    {
+      "name": "Anatomia I",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/anatomia-i/4130029"
+    },
+    {
+      "name": "Anatomia II",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/anatomia-ii/4130030"
+    },
+    {
+      "name": "Anatomia Patolog.general I",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/anatomia-patologgeneral-i/4130033"
+    },
+    {
+      "name": "Anatomía Humana I",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/anatomia-humana-i/4130027"
+    },
+    {
+      "name": "Anatomía Humana II",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/anatomia-humana-ii/4130028"
+    },
+    {
+      "name": "Anatomía Imagenológica I",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/anatomia-imagenologica-i/4130031"
+    },
+    {
+      "name": "Anatomía Imagenológica II",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/anatomia-imagenologica-ii/4130032"
+    },
+    {
+      "name": "Anestesiología",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/anestesiologia/4130035"
+    },
+    {
+      "name": "Animación y Manejo de Grupos",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/animacion-y-manejo-de-grupos/4130036"
+    },
+    {
+      "name": "Animales de Granja",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/animales-de-granja/4130038"
+    },
+    {
+      "name": "Antropologia I",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/antropologia-i/4130041"
+    },
+    {
+      "name": "Antropología Aplicada a la Profesión",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/antropologia-aplicada-a-la-profesion/4130039"
+    },
+    {
+      "name": "Análisis de Datos",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/analisis-de-datos/4130017"
+    },
+    {
+      "name": "Análisis de Medicamentos",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/analisis-de-medicamentos/4130018"
+    },
+    {
+      "name": "Análisis de Mensajes",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/analisis-de-mensajes/4130019"
+    },
+    {
+      "name": "Análisis Instrumental",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/analisis-instrumental/4130021"
+    },
+    {
+      "name": "Análisis Numérico",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/analisis-numerico/4130025"
+    },
+    {
+      "name": "Análisis Vectorial",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/analisis-vectorial/4130026"
+    },
+    {
+      "name": "Aplicacion en la Operacion de Cocina, de Restaurantes y Catering",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/aplicacion-en-la-operacion-de-cocina-de-restaurantes-y-catering/4130043"
+    },
+    {
+      "name": "Areas Protegidas",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/areas-protegidas/4130044"
+    },
+    {
+      "name": "Arqueología",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/arqueologia/4130045"
+    },
+    {
+      "name": "Atención Temprana en Trastornos del Neurodesarrollo Infantil I",
+      "code": "Grupo 1",
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/atencion-temprana-en-trastornos-del-neurodesarrollo-infantil-i/6933263"
+    },
+    {
+      "name": "Audioprótesis e Implante Coclear",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/audioprotesis-e-implante-coclear/4130049"
+    },
+    {
+      "name": "Auditoria de Gestion I",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/auditoria-de-gestion-i/4130050"
+    },
+    {
+      "name": "Auditoria de Gestion II",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/auditoria-de-gestion-ii/4130051"
+    },
+    {
+      "name": "Auditoria de Marketing",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/auditoria-de-marketing/4130052"
+    },
+    {
+      "name": "Auditoria Financiera I",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/auditoria-financiera-i/4130053"
+    },
+    {
+      "name": "Auditoria Financiera II",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/auditoria-financiera-ii/4130054"
+    },
+    {
+      "name": "auxiliar de odontologia",
+      "code": "Aux. Odonto",
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/auxiliar-de-odontologia/6753460"
+    },
+    {
+      "name": "Avaluos y Peritajes",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/avaluos-y-peritajes/4130055"
+    },
+    {
+      "name": "Avicultura",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/avicultura/4130056"
+    },
+    {
+      "name": "Álgebra",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/algebra/4130007"
+    },
+    {
+      "name": "Bacteriología",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/bacteriologia/4130057"
+    },
+    {
+      "name": "BACTERIOLOGíA CLÍNICA",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/bacteriologia-clinica/4130058"
+    },
+    {
+      "name": "Balances de Materia y Energía",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/balances-de-materia-y-energia/4130060"
+    },
+    {
+      "name": "Baloncesto I",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/baloncesto-i/4130061"
+    },
+    {
+      "name": "Bases Bioquímicas de la Actividad Física",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/bases-bioquimicas-de-la-actividad-fisica/4130063"
+    },
+    {
+      "name": "Bases de Historia del Arte y la Cultura Universal",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/bases-de-historia-del-arte-y-la-cultura-universal/4130064"
+    },
+    {
+      "name": "Bases Diagnósticas en Citogenética",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/bases-diagnosticas-en-citogenetica/4130065"
+    },
+    {
+      "name": "Bebidas Alcoholicas y no Alcoholicas",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/bebidas-alcoholicas-y-no-alcoholicas/4130066"
+    },
+    {
+      "name": "Bioestadistica I",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/bioestadistica-i/4130069"
+    },
+    {
+      "name": "Bioestadistica II",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/bioestadistica-ii/4130070"
+    },
+    {
+      "name": "Bioestadística",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/bioestadistica/4130068"
+    },
+    {
+      "name": "Bioestadística y Computación",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/bioestadistica-y-computacion/4130071"
+    },
+    {
+      "name": "BIOFARMACIA",
+      "code": "BIOFARMB18",
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/biofarmacia/3302173"
+    },
+    {
+      "name": "Biofarmacia y Farmacocinética clinica",
+      "code": "BIOFARMA",
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/biofarmacia-y-farmacocinetica-clinica/6595196"
+    },
+    {
+      "name": "Biofísica",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/biofisica/4130073"
+    },
+    {
+      "name": "Biogeografía",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/biogeografia/2698869"
+    },
+    {
+      "name": "Biologia del Medio Ambiente",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/biologia-del-medio-ambiente/4130077"
+    },
+    {
+      "name": "Biología Celular",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/biologia-celular/4130076"
+    },
+    {
+      "name": "Biología Molecular",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/biologia-molecular/4130078"
+    },
+    {
+      "name": "Biología y Genética",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/biologia-y-genetica/4130079"
+    },
+    {
+      "name": "Biomecanica",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/biomecanica/4130080"
+    },
+    {
+      "name": "Bioquimica II",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/bioquimica-ii/4130090"
+    },
+    {
+      "name": "Bioquimica Vegetal",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/bioquimica-vegetal/4130091"
+    },
+    {
+      "name": "Bioquímica",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/bioquimica/4130081"
+    },
+    {
+      "name": "Bioquímica Aplicada",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/bioquimica-aplicada/4130082"
+    },
+    {
+      "name": "Bioquímica Clínica II",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/bioquimica-clinica-ii/4130084"
+    },
+    {
+      "name": "Bioquímica de Alimentos",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/bioquimica-de-alimentos/4130085"
+    },
+    {
+      "name": "Bioquímica Diagnóstica",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/bioquimica-diagnostica/4130086"
+    },
+    {
+      "name": "Bioquímica Dinámica",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/bioquimica-dinamica/4130087"
+    },
+    {
+      "name": "Bioquímica Estática",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/bioquimica-estatica/4130088"
+    },
+    {
+      "name": "Bioquímica I",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/bioquimica-i/4130089"
+    },
+    {
+      "name": "Bioquímica-inmunología,hematología",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/bioquimica-inmunologiahematologia/4130092"
+    },
+    {
+      "name": "Biorremediación",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/biorremediacion/4130093"
+    },
+    {
+      "name": "Bioseguridad de los alimentos",
+      "code": "Nutrición, Bio",
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/bioseguridad-de-los-alimentos/5153749"
+    },
+    {
+      "name": "Biotecnologia II",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/biotecnologia-ii/4130096"
+    },
+    {
+      "name": "Biotecnología",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/biotecnologia/4130094"
+    },
+    {
+      "name": "Bioética",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/bioetica/4130072"
+    },
+    {
+      "name": "Botanica General",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/botanica-general/4130098"
+    },
+    {
+      "name": "Botanica Sistematica",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/botanica-sistematica/4130099"
+    },
+    {
+      "name": "Botánica",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/botanica/4130097"
+    },
+    {
+      "name": "Bovinos: Leche y Carne",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/bovinos-leche-y-carne/4130100"
+    },
+    {
+      "name": "Bromatologia y Conservacion de Alimentos",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/bromatologia-y-conservacion-de-alimentos/4130102"
+    },
+    {
+      "name": "Bromatología",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/bromatologia/4130101"
+    },
+    {
+      "name": "Calculo Diferencial",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/calculo-diferencial/4130103"
+    },
+    {
+      "name": "Calculo integral",
+      "code": "19800",
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/calculo-integral/3795827"
+    },
+    {
+      "name": "Calculo y Diseño de Experimentos",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/calculo-y-diseno-de-experimentos/4130105"
+    },
+    {
+      "name": "CALIDAD y TRATAMIENTO DEL AGUA",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/calidad-y-tratamiento-del-agua/4130106"
+    },
+    {
+      "name": "Calidad y Tratamiento del Aire",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/calidad-y-tratamiento-del-aire/4130107"
+    },
+    {
+      "name": "Cartografía",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/cartografia/2698870"
+    },
+    {
+      "name": "Casos Clínicos",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/casos-clinicos/4130108"
+    },
+    {
+      "name": "Catálisis",
+      "code": "1",
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/catalisis/2246526"
+    },
+    {
+      "name": "Ciencia de los Materiales",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/ciencia-de-los-materiales/4130109"
+    },
+    {
+      "name": "Ciencia Politica",
+      "code": "Curso 2018-2018",
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/ciencia-politica/4344808"
+    },
+    {
+      "name": "Cinetica quimica",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/cinetica-quimica/3247487"
+    },
+    {
+      "name": "Cirugia",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/cirugia/4130110"
+    },
+    {
+      "name": "Cirugia oral",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/cirugia-oral/3584363"
+    },
+    {
+      "name": "Cirugía y Cirugía Experimental",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/cirugia-y-cirugia-experimental/4130113"
+    },
+    {
+      "name": "Clasificacion y Mapeo de Suelos",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/clasificacion-y-mapeo-de-suelos/4130114"
+    },
+    {
+      "name": "Clinica",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/clinica/4130115"
+    },
+    {
+      "name": "Clinica Mayor",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/clinica-mayor/4130116"
+    },
+    {
+      "name": "Cobayos",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/cobayos/3269395"
+    },
+    {
+      "name": "Cocina Internacional: Asia, India, Oceania",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/cocina-internacional-asia-india-oceania/4130120"
+    },
+    {
+      "name": "Comportamiento del Consumidor",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/comportamiento-del-consumidor/4130124"
+    },
+    {
+      "name": "Comportamiento Organizacional",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/comportamiento-organizacional/4130125"
+    },
+    {
+      "name": "Comportamiento Organizacional Ii/ii",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/comportamiento-organizacional-iiii/4130127"
+    },
+    {
+      "name": "Comunicacion Comercial",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/comunicacion-comercial/4130128"
+    },
+    {
+      "name": "Comunicación Científica",
+      "code": "14499",
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/comunicacion-cientifica/4162924"
+    },
+    {
+      "name": "Comunicación Educativa",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/comunicacion-educativa/4130129"
+    },
+    {
+      "name": "Comunicación Efectiva.",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/comunicacion-efectiva/4130130"
+    },
+    {
+      "name": "Conservacion de Suelos",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/conservacion-de-suelos/4130135"
+    },
+    {
+      "name": "Construcciones 1",
+      "code": "Arquitectura 1",
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/construcciones-1/4170557"
+    },
+    {
+      "name": "Construcciones 3",
+      "code": "10552",
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/construcciones-3/4194738"
+    },
+    {
+      "name": "Construcciones Rurales",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/construcciones-rurales/4130136"
+    },
+    {
+      "name": "Contabilidad Aplicada: Construcciones",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/contabilidad-aplicada-construcciones/4130139"
+    },
+    {
+      "name": "Contabilidad Aplicada: Hotelera y de Salud",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/contabilidad-aplicada-hotelera-y-de-salud/4130140"
+    },
+    {
+      "name": "Contabilidad Aplicada: Sector Extractivo",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/contabilidad-aplicada-sector-extractivo/4130141"
+    },
+    {
+      "name": "Contabilidad de Costos",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/contabilidad-de-costos/4130142"
+    },
+    {
+      "name": "Contabilidad del Sector Financiero",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/contabilidad-del-sector-financiero/4130143"
+    },
+    {
+      "name": "Contabilidad General",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/contabilidad-general/4130144"
+    },
+    {
+      "name": "Contabilidad Gerencial",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/contabilidad-gerencial/4130145"
+    },
+    {
+      "name": "Contabilidad Gubernamental I",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/contabilidad-gubernamental-i/4130146"
+    },
+    {
+      "name": "Contabilidad Gubernamental II",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/contabilidad-gubernamental-ii/4130147"
+    },
+    {
+      "name": "Contabilidad I",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/contabilidad-i/4130148"
+    },
+    {
+      "name": "Contabilidad II",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/contabilidad-ii/4130149"
+    },
+    {
+      "name": "Contabilidad III",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/contabilidad-iii/4130150"
+    },
+    {
+      "name": "Contabilidad Societaria",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/contabilidad-societaria/4130151"
+    },
+    {
+      "name": "Contabilidad y Finanzas a Corto y Largo Plazo",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/contabilidad-y-finanzas-a-corto-y-largo-plazo/4130152"
+    },
+    {
+      "name": "Control de Calidad",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/control-de-calidad/4130153"
+    },
+    {
+      "name": "Control Interno y Gestion de Riesgo",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/control-interno-y-gestion-de-riesgo/4130155"
+    },
+    {
+      "name": "Corrientes de Teoria y Critica Literaria",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/corrientes-de-teoria-y-critica-literaria/4130158"
+    },
+    {
+      "name": "Costos",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/costos/4130159"
+    },
+    {
+      "name": "Costos I",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/costos-i/4130160"
+    },
+    {
+      "name": "Costos II",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/costos-ii/4130161"
+    },
+    {
+      "name": "Costos y Presupuestos",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/costos-y-presupuestos/4130162"
+    },
+    {
+      "name": "Costos y Presupuestos de Producción",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/costos-y-presupuestos-de-produccion/4130163"
+    },
+    {
+      "name": "Costos y Presupuestos en Operaciones Gastronómicas (compras y Almacen)",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/costos-y-presupuestos-en-operaciones-gastronomicas-compras-y-almacen/4130165"
+    },
+    {
+      "name": "Crecimiento Economico",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/crecimiento-economico/4130166"
+    },
+    {
+      "name": "Crecimiento y Desarrollo",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/crecimiento-y-desarrollo/4130167"
+    },
+    {
+      "name": "Crecimiento y Desarrollo I",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/crecimiento-y-desarrollo-i/4130168"
+    },
+    {
+      "name": "Crecimiento y Desarrollo II",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/crecimiento-y-desarrollo-ii/4130169"
+    },
+    {
+      "name": "Cultivos Tropicales",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/cultivos-tropicales/4130170"
+    },
+    {
+      "name": "Cultura Aplicada a las Ciencias de la Hospitalidad",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/cultura-aplicada-a-las-ciencias-de-la-hospitalidad/4130171"
+    },
+    {
+      "name": "Cultura Ecuatoriana",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/cultura-ecuatoriana/4130172"
+    },
+    {
+      "name": "Cultura Fisica II",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/cultura-fisica-ii/4130174"
+    },
+    {
+      "name": "Cultura Física I",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/cultura-fisica-i/4130173"
+    },
+    {
+      "name": "Culture and civilization of English Speaking Countries",
+      "code": "8582",
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/culture-and-civilization-of-english-speaking-countries/4239415"
+    },
+    {
+      "name": "Currículo",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/curriculo/4130177"
+    },
+    {
+      "name": "Demografia",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/demografia/4130178"
+    },
+    {
+      "name": "Deontología de la Comunicación",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/deontologia-de-la-comunicacion/4130179"
+    },
+    {
+      "name": "Deontología y Administración",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/deontologia-y-administracion/4130180"
+    },
+    {
+      "name": "Deportes de Combate I",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/deportes-de-combate-i/4130181"
+    },
+    {
+      "name": "Derecho Administrativo II",
+      "code": "6274",
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/derecho-administrativo-ii/4331787"
+    },
+    {
+      "name": "Derecho Civil",
+      "code": "D.C",
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/derecho-civil/3551631"
+    },
+    {
+      "name": "Derecho Civil Bienes I",
+      "code": "6283",
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/derecho-civil-bienes-i/4331778"
+    },
+    {
+      "name": "Derecho colectivo y seguridad social",
+      "code": "5029",
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/derecho-colectivo-y-seguridad-social/3223459"
+    },
+    {
+      "name": "Derecho Comercial",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/derecho-comercial/4130183"
+    },
+    {
+      "name": "Derecho Constitucional II",
+      "code": "9608",
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/derecho-constitucional-ii/4331791"
+    },
+    {
+      "name": "Derecho deportivo",
+      "code": "Ec-03-01",
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/derecho-deportivo/7233590"
+    },
+    {
+      "name": "Derecho Economico Empresarial I",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/derecho-economico-empresarial-i/4130184"
+    },
+    {
+      "name": "Derecho Economico Empresarial II",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/derecho-economico-empresarial-ii/4130185"
+    },
+    {
+      "name": "Derecho Internacional",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/derecho-internacional/4130186"
+    },
+    {
+      "name": "Derecho Internacional Publico I",
+      "code": "10405",
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/derecho-internacional-publico-i/4331781"
+    },
+    {
+      "name": "Derecho Laboral",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/derecho-laboral/4130187"
+    },
+    {
+      "name": "Derecho Penal",
+      "code": "Derecho Procesal 1",
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/derecho-penal/4194131"
+    },
+    {
+      "name": "Derecho Procesal Civil",
+      "code": "Derecho civil",
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/derecho-procesal-civil/7476749"
+    },
+    {
+      "name": "Derecho Tributario",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/derecho-tributario/4130188"
+    },
+    {
+      "name": "Desarrollo Comunitario",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/desarrollo-comunitario/4130189"
+    },
+    {
+      "name": "Desarrollo de Emprendedores",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/desarrollo-de-emprendedores/4130190"
+    },
+    {
+      "name": "Desarrollo de la Niñez y Adolescencia",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/desarrollo-de-la-ninez-y-adolescencia/4130191"
+    },
+    {
+      "name": "Desarrollo del Capitalismo Mundial Ii/iv",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/desarrollo-del-capitalismo-mundial-iiiv/4130193"
+    },
+    {
+      "name": "Desarrollo del Pensamiento",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/desarrollo-del-pensamiento/2698873"
+    },
+    {
+      "name": "Desarrollo del Pensamiento: Habilidades Cognitivas y Sociales",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/desarrollo-del-pensamiento-habilidades-cognitivas-y-sociales/4130196"
+    },
+    {
+      "name": "Desarrollo Organizacional y Recursos Humanos en la Industria de la Hospitalidad",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/desarrollo-organizacional-y-recursos-humanos-en-la-industria-de-la-hospitalidad/4130200"
+    },
+    {
+      "name": "Desarrollo Organizacional y Relaciones Humanas en la Industria de la Hospitalidad",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/desarrollo-organizacional-y-relaciones-humanas-en-la-industria-de-la-hospitalidad/4130201"
+    },
+    {
+      "name": "Desarrollo y Estimulacion del Lenguaje Normal y Patologico",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/desarrollo-y-estimulacion-del-lenguaje-normal-y-patologico/4130202"
+    },
+    {
+      "name": "Diagnostico Fonoaudiologico y Programacion Terapeutica I",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/diagnostico-fonoaudiologico-y-programacion-terapeutica-i/4130204"
+    },
+    {
+      "name": "Dibujo",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/dibujo/4130205"
+    },
+    {
+      "name": "Dibujo Asistido por Computador",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/dibujo-asistido-por-computador/4130206"
+    },
+    {
+      "name": "Didáctica de la Cultura Física",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/didactica-de-la-cultura-fisica/4130207"
+    },
+    {
+      "name": "Didáctica de la Física",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/didactica-de-la-fisica/4130208"
+    },
+    {
+      "name": "Didáctica de la Lengua y Literatura I",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/didactica-de-la-lengua-y-literatura-i/4130209"
+    },
+    {
+      "name": "Didáctica de la Lengua y Literatura II",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/didactica-de-la-lengua-y-literatura-ii/4130210"
+    },
+    {
+      "name": "Didáctica de la Matemática I",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/didactica-de-la-matematica-i/4130211"
+    },
+    {
+      "name": "Didáctica de la Matemática II",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/didactica-de-la-matematica-ii/4130212"
+    },
+    {
+      "name": "Didáctica de las Ciencias Naturales I",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/didactica-de-las-ciencias-naturales-i/4130213"
+    },
+    {
+      "name": "Didáctica de las Ciencias Naturales II",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/didactica-de-las-ciencias-naturales-ii/4130214"
+    },
+    {
+      "name": "Didáctica de las Ciencias Sociales I",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/didactica-de-las-ciencias-sociales-i/4130215"
+    },
+    {
+      "name": "Didáctica de las Ciencias Sociales II",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/didactica-de-las-ciencias-sociales-ii/4130216"
+    },
+    {
+      "name": "Didáctica General",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/didactica-general/4130219"
+    },
+    {
+      "name": "Dietoterapia I",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/dietoterapia-i/4130220"
+    },
+    {
+      "name": "Dietoterapia II",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/dietoterapia-ii/4130221"
+    },
+    {
+      "name": "Dinámica",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/dinamica/4130223"
+    },
+    {
+      "name": "Diseño Curricular",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/diseno-curricular/4130227"
+    },
+    {
+      "name": "Diseño de Máquinas",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/diseno-de-maquinas/4130228"
+    },
+    {
+      "name": "Diseño de pavimentos",
+      "code": "DisPav1",
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/diseno-de-pavimentos/4292900"
+    },
+    {
+      "name": "Diseño de Trabajo de Titulación",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/diseno-de-trabajo-de-titulacion/4130229"
+    },
+    {
+      "name": "Diseño Experimental",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/diseno-experimental/4130230"
+    },
+    {
+      "name": "Diseño Industrial cad",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/diseno-industrial-cad/4130231"
+    },
+    {
+      "name": "Diseño y Calculo de Plantas Industriales",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/diseno-y-calculo-de-plantas-industriales/4130232"
+    },
+    {
+      "name": "Diseño y Gestión de Proyectos",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/diseno-y-gestion-de-proyectos/4130234"
+    },
+    {
+      "name": "Distribucion",
+      "code": "2015",
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/distribucion/7250909"
+    },
+    {
+      "name": "Ecologia",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/ecologia/4130235"
+    },
+    {
+      "name": "Ecologia General",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/ecologia-general/4130237"
+    },
+    {
+      "name": "Ecologia y Turismo",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/ecologia-y-turismo/4130238"
+    },
+    {
+      "name": "Ecología Aplicada",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/ecologia-aplicada/4130236"
+    },
+    {
+      "name": "Econometria I/iii",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/econometria-iiii/4130239"
+    },
+    {
+      "name": "Econometria Ii/iii",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/econometria-iiiii/4130240"
+    },
+    {
+      "name": "Econometria Iii/iii",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/econometria-iiiiii/4130241"
+    },
+    {
+      "name": "Economia del Turismo",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/economia-del-turismo/4130243"
+    },
+    {
+      "name": "Economia Ecuatoriana",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/economia-ecuatoriana/4130244"
+    },
+    {
+      "name": "Economia Empresarial",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/economia-empresarial/4130245"
+    },
+    {
+      "name": "Economia Internacional",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/economia-internacional/4130248"
+    },
+    {
+      "name": "Economia Matematica",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/economia-matematica/4130249"
+    },
+    {
+      "name": "Economia Politica I",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/economia-politica-i/4130250"
+    },
+    {
+      "name": "Economia Politica II",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/economia-politica-ii/4130251"
+    },
+    {
+      "name": "Economia Publica y Regulacion",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/economia-publica-y-regulacion/4130252"
+    },
+    {
+      "name": "Economia Social y Solidaria",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/economia-social-y-solidaria/4130253"
+    },
+    {
+      "name": "Economia Turistica",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/economia-turistica/4130254"
+    },
+    {
+      "name": "Economia y Administración",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/economia-y-administracion/4130255"
+    },
+    {
+      "name": "Economía Ambiental",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/economia-ambiental/4130242"
+    },
+    {
+      "name": "Economía General",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/economia-general/4130246"
+    },
+    {
+      "name": "Economía Industrial",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/economia-industrial/4130247"
+    },
+    {
+      "name": "Ecuaciones Diferenciales",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/ecuaciones-diferenciales/4130256"
+    },
+    {
+      "name": "Edafologia (suelos i)",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/edafologia-suelos-i/4130257"
+    },
+    {
+      "name": "EDAFOLOGÍA y MANEJO DE SUELOS",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/edafologia-y-manejo-de-suelos/4130258"
+    },
+    {
+      "name": "Educacion fisica",
+      "code": "educacion fisica",
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/educacion-fisica/3504143"
+    },
+    {
+      "name": "Educación",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/educacion/4130259"
+    },
+    {
+      "name": "Educación Ambiental",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/educacion-ambiental/4130261"
+    },
+    {
+      "name": "Educación Intercultural e Inclusiva",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/educacion-intercultural-e-inclusiva/4130262"
+    },
+    {
+      "name": "Educación y Comunicación",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/educacion-y-comunicacion/4130263"
+    },
+    {
+      "name": "Educación y Cultura",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/educacion-y-cultura/4130264"
+    },
+    {
+      "name": "Educación y Diversidad",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/educacion-y-diversidad/4130265"
+    },
+    {
+      "name": "Electricidad, Ondas y Calor",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/electricidad-ondas-y-calor/4130268"
+    },
+    {
+      "name": "Electromagnetismo",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/electromagnetismo/4130269"
+    },
+    {
+      "name": "Electrotecnia",
+      "code": "12762",
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/electrotecnia/4162773"
+    },
+    {
+      "name": "Embriologia",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/embriologia/4130271"
+    },
+    {
+      "name": "Emprendimiento e Innovación",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/emprendimiento-e-innovacion/4130273"
+    },
+    {
+      "name": "Endodoncia",
+      "code": "Odontologia",
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/endodoncia/7467922"
+    },
+    {
+      "name": "Enfermedades Infecciosas I",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/enfermedades-infecciosas-i/4130274"
+    },
+    {
+      "name": "Enfermedades Infecciosas II",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/enfermedades-infecciosas-ii/4130275"
+    },
+    {
+      "name": "Enfermería Básica",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/enfermeria-basica/4130276"
+    },
+    {
+      "name": "Enfermería Clínico Quirúrgico 2",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/enfermeria-clinico-quirurgico-2/4130277"
+    },
+    {
+      "name": "Enfermería Clínico-quirúrgico 1",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/enfermeria-clinico-quirurgico-1/4130278"
+    },
+    {
+      "name": "Enfermería Obstétrica",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/enfermeria-obstetrica/4130279"
+    },
+    {
+      "name": "Enfermería Pediátrica",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/enfermeria-pediatrica/4130280"
+    },
+    {
+      "name": "Entrenamiento Deportivo I",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/entrenamiento-deportivo-i/4130283"
+    },
+    {
+      "name": "Epidemiologia",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/epidemiologia/4130286"
+    },
+    {
+      "name": "Epidemiología y Principios de Salud Pública",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/epidemiologia-y-principios-de-salud-publica/4130287"
+    },
+    {
+      "name": "Epistemologia I",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/epistemologia-i/4130289"
+    },
+    {
+      "name": "Epistemología de las Ciencias",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/epistemologia-de-las-ciencias/4130288"
+    },
+    {
+      "name": "Equinotecnia",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/equinotecnia/4130292"
+    },
+    {
+      "name": "Equipo Industrial",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/equipo-industrial/4130294"
+    },
+    {
+      "name": "Escritura Académica",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/escritura-academica/4130295"
+    },
+    {
+      "name": "Escritura Cientifica",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/escritura-cientifica/4130296"
+    },
+    {
+      "name": "Escritura Científica y Metodología de la Investigación",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/escritura-cientifica-y-metodologia-de-la-investigacion/4130297"
+    },
+    {
+      "name": "Escritura de Ensayos Académicos",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/escritura-de-ensayos-academicos/4130298"
+    },
+    {
+      "name": "Escuela, Contexto y Desarrollo",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/escuela-contexto-y-desarrollo/4130299"
+    },
+    {
+      "name": "Estadistica Aplicada a las Ciencias Sociales",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/estadistica-aplicada-a-las-ciencias-sociales/4130305"
+    },
+    {
+      "name": "Estadistica descriptiva",
+      "code": "esta",
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/estadistica-descriptiva/3722613"
+    },
+    {
+      "name": "Estadistica I",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/estadistica-i/4130310"
+    },
+    {
+      "name": "Estadistica II",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/estadistica-ii/4130311"
+    },
+    {
+      "name": "Estadistica III",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/estadistica-iii/4130312"
+    },
+    {
+      "name": "Estadistica IV",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/estadistica-iv/4130314"
+    },
+    {
+      "name": "Estadística Analítica",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/estadistica-analitica/4130302"
+    },
+    {
+      "name": "Estadística Aplicada",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/estadistica-aplicada/4130303"
+    },
+    {
+      "name": "Estadística Inferencial",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/estadistica-inferencial/4130313"
+    },
+    {
+      "name": "Estimulación Temprana I",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/estimulacion-temprana-i/4130316"
+    },
+    {
+      "name": "Estimulación Temprana II",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/estimulacion-temprana-ii/4130317"
+    },
+    {
+      "name": "Estomatología",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/estomatologia/4130319"
+    },
+    {
+      "name": "Estrategia Competitiva I/ii",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/estrategia-competitiva-iii/4130320"
+    },
+    {
+      "name": "Estrategia de Producto",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/estrategia-de-producto/4130323"
+    },
+    {
+      "name": "Estrategia Empresarial",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/estrategia-empresarial/4130325"
+    },
+    {
+      "name": "Estructuras 2",
+      "code": "2589",
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/estructuras-2/4530117"
+    },
+    {
+      "name": "Estudios de Impacto Ambiental",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/estudios-de-impacto-ambiental/4130331"
+    },
+    {
+      "name": "Estudios Interculturales",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/estudios-interculturales/4130333"
+    },
+    {
+      "name": "Estática y Cinemática",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/estatica-y-cinematica/4130315"
+    },
+    {
+      "name": "Etica Aplicada a la Sociologia",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/etica-aplicada-a-la-sociologia/4130335"
+    },
+    {
+      "name": "Etica profesional, valores y derechos humanos",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/etica-profesional-valores-y-derechos-humanos/2698874"
+    },
+    {
+      "name": "Etica y Ciudadania",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/etica-y-ciudadania/4130341"
+    },
+    {
+      "name": "Etica, Derechos Humanos y Ciudadania",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/etica-derechos-humanos-y-ciudadania/4130345"
+    },
+    {
+      "name": "Etnohistoria",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/etnohistoria/4130346"
+    },
+    {
+      "name": "Etologia",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/etologia/4130348"
+    },
+    {
+      "name": "Evaluacion Financiera de Proyectos Privados",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/evaluacion-financiera-de-proyectos-privados/4130354"
+    },
+    {
+      "name": "Evaluación Ambiental",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/evaluacion-ambiental/4130349"
+    },
+    {
+      "name": "Evaluación del Aprendizaje",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/evaluacion-del-aprendizaje/4130350"
+    },
+    {
+      "name": "Evaluación Educativa",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/evaluacion-educativa/4130353"
+    },
+    {
+      "name": "Exclusion social",
+      "code": "ExSoc1",
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/exclusion-social/4284317"
+    },
+    {
+      "name": "Expresion Oral y Escrita",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/expresion-oral-y-escrita/4130357"
+    },
+    {
+      "name": "Expresión Artística en la Educación",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/expresion-artistica-en-la-educacion/4130356"
+    },
+    {
+      "name": "Extension Rural",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/extension-rural/4130360"
+    },
+    {
+      "name": "Ética Profesional, Valores y Derechos Humanos Para la egb",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/etica-profesional-valores-y-derechos-humanos-para-la-egb/4130339"
+    },
+    {
+      "name": "Ética y Comunicación",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/etica-y-comunicacion/4130343"
+    },
+    {
+      "name": "Facultad de Ciencias Médicas",
+      "code": "001FT",
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/facultad-de-ciencias-medicas/4333182"
+    },
+    {
+      "name": "facultad de jurisprudencia, ciencias politicas y sociales.",
+      "code": "0102997079",
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/facultad-de-jurisprudencia-ciencias-politicas-y-sociales/5403077"
+    },
+    {
+      "name": "Farmacia Clínica",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/farmacia-clinica/4130361"
+    },
+    {
+      "name": "Farmacia Hospitalaria",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/farmacia-hospitalaria/4130362"
+    },
+    {
+      "name": "Farmacocinética Clínica",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/farmacocinetica-clinica/4130363"
+    },
+    {
+      "name": "Farmacognosia y Fitoterapia",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/farmacognosia-y-fitoterapia/4130364"
+    },
+    {
+      "name": "Farmacologia I",
+      "code": "-",
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/farmacologia-i/3534871"
+    },
+    {
+      "name": "Farmacologia y Toxicologia I",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/farmacologia-y-toxicologia-i/4130371"
+    },
+    {
+      "name": "Farmacologia y Toxicologia II",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/farmacologia-y-toxicologia-ii/4130372"
+    },
+    {
+      "name": "Farmacología",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/farmacologia/4130365"
+    },
+    {
+      "name": "Farmacología Aplicada",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/farmacologia-aplicada/4130366"
+    },
+    {
+      "name": "Farmacología Básica",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/farmacologia-basica/4130367"
+    },
+    {
+      "name": "Farmacología II",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/farmacologia-ii/4130369"
+    },
+    {
+      "name": "Filosofía y Educación",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/filosofia-y-educacion/4130374"
+    },
+    {
+      "name": "Finanzas Internacionales",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/finanzas-internacionales/4130375"
+    },
+    {
+      "name": "Finanzas Internacionales I/ii",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/finanzas-internacionales-iii/4130376"
+    },
+    {
+      "name": "Finanzas Internacionales Ii/ii",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/finanzas-internacionales-iiii/4130377"
+    },
+    {
+      "name": "Finanzas Publicas",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/finanzas-publicas/4130378"
+    },
+    {
+      "name": "FISIOLOGIA",
+      "code": "GGGG",
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/fisiologia/3277105"
+    },
+    {
+      "name": "Fisiologia I",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/fisiologia-i/4130391"
+    },
+    {
+      "name": "Fisiologia II",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/fisiologia-ii/4130392"
+    },
+    {
+      "name": "Fisiologia Vegetal",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/fisiologia-vegetal/4130393"
+    },
+    {
+      "name": "Fisiologia y Fisiopatologia Cardioneumo Renal y Digestivo",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/fisiologia-y-fisiopatologia-cardioneumo-renal-y-digestivo/4130394"
+    },
+    {
+      "name": "Fisiologia y Fisiopatologia de Neuro-endocrino",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/fisiologia-y-fisiopatologia-de-neuro-endocrino/4130395"
+    },
+    {
+      "name": "Fisiología del Ejercicio II",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/fisiologia-del-ejercicio-ii/4130389"
+    },
+    {
+      "name": "Fisiopatologia",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/fisiopatologia/4130396"
+    },
+    {
+      "name": "Fisiopatología I",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/fisiopatologia-i/4130397"
+    },
+    {
+      "name": "Fisiopatología II",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/fisiopatologia-ii/4130398"
+    },
+    {
+      "name": "Fisioterapia",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/fisioterapia/4130399"
+    },
+    {
+      "name": "Fisioterapia en Especialidades Clinicas II",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/fisioterapia-en-especialidades-clinicas-ii/4130404"
+    },
+    {
+      "name": "Fitomejoramiento",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/fitomejoramiento/4130405"
+    },
+    {
+      "name": "Fitopatologia General",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/fitopatologia-general/4130406"
+    },
+    {
+      "name": "Flora y Fauna del Ecuador",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/flora-y-fauna-del-ecuador/4130407"
+    },
+    {
+      "name": "Floricultura y Ornamentacion",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/floricultura-y-ornamentacion/4130408"
+    },
+    {
+      "name": "Fonologia y Fonetica",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/fonologia-y-fonetica/4130409"
+    },
+    {
+      "name": "Formatos de Comunicación Digital",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/formatos-de-comunicacion-digital/4130410"
+    },
+    {
+      "name": "Formulacion de Tesis de Grado",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/formulacion-de-tesis-de-grado/4130411"
+    },
+    {
+      "name": "Formulación y Evaluación de Proyectos",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/formulacion-y-evaluacion-de-proyectos/4130412"
+    },
+    {
+      "name": "Fotoperiodismo",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/fotoperiodismo/4130414"
+    },
+    {
+      "name": "Fruticultura",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/fruticultura/4130419"
+    },
+    {
+      "name": "Fuentes no Convencionales de Energía",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/fuentes-no-convencionales-de-energia/4130420"
+    },
+    {
+      "name": "Funciones de Varias Variables",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/funciones-de-varias-variables/4130421"
+    },
+    {
+      "name": "Fundamentos de Mecánica de Medios Continuos",
+      "code": "19264",
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/fundamentos-de-mecanica-de-medios-continuos/7322976"
+    },
+    {
+      "name": "Fundamentos de medios continuos",
+      "code": "FundamentoM",
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/fundamentos-de-medios-continuos/7383161"
+    },
+    {
+      "name": "Fundamentos de Pedagogía",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/fundamentos-de-pedagogia/4130423"
+    },
+    {
+      "name": "Fundamentos de Psicologia",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/fundamentos-de-psicologia/4130425"
+    },
+    {
+      "name": "Futbol III",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/futbol-iii/4130431"
+    },
+    {
+      "name": "Física de Guevara",
+      "code": "001F",
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/fisica-de-guevara/4394685"
+    },
+    {
+      "name": "Física I",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/fisica-i/4130380"
+    },
+    {
+      "name": "Física II",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/fisica-ii/4130381"
+    },
+    {
+      "name": "Física Imagenológica II",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/fisica-imagenologica-ii/4130383"
+    },
+    {
+      "name": "Física Moderna",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/fisica-moderna/4130384"
+    },
+    {
+      "name": "Físico Química",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/fisico-quimica/4130385"
+    },
+    {
+      "name": "Físicoquímica I",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/fisicoquimica-i/4130386"
+    },
+    {
+      "name": "Físicoquímica II",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/fisicoquimica-ii/4130387"
+    },
+    {
+      "name": "Garde Manger, Decoracion, Garnish",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/garde-manger-decoracion-garnish/4130432"
+    },
+    {
+      "name": "Gastronomia Ecuatoriana",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/gastronomia-ecuatoriana/4130433"
+    },
+    {
+      "name": "Genética",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/genetica/4130438"
+    },
+    {
+      "name": "Geografia Politica",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/geografia-politica/4130449"
+    },
+    {
+      "name": "Geografia Rural",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/geografia-rural/4130450"
+    },
+    {
+      "name": "Geografia Turistica",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/geografia-turistica/4130451"
+    },
+    {
+      "name": "Geografia Turistica Ecuador",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/geografia-turistica-ecuador/4130452"
+    },
+    {
+      "name": "Geografia Urbana",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/geografia-urbana/4130455"
+    },
+    {
+      "name": "Geografía Física i, Geología y Geomorfología",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/geografia-fisica-i-geologia-y-geomorfologia/4130447"
+    },
+    {
+      "name": "Geografía Humana del Ecuador",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/geografia-humana-del-ecuador/2698875"
+    },
+    {
+      "name": "GEOLOGÍA y RIESGOS GEOLÓGICOS",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/geologia-y-riesgos-geologicos/4130456"
+    },
+    {
+      "name": "Geometria-trigonometria",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/geometria-trigonometria/4130459"
+    },
+    {
+      "name": "Geometría Analítica",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/geometria-analitica/4130457"
+    },
+    {
+      "name": "Geometría Plana",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/geometria-plana/4130458"
+    },
+    {
+      "name": "Geopolítica",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/geopolitica/4130460"
+    },
+    {
+      "name": "Gerencia",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/gerencia/4130461"
+    },
+    {
+      "name": "Gerencia de Distribucion y Ventas II",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/gerencia-de-distribucion-y-ventas-ii/4130463"
+    },
+    {
+      "name": "Gerencia Financiera",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/gerencia-financiera/4130465"
+    },
+    {
+      "name": "Gerentología y Geriatría",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/gerentologia-y-geriatria/4130466"
+    },
+    {
+      "name": "Gestion de Proyectos",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/gestion-de-proyectos/4130471"
+    },
+    {
+      "name": "Gestion de Ventas y Negociacion",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/gestion-de-ventas-y-negociacion/4130474"
+    },
+    {
+      "name": "Gestion del Talento Humano",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/gestion-del-talento-humano/4130476"
+    },
+    {
+      "name": "Gestion del Talento y Organizacion Empresarial",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/gestion-del-talento-y-organizacion-empresarial/4130477"
+    },
+    {
+      "name": "Gestion Empresarial",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/gestion-empresarial/4130479"
+    },
+    {
+      "name": "Gestion Publica del Turismo",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/gestion-publica-del-turismo/4130485"
+    },
+    {
+      "name": "Gestion Socio Ambiental I",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/gestion-socio-ambiental-i/4130486"
+    },
+    {
+      "name": "Gestion Socio Ambiental II",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/gestion-socio-ambiental-ii/4130487"
+    },
+    {
+      "name": "Gestión Ambiental Empresarial",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/gestion-ambiental-empresarial/4130467"
+    },
+    {
+      "name": "Gestión de Calidad",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/gestion-de-calidad/4130468"
+    },
+    {
+      "name": "Gestión de la Calidad",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/gestion-de-la-calidad/4130470"
+    },
+    {
+      "name": "Gestión de Recursos Naturales",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/gestion-de-recursos-naturales/4130472"
+    },
+    {
+      "name": "Gestión del Sistema Sanitario",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/gestion-del-sistema-sanitario/4130475"
+    },
+    {
+      "name": "Gestión Docentes y Comunidades de Aprendizaje",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/gestion-docentes-y-comunidades-de-aprendizaje/4130478"
+    },
+    {
+      "name": "Gestión Energética",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/gestion-energetica/4130482"
+    },
+    {
+      "name": "Gestión y Administración Hospitalaria",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/gestion-y-administracion-hospitalaria/4130488"
+    },
+    {
+      "name": "Gestión y Legislación Educativa",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/gestion-y-legislacion-educativa/4130490"
+    },
+    {
+      "name": "Gestión y Tecnología del Medio Ambiente",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/gestion-y-tecnologia-del-medio-ambiente/4130491"
+    },
+    {
+      "name": "Gimnasia II",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/gimnasia-ii/4130493"
+    },
+    {
+      "name": "Ginecologia y Obstetricia",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/ginecologia-y-obstetricia/4130495"
+    },
+    {
+      "name": "Grandes Hitos de la Historia Universal",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/grandes-hitos-de-la-historia-universal/4130496"
+    },
+    {
+      "name": "Géneros Periodísticos I",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/generos-periodisticos-i/4130435"
+    },
+    {
+      "name": "HEMATOLOGíA",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/hematologia/4130497"
+    },
+    {
+      "name": "Hematología I",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/hematologia-i/4130498"
+    },
+    {
+      "name": "Herramientas de Lean Manufacturing y six Sigma",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/herramientas-de-lean-manufacturing-y-six-sigma/4130502"
+    },
+    {
+      "name": "Herramientas de Metología de la Investigación",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/herramientas-de-metologia-de-la-investigacion/4130503"
+    },
+    {
+      "name": "Herramientas Informaticas Para Auditoria",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/herramientas-informaticas-para-auditoria/4130504"
+    },
+    {
+      "name": "Herramientas Informaticas Para Ingeniería Química",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/herramientas-informaticas-para-ingenieria-quimica/4130505"
+    },
+    {
+      "name": "Hidrología y Manejo de Cuencas Hidrográficas",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/hidrologia-y-manejo-de-cuencas-hidrograficas/4130507"
+    },
+    {
+      "name": "Hidráulica",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/hidraulica/4130506"
+    },
+    {
+      "name": "Higiene y Protección de Alimentos",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/higiene-y-proteccion-de-alimentos/4130508"
+    },
+    {
+      "name": "Histologia I",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/histologia-i/4130512"
+    },
+    {
+      "name": "Histologia II",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/histologia-ii/4130514"
+    },
+    {
+      "name": "Histología Humana",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/histologia-humana/4130511"
+    },
+    {
+      "name": "Histología y Embriología II",
+      "code": "his123",
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/histologia-y-embriologia-ii/3387608"
+    },
+    {
+      "name": "Historia de la Arquitectura",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/historia-de-la-arquitectura/4334393"
+    },
+    {
+      "name": "Historia de la Cultura ii, Siglo Vi-xvii",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/historia-de-la-cultura-ii-siglo-vi-xvii/4130518"
+    },
+    {
+      "name": "Historia de la Gastronomia en la Cultura I",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/historia-de-la-gastronomia-en-la-cultura-i/4130522"
+    },
+    {
+      "name": "Historia de la Lengua",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/historia-de-la-lengua/4130526"
+    },
+    {
+      "name": "Historia de la Medicina",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/historia-de-la-medicina/4130528"
+    },
+    {
+      "name": "Historia del Arte Americano",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/historia-del-arte-americano/4130530"
+    },
+    {
+      "name": "Historia del Arte Ecuatoriano",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/historia-del-arte-ecuatoriano/4130532"
+    },
+    {
+      "name": "Historia del Arte y la Cultura Universal",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/historia-del-arte-y-la-cultura-universal/4130534"
+    },
+    {
+      "name": "Historia del Capitalismo Mundial",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/historia-del-capitalismo-mundial/4130536"
+    },
+    {
+      "name": "Historia del Cine",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/historia-del-cine/4130538"
+    },
+    {
+      "name": "Historia del Derecho 4",
+      "code": "6880",
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/historia-del-derecho-4/4194733"
+    },
+    {
+      "name": "Historia del Ecuador",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/historia-del-ecuador/4130540"
+    },
+    {
+      "name": "Historia del Ecuador: Colonia e Independencia",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/historia-del-ecuador-colonia-e-independencia/4130541"
+    },
+    {
+      "name": "Historia Economica de America Latina y Ecuador",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/historia-economica-de-america-latina-y-ecuador/4130543"
+    },
+    {
+      "name": "Historia General del Arte",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/historia-general-del-arte/4130544"
+    },
+    {
+      "name": "Hormigon 1",
+      "code": "10264",
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/hormigon-1/4404857"
+    },
+    {
+      "name": "Hormigón 2",
+      "code": "-",
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/hormigon-2/4292894"
+    },
+    {
+      "name": "Identidad Social",
+      "code": "8869",
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/identidad-social/4271730"
+    },
+    {
+      "name": "Imagenologia Basica",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/imagenologia-basica/4130548"
+    },
+    {
+      "name": "Imagenología",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/imagenologia/4130547"
+    },
+    {
+      "name": "Industrias Pecuarias I",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/industrias-pecuarias-i/4130549"
+    },
+    {
+      "name": "Industrias Pecuarias II",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/industrias-pecuarias-ii/4130550"
+    },
+    {
+      "name": "Informatica Aplicada",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/informatica-aplicada/4130551"
+    },
+    {
+      "name": "Informatica Basica",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/informatica-basica/4130552"
+    },
+    {
+      "name": "Informatica Intermedia",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/informatica-intermedia/4130555"
+    },
+    {
+      "name": "Informatica y Programacion",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/informatica-y-programacion/4130556"
+    },
+    {
+      "name": "Informatica, Redes y Programacion",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/informatica-redes-y-programacion/4130557"
+    },
+    {
+      "name": "Ingeniería de las Reacciones Ii(reactores)",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/ingenieria-de-las-reacciones-iireactores/4130559"
+    },
+    {
+      "name": "Ingeniería de Procesos",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/ingenieria-de-procesos/4130560"
+    },
+    {
+      "name": "Ingeniería del Mantenimiento",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/ingenieria-del-mantenimiento/4130561"
+    },
+    {
+      "name": "Ingeniería y Tecnología Eléctrica",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/ingenieria-y-tecnologia-electrica/4130562"
+    },
+    {
+      "name": "Ingles I",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/ingles-i/4130563"
+    },
+    {
+      "name": "Ingles II",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/ingles-ii/4130564"
+    },
+    {
+      "name": "Ingles III",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/ingles-iii/4130565"
+    },
+    {
+      "name": "Ingles IV",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/ingles-iv/4130566"
+    },
+    {
+      "name": "Ingles Para Negocios II",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/ingles-para-negocios-ii/4130569"
+    },
+    {
+      "name": "Ingles Para Negocios III",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/ingles-para-negocios-iii/4130570"
+    },
+    {
+      "name": "Ingles V",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/ingles-v/4130573"
+    },
+    {
+      "name": "Ingles VI",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/ingles-vi/4130574"
+    },
+    {
+      "name": "Inmunologia",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/inmunologia/4130577"
+    },
+    {
+      "name": "Innovaciones tecnológicas",
+      "code": "Inno",
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/innovaciones-tecnologicas/7001914"
+    },
+    {
+      "name": "Instalaciones 1",
+      "code": "9781",
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/instalaciones-1/4194720"
+    },
+    {
+      "name": "Instrumentación y Control de la Producción",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/instrumentacion-y-control-de-la-produccion/4130579"
+    },
+    {
+      "name": "Integración Teórico Práctico",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/integracion-teorico-practico/4130581"
+    },
+    {
+      "name": "Intercambio Iónico",
+      "code": "Ingeniería Química",
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/intercambio-ionico/4522343"
+    },
+    {
+      "name": "Internado Integral: Comunidad",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/internado-integral-comunidad/4130582"
+    },
+    {
+      "name": "Internado Integral: Hospital",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/internado-integral-hospital/4130584"
+    },
+    {
+      "name": "Intervención Temprana II",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/intervencion-temprana-ii/4130588"
+    },
+    {
+      "name": "Introduccion a la Microeconomia",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/introduccion-a-la-microeconomia/4130594"
+    },
+    {
+      "name": "Introduccion a las Ciencias de la Hospitalidad",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/introduccion-a-las-ciencias-de-la-hospitalidad/4130596"
+    },
+    {
+      "name": "Introduccion a las Ciencias Sociales",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/introduccion-a-las-ciencias-sociales/4130597"
+    },
+    {
+      "name": "Introduccion al Turismo",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/introduccion-al-turismo/4130600"
+    },
+    {
+      "name": "Introducción a la Ingeniería Ambiental",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/introduccion-a-la-ingenieria-ambiental/4130590"
+    },
+    {
+      "name": "Introducción a la Ingeniería Civil",
+      "code": "Ingeniería Civil.",
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/introduccion-a-la-ingenieria-civil/5178188"
+    },
+    {
+      "name": "Introducción a la Ingeniería Industrial",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/introduccion-a-la-ingenieria-industrial/4130592"
+    },
+    {
+      "name": "Introducción a la modelación hidrológica",
+      "code": "IMH01",
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/introduccion-a-la-modelacion-hidrologica/4295565"
+    },
+    {
+      "name": "Investigacion Basica",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/investigacion-basica/4130603"
+    },
+    {
+      "name": "Investigacion Cualitativa",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/investigacion-cualitativa/4130605"
+    },
+    {
+      "name": "Investigacion de Mercado I/ii",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/investigacion-de-mercado-iii/4130608"
+    },
+    {
+      "name": "Investigacion de Mercado Ii/ii",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/investigacion-de-mercado-iiii/4130609"
+    },
+    {
+      "name": "Investigacion de Mercados I",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/investigacion-de-mercados-i/4130610"
+    },
+    {
+      "name": "Investigacion de Mercados II",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/investigacion-de-mercados-ii/4130611"
+    },
+    {
+      "name": "Investigacion Economica",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/investigacion-economica/4130612"
+    },
+    {
+      "name": "Investigacion Operativa I/ii",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/investigacion-operativa-iii/4130616"
+    },
+    {
+      "name": "Investigacion Operativa Ii/ii",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/investigacion-operativa-iiii/4130617"
+    },
+    {
+      "name": "Investigación 1",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/investigacion-1/4130601"
+    },
+    {
+      "name": "Investigación 2",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/investigacion-2/4130602"
+    },
+    {
+      "name": "Investigación Formativa",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/investigacion-formativa/4130613"
+    },
+    {
+      "name": "Investigación Nutricional",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/investigacion-nutricional/4130614"
+    },
+    {
+      "name": "Investigación Operativa",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/investigacion-operativa/4130615"
+    },
+    {
+      "name": "Investigación Para la Innovación Educativa",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/investigacion-para-la-innovacion-educativa/4130618"
+    },
+    {
+      "name": "Itinerario II: Analilis de sistemas productivos",
+      "code": "Sistemas productivos",
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/itinerario-ii-analilis-de-sistemas-productivos/7176347"
+    },
+    {
+      "name": "Kinesiología",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/kinesiologia/4130620"
+    },
+    {
+      "name": "Kinesioterapia I",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/kinesioterapia-i/4130621"
+    },
+    {
+      "name": "Kinesioterapia II",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/kinesioterapia-ii/4130622"
+    },
+    {
+      "name": "Kinesioterapia III",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/kinesioterapia-iii/4130623"
+    },
+    {
+      "name": "La Cultura del Servicio",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/la-cultura-del-servicio/4130625"
+    },
+    {
+      "name": "La Educación Como Hecho Social",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/la-educacion-como-hecho-social/4130627"
+    },
+    {
+      "name": "Laboratorio Clinico",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/laboratorio-clinico/4130629"
+    },
+    {
+      "name": "Latinoamericana",
+      "code": "-",
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/latinoamericana/4284300"
+    },
+    {
+      "name": "Lectura Crítica y Producción de Textos",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/lectura-critica-y-produccion-de-textos/4130631"
+    },
+    {
+      "name": "Lectura de Textos Clasicos",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/lectura-de-textos-clasicos/4130632"
+    },
+    {
+      "name": "Lectura de Textos Medievales y Renancentistas",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/lectura-de-textos-medievales-y-renancentistas/4130633"
+    },
+    {
+      "name": "Lectura del Cine Latinoamericano y Ecuatoriano",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/lectura-del-cine-latinoamericano-y-ecuatoriano/4130634"
+    },
+    {
+      "name": "Legislacion Agropecuaria",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/legislacion-agropecuaria/4130635"
+    },
+    {
+      "name": "Legislacion Bancaria",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/legislacion-bancaria/4130636"
+    },
+    {
+      "name": "Legislacion del Sector Publico",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/legislacion-del-sector-publico/4130637"
+    },
+    {
+      "name": "Legislacion Educativa y Gestión en la Escuela",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/legislacion-educativa-y-gestion-en-la-escuela/4130640"
+    },
+    {
+      "name": "Legislacion Laboral y Seguridad Social",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/legislacion-laboral-y-seguridad-social/4130641"
+    },
+    {
+      "name": "Legislacion Mercantil y Societaria",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/legislacion-mercantil-y-societaria/4130642"
+    },
+    {
+      "name": "Legislacion Turistica",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/legislacion-turistica/4130643"
+    },
+    {
+      "name": "Legislacion y Practica Tributaria I",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/legislacion-y-practica-tributaria-i/4130647"
+    },
+    {
+      "name": "Legislacion y Practica Tributaria II",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/legislacion-y-practica-tributaria-ii/4130648"
+    },
+    {
+      "name": "Legislación de Transito",
+      "code": "6311",
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/legislacion-de-transito/4331786"
+    },
+    {
+      "name": "Legislación Ecuatoriana",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/legislacion-ecuatoriana/4130638"
+    },
+    {
+      "name": "Legislación Educativa",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/legislacion-educativa/4130639"
+    },
+    {
+      "name": "Legislación y Derechos en los Medios de Comunicación",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/legislacion-y-derechos-en-los-medios-de-comunicacion/4130646"
+    },
+    {
+      "name": "Legislación ambiental",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/legislacion-ambiental/4130649"
+    },
+    {
+      "name": "Lengua Española I",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/lengua-espanola-i/4130650"
+    },
+    {
+      "name": "Lengua Española II",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/lengua-espanola-ii/4130651"
+    },
+    {
+      "name": "Lengua Española III",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/lengua-espanola-iii/4130652"
+    },
+    {
+      "name": "Lenguaje y Comunicación",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/lenguaje-y-comunicacion/4130653"
+    },
+    {
+      "name": "Lenguajes de Programación",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/lenguajes-de-programacion/4130654"
+    },
+    {
+      "name": "Lenguas y Etimologias Griegas y Latinas II",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/lenguas-y-etimologias-griegas-y-latinas-ii/4130656"
+    },
+    {
+      "name": "Libre Elecc Atencion y Servicio al Cliente",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/libre-elecc-atencion-y-servicio-al-cliente/4130657"
+    },
+    {
+      "name": "Libre Opcion",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/libre-opcion/4130662"
+    },
+    {
+      "name": "Libre Opcion II",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/libre-opcion-ii/4130663"
+    },
+    {
+      "name": "Linguistica I",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/linguistica-i/4130664"
+    },
+    {
+      "name": "Linguistica II",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/linguistica-ii/4130665"
+    },
+    {
+      "name": "Literatura Española",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/literatura-espanola/4130666"
+    },
+    {
+      "name": "Literatura Moderna",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/literatura-moderna/4130667"
+    },
+    {
+      "name": "Literatura Universal del Siglo XX",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/literatura-universal-del-siglo-xx/4130668"
+    },
+    {
+      "name": "Logística y Cadena de Suministro",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/logistica-y-cadena-de-suministro/4130669"
+    },
+    {
+      "name": "Macroeconomia",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/macroeconomia/4130670"
+    },
+    {
+      "name": "Macroeconomia Ecuatoriana",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/macroeconomia-ecuatoriana/4130671"
+    },
+    {
+      "name": "Macroeconomia I",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/macroeconomia-i/4130672"
+    },
+    {
+      "name": "Macroeconomia II",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/macroeconomia-ii/4130674"
+    },
+    {
+      "name": "Macroeconomia III",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/macroeconomia-iii/4130675"
+    },
+    {
+      "name": "Manejo de Equipo Radiológico",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/manejo-de-equipo-radiologico/4130676"
+    },
+    {
+      "name": "Manejo Integrado de Plagas",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/manejo-integrado-de-plagas/4130678"
+    },
+    {
+      "name": "Marketing",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/marketing/4130681"
+    },
+    {
+      "name": "Marketing de la Hospitalidad y Psicologia del Consumidor",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/marketing-de-la-hospitalidad-y-psicologia-del-consumidor/4130682"
+    },
+    {
+      "name": "Marketing de Servicios",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/marketing-de-servicios/4130683"
+    },
+    {
+      "name": "Marketing en Hotelería",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/marketing-en-hoteleria/4130684"
+    },
+    {
+      "name": "Marketing Estrategico",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/marketing-estrategico/4130685"
+    },
+    {
+      "name": "Marketing y Ventas",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/marketing-y-ventas/4130688"
+    },
+    {
+      "name": "Matematica",
+      "code": "101",
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/matematica/3019593"
+    },
+    {
+      "name": "Matematica Actuarial",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/matematica-actuarial/4130689"
+    },
+    {
+      "name": "Matematica Basica",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/matematica-basica/4130690"
+    },
+    {
+      "name": "Matematicas Actuariales",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/matematicas-actuariales/4130693"
+    },
+    {
+      "name": "Matematicas Basicas",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/matematicas-basicas/4130694"
+    },
+    {
+      "name": "Matematicas Financieras",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/matematicas-financieras/4130698"
+    },
+    {
+      "name": "Matematicas I",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/matematicas-i/4130699"
+    },
+    {
+      "name": "Matematicas II",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/matematicas-ii/4130700"
+    },
+    {
+      "name": "Matematicas III",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/matematicas-iii/4130701"
+    },
+    {
+      "name": "Matemática aplicada",
+      "code": "MA001",
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/matematica-aplicada/4295563"
+    },
+    {
+      "name": "Matemática Financiera",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/matematica-financiera/4130691"
+    },
+    {
+      "name": "Matemáticas Discretas",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/matematicas-discretas/4130696"
+    },
+    {
+      "name": "Mecánica de Sólidos",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/mecanica-de-solidos/4130704"
+    },
+    {
+      "name": "Medicina Andina Y alternativa",
+      "code": "123456",
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/medicina-andina-y-alternativa/7358565"
+    },
+    {
+      "name": "Medicina de Laboratorio",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/medicina-de-laboratorio/4130705"
+    },
+    {
+      "name": "Medicina de Laboratorio",
+      "code": "Medicina Humana",
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/medicina-de-laboratorio/5959486"
+    },
+    {
+      "name": "Medicina Interna A(neumología, Cardiología, Digestivo, Infectología)",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/medicina-interna-aneumologia-cardiologia-digestivo-infectologia/4130706"
+    },
+    {
+      "name": "Medicina Interna II",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/medicina-interna-ii/4130707"
+    },
+    {
+      "name": "Medicina interna: neurología, endocrinología, dermatología, hematología",
+      "code": "19009",
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/medicina-interna-neurologia-endocrinologia-dermatologia-hematologia/7250529"
+    },
+    {
+      "name": "Medicina Legal",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/medicina-legal/4130708"
+    },
+    {
+      "name": "Medicina y Ciencias Aplicadas a la Actividad Física",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/medicina-y-ciencias-aplicadas-a-la-actividad-fisica/4130709"
+    },
+    {
+      "name": "Medicion Economica",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/medicion-economica/4130710"
+    },
+    {
+      "name": "METEOROLOGÍA y CLIMATOLOGÍA",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/meteorologia-y-climatologia/4130712"
+    },
+    {
+      "name": "Metodologia de la investigacion",
+      "code": "CS 08-03",
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/metodologia-de-la-investigacion/3262878"
+    },
+    {
+      "name": "Metodologia de la Investigacion II",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/metodologia-de-la-investigacion-ii/4130716"
+    },
+    {
+      "name": "Metodologia de la Investigacion Social",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/metodologia-de-la-investigacion-social/4130717"
+    },
+    {
+      "name": "Metodologia Investigacion",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/metodologia-investigacion/4130718"
+    },
+    {
+      "name": "Metodología de la Investigación I",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/metodologia-de-la-investigacion-i/4130715"
+    },
+    {
+      "name": "Metodos Numéricos",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/metodos-numericos/4130721"
+    },
+    {
+      "name": "Micología Clínica",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/micologia-clinica/4130723"
+    },
+    {
+      "name": "Micología y Virología",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/micologia-y-virologia/4130724"
+    },
+    {
+      "name": "Microbiologia",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/microbiologia/4130725"
+    },
+    {
+      "name": "Microbiologia II",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/microbiologia-ii/4130731"
+    },
+    {
+      "name": "Microbiología Ambiental",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/microbiologia-ambiental/4130726"
+    },
+    {
+      "name": "MICROBIOLOGÍA APLICADA",
+      "code": "0505",
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/microbiologia-aplicada/3240163"
+    },
+    {
+      "name": "Microbiología y Parasitología",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/microbiologia-y-parasitologia/4130733"
+    },
+    {
+      "name": "Microeconomia",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/microeconomia/1750692"
+    },
+    {
+      "name": "Microeconomia I",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/microeconomia-i/4130734"
+    },
+    {
+      "name": "Microeconomia II",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/microeconomia-ii/4130736"
+    },
+    {
+      "name": "Microeconomia III",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/microeconomia-iii/4130738"
+    },
+    {
+      "name": "Microeconomia IV",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/microeconomia-iv/4130739"
+    },
+    {
+      "name": "Microprocesadores",
+      "code": "18565",
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/microprocesadores/7536621"
+    },
+    {
+      "name": "Mineralogía",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/mineralogia/4130740"
+    },
+    {
+      "name": "Minería de textos",
+      "code": "11026",
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/mineria-de-textos/4546652"
+    },
+    {
+      "name": "Mobiliario, Decoración y Equipamiento de Habitaciones",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/mobiliario-decoracion-y-equipamiento-de-habitaciones/4130741"
+    },
+    {
+      "name": "Modelación Ambiental",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/modelacion-ambiental/4130742"
+    },
+    {
+      "name": "Modelos de Simulacion y Prediccion Ii/ii",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/modelos-de-simulacion-y-prediccion-iiii/4130743"
+    },
+    {
+      "name": "Modificación de Conducta",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/modificacion-de-conducta/4130744"
+    },
+    {
+      "name": "Morfofisiología 1",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/morfofisiologia-1/4130745"
+    },
+    {
+      "name": "Morfofisiología 2",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/morfofisiologia-2/4130746"
+    },
+    {
+      "name": "Morfofisiología I",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/morfofisiologia-i/4130747"
+    },
+    {
+      "name": "Morfofisiología II",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/morfofisiologia-ii/4130748"
+    },
+    {
+      "name": "Morfologia",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/morfologia/4130749"
+    },
+    {
+      "name": "Morfología y Fisiopatología I",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/morfologia-y-fisiopatologia-i/4130750"
+    },
+    {
+      "name": "Morfología y Fisiopatología II",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/morfologia-y-fisiopatologia-ii/4130751"
+    },
+    {
+      "name": "Multimedia y Diseño de los Medios",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/multimedia-y-diseno-de-los-medios/4130752"
+    },
+    {
+      "name": "Máquinas, Herramientas y Accesorios",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/maquinas-herramientas-y-accesorios/4130680"
+    },
+    {
+      "name": "Métodos Específicos de Intervención en Fisioterapia",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/metodos-especificos-de-intervencion-en-fisioterapia/4130720"
+    },
+    {
+      "name": "Métodos y Técnicas de Estudio",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/metodos-y-tecnicas-de-estudio/4130722"
+    },
+    {
+      "name": "Música, Danza y Folklore",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/musica-danza-y-folklore/4130753"
+    },
+    {
+      "name": "Negocios Internacionales",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/negocios-internacionales/4130760"
+    },
+    {
+      "name": "Neuroanatomía",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/neuroanatomia/4130761"
+    },
+    {
+      "name": "Neurokinesiología del Desarrollo",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/neurokinesiologia-del-desarrollo/4130762"
+    },
+    {
+      "name": "Neuropsicología",
+      "code": "14285",
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/neuropsicologia/4271720"
+    },
+    {
+      "name": "Nomenclatura de títulos",
+      "code": "Nt101",
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/nomenclatura-de-titulos/6714969"
+    },
+    {
+      "name": "nothing really",
+      "code": "hysu 45567",
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/nothing-really/6708278"
+    },
+    {
+      "name": "Nutricion",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/nutricion/4130770"
+    },
+    {
+      "name": "Nutrición en Salud Pública",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/nutricion-en-salud-publica/4130771"
+    },
+    {
+      "name": "Nutrición y Actividad Física",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/nutricion-y-actividad-fisica/4130777"
+    },
+    {
+      "name": "Oftalmología",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/oftalmologia/4130778"
+    },
+    {
+      "name": "Operacion Turistica y Turismo Receptivo",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/operacion-turistica-y-turismo-receptivo/4130779"
+    },
+    {
+      "name": "Operaciones Unitarias I",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/operaciones-unitarias-i/4130782"
+    },
+    {
+      "name": "Operaciones Unitarias II",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/operaciones-unitarias-ii/4130783"
+    },
+    {
+      "name": "Operatoria Dental II",
+      "code": "Odontologia",
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/operatoria-dental-ii/7587156"
+    },
+    {
+      "name": "Organización de la Producción",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/organizacion-de-la-produccion/4130786"
+    },
+    {
+      "name": "Organización del Servicio de ama de Llaves",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/organizacion-del-servicio-de-ama-de-llaves/4130788"
+    },
+    {
+      "name": "Organización y Dirección de Empresas",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/organizacion-y-direccion-de-empresas/4130789"
+    },
+    {
+      "name": "Organización y Funcionamiento de Recepción",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/organizacion-y-funcionamiento-de-recepcion/4130790"
+    },
+    {
+      "name": "Orientación a Padres",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/orientacion-a-padres/4130791"
+    },
+    {
+      "name": "Ortesis y Adaptaciones Funcionales",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/ortesis-y-adaptaciones-funcionales/4130792"
+    },
+    {
+      "name": "Ortodoncia",
+      "code": "Mecanica, odontologi",
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/ortodoncia/7204461"
+    },
+    {
+      "name": "Oscilaciones y Ondas",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/oscilaciones-y-ondas/4130793"
+    },
+    {
+      "name": "Otologia y Audiologia II",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/otologia-y-audiologia-ii/4130794"
+    },
+    {
+      "name": "Otorrinolaringologia",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/otorrinolaringologia/4130795"
+    },
+    {
+      "name": "Ovinos y Caprinos",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/ovinos-y-caprinos/4130796"
+    },
+    {
+      "name": "Parasitologia y Enf.parasitarias II",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/parasitologia-y-enfparasitarias-ii/4130799"
+    },
+    {
+      "name": "Parasitología",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/parasitologia/4130797"
+    },
+    {
+      "name": "Pastos y Forrajes",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/pastos-y-forrajes/4130800"
+    },
+    {
+      "name": "Patología Bucal",
+      "code": "20196",
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/patologia-bucal/4538748"
+    },
+    {
+      "name": "Patología Clínica I",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/patologia-clinica-i/4130802"
+    },
+    {
+      "name": "Patología de la voz y su Reeducación",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/patologia-de-la-voz-y-su-reeducacion/4130804"
+    },
+    {
+      "name": "Patología Estructural",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/patologia-estructural/4130805"
+    },
+    {
+      "name": "Patología I",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/patologia-i/4130806"
+    },
+    {
+      "name": "Patología II",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/patologia-ii/4130807"
+    },
+    {
+      "name": "Patología Imagenológica I",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/patologia-imagenologica-i/4130809"
+    },
+    {
+      "name": "Patología Prevalente",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/patologia-prevalente/4130813"
+    },
+    {
+      "name": "Patrimonio Cultural",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/patrimonio-cultural/4130815"
+    },
+    {
+      "name": "Pavimentos",
+      "code": "-",
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/pavimentos/4243038"
+    },
+    {
+      "name": "Pedagogia y Didactica",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/pedagogia-y-didactica/4130818"
+    },
+    {
+      "name": "Pediatria",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/pediatria/4130819"
+    },
+    {
+      "name": "Pensamiento Economico",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/pensamiento-economico/4130820"
+    },
+    {
+      "name": "Periodismo Científico",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/periodismo-cientifico/4130822"
+    },
+    {
+      "name": "Periodismo de Investigación",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/periodismo-de-investigacion/4130823"
+    },
+    {
+      "name": "Periodoncia I",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/periodoncia-i/5974011"
+    },
+    {
+      "name": "Planeamiento Docente",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/planeamiento-docente/4130827"
+    },
+    {
+      "name": "Planificacion Estrategica",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/planificacion-estrategica/4130830"
+    },
+    {
+      "name": "Planificacion I",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/planificacion-i/4130831"
+    },
+    {
+      "name": "Planificacion Social",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/planificacion-social/4130832"
+    },
+    {
+      "name": "Planificacion y Ordenamiento Territorial",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/planificacion-y-ordenamiento-territorial/4130834"
+    },
+    {
+      "name": "Poesia Ecuatoriana",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/poesia-ecuatoriana/4130836"
+    },
+    {
+      "name": "Politica Economica",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/politica-economica/4130838"
+    },
+    {
+      "name": "Politicas Sociales en el Ecuador",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/politicas-sociales-en-el-ecuador/4130839"
+    },
+    {
+      "name": "Porcinotecnia",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/porcinotecnia/4130840"
+    },
+    {
+      "name": "Practicas Integradas I",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/practicas-integradas-i/4130845"
+    },
+    {
+      "name": "Presupuesto del Sector Privado",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/presupuesto-del-sector-privado/4130858"
+    },
+    {
+      "name": "Presupuesto del Sector Publico",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/presupuesto-del-sector-publico/4130859"
+    },
+    {
+      "name": "Primerios Auxilios",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/primerios-auxilios/4130861"
+    },
+    {
+      "name": "Primeros Auxilios",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/primeros-auxilios/4130862"
+    },
+    {
+      "name": "Primeros Auxilios Psicologicos",
+      "code": "01PAP",
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/primeros-auxilios-psicologicos/4271732"
+    },
+    {
+      "name": "Principios de aps",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/principios-de-aps/4130864"
+    },
+    {
+      "name": "Probabilidad",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/probabilidad/4130865"
+    },
+    {
+      "name": "Problemas Contemporaneos",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/problemas-contemporaneos/4130866"
+    },
+    {
+      "name": "Procesamiento digital de señales",
+      "code": "DSP 1",
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/procesamiento-digital-de-senales/6612045"
+    },
+    {
+      "name": "Procesos Industriales",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/procesos-industriales/4130868"
+    },
+    {
+      "name": "Producción más Limpia",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/produccion-mas-limpia/4130869"
+    },
+    {
+      "name": "Producción Televisiva",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/produccion-televisiva/4130871"
+    },
+    {
+      "name": "Profundizacion I Materia Nucleo I",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/profundizacion-i-materia-nucleo-i/4130875"
+    },
+    {
+      "name": "Programacion I: Algoritmos Datos y Estructuras",
+      "code": "14555",
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/programacion-i-algoritmos-datos-y-estructuras/4041162"
+    },
+    {
+      "name": "Programación Vhdl",
+      "code": "6969",
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/programacion-vhdl/7199371"
+    },
+    {
+      "name": "Programación y Métodos Numéricos",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/programacion-y-metodos-numericos/4130883"
+    },
+    {
+      "name": "Promoción de Salud,prevención de Discapacidades de Base Comunitaria II",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/promocion-de-saludprevencion-de-discapacidades-de-base-comunitaria-ii/4130887"
+    },
+    {
+      "name": "Promoción,prevención y Atención Comunitaria",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/promocionprevencion-y-atencion-comunitaria/4130888"
+    },
+    {
+      "name": "Promoción.prevención y Atención Familiar",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/promocionprevencion-y-atencion-familiar/4130889"
+    },
+    {
+      "name": "Prostodoncia I",
+      "code": "Prostodoncia",
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/prostodoncia-i/6705333"
+    },
+    {
+      "name": "Protección Radiológica",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/proteccion-radiologica/4130890"
+    },
+    {
+      "name": "Proyectos",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/proyectos/4130894"
+    },
+    {
+      "name": "Proyectos Agricolas",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/proyectos-agricolas/4130895"
+    },
+    {
+      "name": "Proyectos Sociales I/ii",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/proyectos-sociales-iii/4130901"
+    },
+    {
+      "name": "Proyectos Sociales Ii/ii",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/proyectos-sociales-iiii/4130902"
+    },
+    {
+      "name": "Prácticas de Sostenibilidad en Hotelería",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/practicas-de-sostenibilidad-en-hoteleria/4130841"
+    },
+    {
+      "name": "Prácticas de Vinculación con la Sociedad",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/practicas-de-vinculacion-con-la-sociedad/4130842"
+    },
+    {
+      "name": "Prácticas Integradas II",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/practicas-integradas-ii/4130846"
+    },
+    {
+      "name": "Prácticas pre Profesionales Análisis Clínico",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/practicas-pre-profesionales-analisis-clinico/4130852"
+    },
+    {
+      "name": "Prácticas Pre-profesionales I",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/practicas-pre-profesionales-i/4130855"
+    },
+    {
+      "name": "Prácticas Pre-profesionales II",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/practicas-pre-profesionales-ii/4130856"
+    },
+    {
+      "name": "Psicodiagnostico Infantojuvenil",
+      "code": "Psicología",
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/psicodiagnostico-infantojuvenil/7268156"
+    },
+    {
+      "name": "psicologia clinica",
+      "code": "psic cli",
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/psicologia-clinica/5866849"
+    },
+    {
+      "name": "Psicologia de la Familia",
+      "code": "PF1",
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/psicologia-de-la-familia/4284316"
+    },
+    {
+      "name": "Psicologia Deportiva",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/psicologia-deportiva/4130909"
+    },
+    {
+      "name": "Psicologia General",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/psicologia-general/4130912"
+    },
+    {
+      "name": "Psicología de la Comunicación",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/psicologia-de-la-comunicacion/4130906"
+    },
+    {
+      "name": "Psicología de la Religión",
+      "code": "9802",
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/psicologia-de-la-religion/4284482"
+    },
+    {
+      "name": "Psicología del Aprendizaje",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/psicologia-del-aprendizaje/4130907"
+    },
+    {
+      "name": "Psicología del Desarrollo",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/psicologia-del-desarrollo/4130908"
+    },
+    {
+      "name": "Psicología Evolutiva, Crecimiento y Desarrollo I",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/psicologia-evolutiva-crecimiento-y-desarrollo-i/4130910"
+    },
+    {
+      "name": "Psicología Evolutiva, Crecimiento y Desarrollo II",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/psicologia-evolutiva-crecimiento-y-desarrollo-ii/4130911"
+    },
+    {
+      "name": "Psicología Organizacional",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/psicologia-organizacional/4130914"
+    },
+    {
+      "name": "Psicología Social",
+      "code": "13858",
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/psicologia-social/4271726"
+    },
+    {
+      "name": "Psicomotricidad y Expresión Lúdica",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/psicomotricidad-y-expresion-ludica/4130918"
+    },
+    {
+      "name": "Psicopatologia",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/psicopatologia/4130919"
+    },
+    {
+      "name": "Psicoterapia individual",
+      "code": "11554",
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/psicoterapia-individual/4284458"
+    },
+    {
+      "name": "Psiquiatría",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/psiquiatria/4130920"
+    },
+    {
+      "name": "Quimica Agricola",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/quimica-agricola/4130923"
+    },
+    {
+      "name": "Quimica de los Alimentos",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/quimica-de-los-alimentos/4130928"
+    },
+    {
+      "name": "Quimica Organica",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/quimica-organica/4130932"
+    },
+    {
+      "name": "Quimica-biofisica",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/quimica-biofisica/4130938"
+    },
+    {
+      "name": "Química Analitica",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/quimica-analitica/4130924"
+    },
+    {
+      "name": "Química Analítica Cuantitativa",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/quimica-analitica-cuantitativa/4130925"
+    },
+    {
+      "name": "Química Aplicada a Imágenes I",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/quimica-aplicada-a-imagenes-i/4130926"
+    },
+    {
+      "name": "Química General",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/quimica-general/4130930"
+    },
+    {
+      "name": "Química Inórganica y Orgánica",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/quimica-inorganica-y-organica/4130931"
+    },
+    {
+      "name": "Química Orgánica Ambiental",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/quimica-organica-ambiental/4130933"
+    },
+    {
+      "name": "Química Orgánica I",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/quimica-organica-i/4130936"
+    },
+    {
+      "name": "Química Orgánica II",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/quimica-organica-ii/4130937"
+    },
+    {
+      "name": "Radioterapia",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/radioterapia/4130940"
+    },
+    {
+      "name": "REALIDAD AMBIENTAL NACIONAL y MUNDIAL",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/realidad-ambiental-nacional-y-mundial/4130941"
+    },
+    {
+      "name": "Realidad Social y Cultural",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/realidad-social-y-cultural/4130943"
+    },
+    {
+      "name": "Recreación Infantil",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/recreacion-infantil/4130945"
+    },
+    {
+      "name": "Recursos Didácticos Para el Aprendizaje",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/recursos-didacticos-para-el-aprendizaje/4130946"
+    },
+    {
+      "name": "Redacción Académica",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/redaccion-academica/4130947"
+    },
+    {
+      "name": "Redacción Para Medios",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/redaccion-para-medios/4130948"
+    },
+    {
+      "name": "Redes de computadoras",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/redes-de-computadoras/3260606"
+    },
+    {
+      "name": "Relaciones Humanas",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/relaciones-humanas/4130952"
+    },
+    {
+      "name": "Relaciones Publicas",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/relaciones-publicas/4130953"
+    },
+    {
+      "name": "Relación de la Clínica con la Terapéutica Fonoaudiológica I",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/relacion-de-la-clinica-con-la-terapeutica-fonoaudiologica-i/4130950"
+    },
+    {
+      "name": "Relación de la Clínica con la Terapéutica Fonoaudiológica II",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/relacion-de-la-clinica-con-la-terapeutica-fonoaudiologica-ii/4130951"
+    },
+    {
+      "name": "Resistencia de materiales",
+      "code": "2",
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/resistencia-de-materiales/3727218"
+    },
+    {
+      "name": "Resistencia de materiales 1",
+      "code": "7302",
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/resistencia-de-materiales-1/4211444"
+    },
+    {
+      "name": "Responsabilidad Social de la Empresa",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/responsabilidad-social-de-la-empresa/4130955"
+    },
+    {
+      "name": "Riego y Drenaje",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/riego-y-drenaje/4130956"
+    },
+    {
+      "name": "Salud Laboral",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/salud-laboral/4130957"
+    },
+    {
+      "name": "Salud Ortopédica",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/salud-ortopedica/4130958"
+    },
+    {
+      "name": "Salud Pública",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/salud-publica/4130959"
+    },
+    {
+      "name": "Salud y Seguridad Industrial",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/salud-y-seguridad-industrial/4130960"
+    },
+    {
+      "name": "Salud y Sociedad",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/salud-y-sociedad/4130961"
+    },
+    {
+      "name": "Salud y Sociedad",
+      "code": "2013",
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/salud-y-sociedad-2013/4130962"
+    },
+    {
+      "name": "Salud, Nutricion y Deporte",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/salud-nutricion-y-deporte/4130963"
+    },
+    {
+      "name": "Saneamiento Ambiental",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/saneamiento-ambiental/4130964"
+    },
+    {
+      "name": "Seguridad y Salud Ocupacional",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/seguridad-y-salud-ocupacional/4130966"
+    },
+    {
+      "name": "Seminario de Integración II",
+      "code": "13939",
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/seminario-de-integracion-ii/4271729"
+    },
+    {
+      "name": "Semiologia I",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/semiologia-i/4130967"
+    },
+    {
+      "name": "Semiologia II",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/semiologia-ii/4130968"
+    },
+    {
+      "name": "Semiotica",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/semiotica/4130969"
+    },
+    {
+      "name": "Sensores Remotos",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/sensores-remotos/4130970"
+    },
+    {
+      "name": "Servicio al Cliente",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/servicio-al-cliente/4130972"
+    },
+    {
+      "name": "Sexualidad y Educación Sexual",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/sexualidad-y-educacion-sexual/4130975"
+    },
+    {
+      "name": "Simulación de Procesos",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/simulacion-de-procesos/4130978"
+    },
+    {
+      "name": "Sintesis Orgánica en la Industria",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/sintesis-organica-en-la-industria/4130979"
+    },
+    {
+      "name": "Sistemas de Calidad",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/sistemas-de-calidad/4130980"
+    },
+    {
+      "name": "Sistemas de Calidad, Higiene y Seguridad Alimentaria (normas bpm y Hccp)",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/sistemas-de-calidad-higiene-y-seguridad-alimentaria-normas-bpm-y-hccp/4130981"
+    },
+    {
+      "name": "Sistemas de Control",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/sistemas-de-control/4130982"
+    },
+    {
+      "name": "Sistemas de Control de la Producción",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/sistemas-de-control-de-la-produccion/4130983"
+    },
+    {
+      "name": "Sistemas de Informacion",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/sistemas-de-informacion/4130985"
+    },
+    {
+      "name": "Sistemas de Informacion Geografica",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/sistemas-de-informacion-geografica/4130988"
+    },
+    {
+      "name": "Sistemas de Información Estratégica",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/sistemas-de-informacion-estrategica/4130987"
+    },
+    {
+      "name": "Sistemas Integrados de Gestión",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/sistemas-integrados-de-gestion/4130991"
+    },
+    {
+      "name": "Sistemas Operativos",
+      "code": "S.O 1",
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/sistemas-operativos/7264571"
+    },
+    {
+      "name": "Socioantropología",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/socioantropologia/4130992"
+    },
+    {
+      "name": "Sociologia del Trabajo",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/sociologia-del-trabajo/4130997"
+    },
+    {
+      "name": "Sociologia Politica",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/sociologia-politica/4130998"
+    },
+    {
+      "name": "Sociologia Rural",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/sociologia-rural/4130999"
+    },
+    {
+      "name": "Sociologia Urbana",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/sociologia-urbana/4131000"
+    },
+    {
+      "name": "Sociología Ambiental",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/sociologia-ambiental/4130994"
+    },
+    {
+      "name": "Software de Aplicacion gds",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/software-de-aplicacion-gds/4131001"
+    },
+    {
+      "name": "Software de Aplicación Hotelera",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/software-de-aplicacion-hotelera/4131003"
+    },
+    {
+      "name": "Software de las Matemáticas y Física",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/software-de-las-matematicas-y-fisica/4131005"
+    },
+    {
+      "name": "Subestaciones",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/subestaciones/7648299"
+    },
+    {
+      "name": "Syntax of the English Language II",
+      "code": "8570",
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/syntax-of-the-english-language-ii/4238866"
+    },
+    {
+      "name": "Taller de Iniciacion Teatral",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/taller-de-iniciacion-teatral/4131007"
+    },
+    {
+      "name": "Taller de Manejo de Cámaras",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/taller-de-manejo-de-camaras/4131009"
+    },
+    {
+      "name": "Taller de Urbanismo",
+      "code": "URBA2024",
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/taller-de-urbanismo/6867505"
+    },
+    {
+      "name": "Taller i: Formulación de la Propuesta de Investigación",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/taller-i-formulacion-de-la-propuesta-de-investigacion/4131011"
+    },
+    {
+      "name": "Taller ii: Métodos y Técnicas de Recopilación de la Información",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/taller-ii-metodos-y-tecnicas-de-recopilacion-de-la-informacion/4131013"
+    },
+    {
+      "name": "Taller Iii: Estructuración y Escritura del Informe Final",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/taller-iii-estructuracion-y-escritura-del-informe-final/4131014"
+    },
+    {
+      "name": "Talleres de capacitaciones MSP",
+      "code": "MSP2025",
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/talleres-de-capacitaciones-msp/7500032"
+    },
+    {
+      "name": "Talleres Para la Elaboracion de Proyectos de Titulacion",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/talleres-para-la-elaboracion-de-proyectos-de-titulacion/4131015"
+    },
+    {
+      "name": "Tecnicas Aplicadas: Eventos Especiales y Alimentacion Masiva",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/tecnicas-aplicadas-eventos-especiales-y-alimentacion-masiva/4131030"
+    },
+    {
+      "name": "Tecnicas Culinarias: Tecnicas y Modos de Coccion",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/tecnicas-culinarias-tecnicas-y-modos-de-coccion/4131035"
+    },
+    {
+      "name": "Tecnicas de Guiar",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/tecnicas-de-guiar/4131038"
+    },
+    {
+      "name": "Tecnicas de Reposteria",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/tecnicas-de-reposteria/4131043"
+    },
+    {
+      "name": "Tecnologia Educativa Multimedia",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/tecnologia-educativa-multimedia/4131057"
+    },
+    {
+      "name": "Tecnologia Farmacéutica I",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/tecnologia-farmaceutica-i/4131059"
+    },
+    {
+      "name": "Tecnologia Farmacéutica II",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/tecnologia-farmaceutica-ii/4131060"
+    },
+    {
+      "name": "Tecnología de la Información y Comunicación",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/tecnologia-de-la-informacion-y-comunicacion/4131054"
+    },
+    {
+      "name": "Tecnología de lácteos",
+      "code": "-",
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/tecnologia-de-lacteos/4239438"
+    },
+    {
+      "name": "Tecnología de Materiales",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/tecnologia-de-materiales/4131056"
+    },
+    {
+      "name": "Tecnología Energética",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/tecnologia-energetica/4131058"
+    },
+    {
+      "name": "Tecnologías ii( Integradora)",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/tecnologias-ii-integradora/4131062"
+    },
+    {
+      "name": "Telemedicina",
+      "code": "Telemedicina - op",
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/telemedicina/7610026"
+    },
+    {
+      "name": "Teoria Administrativa",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/teoria-administrativa/4131064"
+    },
+    {
+      "name": "Teoria de Circuitos 1",
+      "code": "14500",
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/teoria-de-circuitos-1/4206440"
+    },
+    {
+      "name": "Teoria de la Comunicación Colectiva",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/teoria-de-la-comunicacion-colectiva/4131065"
+    },
+    {
+      "name": "Teoria de la Historia",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/teoria-de-la-historia/4131067"
+    },
+    {
+      "name": "Teoria de las Ideologias",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/teoria-de-las-ideologias/4131068"
+    },
+    {
+      "name": "Teoria de los Grupos Sociales y del Estado",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/teoria-de-los-grupos-sociales-y-del-estado/4131069"
+    },
+    {
+      "name": "Teoria del Estado I",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/teoria-del-estado-i/4131071"
+    },
+    {
+      "name": "Teoria general y clinica de la neurosis",
+      "code": "Psicologia",
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/teoria-general-y-clinica-de-la-neurosis/4415866"
+    },
+    {
+      "name": "Teoria y Metodos de la Gestion Social I/ii",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/teoria-y-metodos-de-la-gestion-social-iii/4131081"
+    },
+    {
+      "name": "Teoria y Practica de la Imagen",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/teoria-y-practica-de-la-imagen/4131084"
+    },
+    {
+      "name": "Teorias del Desarrollo Economico",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/teorias-del-desarrollo-economico/4131085"
+    },
+    {
+      "name": "Teorias Literarias",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/teorias-literarias/4131088"
+    },
+    {
+      "name": "Teoría de Circuitos Eléctricos 2",
+      "code": "10153",
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/teoria-de-circuitos-electricos-2/4334558"
+    },
+    {
+      "name": "Teoría de los Medios",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/teoria-de-los-medios/4131070"
+    },
+    {
+      "name": "Teoría e Historia 1",
+      "code": "8136",
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/teoria-e-historia-1/4194725"
+    },
+    {
+      "name": "Teoría e Historia 2",
+      "code": "8046",
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/teoria-e-historia-2/4194727"
+    },
+    {
+      "name": "Teoría e Historia 3",
+      "code": "7303",
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/teoria-e-historia-3/4194728"
+    },
+    {
+      "name": "Teoría y Normativa Constitucional",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/teoria-y-normativa-constitucional/4131083"
+    },
+    {
+      "name": "Terapeutica Logopedica Aplicada en Trastornos Cognitivos y Sensoriales",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/terapeutica-logopedica-aplicada-en-trastornos-cognitivos-y-sensoriales/4131089"
+    },
+    {
+      "name": "Terapeutica Logopedica Aplicada en Trastornos Neuromotores",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/terapeutica-logopedica-aplicada-en-trastornos-neuromotores/4131090"
+    },
+    {
+      "name": "Terapia del Lenguaje II",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/terapia-del-lenguaje-ii/4131092"
+    },
+    {
+      "name": "Termodinámica",
+      "code": "800",
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/termodinamica/3238571"
+    },
+    {
+      "name": "Termodinámica Aplicada",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/termodinamica-aplicada/4131095"
+    },
+    {
+      "name": "Titulación Fase ii: Desarrollo del Trabajo de Titulación",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/titulacion-fase-ii-desarrollo-del-trabajo-de-titulacion/4131098"
+    },
+    {
+      "name": "Topografia",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/topografia/3220252"
+    },
+    {
+      "name": "Toxicología",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/toxicologia/4131100"
+    },
+    {
+      "name": "Trabajo de Titulación",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/trabajo-de-titulacion/4131102"
+    },
+    {
+      "name": "Transferencia de Calor",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/transferencia-de-calor/4131107"
+    },
+    {
+      "name": "Transferencia de Fluidos",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/transferencia-de-fluidos/4131108"
+    },
+    {
+      "name": "Transferencia de Masa",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/transferencia-de-masa/4131109"
+    },
+    {
+      "name": "Transformadores",
+      "code": "-",
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/transformadores/5159175"
+    },
+    {
+      "name": "Transporte de Fluídos",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/transporte-de-fluidos/4131111"
+    },
+    {
+      "name": "Trastornos de la voz",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/trastornos-de-la-voz/4131113"
+    },
+    {
+      "name": "Trastornos del Aprendizaje",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/trastornos-del-aprendizaje/4131114"
+    },
+    {
+      "name": "Trastornos del Habla",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/trastornos-del-habla/4131115"
+    },
+    {
+      "name": "Trastornos del Lenguaje",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/trastornos-del-lenguaje/4131116"
+    },
+    {
+      "name": "Traumatología",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/traumatologia/4131117"
+    },
+    {
+      "name": "Trigonometría",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/trigonometria/4131118"
+    },
+    {
+      "name": "Turismo Sostenible, Turismo Comunitario",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/turismo-sostenible-turismo-comunitario/4131120"
+    },
+    {
+      "name": "Turismo y Patrimonio Cultural",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/turismo-y-patrimonio-cultural/4131122"
+    },
+    {
+      "name": "Tutoria de Trabajos de Graduacion",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/tutoria-de-trabajos-de-graduacion/4131125"
+    },
+    {
+      "name": "Técnica de Resonancia",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/tecnica-de-resonancia/4131017"
+    },
+    {
+      "name": "Técnica Dietética I",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/tecnica-dietetica-i/4131018"
+    },
+    {
+      "name": "Técnica Dietética II",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/tecnica-dietetica-ii/4131019"
+    },
+    {
+      "name": "Técnica Radiológica",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/tecnica-radiologica/4131021"
+    },
+    {
+      "name": "Técnica Radiológica II",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/tecnica-radiologica-ii/4131024"
+    },
+    {
+      "name": "Técnica Tomográfica",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/tecnica-tomografica/4131025"
+    },
+    {
+      "name": "Técnicas de Evaluación",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/tecnicas-de-evaluacion/4131036"
+    },
+    {
+      "name": "Técnicas de Inferencia Estadística",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/tecnicas-de-inferencia-estadistica/4131039"
+    },
+    {
+      "name": "Técnicas de Servicio de Restaurante Comportamiento Ante el Cliente",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/tecnicas-de-servicio-de-restaurante-comportamiento-ante-el-cliente/4131045"
+    },
+    {
+      "name": "Ténicas de Ventas Directas Telefónicas y Electrónicas",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/tenicas-de-ventas-directas-telefonicas-y-electronicas/4131063"
+    },
+    {
+      "name": "Ultrasonido",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/ultrasonido/4131126"
+    },
+    {
+      "name": "Urbanismo",
+      "code": "10546",
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/urbanismo/3865521"
+    },
+    {
+      "name": "Urbanismo 3",
+      "code": "10547",
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/urbanismo-3/4530119"
+    },
+    {
+      "name": "Urología",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/urologia/4131129"
+    },
+    {
+      "name": "Virología Clínica",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/virologia-clinica/4131130"
+    },
+    {
+      "name": "wireless communications",
+      "code": "EE401",
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/wireless-communications/4510335"
+    },
+    {
+      "name": "Zoologia",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/zoologia/4131133"
+    },
+    {
+      "name": "Zootecnia",
+      "code": null,
+      "url": "https://www.studocu.com/ec/course/universidad-de-cuenca/zootecnia/4131134"
+    }
+  ]
+}

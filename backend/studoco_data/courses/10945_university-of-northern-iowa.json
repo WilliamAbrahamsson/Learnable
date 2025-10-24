@@ -1,0 +1,3921 @@
+{
+  "university_id": "10945",
+  "university_name": "University of Northern Iowa",
+  "courses": [
+    {
+      "name": "Abnormal Psychology",
+      "code": "PSYCH 5403",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/abnormal-psychology/1879684"
+    },
+    {
+      "name": "Abstract Algebra I",
+      "code": "MATH 6500",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/abstract-algebra-i/1879685"
+    },
+    {
+      "name": "Accompanying",
+      "code": "MUSTECH 5350",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/accompanying/1879686"
+    },
+    {
+      "name": "Accounting Information Systems",
+      "code": "ACCT 3140",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/accounting-information-systems/1879687"
+    },
+    {
+      "name": "Acting",
+      "code": "THEATRE 1030",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/acting/1879688"
+    },
+    {
+      "name": "Acting Studio",
+      "code": "THEATRE 5125",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/acting-studio/1879689"
+    },
+    {
+      "name": "Actuarial Examination Preparation",
+      "code": "ACTSCI 3731",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/actuarial-examination-preparation/1879691"
+    },
+    {
+      "name": "Acute Care In Athletic Training",
+      "code": "AT 3030",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/acute-care-in-athletic-training/1879693"
+    },
+    {
+      "name": "Adapted Physical Education",
+      "code": "PEMES 5152",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/adapted-physical-education/1879694"
+    },
+    {
+      "name": "Administration Of Student Affa",
+      "code": "POSTSEC 6266",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/administration-of-student-affa/1879698"
+    },
+    {
+      "name": "Advanced Accounting",
+      "code": "ACCT 5025",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/advanced-accounting/1879699"
+    },
+    {
+      "name": "Advanced Applied Digital Journalism",
+      "code": "COMMDM 3959",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/advanced-applied-digital-journalism/1879701"
+    },
+    {
+      "name": "Advanced Applied Forensics",
+      "code": "COMM 3940",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/advanced-applied-forensics/1879703"
+    },
+    {
+      "name": "Advanced Applied Performance Studies",
+      "code": "COMM 3941",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/advanced-applied-performance-studies/1879704"
+    },
+    {
+      "name": "Advanced Calculus I",
+      "code": "MATH 5420",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/advanced-calculus-i/1879706"
+    },
+    {
+      "name": "Advanced Children's Literature",
+      "code": "LITED 3121",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/advanced-childrens-literature/1879707"
+    },
+    {
+      "name": "Advanced Composition",
+      "code": "FREN 3001",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/advanced-composition/1879709"
+    },
+    {
+      "name": "Advanced Conversation And Reading",
+      "code": "SPAN 3003",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/advanced-conversation-and-reading/1879710"
+    },
+    {
+      "name": "Advanced Design I",
+      "code": "INTDSGN 4161",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/advanced-design-i/1879711"
+    },
+    {
+      "name": "Advanced Diagnostics In Communication Disorders",
+      "code": "CSD 6660",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/advanced-diagnostics-in-communication-disorders/1879712"
+    },
+    {
+      "name": "Advanced Digital Media Production: Video Editing",
+      "code": "COMMDM 3654",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/advanced-digital-media-production-video-editing/1879713"
+    },
+    {
+      "name": "Advanced Exercise Physiology",
+      "code": "PEMES 6253",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/advanced-exercise-physiology/1879715"
+    },
+    {
+      "name": "Advanced Financial Management",
+      "code": "FIN 4145",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/advanced-financial-management/1879716"
+    },
+    {
+      "name": "Advanced Instructional Technol",
+      "code": "INSTTECH 6260",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/advanced-instructional-technol/1879717"
+    },
+    {
+      "name": "Advanced Lean Manufacturing",
+      "code": "TECH 6275",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/advanced-lean-manufacturing/1879718"
+    },
+    {
+      "name": "Advanced Literacy Practices",
+      "code": "LITED 4147",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/advanced-literacy-practices/1879719"
+    },
+    {
+      "name": "Advanced Manufacturing Processes",
+      "code": "TECH 3177",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/advanced-manufacturing-processes/1879720"
+    },
+    {
+      "name": "Advanced Physiology And Development",
+      "code": "BIOL 6250",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/advanced-physiology-and-development/1879721"
+    },
+    {
+      "name": "Advanced Professional Skills",
+      "code": "BUSINESS 4000",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/advanced-professional-skills/1879722"
+    },
+    {
+      "name": "Advanced Skill And Coaching Theory -- Football",
+      "code": "PEMES 3104",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/advanced-skill-and-coaching-theory-football/1879725"
+    },
+    {
+      "name": "Advanced Statistics",
+      "code": "PSYCH 6001",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/advanced-statistics/1879730"
+    },
+    {
+      "name": "Advanced Synthesis Laboratory",
+      "code": "CHEM 5610",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/advanced-synthesis-laboratory/1879731"
+    },
+    {
+      "name": "Advanced Vocal Performance",
+      "code": "MUSTECH 6230",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/advanced-vocal-performance/1879732"
+    },
+    {
+      "name": "Advanced Writing",
+      "code": "SPAN 3001",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/advanced-writing/1879733"
+    },
+    {
+      "name": "Advertising And Promotion",
+      "code": "MKTG 3143",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/advertising-and-promotion/1879735"
+    },
+    {
+      "name": "African Politics",
+      "code": "POLCOMP 3165",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/african-politics/1879737"
+    },
+    {
+      "name": "Air Quality",
+      "code": "EARTHSCI 5230",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/air-quality/1879738"
+    },
+    {
+      "name": "airport codes",
+      "code": "blaw 20001",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/airport-codes/5147794"
+    },
+    {
+      "name": "American Indian History",
+      "code": "HISUS 5270",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/american-indian-history/1879739"
+    },
+    {
+      "name": "American Political Thought",
+      "code": "POLTHRY 3129",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/american-political-thought/1879740"
+    },
+    {
+      "name": "American Racial And Ethnic Minorities",
+      "code": "SW 2045",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/american-racial-and-ethnic-minorities/1879741"
+    },
+    {
+      "name": "American Sign Language (Asl) I",
+      "code": "CSD 3190",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/american-sign-language-asl-i/1879742"
+    },
+    {
+      "name": "Analisis y Desarrollo de Sistemas de Informacion",
+      "code": "228106",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/analisis-y-desarrollo-de-sistemas-de-informacion/4362869"
+    },
+    {
+      "name": "Analysis Of Music",
+      "code": "MUSTHEO 3100",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/analysis-of-music/1879745"
+    },
+    {
+      "name": "Analytical Techniques II",
+      "code": "MUSTHEO 6110",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/analytical-techniques-ii/1879746"
+    },
+    {
+      "name": "Analyzing Politics",
+      "code": "POLGEN 2010",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/analyzing-politics/1879747"
+    },
+    {
+      "name": "Anatomy And Kinesiology",
+      "code": "PEMES 2024",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/anatomy-and-kinesiology/1879748"
+    },
+    {
+      "name": "Anatomy And Physiology I",
+      "code": "BIOL 3101",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/anatomy-and-physiology-i/1879749"
+    },
+    {
+      "name": "Anatomy And Physiology II",
+      "code": "BIOL 3102",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/anatomy-and-physiology-ii/1879750"
+    },
+    {
+      "name": "Anatomy And Physiology Of Human Movement",
+      "code": "PEMES 2050",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/anatomy-and-physiology-of-human-movement/1879751"
+    },
+    {
+      "name": "Ancient Egyptian Art",
+      "code": "ARTHIST 4010",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/ancient-egyptian-art/1879752"
+    },
+    {
+      "name": "Anthropology Internship",
+      "code": "ANTH 4485",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/anthropology-internship/1879754"
+    },
+    {
+      "name": "Applied Multivariate Statistical Analysis",
+      "code": "STAT 5779",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/applied-multivariate-statistical-analysis/1879761"
+    },
+    {
+      "name": "Applied Organic And Biochemistry",
+      "code": "CHEM 2040",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/applied-organic-and-biochemistry/1879762"
+    },
+    {
+      "name": "Applied Perform Stu / Save",
+      "code": "COMM 1941",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/applied-perform-stu-save/1879763"
+    },
+    {
+      "name": "Applied Piano Beyond Proficien",
+      "code": "MUSAPPL 2600",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/applied-piano-beyond-proficien/1879764"
+    },
+    {
+      "name": "Applied Psychology",
+      "code": "PSYCH 2301",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/applied-psychology/1879766"
+    },
+    {
+      "name": "Applied Statistical Methods For Research",
+      "code": "STAT 5771",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/applied-statistical-methods-for-research/1879768"
+    },
+    {
+      "name": "Applied Writing: Technical Com",
+      "code": "ENGLISH 5775",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/applied-writing-technical-com/1879769"
+    },
+    {
+      "name": "Approaches To Language Learning And Teaching",
+      "code": "LANG 5740",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/approaches-to-language-learning-and-teaching/1879770"
+    },
+    {
+      "name": "Archaeology for Beginners",
+      "code": "ANTH 2005",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/archaeology-for-beginners/7313637"
+    },
+    {
+      "name": "Argumentation And Debate",
+      "code": "COMM 2257",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/argumentation-and-debate/1879772"
+    },
+    {
+      "name": "Art History Seminar",
+      "code": "ARTHIST 4999",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/art-history-seminar/1879773"
+    },
+    {
+      "name": "Artificial Intelligence",
+      "code": "CS 3610",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/artificial-intelligence/1879774"
+    },
+    {
+      "name": "Asian American Literature",
+      "code": "ENGLISH 5560",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/asian-american-literature/1879775"
+    },
+    {
+      "name": "Assessment And Evaluation Of Literacy",
+      "code": "LITED 4140",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/assessment-and-evaluation-of-literacy/1879776"
+    },
+    {
+      "name": "Assessment In Postsecondary Ed",
+      "code": "POSTSEC 6231",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/assessment-in-postsecondary-ed/1879777"
+    },
+    {
+      "name": "Assessment Processes In Physical Education",
+      "code": "PEMES 3174",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/assessment-processes-in-physical-education/1879778"
+    },
+    {
+      "name": "Assessment Techniques In Counseling",
+      "code": "COUN 6228",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/assessment-techniques-in-counseling/1879779"
+    },
+    {
+      "name": "Assessment, Programming And Evaluation In Therapeutic Recrea",
+      "code": "LYHS 4995",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/assessment-programming-and-evaluation-in-therapeutic-recrea/1879780"
+    },
+    {
+      "name": "Astronomy",
+      "code": "EARTHSCI 1100",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/astronomy/1879782"
+    },
+    {
+      "name": "Astronomy Laboratory",
+      "code": "EARTHSCI 1110",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/astronomy-laboratory/1879783"
+    },
+    {
+      "name": "Athletic Training Administration And Professional Developmen",
+      "code": "AT 3060",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/athletic-training-administration-and-professional-developmen/1879784"
+    },
+    {
+      "name": "Auditing",
+      "code": "ACCT 4160",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/auditing/1879786"
+    },
+    {
+      "name": "B.F.A. Exhibition",
+      "code": "ART 4400",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/bfa-exhibition/1879791"
+    },
+    {
+      "name": "B.F.A. Project II: Ceramics",
+      "code": "ART 4222",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/bfa-project-ii-ceramics/1879792"
+    },
+    {
+      "name": "Basic Nutrition",
+      "code": "NUTR 1030",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/basic-nutrition/1879793"
+    },
+    {
+      "name": "Bassoon",
+      "code": "MUSAPPL 6290",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/bassoon/1879794"
+    },
+    {
+      "name": "Behavior Change for Health Promotion",
+      "code": "PH 2100",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/behavior-change-for-health-promotion/7575686"
+    },
+    {
+      "name": "Behavioral Interventions In Sc",
+      "code": "EDPSYCH 6270",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/behavioral-interventions-in-sc/1879796"
+    },
+    {
+      "name": "Beyond Google: An Introduction",
+      "code": "LIBRARY 1030",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/beyond-google-an-introduction/1879797"
+    },
+    {
+      "name": "Bfa Project I: Ceramics",
+      "code": "ART 4111",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/bfa-project-i-ceramics/1879798"
+    },
+    {
+      "name": "Bio-Medical Ethics",
+      "code": "CAP 3173",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/bio-medical-ethics/1879801"
+    },
+    {
+      "name": "Bio-Medical Ethics",
+      "code": "RELS 3510",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/bio-medical-ethics/1879802"
+    },
+    {
+      "name": "Bioarchaeology",
+      "code": "ANTH 3159",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/bioarchaeology/1879799"
+    },
+    {
+      "name": "Biochemistry I",
+      "code": "CHEM 5510",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/biochemistry-i/1879800"
+    },
+    {
+      "name": "Biology",
+      "code": "1014",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/biology/3358927"
+    },
+    {
+      "name": "Biopsychology",
+      "code": "PSYCH 2101",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/biopsychology/1879803"
+    },
+    {
+      "name": "Biostatistics",
+      "code": "BIOL 5157",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/biostatistics/1879804"
+    },
+    {
+      "name": "Blues And Jazz In African Amer",
+      "code": "ENGLISH 4577",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/blues-and-jazz-in-african-amer/1879805"
+    },
+    {
+      "name": "Blues And Jazz In African American Film And Literature",
+      "code": "CAP 3187",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/blues-and-jazz-in-african-american-film-and-literature/1879806"
+    },
+    {
+      "name": "Body, Voice, Awareness",
+      "code": "THEATRE 1025",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/body-voice-awareness/1879807"
+    },
+    {
+      "name": "Bones and stones",
+      "code": "SCI101",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/bones-and-stones/5848614"
+    },
+    {
+      "name": "British Novel Since 1900",
+      "code": "ENGLISH 5345",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/british-novel-since-1900/1879808"
+    },
+    {
+      "name": "British Romantic Writers",
+      "code": "ENGLISH 5330",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/british-romantic-writers/1879809"
+    },
+    {
+      "name": "Business Application Development I",
+      "code": "MGMT 2032",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/business-application-development-i/1879811"
+    },
+    {
+      "name": "Business Capstone Experience",
+      "code": "MGMT 6276",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/business-capstone-experience/1879813"
+    },
+    {
+      "name": "Business Communication",
+      "code": "MGMT 3113",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/business-communication/1879814"
+    },
+    {
+      "name": "Business Law",
+      "code": "MGMT 3101",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/business-law/1879815"
+    },
+    {
+      "name": "Business Law For The Professional Accountant",
+      "code": "ACCT 6170",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/business-law-for-the-professional-accountant/1879816"
+    },
+    {
+      "name": "Business Policy And Strategy",
+      "code": "MGMT 4175",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/business-policy-and-strategy/1879817"
+    },
+    {
+      "name": "Business Professionals In Trai",
+      "code": "BUSINESS 2000",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/business-professionals-in-trai/1879818"
+    },
+    {
+      "name": "Business, Ethics, And Society",
+      "code": "MGMT 5974",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/business-ethics-and-society/1879819"
+    },
+    {
+      "name": "C/C++ Programming",
+      "code": "CS 1160",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/cc-programming/1879820"
+    },
+    {
+      "name": "Calculus I",
+      "code": "MATH 1420",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/calculus-i/1879821"
+    },
+    {
+      "name": "Calculus II",
+      "code": "MATH 1421",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/calculus-ii/1879822"
+    },
+    {
+      "name": "Calculus III",
+      "code": "MATH 2422",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/calculus-iii/1879823"
+    },
+    {
+      "name": "Careers In Psychology",
+      "code": "PSYCH 2002",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/careers-in-psychology/1879827"
+    },
+    {
+      "name": "Cello",
+      "code": "MUSAPPL 6430",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/cello/1879828"
+    },
+    {
+      "name": "Ceramics II",
+      "code": "ART 3020",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/ceramics-ii/1879830"
+    },
+    {
+      "name": "Ceramics III",
+      "code": "ART 3022",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/ceramics-iii/1879831"
+    },
+    {
+      "name": "Chamber Music",
+      "code": "MUSENS 5121",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/chamber-music/1879832"
+    },
+    {
+      "name": "Chemical Technology",
+      "code": "CHEM 1020",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/chemical-technology/1879834"
+    },
+    {
+      "name": "Chemistry Labratory",
+      "code": "CHEM1104",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/chemistry-labratory/6766457"
+    },
+    {
+      "name": "Child, Family, School And Comm",
+      "code": "ELEMECML 3149",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/child-family-school-and-comm/1879837"
+    },
+    {
+      "name": "Children's Literature",
+      "code": "LITED 1044",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/childrens-literature/1879838"
+    },
+    {
+      "name": "China",
+      "code": "HUM 3124",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/china/1879839"
+    },
+    {
+      "name": "Choral Conducting",
+      "code": "MUSAPPL 6220",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/choral-conducting/1879840"
+    },
+    {
+      "name": "Christian Living",
+      "code": "CL12",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/christian-living/5138975"
+    },
+    {
+      "name": "Chromatography And Quantitative Analysis",
+      "code": "CHEM 2310",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/chromatography-and-quantitative-analysis/1879841"
+    },
+    {
+      "name": "Ciep Listening And Speaking",
+      "code": "UNIV 2008",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/ciep-listening-and-speaking/1879842"
+    },
+    {
+      "name": "Ciep Reading",
+      "code": "UNIV 2003",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/ciep-reading/1879843"
+    },
+    {
+      "name": "Ciep Writing",
+      "code": "UNIV 2004",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/ciep-writing/1879844"
+    },
+    {
+      "name": "Civil War And Reconstruction",
+      "code": "HISUS 5140",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/civil-war-and-reconstruction/1879845"
+    },
+    {
+      "name": "Clarinet",
+      "code": "MUSAPPL 6320",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/clarinet/1879846"
+    },
+    {
+      "name": "Classical Mechanics",
+      "code": "PHYSICS 5600",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/classical-mechanics/1879847"
+    },
+    {
+      "name": "Classroom Assessment",
+      "code": "MEASRES 3150",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/classroom-assessment/1879848"
+    },
+    {
+      "name": "Classroom Management K-8",
+      "code": "ELEMECML 3120",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/classroom-management-k-8/1879849"
+    },
+    {
+      "name": "Clinical Practice",
+      "code": "CSD 4500",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/clinical-practice/1879852"
+    },
+    {
+      "name": "Clinical Psychology",
+      "code": "PSYCH 2401",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/clinical-psychology/4882663"
+    },
+    {
+      "name": "clinical reasoning",
+      "code": "nu407",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/clinical-reasoning/7462930"
+    },
+    {
+      "name": "Co-Op/Internship",
+      "code": "UNIV 51CI",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/co-opinternship/1879896"
+    },
+    {
+      "name": "Cognitive Psychology",
+      "code": "PSYCH 5505",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/cognitive-psychology/1879854"
+    },
+    {
+      "name": "College Writing And Research",
+      "code": "ENGLISH 1005",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/college-writing-and-research/1879857"
+    },
+    {
+      "name": "College Writing Basics",
+      "code": "ENGLISH 1002",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/college-writing-basics/1879858"
+    },
+    {
+      "name": "Commercial Bank Management",
+      "code": "FIN 5170",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/commercial-bank-management/1879860"
+    },
+    {
+      "name": "Commercial Design I",
+      "code": "INTDSGN 4151",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/commercial-design-i/1879861"
+    },
+    {
+      "name": "Commercial Design II",
+      "code": "INTDSGN 4152",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/commercial-design-ii/1879862"
+    },
+    {
+      "name": "Communication Research Methods",
+      "code": "COMMCOR 2020",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/communication-research-methods/1879863"
+    },
+    {
+      "name": "Communication Technology",
+      "code": "TECH 1022",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/communication-technology/1879864"
+    },
+    {
+      "name": "Communication Theories",
+      "code": "COMMCOR 4124",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/communication-theories/1879865"
+    },
+    {
+      "name": "Communication, Community, And Change",
+      "code": "COMM 4444",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/communication-community-and-change/1879866"
+    },
+    {
+      "name": "Community Corrections",
+      "code": "CRIM 2217",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/community-corrections/1879867"
+    },
+    {
+      "name": "Comparative Politics",
+      "code": "POLCOMP 1040",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/comparative-politics/1879869"
+    },
+    {
+      "name": "Composition Class",
+      "code": "MUSTHEO 1300",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/composition-class/1879872"
+    },
+    {
+      "name": "Computer Applications For Inte",
+      "code": "INTDSGN 2063",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/computer-applications-for-inte/1879873"
+    },
+    {
+      "name": "Computer Architecture And Parallel Programming",
+      "code": "CS 2420",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/computer-architecture-and-parallel-programming/1879874"
+    },
+    {
+      "name": "Computer Organization",
+      "code": "CS 1410",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/computer-organization/1879875"
+    },
+    {
+      "name": "Computer Textile And Apparel D",
+      "code": "TEXDSGN 2006",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/computer-textile-and-apparel-d/1879876"
+    },
+    {
+      "name": "Computer-Aided Design And Drafting",
+      "code": "TECH 1017",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/computer-aided-design-and-drafting/1879877"
+    },
+    {
+      "name": "Computing Skills And Concepts",
+      "code": "CS 1000",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/computing-skills-and-concepts/1879879"
+    },
+    {
+      "name": "Conceptual Physics",
+      "code": "PHYSICS 1400",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/conceptual-physics/1879880"
+    },
+    {
+      "name": "Conditioning Theory And Practice",
+      "code": "PEMES 2025",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/conditioning-theory-and-practice/1879881"
+    },
+    {
+      "name": "Conflict Resolution",
+      "code": "ANTH 3470",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/conflict-resolution/1879885"
+    },
+    {
+      "name": "Conflict Resolution",
+      "code": "SOC 3090",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/conflict-resolution/1879886"
+    },
+    {
+      "name": "Constitutional Law",
+      "code": "POLAMER 3141",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/constitutional-law/1879888"
+    },
+    {
+      "name": "Construction Law And Documentation",
+      "code": "TECH 2045",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/construction-law-and-documentation/1879889"
+    },
+    {
+      "name": "Consumer Behavior",
+      "code": "MKTG 5113",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/consumer-behavior/1879892"
+    },
+    {
+      "name": "Contemporary Issues In Physical Education And Athletics",
+      "code": "PEMES 6273",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/contemporary-issues-in-physical-education-and-athletics/1879893"
+    },
+    {
+      "name": "Contemporary Political Problems",
+      "code": "POLGEN 1020",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/contemporary-political-problems/1879894"
+    },
+    {
+      "name": "Continuous Registration",
+      "code": "TECH 629C",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/continuous-registration/1879895"
+    },
+    {
+      "name": "Cooperative Education In Accounting",
+      "code": "ACCT 3179",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/cooperative-education-in-accounting/1879898"
+    },
+    {
+      "name": "Cooperative Education In Economics",
+      "code": "ECON 3179",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/cooperative-education-in-economics/1879899"
+    },
+    {
+      "name": "Cooperative Education In Finance",
+      "code": "FIN 3179",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/cooperative-education-in-finance/1879900"
+    },
+    {
+      "name": "Cornet-Trumpet",
+      "code": "MUSAPPL 6360",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/cornet-trumpet/1879904"
+    },
+    {
+      "name": "Corporate Finance",
+      "code": "FIN 5130",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/corporate-finance/1879905"
+    },
+    {
+      "name": "Corporate Law",
+      "code": "LAW1850",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/corporate-law/5156247"
+    },
+    {
+      "name": "Cost Accounting",
+      "code": "ACCT 3130",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/cost-accounting/1879907"
+    },
+    {
+      "name": "Cost-Benefit Analysis",
+      "code": "ECON 5229",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/cost-benefit-analysis/1879908"
+    },
+    {
+      "name": "Creating And Sustaining Positive Inclusive Learning Environm",
+      "code": "SPED 5181",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/creating-and-sustaining-positive-inclusive-learning-environm/1879915"
+    },
+    {
+      "name": "Creative Drama",
+      "code": "THEATRE 3000",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/creative-drama/1879916"
+    },
+    {
+      "name": "Creative Photography II",
+      "code": "ART 3070",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/creative-photography-ii/1879919"
+    },
+    {
+      "name": "Creative Textile And Apparel D",
+      "code": "TEXDSGN 1003",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/creative-textile-and-apparel-d/1879921"
+    },
+    {
+      "name": "Creativity And The Evolution Of Culture",
+      "code": "CAP 3121",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/creativity-and-the-evolution-of-culture/1879922"
+    },
+    {
+      "name": "Crime Analysis",
+      "code": "CRIM 2134",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/crime-analysis/1879923"
+    },
+    {
+      "name": "Crime And Community",
+      "code": "CRIM 2152",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/crime-and-community/1879924"
+    },
+    {
+      "name": "Crime And Social Inequality",
+      "code": "CRIM 3151",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/crime-and-social-inequality/1879926"
+    },
+    {
+      "name": "Criminal Justice System",
+      "code": "CRIM 2022",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/criminal-justice-system/1879927"
+    },
+    {
+      "name": "Criminal Law And Procedure",
+      "code": "CRIM 2500",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/criminal-law-and-procedure/1879928"
+    },
+    {
+      "name": "Criminology",
+      "code": "CRIM 2025",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/criminology/1879929"
+    },
+    {
+      "name": "Critical Writing About Literat",
+      "code": "ENGLISH 2120",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/critical-writing-about-literat/1879932"
+    },
+    {
+      "name": "Current Issues In Environmental Chemistry",
+      "code": "CHEM 5159",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/current-issues-in-environmental-chemistry/1879936"
+    },
+    {
+      "name": "Data Structures",
+      "code": "CS 1520",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/data-structures/1879941"
+    },
+    {
+      "name": "Database Management And Theory",
+      "code": "MGMT 3120",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/database-management-and-theory/1879942"
+    },
+    {
+      "name": "Database Systems",
+      "code": "CS 3140",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/database-systems/1879943"
+    },
+    {
+      "name": "Databases",
+      "code": "COMP-2394",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/databases/4533367"
+    },
+    {
+      "name": "Dawn Of Western Thought: Ancient Philosophy",
+      "code": "PHIL 2210",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/dawn-of-western-thought-ancient-philosophy/1879944"
+    },
+    {
+      "name": "Death, Sex And The Body: Phenomenology And Foucault",
+      "code": "PHIL 3330",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/death-sex-and-the-body-phenomenology-and-foucault/1879945"
+    },
+    {
+      "name": "Decision Analytics",
+      "code": "ECON 1021",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/decision-analytics/1879946"
+    },
+    {
+      "name": "Dentistry",
+      "code": "dent 1",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/dentistry/4913001"
+    },
+    {
+      "name": "Derecho romano",
+      "code": "523486",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/derecho-romano/3460984"
+    },
+    {
+      "name": "Descriptive Inorganic Chemistry",
+      "code": "CHEM 2110",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/descriptive-inorganic-chemistry/1879947"
+    },
+    {
+      "name": "Design And Analysis Of Algorithms",
+      "code": "CS 3530",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/design-and-analysis-of-algorithms/1879948"
+    },
+    {
+      "name": "Design Foundations",
+      "code": "INTDSGN 1061",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/design-foundations/1879950"
+    },
+    {
+      "name": "Design II: Theatrical Design P",
+      "code": "THEATRE 3230",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/design-ii-theatrical-design-p/1879951"
+    },
+    {
+      "name": "Development Of The Middle Scho",
+      "code": "EDPSYCH 5152",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/development-of-the-middle-scho/1879954"
+    },
+    {
+      "name": "Developmental Biology Of Animals",
+      "code": "BIOL 5146",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/developmental-biology-of-animals/1879955"
+    },
+    {
+      "name": "Developmental Psychology",
+      "code": "PSYCH 2202",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/developmental-psychology/1879957"
+    },
+    {
+      "name": "Differential Equations",
+      "code": "MATH 5425",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/differential-equations/1879961"
+    },
+    {
+      "name": "Digital Advertising",
+      "code": "MKTG 3146",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/digital-advertising/1879962"
+    },
+    {
+      "name": "Digital Culture And Communication",
+      "code": "COMM 4544",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/digital-culture-and-communication/1879963"
+    },
+    {
+      "name": "Digital Media Distribution",
+      "code": "COMMDM 5653",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/digital-media-distribution/1879968"
+    },
+    {
+      "name": "Digital Media Law & Ethics",
+      "code": "COMM DM 4630/5630",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/digital-media-law-ethics/7622041"
+    },
+    {
+      "name": "Digital Media Production I",
+      "code": "COMMDM 1651",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/digital-media-production-i/1879970"
+    },
+    {
+      "name": "Dimensions of Well-Being: Holistic Approaches to Health",
+      "code": "KAHHS 1020",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/dimensions-of-well-being-holistic-approaches-to-health/4341591"
+    },
+    {
+      "name": "Dimensions Of Well-Being: Lifestyle Yoga Lab",
+      "code": "HPELS 1030",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/dimensions-of-well-being-lifestyle-yoga-lab/1879974"
+    },
+    {
+      "name": "Dimensions Of Well-Being: Wellness Through Aquatics",
+      "code": "HPELS 1020",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/dimensions-of-well-being-wellness-through-aquatics/1879975"
+    },
+    {
+      "name": "Dirección financiera",
+      "code": "FN007",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/direccion-financiera/3433212"
+    },
+    {
+      "name": "Directed Research",
+      "code": "ELEMECML 629R",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/directed-research/1879977"
+    },
+    {
+      "name": "Directed Research Project",
+      "code": "GEOG 6598",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/directed-research-project/1879979"
+    },
+    {
+      "name": "Direito Constitucional",
+      "code": "DIRCO2019",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/direito-constitucional/4416858"
+    },
+    {
+      "name": "Direito Processual Civil",
+      "code": "DIRPC2019",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/direito-processual-civil/4416838"
+    },
+    {
+      "name": "Direito Processual Penal",
+      "code": "DIRPP2019",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/direito-processual-penal/4416839"
+    },
+    {
+      "name": "Diritto privato",
+      "code": "kjbkb",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/diritto-privato/3434549"
+    },
+    {
+      "name": "Discovering the Universe",
+      "code": "AST1002",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/discovering-the-universe/6698249"
+    },
+    {
+      "name": "Distribution And Logistics",
+      "code": "MKTG 3163",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/distribution-and-logistics/1879986"
+    },
+    {
+      "name": "Drawing I",
+      "code": "ART 1011",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/drawing-i/1879988"
+    },
+    {
+      "name": "Driver And Traffic Safety I",
+      "code": "SAFETYED 5130",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/driver-and-traffic-safety-i/1879992"
+    },
+    {
+      "name": "Drones for Mapping and Communication",
+      "code": "GEOG 2320",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/drones-for-mapping-and-communication/4387158"
+    },
+    {
+      "name": "DWB: Fad Diets",
+      "code": "KAHHS1020",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/dwb-fad-diets/4379173"
+    },
+    {
+      "name": "Dynamics Of Human Development",
+      "code": "EDPSYCH 2030",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/dynamics-of-human-development/1879993"
+    },
+    {
+      "name": "Dynamics Of Negotiations",
+      "code": "MGMT 5984",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/dynamics-of-negotiations/1879994"
+    },
+    {
+      "name": "Early Childhood Teaching",
+      "code": "TEACHING 3132",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/early-childhood-teaching/1879996"
+    },
+    {
+      "name": "Earth History",
+      "code": "EARTHSCI 1320",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/earth-history/1879997"
+    },
+    {
+      "name": "Ecology",
+      "code": "BIOL 5168",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/ecology/1879998"
+    },
+    {
+      "name": "Economic Development",
+      "code": "ECON 5249",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/economic-development/1879999"
+    },
+    {
+      "name": "Ed.S. Practicum In Education A",
+      "code": "EDPSYCH 6290",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/eds-practicum-in-education-a/1880000"
+    },
+    {
+      "name": "Educational Management In Special Education",
+      "code": "SPED 5170",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/educational-management-in-special-education/1880003"
+    },
+    {
+      "name": "Educational Program Evaluation",
+      "code": "MEASRES 6270",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/educational-program-evaluation/1880004"
+    },
+    {
+      "name": "Educational Research",
+      "code": "MEASRES 6205",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/educational-research/1880005"
+    },
+    {
+      "name": "Educational Technology And Des",
+      "code": "INSTTECH 1031",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/educational-technology-and-des/1880006"
+    },
+    {
+      "name": "Electrical Construction Materials And Methods",
+      "code": "TECH 3128",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/electrical-construction-materials-and-methods/1880007"
+    },
+    {
+      "name": "Electronic Communications",
+      "code": "TECH 5103",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/electronic-communications/1880008"
+    },
+    {
+      "name": "Elementary Chinese II",
+      "code": "CHIN 1002",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/elementary-chinese-ii/1880010"
+    },
+    {
+      "name": "Elementary Logic",
+      "code": "PHIL 1030",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/elementary-logic/1880012"
+    },
+    {
+      "name": "Elementary Spanish I",
+      "code": "SPAN 1001",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/elementary-spanish-i/1880013"
+    },
+    {
+      "name": "Elementary Spanish II",
+      "code": "SPAN 1002",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/elementary-spanish-ii/1880014"
+    },
+    {
+      "name": "Elementary Teaching",
+      "code": "TEACHING 3134",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/elementary-teaching/1880015"
+    },
+    {
+      "name": "Elementary/General Music Methods",
+      "code": "MUSED 3410",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/elementarygeneral-music-methods/1880016"
+    },
+    {
+      "name": "Elements Of Creative Writing",
+      "code": "ENGLISH 2700",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/elements-of-creative-writing/1880017"
+    },
+    {
+      "name": "Elements Of Weather",
+      "code": "EARTHSCI 1200",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/elements-of-weather/1880018"
+    },
+    {
+      "name": "Elements Of Weather Laboratory",
+      "code": "EARTHSCI 1210",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/elements-of-weather-laboratory/1880019"
+    },
+    {
+      "name": "Employment And Labor Law",
+      "code": "MGMT 5905",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/employment-and-labor-law/1880020"
+    },
+    {
+      "name": "Engineering Cost Analysis",
+      "code": "TECH 6100",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/engineering-cost-analysis/1880021"
+    },
+    {
+      "name": "Engineering Materials",
+      "code": "TECH 2072",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/engineering-materials/1880022"
+    },
+    {
+      "name": "English Grammar: Form And Function",
+      "code": "TESOL 5340",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/english-grammar-form-and-function/1880023"
+    },
+    {
+      "name": "English Language Structures And Usage For K-8 Educators",
+      "code": "LITED 4155",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/english-language-structures-and-usage-for-k-8-educators/1880024"
+    },
+    {
+      "name": "English Renaissance",
+      "code": "ENGLISH 5320",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/english-renaissance/1880025"
+    },
+    {
+      "name": "Enhancing Learning Through Act",
+      "code": "INSTTECH 6208",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/enhancing-learning-through-act/1880026"
+    },
+    {
+      "name": "Entrepreneurial Fundamentals",
+      "code": "BUSINESS 2010",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/entrepreneurial-fundamentals/1880027"
+    },
+    {
+      "name": "Entrepreneurship",
+      "code": "MKTG 5583",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/entrepreneurship/1880028"
+    },
+    {
+      "name": "Environment, Technology, And Society",
+      "code": "CAP 3140",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/environment-technology-and-society/1880029"
+    },
+    {
+      "name": "Environmental And Occupational Health Regulations",
+      "code": "HPE 5666",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/environmental-and-occupational-health-regulations/1880030"
+    },
+    {
+      "name": "Environmental Economics",
+      "code": "ECON 5225",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/environmental-economics/1880031"
+    },
+    {
+      "name": "Environmental Geology",
+      "code": "EARTHSCI 5345",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/environmental-geology/1880032"
+    },
+    {
+      "name": "Environmental Health Science",
+      "code": "HPE 5665",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/environmental-health-science/1880033"
+    },
+    {
+      "name": "Epidemiological Methods, Research Design, And Analysis",
+      "code": "HPE 5393",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/epidemiological-methods-research-design-and-analysis/1880034"
+    },
+    {
+      "name": "Essay",
+      "code": "77342",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/essay/6665153"
+    },
+    {
+      "name": "Ethicl Issue Sprt / Phys Act",
+      "code": "PEMES 4186",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/ethicl-issue-sprt-phys-act/1880035"
+    },
+    {
+      "name": "Ethics In Business",
+      "code": "RELS 1540",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/ethics-in-business/1880036"
+    },
+    {
+      "name": "Ethics In Communication",
+      "code": "CAP 3128",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/ethics-in-communication/1880037"
+    },
+    {
+      "name": "Ethics In Communication",
+      "code": "COMM 4236",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/ethics-in-communication/1880038"
+    },
+    {
+      "name": "Euclidean Geometry",
+      "code": "MATH 5600",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/euclidean-geometry/1880039"
+    },
+    {
+      "name": "Europe history",
+      "code": "EH1",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/europe-history/4913659"
+    },
+    {
+      "name": "Evidence Based Practice I",
+      "code": "AT 6240",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/evidence-based-practice-i/1880042"
+    },
+    {
+      "name": "Evolution, Ecology And The Nature Of Science",
+      "code": "BIOL 3100",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/evolution-ecology-and-the-nature-of-science/1880043"
+    },
+    {
+      "name": "Experience",
+      "code": "ELEMECML 4192",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/experience/1880045"
+    },
+    {
+      "name": "Experience In Literacy: Tutoring",
+      "code": "LITED 5192",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/experience-in-literacy-tutoring/1880047"
+    },
+    {
+      "name": "Experience In Special Education: Practicum 1, Strategist I K",
+      "code": "SPED 5192",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/experience-in-special-education-practicum-1-strategist-i-k/1880048"
+    },
+    {
+      "name": "Exploratory Seminar",
+      "code": "INDIVSTU 4192",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/exploratory-seminar/1880050"
+    },
+    {
+      "name": "Exploring Issues And Trends In",
+      "code": "INSTTECH 5131",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/exploring-issues-and-trends-in/1880052"
+    },
+    {
+      "name": "Facilitating Career Development",
+      "code": "COUN 6225",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/facilitating-career-development/1880054"
+    },
+    {
+      "name": "Families And Aging",
+      "code": "FAMSERV 5150",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/families-and-aging/1880055"
+    },
+    {
+      "name": "Families And End Of Life Issues",
+      "code": "GERO 2111",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/families-and-end-of-life-issues/1880057"
+    },
+    {
+      "name": "Family Assessment And Interven",
+      "code": "FAMSERV 5160",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/family-assessment-and-interven/1880058"
+    },
+    {
+      "name": "Family Relationships",
+      "code": "FAMSERV 1020",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/family-relationships/1880061"
+    },
+    {
+      "name": "Fashion Culture And Industry",
+      "code": "TEXDSGN 1004",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/fashion-culture-and-industry/1880062"
+    },
+    {
+      "name": "Field Experience In Teaching Secondary Mathematics",
+      "code": "MATH 3302",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/field-experience-in-teaching-secondary-mathematics/1880066"
+    },
+    {
+      "name": "Field Instruction",
+      "code": "SW 3184",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/field-instruction/1880068"
+    },
+    {
+      "name": "Field Studies In Geology And N",
+      "code": "EARTHSCI 5410",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/field-studies-in-geology-and-n/1880069"
+    },
+    {
+      "name": "Film History",
+      "code": "ENGLISH 5660",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/film-history/1880070"
+    },
+    {
+      "name": "Financial Accounting Theory And Analysis",
+      "code": "ACCT 6120",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/financial-accounting-theory-and-analysis/1880071"
+    },
+    {
+      "name": "Financial Skills for Smart Living",
+      "code": "FIN 1040",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/financial-skills-for-smart-living/5804202"
+    },
+    {
+      "name": "First-Year Cornerstone: Integrated Communication I",
+      "code": "UNIV 1000",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/first-year-cornerstone-integrated-communication-i/1880074"
+    },
+    {
+      "name": "Fixed Income Analysis",
+      "code": "FIN 5065",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/fixed-income-analysis/1880077"
+    },
+    {
+      "name": "Foundations Of Inquiry",
+      "code": "INTDEPED 7303",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/foundations-of-inquiry/1880080"
+    },
+    {
+      "name": "Foundations Of Theatre",
+      "code": "THEATRE 1010",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/foundations-of-theatre/1880083"
+    },
+    {
+      "name": "Fundamental Physical Activities -- Outdoor/Adventure Pursuit",
+      "code": "PEMES 2017",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/fundamental-physical-activities-outdooradventure-pursuit/1880088"
+    },
+    {
+      "name": "Fundamentals of Journalism",
+      "code": "COMMDM 1620",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/fundamentals-of-journalism/4379171"
+    },
+    {
+      "name": "Física",
+      "code": "CDP5001",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/fisica/3172449"
+    },
+    {
+      "name": "General Biology: Cell Structure And Function",
+      "code": "BIOL 2052",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/general-biology-cell-structure-and-function/1880094"
+    },
+    {
+      "name": "General Biology: Organismal Diversity",
+      "code": "BIOL 2051",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/general-biology-organismal-diversity/1880095"
+    },
+    {
+      "name": "General Chemistry I",
+      "code": "CHEM 1110",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/general-chemistry-i/1880096"
+    },
+    {
+      "name": "General Chemistry I-Ii",
+      "code": "CHEM 1130",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/general-chemistry-i-ii/1880098"
+    },
+    {
+      "name": "General Chemistry II",
+      "code": "CHEM 1120",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/general-chemistry-ii/1880097"
+    },
+    {
+      "name": "General Microbiology",
+      "code": "BIOL 3151",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/general-microbiology/1880099"
+    },
+    {
+      "name": "General Physics I",
+      "code": "PHYSICS 1511",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/general-physics-i/1880100"
+    },
+    {
+      "name": "General Physics II",
+      "code": "PHYSICS 1512",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/general-physics-ii/1880101"
+    },
+    {
+      "name": "Genetics",
+      "code": "BIOL 3140",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/genetics/1880102"
+    },
+    {
+      "name": "Geometric Transformations",
+      "code": "MATH 5615",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/geometric-transformations/1880105"
+    },
+    {
+      "name": "German Language And Culture I",
+      "code": "GER 1001",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/german-language-and-culture-i/1880106"
+    },
+    {
+      "name": "Global Challenges: Colonial Encounters",
+      "code": "343228",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/global-challenges-colonial-encounters/5782529"
+    },
+    {
+      "name": "Global Marketing",
+      "code": "MKTG 5176",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/global-marketing/1880107"
+    },
+    {
+      "name": "Global Service Mission",
+      "code": "HPE 5161",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/global-service-mission/1880110"
+    },
+    {
+      "name": "Government And Not-For-Profit Accounting",
+      "code": "ACCT 5070",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/government-and-not-for-profit-accounting/1880111"
+    },
+    {
+      "name": "Graduate Colloquium",
+      "code": "BIOL 6202",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/graduate-colloquium/1880112"
+    },
+    {
+      "name": "Graduate Colloquium",
+      "code": "GEOG 6000",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/graduate-colloquium/1880113"
+    },
+    {
+      "name": "Graphic Communications Estimating And Management I",
+      "code": "TECH 5194",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/graphic-communications-estimating-and-management-i/1880118"
+    },
+    {
+      "name": "Graphic Design II",
+      "code": "ART 3030",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/graphic-design-ii/1880122"
+    },
+    {
+      "name": "Graphic Design: Motion Graphics",
+      "code": "ART 3035",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/graphic-design-motion-graphics/1880125"
+    },
+    {
+      "name": "Graphic Design: Publication Design",
+      "code": "ART 3034",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/graphic-design-publication-design/1880126"
+    },
+    {
+      "name": "Great Living Religions: Confucianism, Daoism, And Zen",
+      "code": "RELS 2110",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/great-living-religions-confucianism-daoism-and-zen/1880127"
+    },
+    {
+      "name": "Great Living Religions: Hinduism and Buddhism",
+      "code": "RELS 2100",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/great-living-religions-hinduism-and-buddhism/4385729"
+    },
+    {
+      "name": "Guidance And Instruction In Ea",
+      "code": "ELEMECML 4130",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/guidance-and-instruction-in-ea/1880131"
+    },
+    {
+      "name": "Guitar",
+      "code": "MUSAPPL 6520",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/guitar/1880132"
+    },
+    {
+      "name": "healthcare accounting",
+      "code": "ACC645",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/healthcare-accounting/3977917"
+    },
+    {
+      "name": "Hearing Science",
+      "code": "CSD 5260",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/hearing-science/1880139"
+    },
+    {
+      "name": "Hispanic Literature: Graphic Novel",
+      "code": "SPAN 5064",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/hispanic-literature-graphic-novel/1880140"
+    },
+    {
+      "name": "Historical Methods",
+      "code": "HIST 6050",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/historical-methods/1880141"
+    },
+    {
+      "name": "History Of Ancient Greece",
+      "code": "HISEUA 5310",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/history-of-ancient-greece/1880142"
+    },
+    {
+      "name": "History Of Interiors II",
+      "code": "INTDSGN 2067",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/history-of-interiors-ii/1880145"
+    },
+    {
+      "name": "History Of Mass Communication",
+      "code": "COMMDM 5711",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/history-of-mass-communication/1880147"
+    },
+    {
+      "name": "History Of Mathematics: To The Calculus",
+      "code": "MATH 5640",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/history-of-mathematics-to-the-calculus/1880148"
+    },
+    {
+      "name": "History Of Music II: Baroque A",
+      "code": "MUSHIST 1020",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/history-of-music-ii-baroque-a/1880150"
+    },
+    {
+      "name": "History Of Performance Art",
+      "code": "ARTHIST 4352",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/history-of-performance-art/1880152"
+    },
+    {
+      "name": "History Of Photography",
+      "code": "ARTHIST 4322",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/history-of-photography/1880153"
+    },
+    {
+      "name": "History Of The Theatre I",
+      "code": "THEATRE 3060",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/history-of-the-theatre-i/1880154"
+    },
+    {
+      "name": "History Of The United States",
+      "code": "HISUS 1023",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/history-of-the-united-states/1880155"
+    },
+    {
+      "name": "Honors Independent Study",
+      "code": "UNIV 4198",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/honors-independent-study/1880157"
+    },
+    {
+      "name": "Honors Seminar: The Science of Color",
+      "code": "UNIV 2196",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/honors-seminar-the-science-of-color/4341595"
+    },
+    {
+      "name": "Honors Seminar: U.S. And Global Islam",
+      "code": "UNIV 2196",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/honors-seminar-us-and-global-islam/1880158"
+    },
+    {
+      "name": "Honors Thesis",
+      "code": "UNIV 4197",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/honors-thesis/1880159"
+    },
+    {
+      "name": "Human Behavior And The Social Environment",
+      "code": "SW 4164",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/human-behavior-and-the-social-environment/1880160"
+    },
+    {
+      "name": "Human Diseases",
+      "code": "HPE 5663",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/human-diseases/1880162"
+    },
+    {
+      "name": "Human Diseases For School Health Educators",
+      "code": "HPE 3220",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/human-diseases-for-school-health-educators/1880163"
+    },
+    {
+      "name": "Human Geography",
+      "code": "GEOG 1120",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/human-geography/1880164"
+    },
+    {
+      "name": "Human Growth And Development",
+      "code": "FAMSERV 1055",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/human-growth-and-development/1880165"
+    },
+    {
+      "name": "Human Identity And Relationshi",
+      "code": "FAMSERV 1010",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/human-identity-and-relationshi/1880166"
+    },
+    {
+      "name": "Human Origins",
+      "code": "ANTH 1001",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/human-origins/1880167"
+    },
+    {
+      "name": "Human Relationships And Sexual",
+      "code": "FAMSERV 1057",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/human-relationships-and-sexual/1880169"
+    },
+    {
+      "name": "Human Rights",
+      "code": "POLINTL 3126",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/human-rights/1880170"
+    },
+    {
+      "name": "Humanities I: The Ancient, Classical, And Medieval Worlds",
+      "code": "HUM 1021",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/humanities-i-the-ancient-classical-and-medieval-worlds/1880171"
+    },
+    {
+      "name": "Humanities II: The Renaissance, Reformation, And Enlightenme",
+      "code": "HUM 1022",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/humanities-ii-the-renaissance-reformation-and-enlightenme/1880172"
+    },
+    {
+      "name": "Humanities III: The Age Of Revolution To The Present",
+      "code": "HUM 1023",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/humanities-iii-the-age-of-revolution-to-the-present/1880173"
+    },
+    {
+      "name": "Hydraulics and Pneumatics",
+      "code": "HYPN0001",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/hydraulics-and-pneumatics/4324009"
+    },
+    {
+      "name": "Hydrology Seminar",
+      "code": "EARTHSCI 5159",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/hydrology-seminar/1880174"
+    },
+    {
+      "name": "Immunology",
+      "code": "BIOL 5150",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/immunology/1880176"
+    },
+    {
+      "name": "Including Young Children With Special Needs Into The General",
+      "code": "SPED 5141",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/including-young-children-with-special-needs-into-the-general/1880178"
+    },
+    {
+      "name": "Income Tax",
+      "code": "ACCT 4150",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/income-tax/1880179"
+    },
+    {
+      "name": "Ind Study Interior Design",
+      "code": "INTDSGN 4198",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/ind-study-interior-design/1880180"
+    },
+    {
+      "name": "Independent Study",
+      "code": "WGS 4198",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/independent-study/1880181"
+    },
+    {
+      "name": "Independent Study In Family Se",
+      "code": "FAMSERV 4198",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/independent-study-in-family-se/1880182"
+    },
+    {
+      "name": "India",
+      "code": "HUM 3125",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/india/1880185"
+    },
+    {
+      "name": "Individual Readings In Philosophy",
+      "code": "PHIL 4080",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/individual-readings-in-philosophy/1880188"
+    },
+    {
+      "name": "Individual Study Project",
+      "code": "INDIVSTU 4198",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/individual-study-project/1880189"
+    },
+    {
+      "name": "Industrial Projects",
+      "code": "TECH 4159",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/industrial-projects/1880191"
+    },
+    {
+      "name": "Industrial Psychology",
+      "code": "PSYCH 5305",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/industrial-psychology/1880192"
+    },
+    {
+      "name": "Industrial Safety",
+      "code": "TECH 3196",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/industrial-safety/1880193"
+    },
+    {
+      "name": "Information Systems Management",
+      "code": "MGMT 3140",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/information-systems-management/1880195"
+    },
+    {
+      "name": "Informatiques",
+      "code": "BLAW2001",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/informatiques/4528155"
+    },
+    {
+      "name": "Injury Assessment Clinical Skills I",
+      "code": "AT 3042",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/injury-assessment-clinical-skills-i/1880196"
+    },
+    {
+      "name": "Inquiry I",
+      "code": "INTDEPED 7314",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/inquiry-i/1880198"
+    },
+    {
+      "name": "Inquiry Into Earth And Space Science",
+      "code": "SCIED 1100",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/inquiry-into-earth-and-space-science/1880199"
+    },
+    {
+      "name": "Inquiry Into Life Science",
+      "code": "SCIED 1200",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/inquiry-into-life-science/1880200"
+    },
+    {
+      "name": "Inquiry Into Physical Science",
+      "code": "SCIED 1300",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/inquiry-into-physical-science/1880201"
+    },
+    {
+      "name": "Instruction Methods In Inclusive Learning (5-12)",
+      "code": "SPED 5159",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/instruction-methods-in-inclusive-learning-5-12/1880202"
+    },
+    {
+      "name": "Instructional Design For Career And Technical Education",
+      "code": "TECH 5181",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/instructional-design-for-career-and-technical-education/1880203"
+    },
+    {
+      "name": "Instrumental Methods II: Marching Band",
+      "code": "MUSED 4162",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/instrumental-methods-ii-marching-band/1880207"
+    },
+    {
+      "name": "Insurance Company Operations",
+      "code": "FIN 3055",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/insurance-company-operations/1880209"
+    },
+    {
+      "name": "Intermediate Algebra",
+      "code": "MATH 100",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/intermediate-algebra/1880214"
+    },
+    {
+      "name": "Intermediate Financial Management",
+      "code": "FIN 3135",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/intermediate-financial-management/1880216"
+    },
+    {
+      "name": "Intermediate French Language And Culture",
+      "code": "FREN 2001",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/intermediate-french-language-and-culture/1880217"
+    },
+    {
+      "name": "Intermediate Macroeconomic Theory",
+      "code": "ECON 2122",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/intermediate-macroeconomic-theory/1880218"
+    },
+    {
+      "name": "Intermediate Microeconomic Theory",
+      "code": "ECON 2112",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/intermediate-microeconomic-theory/1880219"
+    },
+    {
+      "name": "Intermediate Professional Skil",
+      "code": "BUSINESS 3000",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/intermediate-professional-skil/1880220"
+    },
+    {
+      "name": "Intermediate Spanish",
+      "code": "SPAN 2001",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/intermediate-spanish/1880221"
+    },
+    {
+      "name": "Internal Clinical Practicum",
+      "code": "PSYCH 6418",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/internal-clinical-practicum/1880222"
+    },
+    {
+      "name": "International Experience",
+      "code": "BUSINESS 3169",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/international-experience/1880223"
+    },
+    {
+      "name": "International Financial Management",
+      "code": "FIN 5032",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/international-financial-management/1880224"
+    },
+    {
+      "name": "International Health",
+      "code": "HPE 5438",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/international-health/1880225"
+    },
+    {
+      "name": "International Management",
+      "code": "MGMT 3189",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/international-management/1880226"
+    },
+    {
+      "name": "International Relations",
+      "code": "POLINTL 1024",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/international-relations/1880227"
+    },
+    {
+      "name": "Internship - Pk 12",
+      "code": "EDLEAD 6291",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/internship-pk-12/1880232"
+    },
+    {
+      "name": "Internship -- Accounting",
+      "code": "ACCT 3090",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/internship-accounting/1880231"
+    },
+    {
+      "name": "Internship In Applied Physics",
+      "code": "PHYSICS 3500",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/internship-in-applied-physics/1880233"
+    },
+    {
+      "name": "Internship In Clinical Settings",
+      "code": "CSD 6580",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/internship-in-clinical-settings/1880234"
+    },
+    {
+      "name": "Internship In Gerontology Social Science Track",
+      "code": "GERO 4195",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/internship-in-gerontology-social-science-track/1880238"
+    },
+    {
+      "name": "Internship In Interior Design",
+      "code": "INTDSGN 4195",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/internship-in-interior-design/1880240"
+    },
+    {
+      "name": "Internship In Postsecondary Ed",
+      "code": "POSTSEC 6291",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/internship-in-postsecondary-ed/1880243"
+    },
+    {
+      "name": "Internship In School Psycholog",
+      "code": "EDPSYCH 6291",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/internship-in-school-psycholog/1880245"
+    },
+    {
+      "name": "Internship-Marketing",
+      "code": "MKTG 4595",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/internship-marketing/1880250"
+    },
+    {
+      "name": "Internship: School Counseling",
+      "code": "COUN 6291",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/internship-school-counseling/1880249"
+    },
+    {
+      "name": "Interpersonal Communication",
+      "code": "COMM 2344",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/interpersonal-communication/1880251"
+    },
+    {
+      "name": "Interpersonal Relationship Dyn",
+      "code": "FAMSERV 2054",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/interpersonal-relationship-dyn/1880252"
+    },
+    {
+      "name": "Intervention Techniques In Therapeutic Recreation",
+      "code": "LYHS 4996",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/intervention-techniques-in-therapeutic-recreation/1880254"
+    },
+    {
+      "name": "Intro to Media Studies",
+      "code": "CMN1160",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/intro-to-media-studies/5311635"
+    },
+    {
+      "name": "Intro to Power",
+      "code": "EE3600",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/intro-to-power/5174693"
+    },
+    {
+      "name": "Introduction To Algebraic Thinking For Elementary Teachers",
+      "code": "MATH 3211",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/introduction-to-algebraic-thinking-for-elementary-teachers/1880255"
+    },
+    {
+      "name": "Introduction To American Polit",
+      "code": "POLAMER 1014",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/introduction-to-american-polit/1880256"
+    },
+    {
+      "name": "Introduction to Athletic Training",
+      "code": "AT1010",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/introduction-to-athletic-training/6175620"
+    },
+    {
+      "name": "Introduction To Circuits",
+      "code": "TECH 1037",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/introduction-to-circuits/1880258"
+    },
+    {
+      "name": "Introduction To Community Health",
+      "code": "HPE 1101",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/introduction-to-community-health/1880259"
+    },
+    {
+      "name": "Introduction to computer science",
+      "code": "CSC 332",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/introduction-to-computer-science/4838026"
+    },
+    {
+      "name": "Introduction To Computing",
+      "code": "CS 1510",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/introduction-to-computing/1880260"
+    },
+    {
+      "name": "Introduction To Cultural Anthropology",
+      "code": "ANTH 1002",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/introduction-to-cultural-anthropology/1880261"
+    },
+    {
+      "name": "Introduction To Digital Electronics",
+      "code": "TECH 2042",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/introduction-to-digital-electronics/1880263"
+    },
+    {
+      "name": "Introduction To Economics",
+      "code": "ECON 1031",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/introduction-to-economics/1880264"
+    },
+    {
+      "name": "Introduction To Electrical Power And Machinery",
+      "code": "TECH 2038",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/introduction-to-electrical-power-and-machinery/1880265"
+    },
+    {
+      "name": "Introduction To Electronics",
+      "code": "PHYSICS 5300",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/introduction-to-electronics/1880266"
+    },
+    {
+      "name": "Introduction To Environmental",
+      "code": "EARTHSCI 1400",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/introduction-to-environmental/1880267"
+    },
+    {
+      "name": "Introduction To French Language And Culture I",
+      "code": "FREN 1001",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/introduction-to-french-language-and-culture-i/1880268"
+    },
+    {
+      "name": "Introduction To Geology",
+      "code": "EARTHSCI 1300",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/introduction-to-geology/1880270"
+    },
+    {
+      "name": "Introduction To Graduate Study",
+      "code": "COMMGRAD 6001",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/introduction-to-graduate-study/1880272"
+    },
+    {
+      "name": "Introduction To Information Systems",
+      "code": "MGMT 2080",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/introduction-to-information-systems/1880277"
+    },
+    {
+      "name": "Introduction To Interior Desig",
+      "code": "INTDSGN 1001",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/introduction-to-interior-desig/1880278"
+    },
+    {
+      "name": "Introduction To Leisure, Youth And Human Services",
+      "code": "LYHS 2010",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/introduction-to-leisure-youth-and-human-services/1880279"
+    },
+    {
+      "name": "Introduction To Linguistics",
+      "code": "TESOL 5120",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/introduction-to-linguistics/1880280"
+    },
+    {
+      "name": "Introduction To Probability",
+      "code": "STAT 5752",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/introduction-to-probability/1880286"
+    },
+    {
+      "name": "Introduction To Psychology",
+      "code": "PSYCH 1001",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/introduction-to-psychology/1880289"
+    },
+    {
+      "name": "Introduction To Public Adminis",
+      "code": "POLAMER 1048",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/introduction-to-public-adminis/1880290"
+    },
+    {
+      "name": "Introduction To Social Work And Social Services",
+      "code": "SW 1001",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/introduction-to-social-work-and-social-services/1880295"
+    },
+    {
+      "name": "Introduction To Sociology",
+      "code": "SOC 1000",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/introduction-to-sociology/1880296"
+    },
+    {
+      "name": "Introduction To Spanish Linguistics",
+      "code": "SPAN 3008",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/introduction-to-spanish-linguistics/1880297"
+    },
+    {
+      "name": "Introduction To Statistical Methods",
+      "code": "STAT 1772",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/introduction-to-statistical-methods/1880298"
+    },
+    {
+      "name": "Introduction To Sustainability",
+      "code": "TECH 1015",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/introduction-to-sustainability/1880300"
+    },
+    {
+      "name": "Introduction To Teaching Social Studies",
+      "code": "SOCSCI 3190",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/introduction-to-teaching-social-studies/1880301"
+    },
+    {
+      "name": "Introduction To Technology And Engineering Education",
+      "code": "TECH 1019",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/introduction-to-technology-and-engineering-education/1880302"
+    },
+    {
+      "name": "Introduction To The Army And Critical Thinking",
+      "code": "MILSCI 1091",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/introduction-to-the-army-and-critical-thinking/1880303"
+    },
+    {
+      "name": "Introduction To The Study Of History",
+      "code": "HIST 1010",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/introduction-to-the-study-of-history/1880304"
+    },
+    {
+      "name": "Introduction To Translation",
+      "code": "SPAN 3007",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/introduction-to-translation/1880305"
+    },
+    {
+      "name": "Introduction To Unmanned Aircraft Systems",
+      "code": "GEOG 5159",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/introduction-to-unmanned-aircraft-systems/1880306"
+    },
+    {
+      "name": "Introductory Biomechanics",
+      "code": "PEMES 3151",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/introductory-biomechanics/1880309"
+    },
+    {
+      "name": "Introductory Seminar For Busin",
+      "code": "BUSINESS 1000",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/introductory-seminar-for-busin/1880310"
+    },
+    {
+      "name": "Investigations In Life Science",
+      "code": "BIOL 3181",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/investigations-in-life-science/1880311"
+    },
+    {
+      "name": "Issues and Trends in Professional Nursing",
+      "code": "NSG300",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/issues-and-trends-in-professional-nursing/6874760"
+    },
+    {
+      "name": "Japan",
+      "code": "HUM 3122",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/japan/1880314"
+    },
+    {
+      "name": "Japanese Literature",
+      "code": "WXBD2021",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/japanese-literature/5153191"
+    },
+    {
+      "name": "Jazz Bass",
+      "code": "MUSAPPL 6560",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/jazz-bass/1880318"
+    },
+    {
+      "name": "Jazz Piano",
+      "code": "MUSAPPL 6570",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/jazz-piano/1880321"
+    },
+    {
+      "name": "Jazz Saxophone",
+      "code": "MUSAPPL 6580",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/jazz-saxophone/1880322"
+    },
+    {
+      "name": "Journalism And Law",
+      "code": "COMMDM 5743",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/journalism-and-law/1880323"
+    },
+    {
+      "name": "Junior Recital",
+      "code": "MUSAPPL 3780",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/junior-recital/1880324"
+    },
+    {
+      "name": "Junior-Senior Seminar: Nations, Nationalism, National Identi",
+      "code": "HIST 3000",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/junior-senior-seminar-nations-nationalism-national-identi/1880325"
+    },
+    {
+      "name": "Justice and the Good Life: Philosophical Perspectives",
+      "code": "PHIL 1040",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/justice-and-the-good-life-philosophical-perspectives/5711356"
+    },
+    {
+      "name": "Land, Route, And Construction Surveying",
+      "code": "TECH 5126",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/land-route-and-construction-surveying/1880328"
+    },
+    {
+      "name": "Language And Communication",
+      "code": "COMM 5411",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/language-and-communication/1880330"
+    },
+    {
+      "name": "Language And Culture",
+      "code": "SOC 3001",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/language-and-culture/1880331"
+    },
+    {
+      "name": "Language Development And Emergent Literacy",
+      "code": "LITED 3119",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/language-development-and-emergent-literacy/1880333"
+    },
+    {
+      "name": "Language Of School-Aged Children",
+      "code": "CSD 5200",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/language-of-school-aged-children/1880334"
+    },
+    {
+      "name": "Latin America",
+      "code": "HUM 3123",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/latin-america/1880335"
+    },
+    {
+      "name": "Latin American Culture And Civilization",
+      "code": "SPAN 3020",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/latin-american-culture-and-civilization/1880336"
+    },
+    {
+      "name": "LAW",
+      "code": "5T5Z0011",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/law/4823903"
+    },
+    {
+      "name": "Law And Economics",
+      "code": "ECON 5231",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/law-and-economics/1880337"
+    },
+    {
+      "name": "Leadership In Leisure, Youth And Human Services",
+      "code": "LYHS 2020",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/leadership-in-leisure-youth-and-human-services/1880339"
+    },
+    {
+      "name": "Leadership Skills",
+      "code": "MGMT 3183",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/leadership-skills/1880340"
+    },
+    {
+      "name": "Leading Change Through Instruc",
+      "code": "INSTTECH 6237",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/leading-change-through-instruc/1880341"
+    },
+    {
+      "name": "Leading, Helping, Advising",
+      "code": "POSTSEC 6259",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/leading-helping-advising/1880342"
+    },
+    {
+      "name": "Learning And Motivation In Cla",
+      "code": "EDPSYCH 3148",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/learning-and-motivation-in-cla/1880343"
+    },
+    {
+      "name": "Legal And Social Environment Of Business",
+      "code": "MGMT 3100",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/legal-and-social-environment-of-business/1880344"
+    },
+    {
+      "name": "Leisure, Youth And Human Services Field Experience",
+      "code": "LYHS 4265",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/leisure-youth-and-human-services-field-experience/1880346"
+    },
+    {
+      "name": "Level 1 Field Experience: Expl",
+      "code": "TEACHING 2017",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/level-1-field-experience-expl/1880347"
+    },
+    {
+      "name": "Level 2 Field Experience: Teac",
+      "code": "TEACHING 3128",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/level-2-field-experience-teac/1880348"
+    },
+    {
+      "name": "Life & Work:Value / Vocation",
+      "code": "POSTSEC 5186",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/life-workvalue-vocation/1880349"
+    },
+    {
+      "name": "Life: Continuity And Change",
+      "code": "BIOL 1014",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/life-continuity-and-change/1880350"
+    },
+    {
+      "name": "Life: Continuity And Change - Lab",
+      "code": "BIOL 1015",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/life-continuity-and-change-lab/1880351"
+    },
+    {
+      "name": "Life: The Natural World",
+      "code": "BIOL 1012",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/life-the-natural-world/1880352"
+    },
+    {
+      "name": "Life: The Natural World - Lab",
+      "code": "BIOL 1013",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/life-the-natural-world-lab/1880353"
+    },
+    {
+      "name": "Lifetime Activities II: Invasion/Territory Activities",
+      "code": "PEMES 2016",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/lifetime-activities-ii-invasionterritory-activities/1880354"
+    },
+    {
+      "name": "Linear Algebra For Applications",
+      "code": "MATH 2500",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/linear-algebra-for-applications/1880355"
+    },
+    {
+      "name": "Linear Control Systems",
+      "code": "TECH 3129",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/linear-control-systems/1880356"
+    },
+    {
+      "name": "Literature For Young Adults",
+      "code": "ENGLISH 5940",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/literature-for-young-adults/1880357"
+    },
+    {
+      "name": "Loss Models",
+      "code": "ACTSCI 5788",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/loss-models/1880359"
+    },
+    {
+      "name": "M.A.E. Practicum In Education",
+      "code": "EDPSYCH 6288",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/mae-practicum-in-education/1880360"
+    },
+    {
+      "name": "maltese",
+      "code": "mlt 5656",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/maltese/5213354"
+    },
+    {
+      "name": "Mammalogy",
+      "code": "BIOL 5164",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/mammalogy/1880362"
+    },
+    {
+      "name": "Management Information Systems Concepts",
+      "code": "MGMT 6249",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/management-information-systems-concepts/1880363"
+    },
+    {
+      "name": "Management Internship",
+      "code": "MGMT 5969",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/management-internship/1880364"
+    },
+    {
+      "name": "Management Of Leisure, Youth And Human Services",
+      "code": "LYHS 3050",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/management-of-leisure-youth-and-human-services/1880367"
+    },
+    {
+      "name": "Managerial Accounting",
+      "code": "ACCT 6030",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/managerial-accounting/1880368"
+    },
+    {
+      "name": "Managerial Economics",
+      "code": "ECON 6520",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/managerial-economics/1880369"
+    },
+    {
+      "name": "Manufacturing Processes I",
+      "code": "TECH 1008",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/manufacturing-processes-i/1880374"
+    },
+    {
+      "name": "Marching Band",
+      "code": "MUSENS 5180",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/marching-band/1880375"
+    },
+    {
+      "name": "Marketing Management",
+      "code": "MKTG 6170",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/marketing-management/1880376"
+    },
+    {
+      "name": "Marketing Research",
+      "code": "MKTG 5116",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/marketing-research/1880377"
+    },
+    {
+      "name": "Marketing Strategy",
+      "code": "MKTG 5170",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/marketing-strategy/1880378"
+    },
+    {
+      "name": "Mass Communication And Society",
+      "code": "COMMCOR 1010",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/mass-communication-and-society/1880379"
+    },
+    {
+      "name": "Materials And Resources For In",
+      "code": "INTDSGN 2069",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/materials-and-resources-for-in/1880380"
+    },
+    {
+      "name": "Maternal And Infant Health",
+      "code": "HPE 2120",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/maternal-and-infant-health/1880381"
+    },
+    {
+      "name": "Mathematical Analysis I",
+      "code": "MATH 6420",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/mathematical-analysis-i/1880382"
+    },
+    {
+      "name": "Mathematical Problem Solving",
+      "code": "MATH 1900",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/mathematical-problem-solving/1880383"
+    },
+    {
+      "name": "Mathematical Reasoning For Elementary Teachers I",
+      "code": "MATH 1204",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/mathematical-reasoning-for-elementary-teachers-i/1880384"
+    },
+    {
+      "name": "Mathematical Reasoning For Elementary Teachers III",
+      "code": "MATH 3204",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/mathematical-reasoning-for-elementary-teachers-iii/1880386"
+    },
+    {
+      "name": "Mathematics In Decision Making",
+      "code": "MATH 1100",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/mathematics-in-decision-making/1880389"
+    },
+    {
+      "name": "Measurement And Analysis Of Ai",
+      "code": "EARTHSCI 5250",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/measurement-and-analysis-of-ai/1880390"
+    },
+    {
+      "name": "Mecânica dos fluidos",
+      "code": "Mec 241",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/mecanica-dos-fluidos/4528940"
+    },
+    {
+      "name": "Media Literacy",
+      "code": "COMMDM 1611",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/media-literacy/1880391"
+    },
+    {
+      "name": "Medical Terminology",
+      "code": "HPE 2160",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/medical-terminology/1880392"
+    },
+    {
+      "name": "Metal Removal Processes",
+      "code": "TECH 1010",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/metal-removal-processes/1880394"
+    },
+    {
+      "name": "Methods In Elementary Art Education",
+      "code": "ARTED 2600",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/methods-in-elementary-art-education/1880397"
+    },
+    {
+      "name": "Methods Of Teaching Content Literacy In The Intermediate Gra",
+      "code": "LITED 3116",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/methods-of-teaching-content-literacy-in-the-intermediate-gra/1880400"
+    },
+    {
+      "name": "Methods Of Teaching Early Literacy",
+      "code": "LITED 3115",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/methods-of-teaching-early-literacy/1880402"
+    },
+    {
+      "name": "Methods Of Teaching Social Studies",
+      "code": "SOCSCI 4190",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/methods-of-teaching-social-studies/1880403"
+    },
+    {
+      "name": "Methods Of Teaching Visual And",
+      "code": "ELEMECML 5123",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/methods-of-teaching-visual-and/1880404"
+    },
+    {
+      "name": "Microcontroller Applications",
+      "code": "TECH 5157",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/microcontroller-applications/1880405"
+    },
+    {
+      "name": "Middle East",
+      "code": "HUM 3127",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/middle-east/1880406"
+    },
+    {
+      "name": "military psychology",
+      "code": "54100",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/military-psychology/6057628"
+    },
+    {
+      "name": "Minority Health",
+      "code": "HPE 5247",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/minority-health/1880412"
+    },
+    {
+      "name": "Modern Algebra I",
+      "code": "MATH 5500",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/modern-algebra-i/1880415"
+    },
+    {
+      "name": "Modern Chinese History",
+      "code": "HISNW 4860",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/modern-chinese-history/4390594"
+    },
+    {
+      "name": "Molecules And Life",
+      "code": "CHEM 1011",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/molecules-and-life/1880418"
+    },
+    {
+      "name": "Money And Banking",
+      "code": "ECON 2132",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/money-and-banking/1880419"
+    },
+    {
+      "name": "Motivation And Emotion",
+      "code": "PSYCH 5502",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/motivation-and-emotion/1880420"
+    },
+    {
+      "name": "Multicultural Literature",
+      "code": "ENGLISH 2520",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/multicultural-literature/1880424"
+    },
+    {
+      "name": "Native Central And South America",
+      "code": "HUM 3137",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/native-central-and-south-america/1880432"
+    },
+    {
+      "name": "Native North America",
+      "code": "HUM 3132",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/native-north-america/1880433"
+    },
+    {
+      "name": "Network Security",
+      "code": "cs134",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/network-security/5994427"
+    },
+    {
+      "name": "Networking",
+      "code": "CS 3470",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/networking/1880434"
+    },
+    {
+      "name": "Neuroscience And The Study Of Communication Disorders",
+      "code": "CSD 5130",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/neuroscience-and-the-study-of-communication-disorders/1880435"
+    },
+    {
+      "name": "News Writing For Media",
+      "code": "COMMDM 2755",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/news-writing-for-media/1880437"
+    },
+    {
+      "name": "Non Music Composition",
+      "code": "MUSAPPL 1N54",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/non-music-composition/1880438"
+    },
+    {
+      "name": "Non Music Cornet Trumpet",
+      "code": "MUSAPPL 1N36",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/non-music-cornet-trumpet/1880439"
+    },
+    {
+      "name": "Non Music Major Euphonium",
+      "code": "MUSAPPL 1N38",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/non-music-major-euphonium/1880443"
+    },
+    {
+      "name": "Non Music Major Flute",
+      "code": "MUSAPPL 1N30",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/non-music-major-flute/1880444"
+    },
+    {
+      "name": "Non Music Major Guitar",
+      "code": "MUSAPPL 1N52",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/non-music-major-guitar/1880446"
+    },
+    {
+      "name": "Non Music Major Harp",
+      "code": "MUSAPPL 1N45",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/non-music-major-harp/1880447"
+    },
+    {
+      "name": "Non Music Major Organ",
+      "code": "MUSAPPL 1N48",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/non-music-major-organ/1880449"
+    },
+    {
+      "name": "Non Music Major Piano",
+      "code": "MUSAPPL 1N46",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/non-music-major-piano/1880451"
+    },
+    {
+      "name": "Nonprofit Leadership Practicum",
+      "code": "LYHS 4339",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/nonprofit-leadership-practicum/1880460"
+    },
+    {
+      "name": "Nonverbal Communication",
+      "code": "COMM 5311",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/nonverbal-communication/1880461"
+    },
+    {
+      "name": "North American Cities",
+      "code": "GEOG 3120",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/north-american-cities/1880462"
+    },
+    {
+      "name": "Nursing Pharmacology Seminar III",
+      "code": "NUR 4077",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/nursing-pharmacology-seminar-iii/7399396"
+    },
+    {
+      "name": "Nutrition For Health Promotion",
+      "code": "HPE 4551",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/nutrition-for-health-promotion/1880463"
+    },
+    {
+      "name": "Old Testament And Other Hebrew Scriptures",
+      "code": "RELS 2001",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/old-testament-and-other-hebrew-scriptures/1880465"
+    },
+    {
+      "name": "Operations Management",
+      "code": "MGMT 3154",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/operations-management/1880467"
+    },
+    {
+      "name": "Options And Futures",
+      "code": "FIN 5155",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/options-and-futures/1880468"
+    },
+    {
+      "name": "Oral And Written Spanish",
+      "code": "SPAN 2002",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/oral-and-written-spanish/1880469"
+    },
+    {
+      "name": "Oral Communication",
+      "code": "COMM 1000",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/oral-communication/1880470"
+    },
+    {
+      "name": "Orchestra",
+      "code": "MUSENS 5170",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/orchestra/1880471"
+    },
+    {
+      "name": "Organ",
+      "code": "MUSAPPL 6480",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/organ/1880472"
+    },
+    {
+      "name": "Organic Chemistry I",
+      "code": "CHEM 2210",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/organic-chemistry-i/1880473"
+    },
+    {
+      "name": "Organic Chemistry II",
+      "code": "CHEM 2220",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/organic-chemistry-ii/1880474"
+    },
+    {
+      "name": "Organic Chemistry Laboratory",
+      "code": "CHEM 2230",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/organic-chemistry-laboratory/1880475"
+    },
+    {
+      "name": "Organizational Behavior",
+      "code": "MGMT 5965",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/organizational-behavior/1880477"
+    },
+    {
+      "name": "Organizational Communication",
+      "code": "COMM 3055",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/organizational-communication/1880478"
+    },
+    {
+      "name": "Organizational Management",
+      "code": "MGMT 3153",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/organizational-management/1880479"
+    },
+    {
+      "name": "Organizational Psychology",
+      "code": "PSYCH 5304",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/organizational-psychology/1880480"
+    },
+    {
+      "name": "Orientation To Science Teaching",
+      "code": "SCIED 5300",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/orientation-to-science-teaching/1880481"
+    },
+    {
+      "name": "Orthopedic Injury Assessment I",
+      "code": "AT 3040",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/orthopedic-injury-assessment-i/1880483"
+    },
+    {
+      "name": "Out-Of-State / International S",
+      "code": "TEACHING 5186",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/out-of-state-international-s/1880484"
+    },
+    {
+      "name": "Performance Art I",
+      "code": "ART 2060",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/performance-art-i/1880491"
+    },
+    {
+      "name": "Performance Art II",
+      "code": "ART 3060",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/performance-art-ii/1880492"
+    },
+    {
+      "name": "Performing Arts Management Internship",
+      "code": "MUSED 3010",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/performing-arts-management-internship/1880495"
+    },
+    {
+      "name": "Performing Texts",
+      "code": "COMM 2256",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/performing-texts/1880496"
+    },
+    {
+      "name": "Personal Selling",
+      "code": "MKTG 3153",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/personal-selling/1880497"
+    },
+    {
+      "name": "Personality Assessment",
+      "code": "PSYCH 6405",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/personality-assessment/1880499"
+    },
+    {
+      "name": "Perspectives On Death And Dying",
+      "code": "CAP 3194",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/perspectives-on-death-and-dying/1880500"
+    },
+    {
+      "name": "Persuasion And Influence In Business",
+      "code": "MKTG 1059",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/persuasion-and-influence-in-business/1880502"
+    },
+    {
+      "name": "Philosophical Foundations Of Leisure, Youth And Human Servic",
+      "code": "LYHS 3121",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/philosophical-foundations-of-leisure-youth-and-human-servic/1880503"
+    },
+    {
+      "name": "Philosophy: The Art Of Thinking",
+      "code": "PHIL 1020",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/philosophy-the-art-of-thinking/1880504"
+    },
+    {
+      "name": "Photojournalism",
+      "code": "COMMDM 4715",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/photojournalism/1880506"
+    },
+    {
+      "name": "Physical Activity And Nutrition For Health And Fitness",
+      "code": "PEMES 2053",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/physical-activity-and-nutrition-for-health-and-fitness/1880507"
+    },
+    {
+      "name": "Physical Chemistry I",
+      "code": "CHEM 5420",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/physical-chemistry-i/1880508"
+    },
+    {
+      "name": "Physical Geography",
+      "code": "GEOG 1210",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/physical-geography/1880509"
+    },
+    {
+      "name": "Physics I For Science And Engi",
+      "code": "PHYSICS 1701",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/physics-i-for-science-and-engi/1880511"
+    },
+    {
+      "name": "Physics III: Theory And Simula",
+      "code": "PHYSICS 2300",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/physics-iii-theory-and-simula/1880512"
+    },
+    {
+      "name": "Physics In Everyday Life",
+      "code": "PHYSICS 1000",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/physics-in-everyday-life/1880513"
+    },
+    {
+      "name": "Physics Seminar",
+      "code": "PHYSICS 3700",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/physics-seminar/1880514"
+    },
+    {
+      "name": "Piano",
+      "code": "MUSAPPL 6460",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/piano/1880516"
+    },
+    {
+      "name": "Piano Pedagogy: Group And Adult",
+      "code": "MUSED 6580",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/piano-pedagogy-group-and-adult/1880517"
+    },
+    {
+      "name": "Plant Biotechnology",
+      "code": "BIOL 5121",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/plant-biotechnology/1880520"
+    },
+    {
+      "name": "Plant Systematics",
+      "code": "BIOL 5166",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/plant-systematics/1880521"
+    },
+    {
+      "name": "Platoon Operations",
+      "code": "MILSCI 3116",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/platoon-operations/1880522"
+    },
+    {
+      "name": "Police And Society",
+      "code": "CRIM 5224",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/police-and-society/1880525"
+    },
+    {
+      "name": "Political Communication",
+      "code": "COMM 5216",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/political-communication/1880526"
+    },
+    {
+      "name": "Political Communication",
+      "code": "POLAMER 5160",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/political-communication/1880527"
+    },
+    {
+      "name": "Political Parties And Interest",
+      "code": "POLAMER 3166",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/political-parties-and-interest/1880528"
+    },
+    {
+      "name": "Politics Of The Global Economy",
+      "code": "POLINTL 5119",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/politics-of-the-global-economy/1880530"
+    },
+    {
+      "name": "Portfolio Development",
+      "code": "POSTSEC 6271",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/portfolio-development/1880531"
+    },
+    {
+      "name": "Practice With Groups And Families",
+      "code": "SW 3192",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/practice-with-groups-and-families/1880535"
+    },
+    {
+      "name": "Practicum",
+      "code": "LITED 6290",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/practicum/1880537"
+    },
+    {
+      "name": "Practicum",
+      "code": "WGS 6297",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/practicum/1880538"
+    },
+    {
+      "name": "Practicum In Counseling: Mental Health Counseling",
+      "code": "COUN 6290",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/practicum-in-counseling-mental-health-counseling/1880540"
+    },
+    {
+      "name": "Practicum In Instructional Tec",
+      "code": "INSTTECH 6297",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/practicum-in-instructional-tec/1880542"
+    },
+    {
+      "name": "Pre-Modern Japanese History",
+      "code": "4870",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/pre-modern-japanese-history/4500857"
+    },
+    {
+      "name": "Pre-Modern South Asia",
+      "code": "HISNW 5830",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/pre-modern-south-asia/1880546"
+    },
+    {
+      "name": "Precalculus",
+      "code": "MATH 1140",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/precalculus/1880544"
+    },
+    {
+      "name": "Prevention And Care Of Athletic Injuries",
+      "code": "AT 1018",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/prevention-and-care-of-athletic-injuries/1880549"
+    },
+    {
+      "name": "Principles Of Chemistry",
+      "code": "CHEM 1010",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/principles-of-chemistry/1880550"
+    },
+    {
+      "name": "Principles of Economics",
+      "code": "Econ100",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/principles-of-economics/6017023"
+    },
+    {
+      "name": "Principles Of Financial Accounting",
+      "code": "ACCT 2120",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/principles-of-financial-accounting/1880551"
+    },
+    {
+      "name": "Principles of Investment",
+      "code": "FIN 3160",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/principles-of-investment/4386349"
+    },
+    {
+      "name": "Principles Of Investments",
+      "code": "FIN 5160",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/principles-of-investments/1880552"
+    },
+    {
+      "name": "Principles Of Macroeconomics",
+      "code": "ECON 1041",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/principles-of-macroeconomics/1880553"
+    },
+    {
+      "name": "Principles Of Managerial Accounting",
+      "code": "ACCT 2130",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/principles-of-managerial-accounting/1880554"
+    },
+    {
+      "name": "Principles Of Marketing",
+      "code": "MKTG 2110",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/principles-of-marketing/1880555"
+    },
+    {
+      "name": "Principles Of Microbiology",
+      "code": "BIOL 1033",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/principles-of-microbiology/1880556"
+    },
+    {
+      "name": "Principles Of Microeconomics",
+      "code": "ECON 1051",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/principles-of-microeconomics/1880557"
+    },
+    {
+      "name": "Principles Of Public Relations",
+      "code": "COMMPR 1811",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/principles-of-public-relations/1880560"
+    },
+    {
+      "name": "Principles Of Real Estate",
+      "code": "FIN 3110",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/principles-of-real-estate/1880561"
+    },
+    {
+      "name": "Principles Of Therapeutic Recreation I",
+      "code": "LYHS 3990",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/principles-of-therapeutic-recreation-i/1880562"
+    },
+    {
+      "name": "Principles Of Tourism",
+      "code": "LYHS 2770",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/principles-of-tourism/1880563"
+    },
+    {
+      "name": "Problem Solving In Mathematics For Elementary Teachers",
+      "code": "MATH 5214",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/problem-solving-in-mathematics-for-elementary-teachers/1880567"
+    },
+    {
+      "name": "Problems In Interior Design",
+      "code": "INTDSGN 5194",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/problems-in-interior-design/1880569"
+    },
+    {
+      "name": "Problems In Juvenile And Famil",
+      "code": "POLAMER 5142",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/problems-in-juvenile-and-famil/1880570"
+    },
+    {
+      "name": "Professional Leadership Practicum",
+      "code": "LYHS 3183",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/professional-leadership-practicum/1880575"
+    },
+    {
+      "name": "Professional Seminar",
+      "code": "GEOG 4560",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/professional-seminar/1880579"
+    },
+    {
+      "name": "Professional Writing Practicum",
+      "code": "ENGLISH 5790",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/professional-writing-practicum/1880580"
+    },
+    {
+      "name": "Programming Environments For Elementary Education",
+      "code": "CS 1150",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/programming-environments-for-elementary-education/1880581"
+    },
+    {
+      "name": "Programming Environments For Secondary Education",
+      "code": "CS 1140",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/programming-environments-for-secondary-education/1880582"
+    },
+    {
+      "name": "Programming For Leisure, Youth And Human Services",
+      "code": "LYHS 3060",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/programming-for-leisure-youth-and-human-services/1880583"
+    },
+    {
+      "name": "Project Management",
+      "code": "CS 3730",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/project-management/1880585"
+    },
+    {
+      "name": "Project Management",
+      "code": "MGMT 3185",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/project-management/1880586"
+    },
+    {
+      "name": "Psycho-Social Aspects Of Competitive Sport",
+      "code": "PEMES 3122",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/psycho-social-aspects-of-competitive-sport/1880596"
+    },
+    {
+      "name": "Psychological Skills For Sport Participants",
+      "code": "PEMES 3154",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/psychological-skills-for-sport-participants/1880588"
+    },
+    {
+      "name": "Psychology",
+      "code": "Psy12",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/psychology/5000579"
+    },
+    {
+      "name": "Psychology Of Adolescence",
+      "code": "EDPSYCH 5116",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/psychology-of-adolescence/1880591"
+    },
+    {
+      "name": "Psychology Of Gender",
+      "code": "PSYCH 2201",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/psychology-of-gender/1880593"
+    },
+    {
+      "name": "Psychology Of Personality",
+      "code": "PSYCH 2402",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/psychology-of-personality/1880594"
+    },
+    {
+      "name": "Psychology of Science and Pseudoscience",
+      "code": "PSYCH 1059",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/psychology-of-science-and-pseudoscience/5711338"
+    },
+    {
+      "name": "Psychopathology",
+      "code": "PSYCH 6406",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/psychopathology/1880595"
+    },
+    {
+      "name": "Psychosocial Assessment",
+      "code": "MEASRES 6284",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/psychosocial-assessment/1880597"
+    },
+    {
+      "name": "Public Health Theory",
+      "code": "HPE 5353",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/public-health-theory/1880598"
+    },
+    {
+      "name": "Public Organizations",
+      "code": "POLAMER 4153",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/public-organizations/1880599"
+    },
+    {
+      "name": "Public Relations Campaign Methods",
+      "code": "COMMPR 5855",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/public-relations-campaign-methods/1880600"
+    },
+    {
+      "name": "Public Relations Writing",
+      "code": "COMMPR 3855",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/public-relations-writing/1880601"
+    },
+    {
+      "name": "Public Speaking",
+      "code": "COMM 2255",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/public-speaking/1880603"
+    },
+    {
+      "name": "Qualitative Research",
+      "code": "SOC 5015",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/qualitative-research/1880605"
+    },
+    {
+      "name": "Quality Assurance For Textile",
+      "code": "TEXDSGN 3010",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/quality-assurance-for-textile/1880607"
+    },
+    {
+      "name": "Quantitative Research Methods",
+      "code": "COMM 5021",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/quantitative-research-methods/1880609"
+    },
+    {
+      "name": "Race, Ethnicity And Social Justice",
+      "code": "SOC 5037",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/race-ethnicity-and-social-justice/1880610"
+    },
+    {
+      "name": "Random",
+      "code": "RDM1",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/random/4739313"
+    },
+    {
+      "name": "Readings In Biology",
+      "code": "BIOL 3185",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/readings-in-biology/1880612"
+    },
+    {
+      "name": "Readings In Contemporary Military Issues",
+      "code": "MILSCI 3189",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/readings-in-contemporary-military-issues/1880613"
+    },
+    {
+      "name": "Readings In Education",
+      "code": "ELEMECML 6285",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/readings-in-education/1880615"
+    },
+    {
+      "name": "Readings In Educational Leadership",
+      "code": "EDLEAD 7385",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/readings-in-educational-leadership/1880616"
+    },
+    {
+      "name": "Readings In Environmental Science/Health",
+      "code": "ENVSCI 6285",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/readings-in-environmental-sciencehealth/1880617"
+    },
+    {
+      "name": "Readings In History",
+      "code": "HIST 3010",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/readings-in-history/1880619"
+    },
+    {
+      "name": "Readings In Instructional Tech",
+      "code": "INSTTECH 6285",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/readings-in-instructional-tech/1880620"
+    },
+    {
+      "name": "Readings In Political Science",
+      "code": "POLGEN 5189",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/readings-in-political-science/1880624"
+    },
+    {
+      "name": "Readings In Postsecondary Educ",
+      "code": "POSTSEC 6285",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/readings-in-postsecondary-educ/1880625"
+    },
+    {
+      "name": "Readings In Sociology",
+      "code": "SOC 3130",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/readings-in-sociology/1880628"
+    },
+    {
+      "name": "Readings In Women's And Gender Studies",
+      "code": "WGS 6285",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/readings-in-womens-and-gender-studies/1880630"
+    },
+    {
+      "name": "Real Estate Appraisal And Investment",
+      "code": "FIN 3120",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/real-estate-appraisal-and-investment/1880631"
+    },
+    {
+      "name": "Real Estate Finance",
+      "code": "FIN 3125",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/real-estate-finance/1880632"
+    },
+    {
+      "name": "Real-Time Embedded Systems",
+      "code": "CS 4740",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/real-time-embedded-systems/1880634"
+    },
+    {
+      "name": "Recent Climate Change",
+      "code": "GEOG 2210",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/recent-climate-change/1880635"
+    },
+    {
+      "name": "recuros naturales",
+      "code": "1253012",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/recuros-naturales/4536663"
+    },
+    {
+      "name": "Regression Analysis",
+      "code": "STAT 5776",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/regression-analysis/1880636"
+    },
+    {
+      "name": "Religion And Politics",
+      "code": "RELS 3159",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/religion-and-politics/1880637"
+    },
+    {
+      "name": "Religion, Magic, And Witchcraft",
+      "code": "RELS 3103",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/religion-magic-and-witchcraft/1880638"
+    },
+    {
+      "name": "Religions Of The World",
+      "code": "RELS 1020",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/religions-of-the-world/1880639"
+    },
+    {
+      "name": "Remote Sensing Of The Environment",
+      "code": "GEOG 5370",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/remote-sensing-of-the-environment/1880640"
+    },
+    {
+      "name": "Reporting Methodologies And Sources",
+      "code": "COMMDM 1755",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/reporting-methodologies-and-sources/1880641"
+    },
+    {
+      "name": "Research",
+      "code": "WGS 6299",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/research/1880642"
+    },
+    {
+      "name": "Research (Doctoral Dissertation)",
+      "code": "TECH 7399",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/research-doctoral-dissertation/1880643"
+    },
+    {
+      "name": "Research (Master Thesis)",
+      "code": "TECH 6299",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/research-master-thesis/1880644"
+    },
+    {
+      "name": "Research And Evaluation In Leisure, Youth And Human Services",
+      "code": "LYHS 4070",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/research-and-evaluation-in-leisure-youth-and-human-services/1880646"
+    },
+    {
+      "name": "Research Experience In Psychology",
+      "code": "PSYCH 5705",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/research-experience-in-psychology/1880651"
+    },
+    {
+      "name": "Research Experiences: Sports Psychology/Exercise Science",
+      "code": "PEMES 3193",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/research-experiences-sports-psychologyexercise-science/1880652"
+    },
+    {
+      "name": "Research In Interior Design",
+      "code": "INTDSGN 5192",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/research-in-interior-design/1880654"
+    },
+    {
+      "name": "Research Methods",
+      "code": "PSYCH 3002",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/research-methods/1880657"
+    },
+    {
+      "name": "Research Methods In Biology",
+      "code": "BIOL 6292",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/research-methods-in-biology/1880659"
+    },
+    {
+      "name": "Research Methods In Speech-Language Pathology And Audiology",
+      "code": "CSD 6000",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/research-methods-in-speech-language-pathology-and-audiology/1880661"
+    },
+    {
+      "name": "Sales Management",
+      "code": "MKTG 3154",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/sales-management/1880665"
+    },
+    {
+      "name": "salud",
+      "code": "bioquimica",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/salud/7428323"
+    },
+    {
+      "name": "Schools And American Society",
+      "code": "SOCFOUND 3119",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/schools-and-american-society/1880667"
+    },
+    {
+      "name": "Sculpture III",
+      "code": "ART 3099",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/sculpture-iii/1880670"
+    },
+    {
+      "name": "Secondary School Teaching",
+      "code": "TEACHING 3138",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/secondary-school-teaching/1880674"
+    },
+    {
+      "name": "Seguridad Informatica",
+      "code": "SI-UNI2017",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/seguridad-informatica/4552812"
+    },
+    {
+      "name": "Seminar In Advanced Gis Analysis, Customization And Programm",
+      "code": "GEOG 6550",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/seminar-in-advanced-gis-analysis-customization-and-programm/1880677"
+    },
+    {
+      "name": "Seminar In Anthropology: Climate Change, Human Migration And",
+      "code": "ANTH 5016",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/seminar-in-anthropology-climate-change-human-migration-and/1880678"
+    },
+    {
+      "name": "Seminar In Physical Education: High Performance Model",
+      "code": "PEMES 6289",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/seminar-in-physical-education-high-performance-model/1880683"
+    },
+    {
+      "name": "Seminar In Sociology: Social Movement And Collective Action",
+      "code": "SOC 3170",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/seminar-in-sociology-social-movement-and-collective-action/1880684"
+    },
+    {
+      "name": "Seminar In Speech-Language Pathology: Degenerative Disease",
+      "code": "CSD 6289",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/seminar-in-speech-language-pathology-degenerative-disease/1880686"
+    },
+    {
+      "name": "Seminar: Topics In World Historiography: Global Slavery",
+      "code": "HIST 6288",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/seminar-topics-in-world-historiography-global-slavery/1880687"
+    },
+    {
+      "name": "Senior Mathematics Seminar",
+      "code": "MATH 4900",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/senior-mathematics-seminar/1880689"
+    },
+    {
+      "name": "Senior Project",
+      "code": "PEMES 3191",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/senior-project/1880690"
+    },
+    {
+      "name": "Senior Seminar In Criminology",
+      "code": "CRIM 4575",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/senior-seminar-in-criminology/1880694"
+    },
+    {
+      "name": "Senior Thesis",
+      "code": "PEMES 4194",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/senior-thesis/1880697"
+    },
+    {
+      "name": "Skin & Scuba Diving",
+      "code": "PEMES 1A66",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/skin-scuba-diving/1880702"
+    },
+    {
+      "name": "Social Deviance And Control",
+      "code": "CRIM 5323",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/social-deviance-and-control/1880703"
+    },
+    {
+      "name": "Social Gerontology",
+      "code": "SOC 5035",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/social-gerontology/1880704"
+    },
+    {
+      "name": "Social Policies And Issues",
+      "code": "SW 4144",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/social-policies-and-issues/1880705"
+    },
+    {
+      "name": "Social Problems",
+      "code": "SOC 1060",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/social-problems/1880706"
+    },
+    {
+      "name": "Social Protest: Performance And Rhetoric",
+      "code": "COMM 5446",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/social-protest-performance-and-rhetoric/1880707"
+    },
+    {
+      "name": "Social Psychology",
+      "code": "PSYCH 2203",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/social-psychology/1880708"
+    },
+    {
+      "name": "Social Services For Older Adults",
+      "code": "SW 5173",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/social-services-for-older-adults/1880709"
+    },
+    {
+      "name": "Social Welfare: A World View",
+      "code": "SW 1041",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/social-welfare-a-world-view/1880710"
+    },
+    {
+      "name": "Social Work Research",
+      "code": "SW 3185",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/social-work-research/1880713"
+    },
+    {
+      "name": "Sociology Internship",
+      "code": "SOC 4485",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/sociology-internship/1880715"
+    },
+    {
+      "name": "Soils And Landscapes",
+      "code": "GEOG 5220",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/soils-and-landscapes/1880717"
+    },
+    {
+      "name": "Soundscapes: Music In Culture",
+      "code": "MUSIC 1100",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/soundscapes-music-in-culture/1880718"
+    },
+    {
+      "name": "Space Planning And The Human E",
+      "code": "INTDSGN 2065",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/space-planning-and-the-human-e/1880719"
+    },
+    {
+      "name": "Spanish Hertiage Speakers",
+      "code": "SPAN 3006",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/spanish-hertiage-speakers/5479348"
+    },
+    {
+      "name": "Special Area Teaching: Art, Es",
+      "code": "TEACHING 3140",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/special-area-teaching-art-es/1880720"
+    },
+    {
+      "name": "Special Problems In Biology",
+      "code": "BIOL 6230",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/special-problems-in-biology/1880725"
+    },
+    {
+      "name": "Special Problems In Chemistry",
+      "code": "CHEM 4620",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/special-problems-in-chemistry/1880726"
+    },
+    {
+      "name": "Sport Administration Minor",
+      "code": null,
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/sport-administration-minor/6042544"
+    },
+    {
+      "name": "Sports Nutrition",
+      "code": "PEMES 3157",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/sports-nutrition/1880729"
+    },
+    {
+      "name": "Stagecraft: Scenery/Lights",
+      "code": "THEATRE 1012",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/stagecraft-scenerylights/1880732"
+    },
+    {
+      "name": "Statics And Strength Of Materials",
+      "code": "TECH 2080",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/statics-and-strength-of-materials/1880733"
+    },
+    {
+      "name": "Statistical Computing I",
+      "code": "STAT 5772",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/statistical-computing-i/1880734"
+    },
+    {
+      "name": "Statistics For Business Analytics",
+      "code": "ECON 1011",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/statistics-for-business-analytics/1880736"
+    },
+    {
+      "name": "Statistics For Social Research",
+      "code": "SOC 2020",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/statistics-for-social-research/1880737"
+    },
+    {
+      "name": "Strategic Planning And Organization Analysis",
+      "code": "MGMT 6250",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/strategic-planning-and-organization-analysis/1880738"
+    },
+    {
+      "name": "Strategies For Academic Succes",
+      "code": "POSTSEC 1055",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/strategies-for-academic-succes/1880740"
+    },
+    {
+      "name": "String Bass",
+      "code": "MUSAPPL 6440",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/string-bass/1880742"
+    },
+    {
+      "name": "Structural Analysis In Construction",
+      "code": "TECH 4175",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/structural-analysis-in-construction/1880743"
+    },
+    {
+      "name": "Stu: Comm Pub Hlth Eductr",
+      "code": "HPE 5186",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/stu-comm-pub-hlth-eductr/1880745"
+    },
+    {
+      "name": "Stu: Currnt Tech Sci Tchg",
+      "code": "SCIED 5186",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/stu-currnt-tech-sci-tchg/1880746"
+    },
+    {
+      "name": "Studies In Advanced Instrumental Pedagogy: Flute",
+      "code": "MUSED 6286",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/studies-in-advanced-instrumental-pedagogy-flute/1880747"
+    },
+    {
+      "name": "Studies In Advanced Rehabilitation Techniques",
+      "code": "AT 3186",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/studies-in-advanced-rehabilitation-techniques/1880748"
+    },
+    {
+      "name": "Studies In Application Of Crea",
+      "code": "ELEMECML 6286",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/studies-in-application-of-crea/1880750"
+    },
+    {
+      "name": "Studies In Children's And Adol",
+      "code": "EDPSYCH 6286",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/studies-in-childrens-and-adol/1880752"
+    },
+    {
+      "name": "Studies In Drivers Education",
+      "code": "SAFETYED 5186",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/studies-in-drivers-education/1880755"
+    },
+    {
+      "name": "Studies In Educational Program",
+      "code": "MEASRES 7386",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/studies-in-educational-program/1880756"
+    },
+    {
+      "name": "Studies In First-Year Peer Mentoring",
+      "code": "UNIV 3186",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/studies-in-first-year-peer-mentoring/1880758"
+    },
+    {
+      "name": "Studies In Forgiveness",
+      "code": "EDPSYCH 5186",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/studies-in-forgiveness/1880759"
+    },
+    {
+      "name": "Studies In Health Promotion: Exploring Health Promotion Care",
+      "code": "HPE 1086",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/studies-in-health-promotion-exploring-health-promotion-care/1880761"
+    },
+    {
+      "name": "Studies In Nursing Home Management & Leadership",
+      "code": "GERO 3186",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/studies-in-nursing-home-management-leadership/1880767"
+    },
+    {
+      "name": "Studies In Professional Develo",
+      "code": "ELEMECML 7386",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/studies-in-professional-develo/1880771"
+    },
+    {
+      "name": "Studies In Self-Efficacy",
+      "code": "SPED 7386",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/studies-in-self-efficacy/1880773"
+    },
+    {
+      "name": "Studies In Teaching African Am",
+      "code": "ELEMECML 5186",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/studies-in-teaching-african-am/1880774"
+    },
+    {
+      "name": "Studies In Teaching Transportation Technology",
+      "code": "TECH 3186",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/studies-in-teaching-transportation-technology/1880775"
+    },
+    {
+      "name": "Studies In Technical Writing",
+      "code": "ENGLISH 3186",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/studies-in-technical-writing/1880776"
+    },
+    {
+      "name": "Study Aboard: Klagenfurt, Austria",
+      "code": "UNIV 2001",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/study-aboard-klagenfurt-austria/1880778"
+    },
+    {
+      "name": "Study Abroad: Florence, Italy",
+      "code": "UNIV 2009",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/study-abroad-florence-italy/1880780"
+    },
+    {
+      "name": "Study Abroad: Jaen, Spain",
+      "code": "UNIV 2013",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/study-abroad-jaen-spain/1880781"
+    },
+    {
+      "name": "Supply Chain And Purchasing",
+      "code": "MGMT 3161",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/supply-chain-and-purchasing/1880783"
+    },
+    {
+      "name": "Supply Chain Modeling And Analytics",
+      "code": "MGMT 3168",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/supply-chain-modeling-and-analytics/1880784"
+    },
+    {
+      "name": "Survey Of Dance History",
+      "code": "PEMES 2034",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/survey-of-dance-history/1880788"
+    },
+    {
+      "name": "Survey Of English Literature I",
+      "code": "ENGLISH 2340",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/survey-of-english-literature-i/1880789"
+    },
+    {
+      "name": "System Administration",
+      "code": "CS 4400",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/system-administration/1880790"
+    },
+    {
+      "name": "Teaching Elementary School Sci",
+      "code": "ELEMECML 3161",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/teaching-elementary-school-sci/1880791"
+    },
+    {
+      "name": "Teaching Elementary School Soc",
+      "code": "ELEMECML 3164",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/teaching-elementary-school-soc/1880792"
+    },
+    {
+      "name": "Tesol Practicum",
+      "code": "TESOL 6297",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/tesol-practicum/1880802"
+    },
+    {
+      "name": "Textile Science",
+      "code": "TEXDSGN 1002",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/textile-science/1880803"
+    },
+    {
+      "name": "Textile Structures",
+      "code": "TEXDSGN 3009",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/textile-structures/1880804"
+    },
+    {
+      "name": "The American Consumer",
+      "code": "FAMSERV 5176",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/the-american-consumer/1880805"
+    },
+    {
+      "name": "The Holocaust In Literature An",
+      "code": "ENGLISH 3148",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/the-holocaust-in-literature-an/1880806"
+    },
+    {
+      "name": "The Holocaust In Literature And Film",
+      "code": "CAP 3148",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/the-holocaust-in-literature-and-film/1880807"
+    },
+    {
+      "name": "The Public Policy Process",
+      "code": "POLAMER 4173",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/the-public-policy-process/1880809"
+    },
+    {
+      "name": "The Sociological Career",
+      "code": "SOC 2000",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/the-sociological-career/1880811"
+    },
+    {
+      "name": "The Structure Of English",
+      "code": "TESOL 5110",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/the-structure-of-english/1880812"
+    },
+    {
+      "name": "The Teaching Of English",
+      "code": "ENGLISH 5980",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/the-teaching-of-english/1880813"
+    },
+    {
+      "name": "The Theatrical Arts And Societ",
+      "code": "THEATRE 1002",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/the-theatrical-arts-and-societ/1880816"
+    },
+    {
+      "name": "Theatre For Youth",
+      "code": "THEATRE 5110",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/theatre-for-youth/1880817"
+    },
+    {
+      "name": "Thermodynamics Of Material Processing",
+      "code": "TECH 6231",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/thermodynamics-of-material-processing/1880827"
+    },
+    {
+      "name": "Topic 5 Tutorial Solutions",
+      "code": "FINC5001",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/topic-5-tutorial-solutions/4945544"
+    },
+    {
+      "name": "Topics In Criminal Justice: Evidence-Based Corrections",
+      "code": "CRIM 4371",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/topics-in-criminal-justice-evidence-based-corrections/1880829"
+    },
+    {
+      "name": "Topics in Earth Science: Natural Resources and Civilizations",
+      "code": "EARTHSCI 3400",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/topics-in-earth-science-natural-resources-and-civilizations/4379175"
+    },
+    {
+      "name": "Topics In Language And Culture: Spanish In The U.S.",
+      "code": "SPAN 5046",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/topics-in-language-and-culture-spanish-in-the-us/1880830"
+    },
+    {
+      "name": "Topics In Management: Major Pr",
+      "code": "BUSINESS 6280",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/topics-in-management-major-pr/1880831"
+    },
+    {
+      "name": "Topics In Mathematics For Grades K-8",
+      "code": "MATH 5213",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/topics-in-mathematics-for-grades-k-8/1880832"
+    },
+    {
+      "name": "Topics In Probability And Statistics: Bayesian Data Analysis",
+      "code": "STAT 6779",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/topics-in-probability-and-statistics-bayesian-data-analysis/1880833"
+    },
+    {
+      "name": "Total Body Conditioning",
+      "code": "PEMES 1B02",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/total-body-conditioning/1880835"
+    },
+    {
+      "name": "Transportation Planning And Policy",
+      "code": "GEOG 5190",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/transportation-planning-and-policy/1880838"
+    },
+    {
+      "name": "Tuba",
+      "code": "MUSAPPL 6390",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/tuba/1880846"
+    },
+    {
+      "name": "Two-Dimensional Concepts",
+      "code": "ART 1222",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/two-dimensional-concepts/1880847"
+    },
+    {
+      "name": "U.S. History From 1929 To 1960",
+      "code": "HISUS 5160",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/us-history-from-1929-to-1960/1880848"
+    },
+    {
+      "name": "Undergraduate Research In Biology",
+      "code": "BIOL 3190",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/undergraduate-research-in-biology/1880850"
+    },
+    {
+      "name": "Undergraduate Research In Chemistry",
+      "code": "CHEM 3600",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/undergraduate-research-in-chemistry/1880851"
+    },
+    {
+      "name": "Undergraduate Research In Phys",
+      "code": "PHYSICS 3000",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/undergraduate-research-in-phys/1880854"
+    },
+    {
+      "name": "Understanding Communication Disorders",
+      "code": "CSD 1000",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/understanding-communication-disorders/1880857"
+    },
+    {
+      "name": "Understanding Visual Literacy",
+      "code": "INSTTECH 4138",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/understanding-visual-literacy/1880858"
+    },
+    {
+      "name": "Underwater vehicle",
+      "code": "AU-112",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/underwater-vehicle/4510166"
+    },
+    {
+      "name": "United States History Since 1877",
+      "code": "HISUS 1120",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/united-states-history-since-1877/1880859"
+    },
+    {
+      "name": "United States History To 1877",
+      "code": "HISUS 1110",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/united-states-history-to-1877/1880860"
+    },
+    {
+      "name": "User Interface Design",
+      "code": "CS 3120",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/user-interface-design/1880862"
+    },
+    {
+      "name": "Using Digital And Social Media",
+      "code": "INSTTECH 5153",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/using-digital-and-social-media/1880863"
+    },
+    {
+      "name": "Victimology",
+      "code": "CRIM 5319",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/victimology/1880865"
+    },
+    {
+      "name": "Viola",
+      "code": "MUSAPPL 6420",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/viola/1880866"
+    },
+    {
+      "name": "Violence In Intimate Relations",
+      "code": "FAMSERV 5145",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/violence-in-intimate-relations/1880867"
+    },
+    {
+      "name": "Visual Basic Programming",
+      "code": "CS 1130",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/visual-basic-programming/1880871"
+    },
+    {
+      "name": "Visual Perceptions",
+      "code": "ARTHIST 1004",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/visual-perceptions/1880872"
+    },
+    {
+      "name": "Voice",
+      "code": "MUSAPPL 6490",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/voice/1880874"
+    },
+    {
+      "name": "Web Development: Client-Side Coding",
+      "code": "CS 1100",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/web-development-client-side-coding/1880875"
+    },
+    {
+      "name": "Web Mapping And Gis",
+      "code": "GEOG 5335",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/web-mapping-and-gis/1880876"
+    },
+    {
+      "name": "Weight Training",
+      "code": "PEMES 1A35",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/weight-training/1880877"
+    },
+    {
+      "name": "White Collar Crime",
+      "code": "CRIM 2112",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/white-collar-crime/1880878"
+    },
+    {
+      "name": "Women's And Gender Studies: Introduction",
+      "code": "WGS 1040",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/womens-and-gender-studies-introduction/1880882"
+    },
+    {
+      "name": "World Geography",
+      "code": "GEOG 1110",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/world-geography/1880884"
+    },
+    {
+      "name": "World history",
+      "code": "Wld 30",
+      "url": "https://www.studocu.com/en-us/course/university-of-northern-iowa/world-history/7311445"
+    }
+  ]
+}

@@ -1,0 +1,786 @@
+{
+  "university_id": "2623",
+  "university_name": "Universidad ICESI",
+  "courses": [
+    {
+      "name": "administracion",
+      "code": "admo1",
+      "url": "https://www.studocu.com/co/course/universidad-icesi/administracion/5056227"
+    },
+    {
+      "name": "Algebra y funciones",
+      "code": "Matemáticas",
+      "url": "https://www.studocu.com/co/course/universidad-icesi/algebra-y-funciones/4519448"
+    },
+    {
+      "name": "Algoritmia y Programacion 2",
+      "code": "apo2",
+      "url": "https://www.studocu.com/co/course/universidad-icesi/algoritmia-y-programacion-2/7470008"
+    },
+    {
+      "name": "Anatomia",
+      "code": "Enfermedad respirsto",
+      "url": "https://www.studocu.com/co/course/universidad-icesi/anatomia/3580692"
+    },
+    {
+      "name": "Anatomía I y Laboratorio",
+      "code": null,
+      "url": "https://www.studocu.com/co/course/universidad-icesi/anatomia-i-y-laboratorio/6678657"
+    },
+    {
+      "name": "Análisis cuantitativo avanzado",
+      "code": null,
+      "url": "https://www.studocu.com/co/course/universidad-icesi/analisis-cuantitativo-avanzado/5125340"
+    },
+    {
+      "name": "Análisis Instrumental",
+      "code": null,
+      "url": "https://www.studocu.com/co/course/universidad-icesi/analisis-instrumental/4374740"
+    },
+    {
+      "name": "Análisis químico",
+      "code": null,
+      "url": "https://www.studocu.com/co/course/universidad-icesi/analisis-quimico/5150720"
+    },
+    {
+      "name": "Arquitectura de Computadores",
+      "code": null,
+      "url": "https://www.studocu.com/co/course/universidad-icesi/arquitectura-de-computadores/5156172"
+    },
+    {
+      "name": "Automatización",
+      "code": "154745",
+      "url": "https://www.studocu.com/co/course/universidad-icesi/automatizacion/5102033"
+    },
+    {
+      "name": "Bioestadistica",
+      "code": null,
+      "url": "https://www.studocu.com/co/course/universidad-icesi/bioestadistica/4470478"
+    },
+    {
+      "name": "Biofarmacia",
+      "code": null,
+      "url": "https://www.studocu.com/co/course/universidad-icesi/biofarmacia/4082559"
+    },
+    {
+      "name": "Biología general y laboratorio",
+      "code": null,
+      "url": "https://www.studocu.com/co/course/universidad-icesi/biologia-general-y-laboratorio/6951367"
+    },
+    {
+      "name": "Biología molecular",
+      "code": "1020",
+      "url": "https://www.studocu.com/co/course/universidad-icesi/biologia-molecular/4161714"
+    },
+    {
+      "name": "Bioquimica",
+      "code": null,
+      "url": "https://www.studocu.com/co/course/universidad-icesi/bioquimica/7073473"
+    },
+    {
+      "name": "Bioquímica 2",
+      "code": "26094",
+      "url": "https://www.studocu.com/co/course/universidad-icesi/bioquimica-2/3144622"
+    },
+    {
+      "name": "Biotecnología",
+      "code": "20002",
+      "url": "https://www.studocu.com/co/course/universidad-icesi/biotecnologia/3407876"
+    },
+    {
+      "name": "Calculo de varias",
+      "code": "08275",
+      "url": "https://www.studocu.com/co/course/universidad-icesi/calculo-de-varias/3766093"
+    },
+    {
+      "name": "Calculo diferencial",
+      "code": "55128",
+      "url": "https://www.studocu.com/co/course/universidad-icesi/calculo-diferencial/7253341"
+    },
+    {
+      "name": "Calculo una variable",
+      "code": null,
+      "url": "https://www.studocu.com/co/course/universidad-icesi/calculo-una-variable/7155460"
+    },
+    {
+      "name": "Canales de distribución",
+      "code": null,
+      "url": "https://www.studocu.com/co/course/universidad-icesi/canales-de-distribucion/6495882"
+    },
+    {
+      "name": "cardiologia",
+      "code": null,
+      "url": "https://www.studocu.com/co/course/universidad-icesi/cardiologia/6824795"
+    },
+    {
+      "name": "Catedra de género",
+      "code": "Optativa",
+      "url": "https://www.studocu.com/co/course/universidad-icesi/catedra-de-genero/4464444"
+    },
+    {
+      "name": "Ciberseguridad",
+      "code": "09714",
+      "url": "https://www.studocu.com/co/course/universidad-icesi/ciberseguridad/3730581"
+    },
+    {
+      "name": "Ciencia Tecnología y Sociedad",
+      "code": null,
+      "url": "https://www.studocu.com/co/course/universidad-icesi/ciencia-tecnologia-y-sociedad/1736943"
+    },
+    {
+      "name": "ciencias de la salud",
+      "code": "1111",
+      "url": "https://www.studocu.com/co/course/universidad-icesi/ciencias-de-la-salud/7617405"
+    },
+    {
+      "name": "circuitos electricos",
+      "code": null,
+      "url": "https://www.studocu.com/co/course/universidad-icesi/circuitos-electricos/4079254"
+    },
+    {
+      "name": "cirugia",
+      "code": "435",
+      "url": "https://www.studocu.com/co/course/universidad-icesi/cirugia/5153670"
+    },
+    {
+      "name": "cognitivo conductual",
+      "code": null,
+      "url": "https://www.studocu.com/co/course/universidad-icesi/cognitivo-conductual/6852518"
+    },
+    {
+      "name": "Comunicacion",
+      "code": "COE2",
+      "url": "https://www.studocu.com/co/course/universidad-icesi/comunicacion/4480357"
+    },
+    {
+      "name": "Comunicación escrita",
+      "code": "COE1",
+      "url": "https://www.studocu.com/co/course/universidad-icesi/comunicacion-escrita/6504918"
+    },
+    {
+      "name": "CONTABILIDAD FINANCIERA",
+      "code": "04169",
+      "url": "https://www.studocu.com/co/course/universidad-icesi/contabilidad-financiera/3176107"
+    },
+    {
+      "name": "Contexto comunicativo",
+      "code": "23322",
+      "url": "https://www.studocu.com/co/course/universidad-icesi/contexto-comunicativo/6783830"
+    },
+    {
+      "name": "Control de Calidad",
+      "code": null,
+      "url": "https://www.studocu.com/co/course/universidad-icesi/control-de-calidad/6621443"
+    },
+    {
+      "name": "Delitos sexuales",
+      "code": null,
+      "url": "https://www.studocu.com/co/course/universidad-icesi/delitos-sexuales/3674150"
+    },
+    {
+      "name": "Derecho constitucional",
+      "code": null,
+      "url": "https://www.studocu.com/co/course/universidad-icesi/derecho-constitucional/7699762"
+    },
+    {
+      "name": "Derecho de Familia",
+      "code": null,
+      "url": "https://www.studocu.com/co/course/universidad-icesi/derecho-de-familia/5287865"
+    },
+    {
+      "name": "Derecho Internacional Privado",
+      "code": null,
+      "url": "https://www.studocu.com/co/course/universidad-icesi/derecho-internacional-privado/5476623"
+    },
+    {
+      "name": "Derecho laboral",
+      "code": "Laboral, Derecho Lab",
+      "url": "https://www.studocu.com/co/course/universidad-icesi/derecho-laboral/7135735"
+    },
+    {
+      "name": "Derecho penal I",
+      "code": null,
+      "url": "https://www.studocu.com/co/course/universidad-icesi/derecho-penal-i/6749033"
+    },
+    {
+      "name": "Derecho Penal III",
+      "code": null,
+      "url": "https://www.studocu.com/co/course/universidad-icesi/derecho-penal-iii/7595102"
+    },
+    {
+      "name": "Derecho procesal",
+      "code": null,
+      "url": "https://www.studocu.com/co/course/universidad-icesi/derecho-procesal/4032421"
+    },
+    {
+      "name": "Dermatology",
+      "code": null,
+      "url": "https://www.studocu.com/co/course/universidad-icesi/dermatology/7272000"
+    },
+    {
+      "name": "Desarrollo",
+      "code": "30M456M",
+      "url": "https://www.studocu.com/co/course/universidad-icesi/desarrollo/4840039"
+    },
+    {
+      "name": "Diseño de biorreactores",
+      "code": null,
+      "url": "https://www.studocu.com/co/course/universidad-icesi/diseno-de-biorreactores/5155696"
+    },
+    {
+      "name": "diseño de experimentos",
+      "code": "diseño experimentos",
+      "url": "https://www.studocu.com/co/course/universidad-icesi/diseno-de-experimentos/7180183"
+    },
+    {
+      "name": "Diseño de imagen corporativa para pequeñas empresas",
+      "code": "10973",
+      "url": "https://www.studocu.com/co/course/universidad-icesi/diseno-de-imagen-corporativa-para-pequenas-empresas/4840419"
+    },
+    {
+      "name": "docencia",
+      "code": null,
+      "url": "https://www.studocu.com/co/course/universidad-icesi/docencia/5125312"
+    },
+    {
+      "name": "econometria",
+      "code": null,
+      "url": "https://www.studocu.com/co/course/universidad-icesi/econometria/4400760"
+    },
+    {
+      "name": "Economia internacional",
+      "code": "Ecointer",
+      "url": "https://www.studocu.com/co/course/universidad-icesi/economia-internacional/5695778"
+    },
+    {
+      "name": "Electricidad y Magnetismo",
+      "code": "Ingeniería",
+      "url": "https://www.studocu.com/co/course/universidad-icesi/electricidad-y-magnetismo/6346969"
+    },
+    {
+      "name": "Embriologia",
+      "code": "25001",
+      "url": "https://www.studocu.com/co/course/universidad-icesi/embriologia/3144117"
+    },
+    {
+      "name": "Emergencias",
+      "code": "HSE-1",
+      "url": "https://www.studocu.com/co/course/universidad-icesi/emergencias/4467299"
+    },
+    {
+      "name": "Enfermeria geriatrica",
+      "code": "geriatria",
+      "url": "https://www.studocu.com/co/course/universidad-icesi/enfermeria-geriatrica/3458879"
+    },
+    {
+      "name": "Entornos Educativos",
+      "code": "Ciencias Sociales",
+      "url": "https://www.studocu.com/co/course/universidad-icesi/entornos-educativos/6743248"
+    },
+    {
+      "name": "Epidemiología y Salud Pública",
+      "code": "607034",
+      "url": "https://www.studocu.com/co/course/universidad-icesi/epidemiologia-y-salud-publica/6817732"
+    },
+    {
+      "name": "Espirituales",
+      "code": null,
+      "url": "https://www.studocu.com/co/course/universidad-icesi/espirituales/7648252"
+    },
+    {
+      "name": "Estadística",
+      "code": null,
+      "url": "https://www.studocu.com/co/course/universidad-icesi/estadistica/6874419"
+    },
+    {
+      "name": "Estrategia digital",
+      "code": null,
+      "url": "https://www.studocu.com/co/course/universidad-icesi/estrategia-digital/5065233"
+    },
+    {
+      "name": "etica",
+      "code": "4993",
+      "url": "https://www.studocu.com/co/course/universidad-icesi/etica/4538002"
+    },
+    {
+      "name": "Evaluación por competencias",
+      "code": "Maestría en educació",
+      "url": "https://www.studocu.com/co/course/universidad-icesi/evaluacion-por-competencias/5827551"
+    },
+    {
+      "name": "Evolución y desarrollo",
+      "code": null,
+      "url": "https://www.studocu.com/co/course/universidad-icesi/evolucion-y-desarrollo/7211210"
+    },
+    {
+      "name": "Farmacocinetica Clinica",
+      "code": null,
+      "url": "https://www.studocu.com/co/course/universidad-icesi/farmacocinetica-clinica/6884983"
+    },
+    {
+      "name": "Farmacolecnia y Laborator",
+      "code": null,
+      "url": "https://www.studocu.com/co/course/universidad-icesi/farmacolecnia-y-laborator/7360557"
+    },
+    {
+      "name": "Farmacologías",
+      "code": null,
+      "url": "https://www.studocu.com/co/course/universidad-icesi/farmacologias/4545128"
+    },
+    {
+      "name": "Filosofía bachillerato",
+      "code": null,
+      "url": "https://www.studocu.com/co/course/universidad-icesi/filosofia-bachillerato/7522914"
+    },
+    {
+      "name": "Fisicoquimica",
+      "code": "Fisico",
+      "url": "https://www.studocu.com/co/course/universidad-icesi/fisicoquimica/3562527"
+    },
+    {
+      "name": "Fisiología animal",
+      "code": "Biología",
+      "url": "https://www.studocu.com/co/course/universidad-icesi/fisiologia-animal/6988121"
+    },
+    {
+      "name": "Fisiología I",
+      "code": null,
+      "url": "https://www.studocu.com/co/course/universidad-icesi/fisiologia-i/4293237"
+    },
+    {
+      "name": "Francés",
+      "code": null,
+      "url": "https://www.studocu.com/co/course/universidad-icesi/frances/6846410"
+    },
+    {
+      "name": "Fundamentos de Derecho",
+      "code": null,
+      "url": "https://www.studocu.com/co/course/universidad-icesi/fundamentos-de-derecho/7486973"
+    },
+    {
+      "name": "Física y laboratorio",
+      "code": null,
+      "url": "https://www.studocu.com/co/course/universidad-icesi/fisica-y-laboratorio/7708231"
+    },
+    {
+      "name": "Fútbol: a otro nivel",
+      "code": "Derecho",
+      "url": "https://www.studocu.com/co/course/universidad-icesi/futbol-a-otro-nivel/7118995"
+    },
+    {
+      "name": "Gestion empresaril",
+      "code": null,
+      "url": "https://www.studocu.com/co/course/universidad-icesi/gestion-empresaril/1614204"
+    },
+    {
+      "name": "Ginecología",
+      "code": "CCM - 28011",
+      "url": "https://www.studocu.com/co/course/universidad-icesi/ginecologia/7061988"
+    },
+    {
+      "name": "Habilidades de direccion",
+      "code": null,
+      "url": "https://www.studocu.com/co/course/universidad-icesi/habilidades-de-direccion/7040637"
+    },
+    {
+      "name": "hardening de infraestructura y servicios",
+      "code": null,
+      "url": "https://www.studocu.com/co/course/universidad-icesi/hardening-de-infraestructura-y-servicios/6351034"
+    },
+    {
+      "name": "Herramientas TIC",
+      "code": "MAESTRIA, educacón",
+      "url": "https://www.studocu.com/co/course/universidad-icesi/herramientas-tic/6957760"
+    },
+    {
+      "name": "Histología",
+      "code": null,
+      "url": "https://www.studocu.com/co/course/universidad-icesi/histologia/4293046"
+    },
+    {
+      "name": "Historia",
+      "code": "jdsksjkkds",
+      "url": "https://www.studocu.com/co/course/universidad-icesi/historia/3224694"
+    },
+    {
+      "name": "Historia de diseño y la comunicación visual",
+      "code": "12051",
+      "url": "https://www.studocu.com/co/course/universidad-icesi/historia-de-diseno-y-la-comunicacion-visual/4510759"
+    },
+    {
+      "name": "Historia del pensamiento económico",
+      "code": null,
+      "url": "https://www.studocu.com/co/course/universidad-icesi/historia-del-pensamiento-economico/4411453"
+    },
+    {
+      "name": "Historia Política Internacional",
+      "code": null,
+      "url": "https://www.studocu.com/co/course/universidad-icesi/historia-politica-internacional/5354681"
+    },
+    {
+      "name": "Humanidades",
+      "code": "0000",
+      "url": "https://www.studocu.com/co/course/universidad-icesi/humanidades/6670589"
+    },
+    {
+      "name": "In. agronomica",
+      "code": null,
+      "url": "https://www.studocu.com/co/course/universidad-icesi/in-agronomica/6781241"
+    },
+    {
+      "name": "indicadores",
+      "code": "Ingeniería Industria",
+      "url": "https://www.studocu.com/co/course/universidad-icesi/indicadores/4495070"
+    },
+    {
+      "name": "inferencia economica",
+      "code": null,
+      "url": "https://www.studocu.com/co/course/universidad-icesi/inferencia-economica/4474905"
+    },
+    {
+      "name": "Ingenieria de software II",
+      "code": null,
+      "url": "https://www.studocu.com/co/course/universidad-icesi/ingenieria-de-software-ii/6864824"
+    },
+    {
+      "name": "Inmunología",
+      "code": "CBM - 25019",
+      "url": "https://www.studocu.com/co/course/universidad-icesi/inmunologia/5808767"
+    },
+    {
+      "name": "Inteligencia artificial",
+      "code": "09481",
+      "url": "https://www.studocu.com/co/course/universidad-icesi/inteligencia-artificial/7412398"
+    },
+    {
+      "name": "Intervención Social",
+      "code": null,
+      "url": "https://www.studocu.com/co/course/universidad-icesi/intervencion-social/6409029"
+    },
+    {
+      "name": "Introduccion a la Ciencia Política",
+      "code": "10759",
+      "url": "https://www.studocu.com/co/course/universidad-icesi/introduccion-a-la-ciencia-politica/4295302"
+    },
+    {
+      "name": "Introduccion a los negocios internacionales",
+      "code": "55128",
+      "url": "https://www.studocu.com/co/course/universidad-icesi/introduccion-a-los-negocios-internacionales/7051634"
+    },
+    {
+      "name": "Introducción a la sociología",
+      "code": "ESO-23099",
+      "url": "https://www.studocu.com/co/course/universidad-icesi/introduccion-a-la-sociologia/4129969"
+    },
+    {
+      "name": "laboratorio geomaica",
+      "code": "E1256",
+      "url": "https://www.studocu.com/co/course/universidad-icesi/laboratorio-geomaica/4523425"
+    },
+    {
+      "name": "Lectura critica",
+      "code": "Derecho administrati",
+      "url": "https://www.studocu.com/co/course/universidad-icesi/lectura-critica/5414138"
+    },
+    {
+      "name": "Lic. Gastronomía",
+      "code": "Gastronomía",
+      "url": "https://www.studocu.com/co/course/universidad-icesi/lic-gastronomia/4436708"
+    },
+    {
+      "name": "Licenciatura en artes",
+      "code": "106165",
+      "url": "https://www.studocu.com/co/course/universidad-icesi/licenciatura-en-artes/6008979"
+    },
+    {
+      "name": "liderazgo",
+      "code": null,
+      "url": "https://www.studocu.com/co/course/universidad-icesi/liderazgo/4744307"
+    },
+    {
+      "name": "Literatura",
+      "code": "literaturalenguaje",
+      "url": "https://www.studocu.com/co/course/universidad-icesi/literatura/7572477"
+    },
+    {
+      "name": "Lógica de la investigación",
+      "code": "23047",
+      "url": "https://www.studocu.com/co/course/universidad-icesi/logica-de-la-investigacion/3237547"
+    },
+    {
+      "name": "Magia, brujería y herejía en la historia",
+      "code": null,
+      "url": "https://www.studocu.com/co/course/universidad-icesi/magia-brujeria-y-herejia-en-la-historia/5781780"
+    },
+    {
+      "name": "Matemáticas II",
+      "code": "1027",
+      "url": "https://www.studocu.com/co/course/universidad-icesi/matematicas-ii/6812487"
+    },
+    {
+      "name": "Medicina Interna",
+      "code": "28009",
+      "url": "https://www.studocu.com/co/course/universidad-icesi/medicina-interna/3144964"
+    },
+    {
+      "name": "medico general",
+      "code": null,
+      "url": "https://www.studocu.com/co/course/universidad-icesi/medico-general/6833054"
+    },
+    {
+      "name": "Mercadeo",
+      "code": "MIP1",
+      "url": "https://www.studocu.com/co/course/universidad-icesi/mercadeo/4541341"
+    },
+    {
+      "name": "Metrología",
+      "code": null,
+      "url": "https://www.studocu.com/co/course/universidad-icesi/metrologia/6576228"
+    },
+    {
+      "name": "Microbiología médica",
+      "code": "Microbiología",
+      "url": "https://www.studocu.com/co/course/universidad-icesi/microbiologia-medica/4401618"
+    },
+    {
+      "name": "Microeconomía",
+      "code": null,
+      "url": "https://www.studocu.com/co/course/universidad-icesi/microeconomia/4548149"
+    },
+    {
+      "name": "mision academica",
+      "code": "1234",
+      "url": "https://www.studocu.com/co/course/universidad-icesi/mision-academica/7061976"
+    },
+    {
+      "name": "Modelamiento",
+      "code": null,
+      "url": "https://www.studocu.com/co/course/universidad-icesi/modelamiento/6701081"
+    },
+    {
+      "name": "Music",
+      "code": null,
+      "url": "https://www.studocu.com/co/course/universidad-icesi/music/7093244"
+    },
+    {
+      "name": "Nefrología Pediátrica",
+      "code": null,
+      "url": "https://www.studocu.com/co/course/universidad-icesi/nefrologia-pediatrica/7655985"
+    },
+    {
+      "name": "Negociación Internacional",
+      "code": null,
+      "url": "https://www.studocu.com/co/course/universidad-icesi/negociacion-internacional/5711011"
+    },
+    {
+      "name": "Neonatos",
+      "code": null,
+      "url": "https://www.studocu.com/co/course/universidad-icesi/neonatos/4555173"
+    },
+    {
+      "name": "Neuroanatomia",
+      "code": "Neuro",
+      "url": "https://www.studocu.com/co/course/universidad-icesi/neuroanatomia/4600144"
+    },
+    {
+      "name": "neurologia",
+      "code": null,
+      "url": "https://www.studocu.com/co/course/universidad-icesi/neurologia/5782451"
+    },
+    {
+      "name": "Neuropsicologia",
+      "code": "110520",
+      "url": "https://www.studocu.com/co/course/universidad-icesi/neuropsicologia/6617060"
+    },
+    {
+      "name": "Notación Musical Digital",
+      "code": "Solfeo",
+      "url": "https://www.studocu.com/co/course/universidad-icesi/notacion-musical-digital/7135021"
+    },
+    {
+      "name": "Oftalmologia",
+      "code": null,
+      "url": "https://www.studocu.com/co/course/universidad-icesi/oftalmologia/7262255"
+    },
+    {
+      "name": "Ordenamiento juridico",
+      "code": "Derecho",
+      "url": "https://www.studocu.com/co/course/universidad-icesi/ordenamiento-juridico/6542121"
+    },
+    {
+      "name": "Orientación Profesional",
+      "code": null,
+      "url": "https://www.studocu.com/co/course/universidad-icesi/orientacion-profesional/7553598"
+    },
+    {
+      "name": "Ortopedia",
+      "code": null,
+      "url": "https://www.studocu.com/co/course/universidad-icesi/ortopedia/5782454"
+    },
+    {
+      "name": "Patologia II",
+      "code": null,
+      "url": "https://www.studocu.com/co/course/universidad-icesi/patologia-ii/7699644"
+    },
+    {
+      "name": "Patología I",
+      "code": "Ciencias básicas med",
+      "url": "https://www.studocu.com/co/course/universidad-icesi/patologia-i/6847943"
+    },
+    {
+      "name": "Pediatría",
+      "code": null,
+      "url": "https://www.studocu.com/co/course/universidad-icesi/pediatria/4702078"
+    },
+    {
+      "name": "Planeación de las operaciones",
+      "code": "Ingeniería Industria",
+      "url": "https://www.studocu.com/co/course/universidad-icesi/planeacion-de-las-operaciones/4744355"
+    },
+    {
+      "name": "Políticas Públicas",
+      "code": null,
+      "url": "https://www.studocu.com/co/course/universidad-icesi/politicas-publicas/6467905"
+    },
+    {
+      "name": "Principios de Economia",
+      "code": null,
+      "url": "https://www.studocu.com/co/course/universidad-icesi/principios-de-economia/5357555"
+    },
+    {
+      "name": "Produccion audiovisual",
+      "code": "comunicacion",
+      "url": "https://www.studocu.com/co/course/universidad-icesi/produccion-audiovisual/6398596"
+    },
+    {
+      "name": "Psicología Infantil",
+      "code": null,
+      "url": "https://www.studocu.com/co/course/universidad-icesi/psicologia-infantil/6596836"
+    },
+    {
+      "name": "Psicología organizacional",
+      "code": null,
+      "url": "https://www.studocu.com/co/course/universidad-icesi/psicologia-organizacional/6441683"
+    },
+    {
+      "name": "Psicomotricidad y juego",
+      "code": null,
+      "url": "https://www.studocu.com/co/course/universidad-icesi/psicomotricidad-y-juego/4501514"
+    },
+    {
+      "name": "psicopatología",
+      "code": null,
+      "url": "https://www.studocu.com/co/course/universidad-icesi/psicopatologia/4469891"
+    },
+    {
+      "name": "Psiquiatría",
+      "code": null,
+      "url": "https://www.studocu.com/co/course/universidad-icesi/psiquiatria/4161877"
+    },
+    {
+      "name": "Química General",
+      "code": "bioquimica",
+      "url": "https://www.studocu.com/co/course/universidad-icesi/quimica-general/4409342"
+    },
+    {
+      "name": "Química general II",
+      "code": "26102",
+      "url": "https://www.studocu.com/co/course/universidad-icesi/quimica-general-ii/6910437"
+    },
+    {
+      "name": "Química Orgánica 2",
+      "code": "Química",
+      "url": "https://www.studocu.com/co/course/universidad-icesi/quimica-organica-2/4498039"
+    },
+    {
+      "name": "Radiologia",
+      "code": "Tac ar",
+      "url": "https://www.studocu.com/co/course/universidad-icesi/radiologia/4162695"
+    },
+    {
+      "name": "relaciones internacionales",
+      "code": "23492",
+      "url": "https://www.studocu.com/co/course/universidad-icesi/relaciones-internacionales/4131329"
+    },
+    {
+      "name": "Salud Ocupacional",
+      "code": "IND1",
+      "url": "https://www.studocu.com/co/course/universidad-icesi/salud-ocupacional/6904611"
+    },
+    {
+      "name": "SALUD PUBLICA",
+      "code": "1234567890",
+      "url": "https://www.studocu.com/co/course/universidad-icesi/salud-publica/3258486"
+    },
+    {
+      "name": "Seguridad Social",
+      "code": "004562",
+      "url": "https://www.studocu.com/co/course/universidad-icesi/seguridad-social/7432752"
+    },
+    {
+      "name": "Semiología",
+      "code": "03845",
+      "url": "https://www.studocu.com/co/course/universidad-icesi/semiologia/4474312"
+    },
+    {
+      "name": "Sistemas\n operativos",
+      "code": null,
+      "url": "https://www.studocu.com/co/course/universidad-icesi/sistemas-operativos/6562340"
+    },
+    {
+      "name": "Sistemas y Comunicaciones I",
+      "code": "09796",
+      "url": "https://www.studocu.com/co/course/universidad-icesi/sistemas-y-comunicaciones-i/7309140"
+    },
+    {
+      "name": "Talento Humano",
+      "code": "GES - 01362",
+      "url": "https://www.studocu.com/co/course/universidad-icesi/talento-humano/5126788"
+    },
+    {
+      "name": "Tecnologias de fermentación",
+      "code": "TF",
+      "url": "https://www.studocu.com/co/course/universidad-icesi/tecnologias-de-fermentacion/4524466"
+    },
+    {
+      "name": "Teoría de Inversión",
+      "code": null,
+      "url": "https://www.studocu.com/co/course/universidad-icesi/teoria-de-inversion/6534691"
+    },
+    {
+      "name": "Teoría de probabilidades",
+      "code": null,
+      "url": "https://www.studocu.com/co/course/universidad-icesi/teoria-de-probabilidades/6368150"
+    },
+    {
+      "name": "Teoría Microeconónica I",
+      "code": "08167",
+      "url": "https://www.studocu.com/co/course/universidad-icesi/teoria-microecononica-i/3394830"
+    },
+    {
+      "name": "Teoría Política Clásica",
+      "code": null,
+      "url": "https://www.studocu.com/co/course/universidad-icesi/teoria-politica-clasica/5827529"
+    },
+    {
+      "name": "Teoría Política Contemporanea",
+      "code": "TPC1",
+      "url": "https://www.studocu.com/co/course/universidad-icesi/teoria-politica-contemporanea/7055447"
+    },
+    {
+      "name": "Termodinámica II",
+      "code": null,
+      "url": "https://www.studocu.com/co/course/universidad-icesi/termodinamica-ii/4356300"
+    },
+    {
+      "name": "Tesis de grado",
+      "code": "ciencias biotecnolog",
+      "url": "https://www.studocu.com/co/course/universidad-icesi/tesis-de-grado/7247715"
+    },
+    {
+      "name": "Valoración de Empresas",
+      "code": "BLAW2334444",
+      "url": "https://www.studocu.com/co/course/universidad-icesi/valoracion-de-empresas/7586024"
+    }
+  ]
+}

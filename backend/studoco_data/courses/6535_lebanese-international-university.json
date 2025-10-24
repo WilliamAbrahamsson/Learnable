@@ -1,0 +1,651 @@
+{
+  "university_id": "6535",
+  "university_name": "Lebanese International University",
+  "courses": [
+    {
+      "name": "Accounting Principles",
+      "code": "BACC210",
+      "url": "https://www.studocu.com/row/course/lebanese-international-university/accounting-principles/3733072"
+    },
+    {
+      "name": "Adminstration",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/lebanese-international-university/adminstration/7668372"
+    },
+    {
+      "name": "Advanced digital communication",
+      "code": "EENG637",
+      "url": "https://www.studocu.com/row/course/lebanese-international-university/advanced-digital-communication/4343992"
+    },
+    {
+      "name": "Advanced Financial Accounting",
+      "code": "BACC675",
+      "url": "https://www.studocu.com/row/course/lebanese-international-university/advanced-financial-accounting/6758548"
+    },
+    {
+      "name": "advanced teaching",
+      "code": "EDUD557",
+      "url": "https://www.studocu.com/row/course/lebanese-international-university/advanced-teaching/5336707"
+    },
+    {
+      "name": "AIS",
+      "code": "Bacc 430",
+      "url": "https://www.studocu.com/row/course/lebanese-international-university/ais/4498872"
+    },
+    {
+      "name": "Arabic language and literature",
+      "code": "Arab200",
+      "url": "https://www.studocu.com/row/course/lebanese-international-university/arabic-language-and-literature/5314208"
+    },
+    {
+      "name": "Auditing",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/lebanese-international-university/auditing/4498869"
+    },
+    {
+      "name": "basic organic chemistry lab",
+      "code": "chem255L",
+      "url": "https://www.studocu.com/row/course/lebanese-international-university/basic-organic-chemistry-lab/6230011"
+    },
+    {
+      "name": "Biopharmaceutics& Pharmacokinetics",
+      "code": "PHAR510",
+      "url": "https://www.studocu.com/row/course/lebanese-international-university/biopharmaceutics-pharmacokinetics/4194380"
+    },
+    {
+      "name": "BRMM",
+      "code": "575",
+      "url": "https://www.studocu.com/row/course/lebanese-international-university/brmm/2334746"
+    },
+    {
+      "name": "Business Finance",
+      "code": "BFIN300",
+      "url": "https://www.studocu.com/row/course/lebanese-international-university/business-finance/4330538"
+    },
+    {
+      "name": "business intelligence",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/lebanese-international-university/business-intelligence/5986696"
+    },
+    {
+      "name": "Business laq",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/lebanese-international-university/business-laq/7284198"
+    },
+    {
+      "name": "Business Managerial Math",
+      "code": "BMTH210",
+      "url": "https://www.studocu.com/row/course/lebanese-international-university/business-managerial-math/6968537"
+    },
+    {
+      "name": "business research method",
+      "code": "BRMM575",
+      "url": "https://www.studocu.com/row/course/lebanese-international-university/business-research-method/4552106"
+    },
+    {
+      "name": "Business Telecommunication",
+      "code": "BMIS310",
+      "url": "https://www.studocu.com/row/course/lebanese-international-university/business-telecommunication/5141698"
+    },
+    {
+      "name": "Calculus II",
+      "code": "Math210",
+      "url": "https://www.studocu.com/row/course/lebanese-international-university/calculus-ii/5374152"
+    },
+    {
+      "name": "Cell and Molecular",
+      "code": "Biol275",
+      "url": "https://www.studocu.com/row/course/lebanese-international-university/cell-and-molecular/7362748"
+    },
+    {
+      "name": "Chemistry",
+      "code": "Chem200",
+      "url": "https://www.studocu.com/row/course/lebanese-international-university/chemistry/4462930"
+    },
+    {
+      "name": "College Physics",
+      "code": "PHYS120",
+      "url": "https://www.studocu.com/row/course/lebanese-international-university/college-physics/5878105"
+    },
+    {
+      "name": "Communication Network",
+      "code": "CENG415",
+      "url": "https://www.studocu.com/row/course/lebanese-international-university/communication-network/7365094"
+    },
+    {
+      "name": "Communication Skills",
+      "code": "ENGL251",
+      "url": "https://www.studocu.com/row/course/lebanese-international-university/communication-skills/7668161"
+    },
+    {
+      "name": "Comprehension and research skills",
+      "code": "ENGL201",
+      "url": "https://www.studocu.com/row/course/lebanese-international-university/comprehension-and-research-skills/4393476"
+    },
+    {
+      "name": "Computer Architecture",
+      "code": "CSCI435",
+      "url": "https://www.studocu.com/row/course/lebanese-international-university/computer-architecture/6686831"
+    },
+    {
+      "name": "Computer Network",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/lebanese-international-university/computer-network/5942711"
+    },
+    {
+      "name": "Computer Science Overview",
+      "code": "CSCI205",
+      "url": "https://www.studocu.com/row/course/lebanese-international-university/computer-science-overview/5314205"
+    },
+    {
+      "name": "Concepts of Programming Languages",
+      "code": "CSCI351",
+      "url": "https://www.studocu.com/row/course/lebanese-international-university/concepts-of-programming-languages/6496314"
+    },
+    {
+      "name": "Control Systems",
+      "code": "EENG435",
+      "url": "https://www.studocu.com/row/course/lebanese-international-university/control-systems/3238058"
+    },
+    {
+      "name": "CSCI security",
+      "code": "123",
+      "url": "https://www.studocu.com/row/course/lebanese-international-university/csci-security/5840001"
+    },
+    {
+      "name": "CSCI342 Fundamentals of Networking Technologies",
+      "code": "CSCI342",
+      "url": "https://www.studocu.com/row/course/lebanese-international-university/csci342-fundamentals-of-networking-technologies/6955678"
+    },
+    {
+      "name": "Culture",
+      "code": "CULT200",
+      "url": "https://www.studocu.com/row/course/lebanese-international-university/culture/7544373"
+    },
+    {
+      "name": "Data Structure",
+      "code": "CSCI378",
+      "url": "https://www.studocu.com/row/course/lebanese-international-university/data-structure/6496310"
+    },
+    {
+      "name": "dentistry paedatrics",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/lebanese-international-university/dentistry-paedatrics/7017843"
+    },
+    {
+      "name": "design of experiments",
+      "code": "ieng400",
+      "url": "https://www.studocu.com/row/course/lebanese-international-university/design-of-experiments/4688053"
+    },
+    {
+      "name": "developmental biology",
+      "code": "biol435",
+      "url": "https://www.studocu.com/row/course/lebanese-international-university/developmental-biology/7229747"
+    },
+    {
+      "name": "Digital Logic 2",
+      "code": "CENG335",
+      "url": "https://www.studocu.com/row/course/lebanese-international-university/digital-logic-2/6762018"
+    },
+    {
+      "name": "Digital Logic I",
+      "code": "CENG250",
+      "url": "https://www.studocu.com/row/course/lebanese-international-university/digital-logic-i/4554212"
+    },
+    {
+      "name": "Discrete Mathematics",
+      "code": "M260",
+      "url": "https://www.studocu.com/row/course/lebanese-international-university/discrete-mathematics/3730880"
+    },
+    {
+      "name": "E-Commerce Management",
+      "code": "BMIS650",
+      "url": "https://www.studocu.com/row/course/lebanese-international-university/e-commerce-management/6065212"
+    },
+    {
+      "name": "Educational Psychology",
+      "code": "EDUC221",
+      "url": "https://www.studocu.com/row/course/lebanese-international-university/educational-psychology/3366694"
+    },
+    {
+      "name": "Electric Machine",
+      "code": "EENG492",
+      "url": "https://www.studocu.com/row/course/lebanese-international-university/electric-machine/4379188"
+    },
+    {
+      "name": "Electricity and Magnetism",
+      "code": "PHYS280",
+      "url": "https://www.studocu.com/row/course/lebanese-international-university/electricity-and-magnetism/6651076"
+    },
+    {
+      "name": "Electriv circuit",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/lebanese-international-university/electriv-circuit/3477605"
+    },
+    {
+      "name": "Electrodynamics",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/lebanese-international-university/electrodynamics/2290339"
+    },
+    {
+      "name": "Electronic circuit",
+      "code": "EENG350",
+      "url": "https://www.studocu.com/row/course/lebanese-international-university/electronic-circuit/4701054"
+    },
+    {
+      "name": "employee training and development",
+      "code": "bmgt375",
+      "url": "https://www.studocu.com/row/course/lebanese-international-university/employee-training-and-development/7497080"
+    },
+    {
+      "name": "Engineering economics",
+      "code": "ENGG 300",
+      "url": "https://www.studocu.com/row/course/lebanese-international-university/engineering-economics/6063398"
+    },
+    {
+      "name": "English",
+      "code": "ENG202",
+      "url": "https://www.studocu.com/row/course/lebanese-international-university/english/5152392"
+    },
+    {
+      "name": "Entrepreneurship",
+      "code": "BMGT597",
+      "url": "https://www.studocu.com/row/course/lebanese-international-university/entrepreneurship/4914366"
+    },
+    {
+      "name": "environmental science",
+      "code": "ENV200",
+      "url": "https://www.studocu.com/row/course/lebanese-international-university/environmental-science/5314206"
+    },
+    {
+      "name": "Fiqh Muamalat",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/lebanese-international-university/fiqh-muamalat/3727298"
+    },
+    {
+      "name": "Fluid Mecanics I",
+      "code": "MENG370",
+      "url": "https://www.studocu.com/row/course/lebanese-international-university/fluid-mecanics-i/2918244"
+    },
+    {
+      "name": "Fluid Mechanic",
+      "code": "MENG520",
+      "url": "https://www.studocu.com/row/course/lebanese-international-university/fluid-mechanic/4557453"
+    },
+    {
+      "name": "Fluid mechanics",
+      "code": "MECH 315",
+      "url": "https://www.studocu.com/row/course/lebanese-international-university/fluid-mechanics/2124828"
+    },
+    {
+      "name": "French",
+      "code": "L1102",
+      "url": "https://www.studocu.com/row/course/lebanese-international-university/french/5908642"
+    },
+    {
+      "name": "Functional analysis",
+      "code": "MATH520",
+      "url": "https://www.studocu.com/row/course/lebanese-international-university/functional-analysis/5876167"
+    },
+    {
+      "name": "general bio2",
+      "code": "biol250",
+      "url": "https://www.studocu.com/row/course/lebanese-international-university/general-bio2/6578500"
+    },
+    {
+      "name": "general biochemistry",
+      "code": "bioc300",
+      "url": "https://www.studocu.com/row/course/lebanese-international-university/general-biochemistry/7031941"
+    },
+    {
+      "name": "general biology",
+      "code": "biol200",
+      "url": "https://www.studocu.com/row/course/lebanese-international-university/general-biology/4527596"
+    },
+    {
+      "name": "general chemistry",
+      "code": "c1001",
+      "url": "https://www.studocu.com/row/course/lebanese-international-university/general-chemistry/4540675"
+    },
+    {
+      "name": "hassan mortada",
+      "code": "blow 2001",
+      "url": "https://www.studocu.com/row/course/lebanese-international-university/hassan-mortada/5154560"
+    },
+    {
+      "name": "Health science",
+      "code": "HSCI201",
+      "url": "https://www.studocu.com/row/course/lebanese-international-university/health-science/6195603"
+    },
+    {
+      "name": "Histology",
+      "code": "BIOL340",
+      "url": "https://www.studocu.com/row/course/lebanese-international-university/histology/5783916"
+    },
+    {
+      "name": "Human resource management",
+      "code": "BUSN404",
+      "url": "https://www.studocu.com/row/course/lebanese-international-university/human-resource-management/5383942"
+    },
+    {
+      "name": "Human Resource Management",
+      "code": "505",
+      "url": "https://www.studocu.com/row/course/lebanese-international-university/human-resource-management/1552875"
+    },
+    {
+      "name": "HVAC Lab",
+      "code": "MENG615L",
+      "url": "https://www.studocu.com/row/course/lebanese-international-university/hvac-lab/6575475"
+    },
+    {
+      "name": "instrumentation",
+      "code": "MENG231",
+      "url": "https://www.studocu.com/row/course/lebanese-international-university/instrumentation/4454590"
+    },
+    {
+      "name": "intermediate accounting 1",
+      "code": "BACC300",
+      "url": "https://www.studocu.com/row/course/lebanese-international-university/intermediate-accounting-1/6649940"
+    },
+    {
+      "name": "Intermediate Programming with Objects Lab",
+      "code": "CSCI300L",
+      "url": "https://www.studocu.com/row/course/lebanese-international-university/intermediate-programming-with-objects-lab/7668162"
+    },
+    {
+      "name": "Intro to statistics",
+      "code": "Math245",
+      "url": "https://www.studocu.com/row/course/lebanese-international-university/intro-to-statistics/6620143"
+    },
+    {
+      "name": "Introduction to Artificial Intelligence",
+      "code": "CSCI470",
+      "url": "https://www.studocu.com/row/course/lebanese-international-university/introduction-to-artificial-intelligence/5720577"
+    },
+    {
+      "name": "Introduction to Drug Information",
+      "code": "Phar200",
+      "url": "https://www.studocu.com/row/course/lebanese-international-university/introduction-to-drug-information/4529033"
+    },
+    {
+      "name": "Introduction to English Literature",
+      "code": "205",
+      "url": "https://www.studocu.com/row/course/lebanese-international-university/introduction-to-english-literature/6546253"
+    },
+    {
+      "name": "Introduction to finite element analysis",
+      "code": "mmeng555",
+      "url": "https://www.studocu.com/row/course/lebanese-international-university/introduction-to-finite-element-analysis/3704031"
+    },
+    {
+      "name": "Introduction to Italian",
+      "code": "ITAL01",
+      "url": "https://www.studocu.com/row/course/lebanese-international-university/introduction-to-italian/6195599"
+    },
+    {
+      "name": "introduction to java",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/lebanese-international-university/introduction-to-java/4417131"
+    },
+    {
+      "name": "Introduction to management",
+      "code": "BMGT 200",
+      "url": "https://www.studocu.com/row/course/lebanese-international-university/introduction-to-management/7526274"
+    },
+    {
+      "name": "Introduction to philosophy",
+      "code": "phil200",
+      "url": "https://www.studocu.com/row/course/lebanese-international-university/introduction-to-philosophy/3286536"
+    },
+    {
+      "name": "Introduction to Programming",
+      "code": "CSCI250",
+      "url": "https://www.studocu.com/row/course/lebanese-international-university/introduction-to-programming/4554211"
+    },
+    {
+      "name": "introduction to psychology",
+      "code": "psyc200",
+      "url": "https://www.studocu.com/row/course/lebanese-international-university/introduction-to-psychology/6175093"
+    },
+    {
+      "name": "Islamic Accounting",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/lebanese-international-university/islamic-accounting/3727304"
+    },
+    {
+      "name": "IT Project Management",
+      "code": "CSIT456",
+      "url": "https://www.studocu.com/row/course/lebanese-international-university/it-project-management/5720569"
+    },
+    {
+      "name": "Laboratoire Langue  A - Espagnol (III)",
+      "code": "0000",
+      "url": "https://www.studocu.com/row/course/lebanese-international-university/laboratoire-langue-a-espagnol-iii/5164210"
+    },
+    {
+      "name": "Leadership Management",
+      "code": "BMGT625",
+      "url": "https://www.studocu.com/row/course/lebanese-international-university/leadership-management/6065226"
+    },
+    {
+      "name": "legal translation",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/lebanese-international-university/legal-translation/6676631"
+    },
+    {
+      "name": "Linear Algebra",
+      "code": "MATH 225",
+      "url": "https://www.studocu.com/row/course/lebanese-international-university/linear-algebra/4370478"
+    },
+    {
+      "name": "Macroeconomics",
+      "code": "BECO 260",
+      "url": "https://www.studocu.com/row/course/lebanese-international-university/macroeconomics/4550260"
+    },
+    {
+      "name": "Management Information Systems",
+      "code": "BMIS300",
+      "url": "https://www.studocu.com/row/course/lebanese-international-university/management-information-systems/3238716"
+    },
+    {
+      "name": "Managerial accounting",
+      "code": "macc500",
+      "url": "https://www.studocu.com/row/course/lebanese-international-university/managerial-accounting/3440938"
+    },
+    {
+      "name": "Managerial Economics",
+      "code": "BECO505",
+      "url": "https://www.studocu.com/row/course/lebanese-international-university/managerial-economics/4336353"
+    },
+    {
+      "name": "Marketing management",
+      "code": "BMKT525",
+      "url": "https://www.studocu.com/row/course/lebanese-international-university/marketing-management/4550300"
+    },
+    {
+      "name": "Mechanical system",
+      "code": "MENG450",
+      "url": "https://www.studocu.com/row/course/lebanese-international-university/mechanical-system/3613392"
+    },
+    {
+      "name": "Mechanical Vibrations Lab I",
+      "code": "MENG 430L",
+      "url": "https://www.studocu.com/row/course/lebanese-international-university/mechanical-vibrations-lab-i/5885405"
+    },
+    {
+      "name": "Mechanics I (Statics)",
+      "code": "MENG250",
+      "url": "https://www.studocu.com/row/course/lebanese-international-university/mechanics-i-statics/2276725"
+    },
+    {
+      "name": "Mechanics II(dynamics I)",
+      "code": "meng 300",
+      "url": "https://www.studocu.com/row/course/lebanese-international-university/mechanics-iidynamics-i/2570344"
+    },
+    {
+      "name": "Mechanics of materials",
+      "code": "MENG360",
+      "url": "https://www.studocu.com/row/course/lebanese-international-university/mechanics-of-materials/2658300"
+    },
+    {
+      "name": "medical instrumentation 1",
+      "code": "EENG424",
+      "url": "https://www.studocu.com/row/course/lebanese-international-university/medical-instrumentation-1/6620922"
+    },
+    {
+      "name": "Medical Microbiology",
+      "code": "BMED 430",
+      "url": "https://www.studocu.com/row/course/lebanese-international-university/medical-microbiology/4086265"
+    },
+    {
+      "name": "Medical Nutrition Therapy",
+      "code": "NUTR410",
+      "url": "https://www.studocu.com/row/course/lebanese-international-university/medical-nutrition-therapy/7587629"
+    },
+    {
+      "name": "Micro economic",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/lebanese-international-university/micro-economic/7325805"
+    },
+    {
+      "name": "Microcomputer Support",
+      "code": "CSIT381",
+      "url": "https://www.studocu.com/row/course/lebanese-international-university/microcomputer-support/6968534"
+    },
+    {
+      "name": "Neural Network",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/lebanese-international-university/neural-network/4336411"
+    },
+    {
+      "name": "Number theory",
+      "code": "M405",
+      "url": "https://www.studocu.com/row/course/lebanese-international-university/number-theory/3387581"
+    },
+    {
+      "name": "OET Test",
+      "code": "OET",
+      "url": "https://www.studocu.com/row/course/lebanese-international-university/oet-test/6557229"
+    },
+    {
+      "name": "Operating Systems",
+      "code": "CENG460",
+      "url": "https://www.studocu.com/row/course/lebanese-international-university/operating-systems/4981672"
+    },
+    {
+      "name": "Operations Management",
+      "code": "BMIS360",
+      "url": "https://www.studocu.com/row/course/lebanese-international-university/operations-management/4904786"
+    },
+    {
+      "name": "oral français",
+      "code": "ORFR-2022",
+      "url": "https://www.studocu.com/row/course/lebanese-international-university/oral-francais/5382847"
+    },
+    {
+      "name": "ORDUNARY DIFFERENTIAL EQUATIONS",
+      "code": "MATH270",
+      "url": "https://www.studocu.com/row/course/lebanese-international-university/ordunary-differential-equations/3477753"
+    },
+    {
+      "name": "Organizational Behavior",
+      "code": "BMGT 675",
+      "url": "https://www.studocu.com/row/course/lebanese-international-university/organizational-behavior/3691926"
+    },
+    {
+      "name": "Organizational Behavior",
+      "code": "BMGT505",
+      "url": "https://www.studocu.com/row/course/lebanese-international-university/organizational-behavior/4336447"
+    },
+    {
+      "name": "Physics for Engineers",
+      "code": "PHYS220",
+      "url": "https://www.studocu.com/row/course/lebanese-international-university/physics-for-engineers/4488793"
+    },
+    {
+      "name": "political processes",
+      "code": "sw6001",
+      "url": "https://www.studocu.com/row/course/lebanese-international-university/political-processes/4541939"
+    },
+    {
+      "name": "Project Management",
+      "code": "BPMM575",
+      "url": "https://www.studocu.com/row/course/lebanese-international-university/project-management/3212033"
+    },
+    {
+      "name": "Project management",
+      "code": "ieng300",
+      "url": "https://www.studocu.com/row/course/lebanese-international-university/project-management/3705803"
+    },
+    {
+      "name": "Protein Structure and Function",
+      "code": "BIOC 400",
+      "url": "https://www.studocu.com/row/course/lebanese-international-university/protein-structure-and-function/3526735"
+    },
+    {
+      "name": "Quality Management",
+      "code": "BMGT470",
+      "url": "https://www.studocu.com/row/course/lebanese-international-university/quality-management/6754815"
+    },
+    {
+      "name": "Signals and Systems",
+      "code": "EENG385",
+      "url": "https://www.studocu.com/row/course/lebanese-international-university/signals-and-systems/3963744"
+    },
+    {
+      "name": "Software Engineering",
+      "code": "CSCI380",
+      "url": "https://www.studocu.com/row/course/lebanese-international-university/software-engineering/6968541"
+    },
+    {
+      "name": "Strategic Management",
+      "code": "BMGT525",
+      "url": "https://www.studocu.com/row/course/lebanese-international-university/strategic-management/5819775"
+    },
+    {
+      "name": "Strategy",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/lebanese-international-university/strategy/4545908"
+    },
+    {
+      "name": "SVT - sciences de la vie et de la terre",
+      "code": "SVTP1-2022",
+      "url": "https://www.studocu.com/row/course/lebanese-international-university/svt-sciences-de-la-vie-et-de-la-terre/5382861"
+    },
+    {
+      "name": "System Desdign",
+      "code": "IENG 430",
+      "url": "https://www.studocu.com/row/course/lebanese-international-university/system-desdign/4475734"
+    },
+    {
+      "name": "Technical Paper",
+      "code": "CIVE 432",
+      "url": "https://www.studocu.com/row/course/lebanese-international-university/technical-paper/6841079"
+    },
+    {
+      "name": "Thermodynamics 6 th edition van wyen solution manual",
+      "code": "MENG525",
+      "url": "https://www.studocu.com/row/course/lebanese-international-university/thermodynamics-6-th-edition-van-wyen-solution-manual/3238055"
+    },
+    {
+      "name": "trading",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/lebanese-international-university/trading/7315017"
+    },
+    {
+      "name": "visual programming",
+      "code": "csci 370",
+      "url": "https://www.studocu.com/row/course/lebanese-international-university/visual-programming/7595610"
+    },
+    {
+      "name": "Web Development",
+      "code": "CSCI390",
+      "url": "https://www.studocu.com/row/course/lebanese-international-university/web-development/6968532"
+    },
+    {
+      "name": "Web scraping",
+      "code": "SCDAL4308",
+      "url": "https://www.studocu.com/row/course/lebanese-international-university/web-scraping/6939477"
+    }
+  ]
+}

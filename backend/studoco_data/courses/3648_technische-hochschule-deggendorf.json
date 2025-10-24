@@ -1,0 +1,866 @@
+{
+  "university_id": "3648",
+  "university_name": "Technische Hochschule Deggendorf",
+  "courses": [
+    {
+      "name": "Abwasserentsorgung",
+      "code": "B-24",
+      "url": "https://www.studocu.com/de/course/technische-hochschule-deggendorf/abwasserentsorgung/4741079"
+    },
+    {
+      "name": "Allgemeine Psychologie",
+      "code": "WP-02",
+      "url": "https://www.studocu.com/de/course/technische-hochschule-deggendorf/allgemeine-psychologie/4742026"
+    },
+    {
+      "name": "Allgemeine Psychologie I (Warnehmung Und Aufmerksamkeit)",
+      "code": "WP-1203",
+      "url": "https://www.studocu.com/de/course/technische-hochschule-deggendorf/allgemeine-psychologie-i-warnehmung-und-aufmerksamkeit/4742032"
+    },
+    {
+      "name": "Anatomie",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/technische-hochschule-deggendorf/anatomie/6122901"
+    },
+    {
+      "name": "Angewandte Physik",
+      "code": "D-04",
+      "url": "https://www.studocu.com/de/course/technische-hochschule-deggendorf/angewandte-physik/4742070"
+    },
+    {
+      "name": "Antriebssystemtechnik",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/technische-hochschule-deggendorf/antriebssystemtechnik/3281523"
+    },
+    {
+      "name": "Arbeitsrecht",
+      "code": "X-19",
+      "url": "https://www.studocu.com/de/course/technische-hochschule-deggendorf/arbeitsrecht/4741887"
+    },
+    {
+      "name": "Ausgewählte Themen der berührungslosen Sensorik",
+      "code": "ET-M2",
+      "url": "https://www.studocu.com/de/course/technische-hochschule-deggendorf/ausgewahlte-themen-der-beruhrungslosen-sensorik/4824433"
+    },
+    {
+      "name": "Automatisierung Und Robotik",
+      "code": "TEM-32E",
+      "url": "https://www.studocu.com/de/course/technische-hochschule-deggendorf/automatisierung-und-robotik/4742020"
+    },
+    {
+      "name": "Automobile und industrielle elektrische Antriebssysteme",
+      "code": "AI-M-2",
+      "url": "https://www.studocu.com/de/course/technische-hochschule-deggendorf/automobile-und-industrielle-elektrische-antriebssysteme/4822570"
+    },
+    {
+      "name": "Bakteriologie",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/technische-hochschule-deggendorf/bakteriologie/6149767"
+    },
+    {
+      "name": "Baubetrieb II",
+      "code": "B-29",
+      "url": "https://www.studocu.com/de/course/technische-hochschule-deggendorf/baubetrieb-ii/4741803"
+    },
+    {
+      "name": "Bauphysik I Für Bauingenieure",
+      "code": "B-05",
+      "url": "https://www.studocu.com/de/course/technische-hochschule-deggendorf/bauphysik-i-fur-bauingenieure/4741982"
+    },
+    {
+      "name": "Baustatik II",
+      "code": "B-10",
+      "url": "https://www.studocu.com/de/course/technische-hochschule-deggendorf/baustatik-ii/4741064"
+    },
+    {
+      "name": "Betriebliche Informationssysteme",
+      "code": "W-26",
+      "url": "https://www.studocu.com/de/course/technische-hochschule-deggendorf/betriebliche-informationssysteme/4742069"
+    },
+    {
+      "name": "Betriebswirtschaftlehre",
+      "code": "D5106",
+      "url": "https://www.studocu.com/de/course/technische-hochschule-deggendorf/betriebswirtschaftlehre/4741802"
+    },
+    {
+      "name": "Betriebswirtschaftliche Grundlagen",
+      "code": "T7102",
+      "url": "https://www.studocu.com/de/course/technische-hochschule-deggendorf/betriebswirtschaftliche-grundlagen/4742064"
+    },
+    {
+      "name": "Biochemie",
+      "code": "T1106",
+      "url": "https://www.studocu.com/de/course/technische-hochschule-deggendorf/biochemie/4741983"
+    },
+    {
+      "name": "Biology",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/technische-hochschule-deggendorf/biology/3260621"
+    },
+    {
+      "name": "Brückenbau",
+      "code": "B6103",
+      "url": "https://www.studocu.com/de/course/technische-hochschule-deggendorf/bruckenbau/4741056"
+    },
+    {
+      "name": "Business Mathematics",
+      "code": "IMBM01",
+      "url": "https://www.studocu.com/de/course/technische-hochschule-deggendorf/business-mathematics/5874577"
+    },
+    {
+      "name": "Business Statistics",
+      "code": "IMBS1",
+      "url": "https://www.studocu.com/de/course/technische-hochschule-deggendorf/business-statistics/5874582"
+    },
+    {
+      "name": "Bwl",
+      "code": "O2105",
+      "url": "https://www.studocu.com/de/course/technische-hochschule-deggendorf/bwl/4742058"
+    },
+    {
+      "name": "BWL für ET",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/technische-hochschule-deggendorf/bwl-fur-et/4565279"
+    },
+    {
+      "name": "Cad II",
+      "code": "B3102",
+      "url": "https://www.studocu.com/de/course/technische-hochschule-deggendorf/cad-ii/4741067"
+    },
+    {
+      "name": "Chemie",
+      "code": "T-3105",
+      "url": "https://www.studocu.com/de/course/technische-hochschule-deggendorf/chemie/4742012"
+    },
+    {
+      "name": "Chemie Für Bauingenieure",
+      "code": "B-01",
+      "url": "https://www.studocu.com/de/course/technische-hochschule-deggendorf/chemie-fur-bauingenieure/4741711"
+    },
+    {
+      "name": "Computernetze",
+      "code": "F-27",
+      "url": "https://www.studocu.com/de/course/technische-hochschule-deggendorf/computernetze/4741247"
+    },
+    {
+      "name": "Controlling im Tourismus",
+      "code": "T4122",
+      "url": "https://www.studocu.com/de/course/technische-hochschule-deggendorf/controlling-im-tourismus/4314295"
+    },
+    {
+      "name": "Darstellende Geometrie",
+      "code": "T-2105",
+      "url": "https://www.studocu.com/de/course/technische-hochschule-deggendorf/darstellende-geometrie/4742063"
+    },
+    {
+      "name": "Digitale Bildverarbeitung",
+      "code": "C-50",
+      "url": "https://www.studocu.com/de/course/technische-hochschule-deggendorf/digitale-bildverarbeitung/4741130"
+    },
+    {
+      "name": "Digitale Signalverarbeitung",
+      "code": "O6114",
+      "url": "https://www.studocu.com/de/course/technische-hochschule-deggendorf/digitale-signalverarbeitung/4741435"
+    },
+    {
+      "name": "Einführung In Die Optoelektronik Und Lasertec",
+      "code": "C-48",
+      "url": "https://www.studocu.com/de/course/technische-hochschule-deggendorf/einfuhrung-in-die-optoelektronik-und-lasertec/4741892"
+    },
+    {
+      "name": "Elektronische Bauelemente",
+      "code": "EM-11",
+      "url": "https://www.studocu.com/de/course/technische-hochschule-deggendorf/elektronische-bauelemente/4741234"
+    },
+    {
+      "name": "Energy Technology",
+      "code": "IE-16",
+      "url": "https://www.studocu.com/de/course/technische-hochschule-deggendorf/energy-technology/4741345"
+    },
+    {
+      "name": "ET2 Automobile Propulsion Systems",
+      "code": "ET2",
+      "url": "https://www.studocu.com/de/course/technische-hochschule-deggendorf/et2-automobile-propulsion-systems/4825757"
+    },
+    {
+      "name": "Ethik Und Nachhaltigkeit",
+      "code": "E-35",
+      "url": "https://www.studocu.com/de/course/technische-hochschule-deggendorf/ethik-und-nachhaltigkeit/4741208"
+    },
+    {
+      "name": "Ethik Und Theorien Von Gerechtigkeit",
+      "code": "J-04",
+      "url": "https://www.studocu.com/de/course/technische-hochschule-deggendorf/ethik-und-theorien-von-gerechtigkeit/4741934"
+    },
+    {
+      "name": "ETM - Ausgewählte Kapitel der Mikro- und Nanoelektronik (Selected Topics in Micro- and Nanoelectronics)",
+      "code": "ETMAKMN",
+      "url": "https://www.studocu.com/de/course/technische-hochschule-deggendorf/etm-ausgewahlte-kapitel-der-mikro-und-nanoelektronik-selected-topics-in-micro-and-nanoelectronics/4822535"
+    },
+    {
+      "name": "Externes Rechnungswesen",
+      "code": "ER2020",
+      "url": "https://www.studocu.com/de/course/technische-hochschule-deggendorf/externes-rechnungswesen/4364246"
+    },
+    {
+      "name": "Fachenglisch",
+      "code": "PRW16",
+      "url": "https://www.studocu.com/de/course/technische-hochschule-deggendorf/fachenglisch/4741400"
+    },
+    {
+      "name": "Fertigungstechnik",
+      "code": "TEM-28I",
+      "url": "https://www.studocu.com/de/course/technische-hochschule-deggendorf/fertigungstechnik/4652946"
+    },
+    {
+      "name": "Finanz- Und Risikomanagement",
+      "code": "T-09",
+      "url": "https://www.studocu.com/de/course/technische-hochschule-deggendorf/finanz-und-risikomanagement/4741614"
+    },
+    {
+      "name": "Fluid- Und Energietechnik",
+      "code": "W-16",
+      "url": "https://www.studocu.com/de/course/technische-hochschule-deggendorf/fluid-und-energietechnik/4741859"
+    },
+    {
+      "name": "Foreign Language I",
+      "code": "T101",
+      "url": "https://www.studocu.com/de/course/technische-hochschule-deggendorf/foreign-language-i/4741564"
+    },
+    {
+      "name": "Foreign Language IV",
+      "code": "T401",
+      "url": "https://www.studocu.com/de/course/technische-hochschule-deggendorf/foreign-language-iv/4741587"
+    },
+    {
+      "name": "Geotechnik I",
+      "code": "B-14",
+      "url": "https://www.studocu.com/de/course/technische-hochschule-deggendorf/geotechnik-i/4741051"
+    },
+    {
+      "name": "Grundlagen Bwl",
+      "code": "TEM-01",
+      "url": "https://www.studocu.com/de/course/technische-hochschule-deggendorf/grundlagen-bwl/4741658"
+    },
+    {
+      "name": "Grundlagen Der Elektronik",
+      "code": "O-03",
+      "url": "https://www.studocu.com/de/course/technische-hochschule-deggendorf/grundlagen-der-elektronik/4741380"
+    },
+    {
+      "name": "Grundlagen Der Elektrotechnik",
+      "code": "W-14",
+      "url": "https://www.studocu.com/de/course/technische-hochschule-deggendorf/grundlagen-der-elektrotechnik/4741697"
+    },
+    {
+      "name": "Grundlagen der Ethik",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/technische-hochschule-deggendorf/grundlagen-der-ethik/4527163"
+    },
+    {
+      "name": "Grundlagen der Finanzwissenschaft",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/technische-hochschule-deggendorf/grundlagen-der-finanzwissenschaft/4445417"
+    },
+    {
+      "name": "Grundlagen Der Informatik",
+      "code": "O-04",
+      "url": "https://www.studocu.com/de/course/technische-hochschule-deggendorf/grundlagen-der-informatik/4741239"
+    },
+    {
+      "name": "Grundlagen Der Physiologie",
+      "code": "T1103",
+      "url": "https://www.studocu.com/de/course/technische-hochschule-deggendorf/grundlagen-der-physiologie/4741974"
+    },
+    {
+      "name": "Grundlagen Der Regelungstechnik",
+      "code": "D4106",
+      "url": "https://www.studocu.com/de/course/technische-hochschule-deggendorf/grundlagen-der-regelungstechnik/4741225"
+    },
+    {
+      "name": "Grundlagen Der Technischen Mechanik Und Der Hydromechanik",
+      "code": "B-02",
+      "url": "https://www.studocu.com/de/course/technische-hochschule-deggendorf/grundlagen-der-technischen-mechanik-und-der-hydromechanik/4741042"
+    },
+    {
+      "name": "Grundlagen Elektrotechnik",
+      "code": "TEM-07",
+      "url": "https://www.studocu.com/de/course/technische-hochschule-deggendorf/grundlagen-elektrotechnik/4741705"
+    },
+    {
+      "name": "Grundlagen Marketing",
+      "code": "M-20",
+      "url": "https://www.studocu.com/de/course/technische-hochschule-deggendorf/grundlagen-marketing/4741281"
+    },
+    {
+      "name": "Grundlagen Recht",
+      "code": "X-07",
+      "url": "https://www.studocu.com/de/course/technische-hochschule-deggendorf/grundlagen-recht/4741557"
+    },
+    {
+      "name": "Health Destination Management",
+      "code": "T705",
+      "url": "https://www.studocu.com/de/course/technische-hochschule-deggendorf/health-destination-management/4741676"
+    },
+    {
+      "name": "Histologie",
+      "code": "PHA-05",
+      "url": "https://www.studocu.com/de/course/technische-hochschule-deggendorf/histologie/6131798"
+    },
+    {
+      "name": "Hochfrequenzschaltungstechnik",
+      "code": "C-47",
+      "url": "https://www.studocu.com/de/course/technische-hochschule-deggendorf/hochfrequenzschaltungstechnik/4741106"
+    },
+    {
+      "name": "Holzbau I",
+      "code": "B-18",
+      "url": "https://www.studocu.com/de/course/technische-hochschule-deggendorf/holzbau-i/4741045"
+    },
+    {
+      "name": "Human Resources Management",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/technische-hochschule-deggendorf/human-resources-management/3270200"
+    },
+    {
+      "name": "Höhere Mathematik Teil (1)",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/technische-hochschule-deggendorf/hohere-mathematik-teil-1/2240151"
+    },
+    {
+      "name": "Höhere Modellbildung und Simulation",
+      "code": "ETMHMUS",
+      "url": "https://www.studocu.com/de/course/technische-hochschule-deggendorf/hohere-modellbildung-und-simulation/4822563"
+    },
+    {
+      "name": "Höhere Werkstofftechnik / Kunststofftechnik",
+      "code": "D5101",
+      "url": "https://www.studocu.com/de/course/technische-hochschule-deggendorf/hohere-werkstofftechnik-kunststofftechnik/4741159"
+    },
+    {
+      "name": "IE",
+      "code": "IE-5",
+      "url": "https://www.studocu.com/de/course/technische-hochschule-deggendorf/ie/3257454"
+    },
+    {
+      "name": "Industrielle Und Automotive Bussysteme",
+      "code": "O-35",
+      "url": "https://www.studocu.com/de/course/technische-hochschule-deggendorf/industrielle-und-automotive-bussysteme/4741914"
+    },
+    {
+      "name": "Industriepraktikum",
+      "code": "F-32",
+      "url": "https://www.studocu.com/de/course/technische-hochschule-deggendorf/industriepraktikum/4741937"
+    },
+    {
+      "name": "Industrieökonomik",
+      "code": "IndÖk, 20",
+      "url": "https://www.studocu.com/de/course/technische-hochschule-deggendorf/industrieokonomik/4409783"
+    },
+    {
+      "name": "Informatics For Engineering I",
+      "code": "IE-02",
+      "url": "https://www.studocu.com/de/course/technische-hochschule-deggendorf/informatics-for-engineering-i/4741361"
+    },
+    {
+      "name": "Informatik",
+      "code": "W-03",
+      "url": "https://www.studocu.com/de/course/technische-hochschule-deggendorf/informatik/4741727"
+    },
+    {
+      "name": "Informatik I",
+      "code": "B-09",
+      "url": "https://www.studocu.com/de/course/technische-hochschule-deggendorf/informatik-i/4741047"
+    },
+    {
+      "name": "Informationssicherheit Und Datenschutz",
+      "code": "E-24",
+      "url": "https://www.studocu.com/de/course/technische-hochschule-deggendorf/informationssicherheit-und-datenschutz/4741214"
+    },
+    {
+      "name": "Innovationsmanagement",
+      "code": "W-21",
+      "url": "https://www.studocu.com/de/course/technische-hochschule-deggendorf/innovationsmanagement/4741689"
+    },
+    {
+      "name": "Internationale Ökonomik",
+      "code": "J-09",
+      "url": "https://www.studocu.com/de/course/technische-hochschule-deggendorf/internationale-okonomik/4741387"
+    },
+    {
+      "name": "It-Management.",
+      "code": "X-16",
+      "url": "https://www.studocu.com/de/course/technische-hochschule-deggendorf/it-management/4741770"
+    },
+    {
+      "name": "Kommunikation, Interdisziplinäres Arbeiten",
+      "code": "T1108",
+      "url": "https://www.studocu.com/de/course/technische-hochschule-deggendorf/kommunikation-interdisziplinares-arbeiten/4314299"
+    },
+    {
+      "name": "Kompetenzfeld Digitalisierung Im Gesundheits- Und Sozialwesen: E-Health",
+      "code": "M-38",
+      "url": "https://www.studocu.com/de/course/technische-hochschule-deggendorf/kompetenzfeld-digitalisierung-im-gesundheits-und-sozialwesen-e-health/4742043"
+    },
+    {
+      "name": "Konstruktives Projekt",
+      "code": "D-19",
+      "url": "https://www.studocu.com/de/course/technische-hochschule-deggendorf/konstruktives-projekt/4741126"
+    },
+    {
+      "name": "Künstliche Intelligenz",
+      "code": "E-29",
+      "url": "https://www.studocu.com/de/course/technische-hochschule-deggendorf/kunstliche-intelligenz/4741213"
+    },
+    {
+      "name": "Lasertechnik",
+      "code": "D7119",
+      "url": "https://www.studocu.com/de/course/technische-hochschule-deggendorf/lasertechnik/4659953"
+    },
+    {
+      "name": "Management",
+      "code": "IE-31",
+      "url": "https://www.studocu.com/de/course/technische-hochschule-deggendorf/management/4742038"
+    },
+    {
+      "name": "Management Medizinischer Einrichtungen",
+      "code": "T-34",
+      "url": "https://www.studocu.com/de/course/technische-hochschule-deggendorf/management-medizinischer-einrichtungen/4741530"
+    },
+    {
+      "name": "Marketing",
+      "code": "T-7102",
+      "url": "https://www.studocu.com/de/course/technische-hochschule-deggendorf/marketing/4741573"
+    },
+    {
+      "name": "Marketing In Health & Medical Tourism II - Digital Services",
+      "code": "T303",
+      "url": "https://www.studocu.com/de/course/technische-hochschule-deggendorf/marketing-in-health-medical-tourism-ii-digital-services/4741639"
+    },
+    {
+      "name": "Maschinenelemente",
+      "code": "T-12",
+      "url": "https://www.studocu.com/de/course/technische-hochschule-deggendorf/maschinenelemente/4741620"
+    },
+    {
+      "name": "Massivbau I",
+      "code": "B-17",
+      "url": "https://www.studocu.com/de/course/technische-hochschule-deggendorf/massivbau-i/4741065"
+    },
+    {
+      "name": "Materialwissenschaften Und Angewandte Festkörperphysik",
+      "code": "C-10",
+      "url": "https://www.studocu.com/de/course/technische-hochschule-deggendorf/materialwissenschaften-und-angewandte-festkorperphysik/4742008"
+    },
+    {
+      "name": "Mathematik",
+      "code": "WP-1101",
+      "url": "https://www.studocu.com/de/course/technische-hochschule-deggendorf/mathematik/4741797"
+    },
+    {
+      "name": "Mathematische Grundlagen",
+      "code": "MB-1",
+      "url": "https://www.studocu.com/de/course/technische-hochschule-deggendorf/mathematische-grundlagen/6666516"
+    },
+    {
+      "name": "MB-2: Ingenieurinformatik 2",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/technische-hochschule-deggendorf/mb-2-ingenieurinformatik-2/6708246"
+    },
+    {
+      "name": "Mechatronische Systeme",
+      "code": "TEM-31I",
+      "url": "https://www.studocu.com/de/course/technische-hochschule-deggendorf/mechatronische-systeme/4741726"
+    },
+    {
+      "name": "Meß- Und Regelungstechnik",
+      "code": "W-15",
+      "url": "https://www.studocu.com/de/course/technische-hochschule-deggendorf/mess-und-regelungstechnik/4741714"
+    },
+    {
+      "name": "Mobilitäts- Und Ressourcenmanagement II",
+      "code": "T-28",
+      "url": "https://www.studocu.com/de/course/technische-hochschule-deggendorf/mobilitats-und-ressourcenmanagement-ii/4741626"
+    },
+    {
+      "name": "Modellbasierter Reglerentwurf Und Absicheru",
+      "code": "EM-32",
+      "url": "https://www.studocu.com/de/course/technische-hochschule-deggendorf/modellbasierter-reglerentwurf-und-absicheru/4741880"
+    },
+    {
+      "name": "Modellbildung Und Simulation",
+      "code": "O7111",
+      "url": "https://www.studocu.com/de/course/technische-hochschule-deggendorf/modellbildung-und-simulation/4741454"
+    },
+    {
+      "name": "Nachrichtenübertragungstechnik I",
+      "code": "C-18",
+      "url": "https://www.studocu.com/de/course/technische-hochschule-deggendorf/nachrichtenubertragungstechnik-i/4434927"
+    },
+    {
+      "name": "Neurophysiologie",
+      "code": "T2102",
+      "url": "https://www.studocu.com/de/course/technische-hochschule-deggendorf/neurophysiologie/4741955"
+    },
+    {
+      "name": "Numerical Methods",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/technische-hochschule-deggendorf/numerical-methods/4827993"
+    },
+    {
+      "name": "Organisation und Personalwesen",
+      "code": "T-07",
+      "url": "https://www.studocu.com/de/course/technische-hochschule-deggendorf/organisation-und-personalwesen/4820834"
+    },
+    {
+      "name": "Organisational and Economic Psychology",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/technische-hochschule-deggendorf/organisational-and-economic-psychology/7655009"
+    },
+    {
+      "name": "Personalführung Und Arbeitsrecht",
+      "code": "W-27",
+      "url": "https://www.studocu.com/de/course/technische-hochschule-deggendorf/personalfuhrung-und-arbeitsrecht/4741692"
+    },
+    {
+      "name": "Personalführung Und Arbeitsrecht",
+      "code": "TEM-15",
+      "url": "https://www.studocu.com/de/course/technische-hochschule-deggendorf/personalfuhrung-und-arbeitsrecht/4741712"
+    },
+    {
+      "name": "Personalmanagement",
+      "code": "WP-10",
+      "url": "https://www.studocu.com/de/course/technische-hochschule-deggendorf/personalmanagement/4741767"
+    },
+    {
+      "name": "Physics",
+      "code": "IE-11",
+      "url": "https://www.studocu.com/de/course/technische-hochschule-deggendorf/physics/4741316"
+    },
+    {
+      "name": "Physik",
+      "code": "O1102",
+      "url": "https://www.studocu.com/de/course/technische-hochschule-deggendorf/physik/4741966"
+    },
+    {
+      "name": "Physik",
+      "code": "F-03",
+      "url": "https://www.studocu.com/de/course/technische-hochschule-deggendorf/physik/4742062"
+    },
+    {
+      "name": "Physik 1",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/technische-hochschule-deggendorf/physik-1/3300130"
+    },
+    {
+      "name": "Physikalische Grundlagen Für Ingenieure",
+      "code": "TEM-02",
+      "url": "https://www.studocu.com/de/course/technische-hochschule-deggendorf/physikalische-grundlagen-fur-ingenieure/4741949"
+    },
+    {
+      "name": "Process optmization",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/technische-hochschule-deggendorf/process-optmization/3260623"
+    },
+    {
+      "name": "Produktion Und Logistik",
+      "code": "W-34",
+      "url": "https://www.studocu.com/de/course/technische-hochschule-deggendorf/produktion-und-logistik/4741719"
+    },
+    {
+      "name": "Produktion Und Logistik",
+      "code": "W-31",
+      "url": "https://www.studocu.com/de/course/technische-hochschule-deggendorf/produktion-und-logistik/4741762"
+    },
+    {
+      "name": "Produktionstechnik",
+      "code": "D7123",
+      "url": "https://www.studocu.com/de/course/technische-hochschule-deggendorf/produktionstechnik/4659954"
+    },
+    {
+      "name": "Programmieren I",
+      "code": "E-02",
+      "url": "https://www.studocu.com/de/course/technische-hochschule-deggendorf/programmieren-i/4741850"
+    },
+    {
+      "name": "Programmieren II",
+      "code": "E-15",
+      "url": "https://www.studocu.com/de/course/technische-hochschule-deggendorf/programmieren-ii/4741910"
+    },
+    {
+      "name": "Programmierung in C++",
+      "code": "LV_51_73_4_67_1",
+      "url": "https://www.studocu.com/de/course/technische-hochschule-deggendorf/programmierung-in-c/2844296"
+    },
+    {
+      "name": "Projektmanagement",
+      "code": "E-28",
+      "url": "https://www.studocu.com/de/course/technische-hochschule-deggendorf/projektmanagement/4372355"
+    },
+    {
+      "name": "Pädagogische Psychologie",
+      "code": "PRW14",
+      "url": "https://www.studocu.com/de/course/technische-hochschule-deggendorf/padagogische-psychologie/4742055"
+    },
+    {
+      "name": "Quantitative Methods in Economics and Finance",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/technische-hochschule-deggendorf/quantitative-methods-in-economics-and-finance/4362200"
+    },
+    {
+      "name": "Rechnergestützte Konstruktion",
+      "code": "D7104",
+      "url": "https://www.studocu.com/de/course/technische-hochschule-deggendorf/rechnergestutzte-konstruktion/4741206"
+    },
+    {
+      "name": "Rechnergestützte Simulation / Angewandte Fem",
+      "code": "D7105",
+      "url": "https://www.studocu.com/de/course/technische-hochschule-deggendorf/rechnergestutzte-simulation-angewandte-fem/4741189"
+    },
+    {
+      "name": "Rechnungswesen",
+      "code": "SM-06",
+      "url": "https://www.studocu.com/de/course/technische-hochschule-deggendorf/rechnungswesen/4742049"
+    },
+    {
+      "name": "Rechnungswesen Und Kostenrechnung",
+      "code": "E-14",
+      "url": "https://www.studocu.com/de/course/technische-hochschule-deggendorf/rechnungswesen-und-kostenrechnung/4741256"
+    },
+    {
+      "name": "Recht I",
+      "code": "B-25",
+      "url": "https://www.studocu.com/de/course/technische-hochschule-deggendorf/recht-i/4741052"
+    },
+    {
+      "name": "Rechtliche Grundlagen",
+      "code": "WP-15",
+      "url": "https://www.studocu.com/de/course/technische-hochschule-deggendorf/rechtliche-grundlagen/4741666"
+    },
+    {
+      "name": "Regelungstechnik",
+      "code": "O-42",
+      "url": "https://www.studocu.com/de/course/technische-hochschule-deggendorf/regelungstechnik/4741356"
+    },
+    {
+      "name": "Regelungstechnik I",
+      "code": "C-13",
+      "url": "https://www.studocu.com/de/course/technische-hochschule-deggendorf/regelungstechnik-i/4741071"
+    },
+    {
+      "name": "Reisevertriebsmanagement",
+      "code": "T-32",
+      "url": "https://www.studocu.com/de/course/technische-hochschule-deggendorf/reisevertriebsmanagement/4741957"
+    },
+    {
+      "name": "Schaltungstechnik I",
+      "code": "C-15",
+      "url": "https://www.studocu.com/de/course/technische-hochschule-deggendorf/schaltungstechnik-i/4741076"
+    },
+    {
+      "name": "Scientific Communication",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/technische-hochschule-deggendorf/scientific-communication/7578674"
+    },
+    {
+      "name": "Selected Topics of Control Engineering",
+      "code": "ET2",
+      "url": "https://www.studocu.com/de/course/technische-hochschule-deggendorf/selected-topics-of-control-engineering/4823948"
+    },
+    {
+      "name": "Seminar",
+      "code": "C-22",
+      "url": "https://www.studocu.com/de/course/technische-hochschule-deggendorf/seminar/4741085"
+    },
+    {
+      "name": "Sozial- Edukative Kompetenzen",
+      "code": "T-05",
+      "url": "https://www.studocu.com/de/course/technische-hochschule-deggendorf/sozial-edukative-kompetenzen/4741406"
+    },
+    {
+      "name": "Spanende Fertigungstechnik",
+      "code": "D4102",
+      "url": "https://www.studocu.com/de/course/technische-hochschule-deggendorf/spanende-fertigungstechnik/4741134"
+    },
+    {
+      "name": "Spanlose Fertigungstechnik",
+      "code": "D4107",
+      "url": "https://www.studocu.com/de/course/technische-hochschule-deggendorf/spanlose-fertigungstechnik/4741154"
+    },
+    {
+      "name": "Special mathematical methods",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/technische-hochschule-deggendorf/special-mathematical-methods/4827945"
+    },
+    {
+      "name": "Spezielle Physiologie",
+      "code": "T1104",
+      "url": "https://www.studocu.com/de/course/technische-hochschule-deggendorf/spezielle-physiologie/4741981"
+    },
+    {
+      "name": "Sportpsychologie, Teamleading",
+      "code": "T5103",
+      "url": "https://www.studocu.com/de/course/technische-hochschule-deggendorf/sportpsychologie-teamleading/4741972"
+    },
+    {
+      "name": "Statistik",
+      "code": "SM-02",
+      "url": "https://www.studocu.com/de/course/technische-hochschule-deggendorf/statistik/4741584"
+    },
+    {
+      "name": "Statistik I",
+      "code": "E-11",
+      "url": "https://www.studocu.com/de/course/technische-hochschule-deggendorf/statistik-i/4741135"
+    },
+    {
+      "name": "Statistik Und Stochastik",
+      "code": "EM-07",
+      "url": "https://www.studocu.com/de/course/technische-hochschule-deggendorf/statistik-und-stochastik/4741273"
+    },
+    {
+      "name": "Strategic International Management",
+      "code": "SIM01",
+      "url": "https://www.studocu.com/de/course/technische-hochschule-deggendorf/strategic-international-management/5874568"
+    },
+    {
+      "name": "Tagungs- / Messe- Und Kongressmanagement",
+      "code": "T-35",
+      "url": "https://www.studocu.com/de/course/technische-hochschule-deggendorf/tagungs-messe-und-kongressmanagement/4741621"
+    },
+    {
+      "name": "Technische M (Statik)",
+      "code": "D1102",
+      "url": "https://www.studocu.com/de/course/technische-hochschule-deggendorf/technische-m-statik/4741147"
+    },
+    {
+      "name": "Technische Mechanik",
+      "code": "W-04",
+      "url": "https://www.studocu.com/de/course/technische-hochschule-deggendorf/technische-mechanik/4742037"
+    },
+    {
+      "name": "Technische Mechanik 2: Elastostatik",
+      "code": "TM2",
+      "url": "https://www.studocu.com/de/course/technische-hochschule-deggendorf/technische-mechanik-2-elastostatik/4376857"
+    },
+    {
+      "name": "Technische Strömungsmechanik",
+      "code": "D-11",
+      "url": "https://www.studocu.com/de/course/technische-hochschule-deggendorf/technische-stromungsmechanik/4741117"
+    },
+    {
+      "name": "Technische Strömungsmechanik",
+      "code": "D3104",
+      "url": "https://www.studocu.com/de/course/technische-hochschule-deggendorf/technische-stromungsmechanik/4741133"
+    },
+    {
+      "name": "Technische Thermodynamik",
+      "code": "D-17",
+      "url": "https://www.studocu.com/de/course/technische-hochschule-deggendorf/technische-thermodynamik/4741103"
+    },
+    {
+      "name": "Technisches Englisch",
+      "code": "W-11",
+      "url": "https://www.studocu.com/de/course/technische-hochschule-deggendorf/technisches-englisch/4741724"
+    },
+    {
+      "name": "Technologiemanagement",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/technische-hochschule-deggendorf/technologiemanagement/3738477"
+    },
+    {
+      "name": "Travel Technology, Geoinformations-Systeme Und Wissensmanagement",
+      "code": "T-14",
+      "url": "https://www.studocu.com/de/course/technische-hochschule-deggendorf/travel-technology-geoinformations-systeme-und-wissensmanagement/4741631"
+    },
+    {
+      "name": "Unternehmensführung",
+      "code": "T-11",
+      "url": "https://www.studocu.com/de/course/technische-hochschule-deggendorf/unternehmensfuhrung/4741563"
+    },
+    {
+      "name": "Unternehmensführung / Controlling",
+      "code": "E-17",
+      "url": "https://www.studocu.com/de/course/technische-hochschule-deggendorf/unternehmensfuhrung-controlling/4741243"
+    },
+    {
+      "name": "Unternehmensnachfolge Und Business Simulatio",
+      "code": "W-22",
+      "url": "https://www.studocu.com/de/course/technische-hochschule-deggendorf/unternehmensnachfolge-und-business-simulatio/4741674"
+    },
+    {
+      "name": "Unternehmerische Grundlagen",
+      "code": "W-06",
+      "url": "https://www.studocu.com/de/course/technische-hochschule-deggendorf/unternehmerische-grundlagen/4741645"
+    },
+    {
+      "name": "Veranstaltungs- Und Eventmanagement",
+      "code": "T-36",
+      "url": "https://www.studocu.com/de/course/technische-hochschule-deggendorf/veranstaltungs-und-eventmanagement/4741623"
+    },
+    {
+      "name": "Verkehrswegebau II",
+      "code": "MBU-7",
+      "url": "https://www.studocu.com/de/course/technische-hochschule-deggendorf/verkehrswegebau-ii/3059222"
+    },
+    {
+      "name": "Verkehrswesen",
+      "code": "B-13",
+      "url": "https://www.studocu.com/de/course/technische-hochschule-deggendorf/verkehrswesen/4741046"
+    },
+    {
+      "name": "Vermessungskunde",
+      "code": "B-15",
+      "url": "https://www.studocu.com/de/course/technische-hochschule-deggendorf/vermessungskunde/4741050"
+    },
+    {
+      "name": "Volkswirtschaft Und Freizeitökonomie",
+      "code": "T-02",
+      "url": "https://www.studocu.com/de/course/technische-hochschule-deggendorf/volkswirtschaft-und-freizeitokonomie/4741973"
+    },
+    {
+      "name": "Volkswirtschaftslehre",
+      "code": null,
+      "url": "https://www.studocu.com/de/course/technische-hochschule-deggendorf/volkswirtschaftslehre/4524358"
+    },
+    {
+      "name": "Werkstoffe II Und Massivbau II",
+      "code": "B-23",
+      "url": "https://www.studocu.com/de/course/technische-hochschule-deggendorf/werkstoffe-ii-und-massivbau-ii/4742031"
+    },
+    {
+      "name": "Werkstofftechnik",
+      "code": "W-13",
+      "url": "https://www.studocu.com/de/course/technische-hochschule-deggendorf/werkstofftechnik/4741759"
+    },
+    {
+      "name": "Wirtschaft",
+      "code": "F-13",
+      "url": "https://www.studocu.com/de/course/technische-hochschule-deggendorf/wirtschaft/4742039"
+    },
+    {
+      "name": "Wirtschaftsinformatik",
+      "code": "X-04",
+      "url": "https://www.studocu.com/de/course/technische-hochschule-deggendorf/wirtschaftsinformatik/4741678"
+    },
+    {
+      "name": "Wirtschaftspolitik",
+      "code": "J-06",
+      "url": "https://www.studocu.com/de/course/technische-hochschule-deggendorf/wirtschaftspolitik/4527168"
+    },
+    {
+      "name": "Wirtschaftsrecht",
+      "code": "W-07",
+      "url": "https://www.studocu.com/de/course/technische-hochschule-deggendorf/wirtschaftsrecht/4741755"
+    },
+    {
+      "name": "Wissensmanagement",
+      "code": "X-24",
+      "url": "https://www.studocu.com/de/course/technische-hochschule-deggendorf/wissensmanagement/4741734"
+    },
+    {
+      "name": "Wärmeübertragung",
+      "code": "D-20",
+      "url": "https://www.studocu.com/de/course/technische-hochschule-deggendorf/warmeubertragung/4741138"
+    }
+  ]
+}

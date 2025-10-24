@@ -1,13 +1,13 @@
 #!/usr/bin/env python3
 """
-Studocu Multi-University Scraper (Resumable)
-------------------------------------------------
-✅ Uses region code for URL
-✅ Creates per-university JSON files in /courses
-✅ Resumes automatically from last saved university
-✅ Handles "verify human" via random delays
-✅ Skips already scraped universities
-✅ Catches page crashes and moves on
+Studocu Multi-University Scraper (Stable + Memory Safe)
+-------------------------------------------------------
+✅ Handles SIGTRAP / Aw Snap crashes
+✅ Restarts Chromium every 25 universities
+✅ Blocks image requests to save memory
+✅ Logs failed universities to failed.json
+✅ Skips already scraped ones
+✅ Resumes automatically
 """
 
 import json
@@ -23,6 +23,7 @@ from playwright.sync_api import sync_playwright, TimeoutError
 # -------------------------------
 INPUT_FILE = "universities.json"
 COURSES_DIR = Path("courses")
+FAILED_FILE = "failed.json"
 HEADLESS = False
 NAV_TIMEOUT = 60000
 
@@ -31,6 +32,7 @@ SCROLL_PAUSE = (0.8, 1.5)
 COURSE_PAUSE = (1.8, 3.5)
 UNI_COOLDOWN = (4.0, 8.0)
 RETRY_COOLDOWN = (10, 20)
+BROWSER_RESET_INTERVAL = 25   # restart every 25 unis
 
 # -------------------------------
 # HELPERS
@@ -128,6 +130,46 @@ def save_university_courses(uni_id, uni_name, courses):
     print(f"💾 Saved {len(courses)} courses → {file_path.name}")
 
 
+def log_failed(uni_id, uni_name, reason):
+    """Append to failed.json file."""
+    failed = []
+    if Path(FAILED_FILE).exists():
+        with open(FAILED_FILE, "r", encoding="utf-8") as f:
+            failed = json.load(f)
+    failed.append({
+        "id": uni_id,
+        "name": uni_name,
+        "reason": str(reason)
+    })
+    with open(FAILED_FILE, "w", encoding="utf-8") as f:
+        json.dump(failed, f, indent=2, ensure_ascii=False)
+    print(f"⚠️ Logged failed university {uni_name} ({uni_id})")
+
+
+def setup_browser(p):
+    """Create a fresh browser and page with safe flags."""
+    browser = p.chromium.launch(
+        headless=HEADLESS,
+        args=[
+            "--no-sandbox",
+            "--disable-dev-shm-usage",
+            "--disable-gpu",
+            "--disable-software-rasterizer",
+            "--disable-extensions",
+            "--disable-background-networking",
+            "--disable-features=IsolateOrigins,site-per-process,TranslateUI",
+            "--disable-blink-features=AutomationControlled"
+        ]
+    )
+    context = browser.new_context(locale="en-US")
+
+    # Block images to save memory
+    context.route("**/*", lambda route: route.abort() if route.request.resource_type == "image" else route.continue_())
+
+    page = context.new_page()
+    return browser, context, page
+
+
 # -------------------------------
 # MAIN
 # -------------------------------
@@ -144,14 +186,9 @@ def main():
     print(f"📚 Loaded {len(universities)} universities, {len(existing_files)} already done.\n")
 
     with sync_playwright() as p:
-        browser = p.chromium.launch(headless=HEADLESS, args=[
-            "--no-sandbox",
-            "--disable-blink-features=AutomationControlled"
-        ])
-        context = browser.new_context(locale="en-US")
-        page = context.new_page()
-
+        browser, context, page = setup_browser(p)
         cookies_accepted = False
+        counter = 0
 
         for uni in universities:
             uni_data = uni.get("data", {})
@@ -161,7 +198,6 @@ def main():
 
             if not uni_id or not uni_name:
                 continue
-
             if uni_id in existing_files:
                 continue  # skip already scraped
 
@@ -169,12 +205,28 @@ def main():
             url = f"https://www.studocu.com/{region}/institution/{slug}/{uni_id}"
             print(f"\n🏫 {uni_name} ({uni_id}) → {url}")
 
+            # Restart browser periodically to avoid memory leaks
+            if counter > 0 and counter % BROWSER_RESET_INTERVAL == 0:
+                print("🧹 Restarting browser to free memory...")
+                browser.close()
+                rdelay(10, 15)
+                browser, context, page = setup_browser(p)
+                cookies_accepted = False
+
+            counter += 1
+
+            # Navigate safely
             try:
                 page.goto(url, wait_until="domcontentloaded", timeout=NAV_TIMEOUT)
             except Exception as e:
-                print(f"⚠️ Timeout or crash: {e}")
-                cooldown = rdelay(*RETRY_COOLDOWN)
-                print(f"⏳ Retrying after {cooldown:.1f}s...")
+                print(f"💥 Page crash or timeout for {uni_name}: {e}")
+                log_failed(uni_id, uni_name, e)
+                try:
+                    page.close()
+                except:
+                    pass
+                page = context.new_page()
+                rdelay(*RETRY_COOLDOWN)
                 continue
 
             if not cookies_accepted:
@@ -190,6 +242,7 @@ def main():
                 save_university_courses(uni_id, uni_name, courses)
             except Exception as e:
                 print(f"❌ Error scraping {uni_name}: {e}")
+                log_failed(uni_id, uni_name, e)
                 continue
 
             cooldown = rdelay(*UNI_COOLDOWN)

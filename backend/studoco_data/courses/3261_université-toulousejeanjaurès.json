@@ -1,0 +1,4336 @@
+{
+  "university_id": "3261",
+  "university_name": "Université Toulouse-Jean-Jaurès",
+  "courses": [
+    {
+      "name": "\"Civilisation US, Civilisation GB, Etudes filmiques\"",
+      "code": "AN00401V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/civilisation-us-civilisation-gb-etudes-filmiques/2258543"
+    },
+    {
+      "name": "\"Civilisation, panorama de la littérature GB\"",
+      "code": "AN00101V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/civilisation-panorama-de-la-litterature-gb/2258544"
+    },
+    {
+      "name": "20e",
+      "code": "Dramaturgie. Histoire de la mise en scène 16e",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/20e/2262958"
+    },
+    {
+      "name": "20e)",
+      "code": "Littérature française (19e",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/20e/2262959"
+    },
+    {
+      "name": "602-Patrimoine et arts populaires",
+      "code": null,
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/602-patrimoine-et-arts-populaires/6066613"
+    },
+    {
+      "name": "accompagnement et méthodologie",
+      "code": null,
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/accompagnement-et-methodologie/5144867"
+    },
+    {
+      "name": "Accompagnement méthodologique de l'étude de cas",
+      "code": "PY1D203V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/accompagnement-methodologique-de-letude-de-cas/2258601"
+    },
+    {
+      "name": "Accompagnement projet",
+      "code": null,
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/accompagnement-projet/7462153"
+    },
+    {
+      "name": "Acquisition de données spatiales",
+      "code": "HA00902V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/acquisition-de-donnees-spatiales/2258626"
+    },
+    {
+      "name": "Actualité de la sociologie",
+      "code": "SOR0906V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/actualite-de-la-sociologie/2258648"
+    },
+    {
+      "name": "Agrégation : Cours programme moderne ou contemporaine",
+      "code": "HI1M902V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/agregation-cours-programme-moderne-ou-contemporaine/2258666"
+    },
+    {
+      "name": "Aire culturelle : Amérique du Nord",
+      "code": "GE0F502V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/aire-culturelle-amerique-du-nord/2258669"
+    },
+    {
+      "name": "Aire culturelle : Asie",
+      "code": "GE0A502V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/aire-culturelle-asie/2258671"
+    },
+    {
+      "name": "Algèbre / Analyse S2",
+      "code": "MIB0201V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/algebre-analyse-s2/2258675"
+    },
+    {
+      "name": "Algèbre S1",
+      "code": "MIB0101V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/algebre-s1/2258676"
+    },
+    {
+      "name": "Allemand",
+      "code": "MEE0738X",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/allemand/2258682"
+    },
+    {
+      "name": "Allemand : préparation au niveau A1A",
+      "code": "ALA1A0LV",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/allemand-preparation-au-niveau-a1a/2258683"
+    },
+    {
+      "name": "Allemand : préparation au niveau A1B",
+      "code": "ALA1B0LV",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/allemand-preparation-au-niveau-a1b/2258684"
+    },
+    {
+      "name": "Allemand langue et littérature",
+      "code": "AL00401V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/allemand-langue-et-litterature/2258709"
+    },
+    {
+      "name": "Allemand langue écrite et orale 1",
+      "code": "AL00101V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/allemand-langue-ecrite-et-orale-1/2258705"
+    },
+    {
+      "name": "Allemand traduction et oral 2",
+      "code": "AL00601V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/allemand-traduction-et-oral-2/2258726"
+    },
+    {
+      "name": "AM0E704V - Édition imprimée et numérique 1",
+      "code": "AM0E704V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/am0e704v-edition-imprimee-et-numerique-1/2258733"
+    },
+    {
+      "name": "Aménagement et développement territorial",
+      "code": "CT00504V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/amenagement-et-developpement-territorial/2258739"
+    },
+    {
+      "name": "américaine 1",
+      "code": "Civ espagnole et hispano",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/americaine-1/2262965"
+    },
+    {
+      "name": "AN00105 Expression écrite",
+      "code": null,
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/an00105-expression-ecrite/5707350"
+    },
+    {
+      "name": "Analyse de contenu",
+      "code": "PY3X805V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/analyse-de-contenu/2258744"
+    },
+    {
+      "name": "Analyse des arts",
+      "code": "APL0302V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/analyse-des-arts/2258757"
+    },
+    {
+      "name": "Analyse des arts S2",
+      "code": null,
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/analyse-des-arts-s2/5081396"
+    },
+    {
+      "name": "Analyse des pratiques - PLP OPC",
+      "code": "HT30880X",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/analyse-des-pratiques-plp-opc/2258765"
+    },
+    {
+      "name": "Analyse des pratiques et supervision",
+      "code": "PY0A114V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/analyse-des-pratiques-et-supervision/2258773"
+    },
+    {
+      "name": "Analyse du discours",
+      "code": "PY00607V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/analyse-du-discours/2258782"
+    },
+    {
+      "name": "Analyse du discours littéraire",
+      "code": null,
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/analyse-du-discours-litteraire/2959612"
+    },
+    {
+      "name": "Analyse du travail en Education",
+      "code": "ED00503V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/analyse-du-travail-en-education/2258783"
+    },
+    {
+      "name": "Analyse filmique et stylistique",
+      "code": "CN00101V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/analyse-filmique-et-stylistique/2258788"
+    },
+    {
+      "name": "Analyse Financière",
+      "code": "A288",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/analyse-financiere/2951081"
+    },
+    {
+      "name": "Analyse musicale",
+      "code": "MU00802V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/analyse-musicale/2258790"
+    },
+    {
+      "name": "Analyse S3",
+      "code": "MI00302V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/analyse-s3/2258799"
+    },
+    {
+      "name": "Analyse sociologique des données",
+      "code": "SO00502V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/analyse-sociologique-des-donnees/2258801"
+    },
+    {
+      "name": "Analyse Sociologique des Données",
+      "code": "SO00502T",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/analyse-sociologique-des-donnees/6453285"
+    },
+    {
+      "name": "Analyses statistiques en psychologie : approfondissements",
+      "code": "PY6X805V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/analyses-statistiques-en-psychologie-approfondissements/2258811"
+    },
+    {
+      "name": "Anatomie Fonctionnelle 1",
+      "code": "ACC0504V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/anatomie-fonctionnelle-1/2258813"
+    },
+    {
+      "name": "Anatomie Physiologie 1",
+      "code": "ACC0303V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/anatomie-physiologie-1/2258815"
+    },
+    {
+      "name": "Anglais",
+      "code": "OE10741X",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/anglais/2258817"
+    },
+    {
+      "name": "Anglais",
+      "code": "MI0B118V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/anglais/2258821"
+    },
+    {
+      "name": "Anglais - Options TAM /IML",
+      "code": "LL00803V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/anglais-options-tam-iml/2258819"
+    },
+    {
+      "name": "Anglais - Traduction spécialisée",
+      "code": "LL0P903V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/anglais-traduction-specialisee/2258820"
+    },
+    {
+      "name": "Anglais 1",
+      "code": "ANM1031X",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/anglais-1/2258834"
+    },
+    {
+      "name": "Anglais : préparation au niveau A",
+      "code": "ANAXBMLV",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/anglais-preparation-au-niveau-a/2258825"
+    },
+    {
+      "name": "Anglais : préparation au niveau B1A",
+      "code": "ANB1A0LV",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/anglais-preparation-au-niveau-b1a/2258826"
+    },
+    {
+      "name": "Anglais : préparation au niveau B1B",
+      "code": "ANB1B0LV",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/anglais-preparation-au-niveau-b1b/2258827"
+    },
+    {
+      "name": "Anglais : préparation au niveau B2B",
+      "code": "ANB2B0LV",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/anglais-preparation-au-niveau-b2b/2258829"
+    },
+    {
+      "name": "Anglais : préparation au niveau C1B",
+      "code": "ANC1B0LV",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/anglais-preparation-au-niveau-c1b/2258831"
+    },
+    {
+      "name": "Anglais des affaires 2: civilisation, traduction, oral",
+      "code": "ANLA801V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/anglais-des-affaires-2-civilisation-traduction-oral/2258847"
+    },
+    {
+      "name": "Anglais littéraire : préparation au niveau B2B",
+      "code": "ANB2BLLV",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/anglais-litteraire-preparation-au-niveau-b2b/2258849"
+    },
+    {
+      "name": "Anglais oral 1",
+      "code": "ANLA106V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/anglais-oral-1/2258855"
+    },
+    {
+      "name": "Anglais oral 2",
+      "code": "ANLA206V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/anglais-oral-2/2258856"
+    },
+    {
+      "name": "Anglais professionnel",
+      "code": "PY02OP9V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/anglais-professionnel/2258862"
+    },
+    {
+      "name": "Anglais Technique",
+      "code": "EC0A908V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/anglais-technique/2258864"
+    },
+    {
+      "name": "Anthropisation",
+      "code": "502",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/anthropisation/2987443"
+    },
+    {
+      "name": "Anthropologie de l'Afrique",
+      "code": "AE0A703V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/anthropologie-de-lafrique/2258876"
+    },
+    {
+      "name": "Anthropologie de l'art",
+      "code": null,
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/anthropologie-de-lart/6734856"
+    },
+    {
+      "name": "Anthropologie de l'Europe",
+      "code": "AE0A702V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/anthropologie-de-leurope/2258881"
+    },
+    {
+      "name": "Anthropologie de l'économie sociale 1",
+      "code": "EC00903V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/anthropologie-de-leconomie-sociale-1/2258877"
+    },
+    {
+      "name": "Anthropologie de la nature",
+      "code": "AE00501V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/anthropologie-de-la-nature/2258873"
+    },
+    {
+      "name": "Anthropologie de la Parenté",
+      "code": null,
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/anthropologie-de-la-parente/7179707"
+    },
+    {
+      "name": "Anthropologie de la parenté 1 et Culture et droit",
+      "code": "AE00302V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/anthropologie-de-la-parente-1-et-culture-et-droit/2258874"
+    },
+    {
+      "name": "Anthropologie de la parenté 2 et anthropologie du genre",
+      "code": "AE00603V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/anthropologie-de-la-parente-2-et-anthropologie-du-genre/2258875"
+    },
+    {
+      "name": "Anthropologie des savoirs",
+      "code": "AE00601V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/anthropologie-des-savoirs/2258888"
+    },
+    {
+      "name": "Anthropologie du corps et de la santé",
+      "code": "AE00804V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/anthropologie-du-corps-et-de-la-sante/2258889"
+    },
+    {
+      "name": "Anthropologie du Genre",
+      "code": null,
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/anthropologie-du-genre/7179623"
+    },
+    {
+      "name": "Anthropologie du Juridique",
+      "code": null,
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/anthropologie-du-juridique/7179644"
+    },
+    {
+      "name": "Anthropologie du politique / Anthropologie du religieux 1",
+      "code": "AE0B502V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/anthropologie-du-politique-anthropologie-du-religieux-1/2258894"
+    },
+    {
+      "name": "Anthropologie du religieux",
+      "code": "AE00803V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/anthropologie-du-religieux/2258896"
+    },
+    {
+      "name": "Anthropologie du religieux 2 & anthropologie de l'économique",
+      "code": "AE00602V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/anthropologie-du-religieux-2-anthropologie-de-leconomique/2258897"
+    },
+    {
+      "name": "Anthropologie historique",
+      "code": "AE00503V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/anthropologie-historique/2258898"
+    },
+    {
+      "name": "Anthropologie historique",
+      "code": "HI1EOP6V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/anthropologie-historique/2258899"
+    },
+    {
+      "name": "Anthropologie politique",
+      "code": null,
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/anthropologie-politique/7347800"
+    },
+    {
+      "name": "Anthropologie présentation de projet",
+      "code": null,
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/anthropologie-presentation-de-projet/5151405"
+    },
+    {
+      "name": "anthropologie sociale",
+      "code": null,
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/anthropologie-sociale/4533538"
+    },
+    {
+      "name": "Anthropologie visuelle et Actualité de l'anthropologie",
+      "code": "AE00402V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/anthropologie-visuelle-et-actualite-de-lanthropologie/2258901"
+    },
+    {
+      "name": "APE etre étudiant, méthodologie du travail universitaire",
+      "code": null,
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/ape-etre-etudiant-methodologie-du-travail-universitaire/7615147"
+    },
+    {
+      "name": "Approche culturelle du cinéma",
+      "code": null,
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/approche-culturelle-du-cinema/4401030"
+    },
+    {
+      "name": "Approche de la ville",
+      "code": "Géographie urbaine",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/approche-de-la-ville/2262966"
+    },
+    {
+      "name": "Approche théorique des musées",
+      "code": null,
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/approche-theorique-des-musees/4930753"
+    },
+    {
+      "name": "Approches de la mythologie grecque et de la Bible 1",
+      "code": "LC01OP5V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/approches-de-la-mythologie-grecque-et-de-la-bible-1/2258933"
+    },
+    {
+      "name": "Approches de la mythologie grecque et de la Bible 2",
+      "code": "LC01OP6V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/approches-de-la-mythologie-grecque-et-de-la-bible-2/2258934"
+    },
+    {
+      "name": "Approches des Institutions économiques",
+      "code": null,
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/approches-des-institutions-economiques/6703976"
+    },
+    {
+      "name": "Approches méthodologiques en sociologie",
+      "code": "SO00202V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/approches-methodologiques-en-sociologie/2258940"
+    },
+    {
+      "name": "Approches psychothérapiques en psycho-géronto clinique",
+      "code": "PY01902V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/approches-psychotherapiques-en-psycho-geronto-clinique/2258943"
+    },
+    {
+      "name": "Approches économiques des institutions",
+      "code": null,
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/approches-economiques-des-institutions/7242286"
+    },
+    {
+      "name": "Approfondissement et pratique de la sociologie",
+      "code": "SO0005X",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/approfondissement-et-pratique-de-la-sociologie/2918156"
+    },
+    {
+      "name": "Approfondissement HDM HDA, analyse auditive, transcription..",
+      "code": "MUE0951X",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/approfondissement-hdm-hda-analyse-auditive-transcription/2258952"
+    },
+    {
+      "name": "Approfondissements des conceptions psy de la pensée",
+      "code": "PY00203V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/approfondissements-des-conceptions-psy-de-la-pensee/2258963"
+    },
+    {
+      "name": "Arabe : lecture, commentaire de textes et grammaire",
+      "code": "AR00101V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/arabe-lecture-commentaire-de-textes-et-grammaire/2258977"
+    },
+    {
+      "name": "Arabe : Tech. d'expres, écrite et orale et grammaire",
+      "code": "AR00301V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/arabe-tech-dexpres-ecrite-et-orale-et-grammaire/2258989"
+    },
+    {
+      "name": "Arabe des affaires 1: traduction, étude de textes, civi",
+      "code": "ARLA702V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/arabe-des-affaires-1-traduction-etude-de-textes-civi/2258995"
+    },
+    {
+      "name": "Architecture domestique de l'Antiquité",
+      "code": null,
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/architecture-domestique-de-lantiquite/6647079"
+    },
+    {
+      "name": "Architecture et Urbanisme",
+      "code": null,
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/architecture-et-urbanisme/7295058"
+    },
+    {
+      "name": "Archives 5",
+      "code": "AM0A602V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/archives-5/2259028"
+    },
+    {
+      "name": "Archéologie",
+      "code": "HA00102V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/archeologie/2259009"
+    },
+    {
+      "name": "Archéologie de la Gaule romaine et tardive",
+      "code": "HAR0602V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/archeologie-de-la-gaule-romaine-et-tardive/2259012"
+    },
+    {
+      "name": "Archéologie médiévale",
+      "code": "HA0B403V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/archeologie-medievale/2259016"
+    },
+    {
+      "name": "Archéologie protohistorique",
+      "code": "HA0B303V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/archeologie-protohistorique/2259018"
+    },
+    {
+      "name": "Archéologie romaine tardive et médiévale",
+      "code": "HAR0601V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/archeologie-romaine-tardive-et-medievale/2259019"
+    },
+    {
+      "name": "Archéologies et déconstructions du sujet",
+      "code": "PH60703V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/archeologies-et-deconstructions-du-sujet/2259021"
+    },
+    {
+      "name": "art antique HA1B505T",
+      "code": null,
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/art-antique-ha1b505t/7491408"
+    },
+    {
+      "name": "Art dans la Mondialisation",
+      "code": null,
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/art-dans-la-mondialisation/6144877"
+    },
+    {
+      "name": "Arts et philosophie",
+      "code": "PH30802V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/arts-et-philosophie/2259045"
+    },
+    {
+      "name": "Arts préhistoriques européens",
+      "code": null,
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/arts-prehistoriques-europeens/7350859"
+    },
+    {
+      "name": "Aujourd'hui le Moyen-Age",
+      "code": null,
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/aujourdhui-le-moyen-age/7226739"
+    },
+    {
+      "name": "Autonomisation de l'économie",
+      "code": null,
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/autonomisation-de-leconomie/6610679"
+    },
+    {
+      "name": "Autonomisation et principaux courants en économie 1",
+      "code": "EC00103V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/autonomisation-et-principaux-courants-en-economie-1/2259139"
+    },
+    {
+      "name": "Autonomisation et principaux courants en économie 2",
+      "code": "EC00104V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/autonomisation-et-principaux-courants-en-economie-2/2259140"
+    },
+    {
+      "name": "Bibliothèque 3",
+      "code": "AM0B503V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/bibliotheque-3/2259148"
+    },
+    {
+      "name": "Bibliothèques, éditeurs et librairies aujourd'hui",
+      "code": "AM00101V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/bibliotheques-editeurs-et-librairies-aujourdhui/2259152"
+    },
+    {
+      "name": "Bien-être et adaptation chez l’enfant et l’adolescent",
+      "code": null,
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/bien-etre-et-adaptation-chez-lenfant-et-ladolescent/5109709"
+    },
+    {
+      "name": "Biologie et société",
+      "code": "PY01OP3V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/biologie-et-societe/2259156"
+    },
+    {
+      "name": "Biologie humaine",
+      "code": "BS30790X",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/biologie-humaine/2259157"
+    },
+    {
+      "name": "Biologie humaine et physiopathologie",
+      "code": "BS20760X",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/biologie-humaine-et-physiopathologie/2259159"
+    },
+    {
+      "name": "Biomécanique",
+      "code": null,
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/biomecanique/7184992"
+    },
+    {
+      "name": "BS20780X - BS20780X - Connaissances fondamentales en biochimie et microbiologie",
+      "code": "BS20780X",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/bs20780x-bs20780x-connaissances-fondamentales-en-biochimie-et-microbiologie/2259161"
+    },
+    {
+      "name": "Business Analytics",
+      "code": null,
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/business-analytics/6642024"
+    },
+    {
+      "name": "Business development",
+      "code": "LACI903V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/business-development/2259171"
+    },
+    {
+      "name": "C2i2e - Compétences B",
+      "code": "HT10890X",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/c2i2e-competences-b/2259175"
+    },
+    {
+      "name": "Capeps",
+      "code": null,
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/capeps/7376769"
+    },
+    {
+      "name": "Carta commercial LAES302T",
+      "code": null,
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/carta-commercial-laes302t/6725894"
+    },
+    {
+      "name": "cartographie",
+      "code": "Informatique",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/cartographie/2259179"
+    },
+    {
+      "name": "Cartographie - SIG",
+      "code": "GE00706V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/cartographie-sig/2259180"
+    },
+    {
+      "name": "Cartographie / Informatique",
+      "code": "GE0F908V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/cartographie-informatique/2259181"
+    },
+    {
+      "name": "cas clinique neuropsychologie",
+      "code": null,
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/cas-clinique-neuropsychologie/6913700"
+    },
+    {
+      "name": "Changement social et mobilités",
+      "code": "SO00401V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/changement-social-et-mobilites/2259204"
+    },
+    {
+      "name": "Chinois : Langue écrite et orale 5",
+      "code": "CH00501V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/chinois-langue-ecrite-et-orale-5/2259224"
+    },
+    {
+      "name": "Cinéma anglais",
+      "code": null,
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/cinema-anglais/2959608"
+    },
+    {
+      "name": "Cinéma classique",
+      "code": "CN00301V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/cinema-classique/2259250"
+    },
+    {
+      "name": "Cinéma et Littérature 1",
+      "code": "CN00202V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/cinema-et-litterature-1/2259253"
+    },
+    {
+      "name": "Cinéma muet",
+      "code": "CN00201V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/cinema-muet/2259258"
+    },
+    {
+      "name": "Civi HA - LAES302T",
+      "code": null,
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/civi-ha-laes302t/7642896"
+    },
+    {
+      "name": "Civilisation",
+      "code": "AL00802V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/civilisation/2259264"
+    },
+    {
+      "name": "Civilisation -Traduction 1",
+      "code": "Portugais : Littérature",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/civilisation-traduction-1/2259285"
+    },
+    {
+      "name": "Civilisation Britannique",
+      "code": null,
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/civilisation-britannique/4388425"
+    },
+    {
+      "name": "Civilisation des mondes hispaniques",
+      "code": "ES00102V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/civilisation-des-mondes-hispaniques/2259269"
+    },
+    {
+      "name": "Civilisation du Japon 1",
+      "code": "JA00106V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/civilisation-du-japon-1/2259271"
+    },
+    {
+      "name": "Civilisation espagnole",
+      "code": "ESJ0302V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/civilisation-espagnole/2259275"
+    },
+    {
+      "name": "Civilisation grecque 1",
+      "code": "LC0B104V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/civilisation-grecque-1/2259278"
+    },
+    {
+      "name": "Civilisation japonaise",
+      "code": "JA00701V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/civilisation-japonaise/2259280"
+    },
+    {
+      "name": "Civilisation US , Civilisation GB",
+      "code": "AN00302V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/civilisation-us-civilisation-gb/2259286"
+    },
+    {
+      "name": "Civilisation économique",
+      "code": null,
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/civilisation-economique/4388426"
+    },
+    {
+      "name": "Civilisations de l'Antiquité 1",
+      "code": "LC01OP3V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/civilisations-de-lantiquite-1/2259287"
+    },
+    {
+      "name": "Civilisations de l'Antiquité 2",
+      "code": "LC01OP4V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/civilisations-de-lantiquite-2/2259288"
+    },
+    {
+      "name": "Civilisations et Images des mondes hispaniques",
+      "code": "ES00503V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/civilisations-et-images-des-mondes-hispaniques/2259289"
+    },
+    {
+      "name": "clefs des sciences de l'éducation",
+      "code": "Les concepts",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/clefs-des-sciences-de-leducation/2262967"
+    },
+    {
+      "name": "CM3 - le traumatisme - 2eme année",
+      "code": null,
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/cm3-le-traumatisme-2eme-annee/2954581"
+    },
+    {
+      "name": "Commerce international",
+      "code": "LACI603V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/commerce-international/2259305"
+    },
+    {
+      "name": "Communication",
+      "code": "UE 604",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/communication/2259306"
+    },
+    {
+      "name": "Community / social media management",
+      "code": "LACM806V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/community-social-media-management/2259335"
+    },
+    {
+      "name": "Comparaisons internationales - Statistiques avancéEs",
+      "code": null,
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/comparaisons-internationales-statistiques-avancees/7722454"
+    },
+    {
+      "name": "Compréhension orale",
+      "code": "AN00305V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/comprehension-orale/2259355"
+    },
+    {
+      "name": "Comptabilité",
+      "code": "V2I2",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/comptabilite/2952170"
+    },
+    {
+      "name": "Comptabilité générale",
+      "code": "GS01OP2V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/comptabilite-generale/2259358"
+    },
+    {
+      "name": "Comptabilité Internationale",
+      "code": "V38920",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/comptabilite-internationale/2951082"
+    },
+    {
+      "name": "Conception cartographique",
+      "code": "GE00202V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/conception-cartographique/2259360"
+    },
+    {
+      "name": "Conceptions psychologiques actuelles de la pensée",
+      "code": "PY00201V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/conceptions-psychologiques-actuelles-de-la-pensee/2259375"
+    },
+    {
+      "name": "Concepts Economiques Fondamentaux",
+      "code": null,
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/concepts-economiques-fondamentaux/4142083"
+    },
+    {
+      "name": "concours professionnels 1",
+      "code": "Expression écrite et orale",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/concours-professionnels-1/2259386"
+    },
+    {
+      "name": "Connaissance du métier",
+      "code": "PE00102V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/connaissance-du-metier/2259418"
+    },
+    {
+      "name": "connaissance du système éducatif",
+      "code": null,
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/connaissance-du-systeme-educatif/6820535"
+    },
+    {
+      "name": "Connaissances fondamentales en biochimie et microbiologie",
+      "code": "BS20781X",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/connaissances-fondamentales-en-biochimie-et-microbiologie/2259428"
+    },
+    {
+      "name": "Connaitre les métiers du livre et de la documentation",
+      "code": "AM00105V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/connaitre-les-metiers-du-livre-et-de-la-documentation/2259430"
+    },
+    {
+      "name": "Connaître l'université et le métier d'étudiant",
+      "code": "SO00105V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/connaitre-luniversite-et-le-metier-detudiant/2259431"
+    },
+    {
+      "name": "Construction d'un business plan",
+      "code": "GS00603V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/construction-dun-business-plan/2259443"
+    },
+    {
+      "name": "Construction d'un projet d'enquête 1",
+      "code": "AE00305V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/construction-dun-projet-denquete-1/2259446"
+    },
+    {
+      "name": "Construction d'un projet d'enquête 2",
+      "code": "AE00405V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/construction-dun-projet-denquete-2/2259447"
+    },
+    {
+      "name": "Contrôle de Gestion analytique",
+      "code": "GS00401V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/controle-de-gestion-analytique/2259456"
+    },
+    {
+      "name": "Contrôle de Gestion Budgétaire",
+      "code": "GS00601V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/controle-de-gestion-budgetaire/2259457"
+    },
+    {
+      "name": "Contrôle de Gestion financier",
+      "code": "GS00301V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/controle-de-gestion-financier/2259458"
+    },
+    {
+      "name": "Corps et santé/Anthropologie du développement",
+      "code": null,
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/corps-et-santeanthropologie-du-developpement/6985731"
+    },
+    {
+      "name": "Courants sociologiques",
+      "code": "HT40501V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/courants-sociologiques/2259481"
+    },
+    {
+      "name": "Cultes et sanctuaires dans les mondes antiques",
+      "code": "HI1A503V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/cultes-et-sanctuaires-dans-les-mondes-antiques/2259496"
+    },
+    {
+      "name": "Culture Antique",
+      "code": null,
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/culture-antique/7769670"
+    },
+    {
+      "name": "culture commune MEE",
+      "code": null,
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/culture-commune-mee/5109473"
+    },
+    {
+      "name": "Culture disciplinaire 2 - PLP-OPC",
+      "code": "HT30840X",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/culture-disciplinaire-2-plp-opc/2259520"
+    },
+    {
+      "name": "Culture française et francophone",
+      "code": "FLDU802V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/culture-francaise-et-francophone/2259528"
+    },
+    {
+      "name": "Culture Générale",
+      "code": "392KJ",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/culture-generale/2951546"
+    },
+    {
+      "name": "Culture scientifique",
+      "code": "PE00202V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/culture-scientifique/2259537"
+    },
+    {
+      "name": "De l'Humanisme aux Lumières",
+      "code": null,
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/de-lhumanisme-aux-lumieres/2959712"
+    },
+    {
+      "name": "De la Comptabilité à la Gestion Financière",
+      "code": "GS00201V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/de-la-comptabilite-a-la-gestion-financiere/2259556"
+    },
+    {
+      "name": "De la fouille au laboratoire 2",
+      "code": "HARA605V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/de-la-fouille-au-laboratoire-2/2259559"
+    },
+    {
+      "name": "De la grammaire à la linguistique",
+      "code": "SL00102V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/de-la-grammaire-a-la-linguistique/2259560"
+    },
+    {
+      "name": "De la Préhistoire à l'âge de Bronze",
+      "code": "HAR0501V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/de-la-prehistoire-a-lage-de-bronze/2259561"
+    },
+    {
+      "name": "Diagnostic de territoire",
+      "code": "GE0F705V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/diagnostic-de-territoire/2259617"
+    },
+    {
+      "name": "Diagnostic Financier",
+      "code": "GS00501V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/diagnostic-financier/2259618"
+    },
+    {
+      "name": "Didactique des APSA : adapter ses enseignements",
+      "code": "SC10960X",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/didactique-des-apsa-adapter-ses-enseignements/2259634"
+    },
+    {
+      "name": "Didactique du FLE C \"Pratiques de classe 1\"",
+      "code": "FL1D906V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/didactique-du-fle-c-pratiques-de-classe-1/2259669"
+    },
+    {
+      "name": "Didactique du FLE D \"Correction phonétique\"",
+      "code": "FL1D114V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/didactique-du-fle-d-correction-phonetique/2259670"
+    },
+    {
+      "name": "Disciplines contributives aux SE : Psychologie",
+      "code": "ED00501V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/disciplines-contributives-aux-se-psychologie/2259709"
+    },
+    {
+      "name": "Disciplines contributives aux SE : Sociologie, Economie",
+      "code": "ED00401V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/disciplines-contributives-aux-se-sociologie-economie/2259710"
+    },
+    {
+      "name": "Diversité des cultures et interculturation",
+      "code": "PY01OP5V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/diversite-des-cultures-et-interculturation/2259721"
+    },
+    {
+      "name": "Documents : livres, périodiques, images",
+      "code": "AM00201V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/documents-livres-periodiques-images/2259728"
+    },
+    {
+      "name": "Droit",
+      "code": "AM0A907V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/droit/2259745"
+    },
+    {
+      "name": "Droit Administratif",
+      "code": "ECOO118V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/droit-administratif/2972754"
+    },
+    {
+      "name": "Droit civil",
+      "code": null,
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/droit-civil/2959740"
+    },
+    {
+      "name": "Droit Commercial",
+      "code": "EC00116V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/droit-commercial/2974539"
+    },
+    {
+      "name": "Droit constitutionnel",
+      "code": "HI900",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/droit-constitutionnel/3040726"
+    },
+    {
+      "name": "Droit de l'administration publique",
+      "code": "HI2D505V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/droit-de-ladministration-publique/2259751"
+    },
+    {
+      "name": "Droit de l'entreprise",
+      "code": null,
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/droit-de-lentreprise/2959725"
+    },
+    {
+      "name": "Droit des affaires",
+      "code": null,
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/droit-des-affaires/2959693"
+    },
+    {
+      "name": "Droit des Assurances",
+      "code": null,
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/droit-des-assurances/2908011"
+    },
+    {
+      "name": "Droit des entreprises",
+      "code": "V2890",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/droit-des-entreprises/3010841"
+    },
+    {
+      "name": "Droit des Sociétés",
+      "code": "B3882",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/droit-des-societes/2951547"
+    },
+    {
+      "name": "Droit des suretés",
+      "code": "B3882",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/droit-des-suretes/2974530"
+    },
+    {
+      "name": "Droit du Travail",
+      "code": "V289909",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/droit-du-travail/2951548"
+    },
+    {
+      "name": "Droit et institutions de la Ve République",
+      "code": "HI2D404V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/droit-et-institutions-de-la-ve-republique/2259758"
+    },
+    {
+      "name": "Droit Fiscal",
+      "code": "BB999",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/droit-fiscal/2951549"
+    },
+    {
+      "name": "Droit fiscal et environnement juridique des Organisations",
+      "code": "GS00502V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/droit-fiscal-et-environnement-juridique-des-organisations/2259761"
+    },
+    {
+      "name": "Droit international",
+      "code": "BI900",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/droit-international/3040727"
+    },
+    {
+      "name": "Droit privé",
+      "code": "G89809",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/droit-prive/3040725"
+    },
+    {
+      "name": "Droit public, bibliothéconomie et archivistique",
+      "code": "AM00302V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/droit-public-bibliotheconomie-et-archivistique/2259762"
+    },
+    {
+      "name": "Droit Pénal",
+      "code": "M1107",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/droit-penal/2972798"
+    },
+    {
+      "name": "Droit Rural",
+      "code": "M1102",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/droit-rural/2970196"
+    },
+    {
+      "name": "Droit social",
+      "code": "GS01OP6V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/droit-social/2259763"
+    },
+    {
+      "name": "Droit social et économie sociale",
+      "code": "SOS0604V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/droit-social-et-economie-sociale/2259764"
+    },
+    {
+      "name": "Droit-Gestion",
+      "code": "Méthodologie Eco",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/droit-gestion/2262968"
+    },
+    {
+      "name": "Dynamiques du genre en Europe",
+      "code": "SO01OP6V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/dynamiques-du-genre-en-europe/2259771"
+    },
+    {
+      "name": "Dynamiques territoriales et systèmes d'acteurs",
+      "code": "GE2P503V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/dynamiques-territoriales-et-systemes-dacteurs/2259775"
+    },
+    {
+      "name": "Découverte de l'anthropologie",
+      "code": "AE00101V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/decouverte-de-lanthropologie/2259572"
+    },
+    {
+      "name": "Découverte de l'anthropologie: textes",
+      "code": "AE00102V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/decouverte-de-lanthropologie-textes/2259573"
+    },
+    {
+      "name": "Découverte de l'art médiéval",
+      "code": null,
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/decouverte-de-lart-medieval/6816420"
+    },
+    {
+      "name": "Découverte de la sociologie",
+      "code": "SO00101V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/decouverte-de-la-sociologie/2259571"
+    },
+    {
+      "name": "Découverte de secteurs et de métiers de la psychologie",
+      "code": "PY00205V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/decouverte-de-secteurs-et-de-metiers-de-la-psychologie/2259574"
+    },
+    {
+      "name": "Découverte du monde de l'éducation scolaire",
+      "code": "ED01OP1V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/decouverte-du-monde-de-leducation-scolaire/2259579"
+    },
+    {
+      "name": "Découverte métiers recherche , séjour/stage anglophone",
+      "code": "AN00605V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/decouverte-metiers-recherche-sejourstage-anglophone/2259580"
+    },
+    {
+      "name": "Décrire",
+      "code": "Méthodologie : Ecrire",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/decrire/2259582"
+    },
+    {
+      "name": "Démarche de la recherche",
+      "code": "GE0G803V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/demarche-de-la-recherche/2259584"
+    },
+    {
+      "name": "démarche de recherche et épistémologie",
+      "code": null,
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/demarche-de-recherche-et-epistemologie/7758059"
+    },
+    {
+      "name": "Démarche exploratoire et descriptive",
+      "code": null,
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/demarche-exploratoire-et-descriptive/6915691"
+    },
+    {
+      "name": "Démarche Expérimentale",
+      "code": null,
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/demarche-experimentale/7169357"
+    },
+    {
+      "name": "démarches en psychologie et épistémologie",
+      "code": null,
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/demarches-en-psychologie-et-epistemologie/5700323"
+    },
+    {
+      "name": "Désordres en classe et à l'école",
+      "code": null,
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/desordres-en-classe-et-a-lecole/7723675"
+    },
+    {
+      "name": "Développement de projets",
+      "code": "AC1P504V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/developpement-de-projets/2259603"
+    },
+    {
+      "name": "Déviance et société",
+      "code": "SO01OP2V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/deviance-et-societe/2259616"
+    },
+    {
+      "name": "EC00203T Macroéconomie Nationale",
+      "code": null,
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/ec00203t-macroeconomie-nationale/7672857"
+    },
+    {
+      "name": "EC00204T Théories Economiques des relations état marché",
+      "code": null,
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/ec00204t-theories-economiques-des-relations-etat-marche/7672860"
+    },
+    {
+      "name": "Eco",
+      "code": "UE 603",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/eco/2259782"
+    },
+    {
+      "name": "Ecologie / Economie",
+      "code": "EC01OP5V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/ecologie-economie/2259783"
+    },
+    {
+      "name": "Economie",
+      "code": "Les enjeux de la croissance / Ecologie",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/economie/2262969"
+    },
+    {
+      "name": "Economie",
+      "code": null,
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/economie/7437617"
+    },
+    {
+      "name": "Economie : Relation Etat Marché",
+      "code": null,
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/economie-relation-etat-marche/7391314"
+    },
+    {
+      "name": "Economie d'entreprise",
+      "code": "B39900",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/economie-dentreprise/2952171"
+    },
+    {
+      "name": "Economie de l'éducation",
+      "code": "ME06OP7X",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/economie-de-leducation/2259787"
+    },
+    {
+      "name": "Economie monétaire et bancaire",
+      "code": "BIIO3",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/economie-monetaire-et-bancaire/2998328"
+    },
+    {
+      "name": "Ecrit 2",
+      "code": "SC20840X",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/ecrit-2/2259801"
+    },
+    {
+      "name": "Education et société",
+      "code": "SO01OP3V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/education-et-societe/2259835"
+    },
+    {
+      "name": "Education physique et sportive 1",
+      "code": "EP02OP1V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/education-physique-et-sportive-1/2259836"
+    },
+    {
+      "name": "Education physique et sportive 2",
+      "code": "EP02OP2V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/education-physique-et-sportive-2/2259837"
+    },
+    {
+      "name": "Education physique et sportive 6",
+      "code": "EP02OP6V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/education-physique-et-sportive-6/2259841"
+    },
+    {
+      "name": "EE : Projet personnel - niveau II",
+      "code": "DS0E806V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/ee-projet-personnel-niveau-ii/2259844"
+    },
+    {
+      "name": "effectuer une recherche docum.",
+      "code": "Renforcer sa culture générale",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/effectuer-une-recherche-docum/2262971"
+    },
+    {
+      "name": "Elaboration d'un projet innovant",
+      "code": "SO00505V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/elaboration-dun-projet-innovant/2259848"
+    },
+    {
+      "name": "Enjeux environnementaux contemporains",
+      "code": null,
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/enjeux-environnementaux-contemporains/5521611"
+    },
+    {
+      "name": "Ens. Hist&Géo et l'enseignement moral et civique",
+      "code": "HG01042X",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/ens-histgeo-et-lenseignement-moral-et-civique/2259872"
+    },
+    {
+      "name": "Enseignements fondamentaux Anglais 1",
+      "code": "ANLA101V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/enseignements-fondamentaux-anglais-1/2259910"
+    },
+    {
+      "name": "Enseignements fondamentaux Anglais 2",
+      "code": "ANLA201V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/enseignements-fondamentaux-anglais-2/2259911"
+    },
+    {
+      "name": "Enseignements fondamentaux Chinois 1",
+      "code": "CHLA102V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/enseignements-fondamentaux-chinois-1/2259914"
+    },
+    {
+      "name": "Enseignements fondamentaux Espagnol 1",
+      "code": "ESLA102V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/enseignements-fondamentaux-espagnol-1/2259916"
+    },
+    {
+      "name": "Enseignements fondamentaux Japonais 2",
+      "code": "JALA202V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/enseignements-fondamentaux-japonais-2/2259921"
+    },
+    {
+      "name": "Enseigner l'EPS : théories et illustrations professionnelles",
+      "code": "SC10980X",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/enseigner-leps-theories-et-illustrations-professionnelles/2259962"
+    },
+    {
+      "name": "Enseigner l'EPS: Sciences de la vie et Sciences sociales",
+      "code": "SC11060X",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/enseigner-leps-sciences-de-la-vie-et-sciences-sociales/2259963"
+    },
+    {
+      "name": "Enseigner les biotechnologies en LV 1",
+      "code": "BS20930X",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/enseigner-les-biotechnologies-en-lv-1/2259964"
+    },
+    {
+      "name": "Entretien clinique",
+      "code": "PY04905V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/entretien-clinique/2259983"
+    },
+    {
+      "name": "Environnement",
+      "code": "M2 MEEF en alternance Biotechnologies : Santé",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/environnement/2262973"
+    },
+    {
+      "name": "Environnement 1",
+      "code": "GE0B501V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/environnement-1/2259984"
+    },
+    {
+      "name": "Environnements, sociétés et territoires",
+      "code": "GE00101V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/environnements-societes-et-territoires/2259996"
+    },
+    {
+      "name": "Epistologie",
+      "code": "F423",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/epistologie/2943876"
+    },
+    {
+      "name": "Epistémologie et méthodologie",
+      "code": "ED1P502V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/epistemologie-et-methodologie/2260009"
+    },
+    {
+      "name": "Epistémologie et méthodologie de la recherche",
+      "code": "SEE0720X",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/epistemologie-et-methodologie-de-la-recherche/2260010"
+    },
+    {
+      "name": "Epistémologie, démarches d'intervention, évaluation, tests",
+      "code": "PY00502V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/epistemologie-demarches-dintervention-evaluation-tests/2260014"
+    },
+    {
+      "name": "Ergonomie",
+      "code": "PY0B504V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/ergonomie/2260030"
+    },
+    {
+      "name": "Ergonomie, psychologie et jeux vidéos",
+      "code": "PY03OP6V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/ergonomie-psychologie-et-jeux-videos/2260034"
+    },
+    {
+      "name": "Espagne Moderne",
+      "code": "HI1C603V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/espagne-moderne/2260042"
+    },
+    {
+      "name": "Espagnol",
+      "code": "MEE0737X",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/espagnol/2260044"
+    },
+    {
+      "name": "Espagnol 1",
+      "code": "ESM1031X",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/espagnol-1/2260058"
+    },
+    {
+      "name": "Espagnol : préparation au niveau A1A",
+      "code": "ESA1A0LV",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/espagnol-preparation-au-niveau-a1a/2260047"
+    },
+    {
+      "name": "Espagnol : préparation au niveau A1B",
+      "code": "ESA1B0LV",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/espagnol-preparation-au-niveau-a1b/2260048"
+    },
+    {
+      "name": "Espagnol : préparation au niveau A2A",
+      "code": "ESA2A0LV",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/espagnol-preparation-au-niveau-a2a/2260049"
+    },
+    {
+      "name": "Espagnol : préparation au niveau A2B",
+      "code": "ESA2B0LV",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/espagnol-preparation-au-niveau-a2b/2260050"
+    },
+    {
+      "name": "Espagnol : préparation au niveau B2A",
+      "code": "ESB2A0LV",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/espagnol-preparation-au-niveau-b2a/2260053"
+    },
+    {
+      "name": "Espagnol : préparation au niveau C1B",
+      "code": "ESC1B0LV",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/espagnol-preparation-au-niveau-c1b/2260056"
+    },
+    {
+      "name": "Espagnol LV3 niveau A2",
+      "code": null,
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/espagnol-lv3-niveau-a2/7428902"
+    },
+    {
+      "name": "essai et film expérimental",
+      "code": "Cinéma documentaire, film",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/essai-et-film-experimental/2262974"
+    },
+    {
+      "name": "Esthétique 1",
+      "code": "Théories de l'art",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/esthetique-1/2260064"
+    },
+    {
+      "name": "Etre étudiant, devenir sociologue",
+      "code": "SO00205V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/etre-etudiant-devenir-sociologue/2260080"
+    },
+    {
+      "name": "Etude de cas",
+      "code": "BS10960X",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/etude-de-cas/2260081"
+    },
+    {
+      "name": "Etudes et prospection des marchés",
+      "code": "LA1P501V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/etudes-et-prospection-des-marches/2260105"
+    },
+    {
+      "name": "Etudes visuelles 1",
+      "code": "ACT0102V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/etudes-visuelles-1/2260110"
+    },
+    {
+      "name": "Etudes visuelles 2",
+      "code": "ACT0202V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/etudes-visuelles-2/2260111"
+    },
+    {
+      "name": "européens",
+      "code": "Veille documentaire / Arts décoratifs extra",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/europeens/2262975"
+    },
+    {
+      "name": "Evaluation en Education/Formation/Travail",
+      "code": "ED00303V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/evaluation-en-educationformationtravail/2260119"
+    },
+    {
+      "name": "Evolutions du système éducatif",
+      "code": "FE40830X",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/evolutions-du-systeme-educatif/2260133"
+    },
+    {
+      "name": "Examen psychologique et clinique du vieillissement",
+      "code": "PY01905V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/examen-psychologique-et-clinique-du-vieillissement/2260134"
+    },
+    {
+      "name": "Exercer l'art-thérapie",
+      "code": "PY1D302V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/exercer-lart-therapie/2260135"
+    },
+    {
+      "name": "Expression",
+      "code": "FE10941X",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/expression/2260148"
+    },
+    {
+      "name": "économie de la famille",
+      "code": "Socio",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/economie-de-la-famille/2262970"
+    },
+    {
+      "name": "Économie et écologie",
+      "code": "EC00905V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/economie-et-ecologie/2259791"
+    },
+    {
+      "name": "Écriture littéraire",
+      "code": "LMP0903V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/ecriture-litteraire/2259816"
+    },
+    {
+      "name": "Épistémo. en psychopatho, psycho de la santé et géronto",
+      "code": "PY2P803V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/epistemo-en-psychopatho-psycho-de-la-sante-et-geronto/2260000"
+    },
+    {
+      "name": "Épistémologie",
+      "code": "UE 803",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/epistemologie/2260003"
+    },
+    {
+      "name": "Épistémologie de la médecine et de la biologie",
+      "code": "PH40701V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/epistemologie-de-la-medecine-et-de-la-biologie/2260006"
+    },
+    {
+      "name": "Évaluation des formations prof. & programme d'action",
+      "code": "PY8X804V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/evaluation-des-formations-prof-programme-daction/2260118"
+    },
+    {
+      "name": "Évaluation psycho et neuropsychologique chez l'adulte",
+      "code": "PYFX804V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/evaluation-psycho-et-neuropsychologique-chez-ladulte/2260125"
+    },
+    {
+      "name": "Femmes et politique",
+      "code": null,
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/femmes-et-politique/2959748"
+    },
+    {
+      "name": "Femmes et égalité des sexes en Europe",
+      "code": "SO01OP5V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/femmes-et-egalite-des-sexes-en-europe/2260167"
+    },
+    {
+      "name": "Figures de al mythologie contemporaine",
+      "code": null,
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/figures-de-al-mythologie-contemporaine/7723676"
+    },
+    {
+      "name": "Finance",
+      "code": "H3892",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/finance/2951563"
+    },
+    {
+      "name": "Finance d'Entreprise",
+      "code": "G2890",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/finance-dentreprise/2951550"
+    },
+    {
+      "name": "Finances publiques",
+      "code": null,
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/finances-publiques/2958387"
+    },
+    {
+      "name": "Fiscalité",
+      "code": "C290E",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/fiscalite/3010840"
+    },
+    {
+      "name": "FLC2OP5X - Civilisation française",
+      "code": "FLC2OP5X",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/flc2op5x-civilisation-francaise/2260221"
+    },
+    {
+      "name": "FLES",
+      "code": "Méthodologie",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/fles/2260233"
+    },
+    {
+      "name": "Fonctionnement, enjeux et valeurs du système éducatif",
+      "code": "PE00710X",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/fonctionnement-enjeux-et-valeurs-du-systeme-educatif/2260240"
+    },
+    {
+      "name": "Formation musicale",
+      "code": "MUB1104V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/formation-musicale/2260270"
+    },
+    {
+      "name": "français littéraire méthodologie",
+      "code": null,
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/francais-litteraire-methodologie/4514453"
+    },
+    {
+      "name": "Français niveau 1",
+      "code": "PE00101V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/francais-niveau-1/2260283"
+    },
+    {
+      "name": "Gestion",
+      "code": "EC00706V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/gestion/2260316"
+    },
+    {
+      "name": "Gestion : Comm, Organisation, et gestion RH",
+      "code": "M2 MEEF Eco",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/gestion-comm-organisation-et-gestion-rh/2262980"
+    },
+    {
+      "name": "Gestion : Marketing",
+      "code": "M2  MEEF en alternance Eco",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/gestion-marketing/2262983"
+    },
+    {
+      "name": "Gestion comptable et financière",
+      "code": "EC0A701V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/gestion-comptable-et-financiere/2260320"
+    },
+    {
+      "name": "Gestion de patrimoine",
+      "code": "BI3033",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/gestion-de-patrimoine/3010837"
+    },
+    {
+      "name": "Gestion de projet",
+      "code": "GS00602V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/gestion-de-projet/2260322"
+    },
+    {
+      "name": "Gestion des ressources humaines",
+      "code": "GS01OP3V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/gestion-des-ressources-humaines/2260331"
+    },
+    {
+      "name": "Gestion des ressources humaines",
+      "code": null,
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/gestion-des-ressources-humaines/5921035"
+    },
+    {
+      "name": "Gestion des risques",
+      "code": "G8393",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/gestion-des-risques/3010842"
+    },
+    {
+      "name": "Gestion et sciences humaines et sociales",
+      "code": null,
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/gestion-et-sciences-humaines-et-sociales/5927437"
+    },
+    {
+      "name": "Gestion informatique 1",
+      "code": "LA00305V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/gestion-informatique-1/2260341"
+    },
+    {
+      "name": "Gestion Juridique et Sociale",
+      "code": "FF678",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/gestion-juridique-et-sociale/2947153"
+    },
+    {
+      "name": "Globalisation Financière",
+      "code": null,
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/globalisation-financiere/7603967"
+    },
+    {
+      "name": "Grammaire 1",
+      "code": "FLDU303V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/grammaire-1/2260346"
+    },
+    {
+      "name": "Grands courants et concepts de l'anthropologie 1",
+      "code": "AE00301V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/grands-courants-et-concepts-de-lanthropologie-1/2260349"
+    },
+    {
+      "name": "Grands courants et concepts de l'anthropologie 2",
+      "code": "AE00401V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/grands-courants-et-concepts-de-lanthropologie-2/2260350"
+    },
+    {
+      "name": "géographie",
+      "code": "Semestre 06 prépa concours Prof d'histoire",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/geographie/2262979"
+    },
+    {
+      "name": "Géographie de la France",
+      "code": "GE00304V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/geographie-de-la-france/2260300"
+    },
+    {
+      "name": "Géographie des populations",
+      "code": "GE00303V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/geographie-des-populations/2260303"
+    },
+    {
+      "name": "Géographie et aménagement du tourisme",
+      "code": "HT50702V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/geographie-et-amenagement-du-tourisme/2260305"
+    },
+    {
+      "name": "Géographie et géohistoire de l'environnement",
+      "code": "GE00604V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/geographie-et-geohistoire-de-lenvironnement/2260306"
+    },
+    {
+      "name": "Géométrie pour la formation des maîtres",
+      "code": "MIM2OP5V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/geometrie-pour-la-formation-des-maitres/2260311"
+    },
+    {
+      "name": "Géopolitique",
+      "code": "GE00201V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/geopolitique/2260312"
+    },
+    {
+      "name": "Géopolitique de l'Europe",
+      "code": "HI1D604V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/geopolitique-de-leurope/2260313"
+    },
+    {
+      "name": "HA. Antique et Médiéval",
+      "code": "HAH0501V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/ha-antique-et-medieval/2260367"
+    },
+    {
+      "name": "HA. Contemporain",
+      "code": "HAH0603V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/ha-contemporain/2260371"
+    },
+    {
+      "name": "HA. Médiéval",
+      "code": "HAH0602V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/ha-medieval/2260372"
+    },
+    {
+      "name": "HA. Préhistoire, Antique et Moderne",
+      "code": "HAH0504V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/ha-prehistoire-antique-et-moderne/2260378"
+    },
+    {
+      "name": "HA. Préhistoire, Antique et Médiéval",
+      "code": "HAH0505V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/ha-prehistoire-antique-et-medieval/2260377"
+    },
+    {
+      "name": "HA00202T-découverte de l'archéologie",
+      "code": null,
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/ha00202t-decouverte-de-larcheologie/6913149"
+    },
+    {
+      "name": "HA01OP2T- initiation à l'histoire de l'art moderne",
+      "code": null,
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/ha01op2t-initiation-a-lhistoire-de-lart-moderne/6913146"
+    },
+    {
+      "name": "HI101V",
+      "code": null,
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/hi101v/4723411"
+    },
+    {
+      "name": "His: culture disciplinaire, construct. savoirs, didactique 1",
+      "code": "HIM0750X",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/his-culture-disciplinaire-construct-savoirs-didactique-1/2260390"
+    },
+    {
+      "name": "Hist-Géo: culture disciplinaire et discipline d'enseignement",
+      "code": "HG00851X",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/hist-geo-culture-disciplinaire-et-discipline-denseignement/2260394"
+    },
+    {
+      "name": "Histoire",
+      "code": null,
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/histoire/6955686"
+    },
+    {
+      "name": "histoire antique",
+      "code": null,
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/histoire-antique/5274556"
+    },
+    {
+      "name": "Histoire de l'anthropologie",
+      "code": null,
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/histoire-de-lanthropologie/7320396"
+    },
+    {
+      "name": "Histoire de l'Art",
+      "code": null,
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/histoire-de-lart/4344136"
+    },
+    {
+      "name": "Histoire de l'art , Texte littéraire et image",
+      "code": "AN00303V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/histoire-de-lart-texte-litteraire-et-image/2260419"
+    },
+    {
+      "name": "Histoire de l'art : commentaire d'oeuvre",
+      "code": null,
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/histoire-de-lart-commentaire-doeuvre/4826056"
+    },
+    {
+      "name": "Histoire de l'art antique",
+      "code": "HA0A302V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/histoire-de-lart-antique/2260423"
+    },
+    {
+      "name": "Histoire de l'art contemporain",
+      "code": "HA0A403V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/histoire-de-lart-contemporain/2260424"
+    },
+    {
+      "name": "Histoire de l'art moderne",
+      "code": "HA0A402V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/histoire-de-lart-moderne/2260426"
+    },
+    {
+      "name": "Histoire de l'art moderne et contemporain",
+      "code": "HA00201V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/histoire-de-lart-moderne-et-contemporain/2260427"
+    },
+    {
+      "name": "Histoire de l'art moderne et contemporain 2",
+      "code": "HA00401V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/histoire-de-lart-moderne-et-contemporain-2/2260428"
+    },
+    {
+      "name": "Histoire de l'art médiéval",
+      "code": "HA0A303V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/histoire-de-lart-medieval/2260425"
+    },
+    {
+      "name": "Histoire de l'art médiéval",
+      "code": null,
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/histoire-de-lart-medieval/4386656"
+    },
+    {
+      "name": "Histoire de l'EPS au Xxe siècle",
+      "code": "SC10970X",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/histoire-de-leps-au-xxe-siecle/2260430"
+    },
+    {
+      "name": "Histoire de la civilisation médiévale",
+      "code": "HIAN401V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/histoire-de-la-civilisation-medievale/2260399"
+    },
+    {
+      "name": "Histoire de la France au XXème siècle",
+      "code": "HI00402V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/histoire-de-la-france-au-xxeme-siecle/2260400"
+    },
+    {
+      "name": "Histoire de la France depuis",
+      "code": "1940",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/histoire-de-la-france-depuis-1940/2958353"
+    },
+    {
+      "name": "Histoire de la France moderne",
+      "code": "HI00302V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/histoire-de-la-france-moderne/2260401"
+    },
+    {
+      "name": "Histoire de la linguistique",
+      "code": "SL00202V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/histoire-de-la-linguistique/2260402"
+    },
+    {
+      "name": "Histoire de la mondialisation",
+      "code": "HI1L602V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/histoire-de-la-mondialisation/2260406"
+    },
+    {
+      "name": "Histoire de la musique 1",
+      "code": "MU01OP1V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/histoire-de-la-musique-1/2260407"
+    },
+    {
+      "name": "Histoire de la musique 2",
+      "code": "MU01OP2V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/histoire-de-la-musique-2/2260408"
+    },
+    {
+      "name": "Histoire de la médecine",
+      "code": "PH40702V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/histoire-de-la-medecine/2260405"
+    },
+    {
+      "name": "Histoire de la psychologie et de ses idées",
+      "code": "PY00101V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/histoire-de-la-psychologie-et-de-ses-idees/2260411"
+    },
+    {
+      "name": "Histoire de la vie politique française",
+      "code": null,
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/histoire-de-la-vie-politique-francaise/2952318"
+    },
+    {
+      "name": "Histoire de Toulouse et de l'occitanie",
+      "code": "HI1HOP4V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/histoire-de-toulouse-et-de-loccitanie/2260432"
+    },
+    {
+      "name": "Histoire des arts",
+      "code": "ME1OP10X",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/histoire-des-arts/2260435"
+    },
+    {
+      "name": "Histoire des femmes et du genre",
+      "code": "HI1L601V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/histoire-des-femmes-et-du-genre/2260436"
+    },
+    {
+      "name": "Histoire des Idées",
+      "code": "RU00902V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/histoire-des-idees/2260438"
+    },
+    {
+      "name": "Histoire des idées en France 1",
+      "code": "FLDU903V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/histoire-des-idees-en-france-1/2260439"
+    },
+    {
+      "name": "Histoire des médias, Initiation à la culture numérique",
+      "code": "AC00101V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/histoire-des-medias-initiation-a-la-culture-numerique/2260442"
+    },
+    {
+      "name": "Histoire des relations internationales aux XIXe et XXe siècles",
+      "code": null,
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/histoire-des-relations-internationales-aux-xixe-et-xxe-siecles/7145236"
+    },
+    {
+      "name": "Histoire des relations internationales contempo au XXe s.",
+      "code": "HI2D304V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/histoire-des-relations-internationales-contempo-au-xxe-s/2260446"
+    },
+    {
+      "name": "Histoire du cinéma , Commonwealth",
+      "code": "AN0C503V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/histoire-du-cinema-commonwealth/2260448"
+    },
+    {
+      "name": "Histoire du sport",
+      "code": null,
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/histoire-du-sport/6629057"
+    },
+    {
+      "name": "Histoire du Théâtre : du Moyen-Âge au 18e s.",
+      "code": null,
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/histoire-du-theatre-du-moyen-age-au-18e-s/4377477"
+    },
+    {
+      "name": "histoire EPS",
+      "code": null,
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/histoire-eps/5940203"
+    },
+    {
+      "name": "Histoire et civilisation chinoises 2",
+      "code": "CH00302V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/histoire-et-civilisation-chinoises-2/2260463"
+    },
+    {
+      "name": "Histoire et environnement",
+      "code": null,
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/histoire-et-environnement/5913639"
+    },
+    {
+      "name": "Histoire et géopolitique de l’Europe contemporaine",
+      "code": null,
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/histoire-et-geopolitique-de-leurope-contemporaine/4580645"
+    },
+    {
+      "name": "Histoire et Théorie du design 1",
+      "code": "APA0103V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/histoire-et-theorie-du-design-1/2260470"
+    },
+    {
+      "name": "Histoire et Théorie du design 2",
+      "code": "APA0203V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/histoire-et-theorie-du-design-2/2260471"
+    },
+    {
+      "name": "Histoire et Théorie du design 3",
+      "code": "APA0304V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/histoire-et-theorie-du-design-3/2260472"
+    },
+    {
+      "name": "Histoire et écoute de la musique",
+      "code": null,
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/histoire-et-ecoute-de-la-musique/7301912"
+    },
+    {
+      "name": "Histoire Française",
+      "code": null,
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/histoire-francaise/4347396"
+    },
+    {
+      "name": "Histoire intellectuelle de la France contemporaine",
+      "code": "HI1D404V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/histoire-intellectuelle-de-la-france-contemporaine/2260476"
+    },
+    {
+      "name": "Histoire littéraire",
+      "code": "OC00102V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/histoire-litteraire/2260477"
+    },
+    {
+      "name": "histoire religieuse de la France moderne",
+      "code": null,
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/histoire-religieuse-de-la-france-moderne/7143537"
+    },
+    {
+      "name": "Histoire religieuse et culturelle",
+      "code": "HI1C404V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/histoire-religieuse-et-culturelle/2260480"
+    },
+    {
+      "name": "Histoire économique et sociale du XXe s.",
+      "code": "HI1D304V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/histoire-economique-et-sociale-du-xxe-s/2260458"
+    },
+    {
+      "name": "Histoire&Géo / LV-Lettres",
+      "code": "M2 MEEF en alternance Lettres",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/histoiregeo-lv-lettres/2262984"
+    },
+    {
+      "name": "Histoire, Hist. des Arts et images : Antiquité et Moyen-âge",
+      "code": "HIPC403V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/histoire-hist-des-arts-et-images-antiquite-et-moyen-age/2260483"
+    },
+    {
+      "name": "Histoires économiques",
+      "code": "B2003",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/histoires-economiques/2952174"
+    },
+    {
+      "name": "Historiographie et grands courants de l'histoire",
+      "code": "HI1M503V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/historiographie-et-grands-courants-de-lhistoire/2260488"
+    },
+    {
+      "name": "Iconogaphie antique et médiévale",
+      "code": "HA0A304V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/iconogaphie-antique-et-medievale/2260491"
+    },
+    {
+      "name": "Idéologies et expression du pouvoir 1",
+      "code": "HI1B803V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/ideologies-et-expression-du-pouvoir-1/2260502"
+    },
+    {
+      "name": "Idéologies et expression du pouvoir 2",
+      "code": "HI1B112V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/ideologies-et-expression-du-pouvoir-2/2260503"
+    },
+    {
+      "name": "Immigration et minorités ethniques - Comparaison France - Etats-Unis",
+      "code": null,
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/immigration-et-minorites-ethniques-comparaison-france-etats-unis/2955405"
+    },
+    {
+      "name": "In situ, Médiéval, Moderne et Contemporain",
+      "code": "HA00205V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/in-situ-medieval-moderne-et-contemporain/2260516"
+    },
+    {
+      "name": "In situ, Préhistoire, Antiquité, Archéologie",
+      "code": "HA00105V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/in-situ-prehistoire-antiquite-archeologie/2260517"
+    },
+    {
+      "name": "Indexation 2",
+      "code": "Droit de la culture",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/indexation-2/2260519"
+    },
+    {
+      "name": "Informatique",
+      "code": "UE 405",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/informatique/2260525"
+    },
+    {
+      "name": "Informatique 6",
+      "code": "MIC0603V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/informatique-6/2260537"
+    },
+    {
+      "name": "Informatique et Statistique inférentielle",
+      "code": "MI00404V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/informatique-et-statistique-inferentielle/2260559"
+    },
+    {
+      "name": "initiation",
+      "code": "Pratiques de terrain en sciences sociales",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/initiation/2260593"
+    },
+    {
+      "name": "Initiation et engagement dans le domaine de la recherche",
+      "code": "SC10720X",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/initiation-et-engagement-dans-le-domaine-de-la-recherche/2260624"
+    },
+    {
+      "name": "Initiation histoire ancienne",
+      "code": "CT00303V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/initiation-histoire-ancienne/2260625"
+    },
+    {
+      "name": "Initiation histoire contemporaine",
+      "code": "CT00103V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/initiation-histoire-contemporaine/2260626"
+    },
+    {
+      "name": "Initiation histoire moderne",
+      "code": "CT00203V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/initiation-histoire-moderne/2260628"
+    },
+    {
+      "name": "Initiation histoire médiévale",
+      "code": "CT00403V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/initiation-histoire-medievale/2260627"
+    },
+    {
+      "name": "Initiation recherche 1 : Langues et langage",
+      "code": "PE00722X",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/initiation-recherche-1-langues-et-langage/2260634"
+    },
+    {
+      "name": "Initiation à l'art grec",
+      "code": null,
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/initiation-a-lart-grec/5119720"
+    },
+    {
+      "name": "Initiation à l'enquête de terrain en sociologie",
+      "code": "SO00201V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/initiation-a-lenquete-de-terrain-en-sociologie/2260612"
+    },
+    {
+      "name": "Initiation à l'enquête de terrain en sociologie (L1 S2)",
+      "code": null,
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/initiation-a-lenquete-de-terrain-en-sociologie-l1-s2/6568318"
+    },
+    {
+      "name": "Initiation à l'histoire ancienne",
+      "code": "HI00102V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/initiation-a-lhistoire-ancienne/2260613"
+    },
+    {
+      "name": "Initiation à l'histoire contemporaine",
+      "code": "HI00101V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/initiation-a-lhistoire-contemporaine/2260614"
+    },
+    {
+      "name": "Initiation à l'histoire de l'art moderne",
+      "code": null,
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/initiation-a-lhistoire-de-lart-moderne/6021183"
+    },
+    {
+      "name": "Initiation à l'histoire moderne",
+      "code": "HI00201V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/initiation-a-lhistoire-moderne/2260616"
+    },
+    {
+      "name": "Initiation à l'histoire médiévale",
+      "code": "HI00202V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/initiation-a-lhistoire-medievale/2260615"
+    },
+    {
+      "name": "initiation à la linguistique",
+      "code": null,
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/initiation-a-la-linguistique/7729785"
+    },
+    {
+      "name": "Institutions publiques et décentralisation",
+      "code": "SOS0903V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/institutions-publiques-et-decentralisation/2260670"
+    },
+    {
+      "name": "Interventions et évaluation des interventions",
+      "code": "PY05903V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/interventions-et-evaluation-des-interventions/2260693"
+    },
+    {
+      "name": "Introduction au droit et à l'analyse économique",
+      "code": "LA00103V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/introduction-au-droit-et-a-lanalyse-economique/2260707"
+    },
+    {
+      "name": "Introduction au Management",
+      "code": null,
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/introduction-au-management/4388417"
+    },
+    {
+      "name": "Introduction aux cinémas indiens",
+      "code": null,
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/introduction-aux-cinemas-indiens/7455121"
+    },
+    {
+      "name": "Introduction générale au droit",
+      "code": "1",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/introduction-generale-au-droit/3172585"
+    },
+    {
+      "name": "Introduction à la gestion des Organisations",
+      "code": "GS00102V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/introduction-a-la-gestion-des-organisations/2260696"
+    },
+    {
+      "name": "Introduction à la gestion des organisations",
+      "code": null,
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/introduction-a-la-gestion-des-organisations/5900912"
+    },
+    {
+      "name": "Introduction à la phonétique",
+      "code": "SL02OP4V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/introduction-a-la-phonetique/2260700"
+    },
+    {
+      "name": "Introduction à la psychanalyse",
+      "code": "PY02OP6V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/introduction-a-la-psychanalyse/2260701"
+    },
+    {
+      "name": "Introduction à la Psycholinguistique",
+      "code": "SL00302V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/introduction-a-la-psycholinguistique/2260702"
+    },
+    {
+      "name": "Introduction à la psychopathologie et aux psychothérapies",
+      "code": "PY1D102V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/introduction-a-la-psychopathologie-et-aux-psychotherapies/2260703"
+    },
+    {
+      "name": "Introduction à la psychophysiologie",
+      "code": "PY00202V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/introduction-a-la-psychophysiologie/2260704"
+    },
+    {
+      "name": "Introduction à la sociologie",
+      "code": "CT00102V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/introduction-a-la-sociologie/2260705"
+    },
+    {
+      "name": "Intégration professionnelle, préparation concours",
+      "code": "EC1P601V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/integration-professionnelle-preparation-concours/2260672"
+    },
+    {
+      "name": "Inégalités économiques/philosophie politique",
+      "code": "EC00503V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/inegalites-economiquesphilosophie-politique/2260520"
+    },
+    {
+      "name": "Italien",
+      "code": null,
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/italien/7228863"
+    },
+    {
+      "name": "Italien : langue et civilisation 1",
+      "code": "IT00102V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/italien-langue-et-civilisation-1/2260726"
+    },
+    {
+      "name": "Italien : langue et littérature 4",
+      "code": "IT00401V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/italien-langue-et-litterature-4/2260733"
+    },
+    {
+      "name": "Italien : langue et littérature 6",
+      "code": "IT00601V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/italien-langue-et-litterature-6/2260735"
+    },
+    {
+      "name": "Italien : préparation au niveau A1A",
+      "code": "ITA1A0LV",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/italien-preparation-au-niveau-a1a/2260740"
+    },
+    {
+      "name": "Italien : préparation au niveau A1B",
+      "code": "ITA1B0LV",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/italien-preparation-au-niveau-a1b/2260741"
+    },
+    {
+      "name": "Italien : préparation au niveau A2A",
+      "code": "ITA2A0LV",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/italien-preparation-au-niveau-a2a/2260742"
+    },
+    {
+      "name": "Italien des affaires 1: civilisation, traduction, oral",
+      "code": "ITLA702V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/italien-des-affaires-1-civilisation-traduction-oral/2260753"
+    },
+    {
+      "name": "Japonais : Grammaire 2",
+      "code": "JA00202V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/japonais-grammaire-2/2260766"
+    },
+    {
+      "name": "Japonais : Oral 1",
+      "code": "JA00104V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/japonais-oral-1/2260771"
+    },
+    {
+      "name": "Japonais : Thème et écriture 2",
+      "code": "JA00203V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/japonais-theme-et-ecriture-2/2260776"
+    },
+    {
+      "name": "japonais thème",
+      "code": null,
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/japonais-theme/5952864"
+    },
+    {
+      "name": "Japonais écriture",
+      "code": null,
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/japonais-ecriture/5952858"
+    },
+    {
+      "name": "Journées d'études",
+      "code": "RU00113V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/journees-detudes/2260789"
+    },
+    {
+      "name": "JT : Activités axées recherche 1",
+      "code": "ESJ0105V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/jt-activites-axees-recherche-1/2260790"
+    },
+    {
+      "name": "L'Amérique Latine",
+      "code": "HI1C502V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/lamerique-latine/2260834"
+    },
+    {
+      "name": "L'anthropologie et ses mondes",
+      "code": "AE00201V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/lanthropologie-et-ses-mondes/2261001"
+    },
+    {
+      "name": "L'anthropologie et ses mondes: textes",
+      "code": "AE00202V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/lanthropologie-et-ses-mondes-textes/2261002"
+    },
+    {
+      "name": "L'enfant et l'adolescent dans leurs milieux de vie",
+      "code": "PY02OP3V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/lenfant-et-ladolescent-dans-leurs-milieux-de-vie/2261043"
+    },
+    {
+      "name": "L'enquête sociologique par entretiens",
+      "code": "SO00402V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/lenquete-sociologique-par-entretiens/2261045"
+    },
+    {
+      "name": "L'enquête sociologique par observation",
+      "code": "SO00302V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/lenquete-sociologique-par-observation/2261046"
+    },
+    {
+      "name": "L'enquête sociologique par questionnaire",
+      "code": "SO00403V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/lenquete-sociologique-par-questionnaire/2261047"
+    },
+    {
+      "name": "L'enseignement des fondamentaux en physique chimie 1",
+      "code": "SC30960X",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/lenseignement-des-fondamentaux-en-physique-chimie-1/2261048"
+    },
+    {
+      "name": "L'historien face à l'actualité 1",
+      "code": "HI3D305V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/lhistorien-face-a-lactualite-1/2261105"
+    },
+    {
+      "name": "La carte : histoire, usages et commentaire",
+      "code": "GE00102V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/la-carte-histoire-usages-et-commentaire/2260796"
+    },
+    {
+      "name": "La mondialisation des économies : histoire et théories",
+      "code": "EC01OP3V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/la-mondialisation-des-economies-histoire-et-theories/2260804"
+    },
+    {
+      "name": "La philosophie et ses objets I",
+      "code": "PH00101V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/la-philosophie-et-ses-objets-i/2260811"
+    },
+    {
+      "name": "La péninsule Ibérique au Moyen Âge",
+      "code": "HI1B502V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/la-peninsule-iberique-au-moyen-age/2260805"
+    },
+    {
+      "name": "La péninsule Ibérique et la Méditerranée dans l'Antiquité",
+      "code": "HIES301V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/la-peninsule-iberique-et-la-mediterranee-dans-lantiquite/2260806"
+    },
+    {
+      "name": "La péninsule Ibérique et la Méditerranée, Xe-XVe s.",
+      "code": null,
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/la-peninsule-iberique-et-la-mediterranee-xe-xve-s/7520406"
+    },
+    {
+      "name": "La sociologie dans l'espace public",
+      "code": "SO00405V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/la-sociologie-dans-lespace-public/2260818"
+    },
+    {
+      "name": "Langage & langues 1",
+      "code": "SL00101V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/langage-langues-1/2260837"
+    },
+    {
+      "name": "Langage & langues 2",
+      "code": "SL00201V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/langage-langues-2/2260838"
+    },
+    {
+      "name": "Langage et Ecritures 2",
+      "code": "FM00202V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/langage-et-ecritures-2/2260840"
+    },
+    {
+      "name": "Langue",
+      "code": "AN00102V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/langue/2260858"
+    },
+    {
+      "name": "Langue des signes française",
+      "code": "Langue B2",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/langue-des-signes-francaise/2260878"
+    },
+    {
+      "name": "Langue et Civilisation",
+      "code": "ES00101V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/langue-et-civilisation/2260881"
+    },
+    {
+      "name": "Langue et civilisation allemandes 3",
+      "code": "ALLA302V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/langue-et-civilisation-allemandes-3/2260882"
+    },
+    {
+      "name": "Langue et Civilisation Anglophones 3",
+      "code": "ANLA301T",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/langue-et-civilisation-anglophones-3/5930256"
+    },
+    {
+      "name": "Langue et civilisation anglophones 4",
+      "code": "ANLA401V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/langue-et-civilisation-anglophones-4/2260887"
+    },
+    {
+      "name": "Langue et civilisation arabes 3",
+      "code": "ARLA302V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/langue-et-civilisation-arabes-3/2260888"
+    },
+    {
+      "name": "Langue et civilisation espagnoles 4",
+      "code": "ESLA402V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/langue-et-civilisation-espagnoles-4/2260898"
+    },
+    {
+      "name": "Langue et civilisation italiennes 3",
+      "code": "ITLA302V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/langue-et-civilisation-italiennes-3/2260901"
+    },
+    {
+      "name": "Langue et civlisation anglophone 5",
+      "code": "ANLA501V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/langue-et-civlisation-anglophone-5/2260921"
+    },
+    {
+      "name": "Langue et civlisation anglophone 6",
+      "code": "ANLA601V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/langue-et-civlisation-anglophone-6/2260922"
+    },
+    {
+      "name": "Langue vivante 2 : Espagnol 2",
+      "code": "HTES807V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/langue-vivante-2-espagnol-2/2260958"
+    },
+    {
+      "name": "Langue vivante 2 : FLE 2",
+      "code": "HTFL807V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/langue-vivante-2-fle-2/2260961"
+    },
+    {
+      "name": "Langue, littérature et civilisation grecques 1",
+      "code": "LC00102V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/langue-litterature-et-civilisation-grecques-1/2260974"
+    },
+    {
+      "name": "Langues",
+      "code": "CTAN106V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/langues/2260986"
+    },
+    {
+      "name": "langues et civilisations chinoises 2",
+      "code": null,
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/langues-et-civilisations-chinoises-2/5315927"
+    },
+    {
+      "name": "Langues étrangères",
+      "code": "FE10740X",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/langues-etrangeres/2260999"
+    },
+    {
+      "name": "Latin",
+      "code": "LM00303V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/latin/2261006"
+    },
+    {
+      "name": "Le français et les langues du monde",
+      "code": "LM01OP1V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/le-francais-et-les-langues-du-monde/2261022"
+    },
+    {
+      "name": "Le pluralisme explicatif en sociologie",
+      "code": "SO00501V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/le-pluralisme-explicatif-en-sociologie/2261034"
+    },
+    {
+      "name": "Les auteurs fondamentaux de la sociologie",
+      "code": "SO00301V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/les-auteurs-fondamentaux-de-la-sociologie/2261058"
+    },
+    {
+      "name": "Les milieux naturels : composantes et organisation",
+      "code": "GE00301V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/les-milieux-naturels-composantes-et-organisation/2261082"
+    },
+    {
+      "name": "Les métiers du cinéma 1",
+      "code": "CN00105V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/les-metiers-du-cinema-1/2261076"
+    },
+    {
+      "name": "Les règles de construction d'un projet professionnel",
+      "code": "SO00305V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/les-regles-de-construction-dun-projet-professionnel/2261089"
+    },
+    {
+      "name": "Les théories de la socialisation",
+      "code": "SO00102V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/les-theories-de-la-socialisation/2261096"
+    },
+    {
+      "name": "Lettres et Arts 1",
+      "code": "LMA0101V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/lettres-et-arts-1/2261097"
+    },
+    {
+      "name": "Licence Psychologie",
+      "code": null,
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/licence-psychologie/6529213"
+    },
+    {
+      "name": "Linguistique",
+      "code": "LM00302V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/linguistique/2261112"
+    },
+    {
+      "name": "Linguistique (phonétique/phonologie)",
+      "code": "LM00202V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/linguistique-phonetiquephonologie/2918140"
+    },
+    {
+      "name": "Linguistique (syntaxe)",
+      "code": "LM00102V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/linguistique-syntaxe/2918158"
+    },
+    {
+      "name": "littérature anglaise",
+      "code": null,
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/litterature-anglaise/7303475"
+    },
+    {
+      "name": "Littérature comparée",
+      "code": null,
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/litterature-comparee/4383102"
+    },
+    {
+      "name": "Littérature et autres arts (option)",
+      "code": null,
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/litterature-et-autres-arts-option/7574419"
+    },
+    {
+      "name": "Littérature et peinture",
+      "code": "LM0B905V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/litterature-et-peinture/2261160"
+    },
+    {
+      "name": "Littérature et société",
+      "code": null,
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/litterature-et-societe/2959607"
+    },
+    {
+      "name": "Littérature française",
+      "code": "LMM0770X",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/litterature-francaise/2261161"
+    },
+    {
+      "name": "Littérature Française",
+      "code": "LM00101V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/litterature-francaise/2901140"
+    },
+    {
+      "name": "Littérature française",
+      "code": "LM00201V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/litterature-francaise/2918136"
+    },
+    {
+      "name": "Littérature française",
+      "code": "LM00301V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/litterature-francaise/2918145"
+    },
+    {
+      "name": "Littérature française médiévale",
+      "code": "LM00402V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/litterature-francaise-medievale/2261172"
+    },
+    {
+      "name": "Littérature GB , Littérature US",
+      "code": "AN00304V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/litterature-gb-litterature-us/2261173"
+    },
+    {
+      "name": "Littérature GB et nouvelles",
+      "code": "AN00402V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/litterature-gb-et-nouvelles/2261174"
+    },
+    {
+      "name": "Littérature GB, Civilisation GB",
+      "code": "AN00501V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/litterature-gb-civilisation-gb/2261175"
+    },
+    {
+      "name": "Littérature moderne (option L1)",
+      "code": null,
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/litterature-moderne-option-l1/7286614"
+    },
+    {
+      "name": "Littérature US, Civilisation US",
+      "code": "AN00602V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/litterature-us-civilisation-us/2261188"
+    },
+    {
+      "name": "Littératures et arts 2",
+      "code": "FLDU112V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/litteratures-et-arts-2/2261192"
+    },
+    {
+      "name": "Littératures et cultures des mondes hispaniques",
+      "code": "ES00504V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/litteratures-et-cultures-des-mondes-hispaniques/2261193"
+    },
+    {
+      "name": "LM01OP1T - Figures de la culture européenne",
+      "code": null,
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/lm01op1t-figures-de-la-culture-europeenne/7195350"
+    },
+    {
+      "name": "LME0930X - Mise en voix et poésie",
+      "code": "LME0930X",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/lme0930x-mise-en-voix-et-poesie/2261204"
+    },
+    {
+      "name": "LME1051X - Culture antique et enseignement",
+      "code": "LME1051X",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/lme1051x-culture-antique-et-enseignement/2261211"
+    },
+    {
+      "name": "Logique et Langage",
+      "code": "SL00405V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/logique-et-langage/2261223"
+    },
+    {
+      "name": "Macroéconomie",
+      "code": "X28900",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/macroeconomie/2952175"
+    },
+    {
+      "name": "Macroéconomie nationale 1",
+      "code": "EC00204V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/macroeconomie-nationale-1/2261236"
+    },
+    {
+      "name": "Management",
+      "code": "LAEC903V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/management/2261239"
+    },
+    {
+      "name": "Management de projet, Entrepreunariat",
+      "code": "MI0A905V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/management-de-projet-entrepreunariat/2261245"
+    },
+    {
+      "name": "Management de projets",
+      "code": "MI0A805V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/management-de-projets/2261246"
+    },
+    {
+      "name": "management des ressources humaines",
+      "code": null,
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/management-des-ressources-humaines/4386195"
+    },
+    {
+      "name": "Management en restauration collective 1",
+      "code": "HT20803V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/management-en-restauration-collective-1/2261254"
+    },
+    {
+      "name": "Management et histoire des idées économiques",
+      "code": "LA00203V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/management-et-histoire-des-idees-economiques/2261256"
+    },
+    {
+      "name": "Management interculturel et communication",
+      "code": "HT30113V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/management-interculturel-et-communication/2261259"
+    },
+    {
+      "name": "Marché, organisations et institutions",
+      "code": null,
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/marche-organisations-et-institutions/2959690"
+    },
+    {
+      "name": "Marchés Financiers",
+      "code": "FH89086",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/marches-financiers/2947154"
+    },
+    {
+      "name": "Marketing",
+      "code": "GS00303V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/marketing/2261261"
+    },
+    {
+      "name": "Marketing Digital",
+      "code": "EC0A702V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/marketing-digital/2261262"
+    },
+    {
+      "name": "Marketing inter, droit des contrats inter, analyse d'exploit",
+      "code": "LACI703V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/marketing-inter-droit-des-contrats-inter-analyse-dexploit/2261266"
+    },
+    {
+      "name": "Marketing international",
+      "code": "LACI907V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/marketing-international/2261268"
+    },
+    {
+      "name": "Marketing Opérationnel",
+      "code": "H299034",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/marketing-operationnel/2947205"
+    },
+    {
+      "name": "Maths : Algèbre et Analyse Assistée par Ordinateur",
+      "code": "MIA0305V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/maths-algebre-et-analyse-assistee-par-ordinateur/2261278"
+    },
+    {
+      "name": "Maths : Probabilités et Statistique Assistées par Ordinateur",
+      "code": "MIA0405V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/maths-probabilites-et-statistique-assistees-par-ordinateur/2261279"
+    },
+    {
+      "name": "Mathématiques niveau 1",
+      "code": "PE00201V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/mathematiques-niveau-1/2261274"
+    },
+    {
+      "name": "Maîtriser l'écrit et l'oral",
+      "code": "LM00405V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/maitriser-lecrit-et-loral/2261238"
+    },
+    {
+      "name": "Medieval History (licence histoire bilingue anglais) 2023/",
+      "code": "2024",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/medieval-history-licence-histoire-bilingue-anglais-20232024/7199079"
+    },
+    {
+      "name": "MEEF Science de la Vie et de la Terre",
+      "code": null,
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/meef-science-de-la-vie-et-de-la-terre/7561495"
+    },
+    {
+      "name": "Methodes en linguistiques",
+      "code": null,
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/methodes-en-linguistiques/7228382"
+    },
+    {
+      "name": "Michel Delbrouck carrefour despsychothérapies Psychopathologie",
+      "code": null,
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/michel-delbrouck-carrefour-despsychotherapies-psychopathologie/5806638"
+    },
+    {
+      "name": "Microéconomie",
+      "code": "3890N",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/microeconomie/2952176"
+    },
+    {
+      "name": "Minorités religieuses",
+      "code": "HI1KOP3V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/minorites-religieuses/2261484"
+    },
+    {
+      "name": "Mobilités, migrations, parcours et expériences de vie",
+      "code": "SORB803V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/mobilites-migrations-parcours-et-experiences-de-vie/2261500"
+    },
+    {
+      "name": "Mondes grec et romain anciens",
+      "code": "HIAN301V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/mondes-grec-et-romain-anciens/2261507"
+    },
+    {
+      "name": "Mondes ibériques et histoire connectée",
+      "code": "HI3D802V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/mondes-iberiques-et-histoire-connectee/2261508"
+    },
+    {
+      "name": "Mondialisation des économies : histoire et théories",
+      "code": null,
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/mondialisation-des-economies-histoire-et-theories/7732879"
+    },
+    {
+      "name": "Mondialisation des économies : monnaie, banque et finance",
+      "code": "EC00401V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/mondialisation-des-economies-monnaie-banque-et-finance/2261510"
+    },
+    {
+      "name": "Montage et gestion de projet",
+      "code": "EC0A803V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/montage-et-gestion-de-projet/2261512"
+    },
+    {
+      "name": "Musique",
+      "code": "FE10760X",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/musique/2261521"
+    },
+    {
+      "name": "Musique : TICE : utilisation de l'informatique",
+      "code": "FR2U030X",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/musique-tice-utilisation-de-linformatique/2261522"
+    },
+    {
+      "name": "Musique improvisée (traditionnelle, gospel, jazz...",
+      "code": "FR2U110X",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/musique-improvisee-traditionnelle-gospel-jazz/2261527"
+    },
+    {
+      "name": "Musiques actuelles",
+      "code": "MU02OP6V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/musiques-actuelles/2261528"
+    },
+    {
+      "name": "Mythe et Littérature",
+      "code": "LC1A902V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/mythe-et-litterature/2261531"
+    },
+    {
+      "name": "Mythes et imaginaires de la Méditerranée ancienne",
+      "code": "HI1AOP1V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/mythes-et-imaginaires-de-la-mediterranee-ancienne/2261532"
+    },
+    {
+      "name": "Mythologie antique",
+      "code": null,
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/mythologie-antique/2959716"
+    },
+    {
+      "name": "Mécanique du Commerce Internationale",
+      "code": "H29903",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/mecanique-du-commerce-internationale/2947200"
+    },
+    {
+      "name": "Médiations scientifiques et techniques",
+      "code": "ACS0903V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/mediations-scientifiques-et-techniques/2261294"
+    },
+    {
+      "name": "Mémoire et rapport de stage",
+      "code": "PY0A901V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/memoire-et-rapport-de-stage/2261323"
+    },
+    {
+      "name": "Méthodes d'enquête et d'observation de terrain 1",
+      "code": "GE00305V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/methodes-denquete-et-dobservation-de-terrain-1/2261375"
+    },
+    {
+      "name": "Méthodes d'étude en art préhistorique",
+      "code": "HA0A805V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/methodes-detude-en-art-prehistorique/2261377"
+    },
+    {
+      "name": "Méthodes quantitatives en sociologie",
+      "code": "SO00303V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/methodes-quantitatives-en-sociologie/2261391"
+    },
+    {
+      "name": "Méthodo Langue A",
+      "code": "UE 107",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/methodo-langue-a/2261398"
+    },
+    {
+      "name": "Méthodo MA",
+      "code": "UE 109",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/methodo-ma/2261400"
+    },
+    {
+      "name": "Méthodologie appliquée aux SDL",
+      "code": "SL00107V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/methodologie-appliquee-aux-sdl/2261408"
+    },
+    {
+      "name": "Méthodologie de l'Anglais",
+      "code": "ANLA107V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/methodologie-de-langlais/2261423"
+    },
+    {
+      "name": "Méthodologie de l'Arabe",
+      "code": "ARLA108V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/methodologie-de-larabe/2261424"
+    },
+    {
+      "name": "Méthodologie de l'archéologie",
+      "code": "HA0B404V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/methodologie-de-larcheologie/2261425"
+    },
+    {
+      "name": "Méthodologie du Japonais",
+      "code": "JALA108V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/methodologie-du-japonais/2261440"
+    },
+    {
+      "name": "Méthodologie du travail universitaire",
+      "code": "SO00107V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/methodologie-du-travail-universitaire/2261448"
+    },
+    {
+      "name": "Méthodologie du travail universitaire AE00107V",
+      "code": null,
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/methodologie-du-travail-universitaire-ae00107v/4386730"
+    },
+    {
+      "name": "Méthodologie du travail universitaire en géographie",
+      "code": "GE00107V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/methodologie-du-travail-universitaire-en-geographie/2261451"
+    },
+    {
+      "name": "Méthodologie et analyse de données 1",
+      "code": "PY00102V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/methodologie-et-analyse-de-donnees-1/2261452"
+    },
+    {
+      "name": "Méthodologie et analyse de données 2",
+      "code": "PY00204V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/methodologie-et-analyse-de-donnees-2/2261453"
+    },
+    {
+      "name": "Méthodologie expérimentale, mesurage et statistiques",
+      "code": "PY00302V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/methodologie-experimentale-mesurage-et-statistiques/2261459"
+    },
+    {
+      "name": "Méthodologie Philo",
+      "code": null,
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/methodologie-philo/2901143"
+    },
+    {
+      "name": "Méthodologie recherche en relation avec l'ens. de l'EPS",
+      "code": "SC10820X",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/methodologie-recherche-en-relation-avec-lens-de-leps/2261468"
+    },
+    {
+      "name": "Méthodologie universitaire",
+      "code": "HIES107V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/methodologie-universitaire/2261472"
+    },
+    {
+      "name": "Méthodologie universitaire",
+      "code": null,
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/methodologie-universitaire/7266604"
+    },
+    {
+      "name": "Métiers des Sciences du langage",
+      "code": "SL00205V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/metiers-des-sciences-du-langage/2261475"
+    },
+    {
+      "name": "Neurobiologie",
+      "code": "K86263",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/neurobiologie/2943888"
+    },
+    {
+      "name": "Neurologie",
+      "code": null,
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/neurologie/7576335"
+    },
+    {
+      "name": "Neuropsychologie",
+      "code": "PY00507V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/neuropsychologie/2261544"
+    },
+    {
+      "name": "Neurosciences",
+      "code": "PY00402V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/neurosciences/2261550"
+    },
+    {
+      "name": "Normal et pathologique",
+      "code": null,
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/normal-et-pathologique/2952676"
+    },
+    {
+      "name": "Note de synthèse / dossier professionnel",
+      "code": "HT2D201V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/note-de-synthese-dossier-professionnel/2261552"
+    },
+    {
+      "name": "Notions et Théma Culturelles  en italien",
+      "code": "ITM0830X",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/notions-et-thema-culturelles-en-italien/2261557"
+    },
+    {
+      "name": "Numérique et territoire",
+      "code": "EC0A802V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/numerique-et-territoire/2261565"
+    },
+    {
+      "name": "Néerlandais : Préparation au niveau A2B",
+      "code": "NEA2B0LV",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/neerlandais-preparation-au-niveau-a2b/2261540"
+    },
+    {
+      "name": "OI et Stratégies d'entreprises",
+      "code": "LA00403V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/oi-et-strategies-dentreprises/2261597"
+    },
+    {
+      "name": "Option Psychologie du travail et des organisations",
+      "code": "PY2SOP9V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/option-psychologie-du-travail-et-des-organisations/2261610"
+    },
+    {
+      "name": "option psychologie stéréotype et discrimination",
+      "code": null,
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/option-psychologie-stereotype-et-discrimination/7173287"
+    },
+    {
+      "name": "Oral et optionnelle : arts et études filmiques GB",
+      "code": "AN0C603V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/oral-et-optionnelle-arts-et-etudes-filmiques-gb/2261620"
+    },
+    {
+      "name": "Organisation de l'espace",
+      "code": "GE0020Y",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/organisation-de-lespace/2987444"
+    },
+    {
+      "name": "Orient et Afrique du Nord",
+      "code": "Aire culturelle : Moyen",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/orient-et-afrique-du-nord/2262985"
+    },
+    {
+      "name": "Orient médiéval : mondes chrétiens et musulmans",
+      "code": "HI1B304V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/orient-medieval-mondes-chretiens-et-musulmans/2261634"
+    },
+    {
+      "name": "Ouest",
+      "code": "Histoire Est",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/ouest/2262986"
+    },
+    {
+      "name": "Parler/Anthropologie de l'art",
+      "code": null,
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/parleranthropologie-de-lart/6985712"
+    },
+    {
+      "name": "Peinture Antique",
+      "code": null,
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/peinture-antique/6144876"
+    },
+    {
+      "name": "Peintures et sculptures antiques 1",
+      "code": "HA2A803V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/peintures-et-sculptures-antiques-1/2261712"
+    },
+    {
+      "name": "Penser la couleur, modèles transversaux",
+      "code": "DS00606V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/penser-la-couleur-modeles-transversaux/2261715"
+    },
+    {
+      "name": "Penseurs de l'éducation et grands pédagogues",
+      "code": "ED00102V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/penseurs-de-leducation-et-grands-pedagogues/2261716"
+    },
+    {
+      "name": "Pensée économique",
+      "code": "B32PPP",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/pensee-economique/2998327"
+    },
+    {
+      "name": "perception sonore",
+      "code": null,
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/perception-sonore/6595051"
+    },
+    {
+      "name": "PH00102T",
+      "code": null,
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/ph00102t/6650635"
+    },
+    {
+      "name": "Pharmacologie et métiers du médicament",
+      "code": "PYB9907V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/pharmacologie-et-metiers-du-medicament/2261734"
+    },
+    {
+      "name": "Philosophie 1",
+      "code": "APA0104V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/philosophie-1/2261739"
+    },
+    {
+      "name": "Philosophie allemande",
+      "code": "PH00504V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/philosophie-allemande/2261741"
+    },
+    {
+      "name": "Philosophie antique et médiévale",
+      "code": "PH30703V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/philosophie-antique-et-medievale/2261742"
+    },
+    {
+      "name": "Philosophie de l'éducation",
+      "code": null,
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/philosophie-de-leducation/7169337"
+    },
+    {
+      "name": "Philosophie et argumentation",
+      "code": null,
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/philosophie-et-argumentation/7203800"
+    },
+    {
+      "name": "Philosophie et Sciences humaines et sociales",
+      "code": "PH30803V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/philosophie-et-sciences-humaines-et-sociales/2261747"
+    },
+    {
+      "name": "Philosophie française",
+      "code": "PH00601V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/philosophie-francaise/2261748"
+    },
+    {
+      "name": "Philosophie générale",
+      "code": null,
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/philosophie-generale/6696166"
+    },
+    {
+      "name": "Philosophies morales et politiques",
+      "code": "PH00602V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/philosophies-morales-et-politiques/2261755"
+    },
+    {
+      "name": "Phonétique acoustique // Phonologie",
+      "code": "SL00501V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/phonetique-acoustique-phonologie/2261756"
+    },
+    {
+      "name": "Photographie aérienne et cartographie numérique",
+      "code": "GE00302V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/photographie-aerienne-et-cartographie-numerique/2261761"
+    },
+    {
+      "name": "Plan université",
+      "code": null,
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/plan-universite/4446521"
+    },
+    {
+      "name": "Politique comparée internationale",
+      "code": null,
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/politique-comparee-internationale/2955406"
+    },
+    {
+      "name": "Politique et religion",
+      "code": null,
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/politique-et-religion/2955407"
+    },
+    {
+      "name": "Politiques sociales et inégalités femmes/hommes",
+      "code": "SOG0702V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/politiques-sociales-et-inegalites-femmeshommes/2261778"
+    },
+    {
+      "name": "Polonais : Préparation au niveau A1A",
+      "code": "POA1A0LV",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/polonais-preparation-au-niveau-a1a/2261779"
+    },
+    {
+      "name": "pouvoirs",
+      "code": "Pouvoir et contre",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/pouvoirs/2262987"
+    },
+    {
+      "name": "Pragmatique // Lexicographie",
+      "code": "SL00304V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/pragmatique-lexicographie/2261833"
+    },
+    {
+      "name": "Pratique chorégraphique 5",
+      "code": "ACC0204V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/pratique-choregraphique-5/2261839"
+    },
+    {
+      "name": "pratiques en éducation",
+      "code": null,
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/pratiques-en-education/7325997"
+    },
+    {
+      "name": "Pratiques prof. de la recherche/éthique & déontologie",
+      "code": "PY0C114V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/pratiques-prof-de-la-rechercheethique-deontologie/2261911"
+    },
+    {
+      "name": "Pratiques, méthodes, aspects socio-éco et institutionnels 1",
+      "code": "PY0J903V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/pratiques-methodes-aspects-socio-eco-et-institutionnels-1/2261920"
+    },
+    {
+      "name": "Principes et outils de l'enquête en sociologie",
+      "code": null,
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/principes-et-outils-de-lenquete-en-sociologie/6894022"
+    },
+    {
+      "name": "Problèmes de philosophie antique et médiévale I",
+      "code": "PH00201V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/problemes-de-philosophie-antique-et-medievale-i/2261989"
+    },
+    {
+      "name": "Problèmes de philosophie des sciences",
+      "code": "PH00202V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/problemes-de-philosophie-des-sciences/2261992"
+    },
+    {
+      "name": "Problèmes de philosophie morale et politique",
+      "code": "PH00102V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/problemes-de-philosophie-morale-et-politique/2261993"
+    },
+    {
+      "name": "Problématiques de recherches liées à l'ens. de l'EPS",
+      "code": "SC10920X",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/problematiques-de-recherches-liees-a-lens-de-leps/2261985"
+    },
+    {
+      "name": "Processus d'apprentissage, conduite de classe, évaluation",
+      "code": "APE1050X",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/processus-dapprentissage-conduite-de-classe-evaluation/2261996"
+    },
+    {
+      "name": "Programme EPS",
+      "code": null,
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/programme-eps/5082700"
+    },
+    {
+      "name": "Projet",
+      "code": "UE 505",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/projet/2262030"
+    },
+    {
+      "name": "Projet éditorial 1",
+      "code": "AM0E906V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/projet-editorial-1/2262057"
+    },
+    {
+      "name": "Projets de transports et territoires",
+      "code": "GE0T805V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/projets-de-transports-et-territoires/2262100"
+    },
+    {
+      "name": "PROSCENIO : Projet professionnel",
+      "code": "LL0P802V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/proscenio-projet-professionnel/2262108"
+    },
+    {
+      "name": "Précurseurs et fondateurs de la sociologie (CM)",
+      "code": null,
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/precurseurs-et-fondateurs-de-la-sociologie-cm/5722140"
+    },
+    {
+      "name": "Précurseurs et fondateurs de la sociologie (TD)",
+      "code": null,
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/precurseurs-et-fondateurs-de-la-sociologie-td/5722143"
+    },
+    {
+      "name": "Préhistoire et Antiquité",
+      "code": "HA00101V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/prehistoire-et-antiquite/2261922"
+    },
+    {
+      "name": "Préhistoire et Protohistoire",
+      "code": "HAR0603V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/prehistoire-et-protohistoire/2261923"
+    },
+    {
+      "name": "Préparation composition et dossiers",
+      "code": "ITM1051X",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/preparation-composition-et-dossiers/2261956"
+    },
+    {
+      "name": "préparation O3 CAPEPS",
+      "code": null,
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/preparation-o3-capeps/6902181"
+    },
+    {
+      "name": "Préparation oral 2",
+      "code": "SC51070X",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/preparation-oral-2/2261967"
+    },
+    {
+      "name": "Préparation à l'écrit 1",
+      "code": "SC20832X",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/preparation-a-lecrit-1/2261928"
+    },
+    {
+      "name": "Préparation écrit 1",
+      "code": "PHE0960X",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/preparation-ecrit-1/2261960"
+    },
+    {
+      "name": "Préparation écrit 2",
+      "code": "PHE1070X",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/preparation-ecrit-2/2261961"
+    },
+    {
+      "name": "Psychanalyse 1 : le sujet de l'inconscient",
+      "code": "PH60701V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/psychanalyse-1-le-sujet-de-linconscient/2262113"
+    },
+    {
+      "name": "Psycho clin/patho, psycho du devt, analyse du discours",
+      "code": "PY00603V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/psycho-clinpatho-psycho-du-devt-analyse-du-discours/2262114"
+    },
+    {
+      "name": "Psycho clinique du sujet dans le travail et la formation",
+      "code": "PY0J904V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/psycho-clinique-du-sujet-dans-le-travail-et-la-formation/2262115"
+    },
+    {
+      "name": "Psycho(patho)logie clinique psychanalytique",
+      "code": null,
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/psychopathologie-clinique-psychanalytique/7581497"
+    },
+    {
+      "name": "Psychocriminologie",
+      "code": null,
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/psychocriminologie/5714085"
+    },
+    {
+      "name": "Psychologie Clinique",
+      "code": "L986",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/psychologie-clinique/2943882"
+    },
+    {
+      "name": "Psychologie clinique en gérontologie",
+      "code": "PY0F504V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/psychologie-clinique-en-gerontologie/2262120"
+    },
+    {
+      "name": "Psychologie clinique et psychopathologie",
+      "code": "PY1C701V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/psychologie-clinique-et-psychopathologie/2262121"
+    },
+    {
+      "name": "Psychologie clinique et psychopathologie clinique",
+      "code": "PY0N601V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/psychologie-clinique-et-psychopathologie-clinique/2262122"
+    },
+    {
+      "name": "Psychologie clinique et psychopathologie PY0D604V",
+      "code": null,
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/psychologie-clinique-et-psychopathologie-py0d604v/4386749"
+    },
+    {
+      "name": "Psychologie clinique et psychopathologies plurielle",
+      "code": null,
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/psychologie-clinique-et-psychopathologies-plurielle/7403746"
+    },
+    {
+      "name": "Psychologie clinique et psychopathologies plurielles",
+      "code": null,
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/psychologie-clinique-et-psychopathologies-plurielles/5813817"
+    },
+    {
+      "name": "Psychologie clinique/patho et psychologie du développement",
+      "code": "PY00601V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/psychologie-cliniquepatho-et-psychologie-du-developpement/2262123"
+    },
+    {
+      "name": "Psychologie cognitive",
+      "code": "PY0N503V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/psychologie-cognitive/2262124"
+    },
+    {
+      "name": "psychologie cognitive",
+      "code": null,
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/psychologie-cognitive/4822516"
+    },
+    {
+      "name": "psychologie cognitive 103",
+      "code": null,
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/psychologie-cognitive-103/6680017"
+    },
+    {
+      "name": "Psychologie cognitive et psychologie sociale 1",
+      "code": "PY00401V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/psychologie-cognitive-et-psychologie-sociale-1/2262125"
+    },
+    {
+      "name": "Psychologie cognitive et psychologie sociale 2",
+      "code": "PY00501V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/psychologie-cognitive-et-psychologie-sociale-2/2262126"
+    },
+    {
+      "name": "Psychologie cognitive PY00101T",
+      "code": null,
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/psychologie-cognitive-py00101t/7198252"
+    },
+    {
+      "name": "Psychologie cognitive, Psychologie sociale, Neuropsychologie",
+      "code": "PY00503V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/psychologie-cognitive-psychologie-sociale-neuropsychologie/2262127"
+    },
+    {
+      "name": "psychologie de développement",
+      "code": null,
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/psychologie-de-developpement/5321380"
+    },
+    {
+      "name": "Psychologie de l'enquête judiciaire",
+      "code": "PY02OP5V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/psychologie-de-lenquete-judiciaire/2262133"
+    },
+    {
+      "name": "Psychologie de la famille",
+      "code": "PY03OP3V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/psychologie-de-la-famille/2262128"
+    },
+    {
+      "name": "Psychologie de la santé",
+      "code": "PY3P701V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/psychologie-de-la-sante/2262131"
+    },
+    {
+      "name": "psychologie différentielle",
+      "code": null,
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/psychologie-differentielle/6907743"
+    },
+    {
+      "name": "Psychologie du bien-être",
+      "code": null,
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/psychologie-du-bien-etre/7620193"
+    },
+    {
+      "name": "Psychologie du bonheur",
+      "code": "PY02OP4V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/psychologie-du-bonheur/2262135"
+    },
+    {
+      "name": "Psychologie du Comportement",
+      "code": "G5421",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/psychologie-du-comportement/2943883"
+    },
+    {
+      "name": "PSYCHOLOGIE DU DÉVELOPPEMEMENT",
+      "code": "301",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/psychologie-du-developpemement/3287630"
+    },
+    {
+      "name": "Psychologie du développement",
+      "code": "PY0N603V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/psychologie-du-developpement/2262136"
+    },
+    {
+      "name": "Psychologie du développement (PY00205T)",
+      "code": null,
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/psychologie-du-developpement-py00205t/7445395"
+    },
+    {
+      "name": "Psychologie du développement : émotions et communications",
+      "code": "PY0C504V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/psychologie-du-developpement-emotions-et-communications/2262137"
+    },
+    {
+      "name": "Psychologie du développement et clinique/patho",
+      "code": "PY00301V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/psychologie-du-developpement-et-cliniquepatho/2262138"
+    },
+    {
+      "name": "Psychologie du dévt : socialisation et milieux de vie",
+      "code": "PY0C604V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/psychologie-du-devt-socialisation-et-milieux-de-vie/2262139"
+    },
+    {
+      "name": "Psychologie du langage et de l'enfant",
+      "code": null,
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/psychologie-du-langage-et-de-lenfant/7134969"
+    },
+    {
+      "name": "Psychologie du travail digitale-Clinique de l'usage",
+      "code": null,
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/psychologie-du-travail-digitale-clinique-de-lusage/6996683"
+    },
+    {
+      "name": "Psychologie du travail et des organisations",
+      "code": "PY2S701V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/psychologie-du-travail-et-des-organisations/2262140"
+    },
+    {
+      "name": "Psychologie développement et clinique/patho : perf.",
+      "code": "PY00304V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/psychologie-developpement-et-cliniquepatho-perf/2262134"
+    },
+    {
+      "name": "Psychologie et santé",
+      "code": "PY03OP2V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/psychologie-et-sante/2262141"
+    },
+    {
+      "name": "Psychologie et Société",
+      "code": "G653",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/psychologie-et-societe/2943877"
+    },
+    {
+      "name": "Psychologie historique et culturelle du développement",
+      "code": "PY01OP1V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/psychologie-historique-et-culturelle-du-developpement/2262142"
+    },
+    {
+      "name": "Psychologie interculturelle",
+      "code": "PY2C701V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/psychologie-interculturelle/2262143"
+    },
+    {
+      "name": "Psychologie pour l’éducation 1",
+      "code": "FE10720X",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/psychologie-pour-leducation-1/2262144"
+    },
+    {
+      "name": "Psychologie sociale",
+      "code": "PY1S701V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/psychologie-sociale/2262146"
+    },
+    {
+      "name": "Psychologie Sociale L1",
+      "code": null,
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/psychologie-sociale-l1/6826039"
+    },
+    {
+      "name": "Psychologie sociale L2",
+      "code": null,
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/psychologie-sociale-l2/5277537"
+    },
+    {
+      "name": "Psychologie sociale L3",
+      "code": null,
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/psychologie-sociale-l3/5738706"
+    },
+    {
+      "name": "Psychologie, cognitive et sociale : perfectionnement",
+      "code": "PY00404V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/psychologie-cognitive-et-sociale-perfectionnement/2262148"
+    },
+    {
+      "name": "Psychométrie",
+      "code": "G513",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/psychometrie/2943889"
+    },
+    {
+      "name": "Psychopathologie clinique",
+      "code": "PY5D102V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/psychopathologie-clinique/2262150"
+    },
+    {
+      "name": "Psychopathologie de l'enfant et de l'adolescent",
+      "code": "PY0A905V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/psychopathologie-de-lenfant-et-de-ladolescent/2262152"
+    },
+    {
+      "name": "Psychopathologie développementale",
+      "code": "PY2P701V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/psychopathologie-developpementale/2262153"
+    },
+    {
+      "name": "Psychophysiologie",
+      "code": "F43",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/psychophysiologie/2943879"
+    },
+    {
+      "name": "Psychothérapie",
+      "code": "F421",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/psychotherapie/2943886"
+    },
+    {
+      "name": "PY00103V Psychologie clinique",
+      "code": null,
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/py00103v-psychologie-clinique/6715353"
+    },
+    {
+      "name": "PY00304V Psychologie Clinique",
+      "code": null,
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/py00304v-psychologie-clinique/5276157"
+    },
+    {
+      "name": "PY0N404V Psychologie cognitive",
+      "code": null,
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/py0n404v-psychologie-cognitive/4387350"
+    },
+    {
+      "name": "Qu'est-ce que le langage ?",
+      "code": null,
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/quest-ce-que-le-langage/6574724"
+    },
+    {
+      "name": "Recherche documentaire 1",
+      "code": "LMA0105V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/recherche-documentaire-1/2262175"
+    },
+    {
+      "name": "Regard croisés : développement local",
+      "code": "ECS0305V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/regard-croises-developpement-local/2262203"
+    },
+    {
+      "name": "Regards croisés arts et littératures du monde anglophone",
+      "code": "AN00902V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/regards-croises-arts-et-litteratures-du-monde-anglophone/2262210"
+    },
+    {
+      "name": "Regards croisés sur la formation et le travail",
+      "code": null,
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/regards-croises-sur-la-formation-et-le-travail/7469630"
+    },
+    {
+      "name": "Relation éducative, conseils et usagers SOPA",
+      "code": "CP00770X",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/relation-educative-conseils-et-usagers-sopa/2262219"
+    },
+    {
+      "name": "Relations internationales",
+      "code": null,
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/relations-internationales/2959598"
+    },
+    {
+      "name": "Religion, culture et identités",
+      "code": "HI1G601V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/religion-culture-et-identites/2262222"
+    },
+    {
+      "name": "rendus et exposés",
+      "code": "Arabe : Accomp. Projet 5 : Compte",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/rendus-et-exposes/2262991"
+    },
+    {
+      "name": "Renforcement allemand 1",
+      "code": "ALLA106V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/renforcement-allemand-1/2262228"
+    },
+    {
+      "name": "Renforcement allemand 2",
+      "code": "ALLA206V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/renforcement-allemand-2/2262229"
+    },
+    {
+      "name": "Renforcement allemand 4",
+      "code": "ALLA406V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/renforcement-allemand-4/2262231"
+    },
+    {
+      "name": "Renforcement anglais 4",
+      "code": "ANLA406V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/renforcement-anglais-4/2262234"
+    },
+    {
+      "name": "Renforcement disciplinaire 1 : Lettres",
+      "code": "LME0781X",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/renforcement-disciplinaire-1-lettres/2262239"
+    },
+    {
+      "name": "Renforcement italien",
+      "code": "ITLA106V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/renforcement-italien/2262258"
+    },
+    {
+      "name": "Renforcement portugais 1",
+      "code": "PRLA106V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/renforcement-portugais-1/2262261"
+    },
+    {
+      "name": "Ressources Humaines",
+      "code": "H39021",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/ressources-humaines/2951083"
+    },
+    {
+      "name": "Régénération des territoires urbains",
+      "code": null,
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/regeneration-des-territoires-urbains/2955408"
+    },
+    {
+      "name": "Roman, civilisation, traduction",
+      "code": "AN00201V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/roman-civilisation-traduction/2262279"
+    },
+    {
+      "name": "Russe",
+      "code": "MEE0739X",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/russe/2262282"
+    },
+    {
+      "name": "Russe : préparation au niveau A1A",
+      "code": "RUA1A0LV",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/russe-preparation-au-niveau-a1a/2262290"
+    },
+    {
+      "name": "Russe débutant : langue et civilisation contemporaine 3",
+      "code": "RU0D402V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/russe-debutant-langue-et-civilisation-contemporaine-3/2262311"
+    },
+    {
+      "name": "Rédiger son projet",
+      "code": "LL00105V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/rediger-son-projet/2262201"
+    },
+    {
+      "name": "Réflexivité et écriture autosociobiographique",
+      "code": "SO00605V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/reflexivite-et-ecriture-autosociobiographique/2262202"
+    },
+    {
+      "name": "S'acculturer au métier d'étudiant",
+      "code": null,
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/sacculturer-au-metier-detudiant/7399856"
+    },
+    {
+      "name": "Savoirs et savoir faire à enseigner dans la spécialité",
+      "code": "ST80960X",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/savoirs-et-savoir-faire-a-enseigner-dans-la-specialite/2262334"
+    },
+    {
+      "name": "Savoirs liés aux enseignements en Droit/Economie 2",
+      "code": "EG50820X",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/savoirs-lies-aux-enseignements-en-droiteconomie-2/2262338"
+    },
+    {
+      "name": "SC40930X - SC40930X - Corpus de savoirs avancés en physique et en chimie",
+      "code": "SC40930X",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/sc40930x-sc40930x-corpus-de-savoirs-avances-en-physique-et-en-chimie/2262348"
+    },
+    {
+      "name": "SC41060X - SC41060X - Préparation concours CAPLP en physique et chimie",
+      "code": "SC41060X",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/sc41060x-sc41060x-preparation-concours-caplp-en-physique-et-chimie/2262357"
+    },
+    {
+      "name": "Science de l'intervention",
+      "code": null,
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/science-de-lintervention/4313945"
+    },
+    {
+      "name": "Sciences de l'apprentissage à visée éducative en EPS",
+      "code": "SC10770X",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/sciences-de-lapprentissage-a-visee-educative-en-eps/2262372"
+    },
+    {
+      "name": "Sciences de l'éducation : les métiers",
+      "code": "ED00105V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/sciences-de-leducation-les-metiers/2262373"
+    },
+    {
+      "name": "sciences de l'éducation et de la formation",
+      "code": null,
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/sciences-de-leducation-et-de-la-formation/7724423"
+    },
+    {
+      "name": "Sciences de la vie compléments 2",
+      "code": "SC50830X",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/sciences-de-la-vie-complements-2/2262371"
+    },
+    {
+      "name": "Sciences humaines et sociales",
+      "code": "HT5P503V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/sciences-humaines-et-sociales/2262376"
+    },
+    {
+      "name": "Sciences sociales et humaines appliquées au tourisme",
+      "code": "HT40702V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/sciences-sociales-et-humaines-appliquees-au-tourisme/2262381"
+    },
+    {
+      "name": "Sciences, connaissances, économie et sociétés",
+      "code": "SORB701V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/sciences-connaissances-economie-et-societes/2262383"
+    },
+    {
+      "name": "SdL pour le Master E2F",
+      "code": "FLSL804V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/sdl-pour-le-master-e2f/2262384"
+    },
+    {
+      "name": "SE : Questionner un champ professionnel",
+      "code": "ED00305V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/se-questionner-un-champ-professionnel/2262388"
+    },
+    {
+      "name": "Se préparer aux concours et aux métiers",
+      "code": "LM00605V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/se-preparer-aux-concours-et-aux-metiers/2262389"
+    },
+    {
+      "name": "Sens et valeur d'un projet d'étude",
+      "code": "PH00205V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/sens-et-valeur-dun-projet-detude/2262507"
+    },
+    {
+      "name": "Sens et Valeur d'un Projet d'Études",
+      "code": null,
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/sens-et-valeur-dun-projet-detudes/2901142"
+    },
+    {
+      "name": "SO00102T Approches de la socialisation",
+      "code": null,
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/so00102t-approches-de-la-socialisation/6641814"
+    },
+    {
+      "name": "SO00301T_SED- Précurseurs et fondateurs de la sociologie",
+      "code": null,
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/so00301t-sed-precurseurs-et-fondateurs-de-la-sociologie/7732580"
+    },
+    {
+      "name": "Sociale",
+      "code": "HG42",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/sociale/2943880"
+    },
+    {
+      "name": "sociales",
+      "code": "M2 MEEF Sciences et techniques médico",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/sociales/2262994"
+    },
+    {
+      "name": "Socialisation de genre : approches psychologiques",
+      "code": "PY01OP4V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/socialisation-de-genre-approches-psychologiques/2262513"
+    },
+    {
+      "name": "Socialisations : rapports soc de classe/rapports soc de sexe",
+      "code": "DVRS903V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/socialisations-rapports-soc-de-classerapports-soc-de-sexe/2262515"
+    },
+    {
+      "name": "Socialité, modes de vie et politiques sociales",
+      "code": "SOS0504V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/socialite-modes-de-vie-et-politiques-sociales/2262516"
+    },
+    {
+      "name": "Socio-Ethnographie en SEF",
+      "code": "ED00302T",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/socio-ethnographie-en-sef/7143753"
+    },
+    {
+      "name": "Socio-économie des industries culturelles",
+      "code": null,
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/socio-economie-des-industries-culturelles/3356106"
+    },
+    {
+      "name": "Sociolinguistique",
+      "code": "OC0B802V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/sociolinguistique/2262531"
+    },
+    {
+      "name": "sociologie - méthodologie de l'entretien",
+      "code": null,
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/sociologie-methodologie-de-lentretien/7421530"
+    },
+    {
+      "name": "sociologie contemporaine",
+      "code": null,
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/sociologie-contemporaine/4382962"
+    },
+    {
+      "name": "Sociologie de l'environnement",
+      "code": "SOE0503V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/sociologie-de-lenvironnement/2262541"
+    },
+    {
+      "name": "Sociologie de l'école",
+      "code": null,
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/sociologie-de-lecole/7239244"
+    },
+    {
+      "name": "sociologie de l'éducation",
+      "code": null,
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/sociologie-de-leducation/7292072"
+    },
+    {
+      "name": "Sociologie de l'éducation et des savoirs",
+      "code": "SOC0603V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/sociologie-de-leducation-et-des-savoirs/2262540"
+    },
+    {
+      "name": "Sociologie de la Construction Européenne",
+      "code": null,
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/sociologie-de-la-construction-europeenne/2959730"
+    },
+    {
+      "name": "sociologie de la déviance",
+      "code": null,
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/sociologie-de-la-deviance/5829030"
+    },
+    {
+      "name": "Sociologie de la santé et des rapports au corps",
+      "code": "SOD0503V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/sociologie-de-la-sante-et-des-rapports-au-corps/2262535"
+    },
+    {
+      "name": "Sociologie de la ville",
+      "code": "SOA0503V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/sociologie-de-la-ville/2262536"
+    },
+    {
+      "name": "Sociologie des idées politiques",
+      "code": null,
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/sociologie-des-idees-politiques/2955410"
+    },
+    {
+      "name": "Sociologie des migrations",
+      "code": "SOE0603V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/sociologie-des-migrations/2262550"
+    },
+    {
+      "name": "Sociologie des organisations",
+      "code": "SOS0802V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/sociologie-des-organisations/2262552"
+    },
+    {
+      "name": "Sociologie des relations internationales",
+      "code": null,
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/sociologie-des-relations-internationales/2959720"
+    },
+    {
+      "name": "Sociologie du genre",
+      "code": "SOC0503V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/sociologie-du-genre/2262556"
+    },
+    {
+      "name": "Sociologie du travail 1",
+      "code": "SOS0702V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/sociologie-du-travail-1/2262560"
+    },
+    {
+      "name": "Sociologie du travail et de l'organisation",
+      "code": "SOB0603V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/sociologie-du-travail-et-de-lorganisation/2262561"
+    },
+    {
+      "name": "Sociologie et anthropologie de l'alimentation : initiation",
+      "code": "HT40502V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/sociologie-et-anthropologie-de-lalimentation-initiation/2262562"
+    },
+    {
+      "name": "Sociologie et questions contemporaines 1",
+      "code": "SO00304V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/sociologie-et-questions-contemporaines-1/2262564"
+    },
+    {
+      "name": "Sociologie et questions contemporaines 2",
+      "code": "SO00404V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/sociologie-et-questions-contemporaines-2/2262565"
+    },
+    {
+      "name": "Sociologie politique",
+      "code": "SOB0503V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/sociologie-politique/2262566"
+    },
+    {
+      "name": "Sociologie politique",
+      "code": null,
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/sociologie-politique/7722452"
+    },
+    {
+      "name": "Sociologies critiques de la modernité",
+      "code": "SO00601V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/sociologies-critiques-de-la-modernite/2262567"
+    },
+    {
+      "name": "Société et culture du Japon contemporain 2",
+      "code": "JA00603V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/societe-et-culture-du-japon-contemporain-2/2262519"
+    },
+    {
+      "name": "Sociétés et cultures : la prédicaion au Moyen-Âge",
+      "code": "HI1K501V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/societes-et-cultures-la-predicaion-au-moyen-age/2991462"
+    },
+    {
+      "name": "Sources de l'Histoire moderne",
+      "code": "HI1D701V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/sources-de-lhistoire-moderne/2262571"
+    },
+    {
+      "name": "Stage",
+      "code": "FR2U120X",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/stage/2262589"
+    },
+    {
+      "name": "Stage AEI",
+      "code": "LAEC605V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/stage-aei/2262596"
+    },
+    {
+      "name": "staps",
+      "code": null,
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/staps/6820532"
+    },
+    {
+      "name": "Statistique",
+      "code": "MIA0603V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/statistique/2262679"
+    },
+    {
+      "name": "Statistique / Probabilités",
+      "code": "MI00403V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/statistique-probabilites/2262680"
+    },
+    {
+      "name": "Statistique descriptive",
+      "code": "MIA0102V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/statistique-descriptive/2262681"
+    },
+    {
+      "name": "Statistique pour les Sciences Humaines et Sociales",
+      "code": "MIS2OP1V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/statistique-pour-les-sciences-humaines-et-sociales/2262682"
+    },
+    {
+      "name": "Statistiques en psychologie",
+      "code": null,
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/statistiques-en-psychologie/7630385"
+    },
+    {
+      "name": "Statistiques PY00602V",
+      "code": null,
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/statistiques-py00602v/4386739"
+    },
+    {
+      "name": "Stratégie",
+      "code": "GS00302V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/strategie/2262686"
+    },
+    {
+      "name": "Stratégie des Ressources Humaines",
+      "code": "GS00503V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/strategie-des-ressources-humaines/2262687"
+    },
+    {
+      "name": "Structures financières",
+      "code": "F277883",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/structures-financieres/3010839"
+    },
+    {
+      "name": "Stylistique et poétique 2",
+      "code": "LM0F803V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/stylistique-et-poetique-2/2262700"
+    },
+    {
+      "name": "Stéréotypes, préjugés et discrimination",
+      "code": "PY02OP1V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/stereotypes-prejuges-et-discrimination/2262685"
+    },
+    {
+      "name": "Suivi stages : méthodes & techniques à visée professionnelle",
+      "code": "PY00806V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/suivi-stages-methodes-techniques-a-visee-professionnelle/2262739"
+    },
+    {
+      "name": "Syntaxe phrase complexe // Sémantique référentielle",
+      "code": "SL00502V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/syntaxe-phrase-complexe-semantique-referentielle/2262744"
+    },
+    {
+      "name": "Système d'information / ERP",
+      "code": "LACM804V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/systeme-dinformation-erp/2262747"
+    },
+    {
+      "name": "Système d'Information de Gestion",
+      "code": "F3899",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/systeme-dinformation-de-gestion/2951551"
+    },
+    {
+      "name": "Système Educatif Français 2: droit de la vie scolaire",
+      "code": "CP00851X",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/systeme-educatif-francais-2-droit-de-la-vie-scolaire/2262749"
+    },
+    {
+      "name": "Séance 5 2eme année",
+      "code": null,
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/seance-5-2eme-annee/2954578"
+    },
+    {
+      "name": "Sémiologie de l'image",
+      "code": "AC00202V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/semiologie-de-limage/2262502"
+    },
+    {
+      "name": "Sémiotique textuelle",
+      "code": "SL00303V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/semiotique-textuelle/2262506"
+    },
+    {
+      "name": "Technique d'enquête par questionnaire",
+      "code": "PY00305V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/technique-denquete-par-questionnaire/2262763"
+    },
+    {
+      "name": "Technique d'expérimentation et statistiques",
+      "code": "PY00602V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/technique-dexperimentation-et-statistiques/2262764"
+    },
+    {
+      "name": "Technique d'observation",
+      "code": "PY00405V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/technique-dobservation/2262765"
+    },
+    {
+      "name": "technique de l'analyse de contenue",
+      "code": null,
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/technique-de-lanalyse-de-contenue/7583881"
+    },
+    {
+      "name": "Techniques d'entretien",
+      "code": "PY00505V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/techniques-dentretien/2262776"
+    },
+    {
+      "name": "Techniques de l'oral et préparation d'un projet de séjour",
+      "code": "ES00205V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/techniques-de-loral-et-preparation-dun-projet-de-sejour/2262771"
+    },
+    {
+      "name": "TER : psychologie sociale du travail et des organisations",
+      "code": "PY0E608V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/ter-psychologie-sociale-du-travail-et-des-organisations/2262804"
+    },
+    {
+      "name": "TER : psychopatho clinique, psycho de la santé, neuro",
+      "code": "PY0D608V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/ter-psychopatho-clinique-psycho-de-la-sante-neuro/2262805"
+    },
+    {
+      "name": "Texte et image , Linguistique",
+      "code": "AN0A503V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/texte-et-image-linguistique/2262810"
+    },
+    {
+      "name": "Textes et lexique spécialisés",
+      "code": "SL0C112V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/textes-et-lexique-specialises/2262813"
+    },
+    {
+      "name": "Theologie",
+      "code": null,
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/theologie/2918643"
+    },
+    {
+      "name": "Théorie de la Nouvelle Economie Sociale",
+      "code": "EC00806V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/theorie-de-la-nouvelle-economie-sociale/2262825"
+    },
+    {
+      "name": "Théorie des organisations et droits des obligations",
+      "code": "LA00303V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/theorie-des-organisations-et-droits-des-obligations/2262830"
+    },
+    {
+      "name": "Théories critiques",
+      "code": "PH30704V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/theories-critiques/2262840"
+    },
+    {
+      "name": "Théories des organisations",
+      "code": "HLOOO",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/theories-des-organisations/3040729"
+    },
+    {
+      "name": "Théories économiques 1",
+      "code": "EC00404V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/theories-economiques-1/2262847"
+    },
+    {
+      "name": "Théâtre",
+      "code": "FE10860X",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/theatre/2262818"
+    },
+    {
+      "name": "Théâtre et autres arts. Cinéma et autres arts",
+      "code": "ACT0503V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/theatre-et-autres-arts-cinema-et-autres-arts/2262819"
+    },
+    {
+      "name": "TICE pour la formation : conseil à un projet conduit par…",
+      "code": "FE41040X",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/tice-pour-la-formation-conseil-a-un-projet-conduit-par/2262857"
+    },
+    {
+      "name": "TP de SVT + Terrain",
+      "code": "SC50850X",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/tp-de-svt-terrain/2262858"
+    },
+    {
+      "name": "Traduction",
+      "code": "AN00403V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/traduction/2262859"
+    },
+    {
+      "name": "Traduction",
+      "code": null,
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/traduction/7300360"
+    },
+    {
+      "name": "traduction 1",
+      "code": "Espagnol économique",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/traduction-1/2262860"
+    },
+    {
+      "name": "Traduction et linguistique",
+      "code": "AN00601V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/traduction-et-linguistique/2262863"
+    },
+    {
+      "name": "Traduction et oral",
+      "code": "AN00502V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/traduction-et-oral/2262866"
+    },
+    {
+      "name": "Traduction et traductologie 1 : espagnol",
+      "code": "ES00703V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/traduction-et-traductologie-1-espagnol/2262870"
+    },
+    {
+      "name": "Traduction et traductologie 3 : portugais",
+      "code": "PR00903V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/traduction-et-traductologie-3-portugais/2262878"
+    },
+    {
+      "name": "Traduction, Linguistique",
+      "code": "AN00301V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/traduction-linguistique/2262883"
+    },
+    {
+      "name": "Traitement de l'information géographique",
+      "code": "GE0G802V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/traitement-de-linformation-geographique/2262895"
+    },
+    {
+      "name": "travail social et prévention",
+      "code": null,
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/travail-social-et-prevention/7729783"
+    },
+    {
+      "name": "Travaux pratiques de SVT",
+      "code": "SC50780X",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/travaux-pratiques-de-svt/2262923"
+    },
+    {
+      "name": "vers le professorat des écoles",
+      "code": null,
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/vers-le-professorat-des-ecoles/4345606"
+    },
+    {
+      "name": "Vers les pratiques scientifiques",
+      "code": "PH00405V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/vers-les-pratiques-scientifiques/2262942"
+    },
+    {
+      "name": "Vieillisst : Psychopatho. & maladies neurodégénératives",
+      "code": "PY3C701V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/vieillisst-psychopatho-maladies-neurodegeneratives/2262945"
+    },
+    {
+      "name": "Vivre et mourir dans l'Antiquité",
+      "code": null,
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/vivre-et-mourir-dans-lantiquite/7226129"
+    },
+    {
+      "name": "Workshop Design collaboratif",
+      "code": "AP0D112V",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/workshop-design-collaboratif/2262954"
+    },
+    {
+      "name": "XVIIIe s.",
+      "code": "Anthropologie historique XVIe",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/xviiie-s/2262997"
+    },
+    {
+      "name": "XVIIIe s.)",
+      "code": "Histoire de l'Espagne et de son empire (XVe",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/xviiie-s/2262998"
+    },
+    {
+      "name": "XXe s.",
+      "code": "Le phénomène colonial XIXe",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/xxe-s/2262999"
+    },
+    {
+      "name": "XXe s., Europe-États-Unis",
+      "code": "Hist. de la culture de masse XIXe",
+      "url": "https://www.studocu.com/fr/course/universite-toulouse-jean-jaures/xxe-s-europe-etats-unis/2263000"
+    }
+  ]
+}

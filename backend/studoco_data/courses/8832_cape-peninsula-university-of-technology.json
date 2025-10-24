@@ -1,0 +1,3566 @@
+{
+  "university_id": "8832",
+  "university_name": "Cape Peninsula University of Technology",
+  "courses": [
+    {
+      "name": "Academic Literacy 1",
+      "code": "S151LCA",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/academic-literacy-1/3447333"
+    },
+    {
+      "name": "Accountancy 1",
+      "code": "S051CCA",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/accountancy-1/3447294"
+    },
+    {
+      "name": "Accountancy 2",
+      "code": "S062CCA",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/accountancy-2/3447300"
+    },
+    {
+      "name": "Accounting information systems",
+      "code": "AIS2525",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/accounting-information-systems/4463068"
+    },
+    {
+      "name": "Accounting Information Systems 1C",
+      "code": "AIS253S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/accounting-information-systems-1c/6583424"
+    },
+    {
+      "name": "Accounting science",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/accounting-science/7430030"
+    },
+    {
+      "name": "Accounting2",
+      "code": "EMA262S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/accounting2/4545452"
+    },
+    {
+      "name": "Administration And Management Practice 2",
+      "code": "S062PMA",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/administration-and-management-practice-2/3447081"
+    },
+    {
+      "name": "Administration And Management Practice 3",
+      "code": "S073PMA",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/administration-and-management-practice-3/3447089"
+    },
+    {
+      "name": "Administration And Management Practice 4",
+      "code": "S084PMA",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/administration-and-management-practice-4/3447097"
+    },
+    {
+      "name": "Administrative Management 1",
+      "code": "S001MDA",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/administrative-management-1/3447198"
+    },
+    {
+      "name": "Advanced Construction Technology",
+      "code": "ACT470S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/advanced-construction-technology/7431912"
+    },
+    {
+      "name": "Advanced Diploma in Civil Engineering",
+      "code": "adciv",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/advanced-diploma-in-civil-engineering/7528602"
+    },
+    {
+      "name": "Advanced Financial Management 5",
+      "code": "S005MFA",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/advanced-financial-management-5/3447143"
+    },
+    {
+      "name": "Advanced Project Management 4",
+      "code": "S104MPA",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/advanced-project-management-4/3447206"
+    },
+    {
+      "name": "Advanced Radiotherapy",
+      "code": "EDO403S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/advanced-radiotherapy/4490338"
+    },
+    {
+      "name": "Advanced Retail Financial Management",
+      "code": "RFM470S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/advanced-retail-financial-management/4827300"
+    },
+    {
+      "name": "Advanced Strategic Management 4",
+      "code": "S204MSA",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/advanced-strategic-management-4/3447282"
+    },
+    {
+      "name": "Agricultural Extension",
+      "code": "ALE400S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/agricultural-extension/3447060"
+    },
+    {
+      "name": "Agricultural Managemen Inf & Systems",
+      "code": "IMD360S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/agricultural-managemen-inf-systems/3447056"
+    },
+    {
+      "name": "Agricultural Production",
+      "code": "AGD360S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/agricultural-production/3447053"
+    },
+    {
+      "name": "Analytical Chemistry",
+      "code": "ACH400S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/analytical-chemistry/3447063"
+    },
+    {
+      "name": "analytical chemistry",
+      "code": "ACD360s",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/analytical-chemistry/7137513"
+    },
+    {
+      "name": "Anatomy And Physiology",
+      "code": "S051PNA",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/anatomy-and-physiology/3447073"
+    },
+    {
+      "name": "Animal Studies",
+      "code": "ANS260S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/animal-studies/4819469"
+    },
+    {
+      "name": "Application Development Practice",
+      "code": "ADP262S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/application-development-practice/4513430"
+    },
+    {
+      "name": "Application Development Practice 4",
+      "code": "ADP470S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/application-development-practice-4/7594541"
+    },
+    {
+      "name": "Application Development Theory",
+      "code": "ADT262S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/application-development-theory/4513470"
+    },
+    {
+      "name": "applications development fundamentals",
+      "code": "ADF152s",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/applications-development-fundamentals/4822073"
+    },
+    {
+      "name": "applications development practice",
+      "code": "ADP362s",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/applications-development-practice/4822159"
+    },
+    {
+      "name": "Applied Biotechnology",
+      "code": "S063TBA",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/applied-biotechnology/3447140"
+    },
+    {
+      "name": "Applied Ebusiness 5",
+      "code": "S005BEA",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/applied-ebusiness-5/3447224"
+    },
+    {
+      "name": "Applied law",
+      "code": "LPV100S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/applied-law/4489862"
+    },
+    {
+      "name": "Applied Marketing 4",
+      "code": "S004MPA",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/applied-marketing-4/3447246"
+    },
+    {
+      "name": "Applied Mathematics",
+      "code": "S073AMA",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/applied-mathematics/3447403"
+    },
+    {
+      "name": "Applied mathematics",
+      "code": "AMT260S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/applied-mathematics/3722628"
+    },
+    {
+      "name": "Applied Mechanics",
+      "code": "S051MPA",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/applied-mechanics/3447388"
+    },
+    {
+      "name": "Applied Retail Research",
+      "code": "ARR470S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/applied-retail-research/4828199"
+    },
+    {
+      "name": "Architectural Environmental Studies 4",
+      "code": "S004SEA",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/architectural-environmental-studies-4/3447521"
+    },
+    {
+      "name": "Architectural technology",
+      "code": "ARCH3",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/architectural-technology/7166846"
+    },
+    {
+      "name": "Artificial Intelligence",
+      "code": "AIE580S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/artificial-intelligence/5797814"
+    },
+    {
+      "name": "Arts 1",
+      "code": "S051TRA",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/arts-1/3447331"
+    },
+    {
+      "name": "Arts 2",
+      "code": "S062TRA",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/arts-2/3447345"
+    },
+    {
+      "name": "Auditing 2",
+      "code": "S122DUA",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/auditing-2/3447156"
+    },
+    {
+      "name": "Auditing 3",
+      "code": "S003DUA",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/auditing-3/3447163"
+    },
+    {
+      "name": "B.Ed in Senior and Fet",
+      "code": "PPR2",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/bed-in-senior-and-fet/7127042"
+    },
+    {
+      "name": "B.Tech Electrical Engineering",
+      "code": "BPETEE",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/btech-electrical-engineering/7027884"
+    },
+    {
+      "name": "Bed in senior phase",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/bed-in-senior-phase/6545078"
+    },
+    {
+      "name": "BED. Intermediate Phase Teaching",
+      "code": "MAT261S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/bed-intermediate-phase-teaching/6505397"
+    },
+    {
+      "name": "BED. Intermediate Phase Teaching",
+      "code": "SEN471S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/bed-intermediate-phase-teaching/6787214"
+    },
+    {
+      "name": "BED. Intermediate Phase Teaching History",
+      "code": "HSY361S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/bed-intermediate-phase-teaching-history/6325515"
+    },
+    {
+      "name": "BEMC 4: Paediatric",
+      "code": "EMC401S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/bemc-4-paediatric/6396724"
+    },
+    {
+      "name": "BEng Tech Chem Eng",
+      "code": "BET150S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/beng-tech-chem-eng/7687108"
+    },
+    {
+      "name": "BEng Tech in Civil Engineering",
+      "code": "1BCIV",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/beng-tech-in-civil-engineering/6959558"
+    },
+    {
+      "name": "BEngTech Civil Structures",
+      "code": "CVSE12",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/bengtech-civil-structures/5394223"
+    },
+    {
+      "name": "BHSC in Opticianry",
+      "code": "BHSC",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/bhsc-in-opticianry/6886439"
+    },
+    {
+      "name": "Biochemestry",
+      "code": "BCH560",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/biochemestry/4822645"
+    },
+    {
+      "name": "Biodiversity Management 3",
+      "code": "S063MER",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/biodiversity-management-3/3447111"
+    },
+    {
+      "name": "Biomathematics",
+      "code": "BMA150x",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/biomathematics/4491577"
+    },
+    {
+      "name": "Bioprocessing Environmental engineering",
+      "code": "BEE360s",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/bioprocessing-environmental-engineering/5782899"
+    },
+    {
+      "name": "Biostatics 1",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/biostatics-1/7047234"
+    },
+    {
+      "name": "Biostatistics",
+      "code": "XD01SMI",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/biostatistics/3447493"
+    },
+    {
+      "name": "Biotechnology Integrated Project 3",
+      "code": "S063PTB",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/biotechnology-integrated-project-3/3447142"
+    },
+    {
+      "name": "Biotechnology Workplacebased Learning",
+      "code": "S063PIB",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/biotechnology-workplacebased-learning/3447141"
+    },
+    {
+      "name": "Body Therapies",
+      "code": "BDT260S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/body-therapies/4802998"
+    },
+    {
+      "name": "Botany",
+      "code": "BT202",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/botany/4822931"
+    },
+    {
+      "name": "Brand Management",
+      "code": "BMT470s",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/brand-management/4806191"
+    },
+    {
+      "name": "BSc Diagnostic Radiography",
+      "code": "BPSDGR",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/bsc-diagnostic-radiography/4541947"
+    },
+    {
+      "name": "BTech Construction Management",
+      "code": "CM400S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/btech-construction-management/4332550"
+    },
+    {
+      "name": "BTech Mechanical Engineering",
+      "code": "BTechME",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/btech-mechanical-engineering/2270960"
+    },
+    {
+      "name": "BTech Quantity Surveying",
+      "code": "BTqs",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/btech-quantity-surveying/4165624"
+    },
+    {
+      "name": "Building Services",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/building-services/5420420"
+    },
+    {
+      "name": "Business Administration",
+      "code": "R5MB01R",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/business-administration/5735523"
+    },
+    {
+      "name": "Business Administration 4",
+      "code": "BUA470S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/business-administration-4/7467500"
+    },
+    {
+      "name": "Business Administration 4 Module A",
+      "code": "S104AUB",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/business-administration-4-module-a/3447257"
+    },
+    {
+      "name": "Business Administration 4 Module B",
+      "code": "S204AUB",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/business-administration-4-module-b/3447258"
+    },
+    {
+      "name": "Business Administration 4 Module C",
+      "code": "S304AUB",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/business-administration-4-module-c/3447260"
+    },
+    {
+      "name": "Business Administration For Paralegals",
+      "code": "S063LAB",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/business-administration-for-paralegals/3447305"
+    },
+    {
+      "name": "Business and Information Administration (ECP)",
+      "code": "D3BIAX",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/business-and-information-administration-ecp/6572280"
+    },
+    {
+      "name": "business and management studies",
+      "code": "BSR150S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/business-and-management-studies/4490268"
+    },
+    {
+      "name": "business application",
+      "code": "BAP360S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/business-application/4823961"
+    },
+    {
+      "name": "Business Calculations 1",
+      "code": "S011CUB",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/business-calculations-1/3447158"
+    },
+    {
+      "name": "business computer application",
+      "code": "BCA1525",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/business-computer-application/4490263"
+    },
+    {
+      "name": "Business Information Systems",
+      "code": "BIS470S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/business-information-systems/7751083"
+    },
+    {
+      "name": "Business Information Systems 1",
+      "code": "S111SFB",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/business-information-systems-1/3447151"
+    },
+    {
+      "name": "Business Information Systems 2",
+      "code": "S002SIB",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/business-information-systems-2/3447164"
+    },
+    {
+      "name": "Business Information Systems In Finance 5",
+      "code": "S005FIB",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/business-information-systems-in-finance-5/3447227"
+    },
+    {
+      "name": "Business law 1",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/business-law-1/4547980"
+    },
+    {
+      "name": "Business Law 1B",
+      "code": "BLW152x",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/business-law-1b/4767557"
+    },
+    {
+      "name": "Business Management 4",
+      "code": "S004BNO",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/business-management-4/3447323"
+    },
+    {
+      "name": "Business Practice 1",
+      "code": "BPR152S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/business-practice-1/6951261"
+    },
+    {
+      "name": "Business Strategy 2",
+      "code": "S002YSB",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/business-strategy-2/3447182"
+    },
+    {
+      "name": "Business Strategy 2",
+      "code": "S202YSB",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/business-strategy-2/3447212"
+    },
+    {
+      "name": "Business Studies 4",
+      "code": "S104TUB",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/business-studies-4/3447529"
+    },
+    {
+      "name": "Cell biology",
+      "code": "CBY1",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/cell-biology/4356376"
+    },
+    {
+      "name": "Chemical Engineering",
+      "code": "EN471S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/chemical-engineering/7108510"
+    },
+    {
+      "name": "chemical engineering laboratory 2A",
+      "code": "CEL260S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/chemical-engineering-laboratory-2a/4738673"
+    },
+    {
+      "name": "Chemical Engineering laboratory 2B",
+      "code": "CEL262S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/chemical-engineering-laboratory-2b/7048569"
+    },
+    {
+      "name": "Chemical Engineering Process Design 4",
+      "code": "S004DQP",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/chemical-engineering-process-design-4/3447447"
+    },
+    {
+      "name": "Chemical Engineering Technology",
+      "code": "CET261S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/chemical-engineering-technology/7510302"
+    },
+    {
+      "name": "Chemical Engineering Technology 1",
+      "code": "CET150S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/chemical-engineering-technology-1/4516216"
+    },
+    {
+      "name": "Chemical engineering technology 2",
+      "code": "CET260S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/chemical-engineering-technology-2/4482447"
+    },
+    {
+      "name": "chemical engineering technology 4",
+      "code": "CET401S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/chemical-engineering-technology-4/4820837"
+    },
+    {
+      "name": "Chemical Engineering Technology 4 MODULE 1",
+      "code": "S004TEC",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/chemical-engineering-technology-4-module-1/3447441"
+    },
+    {
+      "name": "Chemical plant 3:  PROCESSING",
+      "code": "CPL301S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/chemical-plant-3-processing/4512291"
+    },
+    {
+      "name": "Chemical Process Industries 2",
+      "code": "CPT150S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/chemical-process-industries-2/4514446"
+    },
+    {
+      "name": "Chemical Process Technology",
+      "code": "CPT152S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/chemical-process-technology/7730069"
+    },
+    {
+      "name": "Chemical Reaction Engineering I",
+      "code": "CRE370S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/chemical-reaction-engineering-i/7611951"
+    },
+    {
+      "name": "Chemistry",
+      "code": "S351MHC",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/chemistry/3447074"
+    },
+    {
+      "name": "Civil Engineering Documentation",
+      "code": "S062DEC",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/civil-engineering-documentation/3447396"
+    },
+    {
+      "name": "Civil Procedure",
+      "code": "S062PVC",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/civil-procedure/3447296"
+    },
+    {
+      "name": "Clinical Chemistry 4",
+      "code": "S004CLC",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/clinical-chemistry-4/3447504"
+    },
+    {
+      "name": "clinical nursing",
+      "code": "CNP200S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/clinical-nursing/4489878"
+    },
+    {
+      "name": "Clinical Pathology 4",
+      "code": "S004PLC",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/clinical-pathology-4/3447505"
+    },
+    {
+      "name": "Commercial Law For Accountants 2",
+      "code": "S112ALC",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/commercial-law-for-accountants-2/3447155"
+    },
+    {
+      "name": "Commercial Law: Civil",
+      "code": "S001CLC",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/commercial-law-civil/3447371"
+    },
+    {
+      "name": "Communication",
+      "code": "CMM158S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/communication/7364880"
+    },
+    {
+      "name": "Communication 1",
+      "code": "0842RS41",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/communication-1/3447148"
+    },
+    {
+      "name": "Communication 1",
+      "code": "XS21MMC",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/communication-1/3447187"
+    },
+    {
+      "name": "communication fundamental network",
+      "code": "CNF152s",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/communication-fundamental-network/4822122"
+    },
+    {
+      "name": "communication fundamental network",
+      "code": "CNF262s",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/communication-fundamental-network/4822136"
+    },
+    {
+      "name": "Communication Science 4",
+      "code": "S104SOC",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/communication-science-4/3447517"
+    },
+    {
+      "name": "Communication Skills 1",
+      "code": "S001SLC",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/communication-skills-1/3447116"
+    },
+    {
+      "name": "Communication Skills 1",
+      "code": "S051NMC",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/communication-skills-1/3447291"
+    },
+    {
+      "name": "Communication Skills 2",
+      "code": "S062NMC",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/communication-skills-2/3447299"
+    },
+    {
+      "name": "Communication Studies 1",
+      "code": "S201TOK",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/communication-studies-1/3447460"
+    },
+    {
+      "name": "Communications",
+      "code": "XC01BLM",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/communications/3447496"
+    },
+    {
+      "name": "Communications Network Foundations 1",
+      "code": "CNF152S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/communications-network-foundations-1/6970933"
+    },
+    {
+      "name": "Community Development",
+      "code": "S162DMC",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/community-development/3447082"
+    },
+    {
+      "name": "Complimentary Therapies",
+      "code": "CPT260S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/complimentary-therapies/4802991"
+    },
+    {
+      "name": "Computer Application Technology",
+      "code": "CAT162S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/computer-application-technology/4365468"
+    },
+    {
+      "name": "Computer Architecture",
+      "code": "CAR150S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/computer-architecture/7094774"
+    },
+    {
+      "name": "Computer engineering",
+      "code": "SFD150S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/computer-engineering/6677725"
+    },
+    {
+      "name": "Computer Networks 4",
+      "code": "S004ENC",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/computer-networks-4/3447414"
+    },
+    {
+      "name": "Computer Science",
+      "code": "CMS300x",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/computer-science/4823715"
+    },
+    {
+      "name": "Computer Science",
+      "code": "CS 1101",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/computer-science/6938318"
+    },
+    {
+      "name": "Computer Science for Marine Engineers/ Computer Skills",
+      "code": "CMS152S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/computer-science-for-marine-engineers-computer-skills/4489794"
+    },
+    {
+      "name": "Computer Science Honours",
+      "code": "CSH560x",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/computer-science-honours/4827625"
+    },
+    {
+      "name": "Computer Skills",
+      "code": "XB01BLM",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/computer-skills/3447495"
+    },
+    {
+      "name": "Computer Skills 1",
+      "code": "S001LPC",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/computer-skills-1/3447117"
+    },
+    {
+      "name": "Computer Technology",
+      "code": "S151TPC",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/computer-technology/3447384"
+    },
+    {
+      "name": "Conceptual Framework and Standards",
+      "code": "ACC 100",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/conceptual-framework-and-standards/6128653"
+    },
+    {
+      "name": "Conservation Practice 3",
+      "code": "S063WEB",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/conservation-practice-3/3447106"
+    },
+    {
+      "name": "Construction Economics",
+      "code": "CEC260S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/construction-economics/3730779"
+    },
+    {
+      "name": "Construction Economics 4",
+      "code": "S004SEC",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/construction-economics-4/3447434"
+    },
+    {
+      "name": "Construction Entrepreneurship",
+      "code": "CNE360S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/construction-entrepreneurship/4546520"
+    },
+    {
+      "name": "Construction Health and Safety",
+      "code": "CHS260S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/construction-health-and-safety/6915140"
+    },
+    {
+      "name": "Construction Law And Procedures 4",
+      "code": "S004WAL",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/construction-law-and-procedures-4/3447435"
+    },
+    {
+      "name": "Construction Management 1",
+      "code": "CNM150X",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/construction-management-1/6918961"
+    },
+    {
+      "name": "Construction Management 2",
+      "code": "CNM260S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/construction-management-2/4769145"
+    },
+    {
+      "name": "Construction management 3",
+      "code": "CNM360S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/construction-management-3/6903039"
+    },
+    {
+      "name": "Construction Management 4",
+      "code": "S004TNC",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/construction-management-4/3447432"
+    },
+    {
+      "name": "Construction Materials Technology",
+      "code": "S051TMC",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/construction-materials-technology/3447380"
+    },
+    {
+      "name": "Construction Materials Technology 2",
+      "code": "S073TMC",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/construction-materials-technology-2/3447408"
+    },
+    {
+      "name": "Construction Materials Technology 4",
+      "code": "S004TMC",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/construction-materials-technology-4/3447373"
+    },
+    {
+      "name": "Construction Mathematics",
+      "code": "CMA150S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/construction-mathematics/4491887"
+    },
+    {
+      "name": "Construction Methods",
+      "code": "S151MNC",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/construction-methods/3447385"
+    },
+    {
+      "name": "Construction planning and cost",
+      "code": "CPC470S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/construction-planning-and-cost/7085350"
+    },
+    {
+      "name": "Construction Science",
+      "code": "CNS260S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/construction-science/5988782"
+    },
+    {
+      "name": "construction science 1",
+      "code": "CNS150",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/construction-science-1/6476113"
+    },
+    {
+      "name": "Construction science 2",
+      "code": "CNS260S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/construction-science-2/5859346"
+    },
+    {
+      "name": "Construction Science 3",
+      "code": "CNS360S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/construction-science-3/4546727"
+    },
+    {
+      "name": "construction site management",
+      "code": "CNS470S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/construction-site-management/5193943"
+    },
+    {
+      "name": "Construction Technology",
+      "code": "CTT150S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/construction-technology/4491885"
+    },
+    {
+      "name": "Construction Technology 1",
+      "code": "CTY1",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/construction-technology-1/6476061"
+    },
+    {
+      "name": "Construction Technology 2",
+      "code": "CTY260S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/construction-technology-2/4769146"
+    },
+    {
+      "name": "Construction technology 3",
+      "code": "CTM370S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/construction-technology-3/4822158"
+    },
+    {
+      "name": "Consumer Law Practice",
+      "code": "S062PLC",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/consumer-law-practice/3447295"
+    },
+    {
+      "name": "Contract Management: Civil 4",
+      "code": "S004CMC",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/contract-management-civil-4/3447370"
+    },
+    {
+      "name": "Control Systems",
+      "code": "CSS260S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/control-systems/5060623"
+    },
+    {
+      "name": "Control Systems 2",
+      "code": "CYS201S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/control-systems-2/4786490"
+    },
+    {
+      "name": "Cooperative Education",
+      "code": "S102EVC",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/cooperative-education/3447213"
+    },
+    {
+      "name": "Cooperative Education",
+      "code": "S202EVC",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/cooperative-education/3447241"
+    },
+    {
+      "name": "Corporate procedures",
+      "code": "COP360S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/corporate-procedures/6744588"
+    },
+    {
+      "name": "Cost Accounting 2",
+      "code": "S212RBK",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/cost-accounting-2/3447154"
+    },
+    {
+      "name": "Costing And Estimating",
+      "code": "S101EAC",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/costing-and-estimating/3447317"
+    },
+    {
+      "name": "Costing and Financial Management",
+      "code": "CAE250S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/costing-and-financial-management/7741932"
+    },
+    {
+      "name": "Curriculum Studies: Chemistry 4",
+      "code": "MCH472S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/curriculum-studies-chemistry-4/7503020"
+    },
+    {
+      "name": "data science",
+      "code": "ICE362s",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/data-science/4822155"
+    },
+    {
+      "name": "Database Systems And Data Management 5",
+      "code": "S005MBD",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/database-systems-and-data-management-5/3447219"
+    },
+    {
+      "name": "Dental Assisting",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/dental-assisting/7580226"
+    },
+    {
+      "name": "Digital Systems 2",
+      "code": "DIG260S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/digital-systems-2/6931452"
+    },
+    {
+      "name": "Dip in Computer Engineering",
+      "code": "D2ENCE",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/dip-in-computer-engineering/7672899"
+    },
+    {
+      "name": "Diploma in Accountancy",
+      "code": "MAC260S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/diploma-in-accountancy/6495737"
+    },
+    {
+      "name": "diploma in application development",
+      "code": "prt152s",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/diploma-in-application-development/6579001"
+    },
+    {
+      "name": "Diploma in Civil Engineering",
+      "code": "D3CIVL",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/diploma-in-civil-engineering/5962090"
+    },
+    {
+      "name": "Diploma in Civil Engineering",
+      "code": "WER360S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/diploma-in-civil-engineering/6340423"
+    },
+    {
+      "name": "Diploma in civil engineering",
+      "code": "CEP360S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/diploma-in-civil-engineering/7485823"
+    },
+    {
+      "name": "Diploma in Horticulture",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/diploma-in-horticulture/6954018"
+    },
+    {
+      "name": "Diploma in Human Resource Management 1",
+      "code": "D3HRMT",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/diploma-in-human-resource-management-1/4822072"
+    },
+    {
+      "name": "Diploma in mathematical sciences",
+      "code": "D3MATH",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/diploma-in-mathematical-sciences/4823089"
+    },
+    {
+      "name": "Diploma Mechanical Engineering",
+      "code": "DMCHE3",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/diploma-mechanical-engineering/6062904"
+    },
+    {
+      "name": "Dissertation",
+      "code": "C10MP5R",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/dissertation/3447275"
+    },
+    {
+      "name": "Drama",
+      "code": "DRM2",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/drama/4821270"
+    },
+    {
+      "name": "Economics",
+      "code": "ECO151x",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/economics/4764115"
+    },
+    {
+      "name": "Economics 1",
+      "code": "S001SCE",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/economics-1/3447115"
+    },
+    {
+      "name": "Economics 1",
+      "code": "S001OCE",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/economics-1/3447124"
+    },
+    {
+      "name": "Economics 1",
+      "code": "S501SCE",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/economics-1/3447152"
+    },
+    {
+      "name": "Economics 2",
+      "code": "Eco202",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/economics-2/4819013"
+    },
+    {
+      "name": "Education 1",
+      "code": "S061UDE",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/education-1/3447326"
+    },
+    {
+      "name": "Education 2",
+      "code": "S062UDE",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/education-2/3447339"
+    },
+    {
+      "name": "Education 3",
+      "code": "S073UDE",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/education-3/3447353"
+    },
+    {
+      "name": "Education Senior Phase/FET",
+      "code": "EDU152S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/education-senior-phasefet/4099607"
+    },
+    {
+      "name": "Education SeniorPhase/FET",
+      "code": "EDU362s",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/education-seniorphasefet/4365798"
+    },
+    {
+      "name": "Electric And Magnetic Field Theory 4",
+      "code": "S004FME",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/electric-and-magnetic-field-theory-4/3447421"
+    },
+    {
+      "name": "Electrical and Electronics Engineering",
+      "code": "EEE150S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/electrical-and-electronics-engineering/3725704"
+    },
+    {
+      "name": "Electrical machines",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/electrical-machines/3584247"
+    },
+    {
+      "name": "Electrical Machines 3",
+      "code": "ELM300S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/electrical-machines-3/4793438"
+    },
+    {
+      "name": "Electrical, and Electronics Engineering",
+      "code": "ELE152S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/electrical-and-electronics-engineering/7110185"
+    },
+    {
+      "name": "Electricity Markets 5",
+      "code": "EMG500S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/electricity-markets-5/4435269"
+    },
+    {
+      "name": "Electronic Communication 4",
+      "code": "S004MCE",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/electronic-communication-4/3447422"
+    },
+    {
+      "name": "Electronic Communication Systems 4",
+      "code": "S004SKE",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/electronic-communication-systems-4/3447425"
+    },
+    {
+      "name": "Electrotechnology 1",
+      "code": "S201CLE",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/electrotechnology-1/3447466"
+    },
+    {
+      "name": "Electrotechnology 2",
+      "code": "S102CLE",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/electrotechnology-2/3447479"
+    },
+    {
+      "name": "Emergency Medical Care 1 Theory",
+      "code": "EMC101S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/emergency-medical-care-1-theory/6581164"
+    },
+    {
+      "name": "employee dynamics",
+      "code": "EED470S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/employee-dynamics/4828068"
+    },
+    {
+      "name": "End User Computing 1",
+      "code": "S201CUE",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/end-user-computing-1/3447312"
+    },
+    {
+      "name": "Engeneering Mathematics I",
+      "code": "EMA157S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/engeneering-mathematics-i/4489784"
+    },
+    {
+      "name": "Engineer In Society",
+      "code": "S073SIE",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/engineer-in-society/3447404"
+    },
+    {
+      "name": "Engineering",
+      "code": "EBS260S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/engineering/5065207"
+    },
+    {
+      "name": "Engineering Chemistry",
+      "code": "ECM150X",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/engineering-chemistry/7586040"
+    },
+    {
+      "name": "Engineering chemistry 1",
+      "code": "CHM152S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/engineering-chemistry-1/4509370"
+    },
+    {
+      "name": "Engineering communication",
+      "code": "COM151S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/engineering-communication/4510278"
+    },
+    {
+      "name": "Engineering Design",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/engineering-design/5357847"
+    },
+    {
+      "name": "Engineering Design Project 4 GROUP PROJECT",
+      "code": "S104RPI",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/engineering-design-project-4-group-project/3447449"
+    },
+    {
+      "name": "Engineering Drawing",
+      "code": "S051WDE",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/engineering-drawing/3447381"
+    },
+    {
+      "name": "Engineering Drawing 1",
+      "code": "S201TIM",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/engineering-drawing-1/3447472"
+    },
+    {
+      "name": "Engineering Drawing 2",
+      "code": "DRA260S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/engineering-drawing-2/7596180"
+    },
+    {
+      "name": "Engineering Hydrology",
+      "code": "WER300S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/engineering-hydrology/6334499"
+    },
+    {
+      "name": "Engineering Management",
+      "code": "S062NME",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/engineering-management/3447391"
+    },
+    {
+      "name": "Engineering Manufacturing Technology",
+      "code": "EMT150S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/engineering-manufacturing-technology/7443852"
+    },
+    {
+      "name": "Engineering Mathematics",
+      "code": "MTH156s",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/engineering-mathematics/4509372"
+    },
+    {
+      "name": "engineering mathematics",
+      "code": "EMA151X",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/engineering-mathematics/6568715"
+    },
+    {
+      "name": "engineering mathematics",
+      "code": "MTH155S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/engineering-mathematics/7553508"
+    },
+    {
+      "name": "engineering mathematics 1",
+      "code": "EMA158S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/engineering-mathematics-1/5402578"
+    },
+    {
+      "name": "Engineering Mathematics 1",
+      "code": "MTH150S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/engineering-mathematics-1/7242662"
+    },
+    {
+      "name": "Engineering Mathematics 1a",
+      "code": "S351AME",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/engineering-mathematics-1a/3447383"
+    },
+    {
+      "name": "Engineering Mathematics 2",
+      "code": "S072AME",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/engineering-mathematics-2/3447395"
+    },
+    {
+      "name": "Engineering Mathematics 2",
+      "code": "EMA261S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/engineering-mathematics-2/7058476"
+    },
+    {
+      "name": "Engineering Mathematics 4",
+      "code": "S004MME",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/engineering-mathematics-4/3447423"
+    },
+    {
+      "name": "Engineering Maths 2",
+      "code": "MATHS260",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/engineering-maths-2/6936617"
+    },
+    {
+      "name": "Engineering mechanics",
+      "code": "EMC150S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/engineering-mechanics/4489884"
+    },
+    {
+      "name": "Engineering Physics 1",
+      "code": "EGP151S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/engineering-physics-1/4509440"
+    },
+    {
+      "name": "Engineering physics 2",
+      "code": "EPH200",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/engineering-physics-2/4513543"
+    },
+    {
+      "name": "Engineering Thermodynamics",
+      "code": "CTH261S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/engineering-thermodynamics/7091617"
+    },
+    {
+      "name": "engineering workstudy",
+      "code": "EWY260S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/engineering-workstudy/5466167"
+    },
+    {
+      "name": "Engineering: Computer Application 2",
+      "code": "ECA360S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/engineering-computer-application-2/6063813"
+    },
+    {
+      "name": "English FL",
+      "code": "FEN260S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/english-fl/5727525"
+    },
+    {
+      "name": "English SeniorPhase/FET",
+      "code": "EEF152s",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/english-seniorphasefet/4365801"
+    },
+    {
+      "name": "Enterprise Resource Planning Systems 5",
+      "code": "S005PRE",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/enterprise-resource-planning-systems-5/3447222"
+    },
+    {
+      "name": "Entrepreneurial Finance",
+      "code": "EFN470S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/entrepreneurial-finance/4921276"
+    },
+    {
+      "name": "Entrepreneurial Skills 1",
+      "code": "S111SNE",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/entrepreneurial-skills-1/3447149"
+    },
+    {
+      "name": "Entrepreneurship 1",
+      "code": "S001RTE",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/entrepreneurship-1/3447126"
+    },
+    {
+      "name": "Entrepreneurship 4",
+      "code": "S204TNE",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/entrepreneurship-4/3447205"
+    },
+    {
+      "name": "Entrepreneurship 4",
+      "code": "S004SPE",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/entrepreneurship-4/3447430"
+    },
+    {
+      "name": "Entrepreneurship 5",
+      "code": "S005RPE",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/entrepreneurship-5/3447251"
+    },
+    {
+      "name": "Environmental Engineering",
+      "code": "S073ENE",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/environmental-engineering/3447410"
+    },
+    {
+      "name": "Environmental Geohydrology",
+      "code": "EVG400S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/environmental-geohydrology/3447044"
+    },
+    {
+      "name": "Environmental Geology",
+      "code": "EVG360S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/environmental-geology/4820694"
+    },
+    {
+      "name": "Environmental law",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/environmental-law/5328678"
+    },
+    {
+      "name": "Environmental management",
+      "code": "EVM150X",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/environmental-management/4362029"
+    },
+    {
+      "name": "Environmental Management 4",
+      "code": "EMG400S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/environmental-management-4/3447042"
+    },
+    {
+      "name": "Environmental Pollution 2: Assessment",
+      "code": "S062APE",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/environmental-pollution-2-assessment/3447083"
+    },
+    {
+      "name": "Environmental Pollution 3: Control",
+      "code": "S073APE",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/environmental-pollution-3-control/3447090"
+    },
+    {
+      "name": "Environmental Resources",
+      "code": "ERS360S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/environmental-resources/4820691"
+    },
+    {
+      "name": "Environmental science",
+      "code": "ENVISCI150x",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/environmental-science/4825848"
+    },
+    {
+      "name": "Environmental Studies 2B",
+      "code": "EVS260S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/environmental-studies-2b/4490334"
+    },
+    {
+      "name": "Environmental Toxicology",
+      "code": "S073XTE",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/environmental-toxicology/3447092"
+    },
+    {
+      "name": "Environmtl Pollution 4: Mngment & Remediation",
+      "code": "S084APE",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/environmtl-pollution-4-mngment-remediation/3447099"
+    },
+    {
+      "name": "Epidemiology 2: Infectious Disease",
+      "code": "S062IPE",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/epidemiology-2-infectious-disease/3447084"
+    },
+    {
+      "name": "Epidemiology 3: Environment",
+      "code": "S073IPE",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/epidemiology-3-environment/3447091"
+    },
+    {
+      "name": "Epidemiology 4: Applied",
+      "code": "S084IPE",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/epidemiology-4-applied/3447100"
+    },
+    {
+      "name": "Ethics And Medical Law",
+      "code": "XD01BLM",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/ethics-and-medical-law/3447497"
+    },
+    {
+      "name": "event management",
+      "code": "EPC200S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/event-management/4541920"
+    },
+    {
+      "name": "Event Management ECP",
+      "code": "EVY150S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/event-management-ecp/7232677"
+    },
+    {
+      "name": "Event marketing 2",
+      "code": "EVT200S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/event-marketing-2/4686564"
+    },
+    {
+      "name": "Events management",
+      "code": "EVA250S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/events-management/4821892"
+    },
+    {
+      "name": "Facial Therapy",
+      "code": "FCT360S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/facial-therapy/4828475"
+    },
+    {
+      "name": "Film Technology & Design 3",
+      "code": "S063ARP",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/film-technology-design-3/3447576"
+    },
+    {
+      "name": "Financial Accounting 1",
+      "code": "S311AIF",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/financial-accounting-1/3447150"
+    },
+    {
+      "name": "Financial Accounting 2",
+      "code": "S312AIF",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/financial-accounting-2/3447153"
+    },
+    {
+      "name": "Financial Accounting 2",
+      "code": "FIA213S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/financial-accounting-2/3731117"
+    },
+    {
+      "name": "Financial Accounting 2",
+      "code": "FAC260S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/financial-accounting-2/6406412"
+    },
+    {
+      "name": "Financial Accounting 3",
+      "code": "S003AIF",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/financial-accounting-3/3447159"
+    },
+    {
+      "name": "Financial Accounting 3",
+      "code": "FIN360s",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/financial-accounting-3/7240481"
+    },
+    {
+      "name": "Financial Accounting 4",
+      "code": "S004AIF",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/financial-accounting-4/3447239"
+    },
+    {
+      "name": "Financial Accounting Aspects 4",
+      "code": "S004EAF",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/financial-accounting-aspects-4/3447166"
+    },
+    {
+      "name": "financial administration",
+      "code": "FIA470S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/financial-administration/4828077"
+    },
+    {
+      "name": "Financial Information Systems 3",
+      "code": "FNL 302S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/financial-information-systems-3/4818221"
+    },
+    {
+      "name": "Financial Information Systems 4",
+      "code": "S204LNF",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/financial-information-systems-4/3447208"
+    },
+    {
+      "name": "Financial Management",
+      "code": "S101NMF",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/financial-management/3447374"
+    },
+    {
+      "name": "Financial Management 1",
+      "code": "XS01AMF",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/financial-management-1/3447190"
+    },
+    {
+      "name": "Financial Management 2",
+      "code": "S002AMF",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/financial-management-2/3447194"
+    },
+    {
+      "name": "Financial Management 3",
+      "code": "S003AMF",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/financial-management-3/3447199"
+    },
+    {
+      "name": "Financial Management 4",
+      "code": "S104TMF",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/financial-management-4/3447174"
+    },
+    {
+      "name": "Financial Management 4",
+      "code": "S104AMF",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/financial-management-4/3447203"
+    },
+    {
+      "name": "Financial Management 4",
+      "code": "S004AMF",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/financial-management-4/3447243"
+    },
+    {
+      "name": "Financial Markets 3",
+      "code": "S003KMF",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/financial-markets-3/3447135"
+    },
+    {
+      "name": "Financial Reporting 4",
+      "code": "S004RIF",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/financial-reporting-4/3447184"
+    },
+    {
+      "name": "Financial Reporting 4",
+      "code": "S204RIF",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/financial-reporting-4/3447207"
+    },
+    {
+      "name": "First Additional Language 1: Afrikaans",
+      "code": "S051FAS",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/first-additional-language-1-afrikaans/3447337"
+    },
+    {
+      "name": "First Additional Language 1: English",
+      "code": "S051NES",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/first-additional-language-1-english/3447338"
+    },
+    {
+      "name": "First Additional Language 2: Afrikaans",
+      "code": "S062FAS",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/first-additional-language-2-afrikaans/3447349"
+    },
+    {
+      "name": "First Additional Language 2: English",
+      "code": "S062NES",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/first-additional-language-2-english/3447350"
+    },
+    {
+      "name": "First Additional Language: Afrikaans",
+      "code": "SAF260S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/first-additional-language-afrikaans/5853071"
+    },
+    {
+      "name": "First Language 1: English",
+      "code": "S051NEF",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/first-language-1-english/3447335"
+    },
+    {
+      "name": "First Language 2: Afrikaans",
+      "code": "S062FAF",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/first-language-2-afrikaans/3447346"
+    },
+    {
+      "name": "First Language 3: Afrikaans",
+      "code": "S073FAF",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/first-language-3-afrikaans/3447360"
+    },
+    {
+      "name": "First Language 3: English",
+      "code": "S073NEF",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/first-language-3-english/3447361"
+    },
+    {
+      "name": "First Language 3: Isixhosa",
+      "code": "S073HXF",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/first-language-3-isixhosa/3447362"
+    },
+    {
+      "name": "Fisheries Environment 4",
+      "code": "S004EIF",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/fisheries-environment-4/3447113"
+    },
+    {
+      "name": "Fluid Mechanics 2",
+      "code": "S102MLF",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/fluid-mechanics-2/3447468"
+    },
+    {
+      "name": "Fluid Mechanics 4",
+      "code": "S004MLF",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/fluid-mechanics-4/3447450"
+    },
+    {
+      "name": "Food :Science And Practice",
+      "code": "FAH 260S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/food-science-and-practice/4824571"
+    },
+    {
+      "name": "Food Analysis 4",
+      "code": "FNA400S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/food-analysis-4/3447050"
+    },
+    {
+      "name": "Food And Food Science",
+      "code": "FAH400S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/food-and-food-science/3447068"
+    },
+    {
+      "name": "Food And Meat Hygiene 2 (FMH2",
+      "code": "0177RS0",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/food-and-meat-hygiene-2-fmh2/3447085"
+    },
+    {
+      "name": "Food Microbial Assurance 4",
+      "code": "FMI400S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/food-microbial-assurance-4/3447047"
+    },
+    {
+      "name": "Food Microbiology",
+      "code": "260S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/food-microbiology/6536472"
+    },
+    {
+      "name": "Food Processing And Safety 3",
+      "code": "S073SPF",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/food-processing-and-safety-3/3447093"
+    },
+    {
+      "name": "Food product development 2",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/food-product-development-2/3729041"
+    },
+    {
+      "name": "Food Project 4",
+      "code": "FPJ400S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/food-project-4/3447051"
+    },
+    {
+      "name": "Food Quality And Safety Management 4",
+      "code": "S084SQF",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/food-quality-and-safety-management-4/3447101"
+    },
+    {
+      "name": "Food Technology 4",
+      "code": "S004ETF",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/food-technology-4/3447105"
+    },
+    {
+      "name": "Forensics Sciences 4",
+      "code": "S004CSF",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/forensics-sciences-4/3447508"
+    },
+    {
+      "name": "Foundation Phase",
+      "code": "foundation phase",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/foundation-phase/3722827"
+    },
+    {
+      "name": "French: Language",
+      "code": "360sFRE",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/french-language/4825865"
+    },
+    {
+      "name": "Fruit production",
+      "code": "FON261",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/fruit-production/4490348"
+    },
+    {
+      "name": "Fundamental of Research 1",
+      "code": "FUR250S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/fundamental-of-research-1/4827376"
+    },
+    {
+      "name": "General Financial Reporting",
+      "code": "GFR470S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/general-financial-reporting/4823449"
+    },
+    {
+      "name": "General Management Accounting",
+      "code": "GMA470S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/general-management-accounting/7257919"
+    },
+    {
+      "name": "Geographical information system 3",
+      "code": "GIS370S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/geographical-information-system-3/6230259"
+    },
+    {
+      "name": "Geology",
+      "code": "S151OEG",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/geology/3447386"
+    },
+    {
+      "name": "Geomatics Computing",
+      "code": "GMC261S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/geomatics-computing/6554691"
+    },
+    {
+      "name": "Geometric Design 4",
+      "code": "S104EDG",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/geometric-design-4/3447376"
+    },
+    {
+      "name": "Geotechnical Engineering",
+      "code": "GET260S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/geotechnical-engineering/6962364"
+    },
+    {
+      "name": "Geotechnical Engineering 2",
+      "code": "GET201S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/geotechnical-engineering-2/3192033"
+    },
+    {
+      "name": "Geotechnology 4",
+      "code": "EGT400S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/geotechnology-4/3447046"
+    },
+    {
+      "name": "Ghalib University",
+      "code": "NP1",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/ghalib-university/7640437"
+    },
+    {
+      "name": "Global Marketing",
+      "code": "GBM470s",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/global-marketing/4806192"
+    },
+    {
+      "name": "Governmental Relations 4",
+      "code": "S004RVG",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/governmental-relations-4/3447273"
+    },
+    {
+      "name": "Grade R Teaching",
+      "code": "S064RRG",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/grade-r-teaching/3447368"
+    },
+    {
+      "name": "Greenhouse Technology",
+      "code": "GHT100S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/greenhouse-technology/4797027"
+    },
+    {
+      "name": "Haematology 3",
+      "code": "S003YMH",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/haematology-3/3447501"
+    },
+    {
+      "name": "HC: Info and Communication Technology",
+      "code": "HCINCT",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/hc-info-and-communication-technology/7248142"
+    },
+    {
+      "name": "Health Chemistry",
+      "code": "XB01SMI",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/health-chemistry/3447491"
+    },
+    {
+      "name": "Health Chemistry",
+      "code": "HCH100S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/health-chemistry/6570152"
+    },
+    {
+      "name": "Health Physics",
+      "code": "XC01SMI",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/health-physics/3447492"
+    },
+    {
+      "name": "Heat Engines 3",
+      "code": "S003ETH",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/heat-engines-3/3447489"
+    },
+    {
+      "name": "Histology 4",
+      "code": "S004TSH",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/histology-4/3447510"
+    },
+    {
+      "name": "History and theory of design",
+      "code": "HGD150S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/history-and-theory-of-design/4489890"
+    },
+    {
+      "name": "Horticulture 1",
+      "code": "HSC150S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/horticulture-1/4793141"
+    },
+    {
+      "name": "Hospitality Financial Management 4",
+      "code": "S004MIF",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/hospitality-financial-management-4/3447231"
+    },
+    {
+      "name": "Hospitality Industry Law 3",
+      "code": "S003LIH",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/hospitality-industry-law-3/3447232"
+    },
+    {
+      "name": "hospitality management1",
+      "code": "HOB150S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/hospitality-management1/7484449"
+    },
+    {
+      "name": "Human Anatomy and Physiology",
+      "code": "HAP260S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/human-anatomy-and-physiology/4803004"
+    },
+    {
+      "name": "Human Anatomy, Physiology & Disease",
+      "code": "APD100S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/human-anatomy-physiology-disease/4610714"
+    },
+    {
+      "name": "Human resource development",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/human-resource-development/6867353"
+    },
+    {
+      "name": "Human Resource Mnagement",
+      "code": "NDHRMX ND HRM",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/human-resource-mnagement/4364188"
+    },
+    {
+      "name": "Human Resources Management 4",
+      "code": "S004MRH",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/human-resources-management-4/3447167"
+    },
+    {
+      "name": "hydrau;ic machines",
+      "code": "HDM360S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/hydrauic-machines/6953523"
+    },
+    {
+      "name": "Hydraulics 1",
+      "code": "S072RDH",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/hydraulics-1/3447399"
+    },
+    {
+      "name": "Hydraulics 2",
+      "code": "S073RDH",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/hydraulics-2/3447409"
+    },
+    {
+      "name": "Hydrology",
+      "code": "S072DYH",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/hydrology/3447398"
+    },
+    {
+      "name": "i to i tefl",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/i-to-i-tefl/6553232"
+    },
+    {
+      "name": "Imls 3  Theory",
+      "code": "A003BLM",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/imls-3-theory/3447503"
+    },
+    {
+      "name": "Immunology 4",
+      "code": "S004MMI",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/immunology-4/3447512"
+    },
+    {
+      "name": "Industrial and Systems engineering",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/industrial-and-systems-engineering/4320339"
+    },
+    {
+      "name": "Industrial Engineering",
+      "code": "EEC260S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/industrial-engineering/4767844"
+    },
+    {
+      "name": "Industrial Relations And Labor Law",
+      "code": "INL 350S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/industrial-relations-and-labor-law/4792943"
+    },
+    {
+      "name": "Information and Communication Technology",
+      "code": "ADT3",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/information-and-communication-technology/6912023"
+    },
+    {
+      "name": "Information and communication technology",
+      "code": "PRM3",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/information-and-communication-technology/6918719"
+    },
+    {
+      "name": "Information communication technology",
+      "code": "ADF162s",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/information-communication-technology/4821831"
+    },
+    {
+      "name": "Information communication technology",
+      "code": "ADF262s",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/information-communication-technology/4821834"
+    },
+    {
+      "name": "Information communication technology",
+      "code": "ICE262s",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/information-communication-technology/4821837"
+    },
+    {
+      "name": "Information communication technology",
+      "code": "BPR162s",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/information-communication-technology/4821854"
+    },
+    {
+      "name": "information systems 2",
+      "code": "Its262s",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/information-systems-2/4744272"
+    },
+    {
+      "name": "Information Systems 3",
+      "code": "ITS362s",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/information-systems-3/5793256"
+    },
+    {
+      "name": "Information Systems 4",
+      "code": "S004FNI",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/information-systems-4/3447429"
+    },
+    {
+      "name": "Information Systems Audit 4",
+      "code": "S004SIA",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/information-systems-audit-4/3447237"
+    },
+    {
+      "name": "Information Systems Auditing",
+      "code": "ISA470S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/information-systems-auditing/4824157"
+    },
+    {
+      "name": "Information Technology",
+      "code": "INF010",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/information-technology/3171633"
+    },
+    {
+      "name": "Inorganic Chemistry",
+      "code": "INC400S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/inorganic-chemistry/3447065"
+    },
+    {
+      "name": "integrated project mechanical",
+      "code": "INP200",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/integrated-project-mechanical/6706079"
+    },
+    {
+      "name": "Integrated Technology Project",
+      "code": "S062PTI",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/integrated-technology-project/3447400"
+    },
+    {
+      "name": "Intergrated Project In Accounting",
+      "code": "IPA360s",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/intergrated-project-in-accounting/4762845"
+    },
+    {
+      "name": "Internal Auditing 2",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/internal-auditing-2/7507129"
+    },
+    {
+      "name": "Internal Auditing 3",
+      "code": "IAU360s",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/internal-auditing-3/4762846"
+    },
+    {
+      "name": "Internal Auditing 4",
+      "code": "S004UAI",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/internal-auditing-4/3447234"
+    },
+    {
+      "name": "Internal Combustion Engines 2 MECH. MODULE",
+      "code": "S202NCI",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/internal-combustion-engines-2-mech-module/3447476"
+    },
+    {
+      "name": "Internal Combustion Engines 3 ELECTROTECH 3",
+      "code": "S003NCI",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/internal-combustion-engines-3-electrotech-3/3447482"
+    },
+    {
+      "name": "Introduction to Chemical Reaction Engineering",
+      "code": "ICR360S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/introduction-to-chemical-reaction-engineering/6063669"
+    },
+    {
+      "name": "Introduction to Law and Ethics",
+      "code": "S051EWL",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/introduction-to-law-and-ethics/3447288"
+    },
+    {
+      "name": "Investigative Projects",
+      "code": "IVP360S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/investigative-projects/6063721"
+    },
+    {
+      "name": "Journalism and media studies",
+      "code": "JMS2",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/journalism-and-media-studies/4820267"
+    },
+    {
+      "name": "Knowledge Management 5",
+      "code": "S005NMK",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/knowledge-management-5/3447218"
+    },
+    {
+      "name": "Labour Law 1",
+      "code": "S101ALL",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/labour-law-1/3447313"
+    },
+    {
+      "name": "Labour Relations And Law 2",
+      "code": "S002LRL",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/labour-relations-and-law-2/3447200"
+    },
+    {
+      "name": "Labour Relations And Law 4",
+      "code": "S004LRL",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/labour-relations-and-law-4/3447168"
+    },
+    {
+      "name": "Land Law",
+      "code": "LAL260S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/land-law/6554686"
+    },
+    {
+      "name": "Language 3: Isixhosa 1",
+      "code": "S052HXT",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/language-3-isixhosa-1/3447352"
+    },
+    {
+      "name": "Language In Education 4",
+      "code": "S074DEL",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/language-in-education-4/3447369"
+    },
+    {
+      "name": "language of teaching",
+      "code": "LOLT 5801",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/language-of-teaching/6490085"
+    },
+    {
+      "name": "Law Of Delict And Motor Vehicle Accidents",
+      "code": "S073VML",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/law-of-delict-and-motor-vehicle-accidents/3447303"
+    },
+    {
+      "name": "Law Of Evidence",
+      "code": "S073EOL",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/law-of-evidence/3447304"
+    },
+    {
+      "name": "Legal Interpretation",
+      "code": "S061IGL",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/legal-interpretation/3447293"
+    },
+    {
+      "name": "Legal Knowledge 1 MODULE B",
+      "code": "S201KGL",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/legal-knowledge-1-module-b/3447474"
+    },
+    {
+      "name": "Legal Research And Writing",
+      "code": "S061WRL",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/legal-research-and-writing/3447292"
+    },
+    {
+      "name": "Life Skills",
+      "code": "LSK260S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/life-skills/6145887"
+    },
+    {
+      "name": "Life Skills 1",
+      "code": "S061KSL",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/life-skills-1/3447330"
+    },
+    {
+      "name": "Life Skills 3",
+      "code": "S063KSL",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/life-skills-3/3447357"
+    },
+    {
+      "name": "Maintenance Engineering 2",
+      "code": "S002EAM",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/maintenance-engineering-2/3447488"
+    },
+    {
+      "name": "Management",
+      "code": "M150S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/management/4797033"
+    },
+    {
+      "name": "Management",
+      "code": "MNG470S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/management/4824154"
+    },
+    {
+      "name": "Management 3",
+      "code": "MNT301S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/management-3/3717988"
+    },
+    {
+      "name": "management accounting 2",
+      "code": "mac260",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/management-accounting-2/7515370"
+    },
+    {
+      "name": "Management Accounting 3",
+      "code": "S003AMA",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/management-accounting-3/3447160"
+    },
+    {
+      "name": "Management Accounting 3",
+      "code": "S303AMA",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/management-accounting-3/3447238"
+    },
+    {
+      "name": "Management Accounting 4",
+      "code": "S304AMA",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/management-accounting-4/3447181"
+    },
+    {
+      "name": "Management Accounting Aspects 4",
+      "code": "S004AAM",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/management-accounting-aspects-4/3447169"
+    },
+    {
+      "name": "Management and Finance 3",
+      "code": "MAF 3",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/management-and-finance-3/4821901"
+    },
+    {
+      "name": "Management and Finance For Marketing",
+      "code": "MFM470s",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/management-and-finance-for-marketing/4806193"
+    },
+    {
+      "name": "Management Economics 4",
+      "code": "S004EEB",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/management-economics-4/3447165"
+    },
+    {
+      "name": "Management Information Systems 4",
+      "code": "S004NIM",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/management-information-systems-4/3447170"
+    },
+    {
+      "name": "Manufacturing Engineering 4",
+      "code": "S004MCW",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/manufacturing-engineering-4/3447457"
+    },
+    {
+      "name": "Marine Engineering",
+      "code": "BME1",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/marine-engineering/7761780"
+    },
+    {
+      "name": "Marine Engineering Knowledge 1 MODULE A",
+      "code": "S101KWS",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/marine-engineering-knowledge-1-module-a/3447465"
+    },
+    {
+      "name": "Marine Engineering Knowledge 1 MODULE B",
+      "code": "S201KWS",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/marine-engineering-knowledge-1-module-b/3447473"
+    },
+    {
+      "name": "Marine Engineering Knowledge 2 MODULE A",
+      "code": "S102KWS",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/marine-engineering-knowledge-2-module-a/3447480"
+    },
+    {
+      "name": "Marine Engineering Knowledge 2 MODULE B",
+      "code": "S202KWS",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/marine-engineering-knowledge-2-module-b/3447481"
+    },
+    {
+      "name": "Marine Engineering Knowledge 3 MODULE B",
+      "code": "S203KWS",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/marine-engineering-knowledge-3-module-b/3447487"
+    },
+    {
+      "name": "Marine Engineering Physics",
+      "code": "MEP150S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/marine-engineering-physics/7702882"
+    },
+    {
+      "name": "Marine Science 1 MSC10",
+      "code": "0032RS10",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/marine-science-1-msc10/3447464"
+    },
+    {
+      "name": "Marketing",
+      "code": "MRK350s",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/marketing/4816894"
+    },
+    {
+      "name": "Marketing & Advertising:publ.Relations 1",
+      "code": "MAU100S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/marketing-advertisingpublrelations-1/3734411"
+    },
+    {
+      "name": "Marketing 1",
+      "code": "S001KAM",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/marketing-1/3447071"
+    },
+    {
+      "name": "Marketing 1",
+      "code": "S001RAM",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/marketing-1/3447125"
+    },
+    {
+      "name": "Marketing 1",
+      "code": "XS01KAM",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/marketing-1/3447191"
+    },
+    {
+      "name": "Marketing 2",
+      "code": "S002KAM",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/marketing-2/3447195"
+    },
+    {
+      "name": "Marketing 3",
+      "code": "MAK301S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/marketing-3/4217483"
+    },
+    {
+      "name": "Marketing 4",
+      "code": "S004KAM",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/marketing-4/3447250"
+    },
+    {
+      "name": "Marketing For Tourism",
+      "code": "MTR250S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/marketing-for-tourism/4822569"
+    },
+    {
+      "name": "Marketing Management 4",
+      "code": "S004MKM",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/marketing-management-4/3447171"
+    },
+    {
+      "name": "Marketing Research 3",
+      "code": "MRH300S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/marketing-research-3/4797256"
+    },
+    {
+      "name": "Mass Communication & Culture 1",
+      "code": "S051CCM",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/mass-communication-culture-1/3447561"
+    },
+    {
+      "name": "Mass Communication and Culture 2",
+      "code": "MCC260S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/mass-communication-and-culture-2/3737006"
+    },
+    {
+      "name": "Mathematics",
+      "code": "S751HTM",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/mathematics/3447076"
+    },
+    {
+      "name": "Mathematics 1",
+      "code": "S011TAM",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/mathematics-1/3447463"
+    },
+    {
+      "name": "Mathematics 1",
+      "code": "WIS150S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/mathematics-1/6961604"
+    },
+    {
+      "name": "Mathematics 1 (MODULE A)",
+      "code": "A001HTM",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/mathematics-1-module-a/3447118"
+    },
+    {
+      "name": "Mathematics 1 (MODULE B)",
+      "code": "B001HTM",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/mathematics-1-module-b/3447119"
+    },
+    {
+      "name": "Mathematics 1A",
+      "code": "MTM150S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/mathematics-1a/4473729"
+    },
+    {
+      "name": "Mathematics 2 Module A",
+      "code": "A002HTM",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/mathematics-2-module-a/3447128"
+    },
+    {
+      "name": "Mathematics in Education",
+      "code": "MID360S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/mathematics-in-education/6540834"
+    },
+    {
+      "name": "Mathematics In Education 1",
+      "code": "S051DIM",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/mathematics-in-education-1/3447329"
+    },
+    {
+      "name": "Mathematics: Chemical Engineering 3",
+      "code": "S003TAM",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/mathematics-chemical-engineering-3/3447439"
+    },
+    {
+      "name": "Mechanical Eng In Mechatronics",
+      "code": "D3MECH",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/mechanical-eng-in-mechatronics/7569890"
+    },
+    {
+      "name": "mechanical engineering design 2",
+      "code": "MED260s",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/mechanical-engineering-design-2/6650722"
+    },
+    {
+      "name": "Mechanics Of Machines 2 THERMODYNAMICS 2",
+      "code": "S102MOM",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/mechanics-of-machines-2-thermodynamics-2/3447467"
+    },
+    {
+      "name": "Media Studies 3",
+      "code": "S003USM",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/media-studies-3/3447518"
+    },
+    {
+      "name": "Medical Laboratory Science",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/medical-laboratory-science/7558843"
+    },
+    {
+      "name": "Medicine management 3",
+      "code": "NMM 302",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/medicine-management-3/4489879"
+    },
+    {
+      "name": "Mercantile Law 2: Corporate Entities And Procedures",
+      "code": "S072LCM",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/mercantile-law-2-corporate-entities-and-procedures/3447298"
+    },
+    {
+      "name": "Mercantile Law 3: Labour Law And Alternative Dispute Resolution Procedure",
+      "code": "S073LCM",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/mercantile-law-3-labour-law-and-alternative-dispute-resolution-procedure/3447306"
+    },
+    {
+      "name": "Methodology of First language",
+      "code": "MEN161S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/methodology-of-first-language/4822520"
+    },
+    {
+      "name": "Microbiology",
+      "code": "S151BIM",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/microbiology/3447075"
+    },
+    {
+      "name": "Microbiology 1",
+      "code": "MIB151S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/microbiology-1/5252938"
+    },
+    {
+      "name": "Microbiology 3",
+      "code": "S003YBM",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/microbiology-3/3447502"
+    },
+    {
+      "name": "Modelling In Mathematics And Statistics 3",
+      "code": "S003LDM",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/modelling-in-mathematics-and-statistics-3/3447127"
+    },
+    {
+      "name": "Multimedia Application Fundamentals",
+      "code": "MAF262S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/multimedia-application-fundamentals/4980935"
+    },
+    {
+      "name": "Multimedia Design 4",
+      "code": "040DSMM",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/multimedia-design-4/3447551"
+    },
+    {
+      "name": "Multimedia Technology 4",
+      "code": "040TAMM",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/multimedia-technology-4/3447553"
+    },
+    {
+      "name": "Mythology: Computer Application Technology",
+      "code": "MCA162S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/mythology-computer-application-technology/4365470"
+    },
+    {
+      "name": "National Diploma in Building",
+      "code": "001",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/national-diploma-in-building/1712120"
+    },
+    {
+      "name": "Nature Conservation",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/nature-conservation/4822782"
+    },
+    {
+      "name": "Naval Architecture 1",
+      "code": "S101RAN",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/naval-architecture-1/3447469"
+    },
+    {
+      "name": "Naval Architecture 2",
+      "code": "S102RAN",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/naval-architecture-2/3447478"
+    },
+    {
+      "name": "ND Building",
+      "code": "QSU300s",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/nd-building/4165605"
+    },
+    {
+      "name": "ND: Biotechnology",
+      "code": "OPM250S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/nd-biotechnology/2901072"
+    },
+    {
+      "name": "Numerical Methods 1",
+      "code": "S001MUN",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/numerical-methods-1/3447120"
+    },
+    {
+      "name": "Numerical Methods in Civil Engineering",
+      "code": "NMC580S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/numerical-methods-in-civil-engineering/6983870"
+    },
+    {
+      "name": "Nursing Science 1",
+      "code": "NSC150S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/nursing-science-1/4825430"
+    },
+    {
+      "name": "Nutrition",
+      "code": "NTN260S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/nutrition/4803009"
+    },
+    {
+      "name": "Nutrition 4",
+      "code": "S004TUN",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/nutrition-4/3447069"
+    },
+    {
+      "name": "Occup Health & Safety 4: Management Systems",
+      "code": "S084SHO",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/occup-health-safety-4-management-systems/3447102"
+    },
+    {
+      "name": "Occupational Health And Safety 2: Assessment",
+      "code": "S062SHO",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/occupational-health-and-safety-2-assessment/3447086"
+    },
+    {
+      "name": "Occupational Health And Safety 3: Control",
+      "code": "S073SHO",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/occupational-health-and-safety-3-control/3447094"
+    },
+    {
+      "name": "Oenology 2a OEN",
+      "code": "OEN260S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/oenology-2a-oen/3447052"
+    },
+    {
+      "name": "Office Administration: Behavioural Aspect B",
+      "code": "S201BAO",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/office-administration-behavioural-aspect-b/3447261"
+    },
+    {
+      "name": "Operating Systems",
+      "code": "OPS 260s",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/operating-systems/6841711"
+    },
+    {
+      "name": "Operational Research 4",
+      "code": "S004PPO",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/operational-research-4/3447268"
+    },
+    {
+      "name": "Operations management",
+      "code": "PRB150s",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/operations-management/3731397"
+    },
+    {
+      "name": "Operations Management 2",
+      "code": "S002BRP",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/operations-management-2/3447316"
+    },
+    {
+      "name": "Operations Management 2",
+      "code": "PRB260S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/operations-management-2/7741937"
+    },
+    {
+      "name": "Operations Management 3",
+      "code": "S003BRP",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/operations-management-3/3447320"
+    },
+    {
+      "name": "Operations Management 4",
+      "code": "PRB 470S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/operations-management-4/5364089"
+    },
+    {
+      "name": "Operations Management Techniques 1",
+      "code": "S001TBP",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/operations-management-techniques-1/3447310"
+    },
+    {
+      "name": "Operations Management Techniques 2",
+      "code": "S002TBP",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/operations-management-techniques-2/3447315"
+    },
+    {
+      "name": "Operations Management Techniques 4",
+      "code": "PRB470S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/operations-management-techniques-4/5364087"
+    },
+    {
+      "name": "Operations Research",
+      "code": "ORE361S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/operations-research/6938170"
+    },
+    {
+      "name": "Operations Research 3",
+      "code": "S003RPO",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/operations-research-3/3447136"
+    },
+    {
+      "name": "Organic Chemistry",
+      "code": "ORG400S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/organic-chemistry/3447066"
+    },
+    {
+      "name": "Organisational Development and Transformation",
+      "code": "ODT470S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/organisational-development-and-transformation/7762837"
+    },
+    {
+      "name": "Organisational Effectiveness 1",
+      "code": "S001FEO",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/organisational-effectiveness-1/3447309"
+    },
+    {
+      "name": "Organisational Effectiveness 2",
+      "code": "S002FEO",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/organisational-effectiveness-2/3447314"
+    },
+    {
+      "name": "Organisational Effectiveness 3",
+      "code": "S003FEO",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/organisational-effectiveness-3/3447321"
+    },
+    {
+      "name": "Paralegal Studies",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/paralegal-studies/6549067"
+    },
+    {
+      "name": "Particle Technology",
+      "code": "PTY260",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/particle-technology/6147171"
+    },
+    {
+      "name": "Particle Technology",
+      "code": "PTY261S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/particle-technology/7729409"
+    },
+    {
+      "name": "Personal Selling 1",
+      "code": "S301GSP",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/personal-selling-1/3447197"
+    },
+    {
+      "name": "Pharmacology 4",
+      "code": "S004AHP",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/pharmacology-4/3447514"
+    },
+    {
+      "name": "Physical Chemistry",
+      "code": "PCH400S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/physical-chemistry/3447067"
+    },
+    {
+      "name": "Physical Science",
+      "code": "PSC150S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/physical-science/4821945"
+    },
+    {
+      "name": "Physical Sciences",
+      "code": "S451YHP",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/physical-sciences/3447379"
+    },
+    {
+      "name": "Physical Sciences",
+      "code": "PHY154S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/physical-sciences/6912016"
+    },
+    {
+      "name": "Physical sciences for biology",
+      "code": "PhB150S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/physical-sciences-for-biology/6875885"
+    },
+    {
+      "name": "Physics",
+      "code": "S151SHP",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/physics/3447078"
+    },
+    {
+      "name": "Physics",
+      "code": "Ics 2004",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/physics/7652515"
+    },
+    {
+      "name": "Planning For The Built",
+      "code": "S062EBP",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/planning-for-the-built/3447087"
+    },
+    {
+      "name": "Plant Diseases",
+      "code": "PLD250s",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/plant-diseases/4793540"
+    },
+    {
+      "name": "Plant Material Studies",
+      "code": "PTS150S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/plant-material-studies/4793127"
+    },
+    {
+      "name": "Plant Material Studies 3",
+      "code": "PTS360s",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/plant-material-studies-3/4793544"
+    },
+    {
+      "name": "Plant production",
+      "code": "PPO261",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/plant-production/4490345"
+    },
+    {
+      "name": "Political Studies",
+      "code": "PLTS101",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/political-studies/4803810"
+    },
+    {
+      "name": "Power electronics 3",
+      "code": "POW300S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/power-electronics-3/3722863"
+    },
+    {
+      "name": "Price Analysis & Estimating",
+      "code": "PAE360S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/price-analysis-estimating/4546763"
+    },
+    {
+      "name": "Primary emergency care",
+      "code": "pec150s",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/primary-emergency-care/6869568"
+    },
+    {
+      "name": "Principle of law",
+      "code": "POL100S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/principle-of-law/4489866"
+    },
+    {
+      "name": "Principles of management and law",
+      "code": "MNP60S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/principles-of-management-and-law/4825429"
+    },
+    {
+      "name": "Principles Of Urban Design 4",
+      "code": "S004DRU",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/principles-of-urban-design-4/3447525"
+    },
+    {
+      "name": "Private Law 1: Persons And Family Law Practice",
+      "code": "S151LRP",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/private-law-1-persons-and-family-law-practice/3447289"
+    },
+    {
+      "name": "Private Law 2: Succession And Administration Of Estates",
+      "code": "S062LRP",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/private-law-2-succession-and-administration-of-estates/3447297"
+    },
+    {
+      "name": "Private Law 3: Property And Conveyancing Procedure",
+      "code": "S073LRP",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/private-law-3-property-and-conveyancing-procedure/3447308"
+    },
+    {
+      "name": "Process Control 4",
+      "code": "S004CRP",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/process-control-4/3447444"
+    },
+    {
+      "name": "PROCESS CONTROL and INSTRUMENTATION",
+      "code": "PCI360S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/process-control-and-instrumentation/6063755"
+    },
+    {
+      "name": "Process Design and Principles II",
+      "code": "PSL260S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/process-design-and-principles-ii/7452099"
+    },
+    {
+      "name": "Process Design Principles 3",
+      "code": "PSL360S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/process-design-principles-3/6590234"
+    },
+    {
+      "name": "Process Fluid Flow",
+      "code": "PFF260S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/process-fluid-flow/4487908"
+    },
+    {
+      "name": "Process Fluid Flow",
+      "code": "PFF261S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/process-fluid-flow/6914342"
+    },
+    {
+      "name": "process network conention",
+      "code": "PNC360s",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/process-network-conention/4889047"
+    },
+    {
+      "name": "Product Design 4",
+      "code": "S004EDP",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/product-design-4/3447526"
+    },
+    {
+      "name": "Production And Purchasing Management 4",
+      "code": "S004TPP",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/production-and-purchasing-management-4/3447173"
+    },
+    {
+      "name": "Production Engineering: Chem Industries 4",
+      "code": "S004CIP",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/production-engineering-chem-industries-4/3447446"
+    },
+    {
+      "name": "Professional & Technical Communication",
+      "code": "S351CTP",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/professional-technical-communication/3447382"
+    },
+    {
+      "name": "Professional And Technical Communications 1",
+      "code": "PTC152X",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/professional-and-technical-communications-1/5355515"
+    },
+    {
+      "name": "Professional Communication",
+      "code": "PRC152S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/professional-communication/6819851"
+    },
+    {
+      "name": "Professional Communications",
+      "code": "PFC150X",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/professional-communications/6926433"
+    },
+    {
+      "name": "Professional Communications 2",
+      "code": "PRC262S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/professional-communications-2/7207801"
+    },
+    {
+      "name": "Professional Practice",
+      "code": "S004PFP",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/professional-practice/3447528"
+    },
+    {
+      "name": "Professional Practice & Research Project 4",
+      "code": "S084PFP",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/professional-practice-research-project-4/3447103"
+    },
+    {
+      "name": "Professional Practice 1",
+      "code": "S051PFP",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/professional-practice-1/3447077"
+    },
+    {
+      "name": "Professional Practice 1",
+      "code": "S151RPP",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/professional-practice-1/3447327"
+    },
+    {
+      "name": "Professional Practice 2",
+      "code": "S062PFP",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/professional-practice-2/3447088"
+    },
+    {
+      "name": "Professional Practice 3",
+      "code": "S073PFP",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/professional-practice-3/3447095"
+    },
+    {
+      "name": "Programming 1",
+      "code": "PRG152S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/programming-1/6819862"
+    },
+    {
+      "name": "Programming 1 Pgm10",
+      "code": "0223RS00",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/programming-1-pgm10/3447131"
+    },
+    {
+      "name": "Project 2",
+      "code": "S002JRP",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/project-2/3447137"
+    },
+    {
+      "name": "Project Accounting 4",
+      "code": "S004AJP",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/project-accounting-4/3447265"
+    },
+    {
+      "name": "Project Accounting 5",
+      "code": "S005AJP",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/project-accounting-5/3447178"
+    },
+    {
+      "name": "project adminstration",
+      "code": "PRA470S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/project-adminstration/4828081"
+    },
+    {
+      "name": "Project Management",
+      "code": "PMT580S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/project-management/7627572"
+    },
+    {
+      "name": "Project management 3",
+      "code": "PGT300S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/project-management-3/4543191"
+    },
+    {
+      "name": "Project Management 5",
+      "code": "S005TJP",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/project-management-5/3447146"
+    },
+    {
+      "name": "Project Management 5",
+      "code": "S005MMP",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/project-management-5/3447216"
+    },
+    {
+      "name": "Project Management Process 4",
+      "code": "S004PRP",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/project-management-process-4/3447262"
+    },
+    {
+      "name": "Project Management Theory",
+      "code": "S073TMP",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/project-management-theory/3447401"
+    },
+    {
+      "name": "Project Quality 4",
+      "code": "S004QJP",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/project-quality-4/3447264"
+    },
+    {
+      "name": "Project Resources 4",
+      "code": "S004MJP",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/project-resources-4/3447454"
+    },
+    {
+      "name": "Project: Chemical Engineering 4",
+      "code": "S004ECP",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/project-chemical-engineering-4/3447445"
+    },
+    {
+      "name": "Property Economics and Valuation",
+      "code": "PEV470S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/property-economics-and-valuation/6768988"
+    },
+    {
+      "name": "Property Law",
+      "code": "LPV250s",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/property-law/5464304"
+    },
+    {
+      "name": "property valuation 2",
+      "code": "PRV260S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/property-valuation-2/5311501"
+    },
+    {
+      "name": "Psych interventions in Edu",
+      "code": "ESP242",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/psych-interventions-in-edu/4617162"
+    },
+    {
+      "name": "Public administration theory",
+      "code": "PAT47OS",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/public-administration-theory/5741782"
+    },
+    {
+      "name": "Public Hr Management & Leadership 5",
+      "code": "S005LBP",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/public-hr-management-leadership-5/3447279"
+    },
+    {
+      "name": "Public Law 2: Constitutional Law And Citizenship",
+      "code": "S062LUP",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/public-law-2-constitutional-law-and-citizenship/3447301"
+    },
+    {
+      "name": "Public Law 3: Criminal Law And Criminal Procedure",
+      "code": "S073LUP",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/public-law-3-criminal-law-and-criminal-procedure/3447307"
+    },
+    {
+      "name": "Public Policy Management 4",
+      "code": "S004MBP",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/public-policy-management-4/3447271"
+    },
+    {
+      "name": "Public Relations 4",
+      "code": "S004RUP",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/public-relations-4/3447519"
+    },
+    {
+      "name": "Purposive Communication",
+      "code": "COMM 01",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/purposive-communication/5982178"
+    },
+    {
+      "name": "Quality Assurance",
+      "code": "XF01BLM",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/quality-assurance/3447499"
+    },
+    {
+      "name": "Quantitative Techniques",
+      "code": "QTE101S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/quantitative-techniques/4797258"
+    },
+    {
+      "name": "quantitative techniques",
+      "code": "QUA 261s",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/quantitative-techniques/7248244"
+    },
+    {
+      "name": "Quantity Surveying",
+      "code": "QSU150S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/quantity-surveying/5988790"
+    },
+    {
+      "name": "quantity surveying",
+      "code": "QSU360S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/quantity-surveying/6768027"
+    },
+    {
+      "name": "Quantity Surveying 1",
+      "code": "QSU150S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/quantity-surveying-1/6551352"
+    },
+    {
+      "name": "Quantity Surveying 2",
+      "code": "QSU260S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/quantity-surveying-2/3730781"
+    },
+    {
+      "name": "Reactor Technology 4",
+      "code": "S004ITR",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/reactor-technology-4/3447440"
+    },
+    {
+      "name": "Refrigeration 3",
+      "code": "S003FER",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/refrigeration-3/3447484"
+    },
+    {
+      "name": "Refrigeration And AirConditioning 4",
+      "code": "S004CAR",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/refrigeration-and-airconditioning-4/3447452"
+    },
+    {
+      "name": "Reinforced Concrete And Masonry Design",
+      "code": "S062MCR",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/reinforced-concrete-and-masonry-design/3447397"
+    },
+    {
+      "name": "Research Methodology",
+      "code": "REA100S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/research-methodology/3447061"
+    },
+    {
+      "name": "Research Methodology",
+      "code": "S073YMR",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/research-methodology/3447096"
+    },
+    {
+      "name": "Research Methodology",
+      "code": "S601TMN",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/research-methodology/3447185"
+    },
+    {
+      "name": "Research Methodology",
+      "code": "S302YMR",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/research-methodology/3447204"
+    },
+    {
+      "name": "Research Methodology",
+      "code": "S401TMN",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/research-methodology/3447209"
+    },
+    {
+      "name": "Research Methodology",
+      "code": "S002YMR",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/research-methodology/3447233"
+    },
+    {
+      "name": "Research Methodology",
+      "code": "S501TMN",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/research-methodology/3447240"
+    },
+    {
+      "name": "Research Methodology",
+      "code": "S801TMN",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/research-methodology/3447256"
+    },
+    {
+      "name": "Research Methodology & Project",
+      "code": "S073PMR",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/research-methodology-project/3447402"
+    },
+    {
+      "name": "Research Methodology 4",
+      "code": "NMT104S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/research-methodology-4/4837306"
+    },
+    {
+      "name": "Research Methodology: Introduction",
+      "code": "REM350S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/research-methodology-introduction/3447058"
+    },
+    {
+      "name": "Research Methods/Writers/Proposal 5",
+      "code": "S005PMR",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/research-methodswritersproposal-5/3447223"
+    },
+    {
+      "name": "Research Methology: Nat Sciences",
+      "code": "S002NMR",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/research-methology-nat-sciences/3447070"
+    },
+    {
+      "name": "Research Planning and Methodology",
+      "code": "RPM470S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/research-planning-and-methodology/4826751"
+    },
+    {
+      "name": "Research Project 4",
+      "code": "RPJ401S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/research-project-4/5538400"
+    },
+    {
+      "name": "Retail Business management",
+      "code": "D3RBMT",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/retail-business-management/4821724"
+    },
+    {
+      "name": "Retail Business Management 4",
+      "code": "S004MBR",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/retail-business-management-4/3447324"
+    },
+    {
+      "name": "Retail logistics management",
+      "code": "RLM470S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/retail-logistics-management/4828191"
+    },
+    {
+      "name": "Retail Operations Management 3",
+      "code": "ROM 360S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/retail-operations-management-3/4792936"
+    },
+    {
+      "name": "Retail Operations Management 4",
+      "code": "ROM 470S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/retail-operations-management-4/4828193"
+    },
+    {
+      "name": "Retailing 2",
+      "code": "RBM260s",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/retailing-2/3731200"
+    },
+    {
+      "name": "Reticulation Design And Management",
+      "code": "S073MDR",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/reticulation-design-and-management/3447411"
+    },
+    {
+      "name": "Reticulation Design and Management",
+      "code": "RDM370S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/reticulation-design-and-management/5047386"
+    },
+    {
+      "name": "Sales and Project management",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/sales-and-project-management/4797260"
+    },
+    {
+      "name": "Salon Management",
+      "code": "BUP360S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/salon-management/4828484"
+    },
+    {
+      "name": "Salon Practice",
+      "code": "SCP260S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/salon-practice/4803016"
+    },
+    {
+      "name": "Separation Processes",
+      "code": "SPS360S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/separation-processes/6067677"
+    },
+    {
+      "name": "Signal processing 2",
+      "code": "SIP260S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/signal-processing-2/7693604"
+    },
+    {
+      "name": "Signal Processing 3",
+      "code": "S003PIS",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/signal-processing-3/3447416"
+    },
+    {
+      "name": "Small Business Management 1",
+      "code": "XS01MBS",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/small-business-management-1/3447192"
+    },
+    {
+      "name": "Small Business Management 2",
+      "code": "XS02MBS",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/small-business-management-2/3447193"
+    },
+    {
+      "name": "Small Business Management 3",
+      "code": "S003MBS",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/small-business-management-3/3447201"
+    },
+    {
+      "name": "Small Business Management Practice 3",
+      "code": "S003PBS",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/small-business-management-practice-3/3447202"
+    },
+    {
+      "name": "Social Psychology",
+      "code": "SOP200S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/social-psychology/4201961"
+    },
+    {
+      "name": "Sociology",
+      "code": "S051COS",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/sociology/3447080"
+    },
+    {
+      "name": "Software Design 1",
+      "code": "SDN150S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/software-design-1/6784098"
+    },
+    {
+      "name": "Software Engineering & De",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/software-engineering-de/3447537"
+    },
+    {
+      "name": "Software Engineering 4",
+      "code": "S004NES",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/software-engineering-4/3447419"
+    },
+    {
+      "name": "Software Skills 2",
+      "code": "SWS 202S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/software-skills-2/4818229"
+    },
+    {
+      "name": "Software Systems 4",
+      "code": "S004SSS",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/software-systems-4/3447420"
+    },
+    {
+      "name": "Software Systems Design And Development 5",
+      "code": "S005DSS",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/software-systems-design-and-development-5/3447221"
+    },
+    {
+      "name": "Soil Mechanics",
+      "code": "S061CMS",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/soil-mechanics/3447387"
+    },
+    {
+      "name": "Somatology Science",
+      "code": "SCO250S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/somatology-science/4804630"
+    },
+    {
+      "name": "spatial planning theory",
+      "code": "isp150s",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/spatial-planning-theory/4804852"
+    },
+    {
+      "name": "Specialised Clothing Technology 4",
+      "code": "S004TCS",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/specialised-clothing-technology-4/3447530"
+    },
+    {
+      "name": "Specialist Reporting 4",
+      "code": "S004RPS",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/specialist-reporting-4/3447548"
+    },
+    {
+      "name": "Specific Financial Reporting",
+      "code": "SFR470S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/specific-financial-reporting/4822240"
+    },
+    {
+      "name": "Sport Management",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/sport-management/3731071"
+    },
+    {
+      "name": "Stability operational level",
+      "code": "SSCN 102",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/stability-operational-level/6431526"
+    },
+    {
+      "name": "Statistical Analysis 2",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/statistical-analysis-2/7584473"
+    },
+    {
+      "name": "statistical method  and business calculations",
+      "code": "qte150s",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/statistical-method-and-business-calculations/4490357"
+    },
+    {
+      "name": "Statistical Methods 1 Module A",
+      "code": "A001ATS",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/statistical-methods-1-module-a/3447121"
+    },
+    {
+      "name": "Statistical Methods 2 Module A",
+      "code": "A002ATS",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/statistical-methods-2-module-a/3447132"
+    },
+    {
+      "name": "Statistics 1A",
+      "code": "STA150S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/statistics-1a/4473734"
+    },
+    {
+      "name": "Statistics For Accountants",
+      "code": "SFA 150x",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/statistics-for-accountants/4463060"
+    },
+    {
+      "name": "Steam Plant",
+      "code": "260S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/steam-plant/7513902"
+    },
+    {
+      "name": "Steam Plant 3",
+      "code": "S003PTS",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/steam-plant-3/3447485"
+    },
+    {
+      "name": "Strategic Management 4",
+      "code": "S004MTS",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/strategic-management-4/3447267"
+    },
+    {
+      "name": "Strategic Management 5",
+      "code": "S005BTS",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/strategic-management-5/3447147"
+    },
+    {
+      "name": "Strategic Studies",
+      "code": "S001SSM",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/strategic-studies/3447459"
+    },
+    {
+      "name": "Strength of materials",
+      "code": "STL261S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/strength-of-materials/6575550"
+    },
+    {
+      "name": "Strength of Materials 2",
+      "code": "STL203S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/strength-of-materials-2/5154026"
+    },
+    {
+      "name": "Strength Of Materials 2 APPLIED",
+      "code": "S302LTS",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/strength-of-materials-2-applied/3447477"
+    },
+    {
+      "name": "Strength Of Materials 4",
+      "code": "S004LTS",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/strength-of-materials-4/3447451"
+    },
+    {
+      "name": "Stress Analysis",
+      "code": "SAN471S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/stress-analysis/6640564"
+    },
+    {
+      "name": "Stress Analysis 4",
+      "code": "S004APS",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/stress-analysis-4/3447455"
+    },
+    {
+      "name": "Structural Analysis 1",
+      "code": "S262ATS",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/structural-analysis-1/3447392"
+    },
+    {
+      "name": "Structural Analysis 2",
+      "code": "S073ATS",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/structural-analysis-2/3447407"
+    },
+    {
+      "name": "Structural Analysis 2",
+      "code": "STY200S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/structural-analysis-2/4827844"
+    },
+    {
+      "name": "Structural Analysis 3",
+      "code": "STY300S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/structural-analysis-3/4768080"
+    },
+    {
+      "name": "Structural Design",
+      "code": "SDE470S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/structural-design/5462526"
+    },
+    {
+      "name": "Structural Steel And Timber Design",
+      "code": "S062TSS",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/structural-steel-and-timber-design/3447393"
+    },
+    {
+      "name": "Structures And Concrete 3",
+      "code": "STC300S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/structures-and-concrete-3/4196832"
+    },
+    {
+      "name": "Supply Chain Management",
+      "code": "CMG 470S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/supply-chain-management/5364098"
+    },
+    {
+      "name": "Surface And Design Studies 4",
+      "code": "S004SDS",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/surface-and-design-studies-4/3447555"
+    },
+    {
+      "name": "Surveying 1",
+      "code": "S151RUS",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/surveying-1/3447378"
+    },
+    {
+      "name": "Surveying 2",
+      "code": "S062RUS",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/surveying-2/3447394"
+    },
+    {
+      "name": "Sustainable Development",
+      "code": "S051VDS",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/sustainable-development/3447079"
+    },
+    {
+      "name": "sustainable Technology",
+      "code": "ASE690",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/sustainable-technology/4491914"
+    },
+    {
+      "name": "Taxation 1",
+      "code": "S111XAT",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/taxation-1/3447157"
+    },
+    {
+      "name": "Taxation 1 Individuals",
+      "code": "TAX260S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/taxation-1-individuals/6406411"
+    },
+    {
+      "name": "Taxation 1B",
+      "code": "TAX262s",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/taxation-1b/4769376"
+    },
+    {
+      "name": "Taxation 2",
+      "code": "S002XAT",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/taxation-2/3447161"
+    },
+    {
+      "name": "Taxation 2 : Business",
+      "code": "Tax360s",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/taxation-2-business/4819712"
+    },
+    {
+      "name": "Taxation 3",
+      "code": "Tax3",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/taxation-3/4821857"
+    },
+    {
+      "name": "Teaching Practice Lesson Plans",
+      "code": "TPR471S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/teaching-practice-lesson-plans/6573479"
+    },
+    {
+      "name": "Technical Drafting",
+      "code": "TCD150X",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/technical-drafting/5355475"
+    },
+    {
+      "name": "Technology methodology 1",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/technology-methodology-1/4822625"
+    },
+    {
+      "name": "The Law Of Contract",
+      "code": "S051TCL",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/the-law-of-contract/3447290"
+    },
+    {
+      "name": "The Role Of Medical Laboratory Scientist",
+      "code": "XA01BLM",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/the-role-of-medical-laboratory-scientist/3447494"
+    },
+    {
+      "name": "Theorising modernity",
+      "code": "SOC175",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/theorising-modernity/6957544"
+    },
+    {
+      "name": "Theory Of Clothing 4",
+      "code": "S004LCT",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/theory-of-clothing-4/3447531"
+    },
+    {
+      "name": "Theory of structure",
+      "code": "TOS150S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/theory-of-structure/6520327"
+    },
+    {
+      "name": "Thermo-Fluids 2",
+      "code": "FLM260S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/thermo-fluids-2/6554418"
+    },
+    {
+      "name": "Thermodynamics",
+      "code": "CTH260S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/thermodynamics/4823716"
+    },
+    {
+      "name": "Thermodynamics 2",
+      "code": "APT260S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/thermodynamics-2/6346912"
+    },
+    {
+      "name": "Thermodynamics: Applied 3",
+      "code": "APT 300S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/thermodynamics-applied-3/4378138"
+    },
+    {
+      "name": "Tourism and Hospitality Management",
+      "code": "HTM005",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/tourism-and-hospitality-management/2271108"
+    },
+    {
+      "name": "Tourism development",
+      "code": "TDM300S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/tourism-development/4821897"
+    },
+    {
+      "name": "Tourism Development and planning",
+      "code": "TRM260s",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/tourism-development-and-planning/4822111"
+    },
+    {
+      "name": "Tourism Management",
+      "code": "TRM260S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/tourism-management/4822088"
+    },
+    {
+      "name": "Tourism Marketing",
+      "code": "D3TMNG",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/tourism-marketing/4821868"
+    },
+    {
+      "name": "Tourist Guiding",
+      "code": "TRG201S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/tourist-guiding/4822582"
+    },
+    {
+      "name": "town planning",
+      "code": "370s",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/town-planning/6560108"
+    },
+    {
+      "name": "Traffic Engineering 4",
+      "code": "S004ERT",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/traffic-engineering-4/3447377"
+    },
+    {
+      "name": "Transfer Process",
+      "code": "TFP260S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/transfer-process/4824556"
+    },
+    {
+      "name": "Transport Engineering & Planning",
+      "code": "TEP470S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/transport-engineering-planning/7057710"
+    },
+    {
+      "name": "Transport Engineering 1",
+      "code": "TEG260S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/transport-engineering-1/7402187"
+    },
+    {
+      "name": "Transportation Engineering 1",
+      "code": "S062EPT",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/transportation-engineering-1/3447390"
+    },
+    {
+      "name": "Transportation Engineering 2",
+      "code": "S073EPT",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/transportation-engineering-2/3447405"
+    },
+    {
+      "name": "Travel and Tourism Management",
+      "code": "TRM300S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/travel-and-tourism-management/4822121"
+    },
+    {
+      "name": "Travel and Tourism mangement",
+      "code": "TRM260S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/travel-and-tourism-mangement/4821855"
+    },
+    {
+      "name": "Travel and Tourism Practice",
+      "code": "TTR300S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/travel-and-tourism-practice/4821883"
+    },
+    {
+      "name": "Turbo Machines 4",
+      "code": "S004OBT",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/turbo-machines-4/3447456"
+    },
+    {
+      "name": "Urban Planning",
+      "code": "S073PBU",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/urban-planning/3447413"
+    },
+    {
+      "name": "Vegetable Production",
+      "code": "VPR150S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/vegetable-production/6398407"
+    },
+    {
+      "name": "Water And Waste Water Management",
+      "code": "S073WWW",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/water-and-waste-water-management/3447406"
+    },
+    {
+      "name": "Water Engineering 1",
+      "code": "WER260s",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/water-engineering-1/4516060"
+    },
+    {
+      "name": "Water Engineering II",
+      "code": "WER360S",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/water-engineering-ii/6249282"
+    },
+    {
+      "name": "Work Integrated Learning",
+      "code": "S003LIW",
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/work-integrated-learning/3447139"
+    },
+    {
+      "name": "workplace psycology",
+      "code": null,
+      "url": "https://www.studocu.com/en-za/course/cape-peninsula-university-of-technology/workplace-psycology/7533462"
+    }
+  ]
+}

@@ -1,0 +1,4651 @@
+{
+  "university_id": "8993",
+  "university_name": "Luleå tekniska universitet",
+  "courses": [
+    {
+      "name": "Additiv Tillverkning - Process, Material, Produkt",
+      "code": "T7027T",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/additiv-tillverkning-process-material-produkt/4806103"
+    },
+    {
+      "name": "Aerodynamik",
+      "code": "F0037T",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/aerodynamik/1312445"
+    },
+    {
+      "name": "Affärer och digitalt entreprenörskap",
+      "code": "I0018N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/affarer-och-digitalt-entreprenorskap/4352990"
+    },
+    {
+      "name": "Affärsstrategi",
+      "code": "M0024N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/affarsstrategi/1312447"
+    },
+    {
+      "name": "Akustik för ljudproduktion",
+      "code": "L0011A",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/akustik-for-ljudproduktion/1312453"
+    },
+    {
+      "name": "Algebra allmän kurs",
+      "code": "M7008M",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/algebra-allman-kurs/1312450"
+    },
+    {
+      "name": "Algoritmer",
+      "code": "D7009E",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/algoritmer/1312455"
+    },
+    {
+      "name": "Algoritmer och datastrukturer",
+      "code": "D0012E",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/algoritmer-och-datastrukturer/1312461"
+    },
+    {
+      "name": "Allmän farmakologi",
+      "code": "M0045H",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/allman-farmakologi/1312459"
+    },
+    {
+      "name": "Allmän rättslära med rättshistoria och rättsfilosofi",
+      "code": "J0032N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/allman-rattslara-med-rattshistoria-och-rattsfilosofi/1312466"
+    },
+    {
+      "name": "Analys 1",
+      "code": "M0023M",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/analys-1/1312464"
+    },
+    {
+      "name": "Analys 2",
+      "code": "M0024M",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/analys-2/1312484"
+    },
+    {
+      "name": "Analysens grunder",
+      "code": "M7020M",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/analysens-grunder/1312468"
+    },
+    {
+      "name": "Anatomi och fysiologi med inriktning mot hälsovägledning",
+      "code": "M0023H",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/anatomi-och-fysiologi-med-inriktning-mot-halsovagledning/1312494"
+    },
+    {
+      "name": "Användarcentrerad programutveckling med C#",
+      "code": "D0034N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/anvandarcentrerad-programutveckling-med-c/1312488"
+    },
+    {
+      "name": "Användbarhet",
+      "code": "P7031A",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/anvandbarhet/1312480"
+    },
+    {
+      "name": "Aqeedah - Islamisk Troslära",
+      "code": "101",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/aqeedah-islamisk-troslara/5131587"
+    },
+    {
+      "name": "Arbets- och motivationspsykologi",
+      "code": "P0053A",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/arbets-och-motivationspsykologi/1312474"
+    },
+    {
+      "name": "Arbetsmiljö och organisation",
+      "code": "A0019A",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/arbetsmiljo-och-organisation/5866266"
+    },
+    {
+      "name": "Arbetsmiljöledning",
+      "code": "A0004A",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/arbetsmiljoledning/1312500"
+    },
+    {
+      "name": "Arbetspsykologi",
+      "code": "P0006A",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/arbetspsykologi/1312506"
+    },
+    {
+      "name": "Arbetsrätt",
+      "code": "J0009N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/arbetsratt/1312490"
+    },
+    {
+      "name": "Arbetsterapi C Kvalitativa metoder",
+      "code": "A0014H",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/arbetsterapi-c-kvalitativa-metoder/1312496"
+    },
+    {
+      "name": "ArcGIS",
+      "code": "L0005B",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/arcgis/1312510"
+    },
+    {
+      "name": "Argumentationsanalys och logik",
+      "code": "F0004S",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/argumentationsanalys-och-logik/1312514"
+    },
+    {
+      "name": "Arkitekturhistoria",
+      "code": "F0008B",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/arkitekturhistoria/1312520"
+    },
+    {
+      "name": "arkitekturhistoria",
+      "code": "F0019B",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/arkitekturhistoria/6029538"
+    },
+    {
+      "name": "Arktis - Centrum eller periferi?",
+      "code": "H0053N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/arktis-centrum-eller-periferi/6824102"
+    },
+    {
+      "name": "Astrofysik och kosmologi",
+      "code": "F0027T",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/astrofysik-och-kosmologi/1312536"
+    },
+    {
+      "name": "Atmosfärsdynamik och klimat",
+      "code": "F7002E",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/atmosfarsdynamik-och-klimat/4816914"
+    },
+    {
+      "name": "Atmospheric dynamics and Climate",
+      "code": "f7002e",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/atmospheric-dynamics-and-climate/4751401"
+    },
+    {
+      "name": "Atmospheric Physics",
+      "code": "F7004R",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/atmospheric-physics/5358616"
+    },
+    {
+      "name": "Att jämföra politiska system",
+      "code": "S0036N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/att-jamfora-politiska-system/4762599"
+    },
+    {
+      "name": "Automatisering",
+      "code": "T0014T",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/automatisering/1312534"
+    },
+    {
+      "name": "Avancerad bergmekanik",
+      "code": "T7022B",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/avancerad-bergmekanik/4806104"
+    },
+    {
+      "name": "Avancerad datorstödd konstruktion",
+      "code": "M7011T",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/avancerad-datorstodd-konstruktion/1312543"
+    },
+    {
+      "name": "Avancerad experimentell teknik",
+      "code": "F7021T",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/avancerad-experimentell-teknik/1312551"
+    },
+    {
+      "name": "Avancerad gemmologi",
+      "code": "O0027K",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/avancerad-gemmologi/1312549"
+    },
+    {
+      "name": "Avancerad kontinumsmekanik",
+      "code": "F7023T",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/avancerad-kontinumsmekanik/1312555"
+    },
+    {
+      "name": "Avancerad produktionsdesign",
+      "code": "A7005A",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/avancerad-produktionsdesign/7393129"
+    },
+    {
+      "name": "Avancerad projektledning",
+      "code": "O7014N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/avancerad-projektledning/1312561"
+    },
+    {
+      "name": "Avancerad Projektledning",
+      "code": "O7008N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/avancerad-projektledning/5881802"
+    },
+    {
+      "name": "Avancerad Routing",
+      "code": "W0002E",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/avancerad-routing/4767323"
+    },
+    {
+      "name": "Avancerad slipteknik",
+      "code": "O0028K",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/avancerad-slipteknik/1312559"
+    },
+    {
+      "name": "Avancerad Switching",
+      "code": "W0003E",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/avancerad-switching/4767322"
+    },
+    {
+      "name": "Avancerad tillförlitlighetsteknik",
+      "code": "D7012B",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/avancerad-tillforlitlighetsteknik/4767438"
+    },
+    {
+      "name": "Avancerad tjänstedesign",
+      "code": "I0002E",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/avancerad-tjanstedesign/4880591"
+    },
+    {
+      "name": "Avancerade maskinelement",
+      "code": "M7018T",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/avancerade-maskinelement/1312563"
+    },
+    {
+      "name": "Avancerade reglersystem",
+      "code": "R7014E",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/avancerade-reglersystem/2998049"
+    },
+    {
+      "name": "Avfallsteknik",
+      "code": "A0013B",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/avfallsteknik/1312575"
+    },
+    {
+      "name": "Ädelstensgeologi",
+      "code": "O0031K",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/adelstensgeologi/1312443"
+    },
+    {
+      "name": "Ätande och nutrition",
+      "code": "O7026H",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/atande-och-nutrition/1312532"
+    },
+    {
+      "name": "Årsredovisning i aktiebolag",
+      "code": "R0010N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/arsredovisning-i-aktiebolag/1312518"
+    },
+    {
+      "name": "Basic Technology I",
+      "code": "MX001T",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/basic-technology-i/6643010"
+    },
+    {
+      "name": "Berganläggningsteknik",
+      "code": "T0013B",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/berganlaggningsteknik/1312591"
+    },
+    {
+      "name": "Bergbyggnadsteknik II",
+      "code": "T0008B",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/bergbyggnadsteknik-ii/1312595"
+    },
+    {
+      "name": "Bergmekanik 2",
+      "code": "Q0028B",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/bergmekanik-2/1312603"
+    },
+    {
+      "name": "Bergmekanik I",
+      "code": "Q0038B",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/bergmekanik-i/1312602"
+    },
+    {
+      "name": "Bergmekanikens grunder",
+      "code": "T7001B",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/bergmekanikens-grunder/1312605"
+    },
+    {
+      "name": "Bergteknik 2",
+      "code": "Q0029B",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/bergteknik-2/1312607"
+    },
+    {
+      "name": "Bergteknik för tekniker",
+      "code": "Q0006B",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/bergteknik-for-tekniker/1312609"
+    },
+    {
+      "name": "Bergteknik I",
+      "code": "Q0026B",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/bergteknik-i/1312611"
+    },
+    {
+      "name": "Beskattningsrätt",
+      "code": "J0011N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/beskattningsratt/1312613"
+    },
+    {
+      "name": "Betongkonstruktioner",
+      "code": "K7002B",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/betongkonstruktioner/1312618"
+    },
+    {
+      "name": "Betongteknik",
+      "code": "K0004B",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/betongteknik/1312622"
+    },
+    {
+      "name": "Bild i skolan",
+      "code": "K0013S",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/bild-i-skolan/1312628"
+    },
+    {
+      "name": "Bild i skolan del 2",
+      "code": "K0001P",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/bild-i-skolan-del-2/1312638"
+    },
+    {
+      "name": "Bildbehandling med rymdtillämpningar",
+      "code": "R7011R",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/bildbehandling-med-rymdtillampningar/1312630"
+    },
+    {
+      "name": "Bilens system 1",
+      "code": "M0014T",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/bilens-system-1/1312634"
+    },
+    {
+      "name": "Biokompositer",
+      "code": "T7017T",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/biokompositer/1312639"
+    },
+    {
+      "name": "Biologi 1",
+      "code": "L0030K",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/biologi-1/1312641"
+    },
+    {
+      "name": "Biologisk psykologi",
+      "code": "P0066A",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/biologisk-psykologi/4817389"
+    },
+    {
+      "name": "Biomedicinska sensorer och analys",
+      "code": "C7001E",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/biomedicinska-sensorer-och-analys/1312645"
+    },
+    {
+      "name": "Bra talat och väl skrivet",
+      "code": "S0015S",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/bra-talat-och-val-skrivet/1312647"
+    },
+    {
+      "name": "Branddynamik I",
+      "code": "S0003B",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/branddynamik-i/4756608"
+    },
+    {
+      "name": "Branddynamik II",
+      "code": "S7002B",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/branddynamik-ii/4756612"
+    },
+    {
+      "name": "Brandtekniska beräkningar",
+      "code": "S0006B",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/brandtekniska-berakningar/4756609"
+    },
+    {
+      "name": "Brandutsatta konstruktionselement",
+      "code": "S0007B",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/brandutsatta-konstruktionselement/4767331"
+    },
+    {
+      "name": "Brottmekanik och utmattning",
+      "code": "M7012T",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/brottmekanik-och-utmattning/1312664"
+    },
+    {
+      "name": "Brytningsekonomi och riskvärdering",
+      "code": "T7011B",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/brytningsekonomi-och-riskvardering/1312666"
+    },
+    {
+      "name": "Brytningsmetoder",
+      "code": "T7008B",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/brytningsmetoder/1312670"
+    },
+    {
+      "name": "Bränslen förbrännings- och förgasningsteknik",
+      "code": "F7010T",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/branslen-forbrannings-och-forgasningsteknik/1312655"
+    },
+    {
+      "name": "Bränslen och förbränningsteknik",
+      "code": "W0016T",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/branslen-och-forbranningsteknik/4762621"
+    },
+    {
+      "name": "Business management and organisation",
+      "code": "E0006N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/business-management-and-organisation/2997265"
+    },
+    {
+      "name": "Business model development",
+      "code": "E0008N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/business-model-development/5919674"
+    },
+    {
+      "name": "Business-to-Business e-Commerce",
+      "code": "U7007N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/business-to-business-e-commerce/1312672"
+    },
+    {
+      "name": "Business-to-Business Marketing",
+      "code": "M0033N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/business-to-business-marketing/1312676"
+    },
+    {
+      "name": "Bygg och anläggning VFU",
+      "code": "Y0007B",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/bygg-och-anlaggning-vfu/1312692"
+    },
+    {
+      "name": "Bygg- och anläggningsproduktion",
+      "code": "P0001B",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/bygg-och-anlaggningsproduktion/1312723"
+    },
+    {
+      "name": "Bygg- och anläggningsprojektering",
+      "code": "P0009B",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/bygg-och-anlaggningsprojektering/5820496"
+    },
+    {
+      "name": "Byggkonstruktion",
+      "code": "K0013B",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/byggkonstruktion/1312682"
+    },
+    {
+      "name": "Byggkonstruktion brand",
+      "code": "S0010B",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/byggkonstruktion-brand/6743938"
+    },
+    {
+      "name": "Byggkonstruktion II",
+      "code": "K7004B",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/byggkonstruktion-ii/1312686"
+    },
+    {
+      "name": "Bygglogistik och inköp",
+      "code": "P7001B",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/bygglogistik-och-inkop/1312688"
+    },
+    {
+      "name": "Byggmaterial",
+      "code": "K0002B",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/byggmaterial/1312694"
+    },
+    {
+      "name": "Byggnadsfysik",
+      "code": "W0008B",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/byggnadsfysik/4762677"
+    },
+    {
+      "name": "Byggnadsmekanik I",
+      "code": "B7004B",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/byggnadsmekanik-i/1312700"
+    },
+    {
+      "name": "Byggnadsmekanik II",
+      "code": "B7003B",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/byggnadsmekanik-ii/1312702"
+    },
+    {
+      "name": "Byggnadsteknik",
+      "code": "K0011B",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/byggnadsteknik/1312705"
+    },
+    {
+      "name": "Byggprojektledning",
+      "code": "P0007B",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/byggprojektledning/1312718"
+    },
+    {
+      "name": "Byggstyrning- och ledning",
+      "code": "W7010B",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/byggstyrning-och-ledning/7277213"
+    },
+    {
+      "name": "Byggteknik",
+      "code": "W7007B",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/byggteknik/1312712"
+    },
+    {
+      "name": "C# och Windowsbaserad applikationsutveckling",
+      "code": "L0006B",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/c-och-windowsbaserad-applikationsutveckling/1312716"
+    },
+    {
+      "name": "CAD & VR",
+      "code": "W0007B",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/cad-vr/1312714"
+    },
+    {
+      "name": "CAD och visualiseringsgrunder",
+      "code": "Q0032B",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/cad-och-visualiseringsgrunder/1312720"
+    },
+    {
+      "name": "Cellulosa - och pappersteknik",
+      "code": "T7005K",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/cellulosa-och-pappersteknik/1312721"
+    },
+    {
+      "name": "Computer and network security",
+      "code": "D0029E",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/computer-and-network-security/7146898"
+    },
+    {
+      "name": "Computer Computer Vision and Image Processing",
+      "code": "R7020E",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/computer-computer-vision-and-image-processing/5727061"
+    },
+    {
+      "name": "Consumer Behavior",
+      "code": "U7063N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/consumer-behavior/1312736"
+    },
+    {
+      "name": "Corporate governance",
+      "code": "E7009N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/corporate-governance/6669468"
+    },
+    {
+      "name": "Corporate Social Responsibility CSR",
+      "code": "L0008N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/corporate-social-responsibility-csr/1312729"
+    },
+    {
+      "name": "Customer relationship management",
+      "code": "U7004N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/customer-relationship-management/1312734"
+    },
+    {
+      "name": "Dagvatten",
+      "code": "V7002B",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/dagvatten/1312745"
+    },
+    {
+      "name": "Damm I - Material och mekanik",
+      "code": "G0009B",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/damm-i-material-och-mekanik/1312743"
+    },
+    {
+      "name": "Damm II - dammar och dammsäkerhet",
+      "code": "G7004B",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/damm-ii-dammar-och-dammsakerhet/1312747"
+    },
+    {
+      "name": "Data Mining",
+      "code": "D0025E",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/data-mining/4819710"
+    },
+    {
+      "name": "Data och systemvetenskap examensarbete C/D",
+      "code": "D7008N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/data-och-systemvetenskap-examensarbete-cd/1312755"
+    },
+    {
+      "name": "Dataanalys för ingenjörer",
+      "code": "K0021N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/dataanalys-for-ingenjorer/7413751"
+    },
+    {
+      "name": "Databaser en introduktion",
+      "code": "L0003B",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/databaser-en-introduktion/1312773"
+    },
+    {
+      "name": "Databaser I",
+      "code": "D0004N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/databaser-i/1312761"
+    },
+    {
+      "name": "Databaser II",
+      "code": "D0005N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/databaser-ii/1312763"
+    },
+    {
+      "name": "Databasteknik",
+      "code": "D0018E",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/databasteknik/1312769"
+    },
+    {
+      "name": "Datakommunikation i informationssystem",
+      "code": "D0025N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/datakommunikation-i-informationssystem/1312775"
+    },
+    {
+      "name": "Datastrukturer och algoritmer",
+      "code": "D0041D",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/datastrukturer-och-algoritmer/1312767"
+    },
+    {
+      "name": "Datateknik och ingenjörsvetenskap",
+      "code": "D0015E",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/datateknik-och-ingenjorsvetenskap/1312779"
+    },
+    {
+      "name": "Datorkommunikation",
+      "code": "D0002E",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/datorkommunikation/1312781"
+    },
+    {
+      "name": "Datornätverk",
+      "code": "D0007E",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/datornatverk/1312777"
+    },
+    {
+      "name": "Datorspels- och VFX-produktion",
+      "code": "W0020F",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/datorspels-och-vfx-produktion/4806099"
+    },
+    {
+      "name": "Datorstödd konstruktion",
+      "code": "M0010T",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/datorstodd-konstruktion/1312791"
+    },
+    {
+      "name": "Datorstödd stadsplanering",
+      "code": "F7002B",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/datorstodd-stadsplanering/1312803"
+    },
+    {
+      "name": "Datorsystemadministration",
+      "code": "D0026D",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/datorsystemadministration/1312797"
+    },
+    {
+      "name": "Datorsäkerhet och drift",
+      "code": "D0004E",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/datorsakerhet-och-drift/1312801"
+    },
+    {
+      "name": "Deformation och brott",
+      "code": "T7001T",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/deformation-och-brott/1312813"
+    },
+    {
+      "name": "Deklarativa språk",
+      "code": "D7012E",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/deklarativa-sprak/1312799"
+    },
+    {
+      "name": "Demokrati utveckling och demokratisering",
+      "code": "S0031N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/demokrati-utveckling-och-demokratisering/1312809"
+    },
+    {
+      "name": "Design & Function",
+      "code": "F0020B",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/design-function/6861582"
+    },
+    {
+      "name": "Design av IT",
+      "code": "I0006N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/design-av-it/1312817"
+    },
+    {
+      "name": "Design för alla - tillgänglighet i utomhusmiljöer",
+      "code": "C0001B",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/design-for-alla-tillganglighet-i-utomhusmiljoer/1312820"
+    },
+    {
+      "name": "Design och utveckling av digitala arkiv",
+      "code": "B0001N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/design-och-utveckling-av-digitala-arkiv/1312822"
+    },
+    {
+      "name": "Design: process och metod",
+      "code": "D0030A",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/design-process-och-metod/5128400"
+    },
+    {
+      "name": "Design: teori och praktik",
+      "code": "D0037A",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/design-teori-och-praktik/4764303"
+    },
+    {
+      "name": "Designteori",
+      "code": "D0019A",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/designteori/1312830"
+    },
+    {
+      "name": "Detaljplanering",
+      "code": "F7016B",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/detaljplanering/6896710"
+    },
+    {
+      "name": "Differentialekvationer och transformteori",
+      "code": "M0052M",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/differentialekvationer-och-transformteori/4756119"
+    },
+    {
+      "name": "Differentialkalkyl",
+      "code": "M0029M",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/differentialkalkyl/1312847"
+    },
+    {
+      "name": "Digital Design",
+      "code": "W0023F",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/digital-design/4806096"
+    },
+    {
+      "name": "Digital ljudteknik",
+      "code": "s0023f",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/digital-ljudteknik/4755026"
+    },
+    {
+      "name": "Digital Painting och idégestaltning",
+      "code": "W0011F",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/digital-painting-och-idegestaltning/1312862"
+    },
+    {
+      "name": "Digitala fabriker",
+      "code": "T7013T",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/digitala-fabriker/1312872"
+    },
+    {
+      "name": "Digitalt bevarande",
+      "code": "B7007N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/digitalt-bevarande/1312853"
+    },
+    {
+      "name": "Digitalteknik",
+      "code": "D0011E",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/digitalteknik/1312855"
+    },
+    {
+      "name": "Dimensionering av bergkonstruktioner",
+      "code": "T7002B",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/dimensionering-av-bergkonstruktioner/1312858"
+    },
+    {
+      "name": "Direktsändning och distribution av ljud",
+      "code": "s0015f",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/direktsandning-och-distribution-av-ljud/4755025"
+    },
+    {
+      "name": "Diskret matematik",
+      "code": "M0009M",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/diskret-matematik/1312860"
+    },
+    {
+      "name": "Drift och underhåll",
+      "code": "D0002B",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/drift-och-underhall/1312909"
+    },
+    {
+      "name": "Drift och underhåll - Hydropower",
+      "code": "D0004B",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/drift-och-underhall-hydropower/1312868"
+    },
+    {
+      "name": "Drift och underhållsteknik",
+      "code": "D7004B",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/drift-och-underhallsteknik/1312876"
+    },
+    {
+      "name": "Dynamik i mekaniska system",
+      "code": "M7010T",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/dynamik-i-mekaniska-system/1312887"
+    },
+    {
+      "name": "e-Business Project Management",
+      "code": "U7026N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/e-business-project-management/1312885"
+    },
+    {
+      "name": "Effektivt ledarskap",
+      "code": "O0014N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/effektivt-ledarskap/1312889"
+    },
+    {
+      "name": "Ekologi och miljökunskap",
+      "code": "N0005P",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/ekologi-och-miljokunskap/1312895"
+    },
+    {
+      "name": "Ekologi och miljökunskap",
+      "code": "L0001K",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/ekologi-och-miljokunskap/4767327"
+    },
+    {
+      "name": "Ekonometri",
+      "code": "N0028N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/ekonometri/4767350"
+    },
+    {
+      "name": "Ekonomisk geologi",
+      "code": "Q0020B",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/ekonomisk-geologi/1312897"
+    },
+    {
+      "name": "Ekonomisk geologi",
+      "code": "O0038K",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/ekonomisk-geologi/6763285"
+    },
+    {
+      "name": "Ekonomistyrning",
+      "code": "U7023N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/ekonomistyrning/1312901"
+    },
+    {
+      "name": "Ekonomistyrning",
+      "code": "R0001N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/ekonomistyrning/2998038"
+    },
+    {
+      "name": "Elanläggning elsäkerhet",
+      "code": "W0011T",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/elanlaggning-elsakerhet/1312903"
+    },
+    {
+      "name": "Elanläggningsteknik, EMC och elkvalitet",
+      "code": "W0001M",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/elanlaggningsteknik-emc-och-elkvalitet/4767606"
+    },
+    {
+      "name": "Elektromagnetisk fältteori",
+      "code": "F0007T",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/elektromagnetisk-faltteori/1312915"
+    },
+    {
+      "name": "Elektromagnetisk fältteori och elektromekaniska system",
+      "code": "F0056T",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/elektromagnetisk-faltteori-och-elektromekaniska-system/4806159"
+    },
+    {
+      "name": "Elektronik",
+      "code": "E0007E",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/elektronik/4762942"
+    },
+    {
+      "name": "Elektronik II",
+      "code": "E7014E",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/elektronik-ii/4762941"
+    },
+    {
+      "name": "Elektronikkonstruktion med VHDL",
+      "code": "E0001R",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/elektronikkonstruktion-med-vhdl/1312911"
+    },
+    {
+      "name": "Elektronikproduktion",
+      "code": "E7022E",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/elektronikproduktion/4763949"
+    },
+    {
+      "name": "Elektroniksystem",
+      "code": "E7030E",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/elektroniksystem/4806161"
+    },
+    {
+      "name": "Elkretsteori",
+      "code": "E0003E",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/elkretsteori/2998383"
+    },
+    {
+      "name": "Energitekniska komponenter",
+      "code": "F0057T",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/energitekniska-komponenter/4544947"
+    },
+    {
+      "name": "Engelska A",
+      "code": "E0013S",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/engelska-a/1312939"
+    },
+    {
+      "name": "Engelska B",
+      "code": "E0012S",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/engelska-b/1312923"
+    },
+    {
+      "name": "Engelska C",
+      "code": "E0014S",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/engelska-c/1312935"
+    },
+    {
+      "name": "Engelska D",
+      "code": "E7001S",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/engelska-d/1312927"
+    },
+    {
+      "name": "Engelska för grundlärare 4-6 del 1",
+      "code": "U0004S",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/engelska-for-grundlarare-4-6-del-1/1312929"
+    },
+    {
+      "name": "Engelska för grundlärare F-3 del 1",
+      "code": "U0003S",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/engelska-for-grundlarare-f-3-del-1/1312931"
+    },
+    {
+      "name": "Enhetsoperationer",
+      "code": "B0004K",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/enhetsoperationer/1312947"
+    },
+    {
+      "name": "Enterprise Architecture och SOA",
+      "code": "D0031N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/enterprise-architecture-och-soa/1312961"
+    },
+    {
+      "name": "Entreprenöriellt lärande",
+      "code": "E0001N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/entreprenoriellt-larande/1312955"
+    },
+    {
+      "name": "Entreprenörskap för medie- och upplevelseindustrin",
+      "code": "Q0004F",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/entreprenorskap-for-medie-och-upplevelseindustrin/1312957"
+    },
+    {
+      "name": "Entreprenörskap och affärsplanering",
+      "code": "E0007N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/entreprenorskap-och-affarsplanering/6179954"
+    },
+    {
+      "name": "Ergonomi",
+      "code": "A0007A",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/ergonomi/1312977"
+    },
+    {
+      "name": "Ergonomi i rummet",
+      "code": "A0012A",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/ergonomi-i-rummet/1312981"
+    },
+    {
+      "name": "Ergonomisk design",
+      "code": "D7003A",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/ergonomisk-design/1312973"
+    },
+    {
+      "name": "Etik",
+      "code": "F0005S",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/etik/1312971"
+    },
+    {
+      "name": "Evidensbaserad metod",
+      "code": "S7015H",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/evidensbaserad-metod/1312995"
+    },
+    {
+      "name": "Examensarbete Civilekonom - Nationalekonomi",
+      "code": "N7007N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/examensarbete-civilekonom-nationalekonomi/1312987"
+    },
+    {
+      "name": "Examensarbete Datateknik",
+      "code": "X0001E",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/examensarbete-datateknik/6408607"
+    },
+    {
+      "name": "Examensarbete i Arkitektur inriktning Husbyggnad civilingenjör",
+      "code": "X7005B",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/examensarbete-i-arkitektur-inriktning-husbyggnad-civilingenjor/1313005"
+    },
+    {
+      "name": "Examensarbete i företagsekonomi inriktning internationell affärsverksamhet kandidat",
+      "code": "M0031N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/examensarbete-i-foretagsekonomi-inriktning-internationell-affarsverksamhet-kandidat/1313013"
+    },
+    {
+      "name": "Examensarbete i företagsekonomi specialisering redovisning och styrning kandidat",
+      "code": "R0021N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/examensarbete-i-foretagsekonomi-specialisering-redovisning-och-styrning-kandidat/1313015"
+    },
+    {
+      "name": "Examensarbete i nationalekonomi kandidat",
+      "code": "N0034N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/examensarbete-i-nationalekonomi-kandidat/1313032"
+    },
+    {
+      "name": "Examensarbete i statsvetenskap kandidat",
+      "code": "S0035N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/examensarbete-i-statsvetenskap-kandidat/1313048"
+    },
+    {
+      "name": "Examensarbete i teknisk design produktdesign högskoleingenjör",
+      "code": "D0023A",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/examensarbete-i-teknisk-design-produktdesign-hogskoleingenjor/1313052"
+    },
+    {
+      "name": "Examensarbete i teknisk design produktionsdesign civilingenjör",
+      "code": "A7009A",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/examensarbete-i-teknisk-design-produktionsdesign-civilingenjor/1313042"
+    },
+    {
+      "name": "Examensarbete i teknisk design produktionsdesign högskoleingenjör",
+      "code": "A0014A",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/examensarbete-i-teknisk-design-produktionsdesign-hogskoleingenjor/1313044"
+    },
+    {
+      "name": "Examensarbete i Väg- och vattenbyggnad inriktning Byggande civilingenjör",
+      "code": "X7006B",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/examensarbete-i-vag-och-vattenbyggnad-inriktning-byggande-civilingenjor/1313116"
+    },
+    {
+      "name": "Examensarbete nationalekonomi kandidat",
+      "code": "N0003N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/examensarbete-nationalekonomi-kandidat/1313082"
+    },
+    {
+      "name": "Examensarbete Samhällsbyggnad",
+      "code": "Y0009B",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/examensarbete-samhallsbyggnad/1313094"
+    },
+    {
+      "name": "Examensarbete statsvetenskap kandidat",
+      "code": "S0003N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/examensarbete-statsvetenskap-kandidat/1313100"
+    },
+    {
+      "name": "Experimentell akustik och dynamik",
+      "code": "L7001A",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/experimentell-akustik-och-dynamik/1313112"
+    },
+    {
+      "name": "Experimentella metoder",
+      "code": "F0033T",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/experimentella-metoder/1313118"
+    },
+    {
+      "name": "Familjerätt",
+      "code": "J0025N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/familjeratt/1313138"
+    },
+    {
+      "name": "Farmakologi och biomedicin",
+      "code": "M0124H",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/farmakologi-och-biomedicin/7382855"
+    },
+    {
+      "name": "Farmakologi, Läkemedelsberäkning och fördjupad anatomi",
+      "code": "M0052H",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/farmakologi-lakemedelsberakning-och-fordjupad-anatomi/4763946"
+    },
+    {
+      "name": "Fasomvandlingar",
+      "code": "T7008T",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/fasomvandlingar/1313122"
+    },
+    {
+      "name": "Fasta tillståndets fysik",
+      "code": "F7006T",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/fasta-tillstandets-fysik/1313127"
+    },
+    {
+      "name": "Fasta tillståndets fysik",
+      "code": "F7045T",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/fasta-tillstandets-fysik/2998388"
+    },
+    {
+      "name": "Fasta tillståndets fysik med kvantmekanik",
+      "code": "F0019T",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/fasta-tillstandets-fysik-med-kvantmekanik/1313124"
+    },
+    {
+      "name": "Fasta tillståndets fysik med kvantmekanik",
+      "code": "F0053T",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/fasta-tillstandets-fysik-med-kvantmekanik/4762583"
+    },
+    {
+      "name": "Fastighetsförmedling 1",
+      "code": "J0039N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/fastighetsformedling-1/1313126"
+    },
+    {
+      "name": "Fastighetsförmedling 2 inklusive självständigt arbete",
+      "code": "G0005N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/fastighetsformedling-2-inklusive-sjalvstandigt-arbete/1313129"
+    },
+    {
+      "name": "Fastighetsrätt",
+      "code": "J0036N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/fastighetsratt/1313134"
+    },
+    {
+      "name": "Fastighetsrätt för mäklare",
+      "code": "J0038N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/fastighetsratt-for-maklare/1313142"
+    },
+    {
+      "name": "Fastighetsvärdering",
+      "code": "R0018N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/fastighetsvardering/1313136"
+    },
+    {
+      "name": "FEK DII Examensarbete Organisation och managementinr.",
+      "code": "O7006N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/fek-dii-examensarbete-organisation-och-managementinr/1313148"
+    },
+    {
+      "name": "FEM för tillämpad modellering och simulering",
+      "code": "M0031T",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/fem-for-tillampad-modellering-och-simulering/4806150"
+    },
+    {
+      "name": "Filmdesign",
+      "code": "WOO24F",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/filmdesign/4806095"
+    },
+    {
+      "name": "Filosofi 3",
+      "code": "F0018S",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/filosofi-3/1313149"
+    },
+    {
+      "name": "Filosofi A",
+      "code": "F0009S",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/filosofi-a/1313178"
+    },
+    {
+      "name": "Filosofi B",
+      "code": "F0010S",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/filosofi-b/1313157"
+    },
+    {
+      "name": "Filosofins historia",
+      "code": "F0002S",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/filosofins-historia/1313153"
+    },
+    {
+      "name": "Filosofiska frågor",
+      "code": "F0001S",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/filosofiska-fragor/1313151"
+    },
+    {
+      "name": "Filosofiska frågor i vardag och vetenskap",
+      "code": "F0028S",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/filosofiska-fragor-i-vardag-och-vetenskap/1313165"
+    },
+    {
+      "name": "Financial Management",
+      "code": "U7059N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/financial-management/1313159"
+    },
+    {
+      "name": "Finansiell analys och värdering",
+      "code": "R0027N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/finansiell-analys-och-vardering/5165409"
+    },
+    {
+      "name": "Finansiell bedömning",
+      "code": "R0012N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/finansiell-bedomning/1313161"
+    },
+    {
+      "name": "Finansiell Ekonomi",
+      "code": "N0038N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/finansiell-ekonomi/5131435"
+    },
+    {
+      "name": "Finansiell ekonomi 2",
+      "code": "N0042N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/finansiell-ekonomi-2/7095580"
+    },
+    {
+      "name": "Finansiell Ekonomi, introduktion",
+      "code": "N0022N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/finansiell-ekonomi-introduktion/3040944"
+    },
+    {
+      "name": "Fingerstylegitarr II B",
+      "code": "D0054G",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/fingerstylegitarr-ii-b/1313169"
+    },
+    {
+      "name": "Finita elementmetoden",
+      "code": "K7014B",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/finita-elementmetoden/4764298"
+    },
+    {
+      "name": "Finska A I för nybörjare",
+      "code": "L0018S",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/finska-a-i-for-nyborjare/1313175"
+    },
+    {
+      "name": "Fjärranalys",
+      "code": "R7012R",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/fjarranalys/1313173"
+    },
+    {
+      "name": "Flervariabelanalys",
+      "code": "M0055M",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/flervariabelanalys/5340560"
+    },
+    {
+      "name": "Flervariabelanalys och datorverktyg",
+      "code": "M0032M",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/flervariabelanalys-och-datorverktyg/1313171"
+    },
+    {
+      "name": "Folk och Europarätt",
+      "code": "J0044N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/folk-och-europaratt/3059399"
+    },
+    {
+      "name": "Food and Beverage Management",
+      "code": "U7052N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/food-and-beverage-management/1313184"
+    },
+    {
+      "name": "Fordonsdynamik",
+      "code": "M0019T",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/fordonsdynamik/1313192"
+    },
+    {
+      "name": "Forskningsmetoder för informationssystem",
+      "code": "D0023E",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/forskningsmetoder-for-informationssystem/4848995"
+    },
+    {
+      "name": "Framtidens intelligenta teknik - Hjärnan & neurala nätverk",
+      "code": "P0012A",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/framtidens-intelligenta-teknik-hjarnan-neurala-natverk/1313232"
+    },
+    {
+      "name": "Franska Baskurs 1",
+      "code": "L0014S",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/franska-baskurs-1/1313253"
+    },
+    {
+      "name": "Franska för nybörjare 1",
+      "code": "L0005S",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/franska-for-nyborjare-1/1313257"
+    },
+    {
+      "name": "Franska för nybörjare 2",
+      "code": "L0028S",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/franska-for-nyborjare-2/1313258"
+    },
+    {
+      "name": "Franska förberedelsekurs Luleå",
+      "code": "L0024S",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/franska-forberedelsekurs-lulea/1313264"
+    },
+    {
+      "name": "Funktion form och gestaltning",
+      "code": "D0013A",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/funktion-form-och-gestaltning/1313274"
+    },
+    {
+      "name": "Fysik 1",
+      "code": "F0004T",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/fysik-1/1313299"
+    },
+    {
+      "name": "Fysik 2",
+      "code": "F0005T",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/fysik-2/1313278"
+    },
+    {
+      "name": "Fysik 3",
+      "code": "F0006T",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/fysik-3/1313291"
+    },
+    {
+      "name": "Fysik G1, gymnasiekomplettering",
+      "code": "FX003T",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/fysik-g1-gymnasiekomplettering/4816889"
+    },
+    {
+      "name": "Fysik G2, gymnasiekomplettering",
+      "code": "FX004T",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/fysik-g2-gymnasiekomplettering/4816885"
+    },
+    {
+      "name": "Fysik och ellära",
+      "code": "W0012T",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/fysik-och-ellara/4764294"
+    },
+    {
+      "name": "Fysik och lärande",
+      "code": "F7049T",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/fysik-och-larande/4762584"
+    },
+    {
+      "name": "Fysikalisk kemi",
+      "code": "K0010K",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/fysikalisk-kemi/1313286"
+    },
+    {
+      "name": "Fysikalisk kemi för EEIGM",
+      "code": "K0007K",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/fysikalisk-kemi-for-eeigm/1313289"
+    },
+    {
+      "name": "Fysikens algebraiska metoder",
+      "code": "M7022M",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/fysikens-algebraiska-metoder/1313293"
+    },
+    {
+      "name": "Fysioterapi: Hälsofrämjande arbetssätt",
+      "code": "S0084H",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/fysioterapi-halsoframjande-arbetssatt/3412872"
+    },
+    {
+      "name": "Fysioterapi: Ämne profession och rörelse",
+      "code": "S0083H",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/fysioterapi-amne-profession-och-rorelse/3412723"
+    },
+    {
+      "name": "Förbränningsmotorteknik",
+      "code": "F7020T",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/forbranningsmotorteknik/1313194"
+    },
+    {
+      "name": "Företaget och miljökraven",
+      "code": "L0007N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/foretaget-och-miljokraven/1313188"
+    },
+    {
+      "name": "Företagsanalys",
+      "code": "R0007N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/foretagsanalys/1313189"
+    },
+    {
+      "name": "Företagsekonomisk data och analys",
+      "code": "G0013N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/foretagsekonomisk-data-och-analys/4883472"
+    },
+    {
+      "name": "Förhandlingar och affärssamtal",
+      "code": "M7021N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/forhandlingar-och-affarssamtal/1313202"
+    },
+    {
+      "name": "Förskolan, skolan och samhället: förr och nu",
+      "code": "H0045N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/forskolan-skolan-och-samhallet-forr-och-nu/4806155"
+    },
+    {
+      "name": "Försäljning och etik",
+      "code": "M0010N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/forsaljning-och-etik/1313208"
+    },
+    {
+      "name": "Försöksplanering",
+      "code": "K7003N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/forsoksplanering/1313220"
+    },
+    {
+      "name": "Förvaltning av digitala arkiv",
+      "code": "B7002N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/forvaltning-av-digitala-arkiv/1313222"
+    },
+    {
+      "name": "Förvaltningsrätt",
+      "code": "J0049N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/forvaltningsratt/4542940"
+    },
+    {
+      "name": "Gemmologi fördjupning",
+      "code": "O0029K",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/gemmologi-fordjupning/1313303"
+    },
+    {
+      "name": "Genus litteratur och medier",
+      "code": "S0050S",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/genus-litteratur-och-medier/1313340"
+    },
+    {
+      "name": "Genusperspektiv på teknik och ingenjörvetenskap",
+      "code": "G0008A",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/genusperspektiv-pa-teknik-och-ingenjorvetenskap/1313307"
+    },
+    {
+      "name": "Geochemical Modelling",
+      "code": "L7013K",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/geochemical-modelling/7560686"
+    },
+    {
+      "name": "Geofysik för prospektering och miljöundersökning",
+      "code": "O7007K",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/geofysik-for-prospektering-och-miljoundersokning/1313313"
+    },
+    {
+      "name": "Geografisk analys",
+      "code": "L0010B",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/geografisk-analys/1313319"
+    },
+    {
+      "name": "Geografisk databasteknik",
+      "code": "L0009B",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/geografisk-databasteknik/1313328"
+    },
+    {
+      "name": "Geografisk informationsteknik",
+      "code": "L0020B",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/geografisk-informationsteknik/1313317"
+    },
+    {
+      "name": "Geografiska positioneringssystem",
+      "code": "L0013B",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/geografiska-positioneringssystem/1313321"
+    },
+    {
+      "name": "Geohydrologi",
+      "code": "L7019K",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/geohydrologi/1313323"
+    },
+    {
+      "name": "Geohydrology",
+      "code": "G7012B",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/geohydrology/4820397"
+    },
+    {
+      "name": "Geokemisk modellering",
+      "code": "L7013K",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/geokemisk-modellering/1313324"
+    },
+    {
+      "name": "Geokemisk prospektering",
+      "code": "L7017K",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/geokemisk-prospektering/1313326"
+    },
+    {
+      "name": "Geologi",
+      "code": "Q0007B",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/geologi/1313335"
+    },
+    {
+      "name": "Geologi grundkurs",
+      "code": "O0035K",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/geologi-grundkurs/1313333"
+    },
+    {
+      "name": "Geoteknik",
+      "code": "Q0042B",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/geoteknik/1313342"
+    },
+    {
+      "name": "Geoteknik fk",
+      "code": "G7008B",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/geoteknik-fk/1313338"
+    },
+    {
+      "name": "Geoteknik för tekniker",
+      "code": "Q0044B",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/geoteknik-for-tekniker/1313347"
+    },
+    {
+      "name": "Geoteknik gk",
+      "code": "G0003B",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/geoteknik-gk/1313344"
+    },
+    {
+      "name": "Geoteknologi baskurs",
+      "code": "G0013B",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/geoteknologi-baskurs/1313358"
+    },
+    {
+      "name": "Gestaltande ljud",
+      "code": "R0018F",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/gestaltande-ljud/1313353"
+    },
+    {
+      "name": "GIS i geovetenskap",
+      "code": "O7021K",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/gis-i-geovetenskap/1313351"
+    },
+    {
+      "name": "Gitarr 1 jazz- och rockinriktning",
+      "code": "D0114G",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/gitarr-1-jazz-och-rockinriktning/1313357"
+    },
+    {
+      "name": "Gitarr 1 klassisk inriktning",
+      "code": "F0190G",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/gitarr-1-klassisk-inriktning/1313355"
+    },
+    {
+      "name": "Global Business Management",
+      "code": "M7033N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/global-business-management/1313372"
+    },
+    {
+      "name": "Global Environmental Regimes",
+      "code": "S0046N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/global-environmental-regimes/7349653"
+    },
+    {
+      "name": "Grafikprogrammering och algoritmer",
+      "code": "S0008E",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/grafikprogrammering-och-algoritmer/4806106"
+    },
+    {
+      "name": "Grafisk formgivning",
+      "code": "D0018A",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/grafisk-formgivning/1313386"
+    },
+    {
+      "name": "Grafiska användargränssnitt",
+      "code": "D0026A",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/grafiska-anvandargranssnitt/4550890"
+    },
+    {
+      "name": "Grundkurs i elektroteknik",
+      "code": "E0013E",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/grundkurs-i-elektroteknik/2998041"
+    },
+    {
+      "name": "Grundkurs i elkraftteknik",
+      "code": "W0004T",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/grundkurs-i-elkraftteknik/2998043"
+    },
+    {
+      "name": "Grundkurs i geologi och mineralogi",
+      "code": "O0016K",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/grundkurs-i-geologi-och-mineralogi/1313395"
+    },
+    {
+      "name": "Grundkurs i projekt- och industriell ekonomi",
+      "code": "R0005N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/grundkurs-i-projekt-och-industriell-ekonomi/1313399"
+    },
+    {
+      "name": "Grundkurs industriell ekonomi",
+      "code": "R0002N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/grundkurs-industriell-ekonomi/1313401"
+    },
+    {
+      "name": "Grundkurs kemi",
+      "code": "Q0041B",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/grundkurs-kemi/1313391"
+    },
+    {
+      "name": "Grundkurs musik 1",
+      "code": "U0037G",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/grundkurs-musik-1/4806101"
+    },
+    {
+      "name": "Grundläggande inköpsteknik (distans)",
+      "code": "IEG100",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/grundlaggande-inkopsteknik-distans/5270967"
+    },
+    {
+      "name": "Grundläggande medicinsk vetenskap",
+      "code": "M0094H",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/grundlaggande-medicinsk-vetenskap/3243306"
+    },
+    {
+      "name": "Grundläggande reglerteknik",
+      "code": "R0001E",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/grundlaggande-reglerteknik/1313415"
+    },
+    {
+      "name": "Grundläggande sociologisk metod",
+      "code": "S0047A",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/grundlaggande-sociologisk-metod/4820206"
+    },
+    {
+      "name": "Grundläggande sociologisk teori",
+      "code": "S0015A",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/grundlaggande-sociologisk-teori/1313407"
+    },
+    {
+      "name": "Grundläggande Statistik",
+      "code": "S0009M",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/grundlaggande-statistik/5046877"
+    },
+    {
+      "name": "Grundläggande vetenskapsteori för sociologi",
+      "code": "S0046A",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/grundlaggande-vetenskapsteori-for-sociologi/4820205"
+    },
+    {
+      "name": "Grupp och lagarbete",
+      "code": "S0008A",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/grupp-och-lagarbete/1313405"
+    },
+    {
+      "name": "Grupper och individer i arbetslivet",
+      "code": "S0028A",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/grupper-och-individer-i-arbetslivet/1313411"
+    },
+    {
+      "name": "Gruvautomation",
+      "code": "D7001B",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/gruvautomation/1313413"
+    },
+    {
+      "name": "Gruvavfall",
+      "code": "L7016K",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/gruvavfall/1313416"
+    },
+    {
+      "name": "Gruvgeologi",
+      "code": "o7022k",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/gruvgeologi/4755984"
+    },
+    {
+      "name": "Handelsrätt I",
+      "code": "J0006N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/handelsratt-i/1313455"
+    },
+    {
+      "name": "Handelsrätt II",
+      "code": "J0007N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/handelsratt-ii/1313457"
+    },
+    {
+      "name": "Historia - Baskurs för Lärare",
+      "code": "H0003N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/historia-baskurs-for-larare/1313465"
+    },
+    {
+      "name": "Historia A Från bonde- till tjänstesamhälle: Svensk social och ekonomisk historia",
+      "code": "H0025N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/historia-a-fran-bonde-till-tjanstesamhalle-svensk-social-och-ekonomisk-historia/1313467"
+    },
+    {
+      "name": "Historia A Kulturmöten i samverkan och konflikt: Världen fram till 1700",
+      "code": "H0019N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/historia-a-kulturmoten-i-samverkan-och-konflikt-varlden-fram-till-1700/1313474"
+    },
+    {
+      "name": "Historia A Revolutionernas tidevarv: Världen efter 1700",
+      "code": "H0021N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/historia-a-revolutionernas-tidevarv-varlden-efter-1700/1313470"
+    },
+    {
+      "name": "Historia A Världens historia",
+      "code": "H0020N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/historia-a-varldens-historia/1313490"
+    },
+    {
+      "name": "Historia A:1",
+      "code": "H0005N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/historia-a1/1313472"
+    },
+    {
+      "name": "Historia B Historiografi och arkivkunskap",
+      "code": "H0026N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/historia-b-historiografi-och-arkivkunskap/1313480"
+    },
+    {
+      "name": "Historia B Teknik och industrihistoria",
+      "code": "H0023N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/historia-b-teknik-och-industrihistoria/1313482"
+    },
+    {
+      "name": "Historia C",
+      "code": "H0010N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/historia-c/1313512"
+    },
+    {
+      "name": "Historia D",
+      "code": "H7001N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/historia-d/1313486"
+    },
+    {
+      "name": "Historia D:I",
+      "code": "H7002N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/historia-di/1313488"
+    },
+    {
+      "name": "Human Resource Management",
+      "code": "U7031N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/human-resource-management/1313506"
+    },
+    {
+      "name": "Human Resources Management",
+      "code": "U7018N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/human-resources-management/1313508"
+    },
+    {
+      "name": "Hydraulik",
+      "code": "M0013T",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/hydraulik/1313510"
+    },
+    {
+      "name": "Hydraulik och geologi",
+      "code": "V0014B",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/hydraulik-och-geologi/4806100"
+    },
+    {
+      "name": "Hydrogeochemistry",
+      "code": "L7027K",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/hydrogeochemistry/7525914"
+    },
+    {
+      "name": "Hydromekanik",
+      "code": "F0031T",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/hydromekanik/1313522"
+    },
+    {
+      "name": "Hälsa hos äldre",
+      "code": "O0073H",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/halsa-hos-aldre/1313430"
+    },
+    {
+      "name": "Hälsofrämjande vård och omvårdnad",
+      "code": "O0093H",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/halsoframjande-vard-och-omvardnad/3730068"
+    },
+    {
+      "name": "Hälsopromotion fysisk aktivitet och kost",
+      "code": "S0023H",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/halsopromotion-fysisk-aktivitet-och-kost/1313440"
+    },
+    {
+      "name": "Hälsopromotion: Vetenskaplig teori och metod",
+      "code": "H0001H",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/halsopromotion-vetenskaplig-teori-och-metod/1313447"
+    },
+    {
+      "name": "Hållbar utveckling",
+      "code": "L0010N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/hallbar-utveckling/1313428"
+    },
+    {
+      "name": "Hållbara energisystem",
+      "code": "F0040T",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/hallbara-energisystem/1313449"
+    },
+    {
+      "name": "Hållbart byggande",
+      "code": "V0015B",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/hallbart-byggande/1313426"
+    },
+    {
+      "name": "Hållbart företagande",
+      "code": "G7002N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/hallbart-foretagande/6662759"
+    },
+    {
+      "name": "Hållfasthetslära A",
+      "code": "M0011T",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/hallfasthetslara-a/1313434"
+    },
+    {
+      "name": "Högtemperaturmaterial",
+      "code": "P7006K",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/hogtemperaturmaterial/1313494"
+    },
+    {
+      "name": "IDE-utvecklarna: Innovation Driv och Entreprenörskap",
+      "code": "M0027T",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/ide-utvecklarna-innovation-driv-och-entreprenorskap/1313542"
+    },
+    {
+      "name": "Idehistoria",
+      "code": "P0018A",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/idehistoria/1313526"
+    },
+    {
+      "name": "Identitet i det moderna samhället",
+      "code": "S0040A",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/identitet-i-det-moderna-samhallet/1313520"
+    },
+    {
+      "name": "Implementation av geografiska informationssystem",
+      "code": "L0012B",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/implementation-av-geografiska-informationssystem/1313524"
+    },
+    {
+      "name": "Industrial logistics",
+      "code": "K0020N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/industrial-logistics/6182402"
+    },
+    {
+      "name": "Industrial Marketing",
+      "code": "M0037N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/industrial-marketing/5799587"
+    },
+    {
+      "name": "Industrial Organisation",
+      "code": "E0009N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/industrial-organisation/5825753"
+    },
+    {
+      "name": "Industriell automation",
+      "code": "R7008E",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/industriell-automation/1313536"
+    },
+    {
+      "name": "Industriell ekonomi med ett hållbarhetsperspektiv",
+      "code": "G0010N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/industriell-ekonomi-med-ett-hallbarhetsperspektiv/4408209"
+    },
+    {
+      "name": "Industriell ekonomistyrning och finansiering",
+      "code": "R0028N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/industriell-ekonomistyrning-och-finansiering/5469149"
+    },
+    {
+      "name": "Industriell logistik fördjupningskurs",
+      "code": "T7001N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/industriell-logistik-fordjupningskurs/1313540"
+    },
+    {
+      "name": "Industriell miljö- och processteknik",
+      "code": "P0003K",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/industriell-miljo-och-processteknik/1313552"
+    },
+    {
+      "name": "Industriell Organisation",
+      "code": "E0009N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/industriell-organisation/5935085"
+    },
+    {
+      "name": "Industriell organisation II",
+      "code": "N7002N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/industriell-organisation-ii/1313544"
+    },
+    {
+      "name": "Industriell produktionsmiljö",
+      "code": "A0011A",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/industriell-produktionsmiljo/1313546"
+    },
+    {
+      "name": "Industriella marknader och nätverk",
+      "code": "M7020N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/industriella-marknader-och-natverk/1313558"
+    },
+    {
+      "name": "Industriellt byggande",
+      "code": "W7004B",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/industriellt-byggande/1313562"
+    },
+    {
+      "name": "Industriplanering",
+      "code": "A7010A",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/industriplanering/1313554"
+    },
+    {
+      "name": "Infodringsmaterial och slagger",
+      "code": "Q0034B",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/infodringsmaterial-och-slagger/1313568"
+    },
+    {
+      "name": "Information management and modelling",
+      "code": "I0003E",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/information-management-and-modelling/4914089"
+    },
+    {
+      "name": "Informationssäkerhet",
+      "code": "A0004N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/informationssakerhet/1313567"
+    },
+    {
+      "name": "Ingenjörens datorverktyg",
+      "code": "K0001B",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/ingenjorens-datorverktyg/1313575"
+    },
+    {
+      "name": "Ingenjörskonst",
+      "code": "M0009T",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/ingenjorskonst/1313576"
+    },
+    {
+      "name": "Ingenjörsvetenskap",
+      "code": "F0051T",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/ingenjorsvetenskap/2998381"
+    },
+    {
+      "name": "Inköp",
+      "code": "T7006N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/inkop/1313571"
+    },
+    {
+      "name": "Inledande extern redovisning",
+      "code": "R0008N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/inledande-extern-redovisning/1313573"
+    },
+    {
+      "name": "Inledande programmering i Java",
+      "code": "D0017D",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/inledande-programmering-i-java/1313589"
+    },
+    {
+      "name": "Innovation genus och hållbar utveckling",
+      "code": "G0006A",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/innovation-genus-och-hallbar-utveckling/1313591"
+    },
+    {
+      "name": "innovation och strategisk affärsutveckling",
+      "code": "E7006N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/innovation-och-strategisk-affarsutveckling/5310849"
+    },
+    {
+      "name": "Innovationsledning",
+      "code": "E7005N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/innovationsledning/4337570"
+    },
+    {
+      "name": "Inre och yttre miljö",
+      "code": "Q0033B",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/inre-och-yttre-miljo/1313578"
+    },
+    {
+      "name": "Integraler, vektorer och matriser",
+      "code": "M0051M",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/integraler-vektorer-och-matriser/4756118"
+    },
+    {
+      "name": "Integrationskurs Företagsekonomi",
+      "code": "O0008N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/integrationskurs-foretagsekonomi/1313593"
+    },
+    {
+      "name": "Integrationskurs: Globalisering",
+      "code": "P7001N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/integrationskurs-globalisering/4762597"
+    },
+    {
+      "name": "Integrationsprojekt",
+      "code": "G0008N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/integrationsprojekt/2998039"
+    },
+    {
+      "name": "Interaktion och Mobilitet",
+      "code": "I0012N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/interaktion-och-mobilitet/1313605"
+    },
+    {
+      "name": "Interaktionsdesign",
+      "code": "D7015A",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/interaktionsdesign/1313599"
+    },
+    {
+      "name": "International Marketing",
+      "code": "U7013N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/international-marketing/1313603"
+    },
+    {
+      "name": "Internationell affärsmiljö",
+      "code": "M0022N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/internationell-affarsmiljo/1313613"
+    },
+    {
+      "name": "Internationell finansiell management",
+      "code": "R7011N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/internationell-finansiell-management/1313609"
+    },
+    {
+      "name": "Internationell Marketing Management",
+      "code": "M7015N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/internationell-marketing-management/1313607"
+    },
+    {
+      "name": "Internationell marknadsföring",
+      "code": "M0014N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/internationell-marknadsforing/1313611"
+    },
+    {
+      "name": "Internationell marknadsföring och export",
+      "code": "M0028N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/internationell-marknadsforing-och-export/1313615"
+    },
+    {
+      "name": "Internationell redovisning",
+      "code": "R0025N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/internationell-redovisning/3059383"
+    },
+    {
+      "name": "Internationell tjänstemarknadsföring",
+      "code": "M7029N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/internationell-tjanstemarknadsforing/1313622"
+    },
+    {
+      "name": "Internationella relationer",
+      "code": "S0034N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/internationella-relationer/4762598"
+    },
+    {
+      "name": "Internetsäkerhet",
+      "code": "A7011N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/internetsakerhet/1313630"
+    },
+    {
+      "name": "Introduction to Artificial Intelligence",
+      "code": "D0030E",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/introduction-to-artificial-intelligence/5167276"
+    },
+    {
+      "name": "Introduction to Computer Game Creation",
+      "code": "W0017F",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/introduction-to-computer-game-creation/7463575"
+    },
+    {
+      "name": "Introduktion till artificiell intelligens",
+      "code": "D0032E",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/introduktion-till-artificiell-intelligens/7151991"
+    },
+    {
+      "name": "Introduktion till bergmekanik",
+      "code": "T0014B",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/introduktion-till-bergmekanik/1313649"
+    },
+    {
+      "name": "Introduktion till datorspelsskapande",
+      "code": "W0017F",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/introduktion-till-datorspelsskapande/1313639"
+    },
+    {
+      "name": "Introduktion till drift- och underhållsteknik - grundbegrepp",
+      "code": "D0011B",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/introduktion-till-drift-och-underhallsteknik-grundbegrepp/1313664"
+    },
+    {
+      "name": "Introduktion till FEM",
+      "code": "B7002B",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/introduktion-till-fem/1313641"
+    },
+    {
+      "name": "Introduktion till högtemperaturprocesser",
+      "code": "Q0046B",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/introduktion-till-hogtemperaturprocesser/1313643"
+    },
+    {
+      "name": "Introduktion till informatik och digital tjänstedesign",
+      "code": "I0016N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/introduktion-till-informatik-och-digital-tjanstedesign/1313645"
+    },
+    {
+      "name": "Introduktion till instrument J/R",
+      "code": "D0014G",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/introduktion-till-instrument-jr/1313647"
+    },
+    {
+      "name": "Introduktion till jazz-/rockmusiker I",
+      "code": "D0112G",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/introduktion-till-jazz-rockmusiker-i/1313661"
+    },
+    {
+      "name": "Introduktion till Lean",
+      "code": "K0014N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/introduktion-till-lean/1313659"
+    },
+    {
+      "name": "Introduktion till programmering",
+      "code": "D0009E",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/introduktion-till-programmering/1313666"
+    },
+    {
+      "name": "Introduktion till programmering för ingenjörer",
+      "code": "D0017E",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/introduktion-till-programmering-for-ingenjorer/1313682"
+    },
+    {
+      "name": "Introduktion till programmering och C#",
+      "code": "L0002B",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/introduktion-till-programmering-och-c/1313674"
+    },
+    {
+      "name": "Introduktion till psykologi",
+      "code": "P0071A",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/introduktion-till-psykologi/5125880"
+    },
+    {
+      "name": "Introduktion till rymdteknik",
+      "code": "R0006R",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/introduktion-till-rymdteknik/1313670"
+    },
+    {
+      "name": "Introduktion till UX/UI",
+      "code": "LTU-40561",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/introduktion-till-uxui/7526005"
+    },
+    {
+      "name": "Introduktionskurs i samhällsekonomi",
+      "code": "N0031N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/introduktionskurs-i-samhallsekonomi/1313672"
+    },
+    {
+      "name": "Isotopgeokemi",
+      "code": "L7020K",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/isotopgeokemi/1313680"
+    },
+    {
+      "name": "Isotopgeologi",
+      "code": "O7025K",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/isotopgeologi/7375284"
+    },
+    {
+      "name": "IT's roll i samhället",
+      "code": "I0011N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/its-roll-i-samhallet/1313688"
+    },
+    {
+      "name": "IT-design från ett systemperspektiv",
+      "code": "I0005N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/it-design-fran-ett-systemperspektiv/1313684"
+    },
+    {
+      "name": "IT-projekt",
+      "code": "D0021N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/it-projekt/1313696"
+    },
+    {
+      "name": "Jag som varumärke",
+      "code": "M0029N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/jag-som-varumarke/1313692"
+    },
+    {
+      "name": "Japanska 1",
+      "code": "L0013S",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/japanska-1/1313690"
+    },
+    {
+      "name": "Japanska 2",
+      "code": "L0015S",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/japanska-2/1313704"
+    },
+    {
+      "name": "Japanska 3",
+      "code": "L0036S",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/japanska-3/1313712"
+    },
+    {
+      "name": "Journalistiskt skrivande",
+      "code": "N0009F",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/journalistiskt-skrivande/1313698"
+    },
+    {
+      "name": "Juridik För Ingenjörer",
+      "code": "J0051N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/juridik-for-ingenjorer/5907357"
+    },
+    {
+      "name": "Juridik för producenter",
+      "code": "Q0005F",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/juridik-for-producenter/1313724"
+    },
+    {
+      "name": "Juridik i samhällsbyggnadsprocessen",
+      "code": "J0052N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/juridik-i-samhallsbyggnadsprocessen/7071328"
+    },
+    {
+      "name": "Juridisk introduktionskurs",
+      "code": "J0046N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/juridisk-introduktionskurs/2998389"
+    },
+    {
+      "name": "Juridisk introduktionskurs för rättsvetare",
+      "code": "J0053N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/juridisk-introduktionskurs-for-rattsvetare/7193700"
+    },
+    {
+      "name": "Juridisk översiktskurs för fastighetsmäklare",
+      "code": "J0030N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/juridisk-oversiktskurs-for-fastighetsmaklare/1313714"
+    },
+    {
+      "name": "Juridisk översiktskurs för teknologer I",
+      "code": "J0002N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/juridisk-oversiktskurs-for-teknologer-i/4762678"
+    },
+    {
+      "name": "Juridisk översiktskurs I",
+      "code": "J0008N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/juridisk-oversiktskurs-i/1313708"
+    },
+    {
+      "name": "Juridisk översiktskurs II",
+      "code": "J0023N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/juridisk-oversiktskurs-ii/1313710"
+    },
+    {
+      "name": "Juridiska metodfrågor",
+      "code": "J0045N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/juridiska-metodfragor/4649150"
+    },
+    {
+      "name": "Kartapplikationer på Internet med open source",
+      "code": "L0019B",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/kartapplikationer-pa-internet-med-open-source/1313718"
+    },
+    {
+      "name": "Kartografisk visualisering",
+      "code": "L0008B",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/kartografisk-visualisering/1313767"
+    },
+    {
+      "name": "Kemi A, gymnasiekomplettering",
+      "code": "KX001K",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/kemi-a-gymnasiekomplettering/4763937"
+    },
+    {
+      "name": "Kemi för Hållbar Utveckling",
+      "code": "K0025K",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/kemi-for-hallbar-utveckling/5310084"
+    },
+    {
+      "name": "Kemi G1",
+      "code": "kx002k",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/kemi-g1/4751406"
+    },
+    {
+      "name": "Kemiska principer",
+      "code": "K0016K",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/kemiska-principer/1313730"
+    },
+    {
+      "name": "Kinesisk affärskultur",
+      "code": "K0002P",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/kinesisk-affarskultur/1313733"
+    },
+    {
+      "name": "Klient säkerhetsarkitektur",
+      "code": "A7005E",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/klient-sakerhetsarkitektur/1313745"
+    },
+    {
+      "name": "Knowledge Management",
+      "code": "D0002N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/knowledge-management/1313765"
+    },
+    {
+      "name": "Kognitiv beteendeterapi för sjukgymnaster",
+      "code": "S0030H",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/kognitiv-beteendeterapi-for-sjukgymnaster/1313755"
+    },
+    {
+      "name": "Kognitiv psykologi",
+      "code": "P0025A",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/kognitiv-psykologi/1313757"
+    },
+    {
+      "name": "Kollapsmekanismer för brandutsatta konstruktioner",
+      "code": "S7012B",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/kollapsmekanismer-for-brandutsatta-konstruktioner/4806105"
+    },
+    {
+      "name": "Kommunal demokrati A",
+      "code": "S0023N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/kommunal-demokrati-a/1313759"
+    },
+    {
+      "name": "Kompositmaterial",
+      "code": "T7012T",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/kompositmaterial/1313775"
+    },
+    {
+      "name": "Konceptuell design",
+      "code": "F0012B",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/konceptuell-design/1313781"
+    },
+    {
+      "name": "Koncernredovisning",
+      "code": "R0020N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/koncernredovisning/1313783"
+    },
+    {
+      "name": "Konstnärlig träning II",
+      "code": "D0001A",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/konstnarlig-traning-ii/1313796"
+    },
+    {
+      "name": "Konstruktionsteknik",
+      "code": "B0002B",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/konstruktionsteknik/4349092"
+    },
+    {
+      "name": "Konsumentbeteende i Cyberspace",
+      "code": "W0001N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/konsumentbeteende-i-cyberspace/1313800"
+    },
+    {
+      "name": "Kontinuumsmekanik",
+      "code": "F0030T",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/kontinuumsmekanik/1313806"
+    },
+    {
+      "name": "Kreativt skrivande",
+      "code": "S0052S",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/kreativt-skrivande/1313822"
+    },
+    {
+      "name": "Kristallografi och mineralkunskap",
+      "code": "K0013K",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/kristallografi-och-mineralkunskap/1313828"
+    },
+    {
+      "name": "Kundfokuserad produktutveckling",
+      "code": "K7004N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/kundfokuserad-produktutveckling/1313836"
+    },
+    {
+      "name": "Kvalitativa metoder inom Sjukgymnastik D:2",
+      "code": "S7002H",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/kvalitativa-metoder-inom-sjukgymnastik-d2/1313840"
+    },
+    {
+      "name": "Kvalitet och hållbarhet i organisationer",
+      "code": "K0024N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/kvalitet-och-hallbarhet-i-organisationer/7720269"
+    },
+    {
+      "name": "Kvalitetsutveckling - värderingar arbetssätt och verktyg: Grundkurs",
+      "code": "K0012N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/kvalitetsutveckling-varderingar-arbetssatt-och-verktyg-grundkurs/1313844"
+    },
+    {
+      "name": "Kvalitetsutveckling grundkurs",
+      "code": "K0001N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/kvalitetsutveckling-grundkurs/1313846"
+    },
+    {
+      "name": "Kvantfysik",
+      "code": "F0047T",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/kvantfysik/1313854"
+    },
+    {
+      "name": "Kvantfysik för nyfikna",
+      "code": "F0014T",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/kvantfysik-for-nyfikna/1313856"
+    },
+    {
+      "name": "Kvantitativ tolkning av geofysiska data",
+      "code": "O7008K",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/kvantitativ-tolkning-av-geofysiska-data/1313850"
+    },
+    {
+      "name": "Kvartärgeologi",
+      "code": "L0041K",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/kvartargeologi/1313862"
+    },
+    {
+      "name": "Law of Building Construction",
+      "code": "J0001N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/law-of-building-construction/6643051"
+    },
+    {
+      "name": "Ledarskap",
+      "code": "P0062A",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/ledarskap/1313872"
+    },
+    {
+      "name": "Ledarskap i praktiken",
+      "code": "E0010N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/ledarskap-i-praktiken/5725622"
+    },
+    {
+      "name": "Ledarskapets psykologi",
+      "code": "P7040A",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/ledarskapets-psykologi/1313874"
+    },
+    {
+      "name": "Ledning av informationssystem",
+      "code": "U7019N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/ledning-av-informationssystem/1313881"
+    },
+    {
+      "name": "Ledning av innovationsmiljöer",
+      "code": "E7004N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/ledning-av-innovationsmiljoer/1313876"
+    },
+    {
+      "name": "Ledning och analys",
+      "code": "r0029n",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/ledning-och-analys/7260744"
+    },
+    {
+      "name": "Ledning och organisation av affärsverksamhet",
+      "code": "O0017N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/ledning-och-organisation-av-affarsverksamhet/1313896"
+    },
+    {
+      "name": "Ledning och organisation av affärsverksamhet",
+      "code": "E0006N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/ledning-och-organisation-av-affarsverksamhet/3796661"
+    },
+    {
+      "name": "Ledning organisation samverkan",
+      "code": "O0027A",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/ledning-organisation-samverkan/1313885"
+    },
+    {
+      "name": "Leka och lära med barn",
+      "code": "L0027P",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/leka-och-lara-med-barn/5734036"
+    },
+    {
+      "name": "Leka och lära med inriktning mot grundskolans tidigare år1",
+      "code": "L0003P",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/leka-och-lara-med-inriktning-mot-grundskolans-tidigare-ar1/4806151"
+    },
+    {
+      "name": "Linjär algebra",
+      "code": "M0033M",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/linjar-algebra/1313898"
+    },
+    {
+      "name": "Linjär algebra och differentialekvationer",
+      "code": "M0031M",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/linjar-algebra-och-differentialekvationer/1313888"
+    },
+    {
+      "name": "Linjär algebra och integralkalkyl",
+      "code": "M0030M",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/linjar-algebra-och-integralkalkyl/1313890"
+    },
+    {
+      "name": "Linjär analys",
+      "code": "M0018M",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/linjar-analys/1313892"
+    },
+    {
+      "name": "Linjära system",
+      "code": "m0010m",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/linjara-system/5734058"
+    },
+    {
+      "name": "Livscykel- och livscykelkostnadsanalys",
+      "code": "D0012B",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/livscykel-och-livscykelkostnadsanalys/1313905"
+    },
+    {
+      "name": "Ljud och vibrationer",
+      "code": "L0008A",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/ljud-och-vibrationer/1313907"
+    },
+    {
+      "name": "Ljudelektronik 1",
+      "code": "S0013F",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/ljudelektronik-1/4755021"
+    },
+    {
+      "name": "Ljudteknik 1",
+      "code": "S0016f",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/ljudteknik-1/4755023"
+    },
+    {
+      "name": "Ljudteknik 2",
+      "code": "s0017f",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/ljudteknik-2/4755024"
+    },
+    {
+      "name": "Logistik 1",
+      "code": "T0002N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/logistik-1/1313921"
+    },
+    {
+      "name": "Logistik 2",
+      "code": "T7004N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/logistik-2/1313932"
+    },
+    {
+      "name": "Lokalsamhället, miljö, kultur och teknik",
+      "code": "H0035N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/lokalsamhallet-miljo-kultur-och-teknik/4806156"
+    },
+    {
+      "name": "Lokalutformning",
+      "code": "A0006A",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/lokalutformning/1313928"
+    },
+    {
+      "name": "Läroplansteori",
+      "code": "U0042P",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/laroplansteori/4762600"
+    },
+    {
+      "name": "Långsiktig tillgänglighet och gränssnitt",
+      "code": "M7015E",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/langsiktig-tillganglighet-och-granssnitt/1313864"
+    },
+    {
+      "name": "Långsiktigt digitalt bevarande",
+      "code": "B7001N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/langsiktigt-digitalt-bevarande/1313868"
+    },
+    {
+      "name": "Maintenance Engineering",
+      "code": "D7007B",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/maintenance-engineering/4743544"
+    },
+    {
+      "name": "Majoritet och minoritet",
+      "code": "H0041N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/majoritet-och-minoritet/4762587"
+    },
+    {
+      "name": "Malmgenetiska modeller",
+      "code": "O7009K",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/malmgenetiska-modeller/1313940"
+    },
+    {
+      "name": "Management Information Systems",
+      "code": "U7066N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/management-information-systems/1313936"
+    },
+    {
+      "name": "Management of Cloud Services",
+      "code": "W0011E",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/management-of-cloud-services/4751428"
+    },
+    {
+      "name": "Managerial Economics",
+      "code": "U7060N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/managerial-economics/1313934"
+    },
+    {
+      "name": "Mark och miljörätt",
+      "code": "J0031N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/mark-och-miljoratt/1313942"
+    },
+    {
+      "name": "Markbyggnad",
+      "code": "Q0039B",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/markbyggnad/1313946"
+    },
+    {
+      "name": "Markbyggnad för tekniker",
+      "code": "Q0030B",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/markbyggnad-for-tekniker/1313958"
+    },
+    {
+      "name": "Marketing Management",
+      "code": "U7057N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/marketing-management/1313987"
+    },
+    {
+      "name": "Marketing Research",
+      "code": "U7015N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/marketing-research/1313950"
+    },
+    {
+      "name": "Marknadsanalys",
+      "code": "N0027N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/marknadsanalys/2998392"
+    },
+    {
+      "name": "Marknadsföring",
+      "code": "M0004N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/marknadsforing/4819057"
+    },
+    {
+      "name": "Marknadsföring grundkurs",
+      "code": "M0015N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/marknadsforing-grundkurs/1313960"
+    },
+    {
+      "name": "Marknadsföring grundkurs",
+      "code": "M00004N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/marknadsforing-grundkurs/4256359"
+    },
+    {
+      "name": "Maskindynamik",
+      "code": "M0015T",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/maskindynamik/1313966"
+    },
+    {
+      "name": "Maskininlärning",
+      "code": "D7028E",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/maskininlarning/1314036"
+    },
+    {
+      "name": "Maskinkomponenter",
+      "code": "M0012T",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/maskinkomponenter/1313970"
+    },
+    {
+      "name": "Maskinkomponenter - introduktion och analys",
+      "code": "M0030T",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/maskinkomponenter-introduktion-och-analys/4756121"
+    },
+    {
+      "name": "Maskinteknik,introduktion",
+      "code": "W0025T",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/maskinteknikintroduktion/4762836"
+    },
+    {
+      "name": "Master Thesis Business Administration",
+      "code": "U7064N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/master-thesis-business-administration/1313980"
+    },
+    {
+      "name": "Masterproduktion av ljud",
+      "code": "S0040F",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/masterproduktion-av-ljud/1313990"
+    },
+    {
+      "name": "Matematik 4 för basår",
+      "code": "mx007m",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/matematik-4-for-basar/4751409"
+    },
+    {
+      "name": "Matematik C",
+      "code": "M0034M",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/matematik-c/1313992"
+    },
+    {
+      "name": "Matematik form och lärande",
+      "code": "L0002M",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/matematik-form-och-larande/1314012"
+    },
+    {
+      "name": "Matematik för grundlärare 4-6 del 1",
+      "code": "U0019P",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/matematik-for-grundlarare-4-6-del-1/1314006"
+    },
+    {
+      "name": "Matematik för grundlärare 4-6 del 2",
+      "code": "N0002P",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/matematik-for-grundlarare-4-6-del-2/1314004"
+    },
+    {
+      "name": "Matematik för grundlärare F-3 del 2",
+      "code": "N0001P",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/matematik-for-grundlarare-f-3-del-2/1314010"
+    },
+    {
+      "name": "Matematik för nätverkstekniker",
+      "code": "M0028M",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/matematik-for-natverkstekniker/4751427"
+    },
+    {
+      "name": "Matematik G3",
+      "code": "mx006m",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/matematik-g3/4751408"
+    },
+    {
+      "name": "Matematik G4, gymnasiekomplettering",
+      "code": "MX007M",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/matematik-g4-gymnasiekomplettering/4816886"
+    },
+    {
+      "name": "Matematik I - Differentialkalkyl",
+      "code": "M0038M",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/matematik-i-differentialkalkyl/1314020"
+    },
+    {
+      "name": "Matematik I för bergsskoletekniker",
+      "code": "B0001M",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/matematik-i-for-bergsskoletekniker/1314016"
+    },
+    {
+      "name": "Matematik II - Integralkalkyl och linjär algebra",
+      "code": "M0043M",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/matematik-ii-integralkalkyl-och-linjar-algebra/1314024"
+    },
+    {
+      "name": "Matematik II för bergsskoletekniker",
+      "code": "B0002M",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/matematik-ii-for-bergsskoletekniker/1314021"
+    },
+    {
+      "name": "Matematik III - Differentialekvationer, komplexa tal och transformteori",
+      "code": "M0039M",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/matematik-iii-differentialekvationer-komplexa-tal-och-transformteori/4762671"
+    },
+    {
+      "name": "Matematik IV - Överbryggnadskurs i Matematik",
+      "code": "M0044M",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/matematik-iv-overbryggnadskurs-i-matematik/4806149"
+    },
+    {
+      "name": "Matematik M",
+      "code": "M0013M",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/matematik-m/1314028"
+    },
+    {
+      "name": "Matematik och lärande för skolår 7-9 och gymnasium del 1",
+      "code": "U0002P",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/matematik-och-larande-for-skolar-7-9-och-gymnasium-del-1/1314032"
+    },
+    {
+      "name": "Matematik och lärande för skolår 7-9 och gymnasium del 2",
+      "code": "U0021P",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/matematik-och-larande-for-skolar-7-9-och-gymnasium-del-2/1314030"
+    },
+    {
+      "name": "Matematik Ry",
+      "code": "M0046M",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/matematik-ry/4806113"
+    },
+    {
+      "name": "Matematikens historia",
+      "code": "L0001M",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/matematikens-historia/1314040"
+    },
+    {
+      "name": "Matematisk analys och geometri",
+      "code": "M7028M",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/matematisk-analys-och-geometri/4806109"
+    },
+    {
+      "name": "Matematisk Fysik",
+      "code": "M0014M",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/matematisk-fysik/1314050"
+    },
+    {
+      "name": "Matematisk statistik",
+      "code": "S0001M",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/matematisk-statistik/1314057"
+    },
+    {
+      "name": "Matematiska grunder och derivator",
+      "code": "M0050M",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/matematiska-grunder-och-derivator/4756117"
+    },
+    {
+      "name": "Material- och tillverkningsmetoder",
+      "code": "T0021T",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/material-och-tillverkningsmetoder/4552141"
+    },
+    {
+      "name": "Materiallära I",
+      "code": "B0011T",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/materiallara-i/1314048"
+    },
+    {
+      "name": "Materialmodeller",
+      "code": "T7002T",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/materialmodeller/1314074"
+    },
+    {
+      "name": "Materialteknik och materialval",
+      "code": "T0003T",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/materialteknik-och-materialval/1314068"
+    },
+    {
+      "name": "Materialteknik och tillverkning",
+      "code": "T0029T",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/materialteknik-och-tillverkning/7765834"
+    },
+    {
+      "name": "Materialtekniska Analysmetoder",
+      "code": "T7003T",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/materialtekniska-analysmetoder/1314056"
+    },
+    {
+      "name": "Materialval och Ekodesign",
+      "code": "T0007T",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/materialval-och-ekodesign/1314064"
+    },
+    {
+      "name": "Matte",
+      "code": "M1337",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/matte/4529045"
+    },
+    {
+      "name": "Mattematik 1",
+      "code": "M0047M",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/mattematik-1/4829429"
+    },
+    {
+      "name": "Mattematik 2",
+      "code": "M0048M",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/mattematik-2/5830722"
+    },
+    {
+      "name": "Mattematik III, Linjär algebra och differentialekvationer",
+      "code": "M0049M",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/mattematik-iii-linjar-algebra-och-differentialekvationer/4802858"
+    },
+    {
+      "name": "Mechatronics",
+      "code": "E7012E",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/mechatronics/4476899"
+    },
+    {
+      "name": "Med fokus på matematiken. Åk F-3",
+      "code": "L0046P",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/med-fokus-pa-matematiken-ak-f-3/1314070"
+    },
+    {
+      "name": "Medicinsk vetenskap A, Anatomi och fysiologi",
+      "code": "M0048H",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/medicinsk-vetenskap-a-anatomi-och-fysiologi/4701106"
+    },
+    {
+      "name": "Medicinsk vetenskap A:2 Mikrobiologi och hygien",
+      "code": "M0002H",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/medicinsk-vetenskap-a2-mikrobiologi-och-hygien/1314076"
+    },
+    {
+      "name": "Medicinsk vetenskap Anatomi och Fysiologi inriktning radiologi",
+      "code": "M0026H",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/medicinsk-vetenskap-anatomi-och-fysiologi-inriktning-radiologi/1314078"
+    },
+    {
+      "name": "Medicinsk vetenskap Anatomi/Fysiologi",
+      "code": "M0080H",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/medicinsk-vetenskap-anatomifysiologi/3412719"
+    },
+    {
+      "name": "Medicinsk vetenskap Anatomi/Fysiologi 2",
+      "code": "M0077H",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/medicinsk-vetenskap-anatomifysiologi-2/3412869"
+    },
+    {
+      "name": "Medicinsk vetenskap inom akutsjukvård",
+      "code": "M7001H",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/medicinsk-vetenskap-inom-akutsjukvard/4767334"
+    },
+    {
+      "name": "Medicinsk vetenskap inom operationssjukvård",
+      "code": "M7006H",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/medicinsk-vetenskap-inom-operationssjukvard/4806111"
+    },
+    {
+      "name": "Medicinsk vetenskap inom psykiatrisk vård",
+      "code": "M7009H",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/medicinsk-vetenskap-inom-psykiatrisk-vard/1314118"
+    },
+    {
+      "name": "Medicinsk vetenskap kardiologi fördjupningskurs",
+      "code": "M0072H",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/medicinsk-vetenskap-kardiologi-fordjupningskurs/1314086"
+    },
+    {
+      "name": "Medicinsk Vetenskap med: Anatomi och Fysiologi med inriktning mot arbetsterapi",
+      "code": "M0104H",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/medicinsk-vetenskap-med-anatomi-och-fysiologi-med-inriktning-mot-arbetsterapi/4720689"
+    },
+    {
+      "name": "Medicinsk vetenskap Psykiatri Geriatrik Neurologi Rehabilitering",
+      "code": "M0006H",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/medicinsk-vetenskap-psykiatri-geriatrik-neurologi-rehabilitering/1314110"
+    },
+    {
+      "name": "Medicinsk vetenskap Psykiatri och missbruksvård",
+      "code": "M0060H",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/medicinsk-vetenskap-psykiatri-och-missbruksvard/1314112"
+    },
+    {
+      "name": "Medicinsk vetenskap Sjukdomslära med inriktning fysioterapi 2",
+      "code": "M0079H",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/medicinsk-vetenskap-sjukdomslara-med-inriktning-fysioterapi-2/4150974"
+    },
+    {
+      "name": "Medicinsk vetenskap, sjukdomslära inriktning mot fysioterapi",
+      "code": "M0078H",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/medicinsk-vetenskap-sjukdomslara-inriktning-mot-fysioterapi/3412877"
+    },
+    {
+      "name": "Medicinsk vetenskap, Traumatologi och akutsjukvård",
+      "code": "M0075H",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/medicinsk-vetenskap-traumatologi-och-akutsjukvard/4034116"
+    },
+    {
+      "name": "Medicinsk vetenskap: Anatomi",
+      "code": "M0112H",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/medicinsk-vetenskap-anatomi/6127924"
+    },
+    {
+      "name": "Medicinsk vetenskap: Kardiologi",
+      "code": "M0020H",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/medicinsk-vetenskap-kardiologi/1314084"
+    },
+    {
+      "name": "Medicinsk vetenskap: sjukdomslära inriktning mot barn och ungdom",
+      "code": "M7007H",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/medicinsk-vetenskap-sjukdomslara-inriktning-mot-barn-och-ungdom/4767337"
+    },
+    {
+      "name": "Medicinsk vetenskap: sjukdomslära inriktning mot vuxna och äldre",
+      "code": "M7008H",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/medicinsk-vetenskap-sjukdomslara-inriktning-mot-vuxna-och-aldre/4767340"
+    },
+    {
+      "name": "Medicinsk vetenskap: Sjukdomslära inriktning radiologi",
+      "code": "M0028H",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/medicinsk-vetenskap-sjukdomslara-inriktning-radiologi/1314088"
+    },
+    {
+      "name": "Mekanik II",
+      "code": "F0008T",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/mekanik-ii/1314092"
+    },
+    {
+      "name": "Mekanik och elkraftteknik",
+      "code": "W0021T",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/mekanik-och-elkraftteknik/4762624"
+    },
+    {
+      "name": "Mekanik och experimentella metoder",
+      "code": "F0060T",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/mekanik-och-experimentella-metoder/4756116"
+    },
+    {
+      "name": "Mekanik och hållfasthetslära",
+      "code": "M0032T",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/mekanik-och-hallfasthetslara/4756122"
+    },
+    {
+      "name": "Metallbearbetning, fogning och formning",
+      "code": "T0020T",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/metallbearbetning-fogning-och-formning/4800562"
+    },
+    {
+      "name": "Metalliska och Polymera material grundkurs",
+      "code": "T0004T",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/metalliska-och-polymera-material-grundkurs/1314102"
+    },
+    {
+      "name": "Metallurgi grundkurs",
+      "code": "Q0015B",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/metallurgi-grundkurs/1314104"
+    },
+    {
+      "name": "Metallurgi och plätering",
+      "code": "K0021K",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/metallurgi-och-platering/1314106"
+    },
+    {
+      "name": "Metallurgisk kemi",
+      "code": "Q0016B",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/metallurgisk-kemi/1314108"
+    },
+    {
+      "name": "Metallurgisk och fysikalisk kemi",
+      "code": "Q0045B",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/metallurgisk-och-fysikalisk-kemi/1314113"
+    },
+    {
+      "name": "Migrationsrätt",
+      "code": "J0048N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/migrationsratt/4411992"
+    },
+    {
+      "name": "Mikrodatorteknik",
+      "code": "D0013E",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/mikrodatorteknik/1314142"
+    },
+    {
+      "name": "Mikrodatorteknik med rymdtillämpningar",
+      "code": "D0001R",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/mikrodatorteknik-med-rymdtillampningar/1314126"
+    },
+    {
+      "name": "Mikroekonomiska tillämpningar",
+      "code": "N0040N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/mikroekonomiska-tillampningar/5145437"
+    },
+    {
+      "name": "Miljö- och kvalitetsrevision",
+      "code": "L0004N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/miljo-och-kvalitetsrevision/1314121"
+    },
+    {
+      "name": "Miljöekonomi",
+      "code": "N7011N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/miljoekonomi/4802637"
+    },
+    {
+      "name": "Miljögeokemi",
+      "code": "L0047K",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/miljogeokemi/1314129"
+    },
+    {
+      "name": "Miljögeoteknik förorenad mark",
+      "code": "G7003B",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/miljogeoteknik-fororenad-mark/1314131"
+    },
+    {
+      "name": "Miljökonsekvensbeskrivningar MKB i planarbete & projekt",
+      "code": "C0007B",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/miljokonsekvensbeskrivningar-mkb-i-planarbete-projekt/1314135"
+    },
+    {
+      "name": "Miljöledning",
+      "code": "L0001N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/miljoledning/1314146"
+    },
+    {
+      "name": "Miljöpolitikens vilkor",
+      "code": "S0045N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/miljopolitikens-vilkor/7126330"
+    },
+    {
+      "name": "Miljörätt",
+      "code": "J0005N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/miljoratt/1314152"
+    },
+    {
+      "name": "Mineralogi",
+      "code": "O0036K",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/mineralogi/1314148"
+    },
+    {
+      "name": "Mineralteknik",
+      "code": "M7003K",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/mineralteknik/1314150"
+    },
+    {
+      "name": "Mineralteknik 2",
+      "code": "Q0027B",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/mineralteknik-2/1314162"
+    },
+    {
+      "name": "Mineralteknik för tekniker",
+      "code": "Q0013B",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/mineralteknik-for-tekniker/1314154"
+    },
+    {
+      "name": "Mineralteknik I",
+      "code": "Q0024B",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/mineralteknik-i/1314158"
+    },
+    {
+      "name": "Mjukvarudesign för industriell automation",
+      "code": "D7033E",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/mjukvarudesign-for-industriell-automation/1314164"
+    },
+    {
+      "name": "Mobil applikationsutveckling",
+      "code": "M7019E",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/mobil-applikationsutveckling/1314160"
+    },
+    {
+      "name": "Mobila nätverk och protokoll",
+      "code": "D7002D",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/mobila-natverk-och-protokoll/1314190"
+    },
+    {
+      "name": "Mobila och distribuerade datorsystem",
+      "code": "D7024E",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/mobila-och-distribuerade-datorsystem/1314172"
+    },
+    {
+      "name": "Modellbygge och reglering",
+      "code": "R0002E",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/modellbygge-och-reglering/1314166"
+    },
+    {
+      "name": "Modeller för intern styrning",
+      "code": "R0009N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/modeller-for-intern-styrning/1314170"
+    },
+    {
+      "name": "Modeller inom solidmekaniken",
+      "code": "M7005T",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/modeller-inom-solidmekaniken/1314178"
+    },
+    {
+      "name": "Modellering och reglering",
+      "code": "R0004E",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/modellering-och-reglering/4499576"
+    },
+    {
+      "name": "Modern sociologisk teori",
+      "code": "S0022A",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/modern-sociologisk-teori/1314180"
+    },
+    {
+      "name": "Multifysik simulering och beräkning",
+      "code": "F7024T",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/multifysik-simulering-och-berakning/1314176"
+    },
+    {
+      "name": "Multimedia i nätverk",
+      "code": "D0031D",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/multimedia-i-natverk/1314182"
+    },
+    {
+      "name": "Multivariabla och robusta reglersystem",
+      "code": "R7005E",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/multivariabla-och-robusta-reglersystem/1314188"
+    },
+    {
+      "name": "Musik för grundlärare 4-6",
+      "code": "U0015G",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/musik-for-grundlarare-4-6/1314192"
+    },
+    {
+      "name": "Musikvideoproduktion",
+      "code": "T0010F",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/musikvideoproduktion/1314219"
+    },
+    {
+      "name": "Människa miljö och teknik",
+      "code": "H0046N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/manniska-miljo-och-teknik/4762588"
+    },
+    {
+      "name": "Människa-maskin-inte",
+      "code": "D0022E",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/manniska-maskin-inte/2998048"
+    },
+    {
+      "name": "Människa-maskin-interaktion",
+      "code": "D0055A",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/manniska-maskin-interaktion/5322893"
+    },
+    {
+      "name": "Människan, miljön och samhället",
+      "code": "2NE088",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/manniskan-miljon-och-samhallet/7413192"
+    },
+    {
+      "name": "Mät- och reglerteknik",
+      "code": "R0005E",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/mat-och-reglerteknik/4743549"
+    },
+    {
+      "name": "Mätsystem: design, modellering och beräkningsmetoder",
+      "code": "S7013E",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/matsystem-design-modellering-och-berakningsmetoder/4743551"
+    },
+    {
+      "name": "Mätteknik",
+      "code": "Q0012B",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/matteknik/1314062"
+    },
+    {
+      "name": "Mätteknik och felanalys",
+      "code": "E7021E",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/matteknik-och-felanalys/4806163"
+    },
+    {
+      "name": "Nation, Etnicitet och identitet",
+      "code": "H0030N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/nation-etnicitet-och-identitet/4762585"
+    },
+    {
+      "name": "Nationalekonomi A Tillämpad makroekonomi",
+      "code": "N0012N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/nationalekonomi-a-tillampad-makroekonomi/1314235"
+    },
+    {
+      "name": "Nationalekonomi A Tillämpad mikroekonomi",
+      "code": "N0010N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/nationalekonomi-a-tillampad-mikroekonomi/1314223"
+    },
+    {
+      "name": "Nationalekonomi A, Makroteori",
+      "code": "N0011N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/nationalekonomi-a-makroteori/2998391"
+    },
+    {
+      "name": "Nationalekonomi A, Mikroteori",
+      "code": "N0008N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/nationalekonomi-a-mikroteori/2998390"
+    },
+    {
+      "name": "Nationalekonomi A, Tillämpad mikroekonomi",
+      "code": "N0030N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/nationalekonomi-a-tillampad-mikroekonomi/2998393"
+    },
+    {
+      "name": "Nationalekonomi B Ekonometri",
+      "code": "N0007N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/nationalekonomi-b-ekonometri/1314239"
+    },
+    {
+      "name": "Nationalekonomi B Makroteori",
+      "code": "N0006N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/nationalekonomi-b-makroteori/1314229"
+    },
+    {
+      "name": "Nationalekonomi B: Naturresursekonomi och råvarumarknader",
+      "code": "N0035N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/nationalekonomi-b-naturresursekonomi-och-ravarumarknader/4806107"
+    },
+    {
+      "name": "Nationalekonomi Makroekonomi",
+      "code": "N0016N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/nationalekonomi-makroekonomi/1314237"
+    },
+    {
+      "name": "Nationalekonomi Resursfördelningsteori",
+      "code": "N0004N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/nationalekonomi-resursfordelningsteori/1314241"
+    },
+    {
+      "name": "Natur och teknik i förskola",
+      "code": "U0007P",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/natur-och-teknik-i-forskola/1314243"
+    },
+    {
+      "name": "Natural Resource Economics",
+      "code": "N7012N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/natural-resource-economics/7279720"
+    },
+    {
+      "name": "Naturorientering och teknik för grundlärare 4-6. del 1",
+      "code": "U0027P",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/naturorientering-och-teknik-for-grundlarare-4-6-del-1/1314255"
+    },
+    {
+      "name": "Naturorientering och teknik för grundlärare 4-6. del 2",
+      "code": "U0026P",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/naturorientering-och-teknik-for-grundlarare-4-6-del-2/1314247"
+    },
+    {
+      "name": "Naturorientering och teknik i förskoleklass och skolår F-3",
+      "code": "U0017P",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/naturorientering-och-teknik-i-forskoleklass-och-skolar-f-3/1314251"
+    },
+    {
+      "name": "Naturresursteknik",
+      "code": "L0046K",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/naturresursteknik/1314278"
+    },
+    {
+      "name": "Naturvetenskap",
+      "code": "Q0031B",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/naturvetenskap/1314269"
+    },
+    {
+      "name": "Neural networks and learning machines",
+      "code": "D7046E",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/neural-networks-and-learning-machines/6065774"
+    },
+    {
+      "name": "NKSE",
+      "code": "O0056H",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/nkse/5046781"
+    },
+    {
+      "name": "Numerik",
+      "code": "C0002M",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/numerik/1314274"
+    },
+    {
+      "name": "Numerik för optimering och PDE",
+      "code": "C7005M",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/numerik-for-optimering-och-pde/4806164"
+    },
+    {
+      "name": "Numerik och partiella differentialekvationer",
+      "code": "C7004M",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/numerik-och-partiella-differentialekvationer/4806165"
+    },
+    {
+      "name": "Numerisk lösning av partiella differentialekvationer",
+      "code": "C7002M",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/numerisk-losning-av-partiella-differentialekvationer/1314283"
+    },
+    {
+      "name": "Nyhetspublicering i nya medier",
+      "code": "T0002F",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/nyhetspublicering-i-nya-medier/1314305"
+    },
+    {
+      "name": "Nätverk och Mobilitet",
+      "code": "D0021E",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/natverk-och-mobilitet/1314259"
+    },
+    {
+      "name": "Nätverksprogrammering och distribuerade applikationer",
+      "code": "D7001D",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/natverksprogrammering-och-distribuerade-applikationer/1314267"
+    },
+    {
+      "name": "Nätverkssäkerhet",
+      "code": "D0025D",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/natverkssakerhet/1314276"
+    },
+    {
+      "name": "Nätverksövervakning",
+      "code": "D0028D",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/natverksovervakning/1314261"
+    },
+    {
+      "name": "Objektorienterad analys och design",
+      "code": "D0039D",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/objektorienterad-analys-och-design/1314285"
+    },
+    {
+      "name": "Objektorienterad analys och design",
+      "code": "D0006N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/objektorienterad-analys-och-design/4762936"
+    },
+    {
+      "name": "Objektorienterad programmering",
+      "code": "D0037D",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/objektorienterad-programmering/1314289"
+    },
+    {
+      "name": "Objektorienterad programmering och design",
+      "code": "D0010E",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/objektorienterad-programmering-och-design/1314295"
+    },
+    {
+      "name": "Objektorienterad programutveckling",
+      "code": "D0007N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/objektorienterad-programutveckling/1314299"
+    },
+    {
+      "name": "Offentlig rätt",
+      "code": "J0010N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/offentlig-ratt/1314297"
+    },
+    {
+      "name": "Omborddatorer för rymdfarkoster",
+      "code": "R7018R",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/omborddatorer-for-rymdfarkoster/1314308"
+    },
+    {
+      "name": "Omvårdnad Att leva med sjukdom II",
+      "code": "O0071H",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/omvardnad-att-leva-med-sjukdom-ii/1314312"
+    },
+    {
+      "name": "Omvårdnad C Kvalitativa metoder",
+      "code": "O0038H",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/omvardnad-c-kvalitativa-metoder/1314326"
+    },
+    {
+      "name": "Omvårdnad C:1 Fördjupning i omvårdnad Att leva med sjukdom",
+      "code": "O0007H",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/omvardnad-c1-fordjupning-i-omvardnad-att-leva-med-sjukdom/1314322"
+    },
+    {
+      "name": "Omvårdnad C:2 Vetenskapliga metoder",
+      "code": "O0008H",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/omvardnad-c2-vetenskapliga-metoder/1314328"
+    },
+    {
+      "name": "Omvårdnad Examensarbete",
+      "code": "O0009H",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/omvardnad-examensarbete/1314336"
+    },
+    {
+      "name": "Omvårdnad Hälsa och lidande i sjukdom",
+      "code": "O0005H",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/omvardnad-halsa-och-lidande-i-sjukdom/1314341"
+    },
+    {
+      "name": "Omvårdnad i psykiatrisk vård II VFU",
+      "code": "O7030H",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/omvardnad-i-psykiatrisk-vard-ii-vfu/1314348"
+    },
+    {
+      "name": "Omvårdnad inom psykiatrisk vård",
+      "code": "O7024H",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/omvardnad-inom-psykiatrisk-vard/1314374"
+    },
+    {
+      "name": "Omvårdnadens grunder",
+      "code": "O0092H",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/omvardnadens-grunder/3236553"
+    },
+    {
+      "name": "Omvårdnadens grunder",
+      "code": "O0115H",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/omvardnadens-grunder/7114139"
+    },
+    {
+      "name": "Omvårdnadens organisation och ledarskap",
+      "code": "O0098H",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/omvardnadens-organisation-och-ledarskap/7465990"
+    },
+    {
+      "name": "Oorganisk kemi",
+      "code": "K0011K",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/oorganisk-kemi/1314366"
+    },
+    {
+      "name": "Operations Management",
+      "code": "T0008N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/operations-management/2998035"
+    },
+    {
+      "name": "Operations management och strategi",
+      "code": "K0019N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/operations-management-och-strategi/5425823"
+    },
+    {
+      "name": "Operationsanalys",
+      "code": "T7005N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/operationsanalys/1314371"
+    },
+    {
+      "name": "Operativsystem",
+      "code": "D0012D",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/operativsystem/1314376"
+    },
+    {
+      "name": "Optik och fotonik",
+      "code": "F0048T",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/optik-och-fotonik/1314382"
+    },
+    {
+      "name": "Organisation och ledarskap",
+      "code": "S0009A",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/organisation-och-ledarskap/1314391"
+    },
+    {
+      "name": "Organisations- och arbetssociologi",
+      "code": "S0016A",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/organisations-och-arbetssociologi/1314416"
+    },
+    {
+      "name": "Organisk kemi och biokemi",
+      "code": "B0007K",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/organisk-kemi-och-biokemi/1314401"
+    },
+    {
+      "name": "Organizational Behavior",
+      "code": "U7058N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/organizational-behavior/1314402"
+    },
+    {
+      "name": "Orgelinterpretation - Cahmanorgeln (1728)",
+      "code": "F0177G",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/orgelinterpretation-cahmanorgeln-1728/1314412"
+    },
+    {
+      "name": "PA-teknik",
+      "code": "S0004F",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/pa-teknik/1314410"
+    },
+    {
+      "name": "Pedagogik 3",
+      "code": "P0023P",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/pedagogik-3/1314424"
+    },
+    {
+      "name": "Pedagogik A grundkurs",
+      "code": "P0008P",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/pedagogik-a-grundkurs/1314426"
+    },
+    {
+      "name": "Pedagogik B fortsättningskurs",
+      "code": "P0009P",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/pedagogik-b-fortsattningskurs/1314464"
+    },
+    {
+      "name": "Pedagogiskt ledarskap i förskolan",
+      "code": "L0035P",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/pedagogiskt-ledarskap-i-forskolan/1314430"
+    },
+    {
+      "name": "Personlighets och differentiell psykologi",
+      "code": "P0027A",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/personlighets-och-differentiell-psykologi/1314434"
+    },
+    {
+      "name": "Perspektiv på arbetsliv och arbetsmarknad",
+      "code": "S0058A",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/perspektiv-pa-arbetsliv-och-arbetsmarknad/1314458"
+    },
+    {
+      "name": "Perspektiv på berg och metall",
+      "code": "Q0002B",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/perspektiv-pa-berg-och-metall/1314438"
+    },
+    {
+      "name": "Pervasive Computing",
+      "code": "M7012E",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/pervasive-computing/1314440"
+    },
+    {
+      "name": "Petrologi",
+      "code": "O0008K",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/petrologi/1314442"
+    },
+    {
+      "name": "Petrologi och regional geologi",
+      "code": "O7019K",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/petrologi-och-regional-geologi/1314444"
+    },
+    {
+      "name": "Plasmafysik",
+      "code": "F7010R",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/plasmafysik/1314462"
+    },
+    {
+      "name": "Politik och policy i den Europeiska Unionen",
+      "code": "S0026N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/politik-och-policy-i-den-europeiska-unionen/1314518"
+    },
+    {
+      "name": "Politisk styrning i teori och praktik",
+      "code": "S0038N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/politisk-styrning-i-teori-och-praktik/1314470"
+    },
+    {
+      "name": "Portföljvalsteori",
+      "code": "N0021N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/portfoljvalsteori/3040948"
+    },
+    {
+      "name": "Praktisk genusforskning",
+      "code": "G0010A",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/praktisk-genusforskning/1314468"
+    },
+    {
+      "name": "Predictive Analytics",
+      "code": "D7056E",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/predictive-analytics/6039464"
+    },
+    {
+      "name": "Principles of Marketing",
+      "code": "M0015N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/principles-of-marketing/7349667"
+    },
+    {
+      "name": "Produkt- och produktionsdesign",
+      "code": "A0013A",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/produkt-och-produktionsdesign/1314520"
+    },
+    {
+      "name": "Produktdesign",
+      "code": "D0017A",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/produktdesign/1314488"
+    },
+    {
+      "name": "Produktions- och arbetsorganisation",
+      "code": "A7008A",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/produktions-och-arbetsorganisation/1314490"
+    },
+    {
+      "name": "Produktionsledning",
+      "code": "T0011T",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/produktionsledning/1314494"
+    },
+    {
+      "name": "Produktionsvisualisering",
+      "code": "A7011A",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/produktionsvisualisering/1314500"
+    },
+    {
+      "name": "Produktljuddesign",
+      "code": "L7007A",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/produktljuddesign/1314502"
+    },
+    {
+      "name": "Produktutvecklingsprocesser",
+      "code": "M7014T",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/produktutvecklingsprocesser/1314504"
+    },
+    {
+      "name": "Programmering för datornätverk",
+      "code": "D0042D",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/programmering-for-datornatverk/1314514"
+    },
+    {
+      "name": "Programmering inom ljudområdet",
+      "code": "S0030F",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/programmering-inom-ljudomradet/1314516"
+    },
+    {
+      "name": "Programmering och digitalisering",
+      "code": "D0028E",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/programmering-och-digitalisering/5130650"
+    },
+    {
+      "name": "Programmeringsverktyg för numeriska beräkningar",
+      "code": "C0004M",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/programmeringsverktyg-for-numeriska-berakningar/2998042"
+    },
+    {
+      "name": "Programutveckling med Java",
+      "code": "D0019N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/programutveckling-med-java/1314522"
+    },
+    {
+      "name": "Programutveckling med Java II",
+      "code": "D0024E",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/programutveckling-med-java-ii/4819708"
+    },
+    {
+      "name": "projekt inom grafisk design",
+      "code": "D0047A",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/projekt-inom-grafisk-design/5883952"
+    },
+    {
+      "name": "Projekt och ledarskap",
+      "code": "E0001D",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/projekt-och-ledarskap/1314536"
+    },
+    {
+      "name": "Projektkurs B",
+      "code": "T0015T",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/projektkurs-b/1314548"
+    },
+    {
+      "name": "Projektkurs C",
+      "code": "M0024T",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/projektkurs-c/1314550"
+    },
+    {
+      "name": "Projektkurs I i akustik och ljudteknik",
+      "code": "L0012A",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/projektkurs-i-i-akustik-och-ljudteknik/1314555"
+    },
+    {
+      "name": "Projektkurs i Jord och Berg",
+      "code": "T7025B",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/projektkurs-i-jord-och-berg/7070339"
+    },
+    {
+      "name": "Prospektering",
+      "code": "O7018K",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/prospektering/1314563"
+    },
+    {
+      "name": "Psykologins Historia",
+      "code": "P0068A",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/psykologins-historia/4034139"
+    },
+    {
+      "name": "Psykologins områden och biologiska bas",
+      "code": "P0026A",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/psykologins-omraden-och-biologiska-bas/1314559"
+    },
+    {
+      "name": "Psykologiska aspekter på ledarskap och riskhantering",
+      "code": "P0021A",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/psykologiska-aspekter-pa-ledarskap-och-riskhantering/1314561"
+    },
+    {
+      "name": "Psykologiska aspekter på ledarskap och riskhantering",
+      "code": "P0069A",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/psykologiska-aspekter-pa-ledarskap-och-riskhantering/4756607"
+    },
+    {
+      "name": "Psykosocial arbetsmiljö - stresshantering",
+      "code": "P0005A",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/psykosocial-arbetsmiljo-stresshantering/1314565"
+    },
+    {
+      "name": "Radiografi Digital bildhantering",
+      "code": "M0076H",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/radiografi-digital-bildhantering/1314579"
+    },
+    {
+      "name": "Realtidssystem",
+      "code": "D0003E",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/realtidssystem/1314571"
+    },
+    {
+      "name": "Redovisning och revision",
+      "code": "R0022N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/redovisning-och-revision/1314599"
+    },
+    {
+      "name": "Redovisning och styrning",
+      "code": "R0016N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/redovisning-och-styrning/1314597"
+    },
+    {
+      "name": "Redovisningsteori",
+      "code": "R7013N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/redovisningsteori/1314583"
+    },
+    {
+      "name": "Redovisningsteori och speciella redovisningsproblem",
+      "code": "R0011N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/redovisningsteori-och-speciella-redovisningsproblem/1314587"
+    },
+    {
+      "name": "Reggio Emiliainspirerat lärande 2",
+      "code": "P0003P",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/reggio-emiliainspirerat-larande-2/1314593"
+    },
+    {
+      "name": "Reglerteknik",
+      "code": "R7003E",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/reglerteknik/1314589"
+    },
+    {
+      "name": "Reklam och kreativ annonsering",
+      "code": "M0025N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/reklam-och-kreativ-annonsering/1314609"
+    },
+    {
+      "name": "Religion A",
+      "code": "F0015S",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/religion-a/1314601"
+    },
+    {
+      "name": "Religion B",
+      "code": "F0016S",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/religion-b/1314603"
+    },
+    {
+      "name": "Retorik AI",
+      "code": "S0024S",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/retorik-ai/1314613"
+    },
+    {
+      "name": "Risk och brandkemi",
+      "code": "K0015K",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/risk-och-brandkemi/1314635"
+    },
+    {
+      "name": "Risk och säkerhet - Grundkurs",
+      "code": "K0007B",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/risk-och-sakerhet-grundkurs/1314615"
+    },
+    {
+      "name": "Riskbedömning och sanering av förorenad mark",
+      "code": "A7006B",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/riskbedomning-och-sanering-av-fororenad-mark/1314617"
+    },
+    {
+      "name": "Robotik för alla",
+      "code": "R0006E",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/robotik-for-alla/6448294"
+    },
+    {
+      "name": "Robusta och energieffektiva realtidssystem",
+      "code": "D7020E",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/robusta-och-energieffektiva-realtidssystem/1314621"
+    },
+    {
+      "name": "Robusta system I",
+      "code": "A0002N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/robusta-system-i/1314623"
+    },
+    {
+      "name": "Robusta system II",
+      "code": "A7001N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/robusta-system-ii/1314627"
+    },
+    {
+      "name": "Routing och Switching",
+      "code": "D0024D",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/routing-och-switching/1314638"
+    },
+    {
+      "name": "Rums- och byggnadsakustik",
+      "code": "L0009A",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/rums-och-byggnadsakustik/1314640"
+    },
+    {
+      "name": "Rums- och byggnadsakustik",
+      "code": "Z7001B",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/rums-och-byggnadsakustik/7064503"
+    },
+    {
+      "name": "Rymdelektronik",
+      "code": "E7003R",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/rymdelektronik/1314656"
+    },
+    {
+      "name": "Rymdfarkosters fysiska omgivning",
+      "code": "R7004R",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/rymdfarkosters-fysiska-omgivning/1314652"
+    },
+    {
+      "name": "Rymdfysik",
+      "code": "R7017R",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/rymdfysik/1314654"
+    },
+    {
+      "name": "Rymdinstrument",
+      "code": "R7013R",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/rymdinstrument/1314664"
+    },
+    {
+      "name": "Rymdplasmafysik",
+      "code": "F7001R",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/rymdplasmafysik/1314662"
+    },
+    {
+      "name": "Rätten och samhället Rättsvetenskap",
+      "code": "J7002N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/ratten-och-samhallet-rattsvetenskap/1314569"
+    },
+    {
+      "name": "Råvaruekonomi",
+      "code": "N0029N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/ravaruekonomi/4551519"
+    },
+    {
+      "name": "Samhällets ekonomi för lärare",
+      "code": "N0015N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/samhallets-ekonomi-for-larare/1314700"
+    },
+    {
+      "name": "Samhällets ekonomi för lärare",
+      "code": "N0032N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/samhallets-ekonomi-for-larare/4762592"
+    },
+    {
+      "name": "Samhällsbyggande",
+      "code": "V0011B",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/samhallsbyggande/1314698"
+    },
+    {
+      "name": "Samhällsbyggande Grundkurs",
+      "code": "V0018B",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/samhallsbyggande-grundkurs/7255516"
+    },
+    {
+      "name": "Samhällsekonomi för alla",
+      "code": "N0018N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/samhallsekonomi-for-alla/1314702"
+    },
+    {
+      "name": "Samhällsekonomi inom fastighetsförmedling",
+      "code": "N0025N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/samhallsekonomi-inom-fastighetsformedling/1314704"
+    },
+    {
+      "name": "Samhällsekonomiska kalkyler",
+      "code": "N0041N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/samhallsekonomiska-kalkyler/5422916"
+    },
+    {
+      "name": "Samhällsförändringar från olika perspektiv",
+      "code": "H0037N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/samhallsforandringar-fran-olika-perspektiv/4762586"
+    },
+    {
+      "name": "Samhällsvetenskaplig kvalitativ metod 1",
+      "code": "P0072A",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/samhallsvetenskaplig-kvalitativ-metod-1/7584990"
+    },
+    {
+      "name": "Samhällsvetenskaplig metod 1",
+      "code": "P0045A",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/samhallsvetenskaplig-metod-1/1314706"
+    },
+    {
+      "name": "Sannolikhetslära och statistik",
+      "code": "S0008M",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/sannolikhetslara-och-statistik/2998386"
+    },
+    {
+      "name": "Server säkerhetsarkitektur",
+      "code": "A7006E",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/server-sakerhetsarkitektur/1314734"
+    },
+    {
+      "name": "Service Management",
+      "code": "U7054N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/service-management/1314736"
+    },
+    {
+      "name": "Service Marketing",
+      "code": "U7049N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/service-marketing/1314740"
+    },
+    {
+      "name": "Sexualitet kropp och kön",
+      "code": "S0039S",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/sexualitet-kropp-och-kon/1314742"
+    },
+    {
+      "name": "Signalanalys",
+      "code": "S0001E",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/signalanalys/1314744"
+    },
+    {
+      "name": "Signaler och system",
+      "code": "S0004E",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/signaler-och-system/2998046"
+    },
+    {
+      "name": "Simulering av produktionssystem",
+      "code": "T0012T",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/simulering-av-produktionssystem/1314748"
+    },
+    {
+      "name": "Sjukgymnastik C:1 Idrottsmedicin",
+      "code": "S0004H",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/sjukgymnastik-c1-idrottsmedicin/1314768"
+    },
+    {
+      "name": "Sjukgymnastik C:2 Examensarbete",
+      "code": "S0001H",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/sjukgymnastik-c2-examensarbete/1314772"
+    },
+    {
+      "name": "Skatterätt",
+      "code": "J0028N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/skatteratt/1314791"
+    },
+    {
+      "name": "Sketching and Drawing",
+      "code": "D0054A",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/sketching-and-drawing/5494145"
+    },
+    {
+      "name": "SkissArk I",
+      "code": "D0021A",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/skissark-i/1314793"
+    },
+    {
+      "name": "Skissteknik I",
+      "code": "D0027A",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/skissteknik-i/1314797"
+    },
+    {
+      "name": "Skissteknik II",
+      "code": "D0028A",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/skissteknik-ii/1314801"
+    },
+    {
+      "name": "Skolan och samhället: förr och nu",
+      "code": "H0047N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/skolan-och-samhallet-forr-och-nu/4762589"
+    },
+    {
+      "name": "Snö och is",
+      "code": "G0008B",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/sno-och-is/1314814"
+    },
+    {
+      "name": "Social Stratifiering",
+      "code": "S0069A",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/social-stratifiering/6708206"
+    },
+    {
+      "name": "Socialpsykologi",
+      "code": "S0052A",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/socialpsykologi/4548483"
+    },
+    {
+      "name": "Socialpsykologi I",
+      "code": "P0043A",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/socialpsykologi-i/4762917"
+    },
+    {
+      "name": "Socialpsykologi II",
+      "code": "S0025A",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/socialpsykologi-ii/1314810"
+    },
+    {
+      "name": "Socialpsykologi: psykologiska perspektiv",
+      "code": "P0063A",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/socialpsykologi-psykologiska-perspektiv/4737260"
+    },
+    {
+      "name": "Socialrätt",
+      "code": "J0035N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/socialratt/1314824"
+    },
+    {
+      "name": "Solsystemets fysik",
+      "code": "F7008R",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/solsystemets-fysik/1314828"
+    },
+    {
+      "name": "Space Materials and Structures",
+      "code": "R7024R",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/space-materials-and-structures/5342697"
+    },
+    {
+      "name": "Spanska för nybörjare 1",
+      "code": "L0006S",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/spanska-for-nyborjare-1/1314826"
+    },
+    {
+      "name": "Specialpedagogik A grundkurs",
+      "code": "S0004P",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/specialpedagogik-a-grundkurs/1314834"
+    },
+    {
+      "name": "Specialpedagogik B fortsättningskurs",
+      "code": "S0005P",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/specialpedagogik-b-fortsattningskurs/1314836"
+    },
+    {
+      "name": "Speciell fastighetsrätt",
+      "code": "J0033N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/speciell-fastighetsratt/1314852"
+    },
+    {
+      "name": "Speciell relativitetsteori",
+      "code": "F0044T",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/speciell-relativitetsteori/1314882"
+    },
+    {
+      "name": "Speldesign",
+      "code": "M0001D",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/speldesign/1314866"
+    },
+    {
+      "name": "Statistik 1: undersökningsmetodik",
+      "code": "S0006M",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/statistik-1-undersokningsmetodik/1314880"
+    },
+    {
+      "name": "Statistik 1: undersökningsmetodik",
+      "code": "S0004M",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/statistik-1-undersokningsmetodik/2998394"
+    },
+    {
+      "name": "Statistik 2: slumpmodeller och inferens",
+      "code": "S0007M",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/statistik-2-slumpmodeller-och-inferens/1314883"
+    },
+    {
+      "name": "Statistik 2: slumpmodeller och inferens",
+      "code": "S0005M",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/statistik-2-slumpmodeller-och-inferens/2998396"
+    },
+    {
+      "name": "Statistik och sannolikhetslära för ämneslärare",
+      "code": "N0003P",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/statistik-och-sannolikhetslara-for-amneslarare/4806108"
+    },
+    {
+      "name": "Statistisk fysik och termodynamik",
+      "code": "F7035T",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/statistisk-fysik-och-termodynamik/2998387"
+    },
+    {
+      "name": "Statistisk processtyrning och sex sigma",
+      "code": "K7005N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/statistisk-processtyrning-och-sex-sigma/1314889"
+    },
+    {
+      "name": "Statsvetenskap A Internationell politik",
+      "code": "S0008N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/statsvetenskap-a-internationell-politik/1314887"
+    },
+    {
+      "name": "Statsvetenskap A Jämförande politik",
+      "code": "S0007N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/statsvetenskap-a-jamforande-politik/1314898"
+    },
+    {
+      "name": "Statsvetenskap A Politisk teori",
+      "code": "S0005N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/statsvetenskap-a-politisk-teori/1314900"
+    },
+    {
+      "name": "Statsvetenskap B Politisk teori",
+      "code": "S0009N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/statsvetenskap-b-politisk-teori/1314891"
+    },
+    {
+      "name": "Statsvetenskap B Uppsats",
+      "code": "S0029N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/statsvetenskap-b-uppsats/1314896"
+    },
+    {
+      "name": "Stokastiska signaler",
+      "code": "S7001E",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/stokastiska-signaler/1314936"
+    },
+    {
+      "name": "Strategic Planning",
+      "code": "U7056N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/strategic-planning/1314918"
+    },
+    {
+      "name": "Strategier för global marknadsföring",
+      "code": "M7034N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/strategier-for-global-marknadsforing/1314920"
+    },
+    {
+      "name": "Strategies for e-Business",
+      "code": "W7004N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/strategies-for-e-business/1314924"
+    },
+    {
+      "name": "Strategisk ekonomistyrning",
+      "code": "R7003N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/strategisk-ekonomistyrning/1314930"
+    },
+    {
+      "name": "Strategisk ledning",
+      "code": "E7002N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/strategisk-ledning/1314926"
+    },
+    {
+      "name": "Strategisk ledning",
+      "code": "g0011n",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/strategisk-ledning/5716324"
+    },
+    {
+      "name": "Strategisk management",
+      "code": "O7007N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/strategisk-management/1314938"
+    },
+    {
+      "name": "Strategisk Marknadsplanering",
+      "code": "M0009N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/strategisk-marknadsplanering/1314932"
+    },
+    {
+      "name": "Strategisk tjänstedesign",
+      "code": "I0019N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/strategisk-tjanstedesign/1314956"
+    },
+    {
+      "name": "Stressfysiologi",
+      "code": "H0012H",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/stressfysiologi/1314964"
+    },
+    {
+      "name": "Structural Mechanics II",
+      "code": "F0055T",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/structural-mechanics-ii/7601704"
+    },
+    {
+      "name": "Strukturgeologi",
+      "code": "O0007K",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/strukturgeologi/1314962"
+    },
+    {
+      "name": "Strålningslära och radiologiska modaliteter",
+      "code": "M0050H",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/stralningslara-och-radiologiska-modaliteter/4806112"
+    },
+    {
+      "name": "Strömningsmaskiner",
+      "code": "F7017T",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/stromningsmaskiner/1314952"
+    },
+    {
+      "name": "Strömningsmekanik",
+      "code": "F7016T",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/stromningsmekanik/1314960"
+    },
+    {
+      "name": "Strömningsmekanikens beräkningsmetoder",
+      "code": "F7018T",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/stromningsmekanikens-berakningsmetoder/1314954"
+    },
+    {
+      "name": "Stålkonstruktioner",
+      "code": "S7004B",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/stalkonstruktioner/1314872"
+    },
+    {
+      "name": "Supply Chain Management",
+      "code": "U7062N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/supply-chain-management/1314976"
+    },
+    {
+      "name": "Supply Chain Management: Sourcing och inköp",
+      "code": "M7028N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/supply-chain-management-sourcing-och-inkop/1314968"
+    },
+    {
+      "name": "Svensk och nordisk historia",
+      "code": "H0007N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/svensk-och-nordisk-historia/1314970"
+    },
+    {
+      "name": "Svensk politik och förvaltning",
+      "code": "S0006N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/svensk-politik-och-forvaltning/4594565"
+    },
+    {
+      "name": "Svenska 4 för ämneslärare",
+      "code": "S0038P",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/svenska-4-for-amneslarare/4148741"
+    },
+    {
+      "name": "Svenska för grundlärare 4-6 del 1",
+      "code": "U0001S",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/svenska-for-grundlarare-4-6-del-1/1314986"
+    },
+    {
+      "name": "Svenska för grundlärare 4-6 del 2",
+      "code": "S0036P",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/svenska-for-grundlarare-4-6-del-2/1314972"
+    },
+    {
+      "name": "Svenska för grundlärare F-3 del 1",
+      "code": "U0002S",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/svenska-for-grundlarare-f-3-del-1/1314974"
+    },
+    {
+      "name": "Svenska för internationella studenter 1",
+      "code": "S0046P",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/svenska-for-internationella-studenter-1/1314980"
+    },
+    {
+      "name": "Svenska för nybörjare 2",
+      "code": "SX009S",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/svenska-for-nyborjare-2/4767607"
+    },
+    {
+      "name": "Svenska som andraspråk för lärare åk 4-6",
+      "code": "B0006P",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/svenska-som-andrasprak-for-larare-ak-4-6/1314992"
+    },
+    {
+      "name": "Svenska språket fortsättningskurs",
+      "code": "S0048P",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/svenska-spraket-fortsattningskurs/1314998"
+    },
+    {
+      "name": "Svenska språket grundkurs",
+      "code": "S0044P",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/svenska-spraket-grundkurs/1315000"
+    },
+    {
+      "name": "Sverige och Norden i världen samhälle natur och kultur",
+      "code": "H0036N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/sverige-och-norden-i-varlden-samhalle-natur-och-kultur/1314996"
+    },
+    {
+      "name": "Sveriges politiska och rättsliga system",
+      "code": "P0006N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/sveriges-politiska-och-rattsliga-system/4762595"
+    },
+    {
+      "name": "Säkerhet i infrastruktur",
+      "code": "A7007E",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/sakerhet-i-infrastruktur/1314676"
+    },
+    {
+      "name": "Säkerhet och miljö",
+      "code": "P0057A",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/sakerhet-och-miljo/4762912"
+    },
+    {
+      "name": "Säkerhetsjuridik I",
+      "code": "J0034N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/sakerhetsjuridik-i/1314692"
+    },
+    {
+      "name": "Säkerhetsjuridik II",
+      "code": "J0037N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/sakerhetsjuridik-ii/4806153"
+    },
+    {
+      "name": "Säkra E-tjänster I",
+      "code": "A7003N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/sakra-e-tjanster-i/1314710"
+    },
+    {
+      "name": "Sötvattengeokemi",
+      "code": "L7021K",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/sotvattengeokemi/1314832"
+    },
+    {
+      "name": "Technology- and management trends in industrial engineering: Innovation and strategic business development",
+      "code": "E7014N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/technology-and-management-trends-in-industrial-engineering-innovation-and-strategic-business-development/7762391"
+    },
+    {
+      "name": "Teknikhistoria",
+      "code": "H0001N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/teknikhistoria/1315022"
+    },
+    {
+      "name": "Teknisk Arkitektur",
+      "code": "F0007B",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/teknisk-arkitektur/1315026"
+    },
+    {
+      "name": "Teknisk Mekanik",
+      "code": "f0059t",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/teknisk-mekanik/4751400"
+    },
+    {
+      "name": "Teknisk psykologi 1",
+      "code": "P0054A",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/teknisk-psykologi-1/1315036"
+    },
+    {
+      "name": "Teknisk psykologi 2",
+      "code": "P7026A",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/teknisk-psykologi-2/1315032"
+    },
+    {
+      "name": "Tektonisk utveckling och naturresurser i den svenska berggrunden",
+      "code": "O7020K",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/tektonisk-utveckling-och-naturresurser-i-den-svenska-berggrunden/1315050"
+    },
+    {
+      "name": "Teorier om människa och samhälle",
+      "code": "P0005N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/teorier-om-manniska-och-samhalle/4762593"
+    },
+    {
+      "name": "Termodynamik och värmetransport",
+      "code": "F0032T",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/termodynamik-och-varmetransport/1315046"
+    },
+    {
+      "name": "Test av IT-system",
+      "code": "I0015N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/test-av-it-system/1315048"
+    },
+    {
+      "name": "Tiden Skapar Världen",
+      "code": "H0031N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/tiden-skapar-varlden/5811857"
+    },
+    {
+      "name": "Tillförlitlighetsanalys i underhåll",
+      "code": "D0016B",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/tillforlitlighetsanalys-i-underhall/4756120"
+    },
+    {
+      "name": "Tillverkning, automation och material",
+      "code": "T0026T",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/tillverkning-automation-och-material/7355345"
+    },
+    {
+      "name": "Tillverkningsmetoder",
+      "code": "T0019T",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/tillverkningsmetoder/1315104"
+    },
+    {
+      "name": "Tillverkningsmetoder II",
+      "code": "T7019T",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/tillverkningsmetoder-ii/1315086"
+    },
+    {
+      "name": "Tillverkningsteknik B",
+      "code": "T0017T",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/tillverkningsteknik-b/1315088"
+    },
+    {
+      "name": "Tillämpad bergmekanik",
+      "code": "T7020B",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/tillampad-bergmekanik/1315054"
+    },
+    {
+      "name": "Tillämpad geofysik grundkurs",
+      "code": "O0001K",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/tillampad-geofysik-grundkurs/1315052"
+    },
+    {
+      "name": "Tillämpad hydraulik",
+      "code": "V0012B",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/tillampad-hydraulik/4756604"
+    },
+    {
+      "name": "Tillämpad matematik",
+      "code": "M7018M",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/tillampad-matematik/1315058"
+    },
+    {
+      "name": "Tillämpad matematik",
+      "code": "M0012M",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/tillampad-matematik/2998040"
+    },
+    {
+      "name": "Tillämpad matematik",
+      "code": "N0005N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/tillampad-matematik/3040960"
+    },
+    {
+      "name": "Tillämpad matematik för teknisk mekanik",
+      "code": "M7027M",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/tillampad-matematik-for-teknisk-mekanik/4806110"
+    },
+    {
+      "name": "Tillämpad modellering och simulering",
+      "code": "M0025T",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/tillampad-modellering-och-simulering/1315062"
+    },
+    {
+      "name": "Tillämpad operationsanalys",
+      "code": "D0001B",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/tillampad-operationsanalys/1315068"
+    },
+    {
+      "name": "Tillämpad Riskhantering",
+      "code": "K0017B",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/tillampad-riskhantering/6283218"
+    },
+    {
+      "name": "Tillämpad signalbehandling",
+      "code": "S7011E",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/tillampad-signalbehandling/1315070"
+    },
+    {
+      "name": "Tillämpad sociologi",
+      "code": "S0002A",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/tillampad-sociologi/1315078"
+    },
+    {
+      "name": "Tillämpad sprängteknik",
+      "code": "T7006B",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/tillampad-sprangteknik/1315072"
+    },
+    {
+      "name": "Tillämpad statistik för ekonomer och samhällsvetare",
+      "code": "G0018N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/tillampad-statistik-for-ekonomer-och-samhallsvetare/6880200"
+    },
+    {
+      "name": "Tjänstearkitektur",
+      "code": "I0017N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/tjanstearkitektur/1315098"
+    },
+    {
+      "name": "Trafik för en attraktiv stad",
+      "code": "C7001B",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/trafik-for-en-attraktiv-stad/1315106"
+    },
+    {
+      "name": "Träindustriella tillverkningsprocesser och materialoptimering",
+      "code": "W0009T",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/traindustriella-tillverkningsprocesser-och-materialoptimering/1315110"
+    },
+    {
+      "name": "Träteknisk fördjupningskurs 1",
+      "code": "W7002T",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/trateknisk-fordjupningskurs-1/1315130"
+    },
+    {
+      "name": "Trådlösa och mobila nätverk",
+      "code": "D0030D",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/tradlosa-och-mobila-natverk/1315136"
+    },
+    {
+      "name": "Tunnelprojektering",
+      "code": "T7023B",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/tunnelprojektering/7767458"
+    },
+    {
+      "name": "Tyska för nybörjare 1",
+      "code": "L0007S",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/tyska-for-nyborjare-1/1315143"
+    },
+    {
+      "name": "Underhållsstrategi",
+      "code": "D0010B",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/underhallsstrategi/1315145"
+    },
+    {
+      "name": "Universell design",
+      "code": "P0011A",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/universell-design/1315149"
+    },
+    {
+      "name": "Upplagsteknik",
+      "code": "A7001B",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/upplagsteknik/1315163"
+    },
+    {
+      "name": "Urban design",
+      "code": "F0002B",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/urban-design/1315165"
+    },
+    {
+      "name": "Urban Design",
+      "code": "F0021B",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/urban-design/6053479"
+    },
+    {
+      "name": "Urbanmorfologi",
+      "code": "F7003B",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/urbanmorfologi/1315172"
+    },
+    {
+      "name": "Usability and user experience",
+      "code": "D0046A",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/usability-and-user-experience/7670736"
+    },
+    {
+      "name": "Utredningsmetodik",
+      "code": "S0038A",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/utredningsmetodik/1315185"
+    },
+    {
+      "name": "Utveckling av informationssystem",
+      "code": "D0020N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/utveckling-av-informationssystem/1315191"
+    },
+    {
+      "name": "Utveckling av system för digitalt bevarande",
+      "code": "B7006N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/utveckling-av-system-for-digitalt-bevarande/1315187"
+    },
+    {
+      "name": "Utvecklingspsykologi",
+      "code": "P0034A",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/utvecklingspsykologi/1315195"
+    },
+    {
+      "name": "Utvärdering",
+      "code": "S0039N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/utvardering/1315180"
+    },
+    {
+      "name": "VA-system",
+      "code": "V0016B",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/va-system/1315231"
+    },
+    {
+      "name": "Vattenkemi",
+      "code": "K0006K",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/vattenkemi/1315247"
+    },
+    {
+      "name": "Vattenkraft - från vatten till el",
+      "code": "G0014B",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/vattenkraft-fran-vatten-till-el/4806157"
+    },
+    {
+      "name": "Verksamhetsutveckling med hjälp av IT",
+      "code": "I0001N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/verksamhetsutveckling-med-hjalp-av-it/1315251"
+    },
+    {
+      "name": "Verktyg för byggkalkyler och rapporter",
+      "code": "Y0008B",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/verktyg-for-byggkalkyler-och-rapporter/1315237"
+    },
+    {
+      "name": "Vetenskap och etik: Introduktion för samhällsvetare",
+      "code": "G0009N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/vetenskap-och-etik-introduktion-for-samhallsvetare/1315239"
+    },
+    {
+      "name": "Vetenskap och forskningsdesign",
+      "code": "S0037N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/vetenskap-och-forskningsdesign/1315242"
+    },
+    {
+      "name": "Vetenskaplig Metod",
+      "code": "G0006N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/vetenskaplig-metod/3553778"
+    },
+    {
+      "name": "Vetenskaplig metod T",
+      "code": "M7012N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/vetenskaplig-metod-t/1315257"
+    },
+    {
+      "name": "Vetenskaplig teori och metod I",
+      "code": "G0001N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/vetenskaplig-teori-och-metod-i/1315253"
+    },
+    {
+      "name": "Vetenskaplig teori och metod II",
+      "code": "G0002N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/vetenskaplig-teori-och-metod-ii/1315260"
+    },
+    {
+      "name": "Vetenskapliga metoder för teknisk design",
+      "code": "D7016A",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/vetenskapliga-metoder-for-teknisk-design/1315255"
+    },
+    {
+      "name": "Vetenskapsteori",
+      "code": "P0044A",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/vetenskapsteori/1315269"
+    },
+    {
+      "name": "Vetenskapsteori, forskningsmetodik och statistik",
+      "code": "F0014P",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/vetenskapsteori-forskningsmetodik-och-statistik/4762582"
+    },
+    {
+      "name": "Vetenskapsteori, metod och etik",
+      "code": "G0012N",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/vetenskapsteori-metod-och-etik/4512977"
+    },
+    {
+      "name": "Vindkraftsteknik",
+      "code": "F7046T",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/vindkraftsteknik/4800560"
+    },
+    {
+      "name": "Visuell design",
+      "code": "D0052A",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/visuell-design/5883958"
+    },
+    {
+      "name": "Visuell gestaltning 1",
+      "code": "w0021f",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/visuell-gestaltning-1/4806098"
+    },
+    {
+      "name": "Visuell gestaltning 2",
+      "code": "w0022f",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/visuell-gestaltning-2/4806097"
+    },
+    {
+      "name": "Vägar och järnvägar",
+      "code": "G0002B",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/vagar-och-jarnvagar/1315197"
+    },
+    {
+      "name": "Värme- och ventilationsteknik",
+      "code": "F0034T",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/varme-och-ventilationsteknik/1315221"
+    },
+    {
+      "name": "Värmebehandling och ugnsteknik",
+      "code": "Q0040B",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/varmebehandling-och-ugnsteknik/1315225"
+    },
+    {
+      "name": "Värmelära",
+      "code": "w0007T",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/varmelara/4762620"
+    },
+    {
+      "name": "Vågor och antenner",
+      "code": "E7026E",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/vagor-och-antenner/4806162"
+    },
+    {
+      "name": "Vård och omvårdnad av äldre",
+      "code": "O0104H",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/vard-och-omvardnad-av-aldre/7232160"
+    },
+    {
+      "name": "Vård och omvårdnad vi akuta sjukdomstillstånd",
+      "code": "O0105H",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/vard-och-omvardnad-vi-akuta-sjukdomstillstand/7368532"
+    },
+    {
+      "name": "Vård och omvårdnad vid komplexa behov",
+      "code": "O0107H",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/vard-och-omvardnad-vid-komplexa-behov/7511651"
+    },
+    {
+      "name": "Vård och omvårdnad vid medicinska och kirurgiska",
+      "code": "O0096H",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/vard-och-omvardnad-vid-medicinska-och-kirurgiska/4375706"
+    },
+    {
+      "name": "Vård och omvårdnad vid psykisk ohälsa",
+      "code": "O0097h",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/vard-och-omvardnad-vid-psykisk-ohalsa/7360952"
+    },
+    {
+      "name": "Webbutveckling I - Introduktion",
+      "code": "D0015D",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/webbutveckling-i-introduktion/1315277"
+    },
+    {
+      "name": "Ytor",
+      "code": "T7004T",
+      "url": "https://www.studocu.com/sv/course/lulea-tekniska-universitet/ytor/1315289"
+    }
+  ]
+}

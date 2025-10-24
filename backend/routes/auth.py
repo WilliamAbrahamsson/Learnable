@@ -53,52 +53,7 @@ def create_jwt_token(user: User) -> str:
 
 
 # ---------------------------
-# Signup
-# ---------------------------
-@auth_bp.route("/signup", methods=["POST"])
-def signup():
-    data = request.get_json(silent=True) or {}
-    email = (data.get("email") or "").strip()
-    username = (data.get("username") or "").strip() or None
-    password = (data.get("password") or "").strip()
-
-    if not email or not password:
-        return jsonify({"error": "Email and password required"}), 400
-
-    existing = User.query.filter_by(email=email).first()
-    if existing:
-        # If password matches, log them in instead
-        if check_password_hash(existing.password_hash, password):
-            token = create_jwt_token(existing)
-            return jsonify(
-                {
-                    "success": True,
-                    "token": token,
-                    "user": existing.to_public_dict(),
-                    "message": "Welcome back! You are signed in.",
-                }
-            )
-        return jsonify({"error": "Email already registered"}), 400
-
-    # Create new user with default token balance (handled by model default)
-    hashed = generate_password_hash(password)
-    user = User(email=email, username=username, password_hash=hashed)
-    db.session.add(user)
-    db.session.commit()
-
-    token = create_jwt_token(user)
-    return jsonify(
-        {
-            "success": True,
-            "token": token,
-            "user": user.to_public_dict(),
-            "message": "Account created successfully. Welcome aboard!",
-        }
-    )
-
-
-# ---------------------------
-# Token extraction & decorator
+# Token extraction helper
 # ---------------------------
 def _extract_token() -> Optional[str]:
     auth_header = request.headers.get("Authorization", "")
@@ -114,7 +69,6 @@ def authenticate_token(view_func):
         token = _extract_token()
         if not token:
             return jsonify({"error": "Unauthorized"}), 401
-
         try:
             payload = jwt.decode(token, JWT_SECRET, algorithms=["HS256"])
         except jwt.ExpiredSignatureError:
@@ -132,10 +86,41 @@ def authenticate_token(view_func):
 
         g.current_user = user
         g.current_user_payload = payload
-
         return view_func(*args, **kwargs)
-
     return wrapper
+
+
+# ---------------------------
+# Signup
+# ---------------------------
+@auth_bp.route("/signup", methods=["POST"])
+def signup():
+    data = request.get_json(silent=True) or {}
+    email = (data.get("email") or "").strip()
+    username = (data.get("username") or "").strip() or None
+    password = (data.get("password") or "").strip()
+
+    if not email or not password:
+        return jsonify({"error": "Email and password required"}), 400
+
+    existing = User.query.filter_by(email=email).first()
+    if existing:
+        if check_password_hash(existing.password_hash, password):
+            token = create_jwt_token(existing)
+            return jsonify(
+                {"success": True, "token": token, "user": existing.to_public_dict(), "message": "Welcome back!"}
+            )
+        return jsonify({"error": "Email already registered"}), 400
+
+    hashed = generate_password_hash(password)
+    user = User(email=email, username=username, password_hash=hashed)
+    db.session.add(user)
+    db.session.commit()
+
+    token = create_jwt_token(user)
+    return jsonify(
+        {"success": True, "token": token, "user": user.to_public_dict(), "message": "Account created successfully."}
+    )
 
 
 # ---------------------------
@@ -156,12 +141,7 @@ def signin():
 
     token = create_jwt_token(user)
     return jsonify(
-        {
-            "success": True,
-            "token": token,
-            "user": user.to_public_dict(),
-            "message": "Signed in successfully.",
-        }
+        {"success": True, "token": token, "user": user.to_public_dict(), "message": "Signed in successfully."}
     )
 
 
@@ -180,17 +160,13 @@ def google_signin():
 
     if not GOOGLE_AUTH_ENABLED:
         return jsonify(
-            {
-                "error": "google-auth not installed on this server.",
-                "hint": "Run: pip install google-auth google-auth-oauthlib",
-            }
+            {"error": "google-auth not installed.", "hint": "Run: pip install google-auth google-auth-oauthlib"}
         ), 500
 
     try:
         req = google_requests.Request()
         idinfo = google_id_token.verify_oauth2_token(id_token_str, req, GOOGLE_CLIENT_ID)
-        iss = idinfo.get("iss")
-        if iss not in ("accounts.google.com", "https://accounts.google.com"):
+        if idinfo.get("iss") not in ("accounts.google.com", "https://accounts.google.com"):
             return jsonify({"error": "Invalid token issuer."}), 401
 
         email = idinfo.get("email")
@@ -205,12 +181,10 @@ def google_signin():
 
     user = User.query.filter_by(email=email).first()
     if not user:
-        # Create new Google user with default token balance
-        random_hash = generate_password_hash(os.urandom(16).hex())
         user = User(
             email=email,
             username=name,
-            password_hash=random_hash,
+            password_hash=generate_password_hash(os.urandom(16).hex()),
             google_id=google_sub,
             profile_picture=picture,
             is_google_account=1,
@@ -218,25 +192,12 @@ def google_signin():
         db.session.add(user)
         db.session.commit()
     else:
-        changed = False
-        if not getattr(user, "google_id", None) and google_sub:
-            user.google_id = google_sub
-            changed = True
-        if picture and getattr(user, "profile_picture", None) != picture:
+        if picture and user.profile_picture != picture:
             user.profile_picture = picture
-            changed = True
-        if changed:
             db.session.commit()
 
     token = create_jwt_token(user)
-    return jsonify(
-        {
-            "success": True,
-            "token": token,
-            "user": user.to_public_dict(),
-            "message": "Signed in with Google successfully.",
-        }
-    )
+    return jsonify({"success": True, "token": token, "user": user.to_public_dict(), "message": "Signed in with Google."})
 
 
 # ---------------------------
@@ -245,10 +206,26 @@ def google_signin():
 @auth_bp.route("/me", methods=["GET"])
 @authenticate_token
 def get_current_user():
-    """Return the currently authenticated user's public data, including token balance."""
-    return jsonify(
-        {
-            "success": True,
-            "user": g.current_user.to_public_dict(),
-        }
-    )
+    return jsonify({"success": True, "user": g.current_user.to_public_dict()})
+
+
+# ---------------------------
+# Update profile (username + password)
+# ---------------------------
+@auth_bp.route("/update_profile", methods=["POST"])
+@authenticate_token
+def update_profile():
+    user = g.current_user
+    data = request.get_json(silent=True) or {}
+
+    username = data.get("username")
+    new_password = data.get("password")
+
+    if username:
+        user.username = username.strip()
+
+    if new_password:
+        user.password_hash = generate_password_hash(new_password.strip())
+
+    db.session.commit()
+    return jsonify({"success": True, "message": "Profile updated successfully.", "user": user.to_public_dict()})

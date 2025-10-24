@@ -1,0 +1,596 @@
+{
+  "university_id": "1106",
+  "university_name": "Daffodil International University",
+  "courses": [
+    {
+      "name": "19th Century English Literature I",
+      "code": "ENG332",
+      "url": "https://www.studocu.com/row/course/daffodil-international-university/19th-century-english-literature-i/7675092"
+    },
+    {
+      "name": "Accounting",
+      "code": "ACC 214",
+      "url": "https://www.studocu.com/row/course/daffodil-international-university/accounting/3239015"
+    },
+    {
+      "name": "Administrative Law",
+      "code": "LAW 303",
+      "url": "https://www.studocu.com/row/course/daffodil-international-university/administrative-law/4824515"
+    },
+    {
+      "name": "Advanced Graph Theory",
+      "code": "CSE 507",
+      "url": "https://www.studocu.com/row/course/daffodil-international-university/advanced-graph-theory/6312132"
+    },
+    {
+      "name": "Algorithm",
+      "code": "CSE 221",
+      "url": "https://www.studocu.com/row/course/daffodil-international-university/algorithm/4499164"
+    },
+    {
+      "name": "Arch  Dissertation",
+      "code": "504",
+      "url": "https://www.studocu.com/row/course/daffodil-international-university/arch-dissertation/5194701"
+    },
+    {
+      "name": "Art of Living",
+      "code": "AOL101",
+      "url": "https://www.studocu.com/row/course/daffodil-international-university/art-of-living/6201523"
+    },
+    {
+      "name": "Artificial Intelligence",
+      "code": "CSE 315",
+      "url": "https://www.studocu.com/row/course/daffodil-international-university/artificial-intelligence/6312101"
+    },
+    {
+      "name": "Bangladesh studies",
+      "code": "GED121",
+      "url": "https://www.studocu.com/row/course/daffodil-international-university/bangladesh-studies/5947269"
+    },
+    {
+      "name": "Basic Electronic",
+      "code": "(CSE 213)",
+      "url": "https://www.studocu.com/row/course/daffodil-international-university/basic-electronic/5953676"
+    },
+    {
+      "name": "Basic Electronics Lab",
+      "code": "CSE213",
+      "url": "https://www.studocu.com/row/course/daffodil-international-university/basic-electronics-lab/6005473"
+    },
+    {
+      "name": "Basic Human Nutrition",
+      "code": "0511-1105",
+      "url": "https://www.studocu.com/row/course/daffodil-international-university/basic-human-nutrition/5922001"
+    },
+    {
+      "name": "Business Application Design",
+      "code": "CSE124",
+      "url": "https://www.studocu.com/row/course/daffodil-international-university/business-application-design/5128167"
+    },
+    {
+      "name": "Business Communication",
+      "code": "BUS-202",
+      "url": "https://www.studocu.com/row/course/daffodil-international-university/business-communication/6206168"
+    },
+    {
+      "name": "business fundamental",
+      "code": "0411-115",
+      "url": "https://www.studocu.com/row/course/daffodil-international-university/business-fundamental/6888741"
+    },
+    {
+      "name": "Business Mathematics",
+      "code": "MAT 102",
+      "url": "https://www.studocu.com/row/course/daffodil-international-university/business-mathematics/5839580"
+    },
+    {
+      "name": "Business Research Methodology",
+      "code": "BUS-306",
+      "url": "https://www.studocu.com/row/course/daffodil-international-university/business-research-methodology/5406190"
+    },
+    {
+      "name": "C programming - String Operation",
+      "code": "MIdiuCsO1.1",
+      "url": "https://www.studocu.com/row/course/daffodil-international-university/c-programming-string-operation/4363520"
+    },
+    {
+      "name": "Career Planning and Development",
+      "code": "MGT410",
+      "url": "https://www.studocu.com/row/course/daffodil-international-university/career-planning-and-development/6594900"
+    },
+    {
+      "name": "Chemistry I",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/daffodil-international-university/chemistry-i/7077390"
+    },
+    {
+      "name": "Communicative English",
+      "code": "0231-111",
+      "url": "https://www.studocu.com/row/course/daffodil-international-university/communicative-english/6888761"
+    },
+    {
+      "name": "Compensation Management",
+      "code": "MGT406",
+      "url": "https://www.studocu.com/row/course/daffodil-international-university/compensation-management/6594906"
+    },
+    {
+      "name": "Compiler Design",
+      "code": "CSE 331",
+      "url": "https://www.studocu.com/row/course/daffodil-international-university/compiler-design/5823929"
+    },
+    {
+      "name": "Compiler Design",
+      "code": "CSE332",
+      "url": "https://www.studocu.com/row/course/daffodil-international-university/compiler-design/6178517"
+    },
+    {
+      "name": "Computer Architecture and Organization",
+      "code": "Spring 22",
+      "url": "https://www.studocu.com/row/course/daffodil-international-university/computer-architecture-and-organization/7604472"
+    },
+    {
+      "name": "computer fundamentals",
+      "code": "SE111",
+      "url": "https://www.studocu.com/row/course/daffodil-international-university/computer-fundamentals/4482322"
+    },
+    {
+      "name": "computer graphics question",
+      "code": "cse421",
+      "url": "https://www.studocu.com/row/course/daffodil-international-university/computer-graphics-question/4528416"
+    },
+    {
+      "name": "Computer Networks",
+      "code": "CSE313",
+      "url": "https://www.studocu.com/row/course/daffodil-international-university/computer-networks/5842549"
+    },
+    {
+      "name": "Computer Networks Lab",
+      "code": "CIS 211L",
+      "url": "https://www.studocu.com/row/course/daffodil-international-university/computer-networks-lab/6429375"
+    },
+    {
+      "name": "Corporate  law",
+      "code": "BLWA19652",
+      "url": "https://www.studocu.com/row/course/daffodil-international-university/corporate-law/7153675"
+    },
+    {
+      "name": "Corporate Law",
+      "code": "BLAW2001",
+      "url": "https://www.studocu.com/row/course/daffodil-international-university/corporate-law/4088809"
+    },
+    {
+      "name": "Course offer fall",
+      "code": "EEE - 202",
+      "url": "https://www.studocu.com/row/course/daffodil-international-university/course-offer-fall/5476281"
+    },
+    {
+      "name": "Criminology",
+      "code": "LAW 403",
+      "url": "https://www.studocu.com/row/course/daffodil-international-university/criminology/4392136"
+    },
+    {
+      "name": "Curriculum design",
+      "code": "ELT 400",
+      "url": "https://www.studocu.com/row/course/daffodil-international-university/curriculum-design/6723313"
+    },
+    {
+      "name": "Data Communications",
+      "code": "CSE225",
+      "url": "https://www.studocu.com/row/course/daffodil-international-university/data-communications/5380301"
+    },
+    {
+      "name": "Data Mining",
+      "code": "CSE450",
+      "url": "https://www.studocu.com/row/course/daffodil-international-university/data-mining/5729295"
+    },
+    {
+      "name": "Data Mining and Machine Learning",
+      "code": "CSE-321",
+      "url": "https://www.studocu.com/row/course/daffodil-international-university/data-mining-and-machine-learning/6938515"
+    },
+    {
+      "name": "Data Structures",
+      "code": "CSE-132",
+      "url": "https://www.studocu.com/row/course/daffodil-international-university/data-structures/4455152"
+    },
+    {
+      "name": "Database",
+      "code": "CSE311",
+      "url": "https://www.studocu.com/row/course/daffodil-international-university/database/5253314"
+    },
+    {
+      "name": "Database System",
+      "code": "SE223",
+      "url": "https://www.studocu.com/row/course/daffodil-international-university/database-system/6405087"
+    },
+    {
+      "name": "Descrite Math",
+      "code": "SE123",
+      "url": "https://www.studocu.com/row/course/daffodil-international-university/descrite-math/4482326"
+    },
+    {
+      "name": "Dietetics",
+      "code": "NFE 223",
+      "url": "https://www.studocu.com/row/course/daffodil-international-university/dietetics/6604998"
+    },
+    {
+      "name": "Digital Electronics",
+      "code": "EEE 311",
+      "url": "https://www.studocu.com/row/course/daffodil-international-university/digital-electronics/4346567"
+    },
+    {
+      "name": "Digital Electronics Lab",
+      "code": "CSE224",
+      "url": "https://www.studocu.com/row/course/daffodil-international-university/digital-electronics-lab/5380297"
+    },
+    {
+      "name": "Digital Logic Design lab",
+      "code": "CSE224",
+      "url": "https://www.studocu.com/row/course/daffodil-international-university/digital-logic-design-lab/7398983"
+    },
+    {
+      "name": "Discrete Mathmatics",
+      "code": "CSE212",
+      "url": "https://www.studocu.com/row/course/daffodil-international-university/discrete-mathmatics/7616944"
+    },
+    {
+      "name": "Economics",
+      "code": "101",
+      "url": "https://www.studocu.com/row/course/daffodil-international-university/economics/4419257"
+    },
+    {
+      "name": "Electrical Circuit I",
+      "code": "EEE 131",
+      "url": "https://www.studocu.com/row/course/daffodil-international-university/electrical-circuit-i/4328509"
+    },
+    {
+      "name": "Electrical Measurement",
+      "code": "EEM1",
+      "url": "https://www.studocu.com/row/course/daffodil-international-university/electrical-measurement/5866166"
+    },
+    {
+      "name": "Emotional Intelligence",
+      "code": "PSYC 1205",
+      "url": "https://www.studocu.com/row/course/daffodil-international-university/emotional-intelligence/7716618"
+    },
+    {
+      "name": "Employability Skills",
+      "code": "EMP360",
+      "url": "https://www.studocu.com/row/course/daffodil-international-university/employability-skills/6153379"
+    },
+    {
+      "name": "English 1",
+      "code": "English101",
+      "url": "https://www.studocu.com/row/course/daffodil-international-university/english-1/1501930"
+    },
+    {
+      "name": "Environmental Law",
+      "code": "Law 412",
+      "url": "https://www.studocu.com/row/course/daffodil-international-university/environmental-law/4824508"
+    },
+    {
+      "name": "Ethics and Corporate Governance",
+      "code": "HRM 512",
+      "url": "https://www.studocu.com/row/course/daffodil-international-university/ethics-and-corporate-governance/6569193"
+    },
+    {
+      "name": "Final Defense / Thesis / Project / Internship",
+      "code": "SWE 431 / SE 431",
+      "url": "https://www.studocu.com/row/course/daffodil-international-university/final-defense-thesis-project-internship/6361107"
+    },
+    {
+      "name": "Finance Management System",
+      "code": "FIN232",
+      "url": "https://www.studocu.com/row/course/daffodil-international-university/finance-management-system/3235643"
+    },
+    {
+      "name": "Food & Beverage Production",
+      "code": "THM208",
+      "url": "https://www.studocu.com/row/course/daffodil-international-university/food-beverage-production/3494552"
+    },
+    {
+      "name": "Fundamentals of Banking",
+      "code": "BNK-201",
+      "url": "https://www.studocu.com/row/course/daffodil-international-university/fundamentals-of-banking/6614339"
+    },
+    {
+      "name": "hfghfng",
+      "code": "jkgjkgjgjm",
+      "url": "https://www.studocu.com/row/course/daffodil-international-university/hfghfng/6027531"
+    },
+    {
+      "name": "history of the Emergence of Bangladesh & Bangla Language & Culture",
+      "code": "0222-113",
+      "url": "https://www.studocu.com/row/course/daffodil-international-university/history-of-the-emergence-of-bangladesh-bangla-language-culture/6888745"
+    },
+    {
+      "name": "Human resource management",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/daffodil-international-university/human-resource-management/2573061"
+    },
+    {
+      "name": "Human Resource Management in Hotel and Tourism",
+      "code": "THM 306",
+      "url": "https://www.studocu.com/row/course/daffodil-international-university/human-resource-management-in-hotel-and-tourism/3252909"
+    },
+    {
+      "name": "ICT in business with lab",
+      "code": "0611-114",
+      "url": "https://www.studocu.com/row/course/daffodil-international-university/ict-in-business-with-lab/6888734"
+    },
+    {
+      "name": "Industrial & Operational Management",
+      "code": "IPE331",
+      "url": "https://www.studocu.com/row/course/daffodil-international-university/industrial-operational-management/4567869"
+    },
+    {
+      "name": "Industrial Attachment",
+      "code": "TE 431",
+      "url": "https://www.studocu.com/row/course/daffodil-international-university/industrial-attachment/5976732"
+    },
+    {
+      "name": "information System security",
+      "code": "SE332",
+      "url": "https://www.studocu.com/row/course/daffodil-international-university/information-system-security/5734390"
+    },
+    {
+      "name": "Inorganic Pharmacy-I",
+      "code": "BPH 111",
+      "url": "https://www.studocu.com/row/course/daffodil-international-university/inorganic-pharmacy-i/7203171"
+    },
+    {
+      "name": "International business",
+      "code": "Fin-202",
+      "url": "https://www.studocu.com/row/course/daffodil-international-university/international-business/5833902"
+    },
+    {
+      "name": "Introduction to Bio-informatics",
+      "code": "CSE-235",
+      "url": "https://www.studocu.com/row/course/daffodil-international-university/introduction-to-bio-informatics/4458606"
+    },
+    {
+      "name": "Introduction to Statistics",
+      "code": "Sta - 131",
+      "url": "https://www.studocu.com/row/course/daffodil-international-university/introduction-to-statistics/4316946"
+    },
+    {
+      "name": "IP Law",
+      "code": "law303",
+      "url": "https://www.studocu.com/row/course/daffodil-international-university/ip-law/4988987"
+    },
+    {
+      "name": "Jurisprudence",
+      "code": "Law 104",
+      "url": "https://www.studocu.com/row/course/daffodil-international-university/jurisprudence/7403325"
+    },
+    {
+      "name": "kjkj",
+      "code": "klhklhkl",
+      "url": "https://www.studocu.com/row/course/daffodil-international-university/kjkj/6027529"
+    },
+    {
+      "name": "Machine Learning",
+      "code": "ETE231",
+      "url": "https://www.studocu.com/row/course/daffodil-international-university/machine-learning/4527732"
+    },
+    {
+      "name": "Maritime law",
+      "code": "law501",
+      "url": "https://www.studocu.com/row/course/daffodil-international-university/maritime-law/4977098"
+    },
+    {
+      "name": "Master of Public Health",
+      "code": "MPH01",
+      "url": "https://www.studocu.com/row/course/daffodil-international-university/master-of-public-health/5340297"
+    },
+    {
+      "name": "Mathematics-II: Calculus, Complex Variables and Linear Algebra",
+      "code": "mat121",
+      "url": "https://www.studocu.com/row/course/daffodil-international-university/mathematics-ii-calculus-complex-variables-and-linear-algebra/4914187"
+    },
+    {
+      "name": "Meat technology",
+      "code": "315",
+      "url": "https://www.studocu.com/row/course/daffodil-international-university/meat-technology/6722579"
+    },
+    {
+      "name": "Medicinal Chemistry",
+      "code": "PH-211",
+      "url": "https://www.studocu.com/row/course/daffodil-international-university/medicinal-chemistry/6529254"
+    },
+    {
+      "name": "MIS",
+      "code": "MIS 202",
+      "url": "https://www.studocu.com/row/course/daffodil-international-university/mis/4600306"
+    },
+    {
+      "name": "Muslim Law",
+      "code": "Mus241",
+      "url": "https://www.studocu.com/row/course/daffodil-international-university/muslim-law/7556850"
+    },
+    {
+      "name": "Network Security and Cryptography",
+      "code": "CSE 432",
+      "url": "https://www.studocu.com/row/course/daffodil-international-university/network-security-and-cryptography/6312143"
+    },
+    {
+      "name": "Networking",
+      "code": "NET 125",
+      "url": "https://www.studocu.com/row/course/daffodil-international-university/networking/5822249"
+    },
+    {
+      "name": "Numerical Analysis Laboratory",
+      "code": "EEE 218",
+      "url": "https://www.studocu.com/row/course/daffodil-international-university/numerical-analysis-laboratory/6040300"
+    },
+    {
+      "name": "Nural Laguage Processing",
+      "code": "CSE441",
+      "url": "https://www.studocu.com/row/course/daffodil-international-university/nural-laguage-processing/6978268"
+    },
+    {
+      "name": "Object oriented Program",
+      "code": "CSE215",
+      "url": "https://www.studocu.com/row/course/daffodil-international-university/object-oriented-program/6462851"
+    },
+    {
+      "name": "operating System",
+      "code": "CSE313",
+      "url": "https://www.studocu.com/row/course/daffodil-international-university/operating-system/5817320"
+    },
+    {
+      "name": "Optical Fibre",
+      "code": "EEE - 458",
+      "url": "https://www.studocu.com/row/course/daffodil-international-university/optical-fibre/5476287"
+    },
+    {
+      "name": "Ordinary and partial differential equation",
+      "code": "0541-123",
+      "url": "https://www.studocu.com/row/course/daffodil-international-university/ordinary-and-partial-differential-equation/6242776"
+    },
+    {
+      "name": "Pharmaceutical Technology  II",
+      "code": "BPH-322",
+      "url": "https://www.studocu.com/row/course/daffodil-international-university/pharmaceutical-technology-ii/4509706"
+    },
+    {
+      "name": "Physics",
+      "code": "PHY-101",
+      "url": "https://www.studocu.com/row/course/daffodil-international-university/physics/7692240"
+    },
+    {
+      "name": "Physics 1",
+      "code": "PHY101",
+      "url": "https://www.studocu.com/row/course/daffodil-international-university/physics-1/4482331"
+    },
+    {
+      "name": "Physics II",
+      "code": "PHY102",
+      "url": "https://www.studocu.com/row/course/daffodil-international-university/physics-ii/7321402"
+    },
+    {
+      "name": "Power System Protection",
+      "code": "EEE - 457",
+      "url": "https://www.studocu.com/row/course/daffodil-international-university/power-system-protection/5476232"
+    },
+    {
+      "name": "Principles of Accounting",
+      "code": "ACT 101",
+      "url": "https://www.studocu.com/row/course/daffodil-international-university/principles-of-accounting/4488229"
+    },
+    {
+      "name": "Principles of Marketing",
+      "code": "MKT 305",
+      "url": "https://www.studocu.com/row/course/daffodil-international-university/principles-of-marketing/7400652"
+    },
+    {
+      "name": "Programming Fundamentals",
+      "code": "CS 1101",
+      "url": "https://www.studocu.com/row/course/daffodil-international-university/programming-fundamentals/4818370"
+    },
+    {
+      "name": "public international law",
+      "code": "law 305",
+      "url": "https://www.studocu.com/row/course/daffodil-international-university/public-international-law/4977099"
+    },
+    {
+      "name": "Research & Innovation",
+      "code": "CSE400",
+      "url": "https://www.studocu.com/row/course/daffodil-international-university/research-innovation/7200365"
+    },
+    {
+      "name": "Service marketing",
+      "code": "mkt5005",
+      "url": "https://www.studocu.com/row/course/daffodil-international-university/service-marketing/5351602"
+    },
+    {
+      "name": "Social and Professional Issues in Computing",
+      "code": "CSE 498",
+      "url": "https://www.studocu.com/row/course/daffodil-international-university/social-and-professional-issues-in-computing/6647000"
+    },
+    {
+      "name": "Software Engineering",
+      "code": "CSE333",
+      "url": "https://www.studocu.com/row/course/daffodil-international-university/software-engineering/4340313"
+    },
+    {
+      "name": "software requirment",
+      "code": "SE 212",
+      "url": "https://www.studocu.com/row/course/daffodil-international-university/software-requirment/7477692"
+    },
+    {
+      "name": "Soil Mechanics Sessional",
+      "code": "CE332",
+      "url": "https://www.studocu.com/row/course/daffodil-international-university/soil-mechanics-sessional/6345361"
+    },
+    {
+      "name": "South Asian Fiction and Poetry in English",
+      "code": "ENG 432",
+      "url": "https://www.studocu.com/row/course/daffodil-international-university/south-asian-fiction-and-poetry-in-english/7761408"
+    },
+    {
+      "name": "Strategic HRM",
+      "code": "MGT405",
+      "url": "https://www.studocu.com/row/course/daffodil-international-university/strategic-hrm/6594894"
+    },
+    {
+      "name": "Strategic Management",
+      "code": "MGT-501",
+      "url": "https://www.studocu.com/row/course/daffodil-international-university/strategic-management/5493787"
+    },
+    {
+      "name": "structured programming",
+      "code": "SE121",
+      "url": "https://www.studocu.com/row/course/daffodil-international-university/structured-programming/5850575"
+    },
+    {
+      "name": "System Analysis And Design",
+      "code": "CSE321",
+      "url": "https://www.studocu.com/row/course/daffodil-international-university/system-analysis-and-design/5270404"
+    },
+    {
+      "name": "Taxation",
+      "code": "TAX- 401",
+      "url": "https://www.studocu.com/row/course/daffodil-international-university/taxation/3288026"
+    },
+    {
+      "name": "Textile Fibre",
+      "code": "723-121",
+      "url": "https://www.studocu.com/row/course/daffodil-international-university/textile-fibre/7694028"
+    },
+    {
+      "name": "Textile Wet Processing III",
+      "code": "TE415",
+      "url": "https://www.studocu.com/row/course/daffodil-international-university/textile-wet-processing-iii/4399636"
+    },
+    {
+      "name": "Theory of Computing",
+      "code": "CSE221",
+      "url": "https://www.studocu.com/row/course/daffodil-international-university/theory-of-computing/5382235"
+    },
+    {
+      "name": "Total Quality Management",
+      "code": "MGT407",
+      "url": "https://www.studocu.com/row/course/daffodil-international-university/total-quality-management/6594903"
+    },
+    {
+      "name": "Tour & Travel Agency Mangement",
+      "code": "TTHM-307",
+      "url": "https://www.studocu.com/row/course/daffodil-international-university/tour-travel-agency-mangement/1750629"
+    },
+    {
+      "name": "Transportation Engineering II Lab",
+      "code": "CE 452",
+      "url": "https://www.studocu.com/row/course/daffodil-international-university/transportation-engineering-ii-lab/6196003"
+    },
+    {
+      "name": "Twentieth Century Novel and Drama",
+      "code": "ENG 421",
+      "url": "https://www.studocu.com/row/course/daffodil-international-university/twentieth-century-novel-and-drama/7761422"
+    },
+    {
+      "name": "Wireless and Mobile Communication",
+      "code": "ETE-413",
+      "url": "https://www.studocu.com/row/course/daffodil-international-university/wireless-and-mobile-communication/7215325"
+    }
+  ]
+}

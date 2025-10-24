@@ -1,0 +1,626 @@
+{
+  "university_id": "786",
+  "university_name": "Université Larbi Tebessi de Tébessa",
+  "courses": [
+    {
+      "name": "Algorithmique Et Structure De Données",
+      "code": "ASD123",
+      "url": "https://www.studocu.com/row/course/universite-larbi-tebessi-de-tebessa/algorithmique-et-structure-de-donnees/6662718"
+    },
+    {
+      "name": "Analyses Des Données Expérimentales Biologiques",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/universite-larbi-tebessi-de-tebessa/analyses-des-donnees-experimentales-biologiques/5588869"
+    },
+    {
+      "name": "Application De La Pharmacologie À La Physiologie",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/universite-larbi-tebessi-de-tebessa/application-de-la-pharmacologie-a-la-physiologie/5589367"
+    },
+    {
+      "name": "Application mobiles",
+      "code": "AM1",
+      "url": "https://www.studocu.com/row/course/universite-larbi-tebessi-de-tebessa/application-mobiles/6052189"
+    },
+    {
+      "name": "Arabic literature",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/universite-larbi-tebessi-de-tebessa/arabic-literature/6021305"
+    },
+    {
+      "name": "Architecture des Ordinateurs - Licence 2",
+      "code": "a d o",
+      "url": "https://www.studocu.com/row/course/universite-larbi-tebessi-de-tebessa/architecture-des-ordinateurs-licence-2/6058708"
+    },
+    {
+      "name": "Base de donnees",
+      "code": "BDD1",
+      "url": "https://www.studocu.com/row/course/universite-larbi-tebessi-de-tebessa/base-de-donnees/6049945"
+    },
+    {
+      "name": "Bases de données avancées",
+      "code": "BDA",
+      "url": "https://www.studocu.com/row/course/universite-larbi-tebessi-de-tebessa/bases-de-donnees-avancees/6052431"
+    },
+    {
+      "name": "Biochimie Microbienne /M1 Biochimie Appliquee",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/universite-larbi-tebessi-de-tebessa/biochimie-microbienne-m1-biochimie-appliquee/5589333"
+    },
+    {
+      "name": "Biologie Cellulaire",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/universite-larbi-tebessi-de-tebessa/biologie-cellulaire/5587358"
+    },
+    {
+      "name": "Biologie végétale",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/universite-larbi-tebessi-de-tebessa/biologie-vegetale/5133409"
+    },
+    {
+      "name": "Chapitre II: Organisation Du Transport De L'Énergie Électrique",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/universite-larbi-tebessi-de-tebessa/chapitre-ii-organisation-du-transport-de-lenergie-electrique/5588358"
+    },
+    {
+      "name": "Chimie Minérale",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/universite-larbi-tebessi-de-tebessa/chimie-minerale/5589096"
+    },
+    {
+      "name": "Chimie Supramoléculaire",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/universite-larbi-tebessi-de-tebessa/chimie-supramoleculaire/5588901"
+    },
+    {
+      "name": "civilisation Fr",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/universite-larbi-tebessi-de-tebessa/civilisation-fr/6031307"
+    },
+    {
+      "name": "Cloud Computing Et Big Data",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/universite-larbi-tebessi-de-tebessa/cloud-computing-et-big-data/5589056"
+    },
+    {
+      "name": "Compilation",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/universite-larbi-tebessi-de-tebessa/compilation/5589076"
+    },
+    {
+      "name": "Cours De Chimie Organique Industrielle",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/universite-larbi-tebessi-de-tebessa/cours-de-chimie-organique-industrielle/5588908"
+    },
+    {
+      "name": "Crime and Public Security",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/universite-larbi-tebessi-de-tebessa/crime-and-public-security/6056212"
+    },
+    {
+      "name": "data mining",
+      "code": "DM1",
+      "url": "https://www.studocu.com/row/course/universite-larbi-tebessi-de-tebessa/data-mining/6052300"
+    },
+    {
+      "name": "Droit admin",
+      "code": "2018",
+      "url": "https://www.studocu.com/row/course/universite-larbi-tebessi-de-tebessa/droit-admin/7618157"
+    },
+    {
+      "name": "Ecommerce",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/universite-larbi-tebessi-de-tebessa/ecommerce/5589570"
+    },
+    {
+      "name": "Electronique Fondamentale",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/universite-larbi-tebessi-de-tebessa/electronique-fondamentale/5588497"
+    },
+    {
+      "name": "Electrotechnique Fondamentale 1",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/universite-larbi-tebessi-de-tebessa/electrotechnique-fondamentale-1/5588436"
+    },
+    {
+      "name": "Embryologie",
+      "code": "Embr 2024/2025",
+      "url": "https://www.studocu.com/row/course/universite-larbi-tebessi-de-tebessa/embryologie/7183581"
+    },
+    {
+      "name": "English First Level S2",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/universite-larbi-tebessi-de-tebessa/english-first-level-s2/5589227"
+    },
+    {
+      "name": "English For Master 1",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/universite-larbi-tebessi-de-tebessa/english-for-master-1/5589606"
+    },
+    {
+      "name": "Evolution Des Génomes Et Diversité Des Plantes Cultivées",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/universite-larbi-tebessi-de-tebessa/evolution-des-genomes-et-diversite-des-plantes-cultivees/5587452"
+    },
+    {
+      "name": "Étude De L’Activité Biologique",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/universite-larbi-tebessi-de-tebessa/etude-de-lactivite-biologique/5589120"
+    },
+    {
+      "name": "Fiabilité Et Maintenance Des Systèmes Électroniques",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/universite-larbi-tebessi-de-tebessa/fiabilite-et-maintenance-des-systemes-electroniques/5588504"
+    },
+    {
+      "name": "Genie logiciel 1",
+      "code": "GL1",
+      "url": "https://www.studocu.com/row/course/universite-larbi-tebessi-de-tebessa/genie-logiciel-1/6052174"
+    },
+    {
+      "name": "Génie civil",
+      "code": "gc2024",
+      "url": "https://www.studocu.com/row/course/universite-larbi-tebessi-de-tebessa/genie-civil/7524943"
+    },
+    {
+      "name": "Génie mécanique",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/universite-larbi-tebessi-de-tebessa/genie-mecanique/6031419"
+    },
+    {
+      "name": "Généralités Sur La Biologie Médicale",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/universite-larbi-tebessi-de-tebessa/generalites-sur-la-biologie-medicale/5588572"
+    },
+    {
+      "name": "Histoire De L'Algérie Contemporaine Mohamed Eddam",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/universite-larbi-tebessi-de-tebessa/histoire-de-lalgerie-contemporaine-mohamed-eddam/5589617"
+    },
+    {
+      "name": "Hygiène Et Sécurité Des Aliments",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/universite-larbi-tebessi-de-tebessa/hygiene-et-securite-des-aliments/5587643"
+    },
+    {
+      "name": "informatique",
+      "code": "Info 2022",
+      "url": "https://www.studocu.com/row/course/universite-larbi-tebessi-de-tebessa/informatique/5276913"
+    },
+    {
+      "name": "Ingénierie des besoins",
+      "code": "IDB",
+      "url": "https://www.studocu.com/row/course/universite-larbi-tebessi-de-tebessa/ingenierie-des-besoins/6052439"
+    },
+    {
+      "name": "interface homme machine",
+      "code": "IHM1",
+      "url": "https://www.studocu.com/row/course/universite-larbi-tebessi-de-tebessa/interface-homme-machine/6052184"
+    },
+    {
+      "name": "Introduction A L'Archeologie 2",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/universite-larbi-tebessi-de-tebessa/introduction-a-larcheologie-2/5589807"
+    },
+    {
+      "name": "Introduction Aux Probabilités Et Statistiques",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/universite-larbi-tebessi-de-tebessa/introduction-aux-probabilites-et-statistiques/5589674"
+    },
+    {
+      "name": "Introduction aux réseaux licence 2",
+      "code": "RESL2",
+      "url": "https://www.studocu.com/row/course/universite-larbi-tebessi-de-tebessa/introduction-aux-reseaux-licence-2/6051508"
+    },
+    {
+      "name": "Langue Etrangère 2",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/universite-larbi-tebessi-de-tebessa/langue-etrangere-2/5589152"
+    },
+    {
+      "name": "Lettre et langue française",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/universite-larbi-tebessi-de-tebessa/lettre-et-langue-francaise/6031379"
+    },
+    {
+      "name": "Linguistics",
+      "code": "11",
+      "url": "https://www.studocu.com/row/course/universite-larbi-tebessi-de-tebessa/linguistics/2185000"
+    },
+    {
+      "name": "marketing",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/universite-larbi-tebessi-de-tebessa/marketing/4447340"
+    },
+    {
+      "name": "Marketing & Cyber-Marketing",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/universite-larbi-tebessi-de-tebessa/marketing-cyber-marketing/5589586"
+    },
+    {
+      "name": "Matériaux D'Électrotechniques",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/universite-larbi-tebessi-de-tebessa/materiaux-delectrotechniques/5588346"
+    },
+    {
+      "name": "Matériel Génétique",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/universite-larbi-tebessi-de-tebessa/materiel-genetique/5587349"
+    },
+    {
+      "name": "Méthodes De Conception Des Systèmes D'Information",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/universite-larbi-tebessi-de-tebessa/methodes-de-conception-des-systemes-dinformation/5589060"
+    },
+    {
+      "name": "Méthodologie De La Recherche Scientifique",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/universite-larbi-tebessi-de-tebessa/methodologie-de-la-recherche-scientifique/5589541"
+    },
+    {
+      "name": "Narrative speech",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/universite-larbi-tebessi-de-tebessa/narrative-speech/6021265"
+    },
+    {
+      "name": "Nutrition Carbonée",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/universite-larbi-tebessi-de-tebessa/nutrition-carbonee/5587606"
+    },
+    {
+      "name": "Operation systems",
+      "code": "SE1",
+      "url": "https://www.studocu.com/row/course/universite-larbi-tebessi-de-tebessa/operation-systems/6051513"
+    },
+    {
+      "name": "Optoélectronique",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/universite-larbi-tebessi-de-tebessa/optoelectronique/5588364"
+    },
+    {
+      "name": "Petrologie du roches metamorphique",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/universite-larbi-tebessi-de-tebessa/petrologie-du-roches-metamorphique/7344681"
+    },
+    {
+      "name": "Physiologie Animale (2 Eme Année Tc Sciences Alimentaires)",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/universite-larbi-tebessi-de-tebessa/physiologie-animale-2-eme-annee-tc-sciences-alimentaires/5587663"
+    },
+    {
+      "name": "Programmation Avancée Web",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/universite-larbi-tebessi-de-tebessa/programmation-avancee-web/5589557"
+    },
+    {
+      "name": "Régulation Et Communication Cellulaire.",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/universite-larbi-tebessi-de-tebessa/regulation-et-communication-cellulaire/5588881"
+    },
+    {
+      "name": "Réseaux Informatique d'Organisation",
+      "code": "RIO1",
+      "url": "https://www.studocu.com/row/course/universite-larbi-tebessi-de-tebessa/reseaux-informatique-dorganisation/6052306"
+    },
+    {
+      "name": "Structure (3Ème Année Architecture Lmd)",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/universite-larbi-tebessi-de-tebessa/structure-3eme-annee-architecture-lmd/5588202"
+    },
+    {
+      "name": "Structure Et Fonction De Gène (Benlakehal A -2Éme)",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/universite-larbi-tebessi-de-tebessa/structure-et-fonction-de-gene-benlakehal-a-2eme/5587480"
+    },
+    {
+      "name": "Systèmes Et Réseaux De Télécommunication",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/universite-larbi-tebessi-de-tebessa/systemes-et-reseaux-de-telecommunication/5588310"
+    },
+    {
+      "name": "Systèmes Multi-Agents",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/universite-larbi-tebessi-de-tebessa/systemes-multi-agents/6351268"
+    },
+    {
+      "name": "Techniques De L'Intelligence Artificielle",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/universite-larbi-tebessi-de-tebessa/techniques-de-lintelligence-artificielle/5588430"
+    },
+    {
+      "name": "Techniques D’Expression Et De Communication",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/universite-larbi-tebessi-de-tebessa/techniques-dexpression-et-de-communication/5587911"
+    },
+    {
+      "name": "Terrassement",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/universite-larbi-tebessi-de-tebessa/terrassement/7371851"
+    },
+    {
+      "name": "theorie des langages",
+      "code": "THL1",
+      "url": "https://www.studocu.com/row/course/universite-larbi-tebessi-de-tebessa/theorie-des-langages/6051520"
+    },
+    {
+      "name": "Thermodynamics",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/universite-larbi-tebessi-de-tebessa/thermodynamics/5587720"
+    },
+    {
+      "name": "Tp Electronique De Puissance Avancee",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/universite-larbi-tebessi-de-tebessa/tp-electronique-de-puissance-avancee/5588286"
+    },
+    {
+      "name": "Tp N 12 Sur La Création Et L'Utilisation Des Profils Complexes En Archicad 23",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/universite-larbi-tebessi-de-tebessa/tp-n-12-sur-la-creation-et-lutilisation-des-profils-complexes-en-archicad-23/5588007"
+    },
+    {
+      "name": "Traitement Du Signal Avancé_Master1Telecommunication",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/universite-larbi-tebessi-de-tebessa/traitement-du-signal-avance-master1telecommunication/5588382"
+    },
+    {
+      "name": "أسلوبية النص النثري",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/universite-larbi-tebessi-de-tebessa/asloby%D8%A9-alns-alnthry/6029851"
+    },
+    {
+      "name": "اقتصاديات الاعلام",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/universite-larbi-tebessi-de-tebessa/aktsadyat-alaaalam/6032755"
+    },
+    {
+      "name": "الأسواق المالية",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/universite-larbi-tebessi-de-tebessa/alasoak-almaly%D8%A9/6039659"
+    },
+    {
+      "name": "الإدارة الصناعية",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/universite-larbi-tebessi-de-tebessa/aledar%D8%A9-alsnaaay%D8%A9/6046486"
+    },
+    {
+      "name": "الاتصال والتحرير الاداري Copie 1",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/universite-larbi-tebessi-de-tebessa/alatsal-oalthryr-aladary-copie-1/5589443"
+    },
+    {
+      "name": "التداولية",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/universite-larbi-tebessi-de-tebessa/altdaoly%D8%A9/6025279"
+    },
+    {
+      "name": "التدقيق المالي",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/universite-larbi-tebessi-de-tebessa/altdkyk-almaly/6039640"
+    },
+    {
+      "name": "التسويق",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/universite-larbi-tebessi-de-tebessa/altsoyk/6046501"
+    },
+    {
+      "name": "التسويق الالكتروني",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/universite-larbi-tebessi-de-tebessa/altsoyk-alalktrony/6044890"
+    },
+    {
+      "name": "التناص",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/universite-larbi-tebessi-de-tebessa/altnas/6029975"
+    },
+    {
+      "name": "الجغرافيا البشرية",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/universite-larbi-tebessi-de-tebessa/aljghrafya-albshry%D8%A9/6032714"
+    },
+    {
+      "name": "الجغرافيا الطبيعية",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/universite-larbi-tebessi-de-tebessa/aljghrafya-altbyaay%D8%A9/6032465"
+    },
+    {
+      "name": "الخطاب السردي",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/universite-larbi-tebessi-de-tebessa/alkhtab-alsrdy/6025428"
+    },
+    {
+      "name": "الرواية العربية",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/universite-larbi-tebessi-de-tebessa/alroay%D8%A9-alaarby%D8%A9/6030123"
+    },
+    {
+      "name": "الرياضيات",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/universite-larbi-tebessi-de-tebessa/alryadyat/6034968"
+    },
+    {
+      "name": "الرياضيات المالية",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/universite-larbi-tebessi-de-tebessa/alryadyat-almaly%D8%A9/6043682"
+    },
+    {
+      "name": "الشعرية",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/universite-larbi-tebessi-de-tebessa/alshaary%D8%A9/6030063"
+    },
+    {
+      "name": "الفكر الاقتصادي",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/universite-larbi-tebessi-de-tebessa/alfkr-alaktsady/6033738"
+    },
+    {
+      "name": "الفلسفة",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/universite-larbi-tebessi-de-tebessa/alflsf%D8%A9/6032733"
+    },
+    {
+      "name": "القانون التجاري",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/universite-larbi-tebessi-de-tebessa/alkanon-altjary/6035065"
+    },
+    {
+      "name": "المحاسبية التحليلية",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/universite-larbi-tebessi-de-tebessa/almhasby%D8%A9-althlyly%D8%A9/6041120"
+    },
+    {
+      "name": "المحاسبية العامة",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/universite-larbi-tebessi-de-tebessa/almhasby%D8%A9-alaaam%D8%A9/6035123"
+    },
+    {
+      "name": "النقد الأدبي",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/universite-larbi-tebessi-de-tebessa/alnkd-aladby/6030139"
+    },
+    {
+      "name": "النقل الدولي",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/universite-larbi-tebessi-de-tebessa/alnkl-aldoly/6036415"
+    },
+    {
+      "name": "الوقائع الاقتصادية",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/universite-larbi-tebessi-de-tebessa/alokaeaa-alaktsady%D8%A9/6041180"
+    },
+    {
+      "name": "تاريخ الجزائر الثقافي",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/universite-larbi-tebessi-de-tebessa/tarykh-aljzaer-althkafy/5589737"
+    },
+    {
+      "name": "تاريخ العالم",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/universite-larbi-tebessi-de-tebessa/tarykh-alaaalm/6031533"
+    },
+    {
+      "name": "تاريخ العالم الاسلامي",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/universite-larbi-tebessi-de-tebessa/tarykh-alaaalm-alaslamy/6032676"
+    },
+    {
+      "name": "تاريخ المغرب الاسلامي",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/universite-larbi-tebessi-de-tebessa/tarykh-almghrb-alaslamy/6032679"
+    },
+    {
+      "name": "تحليل التعادل",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/universite-larbi-tebessi-de-tebessa/thlyl-altaaadl/6042354"
+    },
+    {
+      "name": "تسيير المؤسسة",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/universite-larbi-tebessi-de-tebessa/tsyyr-almoess%D8%A9/5589423"
+    },
+    {
+      "name": "حكامة ومواطنة",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/universite-larbi-tebessi-de-tebessa/hkam%D8%A9-omoatn%D8%A9/6025274"
+    },
+    {
+      "name": "حوكمة الشركات",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/universite-larbi-tebessi-de-tebessa/hokm%D8%A9-alshrkat/6046516"
+    },
+    {
+      "name": "د. زيات فيصل ( Td ) الأعمال الموجهة، مقياس فلسفة العلوم",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/universite-larbi-tebessi-de-tebessa/d-zyat-fysl-td-alaaamal-almojh%D8%A9-mkyas-flsf%D8%A9-alaalom/5589922"
+    },
+    {
+      "name": "رياضيات المؤسسة",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/universite-larbi-tebessi-de-tebessa/ryadyat-almoess%D8%A9/6043671"
+    },
+    {
+      "name": "علم النحو العربي",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/universite-larbi-tebessi-de-tebessa/aalm-alnho-alaarby/6030130"
+    },
+    {
+      "name": "علم لغة النص",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/universite-larbi-tebessi-de-tebessa/aalm-lgh%D8%A9-alns/6025286"
+    },
+    {
+      "name": "فكر عربي معاصر",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/universite-larbi-tebessi-de-tebessa/fkr-aarby-maaasr/5589954"
+    },
+    {
+      "name": "قانون القرض والنقد",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/universite-larbi-tebessi-de-tebessa/kanon-alkrd-oalnkd/5589463"
+    },
+    {
+      "name": "قضايا الشعر المغاربي",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/universite-larbi-tebessi-de-tebessa/kdaya-alshaar-almgharby/6028489"
+    },
+    {
+      "name": "قضايا المصطلح",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/universite-larbi-tebessi-de-tebessa/kdaya-almstlh/6028456"
+    },
+    {
+      "name": "قضايا النص الشعري الحديث والمعاصر",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/universite-larbi-tebessi-de-tebessa/kdaya-alns-alshaary-alhdyth-oalmaaasr/6030032"
+    },
+    {
+      "name": "قضايا النص الشعري القديم",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/universite-larbi-tebessi-de-tebessa/kdaya-alns-alshaary-alkdym/6029912"
+    },
+    {
+      "name": "قضايا معاصرة",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/universite-larbi-tebessi-de-tebessa/kdaya-maaasr%D8%A9/6032770"
+    },
+    {
+      "name": "لسانيات النص",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/universite-larbi-tebessi-de-tebessa/lsanyat-alns/6030080"
+    },
+    {
+      "name": "مادة تاريخ الجزائر المعاصر السداسي الثاني",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/universite-larbi-tebessi-de-tebessa/mad%D8%A9-tarykh-aljzaer-almaaasr-alsdasy-althany/5589647"
+    },
+    {
+      "name": "مالية عامة",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/universite-larbi-tebessi-de-tebessa/maly%D8%A9-aaam%D8%A9/6038033"
+    },
+    {
+      "name": "مطبوعة تسيير المحافظ لطلبة الثانية ماستر اقتصاد نقدي وبنكي",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/universite-larbi-tebessi-de-tebessa/mtboaa%D8%A9-tsyyr-almhafth-ltlb%D8%A9-althany%D8%A9-mastr-aktsad-nkdy-obnky/5589378"
+    },
+    {
+      "name": "مقياس أدب الطفل",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/universite-larbi-tebessi-de-tebessa/mkyas-adb-altfl/6028477"
+    },
+    {
+      "name": "نظرية الأنواع الأدبية",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/universite-larbi-tebessi-de-tebessa/nthry%D8%A9-alanoaaa-aladby%D8%A9/6030972"
+    },
+    {
+      "name": "نماذج التنبؤ",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/universite-larbi-tebessi-de-tebessa/nmathj-altnboe/5589413"
+    },
+    {
+      "name": "هندسة مالية",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/universite-larbi-tebessi-de-tebessa/hnds%D8%A9-maly%D8%A9/6038091"
+    }
+  ]
+}

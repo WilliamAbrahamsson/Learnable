@@ -1,0 +1,856 @@
+{
+  "university_id": "3035",
+  "university_name": "Itä-Suomen yliopisto",
+  "courses": [
+    {
+      "name": "20th and 21st- Century Literature: Modern and Contemporary Narratives",
+      "code": "2130446",
+      "url": "https://www.studocu.com/fi/course/ita-suomen-yliopisto/20th-and-21st-century-literature-modern-and-contemporary-narratives/2665197"
+    },
+    {
+      "name": "Advanced studies in Biology (Environmental Biology)",
+      "code": "3123600",
+      "url": "https://www.studocu.com/fi/course/ita-suomen-yliopisto/advanced-studies-in-biology-environmental-biology/2667258"
+    },
+    {
+      "name": "Aineopinnot, johtaminen",
+      "code": "5215410",
+      "url": "https://www.studocu.com/fi/course/ita-suomen-yliopisto/aineopinnot-johtaminen/2671053"
+    },
+    {
+      "name": "Akateemisen opiskelun taidot",
+      "code": "8031001",
+      "url": "https://www.studocu.com/fi/course/ita-suomen-yliopisto/akateemisen-opiskelun-taidot/4329296"
+    },
+    {
+      "name": "Algebra b",
+      "code": "3316435",
+      "url": "https://www.studocu.com/fi/course/ita-suomen-yliopisto/algebra-b/2667703"
+    },
+    {
+      "name": "Analysis I a",
+      "code": "3355731",
+      "url": "https://www.studocu.com/fi/course/ita-suomen-yliopisto/analysis-i-a/2667978"
+    },
+    {
+      "name": "Artikkelit",
+      "code": "7018372",
+      "url": "https://www.studocu.com/fi/course/ita-suomen-yliopisto/artikkelit/2672549"
+    },
+    {
+      "name": "Arviointi- ja analyysimenetelmet, diagnostiikka ja käyttäytymistieteellinen teoria",
+      "code": "7019561",
+      "url": "https://www.studocu.com/fi/course/ita-suomen-yliopisto/arviointi-ja-analyysimenetelmet-diagnostiikka-ja-kayttaytymistieteellinen-teoria/2672646"
+    },
+    {
+      "name": "Arvonlisäverotuksen erityiskysymyksiä",
+      "code": null,
+      "url": "https://www.studocu.com/fi/course/ita-suomen-yliopisto/arvonlisaverotuksen-erityiskysymyksia/6016107"
+    },
+    {
+      "name": "Bachelor's Degree in Pharmacy",
+      "code": "1018",
+      "url": "https://www.studocu.com/fi/course/ita-suomen-yliopisto/bachelors-degree-in-pharmacy/2664376"
+    },
+    {
+      "name": "Bachelor's thesis in the field of history of psychology",
+      "code": "2240202",
+      "url": "https://www.studocu.com/fi/course/ita-suomen-yliopisto/bachelors-thesis-in-the-field-of-history-of-psychology/2665855"
+    },
+    {
+      "name": "Baltic Sea Environment",
+      "code": "3125205",
+      "url": "https://www.studocu.com/fi/course/ita-suomen-yliopisto/baltic-sea-environment/2667309"
+    },
+    {
+      "name": "Basic Studies in English Language",
+      "code": "2130340",
+      "url": "https://www.studocu.com/fi/course/ita-suomen-yliopisto/basic-studies-in-english-language/2665177"
+    },
+    {
+      "name": "Biology",
+      "code": "420",
+      "url": "https://www.studocu.com/fi/course/ita-suomen-yliopisto/biology/2664297"
+    },
+    {
+      "name": "Birth and commercialization of innovation",
+      "code": "5429926",
+      "url": "https://www.studocu.com/fi/course/ita-suomen-yliopisto/birth-and-commercialization-of-innovation/2671661"
+    },
+    {
+      "name": "Business Mathematics",
+      "code": "5210107",
+      "url": "https://www.studocu.com/fi/course/ita-suomen-yliopisto/business-mathematics/2670818"
+    },
+    {
+      "name": "Computer Science",
+      "code": "529",
+      "url": "https://www.studocu.com/fi/course/ita-suomen-yliopisto/computer-science/2664314"
+    },
+    {
+      "name": "Computer Systems",
+      "code": "3621216",
+      "url": "https://www.studocu.com/fi/course/ita-suomen-yliopisto/computer-systems/2668404"
+    },
+    {
+      "name": "Course for Peer Tutoring for Exchange Students",
+      "code": "1131013",
+      "url": "https://www.studocu.com/fi/course/ita-suomen-yliopisto/course-for-peer-tutoring-for-exchange-students/2664487"
+    },
+    {
+      "name": "Data and Error Analysis in Natural Sciences",
+      "code": "3312052",
+      "url": "https://www.studocu.com/fi/course/ita-suomen-yliopisto/data-and-error-analysis-in-natural-sciences/2667608"
+    },
+    {
+      "name": "Economics",
+      "code": "320",
+      "url": "https://www.studocu.com/fi/course/ita-suomen-yliopisto/economics/2664253"
+    },
+    {
+      "name": "Ecophysiology of Plants",
+      "code": "3123126",
+      "url": "https://www.studocu.com/fi/course/ita-suomen-yliopisto/ecophysiology-of-plants/2667157"
+    },
+    {
+      "name": "Elimistön säätelyjärjestelmät",
+      "code": "4429404",
+      "url": "https://www.studocu.com/fi/course/ita-suomen-yliopisto/elimiston-saatelyjarjestelmat/4345477"
+    },
+    {
+      "name": "elinkeinoverotuksen perusteet",
+      "code": "5311206",
+      "url": "https://www.studocu.com/fi/course/ita-suomen-yliopisto/elinkeinoverotuksen-perusteet/4329118"
+    },
+    {
+      "name": "Energy plant's logistics and supply chain management of energy biomass",
+      "code": "3513051",
+      "url": "https://www.studocu.com/fi/course/ita-suomen-yliopisto/energy-plants-logistics-and-supply-chain-management-of-energy-biomass/2668230"
+    },
+    {
+      "name": "English Academic and Professional Communication for Geography and Environmental Policy",
+      "code": "8013778",
+      "url": "https://www.studocu.com/fi/course/ita-suomen-yliopisto/english-academic-and-professional-communication-for-geography-and-environmental-policy/2672940"
+    },
+    {
+      "name": "English Academic and Professional Communication for Pharmacy",
+      "code": "8013602",
+      "url": "https://www.studocu.com/fi/course/ita-suomen-yliopisto/english-academic-and-professional-communication-for-pharmacy/2672923"
+    },
+    {
+      "name": "English as a World Language",
+      "code": "2130406",
+      "url": "https://www.studocu.com/fi/course/ita-suomen-yliopisto/english-as-a-world-language/2665186"
+    },
+    {
+      "name": "Epidemiologia ja biostatistiikka",
+      "code": "4422406",
+      "url": "https://www.studocu.com/fi/course/ita-suomen-yliopisto/epidemiologia-ja-biostatistiikka/4153979"
+    },
+    {
+      "name": "Erityisen tuen lasten tukeminen ja ohjaaminen",
+      "code": "7012580",
+      "url": "https://www.studocu.com/fi/course/ita-suomen-yliopisto/erityisen-tuen-lasten-tukeminen-ja-ohjaaminen/2672265"
+    },
+    {
+      "name": "Evolutionary aquatic ecology",
+      "code": "3125213",
+      "url": "https://www.studocu.com/fi/course/ita-suomen-yliopisto/evolutionary-aquatic-ecology/2667312"
+    },
+    {
+      "name": "Filosofian valinnaiset opintojaksot",
+      "code": "5513020",
+      "url": "https://www.studocu.com/fi/course/ita-suomen-yliopisto/filosofian-valinnaiset-opintojaksot/2671782"
+    },
+    {
+      "name": "Financial Management and Finance",
+      "code": "70151004",
+      "url": "https://www.studocu.com/fi/course/ita-suomen-yliopisto/financial-management-and-finance/2673093"
+    },
+    {
+      "name": "Finnish Literature: A Sampler",
+      "code": "2124904",
+      "url": "https://www.studocu.com/fi/course/ita-suomen-yliopisto/finnish-literature-a-sampler/2664973"
+    },
+    {
+      "name": "Fish Biology I",
+      "code": "3212201",
+      "url": "https://www.studocu.com/fi/course/ita-suomen-yliopisto/fish-biology-i/2667427"
+    },
+    {
+      "name": "Forest pathology and forest microbiology",
+      "code": "3513012",
+      "url": "https://www.studocu.com/fi/course/ita-suomen-yliopisto/forest-pathology-and-forest-microbiology/2668200"
+    },
+    {
+      "name": "ghkkf",
+      "code": "dfhnb2009",
+      "url": "https://www.studocu.com/fi/course/ita-suomen-yliopisto/ghkkf/6066452"
+    },
+    {
+      "name": "Groups and interaction",
+      "code": "5524201",
+      "url": "https://www.studocu.com/fi/course/ita-suomen-yliopisto/groups-and-interaction/2672147"
+    },
+    {
+      "name": "Hallinto-oikeuden koulutuskokonaisuus (5 op)",
+      "code": "7015231",
+      "url": "https://www.studocu.com/fi/course/ita-suomen-yliopisto/hallinto-oikeuden-koulutuskokonaisuus-5-op/2672356"
+    },
+    {
+      "name": "History",
+      "code": "310",
+      "url": "https://www.studocu.com/fi/course/ita-suomen-yliopisto/history/2664247"
+    },
+    {
+      "name": "HOPS- Henkilökohtainen opintosuunnitelma",
+      "code": "5119201",
+      "url": "https://www.studocu.com/fi/course/ita-suomen-yliopisto/hops-henkilokohtainen-opintosuunnitelma/2670787"
+    },
+    {
+      "name": "Humans and Computer (practical part, Connet)",
+      "code": "3623242",
+      "url": "https://www.studocu.com/fi/course/ita-suomen-yliopisto/humans-and-computer-practical-part-connet/2668735"
+    },
+    {
+      "name": "Informaatio-oikeus",
+      "code": "5311305 J",
+      "url": "https://www.studocu.com/fi/course/ita-suomen-yliopisto/informaatio-oikeus/7253217"
+    },
+    {
+      "name": "Information engineering",
+      "code": "545",
+      "url": "https://www.studocu.com/fi/course/ita-suomen-yliopisto/information-engineering/2664321"
+    },
+    {
+      "name": "Information skills in biosciences and environmental science",
+      "code": "8026000",
+      "url": "https://www.studocu.com/fi/course/ita-suomen-yliopisto/information-skills-in-biosciences-and-environmental-science/2673083"
+    },
+    {
+      "name": "Information skills in mathematics",
+      "code": "8020320",
+      "url": "https://www.studocu.com/fi/course/ita-suomen-yliopisto/information-skills-in-mathematics/2673074"
+    },
+    {
+      "name": "Information skills in physics",
+      "code": "8020210",
+      "url": "https://www.studocu.com/fi/course/ita-suomen-yliopisto/information-skills-in-physics/2673066"
+    },
+    {
+      "name": "Integroiva taito- ja taidekasvatus",
+      "code": "2320477",
+      "url": "https://www.studocu.com/fi/course/ita-suomen-yliopisto/integroiva-taito-ja-taidekasvatus/2666112"
+    },
+    {
+      "name": "Intermediate Studies in English Language and Culture",
+      "code": "2130440",
+      "url": "https://www.studocu.com/fi/course/ita-suomen-yliopisto/intermediate-studies-in-english-language-and-culture/2665196"
+    },
+    {
+      "name": "International Business (international course)",
+      "code": "70151417",
+      "url": "https://www.studocu.com/fi/course/ita-suomen-yliopisto/international-business-international-course/2673104"
+    },
+    {
+      "name": "International Master's Degree Programme in Information Technology",
+      "code": "1295",
+      "url": "https://www.studocu.com/fi/course/ita-suomen-yliopisto/international-masters-degree-programme-in-information-technology/2664406"
+    },
+    {
+      "name": "Introduction to Border Research",
+      "code": "5115101",
+      "url": "https://www.studocu.com/fi/course/ita-suomen-yliopisto/introduction-to-border-research/2670600"
+    },
+    {
+      "name": "Introduction to cognitive and neuropsychology",
+      "code": "2240102",
+      "url": "https://www.studocu.com/fi/course/ita-suomen-yliopisto/introduction-to-cognitive-and-neuropsychology/2665849"
+    },
+    {
+      "name": "Introduction to Research on Well-Being",
+      "code": "5524103",
+      "url": "https://www.studocu.com/fi/course/ita-suomen-yliopisto/introduction-to-research-on-well-being/2672143"
+    },
+    {
+      "name": "J: Basics of Personal Taxation",
+      "code": "5311205",
+      "url": "https://www.studocu.com/fi/course/ita-suomen-yliopisto/j-basics-of-personal-taxation/2671191"
+    },
+    {
+      "name": "J: Civil Procedure and Alternative Dispute Resolution",
+      "code": "5311506",
+      "url": "https://www.studocu.com/fi/course/ita-suomen-yliopisto/j-civil-procedure-and-alternative-dispute-resolution/2671246"
+    },
+    {
+      "name": "J: Constitutional Law",
+      "code": "5311091",
+      "url": "https://www.studocu.com/fi/course/ita-suomen-yliopisto/j-constitutional-law/2671168"
+    },
+    {
+      "name": "J: Credit Law and Security Interests",
+      "code": "5311648",
+      "url": "https://www.studocu.com/fi/course/ita-suomen-yliopisto/j-credit-law-and-security-interests/2671291"
+    },
+    {
+      "name": "J: EU Energy Law and Policy",
+      "code": "5311114",
+      "url": "https://www.studocu.com/fi/course/ita-suomen-yliopisto/j-eu-energy-law-and-policy/2671182"
+    },
+    {
+      "name": "J: Family and Inheritance Law",
+      "code": "5311610",
+      "url": "https://www.studocu.com/fi/course/ita-suomen-yliopisto/j-family-and-inheritance-law/2671267"
+    },
+    {
+      "name": "J: Financial Administrative Law",
+      "code": "5311209",
+      "url": "https://www.studocu.com/fi/course/ita-suomen-yliopisto/j-financial-administrative-law/2671195"
+    },
+    {
+      "name": "J: Food Law and policy",
+      "code": "5311654",
+      "url": "https://www.studocu.com/fi/course/ita-suomen-yliopisto/j-food-law-and-policy/2671296"
+    },
+    {
+      "name": "J: Inheritance and Gift Taxation",
+      "code": "5311208",
+      "url": "https://www.studocu.com/fi/course/ita-suomen-yliopisto/j-inheritance-and-gift-taxation/2671194"
+    },
+    {
+      "name": "J: Introduction to Legal Studies and Finnish Legal System",
+      "code": "5311012",
+      "url": "https://www.studocu.com/fi/course/ita-suomen-yliopisto/j-introduction-to-legal-studies-and-finnish-legal-system/2671137"
+    },
+    {
+      "name": "J: Labour Law",
+      "code": "5311612",
+      "url": "https://www.studocu.com/fi/course/ita-suomen-yliopisto/j-labour-law/2671268"
+    },
+    {
+      "name": "J: Objectives, Principles and interpretation of EU Law",
+      "code": "5311107",
+      "url": "https://www.studocu.com/fi/course/ita-suomen-yliopisto/j-objectives-principles-and-interpretation-of-eu-law/2671179"
+    },
+    {
+      "name": "J: Public International Law",
+      "code": "5311093",
+      "url": "https://www.studocu.com/fi/course/ita-suomen-yliopisto/j-public-international-law/2671170"
+    },
+    {
+      "name": "J: Real Estate Law",
+      "code": "5311728",
+      "url": "https://www.studocu.com/fi/course/ita-suomen-yliopisto/j-real-estate-law/2671318"
+    },
+    {
+      "name": "J: Taxation Procedure and Administration",
+      "code": "5311210",
+      "url": "https://www.studocu.com/fi/course/ita-suomen-yliopisto/j-taxation-procedure-and-administration/2671196"
+    },
+    {
+      "name": "J: The Foundations of European Union Law",
+      "code": "5311104",
+      "url": "https://www.studocu.com/fi/course/ita-suomen-yliopisto/j-the-foundations-of-european-union-law/2671176"
+    },
+    {
+      "name": "J: WTO: Environment, Clean Energy and Natural Resources",
+      "code": "5311732",
+      "url": "https://www.studocu.com/fi/course/ita-suomen-yliopisto/j-wto-environment-clean-energy-and-natural-resources/2671320"
+    },
+    {
+      "name": "Johdatus epidemiologiaan ja biostatistiikkaan",
+      "code": "AY7021102",
+      "url": "https://www.studocu.com/fi/course/ita-suomen-yliopisto/johdatus-epidemiologiaan-ja-biostatistiikkaan/4530513"
+    },
+    {
+      "name": "Johdatus oikeusteoriaan",
+      "code": "5311028",
+      "url": "https://www.studocu.com/fi/course/ita-suomen-yliopisto/johdatus-oikeusteoriaan/2671146"
+    },
+    {
+      "name": "Johdatus yleishallinto-oikeuteen",
+      "code": "7015334",
+      "url": "https://www.studocu.com/fi/course/ita-suomen-yliopisto/johdatus-yleishallinto-oikeuteen/2672385"
+    },
+    {
+      "name": "Johtamisen perusteet",
+      "code": null,
+      "url": "https://www.studocu.com/fi/course/ita-suomen-yliopisto/johtamisen-perusteet/6797592"
+    },
+    {
+      "name": "Journal club II",
+      "code": "4450612",
+      "url": "https://www.studocu.com/fi/course/ita-suomen-yliopisto/journal-club-ii/2670133"
+    },
+    {
+      "name": "Juridinen kirjoittaminen ja tiedonhankinta",
+      "code": "5311027-3013",
+      "url": "https://www.studocu.com/fi/course/ita-suomen-yliopisto/juridinen-kirjoittaminen-ja-tiedonhankinta/6477940"
+    },
+    {
+      "name": "Järjestö- ja yhdistystoiminta (HYTE-tohtoriohjelma)",
+      "code": "5527223",
+      "url": "https://www.studocu.com/fi/course/ita-suomen-yliopisto/jarjesto-ja-yhdistystoiminta-hyte-tohtoriohjelma/2672194"
+    },
+    {
+      "name": "Kandidaattiseminaari ja metodiopinnot (teologia)",
+      "code": "2412002",
+      "url": "https://www.studocu.com/fi/course/ita-suomen-yliopisto/kandidaattiseminaari-ja-metodiopinnot-teologia/2666594"
+    },
+    {
+      "name": "Kansainvälinen vero-oikeus",
+      "code": null,
+      "url": "https://www.studocu.com/fi/course/ita-suomen-yliopisto/kansainvalinen-vero-oikeus/6016068"
+    },
+    {
+      "name": "Kansainvälinen yksityisoikeus",
+      "code": null,
+      "url": "https://www.studocu.com/fi/course/ita-suomen-yliopisto/kansainvalinen-yksityisoikeus/6016135"
+    },
+    {
+      "name": "Katsaus palvelujärjestelmiin ja eettisiin kysymyksiin",
+      "code": "AY7020505",
+      "url": "https://www.studocu.com/fi/course/ita-suomen-yliopisto/katsaus-palvelujarjestelmiin-ja-eettisiin-kysymyksiin/4530515"
+    },
+    {
+      "name": "Kehity auditoijana",
+      "code": "7018003",
+      "url": "https://www.studocu.com/fi/course/ita-suomen-yliopisto/kehity-auditoijana/2672518"
+    },
+    {
+      "name": "Kiinteistöoikeus",
+      "code": null,
+      "url": "https://www.studocu.com/fi/course/ita-suomen-yliopisto/kiinteistooikeus/4537649"
+    },
+    {
+      "name": "Language studies in Chinese (Language Centre)",
+      "code": "8015153",
+      "url": "https://www.studocu.com/fi/course/ita-suomen-yliopisto/language-studies-in-chinese-language-centre/2673045"
+    },
+    {
+      "name": "Language studies in Dutch (Language Centre)",
+      "code": "8015155",
+      "url": "https://www.studocu.com/fi/course/ita-suomen-yliopisto/language-studies-in-dutch-language-centre/2673047"
+    },
+    {
+      "name": "Language studies in Finnish (Language Centre)",
+      "code": "8015101",
+      "url": "https://www.studocu.com/fi/course/ita-suomen-yliopisto/language-studies-in-finnish-language-centre/2673021"
+    },
+    {
+      "name": "Language Studies in Italian (Language Centre)",
+      "code": "8015114",
+      "url": "https://www.studocu.com/fi/course/ita-suomen-yliopisto/language-studies-in-italian-language-centre/2673031"
+    },
+    {
+      "name": "Law",
+      "code": null,
+      "url": "https://www.studocu.com/fi/course/ita-suomen-yliopisto/law/7503153"
+    },
+    {
+      "name": "Legal Writing and Retrieving of Legal Information",
+      "code": "5311027",
+      "url": "https://www.studocu.com/fi/course/ita-suomen-yliopisto/legal-writing-and-retrieving-of-legal-information/2671145"
+    },
+    {
+      "name": "Linear Mixed-Effects models",
+      "code": "3622314",
+      "url": "https://www.studocu.com/fi/course/ita-suomen-yliopisto/linear-mixed-effects-models/2668673"
+    },
+    {
+      "name": "Luento ja harjoitus 4",
+      "code": "70153484",
+      "url": "https://www.studocu.com/fi/course/ita-suomen-yliopisto/luento-ja-harjoitus-4/2673131"
+    },
+    {
+      "name": "luotto- ja vakuusoikeus",
+      "code": "5311648",
+      "url": "https://www.studocu.com/fi/course/ita-suomen-yliopisto/luotto-ja-vakuusoikeus/4328843"
+    },
+    {
+      "name": "Lääkeaineiden orgaaninen kemia",
+      "code": "4217233",
+      "url": "https://www.studocu.com/fi/course/ita-suomen-yliopisto/laakeaineiden-orgaaninen-kemia/4330353"
+    },
+    {
+      "name": "Lääkkeet terveydenhuollossa",
+      "code": "4214223",
+      "url": "https://www.studocu.com/fi/course/ita-suomen-yliopisto/laakkeet-terveydenhuollossa/4329297"
+    },
+    {
+      "name": "Major developments in world history from the Renaissance up to today",
+      "code": "5111122",
+      "url": "https://www.studocu.com/fi/course/ita-suomen-yliopisto/major-developments-in-world-history-from-the-renaissance-up-to-today/2670429"
+    },
+    {
+      "name": "Marketing",
+      "code": "369",
+      "url": "https://www.studocu.com/fi/course/ita-suomen-yliopisto/marketing/2664279"
+    },
+    {
+      "name": "Marketing authorization procedures online course",
+      "code": "7018540",
+      "url": "https://www.studocu.com/fi/course/ita-suomen-yliopisto/marketing-authorization-procedures-online-course/2672574"
+    },
+    {
+      "name": "Master of Arts (Psychology)",
+      "code": "632",
+      "url": "https://www.studocu.com/fi/course/ita-suomen-yliopisto/master-of-arts-psychology/2664328"
+    },
+    {
+      "name": "Master's Degree Programme (CBU) in Public Health",
+      "code": "1298",
+      "url": "https://www.studocu.com/fi/course/ita-suomen-yliopisto/masters-degree-programme-cbu-in-public-health/2664408"
+    },
+    {
+      "name": "Mathematics for forestry students",
+      "code": "3510003",
+      "url": "https://www.studocu.com/fi/course/ita-suomen-yliopisto/mathematics-for-forestry-students/2668143"
+    },
+    {
+      "name": "Matrices",
+      "code": "3317311",
+      "url": "https://www.studocu.com/fi/course/ita-suomen-yliopisto/matrices/2667731"
+    },
+    {
+      "name": "MDP in Border Crossings: Global and Local Societies in Transition",
+      "code": "1350",
+      "url": "https://www.studocu.com/fi/course/ita-suomen-yliopisto/mdp-in-border-crossings-global-and-local-societies-in-transition/2664431"
+    },
+    {
+      "name": "Metodologiset ja tieteenteoreettiset opinnot",
+      "code": "5119302",
+      "url": "https://www.studocu.com/fi/course/ita-suomen-yliopisto/metodologiset-ja-tieteenteoreettiset-opinnot/2670801"
+    },
+    {
+      "name": "Metsä- ja muu luonnonvaraoikeus",
+      "code": "7015339",
+      "url": "https://www.studocu.com/fi/course/ita-suomen-yliopisto/metsa-ja-muu-luonnonvaraoikeus/2672389"
+    },
+    {
+      "name": "Minuus ja elämänkulku",
+      "code": "5512305",
+      "url": "https://www.studocu.com/fi/course/ita-suomen-yliopisto/minuus-ja-elamankulku/4165652"
+    },
+    {
+      "name": "Module 2 Different kind of guidance techniques 2 ects",
+      "code": "7010892",
+      "url": "https://www.studocu.com/fi/course/ita-suomen-yliopisto/module-2-different-kind-of-guidance-techniques-2-ects/2672244"
+    },
+    {
+      "name": "Molecular biology of the cell",
+      "code": "4483004",
+      "url": "https://www.studocu.com/fi/course/ita-suomen-yliopisto/molecular-biology-of-the-cell/2670375"
+    },
+    {
+      "name": "Music Analysis",
+      "code": "2435108",
+      "url": "https://www.studocu.com/fi/course/ita-suomen-yliopisto/music-analysis/2666997"
+    },
+    {
+      "name": "New challenges in crop science",
+      "code": "3123154",
+      "url": "https://www.studocu.com/fi/course/ita-suomen-yliopisto/new-challenges-in-crop-science/2667180"
+    },
+    {
+      "name": "Nuclear Medicine Physics",
+      "code": "3352503",
+      "url": "https://www.studocu.com/fi/course/ita-suomen-yliopisto/nuclear-medicine-physics/2667855"
+    },
+    {
+      "name": "Oikeustieteen perusteet",
+      "code": "5311026",
+      "url": "https://www.studocu.com/fi/course/ita-suomen-yliopisto/oikeustieteen-perusteet/5542111"
+    },
+    {
+      "name": "Oppimisen ja kehityksen perusteet (luennot ja kirjallisuus)",
+      "code": "2310211a",
+      "url": "https://www.studocu.com/fi/course/ita-suomen-yliopisto/oppimisen-ja-kehityksen-perusteet-luennot-ja-kirjallisuus/4865443"
+    },
+    {
+      "name": "P: Basics of Learning and Development",
+      "code": "2310211",
+      "url": "https://www.studocu.com/fi/course/ita-suomen-yliopisto/p-basics-of-learning-and-development/2665988"
+    },
+    {
+      "name": "Patristiikka",
+      "code": "2400BQ84",
+      "url": "https://www.studocu.com/fi/course/ita-suomen-yliopisto/patristiikka/7225514"
+    },
+    {
+      "name": "Perhe, perheen muutokset sekä perheen ja lasten hyvinvoinnin riskitekijät suomalaisessa yhteiskunnassa",
+      "code": "5523471",
+      "url": "https://www.studocu.com/fi/course/ita-suomen-yliopisto/perhe-perheen-muutokset-seka-perheen-ja-lasten-hyvinvoinnin-riskitekijat-suomalaisessa-yhteiskunnassa/2672128"
+    },
+    {
+      "name": "Perhe- ja jäämistöoikeus",
+      "code": "5311610",
+      "url": "https://www.studocu.com/fi/course/ita-suomen-yliopisto/perhe-ja-jaamistooikeus/7235037"
+    },
+    {
+      "name": "Personal training of psychotherapy",
+      "code": "7019631",
+      "url": "https://www.studocu.com/fi/course/ita-suomen-yliopisto/personal-training-of-psychotherapy/2672672"
+    },
+    {
+      "name": "Physics",
+      "code": "511",
+      "url": "https://www.studocu.com/fi/course/ita-suomen-yliopisto/physics/2664308"
+    },
+    {
+      "name": "Power and Governmentality",
+      "code": "5514245",
+      "url": "https://www.studocu.com/fi/course/ita-suomen-yliopisto/power-and-governmentality/2671875"
+    },
+    {
+      "name": "Practical Training, entrepreneurship",
+      "code": "5429913",
+      "url": "https://www.studocu.com/fi/course/ita-suomen-yliopisto/practical-training-entrepreneurship/2671648"
+    },
+    {
+      "name": "Principles of quality in the ffood industry",
+      "code": "3214115",
+      "url": "https://www.studocu.com/fi/course/ita-suomen-yliopisto/principles-of-quality-in-the-ffood-industry/2667509"
+    },
+    {
+      "name": "Projektityön kautta asiantuntija- tai erityisasiantuntijatyöhön",
+      "code": "7016000",
+      "url": "https://www.studocu.com/fi/course/ita-suomen-yliopisto/projektityon-kautta-asiantuntija-tai-erityisasiantuntijatyohon/2672467"
+    },
+    {
+      "name": "Protein Biochemistry, Lectures Only",
+      "code": "3212402",
+      "url": "https://www.studocu.com/fi/course/ita-suomen-yliopisto/protein-biochemistry-lectures-only/2667447"
+    },
+    {
+      "name": "Psykologian erilliset sivuaineopinnot",
+      "code": "2230480",
+      "url": "https://www.studocu.com/fi/course/ita-suomen-yliopisto/psykologian-erilliset-sivuaineopinnot/2665734"
+    },
+    {
+      "name": "Qualitative and Quantitative Research Approaches",
+      "code": "5210908",
+      "url": "https://www.studocu.com/fi/course/ita-suomen-yliopisto/qualitative-and-quantitative-research-approaches/2670841"
+    },
+    {
+      "name": "Qualitative Research Methods 1",
+      "code": "2230202",
+      "url": "https://www.studocu.com/fi/course/ita-suomen-yliopisto/qualitative-research-methods-1/2665694"
+    },
+    {
+      "name": "Radiological anatomy",
+      "code": "4421107",
+      "url": "https://www.studocu.com/fi/course/ita-suomen-yliopisto/radiological-anatomy/2669750"
+    },
+    {
+      "name": "Ravitsemuspolitiikka ja julkiset ruokapalvelut",
+      "code": "4460112",
+      "url": "https://www.studocu.com/fi/course/ita-suomen-yliopisto/ravitsemuspolitiikka-ja-julkiset-ruokapalvelut/4153977"
+    },
+    {
+      "name": "Ravitsemustiede 2",
+      "code": "4460216",
+      "url": "https://www.studocu.com/fi/course/ita-suomen-yliopisto/ravitsemustiede-2/4153967"
+    },
+    {
+      "name": "Research and Expertise on Borders, Border Areas and Russia",
+      "code": "5115105",
+      "url": "https://www.studocu.com/fi/course/ita-suomen-yliopisto/research-and-expertise-on-borders-border-areas-and-russia/2670604"
+    },
+    {
+      "name": "Rikos- ja prosessioikeuden perusteet",
+      "code": "5311504",
+      "url": "https://www.studocu.com/fi/course/ita-suomen-yliopisto/rikos-ja-prosessioikeuden-perusteet/4515204"
+    },
+    {
+      "name": "Rikosoikeuden perusteet",
+      "code": "5311526",
+      "url": "https://www.studocu.com/fi/course/ita-suomen-yliopisto/rikosoikeuden-perusteet/5858284"
+    },
+    {
+      "name": "Ruoansulatus ja aineenvaihdunta",
+      "code": "4429403",
+      "url": "https://www.studocu.com/fi/course/ita-suomen-yliopisto/ruoansulatus-ja-aineenvaihdunta/4339915"
+    },
+    {
+      "name": "Ruotsin Kielen Kertauskurssi",
+      "code": "8010201",
+      "url": "https://www.studocu.com/fi/course/ita-suomen-yliopisto/ruotsin-kielen-kertauskurssi/4350651"
+    },
+    {
+      "name": "Ruumiillinen sairastuminen, seksuaalisen kehityksen häiriöt ja syömishäiriöt",
+      "code": "7019638",
+      "url": "https://www.studocu.com/fi/course/ita-suomen-yliopisto/ruumiillinen-sairastuminen-seksuaalisen-kehityksen-hairiot-ja-syomishairiot/2672675"
+    },
+    {
+      "name": "Seminar for History minors, Finnish History",
+      "code": "5111224",
+      "url": "https://www.studocu.com/fi/course/ita-suomen-yliopisto/seminar-for-history-minors-finnish-history/2670443"
+    },
+    {
+      "name": "Siviili- ja rikosprosessioikeus",
+      "code": null,
+      "url": "https://www.studocu.com/fi/course/ita-suomen-yliopisto/siviili-ja-rikosprosessioikeus/7745814"
+    },
+    {
+      "name": "siviiliprosessioikeus ja vaihtoehtoinen riidanratkaisu",
+      "code": "AY5311506",
+      "url": "https://www.studocu.com/fi/course/ita-suomen-yliopisto/siviiliprosessioikeus-ja-vaihtoehtoinen-riidanratkaisu/4328841"
+    },
+    {
+      "name": "Social Capital and Social Action",
+      "code": "5514242",
+      "url": "https://www.studocu.com/fi/course/ita-suomen-yliopisto/social-capital-and-social-action/2671872"
+    },
+    {
+      "name": "Social Science",
+      "code": null,
+      "url": "https://www.studocu.com/fi/course/ita-suomen-yliopisto/social-science/5829945"
+    },
+    {
+      "name": "Social Scientific Research on Health",
+      "code": "5524205",
+      "url": "https://www.studocu.com/fi/course/ita-suomen-yliopisto/social-scientific-research-on-health/2672150"
+    },
+    {
+      "name": "Social welfare legislation in social work",
+      "code": "5513304",
+      "url": "https://www.studocu.com/fi/course/ita-suomen-yliopisto/social-welfare-legislation-in-social-work/2671808"
+    },
+    {
+      "name": "Software engineering",
+      "code": "3621512",
+      "url": "https://www.studocu.com/fi/course/ita-suomen-yliopisto/software-engineering/2668501"
+    },
+    {
+      "name": "Solubiologian Farmasian Opiskelijoille",
+      "code": "4215206",
+      "url": "https://www.studocu.com/fi/course/ita-suomen-yliopisto/solubiologian-farmasian-opiskelijoille/4349480"
+    },
+    {
+      "name": "Solun ja kudoksen rakenne ja toiminta",
+      "code": "4421601",
+      "url": "https://www.studocu.com/fi/course/ita-suomen-yliopisto/solun-ja-kudoksen-rakenne-ja-toiminta/4345467"
+    },
+    {
+      "name": "Sopimusoikeus",
+      "code": "5311605 J",
+      "url": "https://www.studocu.com/fi/course/ita-suomen-yliopisto/sopimusoikeus/6040320"
+    },
+    {
+      "name": "Sosiaalipsykologian perusteet",
+      "code": "5512101",
+      "url": "https://www.studocu.com/fi/course/ita-suomen-yliopisto/sosiaalipsykologian-perusteet/4155227"
+    },
+    {
+      "name": "Sosiaalitieteiden klassikot",
+      "code": "5524214",
+      "url": "https://www.studocu.com/fi/course/ita-suomen-yliopisto/sosiaalitieteiden-klassikot/4165657"
+    },
+    {
+      "name": "Sosiologian perusteet",
+      "code": "5524101",
+      "url": "https://www.studocu.com/fi/course/ita-suomen-yliopisto/sosiologian-perusteet/4155271"
+    },
+    {
+      "name": "Statistical methods in social scienses",
+      "code": "5524002",
+      "url": "https://www.studocu.com/fi/course/ita-suomen-yliopisto/statistical-methods-in-social-scienses/2672131"
+    },
+    {
+      "name": "Strategic Management",
+      "code": "5210202",
+      "url": "https://www.studocu.com/fi/course/ita-suomen-yliopisto/strategic-management/2670822"
+    },
+    {
+      "name": "Survival Finnish",
+      "code": "8014300",
+      "url": "https://www.studocu.com/fi/course/ita-suomen-yliopisto/survival-finnish/2672998"
+    },
+    {
+      "name": "Sydämen, keuhkojen ja munuaisten toiminta",
+      "code": "4429402",
+      "url": "https://www.studocu.com/fi/course/ita-suomen-yliopisto/sydamen-keuhkojen-ja-munuaisten-toiminta/4332459"
+    },
+    {
+      "name": "Systematic Pharmacology and Pharmaceutical Toxicology",
+      "code": "4218100",
+      "url": "https://www.studocu.com/fi/course/ita-suomen-yliopisto/systematic-pharmacology-and-pharmaceutical-toxicology/2669326"
+    },
+    {
+      "name": "Tautioppia farmasian opiskelijoille 1",
+      "code": "4218222",
+      "url": "https://www.studocu.com/fi/course/ita-suomen-yliopisto/tautioppia-farmasian-opiskelijoille-1/4153981"
+    },
+    {
+      "name": "Teacher Tutorial in Dentistry 1, HL1",
+      "code": "4431020",
+      "url": "https://www.studocu.com/fi/course/ita-suomen-yliopisto/teacher-tutorial-in-dentistry-1-hl1/2669906"
+    },
+    {
+      "name": "Teollisuusfarmasian erikoistumiskoulutus farmaseuteille",
+      "code": "1005",
+      "url": "https://www.studocu.com/fi/course/ita-suomen-yliopisto/teollisuusfarmasian-erikoistumiskoulutus-farmaseuteille/2664373"
+    },
+    {
+      "name": "Terapeutin identiteetti ja jaksaminen",
+      "code": "7019649",
+      "url": "https://www.studocu.com/fi/course/ita-suomen-yliopisto/terapeutin-identiteetti-ja-jaksaminen/2672684"
+    },
+    {
+      "name": "Theories in Social Psychology",
+      "code": "5512303",
+      "url": "https://www.studocu.com/fi/course/ita-suomen-yliopisto/theories-in-social-psychology/2671738"
+    },
+    {
+      "name": "Tuki- ja liikuntaelimistö",
+      "code": "4421605",
+      "url": "https://www.studocu.com/fi/course/ita-suomen-yliopisto/tuki-ja-liikuntaelimisto/4345472"
+    },
+    {
+      "name": "UEF EMBA Thesis",
+      "code": "70151422",
+      "url": "https://www.studocu.com/fi/course/ita-suomen-yliopisto/uef-emba-thesis/2673107"
+    },
+    {
+      "name": "Uuden testamentin tutkimus",
+      "code": "2400BP54",
+      "url": "https://www.studocu.com/fi/course/ita-suomen-yliopisto/uuden-testamentin-tutkimus/7225504"
+    },
+    {
+      "name": "Vahingonkorvaus- ja vakuutusoikeus",
+      "code": null,
+      "url": "https://www.studocu.com/fi/course/ita-suomen-yliopisto/vahingonkorvaus-ja-vakuutusoikeus/7745813"
+    },
+    {
+      "name": "Valtiosääntöoikeus",
+      "code": "5311091",
+      "url": "https://www.studocu.com/fi/course/ita-suomen-yliopisto/valtiosaantooikeus/4513115"
+    },
+    {
+      "name": "Vanhan testamentin tutkimus",
+      "code": "2400BP56",
+      "url": "https://www.studocu.com/fi/course/ita-suomen-yliopisto/vanhan-testamentin-tutkimus/7225508"
+    },
+    {
+      "name": "Virkamies- ja työoikeus",
+      "code": "7015327",
+      "url": "https://www.studocu.com/fi/course/ita-suomen-yliopisto/virkamies-ja-tyooikeus/2672378"
+    },
+    {
+      "name": "Yhtiö- ja rahoitusjuridiikan taloustieteen perusteet",
+      "code": "5212222",
+      "url": "https://www.studocu.com/fi/course/ita-suomen-yliopisto/yhtio-ja-rahoitusjuridiikan-taloustieteen-perusteet/2670895"
+    },
+    {
+      "name": "Yksityisoikeuden perusteet",
+      "code": "5311636",
+      "url": "https://www.studocu.com/fi/course/ita-suomen-yliopisto/yksityisoikeuden-perusteet/4513990"
+    },
+    {
+      "name": "Yrittäjyys ja työelämä",
+      "code": "5215206",
+      "url": "https://www.studocu.com/fi/course/ita-suomen-yliopisto/yrittajyys-ja-tyoelama/2671025"
+    }
+  ]
+}

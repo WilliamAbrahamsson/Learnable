@@ -175,7 +175,6 @@ def delete_note(note_id):
     db.session.commit()
     return jsonify({"success": True}), 200
 
-
 # --------------------------
 # 🔗 CONNECTIONS
 # --------------------------
@@ -235,6 +234,7 @@ def create_connection():
     if n1.graph_id != n2.graph_id:
         return jsonify({"error": "Notes must belong to the same graph"}), 400
 
+    # Check for existing connection (bidirectional)
     existing = Connection.query.filter(
         or_(
             and_(Connection.note_id_1 == note_id_1, Connection.note_id_2 == note_id_2),
@@ -243,6 +243,7 @@ def create_connection():
     ).first()
 
     if existing:
+        # Update slots but keep strength as is
         if existing.note_id_1 == note_id_1:
             existing.slot_1 = slot_1
             existing.slot_2 = slot_2
@@ -252,7 +253,14 @@ def create_connection():
         db.session.commit()
         return jsonify(existing.to_dict()), 200
 
-    conn = Connection(note_id_1=note_id_1, note_id_2=note_id_2, slot_1=slot_1, slot_2=slot_2)
+    # ✅ Always create with strength = 0
+    conn = Connection(
+        note_id_1=note_id_1,
+        note_id_2=note_id_2,
+        slot_1=slot_1,
+        slot_2=slot_2,
+        strength=0.0
+    )
     db.session.add(conn)
     db.session.commit()
     return jsonify(conn.to_dict()), 201
@@ -273,9 +281,17 @@ def update_connection(conn_id):
         return jsonify({"error": "Connection not found"}), 404
 
     data = request.get_json() or {}
+
     conn.slot_1 = int(data.get("slot_1", conn.slot_1))
     conn.slot_2 = int(data.get("slot_2", conn.slot_2))
-    conn.strength = float(data.get("strength", conn.strength))
+
+    # ✅ Optional: only allow strength to be set if explicitly provided and within 0–10
+    if "strength" in data:
+        try:
+            val = float(data["strength"])
+            conn.strength = max(0.0, min(10.0, val))
+        except (TypeError, ValueError):
+            conn.strength = 0.0  # fallback to safe default
 
     db.session.commit()
     return jsonify(conn.to_dict()), 200
@@ -309,6 +325,7 @@ def delete_connection():
 
     db.session.commit()
     return jsonify({"success": bool(deleted)}), 200
+
 
 
 # --------------------------
@@ -427,3 +444,6 @@ def _get_or_create_default_graph(user_id: int) -> Graph:
         db.session.add(graph)
         db.session.commit()
     return graph
+
+
+

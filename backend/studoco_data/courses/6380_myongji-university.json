@@ -1,0 +1,646 @@
+{
+  "university_id": "6380",
+  "university_name": "Myongji University",
+  "courses": [
+    {
+      "name": "basic java",
+      "code": "csi 101",
+      "url": "https://www.studocu.com/ko/course/myongji-university/basic-java/5095056"
+    },
+    {
+      "name": "Business Administration",
+      "code": "Financial Analysis",
+      "url": "https://www.studocu.com/ko/course/myongji-university/business-administration/3209426"
+    },
+    {
+      "name": "Business Administration",
+      "code": null,
+      "url": "https://www.studocu.com/ko/course/myongji-university/business-administration/3209427"
+    },
+    {
+      "name": "chemical",
+      "code": null,
+      "url": "https://www.studocu.com/ko/course/myongji-university/chemical/5727472"
+    },
+    {
+      "name": "Computer Organization",
+      "code": "1234",
+      "url": "https://www.studocu.com/ko/course/myongji-university/computer-organization/6072331"
+    },
+    {
+      "name": "Department of Bioscience and Information",
+      "code": null,
+      "url": "https://www.studocu.com/ko/course/myongji-university/department-of-bioscience-and-information/6034888"
+    },
+    {
+      "name": "Digital logic circuit",
+      "code": "B2021",
+      "url": "https://www.studocu.com/ko/course/myongji-university/digital-logic-circuit/5483490"
+    },
+    {
+      "name": "Environmental engineering",
+      "code": null,
+      "url": "https://www.studocu.com/ko/course/myongji-university/environmental-engineering/3239681"
+    },
+    {
+      "name": "erp개론",
+      "code": "경과120",
+      "url": "https://www.studocu.com/ko/course/myongji-university/erp%EA%B0%9C%EB%A1%A0/7166782"
+    },
+    {
+      "name": "Fluid Mechanics",
+      "code": "JEH01243-0790",
+      "url": "https://www.studocu.com/ko/course/myongji-university/fluid-mechanics/4395730"
+    },
+    {
+      "name": "guitar",
+      "code": "asdf123",
+      "url": "https://www.studocu.com/ko/course/myongji-university/guitar/5157635"
+    },
+    {
+      "name": "Hegel",
+      "code": null,
+      "url": "https://www.studocu.com/ko/course/myongji-university/hegel/7197835"
+    },
+    {
+      "name": "human resource management",
+      "code": "10306",
+      "url": "https://www.studocu.com/ko/course/myongji-university/human-resource-management/5842457"
+    },
+    {
+      "name": "Intermediate Korean 2",
+      "code": "5503",
+      "url": "https://www.studocu.com/ko/course/myongji-university/intermediate-korean-2/3324757"
+    },
+    {
+      "name": "Korean Culture and Thought한국문화와사상",
+      "code": "5422",
+      "url": "https://www.studocu.com/ko/course/myongji-university/korean-culture-and-thought%ED%95%9C%EA%B5%AD%EB%AC%B8%ED%99%94%EC%99%80%EC%82%AC%EC%83%81/3324753"
+    },
+    {
+      "name": "Korean Writing",
+      "code": "5056",
+      "url": "https://www.studocu.com/ko/course/myongji-university/korean-writing/3324747"
+    },
+    {
+      "name": "Marketing Research (마케팅조사)",
+      "code": "10116",
+      "url": "https://www.studocu.com/ko/course/myongji-university/marketing-research-%EB%A7%88%EC%BC%80%ED%8C%85%EC%A1%B0%EC%82%AC/7549221"
+    },
+    {
+      "name": "Mechanical engineering",
+      "code": "2022 PIV",
+      "url": "https://www.studocu.com/ko/course/myongji-university/mechanical-engineering/6537005"
+    },
+    {
+      "name": "mechanics of materials",
+      "code": "0943",
+      "url": "https://www.studocu.com/ko/course/myongji-university/mechanics-of-materials/5095851"
+    },
+    {
+      "name": "myongji university",
+      "code": "mju.ac.k",
+      "url": "https://www.studocu.com/ko/course/myongji-university/myongji-university/5760279"
+    },
+    {
+      "name": "Myongji university",
+      "code": "112",
+      "url": "https://www.studocu.com/ko/course/myongji-university/myongji-university/7519886"
+    },
+    {
+      "name": "organic chemistry",
+      "code": null,
+      "url": "https://www.studocu.com/ko/course/myongji-university/organic-chemistry/6494130"
+    },
+    {
+      "name": "Physics1",
+      "code": "1111",
+      "url": "https://www.studocu.com/ko/course/myongji-university/physics1/4510056"
+    },
+    {
+      "name": "probablity and random process",
+      "code": null,
+      "url": "https://www.studocu.com/ko/course/myongji-university/probablity-and-random-process/6065080"
+    },
+    {
+      "name": "Speech and Discussion",
+      "code": "5072",
+      "url": "https://www.studocu.com/ko/course/myongji-university/speech-and-discussion/3324748"
+    },
+    {
+      "name": "X-ray결정학",
+      "code": "0754",
+      "url": "https://www.studocu.com/ko/course/myongji-university/x-ray%EA%B2%B0%EC%A0%95%ED%95%99/4262604"
+    },
+    {
+      "name": "감성과 현대행정Comparative Policies(eng)",
+      "code": "5754",
+      "url": "https://www.studocu.com/ko/course/myongji-university/%EA%B0%90%EC%84%B1%EA%B3%BC-%ED%98%84%EB%8C%80%ED%96%89%EC%A0%95comparative-policieseng/3324771"
+    },
+    {
+      "name": "건축법규",
+      "code": null,
+      "url": "https://www.studocu.com/ko/course/myongji-university/%EA%B1%B4%EC%B6%95%EB%B2%95%EA%B7%9C/6808968"
+    },
+    {
+      "name": "경상통계학Statistics for Business and Economics",
+      "code": "5326",
+      "url": "https://www.studocu.com/ko/course/myongji-university/%EA%B2%BD%EC%83%81%ED%86%B5%EA%B3%84%ED%95%99statistics-for-business-and-economics/3324750"
+    },
+    {
+      "name": "경영정보세미나Management Information Seminar",
+      "code": "5900",
+      "url": "https://www.studocu.com/ko/course/myongji-university/%EA%B2%BD%EC%98%81%EC%A0%95%EB%B3%B4%EC%84%B8%EB%AF%B8%EB%82%98management-information-seminar/3324777"
+    },
+    {
+      "name": "고급해석학",
+      "code": "491",
+      "url": "https://www.studocu.com/ko/course/myongji-university/%EA%B3%A0%EA%B8%89%ED%95%B4%EC%84%9D%ED%95%99/6568516"
+    },
+    {
+      "name": "고분자공학",
+      "code": null,
+      "url": "https://www.studocu.com/ko/course/myongji-university/%EA%B3%A0%EB%B6%84%EC%9E%90%EA%B3%B5%ED%95%99/4492101"
+    },
+    {
+      "name": "고중세정치사상 (Middle and High Political Thought)",
+      "code": "5713",
+      "url": "https://www.studocu.com/ko/course/myongji-university/%EA%B3%A0%EC%A4%91%EC%84%B8%EC%A0%95%EC%B9%98%EC%82%AC%EC%83%81-middle-and-high-political-thought/3503729"
+    },
+    {
+      "name": "공학도를 위한 동역학",
+      "code": null,
+      "url": "https://www.studocu.com/ko/course/myongji-university/%EA%B3%B5%ED%95%99%EB%8F%84%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%8F%99%EC%97%AD%ED%95%99/5521766"
+    },
+    {
+      "name": "공학수학",
+      "code": null,
+      "url": "https://www.studocu.com/ko/course/myongji-university/%EA%B3%B5%ED%95%99%EC%88%98%ED%95%99/4500032"
+    },
+    {
+      "name": "교양중국어회화1 (General Chinese Conversation 1)",
+      "code": "5357",
+      "url": "https://www.studocu.com/ko/course/myongji-university/%EA%B5%90%EC%96%91%EC%A4%91%EA%B5%AD%EC%96%B4%ED%9A%8C%ED%99%941-general-chinese-conversation-1/3503674"
+    },
+    {
+      "name": "구조역학솔루션",
+      "code": null,
+      "url": "https://www.studocu.com/ko/course/myongji-university/%EA%B5%AC%EC%A1%B0%EC%97%AD%ED%95%99%EC%86%94%EB%A3%A8%EC%85%98/4387364"
+    },
+    {
+      "name": "국제경영학",
+      "code": null,
+      "url": "https://www.studocu.com/ko/course/myongji-university/%EA%B5%AD%EC%A0%9C%EA%B2%BD%EC%98%81%ED%95%99/3435858"
+    },
+    {
+      "name": "국제분쟁의 이해 (Understanding of international disputes)",
+      "code": "5720",
+      "url": "https://www.studocu.com/ko/course/myongji-university/%EA%B5%AD%EC%A0%9C%EB%B6%84%EC%9F%81%EC%9D%98-%EC%9D%B4%ED%95%B4-understanding-of-international-disputes/3503731"
+    },
+    {
+      "name": "국제정치경제론International Political economy",
+      "code": "5782",
+      "url": "https://www.studocu.com/ko/course/myongji-university/%EA%B5%AD%EC%A0%9C%EC%A0%95%EC%B9%98%EA%B2%BD%EC%A0%9C%EB%A1%A0international-political-economy/3324773"
+    },
+    {
+      "name": "국제정치론",
+      "code": "정외212",
+      "url": "https://www.studocu.com/ko/course/myongji-university/%EA%B5%AD%EC%A0%9C%EC%A0%95%EC%B9%98%EB%A1%A0/7304737"
+    },
+    {
+      "name": "국제정치의 이해",
+      "code": "5300",
+      "url": "https://www.studocu.com/ko/course/myongji-university/%EA%B5%AD%EC%A0%9C%EC%A0%95%EC%B9%98%EC%9D%98-%EC%9D%B4%ED%95%B4/3503682"
+    },
+    {
+      "name": "국제정치이론과 동북아",
+      "code": "5784",
+      "url": "https://www.studocu.com/ko/course/myongji-university/%EA%B5%AD%EC%A0%9C%EC%A0%95%EC%B9%98%EC%9D%B4%EB%A1%A0%EA%B3%BC-%EB%8F%99%EB%B6%81%EC%95%84/3503714"
+    },
+    {
+      "name": "국제통상법",
+      "code": null,
+      "url": "https://www.studocu.com/ko/course/myongji-university/%EA%B5%AD%EC%A0%9C%ED%86%B5%EC%83%81%EB%B2%95/4339967"
+    },
+    {
+      "name": "근대정치사상",
+      "code": "(2025-1학기)",
+      "url": "https://www.studocu.com/ko/course/myongji-university/%EA%B7%BC%EB%8C%80%EC%A0%95%EC%B9%98%EC%82%AC%EC%83%81/7768875"
+    },
+    {
+      "name": "근현대건축사",
+      "code": null,
+      "url": "https://www.studocu.com/ko/course/myongji-university/%EA%B7%BC%ED%98%84%EB%8C%80%EA%B1%B4%EC%B6%95%EC%82%AC/6808972"
+    },
+    {
+      "name": "글로벌리더를 위한 글로벌매너Global manner for Global leader",
+      "code": "5458",
+      "url": "https://www.studocu.com/ko/course/myongji-university/%EA%B8%80%EB%A1%9C%EB%B2%8C%EB%A6%AC%EB%8D%94%EB%A5%BC-%EC%9C%84%ED%95%9C-%EA%B8%80%EB%A1%9C%EB%B2%8C%EB%A7%A4%EB%84%88global-manner-for-global-leader/3324755"
+    },
+    {
+      "name": "글로벌문화",
+      "code": "5202",
+      "url": "https://www.studocu.com/ko/course/myongji-university/%EA%B8%80%EB%A1%9C%EB%B2%8C%EB%AC%B8%ED%99%94/7307491"
+    },
+    {
+      "name": "글쓰기",
+      "code": "5995",
+      "url": "https://www.studocu.com/ko/course/myongji-university/%EA%B8%80%EC%93%B0%EA%B8%B0/3503689"
+    },
+    {
+      "name": "기계정역학",
+      "code": "Y1302",
+      "url": "https://www.studocu.com/ko/course/myongji-university/%EA%B8%B0%EA%B3%84%EC%A0%95%EC%97%AD%ED%95%99/4806335"
+    },
+    {
+      "name": "기초미적분학",
+      "code": null,
+      "url": "https://www.studocu.com/ko/course/myongji-university/%EA%B8%B0%EC%B4%88%EB%AF%B8%EC%A0%81%EB%B6%84%ED%95%99/4557821"
+    },
+    {
+      "name": "기초전자회로",
+      "code": "Y19109",
+      "url": "https://www.studocu.com/ko/course/myongji-university/%EA%B8%B0%EC%B4%88%EC%A0%84%EC%9E%90%ED%9A%8C%EB%A1%9C/4513167"
+    },
+    {
+      "name": "노사관계론",
+      "code": null,
+      "url": "https://www.studocu.com/ko/course/myongji-university/%EB%85%B8%EC%82%AC%EA%B4%80%EA%B3%84%EB%A1%A0/3436692"
+    },
+    {
+      "name": "대중문화와매스컴",
+      "code": "5301",
+      "url": "https://www.studocu.com/ko/course/myongji-university/%EB%8C%80%EC%A4%91%EB%AC%B8%ED%99%94%EC%99%80%EB%A7%A4%EC%8A%A4%EC%BB%B4/3503692"
+    },
+    {
+      "name": "데이터베이스프로젝트",
+      "code": "HED01317",
+      "url": "https://www.studocu.com/ko/course/myongji-university/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/7302284"
+    },
+    {
+      "name": "디지털정보처리론",
+      "code": "5686",
+      "url": "https://www.studocu.com/ko/course/myongji-university/%EB%94%94%EC%A7%80%ED%84%B8%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EB%A1%A0/5658226"
+    },
+    {
+      "name": "명지대 물리학2",
+      "code": "0318",
+      "url": "https://www.studocu.com/ko/course/myongji-university/%EB%AA%85%EC%A7%80%EB%8C%80-%EB%AC%BC%EB%A6%AC%ED%95%992/5034074"
+    },
+    {
+      "name": "명지대 정역학",
+      "code": "11111",
+      "url": "https://www.studocu.com/ko/course/myongji-university/%EB%AA%85%EC%A7%80%EB%8C%80-%EC%A0%95%EC%97%AD%ED%95%99/5034069"
+    },
+    {
+      "name": "물리학2",
+      "code": "과학132",
+      "url": "https://www.studocu.com/ko/course/myongji-university/%EB%AC%BC%EB%A6%AC%ED%95%992/7266519"
+    },
+    {
+      "name": "미국정치론American politics",
+      "code": "5789",
+      "url": "https://www.studocu.com/ko/course/myongji-university/%EB%AF%B8%EA%B5%AD%EC%A0%95%EC%B9%98%EB%A1%A0american-politics/3324774"
+    },
+    {
+      "name": "미디어조사방법론",
+      "code": null,
+      "url": "https://www.studocu.com/ko/course/myongji-university/%EB%AF%B8%EB%94%94%EC%96%B4%EC%A1%B0%EC%82%AC%EB%B0%A9%EB%B2%95%EB%A1%A0/5363996"
+    },
+    {
+      "name": "미분방정식",
+      "code": null,
+      "url": "https://www.studocu.com/ko/course/myongji-university/%EB%AF%B8%EB%B6%84%EB%B0%A9%EC%A0%95%EC%8B%9D/4546347"
+    },
+    {
+      "name": "미시경제학원론",
+      "code": "MMOS1",
+      "url": "https://www.studocu.com/ko/course/myongji-university/%EB%AF%B8%EC%8B%9C%EA%B2%BD%EC%A0%9C%ED%95%99%EC%9B%90%EB%A1%A0/6010508"
+    },
+    {
+      "name": "반도체공학",
+      "code": null,
+      "url": "https://www.studocu.com/ko/course/myongji-university/%EB%B0%98%EB%8F%84%EC%B2%B4%EA%B3%B5%ED%95%99/5790507"
+    },
+    {
+      "name": "반도체물성",
+      "code": null,
+      "url": "https://www.studocu.com/ko/course/myongji-university/%EB%B0%98%EB%8F%84%EC%B2%B4%EB%AC%BC%EC%84%B1/4381867"
+    },
+    {
+      "name": "비영리조직eng",
+      "code": "행정113",
+      "url": "https://www.studocu.com/ko/course/myongji-university/%EB%B9%84%EC%98%81%EB%A6%AC%EC%A1%B0%EC%A7%81eng/5660658"
+    },
+    {
+      "name": "사회복지조사론 (Social Welfare Research)",
+      "code": null,
+      "url": "https://www.studocu.com/ko/course/myongji-university/%EC%82%AC%ED%9A%8C%EB%B3%B5%EC%A7%80%EC%A1%B0%EC%82%AC%EB%A1%A0-social-welfare-research/4165671"
+    },
+    {
+      "name": "생산운영관리",
+      "code": null,
+      "url": "https://www.studocu.com/ko/course/myongji-university/%EC%83%9D%EC%82%B0%EC%9A%B4%EC%98%81%EA%B4%80%EB%A6%AC/3437213"
+    },
+    {
+      "name": "서양외교사",
+      "code": "5728",
+      "url": "https://www.studocu.com/ko/course/myongji-university/%EC%84%9C%EC%96%91%EC%99%B8%EA%B5%90%EC%82%AC/3503732"
+    },
+    {
+      "name": "서양철학의 흐름Oriental philosophy",
+      "code": "5696",
+      "url": "https://www.studocu.com/ko/course/myongji-university/%EC%84%9C%EC%96%91%EC%B2%A0%ED%95%99%EC%9D%98-%ED%9D%90%EB%A6%84oriental-philosophy/3324767"
+    },
+    {
+      "name": "서지정보학입문",
+      "code": "5682",
+      "url": "https://www.studocu.com/ko/course/myongji-university/%EC%84%9C%EC%A7%80%EC%A0%95%EB%B3%B4%ED%95%99%EC%9E%85%EB%AC%B8/5658243"
+    },
+    {
+      "name": "성서의 이해Introduction to Bible",
+      "code": "5013",
+      "url": "https://www.studocu.com/ko/course/myongji-university/%EC%84%B1%EC%84%9C%EC%9D%98-%EC%9D%B4%ED%95%B4introduction-to-bible/3324745"
+    },
+    {
+      "name": "세계화와 사회변화",
+      "code": "5157",
+      "url": "https://www.studocu.com/ko/course/myongji-university/%EC%84%B8%EA%B3%84%ED%99%94%EC%99%80-%EC%82%AC%ED%9A%8C%EB%B3%80%ED%99%94/3503717"
+    },
+    {
+      "name": "시민사회와 행정Civil Society and Public Administration",
+      "code": "5334",
+      "url": "https://www.studocu.com/ko/course/myongji-university/%EC%8B%9C%EB%AF%BC%EC%82%AC%ED%9A%8C%EC%99%80-%ED%96%89%EC%A0%95civil-society-and-public-administration/3324751"
+    },
+    {
+      "name": "신호및시스템",
+      "code": null,
+      "url": "https://www.studocu.com/ko/course/myongji-university/%EC%8B%A0%ED%98%B8%EB%B0%8F%EC%8B%9C%EC%8A%A4%ED%85%9C/4382947"
+    },
+    {
+      "name": "실무business영어",
+      "code": "영문362",
+      "url": "https://www.studocu.com/ko/course/myongji-university/%EC%8B%A4%EB%AC%B4business%EC%98%81%EC%96%B4/5656634"
+    },
+    {
+      "name": "아시아문화콘텐츠입문",
+      "code": null,
+      "url": "https://www.studocu.com/ko/course/myongji-university/%EC%95%84%EC%8B%9C%EC%95%84%EB%AC%B8%ED%99%94%EC%BD%98%ED%85%90%EC%B8%A0%EC%9E%85%EB%AC%B8/5659877"
+    },
+    {
+      "name": "에너지안전공학",
+      "code": null,
+      "url": "https://www.studocu.com/ko/course/myongji-university/%EC%97%90%EB%84%88%EC%A7%80%EC%95%88%EC%A0%84%EA%B3%B5%ED%95%99/4490882"
+    },
+    {
+      "name": "여성정치론 (Women Politics)",
+      "code": "5702",
+      "url": "https://www.studocu.com/ko/course/myongji-university/%EC%97%AC%EC%84%B1%EC%A0%95%EC%B9%98%EB%A1%A0-women-politics/3503667"
+    },
+    {
+      "name": "열전달heat transfer",
+      "code": null,
+      "url": "https://www.studocu.com/ko/course/myongji-university/%EC%97%B4%EC%A0%84%EB%8B%ACheat-transfer/4126806"
+    },
+    {
+      "name": "영미문학과신화",
+      "code": "영문266",
+      "url": "https://www.studocu.com/ko/course/myongji-university/%EC%98%81%EB%AF%B8%EB%AC%B8%ED%95%99%EA%B3%BC%EC%8B%A0%ED%99%94/5656491"
+    },
+    {
+      "name": "영어독해",
+      "code": "영문263",
+      "url": "https://www.studocu.com/ko/course/myongji-university/%EC%98%81%EC%96%B4%EB%8F%85%ED%95%B4/5656478"
+    },
+    {
+      "name": "영어토론English debate",
+      "code": "5397",
+      "url": "https://www.studocu.com/ko/course/myongji-university/%EC%98%81%EC%96%B4%ED%86%A0%EB%A1%A0english-debate/3324752"
+    },
+    {
+      "name": "영어학개론",
+      "code": "영문101",
+      "url": "https://www.studocu.com/ko/course/myongji-university/%EC%98%81%EC%96%B4%ED%95%99%EA%B0%9C%EB%A1%A0/5656399"
+    },
+    {
+      "name": "영어회화",
+      "code": "5614",
+      "url": "https://www.studocu.com/ko/course/myongji-university/%EC%98%81%EC%96%B4%ED%9A%8C%ED%99%94/5656805"
+    },
+    {
+      "name": "영어회화English Conversation",
+      "code": "5567",
+      "url": "https://www.studocu.com/ko/course/myongji-university/%EC%98%81%EC%96%B4%ED%9A%8C%ED%99%94english-conversation/3324763"
+    },
+    {
+      "name": "영화로 보는 역사History on films",
+      "code": "5428",
+      "url": "https://www.studocu.com/ko/course/myongji-university/%EC%98%81%ED%99%94%EB%A1%9C-%EB%B3%B4%EB%8A%94-%EC%97%AD%EC%82%AChistory-on-films/3324754"
+    },
+    {
+      "name": "영화와 철학Film and Philosophy",
+      "code": "5697",
+      "url": "https://www.studocu.com/ko/course/myongji-university/%EC%98%81%ED%99%94%EC%99%80-%EC%B2%A0%ED%95%99film-and-philosophy/3324768"
+    },
+    {
+      "name": "영화와예술",
+      "code": null,
+      "url": "https://www.studocu.com/ko/course/myongji-university/%EC%98%81%ED%99%94%EC%99%80%EC%98%88%EC%88%A0/6976217"
+    },
+    {
+      "name": "외국인학생을위한 한국사회의이해",
+      "code": "KHFFS1",
+      "url": "https://www.studocu.com/ko/course/myongji-university/%EC%99%B8%EA%B5%AD%EC%9D%B8%ED%95%99%EC%83%9D%EC%9D%84%EC%9C%84%ED%95%9C-%ED%95%9C%EA%B5%AD%EC%82%AC%ED%9A%8C%EC%9D%98%EC%9D%B4%ED%95%B4/5990208"
+    },
+    {
+      "name": "유체설계시스템",
+      "code": "Y123",
+      "url": "https://www.studocu.com/ko/course/myongji-university/%EC%9C%A0%EC%B2%B4%EC%84%A4%EA%B3%84%EC%8B%9C%EC%8A%A4%ED%85%9C/4273950"
+    },
+    {
+      "name": "응용해석학",
+      "code": "492",
+      "url": "https://www.studocu.com/ko/course/myongji-university/%EC%9D%91%EC%9A%A9%ED%95%B4%EC%84%9D%ED%95%99/6568506"
+    },
+    {
+      "name": "인적자원관리",
+      "code": null,
+      "url": "https://www.studocu.com/ko/course/myongji-university/%EC%9D%B8%EC%A0%81%EC%9E%90%EC%9B%90%EA%B4%80%EB%A6%AC/3442044"
+    },
+    {
+      "name": "일반화학실험1",
+      "code": null,
+      "url": "https://www.studocu.com/ko/course/myongji-university/%EC%9D%BC%EB%B0%98%ED%99%94%ED%95%99%EC%8B%A4%ED%97%981/5760977"
+    },
+    {
+      "name": "일한통역연습2",
+      "code": "일문413",
+      "url": "https://www.studocu.com/ko/course/myongji-university/%EC%9D%BC%ED%95%9C%ED%86%B5%EC%97%AD%EC%97%B0%EC%8A%B52/5657401"
+    },
+    {
+      "name": "재료공학수업",
+      "code": "MEH12443",
+      "url": "https://www.studocu.com/ko/course/myongji-university/%EC%9E%AC%EB%A3%8C%EA%B3%B5%ED%95%99%EC%88%98%EC%97%85/4404197"
+    },
+    {
+      "name": "재무관리원론",
+      "code": "5952",
+      "url": "https://www.studocu.com/ko/course/myongji-university/%EC%9E%AC%EB%AC%B4%EA%B4%80%EB%A6%AC%EC%9B%90%EB%A1%A0/4510531"
+    },
+    {
+      "name": "재무분석",
+      "code": null,
+      "url": "https://www.studocu.com/ko/course/myongji-university/%EC%9E%AC%EB%AC%B4%EB%B6%84%EC%84%9D/3435857"
+    },
+    {
+      "name": "전공기초일본어2",
+      "code": "일문217",
+      "url": "https://www.studocu.com/ko/course/myongji-university/%EC%A0%84%EA%B3%B5%EA%B8%B0%EC%B4%88%EC%9D%BC%EB%B3%B8%EC%96%B42/5657228"
+    },
+    {
+      "name": "전기회로실험",
+      "code": "JEA01211",
+      "url": "https://www.studocu.com/ko/course/myongji-university/%EC%A0%84%EA%B8%B0%ED%9A%8C%EB%A1%9C%EC%8B%A4%ED%97%98/5071352"
+    },
+    {
+      "name": "전략정보시스템Strategic information system",
+      "code": "5898",
+      "url": "https://www.studocu.com/ko/course/myongji-university/%EC%A0%84%EB%9E%B5%EC%A0%95%EB%B3%B4%EC%8B%9C%EC%8A%A4%ED%85%9Cstrategic-information-system/3324776"
+    },
+    {
+      "name": "전자회로",
+      "code": "121323",
+      "url": "https://www.studocu.com/ko/course/myongji-university/%EC%A0%84%EC%9E%90%ED%9A%8C%EB%A1%9C/5082559"
+    },
+    {
+      "name": "정부규제 (Government regulation)",
+      "code": null,
+      "url": "https://www.studocu.com/ko/course/myongji-university/%EC%A0%95%EB%B6%80%EA%B7%9C%EC%A0%9C-government-regulation/4165667"
+    },
+    {
+      "name": "정치학개론 (Introduction to Politics)",
+      "code": "5697",
+      "url": "https://www.studocu.com/ko/course/myongji-university/%EC%A0%95%EC%B9%98%ED%95%99%EA%B0%9C%EB%A1%A0-introduction-to-politics/3503672"
+    },
+    {
+      "name": "정치학방법론",
+      "code": "5794",
+      "url": "https://www.studocu.com/ko/course/myongji-university/%EC%A0%95%EC%B9%98%ED%95%99%EB%B0%A9%EB%B2%95%EB%A1%A0/3503719"
+    },
+    {
+      "name": "조직행동론",
+      "code": null,
+      "url": "https://www.studocu.com/ko/course/myongji-university/%EC%A1%B0%EC%A7%81%ED%96%89%EB%8F%99%EB%A1%A0/3442040"
+    },
+    {
+      "name": "중국어회화 3Chinese Conversation 3",
+      "code": "5597",
+      "url": "https://www.studocu.com/ko/course/myongji-university/%EC%A4%91%EA%B5%AD%EC%96%B4%ED%9A%8C%ED%99%94-3chinese-conversation-3/3324765"
+    },
+    {
+      "name": "중국어회화5Chinese Conversation 5",
+      "code": "5600",
+      "url": "https://www.studocu.com/ko/course/myongji-university/%EC%A4%91%EA%B5%AD%EC%96%B4%ED%9A%8C%ED%99%945chinese-conversation-5/3324766"
+    },
+    {
+      "name": "중동문화의 이해",
+      "code": null,
+      "url": "https://www.studocu.com/ko/course/myongji-university/%EC%A4%91%EB%8F%99%EB%AC%B8%ED%99%94%EC%9D%98-%EC%9D%B4%ED%95%B4/5127339"
+    },
+    {
+      "name": "채권투자론",
+      "code": null,
+      "url": "https://www.studocu.com/ko/course/myongji-university/%EC%B1%84%EA%B6%8C%ED%88%AC%EC%9E%90%EB%A1%A0/3421170"
+    },
+    {
+      "name": "철학과 인간 (Philosophy and man)",
+      "code": "5143",
+      "url": "https://www.studocu.com/ko/course/myongji-university/%EC%B2%A0%ED%95%99%EA%B3%BC-%EC%9D%B8%EA%B0%84-philosophy-and-man/3503721"
+    },
+    {
+      "name": "컴퓨터보안",
+      "code": null,
+      "url": "https://www.studocu.com/ko/course/myongji-university/%EC%BB%B4%ED%93%A8%ED%84%B0%EB%B3%B4%EC%95%88/4600376"
+    },
+    {
+      "name": "투자론",
+      "code": null,
+      "url": "https://www.studocu.com/ko/course/myongji-university/%ED%88%AC%EC%9E%90%EB%A1%A0/3417421"
+    },
+    {
+      "name": "파생상품금융론",
+      "code": null,
+      "url": "https://www.studocu.com/ko/course/myongji-university/%ED%8C%8C%EC%83%9D%EC%83%81%ED%92%88%EA%B8%88%EC%9C%B5%EB%A1%A0/3421161"
+    },
+    {
+      "name": "품질경영학",
+      "code": null,
+      "url": "https://www.studocu.com/ko/course/myongji-university/%ED%92%88%EC%A7%88%EA%B2%BD%EC%98%81%ED%95%99/3436849"
+    },
+    {
+      "name": "한국건축사",
+      "code": "미사301",
+      "url": "https://www.studocu.com/ko/course/myongji-university/%ED%95%9C%EA%B5%AD%EA%B1%B4%EC%B6%95%EC%82%AC/5658896"
+    },
+    {
+      "name": "한국어연습1",
+      "code": null,
+      "url": "https://www.studocu.com/ko/course/myongji-university/%ED%95%9C%EA%B5%AD%EC%96%B4%EC%97%B0%EC%8A%B51/6010388"
+    },
+    {
+      "name": "행정정보체계론",
+      "code": "정242",
+      "url": "https://www.studocu.com/ko/course/myongji-university/%ED%96%89%EC%A0%95%EC%A0%95%EB%B3%B4%EC%B2%B4%EA%B3%84%EB%A1%A0/5660289"
+    },
+    {
+      "name": "행정조직론",
+      "code": "행정210",
+      "url": "https://www.studocu.com/ko/course/myongji-university/%ED%96%89%EC%A0%95%EC%A1%B0%EC%A7%81%EB%A1%A0/5660246"
+    },
+    {
+      "name": "행정학과 공기업론 (Public Administration and Public Enterprises)",
+      "code": "AD02018",
+      "url": "https://www.studocu.com/ko/course/myongji-university/%ED%96%89%EC%A0%95%ED%95%99%EA%B3%BC-%EA%B3%B5%EA%B8%B0%EC%97%85%EB%A1%A0-public-administration-and-public-enterprises/4165674"
+    },
+    {
+      "name": "현대중국사회의이해",
+      "code": "중문 234",
+      "url": "https://www.studocu.com/ko/course/myongji-university/%ED%98%84%EB%8C%80%EC%A4%91%EA%B5%AD%EC%82%AC%ED%9A%8C%EC%9D%98%EC%9D%B4%ED%95%B4/5656997"
+    },
+    {
+      "name": "화공양론1",
+      "code": "psys2020",
+      "url": "https://www.studocu.com/ko/course/myongji-university/%ED%99%94%EA%B3%B5%EC%96%91%EB%A1%A01/4907697"
+    },
+    {
+      "name": "화공열역학",
+      "code": "psys1010",
+      "url": "https://www.studocu.com/ko/course/myongji-university/%ED%99%94%EA%B3%B5%EC%97%B4%EC%97%AD%ED%95%99/4486662"
+    },
+    {
+      "name": "화학공학개론",
+      "code": null,
+      "url": "https://www.studocu.com/ko/course/myongji-university/%ED%99%94%ED%95%99%EA%B3%B5%ED%95%99%EA%B0%9C%EB%A1%A0/6504104"
+    },
+    {
+      "name": "화학공학개론",
+      "code": "7600",
+      "url": "https://www.studocu.com/ko/course/myongji-university/%ED%99%94%ED%95%99%EA%B3%B5%ED%95%99%EA%B0%9C%EB%A1%A0/4419004"
+    },
+    {
+      "name": "화학실험2.",
+      "code": "0401",
+      "url": "https://www.studocu.com/ko/course/myongji-university/%ED%99%94%ED%95%99%EC%8B%A4%ED%97%982/5119975"
+    },
+    {
+      "name": "회계_ 회계원리-재무회계-중급회계",
+      "code": null,
+      "url": "https://www.studocu.com/ko/course/myongji-university/%ED%9A%8C%EA%B3%84-%ED%9A%8C%EA%B3%84%EC%9B%90%EB%A6%AC-%EC%9E%AC%EB%AC%B4%ED%9A%8C%EA%B3%84-%EC%A4%91%EA%B8%89%ED%9A%8C%EA%B3%84/5115470"
+    },
+    {
+      "name": "회로이론",
+      "code": "0650",
+      "url": "https://www.studocu.com/ko/course/myongji-university/%ED%9A%8C%EB%A1%9C%EC%9D%B4%EB%A1%A0/4797254"
+    }
+  ]
+}

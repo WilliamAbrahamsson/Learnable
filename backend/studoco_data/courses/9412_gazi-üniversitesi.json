@@ -1,0 +1,431 @@
+{
+  "university_id": "9412",
+  "university_name": "Gazi Üniversitesi",
+  "courses": [
+    {
+      "name": "Academic English II",
+      "code": "ENG204",
+      "url": "https://www.studocu.com/row/course/gazi-universitesi/academic-english-ii/7348038"
+    },
+    {
+      "name": "Academic Writing",
+      "code": "AW201",
+      "url": "https://www.studocu.com/row/course/gazi-universitesi/academic-writing/5823330"
+    },
+    {
+      "name": "ACCP Pharmacokinetics",
+      "code": "2001",
+      "url": "https://www.studocu.com/row/course/gazi-universitesi/accp-pharmacokinetics/4921270"
+    },
+    {
+      "name": "Analog Electronics I",
+      "code": "212E",
+      "url": "https://www.studocu.com/row/course/gazi-universitesi/analog-electronics-i/7172418"
+    },
+    {
+      "name": "Anatomi",
+      "code": "DHF100",
+      "url": "https://www.studocu.com/row/course/gazi-universitesi/anatomi/7759026"
+    },
+    {
+      "name": "Applied Mathematics For Mechanical Engineers",
+      "code": "ME216",
+      "url": "https://www.studocu.com/row/course/gazi-universitesi/applied-mathematics-for-mechanical-engineers/5873790"
+    },
+    {
+      "name": "Autocad",
+      "code": "IE105",
+      "url": "https://www.studocu.com/row/course/gazi-universitesi/autocad/7345332"
+    },
+    {
+      "name": "Bilgisayar Programlama",
+      "code": "BM101",
+      "url": "https://www.studocu.com/row/course/gazi-universitesi/bilgisayar-programlama/6619378"
+    },
+    {
+      "name": "Büyük Veri için İstatistiksel Öğrenme",
+      "code": "BEBB5001",
+      "url": "https://www.studocu.com/row/course/gazi-universitesi/buyuk-veri-icin-istatistiksel-ogrenme/5834015"
+    },
+    {
+      "name": "Cell Biology",
+      "code": "Bio-113",
+      "url": "https://www.studocu.com/row/course/gazi-universitesi/cell-biology/7028544"
+    },
+    {
+      "name": "circuit theory",
+      "code": "eee221",
+      "url": "https://www.studocu.com/row/course/gazi-universitesi/circuit-theory/4539087"
+    },
+    {
+      "name": "Civil And Enviromental Engineering",
+      "code": "Civil Engineering",
+      "url": "https://www.studocu.com/row/course/gazi-universitesi/civil-and-enviromental-engineering/3408203"
+    },
+    {
+      "name": "Civil And Environmental Engineering",
+      "code": "Civil And Environmental Engineering",
+      "url": "https://www.studocu.com/row/course/gazi-universitesi/civil-and-environmental-engineering/3408205"
+    },
+    {
+      "name": "Clinical Pharmacy",
+      "code": "PHARM131",
+      "url": "https://www.studocu.com/row/course/gazi-universitesi/clinical-pharmacy/3814569"
+    },
+    {
+      "name": "Computer Architecture",
+      "code": "BM311",
+      "url": "https://www.studocu.com/row/course/gazi-universitesi/computer-architecture/7205769"
+    },
+    {
+      "name": "Database Management Systems",
+      "code": "IE326",
+      "url": "https://www.studocu.com/row/course/gazi-universitesi/database-management-systems/3518186"
+    },
+    {
+      "name": "Design I",
+      "code": "TAS101",
+      "url": "https://www.studocu.com/row/course/gazi-universitesi/design-i/4419156"
+    },
+    {
+      "name": "digital signal processing",
+      "code": "eee421",
+      "url": "https://www.studocu.com/row/course/gazi-universitesi/digital-signal-processing/6599607"
+    },
+    {
+      "name": "eem malzeme bilim",
+      "code": "EEE 103",
+      "url": "https://www.studocu.com/row/course/gazi-universitesi/eem-malzeme-bilim/7503094"
+    },
+    {
+      "name": "Ekonomi",
+      "code": "ECO1",
+      "url": "https://www.studocu.com/row/course/gazi-universitesi/ekonomi/6739417"
+    },
+    {
+      "name": "Electronic Intelligence",
+      "code": "EEE5921",
+      "url": "https://www.studocu.com/row/course/gazi-universitesi/electronic-intelligence/6865448"
+    },
+    {
+      "name": "Electronics cooling",
+      "code": "MM497",
+      "url": "https://www.studocu.com/row/course/gazi-universitesi/electronics-cooling/5874529"
+    },
+    {
+      "name": "Elektrik Elektronik Mühendisliği",
+      "code": "EEM",
+      "url": "https://www.studocu.com/row/course/gazi-universitesi/elektrik-elektronik-muhendisligi/1755958"
+    },
+    {
+      "name": "Elektrik ve Elektronik Devreler",
+      "code": "BM211",
+      "url": "https://www.studocu.com/row/course/gazi-universitesi/elektrik-ve-elektronik-devreler/5728808"
+    },
+    {
+      "name": "Engineering Economics",
+      "code": "MM314",
+      "url": "https://www.studocu.com/row/course/gazi-universitesi/engineering-economics/6898340"
+    },
+    {
+      "name": "Engineering Statistics",
+      "code": "STAT1",
+      "url": "https://www.studocu.com/row/course/gazi-universitesi/engineering-statistics/5343517"
+    },
+    {
+      "name": "Eğitim Bilimleri",
+      "code": "L.S.K.U",
+      "url": "https://www.studocu.com/row/course/gazi-universitesi/egitim-bilimleri/6875835"
+    },
+    {
+      "name": "File Organization",
+      "code": "CENG307",
+      "url": "https://www.studocu.com/row/course/gazi-universitesi/file-organization/6387424"
+    },
+    {
+      "name": "Fi̇zi̇k",
+      "code": "FIZ103",
+      "url": "https://www.studocu.com/row/course/gazi-universitesi/fizik/6619381"
+    },
+    {
+      "name": "fluid mechanics",
+      "code": "CE371",
+      "url": "https://www.studocu.com/row/course/gazi-universitesi/fluid-mechanics/4399148"
+    },
+    {
+      "name": "General Chemistry",
+      "code": "Chem103",
+      "url": "https://www.studocu.com/row/course/gazi-universitesi/general-chemistry/6813564"
+    },
+    {
+      "name": "German Language",
+      "code": "German101",
+      "url": "https://www.studocu.com/row/course/gazi-universitesi/german-language/7189581"
+    },
+    {
+      "name": "Güneş Enerjisi ve Uygulamaları",
+      "code": "MM484",
+      "url": "https://www.studocu.com/row/course/gazi-universitesi/gunes-enerjisi-ve-uygulamalari/7221289"
+    },
+    {
+      "name": "Hava Aracı Yapıları",
+      "code": "UCK",
+      "url": "https://www.studocu.com/row/course/gazi-universitesi/hava-araci-yapilari/7478892"
+    },
+    {
+      "name": "heat and mass transfer",
+      "code": "ME309",
+      "url": "https://www.studocu.com/row/course/gazi-universitesi/heat-and-mass-transfer/4544796"
+    },
+    {
+      "name": "Hydrology",
+      "code": "CE372",
+      "url": "https://www.studocu.com/row/course/gazi-universitesi/hydrology/4396225"
+    },
+    {
+      "name": "intermediate accounting",
+      "code": "BUAD207",
+      "url": "https://www.studocu.com/row/course/gazi-universitesi/intermediate-accounting/4317312"
+    },
+    {
+      "name": "Introduction to Industrial Engineering",
+      "code": "ENM 106",
+      "url": "https://www.studocu.com/row/course/gazi-universitesi/introduction-to-industrial-engineering/6572606"
+    },
+    {
+      "name": "Introduction to Psychology",
+      "code": "PSY101",
+      "url": "https://www.studocu.com/row/course/gazi-universitesi/introduction-to-psychology/6864263"
+    },
+    {
+      "name": "Introduction to Psychology",
+      "code": "PSY215",
+      "url": "https://www.studocu.com/row/course/gazi-universitesi/introduction-to-psychology/6864265"
+    },
+    {
+      "name": "Inşaat mühendisliği",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/gazi-universitesi/insaat-muhendisligi/2349634"
+    },
+    {
+      "name": "İklimlendirme Esasları",
+      "code": "MM476",
+      "url": "https://www.studocu.com/row/course/gazi-universitesi/iklimlendirme-esaslari/5907779"
+    },
+    {
+      "name": "İş Sağlığı Ve Güvenliği",
+      "code": "ISG401",
+      "url": "https://www.studocu.com/row/course/gazi-universitesi/is-sagligi-ve-guvenligi/5115411"
+    },
+    {
+      "name": "katı hal kaynak teknikleri",
+      "code": "kyk A04",
+      "url": "https://www.studocu.com/row/course/gazi-universitesi/kati-hal-kaynak-teknikleri/7291952"
+    },
+    {
+      "name": "kunskapsprov",
+      "code": "PSYC24",
+      "url": "https://www.studocu.com/row/course/gazi-universitesi/kunskapsprov/4557776"
+    },
+    {
+      "name": "Language Teaching",
+      "code": "ELT 1996",
+      "url": "https://www.studocu.com/row/course/gazi-universitesi/language-teaching/6951003"
+    },
+    {
+      "name": "Lineer Cebir I",
+      "code": "MAT-113",
+      "url": "https://www.studocu.com/row/course/gazi-universitesi/lineer-cebir-i/6619384"
+    },
+    {
+      "name": "logic design",
+      "code": "ee-002",
+      "url": "https://www.studocu.com/row/course/gazi-universitesi/logic-design/5819577"
+    },
+    {
+      "name": "makine elemanları",
+      "code": "MM301",
+      "url": "https://www.studocu.com/row/course/gazi-universitesi/makine-elemanlari/6666137"
+    },
+    {
+      "name": "Manufacturing Process",
+      "code": "IE208",
+      "url": "https://www.studocu.com/row/course/gazi-universitesi/manufacturing-process/6893985"
+    },
+    {
+      "name": "Marketing management",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/gazi-universitesi/marketing-management/2917827"
+    },
+    {
+      "name": "Matematik 1-2",
+      "code": "MAT102",
+      "url": "https://www.studocu.com/row/course/gazi-universitesi/matematik-1-2/3732284"
+    },
+    {
+      "name": "Materials  Scıence",
+      "code": "ME207",
+      "url": "https://www.studocu.com/row/course/gazi-universitesi/materials-science/4330383"
+    },
+    {
+      "name": "Measurement and Data Analysis",
+      "code": "ME419",
+      "url": "https://www.studocu.com/row/course/gazi-universitesi/measurement-and-data-analysis/5858662"
+    },
+    {
+      "name": "Mechanical engineering",
+      "code": "01",
+      "url": "https://www.studocu.com/row/course/gazi-universitesi/mechanical-engineering/3209141"
+    },
+    {
+      "name": "Mechanics I (Statics)",
+      "code": "CE223",
+      "url": "https://www.studocu.com/row/course/gazi-universitesi/mechanics-i-statics/3441917"
+    },
+    {
+      "name": "Mechanisms",
+      "code": "ME305",
+      "url": "https://www.studocu.com/row/course/gazi-universitesi/mechanisms/5161293"
+    },
+    {
+      "name": "medicine",
+      "code": "MED01",
+      "url": "https://www.studocu.com/row/course/gazi-universitesi/medicine/5285788"
+    },
+    {
+      "name": "Microcontroller",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/gazi-universitesi/microcontroller/6027428"
+    },
+    {
+      "name": "numerical analysis",
+      "code": "ME303",
+      "url": "https://www.studocu.com/row/course/gazi-universitesi/numerical-analysis/4544852"
+    },
+    {
+      "name": "Object Oriented Programming",
+      "code": "CENG213",
+      "url": "https://www.studocu.com/row/course/gazi-universitesi/object-oriented-programming/5792447"
+    },
+    {
+      "name": "Olasılık ve istatistik",
+      "code": "BM207",
+      "url": "https://www.studocu.com/row/course/gazi-universitesi/olasilik-ve-istatistik/6619377"
+    },
+    {
+      "name": "Operating Systems",
+      "code": "CE5021",
+      "url": "https://www.studocu.com/row/course/gazi-universitesi/operating-systems/6553359"
+    },
+    {
+      "name": "Organic Chemistry",
+      "code": "CHEM1241",
+      "url": "https://www.studocu.com/row/course/gazi-universitesi/organic-chemistry/6979319"
+    },
+    {
+      "name": "Pesquisa operacional",
+      "code": "PO - 001",
+      "url": "https://www.studocu.com/row/course/gazi-universitesi/pesquisa-operacional/6540031"
+    },
+    {
+      "name": "Physics",
+      "code": "PHYS103",
+      "url": "https://www.studocu.com/row/course/gazi-universitesi/physics/6813573"
+    },
+    {
+      "name": "Physics and Measurement",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/gazi-universitesi/physics-and-measurement/6218206"
+    },
+    {
+      "name": "power systems",
+      "code": "ee314",
+      "url": "https://www.studocu.com/row/course/gazi-universitesi/power-systems/7192535"
+    },
+    {
+      "name": "Preparation for a Doctoral Thesis",
+      "code": "83FBE6002",
+      "url": "https://www.studocu.com/row/course/gazi-universitesi/preparation-for-a-doctoral-thesis/6049313"
+    },
+    {
+      "name": "Risk Management",
+      "code": "RSK101",
+      "url": "https://www.studocu.com/row/course/gazi-universitesi/risk-management/5438913"
+    },
+    {
+      "name": "Ruh sağlığı ve hastalıkları hemşireliğ",
+      "code": "hem 401",
+      "url": "https://www.studocu.com/row/course/gazi-universitesi/ruh-sagligi-ve-hastaliklari-hemsirelig/7292562"
+    },
+    {
+      "name": "Software engineering",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/gazi-universitesi/software-engineering/7537501"
+    },
+    {
+      "name": "Special Topics in Power Electronics",
+      "code": "EE 503",
+      "url": "https://www.studocu.com/row/course/gazi-universitesi/special-topics-in-power-electronics/6689454"
+    },
+    {
+      "name": "Strength of Materials",
+      "code": "ME212",
+      "url": "https://www.studocu.com/row/course/gazi-universitesi/strength-of-materials/3665965"
+    },
+    {
+      "name": "Structural Analysis",
+      "code": "CE383",
+      "url": "https://www.studocu.com/row/course/gazi-universitesi/structural-analysis/3281486"
+    },
+    {
+      "name": "svenska",
+      "code": "BLAW2001",
+      "url": "https://www.studocu.com/row/course/gazi-universitesi/svenska/5166528"
+    },
+    {
+      "name": "Tarih",
+      "code": "101",
+      "url": "https://www.studocu.com/row/course/gazi-universitesi/tarih/7238908"
+    },
+    {
+      "name": "Temel Elektrik-Elektronik",
+      "code": "UCK",
+      "url": "https://www.studocu.com/row/course/gazi-universitesi/temel-elektrik-elektronik/7478890"
+    },
+    {
+      "name": "Thermodynamics I",
+      "code": "ME203",
+      "url": "https://www.studocu.com/row/course/gazi-universitesi/thermodynamics-i/5866719"
+    },
+    {
+      "name": "tig kaynagı",
+      "code": "kyk A04",
+      "url": "https://www.studocu.com/row/course/gazi-universitesi/tig-kaynagi/7291957"
+    },
+    {
+      "name": "tozaltı kaynağı",
+      "code": "kyk A02",
+      "url": "https://www.studocu.com/row/course/gazi-universitesi/tozalti-kaynagi/7291947"
+    },
+    {
+      "name": "Türk Di̇li̇ 2",
+      "code": "TÜR102",
+      "url": "https://www.studocu.com/row/course/gazi-universitesi/turk-dili-2/7502450"
+    },
+    {
+      "name": "Yapay Zekâ Topluluğu",
+      "code": "ee 545",
+      "url": "https://www.studocu.com/row/course/gazi-universitesi/yapay-zeka-toplulugu/7354179"
+    },
+    {
+      "name": "Yazstajı",
+      "code": "staj101",
+      "url": "https://www.studocu.com/row/course/gazi-universitesi/yazstaji/6659572"
+    },
+    {
+      "name": "Üretim Sistemleri",
+      "code": "IE409",
+      "url": "https://www.studocu.com/row/course/gazi-universitesi/uretim-sistemleri/7242636"
+    }
+  ]
+}

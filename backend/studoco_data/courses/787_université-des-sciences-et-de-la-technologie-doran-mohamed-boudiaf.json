@@ -1,0 +1,716 @@
+{
+  "university_id": "787",
+  "university_name": "Université des Sciences et de la Technologie d'Oran - Mohamed Boudiaf",
+  "courses": [
+    {
+      "name": "Administration des Systémes d'information",
+      "code": "ASI L3",
+      "url": "https://www.studocu.com/row/course/universite-des-sciences-et-de-la-technologie-doran-mohamed-boudiaf/administration-des-systemes-dinformation/6015119"
+    },
+    {
+      "name": "algebre3",
+      "code": "LBS3201",
+      "url": "https://www.studocu.com/row/course/universite-des-sciences-et-de-la-technologie-doran-mohamed-boudiaf/algebre3/6674105"
+    },
+    {
+      "name": "Algorithme et Structures de données 1",
+      "code": "ASD1 L1",
+      "url": "https://www.studocu.com/row/course/universite-des-sciences-et-de-la-technologie-doran-mohamed-boudiaf/algorithme-et-structures-de-donnees-1/6018953"
+    },
+    {
+      "name": "Algorithme et Structures de données 2",
+      "code": "ASD2 L1",
+      "url": "https://www.studocu.com/row/course/universite-des-sciences-et-de-la-technologie-doran-mohamed-boudiaf/algorithme-et-structures-de-donnees-2/6018964"
+    },
+    {
+      "name": "Algorithme et Structures de données 3",
+      "code": "ASD 3 L2",
+      "url": "https://www.studocu.com/row/course/universite-des-sciences-et-de-la-technologie-doran-mohamed-boudiaf/algorithme-et-structures-de-donnees-3/6016481"
+    },
+    {
+      "name": "Algorithmes Systèmes Répartis",
+      "code": "ASR M1",
+      "url": "https://www.studocu.com/row/course/universite-des-sciences-et-de-la-technologie-doran-mohamed-boudiaf/algorithmes-systemes-repartis/6019043"
+    },
+    {
+      "name": "Algébre 1",
+      "code": "ALGB1 L1",
+      "url": "https://www.studocu.com/row/course/universite-des-sciences-et-de-la-technologie-doran-mohamed-boudiaf/algebre-1/6028332"
+    },
+    {
+      "name": "Algébre 2",
+      "code": "ALGB 2",
+      "url": "https://www.studocu.com/row/course/universite-des-sciences-et-de-la-technologie-doran-mohamed-boudiaf/algebre-2/6535628"
+    },
+    {
+      "name": "Analyse 1",
+      "code": "Anal1 L1",
+      "url": "https://www.studocu.com/row/course/universite-des-sciences-et-de-la-technologie-doran-mohamed-boudiaf/analyse-1/6018935"
+    },
+    {
+      "name": "Analyse 2",
+      "code": "Anal2 L1",
+      "url": "https://www.studocu.com/row/course/universite-des-sciences-et-de-la-technologie-doran-mohamed-boudiaf/analyse-2/6018943"
+    },
+    {
+      "name": "Analyse des données",
+      "code": "AND M1",
+      "url": "https://www.studocu.com/row/course/universite-des-sciences-et-de-la-technologie-doran-mohamed-boudiaf/analyse-des-donnees/5992803"
+    },
+    {
+      "name": "Anglais M1 Cytogénétique",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/universite-des-sciences-et-de-la-technologie-doran-mohamed-boudiaf/anglais-m1-cytogenetique/5500248"
+    },
+    {
+      "name": "Apprentissage Automatique",
+      "code": "AA M1",
+      "url": "https://www.studocu.com/row/course/universite-des-sciences-et-de-la-technologie-doran-mohamed-boudiaf/apprentissage-automatique/6028213"
+    },
+    {
+      "name": "Architecture des ordinateurs",
+      "code": "AO L2",
+      "url": "https://www.studocu.com/row/course/universite-des-sciences-et-de-la-technologie-doran-mohamed-boudiaf/architecture-des-ordinateurs/6016646"
+    },
+    {
+      "name": "Automaique",
+      "code": "AUTO001",
+      "url": "https://www.studocu.com/row/course/universite-des-sciences-et-de-la-technologie-doran-mohamed-boudiaf/automaique/6024144"
+    },
+    {
+      "name": "Bases de données",
+      "code": "BDD L2",
+      "url": "https://www.studocu.com/row/course/universite-des-sciences-et-de-la-technologie-doran-mohamed-boudiaf/bases-de-donnees/6016511"
+    },
+    {
+      "name": "Bases de Données Multidimensionnelles et Entrepots de Données",
+      "code": "BDMED1",
+      "url": "https://www.studocu.com/row/course/universite-des-sciences-et-de-la-technologie-doran-mohamed-boudiaf/bases-de-donnees-multidimensionnelles-et-entrepots-de-donnees/5983401"
+    },
+    {
+      "name": "Bilan hydrique et evaluation des ressources en eau superficielle du bassin de la MACTA",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/universite-des-sciences-et-de-la-technologie-doran-mohamed-boudiaf/bilan-hydrique-et-evaluation-des-ressources-en-eau-superficielle-du-bassin-de-la-macta/5500110"
+    },
+    {
+      "name": "Biochimie et Physiologie Végétale",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/universite-des-sciences-et-de-la-technologie-doran-mohamed-boudiaf/biochimie-et-physiologie-vegetale/5500184"
+    },
+    {
+      "name": "Bioinformatics (Microbiology)",
+      "code": "Bioinfo007",
+      "url": "https://www.studocu.com/row/course/universite-des-sciences-et-de-la-technologie-doran-mohamed-boudiaf/bioinformatics-microbiology/7350354"
+    },
+    {
+      "name": "biologie animale COURS L1 SNV",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/universite-des-sciences-et-de-la-technologie-doran-mohamed-boudiaf/biologie-animale-cours-l1-snv/5500274"
+    },
+    {
+      "name": "biologie animale COURS L1 SNV copie 1",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/universite-des-sciences-et-de-la-technologie-doran-mohamed-boudiaf/biologie-animale-cours-l1-snv-copie-1/5500269"
+    },
+    {
+      "name": "Biologie animale L1",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/universite-des-sciences-et-de-la-technologie-doran-mohamed-boudiaf/biologie-animale-l1/5500409"
+    },
+    {
+      "name": "Biologie cellulaire نسخ 1",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/universite-des-sciences-et-de-la-technologie-doran-mohamed-boudiaf/biologie-cellulaire-nskh-1/5500385"
+    },
+    {
+      "name": "Biologie végétale نسخ 1",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/universite-des-sciences-et-de-la-technologie-doran-mohamed-boudiaf/biologie-vegetale-nskh-1/5500265"
+    },
+    {
+      "name": "Biomolécules",
+      "code": "bm002",
+      "url": "https://www.studocu.com/row/course/universite-des-sciences-et-de-la-technologie-doran-mohamed-boudiaf/biomolecules/7350344"
+    },
+    {
+      "name": "Biophysique L2 SNV",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/universite-des-sciences-et-de-la-technologie-doran-mohamed-boudiaf/biophysique-l2-snv/5500332"
+    },
+    {
+      "name": "Biotechnologie des microorganismes",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/universite-des-sciences-et-de-la-technologie-doran-mohamed-boudiaf/biotechnologie-des-microorganismes/5500161"
+    },
+    {
+      "name": "Business intelligence",
+      "code": "BI L3",
+      "url": "https://www.studocu.com/row/course/universite-des-sciences-et-de-la-technologie-doran-mohamed-boudiaf/business-intelligence/6016359"
+    },
+    {
+      "name": "Béton de sable fibré projeté pour panneau 3d",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/universite-des-sciences-et-de-la-technologie-doran-mohamed-boudiaf/beton-de-sable-fibre-projete-pour-panneau-3d/5500118"
+    },
+    {
+      "name": "Calcul des assemblages en acier poutre-poteau boulonnés par platine d’extrémité",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/universite-des-sciences-et-de-la-technologie-doran-mohamed-boudiaf/calcul-des-assemblages-en-acier-poutre-poteau-boulonnes-par-platine-dextremite/5500081"
+    },
+    {
+      "name": "Calcul Pratique des Fondations",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/universite-des-sciences-et-de-la-technologie-doran-mohamed-boudiaf/calcul-pratique-des-fondations/5500073"
+    },
+    {
+      "name": "Charpente métallique",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/universite-des-sciences-et-de-la-technologie-doran-mohamed-boudiaf/charpente-metallique/7421640"
+    },
+    {
+      "name": "Chimie II",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/universite-des-sciences-et-de-la-technologie-doran-mohamed-boudiaf/chimie-ii/5500279"
+    },
+    {
+      "name": "chimie organique",
+      "code": "org 2012",
+      "url": "https://www.studocu.com/row/course/universite-des-sciences-et-de-la-technologie-doran-mohamed-boudiaf/chimie-organique/4538724"
+    },
+    {
+      "name": "ciencias naturales",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/universite-des-sciences-et-de-la-technologie-doran-mohamed-boudiaf/ciencias-naturales/7587661"
+    },
+    {
+      "name": "commande avancée",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/universite-des-sciences-et-de-la-technologie-doran-mohamed-boudiaf/commande-avancee/5148356"
+    },
+    {
+      "name": "contrôle des qualités des aliments",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/universite-des-sciences-et-de-la-technologie-doran-mohamed-boudiaf/controle-des-qualites-des-aliments/5500152"
+    },
+    {
+      "name": "Cour N°1 ZOOLOGIE 20-21",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/universite-des-sciences-et-de-la-technologie-doran-mohamed-boudiaf/cour-n01-zoologie-20-21/5500389"
+    },
+    {
+      "name": "Cours de Résistance des Matériaux – Systèmes Isostatiquesou",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/universite-des-sciences-et-de-la-technologie-doran-mohamed-boudiaf/cours-de-resistance-des-materiaux-systemes-isostatiquesou/5500079"
+    },
+    {
+      "name": "cryogenic process",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/universite-des-sciences-et-de-la-technologie-doran-mohamed-boudiaf/cryogenic-process/6570006"
+    },
+    {
+      "name": "Dynamique des ouvrages géotechniques",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/universite-des-sciences-et-de-la-technologie-doran-mohamed-boudiaf/dynamique-des-ouvrages-geotechniques/5499997"
+    },
+    {
+      "name": "Dévelopement d'application web",
+      "code": "12DAW",
+      "url": "https://www.studocu.com/row/course/universite-des-sciences-et-de-la-technologie-doran-mohamed-boudiaf/developement-dapplication-web/4398916"
+    },
+    {
+      "name": "electrical schematics",
+      "code": "blew 76",
+      "url": "https://www.studocu.com/row/course/universite-des-sciences-et-de-la-technologie-doran-mohamed-boudiaf/electrical-schematics/7729317"
+    },
+    {
+      "name": "electronique et composants des systemes",
+      "code": "ELEC01",
+      "url": "https://www.studocu.com/row/course/universite-des-sciences-et-de-la-technologie-doran-mohamed-boudiaf/electronique-et-composants-des-systemes/6679755"
+    },
+    {
+      "name": "Eléments de méthodes de formulation et tests de caractérisation des bétons auto- plaçants à l’état frais",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/universite-des-sciences-et-de-la-technologie-doran-mohamed-boudiaf/elements-de-methodes-de-formulation-et-tests-de-caracterisation-des-betons-auto-placants-a-letat-frais/5500012"
+    },
+    {
+      "name": "Engineering de l’hydraulique Urbaine et rurale",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/universite-des-sciences-et-de-la-technologie-doran-mohamed-boudiaf/engineering-de-lhydraulique-urbaine-et-rurale/5499979"
+    },
+    {
+      "name": "English",
+      "code": "eng321",
+      "url": "https://www.studocu.com/row/course/universite-des-sciences-et-de-la-technologie-doran-mohamed-boudiaf/english/5422525"
+    },
+    {
+      "name": "Entrepreneuriat",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/universite-des-sciences-et-de-la-technologie-doran-mohamed-boudiaf/entrepreneuriat/7342554"
+    },
+    {
+      "name": "Environnement Marin",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/universite-des-sciences-et-de-la-technologie-doran-mohamed-boudiaf/environnement-marin/5500253"
+    },
+    {
+      "name": "Epuration des Eaux Usees",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/universite-des-sciences-et-de-la-technologie-doran-mohamed-boudiaf/epuration-des-eaux-usees/5499990"
+    },
+    {
+      "name": "Epuration et réutilisation des eaux résiduaires",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/universite-des-sciences-et-de-la-technologie-doran-mohamed-boudiaf/epuration-et-reutilisation-des-eaux-residuaires/5499988"
+    },
+    {
+      "name": "Etude du comportement du sable de chlef sous sollicitations dynamiquesou",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/universite-des-sciences-et-de-la-technologie-doran-mohamed-boudiaf/etude-du-comportement-du-sable-de-chlef-sous-sollicitations-dynamiquesou/5500093"
+    },
+    {
+      "name": "Examen de méthode de travail l1",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/universite-des-sciences-et-de-la-technologie-doran-mohamed-boudiaf/examen-de-methode-de-travail-l1/5500235"
+    },
+    {
+      "name": "excel for beginners",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/universite-des-sciences-et-de-la-technologie-doran-mohamed-boudiaf/excel-for-beginners/6964678"
+    },
+    {
+      "name": "Évaluation de TD/TP de Microbiologie",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/universite-des-sciences-et-de-la-technologie-doran-mohamed-boudiaf/evaluation-de-tdtp-de-microbiologie/5500424"
+    },
+    {
+      "name": "Fiche Technique",
+      "code": "42CrMo4",
+      "url": "https://www.studocu.com/row/course/universite-des-sciences-et-de-la-technologie-doran-mohamed-boudiaf/fiche-technique/4347185"
+    },
+    {
+      "name": "genie chimique",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/universite-des-sciences-et-de-la-technologie-doran-mohamed-boudiaf/genie-chimique/6903139"
+    },
+    {
+      "name": "Génie civil",
+      "code": "RDM2",
+      "url": "https://www.studocu.com/row/course/universite-des-sciences-et-de-la-technologie-doran-mohamed-boudiaf/genie-civil/5334168"
+    },
+    {
+      "name": "Génie Civil",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/universite-des-sciences-et-de-la-technologie-doran-mohamed-boudiaf/genie-civil/5499961"
+    },
+    {
+      "name": "Génie Logiciel",
+      "code": "GL L3",
+      "url": "https://www.studocu.com/row/course/universite-des-sciences-et-de-la-technologie-doran-mohamed-boudiaf/genie-logiciel/6015135"
+    },
+    {
+      "name": "Histoire universelle des sciences biologiques",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/universite-des-sciences-et-de-la-technologie-doran-mohamed-boudiaf/histoire-universelle-des-sciences-biologiques/5500394"
+    },
+    {
+      "name": "Hydraulique",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/universite-des-sciences-et-de-la-technologie-doran-mohamed-boudiaf/hydraulique/5499977"
+    },
+    {
+      "name": "Impact socio -Economique  des sciences de vie(L1 SNV)S2",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/universite-des-sciences-et-de-la-technologie-doran-mohamed-boudiaf/impact-socio-economique-des-sciences-de-viel1-snvs2/5500419"
+    },
+    {
+      "name": "Ingénierie des modèles",
+      "code": "IDM M1",
+      "url": "https://www.studocu.com/row/course/universite-des-sciences-et-de-la-technologie-doran-mohamed-boudiaf/ingenierie-des-modeles/5983445"
+    },
+    {
+      "name": "Interface homme-machine",
+      "code": "IHM L3",
+      "url": "https://www.studocu.com/row/course/universite-des-sciences-et-de-la-technologie-doran-mohamed-boudiaf/interface-homme-machine/6015147"
+    },
+    {
+      "name": "Introduction à la Cristallographie",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/universite-des-sciences-et-de-la-technologie-doran-mohamed-boudiaf/introduction-a-la-cristallographie/5905815"
+    },
+    {
+      "name": "ISAR Imaging based on Compressive Sensing",
+      "code": "radar",
+      "url": "https://www.studocu.com/row/course/universite-des-sciences-et-de-la-technologie-doran-mohamed-boudiaf/isar-imaging-based-on-compressive-sensing/6731136"
+    },
+    {
+      "name": "Kadour chawi",
+      "code": "2001",
+      "url": "https://www.studocu.com/row/course/universite-des-sciences-et-de-la-technologie-doran-mohamed-boudiaf/kadour-chawi/6967844"
+    },
+    {
+      "name": "La programmation avancee du web",
+      "code": "PAWEB L3",
+      "url": "https://www.studocu.com/row/course/universite-des-sciences-et-de-la-technologie-doran-mohamed-boudiaf/la-programmation-avancee-du-web/6015165"
+    },
+    {
+      "name": "Le calcule scientifique appliqué au Génie Civil Sous MATLAB",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/universite-des-sciences-et-de-la-technologie-doran-mohamed-boudiaf/le-calcule-scientifique-applique-au-genie-civil-sous-matlab/5500105"
+    },
+    {
+      "name": "Le renouvellement du patrimoine bati vetuste -le cas du centre-ville d’oran",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/universite-des-sciences-et-de-la-technologie-doran-mohamed-boudiaf/le-renouvellement-du-patrimoine-bati-vetuste-le-cas-du-centre-ville-doran/5500101"
+    },
+    {
+      "name": "Les systèmes d’information géographique appliqués à l’architecture et à l’urbanisme sous le logiciel MAPINFO",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/universite-des-sciences-et-de-la-technologie-doran-mohamed-boudiaf/les-systemes-dinformation-geographique-appliques-a-larchitecture-et-a-lurbanisme-sous-le-logiciel-mapinfo/5500124"
+    },
+    {
+      "name": "Logiciels de simulation",
+      "code": "LS",
+      "url": "https://www.studocu.com/row/course/universite-des-sciences-et-de-la-technologie-doran-mohamed-boudiaf/logiciels-de-simulation/7173749"
+    },
+    {
+      "name": "Logique Mathématique",
+      "code": "LGM L2",
+      "url": "https://www.studocu.com/row/course/universite-des-sciences-et-de-la-technologie-doran-mohamed-boudiaf/logique-mathematique/6016626"
+    },
+    {
+      "name": "L’habitation Collective",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/universite-des-sciences-et-de-la-technologie-doran-mohamed-boudiaf/lhabitation-collective/5500060"
+    },
+    {
+      "name": "Machines electriques approfondies",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/universite-des-sciences-et-de-la-technologie-doran-mohamed-boudiaf/machines-electriques-approfondies/7553478"
+    },
+    {
+      "name": "Mathématiques",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/universite-des-sciences-et-de-la-technologie-doran-mohamed-boudiaf/mathematiques/5999413"
+    },
+    {
+      "name": "Mecanique rationnelle géomètre des masses",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/universite-des-sciences-et-de-la-technologie-doran-mohamed-boudiaf/mecanique-rationnelle-geometre-des-masses/7555476"
+    },
+    {
+      "name": "Methodes de Travail et Terminologie 1",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/universite-des-sciences-et-de-la-technologie-doran-mohamed-boudiaf/methodes-de-travail-et-terminologie-1/5500399"
+    },
+    {
+      "name": "Milieu poreux",
+      "code": "Mpd01",
+      "url": "https://www.studocu.com/row/course/universite-des-sciences-et-de-la-technologie-doran-mohamed-boudiaf/milieu-poreux/7482485"
+    },
+    {
+      "name": "Modeling and simulation with python",
+      "code": "MODSIM M1",
+      "url": "https://www.studocu.com/row/course/universite-des-sciences-et-de-la-technologie-doran-mohamed-boudiaf/modeling-and-simulation-with-python/5986393"
+    },
+    {
+      "name": "Modelisation 3D",
+      "code": "Mod3D",
+      "url": "https://www.studocu.com/row/course/universite-des-sciences-et-de-la-technologie-doran-mohamed-boudiaf/modelisation-3d/7582821"
+    },
+    {
+      "name": "Multiplication des plantes aromatiques",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/universite-des-sciences-et-de-la-technologie-doran-mohamed-boudiaf/multiplication-des-plantes-aromatiques/5500165"
+    },
+    {
+      "name": "Mécanique des fluides",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/universite-des-sciences-et-de-la-technologie-doran-mohamed-boudiaf/mecanique-des-fluides/7338234"
+    },
+    {
+      "name": "Mécanique milieu continu",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/universite-des-sciences-et-de-la-technologie-doran-mohamed-boudiaf/mecanique-milieu-continu/6599311"
+    },
+    {
+      "name": "Métallurgie",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/universite-des-sciences-et-de-la-technologie-doran-mohamed-boudiaf/metallurgie/3257969"
+    },
+    {
+      "name": "Méthode Numérique",
+      "code": "MN L2",
+      "url": "https://www.studocu.com/row/course/universite-des-sciences-et-de-la-technologie-doran-mohamed-boudiaf/methode-numerique/6016580"
+    },
+    {
+      "name": "Méthodologie du travail universitaire",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/universite-des-sciences-et-de-la-technologie-doran-mohamed-boudiaf/methodologie-du-travail-universitaire/5500355"
+    },
+    {
+      "name": "Non-linear analysis of the behaviour of buried structures in random media",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/universite-des-sciences-et-de-la-technologie-doran-mohamed-boudiaf/non-linear-analysis-of-the-behaviour-of-buried-structures-in-random-media/5500089"
+    },
+    {
+      "name": "Nouveau Materiau : le Verre Dans le Batiment",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/universite-des-sciences-et-de-la-technologie-doran-mohamed-boudiaf/nouveau-materiau-le-verre-dans-le-batiment/5500042"
+    },
+    {
+      "name": "nutrition et pathologies",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/universite-des-sciences-et-de-la-technologie-doran-mohamed-boudiaf/nutrition-et-pathologies/5500128"
+    },
+    {
+      "name": "optique géometrique",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/universite-des-sciences-et-de-la-technologie-doran-mohamed-boudiaf/optique-geometrique/5864545"
+    },
+    {
+      "name": "Organisation de chantier et gestion de projet",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/universite-des-sciences-et-de-la-technologie-doran-mohamed-boudiaf/organisation-de-chantier-et-gestion-de-projet/5500085"
+    },
+    {
+      "name": "Outils de programmation pour les Mathématiques",
+      "code": "OPM L1",
+      "url": "https://www.studocu.com/row/course/universite-des-sciences-et-de-la-technologie-doran-mohamed-boudiaf/outils-de-programmation-pour-les-mathematiques/6018986"
+    },
+    {
+      "name": "Outils informatique_",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/universite-des-sciences-et-de-la-technologie-doran-mohamed-boudiaf/outils-informatique/5500365"
+    },
+    {
+      "name": "Outils pour la rédaction scientifique",
+      "code": "OIRS M1",
+      "url": "https://www.studocu.com/row/course/universite-des-sciences-et-de-la-technologie-doran-mohamed-boudiaf/outils-pour-la-redaction-scientifique/6028275"
+    },
+    {
+      "name": "Pathologie des ouvrages géotechniques",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/universite-des-sciences-et-de-la-technologie-doran-mohamed-boudiaf/pathologie-des-ouvrages-geotechniques/5499982"
+    },
+    {
+      "name": "Physique",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/universite-des-sciences-et-de-la-technologie-doran-mohamed-boudiaf/physique/5500287"
+    },
+    {
+      "name": "Physique 1",
+      "code": "PHSQ1 L1",
+      "url": "https://www.studocu.com/row/course/universite-des-sciences-et-de-la-technologie-doran-mohamed-boudiaf/physique-1/6018990"
+    },
+    {
+      "name": "Pneumatic",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/universite-des-sciences-et-de-la-technologie-doran-mohamed-boudiaf/pneumatic/7598935"
+    },
+    {
+      "name": "Polycopié de cours Assainissement urbainDimensionnement et exploitation des réseaux d’assainissement",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/universite-des-sciences-et-de-la-technologie-doran-mohamed-boudiaf/polycopie-de-cours-assainissement-urbaindimensionnement-et-exploitation-des-reseaux-dassainissement/5500015"
+    },
+    {
+      "name": "prawo spółek",
+      "code": "kod 321",
+      "url": "https://www.studocu.com/row/course/universite-des-sciences-et-de-la-technologie-doran-mohamed-boudiaf/prawo-spolek/5782518"
+    },
+    {
+      "name": "Probabilités et Statistiques",
+      "code": "PST 2024",
+      "url": "https://www.studocu.com/row/course/universite-des-sciences-et-de-la-technologie-doran-mohamed-boudiaf/probabilites-et-statistiques/7374865"
+    },
+    {
+      "name": "Programmation Orienté Objet",
+      "code": "POO L2",
+      "url": "https://www.studocu.com/row/course/universite-des-sciences-et-de-la-technologie-doran-mohamed-boudiaf/programmation-oriente-objet/6016557"
+    },
+    {
+      "name": "propulsion naval",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/universite-des-sciences-et-de-la-technologie-doran-mohamed-boudiaf/propulsion-naval/7400872"
+    },
+    {
+      "name": "Recherche d’Informations",
+      "code": "RI L3",
+      "url": "https://www.studocu.com/row/course/universite-des-sciences-et-de-la-technologie-doran-mohamed-boudiaf/recherche-dinformations/6016373"
+    },
+    {
+      "name": "Recherche operationnelle et combinatoire",
+      "code": "ROC M1",
+      "url": "https://www.studocu.com/row/course/universite-des-sciences-et-de-la-technologie-doran-mohamed-boudiaf/recherche-operationnelle-et-combinatoire/6019030"
+    },
+    {
+      "name": "Rédaction Scientifique",
+      "code": "RS L3",
+      "url": "https://www.studocu.com/row/course/universite-des-sciences-et-de-la-technologie-doran-mohamed-boudiaf/redaction-scientifique/6016390"
+    },
+    {
+      "name": "Résistance des matériaux",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/universite-des-sciences-et-de-la-technologie-doran-mohamed-boudiaf/resistance-des-materiaux/5500006"
+    },
+    {
+      "name": "Sciences delavie et impacts socio-économiques",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/universite-des-sciences-et-de-la-technologie-doran-mohamed-boudiaf/sciences-delavie-et-impacts-socio-economiques/5500301"
+    },
+    {
+      "name": "Sciences delavie et Impacts socio-économiques",
+      "code": "2021",
+      "url": "https://www.studocu.com/row/course/universite-des-sciences-et-de-la-technologie-doran-mohamed-boudiaf/sciences-delavie-et-impacts-socio-economiques-2021/5500360"
+    },
+    {
+      "name": "securite industrielle",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/universite-des-sciences-et-de-la-technologie-doran-mohamed-boudiaf/securite-industrielle/4358028"
+    },
+    {
+      "name": "Service de pathologie bucco-dentaire",
+      "code": "4654.0",
+      "url": "https://www.studocu.com/row/course/universite-des-sciences-et-de-la-technologie-doran-mohamed-boudiaf/service-de-pathologie-bucco-dentaire/3565515"
+    },
+    {
+      "name": "Soil-structure interaction effects on RC structures within a performance-based earthquake engineering frameworkoucliquer ici",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/universite-des-sciences-et-de-la-technologie-doran-mohamed-boudiaf/soil-structure-interaction-effects-on-rc-structures-within-a-performance-based-earthquake-engineering-frameworkoucliquer-ici/5500115"
+    },
+    {
+      "name": "stade delagastrulation Biologie animale L1",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/universite-des-sciences-et-de-la-technologie-doran-mohamed-boudiaf/stade-delagastrulation-biologie-animale-l1/5500257"
+    },
+    {
+      "name": "Structure de la matière",
+      "code": "UEF 1.1",
+      "url": "https://www.studocu.com/row/course/universite-des-sciences-et-de-la-technologie-doran-mohamed-boudiaf/structure-de-la-matiere/6535872"
+    },
+    {
+      "name": "Structure delamatière et de liaisons chimiques",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/universite-des-sciences-et-de-la-technologie-doran-mohamed-boudiaf/structure-delamatiere-et-de-liaisons-chimiques/5500291"
+    },
+    {
+      "name": "Structure des machines 2",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/universite-des-sciences-et-de-la-technologie-doran-mohamed-boudiaf/structure-des-machines-2/5499995"
+    },
+    {
+      "name": "System Linear Multivariable",
+      "code": "SLM1",
+      "url": "https://www.studocu.com/row/course/universite-des-sciences-et-de-la-technologie-doran-mohamed-boudiaf/system-linear-multivariable/7425041"
+    },
+    {
+      "name": "Systèmes d’exploitation 1",
+      "code": "SE1 L2",
+      "url": "https://www.studocu.com/row/course/universite-des-sciences-et-de-la-technologie-doran-mohamed-boudiaf/systemes-dexploitation-1/6016667"
+    },
+    {
+      "name": "Systèmes d’exploitation 2",
+      "code": "SE2 L3",
+      "url": "https://www.studocu.com/row/course/universite-des-sciences-et-de-la-technologie-doran-mohamed-boudiaf/systemes-dexploitation-2/6016428"
+    },
+    {
+      "name": "Systèmes d’Information",
+      "code": "SI L2",
+      "url": "https://www.studocu.com/row/course/universite-des-sciences-et-de-la-technologie-doran-mohamed-boudiaf/systemes-dinformation/7370694"
+    },
+    {
+      "name": "Systèmes Multi Agents",
+      "code": "ASMA M1",
+      "url": "https://www.studocu.com/row/course/universite-des-sciences-et-de-la-technologie-doran-mohamed-boudiaf/systemes-multi-agents/5983436"
+    },
+    {
+      "name": "Systéme à l’aide de la décision",
+      "code": "SAD L3",
+      "url": "https://www.studocu.com/row/course/universite-des-sciences-et-de-la-technologie-doran-mohamed-boudiaf/systeme-a-laide-de-la-decision/6015178"
+    },
+    {
+      "name": "Systémes d'information distribués",
+      "code": "SID L3",
+      "url": "https://www.studocu.com/row/course/universite-des-sciences-et-de-la-technologie-doran-mohamed-boudiaf/systemes-dinformation-distribues/6015184"
+    },
+    {
+      "name": "Sécurité informatique",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/universite-des-sciences-et-de-la-technologie-doran-mohamed-boudiaf/securite-informatique/4396362"
+    },
+    {
+      "name": "Sécurité qualité des données et logiciel",
+      "code": "Sqdl M1",
+      "url": "https://www.studocu.com/row/course/universite-des-sciences-et-de-la-technologie-doran-mohamed-boudiaf/securite-qualite-des-donnees-et-logiciel/5986839"
+    },
+    {
+      "name": "TD d'immunogénétique de 1 à 4",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/universite-des-sciences-et-de-la-technologie-doran-mohamed-boudiaf/td-dimmunogenetique-de-1-a-4/5500313"
+    },
+    {
+      "name": "TD MN 1-2",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/universite-des-sciences-et-de-la-technologie-doran-mohamed-boudiaf/td-mn-1-2/5500261"
+    },
+    {
+      "name": "TD Méthodes d’analyses modernes",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/universite-des-sciences-et-de-la-technologie-doran-mohamed-boudiaf/td-methodes-danalyses-modernes/5500208"
+    },
+    {
+      "name": "technique d'expression et de communication en anglais",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/universite-des-sciences-et-de-la-technologie-doran-mohamed-boudiaf/technique-dexpression-et-de-communication-en-anglais/5500322"
+    },
+    {
+      "name": "Techniques de l’Eau et Environnement",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/universite-des-sciences-et-de-la-technologie-doran-mohamed-boudiaf/techniques-de-leau-et-environnement/5499969"
+    },
+    {
+      "name": "Techniques et Règles de Construction",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/universite-des-sciences-et-de-la-technologie-doran-mohamed-boudiaf/techniques-et-regles-de-construction/5500002"
+    },
+    {
+      "name": "Temperature modelling in pavements: the effect of long-and short-wave radiation",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/universite-des-sciences-et-de-la-technologie-doran-mohamed-boudiaf/temperature-modelling-in-pavements-the-effect-of-long-and-short-wave-radiation/5500097"
+    },
+    {
+      "name": "Théorie des Graphes",
+      "code": "THG L2",
+      "url": "https://www.studocu.com/row/course/universite-des-sciences-et-de-la-technologie-doran-mohamed-boudiaf/theorie-des-graphes/6016603"
+    },
+    {
+      "name": "Théorie des Langages",
+      "code": "THL L2",
+      "url": "https://www.studocu.com/row/course/universite-des-sciences-et-de-la-technologie-doran-mohamed-boudiaf/theorie-des-langages/6016656"
+    },
+    {
+      "name": "thérapie Génique",
+      "code": "TGV001",
+      "url": "https://www.studocu.com/row/course/universite-des-sciences-et-de-la-technologie-doran-mohamed-boudiaf/therapie-genique/7350346"
+    },
+    {
+      "name": "thérapie Génique",
+      "code": "TGV005",
+      "url": "https://www.studocu.com/row/course/universite-des-sciences-et-de-la-technologie-doran-mohamed-boudiaf/therapie-genique/7350349"
+    },
+    {
+      "name": "thérapie Génique",
+      "code": "TGV009",
+      "url": "https://www.studocu.com/row/course/universite-des-sciences-et-de-la-technologie-doran-mohamed-boudiaf/therapie-genique/7350352"
+    },
+    {
+      "name": "transfert thermique",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/universite-des-sciences-et-de-la-technologie-doran-mohamed-boudiaf/transfert-thermique/6895245"
+    },
+    {
+      "name": "Travaux Dirigés de Biochimie et  Physiologie Végétale I",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/universite-des-sciences-et-de-la-technologie-doran-mohamed-boudiaf/travaux-diriges-de-biochimie-et-physiologie-vegetale-i/5500157"
+    }
+  ]
+}

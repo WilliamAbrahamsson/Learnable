@@ -1,5 +1,6 @@
 import { RefObject, useMemo, useState } from 'react';
-import { ZoomIn, ZoomOut, Plus, Type, Image as ImageIcon, Sparkles, Share, X } from 'lucide-react';
+import { ZoomIn, ZoomOut, Plus, Type, Image as ImageIcon, Sparkles, Share, X, Loader2 } from 'lucide-react';
+import axios from 'axios';
 import { useToast } from '@/hooks/use-toast';
 import { Tooltip, TooltipContent, TooltipProvider, TooltipTrigger } from '@/components/ui/tooltip';
 import { Dialog, DialogContent, DialogDescription, DialogFooter, DialogHeader, DialogTitle } from '@/components/ui/dialog';
@@ -15,6 +16,7 @@ type CanvasToolbarProps = {
   onZoomOut: () => void;
   onAddText: () => void;
   onAddImage: () => void;
+  graphId?: number;
 };
 
 export const CanvasToolbar = ({
@@ -26,11 +28,14 @@ export const CanvasToolbar = ({
   onZoomOut,
   onAddText,
   onAddImage,
+  graphId,
 }: CanvasToolbarProps) => {
   const { toast } = useToast();
   const [shareOpen, setShareOpen] = useState(false);
   const [query, setQuery] = useState('');
   const [invitees, setInvitees] = useState<string[]>([]);
+  const [analyzing, setAnalyzing] = useState(false);
+
   const demoContacts = useMemo(
     () => [
       'alice@example.com',
@@ -40,15 +45,17 @@ export const CanvasToolbar = ({
       'eve@research.lab',
       'mallory@security.org',
     ],
-    [],
+    []
   );
+
   const suggestions = useMemo(
     () =>
       demoContacts.filter(
-        (e) => query && e.toLowerCase().includes(query.toLowerCase()) && !invitees.includes(e),
+        (e) => query && e.toLowerCase().includes(query.toLowerCase()) && !invitees.includes(e)
       ),
-    [demoContacts, query, invitees],
+    [demoContacts, query, invitees]
   );
+
   const isValidEmail = (v: string) => /.+@.+\..+/.test(v);
   const addInvitee = (email: string) => {
     const e = email.trim();
@@ -56,14 +63,17 @@ export const CanvasToolbar = ({
     if (!invitees.includes(e)) setInvitees((prev) => [...prev, e]);
     setQuery('');
   };
-  const removeInvitee = (email: string) => setInvitees((prev) => prev.filter((x) => x !== email));
+  const removeInvitee = (email: string) =>
+    setInvitees((prev) => prev.filter((x) => x !== email));
   const handleShare = () => setShareOpen(true);
+
   const copyLink = async () => {
     try {
       await navigator.clipboard.writeText(window.location.href);
       toast({ description: 'Link copied to clipboard.' });
     } catch {}
   };
+
   const sendInvites = () => {
     if (invitees.length === 0) return;
     toast({ description: `Invites sent to ${invitees.join(', ')} (demo).` });
@@ -71,8 +81,48 @@ export const CanvasToolbar = ({
     setInvitees([]);
     setQuery('');
   };
-  // When chat grows and canvas shrinks, compact the toolbar
-  const compact = rightOffsetPercent >= 55; // show only Add Card in compact mode
+
+  const compact = rightOffsetPercent >= 55;
+
+  // ----------------------------
+  // 🧠 AI Relationship Check (with live update)
+  // ----------------------------
+  const handleAnalyzeRelationships = async () => {
+    if (!graphId) {
+      toast({ variant: 'destructive', description: 'No active graph selected.' });
+      return;
+    }
+    if (analyzing) return;
+
+    setAnalyzing(true);
+    try {
+      const res = await axios.post('http://127.0.0.1:5000/api/chat/analyze-graph', {
+        graph_id: graphId,
+      });
+
+      toast({
+        description: `AI analyzed ${res.data.updated} connections for graph ${res.data.graph_id}.`,
+      });
+
+      // ✅ Dispatch event to refresh canvas connection colors
+      window.dispatchEvent(
+        new CustomEvent('learnable-graph-analyzed', {
+          detail: { graphId },
+        })
+      );
+    } catch (err: any) {
+      console.error(err);
+      toast({
+        variant: 'destructive',
+        description:
+          err?.response?.data?.error ||
+          'Failed to analyze relationships. Please try again.',
+      });
+    } finally {
+      setAnalyzing(false);
+    }
+  };
+
   return (
     <>
       {/* Top-left vertical zoom bar */}
@@ -97,11 +147,8 @@ export const CanvasToolbar = ({
         </div>
       </div>
 
-      {/* Bottom bar (full-width within canvas, no border/radius) */}
-      <div
-        className="absolute bottom-0 left-0 z-10"
-        style={{ right: `${rightOffsetPercent}%` }}
-      >
+      {/* Bottom bar */}
+      <div className="absolute bottom-0 left-0 z-10" style={{ right: `${rightOffsetPercent}%` }}>
         <div className="relative h-12 bg-[#1C1C1C] flex items-center justify-center gap-2 px-0">
           <button
             type="button"
@@ -115,49 +162,62 @@ export const CanvasToolbar = ({
               Add Card
             </span>
           </button>
-          {!compact && (
-          <div className="absolute right-3 top-1/2 -translate-y-1/2">
-            <Tooltip>
-              <TooltipTrigger asChild>
-                <button
-                  type="button"
-                  onClick={handleShare}
-                  className="rounded-lg bg-[#2A2A28] hover:bg-[#33332F] px-3 py-1.5 text-sm text-[#C5C1BA] shadow"
-                >
-                  <span className="inline-flex items-center gap-1.5">
-                    <Share className="h-4 w-4" />
-                    Share Learning Graph
-                  </span>
-                </button>
-              </TooltipTrigger>
-              <TooltipContent className="bg-[#1C1C1C] text-[#C5C1BA] border border-[#272725] max-w-xs">
-                Shares your Learning Graph only. Chat is private and not included.
-              </TooltipContent>
-            </Tooltip>
-          </div>
-          )}
+
+          {/* AI Relationship Strength Check */}
           <TooltipProvider>
             {!compact && (
               <Tooltip>
                 <TooltipTrigger asChild>
                   <button
                     type="button"
-                    className="rounded-lg bg-gradient-to-r from-[#F59E0B] to-[#F97316] hover:from-[#D97706] hover:to-[#EA580C] px-3 py-1.5 text-sm text-white shadow"
+                    onClick={handleAnalyzeRelationships}
+                    disabled={analyzing}
+                    className="rounded-lg bg-gradient-to-r from-[#F59E0B] to-[#F97316] hover:from-[#D97706] hover:to-[#EA580C] px-3 py-1.5 text-sm text-white shadow flex items-center gap-1.5 disabled:opacity-50"
                   >
-                    <span className="inline-flex items-center gap-1.5">
-                      <Sparkles className="h-4 w-4" />
-                      Find Mergeable Cards
-                    </span>
+                    {analyzing ? (
+                      <>
+                        <Loader2 className="h-4 w-4 animate-spin" />
+                        Analyzing...
+                      </>
+                    ) : (
+                      <>
+                        <Sparkles className="h-4 w-4" />
+                        AI Relationship Strength Check
+                      </>
+                    )}
                   </button>
                 </TooltipTrigger>
                 <TooltipContent className="bg-[#1C1C1C] text-[#C5C1BA] border border-[#272725] max-w-xs">
-                  You will be presented with match percentage and then either accept or deny the changes
+                  The color of the relationships will update automatically (red → orange → green)
                 </TooltipContent>
               </Tooltip>
             )}
           </TooltipProvider>
 
-          {/* Add menu (positioned above the bar, anchored near the Add button) */}
+          {/* Share button */}
+          {!compact && (
+            <div className="absolute right-3 top-1/2 -translate-y-1/2">
+              <Tooltip>
+                <TooltipTrigger asChild>
+                  <button
+                    type="button"
+                    onClick={handleShare}
+                    className="rounded-lg bg-[#2A2A28] hover:bg-[#33332F] px-3 py-1.5 text-sm text-[#C5C1BA] shadow"
+                  >
+                    <span className="inline-flex items-center gap-1.5">
+                      <Share className="h-4 w-4" />
+                      Share Learning Graph
+                    </span>
+                  </button>
+                </TooltipTrigger>
+                <TooltipContent className="bg-[#1C1C1C] text-[#C5C1BA] border border-[#272725] max-w-xs">
+                  Shares your Learning Graph only. Chat is private and not included.
+                </TooltipContent>
+              </Tooltip>
+            </div>
+          )}
+
+          {/* Add Card menu */}
           {isMenuOpen && (
             <div
               ref={menuRef}
@@ -184,13 +244,13 @@ export const CanvasToolbar = ({
         </div>
       </div>
 
-      {/* Share dialog (demo) */}
+      {/* Share dialog */}
       <Dialog open={shareOpen} onOpenChange={setShareOpen}>
         <DialogContent className="max-w-md bg-[#1C1C1C] text-[#C5C1BA] border border-[#272725]">
           <DialogHeader>
             <DialogTitle className="text-[#E5E3DF]">Share Learning Graph</DialogTitle>
             <DialogDescription className="text-[#76746F]">
-              Invite collaborators by email. They will receive an email with a link. (Demo)
+              Invite collaborators by email. They will receive a demo invite link.
             </DialogDescription>
           </DialogHeader>
           <div className="space-y-3">
@@ -231,9 +291,16 @@ export const CanvasToolbar = ({
                 <div className="mb-1 text-[#76746F]">People</div>
                 <div className="flex flex-wrap gap-2">
                   {invitees.map((e) => (
-                    <span key={e} className="inline-flex items-center gap-1 px-2 py-1 rounded bg-[#272725] text-[#C5C1BA]">
+                    <span
+                      key={e}
+                      className="inline-flex items-center gap-1 px-2 py-1 rounded bg-[#272725] text-[#C5C1BA]"
+                    >
                       {e}
-                      <button type="button" onClick={() => removeInvitee(e)} className="text-[#B5B2AC] hover:text-white">
+                      <button
+                        type="button"
+                        onClick={() => removeInvitee(e)}
+                        className="text-[#B5B2AC] hover:text-white"
+                      >
                         <X className="h-3.5 w-3.5" />
                       </button>
                     </span>
@@ -243,14 +310,26 @@ export const CanvasToolbar = ({
             )}
           </div>
           <DialogFooter className="flex items-center justify-between">
-            <Button variant="ghost" className="text-[#C5C1BA] hover:text-white hover:bg-[#272725]" onClick={copyLink}>
+            <Button
+              variant="ghost"
+              className="text-[#C5C1BA] hover:text-white hover:bg-[#272725]"
+              onClick={copyLink}
+            >
               Copy link
             </Button>
             <div className="flex gap-2">
-              <Button variant="ghost" className="text-[#C5C1BA] hover:text-white hover:bg-[#272725]" onClick={() => setShareOpen(false)}>
+              <Button
+                variant="ghost"
+                className="text-[#C5C1BA] hover:text-white hover:bg-[#272725]"
+                onClick={() => setShareOpen(false)}
+              >
                 Close
               </Button>
-              <Button disabled={invitees.length === 0} className="bg-[#1E52F1] hover:bg-[#1E52F1]/90" onClick={sendInvites}>
+              <Button
+                disabled={invitees.length === 0}
+                className="bg-[#1E52F1] hover:bg-[#1E52F1]/90"
+                onClick={sendInvites}
+              >
                 Send Invites
               </Button>
             </div>

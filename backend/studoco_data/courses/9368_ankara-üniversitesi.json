@@ -1,0 +1,501 @@
+{
+  "university_id": "9368",
+  "university_name": "Ankara Üniversitesi",
+  "courses": [
+    {
+      "name": "Abstract Mathematics",
+      "code": "MTH1115",
+      "url": "https://www.studocu.com/row/course/ankara-universitesi/abstract-mathematics/7284306"
+    },
+    {
+      "name": "academic writing",
+      "code": "psy229",
+      "url": "https://www.studocu.com/row/course/ankara-universitesi/academic-writing/5310257"
+    },
+    {
+      "name": "Advanced English I",
+      "code": "ELL101",
+      "url": "https://www.studocu.com/row/course/ankara-universitesi/advanced-english-i/6539457"
+    },
+    {
+      "name": "Advanced Networking and Data Security",
+      "code": "CS 4404",
+      "url": "https://www.studocu.com/row/course/ankara-universitesi/advanced-networking-and-data-security/6866796"
+    },
+    {
+      "name": "AI in gingivitis diagnosis",
+      "code": "AI01",
+      "url": "https://www.studocu.com/row/course/ankara-universitesi/ai-in-gingivitis-diagnosis/7682921"
+    },
+    {
+      "name": "American Culture and Literature",
+      "code": "AKE 320",
+      "url": "https://www.studocu.com/row/course/ankara-universitesi/american-culture-and-literature/5924121"
+    },
+    {
+      "name": "ANKUZEF Sanat Tarihi",
+      "code": "2024-2025-Vize",
+      "url": "https://www.studocu.com/row/course/ankara-universitesi/ankuzef-sanat-tarihi/7554463"
+    },
+    {
+      "name": "Artificial Intelligence",
+      "code": "AI101",
+      "url": "https://www.studocu.com/row/course/ankara-universitesi/artificial-intelligence/4538168"
+    },
+    {
+      "name": "Astronomy I",
+      "code": "AST201",
+      "url": "https://www.studocu.com/row/course/ankara-universitesi/astronomy-i/6702504"
+    },
+    {
+      "name": "Automata Theory",
+      "code": "COM3064",
+      "url": "https://www.studocu.com/row/course/ankara-universitesi/automata-theory/6127858"
+    },
+    {
+      "name": "Bilg. Prog.",
+      "code": "IST1008",
+      "url": "https://www.studocu.com/row/course/ankara-universitesi/bilg-prog/7506143"
+    },
+    {
+      "name": "Bilgisayar Programlama II",
+      "code": "BLM1002",
+      "url": "https://www.studocu.com/row/course/ankara-universitesi/bilgisayar-programlama-ii/6729698"
+    },
+    {
+      "name": "Biochemistry",
+      "code": "bme 241",
+      "url": "https://www.studocu.com/row/course/ankara-universitesi/biochemistry/3272984"
+    },
+    {
+      "name": "Biomedical Instrumentation",
+      "code": "BME409L",
+      "url": "https://www.studocu.com/row/course/ankara-universitesi/biomedical-instrumentation/6660315"
+    },
+    {
+      "name": "biyokimya",
+      "code": "214",
+      "url": "https://www.studocu.com/row/course/ankara-universitesi/biyokimya/6599749"
+    },
+    {
+      "name": "Borçlar Hukuku",
+      "code": "2",
+      "url": "https://www.studocu.com/row/course/ankara-universitesi/borclar-hukuku/3236659"
+    },
+    {
+      "name": "Bulgarian Language",
+      "code": "BULG101",
+      "url": "https://www.studocu.com/row/course/ankara-universitesi/bulgarian-language/6635835"
+    },
+    {
+      "name": "Ceza Hukuku",
+      "code": "123",
+      "url": "https://www.studocu.com/row/course/ankara-universitesi/ceza-hukuku/3177387"
+    },
+    {
+      "name": "Cinemadaki Kadin Temsiller",
+      "code": "31005050",
+      "url": "https://www.studocu.com/row/course/ankara-universitesi/cinemadaki-kadin-temsiller/5798095"
+    },
+    {
+      "name": "Cloud Computing",
+      "code": "BM4009",
+      "url": "https://www.studocu.com/row/course/ankara-universitesi/cloud-computing/6972369"
+    },
+    {
+      "name": "Computer Networks",
+      "code": "BLM332",
+      "url": "https://www.studocu.com/row/course/ankara-universitesi/computer-networks/4828963"
+    },
+    {
+      "name": "Criminal Law",
+      "code": "HK 102",
+      "url": "https://www.studocu.com/row/course/ankara-universitesi/criminal-law/7157392"
+    },
+    {
+      "name": "Çok Amaçlı Karar Verme",
+      "code": "434 Not",
+      "url": "https://www.studocu.com/row/course/ankara-universitesi/cok-amacli-karar-verme/6106991"
+    },
+    {
+      "name": "database management system",
+      "code": "ceng331",
+      "url": "https://www.studocu.com/row/course/ankara-universitesi/database-management-system/6841669"
+    },
+    {
+      "name": "deniz ticaret hukuku",
+      "code": "hkuk431",
+      "url": "https://www.studocu.com/row/course/ankara-universitesi/deniz-ticaret-hukuku/7333338"
+    },
+    {
+      "name": "Dentistry",
+      "code": "DENT 303",
+      "url": "https://www.studocu.com/row/course/ankara-universitesi/dentistry/6474858"
+    },
+    {
+      "name": "Development and Law",
+      "code": "HK 105",
+      "url": "https://www.studocu.com/row/course/ankara-universitesi/development-and-law/7157396"
+    },
+    {
+      "name": "Devletler Özel Hukuku",
+      "code": "SBK0412",
+      "url": "https://www.studocu.com/row/course/ankara-universitesi/devletler-ozel-hukuku/7611477"
+    },
+    {
+      "name": "Diferansiyel Denklemler",
+      "code": "SSE 1793",
+      "url": "https://www.studocu.com/row/course/ankara-universitesi/diferansiyel-denklemler/4540416"
+    },
+    {
+      "name": "Digital Logic Design",
+      "code": "COM2075",
+      "url": "https://www.studocu.com/row/course/ankara-universitesi/digital-logic-design/6401225"
+    },
+    {
+      "name": "Discrete Structrues",
+      "code": "Com2039",
+      "url": "https://www.studocu.com/row/course/ankara-universitesi/discrete-structrues/7356143"
+    },
+    {
+      "name": "Electric Power Systems",
+      "code": "ENE307",
+      "url": "https://www.studocu.com/row/course/ankara-universitesi/electric-power-systems/4161761"
+    },
+    {
+      "name": "Electric-Circuit Analysis",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/ankara-universitesi/electric-circuit-analysis/3245889"
+    },
+    {
+      "name": "Elektronik 1",
+      "code": "ELE315",
+      "url": "https://www.studocu.com/row/course/ankara-universitesi/elektronik-1/3245585"
+    },
+    {
+      "name": "EĞİTİM PSİKOLojisi",
+      "code": "MSÖ102",
+      "url": "https://www.studocu.com/row/course/ankara-universitesi/egitim-psikolojisi/7130085"
+    },
+    {
+      "name": "Eşya Hukuku",
+      "code": "LAW 0011",
+      "url": "https://www.studocu.com/row/course/ankara-universitesi/esya-hukuku/7349213"
+    },
+    {
+      "name": "Finans Matematiği",
+      "code": "buss301",
+      "url": "https://www.studocu.com/row/course/ankara-universitesi/finans-matematigi/6453327"
+    },
+    {
+      "name": "Fluid Mechanics",
+      "code": "FDE219",
+      "url": "https://www.studocu.com/row/course/ankara-universitesi/fluid-mechanics/4617597"
+    },
+    {
+      "name": "french",
+      "code": "lng123",
+      "url": "https://www.studocu.com/row/course/ankara-universitesi/french/7435648"
+    },
+    {
+      "name": "French Language",
+      "code": "lng123",
+      "url": "https://www.studocu.com/row/course/ankara-universitesi/french-language/7435645"
+    },
+    {
+      "name": "general chemistry",
+      "code": "CHEM102",
+      "url": "https://www.studocu.com/row/course/ankara-universitesi/general-chemistry/5273036"
+    },
+    {
+      "name": "German Language I",
+      "code": "GLI-001",
+      "url": "https://www.studocu.com/row/course/ankara-universitesi/german-language-i/7336036"
+    },
+    {
+      "name": "Heat transfer",
+      "code": "che311",
+      "url": "https://www.studocu.com/row/course/ankara-universitesi/heat-transfer/3209078"
+    },
+    {
+      "name": "history",
+      "code": "HIS101",
+      "url": "https://www.studocu.com/row/course/ankara-universitesi/history/5129660"
+    },
+    {
+      "name": "Hücre Hasarı ve Ölümü",
+      "code": "105",
+      "url": "https://www.studocu.com/row/course/ankara-universitesi/hucre-hasari-ve-olumu/3290310"
+    },
+    {
+      "name": "image",
+      "code": "ee409",
+      "url": "https://www.studocu.com/row/course/ankara-universitesi/image/7240187"
+    },
+    {
+      "name": "Image Processing",
+      "code": "SE 345",
+      "url": "https://www.studocu.com/row/course/ankara-universitesi/image-processing/5166415"
+    },
+    {
+      "name": "International Relations of the Middle East",
+      "code": "MES601",
+      "url": "https://www.studocu.com/row/course/ankara-universitesi/international-relations-of-the-middle-east/3260398"
+    },
+    {
+      "name": "Introduction to Economics 1",
+      "code": "PEC101",
+      "url": "https://www.studocu.com/row/course/ankara-universitesi/introduction-to-economics-1/5119519"
+    },
+    {
+      "name": "Introduction to Human Systems and Disorders",
+      "code": "MED 242",
+      "url": "https://www.studocu.com/row/course/ankara-universitesi/introduction-to-human-systems-and-disorders/7191006"
+    },
+    {
+      "name": "Introduction to poetry",
+      "code": "eng130",
+      "url": "https://www.studocu.com/row/course/ankara-universitesi/introduction-to-poetry/6965300"
+    },
+    {
+      "name": "Ispanyol dili ve edebiyatı",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/ankara-universitesi/ispanyol-dili-ve-edebiyati/2933807"
+    },
+    {
+      "name": "İcra ve İflas Hukuku",
+      "code": "4",
+      "url": "https://www.studocu.com/row/course/ankara-universitesi/icra-ve-iflas-hukuku/3220164"
+    },
+    {
+      "name": "İdare Hukuku",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/ankara-universitesi/idare-hukuku/3417354"
+    },
+    {
+      "name": "İngiliz dili ve edebiyatı",
+      "code": "İng101",
+      "url": "https://www.studocu.com/row/course/ankara-universitesi/ingiliz-dili-ve-edebiyati/5468486"
+    },
+    {
+      "name": "İşletim Sistemleri",
+      "code": "BLM3035",
+      "url": "https://www.studocu.com/row/course/ankara-universitesi/isletim-sistemleri/6729702"
+    },
+    {
+      "name": "Kali̇te Kontrol",
+      "code": "IE309",
+      "url": "https://www.studocu.com/row/course/ankara-universitesi/kalite-kontrol/7224297"
+    },
+    {
+      "name": "Kore Dili ve Edebiyati",
+      "code": "101110236",
+      "url": "https://www.studocu.com/row/course/ankara-universitesi/kore-dili-ve-edebiyati/7355018"
+    },
+    {
+      "name": "Literary Theory",
+      "code": "ING 408",
+      "url": "https://www.studocu.com/row/course/ankara-universitesi/literary-theory/5723552"
+    },
+    {
+      "name": "Lokal anestezi",
+      "code": "Dhf319",
+      "url": "https://www.studocu.com/row/course/ankara-universitesi/lokal-anestezi/6478589"
+    },
+    {
+      "name": "Makine Mazak",
+      "code": "blaw2001",
+      "url": "https://www.studocu.com/row/course/ankara-universitesi/makine-mazak/6587346"
+    },
+    {
+      "name": "Matematik I",
+      "code": "MAT0141",
+      "url": "https://www.studocu.com/row/course/ankara-universitesi/matematik-i/6729694"
+    },
+    {
+      "name": "Material and Energy Balance",
+      "code": "ENE 205",
+      "url": "https://www.studocu.com/row/course/ankara-universitesi/material-and-energy-balance/3219952"
+    },
+    {
+      "name": "Mechanics Lab",
+      "code": "pen155",
+      "url": "https://www.studocu.com/row/course/ankara-universitesi/mechanics-lab/6638878"
+    },
+    {
+      "name": "Medeni Hukuk",
+      "code": "22",
+      "url": "https://www.studocu.com/row/course/ankara-universitesi/medeni-hukuk/3236661"
+    },
+    {
+      "name": "Mekanik Titreşimler",
+      "code": "MAK4004",
+      "url": "https://www.studocu.com/row/course/ankara-universitesi/mekanik-titresimler/5354677"
+    },
+    {
+      "name": "Müzik Tarihi",
+      "code": "mzj101",
+      "url": "https://www.studocu.com/row/course/ankara-universitesi/muzik-tarihi/7444423"
+    },
+    {
+      "name": "neuroscience",
+      "code": "ee421",
+      "url": "https://www.studocu.com/row/course/ankara-universitesi/neuroscience/7240183"
+    },
+    {
+      "name": "Nuclear Physics",
+      "code": "FZM316",
+      "url": "https://www.studocu.com/row/course/ankara-universitesi/nuclear-physics/3666072"
+    },
+    {
+      "name": "operating systems",
+      "code": "com3035",
+      "url": "https://www.studocu.com/row/course/ankara-universitesi/operating-systems/7349839"
+    },
+    {
+      "name": "Optoelektronik",
+      "code": "FZM450",
+      "url": "https://www.studocu.com/row/course/ankara-universitesi/optoelektronik/3944656"
+    },
+    {
+      "name": "Organik Kimya",
+      "code": "KİM2241",
+      "url": "https://www.studocu.com/row/course/ankara-universitesi/organik-kimya/6668803"
+    },
+    {
+      "name": "Otomata Teorisi",
+      "code": "BLM364",
+      "url": "https://www.studocu.com/row/course/ankara-universitesi/otomata-teorisi/4401095"
+    },
+    {
+      "name": "Physics Laboratory II",
+      "code": "PHY0152",
+      "url": "https://www.studocu.com/row/course/ankara-universitesi/physics-laboratory-ii/6146952"
+    },
+    {
+      "name": "planetary systems and formation",
+      "code": "AST418",
+      "url": "https://www.studocu.com/row/course/ankara-universitesi/planetary-systems-and-formation/7007105"
+    },
+    {
+      "name": "Portugal culture",
+      "code": "412",
+      "url": "https://www.studocu.com/row/course/ankara-universitesi/portugal-culture/4865794"
+    },
+    {
+      "name": "Probability and Random Variables",
+      "code": "EEE208",
+      "url": "https://www.studocu.com/row/course/ankara-universitesi/probability-and-random-variables/2997771"
+    },
+    {
+      "name": "psychology of learning",
+      "code": "psy343",
+      "url": "https://www.studocu.com/row/course/ankara-universitesi/psychology-of-learning/6515911"
+    },
+    {
+      "name": "psychopathology",
+      "code": "PSY 219",
+      "url": "https://www.studocu.com/row/course/ankara-universitesi/psychopathology/5310254"
+    },
+    {
+      "name": "Python İle Veri Analizi",
+      "code": "FMUS1027",
+      "url": "https://www.studocu.com/row/course/ankara-universitesi/python-ile-veri-analizi/7287641"
+    },
+    {
+      "name": "Quality Engineering",
+      "code": "Eng 521",
+      "url": "https://www.studocu.com/row/course/ankara-universitesi/quality-engineering/4400780"
+    },
+    {
+      "name": "Quantum Fiziği",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/ankara-universitesi/quantum-fizigi/3251655"
+    },
+    {
+      "name": "Research Methods",
+      "code": "ULU4552",
+      "url": "https://www.studocu.com/row/course/ankara-universitesi/research-methods/4341089"
+    },
+    {
+      "name": "Roma Hukuku",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/ankara-universitesi/roma-hukuku/3417356"
+    },
+    {
+      "name": "sağlık yönetimi",
+      "code": "sag101",
+      "url": "https://www.studocu.com/row/course/ankara-universitesi/saglik-yonetimi/6675623"
+    },
+    {
+      "name": "Siyasi Tarih",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/ankara-universitesi/siyasi-tarih/7691356"
+    },
+    {
+      "name": "Social Psychology",
+      "code": "PSY 241",
+      "url": "https://www.studocu.com/row/course/ankara-universitesi/social-psychology/4386650"
+    },
+    {
+      "name": "sociology",
+      "code": "sos202",
+      "url": "https://www.studocu.com/row/course/ankara-universitesi/sociology/4379137"
+    },
+    {
+      "name": "Stochastic Calculus",
+      "code": "Math4134",
+      "url": "https://www.studocu.com/row/course/ankara-universitesi/stochastic-calculus/3645017"
+    },
+    {
+      "name": "strength of materisl",
+      "code": "MCE205",
+      "url": "https://www.studocu.com/row/course/ankara-universitesi/strength-of-materisl/5710895"
+    },
+    {
+      "name": "string theory",
+      "code": "PHY438-A",
+      "url": "https://www.studocu.com/row/course/ankara-universitesi/string-theory/6016171"
+    },
+    {
+      "name": "Sustainability",
+      "code": "psyc2011",
+      "url": "https://www.studocu.com/row/course/ankara-universitesi/sustainability/7503453"
+    },
+    {
+      "name": "temel kimya",
+      "code": "tlt103",
+      "url": "https://www.studocu.com/row/course/ankara-universitesi/temel-kimya/5790509"
+    },
+    {
+      "name": "thermal hydroulics",
+      "code": "hyd111",
+      "url": "https://www.studocu.com/row/course/ankara-universitesi/thermal-hydroulics/5337152"
+    },
+    {
+      "name": "ticari istihbarat",
+      "code": "oc101",
+      "url": "https://www.studocu.com/row/course/ankara-universitesi/ticari-istihbarat/6841666"
+    },
+    {
+      "name": "translation (english-turkish)",
+      "code": "YBUS1017",
+      "url": "https://www.studocu.com/row/course/ankara-universitesi/translation-english-turkish/7744010"
+    },
+    {
+      "name": "Turkish Language 1",
+      "code": "TUR101",
+      "url": "https://www.studocu.com/row/course/ankara-universitesi/turkish-language-1/5133875"
+    },
+    {
+      "name": "Uluslararası İlişkilerin Ekonomi Politiği",
+      "code": "ULS331",
+      "url": "https://www.studocu.com/row/course/ankara-universitesi/uluslararasi-iliskilerin-ekonomi-politigi/6025504"
+    },
+    {
+      "name": "Web programming",
+      "code": "CS 3305",
+      "url": "https://www.studocu.com/row/course/ankara-universitesi/web-programming/6836412"
+    }
+  ]
+}

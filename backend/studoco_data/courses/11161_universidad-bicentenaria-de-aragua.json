@@ -1,0 +1,811 @@
+{
+  "university_id": "11161",
+  "university_name": "Universidad Bicentenaria de Aragua",
+  "courses": [
+    {
+      "name": "Administracion de Empresas I",
+      "code": "Administracion",
+      "url": "https://www.studocu.com/latam/course/universidad-bicentenaria-de-aragua/administracion-de-empresas-i/4443140"
+    },
+    {
+      "name": "Analisis y expresion verbal",
+      "code": "FG-2EV",
+      "url": "https://www.studocu.com/latam/course/universidad-bicentenaria-de-aragua/analisis-y-expresion-verbal/4446754"
+    },
+    {
+      "name": "Análisis y Diseño de Sistemas II",
+      "code": "FEE16D",
+      "url": "https://www.studocu.com/latam/course/universidad-bicentenaria-de-aragua/analisis-y-diseno-de-sistemas-ii/5783893"
+    },
+    {
+      "name": "Artículo científico",
+      "code": null,
+      "url": "https://www.studocu.com/latam/course/universidad-bicentenaria-de-aragua/articulo-cientifico/7735341"
+    },
+    {
+      "name": "Artística",
+      "code": "Artíst",
+      "url": "https://www.studocu.com/latam/course/universidad-bicentenaria-de-aragua/artistica/7634414"
+    },
+    {
+      "name": "Auditoria Aplicada",
+      "code": "Auditoria, contaduri",
+      "url": "https://www.studocu.com/latam/course/universidad-bicentenaria-de-aragua/auditoria-aplicada/4535677"
+    },
+    {
+      "name": "Auditoria II",
+      "code": "feb13",
+      "url": "https://www.studocu.com/latam/course/universidad-bicentenaria-de-aragua/auditoria-ii/5132102"
+    },
+    {
+      "name": "Base de datos",
+      "code": null,
+      "url": "https://www.studocu.com/latam/course/universidad-bicentenaria-de-aragua/base-de-datos/5794171"
+    },
+    {
+      "name": "Bienes y Derechos Reales",
+      "code": null,
+      "url": "https://www.studocu.com/latam/course/universidad-bicentenaria-de-aragua/bienes-y-derechos-reales/7220191"
+    },
+    {
+      "name": "Bioquímica",
+      "code": "Cosmeatria",
+      "url": "https://www.studocu.com/latam/course/universidad-bicentenaria-de-aragua/bioquimica/7187220"
+    },
+    {
+      "name": "Calidad y Productividad",
+      "code": "FEB2031",
+      "url": "https://www.studocu.com/latam/course/universidad-bicentenaria-de-aragua/calidad-y-productividad/5438337"
+    },
+    {
+      "name": "Canalizaciones electricas",
+      "code": "elec 1",
+      "url": "https://www.studocu.com/latam/course/universidad-bicentenaria-de-aragua/canalizaciones-electricas/5717411"
+    },
+    {
+      "name": "Capacidad Emprendedora",
+      "code": "FEB1021",
+      "url": "https://www.studocu.com/latam/course/universidad-bicentenaria-de-aragua/capacidad-emprendedora/5438336"
+    },
+    {
+      "name": "Ciencia, tecnología y sociedad",
+      "code": "FG-3CT",
+      "url": "https://www.studocu.com/latam/course/universidad-bicentenaria-de-aragua/ciencia-tecnologia-y-sociedad/4446758"
+    },
+    {
+      "name": "Ciencias Políticas",
+      "code": null,
+      "url": "https://www.studocu.com/latam/course/universidad-bicentenaria-de-aragua/ciencias-politicas/7609169"
+    },
+    {
+      "name": "Comportamiento Organizacional",
+      "code": null,
+      "url": "https://www.studocu.com/latam/course/universidad-bicentenaria-de-aragua/comportamiento-organizacional/4381467"
+    },
+    {
+      "name": "comunicacion social y Geopolitica",
+      "code": "FEE69G",
+      "url": "https://www.studocu.com/latam/course/universidad-bicentenaria-de-aragua/comunicacion-social-y-geopolitica/7424412"
+    },
+    {
+      "name": "Comunicaciones",
+      "code": null,
+      "url": "https://www.studocu.com/latam/course/universidad-bicentenaria-de-aragua/comunicaciones/4519232"
+    },
+    {
+      "name": "Contaduría Publica",
+      "code": null,
+      "url": "https://www.studocu.com/latam/course/universidad-bicentenaria-de-aragua/contaduria-publica/4387310"
+    },
+    {
+      "name": "Control I",
+      "code": "INC804",
+      "url": "https://www.studocu.com/latam/course/universidad-bicentenaria-de-aragua/control-i/7079532"
+    },
+    {
+      "name": "Costos aplicados",
+      "code": "costos, presupuestos",
+      "url": "https://www.studocu.com/latam/course/universidad-bicentenaria-de-aragua/costos-aplicados/5390027"
+    },
+    {
+      "name": "Criminalística",
+      "code": null,
+      "url": "https://www.studocu.com/latam/course/universidad-bicentenaria-de-aragua/criminalistica/4346354"
+    },
+    {
+      "name": "Cálculo numérico",
+      "code": null,
+      "url": "https://www.studocu.com/latam/course/universidad-bicentenaria-de-aragua/calculo-numerico/5715244"
+    },
+    {
+      "name": "Derecho agrario",
+      "code": "FEE5BI",
+      "url": "https://www.studocu.com/latam/course/universidad-bicentenaria-de-aragua/derecho-agrario/4956977"
+    },
+    {
+      "name": "derecho al trabajo iii",
+      "code": "DT-3",
+      "url": "https://www.studocu.com/latam/course/universidad-bicentenaria-de-aragua/derecho-al-trabajo-iii/5385643"
+    },
+    {
+      "name": "Derecho civil",
+      "code": "123234",
+      "url": "https://www.studocu.com/latam/course/universidad-bicentenaria-de-aragua/derecho-civil/7083739"
+    },
+    {
+      "name": "derecho civil",
+      "code": "10455",
+      "url": "https://www.studocu.com/latam/course/universidad-bicentenaria-de-aragua/derecho-civil/6710233"
+    },
+    {
+      "name": "Derecho civil",
+      "code": null,
+      "url": "https://www.studocu.com/latam/course/universidad-bicentenaria-de-aragua/derecho-civil/4955416"
+    },
+    {
+      "name": "Derecho Civil II",
+      "code": null,
+      "url": "https://www.studocu.com/latam/course/universidad-bicentenaria-de-aragua/derecho-civil-ii/7220192"
+    },
+    {
+      "name": "Derecho Constitucional",
+      "code": "Constitución",
+      "url": "https://www.studocu.com/latam/course/universidad-bicentenaria-de-aragua/derecho-constitucional/5728906"
+    },
+    {
+      "name": "Derecho de Familia",
+      "code": null,
+      "url": "https://www.studocu.com/latam/course/universidad-bicentenaria-de-aragua/derecho-de-familia/7220186"
+    },
+    {
+      "name": "Derecho internacional privado",
+      "code": null,
+      "url": "https://www.studocu.com/latam/course/universidad-bicentenaria-de-aragua/derecho-internacional-privado/3558168"
+    },
+    {
+      "name": "derecho mercantil",
+      "code": "mercantil",
+      "url": "https://www.studocu.com/latam/course/universidad-bicentenaria-de-aragua/derecho-mercantil/7595785"
+    },
+    {
+      "name": "derecho mercantil",
+      "code": null,
+      "url": "https://www.studocu.com/latam/course/universidad-bicentenaria-de-aragua/derecho-mercantil/4346356"
+    },
+    {
+      "name": "Derecho Mercantil I",
+      "code": "FEE57M",
+      "url": "https://www.studocu.com/latam/course/universidad-bicentenaria-de-aragua/derecho-mercantil-i/4410255"
+    },
+    {
+      "name": "Derecho Penal II",
+      "code": "FEE56P",
+      "url": "https://www.studocu.com/latam/course/universidad-bicentenaria-de-aragua/derecho-penal-ii/4411376"
+    },
+    {
+      "name": "Derecho probatorio",
+      "code": "123",
+      "url": "https://www.studocu.com/latam/course/universidad-bicentenaria-de-aragua/derecho-probatorio/4758549"
+    },
+    {
+      "name": "Derecho Procesal Civil I",
+      "code": "FEE58C",
+      "url": "https://www.studocu.com/latam/course/universidad-bicentenaria-de-aragua/derecho-procesal-civil-i/7415261"
+    },
+    {
+      "name": "Derecho Procesal Penal  III",
+      "code": null,
+      "url": "https://www.studocu.com/latam/course/universidad-bicentenaria-de-aragua/derecho-procesal-penal-iii/4417613"
+    },
+    {
+      "name": "Derecho Romano",
+      "code": "ROMANO I",
+      "url": "https://www.studocu.com/latam/course/universidad-bicentenaria-de-aragua/derecho-romano/4538508"
+    },
+    {
+      "name": "desarrollo estudiantil en entornos virtuales",
+      "code": "DEEVA20221",
+      "url": "https://www.studocu.com/latam/course/universidad-bicentenaria-de-aragua/desarrollo-estudiantil-en-entornos-virtuales/6751239"
+    },
+    {
+      "name": "Desarrollo Humano Integral",
+      "code": "FG-3DH",
+      "url": "https://www.studocu.com/latam/course/universidad-bicentenaria-de-aragua/desarrollo-humano-integral/5716619"
+    },
+    {
+      "name": "Dibujo tecnico",
+      "code": "DT-1234",
+      "url": "https://www.studocu.com/latam/course/universidad-bicentenaria-de-aragua/dibujo-tecnico/5717400"
+    },
+    {
+      "name": "Dietetica",
+      "code": "biologia general",
+      "url": "https://www.studocu.com/latam/course/universidad-bicentenaria-de-aragua/dietetica/7575585"
+    },
+    {
+      "name": "dinamica de grupo",
+      "code": null,
+      "url": "https://www.studocu.com/latam/course/universidad-bicentenaria-de-aragua/dinamica-de-grupo/6317485"
+    },
+    {
+      "name": "Diseño y Mercadeo Editorial",
+      "code": null,
+      "url": "https://www.studocu.com/latam/course/universidad-bicentenaria-de-aragua/diseno-y-mercadeo-editorial/7211037"
+    },
+    {
+      "name": "Ecologia",
+      "code": null,
+      "url": "https://www.studocu.com/latam/course/universidad-bicentenaria-de-aragua/ecologia/7459570"
+    },
+    {
+      "name": "Economía Política",
+      "code": "FEB64E",
+      "url": "https://www.studocu.com/latam/course/universidad-bicentenaria-de-aragua/economia-politica/5338948"
+    },
+    {
+      "name": "Educación física",
+      "code": "EducFis",
+      "url": "https://www.studocu.com/latam/course/universidad-bicentenaria-de-aragua/educacion-fisica/4366741"
+    },
+    {
+      "name": "Educación Física para la Salud y Deporte",
+      "code": null,
+      "url": "https://www.studocu.com/latam/course/universidad-bicentenaria-de-aragua/educacion-fisica-para-la-salud-y-deporte/5814773"
+    },
+    {
+      "name": "Electronica",
+      "code": null,
+      "url": "https://www.studocu.com/latam/course/universidad-bicentenaria-de-aragua/electronica/4413228"
+    },
+    {
+      "name": "Epistemologia de las Ciencias",
+      "code": "Paradigma Transcomplejo",
+      "url": "https://www.studocu.com/latam/course/universidad-bicentenaria-de-aragua/epistemologia-de-las-ciencias/3650969"
+    },
+    {
+      "name": "estadistica aplicada",
+      "code": "FEB4E",
+      "url": "https://www.studocu.com/latam/course/universidad-bicentenaria-de-aragua/estadistica-aplicada/6610497"
+    },
+    {
+      "name": "Estructura de Sistemas del Computador",
+      "code": "Estructura",
+      "url": "https://www.studocu.com/latam/course/universidad-bicentenaria-de-aragua/estructura-de-sistemas-del-computador/4357276"
+    },
+    {
+      "name": "Estructura social y comportamiento humano",
+      "code": null,
+      "url": "https://www.studocu.com/latam/course/universidad-bicentenaria-de-aragua/estructura-social-y-comportamiento-humano/5302595"
+    },
+    {
+      "name": "Etica del Psicólogo",
+      "code": null,
+      "url": "https://www.studocu.com/latam/course/universidad-bicentenaria-de-aragua/etica-del-psicologo/4820728"
+    },
+    {
+      "name": "Ética profesional",
+      "code": "FEE39P",
+      "url": "https://www.studocu.com/latam/course/universidad-bicentenaria-de-aragua/etica-profesional/7553842"
+    },
+    {
+      "name": "Ética y Cultura universitaria",
+      "code": "FG - 1EC",
+      "url": "https://www.studocu.com/latam/course/universidad-bicentenaria-de-aragua/etica-y-cultura-universitaria/4521353"
+    },
+    {
+      "name": "Ética y Legislación de Medios",
+      "code": null,
+      "url": "https://www.studocu.com/latam/course/universidad-bicentenaria-de-aragua/etica-y-legislacion-de-medios/6034705"
+    },
+    {
+      "name": "Filosofía de la psicología",
+      "code": "FEB71F",
+      "url": "https://www.studocu.com/latam/course/universidad-bicentenaria-de-aragua/filosofia-de-la-psicologia/5291059"
+    },
+    {
+      "name": "finanzas ii",
+      "code": null,
+      "url": "https://www.studocu.com/latam/course/universidad-bicentenaria-de-aragua/finanzas-ii/5138697"
+    },
+    {
+      "name": "Formacion de EAD",
+      "code": null,
+      "url": "https://www.studocu.com/latam/course/universidad-bicentenaria-de-aragua/formacion-de-ead/6556910"
+    },
+    {
+      "name": "Fotoperiodismo",
+      "code": null,
+      "url": "https://www.studocu.com/latam/course/universidad-bicentenaria-de-aragua/fotoperiodismo/7211039"
+    },
+    {
+      "name": "Fundamentos Contables y Tributarios",
+      "code": "impuestos",
+      "url": "https://www.studocu.com/latam/course/universidad-bicentenaria-de-aragua/fundamentos-contables-y-tributarios/7224326"
+    },
+    {
+      "name": "Fundamentos Económicos I",
+      "code": "FEB-4F",
+      "url": "https://www.studocu.com/latam/course/universidad-bicentenaria-de-aragua/fundamentos-economicos-i/4295639"
+    },
+    {
+      "name": "Geometría Analítica",
+      "code": "FEB01G",
+      "url": "https://www.studocu.com/latam/course/universidad-bicentenaria-de-aragua/geometria-analitica/4520727"
+    },
+    {
+      "name": "Gerencia Educativa",
+      "code": null,
+      "url": "https://www.studocu.com/latam/course/universidad-bicentenaria-de-aragua/gerencia-educativa/4381109"
+    },
+    {
+      "name": "Gerencia empresarial",
+      "code": "FEE39G",
+      "url": "https://www.studocu.com/latam/course/universidad-bicentenaria-de-aragua/gerencia-empresarial/7553848"
+    },
+    {
+      "name": "Gestion y seguridad en redes",
+      "code": "GS1832",
+      "url": "https://www.studocu.com/latam/course/universidad-bicentenaria-de-aragua/gestion-y-seguridad-en-redes/5290045"
+    },
+    {
+      "name": "Historia",
+      "code": "1204",
+      "url": "https://www.studocu.com/latam/course/universidad-bicentenaria-de-aragua/historia/3241906"
+    },
+    {
+      "name": "Historia y Evolución del Derecho I",
+      "code": "FEB51H",
+      "url": "https://www.studocu.com/latam/course/universidad-bicentenaria-de-aragua/historia-y-evolucion-del-derecho-i/6750529"
+    },
+    {
+      "name": "Identidad y Expresión Cultural",
+      "code": "FG-1IC",
+      "url": "https://www.studocu.com/latam/course/universidad-bicentenaria-de-aragua/identidad-y-expresion-cultural/5742468"
+    },
+    {
+      "name": "Impuestos Municipales",
+      "code": "FEE49I",
+      "url": "https://www.studocu.com/latam/course/universidad-bicentenaria-de-aragua/impuestos-municipales/4445473"
+    },
+    {
+      "name": "Informática III",
+      "code": null,
+      "url": "https://www.studocu.com/latam/course/universidad-bicentenaria-de-aragua/informatica-iii/6619424"
+    },
+    {
+      "name": "Inglés",
+      "code": "ING1232",
+      "url": "https://www.studocu.com/latam/course/universidad-bicentenaria-de-aragua/ingles/5146119"
+    },
+    {
+      "name": "Innovacion del pensamiento",
+      "code": null,
+      "url": "https://www.studocu.com/latam/course/universidad-bicentenaria-de-aragua/innovacion-del-pensamiento/6730328"
+    },
+    {
+      "name": "Innovaciones Tecnológicas en Educación",
+      "code": "Trimestre 2",
+      "url": "https://www.studocu.com/latam/course/universidad-bicentenaria-de-aragua/innovaciones-tecnologicas-en-educacion/4416011"
+    },
+    {
+      "name": "Inteligencia Emocional",
+      "code": "IE6171",
+      "url": "https://www.studocu.com/latam/course/universidad-bicentenaria-de-aragua/inteligencia-emocional/5397638"
+    },
+    {
+      "name": "Introduccion a la Geopolitica",
+      "code": "FG-7IG",
+      "url": "https://www.studocu.com/latam/course/universidad-bicentenaria-de-aragua/introduccion-a-la-geopolitica/5795565"
+    },
+    {
+      "name": "introduccion a la ingenieria",
+      "code": "feb02i",
+      "url": "https://www.studocu.com/latam/course/universidad-bicentenaria-de-aragua/introduccion-a-la-ingenieria/6511110"
+    },
+    {
+      "name": "Introducción a la Criminología",
+      "code": "18501",
+      "url": "https://www.studocu.com/latam/course/universidad-bicentenaria-de-aragua/introduccion-a-la-criminologia/4913263"
+    },
+    {
+      "name": "Introducción a la Fotografía",
+      "code": null,
+      "url": "https://www.studocu.com/latam/course/universidad-bicentenaria-de-aragua/introduccion-a-la-fotografia/6034729"
+    },
+    {
+      "name": "Introducción a la Psicología Clínica",
+      "code": null,
+      "url": "https://www.studocu.com/latam/course/universidad-bicentenaria-de-aragua/introduccion-a-la-psicologia-clinica/4435527"
+    },
+    {
+      "name": "Introducción a la Psicología Organizacional",
+      "code": "Psicología Organiz.",
+      "url": "https://www.studocu.com/latam/course/universidad-bicentenaria-de-aragua/introduccion-a-la-psicologia-organizacional/7372566"
+    },
+    {
+      "name": "Introducción a la Robótica",
+      "code": "ir1",
+      "url": "https://www.studocu.com/latam/course/universidad-bicentenaria-de-aragua/introduccion-a-la-robotica/7451966"
+    },
+    {
+      "name": "Introducción a los negocios internacionales",
+      "code": "FEE38I",
+      "url": "https://www.studocu.com/latam/course/universidad-bicentenaria-de-aragua/introduccion-a-los-negocios-internacionales/7554277"
+    },
+    {
+      "name": "Introducción al estudio del derecho II",
+      "code": null,
+      "url": "https://www.studocu.com/latam/course/universidad-bicentenaria-de-aragua/introduccion-al-estudio-del-derecho-ii/5806126"
+    },
+    {
+      "name": "Introducción al Mercadeo",
+      "code": "IAM123",
+      "url": "https://www.studocu.com/latam/course/universidad-bicentenaria-de-aragua/introduccion-al-mercadeo/3359189"
+    },
+    {
+      "name": "Investigación aplicada",
+      "code": null,
+      "url": "https://www.studocu.com/latam/course/universidad-bicentenaria-de-aragua/investigacion-aplicada/7619592"
+    },
+    {
+      "name": "Investigación de operaciones",
+      "code": "IO",
+      "url": "https://www.studocu.com/latam/course/universidad-bicentenaria-de-aragua/investigacion-de-operaciones/3170801"
+    },
+    {
+      "name": "Laboratorio de fisica",
+      "code": "FEB03L",
+      "url": "https://www.studocu.com/latam/course/universidad-bicentenaria-de-aragua/laboratorio-de-fisica/6573598"
+    },
+    {
+      "name": "Laboratorio de Redes Eléctricas",
+      "code": "FEE06L",
+      "url": "https://www.studocu.com/latam/course/universidad-bicentenaria-de-aragua/laboratorio-de-redes-electricas/6247912"
+    },
+    {
+      "name": "LEGISLACIÓN LABORAL",
+      "code": "FPE74L",
+      "url": "https://www.studocu.com/latam/course/universidad-bicentenaria-de-aragua/legislacion-laboral/3223545"
+    },
+    {
+      "name": "Lenguaje de Programación I",
+      "code": "LEP1",
+      "url": "https://www.studocu.com/latam/course/universidad-bicentenaria-de-aragua/lenguaje-de-programacion-i/4414095"
+    },
+    {
+      "name": "Lenguaje y Comunicación",
+      "code": "FEB64E",
+      "url": "https://www.studocu.com/latam/course/universidad-bicentenaria-de-aragua/lenguaje-y-comunicacion/6036635"
+    },
+    {
+      "name": "Lógica matemática",
+      "code": "FEB-1L",
+      "url": "https://www.studocu.com/latam/course/universidad-bicentenaria-de-aragua/logica-matematica/6561813"
+    },
+    {
+      "name": "Marketing Digital",
+      "code": null,
+      "url": "https://www.studocu.com/latam/course/universidad-bicentenaria-de-aragua/marketing-digital/6013615"
+    },
+    {
+      "name": "Matematica III",
+      "code": "FEB03M",
+      "url": "https://www.studocu.com/latam/course/universidad-bicentenaria-de-aragua/matematica-iii/3247390"
+    },
+    {
+      "name": "Mecanica de Fluidos",
+      "code": "Mecanica I",
+      "url": "https://www.studocu.com/latam/course/universidad-bicentenaria-de-aragua/mecanica-de-fluidos/6037204"
+    },
+    {
+      "name": "Mecánica",
+      "code": "FIQ633",
+      "url": "https://www.studocu.com/latam/course/universidad-bicentenaria-de-aragua/mecanica/5999308"
+    },
+    {
+      "name": "medicina legal",
+      "code": "legal22",
+      "url": "https://www.studocu.com/latam/course/universidad-bicentenaria-de-aragua/medicina-legal/5368393"
+    },
+    {
+      "name": "Mercado de capitales",
+      "code": "FEE38E",
+      "url": "https://www.studocu.com/latam/course/universidad-bicentenaria-de-aragua/mercado-de-capitales/7554290"
+    },
+    {
+      "name": "Mercadotecnia",
+      "code": "12333",
+      "url": "https://www.studocu.com/latam/course/universidad-bicentenaria-de-aragua/mercadotecnia/4539384"
+    },
+    {
+      "name": "Metodología de investigación",
+      "code": "200000",
+      "url": "https://www.studocu.com/latam/course/universidad-bicentenaria-de-aragua/metodologia-de-investigacion/5390032"
+    },
+    {
+      "name": "Modelaje y Simulacion",
+      "code": "FEE17M",
+      "url": "https://www.studocu.com/latam/course/universidad-bicentenaria-de-aragua/modelaje-y-simulacion/6281556"
+    },
+    {
+      "name": "métodos e instrumentos de evaluación I",
+      "code": "EE77M",
+      "url": "https://www.studocu.com/latam/course/universidad-bicentenaria-de-aragua/metodos-e-instrumentos-de-evaluacion-i/4329395"
+    },
+    {
+      "name": "Negociación",
+      "code": "FEE39N",
+      "url": "https://www.studocu.com/latam/course/universidad-bicentenaria-de-aragua/negociacion/7553760"
+    },
+    {
+      "name": "Neurociencias II",
+      "code": "FEB74N",
+      "url": "https://www.studocu.com/latam/course/universidad-bicentenaria-de-aragua/neurociencias-ii/4539255"
+    },
+    {
+      "name": "Neuropsicología Clínica",
+      "code": "I",
+      "url": "https://www.studocu.com/latam/course/universidad-bicentenaria-de-aragua/neuropsicologia-clinica/7169685"
+    },
+    {
+      "name": "Obligaciones II",
+      "code": "Obli fee54OB",
+      "url": "https://www.studocu.com/latam/course/universidad-bicentenaria-de-aragua/obligaciones-ii/5806258"
+    },
+    {
+      "name": "Oratoria",
+      "code": "Castellano",
+      "url": "https://www.studocu.com/latam/course/universidad-bicentenaria-de-aragua/oratoria/6812449"
+    },
+    {
+      "name": "Periodismo de Investigación",
+      "code": "FEP6AP",
+      "url": "https://www.studocu.com/latam/course/universidad-bicentenaria-de-aragua/periodismo-de-investigacion/5308383"
+    },
+    {
+      "name": "Periodismo de Opinion",
+      "code": null,
+      "url": "https://www.studocu.com/latam/course/universidad-bicentenaria-de-aragua/periodismo-de-opinion/7211033"
+    },
+    {
+      "name": "Periodismo Interpretativo",
+      "code": null,
+      "url": "https://www.studocu.com/latam/course/universidad-bicentenaria-de-aragua/periodismo-interpretativo/7211034"
+    },
+    {
+      "name": "Periodismo IV",
+      "code": "FEB65P",
+      "url": "https://www.studocu.com/latam/course/universidad-bicentenaria-de-aragua/periodismo-iv/4445278"
+    },
+    {
+      "name": "Planificacion y Desarrollo Radiofonico",
+      "code": null,
+      "url": "https://www.studocu.com/latam/course/universidad-bicentenaria-de-aragua/planificacion-y-desarrollo-radiofonico/7211038"
+    },
+    {
+      "name": "practica de psicogerontología",
+      "code": "FEE74R",
+      "url": "https://www.studocu.com/latam/course/universidad-bicentenaria-de-aragua/practica-de-psicogerontologia/4521191"
+    },
+    {
+      "name": "Practicas Profesionales",
+      "code": "Psicología",
+      "url": "https://www.studocu.com/latam/course/universidad-bicentenaria-de-aragua/practicas-profesionales/4454936"
+    },
+    {
+      "name": "Presentación de Estados Financieros",
+      "code": "Contabilidad 1",
+      "url": "https://www.studocu.com/latam/course/universidad-bicentenaria-de-aragua/presentacion-de-estados-financieros/6793670"
+    },
+    {
+      "name": "Procesos Básicos del Pensamiento",
+      "code": "DHP",
+      "url": "https://www.studocu.com/latam/course/universidad-bicentenaria-de-aragua/procesos-basicos-del-pensamiento/5140090"
+    },
+    {
+      "name": "Proyecto comunitario",
+      "code": "Psicología",
+      "url": "https://www.studocu.com/latam/course/universidad-bicentenaria-de-aragua/proyecto-comunitario/6945327"
+    },
+    {
+      "name": "Práctica  Forense V",
+      "code": null,
+      "url": "https://www.studocu.com/latam/course/universidad-bicentenaria-de-aragua/practica-forense-v/4372460"
+    },
+    {
+      "name": "Práctica de Psicopatología",
+      "code": null,
+      "url": "https://www.studocu.com/latam/course/universidad-bicentenaria-de-aragua/practica-de-psicopatologia/4412206"
+    },
+    {
+      "name": "Práctica psicología infanto juvenil",
+      "code": "FEE78R",
+      "url": "https://www.studocu.com/latam/course/universidad-bicentenaria-de-aragua/practica-psicologia-infanto-juvenil/4530041"
+    },
+    {
+      "name": "Psico estadística",
+      "code": "FEB73P",
+      "url": "https://www.studocu.com/latam/course/universidad-bicentenaria-de-aragua/psico-estadistica/5795243"
+    },
+    {
+      "name": "Psicologia",
+      "code": "123",
+      "url": "https://www.studocu.com/latam/course/universidad-bicentenaria-de-aragua/psicologia/6562101"
+    },
+    {
+      "name": "Psicologia",
+      "code": "10500",
+      "url": "https://www.studocu.com/latam/course/universidad-bicentenaria-de-aragua/psicologia/1565663"
+    },
+    {
+      "name": "Psicologia de la Adiccion y la Dependencia",
+      "code": null,
+      "url": "https://www.studocu.com/latam/course/universidad-bicentenaria-de-aragua/psicologia-de-la-adiccion-y-la-dependencia/4450970"
+    },
+    {
+      "name": "psicologia familiar",
+      "code": "psicologia",
+      "url": "https://www.studocu.com/latam/course/universidad-bicentenaria-de-aragua/psicologia-familiar/5148623"
+    },
+    {
+      "name": "Psicologia Infanto Juvenil",
+      "code": null,
+      "url": "https://www.studocu.com/latam/course/universidad-bicentenaria-de-aragua/psicologia-infanto-juvenil/4735473"
+    },
+    {
+      "name": "Psicologia Social",
+      "code": "FEB73S",
+      "url": "https://www.studocu.com/latam/course/universidad-bicentenaria-de-aragua/psicologia-social/6966568"
+    },
+    {
+      "name": "Psicología Clínica",
+      "code": "FEE78L",
+      "url": "https://www.studocu.com/latam/course/universidad-bicentenaria-de-aragua/psicologia-clinica/7510664"
+    },
+    {
+      "name": "Psicología de la Comunicación",
+      "code": "Psic. Comunicacion S",
+      "url": "https://www.studocu.com/latam/course/universidad-bicentenaria-de-aragua/psicologia-de-la-comunicacion/7750683"
+    },
+    {
+      "name": "Psicología de la Orientación",
+      "code": "FEE7BE",
+      "url": "https://www.studocu.com/latam/course/universidad-bicentenaria-de-aragua/psicologia-de-la-orientacion/4449950"
+    },
+    {
+      "name": "Psicología de la Personalidad II",
+      "code": "Psicología",
+      "url": "https://www.studocu.com/latam/course/universidad-bicentenaria-de-aragua/psicologia-de-la-personalidad-ii/5406213"
+    },
+    {
+      "name": "Psicología de la Salud Ocupacional",
+      "code": "FEE7BO",
+      "url": "https://www.studocu.com/latam/course/universidad-bicentenaria-de-aragua/psicologia-de-la-salud-ocupacional/5166309"
+    },
+    {
+      "name": "Psicología del Adulto",
+      "code": "FEE79A",
+      "url": "https://www.studocu.com/latam/course/universidad-bicentenaria-de-aragua/psicologia-del-adulto/5001563"
+    },
+    {
+      "name": "Psicología del Desarrollo",
+      "code": null,
+      "url": "https://www.studocu.com/latam/course/universidad-bicentenaria-de-aragua/psicologia-del-desarrollo/6603889"
+    },
+    {
+      "name": "Psicología Educativa",
+      "code": "Psicología",
+      "url": "https://www.studocu.com/latam/course/universidad-bicentenaria-de-aragua/psicologia-educativa/7003888"
+    },
+    {
+      "name": "Psicología Experimental",
+      "code": "FEI76E",
+      "url": "https://www.studocu.com/latam/course/universidad-bicentenaria-de-aragua/psicologia-experimental/5269217"
+    },
+    {
+      "name": "Psicología General I",
+      "code": null,
+      "url": "https://www.studocu.com/latam/course/universidad-bicentenaria-de-aragua/psicologia-general-i/5712969"
+    },
+    {
+      "name": "Psicología organizacional",
+      "code": "Psicologí",
+      "url": "https://www.studocu.com/latam/course/universidad-bicentenaria-de-aragua/psicologia-organizacional/7748084"
+    },
+    {
+      "name": "Psicometria I",
+      "code": "FPE74S",
+      "url": "https://www.studocu.com/latam/course/universidad-bicentenaria-de-aragua/psicometria-i/4475272"
+    },
+    {
+      "name": "Psicometría II",
+      "code": null,
+      "url": "https://www.studocu.com/latam/course/universidad-bicentenaria-de-aragua/psicometria-ii/4536814"
+    },
+    {
+      "name": "Psicometría II",
+      "code": "FEB75S",
+      "url": "https://www.studocu.com/latam/course/universidad-bicentenaria-de-aragua/psicometria-ii/6687521"
+    },
+    {
+      "name": "Psicopatologia",
+      "code": null,
+      "url": "https://www.studocu.com/latam/course/universidad-bicentenaria-de-aragua/psicopatologia/4539651"
+    },
+    {
+      "name": "Religión",
+      "code": null,
+      "url": "https://www.studocu.com/latam/course/universidad-bicentenaria-de-aragua/religion/7198606"
+    },
+    {
+      "name": "Responsabilidad Social Empresarial y Desarrollo Sustentable",
+      "code": "FER6AS",
+      "url": "https://www.studocu.com/latam/course/universidad-bicentenaria-de-aragua/responsabilidad-social-empresarial-y-desarrollo-sustentable/4536746"
+    },
+    {
+      "name": "Régimen jurídico de niños niñas y adolescentes",
+      "code": "FEE5BI",
+      "url": "https://www.studocu.com/latam/course/universidad-bicentenaria-de-aragua/regimen-juridico-de-ninos-ninas-y-adolescentes/4956976"
+    },
+    {
+      "name": "Sexologia",
+      "code": "FEE7BS",
+      "url": "https://www.studocu.com/latam/course/universidad-bicentenaria-de-aragua/sexologia/5166307"
+    },
+    {
+      "name": "Sociología Jurídica",
+      "code": "FBE51S",
+      "url": "https://www.studocu.com/latam/course/universidad-bicentenaria-de-aragua/sociologia-juridica/4338336"
+    },
+    {
+      "name": "Software Libre",
+      "code": null,
+      "url": "https://www.studocu.com/latam/course/universidad-bicentenaria-de-aragua/software-libre/6518737"
+    },
+    {
+      "name": "Teoria de los tratamientos",
+      "code": "FEE79T",
+      "url": "https://www.studocu.com/latam/course/universidad-bicentenaria-de-aragua/teoria-de-los-tratamientos/4422923"
+    },
+    {
+      "name": "Teoria general del delito I",
+      "code": "01",
+      "url": "https://www.studocu.com/latam/course/universidad-bicentenaria-de-aragua/teoria-general-del-delito-i/3645621"
+    },
+    {
+      "name": "Teoria General del Proceso",
+      "code": null,
+      "url": "https://www.studocu.com/latam/course/universidad-bicentenaria-de-aragua/teoria-general-del-proceso/7385255"
+    },
+    {
+      "name": "Teoría general del Proceso",
+      "code": "TGP-1",
+      "url": "https://www.studocu.com/latam/course/universidad-bicentenaria-de-aragua/teoria-general-del-proceso/5385523"
+    },
+    {
+      "name": "Teoría y técnicas de decisión",
+      "code": "FEE-1AA",
+      "url": "https://www.studocu.com/latam/course/universidad-bicentenaria-de-aragua/teoria-y-tecnicas-de-decision/6988049"
+    },
+    {
+      "name": "Tributación Especial",
+      "code": "Tributacion ii",
+      "url": "https://www.studocu.com/latam/course/universidad-bicentenaria-de-aragua/tributacion-especial/7224322"
+    },
+    {
+      "name": "tributario i",
+      "code": null,
+      "url": "https://www.studocu.com/latam/course/universidad-bicentenaria-de-aragua/tributario-i/5138699"
+    },
+    {
+      "name": "Técnicas Avanzadas de Desarollo Web",
+      "code": "Sistemas",
+      "url": "https://www.studocu.com/latam/course/universidad-bicentenaria-de-aragua/tecnicas-avanzadas-de-desarollo-web/7434230"
+    },
+    {
+      "name": "Técnicas Psicoterapéuticas",
+      "code": "Psicología",
+      "url": "https://www.studocu.com/latam/course/universidad-bicentenaria-de-aragua/tecnicas-psicoterapeuticas/6766172"
+    }
+  ]
+}

@@ -1,0 +1,961 @@
+{
+  "university_id": "8055",
+  "university_name": "Politechnika Swietokrzyska w Kielcach",
+  "courses": [
+    {
+      "name": "Aktywne i pasywne systemy energetyki słonecznej w budownictwie",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-swietokrzyska-w-kielcach/aktywne-i-pasywne-systemy-energetyki-slonecznej-w-budownictwie/3651102"
+    },
+    {
+      "name": "Algebra liniowa",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-swietokrzyska-w-kielcach/algebra-liniowa/3651196"
+    },
+    {
+      "name": "Algorytmy i struktury danych",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-swietokrzyska-w-kielcach/algorytmy-i-struktury-danych/3650923"
+    },
+    {
+      "name": "Analiza matematyczna",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-swietokrzyska-w-kielcach/analiza-matematyczna/3651197"
+    },
+    {
+      "name": "Analiza matematyczna I",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-swietokrzyska-w-kielcach/analiza-matematyczna-i/3651381"
+    },
+    {
+      "name": "Analiza matematyczna II",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-swietokrzyska-w-kielcach/analiza-matematyczna-ii/3651389"
+    },
+    {
+      "name": "Architektura krajobrazu",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-swietokrzyska-w-kielcach/architektura-krajobrazu/3650662"
+    },
+    {
+      "name": "Architektura systemów komputerowych 1",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-swietokrzyska-w-kielcach/architektura-systemow-komputerowych-1/3650924"
+    },
+    {
+      "name": "Architektura współczesna",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-swietokrzyska-w-kielcach/architektura-wspolczesna/3650652"
+    },
+    {
+      "name": "Audyt energetyczny",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-swietokrzyska-w-kielcach/audyt-energetyczny/3650902"
+    },
+    {
+      "name": "Automatyka budynków inteligentnych",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-swietokrzyska-w-kielcach/automatyka-budynkow-inteligentnych/3651100"
+    },
+    {
+      "name": "automatyzacja i robotyzacja",
+      "code": "KWW 2020",
+      "url": "https://www.studocu.com/pl/course/politechnika-swietokrzyska-w-kielcach/automatyzacja-i-robotyzacja/7391456"
+    },
+    {
+      "name": "Badania Operacyjne",
+      "code": "B_OP_2020",
+      "url": "https://www.studocu.com/pl/course/politechnika-swietokrzyska-w-kielcach/badania-operacyjne/5740697"
+    },
+    {
+      "name": "Badanie resonansu",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-swietokrzyska-w-kielcach/badanie-resonansu/7207688"
+    },
+    {
+      "name": "Balistyka wewnetrzna",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-swietokrzyska-w-kielcach/balistyka-wewnetrzna/3651306"
+    },
+    {
+      "name": "Bankowość",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-swietokrzyska-w-kielcach/bankowosc/7416865"
+    },
+    {
+      "name": "Bezpieczeństwo i higiena pracy",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-swietokrzyska-w-kielcach/bezpieczenstwo-i-higiena-pracy/3651114"
+    },
+    {
+      "name": "Bezpieczeństwo pracy i ergonomia",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-swietokrzyska-w-kielcach/bezpieczenstwo-pracy-i-ergonomia/3650592"
+    },
+    {
+      "name": "BHP",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-swietokrzyska-w-kielcach/bhp/3651387"
+    },
+    {
+      "name": "Budownictwo i fizyka budowli",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-swietokrzyska-w-kielcach/budownictwo-i-fizyka-budowli/3651064"
+    },
+    {
+      "name": "Budownictwo i konstrukcje inżynierskie",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-swietokrzyska-w-kielcach/budownictwo-i-konstrukcje-inzynierskie/3651010"
+    },
+    {
+      "name": "Budownictwo ogólne",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-swietokrzyska-w-kielcach/budownictwo-ogolne/3651134"
+    },
+    {
+      "name": "Budownictwo ogólne i komunikacyjne",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-swietokrzyska-w-kielcach/budownictwo-ogolne-i-komunikacyjne/3650669"
+    },
+    {
+      "name": "business",
+      "code": "BLAW 222",
+      "url": "https://www.studocu.com/pl/course/politechnika-swietokrzyska-w-kielcach/business/5268533"
+    },
+    {
+      "name": "Chemia",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-swietokrzyska-w-kielcach/chemia/3650876"
+    },
+    {
+      "name": "Chemia techniczna",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-swietokrzyska-w-kielcach/chemia-techniczna/3651254"
+    },
+    {
+      "name": "Dzialania wizualne D - rzezba",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-swietokrzyska-w-kielcach/dzialania-wizualne-d-rzezba/3651339"
+    },
+    {
+      "name": "Ekonomika budownictwa",
+      "code": "EB 2024",
+      "url": "https://www.studocu.com/pl/course/politechnika-swietokrzyska-w-kielcach/ekonomika-budownictwa/6995183"
+    },
+    {
+      "name": "Ekonomika procesu inwestycyjnego",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-swietokrzyska-w-kielcach/ekonomika-procesu-inwestycyjnego/3650663"
+    },
+    {
+      "name": "Eksploatacja pojazdów samochodowych",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-swietokrzyska-w-kielcach/eksploatacja-pojazdow-samochodowych/3651315"
+    },
+    {
+      "name": "Elektroenergetyczna automatyka zabezpieczeniowa",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-swietokrzyska-w-kielcach/elektroenergetyczna-automatyka-zabezpieczeniowa/3650893"
+    },
+    {
+      "name": "Elektrotechnika i urządzenia elektryczne",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-swietokrzyska-w-kielcach/elektrotechnika-i-urzadzenia-elektryczne/3651054"
+    },
+    {
+      "name": "Energoelektronika",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-swietokrzyska-w-kielcach/energoelektronika/3650792"
+    },
+    {
+      "name": "Ergonomia i BHP",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-swietokrzyska-w-kielcach/ergonomia-i-bhp/3651198"
+    },
+    {
+      "name": "Ewidencja gruntów i budynków jako kataster własnościowy",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-swietokrzyska-w-kielcach/ewidencja-gruntow-i-budynkow-jako-kataster-wlasnosciowy/3651159"
+    },
+    {
+      "name": "Finansowanie przedsięwzięć ekoenergetycznych",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-swietokrzyska-w-kielcach/finansowanie-przedsiewziec-ekoenergetycznych/3651119"
+    },
+    {
+      "name": "Fizyka",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-swietokrzyska-w-kielcach/fizyka/3650670"
+    },
+    {
+      "name": "Fizyka  E",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-swietokrzyska-w-kielcach/fizyka-e/3650989"
+    },
+    {
+      "name": "Fizyka budowli",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-swietokrzyska-w-kielcach/fizyka-budowli/3650630"
+    },
+    {
+      "name": "Fizyka techniczna",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-swietokrzyska-w-kielcach/fizyka-techniczna/3651199"
+    },
+    {
+      "name": "Fundamentowanie",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-swietokrzyska-w-kielcach/fundamentowanie/3650696"
+    },
+    {
+      "name": "Geochemia",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-swietokrzyska-w-kielcach/geochemia/3650697"
+    },
+    {
+      "name": "Geodezja 1",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-swietokrzyska-w-kielcach/geodezja-1/3650671"
+    },
+    {
+      "name": "Geologia",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-swietokrzyska-w-kielcach/geologia/3651052"
+    },
+    {
+      "name": "Geologia regionalna Polski",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-swietokrzyska-w-kielcach/geologia-regionalna-polski/3650699"
+    },
+    {
+      "name": "Geologia złóż",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-swietokrzyska-w-kielcach/geologia-zloz/3650705"
+    },
+    {
+      "name": "Geomorfologia i geologia czwartorzędu",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-swietokrzyska-w-kielcach/geomorfologia-i-geologia-czwartorzedu/3650690"
+    },
+    {
+      "name": "Grafika komputerowa",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-swietokrzyska-w-kielcach/grafika-komputerowa/3650941"
+    },
+    {
+      "name": "Historia cywilizacji",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-swietokrzyska-w-kielcach/historia-cywilizacji/3651067"
+    },
+    {
+      "name": "Historia cywilizacji europejskiej",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-swietokrzyska-w-kielcach/historia-cywilizacji-europejskiej/3651004"
+    },
+    {
+      "name": "Historia i ochrona architektury ludowej w Polsce",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-swietokrzyska-w-kielcach/historia-i-ochrona-architektury-ludowej-w-polsce/3650664"
+    },
+    {
+      "name": "Historia muzyki",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-swietokrzyska-w-kielcach/historia-muzyki/3650595"
+    },
+    {
+      "name": "Historia muzyki lub Instrumentoznawstwo",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-swietokrzyska-w-kielcach/historia-muzyki-lub-instrumentoznawstwo/3650725"
+    },
+    {
+      "name": "Historia techniki i wynalazków",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-swietokrzyska-w-kielcach/historia-techniki-i-wynalazkow/3651066"
+    },
+    {
+      "name": "Hydrologia",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-swietokrzyska-w-kielcach/hydrologia/3651017"
+    },
+    {
+      "name": "Informatyka - programowanie Visual Basic",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-swietokrzyska-w-kielcach/informatyka-programowanie-visual-basic/3651409"
+    },
+    {
+      "name": "Informatyka 1",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-swietokrzyska-w-kielcach/informatyka-1/3650720"
+    },
+    {
+      "name": "Informatyka 2",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-swietokrzyska-w-kielcach/informatyka-2/3650729"
+    },
+    {
+      "name": "Instalacje co i wentylacji",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-swietokrzyska-w-kielcach/instalacje-co-i-wentylacji/3651036"
+    },
+    {
+      "name": "Instalacje sanitarne",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-swietokrzyska-w-kielcach/instalacje-sanitarne/3651031"
+    },
+    {
+      "name": "Inzynieria jakosci",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-swietokrzyska-w-kielcach/inzynieria-jakosci/3651248"
+    },
+    {
+      "name": "Inżynieria eksploatacji",
+      "code": "M#1-S1-IB-307",
+      "url": "https://www.studocu.com/pl/course/politechnika-swietokrzyska-w-kielcach/inzynieria-eksploatacji/6717557"
+    },
+    {
+      "name": "Inżynieria elektryczna",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-swietokrzyska-w-kielcach/inzynieria-elektryczna/3650997"
+    },
+    {
+      "name": "Jezyk angielski I",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-swietokrzyska-w-kielcach/jezyk-angielski-i/3651378"
+    },
+    {
+      "name": "Jezyk angielski II",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-swietokrzyska-w-kielcach/jezyk-angielski-ii/3651388"
+    },
+    {
+      "name": "Język obcy",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-swietokrzyska-w-kielcach/jezyk-obcy/3650818"
+    },
+    {
+      "name": "Język obcy 3",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-swietokrzyska-w-kielcach/jezyk-obcy-3/3650749"
+    },
+    {
+      "name": "Język obcy 4",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-swietokrzyska-w-kielcach/jezyk-obcy-4/3650852"
+    },
+    {
+      "name": "Kanalizacja",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-swietokrzyska-w-kielcach/kanalizacja/3651022"
+    },
+    {
+      "name": "Kierowanie procesem inwestycyjnym",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-swietokrzyska-w-kielcach/kierowanie-procesem-inwestycyjnym/3650711"
+    },
+    {
+      "name": "Kolo zebate",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-swietokrzyska-w-kielcach/kolo-zebate/7320554"
+    },
+    {
+      "name": "Komputerowa symulacja układów dynamicznych",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-swietokrzyska-w-kielcach/komputerowa-symulacja-ukladow-dynamicznych/3650756"
+    },
+    {
+      "name": "Komputerowe wspomaganie prac inz.",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-swietokrzyska-w-kielcach/komputerowe-wspomaganie-prac-inz/3651411"
+    },
+    {
+      "name": "Komputerowe wspomaganie procesów technologicznych",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-swietokrzyska-w-kielcach/komputerowe-wspomaganie-procesow-technologicznych/3651356"
+    },
+    {
+      "name": "Konstrukcje budowlane",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-swietokrzyska-w-kielcach/konstrukcje-budowlane/3650621"
+    },
+    {
+      "name": "Konstrukcje drewniane",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-swietokrzyska-w-kielcach/konstrukcje-drewniane/3650634"
+    },
+    {
+      "name": "Konstrukcje stalowe",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-swietokrzyska-w-kielcach/konstrukcje-stalowe/3650654"
+    },
+    {
+      "name": "Konstrukcje żelbetowe 1",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-swietokrzyska-w-kielcach/konstrukcje-zelbetowe-1/3650646"
+    },
+    {
+      "name": "Konstrukcje żelbetowe 2",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-swietokrzyska-w-kielcach/konstrukcje-zelbetowe-2/3650655"
+    },
+    {
+      "name": "Laboratorium podstaw automatyzacji",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-swietokrzyska-w-kielcach/laboratorium-podstaw-automatyzacji/3651414"
+    },
+    {
+      "name": "Logistyka",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-swietokrzyska-w-kielcach/logistyka/3651415"
+    },
+    {
+      "name": "Makroekonomia",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-swietokrzyska-w-kielcach/makroekonomia/3651392"
+    },
+    {
+      "name": "Maszyny technologiczne do obróbki plastycznej",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-swietokrzyska-w-kielcach/maszyny-technologiczne-do-obrobki-plastycznej/3651312"
+    },
+    {
+      "name": "Matematyka",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-swietokrzyska-w-kielcach/matematyka/3650978"
+    },
+    {
+      "name": "Matematyka 1",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-swietokrzyska-w-kielcach/matematyka-1/3650596"
+    },
+    {
+      "name": "Matematyka 2",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-swietokrzyska-w-kielcach/matematyka-2/3650609"
+    },
+    {
+      "name": "Matematyka 3",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-swietokrzyska-w-kielcach/matematyka-3/3650735"
+    },
+    {
+      "name": "Matematyka finansowa",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-swietokrzyska-w-kielcach/matematyka-finansowa/3651390"
+    },
+    {
+      "name": "Materiałoznawstwo",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-swietokrzyska-w-kielcach/materialoznawstwo/3650882"
+    },
+    {
+      "name": "Materiały budowlane",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-swietokrzyska-w-kielcach/materialy-budowlane/3650597"
+    },
+    {
+      "name": "Mechanika gruntów",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-swietokrzyska-w-kielcach/mechanika-gruntow/3650702"
+    },
+    {
+      "name": "Mechanika ogólna",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-swietokrzyska-w-kielcach/mechanika-ogolna/3651209"
+    },
+    {
+      "name": "Mechanika plynów i wymiana ciepla",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-swietokrzyska-w-kielcach/mechanika-plynow-i-wymiana-ciepla/3651398"
+    },
+    {
+      "name": "Mechanika płynów",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-swietokrzyska-w-kielcach/mechanika-plynow/3650886"
+    },
+    {
+      "name": "Metaloznawstwo I",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-swietokrzyska-w-kielcach/metaloznawstwo-i/3651259"
+    },
+    {
+      "name": "Metaloznawstwo II",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-swietokrzyska-w-kielcach/metaloznawstwo-ii/3651265"
+    },
+    {
+      "name": "Metoda elementów skonczonych II",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-swietokrzyska-w-kielcach/metoda-elementow-skonczonych-ii/3651316"
+    },
+    {
+      "name": "Metody komputerowe w mechanice",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-swietokrzyska-w-kielcach/metody-komputerowe-w-mechanice/3651368"
+    },
+    {
+      "name": "Metody numeryczne",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-swietokrzyska-w-kielcach/metody-numeryczne/3650736"
+    },
+    {
+      "name": "Metody obliczeniowe",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-swietokrzyska-w-kielcach/metody-obliczeniowe/3650937"
+    },
+    {
+      "name": "Metody probabilistyczne i statystyka",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-swietokrzyska-w-kielcach/metody-probabilistyczne-i-statystyka/3650920"
+    },
+    {
+      "name": "Metrologia / Metrology",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-swietokrzyska-w-kielcach/metrologia-metrology/3651333"
+    },
+    {
+      "name": "Metrologia II",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-swietokrzyska-w-kielcach/metrologia-ii/3651221"
+    },
+    {
+      "name": "Metrologia II, Metrology",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-swietokrzyska-w-kielcach/metrologia-ii-metrology/3651270"
+    },
+    {
+      "name": "Microcontrollers Programming 1",
+      "code": "E-E-0011-s3",
+      "url": "https://www.studocu.com/pl/course/politechnika-swietokrzyska-w-kielcach/microcontrollers-programming-1/5923549"
+    },
+    {
+      "name": "Miernictwo cyfrowe",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-swietokrzyska-w-kielcach/miernictwo-cyfrowe/3650925"
+    },
+    {
+      "name": "Mikro i nanotechnika",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-swietokrzyska-w-kielcach/mikro-i-nanotechnika/7630918"
+    },
+    {
+      "name": "Mikroekonomia",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-swietokrzyska-w-kielcach/mikroekonomia/3651384"
+    },
+    {
+      "name": "Modelowanie i analiza procesów biznesowych",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-swietokrzyska-w-kielcach/modelowanie-i-analiza-procesow-biznesowych/3650947"
+    },
+    {
+      "name": "Modelowanie i budowa maszyn",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-swietokrzyska-w-kielcach/modelowanie-i-budowa-maszyn/3651347"
+    },
+    {
+      "name": "Modern plastic pipelines",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-swietokrzyska-w-kielcach/modern-plastic-pipelines/3651026"
+    },
+    {
+      "name": "Moje Dokumenty",
+      "code": "MD 123",
+      "url": "https://www.studocu.com/pl/course/politechnika-swietokrzyska-w-kielcach/moje-dokumenty/7472198"
+    },
+    {
+      "name": "Napedy i sterowanie hydrauliczne i pneumatyczne",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-swietokrzyska-w-kielcach/napedy-i-sterowanie-hydrauliczne-i-pneumatyczne/3651216"
+    },
+    {
+      "name": "Napęd elektryczny",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-swietokrzyska-w-kielcach/naped-elektryczny/3650752"
+    },
+    {
+      "name": "Negocjacje",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-swietokrzyska-w-kielcach/negocjacje/3651401"
+    },
+    {
+      "name": "Nowoczesne techniki diagnozowania",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-swietokrzyska-w-kielcach/nowoczesne-techniki-diagnozowania/3650872"
+    },
+    {
+      "name": "Obrabiarki sterowane numerycznie",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-swietokrzyska-w-kielcach/obrabiarki-sterowane-numerycznie/3651310"
+    },
+    {
+      "name": "Obróbka plastyczna",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-swietokrzyska-w-kielcach/obrobka-plastyczna/3651298"
+    },
+    {
+      "name": "Obróbka skrawaniem",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-swietokrzyska-w-kielcach/obrobka-skrawaniem/3651299"
+    },
+    {
+      "name": "Obróbki wykonczeniowe",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-swietokrzyska-w-kielcach/obrobki-wykonczeniowe/3651297"
+    },
+    {
+      "name": "Ocena jakości betonu w konstrukcji wykład",
+      "code": "2023/2024",
+      "url": "https://www.studocu.com/pl/course/politechnika-swietokrzyska-w-kielcach/ocena-jakosci-betonu-w-konstrukcji-wyklad/6980960"
+    },
+    {
+      "name": "Ochrona środowiska kulturowego",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-swietokrzyska-w-kielcach/ochrona-srodowiska-kulturowego/3650598"
+    },
+    {
+      "name": "Ogrzewnictwo",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-swietokrzyska-w-kielcach/ogrzewnictwo/3651084"
+    },
+    {
+      "name": "Organizaca Robót Budowlanych",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-swietokrzyska-w-kielcach/organizaca-robot-budowlanych/7630433"
+    },
+    {
+      "name": "Organizacja produkcji budowlanej",
+      "code": "OPB23",
+      "url": "https://www.studocu.com/pl/course/politechnika-swietokrzyska-w-kielcach/organizacja-produkcji-budowlanej/5972286"
+    },
+    {
+      "name": "Pierwsza pomoc przedmedyczna",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-swietokrzyska-w-kielcach/pierwsza-pomoc-przedmedyczna/5790138"
+    },
+    {
+      "name": "Planowanie przestrzenne",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-swietokrzyska-w-kielcach/planowanie-przestrzenne/3650647"
+    },
+    {
+      "name": "Planowanie przestrzenne i plany miejscowe",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-swietokrzyska-w-kielcach/planowanie-przestrzenne-i-plany-miejscowe/3651166"
+    },
+    {
+      "name": "Planowanie przestrzenne i urbanistyka",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-swietokrzyska-w-kielcach/planowanie-przestrzenne-i-urbanistyka/3650657"
+    },
+    {
+      "name": "Podstawy automatyki",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-swietokrzyska-w-kielcach/podstawy-automatyki/3650741"
+    },
+    {
+      "name": "Podstawy ekonomii",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-swietokrzyska-w-kielcach/podstawy-ekonomii/3651002"
+    },
+    {
+      "name": "Podstawy elektroniki",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-swietokrzyska-w-kielcach/podstawy-elektroniki/3650916"
+    },
+    {
+      "name": "Podstawy elektroniki i elektrotechniki",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-swietokrzyska-w-kielcach/podstawy-elektroniki-i-elektrotechniki/3651348"
+    },
+    {
+      "name": "Podstawy energoelektroniki 2",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-swietokrzyska-w-kielcach/podstawy-energoelektroniki-2/3650745"
+    },
+    {
+      "name": "Podstawy geotechniki i geologii",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-swietokrzyska-w-kielcach/podstawy-geotechniki-i-geologii/3651130"
+    },
+    {
+      "name": "Podstawy informatyki",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-swietokrzyska-w-kielcach/podstawy-informatyki/3650985"
+    },
+    {
+      "name": "Podstawy inżynierii środowiska",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-swietokrzyska-w-kielcach/podstawy-inzynierii-srodowiska/3651137"
+    },
+    {
+      "name": "Podstawy konstrukcji maszyn I",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-swietokrzyska-w-kielcach/podstawy-konstrukcji-maszyn-i/3651267"
+    },
+    {
+      "name": "Podstawy konstrukcji maszyn II",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-swietokrzyska-w-kielcach/podstawy-konstrukcji-maszyn-ii/3651276"
+    },
+    {
+      "name": "Podstawy marketingu",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-swietokrzyska-w-kielcach/podstawy-marketingu/3651361"
+    },
+    {
+      "name": "Podstawy mostownictwa",
+      "code": "MOSTY2022",
+      "url": "https://www.studocu.com/pl/course/politechnika-swietokrzyska-w-kielcach/podstawy-mostownictwa/6708710"
+    },
+    {
+      "name": "Podstawy normalizacji",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-swietokrzyska-w-kielcach/podstawy-normalizacji/3650611"
+    },
+    {
+      "name": "Podstawy prawa",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-swietokrzyska-w-kielcach/podstawy-prawa/3651154"
+    },
+    {
+      "name": "Podstawy prefabrykacji",
+      "code": "B1-6-942",
+      "url": "https://www.studocu.com/pl/course/politechnika-swietokrzyska-w-kielcach/podstawy-prefabrykacji/6279135"
+    },
+    {
+      "name": "Podstawy projektowania procesów obróbki plastycznej",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-swietokrzyska-w-kielcach/podstawy-projektowania-procesow-obrobki-plastycznej/3651366"
+    },
+    {
+      "name": "Podstawy rachunku wyrównawczego i obliczeń geodezyjnych",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-swietokrzyska-w-kielcach/podstawy-rachunku-wyrownawczego-i-obliczen-geodezyjnych/3651144"
+    },
+    {
+      "name": "Podstawy robotyki",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-swietokrzyska-w-kielcach/podstawy-robotyki/3651237"
+    },
+    {
+      "name": "Podstawy Technologi Wytwarzania",
+      "code": "M#1-S1-IP-210",
+      "url": "https://www.studocu.com/pl/course/politechnika-swietokrzyska-w-kielcach/podstawy-technologi-wytwarzania/6106719"
+    },
+    {
+      "name": "Prawo budowlane",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-swietokrzyska-w-kielcach/prawo-budowlane/3650649"
+    },
+    {
+      "name": "prawo cywilne",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-swietokrzyska-w-kielcach/prawo-cywilne/5483670"
+    },
+    {
+      "name": "Prawo geodezyjne i gospodarki nieruchomościami",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-swietokrzyska-w-kielcach/prawo-geodezyjne-i-gospodarki-nieruchomosciami/3651169"
+    },
+    {
+      "name": "Prawo gospodarcze",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-swietokrzyska-w-kielcach/prawo-gospodarcze/3651393"
+    },
+    {
+      "name": "Procesy produkcyjne",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-swietokrzyska-w-kielcach/procesy-produkcyjne/3651402"
+    },
+    {
+      "name": "Programowanie komputerów 2",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-swietokrzyska-w-kielcach/programowanie-komputerow-2/3650758"
+    },
+    {
+      "name": "Programowanie w jezyku C",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-swietokrzyska-w-kielcach/programowanie-w-jezyku-c/3651227"
+    },
+    {
+      "name": "Przedsiębiorczość i innowacje",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-swietokrzyska-w-kielcach/przedsiebiorczosc-i-innowacje/3651109"
+    },
+    {
+      "name": "Przyrządy półprzewodnikowe",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-swietokrzyska-w-kielcach/przyrzady-polprzewodnikowe/3650765"
+    },
+    {
+      "name": "Rachunkowosc",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-swietokrzyska-w-kielcach/rachunkowosc/3651408"
+    },
+    {
+      "name": "Rysunek techniczny",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-swietokrzyska-w-kielcach/rysunek-techniczny/3650615"
+    },
+    {
+      "name": "Rysunek techniczny maszynowy",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-swietokrzyska-w-kielcach/rysunek-techniczny-maszynowy/3651261"
+    },
+    {
+      "name": "Samochodowe silniki spalinowe II",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-swietokrzyska-w-kielcach/samochodowe-silniki-spalinowe-ii/3651314"
+    },
+    {
+      "name": "Seminarium dyplomowe",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-swietokrzyska-w-kielcach/seminarium-dyplomowe/3650715"
+    },
+    {
+      "name": "Sieci i zabezpieczenia",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-swietokrzyska-w-kielcach/sieci-i-zabezpieczenia/3650799"
+    },
+    {
+      "name": "Socjologia miast",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-swietokrzyska-w-kielcach/socjologia-miast/3650639"
+    },
+    {
+      "name": "Spawalnictwo",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-swietokrzyska-w-kielcach/spawalnictwo/3651295"
+    },
+    {
+      "name": "Statystyka",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-swietokrzyska-w-kielcach/statystyka/3651382"
+    },
+    {
+      "name": "Systemy dynamiczne",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-swietokrzyska-w-kielcach/systemy-dynamiczne/3650927"
+    },
+    {
+      "name": "Systemy Transportowe",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-swietokrzyska-w-kielcach/systemy-transportowe/4356038"
+    },
+    {
+      "name": "Techniki informacyjne",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-swietokrzyska-w-kielcach/techniki-informacyjne/3650604"
+    },
+    {
+      "name": "Techniki wytwarzania II",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-swietokrzyska-w-kielcach/techniki-wytwarzania-ii/3651268"
+    },
+    {
+      "name": "Technologia robót betonowych",
+      "code": "B1-4-920",
+      "url": "https://www.studocu.com/pl/course/politechnika-swietokrzyska-w-kielcach/technologia-robot-betonowych/6831097"
+    },
+    {
+      "name": "Technologie szybkiego prototypowania",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-swietokrzyska-w-kielcach/technologie-szybkiego-prototypowania/3651373"
+    },
+    {
+      "name": "Teoria i zasady projektowania architektoniczno-urbanistycznego 1",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-swietokrzyska-w-kielcach/teoria-i-zasady-projektowania-architektoniczno-urbanistycznego-1/3650626"
+    },
+    {
+      "name": "Teoria obwodów 1",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-swietokrzyska-w-kielcach/teoria-obwodow-1/3650723"
+    },
+    {
+      "name": "Teoria sterowania i systemów 2",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-swietokrzyska-w-kielcach/teoria-sterowania-i-systemow-2/3650755"
+    },
+    {
+      "name": "Teoria sygnalów i systemów",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-swietokrzyska-w-kielcach/teoria-sygnalow-i-systemow/3651210"
+    },
+    {
+      "name": "Termodynamika",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-swietokrzyska-w-kielcach/termodynamika/3651352"
+    },
+    {
+      "name": "The conversion of biomass to energy",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-swietokrzyska-w-kielcach/the-conversion-of-biomass-to-energy/3651118"
+    },
+    {
+      "name": "Tworzywa sztuczne i materiały kompozytowe",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-swietokrzyska-w-kielcach/tworzywa-sztuczne-i-materialy-kompozytowe/3651071"
+    },
+    {
+      "name": "Układy arytmetyczno – logiczne",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-swietokrzyska-w-kielcach/uklady-arytmetyczno-logiczne/3650919"
+    },
+    {
+      "name": "Układy grzewczo-wentylacyjne",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-swietokrzyska-w-kielcach/uklady-grzewczo-wentylacyjne/3651107"
+    },
+    {
+      "name": "Urządzenia i systemy automatyki",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-swietokrzyska-w-kielcach/urzadzenia-i-systemy-automatyki/3650759"
+    },
+    {
+      "name": "Utilization of post combustion waste",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-swietokrzyska-w-kielcach/utilization-of-post-combustion-waste/3651116"
+    },
+    {
+      "name": "Wspólrzednosciowa technika pomiarowa",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-swietokrzyska-w-kielcach/wspolrzednosciowa-technika-pomiarowa/3651365"
+    },
+    {
+      "name": "Wybrane Zagadnienia Technologii Robót Budowlanych",
+      "code": "WZTRB-2",
+      "url": "https://www.studocu.com/pl/course/politechnika-swietokrzyska-w-kielcach/wybrane-zagadnienia-technologii-robot-budowlanych/6885997"
+    },
+    {
+      "name": "Wybrane zagadnienia z geodynamiki inżynierskiej",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-swietokrzyska-w-kielcach/wybrane-zagadnienia-z-geodynamiki-inzynierskiej/3650709"
+    },
+    {
+      "name": "Wychowanie fizyczne 1",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-swietokrzyska-w-kielcach/wychowanie-fizyczne-1/3650627"
+    },
+    {
+      "name": "Wytrzymalosc materialów",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-swietokrzyska-w-kielcach/wytrzymalosc-materialow/3651220"
+    },
+    {
+      "name": "Zaawansowane systemy CAD",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-swietokrzyska-w-kielcach/zaawansowane-systemy-cad/3651369"
+    },
+    {
+      "name": "Zarzadzanie uslugami",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-swietokrzyska-w-kielcach/zarzadzanie-uslugami/3651416"
+    },
+    {
+      "name": "Zastosowanie surowców skalnych i mineralnych",
+      "code": null,
+      "url": "https://www.studocu.com/pl/course/politechnika-swietokrzyska-w-kielcach/zastosowanie-surowcow-skalnych-i-mineralnych/3650710"
+    }
+  ]
+}

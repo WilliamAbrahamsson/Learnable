@@ -1,0 +1,521 @@
+{
+  "university_id": "6697",
+  "university_name": "University of Mauritius",
+  "courses": [
+    {
+      "name": "acca aaa",
+      "code": "123",
+      "url": "https://www.studocu.com/row/course/university-of-mauritius/acca-aaa/4803843"
+    },
+    {
+      "name": "Accounting",
+      "code": "DFA 1020Y",
+      "url": "https://www.studocu.com/row/course/university-of-mauritius/accounting/4913367"
+    },
+    {
+      "name": "Accounting (minor:FINANCE)",
+      "code": "LM300",
+      "url": "https://www.studocu.com/row/course/university-of-mauritius/accounting-minorfinance/4098133"
+    },
+    {
+      "name": "Accounting (minor:management)",
+      "code": "LM304",
+      "url": "https://www.studocu.com/row/course/university-of-mauritius/accounting-minormanagement/4401697"
+    },
+    {
+      "name": "Actuarial Mathematics",
+      "code": "MA2009",
+      "url": "https://www.studocu.com/row/course/university-of-mauritius/actuarial-mathematics/7349101"
+    },
+    {
+      "name": "Agriscience and technology",
+      "code": "agri 3018",
+      "url": "https://www.studocu.com/row/course/university-of-mauritius/agriscience-and-technology/3509967"
+    },
+    {
+      "name": "Agrometeorology",
+      "code": "AGRI 1018",
+      "url": "https://www.studocu.com/row/course/university-of-mauritius/agrometeorology/5140676"
+    },
+    {
+      "name": "Animal Breeding",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/university-of-mauritius/animal-breeding/4104576"
+    },
+    {
+      "name": "Applied Thermodynamics",
+      "code": "CHE1003Y",
+      "url": "https://www.studocu.com/row/course/university-of-mauritius/applied-thermodynamics/3732633"
+    },
+    {
+      "name": "Auditing Principles and Practices",
+      "code": "DFA2003Y-3",
+      "url": "https://www.studocu.com/row/course/university-of-mauritius/auditing-principles-and-practices/4408247"
+    },
+    {
+      "name": "BA(Hons) Economics and Law",
+      "code": "SHLM302F",
+      "url": "https://www.studocu.com/row/course/university-of-mauritius/bahons-economics-and-law/6522841"
+    },
+    {
+      "name": "BA(Hons) English",
+      "code": "Eng 300",
+      "url": "https://www.studocu.com/row/course/university-of-mauritius/bahons-english/3147791"
+    },
+    {
+      "name": "Bank fundamentals",
+      "code": "Bank3003",
+      "url": "https://www.studocu.com/row/course/university-of-mauritius/bank-fundamentals/6981040"
+    },
+    {
+      "name": "Banking and Finance",
+      "code": "LM305",
+      "url": "https://www.studocu.com/row/course/university-of-mauritius/banking-and-finance/7569139"
+    },
+    {
+      "name": "Banking operations",
+      "code": "DA200",
+      "url": "https://www.studocu.com/row/course/university-of-mauritius/banking-operations/6334390"
+    },
+    {
+      "name": "BSc(Hons) Biological Sciences",
+      "code": "SC306",
+      "url": "https://www.studocu.com/row/course/university-of-mauritius/bschons-biological-sciences/3621886"
+    },
+    {
+      "name": "BSc(Hons) Chemistry",
+      "code": "SC310",
+      "url": "https://www.studocu.com/row/course/university-of-mauritius/bschons-chemistry/6932789"
+    },
+    {
+      "name": "BSc(Hons) Finance",
+      "code": "LM302",
+      "url": "https://www.studocu.com/row/course/university-of-mauritius/bschons-finance/4367532"
+    },
+    {
+      "name": "BSc(Hons) Human Resource Management",
+      "code": "HRM3001",
+      "url": "https://www.studocu.com/row/course/university-of-mauritius/bschons-human-resource-management/5194091"
+    },
+    {
+      "name": "BSc(Hons) Management",
+      "code": "LM320",
+      "url": "https://www.studocu.com/row/course/university-of-mauritius/bschons-management/7632080"
+    },
+    {
+      "name": "Bsc(hons) Psychology",
+      "code": "SH 341",
+      "url": "https://www.studocu.com/row/course/university-of-mauritius/bschons-psychology/3608004"
+    },
+    {
+      "name": "Business Capstone",
+      "code": "MKTG3000",
+      "url": "https://www.studocu.com/row/course/university-of-mauritius/business-capstone/4537038"
+    },
+    {
+      "name": "Cell Biology",
+      "code": "BIO 1201",
+      "url": "https://www.studocu.com/row/course/university-of-mauritius/cell-biology/5355106"
+    },
+    {
+      "name": "chemical engineering",
+      "code": "E404",
+      "url": "https://www.studocu.com/row/course/university-of-mauritius/chemical-engineering/4549126"
+    },
+    {
+      "name": "Civil Engineering",
+      "code": "E403",
+      "url": "https://www.studocu.com/row/course/university-of-mauritius/civil-engineering/6475606"
+    },
+    {
+      "name": "Civil Procedure",
+      "code": "LAWS 2204",
+      "url": "https://www.studocu.com/row/course/university-of-mauritius/civil-procedure/4329813"
+    },
+    {
+      "name": "cognitive psychology",
+      "code": "PSYC1003Y(3)",
+      "url": "https://www.studocu.com/row/course/university-of-mauritius/cognitive-psychology/6732972"
+    },
+    {
+      "name": "Computer Science",
+      "code": "CS1022",
+      "url": "https://www.studocu.com/row/course/university-of-mauritius/computer-science/4295359"
+    },
+    {
+      "name": "Corporate Law",
+      "code": "LLB117",
+      "url": "https://www.studocu.com/row/course/university-of-mauritius/corporate-law/4445501"
+    },
+    {
+      "name": "Crim/Civil Litigation",
+      "code": "LPVC2024",
+      "url": "https://www.studocu.com/row/course/university-of-mauritius/crimcivil-litigation/6632596"
+    },
+    {
+      "name": "Criminology",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/university-of-mauritius/criminology/6714363"
+    },
+    {
+      "name": "Defence and Immune System",
+      "code": "BMED 3201",
+      "url": "https://www.studocu.com/row/course/university-of-mauritius/defence-and-immune-system/3704174"
+    },
+    {
+      "name": "Doctor in Medicine",
+      "code": "MH331",
+      "url": "https://www.studocu.com/row/course/university-of-mauritius/doctor-in-medicine/6054418"
+    },
+    {
+      "name": "Doctor of Medicine",
+      "code": "BMED2201",
+      "url": "https://www.studocu.com/row/course/university-of-mauritius/doctor-of-medicine/5479352"
+    },
+    {
+      "name": "Doctor of medicine",
+      "code": "BMED111",
+      "url": "https://www.studocu.com/row/course/university-of-mauritius/doctor-of-medicine/6694013"
+    },
+    {
+      "name": "Droit De Bien",
+      "code": "laws 2217",
+      "url": "https://www.studocu.com/row/course/university-of-mauritius/droit-de-bien/7608614"
+    },
+    {
+      "name": "Droit des Contrats",
+      "code": "DDC001",
+      "url": "https://www.studocu.com/row/course/university-of-mauritius/droit-des-contrats/7288985"
+    },
+    {
+      "name": "Droit des Personnes et de la Famille",
+      "code": "1111 Y",
+      "url": "https://www.studocu.com/row/course/university-of-mauritius/droit-des-personnes-et-de-la-famille/7131086"
+    },
+    {
+      "name": "Economics and Finance",
+      "code": "SHLM301",
+      "url": "https://www.studocu.com/row/course/university-of-mauritius/economics-and-finance/5357797"
+    },
+    {
+      "name": "Economics and Law",
+      "code": "SHLM302",
+      "url": "https://www.studocu.com/row/course/university-of-mauritius/economics-and-law/6284887"
+    },
+    {
+      "name": "Electrical Machine",
+      "code": "ELEC 2205",
+      "url": "https://www.studocu.com/row/course/university-of-mauritius/electrical-machine/7149131"
+    },
+    {
+      "name": "Electronic and Communication Engineering",
+      "code": "E431",
+      "url": "https://www.studocu.com/row/course/university-of-mauritius/electronic-and-communication-engineering/2651112"
+    },
+    {
+      "name": "Finance minor law",
+      "code": "LM 303",
+      "url": "https://www.studocu.com/row/course/university-of-mauritius/finance-minor-law/4079514"
+    },
+    {
+      "name": "Financial Engineering",
+      "code": "652",
+      "url": "https://www.studocu.com/row/course/university-of-mauritius/financial-engineering/6866755"
+    },
+    {
+      "name": "Financial management kit",
+      "code": "Fm kit",
+      "url": "https://www.studocu.com/row/course/university-of-mauritius/financial-management-kit/3506038"
+    },
+    {
+      "name": "Financial maths",
+      "code": "MATH6210",
+      "url": "https://www.studocu.com/row/course/university-of-mauritius/financial-maths/6970595"
+    },
+    {
+      "name": "Financial reporting",
+      "code": "DFA2000",
+      "url": "https://www.studocu.com/row/course/university-of-mauritius/financial-reporting/6340947"
+    },
+    {
+      "name": "Fundamental of entrepreneurship",
+      "code": "MGT 3310",
+      "url": "https://www.studocu.com/row/course/university-of-mauritius/fundamental-of-entrepreneurship/3252924"
+    },
+    {
+      "name": "Fundamentals of Econometrics",
+      "code": "ECON2171(3)",
+      "url": "https://www.studocu.com/row/course/university-of-mauritius/fundamentals-of-econometrics/3624357"
+    },
+    {
+      "name": "Generalized Linear Models",
+      "code": "MA3103",
+      "url": "https://www.studocu.com/row/course/university-of-mauritius/generalized-linear-models/7349106"
+    },
+    {
+      "name": "Geomatics",
+      "code": "1120",
+      "url": "https://www.studocu.com/row/course/university-of-mauritius/geomatics/6915336"
+    },
+    {
+      "name": "Health Nutrion",
+      "code": "HNSC1210",
+      "url": "https://www.studocu.com/row/course/university-of-mauritius/health-nutrion/5967317"
+    },
+    {
+      "name": "Human and Plant Physiology",
+      "code": "AGRI10133Y",
+      "url": "https://www.studocu.com/row/course/university-of-mauritius/human-and-plant-physiology/6722993"
+    },
+    {
+      "name": "Human rights",
+      "code": "LAWS2219(3",
+      "url": "https://www.studocu.com/row/course/university-of-mauritius/human-rights/4905892"
+    },
+    {
+      "name": "Information Systems",
+      "code": "ic311",
+      "url": "https://www.studocu.com/row/course/university-of-mauritius/information-systems/6830520"
+    },
+    {
+      "name": "Intellectual Property Rights",
+      "code": "LAWS2218-3",
+      "url": "https://www.studocu.com/row/course/university-of-mauritius/intellectual-property-rights/6334255"
+    },
+    {
+      "name": "International Dispute Resolution",
+      "code": "LAWS2121(5)",
+      "url": "https://www.studocu.com/row/course/university-of-mauritius/international-dispute-resolution/4905902"
+    },
+    {
+      "name": "International Trade Law",
+      "code": "LAWS3116Y(5)",
+      "url": "https://www.studocu.com/row/course/university-of-mauritius/international-trade-law/4905904"
+    },
+    {
+      "name": "internet security",
+      "code": "sy0-501",
+      "url": "https://www.studocu.com/row/course/university-of-mauritius/internet-security/4386670"
+    },
+    {
+      "name": "Introduction au Texte Narratif",
+      "code": "FREN1007Y(1)",
+      "url": "https://www.studocu.com/row/course/university-of-mauritius/introduction-au-texte-narratif/6995903"
+    },
+    {
+      "name": "Introduction to ClassMarker",
+      "code": "LLC XX",
+      "url": "https://www.studocu.com/row/course/university-of-mauritius/introduction-to-classmarker/6823837"
+    },
+    {
+      "name": "Investment",
+      "code": "INV001",
+      "url": "https://www.studocu.com/row/course/university-of-mauritius/investment/3731774"
+    },
+    {
+      "name": "Investment and Security Analysis",
+      "code": "DFA 2034 Y3",
+      "url": "https://www.studocu.com/row/course/university-of-mauritius/investment-and-security-analysis/7572931"
+    },
+    {
+      "name": "land surveying",
+      "code": "2030",
+      "url": "https://www.studocu.com/row/course/university-of-mauritius/land-surveying/5285069"
+    },
+    {
+      "name": "Law and Criminal Justice",
+      "code": "LM313",
+      "url": "https://www.studocu.com/row/course/university-of-mauritius/law-and-criminal-justice/5437656"
+    },
+    {
+      "name": "Law and Management",
+      "code": "LM311",
+      "url": "https://www.studocu.com/row/course/university-of-mauritius/law-and-management/1552877"
+    },
+    {
+      "name": "Law Practitioners Vocational Course - Mauritius Legal System",
+      "code": "LM521",
+      "url": "https://www.studocu.com/row/course/university-of-mauritius/law-practitioners-vocational-course-mauritius-legal-system/5481828"
+    },
+    {
+      "name": "Lean Manufacturing",
+      "code": "MECH 300Y",
+      "url": "https://www.studocu.com/row/course/university-of-mauritius/lean-manufacturing/6898158"
+    },
+    {
+      "name": "litterature",
+      "code": "-",
+      "url": "https://www.studocu.com/row/course/university-of-mauritius/litterature/4547936"
+    },
+    {
+      "name": "Llb",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/university-of-mauritius/llb/3245623"
+    },
+    {
+      "name": "LLM in Corporate Law",
+      "code": "Laws 6344",
+      "url": "https://www.studocu.com/row/course/university-of-mauritius/llm-in-corporate-law/4337323"
+    },
+    {
+      "name": "Macroeconomic environment",
+      "code": "ECON 6014",
+      "url": "https://www.studocu.com/row/course/university-of-mauritius/macroeconomic-environment/4238984"
+    },
+    {
+      "name": "Management accounting and finance",
+      "code": "LM340",
+      "url": "https://www.studocu.com/row/course/university-of-mauritius/management-accounting-and-finance/3674069"
+    },
+    {
+      "name": "Management(MINOR: FINANCE)",
+      "code": "LM432",
+      "url": "https://www.studocu.com/row/course/university-of-mauritius/managementminor-finance/4387356"
+    },
+    {
+      "name": "Managing Human Resources",
+      "code": "MGT1235 (Y)",
+      "url": "https://www.studocu.com/row/course/university-of-mauritius/managing-human-resources/4956823"
+    },
+    {
+      "name": "Marketing with digital technologies",
+      "code": "MGT 2263Y",
+      "url": "https://www.studocu.com/row/course/university-of-mauritius/marketing-with-digital-technologies/4980754"
+    },
+    {
+      "name": "Markets & Legal Frameworks",
+      "code": "BLAW1002",
+      "url": "https://www.studocu.com/row/course/university-of-mauritius/markets-legal-frameworks/4540375"
+    },
+    {
+      "name": "Mathematical statistics",
+      "code": "MA2103",
+      "url": "https://www.studocu.com/row/course/university-of-mauritius/mathematical-statistics/7349098"
+    },
+    {
+      "name": "Mathematics with finance",
+      "code": "SCF320",
+      "url": "https://www.studocu.com/row/course/university-of-mauritius/mathematics-with-finance/2573184"
+    },
+    {
+      "name": "Mauritius Legal System",
+      "code": "LAWS 1110Y",
+      "url": "https://www.studocu.com/row/course/university-of-mauritius/mauritius-legal-system/6633397"
+    },
+    {
+      "name": "Mechanical Engineering",
+      "code": "E444",
+      "url": "https://www.studocu.com/row/course/university-of-mauritius/mechanical-engineering/3210645"
+    },
+    {
+      "name": "Mechanics",
+      "code": "math1131",
+      "url": "https://www.studocu.com/row/course/university-of-mauritius/mechanics/1701924"
+    },
+    {
+      "name": "Mechatronics Engineering",
+      "code": "E441",
+      "url": "https://www.studocu.com/row/course/university-of-mauritius/mechatronics-engineering/4293082"
+    },
+    {
+      "name": "Nuclear Physics",
+      "code": "PSYC 2011",
+      "url": "https://www.studocu.com/row/course/university-of-mauritius/nuclear-physics/5922650"
+    },
+    {
+      "name": "Occupational Therapy",
+      "code": "MH402",
+      "url": "https://www.studocu.com/row/course/university-of-mauritius/occupational-therapy/6952006"
+    },
+    {
+      "name": "Organisation and management",
+      "code": "MGT 111",
+      "url": "https://www.studocu.com/row/course/university-of-mauritius/organisation-and-management/4405278"
+    },
+    {
+      "name": "Philosophy",
+      "code": "PHI 2002",
+      "url": "https://www.studocu.com/row/course/university-of-mauritius/philosophy/4391577"
+    },
+    {
+      "name": "plant diversity",
+      "code": "BIO 2114",
+      "url": "https://www.studocu.com/row/course/university-of-mauritius/plant-diversity/7047401"
+    },
+    {
+      "name": "Principles of Project Management",
+      "code": "ENGG6101",
+      "url": "https://www.studocu.com/row/course/university-of-mauritius/principles-of-project-management/3729023"
+    },
+    {
+      "name": "Principles of Taxation",
+      "code": "ACF2006(3)",
+      "url": "https://www.studocu.com/row/course/university-of-mauritius/principles-of-taxation/7572918"
+    },
+    {
+      "name": "Property Development",
+      "code": "PD123",
+      "url": "https://www.studocu.com/row/course/university-of-mauritius/property-development/7758214"
+    },
+    {
+      "name": "Radiation Physics",
+      "code": "PHYRAD6001",
+      "url": "https://www.studocu.com/row/course/university-of-mauritius/radiation-physics/7137272"
+    },
+    {
+      "name": "Research Methods",
+      "code": "RM3001",
+      "url": "https://www.studocu.com/row/course/university-of-mauritius/research-methods/4495455"
+    },
+    {
+      "name": "Separation of Laws",
+      "code": "101",
+      "url": "https://www.studocu.com/row/course/university-of-mauritius/separation-of-laws/1581258"
+    },
+    {
+      "name": "Social Marketing",
+      "code": "MGT3258Y",
+      "url": "https://www.studocu.com/row/course/university-of-mauritius/social-marketing/5383315"
+    },
+    {
+      "name": "Sociology",
+      "code": "SH413",
+      "url": "https://www.studocu.com/row/course/university-of-mauritius/sociology/3238982"
+    },
+    {
+      "name": "Software Engineering",
+      "code": "CSE 320",
+      "url": "https://www.studocu.com/row/course/university-of-mauritius/software-engineering/4540387"
+    },
+    {
+      "name": "Software Quality Management",
+      "code": "CSE 6011",
+      "url": "https://www.studocu.com/row/course/university-of-mauritius/software-quality-management/3727470"
+    },
+    {
+      "name": "Statistical Models",
+      "code": "STAT 2002Y(3)",
+      "url": "https://www.studocu.com/row/course/university-of-mauritius/statistical-models/5405814"
+    },
+    {
+      "name": "Strategic business reporting",
+      "code": "Sbr",
+      "url": "https://www.studocu.com/row/course/university-of-mauritius/strategic-business-reporting/3506037"
+    },
+    {
+      "name": "Structural design",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/university-of-mauritius/structural-design/3651745"
+    },
+    {
+      "name": "Sémiologie médicale",
+      "code": "MED 3151",
+      "url": "https://www.studocu.com/row/course/university-of-mauritius/semiologie-medicale/4541460"
+    },
+    {
+      "name": "Training",
+      "code": "ALP 2001",
+      "url": "https://www.studocu.com/row/course/university-of-mauritius/training/4480156"
+    }
+  ]
+}

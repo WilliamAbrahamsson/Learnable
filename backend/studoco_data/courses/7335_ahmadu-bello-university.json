@@ -1,0 +1,946 @@
+{
+  "university_id": "7335",
+  "university_name": "Ahmadu Bello University",
+  "courses": [
+    {
+      "name": "Accounting",
+      "code": "ACC 810",
+      "url": "https://www.studocu.com/row/course/ahmadu-bello-university/accounting/3239331"
+    },
+    {
+      "name": "Advance reproductive health",
+      "code": "NURS5351",
+      "url": "https://www.studocu.com/row/course/ahmadu-bello-university/advance-reproductive-health/6346681"
+    },
+    {
+      "name": "Advanced Computer Applications",
+      "code": "COMM 804",
+      "url": "https://www.studocu.com/row/course/ahmadu-bello-university/advanced-computer-applications/7122119"
+    },
+    {
+      "name": "Advanced Enzymology",
+      "code": "Bchm 411",
+      "url": "https://www.studocu.com/row/course/ahmadu-bello-university/advanced-enzymology/5317527"
+    },
+    {
+      "name": "Advanced Epidemiology",
+      "code": "COMM 818",
+      "url": "https://www.studocu.com/row/course/ahmadu-bello-university/advanced-epidemiology/6943323"
+    },
+    {
+      "name": "advanced organic reaction mechanism",
+      "code": "CHEM437",
+      "url": "https://www.studocu.com/row/course/ahmadu-bello-university/advanced-organic-reaction-mechanism/6771438"
+    },
+    {
+      "name": "Advanced Strength of Materials",
+      "code": "MEEN507",
+      "url": "https://www.studocu.com/row/course/ahmadu-bello-university/advanced-strength-of-materials/5984167"
+    },
+    {
+      "name": "Agricultural Economics",
+      "code": "AERS502",
+      "url": "https://www.studocu.com/row/course/ahmadu-bello-university/agricultural-economics/7027837"
+    },
+    {
+      "name": "Agricultural Extension and Rural Development",
+      "code": "AGAE803",
+      "url": "https://www.studocu.com/row/course/ahmadu-bello-university/agricultural-extension-and-rural-development/7331537"
+    },
+    {
+      "name": "Algorithms",
+      "code": "COSC301",
+      "url": "https://www.studocu.com/row/course/ahmadu-bello-university/algorithms/6698043"
+    },
+    {
+      "name": "Animal Behaviour",
+      "code": "Zool 436",
+      "url": "https://www.studocu.com/row/course/ahmadu-bello-university/animal-behaviour/7492413"
+    },
+    {
+      "name": "Arabic course",
+      "code": "ARA111",
+      "url": "https://www.studocu.com/row/course/ahmadu-bello-university/arabic-course/7004421"
+    },
+    {
+      "name": "Arabic learning",
+      "code": "Ara112",
+      "url": "https://www.studocu.com/row/course/ahmadu-bello-university/arabic-learning/7004425"
+    },
+    {
+      "name": "Arabic phonology",
+      "code": "Ara222",
+      "url": "https://www.studocu.com/row/course/ahmadu-bello-university/arabic-phonology/7004429"
+    },
+    {
+      "name": "arhitectural design",
+      "code": "ARC404",
+      "url": "https://www.studocu.com/row/course/ahmadu-bello-university/arhitectural-design/7332769"
+    },
+    {
+      "name": "Assembly Language",
+      "code": "COSC 204",
+      "url": "https://www.studocu.com/row/course/ahmadu-bello-university/assembly-language/6606652"
+    },
+    {
+      "name": "assessing the business environment",
+      "code": "buad 836",
+      "url": "https://www.studocu.com/row/course/ahmadu-bello-university/assessing-the-business-environment/4511619"
+    },
+    {
+      "name": "Basic Organic Chemistry",
+      "code": "CHEM 132",
+      "url": "https://www.studocu.com/row/course/ahmadu-bello-university/basic-organic-chemistry/5325312"
+    },
+    {
+      "name": "bioenergtics",
+      "code": "bch 310",
+      "url": "https://www.studocu.com/row/course/ahmadu-bello-university/bioenergtics/4802686"
+    },
+    {
+      "name": "biological science",
+      "code": "biol 400",
+      "url": "https://www.studocu.com/row/course/ahmadu-bello-university/biological-science/6961748"
+    },
+    {
+      "name": "Biology",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/ahmadu-bello-university/biology/6695028"
+    },
+    {
+      "name": "Building Electrical Services",
+      "code": "BLDG 314",
+      "url": "https://www.studocu.com/row/course/ahmadu-bello-university/building-electrical-services/7072490"
+    },
+    {
+      "name": "Business and Company Law",
+      "code": "BUAD 808",
+      "url": "https://www.studocu.com/row/course/ahmadu-bello-university/business-and-company-law/4979737"
+    },
+    {
+      "name": "Business and Environment",
+      "code": "BUAD 823",
+      "url": "https://www.studocu.com/row/course/ahmadu-bello-university/business-and-environment/7087341"
+    },
+    {
+      "name": "Business Creation and Growth",
+      "code": "BUAD301",
+      "url": "https://www.studocu.com/row/course/ahmadu-bello-university/business-creation-and-growth/5351382"
+    },
+    {
+      "name": "Business policy and strategy",
+      "code": "Buad 836",
+      "url": "https://www.studocu.com/row/course/ahmadu-bello-university/business-policy-and-strategy/5000082"
+    },
+    {
+      "name": "business study skills",
+      "code": "buad 110",
+      "url": "https://www.studocu.com/row/course/ahmadu-bello-university/business-study-skills/7652849"
+    },
+    {
+      "name": "Business, Government and Society",
+      "code": "BUAD 825",
+      "url": "https://www.studocu.com/row/course/ahmadu-bello-university/business-government-and-society/4515982"
+    },
+    {
+      "name": "Carbohydrate",
+      "code": "BHCM331",
+      "url": "https://www.studocu.com/row/course/ahmadu-bello-university/carbohydrate/3476020"
+    },
+    {
+      "name": "Chemical Engineering",
+      "code": "CHEN301",
+      "url": "https://www.studocu.com/row/course/ahmadu-bello-university/chemical-engineering/6118771"
+    },
+    {
+      "name": "Chemical kinetics",
+      "code": "Chem311",
+      "url": "https://www.studocu.com/row/course/ahmadu-bello-university/chemical-kinetics/5317503"
+    },
+    {
+      "name": "chemistry practical",
+      "code": "chem361",
+      "url": "https://www.studocu.com/row/course/ahmadu-bello-university/chemistry-practical/6810569"
+    },
+    {
+      "name": "CIE Information Technology (9626) - A2 Level Notes",
+      "code": "CIE_IT_9626",
+      "url": "https://www.studocu.com/row/course/ahmadu-bello-university/cie-information-technology-9626-a2-level-notes/4352670"
+    },
+    {
+      "name": "Civil Engineering",
+      "code": "CVEN 801",
+      "url": "https://www.studocu.com/row/course/ahmadu-bello-university/civil-engineering/5872998"
+    },
+    {
+      "name": "civil engineering (introduction to structural analysis)",
+      "code": "CVEN 201",
+      "url": "https://www.studocu.com/row/course/ahmadu-bello-university/civil-engineering-introduction-to-structural-analysis/6257351"
+    },
+    {
+      "name": "Clinical immunology",
+      "code": "MICR479",
+      "url": "https://www.studocu.com/row/course/ahmadu-bello-university/clinical-immunology/6736937"
+    },
+    {
+      "name": "Clinical Legal Education",
+      "code": "LAWS301",
+      "url": "https://www.studocu.com/row/course/ahmadu-bello-university/clinical-legal-education/6069827"
+    },
+    {
+      "name": "College mathematics",
+      "code": "Maths121",
+      "url": "https://www.studocu.com/row/course/ahmadu-bello-university/college-mathematics/6343157"
+    },
+    {
+      "name": "Commercial Law",
+      "code": "LWPR302",
+      "url": "https://www.studocu.com/row/course/ahmadu-bello-university/commercial-law/7684494"
+    },
+    {
+      "name": "Communication in English",
+      "code": "Gst111",
+      "url": "https://www.studocu.com/row/course/ahmadu-bello-university/communication-in-english/6762187"
+    },
+    {
+      "name": "Community Health",
+      "code": "GNS 225",
+      "url": "https://www.studocu.com/row/course/ahmadu-bello-university/community-health/7334577"
+    },
+    {
+      "name": "Community health nursing",
+      "code": "Nurs 315",
+      "url": "https://www.studocu.com/row/course/ahmadu-bello-university/community-health-nursing/7694396"
+    },
+    {
+      "name": "Comparative Public Administration",
+      "code": "PADM404",
+      "url": "https://www.studocu.com/row/course/ahmadu-bello-university/comparative-public-administration/5358544"
+    },
+    {
+      "name": "Computational thinking",
+      "code": "COEN201",
+      "url": "https://www.studocu.com/row/course/ahmadu-bello-university/computational-thinking/6906019"
+    },
+    {
+      "name": "Computer Engineering",
+      "code": "EEEN 301",
+      "url": "https://www.studocu.com/row/course/ahmadu-bello-university/computer-engineering/4366530"
+    },
+    {
+      "name": "Computer for mass communication",
+      "code": "MCOM109",
+      "url": "https://www.studocu.com/row/course/ahmadu-bello-university/computer-for-mass-communication/7485712"
+    },
+    {
+      "name": "Computer Science",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/ahmadu-bello-university/computer-science/1580792"
+    },
+    {
+      "name": "Conflict Resolution",
+      "code": "MAID 807",
+      "url": "https://www.studocu.com/row/course/ahmadu-bello-university/conflict-resolution/6750782"
+    },
+    {
+      "name": "Contracts",
+      "code": "Acc309",
+      "url": "https://www.studocu.com/row/course/ahmadu-bello-university/contracts/7439392"
+    },
+    {
+      "name": "Cooperate planning",
+      "code": "Bus309",
+      "url": "https://www.studocu.com/row/course/ahmadu-bello-university/cooperate-planning/7439394"
+    },
+    {
+      "name": "Corporate Finance",
+      "code": "BUAD 804",
+      "url": "https://www.studocu.com/row/course/ahmadu-bello-university/corporate-finance/6853484"
+    },
+    {
+      "name": "Crop Protection",
+      "code": "CP 801",
+      "url": "https://www.studocu.com/row/course/ahmadu-bello-university/crop-protection/7378028"
+    },
+    {
+      "name": "Curriculum vitae",
+      "code": "Cv 103",
+      "url": "https://www.studocu.com/row/course/ahmadu-bello-university/curriculum-vitae/7368845"
+    },
+    {
+      "name": "Data structures",
+      "code": "Cosc301",
+      "url": "https://www.studocu.com/row/course/ahmadu-bello-university/data-structures/6549343"
+    },
+    {
+      "name": "Database management",
+      "code": "COSC309",
+      "url": "https://www.studocu.com/row/course/ahmadu-bello-university/database-management/6698046"
+    },
+    {
+      "name": "Database Management",
+      "code": "LIBS 867",
+      "url": "https://www.studocu.com/row/course/ahmadu-bello-university/database-management/7585286"
+    },
+    {
+      "name": "Database management system",
+      "code": "COSC309",
+      "url": "https://www.studocu.com/row/course/ahmadu-bello-university/database-management-system/6698039"
+    },
+    {
+      "name": "Development Economics",
+      "code": "QTYS 309",
+      "url": "https://www.studocu.com/row/course/ahmadu-bello-university/development-economics/7369766"
+    },
+    {
+      "name": "Digital electronics",
+      "code": "cs 2203",
+      "url": "https://www.studocu.com/row/course/ahmadu-bello-university/digital-electronics/7763606"
+    },
+    {
+      "name": "Digital logic gate",
+      "code": "COSC205",
+      "url": "https://www.studocu.com/row/course/ahmadu-bello-university/digital-logic-gate/7633861"
+    },
+    {
+      "name": "digital mapping",
+      "code": "geom308",
+      "url": "https://www.studocu.com/row/course/ahmadu-bello-university/digital-mapping/7315752"
+    },
+    {
+      "name": "Discourse Analysis",
+      "code": "LANG905",
+      "url": "https://www.studocu.com/row/course/ahmadu-bello-university/discourse-analysis/3953759"
+    },
+    {
+      "name": "Discrete distribution",
+      "code": "COSC203",
+      "url": "https://www.studocu.com/row/course/ahmadu-bello-university/discrete-distribution/7633859"
+    },
+    {
+      "name": "Economic Geography",
+      "code": "GEOG301",
+      "url": "https://www.studocu.com/row/course/ahmadu-bello-university/economic-geography/5696298"
+    },
+    {
+      "name": "Economics",
+      "code": "Econs201",
+      "url": "https://www.studocu.com/row/course/ahmadu-bello-university/economics/3749751"
+    },
+    {
+      "name": "Electrical Machines",
+      "code": "EEEN 309",
+      "url": "https://www.studocu.com/row/course/ahmadu-bello-university/electrical-machines/7542570"
+    },
+    {
+      "name": "Electronics",
+      "code": "COEN309",
+      "url": "https://www.studocu.com/row/course/ahmadu-bello-university/electronics/4381877"
+    },
+    {
+      "name": "Engineering Asset Management",
+      "code": "ENG601",
+      "url": "https://www.studocu.com/row/course/ahmadu-bello-university/engineering-asset-management/1580876"
+    },
+    {
+      "name": "Engineering Mathematics",
+      "code": "Maths 341",
+      "url": "https://www.studocu.com/row/course/ahmadu-bello-university/engineering-mathematics/7549622"
+    },
+    {
+      "name": "English and Communication Skills",
+      "code": "GENS103",
+      "url": "https://www.studocu.com/row/course/ahmadu-bello-university/english-and-communication-skills/5358541"
+    },
+    {
+      "name": "English composition",
+      "code": "ENGL 1102-01",
+      "url": "https://www.studocu.com/row/course/ahmadu-bello-university/english-composition/6682729"
+    },
+    {
+      "name": "Etrepreneurship and small business development",
+      "code": "Buad 832",
+      "url": "https://www.studocu.com/row/course/ahmadu-bello-university/etrepreneurship-and-small-business-development/5000081"
+    },
+    {
+      "name": "Final year project",
+      "code": "CPS499",
+      "url": "https://www.studocu.com/row/course/ahmadu-bello-university/final-year-project/6659951"
+    },
+    {
+      "name": "Fisheries and aquaculture",
+      "code": "Fism 509",
+      "url": "https://www.studocu.com/row/course/ahmadu-bello-university/fisheries-and-aquaculture/7740935"
+    },
+    {
+      "name": "Formal Methods in Software Development",
+      "code": "COSC 402",
+      "url": "https://www.studocu.com/row/course/ahmadu-bello-university/formal-methods-in-software-development/7056425"
+    },
+    {
+      "name": "foundation of communication research",
+      "code": "MCOM 207",
+      "url": "https://www.studocu.com/row/course/ahmadu-bello-university/foundation-of-communication-research/5959206"
+    },
+    {
+      "name": "foundation of psychology",
+      "code": "psyc 7001",
+      "url": "https://www.studocu.com/row/course/ahmadu-bello-university/foundation-of-psychology/6118321"
+    },
+    {
+      "name": "Fuild Mechanics",
+      "code": "WREN201",
+      "url": "https://www.studocu.com/row/course/ahmadu-bello-university/fuild-mechanics/6891667"
+    },
+    {
+      "name": "Fundamental human right",
+      "code": "Pol 201",
+      "url": "https://www.studocu.com/row/course/ahmadu-bello-university/fundamental-human-right/5723549"
+    },
+    {
+      "name": "Fundamentals of marketing",
+      "code": "MKT 101",
+      "url": "https://www.studocu.com/row/course/ahmadu-bello-university/fundamentals-of-marketing/4473952"
+    },
+    {
+      "name": "Fundamentals of Marketing",
+      "code": "BUAD 807",
+      "url": "https://www.studocu.com/row/course/ahmadu-bello-university/fundamentals-of-marketing/6883557"
+    },
+    {
+      "name": "General Chemistry",
+      "code": "CHEM201",
+      "url": "https://www.studocu.com/row/course/ahmadu-bello-university/general-chemistry/5322257"
+    },
+    {
+      "name": "Geostatistics",
+      "code": "AES1920",
+      "url": "https://www.studocu.com/row/course/ahmadu-bello-university/geostatistics/2987115"
+    },
+    {
+      "name": "Health Economics",
+      "code": "Nurs 516",
+      "url": "https://www.studocu.com/row/course/ahmadu-bello-university/health-economics/7694398"
+    },
+    {
+      "name": "Health record",
+      "code": "GNS221",
+      "url": "https://www.studocu.com/row/course/ahmadu-bello-university/health-record/6950453"
+    },
+    {
+      "name": "Heat and energy transfer",
+      "code": "Physics 131",
+      "url": "https://www.studocu.com/row/course/ahmadu-bello-university/heat-and-energy-transfer/7552991"
+    },
+    {
+      "name": "Hiistory",
+      "code": "Hist 104",
+      "url": "https://www.studocu.com/row/course/ahmadu-bello-university/hiistory/5294184"
+    },
+    {
+      "name": "History of Engineering",
+      "code": "ENGG102",
+      "url": "https://www.studocu.com/row/course/ahmadu-bello-university/history-of-engineering/7025832"
+    },
+    {
+      "name": "Human Genetics",
+      "code": "ANAT 307",
+      "url": "https://www.studocu.com/row/course/ahmadu-bello-university/human-genetics/6383121"
+    },
+    {
+      "name": "Human Resources Management BUAD 82",
+      "code": "BUAD 824",
+      "url": "https://www.studocu.com/row/course/ahmadu-bello-university/human-resources-management-buad-82/5173960"
+    },
+    {
+      "name": "Humman anatomy and physiology",
+      "code": "ANAT 211",
+      "url": "https://www.studocu.com/row/course/ahmadu-bello-university/humman-anatomy-and-physiology/6524078"
+    },
+    {
+      "name": "Industrial Sociology",
+      "code": "SOLG 806",
+      "url": "https://www.studocu.com/row/course/ahmadu-bello-university/industrial-sociology/4358944"
+    },
+    {
+      "name": "Information and Communications Technology",
+      "code": "ANAT 406",
+      "url": "https://www.studocu.com/row/course/ahmadu-bello-university/information-and-communications-technology/7290064"
+    },
+    {
+      "name": "Inorganic chemistry",
+      "code": "chem 101",
+      "url": "https://www.studocu.com/row/course/ahmadu-bello-university/inorganic-chemistry/5377951"
+    },
+    {
+      "name": "International Relations",
+      "code": "IUR 202",
+      "url": "https://www.studocu.com/row/course/ahmadu-bello-university/international-relations/6321877"
+    },
+    {
+      "name": "Introduction to Business",
+      "code": "BSAQ 101",
+      "url": "https://www.studocu.com/row/course/ahmadu-bello-university/introduction-to-business/6698873"
+    },
+    {
+      "name": "introduction to business administration",
+      "code": "buad102",
+      "url": "https://www.studocu.com/row/course/ahmadu-bello-university/introduction-to-business-administration/7652913"
+    },
+    {
+      "name": "Introduction to electric field",
+      "code": "phy 112",
+      "url": "https://www.studocu.com/row/course/ahmadu-bello-university/introduction-to-electric-field/5398903"
+    },
+    {
+      "name": "Introduction to Human Geography",
+      "code": "GEOG 101",
+      "url": "https://www.studocu.com/row/course/ahmadu-bello-university/introduction-to-human-geography/7447557"
+    },
+    {
+      "name": "Introduction to Macro-Economics",
+      "code": "ECO 202",
+      "url": "https://www.studocu.com/row/course/ahmadu-bello-university/introduction-to-macro-economics/5820478"
+    },
+    {
+      "name": "Introduction to Microsoft word",
+      "code": "COSC 101",
+      "url": "https://www.studocu.com/row/course/ahmadu-bello-university/introduction-to-microsoft-word/7203777"
+    },
+    {
+      "name": "Introduction to Mining Engineering",
+      "code": "MMEN 311",
+      "url": "https://www.studocu.com/row/course/ahmadu-bello-university/introduction-to-mining-engineering/6767649"
+    },
+    {
+      "name": "Introduction to Practical Chemistry I",
+      "code": "CHEM 161",
+      "url": "https://www.studocu.com/row/course/ahmadu-bello-university/introduction-to-practical-chemistry-i/6182324"
+    },
+    {
+      "name": "Introduction to programming",
+      "code": "Coen 335",
+      "url": "https://www.studocu.com/row/course/ahmadu-bello-university/introduction-to-programming/6144269"
+    },
+    {
+      "name": "Introduction to Psychology",
+      "code": "PSYC 1504",
+      "url": "https://www.studocu.com/row/course/ahmadu-bello-university/introduction-to-psychology/6656899"
+    },
+    {
+      "name": "Introductory Biotechnology",
+      "code": "BIO 201",
+      "url": "https://www.studocu.com/row/course/ahmadu-bello-university/introductory-biotechnology/6376610"
+    },
+    {
+      "name": "Introductory Plant biology",
+      "code": "Biol 111",
+      "url": "https://www.studocu.com/row/course/ahmadu-bello-university/introductory-plant-biology/5317447"
+    },
+    {
+      "name": "Introductory Statistics",
+      "code": "AGRC 311",
+      "url": "https://www.studocu.com/row/course/ahmadu-bello-university/introductory-statistics/5917150"
+    },
+    {
+      "name": "Invertebrate",
+      "code": "ZOOL 231",
+      "url": "https://www.studocu.com/row/course/ahmadu-bello-university/invertebrate/7566750"
+    },
+    {
+      "name": "Issues In Development",
+      "code": "PADM412",
+      "url": "https://www.studocu.com/row/course/ahmadu-bello-university/issues-in-development/5358546"
+    },
+    {
+      "name": "Jamb past q",
+      "code": "Jamb2023",
+      "url": "https://www.studocu.com/row/course/ahmadu-bello-university/jamb-past-q/6387136"
+    },
+    {
+      "name": "Kindergarten  methodology",
+      "code": "KGT 1001",
+      "url": "https://www.studocu.com/row/course/ahmadu-bello-university/kindergarten-methodology/5119362"
+    },
+    {
+      "name": "Law enforement and criminal justice",
+      "code": "MLCJ 804",
+      "url": "https://www.studocu.com/row/course/ahmadu-bello-university/law-enforement-and-criminal-justice/6656040"
+    },
+    {
+      "name": "Law of Tort",
+      "code": "LWPR301",
+      "url": "https://www.studocu.com/row/course/ahmadu-bello-university/law-of-tort/6019871"
+    },
+    {
+      "name": "Legal Drafting and conveyancing",
+      "code": "LWPR 409",
+      "url": "https://www.studocu.com/row/course/ahmadu-bello-university/legal-drafting-and-conveyancing/6145499"
+    },
+    {
+      "name": "Legal method",
+      "code": "Lwpu 102",
+      "url": "https://www.studocu.com/row/course/ahmadu-bello-university/legal-method/7096698"
+    },
+    {
+      "name": "Legal system",
+      "code": "LWPU201",
+      "url": "https://www.studocu.com/row/course/ahmadu-bello-university/legal-system/3749805"
+    },
+    {
+      "name": "library science",
+      "code": "lib 321",
+      "url": "https://www.studocu.com/row/course/ahmadu-bello-university/library-science/4818645"
+    },
+    {
+      "name": "Limnology",
+      "code": "Zoo 411",
+      "url": "https://www.studocu.com/row/course/ahmadu-bello-university/limnology/4366731"
+    },
+    {
+      "name": "Linear momentum",
+      "code": "PHY132",
+      "url": "https://www.studocu.com/row/course/ahmadu-bello-university/linear-momentum/5398905"
+    },
+    {
+      "name": "Macroeconomic",
+      "code": "ECON 802",
+      "url": "https://www.studocu.com/row/course/ahmadu-bello-university/macroeconomic/4701482"
+    },
+    {
+      "name": "management Accounting",
+      "code": "ACC 415",
+      "url": "https://www.studocu.com/row/course/ahmadu-bello-university/management-accounting/3769243"
+    },
+    {
+      "name": "Management and Organisational Behaviour",
+      "code": "BUAD 819",
+      "url": "https://www.studocu.com/row/course/ahmadu-bello-university/management-and-organisational-behaviour/3697753"
+    },
+    {
+      "name": "Management Theory and Practice",
+      "code": "BUAD 801",
+      "url": "https://www.studocu.com/row/course/ahmadu-bello-university/management-theory-and-practice/4475116"
+    },
+    {
+      "name": "Managerial Economics",
+      "code": "BUAD 805",
+      "url": "https://www.studocu.com/row/course/ahmadu-bello-university/managerial-economics/4475122"
+    },
+    {
+      "name": "managerial finance",
+      "code": "buad 839",
+      "url": "https://www.studocu.com/row/course/ahmadu-bello-university/managerial-finance/4386484"
+    },
+    {
+      "name": "Managerial Problem Solving",
+      "code": "BUAD 843",
+      "url": "https://www.studocu.com/row/course/ahmadu-bello-university/managerial-problem-solving/4515984"
+    },
+    {
+      "name": "Marketing Strategy",
+      "code": "MKT 6080",
+      "url": "https://www.studocu.com/row/course/ahmadu-bello-university/marketing-strategy/6783892"
+    },
+    {
+      "name": "Mechanical Engineering",
+      "code": "Meen 305",
+      "url": "https://www.studocu.com/row/course/ahmadu-bello-university/mechanical-engineering/3734512"
+    },
+    {
+      "name": "Mechanics and properties",
+      "code": "PHYS 111",
+      "url": "https://www.studocu.com/row/course/ahmadu-bello-university/mechanics-and-properties/7600761"
+    },
+    {
+      "name": "Medical Biochemistry",
+      "code": "MBCH 200",
+      "url": "https://www.studocu.com/row/course/ahmadu-bello-university/medical-biochemistry/7275934"
+    },
+    {
+      "name": "Medical Mycology",
+      "code": "MCB 308",
+      "url": "https://www.studocu.com/row/course/ahmadu-bello-university/medical-mycology/3242088"
+    },
+    {
+      "name": "Medical Parasitology II",
+      "code": "MICR477*",
+      "url": "https://www.studocu.com/row/course/ahmadu-bello-university/medical-parasitology-ii/6840387"
+    },
+    {
+      "name": "Medicine and Surgery",
+      "code": "4366",
+      "url": "https://www.studocu.com/row/course/ahmadu-bello-university/medicine-and-surgery/7483502"
+    },
+    {
+      "name": "Membrane Biochemistry",
+      "code": "Bchm424",
+      "url": "https://www.studocu.com/row/course/ahmadu-bello-university/membrane-biochemistry/5317784"
+    },
+    {
+      "name": "Metabolism of carbohydrate",
+      "code": "Bchm 413",
+      "url": "https://www.studocu.com/row/course/ahmadu-bello-university/metabolism-of-carbohydrate/5317553"
+    },
+    {
+      "name": "Metabolism of drugs and xenobiotics",
+      "code": "Bchm 423",
+      "url": "https://www.studocu.com/row/course/ahmadu-bello-university/metabolism-of-drugs-and-xenobiotics/5317526"
+    },
+    {
+      "name": "Micro economics",
+      "code": "buad 261",
+      "url": "https://www.studocu.com/row/course/ahmadu-bello-university/micro-economics/7652860"
+    },
+    {
+      "name": "Microeconomics",
+      "code": "ECON 801",
+      "url": "https://www.studocu.com/row/course/ahmadu-bello-university/microeconomics/4701477"
+    },
+    {
+      "name": "Modern Physics",
+      "code": "Phys252",
+      "url": "https://www.studocu.com/row/course/ahmadu-bello-university/modern-physics/6337193"
+    },
+    {
+      "name": "Nationalism",
+      "code": "GST 101",
+      "url": "https://www.studocu.com/row/course/ahmadu-bello-university/nationalism/5358540"
+    },
+    {
+      "name": "Nigerian Fiction",
+      "code": "LITT 801",
+      "url": "https://www.studocu.com/row/course/ahmadu-bello-university/nigerian-fiction/7648341"
+    },
+    {
+      "name": "Nigerian History",
+      "code": "HIST301",
+      "url": "https://www.studocu.com/row/course/ahmadu-bello-university/nigerian-history/6079513"
+    },
+    {
+      "name": "Non-communicable Disease Epidemiology",
+      "code": "COMM 821",
+      "url": "https://www.studocu.com/row/course/ahmadu-bello-university/non-communicable-disease-epidemiology/6593906"
+    },
+    {
+      "name": "Nutritional biochemistry",
+      "code": "Bchm425",
+      "url": "https://www.studocu.com/row/course/ahmadu-bello-university/nutritional-biochemistry/5317472"
+    },
+    {
+      "name": "Operation research",
+      "code": "Acc312",
+      "url": "https://www.studocu.com/row/course/ahmadu-bello-university/operation-research/7552237"
+    },
+    {
+      "name": "Option, Futures and Derivatives",
+      "code": "Bus 821",
+      "url": "https://www.studocu.com/row/course/ahmadu-bello-university/option-futures-and-derivatives/3245536"
+    },
+    {
+      "name": "Organic spectroscopy",
+      "code": "Chem333",
+      "url": "https://www.studocu.com/row/course/ahmadu-bello-university/organic-spectroscopy/5317524"
+    },
+    {
+      "name": "Petroleum Technology",
+      "code": "CHEN 516",
+      "url": "https://www.studocu.com/row/course/ahmadu-bello-university/petroleum-technology/7610019"
+    },
+    {
+      "name": "Pharmaceutical chemistry",
+      "code": "Pch 503",
+      "url": "https://www.studocu.com/row/course/ahmadu-bello-university/pharmaceutical-chemistry/7043945"
+    },
+    {
+      "name": "pharmacy",
+      "code": "PHCP 501",
+      "url": "https://www.studocu.com/row/course/ahmadu-bello-university/pharmacy/5737095"
+    },
+    {
+      "name": "Physical Pharmacy",
+      "code": "PHCT 202",
+      "url": "https://www.studocu.com/row/course/ahmadu-bello-university/physical-pharmacy/6959544"
+    },
+    {
+      "name": "Polymer and Textile Engineering",
+      "code": "Chem 161",
+      "url": "https://www.studocu.com/row/course/ahmadu-bello-university/polymer-and-textile-engineering/3784912"
+    },
+    {
+      "name": "powder metallurgy",
+      "code": "mmen 533",
+      "url": "https://www.studocu.com/row/course/ahmadu-bello-university/powder-metallurgy/6767646"
+    },
+    {
+      "name": "primary health care and public health",
+      "code": "NURS502",
+      "url": "https://www.studocu.com/row/course/ahmadu-bello-university/primary-health-care-and-public-health/6444763"
+    },
+    {
+      "name": "Principle of Economics",
+      "code": "ECON 1580",
+      "url": "https://www.studocu.com/row/course/ahmadu-bello-university/principle-of-economics/6946814"
+    },
+    {
+      "name": "Principles of Accounting",
+      "code": "BUAD 803",
+      "url": "https://www.studocu.com/row/course/ahmadu-bello-university/principles-of-accounting/4591565"
+    },
+    {
+      "name": "Process Modeling, Simulation and scale-up",
+      "code": "Chen503",
+      "url": "https://www.studocu.com/row/course/ahmadu-bello-university/process-modeling-simulation-and-scale-up/7504937"
+    },
+    {
+      "name": "Production and Operation Management",
+      "code": "BUAD 802",
+      "url": "https://www.studocu.com/row/course/ahmadu-bello-university/production-and-operation-management/3722812"
+    },
+    {
+      "name": "Project Analysis and Management",
+      "code": "PADM402",
+      "url": "https://www.studocu.com/row/course/ahmadu-bello-university/project-analysis-and-management/5358543"
+    },
+    {
+      "name": "Project management",
+      "code": "ATEN 411",
+      "url": "https://www.studocu.com/row/course/ahmadu-bello-university/project-management/6002261"
+    },
+    {
+      "name": "Public Enterprises Management",
+      "code": "PADM406",
+      "url": "https://www.studocu.com/row/course/ahmadu-bello-university/public-enterprises-management/5358548"
+    },
+    {
+      "name": "Research Methodology",
+      "code": "COMM 803",
+      "url": "https://www.studocu.com/row/course/ahmadu-bello-university/research-methodology/6435639"
+    },
+    {
+      "name": "Research project",
+      "code": "Edss 403",
+      "url": "https://www.studocu.com/row/course/ahmadu-bello-university/research-project/5723543"
+    },
+    {
+      "name": "Romans preliminary.",
+      "code": "RPM201",
+      "url": "https://www.studocu.com/row/course/ahmadu-bello-university/romans-preliminary/7277616"
+    },
+    {
+      "name": "Safety Education",
+      "code": "Phed 216",
+      "url": "https://www.studocu.com/row/course/ahmadu-bello-university/safety-education/5723529"
+    },
+    {
+      "name": "Seed Testing and Quality Control",
+      "code": "PLSC736",
+      "url": "https://www.studocu.com/row/course/ahmadu-bello-university/seed-testing-and-quality-control/6327071"
+    },
+    {
+      "name": "Seminar Paper",
+      "code": "BUAD 884",
+      "url": "https://www.studocu.com/row/course/ahmadu-bello-university/seminar-paper/5844652"
+    },
+    {
+      "name": "Social and Political Philosophy",
+      "code": "PHIL812",
+      "url": "https://www.studocu.com/row/course/ahmadu-bello-university/social-and-political-philosophy/7135812"
+    },
+    {
+      "name": "social science",
+      "code": "chm132",
+      "url": "https://www.studocu.com/row/course/ahmadu-bello-university/social-science/5804736"
+    },
+    {
+      "name": "Sociology",
+      "code": "SCLG103",
+      "url": "https://www.studocu.com/row/course/ahmadu-bello-university/sociology/7412631"
+    },
+    {
+      "name": "Solar generators",
+      "code": "ELECT 101",
+      "url": "https://www.studocu.com/row/course/ahmadu-bello-university/solar-generators/6449781"
+    },
+    {
+      "name": "Solid State Physics",
+      "code": "PHYs 343",
+      "url": "https://www.studocu.com/row/course/ahmadu-bello-university/solid-state-physics/6337186"
+    },
+    {
+      "name": "strategic management",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/ahmadu-bello-university/strategic-management/4032097"
+    },
+    {
+      "name": "Strength of materials",
+      "code": "MEEN 204",
+      "url": "https://www.studocu.com/row/course/ahmadu-bello-university/strength-of-materials/7081632"
+    },
+    {
+      "name": "Strength of Materials",
+      "code": "MEEN405",
+      "url": "https://www.studocu.com/row/course/ahmadu-bello-university/strength-of-materials/5984164"
+    },
+    {
+      "name": "Systemic Pharmacology",
+      "code": "PHCL 302",
+      "url": "https://www.studocu.com/row/course/ahmadu-bello-university/systemic-pharmacology/7380235"
+    },
+    {
+      "name": "Technology Operations Management",
+      "code": "OPM6090",
+      "url": "https://www.studocu.com/row/course/ahmadu-bello-university/technology-operations-management/6783895"
+    },
+    {
+      "name": "Technology Operations Managment",
+      "code": "OPM6090",
+      "url": "https://www.studocu.com/row/course/ahmadu-bello-university/technology-operations-managment/6783025"
+    },
+    {
+      "name": "The Radical Consequences of Respiration: Reactive Oxygen Species in Aging and Disease",
+      "code": null,
+      "url": "https://www.studocu.com/row/course/ahmadu-bello-university/the-radical-consequences-of-respiration-reactive-oxygen-species-in-aging-and-disease/6327804"
+    },
+    {
+      "name": "Theory of structure",
+      "code": "CEC 405",
+      "url": "https://www.studocu.com/row/course/ahmadu-bello-university/theory-of-structure/7729451"
+    },
+    {
+      "name": "Thermodynamics",
+      "code": "Meen 208",
+      "url": "https://www.studocu.com/row/course/ahmadu-bello-university/thermodynamics/4533661"
+    },
+    {
+      "name": "Trianing Methods in health promotion and education",
+      "code": "COMM 871",
+      "url": "https://www.studocu.com/row/course/ahmadu-bello-university/trianing-methods-in-health-promotion-and-education/7373778"
+    },
+    {
+      "name": "Typology of texts in translation",
+      "code": "FRNC 403",
+      "url": "https://www.studocu.com/row/course/ahmadu-bello-university/typology-of-texts-in-translation/7686511"
+    },
+    {
+      "name": "Urban and regional planning",
+      "code": "Urpl 401",
+      "url": "https://www.studocu.com/row/course/ahmadu-bello-university/urban-and-regional-planning/7021846"
+    },
+    {
+      "name": "Women Writing",
+      "code": "LITT 817",
+      "url": "https://www.studocu.com/row/course/ahmadu-bello-university/women-writing/7648336"
+    },
+    {
+      "name": "Workshop in Public Administration",
+      "code": "PADM405",
+      "url": "https://www.studocu.com/row/course/ahmadu-bello-university/workshop-in-public-administration/5358545"
+    },
+    {
+      "name": "Workshop In Public Administration II",
+      "code": "PADM410",
+      "url": "https://www.studocu.com/row/course/ahmadu-bello-university/workshop-in-public-administration-ii/5358547"
+    }
+  ]
+}
