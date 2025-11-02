@@ -14,6 +14,7 @@ import {
 } from '@/components/ui/dropdown-menu';
 import { useToast } from '@/hooks/use-toast';
 import { waitForGoogleScript, initGoogleId, renderGoogleButton } from '@/lib/googleAuth';
+import { CanvasAPI } from '@/lib/api';
 // (Drawer imports removed: not used)
 
 type StoredUser = {
@@ -77,6 +78,28 @@ export const Topbar = () => {
     const time = clockHovered ? `${h}:${m}:${s}` : `${h}:${m}`;
     return { prefix: `${weekday}, ${month} ${day} • ${time} • `, week: wk };
   })();
+
+  // Active canvas name (when inside a canvas route)
+  const [activeCanvasName, setActiveCanvasName] = useState<string | null>(null);
+  useEffect(() => {
+    const fetchName = async () => {
+      try {
+        const id = (window as any).learnableActiveGraphId as number | null;
+        const token = localStorage.getItem('learnableToken') || '';
+        if (!id || !token) { setActiveCanvasName(null); return; }
+        const c = await CanvasAPI.getCanvas(token, Number(id));
+        setActiveCanvasName((c?.name || '').trim() || 'Untitled');
+      } catch { setActiveCanvasName(null); }
+    };
+    const onChange = () => { void fetchName(); };
+    void fetchName();
+    window.addEventListener('learnable-active-canvas-changed', onChange as EventListener);
+    window.addEventListener('learnable-auth-changed', onChange as EventListener);
+    return () => {
+      window.removeEventListener('learnable-active-canvas-changed', onChange as EventListener);
+      window.removeEventListener('learnable-auth-changed', onChange as EventListener);
+    };
+  }, []);
 
   // Read user
   const refreshUserFromStorage = () => {
@@ -253,7 +276,7 @@ export const Topbar = () => {
             role="button"
             onClick={() => {
               const token = localStorage.getItem('learnableToken');
-              navigate(token ? '/my-graphs' : '/');
+              navigate(token ? '/my-canvases' : '/');
             }}
           >
             <span className="inline-flex items-center justify-center bg-[#1E52F1] rounded w-[28px] h-[28px]">
@@ -264,9 +287,9 @@ export const Topbar = () => {
           {currentUser && (
             <button
               className="hidden xl:inline-flex px-3 py-1.5 text-xs border border-[#272725] rounded-md text-[#C5C1BA] hover:bg-[#272725]"
-              onClick={() => navigate('/my-graphs')}
+              onClick={() => navigate('/my-canvases')}
             >
-              My Learning Graphs
+              My Canvases
             </button>
           )}
           <button
@@ -277,12 +300,15 @@ export const Topbar = () => {
           </button>
         </div>
 
-        {/* Center Clock */}
+        {/* Center: Canvas name + Clock */}
         <div
           className="hidden xl:block absolute left-1/2 -translate-x-1/2 text-[#C5C1BA] text-xs select-none"
           onMouseEnter={() => setClockHovered(true)}
           onMouseLeave={() => setClockHovered(false)}
         >
+          {activeCanvasName && (
+            <span className="mr-2 text-[#E5E3DF] font-medium">{activeCanvasName}</span>
+          )}
           {centerClock.prefix}
           <a
             href="https://vecka.nu"

@@ -8,7 +8,7 @@ import Settings from "./pages/Settings";
 import Terms from "./pages/Terms";
 import Sub from "./pages/Sub";
 import SubAlias from "./pages/Sub";
-import MyGraphs from "./pages/MyGraphs";
+import MyCanvases from "./pages/MyCanvases";
 import NotFound from "./pages/NotFound";
 import Vision from "./pages/Vision";
 import CookieConsent from "@/components/CookieConsent";
@@ -16,13 +16,13 @@ import Admin from "./pages/Admin";
 
 const queryClient = new QueryClient();
 
-// Route wrapper: if a user is signed in, redirect "/" to "/my-graphs".
+// Route wrapper: if a user is signed in, redirect "/" to "/my-canvases".
 const HomeRoute = () => {
   let authed = false;
   try {
     authed = !!localStorage.getItem("learnableToken");
   } catch {}
-  return authed ? <Navigate to="/my-graphs" replace /> : <Index />;
+  return authed ? <Navigate to="/my-canvases" replace /> : <Index />;
 };
 
 const App = () => (
@@ -38,8 +38,8 @@ const App = () => (
           <Route path="/terms" element={<Terms />} />
           <Route path="/sub" element={<Sub />} />
           <Route path="/subs" element={<SubAlias />} />
-          <Route path="/my-graphs" element={<MyGraphs />} />
-          <Route path="/my-graphs/:graphId" element={<Index />} />
+          <Route path="/my-canvases" element={<MyCanvases />} />
+          <Route path="/my-canvases/:canvasId" element={<Index />} />
           <Route path="/vision" element={<Vision />} />
           <Route path="/admin" element={<Admin />} />
           {/* ADD ALL CUSTOM ROUTES ABOVE THE CATCH-ALL "*" ROUTE */}

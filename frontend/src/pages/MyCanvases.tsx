@@ -7,15 +7,15 @@ import { Switch } from '@/components/ui/switch';
 import { Tooltip, TooltipContent, TooltipProvider, TooltipTrigger } from '@/components/ui/tooltip';
 import { useToast } from '@/hooks/use-toast';
 import { useNavigate } from 'react-router-dom';
+import { CanvasAPI } from '@/lib/api';
+import type { Canvas } from '@/types/api';
 import { useEffect, useMemo, useState } from 'react';
 import { ArrowDown, ArrowUp, Share, Network, MoreVertical } from 'lucide-react';
 
-const MyGraphs = () => {
+const MyCanvases = () => {
   const currentYear = new Date().getFullYear();
   const { toast } = useToast();
   const navigate = useNavigate();
-  const apiBaseUrl = import.meta.env.VITE_API_BASE_URL ?? 'http://localhost:5000';
-
   const [graphs, setGraphs] = useState<any[]>([]);
 
   const formatRelative = (d: Date) => {
@@ -36,12 +36,8 @@ const MyGraphs = () => {
       try {
         const token = localStorage.getItem('learnableToken');
         if (!token) return;
-        const res = await fetch(`${apiBaseUrl}/api/graph/graphs`, {
-          headers: { Authorization: `Bearer ${token}` },
-        });
-        const data = await res.json();
-        if (!res.ok) throw new Error(data.error || 'Failed to load graphs');
-        const items = data.map((g: any) => ({
+        const data = await CanvasAPI.listCanvases(token);
+        const items = (data as Canvas[]).map((g) => ({
           id: String(g.id),
           name: g.name || 'Untitled',
           updatedAt: new Date((g.updated_at || 0) * 1000),
@@ -58,7 +54,7 @@ const MyGraphs = () => {
       }
     };
     void loadGraphs();
-  }, [apiBaseUrl]);
+  }, []);
 
   const [orderBy, setOrderBy] = useState<'newest' | 'oldest'>('newest');
   const ordered = useMemo(() => {
@@ -74,7 +70,7 @@ const MyGraphs = () => {
   const [shareGraphId, setShareGraphId] = useState<string | null>(null);
   const [invitees, setInvitees] = useState<string[]>([]);
   const [query, setQuery] = useState('');
-  const shareUrlFor = (id: string) => `${window.location.origin}/my-graphs/${id}`;
+  const shareUrlFor = (id: string) => `${window.location.origin}/my-canvases/${id}`;
   const copyShareLink = async (id: string) => {
     try {
       await navigator.clipboard.writeText(shareUrlFor(id));
@@ -88,22 +84,30 @@ const MyGraphs = () => {
     try {
       const token = localStorage.getItem('learnableToken');
       if (!token) return;
-      const res = await fetch(`${apiBaseUrl}/api/graph/graphs`, {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json', Authorization: `Bearer ${token}` },
-        body: JSON.stringify({ name: `New Graph ${graphs.length + 1}` }),
-      });
-      const g = await res.json();
-      if (!res.ok) throw new Error(g.error || 'Failed');
-      const updatedAt = new Date((g.updated_at || 0) * 1000);
+      const g = await CanvasAPI.createCanvas(token, `New Canvas ${graphs.length + 1}`);
+      const updatedAt = new Date(((g as any).updated_at || 0) * 1000);
       setGraphs((prev) => [
         { id: String(g.id), name: g.name, updatedAt, updatedLabel: formatRelative(updatedAt), notes: 0, shared: 0, questions: 0, tokensUsed: 0 },
         ...prev,
       ]);
-      toast({ description: 'Graph created successfully.' });
+      toast({ description: 'Canvas created successfully.' });
     } catch {
-      toast({ description: 'Error creating graph.', variant: 'destructive' });
+      toast({ description: 'Error creating canvas.', variant: 'destructive' });
     }
+  };
+
+  // Inline rename state
+  const [editingId, setEditingId] = useState<string | null>(null);
+  const [editingVal, setEditingVal] = useState<string>('');
+  const startEdit = (id: string, name: string) => { setEditingId(id); setEditingVal(name); };
+  const cancelEdit = () => { setEditingId(null); setEditingVal(''); };
+  const commitEdit = async () => {
+    if (!editingId) return;
+    const name = editingVal.trim() || 'Untitled';
+    setGraphs((prev) => prev.map((g) => (g.id === editingId ? { ...g, name } : g)));
+    const token = localStorage.getItem('learnableToken') || '';
+    try { if (token) await CanvasAPI.updateCanvas(token, Number(editingId), { name }); } catch {}
+    setEditingId(null); setEditingVal('');
   };
 
   const [deleteOpen, setDeleteOpen] = useState(false);
@@ -114,7 +118,7 @@ const MyGraphs = () => {
     if (!deleteTarget || deleteText.trim() !== deleteTarget.name) return;
     setGraphs((prev) => prev.filter((g) => g.id !== deleteTarget.id));
     setDeleteOpen(false);
-    toast({ description: 'Graph deleted (demo only).' });
+    toast({ description: 'Canvas deleted (demo only).' });
   };
 
   return (
@@ -124,10 +128,10 @@ const MyGraphs = () => {
         <div className="max-w-5xl mx-auto p-6">
           <div className="flex items-start justify-between">
             <div>
-              <h1 className="text-[#E5E3DF] text-xl font-semibold">My Learning Graphs</h1>
-              <p className="text-[#B5B2AC] text-sm mt-2">View and manage your saved learning graphs here.</p>
+              <h1 className="text-[#E5E3DF] text-xl font-semibold">My Canvases</h1>
+              <p className="text-[#B5B2AC] text-sm mt-2">View and manage your saved canvases here.</p>
             </div>
-            <Button className="bg-[#1E52F1]" onClick={addGraph}>Add Graph</Button>
+            <Button className="bg-[#1E52F1]" onClick={addGraph}>Add Canvas</Button>
           </div>
 
           <div className="flex justify-end mt-4 text-xs text-[#C5C1BA] gap-2">
@@ -147,7 +151,24 @@ const MyGraphs = () => {
                 <CardHeader className="pt-6 pb-0 flex justify-between">
                   <div className="flex items-center gap-2">
                     <Network className="h-4 w-4 text-[#C5C1BA]" />
-                    <span className="text-[#E5E3DF] text-lg">{g.name}</span>
+                    {editingId === g.id ? (
+                      <Input
+                        autoFocus
+                        value={editingVal}
+                        onChange={(e) => setEditingVal(e.target.value)}
+                        onBlur={commitEdit}
+                        onKeyDown={(e) => { if (e.key === 'Enter') commitEdit(); if (e.key === 'Escape') cancelEdit(); }}
+                        className="h-7 bg-[#1C1C1C] border-[#2A2A28] text-[#E5E3DF] px-2 py-0"
+                      />
+                    ) : (
+                      <span
+                        className="text-[#E5E3DF] text-lg cursor-text"
+                        onDoubleClick={() => startEdit(g.id, g.name)}
+                        title="Double‑click to rename"
+                      >
+                        {g.name}
+                      </span>
+                    )}
                   </div>
                   <div className="text-xs text-[#B5B2AC]">{g.updatedLabel}</div>
                 </CardHeader>
@@ -173,7 +194,7 @@ const MyGraphs = () => {
                     />
                   </div>
                   <div className="flex gap-2">
-                    <Button variant="outline" className="text-xs" onClick={() => navigate(`/my-graphs/${g.id}`)}>Open</Button>
+                    <Button variant="outline" className="text-xs" onClick={() => navigate(`/my-canvases/${g.id}`)}>Open</Button>
                     <Button
                       className="text-xs bg-[#2A2A28] hover:bg-[#33332F] text-[#C5C1BA]"
                       onClick={() => { setShareGraphId(g.id); setShareOpen(true); }}
@@ -198,17 +219,17 @@ const MyGraphs = () => {
         </div>
       </main>
 
-      {/* Delete Graph Dialog */}
+      {/* Delete Canvas Dialog */}
       <Dialog open={deleteOpen} onOpenChange={setDeleteOpen}>
         <DialogContent className="max-w-sm bg-[#1C1C1C] text-[#C5C1BA] border border-[#272725]">
           <DialogHeader>
-            <DialogTitle>Delete Graph</DialogTitle>
-            <DialogDescription>Type the graph name to confirm.</DialogDescription>
+            <DialogTitle>Delete Canvas</DialogTitle>
+            <DialogDescription>Type the canvas name to confirm.</DialogDescription>
           </DialogHeader>
           <Input
             value={deleteText}
             onChange={(e) => setDeleteText(e.target.value)}
-            placeholder="Type graph name"
+            placeholder="Type canvas name"
             className="bg-[#1C1C1C] border-[#2A2A28]"
           />
           <DialogFooter>
@@ -224,12 +245,12 @@ const MyGraphs = () => {
         </DialogContent>
       </Dialog>
 
-      {/* Share Graph Dialog */}
+      {/* Share Canvas Dialog */}
       <Dialog open={shareOpen} onOpenChange={setShareOpen}>
         <DialogContent className="max-w-sm bg-[#1C1C1C] text-[#C5C1BA] border border-[#272725]">
           <DialogHeader>
-            <DialogTitle>Share Learning Graph</DialogTitle>
-            <DialogDescription>Copy a link to share this graph.</DialogDescription>
+            <DialogTitle>Share Canvas</DialogTitle>
+            <DialogDescription>Copy a link to share this canvas.</DialogDescription>
           </DialogHeader>
           <div className="space-y-3">
             {shareGraphId && (
@@ -259,4 +280,4 @@ const MyGraphs = () => {
   );
 };
 
-export default MyGraphs;
+export default MyCanvases;

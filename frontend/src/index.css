@@ -132,4 +132,17 @@ All colors MUST be HSL.
   *::-webkit-scrollbar-thumb:hover {
     background: #b0aca5;
   }
+
+  /* Sidebar scroll areas: show scrollbar only when needed */
+  .sidebar-scroll {
+    scrollbar-gutter: auto;
+  }
+
+  /* Utility to hide scrollbar but keep scroll functionality */
+  .hide-scrollbar {
+    scrollbar-width: none; /* Firefox */
+  }
+  .hide-scrollbar::-webkit-scrollbar { /* Chrome/Safari */
+    display: none;
+  }
 }

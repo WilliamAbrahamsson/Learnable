@@ -1,6 +1,7 @@
 from extensions import db
 from time import time
 
+
 class ChatMessage(db.Model):
     __tablename__ = "chat_message"
 
@@ -10,7 +11,7 @@ class ChatMessage(db.Model):
     is_response = db.Column(db.Boolean, default=False, nullable=False)
     is_liked = db.Column(db.Boolean, default=False, nullable=False)
     is_disliked = db.Column(db.Boolean, default=False, nullable=False)
-    created_at = db.Column(db.Integer, default=lambda: int(time()), nullable=False)
+    created_at = db.Column(db.Integer, nullable=False, default=lambda: int(time()))
 
     def to_dict(self):
         return {

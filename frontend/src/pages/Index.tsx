@@ -1,9 +1,9 @@
 import { useState, useRef, useEffect } from 'react';
 import { useNavigate, useParams } from 'react-router-dom';
 import { Chat } from '@/components/Chat';
-import { CardCanvas } from '@/components/CardCanvas';
+import { Canvas } from '@/components/canvas/Canvas';
 import { Topbar } from '@/components/Topbar';
-import { Columns2 } from 'lucide-react';
+import { PanelRightOpen, PanelRightClose } from 'lucide-react';
 import { Switch } from '@/components/ui/switch';
 import { Button } from '@/components/ui/button';
 import { Tooltip, TooltipContent, TooltipProvider, TooltipTrigger } from '@/components/ui/tooltip';
@@ -97,19 +97,23 @@ const Index = () => {
 
   const params = useParams();
   const activeGraphId = (() => {
-    const gid = params as any;
-    const v = (gid?.graphId as string) || '';
+    const p = params as any;
+    const v = (p?.canvasId as string) || (p?.graphId as string) || '';
     const n = Number(v);
     return Number.isFinite(n) ? n : null;
   })();
-  try { (window as any).learnableActiveGraphId = activeGraphId; } catch {}
+  try {
+    (window as any).learnableActiveGraphId = activeGraphId;
+    const ev = new Event('learnable-active-canvas-changed');
+    window.dispatchEvent(ev);
+  } catch {}
 
-  // If visiting "/" while signed in, redirect to /my-graphs
+  // If visiting "/" while signed in, redirect to /my-canvases
   useEffect(() => {
     if (activeGraphId !== null) return; // allow graph view
     try {
       const token = localStorage.getItem('learnableToken');
-      if (token) navigate('/my-graphs', { replace: true });
+      if (token) navigate('/my-canvases', { replace: true });
     } catch {}
   }, [activeGraphId, navigate]);
 
@@ -159,30 +163,30 @@ const Index = () => {
         {/* If not authed, only render chat full width */}
         {isAuthed && (
           <div className="absolute inset-0 bg-[#272725]">
-            <CardCanvas rightOffsetPercent={100 - splitPosition} graphId={activeGraphId} />
+            <Canvas rightOffsetPercent={100 - splitPosition} canvasId={activeGraphId} />
           </div>
         )}
 
-        {/* Divider (draggable) */}
+        {/* Divider (draggable) — full-height slim grab area, no thumb */}
         {isAuthed && !isFullscreen && !isChatCollapsed && !isCanvasCollapsed && (
           <div
-            className="absolute top-0 bottom-0 w-0 cursor-col-resize z-50"
-            style={{ left: `${splitPosition}%` }}
+            className="absolute top-0 bottom-0 cursor-col-resize z-50"
+            style={{ left: `calc(${splitPosition}% - 5px)`, width: '10px' }}
             onMouseDown={handleMouseDown}
-          >
-            <div className="absolute top-1/2 -translate-y-1/2 -translate-x-1/2 w-6 h-12 bg-[#C5C1BA] hover:bg-[#C5C1BA]/80 rounded-full flex items-center justify-center transition-colors shadow">
-              <Columns2 className="w-4 h-4 text-[#1C1C1C]" />
-            </div>
-          </div>
+          />
         )}
 
-        {/* Chat Toggle Button (Right Edge) */}
+        {/* Chat opener (floating, top-right) */}
         {isChatCollapsed && (
           <button
+            onMouseDown={(e) => e.stopPropagation()}
             onClick={toggleChat}
-            className="absolute top-1/2 right-0 -translate-y-1/2 w-6 h-12 bg-[#C5C1BA] hover:bg-[#C5C1BA]/80 rounded-l-full flex items-center justify-center transition-colors z-10"
+            className="absolute top-2 right-2 h-8 px-3 rounded-md bg-[#C5C1BA] hover:bg-[#C5C1BA]/90 flex items-center gap-2 transition-colors shadow z-50"
+            aria-label="Show AI Chat"
+            title="Show AI Chat"
           >
-            <Columns2 className="w-4 h-4 text-[#1C1C1C]" />
+            <span className="text-sm font-medium text-[#1C1C1C]">Show AI Chat</span>
+            <PanelRightOpen className="w-4 h-4 text-[#1C1C1C]" />
           </button>
         )}
 
@@ -190,7 +194,7 @@ const Index = () => {
         {isCanvasCollapsed && (
           <button
             onClick={toggleCanvas}
-            className="absolute top-1/2 left-0 -translate-y-1/2 w-6 h-12 bg-[#C5C1BA] hover:bg-[#C5C1BA]/80 rounded-r-full flex items-center justify-center transition-colors z-10"
+            className="absolute top-1/2 left-0 -translate-y-1/2 w-6 h-12 bg-[#C5C1BA] hover:bg-[#C5C1BA]/80 rounded-none flex items-center justify-center transition-colors z-10"
           >
             <Columns2 className="w-4 h-4 text-[#1C1C1C]" />
           </button>
@@ -203,7 +207,21 @@ const Index = () => {
           }`}
           style={{ width: isAuthed ? `${100 - splitPosition}%` : '100%' }}
         >
-          <div className={`${splitPosition >= 95 ? 'invisible' : 'visible'} h-full`}>
+          {/* Chat header */}
+          <div className="h-8 border-b border-[#272725] relative flex items-center justify-center px-2">
+            <button
+              type="button"
+              onClick={toggleChat}
+              aria-label="Hide chat"
+              title="Hide chat"
+              className="absolute left-2 top-1/2 -translate-y-1/2 w-6 h-6 grid place-items-center hover:opacity-90"
+            >
+              <PanelRightClose className="w-4 h-4 text-[#C5C1BA]" />
+            </button>
+            <div className="text-xs font-medium text-[#C5C1BA]">AI Chat Companion</div>
+          </div>
+          {/* Chat content */}
+          <div className={`${splitPosition >= 95 ? 'invisible' : 'visible'} h-[calc(100%-2rem)]`}>
             <Chat key={activeGraphId ?? 'default'} />
           </div>
         </div>

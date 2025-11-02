@@ -1,6 +1,7 @@
 import { useEffect, useRef, useState } from 'react';
 import { UploadCloud } from 'lucide-react';
 import { useToast } from '@/hooks/use-toast';
+import { CanvasAPI, ChatAPI } from '@/lib/api';
 import { ChatMessageList } from './ChatMessageList';
 import { ChatInput } from './ChatInput';
 import { Message } from './types';
@@ -61,9 +62,7 @@ export const Chat = () => {
         const gid = activeGraphId;
         const token = localStorage.getItem('learnableToken');
         if (!gid || !token) return;
-        const res = await fetch(`${apiBaseUrl}/api/graph/chat?graph_id=${gid}`, { headers: { Authorization: `Bearer ${token}` } });
-        const data = await res.json();
-        if (!res.ok) return; // silently ignore
+        const data = await CanvasAPI.getChatWithMessages(token, gid);
         const items = Array.isArray(data?.messages) ? data.messages : [];
         if (items.length === 0) return;
         const mapped: Message[] = items.map((m: any) => ({
@@ -82,7 +81,7 @@ export const Chat = () => {
   // Fetch assistant response (streaming)
   const fetchAssistantResponse = async (prompt: string, assistantId: string) => {
     try {
-      const response = await fetch(`${apiBaseUrl}/api/chat/stream`, { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify({ message: prompt, graph_id: (window as any).learnableActiveGraphId || undefined }) });
+      const response = await ChatAPI.stream(prompt, (window as any).learnableActiveGraphId || undefined);
       if (!response.ok || !response.body) throw new Error('Failed to fetch');
 
       const reader = response.body.getReader();
@@ -166,43 +165,9 @@ export const Chat = () => {
   };
 
   const handleAcceptProposal = async (messageId: string, payload?: { title: string; description: string }) => {
-    const msg = messages.find((m) => m.id === messageId);
-    if (!msg?.cardContent && !payload) return;
-    const token = localStorage.getItem('learnableToken');
-    if (!token) { toast({ variant: 'destructive', description: 'Please sign in to add notes.' }); return; }
-    try {
-      let name: string;
-      let description: string;
-      if (payload) {
-        name = payload.title?.trim() || 'Card';
-        description = payload.description?.trim() || '';
-      } else {
-        // Fallback for legacy string-only content or non-JSON
-        try {
-          const parsed = JSON.parse(msg.cardContent!);
-          name = String(parsed.title ?? 'Card');
-          description = String(parsed.description ?? '');
-        } catch {
-          name = 'Card';
-          description = msg.cardContent!;
-        }
-      }
-      const res = await fetch(`${apiBaseUrl}/api/graph/notes`, {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json', Authorization: `Bearer ${token}` },
-        body: JSON.stringify({ name, description, graph_id: (window as any).learnableActiveGraphId || undefined }),
-      });
-      if (!res.ok) throw new Error(await res.text());
-      const saved = await res.json();
-      // Notify other parts of the app (e.g., CardCanvas) to reflect the new note immediately
-      try {
-        window.dispatchEvent(new CustomEvent('learnable-note-added', { detail: saved }));
-      } catch { }
-      setMessages((prev) => prev.map((m) => (m.id === messageId ? { ...m, showProposal: false } : m)));
-      toast({ description: 'Added to Learning Graph.' });
-    } catch {
-      toast({ variant: 'destructive', description: 'Failed to add note.' });
-    }
+    // Temporarily disable graph note creation while canvas is reset
+    setMessages((prev) => prev.map((m) => (m.id === messageId ? { ...m, showProposal: false } : m)));
+    toast({ description: 'Canvas is being rebuilt. Card added will be available soon.' });
   };
   const handleDenyProposal = (messageId: string) => setMessages((prev) => prev.map((m) => (m.id === messageId ? { ...m, showProposal: false } : m)));
   const handleCopy = (text: string) => { navigator.clipboard.writeText(text); toast({ description: 'Copied to clipboard', duration: 2000 }); };
